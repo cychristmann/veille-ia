@@ -1,0 +1,23 @@
+[project]
+name = "projet"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "groq>=0.37.1",
+    "langchain>=1.4.7",
+    "langchain-anthropic>=1.7.7",
+    "langchain-core>=1.7.3",
+    "langchain-groq>=1.1.3",
+    "langgraph>=1.2.19",
+    "langsmith>=0.14.16",
+    "python-dotenv>=1.2.4",
+]
+
+[project.scripts]
+projet = "projet:main"
+
+[build-system]
+requires = ["uv_build>=0.13.6,<0.14.0"]
+build-backend = "uv_build"
