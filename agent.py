@@ -1,4 +1,4 @@
-"""Agent ReAct LangGraph : répond à une question à l'aide d'une calculatrice et de l'horloge."""
+"""Agent ReAct LangGraph : répond à une question avec une calculatrice, l'horloge et la météo."""
 
 import argparse
 import ast
@@ -6,6 +6,7 @@ import math
 import operator
 from datetime import datetime
 
+import httpx
 from dotenv import load_dotenv
 from langchain_core.messages import AIMessage, SystemMessage, ToolMessage
 from langchain_core.tools import tool
@@ -17,8 +18,9 @@ MODEL = "openai/gpt-oss-120b"
 
 SYSTEM_PROMPT = (
     "Tu es un assistant qui répond dans la langue de l'utilisateur. "
-    "Utilise toujours l'outil calculatrice pour les calculs et l'outil "
-    "date_heure_actuelles pour la date ou l'heure : ne les devine jamais."
+    "Utilise toujours l'outil calculatrice pour les calculs, l'outil "
+    "date_heure_actuelles pour la date ou l'heure et l'outil meteo pour le "
+    "temps qu'il fait : ne les devine jamais."
 )
 
 MAX_EXPRESSION_LENGTH = 200
@@ -46,6 +48,47 @@ FUNCTIONS = {
 CONSTANTS = {"pi": math.pi, "e": math.e}
 
 JOURS = ("lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche")
+
+# Open-Meteo : service météo gratuit, sans compte ni clé API.
+# httpx plutôt qu'urllib : il vérifie les certificats avec certifi, alors que les
+# certificats utilisés par défaut par Python sur cette machine rejettent (à tort,
+# « expiré ») celui d'api.open-meteo.com.
+GEOCODING_URL = "https://geocoding-api.open-meteo.com/v1/search"
+FORECAST_URL = "https://api.open-meteo.com/v1/forecast"
+HTTP_TIMEOUT = 10  # secondes
+JOURS_PREVISION = 3
+
+# Codes météo WMO renvoyés par Open-Meteo.
+CODES_METEO = {
+    0: "ciel dégagé",
+    1: "plutôt dégagé",
+    2: "partiellement nuageux",
+    3: "couvert",
+    45: "brouillard",
+    48: "brouillard givrant",
+    51: "bruine légère",
+    53: "bruine modérée",
+    55: "bruine dense",
+    56: "bruine verglaçante légère",
+    57: "bruine verglaçante dense",
+    61: "pluie faible",
+    63: "pluie modérée",
+    65: "pluie forte",
+    66: "pluie verglaçante faible",
+    67: "pluie verglaçante forte",
+    71: "neige faible",
+    73: "neige modérée",
+    75: "neige forte",
+    77: "grains de neige",
+    80: "averses faibles",
+    81: "averses modérées",
+    82: "averses violentes",
+    85: "averses de neige faibles",
+    86: "averses de neige fortes",
+    95: "orage",
+    96: "orage avec grêle faible",
+    99: "orage avec grêle forte",
+}
 
 
 def _safe_pow(base: int | float, exponent: int | float) -> int | float:
@@ -105,7 +148,67 @@ def date_heure_actuelles() -> str:
     return f"{JOURS[now.weekday()]} {now.isoformat(timespec='seconds')}"
 
 
-TOOLS = [calculatrice, date_heure_actuelles]
+def _get_json(url: str, params: dict) -> dict:
+    response = httpx.get(url, params=params, timeout=HTTP_TIMEOUT)
+    response.raise_for_status()
+    return response.json()
+
+
+def _decrire(code: int | None) -> str:
+    return CODES_METEO.get(code, f"code météo {code}")
+
+
+@tool
+def meteo(ville: str) -> str:
+    """Donne la météo actuelle et les prévisions des 3 prochains jours pour une ville.
+
+    Indiquer le nom de la ville seul, par exemple « Lyon » ou « Montréal ».
+    """
+    lieux = _get_json(
+        GEOCODING_URL, {"name": ville, "count": 1, "language": "fr", "format": "json"}
+    ).get("results")
+    if not lieux:
+        raise ValueError(f"Ville introuvable : {ville}")
+    lieu = lieux[0]
+
+    data = _get_json(
+        FORECAST_URL,
+        {
+            "latitude": lieu["latitude"],
+            "longitude": lieu["longitude"],
+            "current": "temperature_2m,apparent_temperature,relative_humidity_2m,"
+            "precipitation,weather_code,wind_speed_10m",
+            "daily": "weather_code,temperature_2m_max,temperature_2m_min,"
+            "precipitation_probability_max",
+            "timezone": "auto",
+            "forecast_days": JOURS_PREVISION,
+        },
+    )
+    now, daily = data["current"], data["daily"]
+
+    # La région et le pays permettent au modèle de repérer une homonymie (Paris, Texas).
+    region = ", ".join(p for p in (lieu.get("admin1"), lieu.get("country")) if p)
+    lignes = [
+        f"{lieu['name']} ({region}), heure locale {now['time']}",
+        f"Actuellement : {now['temperature_2m']} °C "
+        f"(ressenti {now['apparent_temperature']} °C), {_decrire(now['weather_code'])}, "
+        f"humidité {now['relative_humidity_2m']} %, vent {now['wind_speed_10m']} km/h, "
+        f"précipitations {now['precipitation']} mm",
+        "Prévisions :",
+    ]
+    for jour, code, t_min, t_max, pluie in zip(
+        daily["time"],
+        daily["weather_code"],
+        daily["temperature_2m_min"],
+        daily["temperature_2m_max"],
+        daily["precipitation_probability_max"],
+    ):
+        risque = f", risque de pluie {pluie} %" if pluie is not None else ""
+        lignes.append(f"- {jour} : {_decrire(code)}, {t_min} à {t_max} °C{risque}")
+    return "\n".join(lignes)
+
+
+TOOLS = [calculatrice, date_heure_actuelles, meteo]
 
 
 def build_graph():
