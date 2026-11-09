@@ -1,0 +1,72 @@
+# Veille IA quotidienne : lance l'agent chaque matin, garde la veille dans le dépôt
+# (historique), puis publie l'app sur GitHub Pages.
+#
+# Secrets à créer dans GitHub (Settings > Secrets and variables > Actions) :
+#   GROQ_API_KEY     obligatoire
+#   YOUTUBE_API_KEY  facultatif (sans lui, la rubrique Vidéos explique comment l'obtenir)
+
+name: Veille IA quotidienne
+
+on:
+  schedule:
+    # 5 h 15 UTC = 6 h 15 à Paris en hiver, 7 h 15 en été.
+    # GitHub peut démarrer une tâche programmée avec un peu de retard.
+    - cron: "15 5 * * *"
+  workflow_dispatch: # bouton « Run workflow » pour lancer une veille à la main
+
+permissions:
+  contents: write # enregistrer la veille du jour dans le dépôt
+  pages: write # publier le site
+  id-token: write # exigé par la publication GitHub Pages
+
+concurrency:
+  group: veille-ia
+  cancel-in-progress: false
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.publication.outputs.page_url }}
+    env:
+      TZ: Europe/Paris # les fichiers de veille portent la date de Paris
+    steps:
+      - name: Récupérer le projet
+        uses: actions/checkout@v4
+
+      - name: Installer uv
+        uses: astral-sh/setup-uv@v6
+
+      - name: Installer les dépendances
+        run: uv sync --locked
+
+      - name: Lancer la veille (France et États-Unis)
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: uv run python agent.py
+
+      - name: Enregistrer la veille dans le dépôt
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add veilles/
+          git diff --cached --quiet || git commit -m "Veille du $(date +%F)"
+          git push
+
+      - name: Construire le site
+        run: uv run python publier.py
+
+      - name: Préparer GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Envoyer le site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Publier
+        id: publication
+        uses: actions/deploy-pages@v4

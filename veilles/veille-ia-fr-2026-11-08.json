@@ -1,0 +1,630 @@
+{
+  "region": "fr",
+  "genere_a": "2026-11-08T23:38:50.778854+01:00",
+  "heures": 24,
+  "nombre_demande": 50,
+  "nombre_articles": 50,
+  "synthese": "Cette veille montre que l'intelligence artificielle continue de s'imposer comme un levier stratégique pour les grands groupes technologiques, qui multiplient les investissements et les projets internes. En parallèle, les questions environnementales liées à la consommation d'énergie des data‑centers suscitent un débat croissant, tout comme les enjeux de régulation et d'impact sociétal, notamment dans le contexte des élections et de la surveillance. Les applications pratiques de l'IA se multiplient, touchant la santé, l'agriculture, le commerce et la création artistique, tandis que la recherche progresse rapidement avec de nouveaux modèles et des débats sur le scaling. L’ensemble reflète une dynamique où IA rime à la fois avec opportunités économiques, défis écologiques et préoccupations éthiques.",
+  "verification": {
+    "problemes": [],
+    "synthese_originale": "Cette veille montre que l'intelligence artificielle continue de s'imposer comme un levier stratégique pour les grands groupes technologiques, qui multiplient les investissements et les projets internes. En parallèle, les questions environnementales liées à la consommation d'énergie des data‑centers suscitent un débat croissant, tout comme les enjeux de régulation et d'impact sociétal, notamment dans le contexte des élections et de la surveillance. Les applications pratiques de l'IA se multiplient, touchant la santé, l'agriculture, le commerce et la création artistique, tandis que la recherche progresse rapidement avec de nouveaux modèles et des débats sur le scaling. L’ensemble reflète une dynamique où IA rime à la fois avec opportunités économiques, défis écologiques et préoccupations éthiques."
+  },
+  "sources_en_echec": [],
+  "themes": [
+    {
+      "nom": "Stratégies d'entreprises et investissements IA",
+      "resume": "De nombreux géants technologiques annoncent des projets, des enquêtes internes ou des investissements massifs autour de l'intelligence artificielle, de Nvidia à Apple en passant par Microsoft et Google.",
+      "articles": [
+        {
+          "titre": "Sexe, espionnage chinois et bulle de l’IA : l’incroyable cocktail qui ébranle le patron de Nvidia",
+          "source": "Le Point",
+          "lien": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeHRyRTVXSmtTZjNMNU1ZRkJjY0NqSjVQY3VIRWhOU2N3bEZNT3ZxMThWM3ZQNk42UFFPcktkaEJNbExqenY5UGJVWlViVS1vQ2VVRUZsdWhJXzEybVctdXpueUpjYnFjMTNVVWpFMlRQdUhyWUpQeE1EX1VrY18xbzBTeF9vNFhlWmhzMmFRQVVHeUcxY3BCV0FxdHhsQ0EtbzUwUkRJS1p3M0pxUmFwanZmV19OWUlDdEtUUDJNcHQ2ZV9UbVdwNUtVbGNkVVREeE5GeHJmQlNyV3d3eHBzVnZuS2NHVUZvakdaOXFNMXE0Nk5v?oc=5",
+          "date": "2026-11-08T22:27:21+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Jackbox Games refuse l'IA générative : « Tout est fait par des humains, et nous n'avons pas l'intention de changer cela »",
+          "source": "big-n.fr",
+          "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUE1ZUFpmSU1BRkQ4TXJmLVpBNllqNHViaWt2d2xpaDhTck5MOEx4UExaOWxYclVxZlc1Qm5wdWxHRlhMR1lTckx6OXQxNUVwcUJlNVl4cDh0V0lKSkpvcGZQVXFjQ0lqcnFBdl9STEFRNzdiRng2VmM2Uk9NdkRHdTFLSQ?oc=5",
+          "date": "2026-11-08T22:19:17+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Google transforme le commerce en ligne avec l’IA",
+          "source": "Mon Carnet – de l'actualité numérique",
+          "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRWxVOWpDYWFvWlFicXlNelQ2UUt4V2RiUlB2SUdxbXdQZW1hWGRxU0xhZllaekhQVjMtaDY5eGZqb21NS2dDRncweU1vTkUxdkNQTDBmcjFtcUNYNlkxbGE1SUZ2cVNiNGxSVEIteWhQQzBtN05vSWVIX3Uydmlxc0VMNFN2a0h2?oc=5",
+          "date": "2026-11-08T21:30:03+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Nvidia lance une enquête sur les liens entre son PDG Jensen Huang et une femme soupçonnée d’être une espionne de Pékin",
+          "source": "Ouest-France",
+          "lien": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQYXo2azNEdWc2UTRnQzZ4VDdMdE9uUjkzRW1VcC1rUlhaUFdTWlBQWjVnMzhhQzBYYjFQcWREenBPb08ycFRwajJjdGFZVy1fc0hpejB3eGwtWFhCbERsMVA2emJMZE1HLTFZeXVhazlrS1BJbHM3YnA5eExCNlJmNGJuelJoLXc3SDlMR01OX0MxOWJHYXdDYm42cjBnU1I1OGtWRzgxX25pYlc1eDhtaXJuNjhjSG00cVl6UXJSMEx0YnA4cXNSMjVBeXpKTFNINm5PQUpYdW1LRWRoQlVLWUJkTWFMbkpZa201OXFNLVNoVWFnRjZIMGF4VFdvTkItaWFmRFlSdk01S05pU0pPRmd0SXRWa1pUVGwteDRHZEw5dmZaTkU1c094dEY3LXZJSlh0cDNtSHZwTE1GZWc?oc=5",
+          "date": "2026-11-08T20:44:18+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Le conseil d’administration de NVIDIA ouvre une enquête après des informations faisant état d’une opération de renseignement étrangère",
+          "source": "Unite.AI",
+          "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWcwZVFVZWV1ZXU2TUFIb0psWUZDRDc3TDczNHU4eXBVZWJqcVk1RkNkM2ttRnpyaHY4ekowTUphVlJTdFZZWlBJTXNRV1dwRnpORzBJT3dqSHFJVU9hUnU2dDA5MFk4NlRiNE9kYVYxbGRoS1hySlFxMEN3RkFsTWJ5M1VoRkpmd09ya2dWNUlLaXMwSDNoMw?oc=5",
+          "date": "2026-11-08T20:26:01+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Apple veut que Siri AI devienne un agent IA dès 2027",
+          "source": "iPhoneAddict.fr",
+          "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMUVaVkdCXzV1c3A4WWlSMF9FUDA4VHJxbHhMMFNGcDY1LWI4c3F4cEdVZHZ2Rnp2TlItdHFLT2V2dkxjQ2RmazRMMVViaXdsTVh6NkFzZTI0ZUFFVmVqakpob2VOYVFpdWJqQlJEUHlwUGZqNWdiaXU4VTN4VXIxT1FLSzVPTG5hMHc?oc=5",
+          "date": "2026-11-08T18:41:59+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "John Ternus presse Craig Federighi d’accélérer pour l’IA et iOS",
+          "source": "iPhoneAddict.fr",
+          "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQVFkcUZ3Z3M0Q2xMMnhXTTVFQTRiTGpOR0FwWmJ2elpHeTdFSGFQeWdHc1RYU09vdDYwU1d6LVo2eGNfRk5MSWdnSW1LVFBLVnNfTU5zaXNYTVlCTmxwYmtUU3hpRFliRVU5aEJ4QldNN09HdUZXWmpaeGZQbjEwQnZrTW80TVA0NVQwRVJ2T1VUeHc3ZWVaTUhn?oc=5",
+          "date": "2026-11-08T18:09:27+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Microsoft imagine une IA qui traduit une vidéo en direct et ajuste les mouvements des lèvres",
+          "source": "Clubic",
+          "lien": "https://www.clubic.com/actualite-638245-microsoft-imagine-une-ia-qui-traduit-une-video-en-direct-et-ajuste-les-mouvements-des-levres.html",
+          "date": "2026-11-08T17:00:00+00:00",
+          "resume": "Sur l’écran de votre téléphone, un conférencier coréen vous parlerait en français, avec des lèvres qui articulent chaque mot de la traduction. Microsoft a déposé une demande de brevet pour un système d’IA capable de réécrire en direct les paroles d’une personne filmée, puis de redessiner sa bouche.",
+          "titre_fr": ""
+        },
+        {
+          "titre": "La chute de l’IA chinoise menace les ambitions de Xi sur les marchés",
+          "source": "Investing.com France",
+          "lien": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON3lBdVM1ZDFHV2VGTTRPdnVSdTUxM05ra3lJN1JfQWZoOWlqVVd3blQtLVNIUFFHblpHU2lDZC1GQ0xOMFAtcmhsWFVRRVFxSHZOM2RYVEJxaU9yM0p2NDBLWkdOY1dFUDlZWjVsd0Jra1p6V251T0JjNGxYMzNlTHF2SThVcWdaRWhRRmx2dXNwOVZFQVFFSVFiTWNUWFA5cWl1SkxLa21vX010a0lMamdBMnppaVhsRUZFZ0JMbnA?oc=5",
+          "date": "2026-11-08T16:47:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Le boom des investissements dans l’IA est-il durable après le repli de jeudi ?",
+          "source": "Investing.com France",
+          "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMXI3T2hYeUx4ZzN5dEF6NURTQVJkaU5OMWVYZ3ZiQ1ZWSXlSMlRKNlhENkhJLUIyZE5LMkFpVmdjOUVEemlsSXQyNExnek9GUVQ4ZHdOMEdiaE9HbnZrTmtjS2lNLXFkNHNMaHhCUXFIWDNCcnduTDYteW9WeTNGZFJ4aDFiRmgwZndJSUdIWDNMZzMzYXR5WFdaR1BTbXgzVC1UYm5VZ0hWT3N1UDI0ZlM0SVhTdFFSa0ZtRjAwLTFrRzIzMmQwRUtRVQ?oc=5",
+          "date": "2026-11-08T16:17:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "«Le robot scanne la pièce et prédit le type de soudage à réaliser grâce à l’intelligence artificielle» : l’apprenti soudeur de Fuzzy Logic entre dans les ateliers",
+          "source": "L'Usine Nouvelle",
+          "lien": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPTk1qVkRiUjFva20tTFpMSG1KNnhyWmp3Y1VnaDQwXzBlT0hwN1NpS3FrbjZCSkdzMmd0NHdZekZ2OWRjTXljSFhfMDNGM2tPdzFhMDBKcldjNXVaYmVCOXdhblUtcHpCay16ZklzUVdlcS1ERjc0bUdsaHZEV196OGVWU3VVUWhBT0NpSDgtQ0JjdmZld3hvRzRCWWpfZGlpOEw1a3hPdk5vbm5ZR0Q3RW1OelN1N0dZUm03UGlrQ0s0QnVjYURSWG93VURaY1E0NmIzcmp6YXVqUXB0WjhLcmwzNV9Mc2o4ZDEzLVowUHhsQzY5VmMwYmFpcHhya0k2Qk0wVFFYSzJZdHdPRnV0Q1ZfYmhVekppVzRTRGRiTXpGZ1pScWw5MWF2a1V6MkhEMUE4RTFOVHYtQnBqVmhyMXNkdjlTYTVUeDBTZXhaa3c5R1JKWElEaE1GSkFSdHBNaUF5Y3BTZEZPV1E?oc=5",
+          "date": "2026-11-08T16:00:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Robots, voitures autonomes, intelligence artificielle… au Web Summit de Lisbonne, la tech chinoise passe à l’offensive",
+          "source": "La Tribune",
+          "lien": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRUlsbkk3WS1QQ2pjUjR4amJ6TFNHTWtmRmxNZFBrSlA2WmR4RW9VOW1KcnVNU0JKSFpramdDUE1vaVQ3NWNYbmVVYzdvYUI1NHZyTUJoa1paWElxMnlhd3FFQnNVWTh1SzEzZUptcjN6VlRwX1YwSThMb3AzZHpxMmowZU5RdHdaajdDSDVjOVZZeGFCd21tYVJWQ1JGTTBQNkJPdlpCX0lRWERKSy1JRlhXVHE2Nk1MV05Va0Y5UzBJNjVoYm5oVVpKeWhNMnlvdTBNQUJjcGllQlYxelZBYmlJMmExdGEwWXIwTUphdi1KaVhudFBQejQySU1OZw?oc=5",
+          "date": "2026-11-08T15:54:02+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "\"J'aimerais le voir intégrer ces technologies autant que possible\" : l'emblématique Tamagotchi bientôt boosté par l'IA",
+          "source": "TF1 Info",
+          "lien": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQV0xIMkJITUw2eXhldmhVaWprNGlHUzBUdk00ZVpKWDc1V3VxUHFfS1ozQnktRy0yTFdKaWQxX01LSVlCRzNETWZ1VmtTTUNWU3V0Y3hJM3hsWnNtbThDZFAtOTlOZng0c2tpQVZFX2U0eHo3UGRfTkVBV2VMenA1cm1UNTVNSElmZ2pnck1odlg2aUswUnBXcmRMbjgzY1N5MU03QWpucmJCZm1uMC11NFN1U3VBNlgzcTROWFBZU2lsVGd1SDVvd09ZYVBtYV9DQVRCdGV1dUJwQXdKZ1RRUFoybnBPblVYRG5rOVZ4X0FLbDg3cHRxVHd3?oc=5",
+          "date": "2026-11-08T15:48:20+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "L'IA accélère le développement logiciel, mais qui vérifie le travail des agents ?",
+          "source": "MacGeneration",
+          "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTnBoUUFtWUk2RkRNZ0h2TjZtUjFuSDExUDBRMGl0UnMwalNWUFFmQWttaVN5VDY3YlZjRktOSHRfVG52MzNaQldxLVdCMW41ZXpvRVU5aUtaaGdVcDVGbWhGRkNjeXdKdXdKV2hFUXp0dk40Z1JNYmtJSlVhaWo3OE4xc1MxR1k1TmZMZGs5LUNZVVRiU2tJakdkbXNwUkFCUmwzSm5sZ2pzUFNkbDBZRUdKQnIzRmVuZEt3QWI3b1NORWVVc1RuVUhiOW5ZM3ZXYTJpcA?oc=5",
+          "date": "2026-11-08T15:42:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        }
+      ]
+    },
+    {
+      "nom": "Environnement et empreinte carbone de l'IA",
+      "resume": "Plusieurs titres s’interrogent sur l’impact écologique de l’IA, que ce soit la consommation énergétique des data‑centers, les émissions de carbone ou les risques liés aux installations d’infrastructures IA.",
+      "articles": [
+        {
+          "titre": "«L’empreinte énergétique et carbone mondiale de la diffusion de l’IA». Essai d’une comptabilité de l’énergie et des émissions (2)",
+          "source": "alencontre.",
+          "lien": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOSFpJakhTTXBfQUx1WjZWNW5GcmJFR1BFdlkzSG5JQ0hiS3kxNi0tV0hxY1g3YVpEYl94QnBvU2xLMVBlWk96aWR2a0hFOGFjUDdHMVNlSGhoSVRxM0RuWTh0TUk3d0R2dnU4ZFRKdllHY3lEVmxzVmlDQTB0TGZVNUhlSk5ZRzRfSWI1TG40VTlxYUw1aC0tU3NROURTMGFLR2RCTFY0aUtfbWthdGw5UUNna1MwampWaEtGS0tJMFhuWUNXUFhyczZSTWhrdEJWcE54V2VtZ2V2Vl9MN1RESU1oazJZY3AtcjVoUVA2NjJ4WDV6WV9WemJLbEk2dE8wVW5Z?oc=5",
+          "date": "2026-11-08T20:59:31+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Campus IA en Seine-et-Marne : quel impact environnemental ?",
+          "source": "ELLE",
+          "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTl9LQmJUVVJrVWExX1d6UHZCMmQyMWtwZkhzWUxPZ01jdkRFNXl1b0ZEOEh1ZW5qa1lvUGswM1dMU09GWVpTemV1NnF5aVN0WjFoZDk4NDE1WmMybVVxSjJNNUFZYjVHNUUzcE0xUzVaVUxPcHEzRFFGc2ZMQ1NCU2sydE96eTVHRVVLV3lBVGRreTZYeThIUjlZNms?oc=5",
+          "date": "2026-11-08T20:05:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Aux États-Unis, 57 % des 9-17 ans interrogés utilisent l'IA lorsqu'ils sont tristes, seuls ou stressés",
+          "source": "Science et vie",
+          "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTkxyaGFwYXpZLU9HYWFZUmRERDNUaHhHcjdWZl9uQjJEUXgyWGlReGtENk9jUzJDaUdtWjBVSkN6ZzFlbnVmYnNYd3NhZzA3OVhWRDBNQmJYTi1OVjVDM3B3cE1Ta0RKTmZFT2FOdkJhQkJyN3EtYjd3MGs5MldrZGVNbnlyVnZfZHNOcUJEMW5QU0NoZUs1bkZqQ3lFUDZHOXI5eDAtcUJSNm8zcWp5akQySmE0Z0NZdnlYaTJxVjM2dGRGNXJIc0U3emhZaUlNSFYtM3dHMG9ablgtZk5YNFpsSkt0SzlvTUVqSg?oc=5",
+          "date": "2026-11-08T20:00:30+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Les associations écologistes se tournent vers l'IA, tout en mettant en garde contre l'impact des centres de do",
+          "source": "Boursorama",
+          "lien": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPbGN4eDZxYjR3bVpFOG5TcDl5QkZXWF8zMGJVdjFKZy12YXdRWVNwOVNtdF9OMVZWUEh6UmcxVlBBWUhmbGxjemlSMmRCUEZ6WWZ1RjUyOGpZRXpsUnotUVIteHRDN3NqQWVGQ1JJZ3JEdk5Wd1JNbWo1OTd6bUwwSEFSb1pNWHludTNnTG00bXJaZEQ2aWswWlVZRmROdE9QWUdDUU1TcXNjanU3aDVOdDVKUmpRN3hqV2hMLU1DUThuYkwycXJpeEVUTmU0OHZPd0VwdGtCYk5lSFhWZ2xObFhVNEFFS1NRREE5eW5fTUtBSVhXQkN0TnNIdXFvQ2thOWVMSjVob2ZTM25DUkJ0a1RBU19DQ0JJSlNfMNIBogJBVV95cUxPb09tT3AwUE82aW81ZzFLWWlxVG5sNVZRY0VyU0xlTGNSSFpDVTE5WmF4dGVDS3V3M3RzamJDTE9rb19uVnRxbWZzN2lzNUptcTZmYlZMdmpOdS1MeExWdFQyTldoYnN2dDFlQnJMWjNuSEU0Z01ldmE1aVh0VElvcnR4bTMxaE9ORFMxTWxjT2RlN1IzNnFSRXk5M2tYZmxCOGRzcnBzSEdjTHphcnQ2MTZxQWc1cVVaS0hYajc1ckE0Q0s3OUljVUlYUThKNndHVjRPT0NJdXFmbXEybW9QRks4bkVId0hNLWJvVGNSTklycERma3gtNTJBdzNGSUh2am9rTTI3dTJ2ZU92amRJUFRIcFUtcFRMWkxvdF9SRFVOUQ?oc=5",
+          "date": "2026-11-08T17:44:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Actualité : Anthropic dépense 3 milliards d'euros pour faire tourner Claude avec du gaz fossile, malgré la contestation grandissante autour de l'impact écologique des centres de données IA",
+          "source": "Les Numériques",
+          "lien": "https://www.lesnumeriques.com/intelligence-artificielle/anthropic-depense-3-milliards-d-euros-pour-faire-tourner-claude-avec-du-gaz-fossile-malgre-la-contestation-grandissante-autour-de-l-impact-ecologique-des-centres-de-donnees-ia-n267005.html",
+          "date": "2026-11-08T18:15:00+01:00",
+          "resume": "Anthropic a conclu un accord de 3,4 milliards de dollars, soit environ 3,05 milliards d'euros, pour alimenter ses centres de données avec 1,7 GW de générateurs au gaz. Et ce alors qu'aux États-Unis, la grogne monte autour de ces installations.",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Ce passionné assemble un PC à 90 000 € avec 18 GPU Nvidia pour l’IA et le minage, il s’en sert aussi à chauffer sa piscine",
+          "source": "La Crème Du Gaming",
+          "lien": "https://www.lacremedugaming.fr/high-tech/ce-passionne-assemble-un-pc-a-90-000-e-avec-18-gpu-nvidia-pour-lia-et-le-minage-il-sen-sert-aussi-a-chauffer-sa-piscine-233933.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+          "date": "2026-11-08T18:00:12+00:00",
+          "resume": "Sur Reddit, un passionné présente un PC à 90 000 € équipé de 18 GPU Nvidia, capable de faire tourner des LLM géants tout en minant des cryptos. Sa chaleur finit dans la piscine familiale, au risque de transformer ce rêve d’IA locale en casse-tête énergétique. The post Ce passionné assemble un PC à 9",
+          "titre_fr": ""
+        }
+      ]
+    },
+    {
+      "nom": "Régulation, politique et enjeux sociétaux",
+      "resume": "L’IA fait l’objet de débats politiques, de régulations et de controverses sociétales, depuis les campagnes présidentielles jusqu’aux questions de surveillance et de droits humains.",
+      "articles": [
+        {
+          "titre": "Étude sur le harcèlement scolaire : 1 victime sur 4 se tourne vers l’IA pour demander de l’aide",
+          "source": "Geek Junior",
+          "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaVF1NUh6S0JkN0k5TlFRcEsyUzE2c0VNOGV5YmN5X05WVTZIZ2gxUGVXcXZHZHVzckJ1NTBRbkJzdzY2b0p4VzExOTgyMUJHdDMxVi1RTVAycW1HTmQ2NGcwSjF6T25HdGFsMGIyRHVIclRLVlJ0dWNETC1fcjRsN1BkOC1KbC0xM2NxRl8zN3RZSERwZ3NqanNhdzJXRjc2Y0FZUlpLYmVuN2RjaHV5V1NVR2tRejVITV9zWDdmbkZSQ1hL?oc=5",
+          "date": "2026-11-08T21:35:23+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Elle veut apprendre aux IA à reconnaître nos émotions et à s'y adapter : le projet ambitieux d'Athénaïs Oslati",
+          "source": "Yahoo Life France",
+          "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVDhyOG1QaFZJajhOZEk4ZnhYeGlLTTZEV2RWZGtrXzVwSjdLLXRRN1BlNUpTazRhUHM1UjVhYmlVVUJpN2tHLUl4djVHNUc5YzdHVzNvbzNjbnRmdWV3Tm1iQ1dvbVlMNEZDMVRaS2tHRS1qbmozOGtzNEFVbTNBdkJqSnN4Vmp0RWRF?oc=5",
+          "date": "2026-11-08T19:07:20+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Anthropic : doublement du rythme des avancées IA mesuré en interne",
+          "source": "Brief IA",
+          "lien": "https://www.briefia.fr/article/anthropic-doublement-du-rythme-des-avancees-ia-mesure-en-interne",
+          "date": "2026-11-08T19:04:55+00:00",
+          "resume": "Un rapport affilié à METR décrit un doublement du rythme des capacités chez Anthropic entre octobre 2025 et octobre 2026 Anthropic indique dans son S-1 qu’il pourrait atteindre sous peu le seuil d’accélération défini par sa politique interne La majorité des preuves détaillant cette accélération ont ",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Une start-up calédonienne veut mettre l'intelligence artificielle au service de l’agriculture",
+          "source": "Outre-mer La 1ère",
+          "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcG5JS2dzMWtGRlpXejNQbnpSdlg3OXZMdkxidlV6czJHNkQ2c05qbHptNlFMN2VVdzdkeVhaR293YUVHSVVFN1pLUFo3bDlfS2txQVBQTGNTeDFHV05sZVlWSXNrWEk3MXZCRkIzWnY3UTBHS0xDTDIySVdYVThsdThVZ3AyYzBaUkNBRUVLOW56TVE3dTlhVmJ1ZFNQZkJxaWRYdnNpcXQ1UUNkMUkyb2hXc3VzN1FXRmkwdGRvRmZ5ekFIaHVpNEdNdmJvMENBeTV1Nzk3NXJWbjZqQ3dfSEs4SDVlQ216?oc=5",
+          "date": "2026-11-08T19:00:01+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Albert Einstein contre la machine : ce que l'IA ne sait toujours pas faire",
+          "source": "L'Express",
+          "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMEVLN3RTREVNOGtoZFREN2ZfS29qWm1mVW1sWkxZeGhaaUs4N0FWczY0S0hWTDJVRzd5Y3hHZXp3M3JvNVA2UWdWR2VpTEU5cG1MVTR2Q3dMNy1pYjFEZGFYeHJxSG5BejdiWEl3aU5VWkVNWEVqUzU5cTVEdEJxWFZnbTBfRGZKRVBFMTUxekEwd2Jhb1lxNWtBSkk2NlFNOG15SVJiMlNiZjN4eUNmTXRPYm96U0hKakJSUjdhOVl4QXF5TlJ5S2h0bDRGa2FsMzV0aw?oc=5",
+          "date": "2026-11-08T18:24:31+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Politique. Sanctions, refus d'imprimer : ces maires partent en guerre contre les affiches IA",
+          "source": "Le Dauphiné Libéré",
+          "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbUlLazNIQ0lQRWx3VHAwS2VqanUtLUtTWGw5dHFibXN2dXp6cVp6U1FCSnZTTU1iem8xdkdDMEhwbGw2R2xyR1ZraWhGNU9QcFh1YjZPcW13eHZQRnRlYlRrTXlsaU53QjRoV0gtWXI3QWRKeFZTVW1SQXEwYjM3NUJXUlJCc0dYQzFfdVc0LUpLYmJ0ZnJsdmdFUjhWc3IxNzh0T0phVUxMX09FUGJoMnUwSV9xa3RkbjZ6YnNZSFNBQQ?oc=5",
+          "date": "2026-11-08T17:32:32+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "GPT-6 Astra répare Qwen sans le réentraîner, PostgreSQL 19 prend du retard à cause de l’IA, OpenAI industrialise la chasse aux failles de Linux : on vous raconte la semaine Cyberguerre",
+          "source": "Numerama",
+          "lien": "https://www.numerama.com/cyberguerre/2369365-gpt-6-astra-repare-qwen-sans-le-reentrainer-postgresql-19-prend-du-retard-a-cause-de-lia-openai-industrialise-la-chasse-aux-failles-de-linux-on-vous-raconte-la-semaine-cyberguerre.html",
+          "date": "2026-11-08T17:21:00+00:00",
+          "resume": "Trois actualités à retenir cette semaine dans le cyberespace, un modèle d’OpenAI qui corrige un autre modèle en retouchant directement ses paramètres, un projet open source majeur dépassé par le nombre de bugs que l’IA lui signale, et OpenAI qui affirme avoir industrialisé la recherche de failles da",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Amin Maalouf sur l'IA : \"Une nouvelle civilisation est en train d'émerger\"",
+          "source": "Valeurs actuelles",
+          "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVnlDUmNzSzZjaFpQc1B1WlpUQkFHVTJXNXpOa1VtaE9CWlo0VTFTaDZoeWxDUDl6clY4dlZ5VmY0WF9DbFY0b2FNbXd3enVEUWl6dVRCY0oxZE5acWJ2UkFES1FmVGJIZU9rSy1FRFpYbWZoUHBodV81NVRIMGM4RTJYSGJOM0lnZXk2SkJ5SDNtaWVTZ21JdkFnV2hvSmJUY2I0NDNfSHBSZW94Y2lZX3QzS0gwNXRKUTRZandDNWJsbHZWTDFncXZhdnZBRVhyZVpoMklpdUtWLUdhOVRxNlRZMm4wMVhKd2RwRkFMc3U?oc=5",
+          "date": "2026-11-08T17:01:56+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Pourquoi l’IA doit être au cœur de la campagne présidentielle, selon Olivier Babeau, professeur à l’université de Bordeaux",
+          "source": "La Semaine",
+          "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdzVSc0VpcmlVS0ZlSXdTTnNOb1VnYlNleGd3WVltTmZjRnEyUWkxa1V2SUhLTkEyZ3RFY0JicWJfYW51QWI3SXU5d1VmOE1iSk40Z0FqUm84V1FZMW5qcThHeFZvbG1iNTIzallGQXl5X0hjTHR5dUV1SFhFM2NVeUwwWnZ0WEtYQWJQVERfNGw2a3I3cXN1cVNIWmlJdXIxMjYyM29fejBmUTc3TDdqcGNiY1FsaG05dExsc0NBTkdxWGZGZXBlQW8yVm9ib0tlYWEwQjdCYm1naTFYeVpoVDVfXzU4OEJxVEZJ?oc=5",
+          "date": "2026-11-08T16:03:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Sabrina Pasterski, célèbre physicienne américaine : \"L'IA ne doit pas être un oracle réservé à quelques labos privés\"",
+          "source": "L'Express",
+          "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdHBzdkFUbk5BbmZUbVZXaWdoWkttUE54NUo5WFZjVVRjdmM0ekJYd3AyaThOdDJDOUN6NENjUUZhVXlybjRWb0NnNm85dV9NOUk0c2trT2VvbXprRmcxRm1sS0FVWjFtSDJBRElLN21XQUJCSHpxaWpOdlBQUm5OZFZUUGJMbmJrdWZZRjlpbS15bUpOeTNqb1pmMVBzRW1ISkxTLXAzT2ltVlpjT3g3czE5MENfNGtJWlJRRndYSVotMnozMFkyTjNIMl9aVDRaSm4wOXE4cFJvT0F1X0FFbVVoc0RwemgwVm43MWxpcWp0NGJhckpJZQ?oc=5",
+          "date": "2026-11-08T16:00:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Un 'espace liminal' entre les humains et l’IA : la frontière sera‑t‑elle moins discernable qu’on voudrait le croire",
+          "source": "RTBF",
+          "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZlVNdnhUUlRtTWVTbHBXUGxUdTUzaXBQYWlwSmNKcE4zYjFHeFFyOE5QVVliRFY1MWZrcE8xVU1mbXlvWS01NkxQSTA5TUQwZzNmUUFOSWo2Mkc4RmdGM0o5am1xSVhGb0lfdmF3QXlpTWROTTFFNUlhWWM3QXJlWS1XOEZ0US14WlVSVk5SRVY0bmJpZlI5d1hKaTBCdDVaSEpmdkJ3QnlmeGpxMmZnalhfOE9uenAzU2tTSWR4U2FJdThMTHI2LWNqUUUtSWhLQjVqRGkyakNwVkNZbHhzeFN3?oc=5",
+          "date": "2026-11-08T16:00:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Pourquoi vous n'aurez bientôt plus le droit d'insulter votre IA",
+          "source": "Slate.fr",
+          "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU1NoR3R0dlpFSnMtU2d1Q2pYd29wRlVCbnBqZVVBVk4wSXVGbVZfQnVKclY1NDJmRFc0Zktya09MaEZtckNQaE95RTkyakZtV3NJY0Y4eVJuY3N2b1RrVVVaaVhLbXM2bUJQTXl0NG9KMzJucDJTMnR0eXdWVDdLTmVTcW51T25nYUFfdzd1T25MUExHQ3A4SzItendMb1QtNV84WFdCZUVNbFNjdE4tUVBHRk5GQ2pYTlZrTGRRTmhteFdV0gHKAUFVX3lxTE9BdjV2TTk5V0lTVXFPMGhIVnZnMy1LSTM4YmtwUHRoSEowRklPanJDTnpxcDczSTRUMjFqVGpCMDA4V1JUMm9XbXI0ZXVRSk9GbEc0RHpxN0pBQ1FNWUF5dzlVd0piQl81UndzM2ZzRnBUR1U0aDlTZzB6bDJIR3V4VEcxa2Z6V3dCRVRmQ05SVUFRTUxZN3lZOXhWbWZYUFExTmlkTjF0cmo1RUZKekZjYXBUVlFkbDZoeGhCMWMtUzRXczN2Q043ekE?oc=5",
+          "date": "2026-11-08T15:55:02+00:00",
+          "resume": "",
+          "titre_fr": ""
+        }
+      ]
+    },
+    {
+      "nom": "Applications concrètes et innovations IA",
+      "resume": "Des usages variés de l’IA apparaissent dans la santé, l’agriculture, le commerce, la création artistique ou la sécurité, montrant la diversification des champs d’application.",
+      "articles": [
+        {
+          "titre": "La boîte de pandore de l’IA est ouverte",
+          "source": "Mag'Centre",
+          "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mRWxkSW80cUxyZHRHQTNlRlJsa1RXbmlRNFFRb1o4M2xqYXJfV2laSHpIUmNfLUxQUEJ3MVdjVVR1TVE5eXFGdWdWdFZYTUU0N0FGUmE4VWRQSlUtMzhZLTlmTmc5R3RpVFRKLXRlbHNiREZuUTNxejhqbw?oc=5",
+          "date": "2026-11-08T21:10:32+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Klaviyo : avis sur Quasa — CRM B2C et marketing propulsés par l’IA",
+          "source": "quasa.io",
+          "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUVJaUXcwc3pzdzBmTkMzcE9LZEIzUWJ4dWtaMjVBZXBmdHFZSEY5Tm1neHJCM21KQ241c3Vwc1dYRDVPRDVsQzhXbkd5NHR0NE4xOEd4RGFHN1VXVVR4bWd6bnlpaXVSTTAwZXN5dkVHbldqY0lZQXlBT09PNlZPQXFERXlXVmhhYThKaFB6YjZodw?oc=5",
+          "date": "2026-11-08T19:23:46+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Utiliser l'IA pour écrire son livre? Un écrivain romand répond",
+          "source": "Watson",
+          "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOVZPZkItSkh4dmswSVctb3hfZUhHZlpiYUtsb1lKVE1Yd2d4QUM0UmlWaklHbnVpd0lJS09zWDVfSUlTMm9ydUowODVTVVJDZHZ5WjFIdW4tRElxVHZ1MXBFdDZHTlp6cjFoVnh5WG41UUtMNWlRRFBaeE82c3FQR0hHR3ZGZ2ZwUEdWV2FvWU1DalU1YmxBT0ZreTg5UFlfMDlnTHRjdmZSeUVaOFE?oc=5",
+          "date": "2026-11-08T18:00:52+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Artex, l’outil d’attaque IA laissé ouvert qui inquiète le cloud",
+          "source": "Servicesmobiles.fr",
+          "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUk9RamdHbkloRmpVZ1JLVHllb1lXZ29zMDYwaWw5TDlraXY5Yk5Rb3dmamZjdW4tbGdWQ0JMeGZGa0p6aHYta3MzSFhrQkNFNHBFWFdjc3BuVzRpVTNlS0pReWJUeVVpVlkxQmFvY2d4R0tKWlZGYlczdXhhN1NESFZHSDA4Z3hoM1dLQmRVdy02ejNiOGloWEZaSnFOaDg?oc=5",
+          "date": "2026-11-08T18:00:33+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Face aux images générées par l’IA, cet appareil photo fait un pari radical",
+          "source": "PhonAndroid",
+          "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOWRsQ3FUNTBGVV81MnQ3VGxpa1didVI4UENlVGl3RklaUTh4VlgwSElOTzZjUlZSbjNQenVYMUpJX1UtRXBTQWtXSTg4NjRWNkVQYlBzNVNVZ3p1aURfaHBJVUVFdmpEVTNMY2pNQVAtWTJYclVDRG81ZGFSNi1aVkhhcVVpT2tuOUJhV3h1T3hTUGJGelZBaUllRzVWcmExVUtzc21rcFA?oc=5",
+          "date": "2026-11-08T16:44:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "L’enfer de la bataille de Verdun retracé de manière spectaculaire grâce à l’IA dans un documentaire événement",
+          "source": "historia.fr",
+          "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeHlRcTlIRW1DTUtrR0VPanFYNTJwS24zc3VXN05MaUNfZXNyME0xbHJqYTZnb043eEY1VHhJNUlJVjBqcVFjMHlQWXdwdG03aFowQUZINkJneVVKa0RCNjlhUThZTmtabWFCRzdaQkNtdmp6RDlNTGE0dHVXYWRLLXlvQi1YR2YwajlIa1pOY1ZqWkJoMVlRR2lFX1M5ODZqOVZSR190X21kR2pLY05QVnVoQWdKRVk5MEluZ3B1STR6cjFoYXFUZTk1MmVaNXhQbHZKV0ZPXzd6SFk4UjNaWHU4WVQtNDZWc21wWjBkSGQyNVZrSFZ1S3ZiU1ZORlZYeHRLMXNLQUVGRHM?oc=5",
+          "date": "2026-11-08T16:11:26+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Microsoft Dépose Un Brevet Pour Changer Les Propos D’un Intervenant En Plein Direct",
+          "source": "Pause Hardware",
+          "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TS0dzSHdWVGt4aWRmTloxeDN3Q01NdUxvWm52dEVxUHNmWDNkWDVjVldXS0pyVVF3S2UtbEVXUVpLcW5yalZxYUFjOExmYVBsalREYnM1OFpCelR2NlFPdFVOYzRLZmhXUEw1RTFrYkdSblhET0lUYlNKSHo5Zw?oc=5",
+          "date": "2026-11-08T16:11:03+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Vélo, sécurité routière, IA : comment le travail se transforme-t-il ?",
+          "source": "Sud Radio",
+          "lien": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lRGhIUFk1bW5NSFpFVE1SYmFjTi1HTk5rdmRONEtzM1d6RER0eUltek5HQlNrNHg5cW82M3FPdXNGekJudXYwN2hsTmFmaWtnTGRJMVJycy1NVW92UW1oUDctYUc?oc=5",
+          "date": "2026-11-08T15:19:52+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Qu'est-ce qu'un modèle d’IA MoE, et pourquoi n'utilise-t-il qu'une partie de ses paramètres ?",
+          "source": "Clubic",
+          "lien": "https://www.clubic.com/dossier-637876-qu-est-ce-qu-un-modele-d-ia-moe-et-pourquoi-n-utilise-t-il-qu-une-partie-de-ses-parametres.html",
+          "date": "2026-11-08T15:19:00+00:00",
+          "resume": "Certains modèles d'intelligence artificielle comptent des centaines de milliards de paramètres, mais n'en mobilisent qu'une fraction pour traiter chaque token. Une particularité des architectures MoE, qui permet d'augmenter leur capacité sans multiplier les calculs dans les mêmes proportions.",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Karpathy crée HackerTube en un week-end avec Claude",
+          "source": "Brief IA",
+          "lien": "https://www.briefia.fr/article/karpathy-cree-hackertube-en-un-week-end-avec-claude",
+          "date": "2026-11-08T15:09:02+00:00",
+          "resume": "Andrej Karpathy a lancé deux plateformes vidéo, HackerTube et TristanTube, en s'appuyant sur Claude Claude a filtré 43 millions de commentaires de Hacker News pour créer 6 454 vidéos sur HackerTube TristanTube a été généré en 3 minutes à partir de 47 000 vidéos issues de chaînes YouTube",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Anthropic paie 3,4 milliards de dollars pour doubler la file d’attente des générateurs à gaz",
+          "source": "Martin Cid Magazine",
+          "lien": "https://fr.martincid.com/finance/anthropic-paie-34-milliards-de-dollars-pour-doubler-la-file-dattente-des-generateurs-a-gaz/",
+          "date": "2026-11-08T15:08:16+00:00",
+          "resume": "Le créateur de Claude a repris les commandes de générateurs Caterpillar d'un fournisseur texan plutôt que d'attendre la fabrication de nouvelles machines, le plus gros achat connu d'équipements de production électrique par un laboratoire d'IA",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Intelligence artificielle - L’ultime invention humaine ?",
+          "source": "Arte-TV",
+          "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVDhGM1F0VXZib0dLSl9yTkpWZDNwMVExWlIwOFZYRjBzN2Z6YWNfLWViZjk5OEZ3S1MtbzMydmtWN0Z2ZHJrVGwycml4UThkbDZxYWZtVlM1bTlFaXZSVHY2d1RSa2R2SlNmS2VVbDdhcFlyUmVpOUhTbTk5NmQ2dW16U185bkVuVjZZMW1NNjJTdUh4UE1POHZXZ0k?oc=5",
+          "date": "2026-11-08T15:06:30+00:00",
+          "resume": "",
+          "titre_fr": ""
+        }
+      ]
+    },
+    {
+      "nom": "Autres articles",
+      "resume": "",
+      "articles": [
+        {
+          "titre": "[LA VIDEO DE LA SEMAINE] IA et avocats : la fin du tarif horaire ?",
+          "source": "Éditions Francis Lefebvre",
+          "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMWlRamFETDRKZGM1WEVQQ1Jia2VqYm5LNjBzZ0FfclBrX1dMbGk1MFIydXVWdDVUdGJBNWN3S2dKNjR6a2IzdHJaTk5RZ3dyWEliRVlyWUZTZ04xamI2SmJjRjVnbERiUlpJX3JCcmwxSW1QSE02cjVEYXRhNmRxRElXLW9qeF9HN21vQjBwMVZXOS0xLUdjU2l0dHdOd0xRSWJPdDV0ZHRyYjA4b0E?oc=5",
+          "date": "2026-11-08T18:03:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Non, l’IA n’est pas en train de détruire la planète",
+          "source": "Le Point",
+          "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN0dxaUdGSkt5UTNheVUwajlCN0RZUEViQXdpMWVGXzNnVUgzWDhtVFI3cDc5dXdfeDRZVmRrLTl6RGtjWEJiV3B3VWJrZ3JnM2lNN3k3NTdQS01xd1V4SFlNbGhReFJlcmlSUDlXOXk4eVMzaFlvMnNBMk44Q3FVd1dDbVVQLWtQNFZMdFJRZ1AxNW5NWjJ6WEJlQXJGM0ZxV0k4clBQZU5Icms?oc=5",
+          "date": "2026-11-08T18:00:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Pourquoi l’IA est si puissante ? Car elle s'inspire de la plus grande rockstar… et ce détail pourrait devenir un scandale à 41 millions de dollars",
+          "source": "Purebreak",
+          "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbmhtX1AxTXpkTERmR0FSVzF0b0M2ems4UlZnanphcTN4NlVOTkxwNDdxVTZCYTZ2eW5BSjQ4bVdITWY5Q21ZSUtSSjI1NVJXUjlHTTJoM2d2N1RFUUQwbEdnLVhUOF9hLWtCWkRId21Va2s5SHVGZHgyZnl2a2p5SUlhQjh5ZWJLeE8tSXhpQ2xtTGR2MmU5R1RJRUIyZVZlZDR4UzBaVTJiNmtLOERnWmM2WC1pRnBBS1g3Tk01U1phTUhmd3M4MDh4OTg4emNXWXVGaWpOZXpxTFRNRFNhV1BIbkJpV3ZPVHJPUm9vb3RabkswNkRSdVNHeEVGc053M090TXZyRktoVnM?oc=5",
+          "date": "2026-11-08T17:01:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Edito – Génération IA !",
+          "source": "AutoHebdo",
+          "lien": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wSEFhcW5hcFJWQk1MVnhMMkR0ZVdoazNFRWpEWEFUSzBjM0RqSkhNcXJPdkZjc25HR0VKeVJiOThyWUd2eFFEV0REand0aDdXelRPdmxNZmtGc3VPRDNZQWo5V3hUWHpiV1NYbThVczhJZVpFRnNkMQ?oc=5",
+          "date": "2026-11-08T16:31:56+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Isère. Utiliser l'IA pour reconnaître des champignons ? Une mauvaise idée selon ce spécialiste",
+          "source": "Le Dauphiné Libéré",
+          "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPalRXYzNWMU9lN0lIOEliZkl4TmtCQzc5ZDBzNEYyRjh5TE4yYW5DWjNVUGxOQ2puTjR6U2U0QXJ4aXJ2NjZkbTZCTTlad2ZiaGFSVGVPOU0zeEpMY0d0VzYtVC1NdzgyUjdQdlA5MzdzNGFtU2ZTM2Rvb3BBWFRhVkZZRzhyWFdpbGRYSHh4YVdFZldjaGE1Vld6U1ExWEFERERoYW44N2dhT1oxNDJfQVRMdHpnQVJQXzk4Z3hGRHRiWnk5YTdzM0hfZVYtbFk2TTlfWHNB?oc=5",
+          "date": "2026-11-08T15:55:42+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "titre": "Le patron de Nvidia, Jensen Huang, soupçonné d'entretenir une relation amoureuse avec une espionne chinoise",
+          "source": "Les Echos",
+          "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQUcyNjVqLWNPTGFOY3dwNndwY25tVEp5aXh4LVJrMUJNQWZWWHkzNm5FY0RQSWZUdWFtSzBrVWEzZUFmUWJkNWtNUFV1d2htWTFnMmJGVUppMHdlVnZIUFRNeHJNTzdhSTJVNC1mRmhGbGd4T2FEekQyT0xNbGtuVFZ2WDk3czdyTUszaU5XNkxtR2FHNVB1dHZlSVVvbnFFbnFGUmE5alYzUElYOXpMOVpPbkpTeXowR2N2YWdTOEprSDJLeEthQWFTQ25nMjZrMy1wOUhJLUxjdUdVOFUtNWVXbzVZSGNEaDNVTWlPVlQydEt4Z3I3X0N0dUFUc00zcFhIdw?oc=5",
+          "date": "2026-11-08T15:27:42+00:00",
+          "resume": "",
+          "titre_fr": ""
+        }
+      ]
+    }
+  ],
+  "ecartes": [
+    {
+      "titre": "Suno fait l’objet de deux nouvelles plaintes pour des imitations présumées d’Elvis Presley et d’Eminem",
+      "source": "Clubic",
+      "lien": "https://www.clubic.com/actualite-638254-suno-de-nouveau-poursuivi-pour-violation-de-droits-d-auteur-l-ia-musicale-dans-la-tourmente.html",
+      "date": "2026-11-08T20:51:00+00:00",
+      "resume": "Suno refuse en principe de composer une chanson à partir du nom d’un artiste. Selon les ayants droit d’Elvis Presley et l’éditeur d’Eminem, qui viennent de porter plainte aux États-Unis, le générateur de musique par IA produit malgré tout des morceaux qui imitent la voix du King ou recopient les tex",
+      "titre_fr": ""
+    },
+    {
+      "titre": "Hypertension : il serait possible de prévenir une crise trois jours à l’avance",
+      "source": "Pourquoi Docteur",
+      "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbEpJN3AyejhlZDdYZkE0eXUta2V2alN5OEpyeE9TcjB5RzBRUFRCMXBmeHBwZ2NfTG0za2swc3FYaDRVX0hsRWxHNkh1Z1BhTEN0aFREV3NpSG1BMkNaeXc3TjJiM1FSU1ZIVDRTSG9iS3Q4Z01fRFZXT2ZXbktpMU5xMU9tOFFTel9xMzctMm9LRXBhNVphTEFlc3BxNEVwT0s2bzY2Snl2VzBPUnBmM25JVkdHdktVWmZpOQ?oc=5",
+      "date": "2026-11-08T17:55:00+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "titre": "Sam Altman, PDG d’OpenAI, décroche 1 250 milliards ; des acheteurs de l’IPO d’Anthropic évoquent 1 100",
+      "source": "Martin Cid Magazine",
+      "lien": "https://fr.martincid.com/finance/sam-altman-pdg-dopenai-decroche-1-250-milliards-des-acheteurs-de-lipo-danthropic-evoquent-1-100/",
+      "date": "2026-11-08T17:42:12+00:00",
+      "resume": "Le tour de table reste sous les 30 milliards et les 1 400 milliards de dollars visés par OpenAI, et certains acheteurs de l'introduction en Bourse d'Anthropic valorisent son grand rival encore moins.",
+      "titre_fr": ""
+    },
+    {
+      "titre": "Renoncer au privilège de l’intelligence",
+      "source": "AOC media",
+      "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVGxYX0pwVEdwdVd4enBlS0ZOc1doYzRKWGJKVXgxWWdsa0phb2dGZ3AyQlZuTFBBNWtRbWZLQ0gyWERlOWZDSlRrWndhYTFZYWNGNDZIV1QtOFpITTl5cVB4N2FxU1NYc2lQY0M0bks0REV4VWJKWTdBdjdzX2d6elRR?oc=5",
+      "date": "2026-11-08T17:01:16+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "titre": "Actualité : Adieu Google, ChatGPT et WhatsApp : nous avons remplacé leurs applications du quotidien par des équivalents européens",
+      "source": "Les Numériques",
+      "lien": "https://www.lesnumeriques.com/societe-numerique/adieu-google-chatgpt-et-whatsapp-nous-avons-remplace-leurs-applications-du-quotidien-par-des-equivalents-europeens-241-n260695.html",
+      "date": "2026-11-08T17:37:00+01:00",
+      "resume": "Quitter les géants américains sans bouleverser ses habitudes, c'est possible. Bureautique, IA, GPS ou messagerie : voici sept alternatives européennes pour reprendre la main sur vos données.",
+      "titre_fr": ""
+    },
+    {
+      "titre": "Honor Magic 8 Pro : ceux qui l’on payé plein pot risquent de pleurer en voyant ce deal XL (-43%)",
+      "source": "01net",
+      "lien": "https://www.01net.com/bons-plans/honor-magic-8-pro-ceux-qui-lon-paye-plein-pot-risquent-de-pleurer-en-voyant-ce-deal-xl-43.html",
+      "date": "2026-11-08T16:20:13+00:00",
+      "resume": "Le Honor Magic 8 Pro est un smartphone premium sorti cette année, il mise sur une fiche technique premium axée sur les performances et l'IA. Avec de belles qualités et une bonne position dans les ventes, il est pourtant ciblé par une vente flash sur AliExpress pour Singles Day.",
+      "titre_fr": ""
+    },
+    {
+      "titre": "Claude Code a exposé des mots de passe dans 1 122 fichiers GitHub publics",
+      "source": "Martin Cid Magazine",
+      "lien": "https://fr.martincid.com/technologie/claude-code-a-expose-des-mots-de-passe-dans-1-122-fichiers-github-publics/",
+      "date": "2026-11-08T15:22:24+00:00",
+      "resume": "La société de sécurité Apiiro a trouvé 1 379 secrets, des mots de passe de bases de données aux clés AWS, dans des copies publiques du fichier où l’agent de programmation d’Anthropic enregistre les commandes que vous approuvez une fois pour toutes.",
+      "titre_fr": ""
+    },
+    {
+      "titre": "Le SI enjeu de pouvoir : le politique, l'architecte et le commercial",
+      "source": "ZDNet",
+      "lien": "https://www.zdnet.fr/blogs/green-si/le-si-enjeu-de-pouvoir-le-politique-larchitecte-et-le-commercial-507513.htm#xtor=RSS-1",
+      "date": "2026-11-08T12:11:06+00:00",
+      "resume": "Les projets de mise en place de progiciels étaient donc déjà risqués à cause des postures des trois acteurs, avec l'IA, ils vont certainement le rester.",
+      "titre_fr": ""
+    },
+    {
+      "titre": "Ils soufflent le chaud (et surtout le froid) en Bourse : c’est quoi, les néoclouds ?",
+      "source": "Numerama",
+      "lien": "https://www.numerama.com/tech/2369495-ils-soufflent-le-chaud-et-surtout-le-froid-en-bourse-cest-quoi-les-neoclouds.html",
+      "date": "2026-11-08T12:05:00+00:00",
+      "resume": "CoreWeave, Nebius ou IREN... Derrière ces noms encore peu connus du grand public, on trouve des loueurs de puissance de calcul pour l’IA, dont le modèle est pour le moins fragile.",
+      "titre_fr": ""
+    }
+  ],
+  "videos": {
+    "statut": "sans_cle",
+    "elements": [],
+    "message": "Ajoute une clé YOUTUBE_API_KEY dans .env pour activer les vidéos."
+  },
+  "podcasts": {
+    "statut": "ok",
+    "fenetre_heures": 72,
+    "elements": [
+      {
+        "titre": "Dimanche 8 novembre : L'IA fonce, mais les freins ne suivent pas",
+        "source": "IA du matin",
+        "lien": "https://podcasts.apple.com/fr/podcast/dimanche-8-novembre-lia-fonce-mais-les-freins-ne-suivent-pas/id6829773339?i=1000800548006&uo=4",
+        "date": "2026-11-08T10:37:37+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9e/bb/49/9ebb4968-e0be-f1f6-8733-5b78fde0434e/mza_11295334011495005368.jpg/160x160bb.jpg",
+        "duree_min": 10,
+        "extrait": "Bon dimanche matin! Les nouvelles d'aujourd'hui, c'est les deux côtés de la même médaille. D'un côté, l'IA améliore l'IA de plus en plus vite. Selon METR, les modèles d'Anthropic progressent environ deux fois plus vite qu'il y a un an, et un de",
+        "description": "L'émission « IA du matin » décrit comment l'IA s'améliore de plus en plus rapidement, avec les modèles d'Anthropic qui progressent deux fois plus vite, soulignant une accélération de la technologie."
+      },
+      {
+        "titre": "Samedi 7 novembre : L'IA bâtit l'IA, et les contrôles traînent",
+        "source": "IA du matin",
+        "lien": "https://podcasts.apple.com/fr/podcast/samedi-7-novembre-lia-b%C3%A2tit-lia-et-les-contr%C3%B4les-tra%C3%AEnent/id6829773339?i=1000800400943&uo=4",
+        "date": "2026-11-07T10:22:46+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3e/77/ee/3e77ee4c-4dd7-7410-a923-2f528accb917/mza_16759028222963631275.jpg/160x160bb.jpg",
+        "duree_min": 11,
+        "extrait": "Bonjour, et bon samedi! L'idée du jour donne un peu le vertige : de plus en plus de voix disent que l'IA accélère déjà la fabrication de l'IA. D'autres chercheurs en doutent, et nos sources ne donnent aucun chiffre solide. Mais sur Hacker News, le",
+        "description": "Dans « IA du matin » du 7 novembre, on explore l'idée que l'IA contribue à la création de nouvelles IA, tandis que les contrôles et régulations peinent à suivre ce rythme."
+      },
+      {
+        "titre": "8 NOV - Agents IA en recherche : aucun ne passe",
+        "source": "Glaneur - Intelligence Artificielle",
+        "lien": "https://podcasts.apple.com/fr/podcast/8-nov-agents-ia-en-recherche-aucun-ne-passe/id6782670612?i=1000800515677&uo=4",
+        "date": "2026-11-08T07:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/88/1c/ef/881cef1b-fad2-52f7-3d77-2c92c12da024/mza_13461851867480446149.png/160x160bb.jpg",
+        "duree_min": 3,
+        "extrait": "Au sommaire : Agents IA en recherche : aucun ne passe - The Decoder Fine-tuning retire la propagande des modèles chinois - The Decoder Auditeurs IA : détection correcte, faux positifs nombreux - The Decoder Modèles ouverts comblent l'écart",
+        "description": "« Glaneur - Intelligence Artificielle » signale que les agents IA en recherche n'atteignent pas les critères attendus, et mentionne des travaux de décodage et de détection d’auditeurs IA."
+      },
+      {
+        "titre": "7 NOV - Anthropic accélère sous l'effet de l'IA elle-même",
+        "source": "Glaneur - Intelligence Artificielle",
+        "lien": "https://podcasts.apple.com/fr/podcast/7-nov-anthropic-acc%C3%A9l%C3%A8re-sous-leffet-de-lia-elle-m%C3%AAme/id6782670612?i=1000800367751&uo=4",
+        "date": "2026-11-07T07:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/88/1c/ef/881cef1b-fad2-52f7-3d77-2c92c12da024/mza_13461851867480446149.png/160x160bb.jpg",
+        "duree_min": 3,
+        "extrait": "Au sommaire : Anthropic accélère sous l'effet de l'IA elle-même - The Decoder Artex, le hacking autonome IA exposé en ligne - AI News & Artificial Intelligence | TechCrunch Les dépenses IA des entreprises stagnent malgré les volumes - AI N",
+        "description": "« Glaneur » rapporte qu'Anthropic accélère grâce à l'effet de l'IA elle‑même, tout en couvrant d’autres actualités comme le hacking autonome et la stagnation des dépenses IA des entreprises."
+      },
+      {
+        "titre": "Capsule 156 — Comment gérer les syndicats et représentants du personnel sur les projets IA",
+        "source": "Le Brief IA",
+        "lien": "https://podcasts.apple.com/fr/podcast/capsule-156-comment-g%C3%A9rer-les-syndicats-et-repr%C3%A9sentants/id1827674786?i=1000800521518&uo=4",
+        "date": "2026-11-08T06:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/79/c2/7279c243-8a89-2d21-bdda-3d94a4d62796/mza_17158553724733680146.jpg/160x160bb.jpg",
+        "duree_min": 4,
+        "extrait": "Avant de déployer votre IA vous devez consulter les représentants du personnel. Une contrainte perçue comme un obstacle. En réalité une opportunité de construire des alliés précieux. Dans cette capsule Brief IA vous explique ce que la loi impose",
+        "description": "Le Brief IA propose des conseils pour gérer les syndicats et représentants du personnel lors de projets IA, en les présentant comme des alliés potentiels plutôt que des obstacles."
+      },
+      {
+        "titre": "Capsule 155 — L'IA et la formation des équipes : ce qui marche vraiment versus ce qui fait joli dans les plans de formation",
+        "source": "Le Brief IA",
+        "lien": "https://podcasts.apple.com/fr/podcast/capsule-155-lia-et-la-formation-des-%C3%A9quipes-ce-qui/id1827674786?i=1000800374234&uo=4",
+        "date": "2026-11-07T06:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/79/c2/7279c243-8a89-2d21-bdda-3d94a4d62796/mza_17158553724733680146.jpg/160x160bb.jpg",
+        "duree_min": 4,
+        "extrait": "Deux jours de formation obligatoire pour tous. Un budget alloué. Une case cochée. Mais est-ce que cette formation va vraiment changer les comportements ? Dans cette capsule Brief IA vous explique pourquoi les formations classiques ne fonctionnent pas",
+        "description": "Le Brief IA analyse ce qui fonctionne réellement dans la formation des équipes à l’IA, en opposant les bonnes pratiques aux simples cases à cocher."
+      },
+      {
+        "titre": "#110 – Prospective sur l’impact de l’IA sur les agents d’une Région avec Nael Chouaa et Maxime Champemont",
+        "source": "Parlez-moi d'IA – S'initier et comprendre l'intelligence artificielle - S'initier et comprendre l'intelligence artificielle",
+        "lien": "https://podcasts.apple.com/fr/podcast/110-prospective-sur-limpact-de-lia-sur-les-agents/id1706654536?i=1000800407291&uo=4",
+        "date": "2026-11-07T11:25:07+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b1/86/42/b18642a2-f017-7998-9af0-6eac83332967/mza_6718619850957352330.png/160x160bb.jpg",
+        "duree_min": 30,
+        "extrait": "🎙️ Parlez-moi d’IA n°110, Prospective sur l’impact de l’IA sur les agents d’une Région avec Nael Chouaa et Maxime Champemont 🧐 🤖⤵⤵⤵ 🔮 Emission spéciale, nous allons prédire l’avenir. Non c’est pas la bonne man",
+        "description": "Parlez‑moi d’IA n°110 discute de la prospective sur l’impact de l’IA sur les agents d’une région, avec des intervenants qui tentent de prédire les évolutions futures."
+      },
+      {
+        "titre": "Questions de PME | Peut-on remplacer son CRM ou son ERP par un outil créé avec l’IA ?",
+        "source": "Les PME et l'IA",
+        "lien": "https://podcasts.apple.com/fr/podcast/questions-de-pme-peut-on-remplacer-son-crm-ou-son/id1838342156?i=1000800208413&uo=4",
+        "date": "2026-11-06T08:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1d/f1/52/1df1524d-0596-42d2-792b-e005ebb93112/mza_1371109459105529786.jpeg/160x160bb.jpg",
+        "duree_min": 11,
+        "extrait": "De plus en plus d’entreprises se mettent au Vibe coding ou à la création de codes et d'applications avec l'IA pour remplacer des tâches simples voire leur CRM ou leur ERP. L'objectif est simple : développer des outils qui correspondent vraiment",
+        "description": "« Les PME et l’IA » examine la possibilité de remplacer CRM ou ERP par des outils créés avec l’IA, illustrant la tendance des entreprises à coder et développer leurs propres applications IA."
+      },
+      {
+        "titre": "What the Midterms Mean for AI and the Data Center Boom",
+        "source": "AI Applied: Covering AI News, Interviews and Tools - ChatGPT, Midjourney, Gemini, OpenAI, Anthropic",
+        "lien": "https://podcasts.apple.com/fr/podcast/what-the-midterms-mean-for-ai-and-the-data-center-boom/id1669799110?i=1000800435219&uo=4",
+        "date": "2026-11-07T17:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/f1/ec/57f1ec43-775c-db4e-8a64-92f1d5620a53/mza_16023036586997329241.jpg/160x160bb.jpg",
+        "duree_min": 15,
+        "extrait": "What happens to the AI boom when politics and infrastructure collide? Jaeden Schafer and Conor discuss the midterm elections, the debate over data centers, and the pressure on AI companies to secure power and public support. The conversation explores re",
+        "description": "AI Applied analyse les conséquences des élections de mi‑mandat sur le boom des data‑centres IA, et la pression exercée sur les entreprises pour sécuriser énergie et soutien public."
+      },
+      {
+        "titre": "Anthropic, OpenAI, and the Rising Cost of AI at Work",
+        "source": "AI Applied: Covering AI News, Interviews and Tools - ChatGPT, Midjourney, Gemini, OpenAI, Anthropic",
+        "lien": "https://podcasts.apple.com/fr/podcast/anthropic-openai-and-the-rising-cost-of-ai-at-work/id1669799110?i=1000800588708&uo=4",
+        "date": "2026-11-08T17:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9c/85/09/9c850966-5d35-fc6f-350e-ba7095e33a4b/mza_17403003492195845800.jpg/160x160bb.jpg",
+        "duree_min": 13,
+        "extrait": "AI tools are getting more capable—but who pays for using them at scale? Jaeden Schafer and Conor unpack the financial questions facing Anthropic and OpenAI, the competition between their products, and the growing pressure to show a return on AI spendi",
+        "description": "AI Applied explore les questions financières autour d’Anthropic et d’OpenAI, la concurrence de leurs produits et le coût croissant de l’utilisation des outils IA à grande échelle."
+      }
+    ]
+  }
+}

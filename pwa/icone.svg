@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Icône de l'app : étincelle blanche sur dégradé indigo -> violet (comme le logo de la page). -->
+  <defs>
+    <linearGradient id="fond" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <!-- rx="112" : coins arrondis (icônes « any ») ; les PNG « maskable » et Apple sont rendus avec rx="0". -->
+  <rect width="512" height="512" rx="112" fill="url(#fond)"/>
+  <g fill="#ffffff">
+    <!-- Grande étincelle à quatre branches, centrée (reste dans la zone sûre des icônes « maskable »). -->
+    <path d="M256 112 L284 228 L400 256 L284 284 L256 400 L228 284 L112 256 L228 228 Z"/>
+    <!-- Petites étincelles -->
+    <path d="M372 132 L381 163 L412 172 L381 181 L372 212 L363 181 L332 172 L363 163 Z" opacity=".9"/>
+    <path d="M148 330 L154 352 L176 358 L154 364 L148 386 L142 364 L120 358 L142 352 Z" opacity=".8"/>
+  </g>
+</svg>

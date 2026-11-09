@@ -1,0 +1,73 @@
+{
+  "ajoutees": {
+    "fr": {
+      "Brief IA": "https://www.briefia.fr/rss.xml",
+      "La Crème Du Gaming": "https://www.lacremedugaming.fr/feed",
+      "Martin Cid Magazine": "https://fr.martincid.com/feed",
+      "Foro3D": "https://foro3d.com/rss.xml",
+      "Mac4Ever": "https://www.mac4ever.com/flux/rss/content/all"
+    },
+    "us": {
+      "FourWeekMBA": "https://fourweekmba.com/feed/",
+      "https://tech-insider.org/": "https://tech-insider.org/feed/",
+      "The Information": "https://www.theinformation.com/feed",
+      "Cisco Blogs": "https://blogs.cisco.com/feed"
+    }
+  },
+  "propositions": [
+    {
+      "region": "fr",
+      "nom": "Servicesmobiles.fr",
+      "site": "https://www.servicesmobiles.fr",
+      "domaine": "servicesmobiles.fr",
+      "apparitions": 5,
+      "flux": "https://www.servicesmobiles.fr/feed",
+      "articles_72h": 19,
+      "articles_ia_72h": 12,
+      "exemples": [
+        "Aux Etats-Unis, OpenAI rattrapé par une 10e affaire criminelle liée à ChatGPT",
+        "Artex, l’outil d’attaque IA laissé ouvert qui inquiète le cloud",
+        "Anthropic branche Claude aux comptes bancaires, avec un pari risqué"
+      ],
+      "categorie": "média tech",
+      "raison": "Proportion importante d'articles IA (12/19) et traite régulièrement de sujets techniques pertinents.",
+      "trouvee_le": "2026-11-08T23:20+01:00"
+    },
+    {
+      "region": "us",
+      "nom": "24/7 Wall St.",
+      "site": "https://247wallst.com",
+      "domaine": "247wallst.com",
+      "apparitions": 4,
+      "flux": "https://247wallst.com/feed/",
+      "articles_72h": 100,
+      "articles_ia_72h": 12,
+      "exemples": [
+        "In March 2000, Cisco Briefly Became The World’s Most Valuable Company As Its Stock Closed At $80.06. Buyers That Day Waited More Than 25 Years For It To Close Higher. Here’s What AI Investors Need To Know",
+        "American Businesses Just Unleashed the Biggest Investment Boom in 15 Years — and AI Is Driving It",
+        "Wall Street Just Set a Record That Could Signal Trouble for the Stock Market"
+      ],
+      "categorie": "média économique",
+      "raison": "Bonne fréquence d'articles IA (12/100) avec un angle financier/entreprise, utile pour la veille économique de l'IA.",
+      "trouvee_le": "2026-11-08T23:20+01:00"
+    },
+    {
+      "region": "us",
+      "nom": "SC Media",
+      "site": "https://www.scworld.com",
+      "domaine": "scworld.com",
+      "apparitions": 4,
+      "flux": "https://www.scworld.com/rss",
+      "articles_72h": 10,
+      "articles_ia_72h": 2,
+      "exemples": [
+        "Three charged in $129 million deepfake fraud scheme",
+        "Russian influence operation targets Latin American schools with AI-generated disinformation"
+      ],
+      "categorie": "média tech",
+      "raison": "2 articles IA sur 10, focus sécurité et deepfake, apporte une perspective technique utile.",
+      "trouvee_le": "2026-11-08T23:27+01:00"
+    }
+  ],
+  "refusees": []
+}

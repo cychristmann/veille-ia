@@ -11,5 +11,8 @@ wheels/
 
 .env
 
-# Transcriptions de podcasts produites par l'agent
-transcriptions/
+# Les veilles (veilles/) sont suivies par Git : c'est l'historique publié en ligne.
+# Le site est reconstruit à chaque publication (publier.py), inutile de le garder.
+site/
+sources.tmp
+.claude/
