@@ -13,6 +13,11 @@ on:
     # GitHub peut démarrer une tâche programmée avec un peu de retard.
     - cron: "15 5 * * *"
   workflow_dispatch: # bouton « Run workflow » pour lancer une veille à la main
+  push:
+    # Une modification de l'app (design, code) republie le site sans relancer la veille.
+    # Les commits du robot ne touchent que veilles/ : ils ne redéclenchent rien.
+    branches: [main]
+    paths-ignore: ["veilles/**"]
 
 permissions:
   contents: write # enregistrer la veille du jour dans le dépôt
@@ -43,12 +48,14 @@ jobs:
         run: uv sync --locked
 
       - name: Lancer la veille (France et États-Unis)
+        if: github.event_name != 'push' # sur un push, on republie seulement
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: uv run python agent.py
 
       - name: Enregistrer la veille dans le dépôt
+        if: github.event_name != 'push'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

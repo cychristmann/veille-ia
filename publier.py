@@ -20,7 +20,7 @@ PWA = RACINE / "pwa"
 # Ajouts dans <head> : mode statique, manifeste, icônes, couleur de la barre du téléphone.
 TETE = """<script>window.VEILLE_STATIQUE = true;</script>
 <link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#4f46e5">
+<meta name="theme-color" content="#163b7c">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Veille IA">
