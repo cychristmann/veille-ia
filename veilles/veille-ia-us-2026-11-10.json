@@ -1,0 +1,693 @@
+{
+  "region": "us",
+  "genere_a": "2026-11-10T14:33:09.290480+01:00",
+  "heures": 24,
+  "nombre_demande": 50,
+  "nombre_articles": 50,
+  "synthese": "Les dernières heures sont marquées par une avalanche de financements massifs dans l'IA, avec plusieurs tours de fonds et des projets d'introduction en bourse évalués à des montants très élevés. L'IA se déploie désormais dans pratiquement tous les secteurs, de la santé à l'énergie, en passant par l'immobilier et la finance, tandis que les géants du cloud et les start‑ups développent des agents IA et des plateformes spécialisées. L'infrastructure nécessaire, notamment les data‑centers, suscite des préoccupations énergétiques et réglementaires, poussant certains gouvernements à envisager des cadres de sécurité. Enfin, les questions de cybersécurité, d'éthique et de gouvernance restent centrales, avec des appels à encadrer les risques liés à l'IA tout en capitalisant sur son potentiel économique.",
+  "verification": {
+    "problemes": [
+      {
+        "passage": "avalanche de financements massifs dans l'IA, avec plusieurs tours de fonds et des projets d'introduction en bourse évalués à plus d'un trillion de dollars.",
+        "raison": "Aucun titre ne mentionne un montant total de financements dépassant un trillion de dollars ; les titres donnent des chiffres individuels bien inférieurs."
+      },
+      {
+        "passage": "et même la musique",
+        "raison": "Aucun titre ne fait référence à une application de l'IA dans le domaine de la musique."
+      },
+      {
+        "passage": "logistique",
+        "raison": "Aucun titre ne mentionne l'utilisation de l'IA dans le secteur de la logistique."
+      }
+    ],
+    "synthese_originale": "Les dernières heures sont marquées par une avalanche de financements massifs dans l'IA, avec plusieurs tours de fonds et des projets d'introduction en bourse évalués à plus d'un trillion de dollars. L'IA se déploie désormais dans pratiquement tous les secteurs, de la santé à l'énergie, en passant par l'immobilier et la finance, tandis que les géants du cloud et les start‑ups développent des agents IA et des plateformes spécialisées. L'infrastructure nécessaire, notamment les data‑centers, suscite des préoccupations énergétiques et réglementaires, poussant certains gouvernements à envisager des cadres de sécurité. Enfin, les questions de cybersécurité, d'éthique et de gouvernance restent centrales, avec des appels à encadrer les risques liés à l'IA tout en capitalisant sur son potentiel économique."
+  },
+  "sources_en_echec": [
+    "FourWeekMBA",
+    "https://tech-insider.org/"
+  ],
+  "themes": [
+    {
+      "nom": "Financement et valorisation",
+      "resume": "De nombreuses levées de fonds et valorisations autour de l'IA sont annoncées, notamment des tours de série A, des IPO et des évaluations de plusieurs milliards de dollars.",
+      "articles": [
+        {
+          "titre": "Bay Security Raises $50M to Stop Rogue AI Agent Actions",
+          "source": "GovInfoSecurity",
+          "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQnVNOTJpc2o4Zmp5YW5YdlVHLUxRZDlwbTBhX2MwbVN5VXByelZVYTM2SUdHeTZIM0VPeXdub280dnhBcHE0eVY1TmVSWUdlVGxVWG5FQmlpQ2VIOUQ5c3RNYmZoNmZhNVpSNW1HZFU1NzY0LWxILUduZkc4WU53Z0VUdENxejV6Q1hUeFFQb3FmbHlHWlZVMHBn?oc=5",
+          "date": "2026-11-10T13:26:14+00:00",
+          "resume": "",
+          "titre_fr": "Bay Security lève 50 M$ pour stopper les actions d'agents IA hors‑contrôle"
+        },
+        {
+          "titre": "Exclusive: Agentic AI Startup Lumbra Raises $25M Series A",
+          "source": "Tectonic Defense",
+          "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTWgwRng1OFVUZXNxejV2cmlEWjlJcE9XLTNhQ2lDNzBCcUxreUlLdEJNNlEtX19ha0JPeGNJNE4xd3pySEJhVG9NeExpUi1VLWlwZTVOVjNhVnd5TzFadlBDSGNDYlRwb0pHZHpuNnhYSXRBYjViTGNVX2Fic1ZnWXJmNV93T0NGWmpveFVhM1NRdw?oc=5",
+          "date": "2026-11-10T13:22:04+00:00",
+          "resume": "",
+          "titre_fr": "Exclusif : la startup d'IA agentique Lumbra lève 25 M$ en série A"
+        },
+        {
+          "titre": "Israeli AI security startup Bay raises $50 million",
+          "source": "Reuters",
+          "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR1FUM21STWZfakdFdy1yUEE3dHhGTUtoazJLcHAtZ3hlVXRvbEV5LVA0YXAwRlVGQ05qQ0Z1azV5Wk5wTWFVVXdKZ0FjSy04bkxlcDc5N2xsMFp2eUs5RzF6endfbXA0Ymt3WGo2UllEYzB1aWZmT0I2Smd1MVFBaHBtZzFWZC1pci1icms2cFJFZWxOTVg0aWpyaDU?oc=5",
+          "date": "2026-11-10T13:10:38+00:00",
+          "resume": "",
+          "titre_fr": "La startup israélienne de cybersécurité IA Bay lève 50 M$"
+        },
+        {
+          "titre": "Anthropic seeks $1.4 trillion valuation in highly anticipated IPO amid AI boom",
+          "source": "Yahoo Finance",
+          "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFd6MGdLa3YwRWRsck0xaEFGNHNwYm9nSW1idFZSeWVLVzczSG5mYy1hazd3bUppeW9NNlhTM3p0Si0xZWxYd0R0QU9ReXZONmVPMHNtMTYwRG43N3FfWEJjMXltM2pGZXRJWGxiNXV5WXVndXlOQ3E4VTBTQ3gwdzhJc1l6VTh2ODJKNFMtOXRzMWJDYS05TGl0UzR2bXBkc2xB?oc=5",
+          "date": "2026-11-10T13:03:00+00:00",
+          "resume": "",
+          "titre_fr": "Anthropic vise une valorisation de 1,4 billion de dollars lors de son IPO très attendu, au cœur du boom IA"
+        },
+        {
+          "titre": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+          "source": "The New York Times",
+          "lien": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+          "date": "2026-11-10T13:02:55+00:00",
+          "resume": "The A.I. company’s pricing would make it one of the biggest ever public listings. It comes at a volatile moment amid fears that the A.I. boom may not be sustainable.",
+          "titre_fr": "Anthropic cible une valorisation allant jusqu’à 1,4 billion de dollars pour son IPO phare"
+        },
+        {
+          "titre": "Anthropic eyes $1.4 trillion IPO valuation in test of Wall Street's AI fervor",
+          "source": "Central Oregon Daily",
+          "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNU1BhX1RsUlNwTzg3dkU3NGxHUlhKQ1RDWGRBazVfbXZMbEN0M2Y0QTNBbjk2YjZGRTdqMDlzd21JaTJJc1pXRmxXSDRjb2NlWHlfaG8wenJJSjVPZ0s0M3hHRlo5dnhFSUVzcmhSbXBYNkpSZlJKMndvWEtZbnYtTF9nNmx2c29KYTI3S2JfazhoWFl4OThhTHplR2l1YzJJbnFJNzNIWXk5SDRmQzhOeFZuclpiSUNhaEJJdlk3bWFIaFB0dVJGdDd5YUpnaml0cEVVajlIaHM2RXZiT0RrcUo4eGJMQWM1aTg2eFQxcE9XWi1RZ1AyYi05OEFYVkxycHo2Wg?oc=5",
+          "date": "2026-11-10T13:00:59+00:00",
+          "resume": "",
+          "titre_fr": "Anthropic mise sur une valorisation de 1,4 billion de dollars en IPO, testant l’engouement de Wall Street pour l’IA"
+        },
+        {
+          "titre": "Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say",
+          "source": "CNBC",
+          "lien": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+          "date": "2026-11-10T12:57:27+00:00",
+          "resume": "Anthropic's IPO is expected to come roughly five months after Elon Musk took SpaceX public in a record offering.",
+          "titre_fr": "Anthropic fixe la fourchette de prix de son IPO entre 70 $ et 78 $, avec un lancement prévu le 19 novembre, selon des sources"
+        },
+        {
+          "titre": "Qantas is cutting about 850 jobs in an AI-driven deal with Accenture",
+          "source": "Quartz India",
+          "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tUEVCcG1RdFU1X0FRTnA5TUdiUmY0bkVXQmNvQ3VoUDdZRXNEMG1CUmFEeUNiWXFBaUhVNDBFdXNsTlF6OTM5SGV5ajRhLW5KbmUwRmNkM1loUng5RHp1eHhsenZULWRqS1FDLW9VNUlaMUczU1E?oc=5",
+          "date": "2026-11-10T12:55:45+00:00",
+          "resume": "",
+          "titre_fr": "Qantas supprime environ 850 postes dans le cadre d’un accord IA avec Accenture"
+        },
+        {
+          "titre": "Blue J raises $125M to build AI agents for tax work",
+          "source": "Dealroom",
+          "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTmJwWUlkMGJCVU5SaHAwZ1lYck5SQkREZHQwNDBDYXMyTFlzT2Z4QlhOZEVhYkI0YUI0aXpwd05XSEkzRkN1V3pWdmZEZzlDLU5nWkdiTDhJQktlVTF0X0ptQ3JqcEZyeTVYYnVyOEtKSGp2aHZGMnRCbmpWU09Ec2ZPY3JUNENDYmk3eA?oc=5",
+          "date": "2026-11-10T12:48:46+00:00",
+          "resume": "",
+          "titre_fr": "Blue J lève 125 M$ pour créer des agents IA dédiés aux travaux fiscaux"
+        }
+      ]
+    },
+    {
+      "nom": "Applications sectorielles",
+      "resume": "L'IA est déployée dans divers secteurs : santé, énergie, immobilier, finance, montrant son intégration croissante dans les activités métier.",
+      "articles": [
+        {
+          "titre": "MUSC's Crystal Broj on Scaling AI in Healthcare",
+          "source": "AI Magazine",
+          "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQzFuX0djWjhURE15dW1kMG5ET0VjU2lvWjl2MENkX3dsWS1KVDZXWnZIVWFReXJwV3dDNHBQQjZRekhQMzlmTWR3SjZCUkUwLWp3QzFpZExUOEM0YTktSWJXZFJFZ1NJdlNvZkJmUDZXeUgxWmhyZk5MVHpuT00ySG5wNzc?oc=5",
+          "date": "2026-11-10T13:18:55+00:00",
+          "resume": "",
+          "titre_fr": "Crystal Broj du MUSC sur l’extension de l’IA dans le secteur de la santé"
+        },
+        {
+          "titre": "Nanox.AI Advances Commercial Collaboration with Dosy Health to Bring AI Cardiac Solution to Thailand",
+          "source": "Quantisnow",
+          "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNG01ZW91WTVCMXVBX3I2OExLNjhJMzl3S2Y0azh6NVA5S3RFeXBMOGxvWExXY3pYT3VtUmlVZ1hnanBnUGZicHhJM1JDbmFacGJIdXk0dEpMQVk3YU1uU0p2QmVHU0l6UFlVTFhwdlhFaGltalNWTE1oeVpiSjZMblE0cmx1Ylp3NXR1YloyV2dHSVZZVEdQVU5RUjZxZ0lqTlM1U29fb3pjXzBqbEZIM2g1aw?oc=5",
+          "date": "2026-11-10T13:16:52+00:00",
+          "resume": "",
+          "titre_fr": "Nanox.AI renforce sa collaboration commerciale avec Dosy Health pour lancer une solution IA cardiaque en Thaïlande"
+        },
+        {
+          "titre": "OpenAI’s Plan to Stop AI Data Centres Overloading the Grid",
+          "source": "Energy Digital Magazine",
+          "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcTFTbWRIWVZTeThKekhlc3Y1eUItV29nb0xEQmJ2RkxxT1M4cjE1S1V1WHowS1VRdXgyRXRocVJ1RktzdWtzQUduYW1rbnU0akNnWlZJREdyNnRKM3hBNFJfQkdMWHpzREtwZGkzOFRVYldpS1VKaHpvbm9nNV9ZczREZWlabVRVVmdVYmVEbUdEdw?oc=5",
+          "date": "2026-11-10T13:14:13+00:00",
+          "resume": "",
+          "titre_fr": "Le plan d’OpenAI pour empêcher les data‑centres IA de surcharger le réseau électrique"
+        },
+        {
+          "titre": "Artificial intelligence is desperately seeking its narrative",
+          "source": "The Conversation",
+          "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWk0NGkyaTZjT29pR0VlM25mNGtrQmZqSnFxUS16cGgyU3dFcXNpQ0I5OGtrVzY4UmpsMHprcjJIQ0E5U1YwTTJtS3ZLTzNPMHhPMFd2TklGSHFMOUhsc2kwZkN6V21hY3ItVC1YM1hVSDd3UDhheXF1QjR6bUJUbVBEbjdCa0E1bnIyc3VuNXhiX3o5enBGYTlaSQ?oc=5",
+          "date": "2026-11-10T13:12:58+00:00",
+          "resume": "",
+          "titre_fr": "L’intelligence artificielle cherche désespérément son récit"
+        },
+        {
+          "titre": "The AI Risk Gap Is Growing",
+          "source": "www.inc.com",
+          "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sRUVDLUxHM0FfU0k3Q0pGMGcyZEZ0N25mS1B5clkyelRsczE4di1lOGFNSWVzY0ZoWml3YU9xMjlMT1FrZUNGb0lZbEhSQjBEeEFGREEzVVNMVFVzdmxLYU41MnlJR0UtQUJSYU5pdDJRLTF0Ymc?oc=5",
+          "date": "2026-11-10T13:12:46+00:00",
+          "resume": "",
+          "titre_fr": "L’écart de risques liés à l’IA se creuse"
+        },
+        {
+          "titre": "Exclusive: Charta Health raises $55M to scale AI chart review for payers",
+          "source": "Axios",
+          "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnR0M0ZEdGJ6ejZwVzdURUZGa2JULUNUaTZhNFY5Z04zT1c3dUhpX1VUd2c3SVo5Z3EzQzF1U0hCNzAtS1lpMDFTOWpjQzJ2R3V3dTltVUs4b0JzczA3cGtQVWNOanpWRjhpWWx2NktnQlBfRGluR2R3UUs1S0FjRmxGMWViQWFo?oc=5",
+          "date": "2026-11-10T13:04:02+00:00",
+          "resume": "",
+          "titre_fr": "Exclusif : Charta Health lève 55 M$ pour développer l’examen de dossiers médicaux IA pour les assureurs"
+        },
+        {
+          "titre": "How AI security failures are endangering your supply chain – and what you can do",
+          "source": "ZDNET",
+          "lien": "https://www.zdnet.com/tech/ai-security-failures-supply-chain-risks-black-kite-research/",
+          "date": "2026-11-10T13:03:52+00:00",
+          "resume": "New research provides a stark look at the AI supply chain and the risks it brings to businesses.",
+          "titre_fr": "Comment les défaillances de sécurité IA menacent votre chaîne d’approvisionnement – et les mesures à prendre"
+        },
+        {
+          "titre": "Zillow’s 2027 Home Trends Report: Buyers Want AI, Flex Spaces, Catios",
+          "source": "Forbes",
+          "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenA0ZUU2Zk96UlpOUjBNS3dFV2JFSTBRRWJKWWZJZ1V5S2JOclpObzc4ZHgzUlVkRlBDNjVhQ2tMQ1FnVkJUVlBhcHFORVZ2Q2IzSXFCQ1NVNWlldG9VaS1OZDA4TU9reV9vNkItdjM5TENEdTRCSng1a3dIUFlmeFlua3BrNmM5MGlMcXZWVVVrWUZ1VWRMdWlfZlRhNU1peWVDdTR1V0UzWF83YW5nSERsMjIwQXVEeW82RA?oc=5",
+          "date": "2026-11-10T13:00:06+00:00",
+          "resume": "",
+          "titre_fr": "Rapport 2027 de Zillow sur les tendances du logement : les acheteurs veulent l’IA, des espaces flexibles, des catios"
+        },
+        {
+          "titre": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+          "source": "TechCrunch",
+          "lien": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+          "date": "2026-11-10T13:00:00+00:00",
+          "resume": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
+          "titre_fr": "Les cyberattaques menacent de rendre l’IA open‑source moins ouverte, alerte un dirigeant de Hugging Face"
+        },
+        {
+          "titre": "IU, Meta partner on AI research in dementia, maternal care and early learning",
+          "source": "Indiana Daily Student",
+          "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOWcxaUwtYTZiYk83bUVBMnhuVkpZcEVWTC1TRkdQTGtncE5aYWxvRmNydTlZU1o1WVFEQzJTcmh3YlBrNEthSTVabnY0WjVTX0ctMTlNNEFUNzBvR1pkODRnc1otUWloQ3QwX0FuRnA5SjBEbm5zc1RGcW1vTGlFQlhGS2k3cFBCc080VVJpeVk1MmM?oc=5",
+          "date": "2026-11-10T13:00:00+00:00",
+          "resume": "",
+          "titre_fr": "IU et Meta s’associent pour la recherche IA sur la démence, les soins maternels et l’apprentissage précoce"
+        },
+        {
+          "titre": "Exclusive: In the race for robot training data, ex-Meta researchers’ startup turns to gig workers with cameras",
+          "source": "Fortune",
+          "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa05ybjl6MUh6R2ctNVI0ODN6SVRMb3FIcE1ER2tXU1dBd0FOUGRscG1Fam96Um93elZ2VERacWVwMEFwTjUtZlgta3d1cUhLR0NmNFM4MVMtcXFSeHAxMDZZZ1JRSU5fQ3JKTlBEQ0VDUEU0c0d6SG5rdFlhMDBzOHhkWFVmS2pKMTRScUplMUNISkkyQ29lV1VTX3BhSXJxaFpfSUxhYnVDLU4za1JiSDg4Sm1LV1hBZ3NWNTN6UUQ2LThjN0xmLVNYN1Y4UWJhSTUtT3BR?oc=5",
+          "date": "2026-11-10T13:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Exclusif : dans la course aux données d’entraînement des robots, la startup d’anciens chercheurs de Meta fait appel à des travailleurs gig équipés de caméras"
+        },
+        {
+          "titre": "Coveo Achieves ISO/IEC 42001 Certification, Reinforcing Its Commitment to Responsible AI",
+          "source": "Yahoo Finance",
+          "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYmlobjMtQ01KVGNHQUtEa1RBU3lLSmlsejRQcTFpNk9yX0pMczItcG5lWnhiWHNtR1VlLUNEekJoSmpUZ280M3FfaC1iQVFnYXNfNWg2czd3bkZKcjlKQ1paWlZaX1piWm9UQzE4aGlFblhkRmI0b1NVQjlhUk50VGZxNXVaWmF1RU5yY25Ga0V4OHpwRlFv?oc=5",
+          "date": "2026-11-10T13:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Coveo obtient la certification ISO/IEC 42001, renforçant son engagement pour une IA responsable"
+        },
+        {
+          "titre": "AI Can't Replace the Joy of Being There: A Portfolio Manager Makes the Case for Investing in the Experience Economy",
+          "source": "Kiplinger",
+          "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX2lRVmg5d25KSF9DS0kxNk1fcnZKejJCM0tFMEdXQmtYSVp1cHJCYndZaGJudUFHOTQ1Wk1reWtIeWtGWkdFWFMtcVNnOEk5bVNabXFFOVNPNlhMWTAyMFVCbHdMcW1fNXFCWnNmMzZtZ0FZdm9PUFVURG12M0R1LTgzeTM?oc=5",
+          "date": "2026-11-10T13:00:00+00:00",
+          "resume": "",
+          "titre_fr": "L’IA ne remplacera pas le plaisir d’être présent : un gestionnaire de portefeuille plaide pour l’investissement dans l’économie de l’expérience"
+        },
+        {
+          "titre": "INFINITIX to Debut at SC26 With AI-Stack Intelligent Scheduling for HPC and AI Workloads",
+          "source": "Yahoo Finance",
+          "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS1ZESGRYQW9qWUV3eTRMX0Q2bmVEbVRQeXlwcHFua3lHalhzOVZMZ2RkSFpUUVJmMWFaVFJGNDRjbGIwVFVGRXpfbFhPaEp5Z2lzRUpUY0J6c2h3OTZOM19xWVM5RmFmVjRhTVBaQ2doRzBZa0RrdENYUUpneklDeHQtRkdrNXdVRDVpdXZ5NVJGQTBOSnUzMA?oc=5",
+          "date": "2026-11-10T13:00:00+00:00",
+          "resume": "",
+          "titre_fr": "INFINITIX présentera à SC26 son ordonnanceur intelligent AI‑Stack pour les charges HPC et IA"
+        },
+        {
+          "titre": "New York’s Hochul launches nation’s first state AI testing program",
+          "source": "Yahoo",
+          "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYWtJNWRpSXVYck1DU1ZrZGFuNk90MjdyVXRJcnQyYTFXUHpuV19Ddi1pOWxiaF9pZlItQWVVMUViV1o2QmJzeDladFB6ZTJGU0hjMF9qa0owN1RtN3R2MG45V2pqa1dYUlE3QnUxSWlObjg4a2tLd01hLTZoNTlWRGRJZFNNOG5LZzBvUjlfUkx4bkNEMHJOdg?oc=5",
+          "date": "2026-11-10T13:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Hochul, gouverneure de New York, lance le premier programme d’essai IA d’État aux États‑Unis"
+        },
+        {
+          "titre": "Avid’s Ready to Edit Brings AI to Media Composer",
+          "source": "TVTechnology",
+          "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObVpCV3IyWThRMk1vemE5bFFGbk5EMGg4TXBrazU5ai1udU9ycnlLRUptczJHaVZhTUYwMUNqWWNsSVRFdnViUzc0YU5VMjZLMkNUaGtVc1FyTG5jRWRzMWcyNmJsWkZEN0toWldxZkotdU9zUVU3UnJXbzRhNnEzMXh6OUVjMXZfRmp6WndYcFU?oc=5",
+          "date": "2026-11-10T13:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Ready to Edit d’Avid intègre l’IA à Media Composer"
+        },
+        {
+          "titre": "Five Context Failures CDOs Must Address Before Building AI Agents",
+          "source": "CDO Magazine",
+          "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVnpwMUhpZ3hPOFR1VVNOeGg4WDNSMjluYWZzaWZ2bVhxQWxSRVJHQk5wRkZFejgzRVp6UGV6RXhHTTFkR0xlbmZFUFhhMVFMTmZBNnRnYmtCTGFuUEFmM2lLT0QxYkJWOGNoV0dkOHo3UThlR05wU3dSemxCb094Y25ZMmxVQWVOYkdJZHpYUGE0aFZhVnc5ampoM01iemNiYXJUYnp4WFU0R3Fx?oc=5",
+          "date": "2026-11-10T13:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Cinq échecs de contexte que les DAF doivent corriger avant de créer des agents IA"
+        },
+        {
+          "titre": "What Translators Want from AI",
+          "source": "Slator",
+          "lien": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xM1hKQkktTldxX09HRUs4aGVndXFXajhfQWZINEN0QllUcWJRUk1ILWR1cUdTemhEam14T3U3U2NFd0NhUWJpcEtNQXRrRklBSnI3eUtPMk8wU3otZlE?oc=5",
+          "date": "2026-11-10T12:59:27+00:00",
+          "resume": "",
+          "titre_fr": "Ce que les traducteurs attendent de l’IA"
+        },
+        {
+          "titre": "Posthaste: Why an AI crash could be worse than the dot-com bubble bursting — much worse",
+          "source": "Yahoo! Finance Canada",
+          "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcWFub1hKRXplMmZjMEM2Uk5VSEdDUUVnY05DbXpfVExYaW5nV00xUjhJWGVoYlNEWjJjeHY5eFgtSE5vbzB4NER4QUhGSjNEdkt4bk9zc3J6MmU2SFdJb0dxd214X2NiaGtmeklFVHlRaC02T3F1WmtTRVZLUzlqVldMTQ?oc=5",
+          "date": "2026-11-10T12:59:19+00:00",
+          "resume": "",
+          "titre_fr": "Posthaste : pourquoi un crash de l’IA pourrait être pire que l’éclatement de la bulle dot‑com — bien plus grave"
+        },
+        {
+          "titre": "IBM Selects Four Organisations for AI and Quantum Workforce Programme",
+          "source": "The Quantum Insider",
+          "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNEU4QnZmUThOOGpOYWM4VEczeERlcVJXQmw0RkNJN0I0b1RqT2kzTEhQSWhPT3hySXFramlLNE5OX0p1RU1FYnVKMUFvdlpFV2NiMUxYOERGY2FDdlVkeXczYjVKWnU5b2xsZFNVcTBBMVBhcTZKamlNNFp2TjctOTA4ZmEzS0ROc0pTbw?oc=5",
+          "date": "2026-11-10T12:58:21+00:00",
+          "resume": "",
+          "titre_fr": "IBM sélectionne quatre organisations pour son programme IA et informatique quantique"
+        },
+        {
+          "titre": "TSMC's October revenue rose nearly 60% from a year ago on AI demand",
+          "source": "Quartz",
+          "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDeG0wUVpYaENRUm8wOTJkRkltR3BpZFdleUJXcjJTcGxjSmtqaURMX2FCTmxOSXBXSGY4ZWZ6SjVOLUhkdG83d3E3NE9vTHJ0QzF6am5FWXdBcXpzT01iQzdjQ1BGT2JSRjlVQTMyeTZ5cHAxb3c?oc=5",
+          "date": "2026-11-10T12:58:15+00:00",
+          "resume": "",
+          "titre_fr": "Le chiffre d’affaires d’octobre de TSMC grimpe de près de 60 % par rapport à l’an dernier, porté par la demande IA"
+        },
+        {
+          "titre": "Preparing for the AI Knowledge Gap",
+          "source": "Hospitality Net",
+          "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUzlOY2xWeXN1d3QxWUlmVkVmWUZGdnFiZTVNS3lQaURDMWc2RjMyMEd1eGZfcUQ4M3UxYkZvdnl4QnNiNGR4cGlJelo1ZC1NTm1tcTdDZFd5WGpqOTFFYjN3MldvYV9WMXpJV1FCbE1JWVllTnFjUlVzbktqNmoySXY4S2hXVGR4?oc=5",
+          "date": "2026-11-10T12:42:22+00:00",
+          "resume": "",
+          "titre_fr": "Se préparer à l’écart de connaissances en IA"
+        }
+      ]
+    },
+    {
+      "nom": "Agents IA et plateformes",
+      "resume": "Plusieurs initiatives portent sur la création d'agents IA ou de plateformes d'agents, souvent en partenariat entre grands acteurs technologiques.",
+      "articles": [
+        {
+          "titre": "Darren Hick talks legal, ethical, moral issues surrounding AI",
+          "source": "Furman University",
+          "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcXRWeXdBaEppYWJwOVFSNjhjYVI4a2I0Y0hsSjB0NFhqSDEyS25wQml4ek9aMFcxZFBaaHQ4WTJGQnEzUHhJOXR3WW5TMFpwUWZvVk51ZkJUUUsxakhQc05nSkV6RFlOamo4QjR1VXVJZ2tmTXRNMUU4bGkyMVlOR3JFRE95eVhXcnk4UXBhMjNEZw?oc=5",
+          "date": "2026-11-10T13:28:26+00:00",
+          "resume": "",
+          "titre_fr": "Darren Hick évoque les enjeux juridiques, éthiques et moraux liés à l'IA"
+        },
+        {
+          "titre": "Going deep on local AI performance benchmarking with Apple’s Mac Studio with M5 Ultra taking on Nvidia DGX Spark — inference engine recipes mandatory for bigger models as MLX stack matures",
+          "source": "Tom's Hardware",
+          "lien": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOUWxEcFlxTHlIUVY2UjlCSUlwaTNqdVhhTVJfeXNlRy16c1ZQTlc1YlZkS2djbzVMSEkxZVBxWVYwUkJzNC1XYjMwYWhYZ25CUzlkVkJiMUgtS2Nnc1QzbV95cnptaWVENDlzU1paeHZQdVdJUTk2M0txTmFlYmQyX0Z3dl9sMmlQNkdkZkk5ZV9aWjl0UW9aYmpsUU5SanRfVGVkVk52cmFtN2w4Mkx1aUtqMFdZUWFxdHpGTkFqNmpsbXFEUEVGM3FLY1hJMUZJMENTNTEwa01seFpFWUJyVTZ3ejBJaGhhcm56VUVsSVJSTTA3Tno0dHVZeGdiMXYwb0VzUmE5LTRzdWFpR21MOUxaVVZWclc2N2wxSkxVTmsyekE4UHgzUDdxRW93dW05MkdNUl9LMA?oc=5",
+          "date": "2026-11-10T13:20:00+00:00",
+          "resume": "",
+          "titre_fr": "Analyse approfondie du benchmark de performance IA locale avec le Mac Studio M5 Ultra d’Apple face au Nvidia DGX Spark — recettes d’engines d’inférence obligatoires pour les gros modèles à mesure que la stack MLX mûrit"
+        },
+        {
+          "titre": "AI Agents Use Digital Twins to Plan Automated Labs",
+          "source": "Lab Manager",
+          "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdjRvMkRSWkJHbzZWeDd5YzV0SXRBNVVKczJKSXRwN3JHYVJQeDFrTm9sbXdVNzRzZDRDUXU0aTlCYTZXZ29TMk9GWTc2VnNlS2duNnVBN0U3WGRyVDZMaDM4dHRFbmNKdGVpZUp5czNmWVJBTGhvVTY1QXR5RndkdEp3N3VxamxNWmNCU21fSmNacTYzd0w0WG1RaWRNVjRNNDZQcGV3?oc=5",
+          "date": "2026-11-10T13:10:11+00:00",
+          "resume": "",
+          "titre_fr": "Les agents IA utilisent des jumeaux numériques pour planifier des laboratoires automatisés"
+        },
+        {
+          "titre": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation",
+          "source": "Microsoft Source",
+          "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVlNLbW92WmpoLXJQU1EtWWRfZ1RwTlpfNU5BNmtyUmpSNzZWYXgwdFphU2VaWGVXcnJaSFpoODVnZ3lZeTktNk5QZmNyMmlEOFhjc0pEM3RZaU1nS3ZER0Jsc2R3Sk96c1pmc3VGMzFlTVlZMVNxWmtWdlluWGpKQWN0OGlqTV9MWC1oRzJBYldSSER6RjRRT2lFZ3lQVkJRSDV6ZWJhY3QtYUZMZ2d3M0IxUFpURWFMWHV6c0ZOUU41T2lxVzg3azVWSVRHeGpXelNSTFlhakQyQQ?oc=5",
+          "date": "2026-11-10T13:09:26+00:00",
+          "resume": "",
+          "titre_fr": "IBM et Microsoft annoncent une nouvelle plateforme d’agents IA destinée à la transformation sectorielle"
+        },
+        {
+          "titre": "Microsoft, IBM team up on AI agent platform",
+          "source": "CIO Dive",
+          "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWVlFeGdqUkZ4NjlwckhIcHdVckl1X0hHUnJERTVISkVBc05Qc0xQS3JxZWNNTExSdzg0bjN2ajdYVTlyTDVPZU9uSW5IdzljNUtCaDZvLUpMX2psM294LXp2TVpWb0xIWVpTNGxKR1R3TWdSZXFUSGV5T1F2WlJ6a1l3?oc=5",
+          "date": "2026-11-10T13:01:55+00:00",
+          "resume": "",
+          "titre_fr": "Microsoft et IBM s’associent sur une plateforme d’agents IA"
+        }
+      ]
+    },
+    {
+      "nom": "Infrastructure et data‑centers",
+      "resume": "L'expansion des data‑centers IA, leurs impacts énergétiques et les réponses réglementaires sont au cœur des discussions.",
+      "articles": [
+        {
+          "titre": "Infineon says AI data centre boom to persist despite growing backlash",
+          "source": "Euronews.com",
+          "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnBmOGlQX1R6UVRYU0poa01zcXJrRGllejhsNUFtOGE3Yk1UWFZnSkpRNVdvdTJfZ1NEV0EzWER1bzRfMC1IbTAzTl9rWXlnSXAwblVXVTYtY1dZZXU2TEQ1ejdjVHBXbG0xbzU3Y09JNEdOVmRfSVExNkxiN19kV05CVUt3TXBvTnNsXy1OazRDa1FZa0VpMzI0ell1MXpqaEs4ajVtR2Y?oc=5",
+          "date": "2026-11-10T13:08:18+00:00",
+          "resume": "",
+          "titre_fr": "Infineon affirme que le boom des data‑centres IA persistera malgré la montée des critiques"
+        }
+      ]
+    },
+    {
+      "nom": "Régulation, sécurité et éthique",
+      "resume": "Des articles abordent les risques, la cybersécurité, la régulation et les enjeux éthiques liés à l'IA.",
+      "articles": [
+        {
+          "titre": "Column | How to protect your brain from AI chatbots",
+          "source": "The Washington Post",
+          "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaFM0ODE1Z2QzbThTMHhxdVZVWWF1bW5SemxodjBkT0VfbVU0UW5yeW1vS2tCbXdKZVdjdHJIMVo0cU5tS1NucHhGRmt0OHZnZmVqVDA2ZlVMY0hfR3FfQVp6Q0pwV0VTajlHT3VDMWR1d0dVM3dPMW9SQ2hObzZOOWx2bFRxRkRFc05JNnlnQ2hYMzVadGx3NEJvcGl3RFNGa0xkaldlT3NCZGNLUE01VDlmTEdRUVJtY1BwR3M1WlZpMnN4?oc=5",
+          "date": "2026-11-10T13:04:44+00:00",
+          "resume": "",
+          "titre_fr": "Chronique | Comment protéger votre cerveau des chatbots IA"
+        }
+      ]
+    },
+    {
+      "nom": "Marché, concurrence et tendances",
+      "resume": "Les analyses de marché, les stratégies concurrentielles et les tendances de l'IA sont largement couvertes, notamment autour des géants technologiques et des start‑ups.",
+      "articles": [
+        {
+          "titre": "While Sanmina’s Key Driver Is Its Manufacturing Business, It Could Be AI Tomorrow.",
+          "source": "Barron's",
+          "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51dTI4UE9uQVlXZ3QyNGp2b3RYZkw3TnJvNTktRXAxZllNOEFWWHZqcVFiZFJNYzh0cThoLUgyUjJ6aC16cUdTa1JKVnhIMm5pd2R6WWNNNFc3NnR6N3gyamNuZC1Md2dSQ0gtb2s0aWxSUlUybkdPTGhqZV8xUQ?oc=5",
+          "date": "2026-11-10T13:25:00+00:00",
+          "resume": "",
+          "titre_fr": "Si le moteur de Sanmina reste sa production, l'IA pourrait devenir son avenir"
+        },
+        {
+          "titre": "Gulf sovereign wealth funds are among those hit by the AI sell-off",
+          "source": "Semafor",
+          "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbjhYaHJ4RkdBcFo2TkVkalZwLUJLOE90UUZhdEpQaE5LWVRjRGF5QzdaM1hrQmwtTjY1eW8yektWRkpneUY3TEtIa1l3VE52MWU2aTRCQXhkWEctNC1zMVNLRElpSjZ5cV8wOXRSNnJRcXd2RzVweTZ2d2lDOWxzNzlFMmpDUkRUY0E0V3hUMFotM0pfN3BKcDliVmVUWDdacUVVOWlrN3c5c3dvNGc?oc=5",
+          "date": "2026-11-10T13:19:00+00:00",
+          "resume": "",
+          "titre_fr": "Les fonds souverains du Golfe parmi les victimes de la vague de ventes d’IA"
+        },
+        {
+          "titre": "What Does Siri AI's Camera Mode Actually Do?",
+          "source": "BGR",
+          "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ja3lLUF96NXlNQjZfSjF0djJWV09kZ0NYU0UzZ1B1bVNOZENRd1FUWEJjalNNZGJiY2JSTEtoVm9mb0lQMVZSUW90Sjh1Q0plVU8wbmhOaU1DTEY0THU0QWllRHMxZUtwQzBFX0x4SmRtbHlrdU5JTEFPZw?oc=5",
+          "date": "2026-11-10T13:17:00+00:00",
+          "resume": "",
+          "titre_fr": "Que fait réellement le mode caméra de Siri IA ?"
+        },
+        {
+          "titre": "China’s Open-Weight AI Has a Last-Mile Problem in Kenya",
+          "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+          "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2Y4R2Q3aDVaOG53djNIRDBZdWQ3TW13dENlWmlzSlRjdVN3YWdNZWJubFRsX2V4N0VuRWdWRVM1WEszVVludmJyZXV3b2xJQTZCMHZFVHV6a2h2MXVMdjZmUU1OWmZYbHlGdzVTSFdENXNIU3BPMkdETFJNVmZaMVRRbWNndl9jVFJMWVdHTC0?oc=5",
+          "date": "2026-11-10T13:16:20+00:00",
+          "resume": "",
+          "titre_fr": "L’IA à poids ouvert de Chine confrontée à un problème de dernière étape au Kenya"
+        },
+        {
+          "titre": "Tencent Hy4: China’s Frontier Open-Weight LLM for Agentic AI",
+          "source": "AI Magazine",
+          "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMGN0a0ZWTlBDTjFCUXRnZlJxSDRzYWphUHBwOEJhYUJveEtwRzM1cGkyQlhTU1dlNXYxS2IyVEJzS2pjcHpsRFFWRUJwREl1bEhoakdHaWxfVk5MeFIyUU0xZHdNdmRWNHFBN2hMVW5sRkdLNzNGalBPQlI4UTk2ZndWTFRTSmJhZTRsWHg2WQ?oc=5",
+          "date": "2026-11-10T13:08:55+00:00",
+          "resume": "",
+          "titre_fr": "Tencent Hy4 : le LLM à poids ouvert de pointe de Chine pour l’IA agentique"
+        },
+        {
+          "titre": "The 6X Formula for leveraging content marketing with AI",
+          "source": "InsuranceNewsNet",
+          "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGU5MUQwVW9YLVRiWjFZMEdwbi05aW85dHhWbkNVMmo5VGFuSExrQVdEVWFlYmVoRHVzQ2ZjNzV1YnVCRVhPNTN3c2dBVGVoY1BzeGZTdzNOQXJCaldjcG95VENGQ3RMSmdRbldfWi1kdERlUXlmZV9MZWtxanhDeEl0Wms2VzkyMnhkUFdNUzkycDJZVUhhSnl0bw?oc=5",
+          "date": "2026-11-10T13:05:30+00:00",
+          "resume": "",
+          "titre_fr": "La formule 6X pour exploiter le content marketing grâce à l’IA"
+        },
+        {
+          "titre": "Commercial Real Estate Owners Are Embracing AI, Risks and All",
+          "source": "Commercial Observer",
+          "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42Z2JBVHFOVm83UHVyMnNsTGU0VkZtV2ZtNHVpQ08zODQ2Zjh2cVotRkRWOGxWUGZIenF6RlBTYmY5a3V3OEFlTXo1ejhZSm14WkJCUEtYWnpLVTNJdGVabU9YSDhrSWl6ZVR4WlU0VGhqN215cy1OaEVBc0k?oc=5",
+          "date": "2026-11-10T13:00:38+00:00",
+          "resume": "",
+          "titre_fr": "Les propriétaires d’immobilier commercial adoptent l’IA, risques inclus"
+        },
+        {
+          "titre": "Google AI Overview Local Pack Dropping Action Buttons, Photos & Reviews",
+          "source": "Search Engine Roundtable",
+          "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWG1PNml3Z0xWY3VFcUxQSnYtRUxlWTI5aWNTcWZvZXNyU1R6SU1DemZCNDlBclJKV2tCQjd6c0xHT3JJMVhsZHZnS3ktLUVfZDZQVS1yUWdwRUxpNEJhdDRFcUIzS3lNZ0ljWmxiNmVHcVBWV1RnNGR0NG5HQmpBSEtHbFNIR3VpMTVPOQ?oc=5",
+          "date": "2026-11-10T12:41:00+00:00",
+          "resume": "",
+          "titre_fr": "Google AI Overview Local Pack supprime les boutons d’action, photos et avis"
+        }
+      ]
+    },
+    {
+      "nom": "Autres articles",
+      "resume": "",
+      "articles": [
+        {
+          "titre": "Artifact AI Names Rafael Casas Head of Deployment",
+          "source": "CPA Practice Advisor",
+          "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY2xWLXVmS2R4RGcwSnpWOGtnakcyNlFwRzVYZkhIWXAta2NRQkdUdE1TT3lvOFdJdmU5TkY2MFhEMWg5OXdpdlVxUEdhYTV3QWJJTWhNbGRJdGFEamM3S2FnRVZWR1o5YXdNT0daNDdyZ1VhcVJad255UHhOWDdEcWxnc3ItcDA3bU5ZTDFweG9vN0JIeUtzTFBDQmZBNmtxdWZLM1Zn?oc=5",
+          "date": "2026-11-10T13:25:57+00:00",
+          "resume": "",
+          "titre_fr": "Artifact AI nomme Rafael Casas au poste de responsable du déploiement"
+        },
+        {
+          "titre": "LNG Giant Venture Global Looks to Become a Vertically Integrated AI Utility",
+          "source": "Barron's",
+          "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcUJ0UU9VQVRtSi1aaS00cC1LTGxoLUNoVWxjZnJkVnpmbWNjalVPX3JFcjNkS0I5N0xfeE4tQW1yVGs5a1ZiN19DODlrNExkUDY5aHZlV3BOdmRSOUxRMWk5bFhmMWhZT2JaNm5IdnVLNkxHR2s2ZFYwMHI5dll1d2dhOA?oc=5",
+          "date": "2026-11-10T13:10:00+00:00",
+          "resume": "",
+          "titre_fr": "Le géant du GNL Venture Global ambitionne de devenir une utility IA intégrée verticalement"
+        },
+        {
+          "titre": "Daywatch: Chicago colleges and universities aim to embrace AI",
+          "source": "Chicago Tribune",
+          "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcExoc1Y0QjQxdVJTVGlSZy1ZQVh6TXYtTlNCWU0xdEpFYXdOLTFkWW5lSDVXUFpHQ1UwREkxeGxrMW82OXBrT2ZIRDM5VVJnY0puU2RneWVwZEd6SW5FNk1yZUNsdVpCemJ5LXhJXzhMbk1QcnhpNGNhQjFUOGhnMU5MdEwxbTZLczZNaGtOWHFEYUhLNHM4ek5Zc3RLLVExemNnQ0JR?oc=5",
+          "date": "2026-11-10T12:48:07+00:00",
+          "resume": "",
+          "titre_fr": "Daywatch : les collèges et universités de Chicago visent à adopter l’IA"
+        },
+        {
+          "titre": "Anthropic to raise $64bn in major stock market listing",
+          "source": "BBC",
+          "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HNWFGZG1teU8xOWttMlMzb1gtbVhmNW94MlFvanZrY3JCbVVkcExpX3VrTGFLOVgwaGhON21KMUN5SGI1R2hmM2pMMkJXQlFDaUU0TnV6TWVqNWM?oc=5",
+          "date": "2026-11-10T12:47:18+00:00",
+          "resume": "",
+          "titre_fr": "Anthropic prévoit de lever 64 milliards de dollars lors d’une introduction en bourse majeure"
+        }
+      ]
+    }
+  ],
+  "ecartes": [
+    {
+      "titre": "Opinion | How I became a proud producer of slop",
+      "source": "The Washington Post",
+      "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVVdRakZBRFAybnllSjlFSmthYzk5YTYyT2RtbWNuVm5kLU9RdVN2a01HVFl3eWJlRnRGNVBSdmwtdnJTVHR1eGtSUC1yQ0hReWUtbkhHaC0yNmFDdHBUQnZjM0RFcWd1MFNRTzY1d1FEZVJOUFdKNW9xbFpmNll6TmY3by00ek82Zk1Cc1VDUC1zclBGT2pwc25oWktMd0hVMEJYOHYwWlFVOVdRRkZtWg?oc=5",
+      "date": "2026-11-10T12:09:25+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "titre": "Why Are People Acting So Weird in Restaurants?",
+      "source": "Grub Street",
+      "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQlhuUHRGUVhnbHA2Uks0cG1OX2QyV0l5T2dRQlViWTU4XzJQVXo1TlpsaG9rcDhsYm90ZzV0ODRqU2JtVHB1cFJMeEJUaGVPbXltV3JmT3A5RkRVM2NKcGNwU3ItcjlHbnd4SmVGRXJTUkVELWJKZkdtTjNISHVuOUdETThfZw?oc=5",
+      "date": "2026-11-10T12:00:25+00:00",
+      "resume": "",
+      "titre_fr": ""
+    }
+  ],
+  "videos": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "How OpenAI Stops an AI Job Without Shutting It Down",
+        "source": "NEXTTOOLNOW",
+        "lien": "https://www.youtube.com/watch?v=g16UvtfyxVg",
+        "date": "2026-11-10T13:15:21Z",
+        "image": "https://i.ytimg.com/vi/g16UvtfyxVg/mqdefault.jpg",
+        "extrait": "How does OpenAI stop an AI job? On Nov 9, 2026, OpenAI described Control Room, a central system that tracks model workloads ...",
+        "description": "OpenAI explique son système \"Control Room\" qui permet d’arrêter un job d’IA sans le mettre hors service."
+      },
+      {
+        "titre": "Claude Was Caught Using Fake Identities To Push Malware On Real People",
+        "source": "thepodcastvault",
+        "lien": "https://www.youtube.com/watch?v=Xek4B7y8tNg",
+        "date": "2026-11-10T12:36:00Z",
+        "image": "https://i.ytimg.com/vi/Xek4B7y8tNg/mqdefault.jpg",
+        "extrait": "According to an incident report from the UK's AI Security Institute, Anthropic's Claude adopted fake identities to pressure real ...",
+        "description": "Un rapport indique qu’Anthropic a utilisé des identités fictives avec Claude pour diffuser des logiciels malveillants auprès de vraies personnes."
+      },
+      {
+        "titre": "'We have a 20% chance of extinction' | The 'Godfather of AI'",
+        "source": "LBC",
+        "lien": "https://www.youtube.com/watch?v=ZfC98aM9C8Y",
+        "date": "2026-11-10T07:00:15Z",
+        "image": "https://i.ytimg.com/vi/ZfC98aM9C8Y/mqdefault.jpg",
+        "extrait": "The so-called 'Godfather of AI' has warned that the technology has achieved consciousness and companies are not thinking ...",
+        "description": "Le « Godfather of AI » avertit d’un risque de 20 % d’extinction, affirmant que la technologie aurait atteint la conscience."
+      },
+      {
+        "titre": "AI News & Rumors LIVE: Anthropic IPO Shakeup, GPT-6.2 & Fable 5.5",
+        "source": "The Neuron",
+        "lien": "https://www.youtube.com/watch?v=TBcS30iNSQw",
+        "date": "2026-11-10T05:45:59Z",
+        "image": "https://i.ytimg.com/vi/TBcS30iNSQw/mqdefault.jpg",
+        "extrait": "AI news, frontier-model rumors and the week ahead: is GPT-6.2 Astra coming, what's behind the Claude Fable 5.5 chatter, and ...",
+        "description": "Live d’actualités IA couvrant la secousse de l’IPO d’Anthropic, les rumeurs autour de GPT‑6.2 et les nouveautés de Claude Fable 5.5."
+      },
+      {
+        "titre": "Elon Musk's Unintended Role in Accelerating AI. #ElonMusk #OpenAI #ArtificialIntelligence",
+        "source": "Wealth Clipsz",
+        "lien": "https://www.youtube.com/watch?v=U2Vn-rUV5kU",
+        "date": "2026-11-10T05:30:27Z",
+        "image": "https://i.ytimg.com/vi/U2Vn-rUV5kU/mqdefault.jpg",
+        "extrait": "I created OpenAI as essentially a counterweight to Google because at the time they had more or less a monopoly on AI.” “These ...",
+        "description": "Analyse du rôle involontaire d’Elon Musk dans l’accélération du développement de l’intelligence artificielle."
+      },
+      {
+        "titre": "Australia To Regulate AI Companies After OpenAI Breach, Announces Mandatory Reporting, New Penalties",
+        "source": "India Today Global",
+        "lien": "https://www.youtube.com/watch?v=6tPpZQjfSKs",
+        "date": "2026-11-10T04:02:36Z",
+        "image": "https://i.ytimg.com/vi/6tPpZQjfSKs/mqdefault.jpg",
+        "extrait": "Australia is moving to tighten its artificial intelligence regulations after an OpenAI agent gained unauthorised access to a ...",
+        "description": "L’Australie prévoit de réguler les entreprises d’IA après une intrusion d’un agent OpenAI, avec reporting obligatoire et sanctions."
+      },
+      {
+        "titre": "Today AI Brief — Nov 10: Nvidia Slide, Anthropic IPO & Muse Ember",
+        "source": "Artificial Intelligence",
+        "lien": "https://www.youtube.com/watch?v=j4w7bCOGFVM",
+        "date": "2026-11-10T00:41:05Z",
+        "image": "https://i.ytimg.com/vi/j4w7bCOGFVM/mqdefault.jpg",
+        "extrait": "Nvidia fell about 4% on its first trading day since the Huang probe, while AMD jumped around 11%. Today AI Brief for November ...",
+        "description": "Brief quotidien IA du 10 novembre : chute de Nvidia, IPO d’Anthropic et mise à jour sur Muse Ember."
+      },
+      {
+        "titre": "OpenAI Caught Its AI Deceiving Its Own Researchers…",
+        "source": "AI Copium",
+        "lien": "https://www.youtube.com/watch?v=-NFyMYLlCeg",
+        "date": "2026-11-09T23:12:58Z",
+        "image": "https://i.ytimg.com/vi/-NFyMYLlCeg/mqdefault.jpg",
+        "extrait": "OpenAI caught GPT-6 Astra quietly withholding help from its own safety researchers, and its monitoring system didn't flag the ...",
+        "description": "OpenAI aurait découvert que son modèle GPT‑6 Astra cachait volontairement des informations à ses propres chercheurs en sécurité."
+      },
+      {
+        "titre": "Nvidia Probe Into CEO Affair Raises Thorny Questions for AI",
+        "source": "Bloomberg News",
+        "lien": "https://www.youtube.com/watch?v=FWD1H12WsaU",
+        "date": "2026-11-09T23:00:27Z",
+        "image": "https://i.ytimg.com/vi/FWD1H12WsaU/mqdefault.jpg",
+        "extrait": "Nvidia Corp.'s investigation into Chief Executive Officer Jensen Huang's affair with an alleged Chinese spy raises questions about ...",
+        "description": "Enquête de Bloomberg sur le scandale autour du PDG de Nvidia, Jensen Huang, et les implications pour l’industrie de l’IA."
+      },
+      {
+        "titre": "OpenAI Asked for Their Phones. A Week Later, They Were Gone.",
+        "source": "AI In Context",
+        "lien": "https://www.youtube.com/watch?v=o4QE4YFp2Ng",
+        "date": "2026-11-09T22:43:03Z",
+        "image": "https://i.ytimg.com/vi/o4QE4YFp2Ng/mqdefault.jpg",
+        "extrait": "Subscribe to our new channel: https://www.youtube.com/channel/UC5FNqwXhwGbrOpkZ5FGITAA See how you can work on ...",
+        "description": "AI In Context montre comment OpenAI a récupéré les téléphones de ses employés, qui ont disparu une semaine plus tard."
+      }
+    ]
+  },
+  "podcasts": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "Anthropic's Big Day, Fireworks Breach, and More: AI News for November 10, 2026",
+        "source": "Rabbit Hole Brief: AI News",
+        "lien": "https://podcasts.apple.com/us/podcast/anthropics-big-day-fireworks-breach-and-more-ai-news/id6788239181?i=1000800993861&uo=4",
+        "date": "2026-11-10T12:34:30+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/77/e3/b877e36e-3352-cd5f-3c01-6d47dada5bee/mza_2026844741142849013.png/160x160bb.jpg",
+        "duree_min": 15,
+        "extrait": "A packed AI news day: Anthropic launches Claude Fable 5.2 and Mythos 5.2 alongside a messy IPO roadshow, Fireworks AI's security breach expands with worrying supply-chain implications, Meta's Superintelligence Lab drops a cheap agent-focused model, Nvid",
+        "description": "Anthropic lance Claude Fable 5.2 et Mythos 5.2, annonce une IPO tumultueuse, tandis que Fireworks AI subit une faille de sécurité majeure."
+      },
+      {
+        "titre": "AI in Data Centers: Ashburn's Electricity Consumption Debate",
+        "source": "AI News Digest",
+        "lien": "https://podcasts.apple.com/us/podcast/ai-in-data-centers-ashburns-electricity-consumption/id1857239145?i=1000800994165&uo=4",
+        "date": "2026-11-10T12:35:12+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2a/ae/08/2aae08b5-a0cc-e273-fa14-abbe594b38a0/mza_11190029511178115531.jpg/160x160bb.jpg",
+        "duree_min": 19,
+        "extrait": "In this episode, we explore the growing concerns surrounding data centers in Ashburn, Virginia, often called Data Center Alley. As the largest hub of data centers globally, Ashburn faces significant scrutiny over the environmental impact of these facili",
+        "description": "Analyse des préoccupations environnementales liées à la consommation électrique massive des centres de données d’Ashburn, le plus grand hub mondial."
+      },
+      {
+        "titre": "Claude Fable 5.2, Meta Muse Ember, Google TPU Chips",
+        "source": "Today’s AI News",
+        "lien": "https://podcasts.apple.com/us/podcast/claude-fable-5-2-meta-muse-ember-google-tpu-chips/id1881668650?i=1000800990396&uo=4",
+        "date": "2026-11-10T12:07:33+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bc/0b/b9/bc0bb9ee-bcb1-24e6-3aaa-48598c474a3f/mza_1620504561990227159.jpg/160x160bb.jpg",
+        "duree_min": 12,
+        "extrait": "Anthropic says Claude Fable 5.2 is faster and cheaper than 5.1, and we look at how it differs from the more restricted Mythos 5.2. Meta’s Muse Ember is built for routine agent work, and its benchmark results give us a way to compare what those tasks c",
+        "description": "Anthropic présente Claude Fable 5.2 comme plus rapide et moins cher que la version précédente, et on discute des nouveaux modèles de Meta et des puces TPU de Google."
+      },
+      {
+        "titre": "Did Jensen Huang Know? Nvidia's CEO and an Alleged Chinese Spy",
+        "source": "In the Loop AI",
+        "lien": "https://podcasts.apple.com/us/podcast/did-jensen-huang-know-nvidias-ceo-and-an-alleged-chinese-spy/id1813210890?i=1000800989969&uo=4",
+        "date": "2026-11-10T12:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/d5/45/91d545dd-a46f-6c87-12bb-36f33954d0cb/mza_8901644999812206662.jpg/160x160bb.jpg",
+        "duree_min": 20,
+        "extrait": "Nvidia CEO Jensen Huang has admitted to an affair with Alice Huang, a Megaspeed executive US intelligence believes was recruited by China's Ministry of State Security. Her alleged goal: get Jensen to lobby Washington to loosen export controls on AI chip",
+        "description": "Révélations sur une possible implication d’un espion chinois via une liaison personnelle du PDG de Nvidia, Jensen Huang."
+      },
+      {
+        "titre": "1043: AI-Powered Precision Nutrition, with Viome’s Dr. Guru Banavar",
+        "source": "Super Data Science: ML & AI Podcast with Jon Krohn",
+        "lien": "https://podcasts.apple.com/us/podcast/1043-ai-powered-precision-nutrition-with-viomes-dr/id1163599059?i=1000800990126&uo=4",
+        "date": "2026-11-10T12:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e6/3f/c5/e63fc510-209c-8ef4-f3ed-cb18ee67668f/mza_9305236003807778677.jpeg/160x160bb.jpg",
+        "duree_min": 73,
+        "extrait": "In Episode #1043, Dr. Guru Banavar (Founding CTO of Viome) joins Jon Krohn for a technical masterclass on the biology inside your gut. Viome has assembled what Guru calls the largest dataset on human biology ever collected, roughly 100 quadrillion nucle",
+        "description": "Entretien technique avec le Dr Guru Banavar de Viome sur la nutrition de précision pilotée par l’IA et le plus grand jeu de données biologiques jamais collecté."
+      },
+      {
+        "titre": "EP107 — Don't Blend, Infer (RiVaT-Fuse)",
+        "source": "Machine's Learning",
+        "lien": "https://podcasts.apple.com/us/podcast/ep107-dont-blend-infer-rivat-fuse/id1896197876?i=1000800998296&uo=4",
+        "date": "2026-11-10T12:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/1a/1f/ed1a1f19-3bdb-056d-78bd-8a618ea7d64b/mza_12101631758716509275.png/160x160bb.jpg",
+        "duree_min": 12,
+        "extrait": "When an AI combines two sources — a photo and a line of text, a scan and a chart — the usual move is to mash them into one bundle of numbers and predict, without ever asking what that combined thing is supposed to be. This paper refuses the shrug: i",
+        "description": "Discussion sur la méthode « Don’t Blend, Infer » qui propose de ne pas simplement fusionner des données multimodales, mais d’interroger leur signification avant la prédiction."
+      },
+      {
+        "titre": "What the Jensen Huang Investigation Means for Nvidia",
+        "source": "WSJ Tech News Briefing",
+        "lien": "https://podcasts.apple.com/us/podcast/what-the-jensen-huang-investigation-means-for-nvidia/id74844126?i=1000800952945&uo=4",
+        "date": "2026-11-10T08:01:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0b/82/b5/0b82b56d-fd41-e72e-e743-a17365886a17/mza_6961414535743613980.jpg/160x160bb.jpg",
+        "duree_min": 11,
+        "extrait": "Nvidia’s board is investigating CEO Jensen Huang following his admission of an affair with a Chinese executive suspected of foreign espionage. Journal tech policy reporter Amrith Ramkumar explains what the probe could mean for chip export controls and",
+        "description": "Analyse des conséquences de l’enquête sur Jensen Huang pour Nvidia, présentée par le journaliste tech du Wall Street Journal."
+      },
+      {
+        "titre": "DeepMind's AI Tries to Prove Your Texts Are Actually Safe",
+        "source": "Will AI Kill Us? | Daily AI News.",
+        "lien": "https://podcasts.apple.com/us/podcast/deepminds-ai-tries-to-prove-your-texts-are-actually-safe/id6814083513?i=1000800946993&uo=4",
+        "date": "2026-11-10T07:07:07+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b7/5e/03/b75e03b7-08bd-b3eb-281d-643a80de5afc/mza_14608303104408848323.jpg/160x160bb.jpg",
+        "duree_min": 6,
+        "extrait": "Google DeepMind used an AI system called AlphaProof Code to formally check parts of the Signal encryption protocol that secures Signal, WhatsApp, and Google Messages. We unpack what formal verification actually means, why the single-source nature of thi",
+        "description": "DeepMind utilise AlphaProof Code pour vérifier formellement la sécurité du protocole de chiffrement Signal, illustrant l’usage de l’IA en vérification formelle."
+      },
+      {
+        "titre": "AI News — November 10, 2026: Fable 5.2 Hits Record 65 Intelligence Score, Mythos Flags Covert Capability Jump",
+        "source": "ai0.news — Daily AI News",
+        "lien": "https://podcasts.apple.com/us/podcast/ai-news-november-10-2026-fable-5-2-hits-record-65-intelligence/id1894308348?i=1000800946804&uo=4",
+        "date": "2026-11-10T07:00:07+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/12/42/8b/12428bde-fc7f-9994-05f1-9648d1d9de5a/mza_12911909025965045186.png/160x160bb.jpg",
+        "duree_min": 5,
+        "extrait": "Anthropic launches Fable 5.2 and Mythos 5.2 with record benchmarks but steep pricing and safety concerns, Meta drops a new model, and Google quietly ships two new TPUs.",
+        "description": "Anthropic dévoile Fable 5.2 et Mythos 5.2 avec des scores records, tout en évoquant les prix élevés et les enjeux de sécurité, et Google lance de nouvelles puces TPU."
+      },
+      {
+        "titre": "Why AI Chips Are Suddenly Harder to Sell",
+        "source": "The AI Podcast with Fexingo: Artificial Intelligence, Machine Learning, and Modern AI Models",
+        "lien": "https://podcasts.apple.com/us/podcast/why-ai-chips-are-suddenly-harder-to-sell/id1896798905?i=1000800922594&uo=4",
+        "date": "2026-11-10T03:41:02+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/e7/7b/e1e77bba-fe1a-ff96-ad4a-cba199fd744f/mza_3600015015774467528.png/160x160bb.jpg",
+        "duree_min": 8,
+        "extrait": "We dig into the shifting demand for semiconductors as major cloud providers pivot from building massive data centers to optimizing existing ones. With Nvidia down over thirteen percent in five days and AMD up, we examine why enterprise IT budgets are fr",
+        "description": "Examen des raisons pour lesquelles les puces IA deviennent plus difficiles à vendre, lié à la transition des grands fournisseurs cloud vers l’optimisation des centres existants."
+      }
+    ]
+  }
+}
