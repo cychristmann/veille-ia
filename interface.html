@@ -247,9 +247,9 @@
   .entete h1::first-letter { text-transform: uppercase; }
   .entete .meta { display: flex; align-items: center; gap: 6px; margin: 8px 0 0; color: var(--texte-3); font-size: .9rem; }
 
-  /* Sélecteur de région (France / États-Unis) */
+  /* Sélecteur de région (France / États-Unis / Chine) */
   .regions {
-    display: inline-flex; gap: 4px; padding: 4px; border-radius: 14px;
+    display: inline-flex; flex-wrap: wrap; gap: 4px; padding: 4px; border-radius: 14px;
     background: var(--surface-2); border: 1px solid var(--bordure);
   }
   .region {
@@ -489,7 +489,7 @@
   <aside class="barre" id="barre" aria-label="Historique des veilles">
     <div class="marque">
       <div class="logo"><svg class="icone" data-icone="etincelles"></svg></div>
-      <div><strong>Veille IA</strong><span>France et États-Unis, chaque jour</span></div>
+      <div><strong>Veille IA</strong><span>France, États-Unis, Chine · chaque jour</span></div>
     </div>
 
     <button class="bouton-principal" id="lancer" type="button">
@@ -541,7 +541,7 @@
           </div>
           <div class="regions" id="regions" role="tablist" aria-label="Choisir la région"></div>
         </header>
-        <p class="note-langue" id="note-langue" hidden><svg class="icone" data-icone="langues"></svg>Titres traduits en français par l'agent traducteur · titre original en italique sous chaque article</p>
+        <p class="note-langue" id="note-langue" hidden><svg class="icone" data-icone="langues"></svg>Titres traduits en français par l'agent traducteur · titre original sous chaque article</p>
         <div class="alertes" id="alertes"></div>
 
         <div class="stats" id="stats"></div>
@@ -621,7 +621,7 @@
       <div class="vide" id="pas-de-veille" hidden>
         <div class="rond-vide"><svg class="icone" data-icone="etincelles"></svg></div>
         <h2>Pas encore de veille</h2>
-        <p id="texte-pas-de-veille">Lance la première veille : l'agent collecte les articles du jour sur l'IA dans la presse francophone et américaine, les trie par thème et rédige une synthèse. Compte environ trois minutes.</p>
+        <p id="texte-pas-de-veille">Lance la première veille : l'agent collecte les articles du jour sur l'IA dans la presse francophone, américaine et chinoise, les trie par thème et rédige une synthèse. Compte environ cinq minutes.</p>
         <button class="bouton-principal" id="lancer-vide" type="button">
           <svg class="icone" data-icone="actualiser"></svg><span>Lancer la veille du jour</span>
         </button>
@@ -786,6 +786,7 @@ function heureArticle(iso, jourVeille) {
 const REGIONS = {
   fr: { code: "FR", nom: "France", sous: "Presse francophone", teinte: 224, adjectif: "francophone", medias: "médias francophones" },
   us: { code: "US", nom: "États-Unis", sous: "Presse américaine", teinte: 202, adjectif: "américaine", medias: "médias américains" },
+  cn: { code: "CN", nom: "Chine", sous: "Presse chinoise", teinte: 213, adjectif: "chinoise", medias: "médias chinois" },
 };
 
 // ===== État =====
@@ -890,7 +891,7 @@ function afficherVeille() {
   const region = REGIONS[regionActive];
   $("surtitre").textContent = `Veille ${region.adjectif}`;
   $("meta").textContent = `Générée à ${fmt(genere, { hour: "2-digit", minute: "2-digit" })} · ${region.medias}, articles publiés sur les ${veille.heures} heures précédentes`;
-  $("note-langue").hidden = regionActive !== "us";
+  $("note-langue").hidden = regionActive === "fr";  // titres traduits pour toute langue étrangère
   afficherRegions();
 
   const alertes = $("alertes");

@@ -47,7 +47,7 @@ jobs:
       - name: Installer les dépendances
         run: uv sync --locked
 
-      - name: Lancer la veille (France et États-Unis)
+      - name: Lancer la veille (France, États-Unis, Chine)
         if: github.event_name != 'push' # sur un push, on republie seulement
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}

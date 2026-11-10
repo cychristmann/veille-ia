@@ -1,6 +1,7 @@
 """Agent de veille IA : collecte les articles du jour et rédige un rapport.
 
-Deux régions : « fr » (presse francophone) et « us » (presse américaine, en anglais).
+Trois régions : « fr » (presse francophone), « us » (presse américaine, en anglais)
+et « cn » (presse chinoise, en mandarin, plus des médias anglophones sur la Chine).
 
 Lancement : uv run python agent.py                 (les deux régions, 50 articles chacune)
             uv run python agent.py --region us
@@ -48,6 +49,9 @@ class Region:
     parametres_google: str  # édition de Google Actualités (langue, pays)
     flux_medias: dict[str, str]
     mots_ia: re.Pattern  # filtre des flux de médias, qui parlent de tout
+    # Médias entièrement consacrés à l'IA : leurs titres ne citent pas toujours « IA »,
+    # on les garde sans passer par le filtre.
+    toujours_ia: frozenset[str] = frozenset()
 
 
 # Google Actualités apporte le volume (une centaine d'articles par jour, même le
@@ -87,6 +91,18 @@ FLUX_US = {
     "CNBC": "https://www.cnbc.com/id/19854910/device/rss/rss.html",
     "The New York Times": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
 }
+# Médias chinois testés le 10/11/2026. 虎嗅 ne répond pas, 澎湃 n'a pas de flux ; WeChat,
+# Weibo et Zhihu n'ont pas de flux public. TechNode, Pandaily et SCMP sont des médias
+# anglophones spécialisés sur la tech chinoise : ils équilibrent les médias d'État que
+# Google Actualités remonte beaucoup.
+FLUX_CN = {
+    "量子位": "https://www.qbitai.com/feed",
+    "IT之家": "https://www.ithome.com/rss/",
+    "新浪科技": "https://rss.sina.com.cn/tech/rollnews.xml",
+    "TechNode": "https://technode.com/feed/",
+    "Pandaily": "https://pandaily.com/feed",
+    "SCMP Tech": "https://www.scmp.com/rss/36/feed",
+}
 
 REGIONS = {
     "fr": Region(
@@ -115,6 +131,22 @@ REGIONS = {
             r"\bAI\b|\b(?i:artificial intelligence|LLM|ChatGPT|OpenAI|Anthropic|Claude|Gemini|"
             r"Copilot|machine learning|deep learning|chatbot|Llama|Grok|DeepSeek|GPT-?\d*)\b"
         ),
+        toujours_ia=frozenset(),
+    ),
+    "cn": Region(
+        code="cn",
+        nom="chinoise",
+        langue="chinois (en mandarin, plus quelques médias anglophones sur la Chine)",
+        requete_google="人工智能 OR 大模型 OR AI",
+        parametres_google="hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+        flux_medias=FLUX_CN,
+        # Pas de \b autour de « AI » : en Python, les caractères chinois comptent comme
+        # des lettres, donc « 让AI学习 » n'aurait pas de frontière de mot.
+        mots_ia=re.compile(
+            r"人工智能|大模型|智能体|机器学习|深度学习|生成式|通义|文心|豆包|Kimi|DeepSeek|OpenAI|"
+            r"ChatGPT|Anthropic|Claude|Gemini|英伟达|算力|(?<![A-Za-z])(?:AI|AGI|LLM)(?![A-Za-z])"
+        ),
+        toujours_ia=frozenset({"量子位"}),
     ),
 }
 
@@ -205,7 +237,7 @@ class Traduction(BaseModel):
 
 
 PROMPT_TRADUCTION = """Tu es traducteur pour une revue de presse.
-Traduis en français chacun de ces titres d'articles américains :
+Traduis en français chacun de ces titres d'articles de médias {langue} :
 
 {titres}
 
@@ -376,7 +408,8 @@ def collecter(etat: EtatVeille) -> dict:
             for article in trouves:
                 if article.date < limite:
                     continue
-                if nom != NOM_GOOGLE and not region.mots_ia.search(f"{article.titre} {article.resume}"):
+                if (nom != NOM_GOOGLE and nom not in region.toujours_ia
+                        and not region.mots_ia.search(f"{article.titre} {article.resume}")):
                     continue
                 articles.append(article)
 
@@ -430,8 +463,8 @@ def selectionner(etat: EtatVeille) -> dict:
 
 
 def apres_selection(etat: EtatVeille) -> str:
-    """Embranchement : seule la veille américaine passe par le traducteur."""
-    return "traduire" if etat["region"] == "us" else "verifier"
+    """Embranchement : les veilles en langue étrangère passent par le traducteur."""
+    return "verifier" if etat["region"] == "fr" else "traduire"
 
 
 # --- Agent traducteur ----------------------------------------------------------------
@@ -441,7 +474,8 @@ def traduire(etat: EtatVeille) -> dict:
     articles = etat["articles"]
     titres = "\n".join(f"{n}. {a.titre}" for n, a in enumerate(articles, start=1))
     try:
-        traduction = _modele(Traduction).invoke(PROMPT_TRADUCTION.format(titres=titres))
+        prompt = PROMPT_TRADUCTION.format(langue=REGIONS[etat["region"]].langue, titres=titres)
+        traduction = _modele(Traduction).invoke(prompt)
     except Exception as exc:  # sans traduction, les titres restent en anglais
         print(f"Traduction impossible ({type(exc).__name__}) : titres laissés en anglais.")
         return {"titres_traduits": 0}
@@ -656,7 +690,7 @@ def lancer_veilles(regions: list[str], nombre: int = 50, heures: int = 24) -> li
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Veille IA : articles du jour, France et États-Unis.")
+    parser = argparse.ArgumentParser(description="Veille IA : articles du jour, France, États-Unis et Chine.")
     parser.add_argument("--region", choices=[*REGIONS, "toutes"], default="toutes",
                         help="fr, us ou toutes (défaut : toutes)")
     parser.add_argument("--nombre", type=int, default=50, help="articles par région (défaut : 50)")

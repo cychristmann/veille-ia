@@ -50,6 +50,7 @@ CHEMINS_FLUX = ["/feed", "/feed/", "/rss", "/rss.xml", "/feed.xml", "/atom.xml",
 REQUETES_EN_PLUS = {
     "fr": ["ChatGPT OR OpenAI OR Mistral", '"IA générative" OR "agent IA"'],
     "us": ["ChatGPT OR OpenAI OR Anthropic", '"generative AI" OR "AI agents"'],
+    "cn": ["DeepSeek OR 通义 OR 豆包 OR Kimi", "智能体 OR 生成式AI"],
 }
 
 VERROU_FICHIER = threading.Lock()  # l'interface peut écrire depuis plusieurs requêtes
