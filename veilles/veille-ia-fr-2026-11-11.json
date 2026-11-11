@@ -1,117 +1,206 @@
 {
   "region": "fr",
-  "genere_a": "2026-11-11T13:45:52.451732+01:00",
+  "genere_a": "2026-11-11T16:03:51.131320+01:00",
   "heures": 24,
   "nombre_demande": 50,
   "nombre_articles": 50,
-  "synthese": "Cette veille montre un engouement croissant pour l'IA tant sur le plan financier que technologique. D'importantes levées de fonds et valorisations record alimentent un marché boursier dynamique, tandis que de nouveaux produits et services IA se multiplient, du cloud aux applications mobiles en passant par des extensions bureautiques. Parallèlement, les autorités et les acteurs du secteur élaborent des régulations et des chartes pour encadrer l'usage de l'IA, notamment en matière de protection des enfants et de contrôle des modèles. Enfin, l'IA s'infiltre dans de nombreux secteurs, du climat à la santé, en passant par la culture et l'emploi, démontrant son influence grandissante dans la société.",
+  "synthese": "L’actualité récente montre une explosion des financements dans le secteur de l’IA, avec CoreWeave, Anthropic et Fractile qui atteignent des valorisations majeures. Parallèlement, les applications se multiplient, du support météo aux outils créatifs et aux serveurs privés, témoignant d’une adoption large. Sur le plan technologique, les géants développent des modèles toujours plus puissants et des puces dédiées, tandis que les débats sur la régulation et la sécurité s’intensifient, notamment autour des contrôles pré‑diffusion et des mécanismes d’arrêt d’urgence.",
   "verification": {
     "problemes": [],
-    "synthese_originale": "Cette veille montre un engouement croissant pour l'IA tant sur le plan financier que technologique. D'importantes levées de fonds et valorisations record alimentent un marché boursier dynamique, tandis que de nouveaux produits et services IA se multiplient, du cloud aux applications mobiles en passant par des extensions bureautiques. Parallèlement, les autorités et les acteurs du secteur élaborent des régulations et des chartes pour encadrer l'usage de l'IA, notamment en matière de protection des enfants et de contrôle des modèles. Enfin, l'IA s'infiltre dans de nombreux secteurs, du climat à la santé, en passant par la culture et l'emploi, démontrant son influence grandissante dans la société."
+    "synthese_originale": "L’actualité récente montre une explosion des financements dans le secteur de l’IA, avec CoreWeave, Anthropic et Fractile qui atteignent des valorisations majeures. Parallèlement, les applications se multiplient, du support météo aux outils créatifs et aux serveurs privés, témoignant d’une adoption large. Sur le plan technologique, les géants développent des modèles toujours plus puissants et des puces dédiées, tandis que les débats sur la régulation et la sécurité s’intensifient, notamment autour des contrôles pré‑diffusion et des mécanismes d’arrêt d’urgence."
   },
-  "sources_en_echec": [
-    "Le Big Data"
-  ],
+  "sources_en_echec": [],
   "themes": [
     {
-      "nom": "Financement et marché de l'IA",
-      "resume": "De nombreuses levées de fonds, introductions en bourse et mouvements boursiers autour de l'IA sont signalés, notamment autour d'Anthropic, CoreWeave et d'autres acteurs majeurs, ainsi que des prévisions de valorisations très élevées.",
+      "nom": "Marché et financement de l'IA",
+      "resume": "De nombreux titres annoncent des levées de fonds, des valorisations record et des mouvements boursiers liés aux acteurs de l'intelligence artificielle, notamment CoreWeave, Anthropic, Fractile et Nvidia.",
       "articles": [
         {
-          "titre": "Anthropic prépare son IPO avec 26 Md$ déjà engagés",
-          "source": "Brief IA",
-          "lien": "https://www.briefia.fr/article/anthropic-prepare-son-ipo-avec-26-md-deja-engages",
-          "date": "2026-11-11T12:14:48+00:00",
-          "resume": "Anthropic lance son introduction en Bourse avec une fourchette de prix de 70 à 78 dollars par action 26 milliards de dollars d’actions sont déjà engagés par Broadcom, Google et Nvidia Les documents d’IPO révèlent des coûts de calcul en hausse et un budget juridique de 41,5 millions de dollars",
-          "titre_fr": ""
-        },
-        {
-          "titre": "CoreWeave fait bondir les valeurs du cloud de l’intelligence artificielle, Nvidia profite de résultats qui apaisent les craintes de bulle",
+          "note": 7,
+          "motif": "Levée fonds majeure, puces IA, impact industriel",
+          "couverture": 1,
+          "titre": "La start-up britannique de puces pour l’intelligence artificielle Fractile atteint une valorisation de 7 milliards de dollars lors d’un tour de financement",
           "source": "Zonebourse Suisse",
-          "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUXE4V2p0bXF2YXdFb1pXNWw5NUFHUm40Y0ZvYmZhSjJ2V1RCQ0l0eC1JNXFJd1ZxRFByVEJPN2N0amtiZ0tIbE5MQlBORm9Yb2JrbmhOamFfWUxEbTVQY2R0eW9penl3ek90SHdmTVowZzJPbjU3bnRGMHlUZzZhVEVGbzFGWEZvVzl3dUtEbXpmblVGSEhqQzZZT1NaczhUVXU0eUhabnkwUUN5cmNBT2VZUlB1NU0xcnVoSWVkQXFGZnBER1I3LUNUbUFiTVRMVXhRYm45M19TcklGZVF3Ul9KWUxMOTF2SzJqbzU3Zw?oc=5",
-          "date": "2026-11-11T12:10:12+00:00",
+          "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNlVZTVIwZS14VE1xNUNCTDBGQXRwU3E2T1JBWWhsLVV2SUxpRzUyeHZpbS1acWNIb2dqM3hZWmdObjJoWGcwZjA4SDlNQ0FEbEI3ZFpnRXNzeEJXMTcxS2w3bFVEaU4yS1R0MGVlQW02TV9vWjlzQVV5WDBzU1RZYVNUeXBCX29ScWM1bXNMVkRZd25rVjBQbWdVZmxpak5DTklLcmJieXRLWDZTcEpRY2NEWGFhMmtjM2RGWkN6OWk0ZjltenZrdUFGQk51SWNQaGxDZUJja2luWHl3R0JDUWo4SVZpMGRXSFRNWGpYWEE?oc=5",
+          "date": "2026-11-11T14:49:41+00:00",
           "resume": "",
           "titre_fr": ""
         },
         {
-          "titre": "CoreWeave déclenche une hausse des actions du secteur de l'IA dans le cloud et fait grimper le cours de Nvidia",
-          "source": "Boursorama",
-          "lien": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPbUJaNXpoYVlCMXJyUzlzbXFpXzNVNUcyQjFXckx6c19RVXNmNllkVEZ4dnU5aHljLW55RUtFUlZBQ2Z0bXNiczB5dGtnalh3R3hTRHpvWmZnRWR4YVZWTDFPUHM1bFl3MlkwcU1xb1d6QkJkNEVOQkZfdGJVdzB2V3A3TnZMS2NBLU5JMjFJd3NscUV2cEF5YWdfZEFLaV94RXE0ZWd4cTcxLWdBdFlHWjJPR1YzWm1PdDNPTFhBaXl6VTVGMEJubVJ1YUdqUDh2TXRLMEtoa1lRUDNyLTJ1MXhPdlA2RllORkVWM0Z1Q2x1V3V0dU56Uzlfc0JQZmRMRUU0bWZxT3ZFMlJ3RUhaU3JpT0ljeW5lMkpSdnVYVWYxVS1LcWtWRmE0RUdRbzdnUTVrTmhHS3VQTE5FZXZKeUJETWtWTkNBcmllZTAtSjVqQl91S0RvX0RqdVE3NDBXR1Z2bm1jdDJoV1NaemfSAfMCQVVfeXFMUExHZlpQWVF6Nk5XRzJZQlV4U0RMWnc3YW5xS1RHdVpfelByLTFEcFJmbk9qWkhGRkVrYllsNXdCVjdIbFNpalBVUTM2c1JZZndNQ3hJYTJVc1ZKZGxfdWw4RFVKX2c3bFlkMjFCZXVReTdmQkRXMzYwTnhlYTh0b1dpbU51NG1YTk5Ub3FjbEtEeGc2NVlXUFFuWjktazE2Ym1wVTN4Sko3TGdxRTlhVE5jc0R3MXM1UWVTa25CNHZfUlZOTWcyMUFoMXN2TUlNMEhiOE5KRDBGVTRmNDlkX0xraURYLWhaQldPalZTVXBHX19LVEtNSTdISlo3Ny1SdUhRYll4Yk91LVVTUURWRnQzRjNkZUI3bmJWYU5JNGtBRzhpTGlla0VSd3RfcTJNWi1HZ3dXNXJuZUVwQV9FSWJVYXA1dGZqTS1MdTVJUW92U3IzU3ZUZ0o3RnN5U0ltRXFzSzJZMjg2M2l0cnhSZXBkVTg?oc=5",
-          "date": "2026-11-11T12:08:55+00:00",
+          "note": 7,
+          "motif": "Levée fonds massive, infrastructure IA",
+          "couverture": 1,
+          "titre": "Torus lève 500 millions $ pour un produit de centre de données IA",
+          "source": "Investing.com France",
+          "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR3d6ZHhOMlVuZzZUUVpfTTI4VWIwejJIUGdlY0FPMFd4TURiTXRtMDRaeENXbXA2NVpDMXVkQWxwY2R6NjdBSHNjaHVDTF9YZ1NTT0VTQWtlVXJvVDFFZmhZdGo0eTd0TmlQcktTaExfdFZCekxsVUM3OWxiOXRfZ1dLQXJoNHZZVVdZd1FPSk5EUlFlOVRKTHpUdHZQR0lSdDU2S0JQUGFMUkVENTdKYVo5LWR5b1FtekNPeTNHX3N0Q00?oc=5",
+          "date": "2026-11-11T13:53:00+00:00",
           "resume": "",
           "titre_fr": ""
         },
         {
-          "titre": "Anthropic vise jusqu’à 64 milliards de dollars en Bourse, 900 milliards déjà engagés en calcul",
-          "source": "Martin Cid Magazine",
-          "lien": "https://fr.martincid.com/finance/anthropic-vise-jusqua-64-milliards-de-dollars-en-bourse-900-milliards-deja-engages-en-calcul/",
-          "date": "2026-11-11T11:59:41+00:00",
-          "resume": "Le créateur de Claude a fixé une fourchette de 70 à 78 dollars par action pour son entrée au Nasdaq, et son prospectus détaille les dépenses en puces et centres de données déjà signées, ainsi que des fournisseurs qui achètent 26 milliards d'actions",
-          "titre_fr": ""
-        },
-        {
-          "titre": "La Bourse de Paris en hausse, portée par un intérêt retrouvé pour l'IA, le Nasdaq attendu en forte progression en ouverture",
+          "note": 6,
+          "motif": "Mouvement boursier IA, mais indirect",
+          "couverture": 1,
+          "titre": "La Bourse de Paris portée par l'intérêt retrouvé pour l'IA, le Nasdaq grimpe de plus de 1%, la société neocloud CoreWeave bondit de 14% et Nvidia reprend 5%",
           "source": "Investir Les Echos",
-          "lien": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQcWUzZkNiQlFudXZPZHZac1ZPUDJ2ajdDN1ZJbmNJZ0IyX3FLWTFqeUNsbU1MMEh1SUY4VVh1OGlocThhbm5wU3pmcFRlX2Q4RFdVa3FjVVY3UURHLXFYQWt5bUs2UVVONG1TekhrOXU4SWkyRlE5YkVmME5uWFE2VENBT0QxSkY2dzBVa0l1aU13dUZSOGZGd2c2ZVlrb1ZubUhMX2hsVTZQMHVtUlZQclFzRXctcVdGb3E2NVV4UU1LLWtpU21aUUxrRVlYYm5fcTFzZmFuQVZfbkpLU1liZl9YN3pJaEJZSF8yVWxkYndMWWpuMnByODdHdGwtaGQ3VTU0d09reXBPZHZTeUpVa3h0S0lMSjlYaTVn?oc=5",
-          "date": "2026-11-11T11:34:38+00:00",
+          "lien": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQZGdYVnEtczdHX2N6eXRpN0MxbWxVSXBvRFhfUzF4SjdYRmpodGJ6RG9ieHlNN2NmSnV4SXpUUkJVS3F4TWVGenNmMjB0cjJscllkejFaMERKb1pnMDRYbHVCZHJFSWVGbnBsSEhRWHdIVzdab1ZFeHphNnljSUlrMGJxYy1kWUFYVmNxYnZqZEREX1lBcnZYdWFqc3d0MVF3bWtoa1FNTnlWN0RwZjd0YVlncjF1TUN2d1BIamxEa0E0cjM3aUtLNXZVeEl5SHNlYUJOVG9iVm9SRFNJcEF4UjltMlI1WElXeXJfaVA0VTUyMjBGT1FzNGdKd2ZXNlJCTzlwU1pGcUZTSmM4TEdhYlprRU1pejNYT3J6eXh6QUVteXF5NzRVeEE1dE5nYThuWEdUaHM0SWEydXdYSERKYjln?oc=5",
+          "date": "2026-11-11T14:51:01+00:00",
           "resume": "",
           "titre_fr": ""
         },
         {
-          "titre": "Épicentre du séisme qui secoue l'IA en Bourse, le neocloud Coreweave rassure, prend 10% à Wall Street, et entraîne avec lui Soitec (+9%), STMicro (+4%) et Schneider Electric(+2,4%)",
-          "source": "BFM Bourse",
-          "lien": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxONGJxQ2NZWFprc0FRY0V2NENObUFDLWZtRmQ0UFhKZjVadmpGSEM2Qk1ScW9pdk9Rak8wN081M29KMlBnYkZzQVUzUWZYbHhWRFd1LXRxTllUQWZXejYzWGhZWFYyRXl3bTBNOGs2LVRGTFM3MUo2UTdMZ0hSYnlFLXk4MTFyZVREWERnRDJibGlSRWFpWFJDRnpObDNUdTN4bXlQUllrb3EyTGtKRmp1ZGpHWkhuTXVVSGNzSzcwbG1HTjl6LUxqWThuNjQ1QUYyS0FFclVMWEtlbmNMdF9MUG9CdUVXVlZDVFB1SkVQUXZrS2ZYNldlSmk0OUFIWmNCS2FVazJvRGxWTHJIU3A5QVE4TUkwN0xGTm9aVFNBNkNmSkxjSTJHVUFqSk1BRnNhVHhnTkNybUtsYURIalBTV09QS3hXMlN5TjlyV0xhb3hxaExXMkE?oc=5",
-          "date": "2026-11-11T11:13:18+00:00",
+          "note": 6,
+          "motif": "Mouvement boursier lié IA, pertinence moyenne",
+          "couverture": 1,
+          "titre": "Wall Street reprend des forces grâce à la tech, CoreWeave en locomotive",
+          "source": "Yahoo Finance France",
+          "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNHoyVDhvVHR3Q0otWl9IazNnbDJNRUhRS1NNMXdaSFpMNDBaREZpbk8yNzRnbjlOQ3V6M1h5dU81X3pjWk9ZZkdjODNmaFVDTGhSbm5EcHdobUt5MXNZNjR2QzBXRVhmMTRkUURpVTBzdGszd1JfOFQ3dXhzN1ZNcUY3SzdBekREQmNMbFRCYjFXTUpfWkJj?oc=5",
+          "date": "2026-11-11T14:37:31+00:00",
           "resume": "",
           "titre_fr": ""
         },
         {
-          "titre": "OpenAI : 11 milliards levés, pression sur les coûts d’inférence",
-          "source": "Brief IA",
-          "lien": "https://www.briefia.fr/article/openai-11-milliards-leves-pression-sur-les-couts-d-inference",
-          "date": "2026-11-11T11:05:11+00:00",
-          "resume": "OpenAI a levé une première tranche de 11 milliards de dollars, valorisée à 1 250 milliards Les conditions commerciales se durcissent : remises en baisse, engagements minimaux en hausse Les entreprises déploient des solutions techniques et contractuelles pour limiter les coûts d’inférence Le tour de ",
+          "note": 6,
+          "motif": "IPO importante, information financière",
+          "couverture": 1,
+          "titre": "IPO d'Anthropic : chaque fondateur va toucher plusieurs centaines de millions de dollars !",
+          "source": "Clubic",
+          "lien": "https://www.clubic.com/actualite-638806-ipo-d-anthropic-chaque-fondateur-va-toucher-plusieurs-centaines-de-millions-d-euros.html",
+          "date": "2026-11-11T14:02:00+00:00",
+          "resume": "L'entrée en Bourse (IPO) d'Anthropic est pour dans quelques jours à peine. Et l'opération devrait être une aubaine pour les fondateurs.",
           "titre_fr": ""
         },
         {
-          "titre": "Les résultats de CoreWeave font grimper les valeurs liées à l'IA",
+          "note": 6,
+          "motif": "Effet marché IA, pertinence",
+          "couverture": 1,
+          "titre": "Le rallye de CoreWeave soulage Nvidia alors que la demande en IA s’accélère",
+          "source": "Investing.com France",
+          "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeUd3SmNyTnNpRmJ6SDl2SFJtOGhVaGdhSDUwQnRxVWxhX0Y3ZUpOQ1FvaW5aYjhnRVhuckdfSzdsbjVKQ1B5b0RKaUVLSk5WcERpZzBjMEpJZUs2M24ySXlrcXM5RVN4YzlzTDBtbDctMmtkQmNZUHBXbm9fcjE1aWhUOXpfSTJQNGczd2l2OUNvTXU5a1g0NEFRaHZiSWNMeFZIQUx1MF9EZVljNVNKOHBRcUlWaVdhWl8wbERMQ05maTI2SU5DaXl3?oc=5",
+          "date": "2026-11-11T13:00:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Redondance, source moins reconnue",
+          "couverture": 1,
+          "titre": "Fractile, une start-up britannique spécialisée dans les puces d'IA, atteint une valorisation de 7 milliards de",
           "source": "Boursorama",
-          "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSHgtNkU1U04yV1pjSURxTFh1V3lHQ2g4ZFhHM2lHakVTR2RNRWN4ZFZ3clFQNDBSWjBmMjJ4dndOZDJVVnF2Z2pYeXg1UW1oWVBqYVljZUM1cDY2SGxGUXl6V2lSOGN1c1pDVmtXNFNMVTlFWnM5U3gtNWlpSkF3Wm5EV0l5MnVIVHZkVHI0R0pYZkdZTGUxRm1PdFlueEFEMGlqZTRwN2R3RzUyRzVzVm9mdFFOMmdwX1NuYXRYQTg3eDcyX19ZQm5RZkw0dDBkekNiTHk4Rkdyd9IB3wFBVV95cUxObEE3cjVGTEt1Rkcyc2pGaVFLdWFQM0Z2aEI3SUg1dFBFS1d3NTJkaDRlcklTSk1pVlV6YVlLNGFuMl8ydEV6eWFhUl9HQmZlN3U1MU5iY1V5ZlJJRlMwZmgtU01VOXhJN0gwcFlBTi1zdEI0OTlQZ19jMzF5aFlWcXdJRXk3bkx5MjlEOVFVdVVsajNJaEppSEhpaE9rOWNyZGNVamE1ZkJ6MHlkYk5BWTIxM0ttQjByX1VJTm96ekk4eXkxcmlKY2c2Vjd2X054MDJmUFNZcXpCZ2x3cHh3?oc=5",
-          "date": "2026-11-11T11:04:22+00:00",
+          "lien": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNU2hZQTNTVHVnSEFodUZBejFuT1JsNFMwQ1V4VHlmemFpaG4xU3QyY3o1bHd2RTR1elJXZ3pKd2YtMlJ5RnQtTlVYa011bXJOMGpqcFBEMkpNdm9OaHF1dTJYVzhSeE4tdkdRSktaLXE1Y2NwZGlKWEcyZnJLeGIxSVJaa3RaazZDQ1lpTm1MQm14Wk40T3ptUm9wYnZfbDFoVFl3YkxGcnBiMndpNmU1OV85QTRYbV90N24wVWNUYldZT0s2NDR5dEo1elVmMHhNRjZ2Y0JQTjRDeHAwMkMxY2YxR0VvZmptSV9udmQ0Ym1BZkxYclZJemZSUHNZY3RFck9QZ0xzejBCYXJvc3h5R0ZQU1JtOHA0U3dpRGZ1a0x1cWRDTE9jNnJfYnZHV3g1ak9xaFN5NXhnV3ExUnZj0gHEAkFVX3lxTFBlWFR4V3cyR3FKeGlkeUNUOFAtT2daVEtLZFVYWi1MTjhWbXdOWGRrNmdzNEV4eXlqczJzRGw1ZHhQVzZ6QkZTWkp4a3drRFl0SnZDdk9YMDB5WUpkNFBfcXZaWVl0U1RZQjRMVmdEQmZmVG1HUXJBWkg5RmJEc2tBZEkxT1JSQWx6RS1UalczenBqWnRpdXJmX0pSWWp6VjExM3lXVUU5NTdRMmtMUGdyQjZ6YnJ1Y1lidUpGbFpoeEhfak0zZHZIQUlZaHhNeXZyT1lJNnMxNjBMeVpjYW1uOVI0T0h0TXVtWUUwRVNDWmJiRzVucGZNa1dFSWYtcUJlYkppUktpVkQzQVNwTi1YdHlyS1dFMXl2X05kRnBQODVuRTVPdkVIUDRpVFozNTVRTmRZU1lqM3R3N0praHBUX05JZw?oc=5",
+          "date": "2026-11-11T14:47:29+00:00",
           "resume": "",
           "titre_fr": ""
         },
         {
-          "titre": "Bulle de l'IA ou réalisme ? Anthropic vise une valorisation allant jusqu'à 1 400 milliards de dollars pour son entrée en Bourse",
-          "source": "Challenges",
-          "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPOTUwRlE5Q0o4X2s1UWNka3MwS292a1B0ekdhbUFZeUt3T2lBNjYwZ3pOQlhnWmdRWlM4UUVCYkwzMlNCVmRxZzl1WWJxVktld3lZWllXS1pNNG8wX2s2TVBheDJlQ2o0NWU1N1JGajVzMjBhYzlmNGRfbUZFX2U1V1Y1NjY2MkdZeHFWa2puR1NxWkNPMXlnM19ZVjJ5bXRtcHYtT1lxZzl1MGZTblpwLWlFd2NSVzNNcEpSTWlFaFo5M0EzdTBCU0RrMk91RTJIbUhUSk55U3NOZ1hPVGlFbTRCSGs1ZFF3RlFWUE4xUWQySDNPaGZ0VmxjRHVzYlRacFJrcldwbHFtcTZmMHRV?oc=5",
-          "date": "2026-11-11T11:02:58+00:00",
+          "note": 5,
+          "motif": "Redondance d'information boursière IA",
+          "couverture": 1,
+          "titre": "Wall Street ouvre en hausse, CoreWeave dope le compartiment de l’intelligence artificielle (IA)",
+          "source": "Zonebourse Suisse",
+          "lien": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZk1kUDZUaElTQmx2SUNJc3NKNjNlNjNhZTZiajZNU0lrR1ZnMlNJRDRpR2JvblZvRGp1eEh2V25hMGZBaGFKTmMweGJqQm5CdUdXN0ZwNFJGNG5nNENJM3VMQWtXTW9iazF4UTRlTS1FbWN4RHNuTWdPYUZ4SkNmRHFYOTFUbUpZUHM0RUhqWEYwUkNMSHpGWnRZYVZHYmhNMWhLNXlfcXJoVWtISlhheGF1WmhCWUMxczYtT3NRNG1jcWxaNkJzbGM4d0dtb1ZrNnZFOUlUbllnbElxZ2QwTGM0WWJGOFdI?oc=5",
+          "date": "2026-11-11T14:36:47+00:00",
           "resume": "",
           "titre_fr": ""
         },
         {
-          "titre": "CoreWeave bondit de 12 %, entraînant les actions de l'IA à la hausse tandis qu'Anthropic envisage une introduction en bourse à 1,5 billion de dollars",
-          "source": "CoinDesk",
-          "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR25uaGZvbGlSTVhhUmtRRWoxSE83NElPRk9ia1kzalRJcDRDU1NwMUdiaHNQMjBaZ05JVlN0a0hPMlU2WjlfVGtmbUtLa2VwcmxwZHBBQ2pLQndYOF9qRmtCWjFGeHNDMlNLN2h3aEdtUnRjcnJqdXl3dE5NbEt0cFRZVEFjdUJxdTNDc21aVlZ3WGtPSDhwcmpXQXU1Y0pEZ0lmMzlUZnBJM2IzWl9NZHhET3RrV056ajloa0o2TGx3dw?oc=5",
-          "date": "2026-11-11T10:45:49+00:00",
-          "resume": "",
-          "titre_fr": ""
-        },
-        {
-          "titre": "La Bourse de Paris hésite entre regain d'optimisme autour de l'IA et craintes sur les taux américains",
-          "source": "France 24",
-          "lien": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPalNmeXJlR0VpWFpVRGV1czc1a21ES1dfckNqNHJpaXZTam92N2treUtQYWduNkYxUE1JM0NnejNSXzBremtYVVJLX1dpR0lubjMzX21SWTM5NDFPVWJPemdCbk54TTRwOHhjcXVhcFZwYkpIOElKZ3Z0eEFNb0h2clVrU203UHF6RzZadzRlVnAwd3dXUFZuQ19RTGFUVmVlMHo4Zl85cU5yX2lzelN3QnZzNkNkeUdjTEo1V25YVmZzWklpVVFoU2xoMmw2NTN4OWNpMGNJVzNEcTRISjItejJyVTJfQUNiSmZFcURzUzJpSGZDUE5B?oc=5",
-          "date": "2026-11-11T10:24:06+00:00",
+          "note": 5,
+          "motif": "Redondance d'information boursière IA",
+          "couverture": 2,
+          "titre": "Wall Street vue en hausse, l'Europe aussi dans le vert, CoreWeave a apaise les craintes sur l'IA",
+          "source": "Zonebourse",
+          "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ1dpUWdwYS1LZ0xBRFV5Wk9kT0l1SVp6WG9ZM2pVRVNsajhBbzk5dkl0NkR2NENCZkRWZ3VWU3FoaDMyZ0NNU2MtblFkdWJpeGFkU2dRVWYtYldHZ3l2RkJZeWFhQmpveWdGcmYwelVLS2R1M1JBbThOd19nWWlXVDFuV3F1aWc4TDdqSG1WYnRHTnR1alNyajNReVpOZDk5ZEFobDFZY2hqMDllcGVpZlpvXzdOWGZ6MDd1UUVLOXJHa2hqeWo0N3JMZmg4N2ZYS1E3Zk05MUVLRkRzODlvV3NlT3RDWGpwY3VF?oc=5",
+          "date": "2026-11-11T12:44:48+00:00",
           "resume": "",
           "titre_fr": ""
         }
       ]
     },
     {
-      "nom": "Produits, services et plateformes IA",
-      "resume": "Les médias annoncent le lancement ou le déploiement de nouvelles applications, services et outils IA, allant des assistants vocaux aux solutions cloud, en passant par des extensions pour Excel et des appareils dédiés.",
+      "nom": "Applications et produits IA",
+      "resume": "Les médias couvrent une large palette d’applications IA, des outils de prévision météo aux assistants de productivité, en passant par la génération de contenus créatifs, les serveurs IA privés et les innovations publicitaires.",
       "articles": [
         {
+          "note": 8,
+          "motif": "Ajout fonctionnel clé, adoption entreprise",
+          "couverture": 1,
+          "titre": "OpenAI ajoute des profils d'entreprise vérifiés et des agents IA à ChatGPT",
+          "source": "fr.qz.com",
+          "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjWVAybWp6R1VDdXJqcmJXYVpMUXZNblNlTU9rOEVKVVMyNm4yY0xjb3JPUmJuYnhRUzhZeWNCTl81UEZmcEZJMVRfaWRDZE1ZWHdXaTBsZHB3cTBqR3pYLTAwU25IOWZLMEtFNlUwbW40eU9SOEJz?oc=5",
+          "date": "2026-11-11T14:54:09+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 8,
+          "motif": "Lancement modèle IA puissant, grande portée",
+          "couverture": 1,
+          "titre": "Google ouvre Gemini 4 Carbon au public : comment tester sa nouvelle IA la plus puissante ?",
+          "source": "Le Big Data",
+          "lien": "https://www.lebigdata.fr/google-ouvre-gemini-4-carbon-au-public-comment-tester-sa-nouvelle-ia-la-plus-puissante",
+          "date": "2026-11-11T14:03:11+00:00",
+          "resume": "Gemini 4 Carbon est désormais accessible au public, alors que seuls quelques spécialistes de la ... [...] Cet article Google ouvre Gemini 4 Carbon au public : comment tester sa nouvelle IA la plus puissante ? a été publié sur LEBIGDATA.FR .",
+          "titre_fr": ""
+        },
+        {
+          "note": 7,
+          "motif": "IA améliore prévisions météo, impact sociétal",
+          "couverture": 1,
+          "titre": "L'IA, un outil précieux pour les prévisions météo des ouragans",
+          "source": "Orange Actualités",
+          "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcTl2VUEyUTR3UlpNUmEyNlk4elNxYl9RQXB6bzNVY00zS0s1ekd1dXB3YlZxU0RUUjIzeUY4WnJGc1NHTkc5TmlrZzJuU2ZLZ2ZLSmxJSDAzTFV3TzhGQVA2TGFvRzhKZG1yUW9mbUpSOUJEV3B5XzF4VTE5LTdtUWpoZy1mSXN0OGZLQTh1bUlzQ2FzbUxMMjk1VnBiSFVGUUo0MEtkSUdUM2loaVYtMUVTRU5wRHRhTnQ0Z1hHQThrSXdf?oc=5",
+          "date": "2026-11-11T14:54:34+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 7,
+          "motif": "Analyse budgétaire IA, utile pour décideurs",
+          "couverture": 2,
+          "titre": "Entreprises : budgets et garde-fous sur l’usage de l’IA",
+          "source": "Brief IA",
+          "lien": "https://www.briefia.fr/article/entreprises-budgets-et-garde-fous-sur-l-usage-de-l-ia",
+          "date": "2026-11-11T14:35:06+00:00",
+          "resume": "JPMorgan, Cisco et Goldman Sachs encadrent l’accès et les budgets d’outils d’IA Les dépenses IA en entreprise sont estimées à 177 Md$ en septembre (Menlo) Un sondage KPMG 2025 signale 44 % d’usages non autorisés et 46 % de fuites",
+          "titre_fr": ""
+        },
+        {
+          "note": 7,
+          "motif": "Innovation hardware IA, impact produit",
+          "couverture": 2,
+          "titre": "Avec Harbor, Apple veut transformer votre Mac en serveur d’IA privé",
+          "source": "Frandroid",
+          "lien": "https://www.frandroid.com/marques/apple/3318947_avec-harbor-apple-veut-transformer-votre-mac-en-serveur-dia-prive",
+          "date": "2026-11-11T14:22:41+00:00",
+          "resume": "Le leaker Aaron Perris a publié ce mardi 10 novembre la description de Harbor, une application Mac d'Apple qui fait tourner des modèles d'IA en local, sur une ou plusieurs machines reliées en Thunderbolt 5. Elle serait déjà en test privé chez Claris, une filiale d'Apple.",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Tendance culturelle IA, impact régional",
+          "couverture": 1,
+          "titre": "Des vidéos «dramas» sur les réseaux sociaux au premier film 100 % par IA, la bascule dans une nouvelle ère des industries culturelles chinoises",
+          "source": "Libération",
+          "lien": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQRW9pT0xXUkdrWEJaY1ZRSEZaMnRPRzdoWnBFVmVTU2ZtWHlfaWV2YWFaRVZtVG55aW9ZUWJPel9NZlowc0JKTTBBQUFKVFNoWU1sRW4wa2o5VUV0ZG5xbEg5eXVmLVpuai1pUUoxN1UyUkJZWDN5ckpMcnhJS2ZrOEhQaGFFa2o3VVpXcWpvMXp4QU9obG5BcXZFZzdqcHBlSVBNYmx1Q0YzUm4xQ2FPU1QzRVAxa3RJVGQtOV9oamxUTE1BZmVPNjJCVGNOb2h0Tzk2NzVYVFNpT3hqQ1RQTnhxSlBNaW5tMEZnQmlNUmI3NmVPSzBBck1NNjlEWV9KdUF4NWx0X1Bsb1dTQ3NrRk42OS1ianZpTFNaUmVFdlBJYWN6TDdNbVFkUEZmaVgzSDd6TURaVW9aR1o4ZXJLWHJ2eXVxblctUU5ZR3J3?oc=5",
+          "date": "2026-11-11T13:50:08+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Concurrence produit IA, pertinence",
+          "couverture": 1,
+          "titre": "Claude « copie » Office avec Sheets et Whiteboards : Anthropic attaque Microsoft sur son propre terrain",
+          "source": "01net",
+          "lien": "https://www.01net.com/actualites/claude-copie-office-avec-sheets-et-whiteboards-anthropic-attaque-microsoft-sur-son-propre-terrain.html",
+          "date": "2026-11-11T13:02:41+00:00",
+          "resume": "Anthropic a lancé Claude Sheet et Claude Whiteboards, deux outils en bêta qui transforment Claude en une suite bureautique. De quoi marcher sur les platebandes d'un certain Microsoft, qui intègre pourtant Claude Cowork dans Microsoft 365 Pilot.",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Perspective monétisation IA, pertinente",
+          "couverture": 1,
           "titre": "Les plateformes d’IA finiront par « adopter la publicité », selon Michael Komasinski (Criteo)",
           "source": "CB News",
           "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3FCc1RXcURsS0RpV3ZDaHJ3QU1FYko4dElGbW5iWmV3dEhTT3E3YTJUZ3pDcWV1Z19tR3Y2T0U4NGhtZE5QZkhqV0hUVVpVdjJBMTFGRnc0by1leVF4eHc2bi1hVkplMk0tWHRoaWR6S28xSC1keXRwQzE3bU1aUkdmamhmaE4zZ3h1ZVNObHlKNzA0QnhhVHY0T08tcWpOYWRz?oc=5",
@@ -120,6 +209,130 @@
           "titre_fr": ""
         },
         {
+          "note": 5,
+          "motif": "Nouvelle campagne publicitaire IA, intérêt limité",
+          "couverture": 1,
+          "titre": "Ogilvy y CAA lanzan ECHO, publicidad con celebridades sintéticas licenciadas",
+          "source": "Foro3D",
+          "lien": "https://foro3d.com/2026/noviembre/ogilvy-y-caa-lanzan-echo-publicidad-con-celebridades-sinteticas-licenc.html",
+          "date": "2026-11-11T15:29:02+00:00",
+          "resume": "Ogilvy y CAA presentan ECHO, plataforma de IA que permite crear anuncios con versiones sintéticas de celebridades que licencian su imagen y voz, convirtiendo la imagen generada en un flujo autorizado y auditable.",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Collaboration IA notable, mais niche",
+          "couverture": 1,
+          "titre": "Disney et Adobe façonnent une IA sur mesure à la gloire de Mickey",
+          "source": "Le Revenu",
+          "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOElKdUFrdTJySUdlMlozUXZ3Sjg0blp5S21CQmw0bXBIeGZuaXI4dURBVC1TcjFLcjJEenJqeEhBTUgtN1ZZX0pvZWlPYTRFb01OUFhUbjVxc1F6by1ENVl1c2dsUTV5Y2l2eExpZlFqMkpVTDVfZ3J6S0l3TndRMmRUeW5mLU44eHFNUlViRnIxdEdfa2FZU3pUVE04bkxLS3RVd0o0NHRaQTZYWlE?oc=5",
+          "date": "2026-11-11T14:44:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Question financière IA d'un grand acteur",
+          "couverture": 1,
+          "titre": "Cisco doit prouver que l'IA ne ronge pas ses marges",
+          "source": "Zonebourse Suisse",
+          "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ0xHQlRzcll3Ry12SnZnUHlmSGNMQkNIZ3kxamhEMEV6dmppQnNFbHNLVkt1eHotRnFHN3NLZFJaY1haVy1Ud0xTQmd1bzU1NVNRQzdFcEJxb0NWMS1XNHJBRUtBaHNFamVNZWJHaFB3SWlHWEZVWjdTRW1uN2NENVFKZFIzNGRuZ1dldWpCdEN0MmJLTVNDYXc2b3dLTXdGbEdRZmhLSXhId2xpS1d5Nw?oc=5",
+          "date": "2026-11-11T14:21:31+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Transformation du dev par IA, intérêt modéré",
+          "couverture": 1,
+          "titre": "Vibecode vs Hardcode, l'IA transforme la façon de travailler des développeurs",
+          "source": "IDNFinancials",
+          "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcUhpS3dnenA5Mjg0OGI5Y3pObkFvNEdFNGNDSHhvTlZOMTRwbEZXR1gzNmxQNWFOT2pFd01Oeld2SVRxcTdSME1RQ01JLVJHcnB1RjdwdGdrR0Vrd0FsZEw0TjFOVDFrN0hLVWJ2UG9ZeHIxZVJmMmZWTTEtZ05EYlQ5VVRrVXZYTGs3Mm5KdDVrWW9WSDl6WXo4Tm5UU3RuekllajZHSXdYekEwM1pfMGFfUXlzUml5QWp0WmhVNlZfU3p0d2dlQw?oc=5",
+          "date": "2026-11-11T14:20:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Démo technique impressionnante",
+          "couverture": 1,
+          "titre": "Un passionné relie il connecte 40 mini-PC Intel via USB pour faire tourner un modèle d’IA géant de 320 milliards de paramètres",
+          "source": "La Crème Du Gaming",
+          "lien": "https://www.lacremedugaming.fr/high-tech/un-passionne-relie-il-connecte-40-mini-pc-intel-via-usb-pour-faire-tourner-un-modele-dia-geant-de-320-milliards-de-parametres-234266.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+          "date": "2026-11-11T13:00:19+00:00",
+          "resume": "Publié sur r/LocalLLM le 10 novembre 2026, le projet fou d’un passionné montre un cluster de 40 mini-PC Intel N150 dédié à GLM-5.3-Flash. Que révèle cette expérience extrême sur les limites et promesses de l’IA locale sans GPU ? The post Un passionné relie il connecte 40 mini-PC Intel via USB pour f",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Projet cinématographique IA, intérêt",
+          "couverture": 1,
+          "titre": "Le film en IA avec Antonio Banderas s'offre un (plus) gros réalisateur",
+          "source": "Ecran Large",
+          "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYmgtb0lmQ1lFNFhZQTdaMEpySnM5NHAydExVT0paZkhUcXQ0VzNNRFIwNGFyLXQ4ak53NXZUTGJrczNKYzM1ZGNtYXk1UlNMWDdVZDR5ejQwUlhhMDU4Tk10eTNrU0FjeDUtbkZrZHM5WWt1UDRZWEQxZlh3TGljTk9R?oc=5",
+          "date": "2026-11-11T13:00:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Débat politique IA, impact modéré",
+          "couverture": 1,
+          "titre": "L’IA, conseiller du président ?",
+          "source": "TIME France",
+          "lien": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44RjFTWVJxOERjWENNb3Zsd0JyNW1CcnE1NnRqQnh3Ykc4bzl2b2x2NGdweUFNX2FtaGpwNHRWQnRfOXBESTdEU3pVRE5RQ0d2UUJ6STdRX0dlamNlRHI4YVdZNHBSTlVCMmtlUQ?oc=5",
+          "date": "2026-11-11T12:53:45+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Débat culturel, peu d'impact",
+          "couverture": 1,
+          "titre": "Elisha Karmitz sur l'Artefact AI Film : \"Il faut créer des espaces de réflexion et de discussion autour de l'IA\"",
+          "source": "TF1 Info",
+          "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcDdqQ1VRX01RZkQ3enFLY045d0tfT0EzZ0VuRzh2bnJja2xIbmxSM2NtcXhUcE5TeTQ2TjVic0Rta2pmeWMwdndna2hwcE1uRzJ4Q0hzWFJWSExqRnlsSTQ2RGNwbS1MT3EzWnRvMG0ydnM1NXozbUtlMUlJQjN0QkxiLTJPb0t5V1M5S2RTM3VKZ3ZwejJ4MkVDLUpJVmNnVTMtTFVwb0tPYU9pY0d0UHRuOTdoLXkza3VIUGNtQWc5MUtXSFlzU3M2M0tuaXZTMlJINEQ3ZVlPNU1wcEZXR2FUYWhMNDQ?oc=5",
+          "date": "2026-11-11T14:46:27+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Analyse sectorielle, peu de nouveauté",
+          "couverture": 1,
+          "titre": "Intelligence artificielle : les entreprises récoltent davantage de bénéfices, mais se sentent de moins en moins préparées",
+          "source": "Mon Carnet – de l'actualité numérique",
+          "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMTI2LUpObUVhQTk5bS1naHRPR0RGb1dIdWlkS2k1NTh3UXpUV1JuenRIX0FnblM1ZUR4blJlRVJPcDNULUlvWFp2NG53eEh6RU9wRTA5S1RkeWtIczFkYjBBTVlXS0l6QV9EaUR0b25qbDA2aVlqRlhDTGZFLWJfVHA0enIwOHFHNWM3WUE3V09aY2pfd2V0MFhfX1AyMWxSbkNPZ0F1ZC1qZi1wOHFrMzUtT3huSXdsbEFqQkc0NnpuMUJsUHVFaFRmTTV3bXRSZ01ndnpJNVZCUkNtR0ZTNWVqX1J5em8?oc=5",
+          "date": "2026-11-11T14:45:07+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Publicité IA, incertitude ROI",
+          "couverture": 1,
+          "titre": "ChatGPT Ads : portée limitée et ROI incertain",
+          "source": "Brief IA",
+          "lien": "https://www.briefia.fr/article/chatgpt-ads-portee-limitee-et-roi-incertain",
+          "date": "2026-11-11T13:07:05+00:00",
+          "resume": "Plus de 100 000 annonceurs ont testé les annonces ChatGPT Les performances restent inférieures à celles de Google selon plusieurs études OpenAI introduit des outils de mesure et d'enchères, tandis que certains annonceurs structurent leur approche",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Projet local, peu d'impact",
+          "couverture": 1,
+          "titre": "IA : dans les coulisses du grand chantier de Fouju, en Seine-et-Marne",
+          "source": "Valeurs actuelles",
+          "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ3NZRnllenVlejNhX29nS19tMHgzNk8xR29wVmJyQ1JpMGRad2tnR3NMZHNzRlZ1by11b3FjWkVUaENVU1JLNWo4bmZKa0xMdjd6OUVZelFUeGFpMWE3b1o3VlNiYVd6a0ZyOWVoSFc3MEhJbVVUczVHRC1yN0Y0WU1NMWFrZVpvVk1oOGlETml6aVloSEZJbDU0bXhiQmsyVUI3cg?oc=5",
+          "date": "2026-11-11T13:01:58+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Annonce produit média, peu d'impact",
+          "couverture": 1,
           "titre": "IA : Prisma Media Solutions ouvre Adventic au Social et Print",
           "source": "CB News",
           "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjVqTFV4amdoMDhhcmxYdXFDUXEtZUJVM2ZsY1JjZmhueWxiMTg1RDR6VWpEdmJUZ0ktUk5uOGRja0kzTVVCdGxWUU9BWlhFdFFsNXpJVkJkUjZndHFCM09XcXFfcmp3LU1LTTUzVk85Um52Y0RXWHBmV2RjQlh1dGxUNnhPME9GNEtCWWhR?oc=5",
@@ -128,207 +341,213 @@
           "titre_fr": ""
         },
         {
-          "titre": "Des toilettes en travaux transformées en chambre chaleureuse : comment l'IA peut maquiller les photos d'annonces immobilières",
-          "source": "TF1 Info",
-          "lien": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPaERLb2pHeGhtcEU1WmlBRHdOVVp6cDYtSmJadXlveEtMLV8tbE93VTZTaUx4ajdQajVrTTJ6YS12REUxcnYyQ2szSlJ6MXBuekFuQ2ZFSk1Bell5QjlPTEliRFN0bjFkVHdZcVpoNFFqM3pwN1VGVUdSREpWT2JUZ2xzTi1NdXBRRTM2YV9FQ013OUZfXzAwalJRNXJRcUpJQkJaZFdCVzRRTXNWbVhyRWpNMkxyQkR2VjRZaFcyNTZ5OEhkZGVFV0hjNy15aF9rNHRldFNRRndsdlcwTEctazloSXZNeV84OUxtNVRBR3I4eXNOYVIwS2V0ekRHVkZvX3B0UjZURktGNnJyRGlyb1VBaXVHZ0ho?oc=5",
-          "date": "2026-11-11T12:21:52+00:00",
+          "note": 3,
+          "motif": "Événement spécialisé, portée limitée",
+          "couverture": 1,
+          "titre": "Conférence « Animation et IA générative – Regard d’un créateur » Maison de la culture du Japon à Paris Paris",
+          "source": "Unidivers",
+          "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaWpyczcxQzkxYkZCOWt3MHhoblJDemV4MjUxa1U5c1BWRWJFT3Z2T0t2aUpFR0xpNXF2QzdCOXpBbElOOHlpa0JwRGw1ZzZoOEYwUDBEY1dBQjRMdG9sVzR4TnhOdko5Zmp4b3FkWXJ5NHJNTjYwLUtRU012M3lxeVl4blo3OW1zT3lDUVVBRnlpazM4VmdOQV8xX0ZUa2YxUTQ3SDBjdGxSTW4zOU1WX3ZiUUh3aGNZWDVSRDFkQnplNHIwSkNrWXllWXlvUEgxMVVOYmVsVmowOUxhMUNSWmMtcFZqZm5WTUx3blFn?oc=5",
+          "date": "2026-11-11T14:41:25+00:00",
           "resume": "",
           "titre_fr": ""
         },
         {
-          "titre": "Apple préparerait Harbor, une app pour transformer vos Mac en serveur d’IA privé",
-          "source": "Numerama",
-          "lien": "https://www.numerama.com/tech/2372219-apple-preparerait-harbor-une-app-pour-transformer-vos-mac-en-serveur-dia-prive.html",
-          "date": "2026-11-11T11:49:09+00:00",
-          "resume": "Apple n'a pas pris le virage de l'IA, mais l'entreprise de John Ternus pourrait bien en être un pilier. Elle teste en ce moment discrètement Harbor, une application qui fait tourner des modèles d’IA open-weight en local, sur un ou plusieurs Mac reliés en Thunderbolt 5.",
-          "titre_fr": ""
-        },
-        {
-          "titre": "Moyennant 10 euros par mois, Orange lance deux applis Orange et Sosh regroupant les différents modèles d’IA",
-          "source": "Ouest-France",
-          "lien": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPZ0s3aE1uRVRMTG82LThUaVg1WkIwUU93VFZtZ3R6SC1teGdTTzE4RmxJbWc2VnBsMW9hTkJGOFBJek1KZ0lDdFFaeHNqWW1pT0h5THVHYXBYOUh2b20yTjNTSDAyMnFuMTNRTktYM0dNa2toc00zQWo5T0lmLV8yVTBtcjFXeExHMGZhMmg2ZlJrR1VuMFhtSFJYeUZHa1lWUFEyVHFXU2k1dEpTMEFwNHd3UFYwWEFTOFV0MV9COHlSZWVvWDFCUUtlaWpEMEpPWktLa24tSG1McWR6VlJHdldNVHlEM0p1M2xSc29XVS02bzNHTjdFaDNILU5hVDJuMEVtX0JMWGM1UXFfNlUxdWFiZE4xZw?oc=5",
-          "date": "2026-11-11T11:24:32+00:00",
+          "note": 3,
+          "motif": "Cas local, anecdote",
+          "couverture": 1,
+          "titre": "En Loir-et-Cher, les graphistes utilisent l’IA pour imaginer « les grandes lignes » d'un projet",
+          "source": "lanouvellerepublique.fr",
+          "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNnN2dnY4UDU5TXNPcWl6bVhSMHhvdy1jeVBpM1pITXNpUzJpeHNPQ0tTVVh1SzlCbzBzSlo5RTZxTXF0TmtBTkpFRExTdXl2bXNJYVRyTlFfUXlFV2NpTTdlaDVYT09OQkhFVDIzNThuaTFMUXV4b29xRURqeWJQcEgtbmVjclFnZ2xXdTZiMEF1aldz?oc=5",
+          "date": "2026-11-11T14:34:53+00:00",
           "resume": "",
           "titre_fr": ""
         },
         {
-          "titre": "Avec YesWeHome, l’IA s’invite à chaque étape de la vente",
-          "source": "Meuble Info",
-          "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2E2NTBmWWdmVEp4R1JnbEhxaThGeV9mWGh4V1EtZWk1MWVfc2pWYmFEckFYS0lZcmN0RHFHbGJoQmljSFlNdGxKclVPZlRleEZSbzV0TUY3TG5jaldfQzduMFhIMFl1NDFLRFBfbDd3RVB1Y0g1eUlpYlJyMzM4VE1RNA?oc=5",
-          "date": "2026-11-11T11:17:58+00:00",
+          "note": 3,
+          "motif": "Cas local, inquiétude professionnelle",
+          "couverture": 1,
+          "titre": "\"Les exécutants disparaîtront\" : en Loir-et-Cher, l’IA redéfinit le métier de graphiste et inquiète la profession",
+          "source": "lanouvellerepublique.fr",
+          "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONlpOcjdqMlRKRHFoVVRjTjNQbDdCc0VpZENLQWl6dFN2QmxZZVFZbm11ZGNGdkgwSEd0RWR6Tk4xcEg4T09FY3k4aURpTnBQYUhLMTVNUFFOZHUyNkVHeE9ON19CdDVIclVOQUdrNlhCd2NqRXJrMjc5aDBuMm1sNUdOM0dlNEhJYmRuSVhvdEw5VS1vSE9uVy1BUWt1amZWYkprMWVqTml2cDJvamN0LUhWRTRsUTIyT0NFRkRoVEdDMms5MjlwT0IyaXk3NC04REsza0xKakpGUy1nUXJ5OE9adjlhdWkzdkxJYzFfUEVoaEU?oc=5",
+          "date": "2026-11-11T14:30:31+00:00",
           "resume": "",
           "titre_fr": ""
         },
         {
-          "titre": "Claude Sheets s’attaque à Excel, mais Anthropic renvoie les gros besoins vers Excel",
-          "source": "Martin Cid Magazine",
-          "lien": "https://fr.martincid.com/technologie/claude-sheets-sattaque-a-excel-mais-anthropic-renvoie-les-gros-besoins-vers-excel/",
-          "date": "2026-11-11T11:16:20+00:00",
-          "resume": "Avec Sheets et Whiteboards, Anthropic place tableurs et tableaux blancs partagés à côté du chat pour les équipes abonnées. Les tableurs restent basiques pour l'instant, et l'assistant de réunion présenté en même temps n'a pas de date de sortie.",
-          "titre_fr": ""
-        },
-        {
-          "titre": "L’IA locale : une autre voie pour les milieux scolaires?",
-          "source": "L'École branchée",
-          "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ldHVHYnNic2l4T0l3VGhLRlFsSFdXdUhCdHlFTE5iOWVsWVV5V0QwNTRxVmd5MFhnTVo1MmtBeFM5RWZWcWRtWFU4YUpiekRHZ2liTHU3a3Z6T2NMOE5WOUY3RU4xMGpJVVpWSHE4d2hzMms?oc=5",
-          "date": "2026-11-11T11:06:57+00:00",
-          "resume": "",
-          "titre_fr": ""
-        },
-        {
-          "titre": "Adieu Microsoft Excel : voici la nouvelle alternative intégrée à Claude",
-          "source": "Presse-citron",
-          "lien": "https://www.presse-citron.net/adieu-microsoft-excel-voici-la-nouvelle-alternative-integree-a-claude/",
-          "date": "2026-11-11T11:03:30+00:00",
-          "resume": "Anthropic muscle son concurrent de Microsoft Office. Claude dispose désormais d’une alternative à Microsoft Excel qui est directement intégré au chatbot IA. Juste avant son IPO, l’entreprise veut positionner son chatbot comme l’outil de productivité ultime pour tout le monde.",
-          "titre_fr": ""
-        },
-        {
-          "titre": "Gemini 4 Carbon disponible : Google lance enfin son IA la plus puissante, mais il faudra payer cher pour l’utiliser",
-          "source": "Journal du Geek",
-          "lien": "https://www.journaldugeek.com/2026/11/11/gemini-4-carbon-disponible-google-lance-enfin-son-ia-la-plus-puissante-mais-il-faudra-payer-cher-pour-lutiliser/",
-          "date": "2026-11-11T11:02:56+00:00",
-          "resume": "Google vient de lancer Gemini 4 Carbon, son IA la plus puissante, qui est presque aussi performant que Claude Fable 5.2. Néanmoins, pour l’utiliser, il faudra avoir un abonnement Google AI Ultra (le plus cher).",
-          "titre_fr": ""
-        },
-        {
-          "titre": "VIDÉO - 70 000 pièces en stock et une IA qui gère le référencement",
-          "source": "ici.fr",
-          "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTFlvSkFJWFowSEFVZGYxSWozbVJ6SHgxY3BwQlI3Y3dwdWFqckhsbU14TmVsZnVpOWpvdUtTal94akFBV3Q3RHFQLU5zNk1GaGN1R3gtM0ktRXBHZl9UUmF4dkQ0YlpFcnY0YlVUdGRLQ2F0Yld5SUJTcWdTM21rQjBKQlBDNm96czhMTGczR3E0NXV0eVgwcjIwQUlEU0Q4ZXRLUVMtaWpnbDhIcVFxVFhxenZqNVlFaVhhb1EzZmtYc3hmaldpVw?oc=5",
-          "date": "2026-11-11T11:00:03+00:00",
-          "resume": "",
-          "titre_fr": ""
-        },
-        {
-          "titre": "Nothing tease son appareil IA sans écran attendu en décembre",
-          "source": "BlogNT",
-          "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOHpuMFI3dE91X1pacWh0NmJqZU95WkNQZ1h2enI1N01vSmkyU01mbDBXeGFSdEI5Y2N6NXhpc3RQVTVOUEZ2N0hCU1hNNHRsZmJldzM3Uk44RGhodzRDeTNmYnIyTW1XLVFFZ2dnM3pXakZlWHVfNl9wYnNZd24zTXIxM3RCbDIzMEVyZVVGUXVYWS0yR3VBVGQyT3Yydw?oc=5",
-          "date": "2026-11-11T11:00:00+00:00",
-          "resume": "",
-          "titre_fr": ""
-        },
-        {
-          "titre": "IA : Elon Musk salue Claude Opus 5.5 et reconnaît le retard de Grok 4.8",
-          "source": "TradingView",
-          "lien": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93Zm9iVXM0MWZDNXJxeVVIRFdGWVdnU3BYNVl4R1NuRGhUWWVQd2NqQ0dSYVNCVi14NHMwMWFkZTlsQ0FMODFUMHhaNi1Xd0pSSW00NEVhX0lKaV9VUHJuSnlnakozNHpRaGxjXw?oc=5",
-          "date": "2026-11-11T11:00:00+00:00",
-          "resume": "",
-          "titre_fr": ""
-        },
-        {
-          "titre": "Comment Noz utilise l’IA pour… faire disparaître les marques de ses publicités…",
-          "source": "Olivier Dauvers",
-          "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd0ZYUHJXd2Y1RkdpU1E5LVBHNnplYmRBMk5Jd3I2d2xBZmxvdFMzckpONmtONWp6QzIxLVpVWE1IRFRNLXNvRGxVcjAwbWZsUndSMldPZ1pjNFFtWjhleFBJQjZCTV83ZllBWTNCOUZEMmlnaWpkODc0UTRXUlNwTF9jeU5EQ1kzSFZVSDd6WW8tdUxveUdlTjJsZzloc1RwbVdEdHF4QzZlSjRjUDdsaVhwRVNCei1GS0E?oc=5",
-          "date": "2026-11-11T10:14:43+00:00",
-          "resume": "",
-          "titre_fr": ""
-        }
-      ]
-    },
-    {
-      "nom": "Régulation, éthique et protection",
-      "resume": "Plusieurs titres traitent de cadres réglementaires, de chartes de protection pour les enfants et de mesures de contrôle des modèles IA, soulignant les enjeux de gouvernance et de sécurité.",
-      "articles": [
-        {
-          "titre": "« C'est une petite avancée, certes, mais une avancée quand même » : protection des enfants, les promesses sans contraintes des géants de l'IA",
-          "source": "Les Echos",
-          "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOWkU5c2dKa3ZOQS1RWGdMdlRrdWl6R0pVX21fR1JFRGFkU1pKXzJsSjNwZkFMa1c1OGQ3c3VRZWtfb1lwRmZkbnRKVEV2azlKMWYycVNrWmNLMnpPSmI3ZmlrWURQLUlFczk5RmozRTBsa1luYXV3SkRrTzBBdHR3QTlUWTQ0cVlwWTdLUnluRzJIT1BMQmJRejhVY2hYY2UxVE45MTY1T0g3TGlKWmZMMmQtSjdZVDZ2WlR5elczVHNQNHlWQkVQQmxuTXpEN0FvMmQtTHc3LV9CR1ROTWRmVmJIa1FCMHRNOVdoZm9RSTU1aks2M0hndTRRblVRQlJ2M3RfcHV4R1FPeGsxRDU3bEhsZmMzOXFQc3BaaXJ0MGRQcHVSc2l3?oc=5",
-          "date": "2026-11-11T11:19:53+00:00",
-          "resume": "",
-          "titre_fr": ""
-        },
-        {
-          "titre": "Assistants IA : 18 recommandations du CIANum en France",
+          "note": 3,
+          "motif": "Usage niche, peu d'intérêt",
+          "couverture": 1,
+          "titre": "Un éducateur crée une base familiale avec Claude Code et Obsidian",
           "source": "Brief IA",
-          "lien": "https://www.briefia.fr/article/assistants-ia-18-recommandations-du-cianum-en-france",
-          "date": "2026-11-11T11:06:53+00:00",
-          "resume": "Une commission du CIANum a remis à Emmanuel Macron 18 recommandations pour encadrer les assistants IA Les propositions incluent des mesures sur la transparence, la limitation de l’attachement artificiel et des protections renforcées pour les mineurs La commission évoque le risque d’une économie de l",
+          "lien": "https://www.briefia.fr/article/un-educateur-cree-une-base-familiale-avec-claude-code-et-obsidian",
+          "date": "2026-11-11T14:04:59+00:00",
+          "resume": "Scott Farrar a conçu un « cerveau familial » en Markdown, géré par Claude Code et affiché dans Obsidian Le système centralise appareils, garanties, assurances et tâches, et s’affiche sur un DAKboard mural partagé avec sa femme Il sert à acheter une assurance auto, organiser des réparations et explor",
           "titre_fr": ""
         },
         {
-          "titre": "TDAH et intelligence artificielle : une étude révèle pourquoi les étudiants concernés utilisent davantage l’IA",
-          "source": "Mon Carnet – de l'actualité numérique",
-          "lien": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRS1hWXoxTVlGVTlZN0RneWw1TU5JUFNZanJDdjBrV0RwZTg0WC1jdlVkeTZIc0otT3Z4QWdoUFdiWXBOckk0X0lLTExnYzNCUTA5RjJCWEItMGo5VkNjU3U3UnBQTnR1aXZ1cGxZT2lDWFh0WktzcHZlVzlwTTVEQ3JCeXV2bklsQkdpeFNtRUlQS0cwNGRXYmU3Q01xZEVrbDNETDFmT0N6a0dDNFQ0ekZ2c2k1T3lZNWRYUlVOdm5UWWZoTkFsRmdPM3ZvWWFWakZ4bnBOeUQ?oc=5",
-          "date": "2026-11-11T11:00:00+00:00",
+          "note": 3,
+          "motif": "Statistiques peu pertinentes",
+          "couverture": 1,
+          "titre": "Grok : 94,7 % d’applications ouvertes, SpaceXSI retire 24 liens",
+          "source": "Brief IA",
+          "lien": "https://www.briefia.fr/article/grok-94-7-d-applications-ouvertes-spacexsi-retire-24-liens",
+          "date": "2026-11-11T13:14:59+00:00",
+          "resume": "Claroc a identifié 35 578 applications Grok accessibles sans connexion sur 37 571 vérifiées Des documents internes de SpaceXSI, des données personnelles et des mots de passe en clair ont été exposés SpaceXSI a retiré 24 applications d’employés mais pas celles d’autres utilisateurs",
+          "titre_fr": ""
+        },
+        {
+          "note": 3,
+          "motif": "Classement IA, peu d'impact",
+          "couverture": 1,
+          "titre": "Intelligence artificielle : Maurice se classe 8e parmi les pays du Commonwealth",
+          "source": "Capmad",
+          "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb1FfWlpfNnhkb0V0bzFQZnFQZVdETmprQUtlT0pQZXd1V3hFejNHMnNUWjFlQ3JQOTJLZ0stbElBd1NyNldWWUFpY1lGVTlKNHlaeFBBVXVnZmlBUnRiZ1B6MmRYeWp3Wm5tNXhCY3JtY05PWUFGMnh0ek9mandTWU16X3hOLV9UWU4wQmNzZ0NTeFc1aFZMNUxKbFl5LTJsM0x4QTdfbC1RQmNE?oc=5",
+          "date": "2026-11-11T12:53:00+00:00",
           "resume": "",
           "titre_fr": ""
         },
         {
-          "titre": "Avec son «Appel de Paris», la France jette une ombre sur le futur Sommet de l’IA à Genève en incitant les géants du numérique à s’autoréguler",
-          "source": "Le Temps",
-          "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaGZQV2szLVNWT2lnYkgtRzdYdkZNbUlydTA4eFllOGFUQk5FaGJ6VmlCNjB1ZnJhWENFQTcwQThYVXJTRlVwR1hPTWp2MExJUEtfVm54QXd3dmtrQkxhQUVSRTNHSWd4Vkd3OXdNY1RZbVJQRUlJMm82YU9HSEFlWHBhVnZaNmtiQkpDVmhhbjRBSGRaV1NqOVRpZXlNRUNfaUF1NXpPWlgxZUxMX1UyQ2dKT1lUbDN4VGtuMUFUZjJfUUJIZnh4endyaXlBZ2JFaVpxSmlfWjNaSDc4VGFrcHRWN2VlaVNkcDVmcnQ0bkdVWmJKN1hQSW9vRQ?oc=5",
-          "date": "2026-11-11T10:59:03+00:00",
+          "note": 3,
+          "motif": "Événement local, portée limitée",
+          "couverture": 1,
+          "titre": "\"IA : ombres et lumières\" : un colloque pour mieux comprendre l’intelligence artificielle, à Montpellier",
+          "source": "Midi Libre",
+          "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSjdtSEdxNjR6Wng3N1RIZW1RSDVXVElsZ3VvbkwzUW9vX3ZtcWw3a0R2aGE0ZUZDX24yMVRGQjBzMXpKNGZpbHdFQkRfZWhqdjdlbTJrN0dJc0I2OUpQanBSMW5NV1ZCMTNRTFJZTE8xX1hvTGlhOFFCYnhnMWRBY1NGS1BMWl9BSTBmaktRYzJKVVBtYWF6OEV2eXpmRjhkcmU2cDgyVDhENTNwN1YzMzFPRG0zd2FEQTFjYmFYN21zSG5jeDBzSHd1NjdfR18wZGZyMElack5GQXJJWFE?oc=5",
+          "date": "2026-11-11T12:46:00+00:00",
           "resume": "",
           "titre_fr": ""
         },
         {
-          "titre": "Intelligence artificielle : la nouvelle règle du CNC en matière de doublage est \"une première étape\" selon le secteur",
-          "source": "franceinfo",
-          "lien": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWlZvR0ZGQ3J2b0JpTVNIUHJrTFJNQjREZjl5NkpIX2ZUa3lKVFc3OU1mc3NUR2c5UGJUMGlXcUZoTE5RbVh4UEd5QkRILURCeVI1ZVEzUHoxSHhFWFdEcldfWGpzZFRnX181bURQNXFqdXFMMnlLLXhtVzZfSzYwODVmWjdlMEhlOTk1NDk3ZjNHakNPaDgyZmdndVJqSVVRd1hSbUhPZnZaUjdkMi1UTEM4N3YzLWJuRV8wU3FfR0pxNWdLSE85SlBLTmJoaTN0RDM2Q2g5OUMxcXJkZkdKbVdfUGVGZmFwalV2bUtGckc2QQ?oc=5",
-          "date": "2026-11-11T10:43:41+00:00",
-          "resume": "",
-          "titre_fr": ""
-        },
-        {
-          "titre": "IA : une charte pour protéger les plus jeunes adoptée par des géants du secteur",
-          "source": "l'Opinion",
-          "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT1RlaFBES2lUbnpkQThBc1J6S3JjanpaM2VmcFJKamhrTlB6RzFmRThVbXZWNTBwQ3ZtNmw3WnktdDh0bjFkS2dvVjhwUzM1Smt5anFBalpFVENPNnducTllM25HNDVhb2VXTXA3RUsxTlFKcHR0aFNTS2VoNXBPYnViemFOSVFCUUhYbHctbVlKNURjNDJKTENNYXhkb0hyU3BmNHlsYXFEMHNDWElJ?oc=5",
-          "date": "2026-11-11T10:34:37+00:00",
+          "note": 2,
+          "motif": "Gadget mineur, peu pertinent",
+          "couverture": 1,
+          "titre": "Offrir une peluche IA à Noël : ça vaut le coup ?",
+          "source": "RMC",
+          "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbkpoTlUyWVh6czR5M25Talc0TzVCYlhmNmJvSkk0dFN2M0ttWXlCMjRiVmhUaEQ2RlQ5ZWgxMkJTZXBHU2FfQVRMSlYzdThnV2U3SkpXWThqR0s5V3h4UDNkWjJLOVh1MXo5ZHA2RlB4cFY4YVVXNGd2cS1yTlA0TEVOcm5qb2tWQzktbDNaTWEwQXEwOTV6RWhlUV9fWXZ1?oc=5",
+          "date": "2026-11-11T13:40:43+00:00",
           "resume": "",
           "titre_fr": ""
         }
       ]
     },
     {
-      "nom": "Applications sectorielles de l'IA",
-      "resume": "L'IA est présentée comme un soutien dans divers domaines : énergie et climat, musique, agriculture, alimentation, emploi, santé, éducation et loisirs, illustrant son impact transversal.",
+      "nom": "Recherche, modèles et hardware IA",
+      "resume": "Plusieurs articles portent sur les avancées technologiques, les nouveaux modèles de grande taille, les puces spécialisées et les collaborations entre IA et calcul quantique.",
       "articles": [
         {
-          "titre": "Schneider Electric peut-il être champion du climat et vendre l’électricité de l’IA ?",
-          "source": "L'Essentiel de l'Éco",
-          "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeHpVdktUSG5fY2lQSHlKS0tuRlR0QmlHWldkQ1hScHNYX05KbVM4ZnRfb05VNFJ0amNWc3BrMzhScDB0RFhOT2ZDM2RUam11cy1HLWc2eFFNY29mVnlsb0gtRlFGYVNpLVItNXRRQmtTMUExUTB2aHZiWDhfVktQZ0F5MmRoUDlzRWpSOGV2SGc2dDRXY1ZKZHB0cndRZWp6NWJfQzFRbzBsZ2FrM1hfNEthVDI?oc=5",
-          "date": "2026-11-11T11:56:00+00:00",
+          "note": 7,
+          "motif": "Chiffre d'affaires important, impact secteur IA",
+          "couverture": 1,
+          "titre": "Anthropic factura hasta 2.330 millones con usuarios que luego bloquea",
+          "source": "Foro3D",
+          "lien": "https://foro3d.com/2026/noviembre/anthropic-factura-hasta-2330-millones-con-usuarios-que-luego-bloquea.html",
+          "date": "2026-11-11T15:07:31+00:00",
+          "resume": "Anthropic ingresó entre 1.660 y 2.330 millones de dólares de usuarios luego bloqueados por infringir condiciones de uso de Claude, según documentos de su salida a bolsa. Estos representan entre el 5 y 7 por ciento de su facturación.",
+          "titre_fr": ""
+        },
+        {
+          "note": 7,
+          "motif": "Plan concurrent majeur, impact marché",
+          "couverture": 1,
+          "titre": "ByteDance prévoit de lancer un agent d'IA similaire à Muse de Meta dans les semaines à venir.",
+          "source": "Quartz en Français",
+          "lien": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56dHRJRlFpVW9ZQlpmS25XSTc5Y2FoRUdyeHFIakdreVM0c2ZnejlrUmVfV0pHOS0yY1FmUm13VWR1VnZsQTltSTFFTkp0ekhPbFR1X3F1TmNZMllVSVp4bDEtWXdaRmQwSVloVU43SEJiTW14?oc=5",
+          "date": "2026-11-11T14:02:58+00:00",
           "resume": "",
           "titre_fr": ""
         },
         {
-          "titre": "Nick Cave fustige l’IA musicale, une « humiliation destructrice »",
-          "source": "Yahoo Actualités",
-          "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xeE95TVhoMW45RGhka1RQSnNPa0g3T1E3WWc5ZHpYMFJ1R2RSa3NXVm0zZjFhMXdDcmM4WFdfZDVLek9LNzRZbXUzNmJxanJhSWVRa3ZOemducEpodnl0el8zNjlyVzkxSG9uZHUzUi0?oc=5",
-          "date": "2026-11-11T11:38:05+00:00",
+          "note": 7,
+          "motif": "Modèle économique IA, intéressant",
+          "couverture": 1,
+          "titre": "Un brevet de Microsoft décrit une rémunération pour l'entraînement d'IA sur votre GPU inutilisé, pour recevoir des crédits en magasin, ou un accès à des modèles d'IA avancés",
+          "source": "Developpez.com",
+          "lien": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPMFMxVVhjYV9aWGdoZFd1T2xWNGxnT2dnREJaVWpRV1VqS3I1MEpPQ0RoUng2UzFVOUpUVkplQ3ZUQjhXOVNYWVJDM1dEYll1dUxtWlkwaDlzTlkySHZDMFVmQnBWRHRRWXEwdUJkeXUxdUVJNzA0RVdSbUktWTZoSUprZjlRaE1BaFdmRFNEX01jaXdsY2VmWXNXSjZ5WHlVZ1BqZGZzQm0tY3FIMjhQV0htLUoxbWlUQmFEWnh5WDE1UVRKSnNjbUlOQXFqbHJxS1FNd09DUEo3bjRxQWQwVmdaQ2VranRZWFJRRmlIU2ZzRGpvSTBKOXhveUU1SUxWSGs5R1J5aDNuYlA4Z3hpcHg1SVdVS1I3Vk5oT3lEM2RiWjlReUNoM2p4dWZVOXU0V1dPYXpYckM5NUVQdnfSAcMCQVVfeXFMUGMxbWk1dVFjTDI1YTdBQWxSWGVfakthT0lvbmpRSFBad1o5akFSdDk5cko4WGdDUEZLMHFxaXMyUEJkMWt6WUtlMmZTX0VZejFVbDZuOXp6U2tsdTNIYlZkSHJEdmpaNXNOWG9IOTFucWszV0tub2JHQjZ2MkVyQkQ3MHR4aEdhcS1EbV94ckVZWjNkSGlCc2RDazFRcTRmM1pJaFZtMjBPVmhVSDYzT2VwNE5NdkRUaFFqMkQwT3NHZ1MtYUloeFBHa21kQ3JoczBPWDlxX2NJMndPblpiTWhrS0hoX19sVkYzWk9UZmVDN3V2OXRzcFd0anRBc0gwUlEyTEhUMFVFS0RoanYxd25hbzRwYWN6V3VTVnJCQTBjb2pIdjdVOFdMa2UzRFVJN3kwUjljcTBGRUtSUm44STZUTms?oc=5",
+          "date": "2026-11-11T13:31:48+00:00",
           "resume": "",
           "titre_fr": ""
         },
         {
-          "titre": "Cueillette des champignons : attention aux conseils de l'IA, \"Une erreur d’identification peut entraîner une intoxication grave\"",
-          "source": "NextPlz",
-          "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObDZvWHhhaVVQd29tOVBsTFhJSFQzVVJDcGE2Vk9XNEhReXBDSjZhVVFrZV80Rm1rUXdhQllKUWFCeWlrMW9VbGEzV1dnWGFFWXU1VE1JRkRPM1NqMHpkaGZTR1hsUlpzTVhaVkpHb3hhcVVURWl3bXdvbkRfUU5iTEZ6Q1A2RmUyTzlKUkxLYmtrQ0pvVnVqVGFoQWdTbzVGQ0h4MkVsWUhhcVgzbkkwMEZBeWhaWUVHS194UUxwa1hUeExtbWZTTDBTTk1jY2xxeFdMakdfNWFSS284cDJoV3pFakoyVmljMk1FZUJaLV80cXc?oc=5",
-          "date": "2026-11-11T11:30:00+00:00",
+          "note": 6,
+          "motif": "Annonce produit IA notable pour les utilisateurs",
+          "couverture": 1,
+          "titre": "Claude Sheets Whiteboards y Data llegan a los planes de pago",
+          "source": "Foro3D",
+          "lien": "https://foro3d.com/2026/noviembre/claude-sheets-whiteboards-y-data-llegan-a-los-planes-de-pago.html",
+          "date": "2026-11-11T15:15:44+00:00",
+          "resume": "Anthropic habilita Claude Sheets, Whiteboards y Data en planes de pago tras su beta de noviembre de 2026. Quedan fuera del plan gratuito y se integran en Pro por 20 dólares mensuales, combinando hojas de cálculo, pizarras visuales y conexión con almacenes de datos.",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Collaboration IA‑quantique, secteur spécialisé",
+          "couverture": 1,
+          "titre": "Quantinuum renforce son partenariat dans le calcul hybride quantique-IA avec un institut japonais",
+          "source": "Boursier.com",
+          "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMW43d2NvazBPRU1RMENIWDZIc2c0ZjVvVWlEWXFuaGtlRjJpVnNaZjBBb2pVa2JhSHBEZEJ2ZzN3MjRKYWVXZEtSVG96aGd4Y250c3FMdXdnb054SkQ3LUV4eEpxWGhxUllzSW1QbXFSZmpmM2g5YzRiTXZNVGZwcUZQSHpiZUM1RWhURFRJcV81TU9NMFZIekF3cWNidFV1Y0VPelo4dEFmTmN1a2pHNmhtX2FhVGxlblJUTUZHY3JQalRZUEVGX1UwUWY3enRyT1NzbF9BVXloNHpIZ3g1N0ZmMVlmRm1wTVpLeVRoYw?oc=5",
+          "date": "2026-11-11T14:03:00+00:00",
           "resume": "",
           "titre_fr": ""
         },
         {
-          "titre": "Société. Pain au chocolat ou chocolatine ? Une IA tente de mettre fin au débat",
-          "source": "Le Progrès",
-          "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONU1ScDJFLXZBbGxXSFN5TlJxRW9nbE9RdlZjaFplTVhKb1pUMFdHVDIwSzgwQXF3c19PenRyUG95QmFaVG9kYU9Hb2lOM0Y3S0pYejVKVFg4R2lhalJPVUVnZ3JOOUw2YzB5MmdCZnkxMWd0LWZpSzA2TUQtemV3bGNCRFN6akxJS0tFZ1Y1dnhJZEdZSzdZR0ZvNDFnXzFZSEpQRTVrQmhtUl9tam1qYUxqMlNnclZZ?oc=5",
-          "date": "2026-11-11T11:15:25+00:00",
+          "note": 6,
+          "motif": "Sécurité IA, risque notable",
+          "couverture": 1,
+          "titre": "LLMJacking : une identité cloud volée peut coûter 100 000 dollars en un jour",
+          "source": "InformatiqueNews",
+          "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUjFZbUx6cmNLSjU5N3VJYzJRRENpMGU1blBPamJzQUtZMWRBNVI1RXdoYmlmZndnSEMxVFg2bDZtMDZremJNYXVYQWR5M1VSQUpPZ2FSNDNEdENBRWFLRXFtRUdrV3RZZFg5MkpWQmhuM1ZJb0I0cXc2LTZpUVR5QUtkdW1xZjQ?oc=5",
+          "date": "2026-11-11T13:30:00+00:00",
           "resume": "",
           "titre_fr": ""
         },
         {
-          "titre": "Dans l’Oise, quand l’intelligence artificielle vient en aide aux jeunes en recherche d’emploi",
-          "source": "Courrier picard",
-          "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSWUzcUtDdnNlZjBvWTdZdUxYZGNyYWJ6Z2VXVTNQUWRVSElIaUhVTEpSbXNITGJWZk5WRl8wMV9NQVJpbElobGJvNVRXMzYyelpuTnZ5WURTaV9pcDA3c1VtV3lmVmxuaXZoaVREaHJvc3pFSXpmMFNlVEFPUVNrZE5DOG9XZ2Z1RDRPT25EZkFYZjRHem9VU0NWSWhpZUhVdm5mS3k4T0J0c0FsZ29lTE1pWVJPNWQ0LVZ3NnBZWTlrOXJtSF8wUXlyeGFqMGM?oc=5",
-          "date": "2026-11-11T11:11:02+00:00",
+          "note": 5,
+          "motif": "Tension géopolitique IA, modérée",
+          "couverture": 1,
+          "titre": "Puces d'IA : l'affaire Huang relance à Washington les partisans de la fermeté face à Pékin",
+          "source": "Corse Matin",
+          "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTVBfOFNneFNRelUwcW4xVzlfMzkzWmQzc2tFOHpFQ0FjSGE5Nl9OcUh5andUemNkMThNVjJtZVJDUkExYklUUkJ5ajFCTEVQVnhrbDVteHprUS1nbkN0OUprb0pQWXFvaWdvbHR5SnhjZjdNemtoWUtUanhjTjhnTlpYUDc2RUlvaE01ZWRPOTQxQmF6OTBHbVVzVjYtcVlzY0Y4NG1mNkg4c2hVd3ljeGVjMHhldFZicFFWQnNWRTF4RlFYbkJybHJVamN3VTlDdEFMZWdkSFNudXVKSWxuVnl3?oc=5",
+          "date": "2026-11-11T12:23:03+00:00",
+          "resume": "",
+          "titre_fr": ""
+        }
+      ]
+    },
+    {
+      "nom": "Régulation, éthique et risques de l'IA",
+      "resume": "Des voix s’élèvent pour encadrer le développement de l’IA, évoquant les contrôles avant diffusion, les kill‑switch, la sécurité globale et les impacts émotionnels des systèmes génératifs.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Avertissement majeur sur risque IA, haute pertinence",
+          "couverture": 1,
+          "titre": "Paul Christiano aux Hinton Lectures : l’IA pourrait devenir incontrôlable d’ici 18 mois",
+          "source": "Mon Carnet – de l'actualité numérique",
+          "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaER3TmpkZlItWnNFZEhLYURFSVNKTzNqOWtVRll3cl9EWEZfeE5wNlZrYkdzOFI5VC1KTmR6ay1xZEpyMHhjWXpfVlRRbnF6N0NmYlcxSnMtVmRzdkE2cDg3QVR0LVU2d1REX3ljOHVfZndaeU8wa2t4cGRwaEJMWnZtMWJlTm5SUWo4eDEtMGZSU3RCZEg4VktCcnhGWThhOEhCbE9GWE13YXkwTkRTcWVuRndkTzRS?oc=5",
+          "date": "2026-11-11T14:37:05+00:00",
           "resume": "",
           "titre_fr": ""
         },
         {
-          "titre": "GPT-6 Astra, ce chirurgien des modèles IA capable de réparer directement leurs poids",
-          "source": "ITforBusiness.fr",
-          "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ibEhZVm5qYXBVNU45d3Q3ZDFUNVRkRkpCcHFCeU8wQTdlNTljQ0w0SGtweG93aEFJQl8ydHZEdWdWaGwyeGZObVFNS3Q5NGtQSzE5T1RrbmxONGpYUDJUZXZ2eWVwWGVkSVRmMlZsSDFsYlRNQWU4WkpRa0M?oc=5",
-          "date": "2026-11-11T11:05:10+00:00",
+          "note": 8,
+          "motif": "Appel régulateur important, impact futur",
+          "couverture": 1,
+          "titre": "IA : Hinton réclame des contrôles avant diffusion",
+          "source": "Libnanews",
+          "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04dFJ5M1hHRXVKMmFHMnlVNUNLRFB0NDN2cTdkamJWaE1TdE5xZDNHeU5mRWZmNXBLRGQ0LWJTX0ViUkJvSF85NHU0cTdPWXFxcGxzaGpibDVHSk9hR2VQZzlQWkFXS0pkTUl6V2VpaHlQcEJzQWNBV1RR?oc=5",
+          "date": "2026-11-11T14:30:00+00:00",
           "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 8,
+          "motif": "Sécurité IA critique, forte pertinence",
+          "couverture": 1,
+          "titre": "Arrêter les dégâts « dans les 35 secondes » : OpenAI dévoile le kill switch censé stopper ses IA quand elles dérapent",
+          "source": "Numerama",
+          "lien": "https://www.numerama.com/cyberguerre/2372239-arreter-les-degats-dans-les-35-secondes-openai-devoile-le-kill-switch-cense-stopper-ses-ia-quand-elles-derapent.html",
+          "date": "2026-11-11T13:35:38+00:00",
+          "resume": "OpenAI a présenté le 10 novembre Control Room, un système central qui suit toutes les tâches de ses chercheurs utilisant ses modèles d’IA.",
           "titre_fr": ""
         }
       ]
@@ -338,106 +557,35 @@
       "resume": "",
       "articles": [
         {
-          "titre": "Agentforce Coworker supera 185.000 usuarios y consolida la orquestación de agentes",
-          "source": "Foro3D",
-          "lien": "https://foro3d.com/2026/noviembre/agentforce-coworker-supera-185000-usuarios-y-consolida-la-orquestacion.html",
-          "date": "2026-11-11T13:17:13+00:00",
-          "resume": "Agentforce Coworker de Salesforce alcanza 185.000 usuarios con crecimiento de 21 veces en tres meses. La capa de orquestación de agentes IA unifica CRM con Google Workspace y Microsoft 365, y suma clientes nativos para iOS, macOS y Windows.",
-          "titre_fr": ""
-        },
-        {
-          "titre": "fheroes2 publica la versión 1.1.18 con avances en la IA de combate y aventura",
-          "source": "Foro3D",
-          "lien": "https://foro3d.com/2026/noviembre/fheroes2-publica-la-version-1118-con-avances-en-la-ia-de-combate-y-ave.html",
-          "date": "2026-11-11T13:04:05+00:00",
-          "resume": "fheroes2 lanza la versión 1.1.18 de su remake de Heroes of Might and Magic II, con mejoras en la IA de combate y aventura: gestiona mejor habilidades de Señores vampiro y Fantasmas, y evita lanzar Berserk sin ventaja.",
-          "titre_fr": ""
-        },
-        {
-          "titre": "David Rubín denuncia el uso de IA para manipular su cómic en una promoción",
-          "source": "Foro3D",
-          "lien": "https://foro3d.com/2026/noviembre/david-rubin-denuncia-el-uso-de-ia-para-manipular-su-comic-en-una-promo.html",
-          "date": "2026-11-11T12:45:41+00:00",
-          "resume": "David Rubín denuncia que la tienda Turol Games usó IA generativa para alterar imágenes de su cómic sin consentimiento. El establecimiento restó importancia y admitió emplear esta práctica habitualmente con ilustradores.",
-          "titre_fr": ""
-        },
-        {
-          "titre": "Medicine x The Witcher: sospechas de IA en la colección de ropa",
-          "source": "Foro3D",
-          "lien": "https://foro3d.com/2026/noviembre/medicine-x-the-witcher-sospechas-de-ia-en-la-coleccion-de-ropa.html",
-          "date": "2026-11-11T12:44:27+00:00",
-          "resume": "La colección Medicine x The Witcher genera sospechas por uso de IA en sus gráficos. Varios autores denuncian apropiación de estilo sin crédito ni compensación, reavivando el debate sobre los límites de la IA generativa en diseño e ilustración comercial.",
-          "titre_fr": ""
-        },
-        {
-          "titre": "Puces d'IA : l'affaire Huang relance à Washington les partisans de la fermeté face à Pékin",
-          "source": "Corse Matin",
-          "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTVBfOFNneFNRelUwcW4xVzlfMzkzWmQzc2tFOHpFQ0FjSGE5Nl9OcUh5andUemNkMThNVjJtZVJDUkExYklUUkJ5ajFCTEVQVnhrbDVteHprUS1nbkN0OUprb0pQWXFvaWdvbHR5SnhjZjdNemtoWUtUanhjTjhnTlpYUDc2RUlvaE01ZWRPOTQxQmF6OTBHbVVzVjYtcVlzY0Y4NG1mNkg4c2hVd3ljeGVjMHhldFZicFFWQnNWRTF4RlFYbkJybHJVamN3VTlDdEFMZWdkSFNudXVKSWxuVnl3?oc=5",
-          "date": "2026-11-11T12:23:03+00:00",
+          "note": 5,
+          "motif": "Opinion sur position France, peu de nouveauté",
+          "couverture": 1,
+          "titre": "« Il existe une course à l'IA que la France est en position de remporter »",
+          "source": "Les Echos",
+          "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUWY5Q1FsOUVISzJjVFF1VEJJNXpnRTFkNGQxYjNTRGE5SmNTVjY1R0dmakJxNUJwazNjN05TTnJDQV9aZlRucXl1cUtSZzFpRG5yV3dsYkZ6R1pUZEIxNDJacWpGWXpOakRxRFZEQWUtYXlzXzFBcURpZXp4b0VveDd0R3ZlN3VVcWlldmEyeTJzbzlaQWZSS2FDSGlpN0lycmxURmJlZ0x5blItRFV2Q2RZMDJkN05lV1dNMmlR?oc=5",
+          "date": "2026-11-11T14:00:09+00:00",
           "resume": "",
           "titre_fr": ""
         },
         {
-          "titre": "Anthropic lance Claude Sheets et des connecteurs interactifs",
-          "source": "Brief IA",
-          "lien": "https://www.briefia.fr/article/anthropic-lance-claude-sheets-et-des-connecteurs-interactifs",
-          "date": "2026-11-11T12:04:51+00:00",
-          "resume": "Claude Sheets, un tableur collaboratif assisté par IA, rejoint la suite d’outils de Claude Les connecteurs interactifs permettent d’ouvrir Notion et Adobe directement dans Claude Les nouveaux outils sont réservés aux versions payantes et débutent avec des fonctions de base",
+          "note": 5,
+          "motif": "Startup IA française, intérêt moyen",
+          "couverture": 1,
+          "titre": "Mistral, c'est la France, la France, c'est Mistral",
+          "source": "JDN",
+          "lien": "https://www.journaldunet.com/adtech/1557873-mistral-c-est-la-france-la-france-c-est-mistral/",
+          "date": "2026-11-11T14:02:45+01:00",
+          "resume": "Cette tribune, soutenue par l'ensemble des secteurs culturels, appelle à concilier le soutien aux acteurs français de l'IA avec la protection des auteurs, des journalistes, des éditeurs et de l'ensemble de l'économie de la création.",
           "titre_fr": ""
         },
         {
-          "titre": "Appel de Paris pour la sécurité de l'intelligence artificielle",
-          "source": "La France au Royaume-Uni",
-          "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOanJrSXI5WEluMi1lRU1ESDQtRjgtdW1LblgyNHQ0Qkg2bUlvRTNLdlhyeWJWeGlTcmpYSGxCdjdOUXBlckFmZXd6WTFMZFRaT2FMM0pDUDNJam5ldzNTd3IxbTJWcmJvNGViQ05yeHNWd1VQT0kxbDMxYlR4V3J5azl3akxrelpzTThNTFF6Vnp4QjFxaUQxOGtR?oc=5",
-          "date": "2026-11-11T11:55:21+00:00",
-          "resume": "",
-          "titre_fr": ""
-        },
-        {
-          "titre": "Le PDG de Nvidia Jensen Huang tourné en dérision par des mèmes d’IA qu’il a contribué à populariser",
-          "source": "Yahoo Actualités",
-          "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYU5xeGJGcFE0ZDVpSnNYM2ljQVpmV1prZzNwSHg2dDVhdHRiTnZpNVRIeEVsTzh6eHVoVHpBUVZnUzJTMnVLUk5IMzExUndEd2trTTYwMlRWQWlQeG5UVkZHMkVJVUtIbVA1emd2RDdKRmJRY19mUi10RHlyRExaRnp3?oc=5",
-          "date": "2026-11-11T11:47:17+00:00",
-          "resume": "",
-          "titre_fr": ""
-        },
-        {
-          "titre": "ChatGPT supprime les voix Advanced et Standard, un an après avoir reculé",
-          "source": "Martin Cid Magazine",
-          "lien": "https://fr.martincid.com/technologie/chatgpt-supprime-les-voix-advanced-et-standard-un-an-apres-avoir-recule/",
-          "date": "2026-11-11T11:14:59+00:00",
-          "resume": "Tous les utilisateurs vocaux de ChatGPT passeront à GPT-Live, le modèle vocal le plus récent d'OpenAI. Fin de l'option que les gros utilisateurs avaient sauvée l'an dernier, alors que la vidéo et le partage d'écran reposent encore sur l'un des modes supprimés.",
-          "titre_fr": ""
-        },
-        {
-          "titre": "IA open source, cible idéale: pourquoi la sécurité se durcit",
-          "source": "Servicesmobiles.fr",
-          "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQXlMSlRkOFdVVnpvR0dXcnFLa1J0MnBGcnloT3Ayc2hQUG16eVlfcnNnSERldzJneFNqNUFvd1BrSEVsSU9HaHA3VTZueWY3YTUzSjZjS20tcTJEV2ZGSklvWmN3aFNsZTlkYV9DRzdPQ1Vld0RHdUkwdjhhY25aYTYzdndNTG5XbHdjXzZQTTRSLUZuem5yNWN5TWM?oc=5",
-          "date": "2026-11-11T11:00:01+00:00",
-          "resume": "",
-          "titre_fr": ""
-        },
-        {
-          "titre": "11 novembre : l'IA rallume la flamme dans un marché déserté",
-          "source": "Zonebourse",
-          "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmhfeGVsaG5xVFMyekprSHA2Q1Azb1dmQjY3cFJ5Q2dlUlV6ZmtId0VzcWFuMkw0OXZwMVI3eXZsQlcxRk1FVVpwS1JhUmg5U0JTOUpNbThjX0dJN0Y3QU1YTzh4WE9nam53NUNLYzF4Z0NlV2R1YTkxX1dWVWRPeVhJV2U4N0I2aDRDcTBqOHJoRXd2ZkJMcUwxTjcxNFVUQzNlbWpzeDloNHFPdGc4TTlJeFA4dlN1dVE?oc=5",
-          "date": "2026-11-11T10:47:26+00:00",
-          "resume": "",
-          "titre_fr": ""
-        },
-        {
-          "titre": "L'IA vue par des responsables de médias internationaux",
-          "source": "新华网",
-          "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kZ1NuYmZVc19SVlRSRi05U3Bia2xaeWNMdTJTWnpBS0U1cmZwRXJYZmNUZkpMREpadmNoYTE5YUU2YWlMemJBZzEwaFA3bGdKSkd6NFljOGFlSDBIU1ROY3p5dGFRV2JaSWVYNk5tdVpBZEhwaERFRHRaTQ?oc=5",
-          "date": "2026-11-11T10:47:00+00:00",
-          "resume": "",
-          "titre_fr": ""
-        },
-        {
-          "titre": "Suite à la sortie du Google Pixel 11, l’ancien modèle boosté à l’IA perd plus de 700 euros sur son prix initial",
-          "source": "Le Parisien",
-          "lien": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPcy11N3ZjMXhuZWNxbUUxeGxVVG9kNlJrdTRyTGp5Vm1NaFhQSVdvZ0REaV9EYy10b2k1Y2pxQS12YjZ6WjV0aTZOOGROTnhHWWprVTlMREdGZnlCNkhIWURpSTRVYzZESE9PclRvZ1AtQ3FHZWtjcWlXLVJ1MVpOaVhZZ2pLd3NMTXZSbHRiRk1pbGI0R2p6YmVWelA0NGVMcERxNTV5Y1lha0t1VUx0V2luTk11a2lucTBsM3Y5R3JUTmNKd1lpdUdULWQ0T25BWUtsZ0tMeGhFQzhLdnNHQlhzRlhSU2JpWTczODktVl9KOEdyRGxobDNhN3JRSjBLbDkyVmotXzloV19LX1Z1Y295SWNObkcwZGFNS3pRX0FwM2MxWkpWRHNxRzBpa2tqYTlqUl9OTC0?oc=5",
-          "date": "2026-11-11T10:30:00+00:00",
+          "note": 4,
+          "motif": "Incident juridique, peu d'impact sur IA",
+          "couverture": 1,
+          "titre": "\"Elle n'a pas agi seule\": sa femme tente de l'empoisonner avec ChatGPT, un homme dépose plainte contre OpenAI aux États-Unis",
+          "source": "BFM",
+          "lien": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNVklwTWp5bUZZdGZRWVpKWVg3TENvRXQxd2o2TGZ3czhZdjZma1l5ZzRDbUZ4REV5SnIySkJqcmh1SENhYlV4MjJ2NVJuR1NZdi12MVh0eWZqNUJLM29WU0FHRXVkZGJDWFBvQ29GWmtJbEZ1UHNMMHRIWWNScThzekZaSHN4UzVld0hRMW9kOU40blR3VlNlNWxRcG5Ed0xpa1N4OXVIdnRXWnNscGN2OUhDOFFLQkNYNGJNelFfLWQzUUVtRHNFcTB3WHhmZXJyS05uZGowaHZkUFlEaG4xN01iMGFUaUZFaV9ZZmZzckhDLXhUVlRnMjRMejJBOTZyUEluajFFb0NaUkZBaUdzOHBQUW9pVE9ZaTNPek40WVJSQQ?oc=5",
+          "date": "2026-11-11T14:06:41+00:00",
           "resume": "",
           "titre_fr": ""
         }
@@ -446,87 +594,154 @@
   ],
   "ecartes": [
     {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "NVIDIA RTX Spark: CPU Grace ARM y GPU Blackwell para creadores y gaming",
+      "source": "Foro3D",
+      "lien": "https://foro3d.com/2026/noviembre/nvidia-rtx-spark-cpu-grace-arm-y-gpu-blackwell-para-creadores-y-gaming.html",
+      "date": "2026-11-11T15:27:07+00:00",
+      "resume": "NVIDIA lanza RTX Spark, plataforma que combina CPU Grace ARM y GPU Blackwell RTX en portátiles Windows 11 para creadores, IA y gaming. Incluye DLSS, ray tracing y Reflex, con emulación Prism para juegos x86 y x64.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Expertise comptable : à quoi ressemblera le cabinet de demain ?",
+      "source": "Compta Online",
+      "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbUtGS0w0RHgtc2ZfRExNOS1vOTlnanFpbkhfMno2NjJMd3ZwVU81UHdFM0kxZ3ZLaFA0bzlNV1J4UHF6bjJodHRHX19pOVpSNjctdjNKVnRNQ200SWg4MW4zbE11ZEtoUElXa1RWYXRldE1YdkhjM1lkazg1S2pzWm5tUQ?oc=5",
+      "date": "2026-11-11T14:16:47+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
       "titre": "Qui sont Madison et Spencer, les enfants de Jensen Huang qui travaillent pour Nvidia, l'empire bâti par leur père",
       "source": "Les Echos",
       "lien": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQV1Rmam9XN0NRTmlaaFhQLWNMaC1GajhEaHFINXY4NFFKeUtOSkRoeUE1RTFtLXBQakN2N2FpQVdaa3k1czZySkthWGlhSzZINGxMS0g5LUpfczJiT0t3LVUwTlYtMmZQSkh6SXlodExyU3UzaTFJYTJhcC1NRVcySTc4akYwWjBjaVNRUENpZHp3V3FLaXRwSHdkUzZDNEFmRGFiZGkySjRHamcwVzQtSVRMeGZFelp5ZW01YUtrQURrX1dTbzdiVnFDc25fUFF5U0FZYW5QZFRwWE5nR1VUVFFiR1ctZk9rSm5GYWFoYzhtNEI1OWZ3dkdSMlVuVFpzMlJDY3RGaHVZOUVE?oc=5",
       "date": "2026-11-11T11:07:09+00:00",
       "resume": "",
       "titre_fr": ""
-    },
+    }
+  ],
+  "top": [
     {
-      "titre": "SpaceX Prépare 100 GW De Solaire Pour Ses GPU En Orbite, Avec Des Cellules Plus Coûteuses",
-      "source": "Pause Hardware",
-      "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZc29hMmVJMDd0SVN1Y3FCb25KZE56WDRaelczaFdBNXAzX25HWWhhTmk3Z1RIQ1BpMzB6MnNFbmsyR0NfS29EVkFaMEZWVHUzaUNBQlpkUVBEZHY4TlZXMExQVnZremN0bE5YaGhYOTVnWDg?oc=5",
-      "date": "2026-11-11T10:41:11+00:00",
+      "note": 8,
+      "motif": "Ajout fonctionnel clé, adoption entreprise",
+      "couverture": 1,
+      "titre": "OpenAI ajoute des profils d'entreprise vérifiés et des agents IA à ChatGPT",
+      "source": "fr.qz.com",
+      "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjWVAybWp6R1VDdXJqcmJXYVpMUXZNblNlTU9rOEVKVVMyNm4yY0xjb3JPUmJuYnhRUzhZeWNCTl81UEZmcEZJMVRfaWRDZE1ZWHdXaTBsZHB3cTBqR3pYLTAwU25IOWZLMEtFNlUwbW40eU9SOEJz?oc=5",
+      "date": "2026-11-11T14:54:09+00:00",
       "resume": "",
       "titre_fr": ""
     },
     {
-      "titre": "Au Crédit Agricole, les données sont de mieux en mieux valorisées",
-      "source": "Investir Les Echos",
-      "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLWJaendMdC0xcEhyZ2dXX0lISmg5Y3NqM05RUUM1VUthVDdVeGdWN3pscnR5V1F5QVRUTk9ZZ1g2cEhWYVAyaUo5cTM3eHhlWnlXdFBIRXVmcVFOX0RzT3FUUWlMN0ZzZng4VW9tQWxoU3VyeFRtbWR1SUVnTDRkNGNVbGg2bWJ3bTJBaXNLN3JSalNrYU80OWxCYjhUVlRaSmYzYURnSnZ3ZzZaVFhnc0s5LTJ6Y1JVOHljWXl5Rml6czVVaVRLNWQ1eW1vTThIOVhn?oc=5",
-      "date": "2026-11-11T09:42:57+00:00",
+      "note": 8,
+      "motif": "Avertissement majeur sur risque IA, haute pertinence",
+      "couverture": 1,
+      "titre": "Paul Christiano aux Hinton Lectures : l’IA pourrait devenir incontrôlable d’ici 18 mois",
+      "source": "Mon Carnet – de l'actualité numérique",
+      "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaER3TmpkZlItWnNFZEhLYURFSVNKTzNqOWtVRll3cl9EWEZfeE5wNlZrYkdzOFI5VC1KTmR6ay1xZEpyMHhjWXpfVlRRbnF6N0NmYlcxSnMtVmRzdkE2cDg3QVR0LVU2d1REX3ljOHVfZndaeU8wa2t4cGRwaEJMWnZtMWJlTm5SUWo4eDEtMGZSU3RCZEg4VktCcnhGWThhOEhCbE9GWE13YXkwTkRTcWVuRndkTzRS?oc=5",
+      "date": "2026-11-11T14:37:05+00:00",
       "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": 8,
+      "motif": "Appel régulateur important, impact futur",
+      "couverture": 1,
+      "titre": "IA : Hinton réclame des contrôles avant diffusion",
+      "source": "Libnanews",
+      "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04dFJ5M1hHRXVKMmFHMnlVNUNLRFB0NDN2cTdkamJWaE1TdE5xZDNHeU5mRWZmNXBLRGQ0LWJTX0ViUkJvSF85NHU0cTdPWXFxcGxzaGpibDVHSk9hR2VQZzlQWkFXS0pkTUl6V2VpaHlQcEJzQWNBV1RR?oc=5",
+      "date": "2026-11-11T14:30:00+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": 8,
+      "motif": "Lancement modèle IA puissant, grande portée",
+      "couverture": 1,
+      "titre": "Google ouvre Gemini 4 Carbon au public : comment tester sa nouvelle IA la plus puissante ?",
+      "source": "Le Big Data",
+      "lien": "https://www.lebigdata.fr/google-ouvre-gemini-4-carbon-au-public-comment-tester-sa-nouvelle-ia-la-plus-puissante",
+      "date": "2026-11-11T14:03:11+00:00",
+      "resume": "Gemini 4 Carbon est désormais accessible au public, alors que seuls quelques spécialistes de la ... [...] Cet article Google ouvre Gemini 4 Carbon au public : comment tester sa nouvelle IA la plus puissante ? a été publié sur LEBIGDATA.FR .",
+      "titre_fr": ""
+    },
+    {
+      "note": 8,
+      "motif": "Sécurité IA critique, forte pertinence",
+      "couverture": 1,
+      "titre": "Arrêter les dégâts « dans les 35 secondes » : OpenAI dévoile le kill switch censé stopper ses IA quand elles dérapent",
+      "source": "Numerama",
+      "lien": "https://www.numerama.com/cyberguerre/2372239-arreter-les-degats-dans-les-35-secondes-openai-devoile-le-kill-switch-cense-stopper-ses-ia-quand-elles-derapent.html",
+      "date": "2026-11-11T13:35:38+00:00",
+      "resume": "OpenAI a présenté le 10 novembre Control Room, un système central qui suit toutes les tâches de ses chercheurs utilisant ses modèles d’IA.",
       "titre_fr": ""
     }
   ],
+  "articles_notes": 50,
   "videos": {
     "statut": "ok",
     "fenetre_heures": 24,
     "elements": [
       {
-        "titre": "Elle a mis son patron dehors… pour parler à une IA (en 1966) 😳",
-        "source": "Culture IQ",
-        "lien": "https://www.youtube.com/watch?v=PRr2yqn0hXg",
-        "date": "2026-11-11T12:00:08Z",
-        "image": "https://i.ytimg.com/vi/PRr2yqn0hXg/mqdefault.jpg",
-        "extrait": "MIT, 1966. Joseph Weizenbaum crée ELIZA, la première IA qui discute. Sa secrétaire, qui savait que c'était un programme, ...",
-        "description": "Retour historique sur ELIZA, la première IA de conversation créée en 1966 par Joseph Weizenbaum au MIT."
+        "titre": "La fin des tokens ? Une nouvelle architecture pourrait changer l’IA",
+        "source": "Nerdy Kings",
+        "lien": "https://www.youtube.com/watch?v=0Ea3tbNwgYM",
+        "date": "2026-11-11T13:00:31Z",
+        "image": "https://i.ytimg.com/vi/0Ea3tbNwgYM/mqdefault.jpg",
+        "extrait": "Et si les futurs modèles d'IA n'avaient plus besoin de tokenizers traditionnels ? Avec H-Net et BLT, les chercheurs explorent de ...",
+        "description": "Exploration d’une nouvelle architecture d’IA qui pourrait supprimer les tokenizers traditionnels, présentée par les chercheurs d’H‑Net et BLT."
       },
       {
-        "titre": "Tu utilises ChatGPT au boulot ? Ton chef te croit moins 😳",
-        "source": "Meir Ankri",
-        "lien": "https://www.youtube.com/watch?v=tPfeJklQGso",
-        "date": "2026-11-11T11:28:06Z",
-        "image": "https://i.ytimg.com/vi/tPfeJklQGso/mqdefault.jpg",
-        "extrait": "Tu utilises ChatGPT au boulot ? Ton chef te fait moins confiance, même quand ton travail est aussi bon. Dans une expérience de ...",
-        "description": "Analyse d'une expérience montrant que l'usage de ChatGPT au travail peut réduire la confiance du chef, même si la qualité du travail reste élevée."
+        "titre": "Imlac, IA du futur sur @Philove (ChatGPT)",
+        "source": "Vincent Cespedes",
+        "lien": "https://www.youtube.com/watch?v=IWbz6sg6yBo",
+        "date": "2026-11-11T12:23:39Z",
+        "image": "https://i.ytimg.com/vi/IWbz6sg6yBo/mqdefault.jpg",
+        "extrait": "J'AI CRÉÉ PHILOVE : UNE IA PHILOSOPHE DANS CHATGPT ! Vous utilisez ChatGPT ? Alors savez-vous que vous pouvez ...",
+        "description": "Création d’une IA philosophe nommée PHILOVE intégrée à ChatGPT, avec une démonstration de ses capacités de réflexion."
       },
       {
-        "titre": "La Chine régule l’IA, les États-Unis non !",
-        "source": "Le Ruisseau",
-        "lien": "https://www.youtube.com/watch?v=eLU-_5pfvjE",
-        "date": "2026-11-11T08:00:25Z",
-        "image": "https://i.ytimg.com/vi/eLU-_5pfvjE/mqdefault.jpg",
-        "extrait": "Alors que la course à l'intelligence artificielle s'accélère, les grandes puissances adoptent des stratégies bien différentes.",
-        "description": "Comparaison des stratégies de régulation de l'IA entre la Chine, qui impose des règles strictes, et les États‑Unis, qui restent plus laxistes."
+        "titre": "Pourquoi certaines IA déçoivent les hôteliers ? 🤖 #Shorts",
+        "source": "10 Minutes Hotel News",
+        "lien": "https://www.youtube.com/watch?v=gu8yHOEhAJQ",
+        "date": "2026-11-11T10:04:17Z",
+        "image": "https://i.ytimg.com/vi/gu8yHOEhAJQ/mqdefault.jpg",
+        "extrait": "L'intelligence artificielle promet de transformer l'hôtellerie. Mais doit-elle forcément remplacer le travail des équipes ? Pour Aude ...",
+        "description": "Analyse des raisons pour lesquelles certaines IA déçoivent les professionnels de l’hôtellerie et discussion sur leurs limites réelles."
       },
       {
-        "titre": "Agents IA : garde un seul Claude avec des skills",
-        "source": "Yannis Haismann",
-        "lien": "https://www.youtube.com/watch?v=XdVENPmFFs4",
-        "date": "2026-11-11T07:30:26Z",
-        "image": "https://i.ytimg.com/vi/XdVENPmFFs4/mqdefault.jpg",
-        "extrait": "Quinze agents IA ouverts et la moitié pas finis ? Le but, c'est un seul agent, Claude, à qui tu donnes des skills. Un skill relit ton ...",
-        "description": "Présentation d'une architecture d'agents IA où un seul modèle Claude possède plusieurs compétences (skills) au lieu de multiples agents."
+        "titre": "Et si votre prochaine entreprise existait déjà depuis 30 ans ? #intelligenceartificielle",
+        "source": "Maison Malala | IA & Stratégie.",
+        "lien": "https://www.youtube.com/watch?v=DXdgV2W6XQ8",
+        "date": "2026-11-11T09:32:36Z",
+        "image": "https://i.ytimg.com/vi/DXdgV2W6XQ8/mqdefault.jpg",
+        "extrait": "Chaque année, des brevets arrivent à expiration. Parmi eux, certaines inventions pourraient aujourd'hui retrouver une nouvelle ...",
+        "description": "Examen des brevets expirés depuis 30 ans qui pourraient être réactivés grâce à l’IA, ouvrant de nouvelles opportunités commerciales."
       },
       {
-        "titre": "𝐂𝐨𝐦𝐦𝐞𝐧𝐭 𝐟𝐨𝐧𝐜𝐭𝐢𝐨𝐧𝐧𝐞 𝐯𝐫𝐚𝐢𝐦𝐞𝐧𝐭 𝐮𝐧𝐞 𝐢𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 𝐚𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐞𝐥𝐥𝐞 ?",
-        "source": "Kamel Sans Filtre",
-        "lien": "https://www.youtube.com/watch?v=tuU9mp7Pjiw",
-        "date": "2026-11-10T23:00:24Z",
-        "image": "https://i.ytimg.com/vi/tuU9mp7Pjiw/mqdefault.jpg",
-        "extrait": "Tout le monde utilise l'IA aujourd'hui. Mais sait-on vraiment comment elle apprend, et pourquoi elle se trompe parfois ? Avec cet ...",
-        "description": "Explication pédagogique du fonctionnement réel de l'intelligence artificielle, de son apprentissage et de ses erreurs fréquentes."
+        "titre": "Quel impact de l’IA sur la formation des jeunes banquiers d’affaires ?",
+        "source": "B SMART",
+        "lien": "https://www.youtube.com/watch?v=tKaBxZyrkZU",
+        "date": "2026-11-11T09:02:15Z",
+        "image": "https://i.ytimg.com/vi/tKaBxZyrkZU/mqdefault.jpg",
+        "extrait": "Président d'Edmond de Rothschild Corporate Finance, Arnaud Petit revient sur une des conséquences majeures de l'avènement ...",
+        "description": "Discussion sur l’impact de l’IA dans la formation des jeunes banquiers d’affaires, avec le point de vue d’un dirigeant d’Edmond de Rothschild."
       },
       {
-        "titre": "TsunamIA, l’émission qui décrypte la révolution de l’intelligence artificielle",
-        "source": "demaintv",
-        "lien": "https://www.youtube.com/watch?v=fc21h-4XPmE",
-        "date": "2026-11-10T19:30:13Z",
-        "image": "https://i.ytimg.com/vi/fc21h-4XPmE/mqdefault.jpg",
-        "extrait": "Première de TsunamIA, l'émission animée par Christophe Medici qui décrypte la révolution de l'intelligence artificielle.",
-        "description": "Première de « TsunamIA », émission animée par Christophe Medici qui décrypte les enjeux et les évolutions de l'intelligence artificielle."
+        "titre": "NVIDIA : une liaison à 4 500 MILLIARDS ? 🤫",
+        "source": "Solal Dahan",
+        "lien": "https://www.youtube.com/watch?v=hwOsxrNz-GA",
+        "date": "2026-11-11T08:12:36Z",
+        "image": "https://i.ytimg.com/vi/hwOsxrNz-GA/mqdefault.jpg",
+        "extrait": "Le patron de NVIDIA, Jensen Huang, se retrouve au cœur d'une affaire d'espionnage présumé liée à une relation personnelle.",
+        "description": "Enquête sur les allégations d’espionnage impliquant le PDG de NVIDIA, Jensen Huang, et leurs répercussions pour le secteur IA."
       },
       {
         "titre": "Pourquoi les géants de l'IA craignent une nouvelle réglementation américaine",
@@ -535,7 +750,7 @@
         "date": "2026-11-10T19:00:06Z",
         "image": "https://i.ytimg.com/vi/bKlxEU60fjE/mqdefault.jpg",
         "extrait": "Les actions liées à l'intelligence artificielle rebondissent après une période de forte volatilité. Mais un nouvel enjeu domine : la ...",
-        "description": "Analyse des raisons pour lesquelles les géants de l'IA redoutent une nouvelle réglementation américaine et ses impacts sur le secteur."
+        "description": "Analyse des craintes des géants de l’IA face à une nouvelle réglementation américaine et de ses conséquences sur le marché."
       },
       {
         "titre": "🤖 𝐈𝐍𝐓𝐄𝐋𝐋𝐈𝐆𝐄𝐍𝐂𝐄 𝐀𝐑𝐓𝐈𝐅𝐈𝐂𝐈𝐄𝐋𝐋𝐄 | 𝐕𝐄́𝐑𝐈𝐅𝐈𝐄𝐑 𝐔𝐍𝐄 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍, 𝐌𝐈𝐒𝐒𝐈𝐎𝐍 𝐈𝐌𝐏𝐎𝐒𝐒𝐈𝐁𝐋𝐄 ?",
@@ -544,7 +759,7 @@
         "date": "2026-11-10T18:49:12Z",
         "image": "https://i.ytimg.com/vi/kHYCE5vP3oQ/mqdefault.jpg",
         "extrait": "À l'heure où l'intelligence artificielle prend une place grandissante dans notre quotidien, comment distinguer le vrai du faux ?",
-        "description": "Guide de vérification des informations liées à l'IA afin de distinguer le vrai du faux dans un contexte d'usage croissant."
+        "description": "Guide pour distinguer le vrai du faux dans les informations liées à l’intelligence artificielle au quotidien."
       },
       {
         "titre": "CLAUDE 2.0 : ces nouveautés changent TOUT",
@@ -553,7 +768,7 @@
         "date": "2026-11-10T18:08:49Z",
         "image": "https://i.ytimg.com/vi/wv9llP3BnTw/mqdefault.jpg",
         "extrait": "Le Cercle : l'accompagnement pour lancer et développer votre activité de services IA ...",
-        "description": "Présentation des nouveautés de Claude 2.0 et de leurs implications majeures pour les utilisateurs d'IA."
+        "description": "Présentation des nouveautés de Claude 2.0 et de leurs implications majeures pour les usages de l’IA."
       },
       {
         "titre": "Claude Fable 5.2 : L’IA qui humilie GPT-6 Astra ? (Test Complet)",
@@ -562,7 +777,7 @@
         "date": "2026-11-10T18:06:21Z",
         "image": "https://i.ytimg.com/vi/dwpAU8B0K24/mqdefault.jpg",
         "extrait": "Récupère les Prompts Fable 5.2 (gratuit)   https://www.skool.com/academya-gratuit-3201/about Dans cette vidéo, je teste Claude ...",
-        "description": "Test complet de Claude Fable 5.2, comparé aux modèles concurrents, avec mise en avant de ses performances et de ses limites."
+        "description": "Test complet de Claude Fable 5.2, comparant ses performances à d’autres modèles et proposant les prompts utilisés."
       }
     ]
   },
@@ -578,7 +793,7 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/37/08/a9/3708a975-64e3-0555-c67f-8422de55a1b2/mza_13381345338185840471.png/160x160bb.jpg",
         "duree_min": 16,
         "extrait": "📅 Episode du 11/11/2026 : Je vous enregistre cette note vocale en pleine rue à Hanoï, entre les scooters et les klaxons (supprimé en postprod), pour faire un point sur mon voyage et sur mes réflexions du moment. Je reviens sur mes deux semaine",
-        "description": "Note vocale en direct depuis Hanoï où l'animateur discute des agents IA, de la version Fable 5.2 et du burnout lié à l'IA."
+        "description": "Note vocale enregistrée à Hanoï où l’auteur discute d’agents IA, du modèle Fable 5.2 et du burnout lié à l’utilisation du no‑code."
       },
       {
         "titre": "🧠 En 2042, l'IA pensera chaque jour autant que l'humanité : Saturnin Pugnet (World)",
@@ -588,7 +803,7 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/98/86/18/98861882-8fed-1ad1-1927-87ccc841183b/mza_1507057319171749639.jpeg/160x160bb.jpg",
         "duree_min": 66,
         "extrait": "🧠 En 2042, l'IA produira chaque jour autant de pensées que toute l'humanité depuis le début des temps. C'est le calcul que m'a présenté Saturnin Pugnet. Saturnin, c'est l'un des fondateurs de World, le projet lancé en 2019 avec Sam Altman pou",
-        "description": "Interview de Saturnin Pugnet (World) qui explique son calcul selon lequel en 2042 l'IA produira chaque jour autant de pensées que toute l'humanité depuis ses débuts."
+        "description": "Entretien avec Saturnin Pugnet qui expose le calcul selon lequel en 2042 l’IA générera chaque jour autant de pensées que toute l’humanité depuis le début des temps."
       },
       {
         "titre": "11 NOV - Anthropic se lance dans la bureautique",
@@ -598,7 +813,7 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/88/1c/ef/881cef1b-fad2-52f7-3d77-2c92c12da024/mza_13461851867480446149.png/160x160bb.jpg",
         "duree_min": 3,
         "extrait": "Au sommaire : Anthropic se lance dans la bureautique - AI News & Artificial Intelligence | TechCrunch OpenAI rachète un agent de voyage IA - AI News & Artificial Intelligence | TechCrunch New York encadre les grands labos d'IA - AI News & Artif",
-        "description": "Analyse des dernières actualités IA : le lancement d'Anthropic dans la bureautique, le rachat d'un agent de voyage IA par OpenAI et les régulations à New York."
+        "description": "Analyse de l’entrée d’Anthropic dans la bureautique et des dernières acquisitions d’OpenAI, avec un tour d’horizon des actualités IA de TechCrunch."
       },
       {
         "titre": "Le kiki de Jensen Huang gouverne le monde",
@@ -608,7 +823,7 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/83/eb/c4/83ebc4d1-fe88-f5d3-79f5-ab68b28851ff/mza_18380487601524220656.jpg/160x160bb.jpg",
         "duree_min": 95,
         "extrait": "IA dans les jeux vidéo et le cinéma, centres de données contestés et financement de Wikipédia. Cybertruck, Starlink, DeepSeek et OpenAI, puis actualités Windows 11, Switch 2 et préservation des jeux vidéo. 📱 Rappel Patreon sur WhatsApp✉️ Rappel Patreon par mail ❤️ Me soutenir sur Patreon📺 Me retrouv",
-        "description": "Débat sur l'impact de l'IA dans les jeux vidéo et le cinéma, les enjeux des data‑centers et le financement de Wikipédia, avec des actualités tech comme Cybertruck et DeepSeek."
+        "description": "Épisode consacré à l’IA dans les jeux vidéo et le cinéma, aux data‑centers contestés, au financement de Wikipédia, ainsi qu’à d’autres actualités technologiques."
       },
       {
         "titre": "Capsule 159 — Comment former cinq cents personnes à l'IA en six mois sans budget colossal",
@@ -618,7 +833,7 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/79/c2/7279c243-8a89-2d21-bdda-3d94a4d62796/mza_17158553724733680146.jpg/160x160bb.jpg",
         "duree_min": 4,
         "extrait": "Cinq cents collaborateurs à former. Huit cents mille euros de devis. Et un taux de rétention de trente pour cent. Il existe des approches beaucoup plus efficaces et bien moins chères. Dans cette capsule Brief IA vous explique les quatre alternatives",
-        "description": "Capsule du Brief IA qui propose des méthodes économiques pour former 500 salariés à l'IA en six mois, en évitant les budgets colossaux."
+        "description": "Capsule expliquant comment former 500 collaborateurs à l’IA en six mois sans un budget colossal, en proposant des approches plus efficaces et économiques."
       },
       {
         "titre": "Épisode 9 : Combien coûte une réponse ? Machines, électricité et compteur caché",
@@ -628,7 +843,17 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d4/f1/d2/d4f1d236-eaae-4506-9564-548cb8ea9fb9/mza_17115732573398421047.jpeg/160x160bb.jpg",
         "duree_min": 10,
         "extrait": "Une réponse d'IA a l'air gratuite. Elle ne l'est pas : derrière, il y a un compteur, des puces, des bâtiments géants et beaucoup d'électricité. Dans cet épisode, tu découvres ce qui fait tourner le compteur, l'industrie cachée derrière chaque",
-        "description": "Épisode destiné aux jeunes qui décrit le vrai coût énergétique d’une réponse d’IA, en dévoilant le compteur caché derrière les serveurs et les puces."
+        "description": "Épisode qui dévoile le vrai coût d’une réponse d’IA, en détaillant la consommation d’électricité, les puces et les infrastructures cachées derrière chaque requête."
+      },
+      {
+        "titre": "Claude Fable 5.2 Is Here — Plus NVIDIA's Jensen Huang Investigation and Amazon's Home Robot",
+        "source": "ChatGPT: News on Open AI, MidJourney, NVIDIA, Anthropic, Open Source LLMs, Machine Learning",
+        "lien": "https://podcasts.apple.com/fr/podcast/claude-fable-5-2-is-here-plus-nvidias-jensen-huang/id1722120770?i=1000801037600&uo=4",
+        "date": "2026-11-10T17:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/83/ef/c983ef81-09f4-5275-841c-d0261783d6e0/mza_9920854911847700946.jpeg/160x160bb.jpg",
+        "duree_min": 17,
+        "extrait": "Anthropic has launched Claude Fable 5.2 and Mythos 5.2 — and cut the price of Fable by 20%. Jaeden breaks down the launch: Fable 5.2 is 30% faster at $8 per million input tokens and $40 per million output tokens, scored 49.1 on Frontier Code 2.0 (ahea",
+        "description": "Annonce du lancement de Claude Fable 5.2 et Mythos 5.2 par Anthropic, avec une réduction de prix et des performances améliorées (30 % plus rapide)."
       }
     ]
   }

@@ -369,6 +369,31 @@
   .carte h3 a:focus-visible { outline: none; }
   .carte .titre-original { margin: -4px 0 0; font-size: .8rem; font-style: italic; color: var(--texte-3); overflow-wrap: anywhere; }
 
+  /* Note de pertinence (agent noteur) : pastille 1-10, plus foncée quand la note monte. */
+  .note {
+    display: inline-grid; place-items: center; min-width: 38px; height: 22px; padding: 0 7px; border-radius: 999px;
+    font-size: .74rem; font-weight: 700; font-variant-numeric: tabular-nums; flex: none;
+    color: var(--texte-2); background: var(--surface-2); border: 1px solid var(--bordure);
+  }
+  .note.moyenne { color: var(--accent); background: var(--accent-doux); border-color: transparent; }
+  .note.haute { color: var(--accent-texte); background: var(--accent); border-color: transparent; }
+  .carte .motif { margin: 0; font-size: .8rem; color: var(--texte-3); overflow-wrap: anywhere; }
+  .carte .motif::before { content: "Pertinence : "; font-weight: 600; color: var(--texte-2); }
+
+  /* « À lire en priorité » : les mieux notés du jour */
+  .top { margin-top: 18px; padding: 18px 22px; border-radius: 16px; background: var(--surface); border: 1px solid var(--bordure); box-shadow: var(--ombre-1); }
+  .top h2 { display: flex; align-items: center; gap: 8px; margin: 0 0 10px; font-size: 1rem; }
+  .top h2 small { font-weight: 400; color: var(--texte-3); margin-left: 4px; }
+  .top ol { list-style: none; margin: 0; padding: 0; counter-reset: top; }
+  .top li { display: flex; align-items: flex-start; gap: 12px; padding: 9px 0; border-top: 1px solid var(--bordure); counter-increment: top; }
+  .top li:first-child { border-top: 0; padding-top: 0; }
+  .top li::before { content: counter(top); display: grid; place-items: center; width: 24px; height: 24px; border-radius: 8px; flex: none;
+                    font-size: .78rem; font-weight: 700; color: var(--accent); background: var(--accent-doux); }
+  .top .texte { min-width: 0; flex: 1; }
+  .top a { color: var(--texte); font-weight: 600; text-decoration: none; overflow-wrap: anywhere; }
+  .top a:hover { color: var(--accent); text-decoration: underline; }
+  .top .detail { display: block; font-size: .8rem; color: var(--texte-3); margin-top: 2px; }
+
   /* Rubriques Vidéos et Podcasts : bandeaux qui défilent horizontalement */
   .rubrique { margin-top: 30px; }
   .tete-rubrique { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; margin-bottom: 12px; }
@@ -557,6 +582,11 @@
             <ul id="liste-corrections"></ul>
           </details>
         </div>
+
+        <section class="top" id="top" hidden>
+          <h2><svg class="icone" data-icone="etincelles"></svg>À lire en priorité<small id="top-note"></small></h2>
+          <ol id="liste-top"></ol>
+        </section>
 
         <section class="rubrique" id="rubrique-videos" hidden>
           <div class="tete-rubrique">
@@ -863,6 +893,7 @@ function carte(article) {
   const heure = el("span", "heure");
   heure.append(icone("horloge"), document.createTextNode(heureArticle(article.date, jourActif)));
   ligne.append(avatar, el("span", "nom", article.source), heure);
+  if (Number.isInteger(article.note)) ligne.append(pastilleNote(article));
 
   const titre = el("h3");
   const href = lienSur(article.lien);
@@ -872,14 +903,38 @@ function carte(article) {
   titre.append(lien);
   div.append(ligne, titre);
   if (article.titre_fr) div.append(el("p", "titre-original", article.titre));
+  if (article.motif) div.append(el("p", "motif", article.motif));
   if (article.resume) div.append(el("p", "resume", article.resume));
   if (href) {
     const lire = el("span", "lire", "Lire l'article");
     lire.append(icone("externe"));
     div.append(lire);
   }
-  div.dataset.recherche = sansAccents(`${article.titre} ${article.titre_fr || ""} ${article.source} ${article.resume}`);
+  div.dataset.recherche = sansAccents(`${article.titre} ${article.titre_fr || ""} ${article.source} ${article.resume} ${article.motif || ""}`);
   return div;
+}
+
+function pastilleNote(article) {
+  const p = el("span", "note" + (article.note >= 8 ? " haute" : article.note >= 5 ? " moyenne" : ""), `${article.note}/10`);
+  p.title = "Pertinence estimée par l'agent noteur" + (article.motif ? " : " + article.motif : "");
+  return p;
+}
+
+function afficherTop(top) {
+  const section = $("top");
+  section.hidden = !top || !top.length;
+  if (section.hidden) return;
+  $("top-note").textContent = "· notes de l'agent noteur";
+  $("liste-top").replaceChildren(...top.map((a) => {
+    const li = el("li");
+    const texte = el("div", "texte");
+    const href = lienSur(a.lien);
+    const lien = el(href ? "a" : "span", "", a.titre_fr || a.titre);
+    if (href) { lien.href = href; lien.target = "_blank"; lien.rel = "noopener noreferrer"; }
+    texte.append(lien, el("span", "detail", `${a.source}${a.motif ? " · " + a.motif : ""}`));
+    li.append(texte, pastilleNote(a));
+    return li;
+  }));
 }
 
 function afficherVeille() {
@@ -918,6 +973,7 @@ function afficherVeille() {
   $("bloc-synthese").hidden = !veille.synthese;
   $("synthese").textContent = veille.synthese;
   afficherVerification(veille.verification);
+  afficherTop(veille.top);
   afficherRubrique("videos", veille.videos);
   afficherRubrique("podcasts", veille.podcasts);
 

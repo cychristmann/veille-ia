@@ -1,444 +1,529 @@
 {
   "region": "us",
-  "genere_a": "2026-11-11T13:48:00.673545+01:00",
+  "genere_a": "2026-11-11T16:06:24.836017+01:00",
   "heures": 24,
   "nombre_demande": 50,
   "nombre_articles": 50,
-  "synthese": "Cette veille montre que l’intelligence artificielle continue de s’imposer comme un enjeu transversal, touchant à la fois la gouvernance internationale, les marchés financiers et les infrastructures technologiques. Les investisseurs restent très actifs, avec de nombreuses levées de fonds et des valorisations élevées, tandis que les acteurs publics débattent de cadres réglementaires pour encadrer son usage, notamment dans les domaines nucléaires et juridiques. Sur le plan technique, les data‑centers, les puces spécialisées et les solutions matérielles se multiplient, soutenus par des investissements massifs de fournisseurs comme TSMC et AMD. Enfin, les risques de cybersécurité, de désinformation et les questions éthiques, notamment dans la création artistique et la surveillance, restent au cœur des préoccupations, soulignant la nécessité d’un équilibre entre innovation et responsabilité.",
+  "synthese": "La veille montre une dynamique forte du financement de l’IA, avec des valorisations record et des rebonds boursiers soutenus par CoreWeave et d’autres acteurs. En parallèle, la régulation devient centrale, les législateurs américains envisagent de nouvelles restrictions et l’UE renforce la protection des consommateurs. L’IA se déploie largement dans la santé, la défense, la biotech, l’architecture et les médias, tandis que de nouveaux outils et plateformes, dont des agents conversationnels et des systèmes de codage, enrichissent l’écosystème technique. Enfin, l’éducation à l’IA se développe, avec des cours universitaires et des programmes de formation visant à préparer les leaders et les créateurs de contenu aux enjeux de l’IA.",
   "verification": {
     "problemes": [],
-    "synthese_originale": "Cette veille montre que l’intelligence artificielle continue de s’imposer comme un enjeu transversal, touchant à la fois la gouvernance internationale, les marchés financiers et les infrastructures technologiques. Les investisseurs restent très actifs, avec de nombreuses levées de fonds et des valorisations élevées, tandis que les acteurs publics débattent de cadres réglementaires pour encadrer son usage, notamment dans les domaines nucléaires et juridiques. Sur le plan technique, les data‑centers, les puces spécialisées et les solutions matérielles se multiplient, soutenus par des investissements massifs de fournisseurs comme TSMC et AMD. Enfin, les risques de cybersécurité, de désinformation et les questions éthiques, notamment dans la création artistique et la surveillance, restent au cœur des préoccupations, soulignant la nécessité d’un équilibre entre innovation et responsabilité."
+    "synthese_originale": "La veille montre une dynamique forte du financement de l’IA, avec des valorisations record et des rebonds boursiers soutenus par CoreWeave et d’autres acteurs. En parallèle, la régulation devient centrale, les législateurs américains envisagent de nouvelles restrictions et l’UE renforce la protection des consommateurs. L’IA se déploie largement dans la santé, la défense, la biotech, l’architecture et les médias, tandis que de nouveaux outils et plateformes, dont des agents conversationnels et des systèmes de codage, enrichissent l’écosystème technique. Enfin, l’éducation à l’IA se développe, avec des cours universitaires et des programmes de formation visant à préparer les leaders et les créateurs de contenu aux enjeux de l’IA."
   },
   "sources_en_echec": [
-    "FourWeekMBA",
-    "https://tech-insider.org/"
+    "FourWeekMBA"
   ],
   "themes": [
     {
-      "nom": "Gouvernance et réglementation",
-      "resume": "Les articles traitent des initiatives publiques et des débats internationaux autour de la régulation de l’IA, ainsi que des législations locales visant à encadrer son usage.",
+      "nom": "Financement et Bourse de l'IA",
+      "resume": "De nombreux titres rapportent des mouvements boursiers, des levées de fonds et des valorisations autour de l'IA, notamment les performances de CoreWeave, les prévisions de valorisation d'Anthropic, les réactions des actions Nvidia, Broadcom et d’autres acteurs technologiques.",
       "articles": [
         {
-          "titre": "Responsible AI: A Transformation That Belongs to All | General Assembly of the United Nations",
-          "source": "Welcome to the United Nations",
-          "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZm9pZ2dGeWYtTzR6YW5CWUgwNW0zOXRWQk9RQTdrdmluTW5JRzUxcWRIbnNSaDU1bU4xaE9OSU9VcmJNRkxRT3NBUmhXbk94STIzaUlrMUVSVmwtajRIdk95NmVzZ1hXZk1TenBwd2FFdXk5MUxlb2xKRWNJZjA0UVlRbGM?oc=5",
-          "date": "2026-11-11T12:36:32+00:00",
-          "resume": "",
-          "titre_fr": "IA responsable : une transformation qui appartient à tous | Assemblée générale des Nations Unies"
-        },
-        {
-          "titre": "Russia, China and U.S. in Talks to Curb AI Use in Nuclear Arsenals, Report Says",
-          "source": "The Moscow Times",
-          "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTVJFWTVlX1F4SDdzamJQME1QaVNvWEJoMmhmNHliT0Mzd3Axb1JMR1p4bU1uWXNqSTRhcFFIc3ZUa1NNTzRzS0ZSWjNuRkxSRWZ3Mmp4UjFRRkM3ZHJ0UjZST3JyaEhBbldPNDFIb09QNlM2ZEJUSDZHbjV4ajNlcUhEeldMNlNzcXhCQjNpR0Z2SWFVdHBtUVluekloMHU5c0dncmROT0Rpb1RKeXdDcllxX1RPYmd1VnZrLU9EM3JLZw?oc=5",
-          "date": "2026-11-11T12:33:46+00:00",
-          "resume": "",
-          "titre_fr": "Russie, Chine et États‑Unis discutent de la limitation de l’IA dans les arsenaux nucléaires, selon un rapport"
-        },
-        {
-          "titre": "Somerville City Councilors introduce AI oversight ordinance",
-          "source": "The Somerville Times",
-          "lien": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtOTBpMmFIaUJjZG13X2xmVTNxcmZlVXdHZWJnSl9JU3p0dnBMcE1sZEs3UEZJNlNUTWRJXzVGak5Yb2ZwbVp4M3dhZHg4Z1dqc0IycGhzU3JGQkh1SHM0?oc=5",
-          "date": "2026-11-11T12:29:19+00:00",
-          "resume": "",
-          "titre_fr": "Les conseillers municipaux de Somerville proposent un ordre du jour de surveillance de l’IA"
-        }
-      ]
-    },
-    {
-      "nom": "Finances, marchés et investissements",
-      "resume": "De nombreuses publications analysent l’impact de l’IA sur les marchés boursiers, les levées de fonds, les valorisations d’entreprises spécialisées et les stratégies d’investissement.",
-      "articles": [
-        {
-          "titre": "AI Villain Turns Hero but Stock Market Chaos Is Just Getting Started",
-          "source": "Barron's",
-          "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeDhWLUNaNm1jT0RHcW4yN1k3NC1UaS0zekxWSXhGZWlQLVR4RVYzekhOODk3V21tR1FGRzZ1RC1uaW84UWlpVi1OeXBoX0JBVkdUMG9SeFdMVWJhekVOclIyRVd1NjF6bjl3Rm9QZFVQY2NSZHZoOE55d0l6UlY3ZW41eUlzWWphS0lF?oc=5",
-          "date": "2026-11-11T12:36:00+00:00",
-          "resume": "",
-          "titre_fr": "Le méchant de l’IA devient héros, mais le chaos boursier ne fait que commencer"
-        },
-        {
-          "titre": "Sandisk Leads Memory Stock Rally. The AI Recovery Has Far to Go.",
-          "source": "Barron's",
-          "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Cdk53RHRrdDRGYlRvX3ljYWc1YnlzZ1duenJfZWoydU5zOUU1ZUNIT0VWWk1oQVVEbGw0cmhSUndPcW90WEJZcTR5cUhiTGdjamFMYW9SdkNBOXB6SUhoRFRualgxM1VHUWVPWEJiNTVaOHVkdXFMaXA4Zw?oc=5",
-          "date": "2026-11-11T12:29:00+00:00",
-          "resume": "",
-          "titre_fr": "Sandisk mène le rallye des actions mémoire. Le rebond de l’IA a encore du chemin"
-        },
-        {
-          "titre": "CoreWeave stock jumps 11% as earnings beat eases AI slowdown fears",
-          "source": "Quartz",
-          "lien": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2OVJlTVF3OS1GUWlwY3JkUGtQWkRzUHNZODJ5Vy12VktBU2hLTWRVczBoWEtMSnNBekFoSWs3Ujg4NWd5dnpsZFVjdFBsa2Q2UF9HNjdub2NJcXJaY0JVLTZLdGtTc3BQUl83U1ZvMFdub3hH?oc=5",
-          "date": "2026-11-11T12:23:13+00:00",
-          "resume": "",
-          "titre_fr": "L’action CoreWeave bondit de 11 % après des résultats supérieurs qui atténuent les craintes de ralentissement de l’IA"
-        },
-        {
-          "titre": "S&P 500, Nasdaq futures rise as CoreWeave results calm AI jitters",
-          "source": "Reuters",
-          "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUVZoWU1fQUd2Y1M2Qnl1T2JaMTkwaXBkaDIwWjVHejZoQmdDUnVzUVlSWDVsWW1pVDRVcXQ2ZTdrRTRiMDdMNWJDS3Atem91bUpDMnFLUkZ6NjhjaTliYWV1ODRLMnk0Slh3Wk5wNGtHTDhvaEZpTFIyUlVpQ2tNdTUyb2ZLbEZGOHlTZWRJNzVScUpIS3V5a1FacGwzby00RURBa2htZFFqZmw3Z2pRS2NDWQ?oc=5",
-          "date": "2026-11-11T12:14:38+00:00",
-          "resume": "",
-          "titre_fr": "Les contrats à terme du S&P 500 et du Nasdaq en hausse alors que les résultats de CoreWeave apaisent les tensions autour de l’IA"
-        },
-        {
-          "titre": "FactSet Research Systems (FDS) Leads Investment In New AI Analytics Platform",
-          "source": "Yahoo Finance Australia",
-          "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNekJMYWEzUDdVRzZYeG1CTTdYX2dTMjVrcjByWFJVaG13M0tOUEZjZ3hVamJRNjRvYUZnaDJOeldPX3F0em52T0dEQ2pCTTRfR09zUktGY3d4NDdoeUpaQVl4U1Nxam11QUgybWJiM0I2Q3dSUXd2NEhUZTVPYkhFMkpES2IxSjg3Zm13?oc=5",
-          "date": "2026-11-11T12:12:00+00:00",
-          "resume": "",
-          "titre_fr": "FactSet Research Systems (FDS) mène l’investissement dans une nouvelle plateforme d’analytique IA"
-        },
-        {
-          "titre": "Wiwynn's Record Q3 Confirms AI Infrastructure Is a Supercycle",
-          "source": "The Futurum Group",
-          "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUjBTN284UzFTWFNGQTVHdDZudmRyNXg1Z1FfWExUN3J0OHVObXlyWTdaRFZIVlhRSGpwOXRQaTVCcld0dFotSWJYdnBSSHg0eUVVU1N4TTdZbkJuV3labkhFckRpRF90dFk3eDFmQjdadXByQ0NGMml4dGh1Y2V2NEY2Rjh6MzdvSE5rTEllYVBJaEFwWThWT3dfWQ?oc=5",
-          "date": "2026-11-11T12:11:22+00:00",
-          "resume": "",
-          "titre_fr": "Le record du troisième trimestre de Wiwynn confirme que l’infrastructure IA est en supercycle"
-        },
-        {
-          "titre": "SpaceX Stock Shrugs Off AI Worries Ahead of Starship Launch",
-          "source": "Barron's",
-          "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVHEyb0JJTS0wMzZoTG1VbUNmZC01cU5lc19zLTVDYnpTX3h6ZVdFOEtGY0REVVptb2x1YmNUMWRNZUYyemVOMmpBaWNNU29lNzRpbVR1dnpoSDVSSkhhSXQtRnFIVk9QQVNteDRKbHhLZHM2ekRKVFVCdkZLQjMxQW9B?oc=5",
-          "date": "2026-11-11T12:11:00+00:00",
-          "resume": "",
-          "titre_fr": "L’action SpaceX se moque des inquiétudes liées à l’IA avant le lancement du Starship"
-        },
-        {
-          "titre": "How AI Stocks Are Creeping Into Dividend ETFs",
-          "source": "Morningstar",
-          "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQejBxc0lHeTAzR2ZXUTRtUEhFT0htOC1yUWRKRDZaM2psSDdOYjFCN1A0NEhvV3Nrems3RlZBS3pxclBrdm9BSWl6MXVoMHlza3lEUjFGYURYTWtIWnZPZ3hRdkV1ZEZRb0wxWTc3SjU3RnREaFMyaE9yYlU4U01ub1h0SnIyQQ?oc=5",
-          "date": "2026-11-11T12:02:21+00:00",
-          "resume": "",
-          "titre_fr": "Comment les actions IA s’infiltrent dans les ETF à dividendes"
-        },
-        {
-          "titre": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
-          "source": "MarketWatch",
-          "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPXzdoSVNxancxZzNsSGRPZTBJZ1FNSktlSXotYkQzQldsOFprNzJ6MkZHZWotZmlSc1FzejRwV0lfQ24tU1hkS05xMUVIZUFTTXBrSWxDWm9YaW1XeHJHUDZIWDh1UEJCbVpfZ3Q2N3dsVzFfeW9iUDY5RkxIdTNSbkwzNm5uQVhMT2s5Umoxem55UjNiamZxS09zMDdnd2dVdTZjM01XT3dyUklRZnRRNDlQLU1JX2VMMldsVzlSR3hkZw?oc=5",
-          "date": "2026-11-11T12:00:00+00:00",
-          "resume": "",
-          "titre_fr": "L’anxiété du marché pousse les investisseurs vers les actions à faible volatilité alors que le commerce de l’IA vacille"
-        },
-        {
-          "titre": "MSI’s Compact AI Desktop Packs Up to 128GB of Unified Memory",
-          "source": "The Gadgeteer",
-          "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrLU85OURNWlc0YlVZMnVPTG1VOE53RWNhaERyNzIwbUUycHhWZnM5aldfNGpyNVdTSE5CYXlMYzVkbFZkMV93OENpbHlHRVA2bHJvZExsR3NyTDVjeW1uYU5CLTBISDA2V3dpRTFRT0Y?oc=5",
-          "date": "2026-11-11T12:00:00+00:00",
-          "resume": "",
-          "titre_fr": "Le PC de bureau compact IA de MSI intègre jusqu’à 128 Go de mémoire unifiée"
-        },
-        {
-          "titre": "Wall Street banks seek higher Anthropic IPO price despite AI sell-off",
-          "source": "TheBanker.com",
-          "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zdngtcW5BNDZxRGZZY1hESDY4bFVoUVZQaGdKUUJia2cxZHl0MWpQY25KRUlKaUdDcUNOOTQwV3lrSm9hUm00OFVFQWc4T1VhU0h6T1pQQW51OEN0RFR4dTV0UWhzUUJBNTVIRzZQNFY1VEt4TkR0Wm9R?oc=5",
-          "date": "2026-11-11T11:50:48+00:00",
-          "resume": "",
-          "titre_fr": "Les banques de Wall Street réclament un prix d’introduction plus élevé pour Anthropic malgré la vente massive d’actions IA"
-        },
-        {
-          "titre": "CoreWeave Boosts the AI Trade. These Power Stocks Are the Big Winners.",
-          "source": "Barron's",
-          "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS1RLdVRKeVVmV1pVZ1RVTW1QYnBsZHZId1c5bnpBOWlybGZkVTFnVUlkdXY0U3FUandTRmFnUUh3cVhoUE81RXI2cU5zMDY2RmNBRmhPQ2dVWG14TklaOXVudmd0YUlSdmUxMWJGU0hZSVE2QW40TW1GZFJlZlJ4NHdTVHBwdw?oc=5",
-          "date": "2026-11-11T11:39:00+00:00",
-          "resume": "",
-          "titre_fr": "CoreWeave dynamise le commerce de l’IA. Ces actions énergie sont les grandes gagnantes"
-        },
-        {
-          "titre": "CoreWeave's AI Boom Splits Wall Street: One Analyst Sees a Hurricane, Another Sees a Turning Point",
-          "source": "Benzinga",
-          "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVWRmWXBPNGQ1WHlXSTZvU2huWmItcUc2ZDBtQVlQWm9oYkZNSlJHM2pXQTFaeUV3aUE3bDhfbVhTY0NUemdscGtSN1psUDNZRmMxVEJKdnlnZDh2RElmd1ZSeUROdkpGSXRNOVdCUnNCMk1oNFNRQ2czMS1QRHN3eDRNTjV5YUdGUnVJMjZGN3lBMEdVZXItWk40MmtpUFhBRUhDZ0RsOHlwdUE0TzlGbGRjMkQxdC1ldjZxZFVoem45aHBKRzFsbmliVXljY0lUcHFLLXlYaHE1bnpmSGZTeUN3?oc=5",
-          "date": "2026-11-11T11:35:04+00:00",
-          "resume": "",
-          "titre_fr": "Le boom IA de CoreWeave divise Wall Street : un analyste voit un ouragan, un autre un tournant"
-        }
-      ]
-    },
-    {
-      "nom": "Infrastructure et matériel",
-      "resume": "Ces titres portent sur le développement de data‑centers, de puces, et de solutions matérielles dédiées à l’IA, ainsi que sur les investissements des fournisseurs de composants.",
-      "articles": [
-        {
-          "titre": "The Morning Risk Report: How Hackers Steal Millions in AI Computing Power",
-          "source": "WSJ",
-          "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUlpDMkNwTXVRVGRjbXR4UHFrQ2prQXNRUE52SWktTjNDMTdSa05xb0Y4M1hDYUN5RTczVHRWY0k0ZlpIUWk2eDhVYVZzVnM4ZVBBRlVHa0o1MnRUTnJCaEdrWmVSQ190b0xVenhFUk82LXFxYnI0R1ZQTlNDV3YxdDFOZFVud1QxY1laN2JYaDFhNDdfeEttU3Y5TDJJSFdLNzdOSGlSQUxEMjdLbG9fS1NISDZiWjF3YXhEbWl1bXg3bDA?oc=5",
-          "date": "2026-11-11T12:28:00+00:00",
-          "resume": "",
-          "titre_fr": "Le Rapport matinal des risques : comment les hackers volent des millions grâce à la puissance de calcul de l’IA"
-        },
-        {
-          "titre": "ICG warns over direct AI deals as private equity bets big",
-          "source": "WSJ",
-          "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc0UwTE4xRXJsaW00TENSUlRqZzlSRXdTTVhTU255Q1BIQkNEMTFwbmJqeFVheXU2UHpGN3htUXFuRnpGemRXNVR6cHdRR2Uwa2xYVm9wUTBDVDVQbEdHdmtVa2pFN21JOEZJQ25lTXZaWkszM0ZlYXNMemdkWm53cFhyOUpyQkw3Mnhod19EUFc3MWlEU1NxNFg0NNIBpAFBVV95cUxORmFDdnlxS2NaRUM3SG1hVEVxcF8yWmN4SEZuSVUzMDVhMXVYTUpBREtiMmhqbURWQXpfeWhWZHRYOXJMYk9FTDdyU09HMDlSQWZCTEh5UlNmWW13ejlxM3lNdENTN2FCN09Rd1pYUHRWVWdOeVlfR1pRT3RKMXE3Rm1US3VWMnVTTU1KbUFnWGpNd01peTQzakNmbExJU01Eem1nZw?oc=5",
-          "date": "2026-11-11T12:23:55+00:00",
-          "resume": "",
-          "titre_fr": "ICG met en garde contre les accords directs en IA alors que le capital‑investissement mise gros"
-        },
-        {
-          "titre": "IBM’s Digital Sovereignty Index Challenges The Promises Behind Enterprise AI Deals",
-          "source": "Forbes",
-          "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeVh3TEhCWDhTd2ItQWcwREwtenNueFpIZUZEbmkyaFVSc2QxYXA2QXN0UWJDQkQ5VkdpR2d0UWNwWlI5WktfUHNGaVlsSE9vcWc0cDk0Sk1rbWktMnFteGF0cnpSc0RsV3R0d091MXdvamlOSm93d2h2RmNoMXR3eTRldFZUMFJCR0RvOFFuVjdsOGs3bl9nTnpYREFGNFpzakV1T1JGMlZGNXhFQUNyR29iMGNQWU0xc2tHVGhTVUxCVjdBdFZRSVMtcFQ?oc=5",
-          "date": "2026-11-11T12:08:59+00:00",
-          "resume": "",
-          "titre_fr": "L’Indice de souveraineté numérique d’IBM remet en question les promesses des contrats IA d’entreprise"
-        },
-        {
-          "titre": "Cisco boosts its AI Defense platform with Anthropic’s Claude Mythos",
-          "source": "Network World",
-          "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNVpoR0wzQ2NmOEI1YVFsRjhGb3ZrLXlBTFliUm43Y2lwSmFLLXdEblg5dmQ1bXZ5NGYtZEJ5dWtLcG45d2hZbWxReGhPVUJuM0JFX3dwenZvZnFNVnVhMWNBNUhZSklfbVRaRGZockEwMG13MHZwLXhpdVBZV3ZmMWpURGJNVGtaUjh3b2p4cWhkeWtQRmFNWjU3c0dwUWZES0RET20ySGFjRXJCeU5RM2htSmJXOG8?oc=5",
-          "date": "2026-11-11T12:07:06+00:00",
-          "resume": "",
-          "titre_fr": "Cisco renforce sa plateforme de défense IA avec Claude Mythos d’Anthropic"
-        },
-        {
-          "titre": "Utah-Based Startup Raises $500 Million for Modular AI Data Center",
-          "source": "Bloomberg.com",
-          "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnkyLURTQXlOa1U5cWh1TU9aNE9DUlM4MGxCaDhEcEZ3dXBxUm1hS1RiVlAxTVdKU2VxX2pKREk1WVo0bEpzOHRuNUVKYUhXQzkwclRTNEF4amJoNy14d2tHMlRpbHNnNFlRSHl1REM2QTdkUDJ3VTN3N3YyTzNaX2dDXzFmS1NFQ1BjYzUtaWJsRVBaV0lxZnFDdFpLTnVxWW01MUVNYTA3Rkl3TGRIQzJFYXVMZw?oc=5",
-          "date": "2026-11-11T12:00:00+00:00",
-          "resume": "",
-          "titre_fr": "Une startup basée dans l’Utah lève 500 M$ pour un centre de données IA modulaire"
-        },
-        {
-          "titre": "Anthropic’s Mythos AI Looking for Cyber Flaws in Energy Systems",
-          "source": "Bloomberg.com",
-          "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTi1jTW9ONFh1WHpySjhrUkE3dXM0dVJNT0NCQTJKVGk0WG5sV3VUenZmSTFZSmx0UEVudF9sRHgwakg2OWRPaUdvWXVfaXRLSTVBN1dKaFVmdjNFSHhTVTdBeHFuNjZNcE44eHZyRzZnU0k2OGtjTU14M3pzUGpwb09EQVpObWZ4RW1nWjQyTlMzYzRiaFgyTjlaZ1N4YlpXMHRiTEEydHRvU1JyMkFIQVJLTHE?oc=5",
-          "date": "2026-11-11T12:00:00+00:00",
-          "resume": "",
-          "titre_fr": "Mythos d’Anthropic recherche des failles cyber dans les systèmes énergétiques"
-        },
-        {
-          "titre": "Apple Chip Supplier TSMC Approves $1 Billion AI Investment",
-          "source": "MacRumors",
-          "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hbFdhWVJUdk9fSFVjYVhqTnJpdkRtQU9JVWpQNXFDS0VZX0tqMmhPRFVnTlRUaGN0SHVLNjZlNVVUWk9IUXpGclkyR3UzcDQwZ0Z2QW9PSEtLbHk1Yml3bEp1QmNuWE9EQ1c5VHBjczJnMmM?oc=5",
-          "date": "2026-11-11T11:43:54+00:00",
-          "resume": "",
-          "titre_fr": "Le fournisseur de puces d’Apple, TSMC, approuve un investissement IA de 1 milliard de dollars"
-        },
-        {
-          "titre": "Latest News In AI Chips - Advancing Data Centers with AMD's New EPYC Processors",
-          "source": "Yahoo Finance",
-          "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVRvM0VLTGI4a1pqTHdnZkw3MGxCbFgtSjFPaGt0NktDWm52Q1lCcC1SbDBkT1hRbVJMOGw3WU5idUlLM21RWlc2TXBETmNHMzZTOWdsSUlMdDMyWDRZV2RkeG1xV01fLWZrS2JKSHh1LTBraG1JdWY4VlAyaG1xVGJpSEI1R0NEVE1OWTA4ek9meTVGdWc4U3dB?oc=5",
-          "date": "2026-11-11T11:37:35+00:00",
-          "resume": "",
-          "titre_fr": "Dernières actualités sur les puces IA – les centres de données avancent avec les nouveaux processeurs EPYC d’AMD"
-        },
-        {
-          "titre": "Google gooses Python AI performance by... removing Python",
-          "source": "The Register",
-          "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUnNpMF9YeGVTYTJNX2k2SWU1ek92QnltR09Oa2NMbWZsbHFPN1VmVkVqRnNDSVZ2d0lvSWtHX25YSjNueTJfN25FdkNfU1AtU3lwUjZ2ekpQWGl0OW1Fa0pGSzh4NEZFMWFmYllPeXRMeEVRMFloZEFWb2VNWW1Hbm91LS03d3FRV2RhU2hDWXRoc1Z0NnJRWFlxdE9wenpTNENxLS1rTkpFSWVD?oc=5",
-          "date": "2026-11-11T11:30:00+00:00",
-          "resume": "",
-          "titre_fr": "Google booste les performances IA de Python en… supprimant Python"
-        }
-      ]
-    },
-    {
-      "nom": "Applications sectorielles",
-      "resume": "L’IA est présentée comme vecteur d’innovation dans la santé, l’éducation, l’hôtellerie, le tourisme, le commerce et les médias, avec des cas d’usage concrets et des partenariats.",
-      "articles": [
-        {
-          "titre": "The other AI in hospitality: Why human partnerships matter more than ever",
-          "source": "Hospitality Net",
-          "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUpCSVpGczlHWnJvQzNta3RLOXBaUGlYSDhIckV0VFlwbXh5bmI1LUQyWGxhMUxLb09tcFhmU2l2U1FBOG93MG0xczFsYXdlLWdtQXFqNWZfQWpDZkdBYzNSNUN5VWNNcUl0Q0VJSGxRWWpteExZMS10NGpTQnJ3QmJqOUZGM3g0enRDUVpsY0I4UjNGOF9nQkl3NDdybjZINFpya0x5NHpJY1JOcVNsY0tSeDZxanUtUEZsQnV3?oc=5",
-          "date": "2026-11-11T12:22:37+00:00",
-          "resume": "",
-          "titre_fr": "L’autre IA dans l’hôtellerie : pourquoi les partenariats humains comptent plus que jamais"
-        },
-        {
-          "titre": "BizTrip AI adds trip planning in Slack, Teams and iMessage",
-          "source": "PhocusWire",
-          "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSkU3V1VpRmEwRG4wUmRtRk9wdjh2dENNVEp1NHBCQVpka2tNWEU2RTVPWUFBVFBrbGd0elN0MXJxQ2dIYjhOemJOQ2dhZHV0OHJwdGpJNHhfa1F2SkN1aVVtSHdHeTVMNVd2UDMxYWdmVlZfNkd4OTJqSWZHcnhjQXpRNUgyeEc3ejh6bUpHRGV1VnRNdzBmZ05FeU9fNXJLZHc?oc=5",
-          "date": "2026-11-11T12:05:44+00:00",
-          "resume": "",
-          "titre_fr": "BizTrip IA ajoute la planification de voyages dans Slack, Teams et iMessage"
-        },
-        {
-          "titre": "Amazon Web Services commits $100M to AI, cloud tech health initiatives over next 5 years",
-          "source": "Fierce Healthcare",
-          "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjVpblNDYVlLVVZSOGJXSHpOTDNoV1ZQXzFBeGRKMWJPMnp4eXBWcE5UWVZBVGpVWUduY1pOZEczU1RHcXpKaGhMNjhyWC1Cd2V3aExSdVhZand0Ry1FSHUydVNLWkV3ME4xcGpOdWNla0FmM0hONnBOYnRtWXFWcVUzTUxQVTUyMGRpNHR3Z3pCN0kyN295akE5aU5TWEo5V3BtTzRuQnVNSG5LZllwbWpHaW5Ka3V3dldJUkRKWE1KVkxPeGc?oc=5",
-          "date": "2026-11-11T12:00:22+00:00",
-          "resume": "",
-          "titre_fr": "Amazon Web Services s’engage à 100 M$ pour des initiatives IA et santé du cloud sur les cinq prochaines années"
-        },
-        {
-          "titre": "As AI stakes its claim in higher ed, Chicago-area schools aim to embrace it",
-          "source": "The Quad-City Times",
-          "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLWw5djBHSjJTdDk3bEsxWHBfY0UxeGhXa3RCaXpFLTBPVzNlcXNxS1VTY0N5c3cxUXp3N0g4Q1o4enBjaXRaOEszSThPcl8wMFdQeE12RkdOVGFydGc3bVdQT0RZaUNtMllNRzFoTUVKSGJwMU9fWFY3b2lYUnFtYUNtM2JyQ3ZQMTNUNTU0TExLSlJtV3JIMmlvZUZaMzdY?oc=5",
-          "date": "2026-11-11T12:00:00+00:00",
-          "resume": "",
-          "titre_fr": "Alors que l’IA s’impose dans l’enseignement supérieur, les établissements de la région de Chicago s’y préparent"
-        },
-        {
-          "titre": "US Should Help Hospitals and Universities Build AI | Opinion",
-          "source": "Newsweek",
-          "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0xneEVieGlabl9ZMmttd2Q2aHR1SmRTUW1hOUlkQ01NLVNBUWFSVkVBWjhkS1BXRllrbUp3aUxVaVVOdU96aEJQOFNSQktucU1MMnhFZzVKQ3pfWk9kcFR5c3NQUWdMOW9fSVN0eGgzSWhXX2FCVVgyZW90bkJQdGpZMVJjejhXcHlYUlgzazVvY3JQTjBuY2dzRQ?oc=5",
-          "date": "2026-11-11T11:56:00+00:00",
-          "resume": "",
-          "titre_fr": "Les États‑Unis devraient aider hôpitaux et universités à développer l’IA | Opinion"
-        },
-        {
-          "titre": "Zalando integrates size guidance into its AI assistant",
-          "source": "FashionNetwork USA",
-          "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd3UzTmR2WEROdmxFNUR0ZFpWREpIeE04NVJOeDFyS3c3UGZ6WkpzSzlFQnVwUVdUY09icHY4ZkhGZnJ2MG92dXNhRlhQWTVRMDI0UmhHSHFwZU1GaEF3Q2wtVS1mcTFEeDVtcFFVVUNyZVNva184VHBXSmZFUjhKMlVDazVfUk9UVm9raGw5eXdfS3NEVGRScjFIQ29oWlpJQTJMRg?oc=5",
-          "date": "2026-11-11T11:31:23+00:00",
-          "resume": "",
-          "titre_fr": "Zalando intègre des conseils de taille dans son assistant IA"
-        }
-      ]
-    },
-    {
-      "nom": "Sécurité, risques et éthique",
-      "resume": "Les articles mettent en avant les menaces liées à l’IA – cyber‑attaques, usage malveillant, désinformation – ainsi que les débats éthiques autour de la création artistique et des biais.",
-      "articles": [
-        {
-          "titre": "Opinion | In US or China, firms need AI they can independently verify and trust",
-          "source": "South China Morning Post",
-          "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdDRyRXpxOUxCZGdGMTBGNVd1WmZQVVcwWV9ZUEFHUE1OOHpmdFpQMkw5Z3owckY5RjNaN0JOalNTOUxEejF4b0pqNXU2REVBdVNEeVNzbDgtVjF3ZHJpbHJiN1gxZ2YtcUZzdFVaNmlFMDVGU1NHeEVna3BJZVFoWXhBYk1mMjRxUmVqUTkzZTJzZGxjbVRkS3VxYmJjbVJUMnk0dnJOc09BTUhMUWxSWTNqYmkyMnoxMGR4OGtiYUxGZ9IBwgFBVV95cUxPQXc3eTFjWEFvRXJ2OW1WZUNxYjZ4MVJEMVl0LUc4RzVJSEhZRFBtV0VaX3VaZm1QV1BweXRMR0hESWkwYWI3cjRJNFY1T0lZamJnb19WM3NNMGZXdlBmTy1yZEFrX015azJsZk9SSUlJdkdFRnRGUHM0QjlyMktCX1BTU21ncjdaR1dJbl95NkVxNnpuT3RzdjV5WHVXSUEzeW03djhidF9OUGRZN0lGSUFBQUExdzNocE85eHJxYnZ1Zw?oc=5",
-          "date": "2026-11-11T12:30:07+00:00",
-          "resume": "",
-          "titre_fr": "Opinion | Aux États‑Unis ou en Chine, les entreprises ont besoin d’une IA qu’elles puissent vérifier et en laquelle elles puissent avoir confiance"
-        },
-        {
-          "titre": "Is the AI Trade Broken, or Did Hedge Funds Just Get Squeezed?",
+          "note": 8,
+          "motif": "Mouvements boursiers IA, influence marché, source financière",
+          "couverture": 1,
+          "titre": "Marvell and Intel Rally 7% as CoreWeave's Results Reignite the AI Chip Trade; Taiwan Semiconductor Climbs 4%",
           "source": "24/7 Wall St.",
-          "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmRKNFZSa0J2dC1IeVB4VjNjR1JXVnhZem0tUklhQmZZektkWFp2MWpNN25XYWNDTnY5YnhpWFlzc0c2WEc2a0tnZVJkRlZlczNMc1ZHX3ZEZm9TRm5LQkdJbno1cmY2ZTRNWVpZMHR2MTlXQ0EyN2FBVVhqcmxRVHBHcVhMNGFXbW9kRVZPREZWT2JzVXJpSGZ2SGdtZFpibnZpRER3?oc=5",
-          "date": "2026-11-11T12:18:00+00:00",
+          "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOams4aFViZ0MzZnZKUXdOUEUtcVJ0QzNQTXpLSjExRjctOVdOZnhGZDU2WVlQWFJxMUZYNjFabC0tU1NMekFxT21VdjktUkNFZDZ4WmRFMi11MHY3MllzWXRPV3FhbjZ6dkxDV2RFMEY4XzVfZzdUTVlFcy01WU5PelljOElGb0dmekt0ZmZsbzU1NWJnTVczU0loYVpfNkJYQWUyZ1Y0MnBXaXlqTDN2MFZBME5xZFdVcE1iMGxWbVo3bnY4TkxTVnBMYUNON2FBT1J4YlVQQmg2NnRyZ2pmbU1R?oc=5",
+          "date": "2026-11-11T14:48:00+00:00",
           "resume": "",
-          "titre_fr": "Le commerce de l’IA est‑il brisé, ou les fonds spéculatifs ont‑ils simplement été pressurés ?"
+          "titre_fr": "Marvell et Intel bondissent de 7 % alors que les résultats de CoreWeave relancent le commerce des puces IA ; Taiwan Semiconductor grimpe de 4 %"
         },
         {
-          "titre": "AI Could Help Us Live Much Longer. What Will We Do With The Time?",
-          "source": "Forbes",
-          "lien": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUHFZSWx6bWkwaUp0cGNPTHpMd2F4RENWdS0xMVBLNHBZdUprNWprR21rNWhRQklwemFDaGRrUjE2dXVjRW1jOEFKNHdZaFpVd184SFlUaElLdzhRQnJJSm5ub1ozT0FDT3dTazFBM0s5MGVBajViZVlJMG9wcVhCYVVEeDBETmlvWmVxQllGME5XVHZUZUo4dDdMMDJKTnl2d2dfMGhtdDhXMXhhTjl3YnZNU2xIVF9pOHc?oc=5",
-          "date": "2026-11-11T12:00:00+00:00",
+          "note": 8,
+          "motif": "Valorisation Anthropic, débat sur bulle IA, source internationale",
+          "couverture": 1,
+          "titre": "Anthropic seeks $1.3 trillion valuation amid AI bubble fears",
+          "source": "DW.com",
+          "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTlA2cjFGLVd2cE5lT0RFX0d4RGxLc0dpN1Jma1NoQndRTnQxQkRUMmw4NF9VbnM5SFJsU25SWmN2cmFQWmE5NDBWMmpxUGh1NDBlY0lBSUQ0amM4RF9YYVpPclFmSnJzREY4ZVBTX0JJMVNyV1hzUXhZem5hc2puMWM5YUxEcExNd2JWalpOdHNWRlk2S0NZYjBBTQ?oc=5",
+          "date": "2026-11-11T14:39:51+00:00",
           "resume": "",
-          "titre_fr": "L’IA pourrait nous faire vivre beaucoup plus longtemps. Que ferons‑nous de ce temps ?"
+          "titre_fr": "Anthropic vise une valorisation de 1,3 billion de dollars malgré les craintes de bulle IA"
         },
         {
-          "titre": "Nick Cave calls artificial intelligence the 'final soul-destroying humiliation' for music",
-          "source": "Yahoo News New Zealand",
-          "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYl9ETnZFTVdkR2xNNnU4bFhxazc1d0xpRWZobTVxT29uNXk0WTBWUkw5dnBQbWZOTlBIODJJSmpHVkdrb052Z2xFTHJXcml3aEJlVVNrQ0Itc3VYcjFHbnJUSWxHelRjc2dkNjUwZzJhUXhhTWNKOThQRTN0MWNmeGpmT0JtZm8?oc=5",
-          "date": "2026-11-11T11:50:32+00:00",
+          "note": 8,
+          "motif": "Rebond des actions IA, couverture multiple, impact boursier",
+          "couverture": 2,
+          "titre": "Rebounding AI stocks lift Wall Street",
+          "source": "AP News",
+          "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYi1oYnVxUmZHNlhJVXBPYk9ITmFxZzBzUWNfUDZPT2tsR0R4SExvcmJzM3I1ZEh0WHV0bHM2amVtQmMzWnpwRWVFRjluOTdETUt2UGtPbUUzamNLcVJ5UHk3Qm5ZMmNlNm16X21EZkZxaktKT3RIUEc4SlJCbnJDbzhxOXFkNVI0ZVFab3JBOGxtSXM?oc=5",
+          "date": "2026-11-11T14:32:00+00:00",
           "resume": "",
-          "titre_fr": "Nick Cave qualifie l’intelligence artificielle d’« humiliation finale qui détruit l’âme » pour la musique"
+          "titre_fr": "Le rebond des actions IA redynamise Wall Street"
         },
         {
-          "titre": "Jensen Huang's very bad week, brought to you by AI-generated memes",
-          "source": "Euronews.com",
-          "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcmhRenAxODNWM0hRNnZsMjNBUy1Jbm40UjNrS2xjb2ZPVXRHVVVaUEszSm5vRWRiWEdUUXpJWnU2Si1xMFNVSENsakNxTXkwUXRJR2JrcHk4MVlIcmtnMU83NFJGT1ZRMHZoWDlISTM2SHhnUm9XWnIzTy03YnJTcEZoZUpyR2ZqSDFUM0ZObmFCWTRqTTRxWkFCajVUaVNhcGp6ZFN0dFA?oc=5",
-          "date": "2026-11-11T11:45:48+00:00",
+          "note": 8,
+          "motif": "Downgrade Nvidia, combinaison Chine et demande IA, source fiable",
+          "couverture": 1,
+          "titre": "Baird downgrades Nvidia on China curbs, AI demand worries",
+          "source": "Reuters",
+          "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVFZRkRxczJkVHdhU0pCMUlmd0tpdGFjdFBkRjhPY3NiLXJtMmYwX1hfNkM1MEdCd2hjalRhWFhYOUtRanJUcHhyY2RXeFJYbGpZRWZIVVRGSml5cFN0MnkyWkFuaUppMGp6b3l0YmRWWTNGVHkwOV9LaFVOdkFxMjJXSmpzQmZkRU5ad1Zob0tvYkgzd1Bkb2VfT0RWQ0lrZWNR?oc=5",
+          "date": "2026-11-11T14:29:11+00:00",
           "resume": "",
-          "titre_fr": "La très mauvaise semaine de Jensen Huang, racontée par des mèmes générés par l’IA"
+          "titre_fr": "Baird dégrade Nvidia à cause des restrictions en Chine et des inquiétudes sur la demande IA"
         },
         {
-          "titre": "'Our final, most soul-destroying humiliation': Nick Cave issues warning about AI-generated music",
-          "source": "Euronews.com",
-          "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVFhOcXkyMF9Ka1QwYnJ0M1RENEl5Yk1VX2FGaEFwLWRpWEpTVTFOVzhWYkpJY3pyMjBBVUI2WFJSaWM5dGFOR0lEUHg1MEZaQWptVEZXdWY1VElQWDdnWllGSUh4SzF3ek9KRVpGWXBobzhfRzFYMFh1cXcxNk50LXdXblV3U2FGcTlzb2VGdmxxWGd5UzJZZ19LSmhNa2hFNy1LeUtvVmVNZFpBLTZkc2F1QlhGYjdxdkVBVE9FWnd2QmZH?oc=5",
-          "date": "2026-11-11T11:36:24+00:00",
-          "resume": "",
-          "titre_fr": "« Notre humiliation finale, la plus destructrice pour l’âme » : Nick Cave met en garde contre la musique générée par l’IA"
+          "note": 7,
+          "motif": "Hausse action CoreWeave, indicateur confiance marché IA",
+          "couverture": 1,
+          "titre": "CoreWeave stock pops 12% after outlook raise eases AI slowdown concerns",
+          "source": "CNBC",
+          "lien": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+          "date": "2026-11-11T14:40:44+00:00",
+          "resume": "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
+          "titre_fr": "L’action CoreWeave grimpe de 12 % après une révision des prévisions qui apaise les craintes de ralentissement de l’IA"
         },
         {
-          "titre": "Political campaigns spent $187 million promoting AI-generated ads in the 2026 midterms. Did they work?",
-          "source": "Poynter",
-          "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYmEwX0wtVDlHanRqenFXZGxPbTUtNHdDd0Rnam5MVmxxWHZJNGhBSFIzcl9Ha19DekxFN3dGTUp6cXd5QXNZSTFfWXJ1R2JGcVJ2UXNuMEliRXZmc3VvMHJvZUJTRWM1cllTTFRHb0JMTjR3REhXZVc4Xzh5bVdiLUsxSVphbktyeTRHX0l2bWNnaUp0UnYwZg?oc=5",
-          "date": "2026-11-11T11:32:02+00:00",
+          "note": 7,
+          "motif": "Mouvements boursiers CoreWeave, influence sur plusieurs titres",
+          "couverture": 1,
+          "titre": "Seagate Spikes 9%, Sandisk Surges 8% as CoreWeave's Results Revive AI Trade; Micron Climbs 7%",
+          "source": "24/7 Wall St.",
+          "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnBFUlhQTFFzbE44TmlDVkdlQXJQMzNnSVNPOFlwbEFCU2RjYnlzZGxRNURLVGxvSnl2SG1HdEQyeXZMY080SkUtN3ZlTWVYWGpTRWhMVlR3emFqbXhuNm5pVnJGcVVpcHl0SEU5Y0dFNlB4QTFDQ29Eck5TZ1h6UXhScFphcmdLOFJwVUdhUEFPb2lOWVAwUnloX0dnWlRqYy1weU1CRzAxaDVUaXpQaEJSQlNpTGN0ZkhHRlJWdld0SE5RRUE2ZHlTSQ?oc=5",
+          "date": "2026-11-11T14:08:00+00:00",
           "resume": "",
-          "titre_fr": "Les campagnes politiques ont dépensé 187 M$ pour promouvoir des publicités générées par l’IA lors des élections de mi‑mandat 2026. Ont‑elles fonctionné ?"
+          "titre_fr": "Seagate bondit de 9 % et Sandisk grimpe de 8 % alors que les résultats de CoreWeave relancent le commerce IA ; Micron monte de 7 %"
         },
         {
-          "titre": "‘Delayering’ Is the New Code Word for ‘AI Took Your Job’",
-          "source": "Bloomberg.com",
-          "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdTI5SUlCWEM4cTF2bF93VS1fRk5Pc1BaajZ2cjBBWEw1MGNHY3FCOEp1RzhxaUxsQm9ocXZsVW1YdllHcFM4WEhRNHZyN0kwc2VQOFI4dGhIdzlNSG15a0N2UVo4UEpnSGtQa2ZReVBoT1hoaHJidV80UjUtd0xEdEl3N3g0bHJKUnMzc05MOTh5X1JPNEUwcGZ6b1hEYndxc3RhNTRBaFlmWFRQT2c?oc=5",
-          "date": "2026-11-11T11:30:15+00:00",
+          "note": 5,
+          "motif": "Prédiction marché IA 2027, spéculation sans donnée concrète",
+          "couverture": 1,
+          "titre": "Prediction: The AI Stock Wall Street Could Be Underestimating for 2027",
+          "source": "24/7 Wall St.",
+          "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3NyLXJJblBCSzIyYmE2ZUNSX05FSG5MLXBDNG96NTJ0Z0JFbTVMN3phMndrd2ZvaWF1cFZPV3JULXlFMmRXR1AyNWdCYU03aFJGRmVtLU92aFBySjNkQkJtaC1ZX0I1SFFSeEhjaE5fLXdlVE9JLVp6ZlhtcXVkSi14M2YyYnd2aFRxWi11YXNPRVpJNE9lcXZnUWxBbXpGbFRVZ0VUV2ZDMEY4WF9xOFZlSQ?oc=5",
+          "date": "2026-11-11T14:33:00+00:00",
           "resume": "",
-          "titre_fr": "« Dé‑hiérarchisation » devient le nouveau code pour « l’IA a pris votre emploi »"
+          "titre_fr": "Prédiction : le Wall Street des actions IA pourrait être sous‑évalué d’ici 2027"
         },
         {
-          "titre": "AI data center opponents are cheering midterm results, but they say the fight isn’t over",
-          "source": "CNN",
-          "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCMG5hS2pTMk1LMzVXcEl4Z2Q1R1hSVjBpanJKeC1kbW5WSFF4OXZNUnpWdEEwVllRN1ZXUENFYzRPaUlyellfV0gtOGFPQVFyRm1KMUo1RXl2N2N4Y01OMEZYdVAyWmFJNTFaS1dZVXo2NnlJQ2Rwdnh5eVBmWlk?oc=5",
-          "date": "2026-11-11T11:30:15+00:00",
+          "note": 4,
+          "motif": "Commentaire boursier lié à CoreWeave, peu de nouveauté",
+          "couverture": 1,
+          "titre": "Wall St opens higher as CoreWeave lifts AI trade",
+          "source": "The Mighty 790 KFGO",
+          "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRWFiSWpUX3M2SjZQNzFSMG9Hd2RLdWdZVTEtbWFHZWY2T2NPaFVmZC1RaTJ0WkZaZUdKdHpybG5uSDlNaHFaV3o0UDcxQnhaT1FnWmI4NGxvOFgwa1pHVFEwVGRxUU1OUXo1NXRqZV9Pb3hoTUstd2d5a0l1aHJ2MERpYw?oc=5",
+          "date": "2026-11-11T14:48:45+00:00",
           "resume": "",
-          "titre_fr": "Les opposants aux centres de données IA se réjouissent des résultats des mi‑mandats, mais ils affirment que le combat n’est pas terminé"
+          "titre_fr": "Wall St ouvre en hausse alors que CoreWeave dynamise le commerce de l’IA"
+        },
+        {
+          "note": 4,
+          "motif": "Interview CEO, mention IA parmi d'autres sujets",
+          "couverture": 1,
+          "titre": "Insight CEO Jack Azagury On VMware, AI And What He Wants From Vendor Partners",
+          "source": "CRN",
+          "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUGpHaHZHZlVTZGJfVXY5YzhUTUVDVG5rYnFDLS1OTWJ6RE9malNDSUpOaWpiOG0yY255ZHZ5cHRfYTRaRWpIZFE2S3FWcmZlV24tUW5fRW1nbm05dlZmSFdIZnIzMWZxaVJqcVNJcDFTVzBMX2FIcW9BcGRrRmpBR0RUNEhKU2lQTFdiYmUxY1J3VnpFVDBWNmJjem9oQ0RRLW13S2tsVUhJN09UX0E?oc=5",
+          "date": "2026-11-11T14:30:00+00:00",
+          "resume": "",
+          "titre_fr": "Jack Azagury, PDG d’Insight, sur VMware, l’IA et ses attentes envers les partenaires fournisseurs"
         }
       ]
     },
     {
-      "nom": "Technologies et produits IA",
-      "resume": "Ces titres annoncent de nouveaux produits, services ou plateformes IA, des collaborations entre acteurs majeurs et des avancées technologiques spécifiques.",
+      "nom": "Régulation, Gouvernance et Éthique",
+      "resume": "Plusieurs articles abordent les enjeux de gouvernance, les propositions législatives et les questions éthiques liées à l'IA, comme les débats aux États‑Unis, les limites de la gouvernance d’entreprise et les préoccupations européennes sur la protection des consommateurs.",
       "articles": [
         {
-          "titre": "Inside Kong Konnect’s Expansion for Enterprise AI Agents",
-          "source": "AI Magazine",
-          "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMHMxa2ktVUpPVDdkcnZRQVdQX0g3UWE3MGpvLUhEblRnUjJKcTBvU0oxaVFWbURxV1h5NTNoQTc0ZzZFSnMtOUc0VnhBUWxuNERNcmlxZDh3Uk9qZDVJSlIzOVpHcVdOM3Z0ZnFpTUQxZmtwcmVpRWVRNFdORFpFd0hDWlJOR0VzTmc4?oc=5",
-          "date": "2026-11-11T12:34:44+00:00",
-          "resume": "",
-          "titre_fr": "Dans les coulisses de l’expansion de Kong Konnect pour les agents IA d’entreprise"
+          "note": 8,
+          "motif": "Alerte sur l'accélération de l'IA, source reconnue, impact sectoriel",
+          "couverture": 1,
+          "titre": "Anthropic, Others Warn of AI Acceleration",
+          "source": "The Information",
+          "lien": "https://www.theinformation.com/articles/anthropic-others-warn-ai-acceleration",
+          "date": "2026-11-11T15:01:35+00:00",
+          "resume": "In recent weeks, my colleagues and I have been trying our hand at being venture capitalists: today, the end result of that process is our annual list of the 50 most promising startups of this year , published today. We’ve had a pretty good track record in past years: AI startups we’ve previously hig",
+          "titre_fr": "Anthropic et d’autres mettent en garde contre l’accélération de l’IA"
         },
         {
-          "titre": "1 Unstoppable AI Stock to Buy Hand Over Fist Before the Next Leg Higher",
+          "note": 7,
+          "motif": "Cofondation d'un centre de sécurité IA, impact recherche",
+          "couverture": 1,
+          "titre": "Greg Morrisett to co-lead new NYS AI safety research center",
+          "source": "Cornell Chronicle",
+          "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLUhvQ283dnZCUVR1dTBab1MwZ1BwUHFsczJmQWlaOXlvYlVWS1dhRll3YjdqZUdJQzZSYnZ5Vk9XNFVOdi1ZSkpuNDJSLU1WVW5pSUlaUm1MelFRanJaM3BOVkh2UEEtSXpUZ2wwbldCOTlpQmthY3BOQVcySnZBblg5dXIyeHg1UEd4LUhCcWlWdzE2WHRVaF9ZNHdjZw?oc=5",
+          "date": "2026-11-11T14:58:21+00:00",
+          "resume": "",
+          "titre_fr": "Greg Morrisett co‑dirigera le nouveau centre de recherche sur la sécurité de l’IA de l’État de New‑York"
+        },
+        {
+          "note": 7,
+          "motif": "Analyse gouvernance d'entreprise face à l'IA, réflexion stratégique",
+          "couverture": 1,
+          "titre": "AI Is Testing the Limits of Corporate Governance",
+          "source": "WSJ",
+          "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcTJ1cmpPN0dHUVVBNm5RVnlUTnhEVWM1S25ubnRLRjNDT01NVTlMbnZtOHhzbko4ZGtkX0VmUC1zUVc0Z21scDFXQTZvX094N2lzMUFuRURkZ3VoelhWcGVyVXdKaVdXVWRpb3FNaWtPaUtidFRuTkZGU2JKeEVERGdBX0tUTHZpWnE1ZVE4emVEUEk?oc=5",
+          "date": "2026-11-11T14:38:00+00:00",
+          "resume": "",
+          "titre_fr": "L’IA met à l’épreuve les limites de la gouvernance d’entreprise"
+        },
+        {
+          "note": 7,
+          "motif": "Proposition législative US sur IA, potentiel réglementaire fort",
+          "couverture": 1,
+          "titre": "Democrats Considering Crackdown That Would Require Government Permission to Train AI Models",
+          "source": "Futurism",
+          "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOand0ZUpkSWFvVEt1OTdYdTVPUFJydGx3R0EtOWthS3llemhYWmh6Y0NkRXhfRld3QlM4QUwwQjVJUWlGOTR5eTNaYTlNYnl1UjRHU3JWZGxrbzZxN09YRTZPRzNTbGlOYU80WlRQajI1TGRWQUpXU2thMURzM3UzMW5YeXlZWGJTbmhNNw?oc=5",
+          "date": "2026-11-11T14:23:33+00:00",
+          "resume": "",
+          "titre_fr": "Les démocrates envisagent une répression qui obligerait à obtenir une autorisation gouvernementale pour entraîner les modèles IA"
+        },
+        {
+          "note": 7,
+          "motif": "Analyse coûts cachés IA, pertinence business large",
+          "couverture": 1,
+          "titre": "The Hidden Costs of Delegating to AI",
+          "source": "Harvard Business Review",
+          "lien": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VWEtvaE95cFlqT3RCR1U2V0FHUE4xOU1KblVwRmpfR2V2SGJjRk9NRWtURGd4UUFfa3lXVWdpX0dmM1cwVUJMeGRxSEEtNEZJZWJ0SWtTQ3pDclQzMWFwTFhPX25LdlgzU0xZYw?oc=5",
+          "date": "2026-11-11T14:19:43+00:00",
+          "resume": "",
+          "titre_fr": "Les coûts cachés de la délégation à l’IA"
+        },
+        {
+          "note": 6,
+          "motif": "Risque data centers IA post-élections, analyse macro",
+          "couverture": 2,
+          "titre": "Did the Midterms Just Put the AI Data Center Boom at Risk?",
           "source": "Yahoo Finance",
-          "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdEZjY0NUN0NjMnpNaDZoRW9td1JWXzNHVzZLUmZyanhObDNtV1lLTGtIeENha1pRaklSLTVuSmt4WC00R2FjaHpXYm5tYXN2Q19HdFhra0habS1uaW1kYm14cnZUSUs3R2FHaGRxeWQ3d0ZSYlVsNVVIZThWcHFucnJHeUNUcFFEX1RPcXF2cFNqRkVW?oc=5",
-          "date": "2026-11-11T12:15:00+00:00",
+          "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSjZ3SnVoYmlKZElmMU1hWG5GZ2NMRnhJRjl1MWFaU2pKVXNRLWFnR3d6d3FaU1BIdEVxOVRXYnVaWTJzVmk0MFlXNTlvcG8waFI4akNWSV95Vl9zU054NVhKZVg3cXRGQm0weEdhb2JnSDJUQkR0dVlpLWdFWFg4bkJsRnd0b1BpZHhNdmg3Qk9Qdw?oc=5",
+          "date": "2026-11-11T14:05:00+00:00",
           "resume": "",
-          "titre_fr": "1 action IA imparable à acheter à la chaîne avant la prochaine hausse"
+          "titre_fr": "Les élections de mi‑mandat ont‑elles mis en danger le boom des centres de données IA ?"
         },
         {
-          "titre": "What 33 journalists learned about leading AI adoption",
-          "source": "Poynter",
-          "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeTlvT18zTzgtZEtOYk04SUtnc2ZHRlBNcXNFWkVHN1ZDTFp1QmtpUl9kNnNhdm5nUDJqT1BBeF9pZjhxa3EwNmZTX2NKX1kxY3dudC10dUVYNkg2b1FIU0w0OWNqOE9RRWxxUXFuVDAyNmF3S0tYOVNQdzFibmtfWmpTV2JlM3daM0F3VTRIRldsWklzbFZtaUxUbncxU1NTcDVFOA?oc=5",
-          "date": "2026-11-11T12:03:57+00:00",
+          "note": 6,
+          "motif": "Régulation UE sur IA et addiction, enjeu sociétal",
+          "couverture": 1,
+          "titre": "Influencers, AI, addiction: EU looks to protect consumers online",
+          "source": "AFP.com",
+          "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWmE5WnZrRFZDbDBpazU0aV9rX0lMcnQ4cHA5ZTVjUUg4X1dlQUQyZ3BOMFdIZG1Nd2VUWjNHYnUxVF85S24yY1hWUnVBYlVCYWxYbVB4Q195NlNSOWQ5ajVMNGNZdzAzUFoweFZJNUhSRlZOdmtVdlFCUjVEZ2tIVVQtNzMtNmZY?oc=5",
+          "date": "2026-11-11T14:03:23+00:00",
           "resume": "",
-          "titre_fr": "Ce que 33 journalistes ont appris sur le déploiement de l’IA"
+          "titre_fr": "Influenceurs, IA, addiction : l’UE cherche à protéger les consommateurs en ligne"
         },
         {
-          "titre": "Dialpad-Ada Deal Signals a Conversational AI Reset",
-          "source": "CX Today",
-          "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IQTR2bEo3REtHdjRiOTNWVnVDZHExdThsYy1CVEJVZUJDb2xSejNIMVN3X0dxVVJETzdDbDZmUk9sN2ZqZHBNa1JCWWVNSFRKYnVCcXZFTlZhM1F2b0NXZzlwbUROOGFEU1FyX0ZmR2VkaHp6SjZVc2xFWE5ZOE0?oc=5",
-          "date": "2026-11-11T12:01:57+00:00",
+          "note": 5,
+          "motif": "Appel à supervision humaine, opinion stratégique",
+          "couverture": 1,
+          "titre": "Humans must do more than give approval to AI decisions",
+          "source": "Fast Company",
+          "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMlc2bFNoVE9OZFpwMTFzOFR3RGhGQlhKRXE5OFQxZ1ViTkVIc2EzWmtOZlROWEZJWWtRdmVoZnJvb0hCWnRKWk5uVmlyRl9hQWp6blAxZlh1REtvZF8tcFdKUlFkdXJybXJmYkpCTF9uMmxWaVhGUHExM2JWZF9yVGhiN0lIbEUxT2ZEa3l2bFpCWVI5Q2c?oc=5",
+          "date": "2026-11-11T14:06:44+00:00",
           "resume": "",
-          "titre_fr": "L’accord Dialpad‑Ada signale une remise à zéro de l’IA conversationnelle"
+          "titre_fr": "Les humains doivent faire plus que simplement approuver les décisions de l’IA"
         },
         {
-          "titre": "Stevens INI researchers use generative AI to fill gaps in brain wiring maps",
-          "source": "Technology Org",
-          "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV1lqbXB4N1BRd2Eyb1dudld3NDFkSXdxYXdVOWpqRHlYcUZ2RjhiYTNCVGtybE93TWx3Qnl5MHZVTmktWTFiTXQ1QmlncGQtM0RVYV9OSzdpa19CRnNtb1JIZHhITHk4VVlBeGRjcG5kYlFLdHJsQTlrS0JTSjh2M2tJWmJWTmFyYzRUSWVfcnhObWZWVFBfTmNFWXlWbFFBODczMUx4UGp3cTRTOGpmVWxtOUw?oc=5",
-          "date": "2026-11-11T12:00:00+00:00",
+          "note": 4,
+          "motif": "Réflexion sur IA pour écrivains, perspective plutôt que actualité",
+          "couverture": 1,
+          "titre": "What May Artificial Intelligence Do for Writers?",
+          "source": "Daily Nous",
+          "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2tGcm9maEVBcHRJRDZfRG1qU1F4Q213ZHRnM3FoaDlfdTAzdWJTVFpHdFVNbDB5ZXNkb09uQnFRX1ItUnBlai1yS0tHa0EtRHpPSXl4SWVFeThMQnd5Tm9wbk9CSkE0Q3I5dXZlel9BZHJJcmJSdGFvZ3FtQ0ZyeUFDT05zTmd0?oc=5",
+          "date": "2026-11-11T14:21:54+00:00",
           "resume": "",
-          "titre_fr": "Des chercheurs de Stevens INI utilisent l’IA générative pour combler les lacunes des cartes de câblage cérébral"
+          "titre_fr": "Que peut faire l’intelligence artificielle pour les écrivains ?"
+        }
+      ]
+    },
+    {
+      "nom": "Applications sectorielles de l'IA",
+      "resume": "L’IA est mise en œuvre dans de nombreux domaines : santé (AlphaGenome, chirurgie robotique), défense (missile de croisière, logiciels militaires), biotech, architecture, vidéo, audio et sécurité, montrant son impact transversal.",
+      "articles": [
+        {
+          "note": 9,
+          "motif": "Nouveau modèle biotech, potentiel médical majeur, source majeure",
+          "couverture": 1,
+          "titre": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+          "source": "The Verge",
+          "lien": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+          "date": "2026-11-11T10:00:00-05:00",
+          "resume": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. Alp",
+          "titre_fr": "AlphaGenome 2 de Google se penche sur les racines cellulaires des maladies"
         },
         {
-          "titre": "YPrime Promotes Greg Wellbrock to Chief Data and AI Officer",
-          "source": "CDO Magazine",
-          "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSk5QcXgxdDNVUWtBc3VDcjRqVGlXRUN2S2d5Y2ZNRkszblF5RUhUNWppQm0zQnktVllqM0tQaDdaRFhOOHQ2X0tuTm1OTVpPdlhrUEZLRGxldmtDNlE2dDJzY1RjNzZQWVVxRmVUZzNKVkFGVjhGVEdUbzFleGluYjR5TXREWkp2SHlxWjhXYkx6TF8yOFFkWWlPSkRWWF9vR2c4Ykh1cnQ?oc=5",
-          "date": "2026-11-11T12:00:00+00:00",
+          "note": 7,
+          "motif": "Missile assisté IA, implication militaire, source reconnue",
+          "couverture": 1,
+          "titre": "Israeli Firm Rafael Launches New AI-Assisted Cruise Missile",
+          "source": "Haaretz",
+          "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNmhvelhIOW1yZHg1eVBaczRlN2prd0VFY242NzZPUDI2Wm9TdG5lRXBfeGdJZTlLQ0dZS1duNmp4Slg4eW1hTk5pM1VyWGtTXy13WlBUMDRxSjF3R2tsV1lwbUxsaDhWMzg1dXY4bG5lSldxVEdxWHJnSzBpZm9OdmV2MGhYVUd4ZkkyTjdPWGNidUNHOUNOMXA0dFptUUZNQktzbjl6aEo0X01wSmJIRUotcHhWeTdYem9JRWFaQlJZbnZfa2dnaDZ5VkdpVFd0V19BQWJDY3RPbjhzZElSb0tTM0pwdF8xSVBUempsRDdtTjhwREdsamswSUFTS2ZHdzRmd1JqSTA0Mkk?oc=5",
+          "date": "2026-11-11T14:50:00+00:00",
           "resume": "",
-          "titre_fr": "YPrime nomme Greg Wellbrock au poste de Chief Data and AI Officer"
+          "titre_fr": "L’entreprise israélienne Rafael lance un nouveau missile de croisière assisté par l’IA"
         },
         {
-          "titre": "Are AI bots running these Philadelphia and New Jersey news sites?",
-          "source": "Billy Penn at WHYY",
-          "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaTRVVW1IVGdYN0hMRExSYkgxN2V0QmtISjZfa25FWjNSRWpQbHRPNEd4MHVnazBKRGNTbURoNFVHMVZuS0NqNks2V3NmRU5rUm9GRnlod0ludzB1cEtQdmpWSjNzYTNHLVdsdHRYaFgwS2hhSXhydTVzdTZfNC1XYV9R?oc=5",
-          "date": "2026-11-11T12:00:00+00:00",
+          "note": 7,
+          "motif": "Logiciel militaire IA, concurrence avec Palantir, impact sectoriel",
+          "couverture": 1,
+          "titre": "Helsing Unveils AI Military Software to Challenge Palantir",
+          "source": "Bloomberg.com",
+          "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQzIwNWVsZVA3UHJ2bmkwSDY4UXFIdnJvMDlaQTZTRzJZSlVlZ25HV0M1eU11aDFJcHBVWFFFNzJNVlkxX3dyUzVtVXd6LThJVlNsenZYVEtRZ1g5TDhlaFItSFVRLXhmRWpoMm1iVXMzN3dOam9HcWpwcTRPX0dvbmxPUTZTb3BCc0JXZ0VZVUdoTGpfdWJDU0JOcVR0bWp1NFB3QV95cGszUFRzWlE?oc=5",
+          "date": "2026-11-11T14:46:59+00:00",
           "resume": "",
-          "titre_fr": "Des bots IA gèrent‑ils ces sites d’information de Pennsylvanie et du New Jersey ?"
+          "titre_fr": "Helsing dévoile un logiciel militaire IA pour concurrencer Palantir"
         },
         {
-          "titre": "Workday Seeks To Decertify 15,000-Applicant AI Age Discrimination Case",
+          "note": 6,
+          "motif": "Fusion biotech IA, intérêt sectoriel limité",
+          "couverture": 1,
+          "titre": "Valo and Montai become one as the Flagship AI-based biotechs tie the knot",
+          "source": "Fierce Biotech",
+          "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeVJxQ1kwZHVEVmRwUkxmZ1ltVzV6dlp1SmRENFlPT1ZHTVYzd2tQYkRmT0laUDdpVFpSYnAtcjM3NTlUd2FVcy1NOXl3X0d5QXlfMTJZbm5IQkQ0VXZaSklmTUdhWXdlRHFNbW9UMVZjQmpuQjBtamFxMWJHZ1lwN2NpbTQtUFVNb0NEVXpn?oc=5",
+          "date": "2026-11-11T14:56:29+00:00",
+          "resume": "",
+          "titre_fr": "Valo et Montai fusionnent, les biotechs phares basés sur l’IA se marient"
+        },
+        {
+          "note": 6,
+          "motif": "Financement sécurité IA, croissance du marché MSSP",
+          "couverture": 1,
+          "titre": "Daylight Security raises $80M to expand AI-driven managed detection and response",
+          "source": "MSSP Alert",
+          "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR091UFlzQlBsdjBjWWZfa044aVAxUjZzSDhCQUxhck40TlNqYXJIdWlfR3NoSnJfVENyaHpIZXJKQTA2emRKUmRXTnp1VHJzLU9Mek92NEJuaFVvcm1LbUlmSTNZQmZ0NjRucU1RRXFNNjNNSWg0alE4RW0xdjhpWC1EUkRLb2cxb3g1X0hGMDBYb0hDb1pmVXU3VzVJSjZjSmVRdzdUQlFIb2lOVG92X01idC0zaC04?oc=5",
+          "date": "2026-11-11T14:38:50+00:00",
+          "resume": "",
+          "titre_fr": "Daylight Security lève 80 M$ pour développer la détection et réponse gérées par l’IA"
+        },
+        {
+          "note": 5,
+          "motif": "Modèle de restauration vocale, niche technique, source niche",
+          "couverture": 1,
+          "titre": "Diffio AI Is a Speech Restoration Model",
+          "source": "Radio World",
+          "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWl9NR0xXeFNBMVFBZnpDZEtyM1RQRkVxRjZvR1pMZkc3QTNlTkdDUGtLYnNJRFBBcjEwQUNqV3ZUZXBWcHlUY2VwYi05UXFsa3RWcmd6cU9fNkE1Q0RoNndIMk5HcVVtX3MyWF9EYVQtcFFpSjJWUkljaFphalhZZVNLVVV0aVBJdmtsNEF5SE53bWZfOG1TdDVmXzk?oc=5",
+          "date": "2026-11-11T14:59:13+00:00",
+          "resume": "",
+          "titre_fr": "Diffio AI : un modèle de restauration de la parole"
+        },
+        {
+          "note": 5,
+          "motif": "Participation à un sommet, visibilité académique limitée",
+          "couverture": 1,
+          "titre": "Rice researchers among scholars showcasing expertise in surgical robotics, AI and imaging at Houston Methodist summit",
+          "source": "Rice University",
+          "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT2FzSDhGcTNwNkttcGRkTjFid05IRUdNZTRNZ3pxc1kxUUZLRUhnTzRBd25VLVRERnNTYlVsc3JHMjRoT0JXX1laRThHWjhUWW1adVdRc3lsRHpQeFdXWHRNMzdyOHpYQ2ViUTV3M1RKX2NaYjNJSEYxcUNaTlVOcE1UM0p4NFZDT3A2enVvR0hyOGRlS2lIRWpuN2pQaDl2Z0Z4d3ZERkVWbUF0QmxyOWNINExuMGNw?oc=5",
+          "date": "2026-11-11T14:45:51+00:00",
+          "resume": "",
+          "titre_fr": "Des chercheurs de Rice parmi les experts en robotique chirurgicale, IA et imagerie présentés au sommet Houston Methodist"
+        },
+        {
+          "note": 4,
+          "motif": "Ajout fonction IA à plateforme, promotion produit",
+          "couverture": 1,
+          "titre": "Trimble adds AI-assisted scheduling to Connect platform",
+          "source": "Engineering.com",
+          "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1NhYmdPM01PT2lkRjJuci00T2dCWkpKNEVYeUpvNW1rbTFHWXY4LVRWaUJzTGowUGJFeXBqOGpHelc3UWpfcnVpOFpLaWZETTVyLWFmQnJ5N1h5Ym5QOUlHSlludEFGSEYyek1DWWZzRm44aXVYSkdxRVI3MDdIWi1aN2lMbWlIRUd2UQ?oc=5",
+          "date": "2026-11-11T14:48:45+00:00",
+          "resume": "",
+          "titre_fr": "Trimble ajoute une planification assistée par l’IA à la plateforme Connect"
+        },
+        {
+          "note": 4,
+          "motif": "IA dans cabinet d'architecture, anecdote sectorielle",
+          "couverture": 1,
+          "titre": "AI Walks Into an Architecture Firm…",
+          "source": "Common Edge",
+          "lien": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tZ2EydmxWZmRBTHNOQklPMWFEUVA3ZkFuOXJTYVF6NWNXR2M1VF9nQ1oycFFKazBCNUxGUEd0SFE0dDZaVFVLejdOSnoyelVsR2xKUmNJckwwSlFYQnpDaHNTeTZ1QldaR1E?oc=5",
+          "date": "2026-11-11T14:08:32+00:00",
+          "resume": "",
+          "titre_fr": "L’IA entre dans un cabinet d’architecture…"
+        },
+        {
+          "note": 4,
+          "motif": "Influence IA vidéo sur storytelling, focus culturel",
+          "couverture": 1,
+          "titre": "The Growing Influence of AI Video Generation on Modern Storytelling",
+          "source": "Indiana Gazette Online",
+          "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNkdnYktfMHlnYnlRT2tfalJNZnZKSWljRng0a1ZvcTFBVWY5eDM4SndJVm1XYkxwQXpaV3VKRFlkdEVtM0VkZlI1NlFrdi12eEwzNDI5X0w5NjF0REJwbXhYdEk1QlZHWVdOcDlxaHpBUjRMcnpjRDIxN1MxS2E1MW1CUUJHMDRZRXV6NGFyNlFYZkN2TkFaWWRTeVh2RHJ3NXhRTVh5NmRrSXZpcTY4QkUyc3YwUUpYRGdoQk5aS1JaMkhiQ180cm1UemVhZXBCd1FXVm8zMGZ2R1lSQm9HazVGR1FMWlNiV2c4amhQNA?oc=5",
+          "date": "2026-11-11T14:03:00+00:00",
+          "resume": "",
+          "titre_fr": "L’influence croissante de la génération vidéo IA sur la narration moderne"
+        },
+        {
+          "note": 3,
+          "motif": "Newsletter d'actualité, aperçu général, pas de fait concret",
+          "couverture": 1,
+          "titre": "What’s up with… Drone detection, AI and super apps, AI voice",
+          "source": "TelecomTV",
+          "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPalZ0YkVsRVpQVzliS2Zfa0NiUEt0cE5iWkZPQ0EtU0tmRUhVdU5qS0Q1Z0xZOFlwRXd5c05zMHlraVlBTW8xSHhHNkExZHdhaW5XcmxLNnhQbmhOOXVrRXJUVHV1QWIyZlFkbEZ0OE5GbFRzaVA4cGotdWF5RWxKMW9ra2RRRnQwZlVEMVdPNEdDVjVLRzE4M3A4OEdzTTlZdWlCd2Q0bmFXM1RRXzAzdXBnY1JwUdIBuwFBVV95cUxPem1NLVhpcUVvcFlZazllak10QjNTc1NkWU5NLU9mX011VHFnSlJ0LUdVNVVyT0tuRklZVDdmUGNRaTc0NWw5M0VYd3pjNGVlSVM4Y2h6ZDZ1X29ESHpqcExYaXl6bi15WEx5ZHpiVXh6anI2TXFRS05oOHU1VE9zRDBMV25wYXVjU0xDWTd1VXdZQTN3LVlLak00ektGSk9TS1dyRkxWdG1yTXRLd3lIYzhRN3FCVVlIN1BF?oc=5",
+          "date": "2026-11-11T14:48:45+00:00",
+          "resume": "",
+          "titre_fr": "Quoi de neuf… Détection de drones, IA et super‑apps, voix IA"
+        }
+      ]
+    },
+    {
+      "nom": "Outils, plateformes et recherche IA",
+      "resume": "Des lancements et améliorations d’outils IA sont présentés, de la formation de modèles à la création d’agents, en passant par des plateformes d’automatisation, des benchmarks et des projets de recherche académique.",
+      "articles": [
+        {
+          "note": 9,
+          "motif": "Vérification mathématique DeepMind, percée fondamentale IA",
+          "couverture": 1,
+          "titre": "Google DeepMind just mathematically verified key parts of Signal",
+          "source": "Ars Technica",
+          "lien": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+          "date": "2026-11-11T14:08:57+00:00",
+          "resume": "The four-week project hints that AI could make formal verification far more practical.",
+          "titre_fr": "Google DeepMind vérifie mathématiquement des parties clés de Signal"
+        },
+        {
+          "note": 8,
+          "motif": "Nouvelles fonctionnalités ChatGPT, large audience, impact produit",
+          "couverture": 1,
+          "titre": "OpenAI adds verified business profiles and AI agents to ChatGPT",
+          "source": "Quartz",
+          "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LZDdPYkRUTjBfaGZMNXd2NlBJczBITmVfOE1ZUjFQaWRMVGU5eDN3LUtseXlaU3I5RHJYWThvdVpIUVV5UzZreDRMZzNVQ0lmUnNmTF90TVZ5bUU3TG9YNVgzeUxTdS1BT2tCTnVmZ1VIdw?oc=5",
+          "date": "2026-11-11T14:43:31+00:00",
+          "resume": "",
+          "titre_fr": "OpenAI ajoute des profils d’entreprise vérifiés et des agents IA à ChatGPT"
+        },
+        {
+          "note": 7,
+          "motif": "Extension IA Red Hat, pertinence cloud hybride, source reconnue",
+          "couverture": 1,
+          "titre": "Red Hat AI expands agentic capabilities across hybrid clouds",
+          "source": "SiliconANGLE",
+          "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNckVEc3hlMGl2VmlQMEh5X1dyTDFpUnkyLUpCVVZIMVRQZGdlVXc4R1M0NFdtZjN0b1Vjc3NORVFrVmJHWWxxbFhSbXRjN080QllhclVzR1luUUNKT09DWFQxbTlWT2xmVS1NakRJQWxnOGVsTXB3YmU3ZzJXZFZSb2ZGVFdtYUpIVEVhMkFsWFlrb1FlcVBNWDcyMXhSZ08xcFlUaw?oc=5",
+          "date": "2026-11-11T14:42:00+00:00",
+          "resume": "",
+          "titre_fr": "Red Hat AI étend ses capacités d’agents aux clouds hybrides"
+        },
+        {
+          "note": 7,
+          "motif": "Projets recherche Adobe IA, impact créatif majeur",
+          "couverture": 1,
+          "titre": "Adobe’s Cutting-Edge AI Research Projects Are All About Precision Editing",
+          "source": "CNET",
+          "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRDB2Wk5GZjd0MWI3NTdBcGZuZVd6LWhGNlkxdHZabzZBSks3UDFReFZDMzlBb0ZsdGotN0tmQWxfaDhXa3Y0OXdDVmpWNnlrWnE4VV9VSHYwNVhHeGk0VDV6c2xlS3FxbUdJY0Zwa2FZTjBWVnpNU1NxRERvcHZLckRVanRPTm81THNXSU5QTUNyWHJuV3YtNHhJVEtvdE9uYThQQ1hB?oc=5",
+          "date": "2026-11-11T14:00:08+00:00",
+          "resume": "",
+          "titre_fr": "Les projets de recherche IA de pointe d’Adobe portent sur le montage précis"
+        },
+        {
+          "note": 6,
+          "motif": "Kill switch agent IA, avancée sécurité, source financière",
+          "couverture": 1,
+          "titre": "Trust3 AI Ships the First Context-Driven AI Agent Kill Switch",
+          "source": "Yahoo Finance",
+          "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPajc0V3ZtNEo0XzZNSEdQVW9Vc1F3NGlvODFVRkRpRmJfLTQyZWREaVk4U1pWOE9YSzdfRFl3X2tzc2l2dEY5MUktUmtsWW5lWEZlaXpBaDBhYS1LRlpwWlZBbTlhMzR1NkFTTGpXX0QtWEZtemQzUy1ISjc1Rlh4ZFpiSkNnVjRJNmVabEJjM1FqSUNvOE5OaA?oc=5",
+          "date": "2026-11-11T14:12:00+00:00",
+          "resume": "",
+          "titre_fr": "Trust3 AI lance le premier interrupteur d’arrêt d’agent IA contextuel"
+        },
+        {
+          "note": 5,
+          "motif": "Débat éthique, peu d'impact immédiat, source spécialisée",
+          "couverture": 1,
+          "titre": "The ethics of using books to train AI",
+          "source": "Computer Weekly",
+          "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSmdLVU1VZjJuaWc5MV8yQ2R3VnRCelgxQmlmYUdxMFdLSmJ0X2c2WWFfdXlYTTAzSEx4aElVY0FrUVdSU01DTG9hOXE1THhLTmR6aTRzQlJ6VlVwVW1XVi1jTWdwUGs1dzBLM3ljVnk2THJQb1JNdFZab0g0NUMzUm53?oc=5",
+          "date": "2026-11-11T15:00:57+00:00",
+          "resume": "",
+          "titre_fr": "L’éthique de l’utilisation de livres pour entraîner l’IA"
+        },
+        {
+          "note": 5,
+          "motif": "Benchmarks IA coding agents, intérêt technique limité",
+          "couverture": 1,
+          "titre": "JioHotstar Benchmarks Knowledge Bases for AI Coding Agents",
+          "source": "infoq.com",
+          "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Dc2RGZmFQZVZPSEFYaE5Bd1JxUHdSMzJ2VFZNZ2NDQXJkRTlTRnUwdHlRZFNzMENJc2xFNWxTMDhaM2dRVUVieGVxbFhvTlBWY29oQk5MVDVLLUJwaDcxZXFWNFV4dzJ6Q1Y4bGllRHR2cDh2VC1v?oc=5",
+          "date": "2026-11-11T14:28:23+00:00",
+          "resume": "",
+          "titre_fr": "JioHotstar évalue les bases de connaissances pour les agents IA de codage"
+        },
+        {
+          "note": 5,
+          "motif": "Nomination IA Rumble dans toolkit Nvidia, information produit",
+          "couverture": 1,
+          "titre": "Rumble's AI Arm Just Got Named in Nvidia's Factory Toolkit",
+          "source": "Money Morning",
+          "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVW1aWFBUczY4T3N2dHFFZEpaaTNfcUdFWjBubFByQkRmc0Y1ckdBdlZxb3N6SzRnU04wRmN0M05aVS1Vb0l0NWtWQ1hIU1pHMVMxTWVTQS1WR1J6RmhrcWlYcUtENDhNazV5bVlaSzU2ZHJGN1c5NHNHTVFOZklRYTRXbmN6SnRtMEhYZlRBeU5JejVIcHc?oc=5",
+          "date": "2026-11-11T14:13:46+00:00",
+          "resume": "",
+          "titre_fr": "Le bras IA de Rumble vient d’être nommé dans le Toolkit de fabrication de Nvidia"
+        },
+        {
+          "note": 5,
+          "motif": "Annonce plateforme Big Data pour agents IA, produit spécialisé",
+          "couverture": 1,
+          "titre": "Edelbyte Announces Big Data Analytics Platform For AI Agents",
           "source": "Forbes",
-          "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUE1Mekx6VW9xamNpT1lKRUR0UWR3M0xzc05GaTFpQjRMb25hcEM0Z1NHSy12SXJIRHJyTEE3U2Z4ZVBWSjRmVW9FQjRLcEl6ZVJfVGZyZjF4dkVUY0tRUlhpQzhTLUFUeWRpTXd3NS1HLTlfN2EwdkxlbkZiWWRtVS1jRFNYdERiZ3IzdjAzM3MyUHJFZlhCeTNIRjJQc25HLTBTMGdUVDd2WF9ILTk5empCdjN4cDZiWUZIeDR1RjRLclE?oc=5",
-          "date": "2026-11-11T11:47:37+00:00",
+          "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaE1LNU5DTzNnYmZCX2xBVTBTVldSNkpzbEdvWDJNWHRpbTRuY3NZbnByaXhjRmJBRk5EU2dqVkwxY3FNdmVKd2JYbUswek8yTVBBblhpT0JiR1dxN0hxMTJYM1gyZFl3NzZQSDlUTElCVWhNMXg3ZTNFTXB6OHBTQVNoUGI3N2lzS3l6bUJ2dnh3VzNwQnlSVm8tTmlRUldFRWo1RzBiQWdiZGptWVJWb0N4Y1EtcGF5?oc=5",
+          "date": "2026-11-11T14:00:30+00:00",
           "resume": "",
-          "titre_fr": "Workday cherche à annuler 15 000 dossiers de discrimination d’âge liés à l’IA"
+          "titre_fr": "Edelbyte annonce une plateforme d’analyse big data pour les agents IA"
         },
         {
-          "titre": "How Cohere’s AI Chief Is Trying To Keep Governments And Enterprises Secure",
-          "source": "Forbes",
-          "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdlVvTlBnTmhrRTc3TUVUd1Jqckp3WW8xLTF5NF95clV4MW1IZTVQblY3a2Z1cHJwbXpHYkIwUFFUSnI2V2RZOXZvR2NPaUpleF9SVHZLMVM0dWtNUW5YaXhqUTdYSHZINVVWeHhGSlU0ZTZyY1FMWk8tanVEckRKSXE4cG10TmhOT3lLQWFJQUlzNFVQT0hWRkNzMVdxUlpSS3FRbEZYM1Y0X3FvOTJQOENYMlNZR25hbjBEX3hvUXBLLWtpZlE?oc=5",
-          "date": "2026-11-11T11:30:00+00:00",
+          "note": 4,
+          "motif": "Cas d'entreprise, promotion interne, IA secondaire",
+          "couverture": 1,
+          "titre": "Rebuilding PubHub: A Cautionary Tale of AI-Driven Requirements, Part 4",
+          "source": "Cisco Blogs",
+          "lien": "https://blogs.cisco.com/cisco-devnet/ai-driven-requirements-rebuilding-pubhub-part-4",
+          "date": "2026-11-11T15:00:52+00:00",
+          "resume": "AI wrote my requirements instantly, then handed me a mountain to review. Here is the cost of 12 dense epics, and the lean fix that put people back in charge.",
+          "titre_fr": "Reconstruction de PubHub : une mise en garde sur les exigences pilotées par l’IA, partie 4"
+        },
+        {
+          "note": 3,
+          "motif": "Projet étudiant, intérêt local, IA accessoire",
+          "couverture": 1,
+          "titre": "Business Students Apply AI Acumen To Build App Startup",
+          "source": "The University of Texas at Dallas",
+          "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVR3UWtLWXpSSHRUOXlOSjg5ckItcnFuQUtueDFTUnczY29yQzhsRjI0V0V3R0Nma2ZoR2tqbFJaQk1yX2dvRmQybE90aUtDUkNybnBSdlpfb3Q1aTVwdXlKWm1zQU56dnM4X0JXYVFLd3VvQ0U3WlE1N2dzQnkxMnhiNU5NMU0?oc=5",
+          "date": "2026-11-11T14:43:22+00:00",
           "resume": "",
-          "titre_fr": "Comment le responsable IA de Cohere tente de garantir la sécurité des gouvernements et des entreprises"
+          "titre_fr": "Des étudiants en commerce utilisent leurs compétences en IA pour créer une start‑up d’applications"
+        }
+      ]
+    },
+    {
+      "nom": "Éducation et formation à l'IA",
+      "resume": "Des initiatives éducatives et des cours universitaires se développent pour former la prochaine génération aux compétences IA, incluant des classes de génération IA, des préparations de dirigeants et des études sur l’impact de l’IA sur les écrivains.",
+      "articles": [
+        {
+          "note": 5,
+          "motif": "Fonction Instagram IA, impact social modéré",
+          "couverture": 1,
+          "titre": "Instagram's AI may catch teens lying about their age",
+          "source": "Fox News",
+          "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPQkR1TXM1NWFabDlmczJ1SXk5aFpZMDQzTnR3SXltQUlNNnRSeVEwc2FIZC1sSDRGMXZMX0d3Q2NBR2pGR2VTZkxiNVBraHo5SDd3QkNoYmFiU3V4ZlNUamdCSmVzYVJJSkU2dnlaTURiWEIxUm5YdHd3bFc1cTjSAYQBQVVfeXFMT2hEQl9aTzhHTGJyc1hVTjl1SXRZcy1ERktpQzNBOENsYWw1SU5RbFc4ZmxqNHZoS2xQZ3ZLOWJYVnh1RFExMFotZzd5ck5adUZLX3owZ1NWc0xkcVBXOWprVmRpYmYxZUlGMkxHU2RYT0JDc2kwU21uSzloemp1cFR2SUMx?oc=5",
+          "date": "2026-11-11T14:20:08+00:00",
+          "resume": "",
+          "titre_fr": "L’IA d’Instagram pourrait détecter les adolescents qui mentent sur leur âge"
+        },
+        {
+          "note": 4,
+          "motif": "Guide leadership IA, contenu conseil plutôt que fait",
+          "couverture": 1,
+          "titre": "How to Prepare Leaders for AI, Job Change",
+          "source": "Mexico Business News",
+          "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iRTVrdmdsRmhYZ1E5ZzRaWjRJSU5pbG1teWtjdThMdC1ocl8xeVVNX2ZsUm9KdGUyNkxzMTdNamF0eXdiZ2ZkV1lvWV9EaWVLQi13N2dNZTdrNVlWUldqVnZnSXhmLXkyNm1lalRINEtpSUtwcEZrWFVMd2d3UQ?oc=5",
+          "date": "2026-11-11T14:25:16+00:00",
+          "resume": "",
+          "titre_fr": "Comment préparer les dirigeants à l’IA et aux changements d’emploi"
+        },
+        {
+          "note": 4,
+          "motif": "Sommet IA éducatif, portée locale",
+          "couverture": 1,
+          "titre": "AI Summit explores technology’s role in student success, equity",
+          "source": "School News Network",
+          "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcVpHRXlIaExIaEprRmdwR1p0Vm5MQS1YTDBIN0Y5RW1NNW0tUWZlU1ZFbTlvdW1EVTFlWGFUMndsN0RqVThTVWxPM0taXzgxU1RCZmhMWjJyeUEyVXdyVkhzcElXbTZvRktfM1Zxa0JZTHZTcUNQU09tbF9RcERQbmQwN2JrUkNwdVJ4RGlDbzBQd2drTVg3anR1WWI2dUhlTEF2SE5QTXFCbDg?oc=5",
+          "date": "2026-11-11T14:00:16+00:00",
+          "resume": "",
+          "titre_fr": "Le sommet IA explore le rôle de la technologie dans la réussite et l’équité des étudiants"
+        },
+        {
+          "note": 3,
+          "motif": "Cours IA génératif dans une université, portée locale",
+          "couverture": 1,
+          "titre": "Generative AI Class Brings Generations Together at VSU",
+          "source": "Valdosta Today",
+          "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPckV0clA2YlMxOEVIZE9QeGQyQUNpOW1OcFozZzNVZUtzMFZ3UVJyS1RCdEYxMmppTUVXQzRRdEI4NEdlYTJkYWJWVzAxQ2JtaUt0TTIyVzlVVUtTdGtjd1ZmUVdIZjNLTThZYTNVOVN2d3liQzR1VEU0ZGFKa2R6eEJQdkdfQkVPVGZRT2RQM2txYS11QngwWjFfQ1dYNzhXRWhZOHRn?oc=5",
+          "date": "2026-11-11T14:32:31+00:00",
+          "resume": "",
+          "titre_fr": "Cours d’IA générative réunissant plusieurs générations à VSU"
         }
       ]
     },
@@ -447,29 +532,184 @@
       "resume": "",
       "articles": [
         {
-          "titre": "BodyShop Marketing CEO gives three tips for marketing to AI during IDEAS Collide",
-          "source": "Repairer Driven News",
-          "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRDFoZXYxTzVtOVkxbFNZQnFTd3FsekR3QkVkM2NmMXRQdXEyZkhYOUtoT0xnWHBXWG9RSjI2OENmVHZjYl9seTBfOGdqaHdQYnVVa3hvc3d0YnY5X1owRHVLZW1TSGdUTlZxWWM2LVZiZ21nUE11ell1NnRrX1JreWNEVXBQMzJoUGlQU1MwWFF4TGZVd1VzaEx2RlQxd05TZjJkOVJXdmhRb1BfcEpLdi1VWHpLdzI1VHBqM0ZxQVhXSUN5QlE?oc=5",
-          "date": "2026-11-11T11:45:10+00:00",
+          "note": 8,
+          "motif": "Lease Anthropic par Broadcom, gros deal financier IA",
+          "couverture": 1,
+          "titre": "Broadcom's $161 Billion Anthropic Lease Is the Real AI Bet",
+          "source": "Money Morning",
+          "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVhqV3JsRjVOQU85OVhLeGJmc0lFekEtQ3lZbDJLWl9aVXN3WFVUeEZXWDBnWGl2VEo1YjA2SkJhRjhGM3RtWEVpVl8tb25DUzlHMVhrODhObFlyaWZzbGJwMkVMTEhqNWMwRy1mZXJqYnVtNjRJUF93WWRuaGNMUWpTeEp5bGo5ZjJEVXhWcmtlLWp3WUw5V1JYUG9XOU8w?oc=5",
+          "date": "2026-11-11T14:15:17+00:00",
           "resume": "",
-          "titre_fr": "Le PDG de BodyShop Marketing donne trois conseils pour le marketing auprès de l’IA lors de IDEAS Collide"
+          "titre_fr": "Le leasing d’Anthropic de 161 milliards de dollars par Broadcom est le vrai pari IA"
+        },
+        {
+          "note": 7,
+          "motif": "Déclaration ONU sur IA, enjeux géopolitiques majeurs",
+          "couverture": 1,
+          "titre": "A Defining Moment for the United Nations and the Future of AI",
+          "source": "Tech Policy Press",
+          "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY29uZlB6UmREYmRNRllMd0QyWXc1SHJQOVVoTGxGSVcyNl9kNzBGVkNEUFlCYjk5a1BRY2M2QmpfYUJrQ3N4V3pkWDQ3Yno4b1dCX21qZXFkeUtfMTNxUWxEdFJtaExmcXk1ZWNFekhOOVhYbnhXdk9iTlBVMEFZMU5zeERkZlZxOUQtaV9rbEZneGtLanc?oc=5",
+          "date": "2026-11-11T14:29:24+00:00",
+          "resume": "",
+          "titre_fr": "Un moment décisif pour les Nations Unies et l’avenir de l’IA"
+        },
+        {
+          "note": 6,
+          "motif": "Levée seed pour simulations conduite autonome, IA appliquée",
+          "couverture": 1,
+          "titre": "Former Nexar AI researchers raise $13 million Seed to bring autonomous-driving simulations to AI agents",
+          "source": "CTech",
+          "lien": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DODFCeldaMENjRFFKaE8tR3BCTk02Z1FHc1M1WldvODM1MkFQS1BSVjJBa0lvQk5mQWEzYnlzdGdNVW5YcGk3am40VXVDYmJHaFBZMDVTSHFPeFI1ZUh1dnVlZ0FTbkdx?oc=5",
+          "date": "2026-11-11T14:40:00+00:00",
+          "resume": "",
+          "titre_fr": "D’anciens chercheurs d’AI chez Nexar lèvent 13 millions de dollars de seed pour apporter des simulations de conduite autonome aux agents IA"
+        },
+        {
+          "note": 5,
+          "motif": "Nouveau standard NEMA pour data centers IA, niche technique",
+          "couverture": 1,
+          "titre": "New NEMA Resource Supports Next-Gen AI Data Centers",
+          "source": "the Electrical Distributor magazine",
+          "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jSlRSWWl2YTdad1ZPcW1KVW1kcnBpeVd1c0tDbmZpbElSdGlUYkFfVmtSX21RdXhLcGhnd19oNExJOUtnN2dDRmdRT3hqVHozTGNWN1NGSVNKX19tM3JYRnJ5Y3E0d1pUejFXQTE1ZGp0SkVrclpuUEJDbw?oc=5",
+          "date": "2026-11-11T14:29:37+00:00",
+          "resume": "",
+          "titre_fr": "Nouvelle ressource NEMA pour soutenir les centres de données IA de prochaine génération"
+        },
+        {
+          "note": 5,
+          "motif": "Tour d'un data center pré‑boom IA, leçons d'infrastructure",
+          "couverture": 1,
+          "titre": "Inside a data center built pre-AI boom, and how it's benefitted a community",
+          "source": "CBS News",
+          "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTjB0R2VzdEVJY2FQM25KWFhvdW9SQ0xpQTdROHlCTkxaaEJpbHZ5M2JLeHFNQUMtbEtQX3llODNEWGx4TVRWOVZiTnQtUXlMMGtHejdxUXR3Qlg0ajFTdHdtTGpIQjV2VE5KTFZmZW51a3BBc3JxR3A2WDl1cEp0NmFkdHhCal9EQmJVVURjTmowUDJrNFNzVnVUUjNheDZaSTV3TFhpWQ?oc=5",
+          "date": "2026-11-11T14:01:00+00:00",
+          "resume": "",
+          "titre_fr": "À l’intérieur d’un centre de données construit avant le boom IA et ses bénéfices pour la communauté"
+        },
+        {
+          "note": 3,
+          "motif": "Opinion locale d'un conseiller financier, peu de portée",
+          "couverture": 1,
+          "titre": "Fargo financial adviser sees opportunity in market correction, predicts next wave of AI growth",
+          "source": "The Flag - AM 1100 and FM 92.3 WZFG",
+          "lien": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMUU5VnhjZkJNMXRZMmtjOEZ6N0JJZGxWSGpuM29ndUlzMmVsM3I3VURpRllLc0lGZUJqb3g3VUNTMmg3LWNwTDhPUmhheTdQZWRLX3lGRVVpdDZpTHFjb2VJcVFTWTRncVlKS2E3cjlHNE5VZzJoTXctV2RZTXZkZlpDcUZENUhtTFR0Rlk0cTVwUDd6eWF2YmFLZ2t3UVRjbUhzVzFHVnRGcWZYSGRFbGlWWU1TU1UyS3NNSElJdUl1TE01TG02cw?oc=5",
+          "date": "2026-11-11T14:54:14+00:00",
+          "resume": "",
+          "titre_fr": "Un conseiller financier de Fargo voit une opportunité dans la correction du marché et prévoit la prochaine vague de croissance de l’IA"
         }
       ]
     }
   ],
-  "ecartes": [],
+  "ecartes": [
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Introducing The Information’s 50 Most Promising Startups of 2026",
+      "source": "The Information",
+      "lien": "https://www.theinformation.com/articles/introducing-informations-50-promising-startups-2026",
+      "date": "2026-11-11T14:00:55+00:00",
+      "resume": "As artificial intelligence changes how companies get hacked, investors are paying up for startups that promise to keep defenders ahead. That dynamic shaped this year’s The Information 50 , our annual list of the most promising startups. For the first time, our list includes a category devoted solely",
+      "titre_fr": ""
+    }
+  ],
+  "top": [
+    {
+      "note": 9,
+      "motif": "Nouveau modèle biotech, potentiel médical majeur, source majeure",
+      "couverture": 1,
+      "titre": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "source": "The Verge",
+      "lien": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "date": "2026-11-11T10:00:00-05:00",
+      "resume": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. Alp",
+      "titre_fr": "AlphaGenome 2 de Google se penche sur les racines cellulaires des maladies"
+    },
+    {
+      "note": 9,
+      "motif": "Vérification mathématique DeepMind, percée fondamentale IA",
+      "couverture": 1,
+      "titre": "Google DeepMind just mathematically verified key parts of Signal",
+      "source": "Ars Technica",
+      "lien": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+      "date": "2026-11-11T14:08:57+00:00",
+      "resume": "The four-week project hints that AI could make formal verification far more practical.",
+      "titre_fr": "Google DeepMind vérifie mathématiquement des parties clés de Signal"
+    },
+    {
+      "note": 8,
+      "motif": "Alerte sur l'accélération de l'IA, source reconnue, impact sectoriel",
+      "couverture": 1,
+      "titre": "Anthropic, Others Warn of AI Acceleration",
+      "source": "The Information",
+      "lien": "https://www.theinformation.com/articles/anthropic-others-warn-ai-acceleration",
+      "date": "2026-11-11T15:01:35+00:00",
+      "resume": "In recent weeks, my colleagues and I have been trying our hand at being venture capitalists: today, the end result of that process is our annual list of the 50 most promising startups of this year , published today. We’ve had a pretty good track record in past years: AI startups we’ve previously hig",
+      "titre_fr": "Anthropic et d’autres mettent en garde contre l’accélération de l’IA"
+    },
+    {
+      "note": 8,
+      "motif": "Mouvements boursiers IA, influence marché, source financière",
+      "couverture": 1,
+      "titre": "Marvell and Intel Rally 7% as CoreWeave's Results Reignite the AI Chip Trade; Taiwan Semiconductor Climbs 4%",
+      "source": "24/7 Wall St.",
+      "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOams4aFViZ0MzZnZKUXdOUEUtcVJ0QzNQTXpLSjExRjctOVdOZnhGZDU2WVlQWFJxMUZYNjFabC0tU1NMekFxT21VdjktUkNFZDZ4WmRFMi11MHY3MllzWXRPV3FhbjZ6dkxDV2RFMEY4XzVfZzdUTVlFcy01WU5PelljOElGb0dmekt0ZmZsbzU1NWJnTVczU0loYVpfNkJYQWUyZ1Y0MnBXaXlqTDN2MFZBME5xZFdVcE1iMGxWbVo3bnY4TkxTVnBMYUNON2FBT1J4YlVQQmg2NnRyZ2pmbU1R?oc=5",
+      "date": "2026-11-11T14:48:00+00:00",
+      "resume": "",
+      "titre_fr": "Marvell et Intel bondissent de 7 % alors que les résultats de CoreWeave relancent le commerce des puces IA ; Taiwan Semiconductor grimpe de 4 %"
+    },
+    {
+      "note": 8,
+      "motif": "Nouvelles fonctionnalités ChatGPT, large audience, impact produit",
+      "couverture": 1,
+      "titre": "OpenAI adds verified business profiles and AI agents to ChatGPT",
+      "source": "Quartz",
+      "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LZDdPYkRUTjBfaGZMNXd2NlBJczBITmVfOE1ZUjFQaWRMVGU5eDN3LUtseXlaU3I5RHJYWThvdVpIUVV5UzZreDRMZzNVQ0lmUnNmTF90TVZ5bUU3TG9YNVgzeUxTdS1BT2tCTnVmZ1VIdw?oc=5",
+      "date": "2026-11-11T14:43:31+00:00",
+      "resume": "",
+      "titre_fr": "OpenAI ajoute des profils d’entreprise vérifiés et des agents IA à ChatGPT"
+    }
+  ],
+  "articles_notes": 50,
   "videos": {
     "statut": "ok",
     "fenetre_heures": 24,
     "elements": [
       {
-        "titre": "Anthropic Is Hiding Its Best AI From You.",
-        "source": "In the Loop AI",
-        "lien": "https://www.youtube.com/watch?v=NjVHvSG_toY",
-        "date": "2026-11-11T12:00:04Z",
-        "image": "https://i.ytimg.com/vi/NjVHvSG_toY/mqdefault.jpg",
-        "extrait": "Anthropic just released Claude Fable 5.2, the new number one AI model in the world, and its own system card says it isn't ...",
-        "description": "Anthropic a lancé Claude Fable 5.2, le nouveau modèle d'IA numéro un, tout en indiquant qu'il garde son meilleur modèle caché."
+        "titre": "Google Gemini Notebook Is Becoming an AI Agent! 🔥 10 Game-Changing Features (2026)",
+        "source": "Ai Podcast ",
+        "lien": "https://www.youtube.com/watch?v=ODiznF3CXJs",
+        "date": "2026-11-11T14:06:10Z",
+        "image": "https://i.ytimg.com/vi/ODiznF3CXJs/mqdefault.jpg",
+        "extrait": "Google Gemini Notebook is evolving into something much more powerful — an AI agent that can research, organize information, ...",
+        "description": "Google Gemini Notebook évolue en un agent IA capable de rechercher, organiser l'information et bien plus, présentant dix fonctionnalités révolutionnaires."
+      },
+      {
+        "titre": "Anthropic Just Proved AI Hurts Developer Learning  #infoq",
+        "source": "InfoQ",
+        "lien": "https://www.youtube.com/watch?v=g32p0hHtBNY",
+        "date": "2026-11-11T11:26:09Z",
+        "image": "https://i.ytimg.com/vi/g32p0hHtBNY/mqdefault.jpg",
+        "extrait": "AI makes you faster at writing code. But does it make you worse at debugging it? An Anthropic study tested developers learning a ...",
+        "description": "Une étude d'Anthropic montre que l'IA accélère l'écriture de code mais peut nuire à l'apprentissage du débogage chez les développeurs."
+      },
+      {
+        "titre": "Anthropic's scaled-back IPO fuels AI uncertainty",
+        "source": "Reuters",
+        "lien": "https://www.youtube.com/watch?v=-LleS9eXRcc",
+        "date": "2026-11-11T11:06:33Z",
+        "image": "https://i.ytimg.com/vi/-LleS9eXRcc/mqdefault.jpg",
+        "extrait": "Anthropic's blockbuster IPO will value the Claude chatbot creator at up to $1.4 trillion, slightly short of some investors' expectations ...",
+        "description": "Le IPO d'Anthropic, créateur du chatbot Claude, suscite des incertitudes sur le marché de l'IA en visant une valorisation de 1,4 trillion de dollars."
+      },
+      {
+        "titre": "Anthropic's IPO is a crucial test for AI markets | Reuters Morning Bid",
+        "source": "Reuters",
+        "lien": "https://www.youtube.com/watch?v=M0ne6mpa_bU",
+        "date": "2026-11-11T10:46:45Z",
+        "image": "https://i.ytimg.com/vi/M0ne6mpa_bU/mqdefault.jpg",
+        "extrait": "AI darling Anthropic kicks off its IPO roadshow targeting a $1.4 trillion fully diluted valuation - well below the $2 trillion figure that ...",
+        "description": "Analyse du IPO d'Anthropic comme test crucial pour les valorisations du secteur IA, avec un objectif de 1,4 trillion de dollars, bien en dessous des attentes de 2 trillions."
       },
       {
         "titre": "Anthropic Launches AI Office Tools Ahead Of IPO, Challenges Microsoft And OpenAI",
@@ -478,79 +718,52 @@
         "date": "2026-11-11T09:15:13Z",
         "image": "https://i.ytimg.com/vi/uR8PAspM7qQ/mqdefault.jpg",
         "extrait": "Anthropic is taking its AI assistant Claude deeper into the workplace with a new suite of tools designed to turn conversations into ...",
-        "description": "Anthropic présente une suite d'outils IA pour le bureau, visant à concurrencer Microsoft et OpenAI en intégrant Claude dans les flux de travail."
+        "description": "Anthropic lance une suite d'outils IA pour le bureau, visant à concurrencer Microsoft et OpenAI en transformant les conversations en actions productives."
       },
       {
-        "titre": "Top 5 AI news this week: Claude Sheets, Nvidia sued, Gemini 4 Carbon #Shorts",
-        "source": "Himanshu Goel",
-        "lien": "https://www.youtube.com/watch?v=RxRTbTv4Bzk",
-        "date": "2026-11-11T04:44:21Z",
-        "image": "https://i.ytimg.com/vi/RxRTbTv4Bzk/mqdefault.jpg",
-        "extrait": "The 5 biggest AI stories of Nov 9–11, 2026: 5. Claude Sheets, Whiteboards, Data and Meetings from Anthropic (beta on paid ...",
-        "description": "Récapitulatif des cinq plus grands titres IA de la semaine, incluant Claude Sheets, un procès contre Nvidia et les nouveautés de Gemini 4 Carbon."
+        "titre": "Nvidia's Spy Scare: Is The AI Boom At Risk? | WION News",
+        "source": "WION",
+        "lien": "https://www.youtube.com/watch?v=pMfCD5cbzek",
+        "date": "2026-11-11T09:13:05Z",
+        "image": "https://i.ytimg.com/vi/pMfCD5cbzek/mqdefault.jpg",
+        "extrait": "Nvidia is facing growing scrutiny amid concerns over alleged espionage and the security of its advanced AI technology.",
+        "description": "Nvidia fait face à des inquiétudes de sécurité et d'espionnage, soulevant des questions sur les risques potentiels pour le boom de l'IA."
       },
       {
-        "titre": "Will AI triple unemployment? OpenAI’s chief economist answers",
-        "source": "Reid Hoffman",
-        "lien": "https://www.youtube.com/watch?v=kUisfvHvIXI",
-        "date": "2026-11-11T02:33:25Z",
-        "image": "https://i.ytimg.com/vi/kUisfvHvIXI/mqdefault.jpg",
-        "extrait": "Could AI triple unemployment in the next 18 months? OpenAI chief economist Ronnie Chatterji has a reality check on tomorrow's ...",
-        "description": "Le chef économiste d'OpenAI, Ronnie Chatterji, répond à la question de savoir si l'IA pourrait tripler le chômage dans les 18 prochains mois."
+        "titre": "Anthropic CEO Predicts AI Could Help End Major Diseases",
+        "source": "Invezz",
+        "lien": "https://www.youtube.com/watch?v=qO-Sy62G-fs",
+        "date": "2026-11-11T08:47:02Z",
+        "image": "https://i.ytimg.com/vi/qO-Sy62G-fs/mqdefault.jpg",
+        "extrait": "Could AI help humanity defeat some of its biggest diseases? Anthropic CEO Dario Amodei believes cancer, Alzheimer's, heart ...",
+        "description": "Le PDG d'Anthropic, Dario Amodei, explique comment l'IA pourrait contribuer à éradiquer des maladies majeures comme le cancer et Alzheimer."
       },
       {
-        "titre": "Anthropic’s IPO Filing Reveals Why Cheap AI Subscriptions Won’t Last",
-        "source": "Aish Reganti",
-        "lien": "https://www.youtube.com/watch?v=o5fwia7nCMQ",
-        "date": "2026-11-11T02:00:14Z",
-        "image": "https://i.ytimg.com/vi/o5fwia7nCMQ/mqdefault.jpg",
-        "extrait": "AI subscriptions are likely to become much more expensive. We examine why current pricing models may soon fail to cover actual ...",
-        "description": "Analyse du dépôt d'IPO d'Anthropic qui explique pourquoi les abonnements IA à bas prix ne seront pas durables."
+        "titre": "Anthropic seeks $1.3 trillion valuation amid AI bubble fears | DW News",
+        "source": "DW News",
+        "lien": "https://www.youtube.com/watch?v=8Pilo9moTbg",
+        "date": "2026-11-11T08:45:32Z",
+        "image": "https://i.ytimg.com/vi/8Pilo9moTbg/mqdefault.jpg",
+        "extrait": "The company behind Claude is preparing one of the biggest IPOs in history, potentially raising more than $60 billion.",
+        "description": "Anthropic prépare l'un des plus grands IPO de l'histoire, visant une valorisation de 1,3 trillion et levant potentiellement plus de 60 milliards de dollars."
       },
       {
-        "titre": "Colin Fleming, OpenAI CMO, Business: When AI Is the Buyer",
-        "source": "Snowflake Inc.",
-        "lien": "https://www.youtube.com/watch?v=S9xyXbnCQ7k",
-        "date": "2026-11-10T23:00:18Z",
-        "image": "https://i.ytimg.com/vi/S9xyXbnCQ7k/mqdefault.jpg",
-        "extrait": "What happens to enterprise go-to-market when the customer is an autonomous AI agent instead of a human? In this Luminary ...",
-        "description": "Colin Fleming d'OpenAI explique comment les agents IA autonomes peuvent devenir les acheteurs principaux dans le B2B."
+        "titre": "Who Will Win the AI Assistant War?",
+        "source": "Yahoo Finance",
+        "lien": "https://www.youtube.com/watch?v=7rN_I4Y-AyE",
+        "date": "2026-11-11T01:00:18Z",
+        "image": "https://i.ytimg.com/vi/7rN_I4Y-AyE/mqdefault.jpg",
+        "extrait": "Meta's new Ember model is built to be cheap and fast, coming in at about a third of the cost of rival lightweight models, according ...",
+        "description": "Meta dévoile le modèle Ember, un assistant IA économique et rapide, coûtant environ un tiers des modèles concurrents légers."
       },
       {
-        "titre": "ChatGPT Business Hub with AI Search Click Data #chatgpt #openai #ai #search",
-        "source": "RustyBrick Barry Schwartz Search Engine Roundtable",
-        "lien": "https://www.youtube.com/watch?v=QhHI8mVRR6M",
-        "date": "2026-11-10T21:54:20Z",
-        "image": "https://i.ytimg.com/vi/QhHI8mVRR6M/mqdefault.jpg",
-        "extrait": "OpenAI has just announced the ChatGPT Business Hub, Businesses in ChatGPT. This business hub offers analytics on mentions, ...",
-        "description": "Présentation du ChatGPT Business Hub qui offre aux entreprises des analyses de données de recherche et d'interaction avec l'IA."
-      },
-      {
-        "titre": "Anthropic’s New AI Suspects When It’s Being Tested",
-        "source": "Will Cannon",
-        "lien": "https://www.youtube.com/watch?v=2dzsPAT1UeU",
-        "date": "2026-11-10T21:40:35Z",
-        "image": "https://i.ytimg.com/vi/2dzsPAT1UeU/mqdefault.jpg",
-        "extrait": "Anthropic just launched Fable 5.2, an AI model built for big jobs that take days, like rewriting a company's old software.",
-        "description": "Anthropic dévoile Fable 5.2, un modèle d'IA conçu pour les tâches lourdes comme la réécriture de logiciels d'entreprise."
-      },
-      {
-        "titre": "Gemini 4 Carbon : The New Frontier",
-        "source": "Prompt Engineering",
-        "lien": "https://www.youtube.com/watch?v=SlFMPTdKuAk",
-        "date": "2026-11-10T21:16:11Z",
-        "image": "https://i.ytimg.com/vi/SlFMPTdKuAk/mqdefault.jpg",
-        "extrait": "Google's Gemini 4 Carbon is out for developers: 60 on the Artificial Analysis Intelligence Index, a 1M-token context window, up to ...",
-        "description": "Google présente Gemini 4 Carbon, un modèle avec une fenêtre contextuelle de 1 M de tokens et des performances de pointe pour les développeurs."
-      },
-      {
-        "titre": "LLM library enables running large AI models on regular PCs with low memory use #AI #MachineLearning",
-        "source": "Derek Holloway",
-        "lien": "https://www.youtube.com/watch?v=5-cxvQM-JRs",
-        "date": "2026-11-10T19:45:56Z",
-        "image": "https://i.ytimg.com/vi/5-cxvQM-JRs/mqdefault.jpg",
-        "extrait": "LLM introduced a method to run 70 billion parameter AI models without supercomputers by loading models layer by layer from ...",
-        "description": "Une nouvelle bibliothèque LLM permet d'exécuter des modèles IA de 70 milliards de paramètres sur des PC classiques grâce à un chargement couche par couche."
+        "titre": "Hot Inflation, AI Selloff & Anthropic IPO",
+        "source": "Bloomberg Television",
+        "lien": "https://www.youtube.com/watch?v=QkoSYxEZ7qs",
+        "date": "2026-11-10T22:58:22Z",
+        "image": "https://i.ytimg.com/vi/QkoSYxEZ7qs/mqdefault.jpg",
+        "extrait": "The Close brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on ...",
+        "description": "Analyse de Bloomberg sur l'inflation, la vente massive d'actions liées à l'IA et le IPO d'Anthropic, offrant un aperçu du climat du marché."
       }
     ]
   },
@@ -559,6 +772,16 @@
     "fenetre_heures": 24,
     "elements": [
       {
+        "titre": "Will All Ads in the Future Be AI Generated? with Jethro Rothe-Kushel",
+        "source": "Artificial Intelligence Podcast: ChatGPT, Claude, Midjourney and all other AI Tools",
+        "lien": "https://podcasts.apple.com/us/podcast/will-all-ads-in-the-future-be-ai-generated-with/id1139479669?i=1000801220424&uo=4",
+        "date": "2026-11-11T14:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c2/64/6a/c2646ac9-60aa-86bb-4f50-1979aea6b0a9/mza_10155860101982303228.png/160x160bb.jpg",
+        "duree_min": 30,
+        "extrait": "The cost of producing a commercial is dropping to zero. Jethro Rothe-Kushel, founder of Ritual Ads, has produced spots for Apple, Adidas and American Express the old way — six months to a year, seven-figure budgets, and a 40 percent success rate at th",
+        "description": "Discussion sur la réduction des coûts publicitaires grâce à l'IA, avec Jethro Rothe‑Kushel qui explique comment les publicités du futur seront générées par l'IA."
+      },
+      {
         "titre": "AI News: OpenAI's Finances, Gemini 4 Carbon, AlphaProof Code, and More — November 11, 2026",
         "source": "Rabbit Hole Brief: AI News",
         "lien": "https://podcasts.apple.com/us/podcast/ai-news-openais-finances-gemini-4-carbon-alphaproof/id6788239181?i=1000801207850&uo=4",
@@ -566,7 +789,7 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/77/e3/b877e36e-3352-cd5f-3c01-6d47dada5bee/mza_2026844741142849013.png/160x160bb.jpg",
         "duree_min": 17,
         "extrait": "A packed AI news day: OpenAI's eye-popping revenue and loss figures, Google's Gemini 4 Carbon topping benchmarks, a landmark cryptographic verification by DeepMind, OpenAI's new kill-switch system, Australia's AI regulator triggered by a Medicare breach",
-        "description": "Un aperçu complet des dernières nouvelles IA, incluant les chiffres financiers d’OpenAI, les performances de Gemini 4 Carbon, une vérification cryptographique de DeepMind et le nouveau système de coupure d’OpenAI."
+        "description": "Résumé d'une journée d'actualités IA : finances d'OpenAI, performances du modèle Gemini 4 Carbon, vérification cryptographique de DeepMind et nouveau système de kill‑switch d'OpenAI."
       },
       {
         "titre": "Anthropic Is Hiding Its Best AI: Fable 5.2 and the IPO",
@@ -576,7 +799,7 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/83/d8/12/83d81260-d891-a5c2-1ca6-062ae8ac6142/mza_1654769161595578093.jpg/160x160bb.jpg",
         "duree_min": 25,
         "extrait": "Anthropic just released Claude Fable 5.2, the new number one AI model in the world, and its own system card says it isn't Anthropic's most powerful model. Ejaaz breaks down what Fable 5.2 can actually do, from protein design and robots to remote work, A",
-        "description": "Analyse de Claude Fable 5.2 d’Anthropic, présenté comme le meilleur modèle IA du monde malgré le fait que la société ne le considère pas comme son modèle le plus puissant."
+        "description": "Analyse de Claude Fable 5.2 d'Anthropic, présenté comme le meilleur modèle IA du monde malgré le fait qu'Anthropic ne le considère pas comme son modèle le plus puissant."
       },
       {
         "titre": "[11/11 12:00 UTC] OpenAI third-quarter revenue about $10 billion; operating loss $10.9 billio…",
@@ -586,17 +809,17 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/1f/b6/b91fb627-f6de-9e77-e614-ef36393402d6/mza_13059665318982617720.png/160x160bb.jpg",
         "duree_min": 3,
         "extrait": "AI News Flash for November 11, 2026 at 12:00 UTC. Topics: 1. OpenAI third-quarter revenue about $10 billion; operating loss $10.9 billion https://finance.yahoo.com/technology/article/openai-cfo-q3-was-a-blockbuster-quarter-revenue-jumped-50-22502323",
-        "description": "Annonce du chiffre d’affaires du troisième trimestre d’OpenAI (environ 10 milliards de dollars) et de sa perte opérationnelle de 10,9 milliards de dollars."
+        "description": "Flash d'actualités : chiffre d'affaires du troisième trimestre d'OpenAI d'environ 10 milliards de dollars et perte opérationnelle de 10,9 milliards."
       },
       {
-        "titre": "[11/11 09:00 UTC] Google makes its top model, Gemini 4 Carbon, broadly available…",
-        "source": "AI News Flash",
-        "lien": "https://podcasts.apple.com/us/podcast/11-11-09-00-utc-google-makes-its-top-model-gemini-4/id1873892136?i=1000801178171&uo=4",
-        "date": "2026-11-11T09:00:00+00:00",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/1f/b6/b91fb627-f6de-9e77-e614-ef36393402d6/mza_13059665318982617720.png/160x160bb.jpg",
-        "duree_min": 3,
-        "extrait": "AI News Flash for November 11, 2026 at 09:00 UTC. Topics: 1. Google makes its top model, Gemini 4 Carbon, broadly available https://deepmind.google/blog/gemini-4-carbon-is-now-available/ 2. Railway's final report on the October attack: stolen AI key",
-        "description": "Google rend disponible son modèle phare Gemini 4 Carbon, détaillant son lancement et son impact sur le marché des IA."
+        "titre": "The Hidden Costs of AI: Why Token Prices Tell Half the Story",
+        "source": "AI Proving Ground Podcast: Exploring Artificial Intelligence & Enterprise AI with World Wide Technology",
+        "lien": "https://podcasts.apple.com/us/podcast/the-hidden-costs-of-ai-why-token-prices-tell-half-the-story/id1794628938?i=1000801184719&uo=4",
+        "date": "2026-11-11T10:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/33/b3/71/33b371c2-f211-613c-3cb5-5da2228c7547/mza_3482173791100972363.jpg/160x160bb.jpg",
+        "duree_min": 33,
+        "extrait": "Nearly 75% of AI leaders have little or no confidence they can demonstrate AI's value to a CFO. As enterprise AI spending accelerates, the pressure to prove a return is growing, and the token bill tells only part of the story. Brian Feldt is joined by J",
+        "description": "Entretien sur les coûts cachés de l'IA en entreprise et pourquoi le prix des tokens ne reflète qu'une partie de la valeur réelle pour les CFO."
       },
       {
         "titre": "Anthropic's IPO Range Lands Below the Summer Hype",
@@ -606,7 +829,7 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b7/5e/03/b75e03b7-08bd-b3eb-281d-643a80de5afc/mza_14608303104408848323.jpg/160x160bb.jpg",
         "duree_min": 6,
         "extrait": "Anthropic has set a $70-$78 price range for its Nasdaq debut, implying a valuation up to $1.4 trillion — well below the $2 trillion some investors floated over the summer. We walk through what the number actually tells us, and what it doesn't, ahead o",
-        "description": "Discussion sur la fourchette de prix de l’introduction en bourse d’Anthropic, évaluée à 1,4 billion de dollars, bien en dessous des attentes de l’été."
+        "description": "Analyse de la fourchette de prix de l'IPO d'Anthropic, estimée entre 70 et 78 milliards de dollars, bien en dessous de l'engouement de l'été."
       },
       {
         "titre": "AI News — November 11, 2026: Anthropic IPO Priced at $1.4T, Gemini 4 Carbon Lands at a Fifth of GPT-6",
@@ -616,7 +839,7 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/12/42/8b/12428bde-fc7f-9994-05f1-9648d1d9de5a/mza_12911909025965045186.png/160x160bb.jpg",
         "duree_min": 5,
         "extrait": "Anthropic prices its IPO at a 1.4 trillion dollar valuation as Google launches Gemini 4 Carbon to rival top AI models. New York AI safety law takes effect and the Jensen Huang controversy deepens.",
-        "description": "Synthèse des actualités IA du jour, incluant l’IPO d’Anthropic à 1,4 billion de dollars, le lancement de Gemini 4 Carbon et la mise en vigueur d’une loi américaine sur la sécurité de l’IA."
+        "description": "Synthèse des nouvelles du 11 novembre 2026 : IPO d'Anthropic à 1,4 billion de dollars, lancement de Gemini 4 Carbon, entrée en vigueur d'une loi américaine sur la sécurité IA et controverse autour de Jensen Huang."
       },
       {
         "titre": "AI News today - November 11 - Elon Musk's AI Tool Leaked SpaceX Secrets",
@@ -626,7 +849,17 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/41/a8/77/41a8771e-4be0-049c-2141-68280edd252a/mza_1780608828958436454.jpg/160x160bb.jpg",
         "duree_min": 5,
         "extrait": "Top stories: 1. Elon Musk's AI coding tool leaked SpaceX's secrets 2. Ring's new flying drone camera will patrol your living room 3. Adobe's new AI tools erase objects from your photos and videos 4. Indie game judges refuse to vote for any game that us",
-        "description": "Résumé des faits marquants du jour : fuite d’un outil IA de Musk révélant des secrets de SpaceX, nouveau drone caméra d’Ring, outils de suppression d’objets d’Adobe, et jugements de jeux indépendants."
+        "description": "Top stories du jour : fuite d'un outil IA de Musk révélant des secrets de SpaceX, nouveau drone caméra de Ring, outils d'Adobe supprimant des objets, et jugements de jeux indépendants."
+      },
+      {
+        "titre": "Interview #101 Dor Skuler, CEO & Co-founder at Intuition Robotics",
+        "source": "The Artificial Intelligence Podcast",
+        "lien": "https://podcasts.apple.com/us/podcast/interview-101-dor-skuler-ceo-co-founder-at-intuition/id1558470439?i=1000801149575&uo=4",
+        "date": "2026-11-11T05:37:40+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/af/1c/07/af1c07b9-9cc1-02ce-4961-9d7c61407ab6/mza_10373986736848815622.jpg/160x160bb.jpg",
+        "duree_min": 30,
+        "extrait": "Dor Skuler, CEO & Co-founder at Intuition Robotics, breaks down why AI labs pour billions into making models smarter and almost nothing into making them understand people. He explains why a companion AI should be rewarded only when a person's well-being",
+        "description": "Interview de Dor Skuler (Intuition Robotics) qui explique pourquoi les laboratoires IA investissent des milliards dans l'intelligence des modèles mais peu dans la compréhension humaine."
       },
       {
         "titre": "How AI Agents Are Rewiring Corporate Workflows",
@@ -636,27 +869,7 @@
         "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5c/3b/9b/5c3b9b7a-b26d-55b3-09fb-10c2141081c1/mza_9511954535868556098.png/160x160bb.jpg",
         "duree_min": 9,
         "extrait": "We look past the hype of generative text to examine how autonomous AI agents are actually changing enterprise operations. By focusing on specific use cases in customer support and supply chain logistics, we explore why these digital workers are hitting",
-        "description": "Examen de l’impact des agents IA autonomes sur les flux de travail d’entreprise, avec des exemples concrets dans le support client et la logistique."
-      },
-      {
-        "titre": "Building 19 - Siri AI Opens to Developers",
-        "source": "MacBreak Weekly (Video)",
-        "lien": "https://podcasts.apple.com/us/podcast/building-19-siri-ai-opens-to-developers/id553604212?i=1000801123595&uo=4",
-        "date": "2026-11-11T01:15:00+00:00",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5a/10/76/5a10763f-f1b2-bfb1-b1b8-0b7a07605c80/mza_15465470930174652847.jpg/160x160bb.jpg",
-        "duree_min": 124,
-        "extrait": "Siri AI is now accessible for developers. The quality issues with the iPhone Duo may actually come down to bad parts. And the original iPod went on sale 25 years ago today. Apple begins opening Siri AI to developers. Apple CEO presses software chief",
-        "description": "Annonce de l’ouverture de Siri AI aux développeurs, détaillant les nouvelles possibilités d’intégration et les enjeux de qualité."
-      },
-      {
-        "titre": "SoftBank: $3.7B Data Center Power Gear Charge Drives $7B Quarterly Loss - CRE AI Briefing, Nov 10, 2026",
-        "source": "AI-Gen Daily: AI News by AI",
-        "lien": "https://podcasts.apple.com/us/podcast/softbank-%243-7b-data-center-power-gear-charge-drives/id1761921741?i=1000801101987&uo=4",
-        "date": "2026-11-10T23:43:49+00:00",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/de/3f/46de3fa5-aed2-9a97-382d-178482473124/mza_604610360029193088.jpg/160x160bb.jpg",
-        "duree_min": 2,
-        "extrait": "SoftBank Group's Nov. 10 results include a $3.7 billion loss on advance payments for power-generation equipment for U.S. AI data center projects, including the PORTS-Pike campus in Pike County, Ohio, after procurement plans changed; up to $2.1 billion c",
-        "description": "Analyse des pertes de 3,7 milliards de dollars de SoftBank liées à l’achat d’équipements pour des centres de données IA aux États-Unis, entraînant une perte trimestrielle de 7 milliards de dollars."
+        "description": "Examen de l'impact des agents IA autonomes sur les flux de travail d'entreprise, avec des cas concrets dans le support client et la logistique de la chaîne d'approvisionnement."
       }
     ]
   }
