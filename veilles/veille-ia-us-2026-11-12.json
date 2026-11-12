@@ -1,0 +1,917 @@
+{
+  "region": "us",
+  "genere_a": "2026-11-12T06:28:09.042291+01:00",
+  "heures": 24,
+  "nombre_demande": 50,
+  "nombre_articles": 50,
+  "synthese": "Les titres récents montrent une explosion des investissements et des enjeux financiers autour de l'IA, avec des entreprises comme Nvidia, CoreWeave ou Anthropic au centre des préoccupations boursières. En parallèle, la régulation et les protestations s'intensifient, les gouvernements et les institutions éducatives cherchant à encadrer ou à restreindre l'usage de l'IA. Le secteur de la défense intègre rapidement des agents autonomes, tandis que l'éducation fait face à des débats sur la triche et la désactivation d'outils d'IA. La santé profite également de l'IA, notamment pour le suivi psychologique et l'intégration dans les programmes de formation médicale. Enfin, l'IA se diffuse largement dans les industries, du commerce au transport, marquant son rôle croissant dans l'économie globale.",
+  "verification": {
+    "problemes": [],
+    "synthese_originale": "Les titres récents montrent une explosion des investissements et des enjeux financiers autour de l'IA, avec des entreprises comme Nvidia, CoreWeave ou Anthropic au centre des préoccupations boursières. En parallèle, la régulation et les protestations s'intensifient, les gouvernements et les institutions éducatives cherchant à encadrer ou à restreindre l'usage de l'IA. Le secteur de la défense intègre rapidement des agents autonomes, tandis que l'éducation fait face à des débats sur la triche et la désactivation d'outils d'IA. La santé profite également de l'IA, notamment pour le suivi psychologique et l'intégration dans les programmes de formation médicale. Enfin, l'IA se diffuse largement dans les industries, du commerce au transport, marquant son rôle croissant dans l'économie globale."
+  },
+  "sources_en_echec": [
+    "https://tech-insider.org/"
+  ],
+  "themes": [
+    {
+      "nom": "Financement et marché de l'IA",
+      "resume": "De nombreux titres évoquent les enjeux financiers autour de l'intelligence artificielle, des dépenses croissantes aux impacts sur les actions et les valorisations des entreprises du secteur.",
+      "articles": [
+        {
+          "note": 9,
+          "motif": "Crise leadership Nvidia, influence majeure sur marché IA",
+          "couverture": 2,
+          "titre": "Asia stocks hold up as Nvidia leadership crisis clouds AI trade",
+          "source": "Yahoo Finance",
+          "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeEhYMU5Wc0tPZGhyZXU3Wnk3NVJlbWNmOVNBX281ZG16d2ZES3B2VHhsZnBXMWFxUHBRZ1dXNWpQYUw5bFFEdFNJTUQ0MTM1NVQ0WjdzeUlNUnlUVEF4c2szZVRPOXVtWjM4TVFUNHlra2xwSi1NSld5S3Y1Ung5LTRuWWlBY2FmcE1FMmhJdE9FX3dBZ1ZzSzBwWVM1MVFN?oc=5",
+          "date": "2026-11-12T04:50:02+00:00",
+          "resume": "",
+          "titre_fr": "Les actions asiatiques tiennent le coup alors que la crise de direction chez Nvidia voile le commerce IA"
+        },
+        {
+          "note": 9,
+          "motif": "Possible destitution du PDG Nvidia, enjeu majeur du secteur IA",
+          "couverture": 2,
+          "titre": "Nvidia Board Weighs Ousting Jensen Huang With No AI Successor Ready",
+          "source": "Forbes",
+          "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSEU3bUd4Vml1T0Z6STJMYVB3U01Td0RfaS1sOFBrRGZzYUZDdHZJbURIbDFLS2hUVjRiMml4RHAzZjRJUXFmZExjZklROUhRMG9lVjA4Ny1lcFlZMWFvOE5jNGFwM09Qcm1kUEw1OWNKQ2tCQXplR1VCZzVhY2lvWFBENHJKUlYtV1BQc3RyRkdfNjdiOFNWajZPNWVsclg2YUNoZndVaE1OYWROd1hHXzFlcVdIM1ZlZ25lMA?oc=5",
+          "date": "2026-11-12T04:22:34+00:00",
+          "resume": "",
+          "titre_fr": "Le conseil d’administration de Nvidia envisage de destituer Jensen Huang sans successeur IA prêt"
+        },
+        {
+          "note": 9,
+          "motif": "Réunion du board Nvidia sur le futur du CEO, impact global IA",
+          "couverture": 1,
+          "titre": "Nvidia’s Board Is Meeting to Discuss Jensen Huang’s Future",
+          "source": "The New York Times",
+          "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SV0s4M3NYaTUtT2tIVWpBRHdfTk51cUIxcE0tLU9LV3M1akRWMTRheE9qY3BCa0pRVDR0MGhxaGVIcERRakZ0LWxJUWtpeFk4aW50TlRLVWt0NUEwSzVBVWFoZGNMQ0NEUWl4eUZyR3h0YmpHRjNfVk1n?oc=5",
+          "date": "2026-11-12T04:19:06+00:00",
+          "resume": "",
+          "titre_fr": "Le conseil d’administration de Nvidia se réunit pour discuter de l’avenir de Jensen Huang"
+        },
+        {
+          "note": 8,
+          "motif": "Investissement majeur d'Anthropic, indicateur de tendance du marché IA",
+          "couverture": 1,
+          "titre": "AI Startups’ Anthropic Spend Up 79% in October, 2x Since May",
+          "source": "FourWeekMBA",
+          "lien": "https://fourweekmba.com/ai-startups-anthropic-spend-up-79-in-october-2x-since-may/?utm_source=rss&utm_medium=rss&utm_campaign=ai-startups-anthropic-spend-up-79-in-october-2x-since-may",
+          "date": "2026-11-12T05:23:12+00:00",
+          "resume": "95,000+ executives read Business Engineer for the AI strategy frameworks cited by ChatGPT, Claude, and Perplexity. A note on sourcing. The user-group growth rates and the chart come from Peter Walker’s X post of 11 November 2026, read in full, and the OpenRouter-branded chart attached to it, whose f",
+          "titre_fr": "Les dépenses d'Anthropic, startup d'IA, augmentent de 79 % en octobre, soit le double depuis mai"
+        },
+        {
+          "note": 8,
+          "motif": "Analyse des conséquences du leadership Nvidia sur le marché IA",
+          "couverture": 1,
+          "titre": "How the fall of Nvidia leader could affect the already shaky AI market",
+          "source": "TechTarget",
+          "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORTJ4YnY1YVVpXzF6SGtiTzEzN3dCUVZTTGpOVU9tVjdoRzVUa2IxRDRsWnlQMzM4MWIweU1uOGZTeVVXSFBoYmFvM2FNYlBMeDNmU1lvNUkweEdoczQ3QVliNHRabmlBUGdGZ0xQdGNINXRobVZxamdrUkdmV0FMZjZOTmk3b1pFZ3NnTEtxaHZDby03M3F1TFctM3dIa3NxVUtjSHhBbVhISG0xcDFF?oc=5",
+          "date": "2026-11-12T04:17:56+00:00",
+          "resume": "",
+          "titre_fr": "Comment la chute du dirigeant de Nvidia pourrait affecter le marché déjà fragile de l’IA"
+        },
+        {
+          "note": 7,
+          "motif": "CoreWeave génère des revenus, rassure le marché IA",
+          "couverture": 1,
+          "titre": "Take a Nap, Bears: Revenue Surge at CoreWeave Calms AI Spending Worries",
+          "source": "The Daily Upside",
+          "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLVhEWGlGQ3hlSU1kVGlmeWowQTdWaVdvNXI1SDRDeWtOb0ZIR2poOU9KZ0kwTWxZTHdpZmNQUUh0bnhnT1pRU1o1dTAwZzEyRF9GVmxUT08tUXZ3Uk1qeUhpN1pfMmpLcmpnMWFOOUR0TzJDNzVtRUhXUTQtaFg2d1FXbGxEUzFpU2VycENBYjRHWGlpUExPeUoySGVLd08wME1NS0FIZDRqQlR5cTJUQlRTN0lXSXI0Nnc2aWVvTnZ3NG1nenJaZG9pQTBBSi1zMXc?oc=5",
+          "date": "2026-11-12T05:05:45+00:00",
+          "resume": "",
+          "titre_fr": "Faites une sieste, ours : la hausse du chiffre d'affaires de CoreWeave calme les inquiétudes sur les dépenses IA"
+        },
+        {
+          "note": 7,
+          "motif": "Actionnaires indiens se réfugient dans IA, dynamique boursière",
+          "couverture": 1,
+          "titre": "Indian shares bounce back as investors seek AI shelter",
+          "source": "Financial Times",
+          "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcnY2VllRT2d5Z3k5STdzZ21iSHA5WlNaakI1UnBPUjJuNHpRRWxXaV9od2lVYWlkZUUxc3pfc09LdXVmV0xQSEREUU82eENoRkltQUZraDBZa1gzaWt6aU5wVGx2cmo4RlFod1N4eFQ0M0NBR1ZUbUx5c3d2V2hUclZnUlE?oc=5",
+          "date": "2026-11-12T04:44:31+00:00",
+          "resume": "",
+          "titre_fr": "Les actions indiennes rebondissent alors que les investisseurs cherchent un refuge IA"
+        },
+        {
+          "note": 7,
+          "motif": "Mouvements boursiers asiatiques liés à Nvidia, influence IA forte",
+          "couverture": 1,
+          "titre": "Asian shares mostly slip as Nvidia's troubles weigh on AI stocks, despite a rally on Wall St | National News | 2news.com",
+          "source": "KTVN",
+          "lien": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZS1mOGpOTmRVRFVxSU80dEhnNmJmZ2g0QTQxRDhyaHlrWHF6SDVKQnNJVUZjemk2MF8zSXZnOTBuQ0lDMHlvY29uVkJfcXYtVWpFMlBoVklfRTR6WXdFTFcycUNjWE9CcEY2aWZJN2ZnbWQzckxQajk3Q1lpejRVT0xHRzhadlFNemdYTzVVTVB2alJFNHMwY3NCYXQzUi1LVjVnVDFyV0tENnhyNVJSRlgyM1VHZF8tVzl0QktnYkc5M2gwazZoTWMtZC1CendwZWVmQTRLaHVqTXVGdko1TU0yUXM4bmpnZkE2RTFpSVlIOE9OaDNEVUpn?oc=5",
+          "date": "2026-11-12T04:11:25+00:00",
+          "resume": "",
+          "titre_fr": "Les actions asiatiques glissent alors que les problèmes de Nvidia pèsent sur les titres IA, malgré un rallye à Wall St – National News – 2news.com"
+        },
+        {
+          "note": 7,
+          "motif": "Même sujet que 45, double couverture renforce la pertinence",
+          "couverture": 1,
+          "titre": "Asian shares mostly slip as Nvidia's troubles weigh on AI stocks, despite a rally on Wall St",
+          "source": "Audacy",
+          "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNG1pdWdyQWRNTUw5U2NNMl9VS0ZCNzNTUlVBZ2F0amp2blo4aFRpM1NwbnRpcExOeFRRcnRZdWpJQ2pyRnY2Q1dEVnNvRWNia3JDeUpJUWRSWVhCOWJ0anNKNDExYm1hMGd0WjBJVTV2aDYyS3lNTFpvdmJHdlFUckJqM3ZkS25Ed19XYUwzZGJjY2FHWnA0TzhFT29fbGNaZnJHS045WWtwZ25JZklz?oc=5",
+          "date": "2026-11-12T04:11:00+00:00",
+          "resume": "",
+          "titre_fr": "Les actions asiatiques glissent alors que les problèmes de Nvidia pèsent sur les titres IA, malgré un rallye à Wall St"
+        },
+        {
+          "note": 6,
+          "motif": "Baisse de profit Naver liée à dépenses IA, indicateur marché coréen",
+          "couverture": 1,
+          "titre": "Naver Profit Nearly Halves as AI Spending Squeezes Margins",
+          "source": "WSJ",
+          "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNkdFOWZIb3VyYzE2RkstVllKYXZjdDAtc2IwcmZhUEtUM3hsaG8wRmZpV3RIcjBxd09NT2pTeV9iMXZTSG8tYkhkVDJGVXFwQk5vUzZCcklHVVRIX0JsQy0wcGozbkc1SHBLRTMtWF9lSVRTOW5qODk0ME5VazZGZE94RDFFcHRiMUhlRHdZZlJySnNCQXhWSW16cDJERHBNQVJpS3doMA?oc=5",
+          "date": "2026-11-12T04:17:28+00:00",
+          "resume": "",
+          "titre_fr": "Le profit de Naver chute de près de moitié sous la pression des dépenses IA"
+        },
+        {
+          "note": 6,
+          "motif": "Prévision de l'IA publicitaire, perspective économique importante",
+          "couverture": 1,
+          "titre": "InMobi's Tewari Says AI's Next Big Business Is Advertising, With Search Dollars Flowing to Answer Engines",
+          "source": "BigGo Finance",
+          "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tQWRCYzRUdHRnUlJncjJ4aGNEV2JhMnBZakNhbWdzMXVsNk5yQ2FVNkVLUU1KMlR3TGM2c01JZUdSYzg5SW83X2FYNFUySmstTlBoSmZQRnY4cGNpWmZuR1NPV2hXNlVfRlRSNFZaZ0Z5UEEwLUE?oc=5",
+          "date": "2026-11-12T04:05:00+00:00",
+          "resume": "",
+          "titre_fr": "Tewari d’InMobi affirme que le prochain grand business de l’IA est la publicité, les dollars de recherche se dirigeant vers les moteurs de réponse"
+        }
+      ]
+    },
+    {
+      "nom": "Régulation, politiques et protestations liées à l'IA",
+      "resume": "Des initiatives législatives, des interdictions d'usage et des manifestations d'élèves ou de parents montrent les tensions autour de la gouvernance de l'IA dans la société.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Sécurité des bots, menace réelle pour les systèmes IA",
+          "couverture": 1,
+          "titre": "Bots pose as AI agents, AI agents pose as humans, and defenses believe both",
+          "source": "Help Net Security",
+          "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQTzN0QThVNmJzZGd4djh1UENmMldONnhRaHRPU2ZSZW8zU1VOTm5vVTNyN2VZRzJfUkZlajd4WDk5OHc0UmxVNmFSNlN1Z29oRi1qaFJFRHl0cGxOX1R0MHFrMjNBVnZCOFVxN1A5NnZxZFVtd1c0ZDlIWQ?oc=5",
+          "date": "2026-11-12T05:00:59+00:00",
+          "resume": "",
+          "titre_fr": "Des bots se font passer pour des agents IA, les agents IA se font passer pour des humains, et les défenses croient aux deux"
+        },
+        {
+          "note": 6,
+          "motif": "Liste d'entreprises interdisant les agents IA, reflète une tendance",
+          "couverture": 1,
+          "titre": "Not so fast, bot: Companies are banning AI agents. Here's the list.",
+          "source": "Business Insider",
+          "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWWJYNDdCMEdsQloxNnB6Wjdza2NyMXllRE55WGhlOXlNX1B3RVVRM3hkU3cyclJRaG9BRzhheWNEUktqQUJFaGJpS3ZMaGQ3WXVrRkphZF95RlJLa3VKcW5DNUZqcHBsVzJfYmhvT29UanJRd3c0cVc1ejEzS042aXJMWTN4bXc4U2JGQkxNRFJkMGpTV05qeC1TYmVFUTZkallRVXFwdmtqY1U?oc=5",
+          "date": "2026-11-12T05:06:00+00:00",
+          "resume": "",
+          "titre_fr": "Pas si vite, robot : les entreprises interdisent les agents IA. Voici la liste"
+        },
+        {
+          "note": 5,
+          "motif": "Demande d'évaluations en classe, reflète inquiétude éducative",
+          "couverture": 1,
+          "titre": "Stanford students demand in-class quizzes to combat AI cheating",
+          "source": "The College Fix",
+          "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXBwUWdCRzVPemtrUXQ2RS1wNWd1bXVOMEFQeEo0aHc1d1N0enZLZWc4OU9OaGdFTlp3eW1mZ3hqYXo3dzM0Zk9Mcm8zSmlhc2JudmZzLUEyYVVXUHJSYk9tSVVMUk5NSXBnNnlSX1RYV3VKNkcxRnE4V05Fd0s0NnlYcmxyVlJvZlpIVmRkYmUwVW9WbXU1dzZn?oc=5",
+          "date": "2026-11-12T05:04:35+00:00",
+          "resume": "",
+          "titre_fr": "Des étudiants de Stanford réclament des quiz en classe pour lutter contre la triche IA"
+        },
+        {
+          "note": 5,
+          "motif": "Protestation locale, reflète tension sociétale",
+          "couverture": 1,
+          "titre": "Boulder teachers and parents protest increased AI use in schools",
+          "source": "KDVR",
+          "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMkNEN3VUUTRTbVpYb3lfMVUxaU9pUU11VU5lNk1YRHZsR2plSkw2bmZEVGFCaUV1aVJTa0JWcHBkZE1EV1o5TWZYeGwzVVhnMTZKZ3NYcHJBQmdqVUhZNkJLVlFNdk5Wa2FkbWJwVjlHM0pQaERKODZQUUJCY3NxNnlObktLNUN1T3Q2LWJlTTdpVEVXYjlTONIBngFBVV95cUxPcWp1Y1EwbURKUVpQMVpiangyNnFxYXprNnJxcjZBQ1dRbkFCVi00amJKUXoxaHN3VHRWYzFrV29yYzdKS2pDU3BQa0s0NW1oU2dTQ085Szh2TTFQNXRNOU5YNXRacy03a1FjVEJrOFRuQU1Ycnp4ZnNVZW9aRHI2VHlMSld4dUx0b3lUdFFPeWJwT1Q3V0hrTUg4MnRPZw?oc=5",
+          "date": "2026-11-12T04:58:26+00:00",
+          "resume": "",
+          "titre_fr": "Des enseignants et parents de Boulder protestent contre l’augmentation de l’usage de l’IA dans les écoles"
+        },
+        {
+          "note": 5,
+          "motif": "Confusion autour d'une politique IA, pertinence universitaire",
+          "couverture": 1,
+          "titre": "Students, faculty express confusion over new Barnard AI policy",
+          "source": "Columbia Daily Spectator",
+          "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYWZOV2s2M3B3a01SMmdVNmdwWndUNkFkOXlmcjExRjRPTFBDQ3BGMlhYSXU3dk5LUGp2RDc5bTctVVl1WW5IRTVtUV9NVkszcjRxd3Z6eHVSM0hZQkl5ejhpQUtTVVhLTXlXRHhQWXpOXzdDUUoyTFF5RWxHckU5VjZBcU51R1dKdV9XMXpuSE5zWS00RDVBcFVmMXNGY1pweVJLdG9BcXJPTnpDVFV6N0lR?oc=5",
+          "date": "2026-11-12T04:55:20+00:00",
+          "resume": "",
+          "titre_fr": "Étudiants et professeurs expriment leur confusion face à la nouvelle politique IA de Barnard"
+        }
+      ]
+    },
+    {
+      "nom": "IA dans la défense et la sécurité",
+      "resume": "Plusieurs articles traitent de l'application de l'IA aux forces armées, aux drones autonomes et aux questions de sécurité liées aux agents artificiels.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Lancement d'une plateforme IA pour l'armée, impact sectoriel important",
+          "couverture": 1,
+          "titre": "Helsing launches Clarity, an AI-agent intelligence platform for armed forces, taking on Palantir",
+          "source": "Dealroom",
+          "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTkFhaWtJRTRKZDZOWHk4WGNzX2hxdTNsZ1FkeEhmbldLcUQ2T2FQU1pnbHdJMTQtMXEwRUJmVDRRYkthb3d2WE1CRWJfRV9neDJvcGxKYTVfTUREUmhONEZlVFlPaHFiZGt6N1BsRjF0ZmN1RmV3eWRPVTM3NHBCdnYzYUlLUG14aE9tWW5TX0xqbldIeERHaFU1ZUFIaVliUG0wY1hzZkRfTUZTQW8zaEJodnlLeE9PS1N6MkVhVnhVMkRWTFJR?oc=5",
+          "date": "2026-11-12T05:22:48+00:00",
+          "resume": "",
+          "titre_fr": "Helsing lance Clarity, une plateforme d'intelligence d'agents IA pour les forces armées, en concurrence avec Palantir"
+        },
+        {
+          "note": 7,
+          "motif": "Test autonome de drones, avancée militaire notable",
+          "couverture": 1,
+          "titre": "Shield AI’s Hivemind Flies Two Anduril Fury Jets in First Autonomous Combat Test",
+          "source": "The SOFX Report",
+          "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUU9BcmxWZlNhaG5WSWt2cUloNzUyaVBDYk9MUEF1SVJKWllyS0FuNnVwRlBLYTk4amQ1QmxKOGxhU3lKempKWUZZbEhnZ2JMbEQxRDVxTDE0VGV2RUVCTVNrVmVXaGJNQ3pTcmdjQUllaFVxUVFOM0lPc0FLM2RLX1Yyd0w2M24ycUFMVHRPQ3k1ZzBTWUxGTjJob2tVbkpLRnJB?oc=5",
+          "date": "2026-11-12T05:06:15+00:00",
+          "resume": "",
+          "titre_fr": "Le Hivemind de Shield AI fait voler deux jets Anduril Fury lors du premier test de combat autonome"
+        },
+        {
+          "note": 4,
+          "motif": "Explication technique locale, intérêt restreint",
+          "couverture": 1,
+          "titre": "The technology behind Surfside Beach’s proposed AI inference center, explained",
+          "source": "WPDE",
+          "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaVJIaFB6TVBWSVpFZFlTdWMzbXN0bXVvMGRjSGxTelBnWkw1VVZsby1oSGZkV2pVM0dhN0poUVdVWlF0M1lyZXg5dlZ3WFdjdTZCSnNtWVR2TXFCVmhvdWF0b1lxVFI3cWdoNUFvRzRLVVNiMGkzWDVJa1RZMVl1YTNaWEhuWXNqMWs3TUJ4dmNHeVF0LUE5RXBoQTZjdEI5QU9mTU43RXBBajQyemNEX2NXSC1xVEU?oc=5",
+          "date": "2026-11-12T04:39:46+00:00",
+          "resume": "",
+          "titre_fr": "La technologie derrière le centre d’inférence IA proposé à Surfside Beach, expliquée"
+        },
+        {
+          "note": 3,
+          "motif": "Deepfake militaire, alerte mais peu de substance",
+          "couverture": 1,
+          "titre": "AI image falsely depicts soldiers supporting wanted Philippine senator",
+          "source": "Yahoo",
+          "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT2wyNWdpVHNjQ3pNcWM3a1FuZ2ZyZUNUcnJJWGlkU0dqZ1VLbVBHWmNEUG5MUnZFS3dUUXJ2V1pSZVNKWWEzd3MtR0ZueDhzZHhmeUpSS1NObmhwSmJqOXdWeUw0cXJDaXF5RFpZZ2pjUkNMZHB2OWRFc2xoUGFmcllqR01LMTQ?oc=5",
+          "date": "2026-11-12T04:43:00+00:00",
+          "resume": "",
+          "titre_fr": "Une image IA montre faussement des soldats soutenant un sénateur philippin recherché"
+        }
+      ]
+    },
+    {
+      "nom": "IA dans l'éducation et la société",
+      "resume": "L'IA est au cœur des débats éducatifs, avec des préoccupations sur le plagiat, les outils pédagogiques et les réactions des parents et des enseignants.",
+      "articles": [
+        {
+          "note": 5,
+          "motif": "Protestation locale contre l'IA en éducation, sujet sociétal",
+          "couverture": 1,
+          "titre": "Boulder parents join national protest against AI, tech in education",
+          "source": "CBS News",
+          "lien": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWFliT253akdFYlhMNXhWem9ZMGo2bFNrMGZMcXJ3cm1ULTdmOWpuaHAwdDhtejA1S0hZMnNZZUl5clRzV2NXNWpLdVd2aWNNLUhFODJoRkVBNG5qU1JDc3V2WklYUExqYUZsSHRNYVZjZ1QzTG1wOVQ0NEhuS0I3dDlvRDZpYlZFYXAyWEhuRks3WnBQUVZWV0lUSGxKV0ZTVjdabGJoR2pLUQ?oc=5",
+          "date": "2026-11-12T05:08:00+00:00",
+          "resume": "",
+          "titre_fr": "Des parents de Boulder rejoignent la protestation nationale contre l'IA et la technologie dans l'éducation"
+        },
+        {
+          "note": 4,
+          "motif": "Curiosité historique, peu d'impact actuel",
+          "couverture": 1,
+          "titre": "The Best AI in Education Ministries Is a 1962 Matching Algorithm",
+          "source": "ICTworks",
+          "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN3RmdVpWU005a1JEU21oQ2lLRFRRZHlvRldxM1hpSHdPdmIxQkwyT05hTGNsOEtTMm93NFQ0NWs3WkpiclZhME9YSjBLWkdOQXV6U2lHQzZTMGswRnJrczlkRDhFUDRKV3FFRWRpaGNNanNId1hVaWJUODZTV1JVTkNtMW52ejkwVDJQN3JKZ1k0TTFu?oc=5",
+          "date": "2026-11-12T05:08:51+00:00",
+          "resume": "",
+          "titre_fr": "Le meilleur IA dans les ministères de l'éducation est un algorithme d'appariement de 1962"
+        }
+      ]
+    },
+    {
+      "nom": "IA en santé et sciences de la vie",
+      "resume": "Des études et projets montrent l'usage de l'IA pour réduire les symptômes dépressifs, améliorer l'engagement urbain et intégrer l'IA dans les cursus médicaux.",
+      "articles": [
+        {
+          "note": 6,
+          "motif": "Étude santé mentale, impact clinique modéré",
+          "couverture": 1,
+          "titre": "AI Chatbots Reduce Depressive Symptoms but Show No Effect on Anxiety",
+          "source": "Bioengineer.org",
+          "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEVNeDFfWmh5NEVGaXVxSFBEeXVoZ1lRNFFfM19ib2pIWFhJTGRxV0dwM25iQjNCXzU2QUc2cjA0Rzd0Q19WdXltMXdwMTM5anlrd1VDd2RfT1VaNzlLVGZJblhidnB4YmFmWFBFR0FYTzNIazF6SHhiZ3lBSWZvSjRyNzN1RkNOcEs0TVlLbW1yN3U3NzZURw?oc=5",
+          "date": "2026-11-12T05:03:03+00:00",
+          "resume": "",
+          "titre_fr": "Les chatbots IA réduisent les symptômes dépressifs mais n’influencent pas l’anxiété"
+        },
+        {
+          "note": 5,
+          "motif": "Enquête médicale, thème d'intégration IA en formation",
+          "couverture": 1,
+          "titre": "Physician Interviews Reveal Five Major Themes in Residency AI Curriculum Integration",
+          "source": "Bioengineer.org",
+          "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaUk5dEFDTWFOckdIeHBRaGlQTmQ3UXEtc1pQd1lwUDhsaUxSVEZfN3R0MEFqajNzNUJQb2pXa2E5ZGRhajVYc3BCbUtxVUtrYjJNdGZJcFpLZ1czcHR6cUdDSndzWFJxQTh1TkJZRlJKSzVYZnlVSXlRVVJpVlJwVGRfS21BTFF1NUVYMC02SU5fYVBXSExsRjNrZ1RfWWNjT2lWR3p6X3BHU1NOY0E?oc=5",
+          "date": "2026-11-12T04:28:02+00:00",
+          "resume": "",
+          "titre_fr": "Des entretiens avec des médecins révèlent cinq thèmes majeurs dans l’intégration du cursus IA en résidence"
+        },
+        {
+          "note": 4,
+          "motif": "Étude urbanisme, intérêt limité",
+          "couverture": 1,
+          "titre": "Study Finds AI Boosts Urban Design Engagement but Lacks Goal-Setting Capacity",
+          "source": "Bioengineer.org",
+          "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOHFWVUNDNDc5MWRuQ0JTYi1nTy01TTZKMHpacXh4Z0dleHNPLVBRNEkwTUxtNFJYdFRIa0xYOGJSUGJkUUhSM3llRDE1MU10RVpySXVlM2c1RHBWaWRkU2MxOXJDZXpLMExLQmlOOGhvc1l0aWdqRWQ3S2pyZFRLUVFOXzRBdms1RmdHV1VRUm0zblM4VFF0bDRhaDZOZG5KdjNoVg?oc=5",
+          "date": "2026-11-12T04:48:02+00:00",
+          "resume": "",
+          "titre_fr": "Une étude montre que l’IA augmente l’engagement en urbanisme mais manque de capacité à fixer des objectifs"
+        },
+        {
+          "note": 4,
+          "motif": "Revue de politiques d'édition médicale, impact limité",
+          "couverture": 1,
+          "titre": "Review Finds Strict Ban on AI Authorship Across Medical Publishing Guidelines",
+          "source": "Bioengineer.org",
+          "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRHlmUFlBWkx1ajFqTzVaclBFUm9fUTMxcWNpQW5KRU4xeWpiSjFCbDhuNkE5Y3ZJaGQ1MnpkZmVXWEF5SFNycHRmMmxma1BYbnh3bUpnaHVtZ1Fld0gwYTJyWERDc2hZajQ3UVNWRUk1VzBqZFNSRi1KaWVvZVoyY1VQTWFRVWkxTkx2WDYyTzhpMExhb3Jqa3htM0Y0MU1lR2N0eQ?oc=5",
+          "date": "2026-11-12T04:11:51+00:00",
+          "resume": "",
+          "titre_fr": "Une revue constate une interdiction stricte de l’auteur IA dans les directives de publication médicale"
+        }
+      ]
+    },
+    {
+      "nom": "Applications industrielles et commerciales de l'IA",
+      "resume": "Des entreprises diverses explorent l'IA pour le commerce, le transport, le marketing, les data‑centers et les solutions d'entreprise, illustrant la diffusion de la technologie dans de nombreux secteurs.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Rallye interne chez Tencent, poussée AI‑native d'un géant",
+          "couverture": 1,
+          "titre": "Tencent Founder Rallies Half of Staff Behind AI-Native Push",
+          "source": "Bloomberg.com",
+          "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTGtZT21kUjF2VnkyeGExOXVpLWlMZkZ2VXhxVUZJQTRWdDFxSUEyeVNXVEtnWFhVR2FoeEM2akRxSjZaNzE4TzltbmJjcHZqb3dhNmg4MjdfNmw5aUtlenNyUmRocU8tYjVpVEVPQmZiVV9pMGRSQVhrVEJjLXczWDFjMEFLRWFmVUNFWld4SmxteXdScDZ1QVJnV2pxNFJFWlhsWmliNGNWVGxKd2hF?oc=5",
+          "date": "2026-11-12T05:04:00+00:00",
+          "resume": "",
+          "titre_fr": "Le fondateur de Tencent mobilise la moitié du personnel autour d’une poussée IA‑native"
+        },
+        {
+          "note": 7,
+          "motif": "Investissements massifs du Golfe, repositionnement géopolitique IA",
+          "couverture": 1,
+          "titre": "The Gulf is betting billions on becoming the world’s AI engine",
+          "source": "Fast Company Middle East",
+          "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdnBZcC1vTE1KVzFOOUtTcHE1eFQ5MHUwNWMzaE9qZGEwYlBlendtQzRnd2FYTHEzQ0x2WXlZVGt1QkpXNmNtOEVzT2ZISU95c3R1bHBJWVJPaGxTdGJUbjRtREFfcVFPbHVSNVYycjB1U3R1eTB1TVYwdng0LUhyd0hSZmtNUm8zUHVfLVlRamk1d05pc0xrN0IwcVB6ZFN6?oc=5",
+          "date": "2026-11-12T05:03:47+00:00",
+          "resume": "",
+          "titre_fr": "Le Golfe mise des milliards pour devenir le moteur mondial de l'IA"
+        },
+        {
+          "note": 7,
+          "motif": "Analyse mémoire AI, décision d'investissement majeure",
+          "couverture": 1,
+          "titre": "Micron vs. Sandisk: The AI Memory Supercycle Is Big Enough for Both, but Here's the Better Buy.",
+          "source": "The Motley Fool",
+          "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSUJ2cmkyUE9WVjNZcUxXZ195TnFya2g4cnBvRFpfMkxqd0NhMGNpczA3bmI2Y3VZb3p5ZHJTWlNxTlUxSjJnSWNjNjR3ejVrODdMRkhVX25zTnktNUkybzY1MUxjT3BXdVN3NFVSVUdqNGpVVU5DN1FRcjRkcmJjaEFKbUthV1JQUTNBN1ZIY3BLSktTdjgw?oc=5",
+          "date": "2026-11-12T05:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Micron vs. Sandisk : le supercycle de la mémoire IA est assez grand pour les deux, mais voici le meilleur achat"
+        },
+        {
+          "note": 6,
+          "motif": "Lancement Genpulse, marché US de la santé physique IA",
+          "couverture": 1,
+          "titre": "Fiona Bao's Genpulse Makes the US Its Main Market for Physical AI in Personal Health",
+          "source": "markets.businessinsider.com",
+          "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbnFzYXR4OTk4OVpYOFFEaXlmamcxcGx6clpPRlFjMDI4a1FXcU9pMnEtYV9EOVVHQWJPbENQVTFjaG5MMjlrMEJoZlBIMW9Qb2MtVWhpOEpuV1RUeVFvc21rUFd3enhLYm9aRmw2WkVRQzZYZWhncGVnMWpBYTUxWUFPRzRMZzdlUzBLLWlRNktlcmR0a0IydmNDMmY2dzA5XzYxVjlRb0pPcGhMZmhhX3RVU1dEdDk4YWtJWVdLWUcxZDdjRXR3dVBUT0g2eU9SM0cySGpjUUh5VGc?oc=5",
+          "date": "2026-11-12T04:50:18+00:00",
+          "resume": "",
+          "titre_fr": "Genpulse de Fiona Bao fait des États‑Unis son principal marché pour l’IA physique en santé personnelle"
+        },
+        {
+          "note": 6,
+          "motif": "Sélection actions industrielles IA, pertinence investisseurs",
+          "couverture": 1,
+          "titre": "3 US Industrial Construction Stocks for AI Data Center and Factory Growth",
+          "source": "Yahoo Finance Singapore",
+          "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUmhQWE43WkVTN1hpdkFLZ1M5al9zbllvV3JtWnJ4dnY1M2FuN0l4UzM5cFBsVUdEYzNXcGVja3VvX2RaZl9XQWFfd2RxR1luMjZxQ01pNkVkdWx3RW1sZDNRUHJXclJyMS02a0wxZ2x0ZnZuUUVQMkk2TkczYm1tZUduS1JDdWdjcmhGbQ?oc=5",
+          "date": "2026-11-12T04:34:00+00:00",
+          "resume": "",
+          "titre_fr": "3 actions américaines de construction industrielle pour la croissance des data centers et usines IA"
+        },
+        {
+          "note": 6,
+          "motif": "Showcase de technologies IA à un grand salon, visibilité internationale",
+          "couverture": 1,
+          "titre": "Chinese firms show robots, flying cars and open AI models at Lisbon Web Summit",
+          "source": "China Daily",
+          "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNR1pvUDVhdzV1aVFIZzFiVFVOXzQ4S21YQWk3eU90VGJOTG04RkV5c0h0aEhaeXoyQzF1Qm5mdnNTaFNwdGVEWUYxbHdNQk8xalJXd0x0ZUk?oc=5",
+          "date": "2026-11-12T04:24:59+00:00",
+          "resume": "",
+          "titre_fr": "Des entreprises chinoises présentent robots, voitures volantes et modèles IA ouverts au Web Summit de Lisbonne"
+        },
+        {
+          "note": 5,
+          "motif": "Levée de fonds modeste pour transport partagé IA, intérêt niche",
+          "couverture": 1,
+          "titre": "Japan's NearMe raises $3.26M to grow AI shared-ride transport",
+          "source": "Dealroom",
+          "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWE1aY2pVZnNhTjFCN2pjb0V0cmVxd1Niendqcm92TXljZHh1TTZUZVhhUUdfb25NV0VWcGM3SWdpOFJqQVVmZzhTaW1GaFlRc3Z6OGhpN2luajdMY2oxMVNkcWxQdVp3cl94dWVKdnN4LVM3d1ZEU05YUWZHXzlOZ003Mnl6UVpJcEc5eGJpbUNxTnlpa05jeHhB?oc=5",
+          "date": "2026-11-12T04:20:35+00:00",
+          "resume": "",
+          "titre_fr": "NearMe du Japon lève 3,26 M$ pour développer le transport partagé IA"
+        },
+        {
+          "note": 5,
+          "motif": "Cisco signale pression IA, reflet d'une tendance sectorielle",
+          "couverture": 1,
+          "titre": "Cisco reports tonight with AI networking demand under pressure in a chip rout",
+          "source": "Startup Fortune",
+          "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORnJGRHpKZE9FWFdlc2FwWEdLci04ZWs0VEtWSUtqd09iX2tPN3dnUUxlTzB3WkVZbEJUeElGVE1RQmwwRlV3V2ZPMzIwa1ZlaHFPdVctMTRkcHBvRFl5cGxaQmo2bnJCU3ZzLW9weVRPeGFheUs5MUlfa3BJR05DcDV5Mm1tdjBreVN5UWVSYmhVZGtWNkV4emI1Zkd6S2tvbTA0V0VxbXk?oc=5",
+          "date": "2026-11-12T04:12:35+00:00",
+          "resume": "",
+          "titre_fr": "Cisco rapporte ce soir une demande de réseau IA sous pression dans une chute des puces"
+        },
+        {
+          "note": 4,
+          "motif": "Conflit secteur immobilier vs IA, sujet de niche",
+          "couverture": 1,
+          "titre": "Real estate agents vs. AI agents",
+          "source": "keysnews.com",
+          "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcWxtaGloWWFPRmdSLUswWEczOTlhUFZWVUdGOFNTTFFYTVdFb3lFRmZ1SjVDT01ZaFA5WTI5c3ZScmdzTDZmSHpZdUVRWXJ2d1NXR1hIU0hDd09hRzVNT3ZSaVE0RDkwUkJBbW1wNFhwaXhDWVVwUWFGb2t5eXB4UkQwV2pvMjA4ajFkMkEzSk9LRUxQZEJhdjkwTTN4ajd2Z0VLZE5XdTlMaXI2aHFNcmtKMlZ3QzhpckRVYzZXZ1BFdw?oc=5",
+          "date": "2026-11-12T05:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Agents immobiliers vs. agents IA"
+        }
+      ]
+    },
+    {
+      "nom": "Autres articles",
+      "resume": "",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Analyse géopolitique du « AI race », impact global",
+          "couverture": 1,
+          "titre": "US and China are failing the same AI race, only differently",
+          "source": "Asia Times",
+          "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWlpmek1wRHp3Vlg4U3pQVHlWYmx0dUdKQWY3QTJ4d0RfWkV5R3hTd1RlQzkwQnBnWXJPbUNVZndZS0JIVzlyaUhXdmI1TE9WeHVORTZuaWN2TEduXzFxNGR3eXpqcFlxSjE3OXhzbGpHaUZ0b1dCckVGVzFsNC02VTkzaDhDcGdjYm9iZFpxcWRGR3c?oc=5",
+          "date": "2026-11-12T04:53:56+00:00",
+          "resume": "",
+          "titre_fr": "Les États‑Unis et la Chine échouent à la même course à l’IA, mais différemment"
+        },
+        {
+          "note": 6,
+          "motif": "Analyse de modèles de sécurité IA dans la banque, pertinence sectorielle",
+          "couverture": 1,
+          "titre": "How AI Security Models Are Redefining Banking Resilience",
+          "source": "Global Banking & Finance Review",
+          "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS2tWTTNpRGhfbE1rOTROVUswUnBOUTdyZDVZaDdoU1ZIbjhQbWxVSkNveUJyNEpvcHI1T1lJd0hhUTdpNW9Ybm5YUFIwUXpwc1VYT2xRREtvSXVRUFRON2RXdGZpR2RJLWZsS3FBNGFIcjR6VkVQbGNvOVFobTZDVUZyOG1PQjQ0NmI5eDRROGVHY3d4bnNIb3NWSnNKUQ?oc=5",
+          "date": "2026-11-12T05:17:20+00:00",
+          "resume": "",
+          "titre_fr": "Comment les modèles de sécurité IA redéfinissent la résilience bancaire"
+        },
+        {
+          "note": 6,
+          "motif": "Analyse critique du bot Meta, pertinence pour finance",
+          "couverture": 1,
+          "titre": "Meta's AI Bot Won’t Revolutionize Your Finances",
+          "source": "Bloomberg.com",
+          "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONWJmZ01vZE41aVVUeFA2VTZyVVNFeHBLMFctdVNfd0hieVNON1gtb1gxZl9zbDNzOVVQUGNfVVd4OHd5UVltQ3hRRUZzZzdsRWtyMmRFcEp5elczUk40X0hDYm1BRlRrckwwZFlZUFB2c3gyMmI3WDE3a2pSVTMzdVA3T1BrcERmdE50N3diUkRhVk0taEZ3dVZQWEZtdFVyUVFDZHdtRXJReENwTmxwenBHMC1WaUU?oc=5",
+          "date": "2026-11-12T05:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Le bot IA de Meta ne révolutionnera pas vos finances"
+        },
+        {
+          "note": 6,
+          "motif": "Podcast sur Anthropic, suivi d'une figure clé du secteur IA",
+          "couverture": 1,
+          "titre": "PODCAST: Anthropic heads for the ultimate AI benchmark",
+          "source": "Reuters",
+          "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSGdVLUQtWmVvWFd2bVUzdWthU1I1UFh0Z21rWFYzUzdSMG5jVEZXVzVrSnVlTkViWmhNZ0hIcklOMDZTblZod3NEaTBocHZfMWd3eXRXOGhENGItU19waDJWTnV5eU1RNlltaDR3dUNwX0FSa3FRbEJEcGtSQnlSbEphNmRza2pMcXh3anN1V0pvWE9Wbkxj?oc=5",
+          "date": "2026-11-12T04:00:00+00:00",
+          "resume": "",
+          "titre_fr": "PODCAST : Anthropic vise le benchmark ultime de l’IA"
+        },
+        {
+          "note": 5,
+          "motif": "Prix scientifique, valorise IA mais peu d'impact immédiat",
+          "couverture": 1,
+          "titre": "Barzilay and Collins Win the 2026 Pritzker Prize for AI in Science Research Excellence",
+          "source": "CASRAI",
+          "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQk84Rkh1UDdiM045bXEwWDhnOHd3eGR3NDlJdmpnMkZzSGV1azdhUmVOb1BSX19SNmhiQWxkMzNaUVI2N2JoVW14eFFZZ1VJaC10NWhObW1NZnhHbTFoS3NDT1JER2hrZ3Y2UEMzSXlLbXhJc2JHTnRwUG9aWHJubWRwUmVDbVY2V2RvYkN3YU8?oc=5",
+          "date": "2026-11-12T04:59:45+00:00",
+          "resume": "",
+          "titre_fr": "Barzilay et Collins remportent le prix Pritzker 2026 pour l’excellence en recherche IA en science"
+        },
+        {
+          "note": 5,
+          "motif": "Produit haut de gamme, plus marketing que innovation IA",
+          "couverture": 1,
+          "titre": "Microsoft's $5,899 AI Laptop Is Here, and You Should Absolutely Not Buy It",
+          "source": "PCMag Middle East",
+          "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcFhVaDlRZlp5TXdCdzlJTll1NV9KTFJMbzVDaUEtXy0tNkhWenpRMGp2aWt3QlNBZDFXMFlZTzhuVmJMakpfbTlCUGZfNWY4U0pIVjZSRlU4Y092NlBlcG1IWHJFZWtuanpLWmxZeWVsd1ozenFTNWN4dlRXNHp4TlpkQlVBT21qNEs3M3EzS0RGU1RTYUp3bjctQ0xJYUhJSHdHWjY2Y01KaW1xOTQzY2pIQmlKOXhqNEMyMmROdWRmdDda?oc=5",
+          "date": "2026-11-12T04:47:09+00:00",
+          "resume": "",
+          "titre_fr": "Le PC portable IA de Microsoft à 5 899 $ est arrivé, et vous ne devriez absolument pas l’acheter"
+        },
+        {
+          "note": 5,
+          "motif": "Débat scientifique, pertinence pour chercheurs",
+          "couverture": 1,
+          "titre": "Future of AI brain models sparks debate",
+          "source": "The Transmitter",
+          "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ2JwS2FZcWhFM0tScjVQX2E2TnVrcTBydjFsQmF6RUE3c002X1JJS05sUVRxd0RsazBDZWZFM1I1aUJNTk05RkI1clNVZ0tPb3JscFp2OFExWV9ISGVTZDZzSkpSTHU0azl5eTV4NnNRN1Y4OFROUjNNQ004MEZSR1dSWUF3TElBcDlmb3RoUFpwT0k4aVJz?oc=5",
+          "date": "2026-11-12T04:44:24+00:00",
+          "resume": "",
+          "titre_fr": "L’avenir des modèles cérébraux IA suscite le débat"
+        },
+        {
+          "note": 5,
+          "motif": "Extension des contrôles IA Instagram, impact produit limité",
+          "couverture": 1,
+          "titre": "Meta Expands Instagram AI Age Checks Worldwide",
+          "source": "Movieguide",
+          "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUGhUYVRUdEN2Y25FaHI3VFdZQ2VqTHhsdzhwQ2ZCenJpd1M3cTRDZHlyQjZXcGdzV2JlZGRwMG4zemUzRUphSy0wNXpxa0xZUDQ5VUpYaDN5SS0wQ3NJRXJzc0MwSXo3OTJfYnRCekMwU0Y0dXh1NFozZEJSdHNCc2lsdTJXUDZlOXdUR2FsTkowQXJQcGJN?oc=5",
+          "date": "2026-11-12T04:02:41+00:00",
+          "resume": "",
+          "titre_fr": "Meta étend les contrôles d’âge IA d’Instagram à l’échelle mondiale"
+        },
+        {
+          "note": 4,
+          "motif": "Interview CEO, plus marketing que nouveauté IA",
+          "couverture": 1,
+          "titre": "CEO Talks: Rémy Baume on Using Customer Insights and AI to Drive Growth at Printemps",
+          "source": "WWD",
+          "lien": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQlduOWYwWU1EQmhaZ2o1Y1JrM0lHVGk0bTEtbEhfLTYwcGxDdlF1UVZjc09PRjFjTXNOMm03VGdlRXlEaHZVQ1V4UHdFMXZvbDVsalVwdkE0OGNYaURqUVZtRWRTemI1QUFOZmV0QW55dWtWdFVHUHdiOHBpWnFTb0Q4Q09NemZzUXo2TVlUR0lWaEU5dVhtQjJlMG56bnd6UWxoVk5BanNQUGs?oc=5",
+          "date": "2026-11-12T05:04:18+00:00",
+          "resume": "",
+          "titre_fr": "Entretien avec le PDG : Rémy Baume sur l’utilisation des insights clients et de l’IA pour stimuler la croissance chez Printemps"
+        },
+        {
+          "note": 4,
+          "motif": "Programme académique, intérêt limité",
+          "couverture": 1,
+          "titre": "Human Performance and AI in Sports Analytics Minor Combines Practical Skills with Data Analysis",
+          "source": "Technology Org",
+          "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYUI3Q3VyNGVjbGtycmRhSFBiYnFMYWNodlVxbUNRZWxhQkZ4MGMteEhPb2lMcko0Y3BmUGtjRmEzQTA3UE5oaTE2Y2QxX0FCbWZxT0U5RmJGUFZDc3MxdEhPTks3WmJBSTRqS1dlcmNCQmRyZWF5RHB5N3F3cVo4RGNKM3pGTl8tODQ5SFR6OEFRaHpUbm9YQnpiOHhVMFlWbmVXMDdKb2VkTktkbjAyQldiSjktZGRNM0pRams5MThXSHUzTkdzdXJTcm4ySHM?oc=5",
+          "date": "2026-11-12T05:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Performance humaine et IA dans l’analyse sportive : un mineur alliant compétences pratiques et analyse de données"
+        },
+        {
+          "note": 4,
+          "motif": "Problèmes de réponses IA sur sites, point technique",
+          "couverture": 1,
+          "titre": "LightSite AI Reports Gaps in Website Answers to AI Agent Requests",
+          "source": "markets.businessinsider.com",
+          "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUm9TN25waTJHcHRqeDcyQW9LVk9mMDg2b2ZRQUZhbXd1NmpJUnZzWVBlUlBZZVllcG5oeUJKV2lRVWJzeWYzdDNyTkFqdi1GakZPMFVwaXJwWjUzb2lKRDh0azNvYUtFVXlpYUFVWm9JVkk4Zm1jYi03R2RsTENoNEdSTkNhSUhzcU0tVzRUMGdHWFVCWDJ6eDgyZHVkUURDdEhEN0I3WDZKZHY5Q3pGQU5JS3JNSnZsc20wcVlqSjR0UQ?oc=5",
+          "date": "2026-11-12T04:50:18+00:00",
+          "resume": "",
+          "titre_fr": "LightSite AI signale des lacunes dans les réponses des sites web aux requêtes des agents IA"
+        },
+        {
+          "note": 4,
+          "motif": "Levée de fonds modeste pour IA relationnelle, intérêt restreint",
+          "couverture": 1,
+          "titre": "Japan's Atlas raises $626K for relationship-building AI",
+          "source": "Dealroom",
+          "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVEhtbnFkWW1YaGhrREtQeHNmdTdQaUF0Nl90RmFFSlJ1cFZ4c3pGU19CcGJOWGN3T0VPempuZFRGNTB1Y09Xckd2V1F0UlBHNmo1cUZYRVVlOEFYNzQ4SVdibzdwR1RVWGNJUE1SLWRHVmhDaVJSMGVMVnVWSHBTZEZXS1p4UXhwZ1k2Tktfa1FWQQ?oc=5",
+          "date": "2026-11-12T03:57:32+00:00",
+          "resume": "",
+          "titre_fr": "Atlas du Japon lève 626 k$ pour une IA de mise en relation"
+        },
+        {
+          "note": 3,
+          "motif": "Roadmap 2026, peu d'immédiateté",
+          "couverture": 1,
+          "titre": "AI roadmap for ecology foundation models, Nov 2026",
+          "source": "CASRAI",
+          "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYlNpby13bkFEZWlBcHVsZDNYUFQ1TWNMTjgyTzd2d294d2dNNXJ2aG95S1VJY2lsWE9EQThCdEtTelJDMjlFRFp3al94Mm9jVWh6YWFBc1B3aDNkaWVGQkxlYjdPcHRTTTlnTmNwbllVM1h4aHVVMDR6LVdha0Fnag?oc=5",
+          "date": "2026-11-12T05:04:42+00:00",
+          "resume": "",
+          "titre_fr": "Feuille de route IA pour les modèles fondamentaux d'écologie, novembre 2026"
+        },
+        {
+          "note": 3,
+          "motif": "Liste d'emplois résistants, peu liée à IA concrète",
+          "couverture": 1,
+          "titre": "18 Jobs ‘A Recession Can’t Kill & Artificial Intelligence Can’t Take’",
+          "source": "WNY Labor Today",
+          "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc1ZWNlVreHYtSGVrSldNY1A3elFSRFFRYWgxVHktSk9PQWxRMG0yU0tBT21YMGIxMExaNjJEZW02WURHdzl1dkhsVHpKUlJBTTVVdWhXQ2MwV21OTV81X0lmSDlmRktTaURNNW1KMU5jQi16ZGloU3JfRmdGQVBrTm10ejcxZEMwZjZndG45WVVLckRnbW15aDhhdUxsdjZETjJHLVJqcmlYbndrZG9mdklIaV9PZnU5dUd5ZWlkM003MzE3R0s1b21mYzVwZFdoUVIya3d1Ul82T3NQa2c?oc=5",
+          "date": "2026-11-12T05:01:30+00:00",
+          "resume": "",
+          "titre_fr": "18 métiers qu’une récession ne peut tuer et que l’intelligence artificielle ne peut pas remplacer"
+        },
+        {
+          "note": 2,
+          "motif": "Opinion d'un profane, peu de valeur informative",
+          "couverture": 1,
+          "titre": "A Layman Thinks About AI",
+          "source": "Seeking Alpha",
+          "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGJMam9xV0tPOWtrdnNFTFVPWU9ZUGY0SzZSbElJaDVxMC1sUTVscjRnN2tnT2w1dk5YRXVycW04UFNDTUxvazJjTUk1dmZSNFJ3R0ZVQ2FmM2pTR0UxZHdBT2FrOUMyMTYwbDA0SEFDZGpZbkdrYWpvMHhubUpSR2x2OHR5NDVqM0FnM0JkNUc3YzFoWWh6bw?oc=5",
+          "date": "2026-11-12T04:30:00+00:00",
+          "resume": "",
+          "titre_fr": "Un profane réfléchit à l’IA"
+        }
+      ]
+    }
+  ],
+  "ecartes": [
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "8 Republicans Seek Nvidia Action; Cornyn Shares $5-7B Claim",
+      "source": "FourWeekMBA",
+      "lien": "https://fourweekmba.com/ai-8-republicans-seek-nvidia-action-cornyn-shares-5-7b-claim/?utm_source=rss&utm_medium=rss&utm_campaign=ai-8-republicans-seek-nvidia-action-cornyn-shares-5-7b-claim",
+      "date": "2026-11-12T05:13:36+00:00",
+      "resume": "95,000+ executives read Business Engineer for the AI strategy frameworks cited by ChatGPT, Claude, and Perplexity. A note on sourcing. Gennaro Cuofano passed us Sen. Cornyn’s post. We read it and the post it quotes in full, and read in full the reports of The Washington Sun (formerly NOTUS, 10 Novem",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Tesla Robotaxi Now Runs 24/7, Up From 16 Hours in August",
+      "source": "FourWeekMBA",
+      "lien": "https://fourweekmba.com/ai-tesla-robotaxi-now-runs-24-7-a-month-after-closing-at-11pm/?utm_source=rss&utm_medium=rss&utm_campaign=ai-tesla-robotaxi-now-runs-24-7-a-month-after-closing-at-11pm",
+      "date": "2026-11-12T05:12:32+00:00",
+      "resume": "95,000+ executives read Business Engineer for the AI strategy frameworks cited by ChatGPT, Claude, and Perplexity. A note on sourcing. The 24/7 change and the earlier service windows are taken from posts by Tesla’s official @robotaxi account on X, read in full on 12 November 2026; the 12 October pos",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Naver’s Free Cash Flow Turns Negative as Capex Jumps 45%",
+      "source": "FourWeekMBA",
+      "lien": "https://fourweekmba.com/ai-navers-free-cash-flow-turns-negative-as-capex-jumps-45/?utm_source=rss&utm_medium=rss&utm_campaign=ai-navers-free-cash-flow-turns-negative-as-capex-jumps-45",
+      "date": "2026-11-12T04:48:12+00:00",
+      "resume": "95,000+ executives read Business Engineer for the AI strategy frameworks cited by ChatGPT, Claude, and Perplexity. A note on sourcing. Naver’s figures and quotations are from its third-quarter 2026 earnings release slides (English version) and factsheet, both published on its investor relations site",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Resident talks about data centers at Saline Township meeting",
+      "source": "The Detroit News",
+      "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZTFFSG1JQ0dydXFLdXkwLU4wSnBYTFFMem90b2t5ZVAtaFA0VEM5cjIzSkQ4QlAzaDBGRnlCZ2dHWXFpMVhnQUp1ZzFoRGFLT2hhRlRwR2hOY2YtemE3N3loa0R5QVVMSWMwUlBYd0FqSUZnUWpPZVcwOF9yU2g5ZDhaODBNZnlNUjRrd1BCV3JnMXVnRktZcFlXVlQ5RUlGc3pjNktRQ1pFY0lTcjJmdk9EZk1nZkhvc1NDdENHWU1mWEtLNVRHNzFZbEVUN1NuQ1E?oc=5",
+      "date": "2026-11-12T04:39:18+00:00",
+      "resume": "",
+      "titre_fr": ""
+    }
+  ],
+  "top": [
+    {
+      "note": 9,
+      "motif": "Crise leadership Nvidia, influence majeure sur marché IA",
+      "couverture": 2,
+      "titre": "Asia stocks hold up as Nvidia leadership crisis clouds AI trade",
+      "source": "Yahoo Finance",
+      "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeEhYMU5Wc0tPZGhyZXU3Wnk3NVJlbWNmOVNBX281ZG16d2ZES3B2VHhsZnBXMWFxUHBRZ1dXNWpQYUw5bFFEdFNJTUQ0MTM1NVQ0WjdzeUlNUnlUVEF4c2szZVRPOXVtWjM4TVFUNHlra2xwSi1NSld5S3Y1Ung5LTRuWWlBY2FmcE1FMmhJdE9FX3dBZ1ZzSzBwWVM1MVFN?oc=5",
+      "date": "2026-11-12T04:50:02+00:00",
+      "resume": "",
+      "titre_fr": "Les actions asiatiques tiennent le coup alors que la crise de direction chez Nvidia voile le commerce IA"
+    },
+    {
+      "note": 9,
+      "motif": "Possible destitution du PDG Nvidia, enjeu majeur du secteur IA",
+      "couverture": 2,
+      "titre": "Nvidia Board Weighs Ousting Jensen Huang With No AI Successor Ready",
+      "source": "Forbes",
+      "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSEU3bUd4Vml1T0Z6STJMYVB3U01Td0RfaS1sOFBrRGZzYUZDdHZJbURIbDFLS2hUVjRiMml4RHAzZjRJUXFmZExjZklROUhRMG9lVjA4Ny1lcFlZMWFvOE5jNGFwM09Qcm1kUEw1OWNKQ2tCQXplR1VCZzVhY2lvWFBENHJKUlYtV1BQc3RyRkdfNjdiOFNWajZPNWVsclg2YUNoZndVaE1OYWROd1hHXzFlcVdIM1ZlZ25lMA?oc=5",
+      "date": "2026-11-12T04:22:34+00:00",
+      "resume": "",
+      "titre_fr": "Le conseil d’administration de Nvidia envisage de destituer Jensen Huang sans successeur IA prêt"
+    },
+    {
+      "note": 9,
+      "motif": "Réunion du board Nvidia sur le futur du CEO, impact global IA",
+      "couverture": 1,
+      "titre": "Nvidia’s Board Is Meeting to Discuss Jensen Huang’s Future",
+      "source": "The New York Times",
+      "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SV0s4M3NYaTUtT2tIVWpBRHdfTk51cUIxcE0tLU9LV3M1akRWMTRheE9qY3BCa0pRVDR0MGhxaGVIcERRakZ0LWxJUWtpeFk4aW50TlRLVWt0NUEwSzVBVWFoZGNMQ0NEUWl4eUZyR3h0YmpHRjNfVk1n?oc=5",
+      "date": "2026-11-12T04:19:06+00:00",
+      "resume": "",
+      "titre_fr": "Le conseil d’administration de Nvidia se réunit pour discuter de l’avenir de Jensen Huang"
+    },
+    {
+      "note": 8,
+      "motif": "Investissement majeur d'Anthropic, indicateur de tendance du marché IA",
+      "couverture": 1,
+      "titre": "AI Startups’ Anthropic Spend Up 79% in October, 2x Since May",
+      "source": "FourWeekMBA",
+      "lien": "https://fourweekmba.com/ai-startups-anthropic-spend-up-79-in-october-2x-since-may/?utm_source=rss&utm_medium=rss&utm_campaign=ai-startups-anthropic-spend-up-79-in-october-2x-since-may",
+      "date": "2026-11-12T05:23:12+00:00",
+      "resume": "95,000+ executives read Business Engineer for the AI strategy frameworks cited by ChatGPT, Claude, and Perplexity. A note on sourcing. The user-group growth rates and the chart come from Peter Walker’s X post of 11 November 2026, read in full, and the OpenRouter-branded chart attached to it, whose f",
+      "titre_fr": "Les dépenses d'Anthropic, startup d'IA, augmentent de 79 % en octobre, soit le double depuis mai"
+    },
+    {
+      "note": 8,
+      "motif": "Rallye interne chez Tencent, poussée AI‑native d'un géant",
+      "couverture": 1,
+      "titre": "Tencent Founder Rallies Half of Staff Behind AI-Native Push",
+      "source": "Bloomberg.com",
+      "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTGtZT21kUjF2VnkyeGExOXVpLWlMZkZ2VXhxVUZJQTRWdDFxSUEyeVNXVEtnWFhVR2FoeEM2akRxSjZaNzE4TzltbmJjcHZqb3dhNmg4MjdfNmw5aUtlenNyUmRocU8tYjVpVEVPQmZiVV9pMGRSQVhrVEJjLXczWDFjMEFLRWFmVUNFWld4SmxteXdScDZ1QVJnV2pxNFJFWlhsWmliNGNWVGxKd2hF?oc=5",
+      "date": "2026-11-12T05:04:00+00:00",
+      "resume": "",
+      "titre_fr": "Le fondateur de Tencent mobilise la moitié du personnel autour d’une poussée IA‑native"
+    }
+  ],
+  "articles_notes": 50,
+  "liens_resolus": 0,
+  "liens_google": 49,
+  "videos": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "AI: INTELLIGENCE WITHOUT WISDOM? | Can Artificial Intelligence Understand Consequences? | Tech News",
+        "source": "CNN-News18",
+        "lien": "https://www.youtube.com/watch?v=UxxvvL_YoJM",
+        "date": "2026-11-12T04:11:32Z",
+        "image": "https://i.ytimg.com/vi/UxxvvL_YoJM/mqdefault.jpg",
+        "extrait": "Artificial Intelligence is advancing at an extraordinary pace. But as machines become smarter, a bigger question emerges: can AI ...",
+        "description": "Discussion sur la capacité de l'IA à comprendre les conséquences de ses actions et la différence entre intelligence et sagesse."
+      },
+      {
+        "titre": "Nvidia without Jensen? What happens next? #tech #ai #news #graphicscard #nvidia #aibubble",
+        "source": "Garrett Crespo",
+        "lien": "https://www.youtube.com/watch?v=eFIC8TMt6Gc",
+        "date": "2026-11-12T03:30:01Z",
+        "image": "https://i.ytimg.com/vi/eFIC8TMt6Gc/mqdefault.jpg",
+        "extrait": "",
+        "description": "Analyse des perspectives de Nvidia après le départ de Jensen Huang et les implications pour le marché de l'IA et du GPU."
+      },
+      {
+        "titre": "Who Pays for Data Centers #datacenter #ai #anthropic #bigtech #uspolitics #aibubble #ipo #claude",
+        "source": "UNFTR Media",
+        "lien": "https://www.youtube.com/watch?v=17_8pK3sPa0",
+        "date": "2026-11-12T03:00:38Z",
+        "image": "https://i.ytimg.com/vi/17_8pK3sPa0/mqdefault.jpg",
+        "extrait": "Voters rebuked data centers across the country the same moment Anthropic's second S-1 showed revenue growth eroding and ...",
+        "description": "Examen des coûts des data centers liés à l'IA et des enjeux politiques et financiers autour d'Anthropic et d'autres grands acteurs."
+      },
+      {
+        "titre": "Why companies can't escape the AI spending spiral | DW News",
+        "source": "DW News",
+        "lien": "https://www.youtube.com/watch?v=qjfHUeAHniA",
+        "date": "2026-11-12T01:00:31Z",
+        "image": "https://i.ytimg.com/vi/qjfHUeAHniA/mqdefault.jpg",
+        "extrait": "What if the biggest AI risk isn't that it replaces workers, but that it traps companies in an endless cycle of spending? Businesses ...",
+        "description": "Exploration du risque que les entreprises soient piégées dans un cycle de dépenses incessantes en IA plutôt que d'être remplacées."
+      },
+      {
+        "titre": "Gemini 4 Carbon vs Fable 5.2 vs Opus 5.5: one shark, same prompt",
+        "source": "Mark Santos",
+        "lien": "https://www.youtube.com/watch?v=HV6I1fsrELc",
+        "date": "2026-11-12T01:00:09Z",
+        "image": "https://i.ytimg.com/vi/HV6I1fsrELc/mqdefault.jpg",
+        "extrait": "Google just released Gemini 4 Carbon. One tester gave it, Opus 5.5 and Fable 5.2 the same Blender prompt for a shark.",
+        "description": "Comparaison de performances entre Gemini 4 Carbon, Fable 5.2 et Opus 5.5 sur le même prompt de modélisation 3D d'un requin."
+      },
+      {
+        "titre": "Anthropic launches expert-level prompt to boost AI task performance #AI #PromptEngineering",
+        "source": "Jordan Blake",
+        "lien": "https://www.youtube.com/watch?v=WDOnnEDlTFU",
+        "date": "2026-11-12T00:27:01Z",
+        "image": "https://i.ytimg.com/vi/WDOnnEDlTFU/mqdefault.jpg",
+        "extrait": "Anthropic created a powerful prompt enhancer that transforms how users interact with AI models like Claude. Instead of simple ...",
+        "description": "Présentation d'un nouveau prompt d'Anthropic destiné à améliorer les performances des tâches IA, notamment avec Claude."
+      },
+      {
+        "titre": "Google's most powerful model just opened to the public",
+        "source": "Josue AI",
+        "lien": "https://www.youtube.com/watch?v=IyATh7OgzQU",
+        "date": "2026-11-11T23:30:26Z",
+        "image": "https://i.ytimg.com/vi/IyATh7OgzQU/mqdefault.jpg",
+        "extrait": "Gemini 4 Carbon is on the paid API and Google AI Ultra, #1 on three agent benchmarks, and cheap only until Nov 30. Comment ...",
+        "description": "Annonce de l'ouverture au public du modèle Gemini 4 Carbon de Google, disponible via API payante et à tarif réduit jusqu'au 30 novembre."
+      },
+      {
+        "titre": "Anthropic IPO poised to test retail investor appetite for AI",
+        "source": "CNBC Television",
+        "lien": "https://www.youtube.com/watch?v=qyyJEA_U0UM",
+        "date": "2026-11-11T18:45:25Z",
+        "image": "https://i.ytimg.com/vi/qyyJEA_U0UM/mqdefault.jpg",
+        "extrait": "CNBC's Kate Rooney has the latest news surrounding Anthropic's upcoming IPO and how it compares to SpaceX's IPO earlier this ...",
+        "description": "Reportage de CNBC sur l'IPO d'Anthropic, son ambition de tester l'appétit des investisseurs particuliers pour l'IA, comparé à l'IPO de SpaceX."
+      },
+      {
+        "titre": "OpenAI’s Chief Economist on AI, jobs, and the economy | Ronnie Chatterji",
+        "source": "Reid Hoffman",
+        "lien": "https://www.youtube.com/watch?v=ZBGh-Mw7UV0",
+        "date": "2026-11-11T15:00:35Z",
+        "image": "https://i.ytimg.com/vi/ZBGh-Mw7UV0/mqdefault.jpg",
+        "extrait": "OpenAI chief economist Ronnie Chatterji joins Reid Hoffman and Aria Finger to unpack when AI will show up in the productivity ...",
+        "description": "Entretien avec le chef économiste d'OpenAI, Ronnie Chatterji, sur l'impact de l'IA sur l'emploi et l'économie."
+      },
+      {
+        "titre": "Google Gemini Notebook Is Becoming an AI Agent! 🔥 10 Game-Changing Features (2026)",
+        "source": "Ai Podcast ",
+        "lien": "https://www.youtube.com/watch?v=ODiznF3CXJs",
+        "date": "2026-11-11T14:06:10Z",
+        "image": "https://i.ytimg.com/vi/ODiznF3CXJs/mqdefault.jpg",
+        "extrait": "Google Gemini Notebook is evolving into something much more powerful — an AI agent that can research, organize information, ...",
+        "description": "Présentation des nouvelles fonctionnalités de Google Gemini Notebook, qui devient un agent IA capable de rechercher, organiser et automatiser des tâches."
+      }
+    ]
+  },
+  "podcasts": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "Why Data Teams Struggle With Real Time Feature Updates",
+        "source": "The Data Science Podcast with Fexingo: Analytics, Machine Learning, and Data-Driven Conversations",
+        "lien": "https://podcasts.apple.com/us/podcast/why-data-teams-struggle-with-real-time-feature-updates/id1896799032?i=1000801372172&uo=4",
+        "date": "2026-11-12T04:46:53+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5e/e9/84/5ee9846a-80b9-4859-3773-285f0cf17e2e/mza_1114547162290367241.png/160x160bb.jpg",
+        "duree_min": 11,
+        "extrait": "Most data teams treat real-time feature engineering as a software problem when it is actually a governance and latency challenge. In this episode, Lucas and Luna break down the hidden costs of micro-batch processing versus true streaming pipelines. They",
+        "description": "Analyse des difficultés des équipes data à mettre à jour les fonctionnalités en temps réel, soulignant que le problème relève davantage de la gouvernance et de la latence que du simple logiciel."
+      },
+      {
+        "titre": "Claude Fable 5.2 + Hermes Agent is 10X WILD!",
+        "source": "AI News Today | Julian Goldie Podcast",
+        "lien": "https://podcasts.apple.com/us/podcast/claude-fable-5-2-hermes-agent-is-10x-wild/id1851256047?i=1000801372848&uo=4",
+        "date": "2026-11-12T04:46:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/88/16/d0/8816d03f-1f65-bbe4-6cec-8d3846f9aea7/mza_9304718564816286521.jpg/160x160bb.jpg",
+        "duree_min": 18,
+        "extrait": "Claude Fable 5.2 + Hermes Agent is 10X WILD!",
+        "description": "Annonce de la version Claude Fable 5.2 et de l'agent Hermes, présentés comme une amélioration majeure de dix fois la puissance précédente."
+      },
+      {
+        "titre": "AI Shrinks Freelance Writing. New York Requires AI Registration. Grok Build Links Exposed. United Blocks AI Booking.",
+        "source": "AI News Daily - Your Daily AI Briefing in 5 Minutes",
+        "lien": "https://podcasts.apple.com/us/podcast/ai-shrinks-freelance-writing-new-york-requires-ai-registration/id1792810626?i=1000801368899&uo=4",
+        "date": "2026-11-12T04:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/98/79/87/987987b2-89a1-a3a0-1715-735f343eb38b/mza_11377502211998301814.jpg/160x160bb.jpg",
+        "duree_min": 4,
+        "extrait": "The AI news for November 12th, 2026 Here are the details of the day's selected top stories: Freelance Writing Work Shrank 31% as a Share of Upwork Job Posts Source: https://dailyai.com/2026/11/freelance-writing-work-shrank-31-as-a-share-of-upwork-job-",
+        "description": "Brief quotidien couvrant plusieurs actualités IA, dont la réduction de 31 % des missions d'écriture freelance sur Upwork et le lancement d'une API décisionnelle Gemini par Google."
+      },
+      {
+        "titre": "Nvidia Leadership Crisis And The Future Of AI",
+        "source": "The AI Podcast with Fexingo: Artificial Intelligence, Machine Learning, and Modern AI Models",
+        "lien": "https://podcasts.apple.com/us/podcast/nvidia-leadership-crisis-and-the-future-of-ai/id1896798905?i=1000801365778&uo=4",
+        "date": "2026-11-12T03:38:46+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0f/32/b9/0f32b942-5fb8-8c5e-37e8-16db4aaf67b1/mza_1795686346891440239.png/160x160bb.jpg",
+        "duree_min": 8,
+        "extrait": "Jensen Huang faces a potential ouster as Nvidia stock drops four percent amid scandal rumors. We analyze how leadership instability at the chip giant could ripple through the broader semiconductor supply chain and affect investor confidence in artificia",
+        "description": "Examen de la crise de leadership chez Nvidia et de ses répercussions potentielles sur la chaîne d'approvisionnement des semi‑conducteurs et le secteur IA."
+      },
+      {
+        "titre": "[11/12 03:00 UTC] Google launches Gemini Decisions API and its decision-only model…",
+        "source": "AI News Flash",
+        "lien": "https://podcasts.apple.com/us/podcast/11-12-03-00-utc-google-launches-gemini-decisions-api/id1873892136?i=1000801363198&uo=4",
+        "date": "2026-11-12T03:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/1f/b6/b91fb627-f6de-9e77-e614-ef36393402d6/mza_13059665318982617720.png/160x160bb.jpg",
+        "duree_min": 3,
+        "extrait": "AI News Flash for November 12, 2026 at 03:00 UTC. Topics: 1. Google launches Gemini Decisions API and its decision-only model https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ https://siliconangle.com/2026/11",
+        "description": "Annonce du lancement par Google de l'API Gemini Decisions, un modèle dédié uniquement aux prises de décision, avec un lien vers le blog officiel."
+      },
+      {
+        "titre": "[EN] Daily briefing — 2026-11-12",
+        "source": "AI News — AI and cybersecurity briefing",
+        "lien": "https://podcasts.apple.com/us/podcast/en-daily-briefing-2026-11-12/id6821580049?i=1000801359392&uo=4",
+        "date": "2026-11-12T02:41:33+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d7/e1/60/d7e16021-05f8-5376-371b-b515264b7c36/mza_2785864942769386774.jpg/160x160bb.jpg",
+        "duree_min": null,
+        "extrait": "In this briefing: 1. Cisco BroadWorks and Openwave Flaws Added to CISA's Exploited Vulnerabilities Catalog Source: Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches — https://thehackernews.com/2026/11/cisco-broadw",
+        "description": "Brief sur les nouvelles vulnérabilités exploitées dans Cisco BroadWorks et Openwave, ajoutées au catalogue CISA, soulignant les enjeux de cybersécurité pour l'IA."
+      },
+      {
+        "titre": "[11/12 00:00 UTC] Nvidia follow-up. Board reportedly preparing to remove CEO Huang…",
+        "source": "AI News Flash",
+        "lien": "https://podcasts.apple.com/us/podcast/11-12-00-00-utc-nvidia-follow-up-board-reportedly-preparing/id1873892136?i=1000801337179&uo=4",
+        "date": "2026-11-12T00:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/1f/b6/b91fb627-f6de-9e77-e614-ef36393402d6/mza_13059665318982617720.png/160x160bb.jpg",
+        "duree_min": 2,
+        "extrait": "AI News Flash for November 12, 2026 at 00:00 UTC. Topics: 1. Nvidia follow-up. Board reportedly preparing to remove CEO Huang https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html https://techcrunch.com/2026/11/11/nvidias-stock",
+        "description": "Mise à jour sur Nvidia : le conseil d'administration envisagerait de destituer le PDG Jensen Huang, avec des sources de CNBC et TechCrunch."
+      },
+      {
+        "titre": "AI Goes Mainstream Amid Uncertainty, Google Brings Gemini to Healthcare, AI Could Widen Global Job Gap, SoftBank Posts Seven Billion Loss, and more...",
+        "source": "AI News Daily",
+        "lien": "https://podcasts.apple.com/us/podcast/ai-goes-mainstream-amid-uncertainty-google-brings-gemini/id1718949350?i=1000801301022&uo=4",
+        "date": "2026-11-11T21:56:51+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/5e/98/0e5e986a-3ddd-a16a-126d-3d7a54198449/mza_654059649586223286.jpg/160x160bb.jpg",
+        "duree_min": 9,
+        "extrait": "(0:10): AI Goes Mainstream, but Its Costs, Risks and Societal Impact Are Still Unclear(1:47): Google Launches Gemini for Healthcare to Tackle Fragmented Records and Administrative Burden(3:48): AI Could Boost Jobs in Developing Economies—but Unequal A",
+        "description": "Synthèse des dernières nouvelles IA, incluant le déploiement de Gemini dans le secteur de la santé, les risques d'élargissement du fossé d'emploi mondial et la perte de sept milliards de dollars de SoftBank."
+      },
+      {
+        "titre": "Gemini 4 Carbon GA, Claude Sheets — AI News Nov 11",
+        "source": "AI Engineering Briefing: Daily AI News for Software Engineers",
+        "lien": "https://podcasts.apple.com/us/podcast/gemini-4-carbon-ga-claude-sheets-ai-news-nov-11/id6817748791?i=1000801271807&uo=4",
+        "date": "2026-11-11T18:26:01+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/a6/64/4ba66456-334f-7aff-3f96-6b1ffaf487b1/mza_4141795612631486120.jpg/160x160bb.jpg",
+        "duree_min": 12,
+        "extrait": "- Google's Gemini 4 Carbon goes generally available at $2/$10 per million tokens, plus the /swarm multi-agent preview in Antigravity - Anthropic turns Claude into an office suite: Sheets, Whiteboards, Meetings, Data, and interactive connectors - OpenAI",
+        "description": "Annonce de la disponibilité générale de Gemini 4 Carbon et de la preview multi‑agents /swarm, ainsi que de la transformation de Claude en suite bureautique (Sheets, Whiteboards, Meetings, Data)."
+      },
+      {
+        "titre": "OpenAI: The Calculator Wants Equity",
+        "source": "The AI Bot Roast | Latest AI News in Under 2 Minutes",
+        "lien": "https://podcasts.apple.com/us/podcast/openai-the-calculator-wants-equity/id6811663653?i=1000801270477&uo=4",
+        "date": "2026-11-11T18:00:33+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d4/3d/b7/d43db7d4-f9d8-0b5d-e0cb-b3c4de86db50/mza_9926746322084030971.jpg/160x160bb.jpg",
+        "duree_min": null,
+        "extrait": "OpenAI’s reported loss outpaces its revenue, while Anthropic is seeking a public-market valuation of up to $1.4 trillion. The calculator has questions.",
+        "description": "Résumé ultra‑court des actualités IA, mentionnant la perte financière d'OpenAI et la valorisation prévue d'Anthropic à 1,4 trillion de dollars."
+      }
+    ]
+  }
+}

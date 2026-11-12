@@ -1,9 +1,9 @@
 {
-  "genere_a": "2026-11-11T16:50+01:00",
+  "genere_a": "2026-11-12T06:31+01:00",
   "periode": {
     "du": "2026-11-08",
-    "au": "2026-11-11",
-    "jours": 4
+    "au": "2026-11-12",
+    "jours": 5
   },
   "precedente_jours": 0,
   "regions": [
@@ -11,102 +11,121 @@
     "fr",
     "us"
   ],
-  "synthese": "Cette semaine, l'IA a continué de dominer les débats stratégiques et financiers, avec une forte activité de financement aux États-Unis et en Europe, tandis que la Chine mise sur le développement de puces et de modèles de grande taille. Les régulateurs français, australiens et américains intensifient leurs cadres législatifs, notamment autour de la protection des enfants et de la transparence publicitaire. Anthropic se démarque par son lancement de modèles Claude Fable 5.2 et Mythos 5.2 et vise une IPO record, alors que Nvidia reste sous pression suite à des enquêtes liées à l'espionnage. Les préoccupations environnementales et de consommation énergétique des data‑centers restent présentes dans le discours francophone.",
+  "synthese": "La semaine a été marquée par une flambée des financements IA, avec Anthropic au centre d’une IPO très attendue et des levées de fonds record aux États-Unis et en Europe. La régulation s’intensifie : la France et l’Australie envisagent des cadres pour l’usage chez les enfants, plusieurs États américains débattent de lois sur la transparence et la publicité trompeuse, tandis que la Chine pousse à la scission d’unités de puces IA. Les géants technologiques lancent de nouveaux modèles (Claude Fable 5.2, Mythos 5.2, Gemini 4 Carbon) et explorent l’IA physique (robots, agents). Les tensions autour de Nvidia s’accentuent avec des discussions de conseil d’administration, et les débats sur la sécurité et le contrôle des IA (kill‑switch, Hinton) restent vifs. Enfin, la vision de Baidu sur les « organisations intelligentes » et les projets d’agents IA de ByteDance annoncent une nouvelle phase d’intégration de l’IA dans les entreprises.",
   "montants": [
     {
-      "nom": "Lancements de modèles Anthropic (Claude Fable 5.2 / Mythos 5.2)",
-      "explication": "Anthropic a présenté deux nouveaux modèles plus puissants et moins coûteux, renforçant sa position sur le marché et préparant une introduction en bourse très attendue. Cette dynamique alimente l'intérêt des investisseurs et la couverture médiatique.",
+      "nom": "Anthropic IPO",
+      "explication": "Anthropic attire l’attention avec des prévisions de valorisation record et des dépenses en hausse de 79 % en octobre, suscitant des débats sur une possible bulle IA. Cette dynamique financière alimente les attentes du marché pour une entrée en bourse majeure.",
+      "regions": [
+        "us",
+        "fr",
+        "cn"
+      ]
+    },
+    {
+      "nom": "Régulation IA en Europe et US",
+      "explication": "La France et l’Australie proposent des cadres restrictifs pour l’usage de l’IA chez les enfants, tandis que plusieurs États américains (Ohio, Pennsylvanie) adoptent ou débattent de lois sur la transparence et la publicité trompeuse, reflétant une montée des préoccupations législatives.",
       "regions": [
         "fr",
         "us"
       ]
     },
     {
-      "nom": "Financements massifs et IPO IA aux US",
-      "explication": "Des tours de fonds importants (CoreWeave, Anthropic, Lumbra) et des valorisations record ont été annoncés, indiquant un regain d’appétit des capitaux pour les acteurs IA malgré les craintes de bulle. Les marchés boursiers réagissent positivement aux résultats de CoreWeave et aux prévisions d'IPO.",
-      "regions": [
-        "us"
-      ]
-    },
-    {
-      "nom": "Régulation de l'IA (France, Australie, États‑Unis)",
-      "explication": "Des initiatives législatives visent à encadrer l’usage de l’IA, notamment la protection des enfants en France, la création d’un organe de régulation en Australie et des projets de lois sur la transparence et la publicité trompeuse aux États‑Unis. Ces mesures reflètent une prise de conscience croissante des risques sociétaux.",
-      "regions": [
-        "fr",
-        "us"
-      ]
-    },
-    {
-      "nom": "Déploiement et compétition sur les puces IA en Chine",
-      "explication": "Alibaba scinde son unité Pingtouge pour une IPO, AMD dévoile de nouveaux processeurs et les fabricants chinois intensifient leurs annonces de puces IA, montrant une course technologique pour soutenir la demande de calcul intensif.",
+      "nom": "Scission et IPO de puces IA en Chine",
+      "explication": "Alibaba scinde son unité Pingtouge pour une IPO indépendante, et d’autres acteurs comme T‑Head déposent des dossiers d’introduction en bourse, indiquant un renforcement de l’écosystème matériel IA chinois.",
       "regions": [
         "cn"
       ]
     },
     {
-      "nom": "Enquêtes et controverses autour de Nvidia",
-      "explication": "Des investigations sur des liens présumés d’espionnage chinois impliquant le PDG de Nvidia ont été lancées, alimentant les débats sur la sécurité et la gouvernance des géants de la technologie.",
+      "nom": "Nouveaux modèles IA ultra‑puissants",
+      "explication": "Anthropic lance Claude Fable 5.2 et Mythos 5.2, Google ouvre Gemini 4 Carbon, et OpenAI ajoute des profils d’entreprise et des agents, montrant une course à la puissance et à la spécialisation des modèles.",
       "regions": [
+        "us",
+        "fr",
+        "cn"
+      ]
+    },
+    {
+      "nom": "Vision des organisations intelligentes",
+      "explication": "Baidu, via Robin Li, promeut le passage des grands modèles à des « organisations intelligentes », signalant une évolution vers l’intégration de l’IA dans la structure même des entreprises.",
+      "regions": [
+        "cn"
+      ]
+    },
+    {
+      "nom": "Débats sur la sécurité et le contrôle de l’IA",
+      "explication": "Des figures comme Hinton réclament des contrôles avant diffusion, OpenAI dévoile un kill‑switch, et les législateurs américains envisagent des restrictions, reflétant une préoccupation croissante pour les risques d’IA hors‑contrôle.",
+      "regions": [
+        "us",
         "fr"
       ]
     }
   ],
   "retombes": [
     {
-      "nom": "Débats sur l’énergie des data‑centers (fr)",
-      "explication": "Les préoccupations environnementales liées à la consommation d’énergie des data‑centers, très présentes le 8 novembre, sont moins évoquées dans les titres récents, indiquant un déplacement de l’attention vers d’autres enjeux comme la régulation et les financements.",
+      "nom": "Scandale espionnage Nvidia",
+      "explication": "Les enquêtes sur des liens supposés entre le PDG de Nvidia et une espionne chinoise dominaient les titres le 8 novembre, mais ils ont disparu des discussions récentes, indiquant un désintérêt ou une résolution du sujet.",
       "regions": [
         "fr"
       ]
     },
     {
-      "nom": "Poursuites liées aux droits d’auteur musicaux (us)",
-      "explication": "Les questions juridiques autour du droit d’auteur musical, très présentes le 8 novembre aux États‑Unis, n’apparaissent plus dans les titres des jours suivants, signalant un moindre focus médiatique.",
+      "nom": "Débat sur le « cocktail sexe‑espionnage‑bulle IA »",
+      "explication": "Ce thème sensationnel était présent dans les titres du 8 novembre mais n’apparaît plus, montrant qu’il a perdu de l’attention au profit de sujets plus structurels.",
+      "regions": [
+        "fr"
+      ]
+    },
+    {
+      "nom": "Discussion sur les investissements IA de 2000 (Cisco)",
+      "explication": "Une référence historique aux cours de Cisco en 2000 a été citée le 8 novembre, mais n’est plus mentionnée, signalant un retour aux actualités plus contemporaines.",
       "regions": [
         "us"
       ]
     }
   ],
   "a_surveiller": [
-    "Évolution des enquêtes sur Nvidia et leurs impacts sur la confiance des investisseurs.",
-    "Progression des régulations IA en France et en Australie, notamment les restrictions pour les enfants.",
-    "Valorisation et performance de l’IPO d’Anthropic après le lancement de ses nouveaux modèles.",
-    "Développement et adoption des nouvelles puces IA annoncées par Alibaba et AMD en Chine."
+    "L’évolution de l’IPO d’Anthropic et son impact sur le marché des IA.",
+    "Les nouvelles législations américaines et européennes sur la transparence et la publicité IA.",
+    "Les progrès de la scission d’unités de puces IA en Chine et leurs effets sur la chaîne d’approvisionnement.",
+    "Les réactions du conseil d’administration de Nvidia face aux tensions internes.",
+    "Le déploiement d’agents IA par ByteDance et la concrétisation de la vision d’organisations intelligentes de Baidu."
   ],
   "acteurs": [
     {
       "nom": "Anthropic",
-      "mentions": 47,
+      "mentions": 55,
       "mentions_precedentes": 0
     },
     {
       "nom": "Nvidia",
-      "mentions": 23,
+      "mentions": 34,
       "mentions_precedentes": 0
     },
     {
       "nom": "OpenAI",
-      "mentions": 15,
+      "mentions": 16,
       "mentions_precedentes": 0
     },
     {
       "nom": "Google",
-      "mentions": 13,
-      "mentions_precedentes": 0
-    },
-    {
-      "nom": "Apple",
-      "mentions": 11,
+      "mentions": 16,
       "mentions_precedentes": 0
     },
     {
       "nom": "Meta",
-      "mentions": 10,
+      "mentions": 12,
+      "mentions_precedentes": 0
+    },
+    {
+      "nom": "Apple",
+      "mentions": 12,
       "mentions_precedentes": 0
     },
     {
       "nom": "Microsoft",
-      "mentions": 8,
+      "mentions": 9,
       "mentions_precedentes": 0
     },
     {
@@ -116,11 +135,16 @@
     },
     {
       "nom": "xAI",
-      "mentions": 3,
+      "mentions": 5,
       "mentions_precedentes": 0
     },
     {
       "nom": "Alibaba",
+      "mentions": 4,
+      "mentions_precedentes": 0
+    },
+    {
+      "nom": "ByteDance",
       "mentions": 3,
       "mentions_precedentes": 0
     },
@@ -130,7 +154,7 @@
       "mentions_precedentes": 0
     },
     {
-      "nom": "ByteDance",
+      "nom": "DeepSeek",
       "mentions": 1,
       "mentions_precedentes": 0
     },
