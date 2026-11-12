@@ -12,7 +12,8 @@
       "https://tech-insider.org/": "https://tech-insider.org/feed/",
       "The Information": "https://www.theinformation.com/feed",
       "Cisco Blogs": "https://blogs.cisco.com/feed"
-    }
+    },
+    "cn": {}
   },
   "propositions": [
     {
@@ -67,6 +68,166 @@
       "categorie": "média tech",
       "raison": "2 articles IA sur 10, focus sécurité et deepfake, apporte une perspective technique utile.",
       "trouvee_le": "2026-11-08T23:27+01:00"
+    },
+    {
+      "region": "fr",
+      "nom": "Le Monde Informatique",
+      "site": "https://www.lemondeinformatique.fr",
+      "domaine": "lemondeinformatique.fr",
+      "apparitions": 5,
+      "flux": "https://www.lemondeinformatique.fr/rss.xml",
+      "articles_72h": 25,
+      "articles_ia_72h": 14,
+      "exemples": [
+        "Puces Nvidia : les entreprises chinoises d’IA anticipent de nouvelles restrictions américaines",
+        "IA : Meta lance Muse Ember, un modèle léger pour réduire les coûts des agents",
+        "Anthropic en Bourse : les particuliers pourraient acheter 250 M$ d’actions dès le premier jour"
+      ],
+      "categorie": "média tech",
+      "raison": "Le Monde Informatique publie régulièrement des articles d'IA (14 sur 25 en 72 h) et propose des analyses de qualité sur le sujet.",
+      "trouvee_le": "2026-11-12T17:53+01:00"
+    },
+    {
+      "region": "us",
+      "nom": "Substack",
+      "site": "https://douglevin.substack.com",
+      "domaine": "substack.com",
+      "apparitions": 5,
+      "flux": "https://douglevin.substack.com/feed",
+      "articles_72h": 1,
+      "articles_ia_72h": 1,
+      "exemples": [
+        "AI Agents: Brilliant in the Demo, Unreliable in Production"
+      ],
+      "categorie": "blog/newsletter",
+      "raison": "Le flux Substack, bien que limité à 1 article, est dédié à l'IA et offre un point de vue approfondi et indépendant.",
+      "trouvee_le": "2026-11-12T17:53+01:00"
+    },
+    {
+      "region": "us",
+      "nom": "SiliconANGLE",
+      "site": "https://siliconangle.com",
+      "domaine": "siliconangle.com",
+      "apparitions": 5,
+      "flux": "https://siliconangle.com/feed",
+      "articles_72h": 30,
+      "articles_ia_72h": 29,
+      "exemples": [
+        "Agile Robots raises $500M funding led by SoftBank at $8.5B valuation",
+        "Vanta launches AI Governance, Risk Quantification and a Vanta Agent for entire jobs",
+        "With $23M in funding, Luminal is the latest startup to put Nvidia’s CUDA moat in its crosshairs"
+      ],
+      "categorie": "média tech",
+      "raison": "SiliconANGLE consacre la quasi-totalité de son flux à l'IA (29 sur 30 articles), ce qui en fait une source très pertinente pour la veille.",
+      "trouvee_le": "2026-11-12T17:53+01:00"
+    },
+    {
+      "region": "us",
+      "nom": "The Guardian (IA)",
+      "site": "https://www.theguardian.com",
+      "domaine": "theguardian.com",
+      "apparitions": 0,
+      "flux": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
+      "articles_72h": 20,
+      "articles_ia_72h": 16,
+      "exemples": [
+        "From washing dishes at Denny’s to rockstar of AI: the rise and fall of Nvidia’s Jensen Huang",
+        "US workers are fighting to protect their jobs from AI – and winning",
+        "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story"
+      ],
+      "categorie": "média généraliste",
+      "raison": "Le Guardian publie régulièrement des articles sur l'IA (16/20) et reste une source fiable et reconnue.",
+      "trouvee_le": "2026-11-12T17:54+01:00"
+    },
+    {
+      "region": "us",
+      "nom": "The Decoder",
+      "site": "https://the-decoder.com",
+      "domaine": "the-decoder.com",
+      "apparitions": 0,
+      "flux": "https://the-decoder.com/feed/",
+      "articles_72h": 10,
+      "articles_ia_72h": 9,
+      "exemples": [
+        "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
+        "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
+        "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing"
+      ],
+      "categorie": "média spécialisé IA",
+      "raison": "The Decoder se consacre majoritairement à l'IA (9/10) et propose des analyses de qualité.",
+      "trouvee_le": "2026-11-12T17:54+01:00"
+    },
+    {
+      "region": "us",
+      "nom": "MarkTechPost",
+      "site": "https://www.marktechpost.com",
+      "domaine": "marktechpost.com",
+      "apparitions": 0,
+      "flux": "https://www.marktechpost.com/feed/",
+      "articles_72h": 10,
+      "articles_ia_72h": 5,
+      "exemples": [
+        "Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens",
+        "Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension",
+        "MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI"
+      ],
+      "categorie": "média tech",
+      "raison": "MarkTechPost offre une couverture régulière de l'IA (5/10) avec un focus technique pertinent.",
+      "trouvee_le": "2026-11-12T17:54+01:00"
+    },
+    {
+      "region": "us",
+      "nom": "Bloomberg Technology",
+      "site": "https://www.bloomberg.com",
+      "domaine": "bloomberg.com",
+      "apparitions": 0,
+      "flux": "https://feeds.bloomberg.com/technology/news.rss",
+      "articles_72h": 20,
+      "articles_ia_72h": 10,
+      "exemples": [
+        "With Jensen Huang Out, What’s Next For Nvidia, China and AI Race? Live Q&A",
+        "Jensen Huang on AI Optimism and Nvidia’s Next CEO",
+        "Trump Backs Lutnick Despite Uproar Over Nvidia Chip Controls"
+      ],
+      "categorie": "média tech",
+      "raison": "Bloomberg Technology diffuse fréquemment des contenus sur l'IA (10/20) et est une source fiable.",
+      "trouvee_le": "2026-11-12T17:54+01:00"
+    },
+    {
+      "region": "us",
+      "nom": "The Wall Street Journal (Tech)",
+      "site": "https://www.wsj.com",
+      "domaine": "wsj.com",
+      "apparitions": 0,
+      "flux": "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
+      "articles_72h": 24,
+      "articles_ia_72h": 12,
+      "exemples": [
+        "Who Is Colette Kress? Meet Nvidia’s New Interim CEO",
+        "A Timeline of the Scandals That Brought Down Nvidia CEO Jensen Huang",
+        "Nvidia Board Must Craft Epic Job Description for New CEO"
+      ],
+      "categorie": "média tech",
+      "raison": "The Wall Street Journal (Tech) propose un bon nombre d'articles IA (12/24) et reste une référence sérieuse.",
+      "trouvee_le": "2026-11-12T17:54+01:00"
+    },
+    {
+      "region": "fr",
+      "nom": "Le Figaro (High-Tech)",
+      "site": "https://www.lefigaro.fr",
+      "domaine": "lefigaro.fr",
+      "apparitions": 0,
+      "flux": "https://www.lefigaro.fr/rss/figaro_secteur_high-tech.xml",
+      "articles_72h": 8,
+      "articles_ia_72h": 6,
+      "exemples": [
+        "En accord avec le gouvernement, Microsoft s’implique dans la surveillance des risques liés aux IA",
+        "L’«AI Rebounding», ou quand des salariés remplacés par l’IA sont finalement… rappelés par leur employeur",
+        "IA, mails, télé, cybersécurité… Orange lance une «super-app» mobile pour réunir tous ses services"
+      ],
+      "categorie": "média tech",
+      "raison": "Le Figaro (High-Tech) offre une proportion élevée d'articles IA (6/8) et est une source fiable francophone.",
+      "trouvee_le": "2026-11-12T17:54+01:00"
     }
   ],
   "refusees": []
