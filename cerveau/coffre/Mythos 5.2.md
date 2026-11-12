@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-10-t4.md"
+source_file: "feuilletons/f-0003.md"
 type: "concept"
 community: "écosystème Anthropic"
 tags:
@@ -11,6 +11,8 @@ tags:
 # Mythos 5.2
 
 ## Connections
+- [[Anthropic]] - `conceptually_related_to` [EXTRACTED]
 - [[Anthropic]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-09  Entreprise]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/écosystème_Anthropic

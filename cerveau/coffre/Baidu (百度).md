@@ -12,6 +12,6 @@ tags:
 
 ## Connections
 - [[Apollo Go (萝卜快跑)]] - `references` [EXTRACTED]
-- [[Robin Li (李彦宏)]] - `references` [EXTRACTED]
+- [[Robin Li]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Baidu_et_IA_incarnée

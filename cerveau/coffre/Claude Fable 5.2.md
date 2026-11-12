@@ -12,5 +12,6 @@ tags:
 
 ## Connections
 - [[Anthropic]] - `conceptually_related_to` [EXTRACTED]
+- [[Veille États-Unis 2026-11-09  Entreprise]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/écosystème_Anthropic

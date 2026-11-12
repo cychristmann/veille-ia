@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t2.md"
 type: "code"
-community: "plateformes et entreprises IA"
+community: "écosystème microsoft"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/plateformes_et_entreprises_IA
+  - community/écosystème_microsoft
 ---
 
 # Muse Ember
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Meta]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/plateformes_et_entreprises_IA
+#graphify/code #graphify/EXTRACTED #community/écosystème_microsoft

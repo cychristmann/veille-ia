@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-10-t3.md"
 type: "concept"
-community: "IA en entreprise et RH"
+community: "avancées matérielles nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/IA_en_entreprise_et_RH
+  - community/avancées_matérielles_nvidia
 ---
 
 # IA et RH
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-10]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/IA_en_entreprise_et_RH
+#graphify/concept #graphify/EXTRACTED #community/avancées_matérielles_nvidia

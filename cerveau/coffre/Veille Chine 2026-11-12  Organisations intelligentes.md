@@ -11,6 +11,6 @@ tags:
 # Veille Chine 2026-11-12 : Organisations intelligentes
 
 ## Connections
-- [[Robin Li (李彦宏)]] - `references` [EXTRACTED]
+- [[Robin Li]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Baidu_et_IA_incarnée

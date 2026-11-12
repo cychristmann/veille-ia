@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-12-1.md"
 type: "concept"
-community: "IA en entreprise et RH"
+community: "avancées matérielles nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/IA_en_entreprise_et_RH
+  - community/avancées_matérielles_nvidia
 ---
 
 # Alice Huang
@@ -14,4 +14,4 @@ tags:
 - [[Jensen Huang]] - `references` [EXTRACTED]
 - [[Pékin]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/IA_en_entreprise_et_RH
+#graphify/concept #graphify/EXTRACTED #community/avancées_matérielles_nvidia

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-08-t2.md"
 type: "concept"
-community: "matériel et géopolitique IA"
+community: "avancées matérielles nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/matériel_et_géopolitique_IA
+  - community/avancées_matérielles_nvidia
 ---
 
 # Nvidia
@@ -36,4 +36,4 @@ tags:
 - [[Veille États-Unis 2026-11-11  Financement et Bourse de l'IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-12  Financement et marché de l'IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/matériel_et_géopolitique_IA
+#graphify/concept #graphify/EXTRACTED #community/avancées_matérielles_nvidia

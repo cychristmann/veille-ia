@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t3.md"
 type: "document"
-community: "IA défense et sécurité"
+community: "veille ia états-unis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/IA_défense_et_sécurité
+  - community/veille_ia_états-unis
 ---
 
 # Veille États-Unis 2026-11-12 : IA dans la défense et la sécurité
@@ -14,4 +14,4 @@ tags:
 - [[Helsing]] - `references` [EXTRACTED]
 - [[Shield AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/IA_défense_et_sécurité
+#graphify/document #graphify/EXTRACTED #community/veille_ia_états-unis

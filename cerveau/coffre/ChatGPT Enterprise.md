@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t2.md"
 type: "code"
-community: "plateformes et entreprises IA"
+community: "recherche sur l'ia openai"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/plateformes_et_entreprises_IA
+  - community/recherche_sur_lia_openai
 ---
 
 # ChatGPT Enterprise
@@ -15,4 +15,4 @@ tags:
 - [[Amazon Bedrock]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/plateformes_et_entreprises_IA
+#graphify/code #graphify/EXTRACTED #community/recherche_sur_lia_openai

@@ -13,8 +13,8 @@ tags:
 ## Connections
 - [[Alibaba AI]] - `references` [EXTRACTED]
 - [[Bitcoin Miners AI]] - `references` [EXTRACTED]
+- [[Gemini Decisions]] - `references` [EXTRACTED]
 - [[Google Gemini CarPlay]] - `references` [EXTRACTED]
-- [[Google Gemini Decisions]] - `references` [EXTRACTED]
 - [[Harbor Claris]] - `references` [EXTRACTED]
 - [[JioStar]] - `references` [EXTRACTED]
 - [[Local LLM Server]] - `references` [EXTRACTED]

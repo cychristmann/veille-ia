@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t4.md"
 type: "concept"
-community: "produits IA des Big Tech"
+community: "écosystème Anthropic"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/produits_IA_des_Big_Tech
+  - community/écosystème_Anthropic
 ---
 
 # Nolej
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-09  Applications sociétales et culturelles de l’IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/produits_IA_des_Big_Tech
+#graphify/concept #graphify/EXTRACTED #community/écosystème_Anthropic

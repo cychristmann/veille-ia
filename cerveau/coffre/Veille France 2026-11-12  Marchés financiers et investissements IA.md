@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-12-t1.md"
 type: "document"
-community: "matériel et géopolitique IA"
+community: "infrastructure cloud coreweave"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/matériel_et_géopolitique_IA
+  - community/infrastructure_cloud_coreweave
 ---
 
 # Veille France 2026-11-12 : Marchés financiers et investissements IA
@@ -18,4 +18,4 @@ tags:
 - [[SpaceX]] - `references` [EXTRACTED]
 - [[UBS]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/matériel_et_géopolitique_IA
+#graphify/document #graphify/EXTRACTED #community/infrastructure_cloud_coreweave

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t4.md"
 type: "concept"
-community: "plateformes et entreprises IA"
+community: "recherche sur l'ia openai"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/plateformes_et_entreprises_IA
+  - community/recherche_sur_lia_openai
 ---
 
 # ChatGPT
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/plateformes_et_entreprises_IA
+#graphify/concept #graphify/EXTRACTED #community/recherche_sur_lia_openai

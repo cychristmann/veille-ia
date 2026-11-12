@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t3.md"
 type: "concept"
-community: "IA défense et sécurité"
+community: "veille ia états-unis"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/IA_défense_et_sécurité
+  - community/veille_ia_états-unis
 ---
 
 # Helsing
@@ -14,4 +14,4 @@ tags:
 - [[Palantir]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-12  IA dans la défense et la sécurité]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/IA_défense_et_sécurité
+#graphify/concept #graphify/EXTRACTED #community/veille_ia_états-unis

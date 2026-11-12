@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t5.md"
 type: "concept"
-community: "produits IA des Big Tech"
+community: "actualités de google"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/produits_IA_des_Big_Tech
+  - community/actualités_de_google
 ---
 
 # Adobe
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-09  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/produits_IA_des_Big_Tech
+#graphify/concept #graphify/EXTRACTED #community/actualités_de_google

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-08-t3.md"
 type: "document"
-community: "plateformes et entreprises IA"
+community: "recherche sur l'ia openai"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/plateformes_et_entreprises_IA
+  - community/recherche_sur_lia_openai
 ---
 
 # Veille France 2026-11-08 : Régulation, politique et enjeux sociétaux
@@ -14,4 +14,4 @@ tags:
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/plateformes_et_entreprises_IA
+#graphify/document #graphify/EXTRACTED #community/recherche_sur_lia_openai

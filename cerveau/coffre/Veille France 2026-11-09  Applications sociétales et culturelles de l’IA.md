@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t4.md"
 type: "document"
-community: "produits IA des Big Tech"
+community: "écosystème Anthropic"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/produits_IA_des_Big_Tech
+  - community/écosystème_Anthropic
 ---
 
 # Veille France 2026-11-09 : Applications sociétales et culturelles de l’IA
@@ -17,4 +17,4 @@ tags:
 - [[Siri]] - `references` [EXTRACTED]
 - [[Take Two]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/produits_IA_des_Big_Tech
+#graphify/document #graphify/EXTRACTED #community/écosystème_Anthropic

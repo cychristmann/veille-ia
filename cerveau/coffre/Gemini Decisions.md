@@ -1,16 +1,18 @@
 ---
-source_file: "feuilletons/f-0010.md"
+source_file: "veilles/veille-ia-fr-2026-11-12-t2.md"
 type: "concept"
-community: "produits IA des Big Tech"
+community: "actualités de google"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/produits_IA_des_Big_Tech
+  - community/actualités_de_google
 ---
 
 # Gemini Decisions
 
 ## Connections
 - [[Feuilleton Google étend la gamme Gemini]] - `references` [EXTRACTED]
+- [[Google AI Studio]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-12]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/produits_IA_des_Big_Tech
+#graphify/concept #graphify/EXTRACTED #community/actualités_de_google

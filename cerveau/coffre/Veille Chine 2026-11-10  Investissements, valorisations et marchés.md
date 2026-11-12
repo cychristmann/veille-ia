@@ -12,6 +12,6 @@ tags:
 
 ## Connections
 - [[Anthropic]] - `references` [EXTRACTED]
-- [[高盛 (Goldman Sachs)]] - `references` [EXTRACTED]
+- [[Goldman Sachs]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/écosystème_Anthropic

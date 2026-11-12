@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t6.md"
 type: "concept"
-community: "stratégie et technologie IA"
+community: "actualités de google"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/stratégie_et_technologie_IA
+  - community/actualités_de_google
 ---
 
 # Tencent
@@ -17,4 +17,4 @@ tags:
 - [[Veille États-Unis 2026-11-10  Marché, concurrence et tendances]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-12  Applications industrielles et commerciales de l'IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/stratégie_et_technologie_IA
+#graphify/concept #graphify/EXTRACTED #community/actualités_de_google

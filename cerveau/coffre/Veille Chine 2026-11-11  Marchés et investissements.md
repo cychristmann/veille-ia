@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-11-t1.md"
 type: "document"
-community: "investissements marché chinois"
+community: "infrastructure cloud coreweave"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/investissements_marché_chinois
+  - community/infrastructure_cloud_coreweave
 ---
 
 # Veille Chine 2026-11-11 : Marchés et investissements
@@ -18,4 +18,4 @@ tags:
 - [[Nanling Technology]] - `references` [EXTRACTED]
 - [[Shanghai Film]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/investissements_marché_chinois
+#graphify/document #graphify/EXTRACTED #community/infrastructure_cloud_coreweave

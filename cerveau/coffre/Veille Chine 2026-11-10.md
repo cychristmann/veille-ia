@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "document"
-community: "plateformes et entreprises IA"
+community: "suite créative adobe"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/plateformes_et_entreprises_IA
+  - community/suite_créative_adobe
 ---
 
 # Veille Chine 2026-11-10
@@ -16,4 +16,4 @@ tags:
 - [[Microsoft]] - `references` [EXTRACTED]
 - [[Siemens]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/plateformes_et_entreprises_IA
+#graphify/document #graphify/EXTRACTED #community/suite_créative_adobe

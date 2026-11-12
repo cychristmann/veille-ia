@@ -104,8 +104,20 @@ jobs:
         continue-on-error: true
         timeout-minutes: 15
         env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }} # détection des doublons
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: uv run python cerveau.py
+
+      # Agent interprète : lit le graphe sur 7 jours et rédige « Analyse du jour »
+      # (cerveau/analyses + note Obsidian). Facultatif, comme le cerveau.
+      - name: Interpréter le graphe (analyse du jour)
+        if: steps.decision.outputs.lancer == 'true'
+        continue-on-error: true
+        timeout-minutes: 10
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # secours
+        run: uv run python interprete.py
 
       - name: Enregistrer la veille dans le dépôt
         if: steps.decision.outputs.lancer == 'true'

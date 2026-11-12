@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t5.md"
 type: "document"
-community: "produits IA des Big Tech"
+community: "actualités de google"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/produits_IA_des_Big_Tech
+  - community/actualités_de_google
 ---
 
 # Veille France 2026-11-09 : Autres articles
@@ -18,4 +18,4 @@ tags:
 - [[Google]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/produits_IA_des_Big_Tech
+#graphify/document #graphify/EXTRACTED #community/actualités_de_google

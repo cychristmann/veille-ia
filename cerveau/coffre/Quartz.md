@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0009.md"
 type: "concept"
-community: "plateformes et entreprises IA"
+community: "recherche sur l'ia openai"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/plateformes_et_entreprises_IA
+  - community/recherche_sur_lia_openai
 ---
 
 # Quartz
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[OpenAI]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/plateformes_et_entreprises_IA
+#graphify/concept #graphify/EXTRACTED #community/recherche_sur_lia_openai

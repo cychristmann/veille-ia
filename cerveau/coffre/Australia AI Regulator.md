@@ -1,16 +1,17 @@
 ---
-source_file: "feuilletons/f-0005.md"
+source_file: "veilles/veille-ia-fr-2026-11-10-t1.md"
 type: "concept"
-community: "régulation de l'IA"
+community: "gouvernance et politiques IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/régulation_de_lIA
+  - community/gouvernance_et_politiques_IA
 ---
 
 # Australia AI Regulator
 
 ## Connections
 - [[RFI]] - `cites` [EXTRACTED]
+- [[Veille France 2026-11-10  Régulation et gouvernance]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/régulation_de_lIA
+#graphify/concept #graphify/EXTRACTED #community/gouvernance_et_politiques_IA

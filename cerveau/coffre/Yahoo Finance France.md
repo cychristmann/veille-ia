@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0007.md"
 type: "concept"
-community: "infrastructure et finance IA"
+community: "veille ia états-unis"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/infrastructure_et_finance_IA
+  - community/veille_ia_états-unis
 ---
 
 # Yahoo Finance France
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Infineon]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/infrastructure_et_finance_IA
+#graphify/concept #graphify/EXTRACTED #community/veille_ia_états-unis

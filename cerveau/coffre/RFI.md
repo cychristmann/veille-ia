@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0005.md"
 type: "concept"
-community: "régulation de l'IA"
+community: "gouvernance et politiques IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/régulation_de_lIA
+  - community/gouvernance_et_politiques_IA
 ---
 
 # RFI
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Australia AI Regulator]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/régulation_de_lIA
+#graphify/concept #graphify/EXTRACTED #community/gouvernance_et_politiques_IA

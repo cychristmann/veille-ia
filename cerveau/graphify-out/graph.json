@@ -61,7 +61,7 @@
      "adobe_creative_cloud",
      "openai",
      "veilles_veille_ia_fr_2026_11_08_t1_google",
-     "anthropic_claude"
+     "claude"
     ],
     "relation": "participate_in",
     "confidence": "EXTRACTED",
@@ -84,8 +84,8 @@
     "id": "anthropic_frontier_model_release",
     "label": "Anthropic Frontier Model Release",
     "nodes": [
-     "anthropic_claude_fable_5_2",
-     "anthropic_claude_mythos_5_2"
+     "claude_fable_5_2",
+     "claude_mythos_5_2"
     ],
     "relation": "form",
     "confidence": "EXTRACTED",
@@ -150,8 +150,7 @@
     "label": "Media coverage of OpenAI updates",
     "nodes": [
      "feuilletons_f0009_fr_qz_com",
-     "feuilletons_f0009_numerama",
-     "feuilletons_f0009_quartz"
+     "feuilletons_f0009_numerama"
     ],
     "relation": "participate_in",
     "confidence": "EXTRACTED",
@@ -229,7 +228,7 @@
     "label": "Entities involved in AI market activity",
     "nodes": [
      "anthropic",
-     "alibaba_thead",
+     "veilles_pingtouge",
      "infineon",
      "bay_startup"
     ],
@@ -490,13 +489,29 @@
  },
  "nodes": [
   {
+   "id": "dossiers_2026_11_12_3_dossier_ia_course",
+   "label": "Dossier : Course à l'IA entre États‑Unis et Chine",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": "2026-11-12",
+   "community": 3,
+   "community_name": "avancées matérielles nvidia",
+   "contributor": null,
+   "file_type": "document",
+   "norm_label": "dossier : course a l'ia entre etats‐unis et chine",
+   "rationale": null,
+   "source_file": "dossiers/2026-11-12-3.md",
+   "source_location": null,
+   "source_url": null
+  },
+  {
    "id": "feuilletons_f_0001_feuilleton_nvidia_crise",
    "label": "Feuilleton : Crise de direction chez Nvidia",
    "_origin": "semantic",
    "author": null,
    "captured_at": "2026-11-12",
    "community": 3,
-   "community_name": "IA en entreprise et RH",
+   "community_name": "avancées matérielles nvidia",
    "contributor": null,
    "file_type": "document",
    "norm_label": "feuilleton : crise de direction chez nvidia",
@@ -506,18 +521,120 @@
    "source_url": null
   },
   {
-   "id": "dossiers_2026_11_12_3_dossier_ia_course",
-   "label": "Dossier : Course à l'IA entre États‑Unis et Chine",
+   "id": "veilles_veille_ia_fr_2026_11_09_t4_cern",
+   "label": "CERN",
    "_origin": "semantic",
    "author": null,
-   "captured_at": "2026-11-12",
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
+   "captured_at": null,
+   "community": 0,
+   "community_name": "écosystème Anthropic",
+   "contributor": null,
+   "file_type": "concept",
+   "metadata": {
+    "graphify_reference_stub": true
+   },
+   "norm_label": "cern",
+   "rationale": "Referenced regarding zeptoverse research.",
+   "source_file": "veilles/veille-ia-fr-2026-11-09-t4.md",
+   "source_location": null,
+   "source_url": null
+  },
+  {
+   "id": "veilles_veille_ia_fr_2026_11_09_t4_goldman_sachs",
+   "label": "Goldman Sachs",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 0,
+   "community_name": "écosystème Anthropic",
+   "contributor": null,
+   "file_type": "concept",
+   "metadata": {
+    "graphify_reference_stub": true
+   },
+   "norm_label": "goldman sachs",
+   "rationale": "Referenced regarding AI funding demand.",
+   "source_file": "veilles/veille-ia-fr-2026-11-09-t4.md",
+   "source_location": null,
+   "source_url": null,
+   "sources": [
+    "veilles/veille-ia-fr-2026-11-09-t4.md",
+    "veilles/veille-ia-cn-2026-11-10-t4.md"
+   ],
+   "variantes": [
+    "高盛 (Goldman Sachs)"
+   ]
+  },
+  {
+   "id": "veilles_veille_ia_fr_2026_11_09_t4_nolej",
+   "label": "Nolej",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 0,
+   "community_name": "écosystème Anthropic",
+   "contributor": null,
+   "file_type": "concept",
+   "metadata": {
+    "graphify_reference_stub": true
+   },
+   "norm_label": "nolej",
+   "rationale": "Referenced as an AI application in education.",
+   "source_file": "veilles/veille-ia-fr-2026-11-09-t4.md",
+   "source_location": null,
+   "source_url": null
+  },
+  {
+   "id": "veilles_veille_ia_fr_2026_11_09_t4_siri",
+   "label": "Siri",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 0,
+   "community_name": "écosystème Anthropic",
+   "contributor": null,
+   "file_type": "concept",
+   "metadata": {
+    "graphify_reference_stub": true
+   },
+   "norm_label": "siri",
+   "rationale": "Referenced as a future AI agent.",
+   "source_file": "veilles/veille-ia-fr-2026-11-09-t4.md",
+   "source_location": null,
+   "source_url": null
+  },
+  {
+   "id": "veilles_veille_ia_fr_2026_11_09_t4_take_two",
+   "label": "Take Two",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 0,
+   "community_name": "écosystème Anthropic",
+   "contributor": null,
+   "file_type": "concept",
+   "metadata": {
+    "graphify_reference_stub": true
+   },
+   "norm_label": "take two",
+   "rationale": "Referenced regarding GTA 6 production.",
+   "source_file": "veilles/veille-ia-fr-2026-11-09-t4.md",
+   "source_location": null,
+   "source_url": null
+  },
+  {
+   "id": "veilles_veille_ia_fr_2026_11_09_t4",
+   "label": "Veille France 2026-11-09 : Applications sociétales et culturelles de l’IA",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 0,
+   "community_name": "écosystème Anthropic",
    "contributor": null,
    "file_type": "document",
-   "norm_label": "dossier : course a l'ia entre etats‐unis et chine",
+   "norm_label": "veille france 2026-11-09 : applications societales et culturelles de l’ia",
    "rationale": null,
-   "source_file": "dossiers/2026-11-12-3.md",
+   "source_file": "veilles/veille-ia-fr-2026-11-09-t4.md",
    "source_location": null,
    "source_url": null
   },
@@ -624,28 +741,6 @@
    "source_url": null
   },
   {
-   "id": "tencent",
-   "label": "Tencent",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 1,
-   "community_name": "stratégie et technologie IA",
-   "contributor": null,
-   "file_type": "concept",
-   "norm_label": "tencent",
-   "rationale": "Entity mentioned in the context of AI-native push.",
-   "source_file": "veilles/veille-ia-us-2026-11-12-t6.md",
-   "source_location": null,
-   "source_url": null,
-   "sources": [
-    "veilles/veille-ia-us-2026-11-12-t6.md",
-    "dossiers/2026-11-12-2.md",
-    "veilles/veille-ia-us-2026-11-10-t6.md",
-    "feuilletons/f-0014.md"
-   ]
-  },
-  {
    "id": "veilles_veille_ia_us_2026_11_12_t6",
    "label": "Veille États-Unis 2026-11-12 : Applications industrielles et commerciales de l'IA",
    "_origin": "semantic",
@@ -678,82 +773,50 @@
    "source_url": null
   },
   {
-   "id": "veilles_veille_ia_cn_2026_11_11_t1_aoshikang",
-   "label": "Aoshikang",
+   "id": "atlas",
+   "label": "Atlas",
    "_origin": "semantic",
    "author": null,
    "captured_at": null,
    "community": 13,
-   "community_name": "investissements marché chinois",
+   "community_name": "écosystème microsoft",
    "contributor": null,
    "file_type": "concept",
-   "norm_label": "aoshikang",
-   "rationale": "Mentioned regarding AI server revenue reporting.",
-   "source_file": "veilles/veille-ia-cn-2026-11-11-t1.md",
+   "norm_label": "atlas",
+   "rationale": "Entity mentioned in the context of relationship-building AI.",
+   "source_file": "veilles/veille-ia-us-2026-11-12-t7.md",
    "source_location": null,
    "source_url": null
   },
   {
-   "id": "veilles_veille_ia_cn_2026_11_11_t1_guangdong_province",
-   "label": "Guangdong Province",
+   "id": "veilles_veille_ia_fr_2026_11_08_t1_doc",
+   "label": "Veille France 2026-11-08 (Strategies)",
    "_origin": "semantic",
    "author": null,
    "captured_at": null,
    "community": 13,
-   "community_name": "investissements marché chinois",
-   "contributor": null,
-   "file_type": "concept",
-   "norm_label": "guangdong province",
-   "rationale": "Entity associated with AI service filings.",
-   "source_file": "veilles/veille-ia-cn-2026-11-11-t1.md",
-   "source_location": null,
-   "source_url": null
-  },
-  {
-   "id": "veilles_veille_ia_cn_2026_11_11_t1_nanling_technology",
-   "label": "Nanling Technology",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 13,
-   "community_name": "investissements marché chinois",
-   "contributor": null,
-   "file_type": "concept",
-   "norm_label": "nanling technology",
-   "rationale": "Mentioned in the context of AI infrastructure service expansion.",
-   "source_file": "veilles/veille-ia-cn-2026-11-11-t1.md",
-   "source_location": null,
-   "source_url": null
-  },
-  {
-   "id": "veilles_veille_ia_cn_2026_11_11_t1_shanghai_film",
-   "label": "Shanghai Film",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 13,
-   "community_name": "investissements marché chinois",
-   "contributor": null,
-   "file_type": "concept",
-   "norm_label": "shanghai film",
-   "rationale": "Mentioned regarding risk warnings for AI video concepts.",
-   "source_file": "veilles/veille-ia-cn-2026-11-11-t1.md",
-   "source_location": null,
-   "source_url": null
-  },
-  {
-   "id": "veilles_veille_ia_cn_2026_11_11_t1",
-   "label": "Veille Chine 2026-11-11 : Marchés et investissements",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 13,
-   "community_name": "investissements marché chinois",
+   "community_name": "écosystème microsoft",
    "contributor": null,
    "file_type": "document",
-   "norm_label": "veille chine 2026-11-11 : marches et investissements",
-   "rationale": "Root document for market and investment analysis.",
-   "source_file": "veilles/veille-ia-cn-2026-11-11-t1.md",
+   "norm_label": "veille france 2026-11-08 (strategies)",
+   "rationale": null,
+   "source_file": "veilles/veille-ia-fr-2026-11-08-t1.md",
+   "source_location": null,
+   "source_url": null
+  },
+  {
+   "id": "veilles_veille_ia_us_2026_11_12_t7",
+   "label": "Veille États-Unis 2026-11-12 : Autres articles",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 13,
+   "community_name": "écosystème microsoft",
+   "contributor": null,
+   "file_type": "document",
+   "norm_label": "veille etats-unis 2026-11-12 : autres articles",
+   "rationale": null,
+   "source_file": "veilles/veille-ia-us-2026-11-12-t7.md",
    "source_location": null,
    "source_url": null
   },
@@ -839,7 +902,7 @@
   },
   {
    "id": "veilles_robin_li",
-   "label": "Robin Li (李彦宏)",
+   "label": "Robin Li",
    "_origin": "semantic",
    "author": null,
    "captured_at": null,
@@ -847,11 +910,19 @@
    "community_name": "Baidu et IA incarnée",
    "contributor": null,
    "file_type": "concept",
-   "norm_label": "robin li (李彦宏)",
+   "norm_label": "robin li",
    "rationale": "Key figure driving the 'intelligent organization' narrative.",
    "source_file": "veilles/veille-ia-cn-2026-11-12-t1.md",
    "source_location": null,
-   "source_url": null
+   "source_url": null,
+   "sources": [
+    "veilles/veille-ia-cn-2026-11-12-t1.md",
+    "veilles/veille-ia-cn-2026-11-12-t6.md"
+   ],
+   "variantes": [
+    "Robin Li (李彦宏)",
+    "Li Yanhong (Robin Li)"
+   ]
   },
   {
    "id": "veilles_veille_ia_cn_2026_11_12_t1",
@@ -966,103 +1037,25 @@
    "source_url": null
   },
   {
-   "id": "anduril",
-   "label": "Anduril",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 19,
-   "community_name": "IA défense et sécurité",
-   "contributor": null,
-   "file_type": "concept",
-   "norm_label": "anduril",
-   "rationale": "Defense technology company.",
-   "source_file": "veilles/veille-ia-us-2026-11-12-t3.md",
-   "source_location": null,
-   "source_url": null
-  },
-  {
-   "id": "palantir",
-   "label": "Palantir",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 19,
-   "community_name": "IA défense et sécurité",
-   "contributor": null,
-   "file_type": "concept",
-   "metadata": {
-    "graphify_reference_stub": true
-   },
-   "norm_label": "palantir",
-   "rationale": "Competitor to Helsing.",
-   "source_file": "veilles/veille-ia-us-2026-11-12-t3.md",
-   "source_location": null,
-   "source_url": null
-  },
-  {
-   "id": "shield_ai",
-   "label": "Shield AI",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 19,
-   "community_name": "IA défense et sécurité",
-   "contributor": null,
-   "file_type": "concept",
-   "norm_label": "shield ai",
-   "rationale": "Defense AI company.",
-   "source_file": "veilles/veille-ia-us-2026-11-12-t3.md",
-   "source_location": null,
-   "source_url": null
-  },
-  {
-   "id": "veilles_veille_ia_us_2026_11_12_t3",
-   "label": "Veille États-Unis 2026-11-12 : IA dans la défense et la sécurité",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 19,
-   "community_name": "IA défense et sécurité",
-   "contributor": null,
-   "file_type": "document",
-   "norm_label": "veille etats-unis 2026-11-12 : ia dans la defense et la securite",
-   "rationale": "Root document for defense and security news.",
-   "source_file": "veilles/veille-ia-us-2026-11-12-t3.md",
-   "source_location": null,
-   "source_url": null
-  },
-  {
-   "id": "atlas",
-   "label": "Atlas",
+   "id": "veilles_veille_ia_fr_2026_11_08_t1_apple",
+   "label": "Apple",
    "_origin": "semantic",
    "author": null,
    "captured_at": null,
    "community": 2,
-   "community_name": "plateformes et entreprises IA",
+   "community_name": "recherche sur l'ia openai",
    "contributor": null,
    "file_type": "concept",
-   "norm_label": "atlas",
-   "rationale": "Entity mentioned in the context of relationship-building AI.",
-   "source_file": "veilles/veille-ia-us-2026-11-12-t7.md",
-   "source_location": null,
-   "source_url": null
-  },
-  {
-   "id": "veilles_veille_ia_us_2026_11_12_t7",
-   "label": "Veille États-Unis 2026-11-12 : Autres articles",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 2,
-   "community_name": "plateformes et entreprises IA",
-   "contributor": null,
-   "file_type": "document",
-   "norm_label": "veille etats-unis 2026-11-12 : autres articles",
+   "norm_label": "apple",
    "rationale": null,
-   "source_file": "veilles/veille-ia-us-2026-11-12-t7.md",
+   "source_file": "veilles/veille-ia-fr-2026-11-08-t1.md",
    "source_location": null,
-   "source_url": null
+   "source_url": null,
+   "sources": [
+    "veilles/veille-ia-fr-2026-11-08-t1.md",
+    "veilles/veille-ia-fr-2026-11-09-t2.md",
+    "veilles/veille-ia-us-2026-11-10-t3.md"
+   ]
   },
   {
    "id": "barnard",
@@ -1145,13 +1138,61 @@
    "source_url": null
   },
   {
+   "id": "dossiers_2026_11_12_3_demis_hassabis",
+   "label": "Demis Hassabis",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 3,
+   "community_name": "avancées matérielles nvidia",
+   "contributor": null,
+   "file_type": "concept",
+   "norm_label": "demis hassabis",
+   "rationale": "Expert source cited regarding AI capabilities.",
+   "source_file": "dossiers/2026-11-12-3.md",
+   "source_location": null,
+   "source_url": null
+  },
+  {
+   "id": "dossiers_2026_11_12_3_eric_schmidt",
+   "label": "Eric Schmidt",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 3,
+   "community_name": "avancées matérielles nvidia",
+   "contributor": null,
+   "file_type": "concept",
+   "norm_label": "eric schmidt",
+   "rationale": "Expert source cited regarding the AI gap between US and China.",
+   "source_file": "dossiers/2026-11-12-3.md",
+   "source_location": null,
+   "source_url": null
+  },
+  {
+   "id": "dossiers_2026_11_12_3_institute_for_progress",
+   "label": "Institute for Progress",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 3,
+   "community_name": "avancées matérielles nvidia",
+   "contributor": null,
+   "file_type": "concept",
+   "norm_label": "institute for progress",
+   "rationale": "Research entity providing analysis on AI capabilities.",
+   "source_file": "dossiers/2026-11-12-3.md",
+   "source_location": null,
+   "source_url": null
+  },
+  {
    "id": "feuilletons_f_0001_baird",
    "label": "Baird",
    "_origin": "semantic",
    "author": null,
    "captured_at": null,
    "community": 3,
-   "community_name": "IA en entreprise et RH",
+   "community_name": "avancées matérielles nvidia",
    "contributor": null,
    "file_type": "concept",
    "norm_label": "baird",
@@ -1165,13 +1206,43 @@
    ]
   },
   {
+   "id": "veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+   "label": "Nvidia",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 3,
+   "community_name": "avancées matérielles nvidia",
+   "contributor": null,
+   "file_type": "concept",
+   "norm_label": "nvidia",
+   "rationale": null,
+   "source_file": "veilles/veille-ia-fr-2026-11-08-t2.md",
+   "source_location": null,
+   "source_url": null,
+   "sources": [
+    "veilles/veille-ia-fr-2026-11-08-t2.md",
+    "veilles/veille-ia-fr-2026-11-12-t1.md",
+    "veilles/veille-ia-fr-2026-11-08-t1.md",
+    "dossiers/2026-11-12-3.md",
+    "veilles/veille-ia-fr-2026-11-09-t5.md",
+    "veilles/veille-ia-fr-2026-11-10-t5.md",
+    "veilles/veille-ia-us-2026-11-11-t1.md",
+    "veilles/veille-ia-fr-2026-11-12-t6.md",
+    "veilles/veille-ia-fr-2026-11-10-t6.md",
+    "dossiers/2026-11-12-1.md",
+    "veilles/veille-ia-cn-2026-11-12-t7.md",
+    "veilles/veille-ia-us-2026-11-10-t3.md"
+   ]
+  },
+  {
    "id": "veilles_veille_ia_fr_2026_11_09_t5_jensen_huang",
    "label": "Jensen Huang",
    "_origin": "semantic",
    "author": null,
    "captured_at": null,
    "community": 3,
-   "community_name": "IA en entreprise et RH",
+   "community_name": "avancées matérielles nvidia",
    "contributor": null,
    "file_type": "concept",
    "metadata": {
@@ -1180,6 +1251,22 @@
    "norm_label": "jensen huang",
    "rationale": "Referenced as CEO of Nvidia.",
    "source_file": "veilles/veille-ia-fr-2026-11-09-t5.md",
+   "source_location": null,
+   "source_url": null
+  },
+  {
+   "id": "veilles_veille_ia_fr_2026_11_08_t2_doc",
+   "label": "Veille France 2026-11-08 (Environment)",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 3,
+   "community_name": "avancées matérielles nvidia",
+   "contributor": null,
+   "file_type": "document",
+   "norm_label": "veille france 2026-11-08 (environment)",
+   "rationale": null,
+   "source_file": "veilles/veille-ia-fr-2026-11-08-t2.md",
    "source_location": null,
    "source_url": null
   },
@@ -1238,7 +1325,7 @@
    "author": null,
    "captured_at": null,
    "community": 4,
-   "community_name": "matériel et géopolitique IA",
+   "community_name": "infrastructure cloud coreweave",
    "contributor": null,
    "file_type": "concept",
    "metadata": {
@@ -1251,61 +1338,13 @@
    "source_url": null
   },
   {
-   "id": "dossiers_2026_11_12_3_demis_hassabis",
-   "label": "Demis Hassabis",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
-   "contributor": null,
-   "file_type": "concept",
-   "norm_label": "demis hassabis",
-   "rationale": "Expert source cited regarding AI capabilities.",
-   "source_file": "dossiers/2026-11-12-3.md",
-   "source_location": null,
-   "source_url": null
-  },
-  {
-   "id": "dossiers_2026_11_12_3_eric_schmidt",
-   "label": "Eric Schmidt",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
-   "contributor": null,
-   "file_type": "concept",
-   "norm_label": "eric schmidt",
-   "rationale": "Expert source cited regarding the AI gap between US and China.",
-   "source_file": "dossiers/2026-11-12-3.md",
-   "source_location": null,
-   "source_url": null
-  },
-  {
-   "id": "dossiers_2026_11_12_3_institute_for_progress",
-   "label": "Institute for Progress",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
-   "contributor": null,
-   "file_type": "concept",
-   "norm_label": "institute for progress",
-   "rationale": "Research entity providing analysis on AI capabilities.",
-   "source_file": "dossiers/2026-11-12-3.md",
-   "source_location": null,
-   "source_url": null
-  },
-  {
    "id": "inmobi",
    "label": "InMobi",
    "_origin": "semantic",
    "author": null,
    "captured_at": null,
    "community": 4,
-   "community_name": "matériel et géopolitique IA",
+   "community_name": "infrastructure cloud coreweave",
    "contributor": null,
    "file_type": "concept",
    "norm_label": "inmobi",
@@ -1321,7 +1360,7 @@
    "author": null,
    "captured_at": null,
    "community": 4,
-   "community_name": "matériel et géopolitique IA",
+   "community_name": "infrastructure cloud coreweave",
    "contributor": null,
    "file_type": "concept",
    "norm_label": "naver",
@@ -1341,7 +1380,7 @@
    "author": null,
    "captured_at": null,
    "community": 4,
-   "community_name": "matériel et géopolitique IA",
+   "community_name": "infrastructure cloud coreweave",
    "contributor": null,
    "file_type": "concept",
    "norm_label": "morgan stanley",
@@ -1357,7 +1396,7 @@
    "author": null,
    "captured_at": null,
    "community": 4,
-   "community_name": "matériel et géopolitique IA",
+   "community_name": "infrastructure cloud coreweave",
    "contributor": null,
    "file_type": "concept",
    "norm_label": "projet kessel",
@@ -1373,7 +1412,7 @@
    "author": null,
    "captured_at": null,
    "community": 4,
-   "community_name": "matériel et géopolitique IA",
+   "community_name": "infrastructure cloud coreweave",
    "contributor": null,
    "file_type": "concept",
    "norm_label": "ubs",
@@ -1383,85 +1422,82 @@
    "source_url": null
   },
   {
-   "id": "veilles_veille_ia_fr_2026_11_08_t1_apple",
-   "label": "Apple",
+   "id": "veilles_veille_ia_cn_2026_11_11_t1_aoshikang",
+   "label": "Aoshikang",
    "_origin": "semantic",
    "author": null,
    "captured_at": null,
    "community": 4,
-   "community_name": "matériel et géopolitique IA",
+   "community_name": "infrastructure cloud coreweave",
    "contributor": null,
    "file_type": "concept",
-   "norm_label": "apple",
-   "rationale": null,
-   "source_file": "veilles/veille-ia-fr-2026-11-08-t1.md",
-   "source_location": null,
-   "source_url": null,
-   "sources": [
-    "veilles/veille-ia-fr-2026-11-08-t1.md",
-    "veilles/veille-ia-fr-2026-11-09-t2.md",
-    "veilles/veille-ia-us-2026-11-10-t3.md"
-   ]
-  },
-  {
-   "id": "veilles_veille_ia_fr_2026_11_08_t2_nvidia",
-   "label": "Nvidia",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
-   "contributor": null,
-   "file_type": "concept",
-   "norm_label": "nvidia",
-   "rationale": null,
-   "source_file": "veilles/veille-ia-fr-2026-11-08-t2.md",
-   "source_location": null,
-   "source_url": null,
-   "sources": [
-    "veilles/veille-ia-fr-2026-11-08-t2.md",
-    "veilles/veille-ia-fr-2026-11-12-t1.md",
-    "veilles/veille-ia-fr-2026-11-08-t1.md",
-    "dossiers/2026-11-12-3.md",
-    "veilles/veille-ia-fr-2026-11-09-t5.md",
-    "veilles/veille-ia-fr-2026-11-10-t5.md",
-    "veilles/veille-ia-us-2026-11-11-t1.md",
-    "veilles/veille-ia-fr-2026-11-12-t6.md",
-    "veilles/veille-ia-fr-2026-11-10-t6.md",
-    "dossiers/2026-11-12-1.md",
-    "veilles/veille-ia-cn-2026-11-12-t7.md",
-    "veilles/veille-ia-us-2026-11-10-t3.md"
-   ]
-  },
-  {
-   "id": "veilles_veille_ia_fr_2026_11_08_t1_doc",
-   "label": "Veille France 2026-11-08 (Strategies)",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
-   "contributor": null,
-   "file_type": "document",
-   "norm_label": "veille france 2026-11-08 (strategies)",
-   "rationale": null,
-   "source_file": "veilles/veille-ia-fr-2026-11-08-t1.md",
+   "norm_label": "aoshikang",
+   "rationale": "Mentioned regarding AI server revenue reporting.",
+   "source_file": "veilles/veille-ia-cn-2026-11-11-t1.md",
    "source_location": null,
    "source_url": null
   },
   {
-   "id": "veilles_veille_ia_fr_2026_11_08_t2_doc",
-   "label": "Veille France 2026-11-08 (Environment)",
+   "id": "veilles_veille_ia_cn_2026_11_11_t1_guangdong_province",
+   "label": "Guangdong Province",
    "_origin": "semantic",
    "author": null,
    "captured_at": null,
    "community": 4,
-   "community_name": "matériel et géopolitique IA",
+   "community_name": "infrastructure cloud coreweave",
+   "contributor": null,
+   "file_type": "concept",
+   "norm_label": "guangdong province",
+   "rationale": "Entity associated with AI service filings.",
+   "source_file": "veilles/veille-ia-cn-2026-11-11-t1.md",
+   "source_location": null,
+   "source_url": null
+  },
+  {
+   "id": "veilles_veille_ia_cn_2026_11_11_t1_nanling_technology",
+   "label": "Nanling Technology",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 4,
+   "community_name": "infrastructure cloud coreweave",
+   "contributor": null,
+   "file_type": "concept",
+   "norm_label": "nanling technology",
+   "rationale": "Mentioned in the context of AI infrastructure service expansion.",
+   "source_file": "veilles/veille-ia-cn-2026-11-11-t1.md",
+   "source_location": null,
+   "source_url": null
+  },
+  {
+   "id": "veilles_veille_ia_cn_2026_11_11_t1_shanghai_film",
+   "label": "Shanghai Film",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 4,
+   "community_name": "infrastructure cloud coreweave",
+   "contributor": null,
+   "file_type": "concept",
+   "norm_label": "shanghai film",
+   "rationale": "Mentioned regarding risk warnings for AI video concepts.",
+   "source_file": "veilles/veille-ia-cn-2026-11-11-t1.md",
+   "source_location": null,
+   "source_url": null
+  },
+  {
+   "id": "veilles_veille_ia_cn_2026_11_11_t1",
+   "label": "Veille Chine 2026-11-11 : Marchés et investissements",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 4,
+   "community_name": "infrastructure cloud coreweave",
    "contributor": null,
    "file_type": "document",
-   "norm_label": "veille france 2026-11-08 (environment)",
-   "rationale": null,
-   "source_file": "veilles/veille-ia-fr-2026-11-08-t2.md",
+   "norm_label": "veille chine 2026-11-11 : marches et investissements",
+   "rationale": "Root document for market and investment analysis.",
+   "source_file": "veilles/veille-ia-cn-2026-11-11-t1.md",
    "source_location": null,
    "source_url": null
   },
@@ -1472,7 +1508,7 @@
    "author": null,
    "captured_at": null,
    "community": 4,
-   "community_name": "matériel et géopolitique IA",
+   "community_name": "infrastructure cloud coreweave",
    "contributor": null,
    "file_type": "document",
    "norm_label": "veille etats-unis 2026-11-12 : financement et marche de l'ia",
@@ -1488,7 +1524,7 @@
    "author": null,
    "captured_at": null,
    "community": 4,
-   "community_name": "matériel et géopolitique IA",
+   "community_name": "infrastructure cloud coreweave",
    "contributor": null,
    "file_type": "document",
    "norm_label": "veille france 2026-11-12 : marches financiers et investissements ia",
@@ -1610,22 +1646,6 @@
    "source_url": null
   },
   {
-   "id": "google_ai_studio",
-   "label": "Google AI Studio",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 5,
-   "community_name": "cloud et IA d'entreprise",
-   "contributor": null,
-   "file_type": "concept",
-   "norm_label": "google ai studio",
-   "rationale": null,
-   "source_file": "veilles/veille-ia-fr-2026-11-12-t2.md",
-   "source_location": null,
-   "source_url": null
-  },
-  {
    "id": "google_gemini_carplay",
    "label": "Google Gemini CarPlay",
    "_origin": "semantic",
@@ -1636,22 +1656,6 @@
    "contributor": null,
    "file_type": "concept",
    "norm_label": "google gemini carplay",
-   "rationale": null,
-   "source_file": "veilles/veille-ia-fr-2026-11-12-t2.md",
-   "source_location": null,
-   "source_url": null
-  },
-  {
-   "id": "google_gemini_decisions",
-   "label": "Google Gemini Decisions",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 5,
-   "community_name": "cloud et IA d'entreprise",
-   "contributor": null,
-   "file_type": "concept",
-   "norm_label": "google gemini decisions",
    "rationale": null,
    "source_file": "veilles/veille-ia-fr-2026-11-12-t2.md",
    "source_location": null,
@@ -1806,13 +1810,74 @@
    ]
   },
   {
+   "id": "google_ai_studio",
+   "label": "Google AI Studio",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 6,
+   "community_name": "actualités de google",
+   "contributor": null,
+   "file_type": "concept",
+   "norm_label": "google ai studio",
+   "rationale": null,
+   "source_file": "veilles/veille-ia-fr-2026-11-12-t2.md",
+   "source_location": null,
+   "source_url": null
+  },
+  {
+   "id": "google_gemini_decisions",
+   "label": "Gemini Decisions",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 6,
+   "community_name": "actualités de google",
+   "contributor": null,
+   "file_type": "concept",
+   "norm_label": "gemini decisions",
+   "rationale": null,
+   "source_file": "veilles/veille-ia-fr-2026-11-12-t2.md",
+   "source_location": null,
+   "source_url": null,
+   "sources": [
+    "veilles/veille-ia-fr-2026-11-12-t2.md",
+    "feuilletons/f-0010.md"
+   ],
+   "variantes": [
+    "Google Gemini Decisions"
+   ]
+  },
+  {
+   "id": "tencent",
+   "label": "Tencent",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 6,
+   "community_name": "actualités de google",
+   "contributor": null,
+   "file_type": "concept",
+   "norm_label": "tencent",
+   "rationale": "Entity mentioned in the context of AI-native push.",
+   "source_file": "veilles/veille-ia-us-2026-11-12-t6.md",
+   "source_location": null,
+   "source_url": null,
+   "sources": [
+    "veilles/veille-ia-us-2026-11-12-t6.md",
+    "dossiers/2026-11-12-2.md",
+    "veilles/veille-ia-us-2026-11-10-t6.md",
+    "feuilletons/f-0014.md"
+   ]
+  },
+  {
    "id": "veilles_veille_ia_fr_2026_11_08_t1_google",
    "label": "Google",
    "_origin": "semantic",
    "author": null,
    "captured_at": null,
    "community": 6,
-   "community_name": "produits IA des Big Tech",
+   "community_name": "actualités de google",
    "contributor": null,
    "file_type": "concept",
    "norm_label": "google",
@@ -1829,108 +1894,13 @@
    ]
   },
   {
-   "id": "veilles_veille_ia_fr_2026_11_09_t4_cern",
-   "label": "CERN",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 6,
-   "community_name": "produits IA des Big Tech",
-   "contributor": null,
-   "file_type": "concept",
-   "metadata": {
-    "graphify_reference_stub": true
-   },
-   "norm_label": "cern",
-   "rationale": "Referenced regarding zeptoverse research.",
-   "source_file": "veilles/veille-ia-fr-2026-11-09-t4.md",
-   "source_location": null,
-   "source_url": null
-  },
-  {
-   "id": "veilles_veille_ia_fr_2026_11_09_t4_goldman_sachs",
-   "label": "Goldman Sachs",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 6,
-   "community_name": "produits IA des Big Tech",
-   "contributor": null,
-   "file_type": "concept",
-   "metadata": {
-    "graphify_reference_stub": true
-   },
-   "norm_label": "goldman sachs",
-   "rationale": "Referenced regarding AI funding demand.",
-   "source_file": "veilles/veille-ia-fr-2026-11-09-t4.md",
-   "source_location": null,
-   "source_url": null
-  },
-  {
-   "id": "veilles_veille_ia_fr_2026_11_09_t4_nolej",
-   "label": "Nolej",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 6,
-   "community_name": "produits IA des Big Tech",
-   "contributor": null,
-   "file_type": "concept",
-   "metadata": {
-    "graphify_reference_stub": true
-   },
-   "norm_label": "nolej",
-   "rationale": "Referenced as an AI application in education.",
-   "source_file": "veilles/veille-ia-fr-2026-11-09-t4.md",
-   "source_location": null,
-   "source_url": null
-  },
-  {
-   "id": "veilles_veille_ia_fr_2026_11_09_t4_siri",
-   "label": "Siri",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 6,
-   "community_name": "produits IA des Big Tech",
-   "contributor": null,
-   "file_type": "concept",
-   "metadata": {
-    "graphify_reference_stub": true
-   },
-   "norm_label": "siri",
-   "rationale": "Referenced as a future AI agent.",
-   "source_file": "veilles/veille-ia-fr-2026-11-09-t4.md",
-   "source_location": null,
-   "source_url": null
-  },
-  {
-   "id": "veilles_veille_ia_fr_2026_11_09_t4_take_two",
-   "label": "Take Two",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 6,
-   "community_name": "produits IA des Big Tech",
-   "contributor": null,
-   "file_type": "concept",
-   "metadata": {
-    "graphify_reference_stub": true
-   },
-   "norm_label": "take two",
-   "rationale": "Referenced regarding GTA 6 production.",
-   "source_file": "veilles/veille-ia-fr-2026-11-09-t4.md",
-   "source_location": null,
-   "source_url": null
-  },
-  {
    "id": "veilles_veille_ia_fr_2026_11_09_t5_adobe",
    "label": "Adobe",
    "_origin": "semantic",
    "author": null,
    "captured_at": null,
    "community": 6,
-   "community_name": "produits IA des Big Tech",
+   "community_name": "actualités de google",
    "contributor": null,
    "file_type": "concept",
    "metadata": {
@@ -1949,7 +1919,7 @@
    "author": null,
    "captured_at": null,
    "community": 6,
-   "community_name": "produits IA des Big Tech",
+   "community_name": "actualités de google",
    "contributor": null,
    "file_type": "concept",
    "metadata": {
@@ -1968,7 +1938,7 @@
    "author": null,
    "captured_at": null,
    "community": 6,
-   "community_name": "produits IA des Big Tech",
+   "community_name": "actualités de google",
    "contributor": null,
    "file_type": "concept",
    "metadata": {
@@ -1987,7 +1957,7 @@
    "author": null,
    "captured_at": null,
    "community": 6,
-   "community_name": "produits IA des Big Tech",
+   "community_name": "actualités de google",
    "contributor": null,
    "file_type": "concept",
    "metadata": {
@@ -2006,7 +1976,7 @@
    "author": null,
    "captured_at": null,
    "community": 6,
-   "community_name": "produits IA des Big Tech",
+   "community_name": "actualités de google",
    "contributor": null,
    "file_type": "concept",
    "metadata": {
@@ -2019,34 +1989,76 @@
    "source_url": null
   },
   {
-   "id": "veilles_veille_ia_fr_2026_11_09_t4",
-   "label": "Veille France 2026-11-09 : Applications sociétales et culturelles de l’IA",
-   "_origin": "semantic",
-   "author": null,
-   "captured_at": null,
-   "community": 6,
-   "community_name": "produits IA des Big Tech",
-   "contributor": null,
-   "file_type": "document",
-   "norm_label": "veille france 2026-11-09 : applications societales et culturelles de l’ia",
-   "rationale": null,
-   "source_file": "veilles/veille-ia-fr-2026-11-09-t4.md",
-   "source_location": null,
-   "source_url": null
-  },
-  {
    "id": "veilles_veille_ia_fr_2026_11_09_t5",
    "label": "Veille France 2026-11-09 : Autres articles",
    "_origin": "semantic",
    "author": null,
    "captured_at": null,
    "community": 6,
-   "community_name": "produits IA des Big Tech",
+   "community_name": "actualités de google",
    "contributor": null,
    "file_type": "document",
    "norm_label": "veille france 2026-11-09 : autres articles",
    "rationale": null,
    "source_file": "veilles/veille-ia-fr-2026-11-09-t5.md",
+   "source_location": null,
+   "source_url": null
+  },
+  {
+   "id": "anduril",
+   "label": "Anduril",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 8,
+   "community_name": "veille ia états-unis",
+   "contributor": null,
+   "file_type": "concept",
+   "norm_label": "anduril",
+   "rationale": "Defense technology company.",
+   "source_file": "veilles/veille-ia-us-2026-11-12-t3.md",
+   "source_location": null,
+   "source_url": null
+  },
+  {
+   "id": "palantir",
+   "label": "Palantir",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 8,
+   "community_name": "veille ia états-unis",
+   "contributor": null,
+   "file_type": "concept",
+   "metadata": {
+    "graphify_reference_stub": true
+   },
+   "norm_label": "palantir",
+   "rationale": "Competitor to Helsing.",
+   "source_file": "veilles/veille-ia-us-2026-11-12-t3.md",
+   "source_location": null,
+   "source_url": null,
+   "sources": [
+    "veilles/veille-ia-us-2026-11-12-t3.md",
+    "veilles/veille-ia-us-2026-11-08-t4.md"
+   ],
+   "variantes": [
+    "Palantir Technologies Inc."
+   ]
+  },
+  {
+   "id": "shield_ai",
+   "label": "Shield AI",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 8,
+   "community_name": "veille ia états-unis",
+   "contributor": null,
+   "file_type": "concept",
+   "norm_label": "shield ai",
+   "rationale": "Defense AI company.",
+   "source_file": "veilles/veille-ia-us-2026-11-12-t3.md",
    "source_location": null,
    "source_url": null
   },
@@ -2057,7 +2069,7 @@
    "author": null,
    "captured_at": null,
    "community": 8,
-   "community_name": "matériel et assistants IA",
+   "community_name": "veille ia états-unis",
    "contributor": null,
    "file_type": "concept",
    "norm_label": "amd",
@@ -2073,7 +2085,7 @@
    "author": null,
    "captured_at": null,
    "community": 8,
-   "community_name": "matériel et assistants IA",
+   "community_name": "veille ia états-unis",
    "contributor": null,
    "file_type": "concept",
    "norm_label": "amd 霄龙嵌入式 9006 系列 sp7",
@@ -2089,7 +2101,7 @@
    "author": null,
    "captured_at": null,
    "community": 8,
-   "community_name": "matériel et assistants IA",
+   "community_name": "veille ia états-unis",
    "contributor": null,
    "file_type": "concept",
    "norm_label": "杰理科技 (jieli technology)",
@@ -2105,7 +2117,7 @@
    "author": null,
    "captured_at": null,
    "community": 8,
-   "community_name": "matériel et assistants IA",
+   "community_name": "veille ia états-unis",
    "contributor": null,
    "file_type": "concept",
    "norm_label": "jl280n/jl380n/jl681n",
@@ -2116,19 +2128,28 @@
   },
   {
    "id": "veilles_pingtouge",
-   "label": "平头哥 (T-Head)",
+   "label": "T-Head",
    "_origin": "semantic",
    "author": null,
    "captured_at": null,
    "community": 8,
-   "community_name": "matériel et assistants IA",
+   "community_name": "veille ia états-unis",
    "contributor": null,
    "file_type": "concept",
-   "norm_label": "平头哥 (t-head)",
+   "norm_label": "t-head",
    "rationale": "Entity mentioned as spinning off for IPO and being a major AI chip supplier.",
    "source_file": "veilles/veille-ia-cn-2026-11-10-t1.md",
    "source_location": null,
-   "source_url": null
+   "source_url": null,
+   "sources": [
+    "veilles/veille-ia-cn-2026-11-10-t1.md",
+    "feuilletons/f-0008.md",
+    "veilles/veille-ia-fr-2026-11-10-t2.md"
+   ],
+   "variantes": [
+    "平头哥 (T-Head)",
+    "Alibaba T-Head"
+   ]
   },
   {
    "id": "veilles_zen6",
@@ -2137,7 +2158,7 @@
    "author": null,
    "captured_at": null,
    "community": 8,
-   "community_name": "matériel et assistants IA",
+   "community_name": "veille ia états-unis",
    "contributor": null,
    "file_type": "concept",
    "norm_label": "zen 6 架构",
@@ -2153,12 +2174,28 @@
    "author": null,
    "captured_at": null,
    "community": 8,
-   "community_name": "matériel et assistants IA",
+   "community_name": "veille ia états-unis",
    "contributor": null,
    "file_type": "document",
    "norm_label": "veille chine 2026-11-10 : ai芯片与算力",
    "rationale": null,
    "source_file": "veilles/veille-ia-cn-2026-11-10-t1.md",
+   "source_location": null,
+   "source_url": null
+  },
+  {
+   "id": "veilles_veille_ia_us_2026_11_12_t3",
+   "label": "Veille États-Unis 2026-11-12 : IA dans la défense et la sécurité",
+   "_origin": "semantic",
+   "author": null,
+   "captured_at": null,
+   "community": 8,
+   "community_name": "veille ia états-unis",
+   "contributor": null,
+   "file_type": "document",
+   "norm_label": "veille etats-unis 2026-11-12 : ia dans la defense et la securite",
+   "rationale": "Root document for defense and security news.",
+   "source_file": "veilles/veille-ia-us-2026-11-12-t3.md",
    "source_location": null,
    "source_url": null
   },
@@ -2323,16 +2360,6 @@
    "source_url": null
   },
   {
-   "id": "andrej_karpathy",
-   "label": "Andrej Karpathy",
-   "_origin": "semantic",
-   "community": 0,
-   "community_name": "écosystème Anthropic",
-   "file_type": "concept",
-   "norm_label": "andrej karpathy",
-   "source_file": "veilles/veille-ia-fr-2026-11-08-t4.md"
-  },
-  {
    "id": "anthropic",
    "label": "Anthropic",
    "_origin": "semantic",
@@ -2371,17 +2398,6 @@
    "source_file": "veilles/veille-ia-us-2026-11-10-t7.md"
   },
   {
-   "id": "claude",
-   "label": "Claude",
-   "_origin": "semantic",
-   "community": 0,
-   "community_name": "écosystème Anthropic",
-   "file_type": "concept",
-   "norm_label": "claude",
-   "rationale": "Mentioned as the AI model used by Andrej Karpathy to build HackerTube.",
-   "source_file": "veilles/veille-ia-fr-2026-11-08-t4.md"
-  },
-  {
    "id": "claude_fable_5_2",
    "label": "Claude Fable 5.2",
    "_origin": "semantic",
@@ -2390,18 +2406,34 @@
    "file_type": "concept",
    "norm_label": "claude fable 5.2",
    "rationale": "AI model product launched by Anthropic.",
-   "source_file": "feuilletons/f-0003.md"
+   "source_file": "feuilletons/f-0003.md",
+   "sources": [
+    "feuilletons/f-0003.md",
+    "veilles/veille-ia-us-2026-11-09-t2.md"
+   ],
+   "variantes": [
+    "Anthropic Claude Fable 5.2"
+   ]
   },
   {
    "id": "claude_mythos_5_2",
-   "label": "Claude Mythos 5.2",
+   "label": "Mythos 5.2",
    "_origin": "semantic",
    "community": 0,
    "community_name": "écosystème Anthropic",
    "file_type": "concept",
-   "norm_label": "claude mythos 5.2",
+   "norm_label": "mythos 5.2",
    "rationale": "AI model product launched by Anthropic.",
-   "source_file": "feuilletons/f-0003.md"
+   "source_file": "feuilletons/f-0003.md",
+   "sources": [
+    "feuilletons/f-0003.md",
+    "veilles/veille-ia-fr-2026-11-10-t4.md",
+    "veilles/veille-ia-us-2026-11-09-t2.md"
+   ],
+   "variantes": [
+    "Claude Mythos 5.2",
+    "Anthropic Claude Mythos 5.2"
+   ]
   },
   {
    "id": "claude_sheet",
@@ -2434,19 +2466,6 @@
    "source_file": "veilles/veille-ia-fr-2026-11-10-t2.md"
   },
   {
-   "id": "goldman_sachs",
-   "label": "高盛 (Goldman Sachs)",
-   "_origin": "semantic",
-   "community": 0,
-   "community_name": "écosystème Anthropic",
-   "file_type": "concept",
-   "metadata": {
-    "graphify_reference_stub": true
-   },
-   "norm_label": "高盛 (goldman sachs)",
-   "source_file": "veilles/veille-ia-cn-2026-11-10-t4.md"
-  },
-  {
    "id": "greg_morrisett",
    "label": "Greg Morrisett",
    "_origin": "semantic",
@@ -2458,36 +2477,6 @@
    },
    "norm_label": "greg morrisett",
    "source_file": "veilles/veille-ia-us-2026-11-11-t2.md"
-  },
-  {
-   "id": "hackertube",
-   "label": "HackerTube",
-   "_origin": "semantic",
-   "community": 0,
-   "community_name": "écosystème Anthropic",
-   "file_type": "concept",
-   "norm_label": "hackertube",
-   "source_file": "veilles/veille-ia-fr-2026-11-08-t4.md"
-  },
-  {
-   "id": "moe_models",
-   "label": "Modèles d'IA MoE",
-   "_origin": "semantic",
-   "community": 0,
-   "community_name": "écosystème Anthropic",
-   "file_type": "concept",
-   "norm_label": "modeles d'ia moe",
-   "source_file": "veilles/veille-ia-fr-2026-11-08-t4.md"
-  },
-  {
-   "id": "mythos_5_2",
-   "label": "Mythos 5.2",
-   "_origin": "semantic",
-   "community": 0,
-   "community_name": "écosystème Anthropic",
-   "file_type": "concept",
-   "norm_label": "mythos 5.2",
-   "source_file": "veilles/veille-ia-fr-2026-11-10-t4.md"
   },
   {
    "id": "nys_ai_safety_research_center",
@@ -2610,16 +2599,6 @@
    "source_file": "veilles/veille-ia-cn-2026-11-12-t2.md"
   },
   {
-   "id": "veilles_veille_ia_fr_2026_11_08_t4",
-   "label": "Veille France 2026-11-08 : Applications concrètes et innovations IA",
-   "_origin": "semantic",
-   "community": 0,
-   "community_name": "écosystème Anthropic",
-   "file_type": "document",
-   "norm_label": "veille france 2026-11-08 : applications concretes et innovations ia",
-   "source_file": "veilles/veille-ia-fr-2026-11-08-t4.md"
-  },
-  {
    "id": "veilles_veille_ia_fr_2026_11_09_t1",
    "label": "Veille France 2026-11-09",
    "_origin": "semantic",
@@ -2638,6 +2617,16 @@
    "file_type": "document",
    "norm_label": "veille france 2026-11-11 : recherche, modeles et hardware ia",
    "source_file": "veilles/veille-ia-fr-2026-11-11-t3.md"
+  },
+  {
+   "id": "veilles_veille_ia_us_2026_11_09_t2",
+   "label": "Veille États-Unis 2026-11-09 : Entreprise",
+   "_origin": "semantic",
+   "community": 0,
+   "community_name": "écosystème Anthropic",
+   "file_type": "document",
+   "norm_label": "veille etats-unis 2026-11-09 : entreprise",
+   "source_file": "veilles/veille-ia-us-2026-11-09-t2.md"
   },
   {
    "id": "veilles_veille_ia_us_2026_11_10_t7",
@@ -2670,61 +2659,6 @@
    "source_file": "veilles/veille-ia-us-2026-11-08-t1.md"
   },
   {
-   "id": "claude_code",
-   "label": "Claude Code",
-   "_origin": "semantic",
-   "community": 1,
-   "community_name": "stratégie et technologie IA",
-   "file_type": "concept",
-   "norm_label": "claude code",
-   "rationale": "Tool used by an educator to manage a family knowledge base.",
-   "source_file": "veilles/veille-ia-fr-2026-11-11-t2.md"
-  },
-  {
-   "id": "dossiers_2026_11_12_2_amap",
-   "label": "Amap",
-   "_origin": "semantic",
-   "community": 1,
-   "community_name": "stratégie et technologie IA",
-   "file_type": "concept",
-   "norm_label": "amap",
-   "rationale": "The target of the autonomous agents' intrusion attempts.",
-   "source_file": "dossiers/2026-11-12-2.md"
-  },
-  {
-   "id": "dossiers_2026_11_12_2_chasseurs_dessaim",
-   "label": "Chasseurs d'essaim",
-   "_origin": "semantic",
-   "community": 1,
-   "community_name": "stratégie et technologie IA",
-   "file_type": "concept",
-   "norm_label": "chasseurs d'essaim",
-   "rationale": "The research group that published the report on the incidents.",
-   "source_file": "dossiers/2026-11-12-2.md"
-  },
-  {
-   "id": "dossiers_2026_11_12_2_ia_native_strategy",
-   "label": "IA-native Strategy",
-   "_origin": "semantic",
-   "community": 1,
-   "community_name": "stratégie et technologie IA",
-   "file_type": "concept",
-   "norm_label": "ia-native strategy",
-   "rationale": "The strategic initiative involving 50% of Tencent's workforce.",
-   "source_file": "dossiers/2026-11-12-2.md"
-  },
-  {
-   "id": "dossiers_2026_11_12_2_opinion_fr",
-   "label": "L'Opinion.fr",
-   "_origin": "semantic",
-   "community": 1,
-   "community_name": "stratégie et technologie IA",
-   "file_type": "concept",
-   "norm_label": "l'opinion.fr",
-   "rationale": "The media outlet that analyzed the security incidents.",
-   "source_file": "dossiers/2026-11-12-2.md"
-  },
-  {
    "id": "insight",
    "label": "Insight",
    "_origin": "semantic",
@@ -2736,17 +2670,6 @@
    },
    "norm_label": "insight",
    "source_file": "veilles/veille-ia-us-2026-11-11-t1.md"
-  },
-  {
-   "id": "obsidian",
-   "label": "Obsidian",
-   "_origin": "semantic",
-   "community": 1,
-   "community_name": "stratégie et technologie IA",
-   "file_type": "concept",
-   "norm_label": "obsidian",
-   "rationale": "Used as the display interface for the family brain system managed by Claude Code.",
-   "source_file": "veilles/veille-ia-fr-2026-11-11-t2.md"
   },
   {
    "id": "seagate",
@@ -2799,27 +2722,6 @@
    },
    "norm_label": "vmware",
    "source_file": "veilles/veille-ia-us-2026-11-11-t1.md"
-  },
-  {
-   "id": "feuilletons_f0014",
-   "label": "Feuilleton: Tencent mobilise la moitié de son personnel pour une poussée IA‑native",
-   "_origin": "semantic",
-   "community": 1,
-   "community_name": "stratégie et technologie IA",
-   "file_type": "document",
-   "norm_label": "feuilleton: tencent mobilise la moitie de son personnel pour une poussee ia‐native",
-   "source_file": "feuilletons/f-0014.md"
-  },
-  {
-   "id": "veilles_veille_ia_us_2026_11_10_t6",
-   "label": "Veille États-Unis 2026-11-10 : Marché, concurrence et tendances",
-   "_origin": "semantic",
-   "community": 1,
-   "community_name": "stratégie et technologie IA",
-   "file_type": "document",
-   "norm_label": "veille etats-unis 2026-11-10 : marche, concurrence et tendances",
-   "rationale": "Root document for market trends.",
-   "source_file": "veilles/veille-ia-us-2026-11-10-t6.md"
   },
   {
    "id": "veilles_veille_ia_us_2026_11_11_t1",
@@ -3108,13 +3010,30 @@
   },
   {
    "id": "australia_ai_regulation",
-   "label": "Organe de régulation de l'IA en Australie",
+   "label": "Australia AI Regulator",
    "_origin": "semantic",
    "community": 12,
    "community_name": "gouvernance et politiques IA",
    "file_type": "concept",
-   "norm_label": "organe de regulation de l'ia en australie",
-   "source_file": "veilles/veille-ia-fr-2026-11-10-t1.md"
+   "norm_label": "australia ai regulator",
+   "source_file": "veilles/veille-ia-fr-2026-11-10-t1.md",
+   "sources": [
+    "veilles/veille-ia-fr-2026-11-10-t1.md",
+    "feuilletons/f-0005.md"
+   ],
+   "variantes": [
+    "Organe de régulation de l'IA en Australie"
+   ]
+  },
+  {
+   "id": "feuilletons_f0005_rfi",
+   "label": "RFI",
+   "_origin": "semantic",
+   "community": 12,
+   "community_name": "gouvernance et politiques IA",
+   "file_type": "concept",
+   "norm_label": "rfi",
+   "source_file": "feuilletons/f-0005.md"
   },
   {
    "id": "feuilletons_f0006_pressecitron",
@@ -3146,6 +3065,249 @@
    "norm_label": "veille france 2026-11-10 : regulation et gouvernance",
    "rationale": "Root document for regulation and governance news.",
    "source_file": "veilles/veille-ia-fr-2026-11-10-t1.md"
+  },
+  {
+   "id": "meta",
+   "label": "Meta",
+   "_origin": "semantic",
+   "community": 13,
+   "community_name": "écosystème microsoft",
+   "file_type": "code",
+   "norm_label": "meta",
+   "rationale": "Company launching Muse Ember.",
+   "source_file": "veilles/veille-ia-fr-2026-11-09-t2.md",
+   "sources": [
+    "veilles/veille-ia-fr-2026-11-09-t2.md",
+    "veilles/veille-ia-us-2026-11-08-t4.md"
+   ],
+   "variantes": [
+    "Meta Platforms"
+   ]
+  },
+  {
+   "id": "microsoft",
+   "label": "Microsoft",
+   "_origin": "semantic",
+   "community": 13,
+   "community_name": "écosystème microsoft",
+   "file_type": "code",
+   "norm_label": "microsoft",
+   "source_file": "veilles/veille-ia-cn-2026-11-10-t2.md",
+   "sources": [
+    "veilles/veille-ia-cn-2026-11-10-t2.md",
+    "veilles/veille-ia-us-2026-11-10-t3.md"
+   ],
+   "verification": "unverified"
+  },
+  {
+   "id": "microsoft_ignite",
+   "label": "Microsoft Ignite",
+   "_origin": "semantic",
+   "community": 13,
+   "community_name": "écosystème microsoft",
+   "file_type": "code",
+   "norm_label": "microsoft ignite",
+   "source_file": "veilles/veille-ia-cn-2026-11-10-t2.md"
+  },
+  {
+   "id": "muse_ember",
+   "label": "Muse Ember",
+   "_origin": "semantic",
+   "community": 13,
+   "community_name": "écosystème microsoft",
+   "file_type": "code",
+   "norm_label": "muse ember",
+   "rationale": "AI model launched by Meta.",
+   "source_file": "veilles/veille-ia-fr-2026-11-09-t2.md"
+  },
+  {
+   "id": "hugging_face",
+   "label": "Hugging Face",
+   "_origin": "semantic",
+   "community": 13,
+   "community_name": "écosystème microsoft",
+   "file_type": "concept",
+   "metadata": {
+    "graphify_reference_stub": true
+   },
+   "norm_label": "hugging face",
+   "source_file": "veilles/veille-ia-us-2026-11-10-t2.md"
+  },
+  {
+   "id": "ibm",
+   "label": "IBM",
+   "_origin": "semantic",
+   "community": 13,
+   "community_name": "écosystème microsoft",
+   "file_type": "concept",
+   "metadata": {
+    "graphify_reference_stub": true
+   },
+   "norm_label": "ibm",
+   "source_file": "veilles/veille-ia-us-2026-11-10-t2.md"
+  },
+  {
+   "id": "veilles_muse_ai",
+   "label": "Muse AI assistant",
+   "_origin": "semantic",
+   "community": 13,
+   "community_name": "écosystème microsoft",
+   "file_type": "concept",
+   "norm_label": "muse ai assistant",
+   "source_file": "veilles/veille-ia-us-2026-11-08-t4.md"
+  },
+  {
+   "id": "veilles_veille_ia_us_2026_11_10_t2",
+   "label": "Veille États-Unis 2026-11-10 : Applications sectorielles",
+   "_origin": "semantic",
+   "community": 13,
+   "community_name": "écosystème microsoft",
+   "file_type": "document",
+   "norm_label": "veille etats-unis 2026-11-10 : applications sectorielles",
+   "rationale": "Root document for sectoral AI applications.",
+   "source_file": "veilles/veille-ia-us-2026-11-10-t2.md"
+  },
+  {
+   "id": "veilles_veille_ia_us_2026_11_10_t3",
+   "label": "Veille États-Unis 2026-11-10 : Agents IA et plateformes",
+   "_origin": "semantic",
+   "community": 13,
+   "community_name": "écosystème microsoft",
+   "file_type": "document",
+   "norm_label": "veille etats-unis 2026-11-10 : agents ia et plateformes",
+   "rationale": "Root document for AI agents and platforms.",
+   "source_file": "veilles/veille-ia-us-2026-11-10-t3.md"
+  },
+  {
+   "id": "adobe_creative_cloud",
+   "label": "Adobe Creative Cloud",
+   "_origin": "semantic",
+   "community": 14,
+   "community_name": "suite créative adobe",
+   "file_type": "code",
+   "norm_label": "adobe creative cloud",
+   "source_file": "veilles/veille-ia-cn-2026-11-10-t2.md"
+  },
+  {
+   "id": "adobe_firefly",
+   "label": "Adobe Firefly",
+   "_origin": "semantic",
+   "community": 14,
+   "community_name": "suite créative adobe",
+   "file_type": "code",
+   "norm_label": "adobe firefly",
+   "source_file": "veilles/veille-ia-cn-2026-11-10-t2.md"
+  },
+  {
+   "id": "cognizant",
+   "label": "Cognizant",
+   "_origin": "semantic",
+   "community": 14,
+   "community_name": "suite créative adobe",
+   "file_type": "code",
+   "norm_label": "cognizant",
+   "source_file": "veilles/veille-ia-cn-2026-11-10-t2.md"
+  },
+  {
+   "id": "roland_busch",
+   "label": "Roland Busch (博乐仁)",
+   "_origin": "semantic",
+   "community": 14,
+   "community_name": "suite créative adobe",
+   "file_type": "code",
+   "norm_label": "roland busch (博乐仁)",
+   "source_file": "veilles/veille-ia-cn-2026-11-10-t2.md",
+   "verification": "unverified"
+  },
+  {
+   "id": "siemens",
+   "label": "Siemens",
+   "_origin": "semantic",
+   "community": 14,
+   "community_name": "suite créative adobe",
+   "file_type": "code",
+   "norm_label": "siemens",
+   "source_file": "veilles/veille-ia-cn-2026-11-10-t2.md",
+   "verification": "unverified"
+  },
+  {
+   "id": "andrej_karpathy",
+   "label": "Andrej Karpathy",
+   "_origin": "semantic",
+   "community": 14,
+   "community_name": "suite créative adobe",
+   "file_type": "concept",
+   "norm_label": "andrej karpathy",
+   "source_file": "veilles/veille-ia-fr-2026-11-08-t4.md"
+  },
+  {
+   "id": "claude",
+   "label": "Claude",
+   "_origin": "semantic",
+   "community": 14,
+   "community_name": "suite créative adobe",
+   "file_type": "concept",
+   "norm_label": "claude",
+   "rationale": "Mentioned as the AI model used by Andrej Karpathy to build HackerTube.",
+   "source_file": "veilles/veille-ia-fr-2026-11-08-t4.md",
+   "sources": [
+    "veilles/veille-ia-fr-2026-11-08-t4.md",
+    "veilles/veille-ia-cn-2026-11-10-t2.md"
+   ],
+   "variantes": [
+    "Anthropic Claude"
+   ]
+  },
+  {
+   "id": "hackertube",
+   "label": "HackerTube",
+   "_origin": "semantic",
+   "community": 14,
+   "community_name": "suite créative adobe",
+   "file_type": "concept",
+   "norm_label": "hackertube",
+   "source_file": "veilles/veille-ia-fr-2026-11-08-t4.md"
+  },
+  {
+   "id": "moe_models",
+   "label": "Modèles d'IA MoE",
+   "_origin": "semantic",
+   "community": 14,
+   "community_name": "suite créative adobe",
+   "file_type": "concept",
+   "norm_label": "modeles d'ia moe",
+   "source_file": "veilles/veille-ia-fr-2026-11-08-t4.md"
+  },
+  {
+   "id": "veilles_veille_ia_cn_2026_11_10_t2",
+   "label": "Veille Chine 2026-11-10",
+   "_origin": "semantic",
+   "community": 14,
+   "community_name": "suite créative adobe",
+   "file_type": "document",
+   "norm_label": "veille chine 2026-11-10",
+   "rationale": "Root document containing the summary of AI news in China for the specified date.",
+   "source_file": "veilles/veille-ia-cn-2026-11-10-t2.md"
+  },
+  {
+   "id": "veilles_veille_ia_fr_2026_11_08_t4",
+   "label": "Veille France 2026-11-08 : Applications concrètes et innovations IA",
+   "_origin": "semantic",
+   "community": 14,
+   "community_name": "suite créative adobe",
+   "file_type": "document",
+   "norm_label": "veille france 2026-11-08 : applications concretes et innovations ia",
+   "source_file": "veilles/veille-ia-fr-2026-11-08-t4.md"
+  },
+  {
+   "id": "veilles_veille_ia_cn_2026_11_12_t6",
+   "label": "Veille Chine 2026-11-12 : Matériel, calcul et infrastructure",
+   "_origin": "semantic",
+   "community": 15,
+   "community_name": "Baidu et IA incarnée",
+   "file_type": "document",
+   "norm_label": "veille chine 2026-11-12 : materiel, calcul et infrastructure",
+   "source_file": "veilles/veille-ia-cn-2026-11-12-t6.md"
   },
   {
    "id": "veilles_veille_ia_us_2026_11_10_t1_anthropic_ipo",
@@ -3208,62 +3370,22 @@
    "source_file": "veilles/veille-ia-us-2026-11-10-t1.md"
   },
   {
-   "id": "helsing",
-   "label": "Helsing",
-   "_origin": "semantic",
-   "community": 19,
-   "community_name": "IA défense et sécurité",
-   "file_type": "concept",
-   "norm_label": "helsing",
-   "source_file": "veilles/veille-ia-us-2026-11-11-t3.md"
-  },
-  {
-   "id": "adobe_creative_cloud",
-   "label": "Adobe Creative Cloud",
-   "_origin": "semantic",
-   "community": 2,
-   "community_name": "plateformes et entreprises IA",
-   "file_type": "code",
-   "norm_label": "adobe creative cloud",
-   "source_file": "veilles/veille-ia-cn-2026-11-10-t2.md"
-  },
-  {
-   "id": "adobe_firefly",
-   "label": "Adobe Firefly",
-   "_origin": "semantic",
-   "community": 2,
-   "community_name": "plateformes et entreprises IA",
-   "file_type": "code",
-   "norm_label": "adobe firefly",
-   "source_file": "veilles/veille-ia-cn-2026-11-10-t2.md"
-  },
-  {
    "id": "amazon_bedrock",
    "label": "Amazon Bedrock",
    "_origin": "semantic",
    "community": 2,
-   "community_name": "plateformes et entreprises IA",
+   "community_name": "recherche sur l'ia openai",
    "file_type": "code",
    "norm_label": "amazon bedrock",
    "rationale": "Service complemented by ChatGPT Enterprise.",
    "source_file": "veilles/veille-ia-fr-2026-11-09-t2.md"
   },
   {
-   "id": "anthropic_claude",
-   "label": "Anthropic Claude",
-   "_origin": "semantic",
-   "community": 2,
-   "community_name": "plateformes et entreprises IA",
-   "file_type": "code",
-   "norm_label": "anthropic claude",
-   "source_file": "veilles/veille-ia-cn-2026-11-10-t2.md"
-  },
-  {
    "id": "aws",
    "label": "AWS",
    "_origin": "semantic",
    "community": 2,
-   "community_name": "plateformes et entreprises IA",
+   "community_name": "recherche sur l'ia openai",
    "file_type": "code",
    "norm_label": "aws",
    "rationale": "Platform hosting ChatGPT Enterprise.",
@@ -3274,67 +3396,21 @@
    "label": "ChatGPT Enterprise",
    "_origin": "semantic",
    "community": 2,
-   "community_name": "plateformes et entreprises IA",
+   "community_name": "recherche sur l'ia openai",
    "file_type": "code",
    "norm_label": "chatgpt enterprise",
    "rationale": "Product integrated into AWS Marketplace.",
    "source_file": "veilles/veille-ia-fr-2026-11-09-t2.md"
   },
   {
-   "id": "cognizant",
-   "label": "Cognizant",
+   "id": "logic_pro",
+   "label": "Logic Pro",
    "_origin": "semantic",
    "community": 2,
-   "community_name": "plateformes et entreprises IA",
+   "community_name": "recherche sur l'ia openai",
    "file_type": "code",
-   "norm_label": "cognizant",
-   "source_file": "veilles/veille-ia-cn-2026-11-10-t2.md"
-  },
-  {
-   "id": "meta",
-   "label": "Meta",
-   "_origin": "semantic",
-   "community": 2,
-   "community_name": "plateformes et entreprises IA",
-   "file_type": "code",
-   "norm_label": "meta",
-   "rationale": "Company launching Muse Ember.",
-   "source_file": "veilles/veille-ia-fr-2026-11-09-t2.md"
-  },
-  {
-   "id": "microsoft",
-   "label": "Microsoft",
-   "_origin": "semantic",
-   "community": 2,
-   "community_name": "plateformes et entreprises IA",
-   "file_type": "code",
-   "norm_label": "microsoft",
-   "source_file": "veilles/veille-ia-cn-2026-11-10-t2.md",
-   "sources": [
-    "veilles/veille-ia-cn-2026-11-10-t2.md",
-    "veilles/veille-ia-us-2026-11-10-t3.md"
-   ],
-   "verification": "unverified"
-  },
-  {
-   "id": "microsoft_ignite",
-   "label": "Microsoft Ignite",
-   "_origin": "semantic",
-   "community": 2,
-   "community_name": "plateformes et entreprises IA",
-   "file_type": "code",
-   "norm_label": "microsoft ignite",
-   "source_file": "veilles/veille-ia-cn-2026-11-10-t2.md"
-  },
-  {
-   "id": "muse_ember",
-   "label": "Muse Ember",
-   "_origin": "semantic",
-   "community": 2,
-   "community_name": "plateformes et entreprises IA",
-   "file_type": "code",
-   "norm_label": "muse ember",
-   "rationale": "AI model launched by Meta.",
+   "norm_label": "logic pro",
+   "rationale": "Product receiving AI updates.",
    "source_file": "veilles/veille-ia-fr-2026-11-09-t2.md"
   },
   {
@@ -3342,7 +3418,7 @@
    "label": "OpenAI",
    "_origin": "semantic",
    "community": 2,
-   "community_name": "plateformes et entreprises IA",
+   "community_name": "recherche sur l'ia openai",
    "file_type": "code",
    "norm_label": "openai",
    "source_file": "veilles/veille-ia-cn-2026-11-10-t2.md",
@@ -3352,33 +3428,11 @@
    ]
   },
   {
-   "id": "roland_busch",
-   "label": "Roland Busch (博乐仁)",
-   "_origin": "semantic",
-   "community": 2,
-   "community_name": "plateformes et entreprises IA",
-   "file_type": "code",
-   "norm_label": "roland busch (博乐仁)",
-   "source_file": "veilles/veille-ia-cn-2026-11-10-t2.md",
-   "verification": "unverified"
-  },
-  {
-   "id": "siemens",
-   "label": "Siemens",
-   "_origin": "semantic",
-   "community": 2,
-   "community_name": "plateformes et entreprises IA",
-   "file_type": "code",
-   "norm_label": "siemens",
-   "source_file": "veilles/veille-ia-cn-2026-11-10-t2.md",
-   "verification": "unverified"
-  },
-  {
    "id": "chatgpt",
    "label": "ChatGPT",
    "_origin": "semantic",
    "community": 2,
-   "community_name": "plateformes et entreprises IA",
+   "community_name": "recherche sur l'ia openai",
    "file_type": "concept",
    "norm_label": "chatgpt",
    "source_file": "veilles/veille-ia-us-2026-11-11-t4.md"
@@ -3388,47 +3442,56 @@
    "label": "Control Room (OpenAI)",
    "_origin": "semantic",
    "community": 2,
-   "community_name": "plateformes et entreprises IA",
+   "community_name": "recherche sur l'ia openai",
    "file_type": "concept",
    "norm_label": "control room (openai)",
    "source_file": "veilles/veille-ia-fr-2026-11-11-t4.md"
   },
   {
    "id": "feuilletons_f0009_fr_qz_com",
-   "label": "fr.qz.com",
+   "label": "Quartz",
    "_origin": "semantic",
    "community": 2,
-   "community_name": "plateformes et entreprises IA",
+   "community_name": "recherche sur l'ia openai",
    "file_type": "concept",
-   "norm_label": "fr.qz.com",
-   "source_file": "feuilletons/f-0009.md"
+   "norm_label": "quartz",
+   "source_file": "feuilletons/f-0009.md",
+   "sources": [
+    "feuilletons/f-0009.md"
+   ],
+   "variantes": [
+    "fr.qz.com"
+   ]
   },
   {
    "id": "feuilletons_f0009_numerama",
    "label": "Numerama",
    "_origin": "semantic",
    "community": 2,
-   "community_name": "plateformes et entreprises IA",
+   "community_name": "recherche sur l'ia openai",
    "file_type": "concept",
    "norm_label": "numerama",
    "source_file": "feuilletons/f-0009.md"
   },
   {
-   "id": "feuilletons_f0009_quartz",
-   "label": "Quartz",
+   "id": "fractile",
+   "label": "Fractile",
    "_origin": "semantic",
    "community": 2,
-   "community_name": "plateformes et entreprises IA",
+   "community_name": "recherche sur l'ia openai",
    "file_type": "concept",
-   "norm_label": "quartz",
-   "source_file": "feuilletons/f-0009.md"
+   "metadata": {
+    "graphify_reference_stub": true
+   },
+   "norm_label": "fractile",
+   "source_file": "veilles/veille-ia-fr-2026-11-11-t1.md"
   },
   {
    "id": "geoffrey_hinton",
    "label": "Geoffrey Hinton",
    "_origin": "semantic",
    "community": 2,
-   "community_name": "plateformes et entreprises IA",
+   "community_name": "recherche sur l'ia openai",
    "file_type": "concept",
    "metadata": {
     "graphify_reference_stub": true
@@ -3437,130 +3500,91 @@
    "source_file": "veilles/veille-ia-fr-2026-11-11-t4.md"
   },
   {
-   "id": "hugging_face",
-   "label": "Hugging Face",
+   "id": "harbor",
+   "label": "Harbor",
    "_origin": "semantic",
    "community": 2,
-   "community_name": "plateformes et entreprises IA",
+   "community_name": "recherche sur l'ia openai",
+   "file_type": "concept",
+   "norm_label": "harbor",
+   "source_file": "veilles/veille-ia-fr-2026-11-11-t2.md"
+  },
+  {
+   "id": "mistral",
+   "label": "Mistral AI",
+   "_origin": "semantic",
+   "community": 2,
+   "community_name": "recherche sur l'ia openai",
    "file_type": "concept",
    "metadata": {
     "graphify_reference_stub": true
    },
-   "norm_label": "hugging face",
-   "source_file": "veilles/veille-ia-us-2026-11-10-t2.md"
+   "norm_label": "mistral ai",
+   "source_file": "veilles/veille-ia-fr-2026-11-11-t5.md"
   },
   {
-   "id": "ibm",
-   "label": "IBM",
+   "id": "feuilletons_f0011",
+   "label": "Feuilleton: Fractile atteint 7 Mds $ après tour de financement",
    "_origin": "semantic",
    "community": 2,
-   "community_name": "plateformes et entreprises IA",
-   "file_type": "concept",
-   "metadata": {
-    "graphify_reference_stub": true
-   },
-   "norm_label": "ibm",
-   "source_file": "veilles/veille-ia-us-2026-11-10-t2.md"
-  },
-  {
-   "id": "veilles_veille_ia_cn_2026_11_10_t2",
-   "label": "Veille Chine 2026-11-10",
-   "_origin": "semantic",
-   "community": 2,
-   "community_name": "plateformes et entreprises IA",
+   "community_name": "recherche sur l'ia openai",
    "file_type": "document",
-   "norm_label": "veille chine 2026-11-10",
-   "rationale": "Root document containing the summary of AI news in China for the specified date.",
-   "source_file": "veilles/veille-ia-cn-2026-11-10-t2.md"
+   "norm_label": "feuilleton: fractile atteint 7 mds $ apres tour de financement",
+   "source_file": "feuilletons/f-0011.md"
   },
   {
    "id": "veilles_veille_ia_fr_2026_11_08_t3",
    "label": "Veille France 2026-11-08 : Régulation, politique et enjeux sociétaux",
    "_origin": "semantic",
    "community": 2,
-   "community_name": "plateformes et entreprises IA",
+   "community_name": "recherche sur l'ia openai",
    "file_type": "document",
    "norm_label": "veille france 2026-11-08 : regulation, politique et enjeux societaux",
    "source_file": "veilles/veille-ia-fr-2026-11-08-t3.md"
+  },
+  {
+   "id": "veilles_veille_ia_fr_2026_11_10_t5",
+   "label": "Veille France 2026-11-10 : Sécurité, risques et éthique",
+   "_origin": "semantic",
+   "community": 2,
+   "community_name": "recherche sur l'ia openai",
+   "file_type": "document",
+   "norm_label": "veille france 2026-11-10 : securite, risques et ethique",
+   "source_file": "veilles/veille-ia-fr-2026-11-10-t5.md"
+  },
+  {
+   "id": "veilles_veille_ia_fr_2026_11_11_t1",
+   "label": "Veille France 2026-11-11",
+   "_origin": "semantic",
+   "community": 2,
+   "community_name": "recherche sur l'ia openai",
+   "file_type": "document",
+   "norm_label": "veille france 2026-11-11",
+   "source_file": "veilles/veille-ia-fr-2026-11-11-t1.md",
+   "sources": [
+    "veilles/veille-ia-fr-2026-11-11-t1.md",
+    "veilles/veille-ia-fr-2026-11-11-t2.md"
+   ]
   },
   {
    "id": "veilles_veille_ia_fr_2026_11_11_t4",
    "label": "Veille France 2026-11-11 : Régulation, éthique et risques de l'IA",
    "_origin": "semantic",
    "community": 2,
-   "community_name": "plateformes et entreprises IA",
+   "community_name": "recherche sur l'ia openai",
    "file_type": "document",
    "norm_label": "veille france 2026-11-11 : regulation, ethique et risques de l'ia",
    "source_file": "veilles/veille-ia-fr-2026-11-11-t4.md"
   },
   {
-   "id": "veilles_veille_ia_us_2026_11_10_t2",
-   "label": "Veille États-Unis 2026-11-10 : Applications sectorielles",
+   "id": "veilles_veille_ia_fr_2026_11_11_t5",
+   "label": "Veille France 2026-11-11 : Autres articles",
    "_origin": "semantic",
    "community": 2,
-   "community_name": "plateformes et entreprises IA",
+   "community_name": "recherche sur l'ia openai",
    "file_type": "document",
-   "norm_label": "veille etats-unis 2026-11-10 : applications sectorielles",
-   "rationale": "Root document for sectoral AI applications.",
-   "source_file": "veilles/veille-ia-us-2026-11-10-t2.md"
-  },
-  {
-   "id": "veilles_veille_ia_us_2026_11_10_t3",
-   "label": "Veille États-Unis 2026-11-10 : Agents IA et plateformes",
-   "_origin": "semantic",
-   "community": 2,
-   "community_name": "plateformes et entreprises IA",
-   "file_type": "document",
-   "norm_label": "veille etats-unis 2026-11-10 : agents ia et plateformes",
-   "rationale": "Root document for AI agents and platforms.",
-   "source_file": "veilles/veille-ia-us-2026-11-10-t3.md"
-  },
-  {
-   "id": "agent_name_service",
-   "label": "Agent Name Service",
-   "_origin": "semantic",
-   "community": 21,
-   "community_name": "écosystèmes et outils IA",
-   "file_type": "concept",
-   "norm_label": "agent name service",
-   "source_file": "veilles/veille-ia-cn-2026-11-10-t5.md"
-  },
-  {
-   "id": "huawei",
-   "label": "华为 (Huawei)",
-   "_origin": "semantic",
-   "community": 21,
-   "community_name": "écosystèmes et outils IA",
-   "file_type": "concept",
-   "metadata": {
-    "graphify_reference_stub": true
-   },
-   "norm_label": "华为 (huawei)",
-   "source_file": "veilles/veille-ia-cn-2026-11-10-t5.md"
-  },
-  {
-   "id": "linux_foundation",
-   "label": "Linux Foundation",
-   "_origin": "semantic",
-   "community": 21,
-   "community_name": "écosystèmes et outils IA",
-   "file_type": "concept",
-   "metadata": {
-    "graphify_reference_stub": true
-   },
-   "norm_label": "linux foundation",
-   "source_file": "veilles/veille-ia-cn-2026-11-10-t5.md"
-  },
-  {
-   "id": "veilles_veille_ia_cn_2026_11_10_t5",
-   "label": "Veille Chine 2026-11-10 : Écosystèmes, plateformes et outils IA",
-   "_origin": "semantic",
-   "community": 21,
-   "community_name": "écosystèmes et outils IA",
-   "file_type": "document",
-   "norm_label": "veille chine 2026-11-10 : ecosystemes, plateformes et outils ia",
-   "rationale": "Root document for ecosystem and tools news.",
-   "source_file": "veilles/veille-ia-cn-2026-11-10-t5.md"
+   "norm_label": "veille france 2026-11-11 : autres articles",
+   "source_file": "veilles/veille-ia-fr-2026-11-11-t5.md"
   },
   {
    "id": "alphagenome_2",
@@ -3684,36 +3708,6 @@
    "source_file": "veilles/veille-ia-us-2026-11-09-t5.md"
   },
   {
-   "id": "anthropic_claude_fable_5_2",
-   "label": "Anthropic Claude Fable 5.2",
-   "_origin": "semantic",
-   "community": 26,
-   "community_name": "adoption IA en entreprise",
-   "file_type": "concept",
-   "norm_label": "anthropic claude fable 5.2",
-   "source_file": "veilles/veille-ia-us-2026-11-09-t2.md"
-  },
-  {
-   "id": "anthropic_claude_mythos_5_2",
-   "label": "Anthropic Claude Mythos 5.2",
-   "_origin": "semantic",
-   "community": 26,
-   "community_name": "adoption IA en entreprise",
-   "file_type": "concept",
-   "norm_label": "anthropic claude mythos 5.2",
-   "source_file": "veilles/veille-ia-us-2026-11-09-t2.md"
-  },
-  {
-   "id": "veilles_veille_ia_us_2026_11_09_t2",
-   "label": "Veille États-Unis 2026-11-09 : Entreprise",
-   "_origin": "semantic",
-   "community": 26,
-   "community_name": "adoption IA en entreprise",
-   "file_type": "document",
-   "norm_label": "veille etats-unis 2026-11-09 : entreprise",
-   "source_file": "veilles/veille-ia-us-2026-11-09-t2.md"
-  },
-  {
    "id": "caa",
    "label": "CAA",
    "_origin": "semantic",
@@ -3744,44 +3738,46 @@
    "source_file": "veilles/veille-ia-fr-2026-11-11-t2.md"
   },
   {
-   "id": "feuilletons_f0008_alibaba",
-   "label": "Alibaba",
+   "id": "agent_name_service",
+   "label": "Agent Name Service",
    "_origin": "semantic",
-   "community": 28,
-   "community_name": "matériel et finance Alibaba",
+   "community": 3,
+   "community_name": "avancées matérielles nvidia",
    "file_type": "concept",
-   "norm_label": "alibaba",
-   "source_file": "feuilletons/f-0008.md"
-  },
-  {
-   "id": "feuilletons_f0008_thead",
-   "label": "T-Head",
-   "_origin": "semantic",
-   "community": 28,
-   "community_name": "matériel et finance Alibaba",
-   "file_type": "concept",
-   "norm_label": "t-head",
-   "source_file": "feuilletons/f-0008.md"
-  },
-  {
-   "id": "feuilletons_f0008_zonebourse_suisse",
-   "label": "Zonebourse Suisse",
-   "_origin": "semantic",
-   "community": 28,
-   "community_name": "matériel et finance Alibaba",
-   "file_type": "concept",
-   "norm_label": "zonebourse suisse",
-   "source_file": "feuilletons/f-0008.md"
+   "norm_label": "agent name service",
+   "source_file": "veilles/veille-ia-cn-2026-11-10-t5.md"
   },
   {
    "id": "dossiers_2026_11_12_1_alice_huang",
    "label": "Alice Huang",
    "_origin": "semantic",
    "community": 3,
-   "community_name": "IA en entreprise et RH",
+   "community_name": "avancées matérielles nvidia",
    "file_type": "concept",
    "norm_label": "alice huang",
    "rationale": "Businesswoman linked to the scandal involving Jensen Huang.",
+   "source_file": "dossiers/2026-11-12-1.md"
+  },
+  {
+   "id": "dossiers_2026_11_12_1_colette_kress",
+   "label": "Colette Kress",
+   "_origin": "semantic",
+   "community": 3,
+   "community_name": "avancées matérielles nvidia",
+   "file_type": "concept",
+   "norm_label": "colette kress",
+   "rationale": "CFO and interim CEO of Nvidia.",
+   "source_file": "dossiers/2026-11-12-1.md"
+  },
+  {
+   "id": "dossiers_2026_11_12_1_harvey_c_jones",
+   "label": "Harvey C. Jones",
+   "_origin": "semantic",
+   "community": 3,
+   "community_name": "avancées matérielles nvidia",
+   "file_type": "concept",
+   "norm_label": "harvey c. jones",
+   "rationale": "Newly appointed Chairman of the Board at Nvidia.",
    "source_file": "dossiers/2026-11-12-1.md"
   },
   {
@@ -3789,18 +3785,62 @@
    "label": "Pékin",
    "_origin": "semantic",
    "community": 3,
-   "community_name": "IA en entreprise et RH",
+   "community_name": "avancées matérielles nvidia",
    "file_type": "concept",
    "norm_label": "pekin",
    "rationale": "Government entity associated with the espionage allegations.",
    "source_file": "dossiers/2026-11-12-1.md"
   },
   {
+   "id": "dossiers_2026_11_12_1_synopsys",
+   "label": "Synopsys",
+   "_origin": "semantic",
+   "community": 3,
+   "community_name": "avancées matérielles nvidia",
+   "file_type": "concept",
+   "norm_label": "synopsys",
+   "rationale": "Former employer of Harvey C. Jones.",
+   "source_file": "dossiers/2026-11-12-1.md"
+  },
+  {
+   "id": "huawei",
+   "label": "Huawei",
+   "_origin": "semantic",
+   "community": 3,
+   "community_name": "avancées matérielles nvidia",
+   "file_type": "concept",
+   "metadata": {
+    "graphify_reference_stub": true
+   },
+   "norm_label": "huawei",
+   "source_file": "veilles/veille-ia-cn-2026-11-10-t5.md",
+   "sources": [
+    "veilles/veille-ia-cn-2026-11-10-t5.md",
+    "dossiers/2026-11-12-1.md"
+   ],
+   "variantes": [
+    "华为 (Huawei)"
+   ]
+  },
+  {
+   "id": "linux_foundation",
+   "label": "Linux Foundation",
+   "_origin": "semantic",
+   "community": 3,
+   "community_name": "avancées matérielles nvidia",
+   "file_type": "concept",
+   "metadata": {
+    "graphify_reference_stub": true
+   },
+   "norm_label": "linux foundation",
+   "source_file": "veilles/veille-ia-cn-2026-11-10-t5.md"
+  },
+  {
    "id": "orange",
    "label": "Orange",
    "_origin": "semantic",
    "community": 3,
-   "community_name": "IA en entreprise et RH",
+   "community_name": "avancées matérielles nvidia",
    "file_type": "concept",
    "metadata": {
     "graphify_reference_stub": true
@@ -3809,11 +3849,25 @@
    "source_file": "veilles/veille-ia-fr-2026-11-10-t6.md"
   },
   {
+   "id": "sunoai",
+   "label": "Suno AI",
+   "_origin": "semantic",
+   "community": 3,
+   "community_name": "avancées matérielles nvidia",
+   "file_type": "concept",
+   "metadata": {
+    "graphify_reference_stub": true
+   },
+   "norm_label": "suno ai",
+   "rationale": "Entity central to the legal proceedings described in the document.",
+   "source_file": "veilles/veille-ia-us-2026-11-08-t2.md"
+  },
+  {
    "id": "veilles_veilleiafr20261110t3_cybersécurité",
    "label": "Cybersécurité",
    "_origin": "semantic",
    "community": 3,
-   "community_name": "IA en entreprise et RH",
+   "community_name": "avancées matérielles nvidia",
    "file_type": "concept",
    "norm_label": "cybersecurite",
    "source_file": "veilles/veille-ia-fr-2026-11-10-t3.md"
@@ -3823,7 +3877,7 @@
    "label": "Emploi et Licenciements",
    "_origin": "semantic",
    "community": 3,
-   "community_name": "IA en entreprise et RH",
+   "community_name": "avancées matérielles nvidia",
    "file_type": "concept",
    "norm_label": "emploi et licenciements",
    "source_file": "veilles/veille-ia-fr-2026-11-10-t3.md"
@@ -3833,18 +3887,39 @@
    "label": "IA et RH",
    "_origin": "semantic",
    "community": 3,
-   "community_name": "IA en entreprise et RH",
+   "community_name": "avancées matérielles nvidia",
    "file_type": "concept",
    "norm_label": "ia et rh",
    "rationale": "Central theme regarding deployment strategies and talent management.",
    "source_file": "veilles/veille-ia-fr-2026-11-10-t3.md"
   },
   {
+   "id": "feuilletons_f0002",
+   "label": "Feuilleton: Suno AI poursuivi de nouveau pour violation de droits d’auteur",
+   "_origin": "semantic",
+   "community": 3,
+   "community_name": "avancées matérielles nvidia",
+   "file_type": "document",
+   "norm_label": "feuilleton: suno ai poursuivi de nouveau pour violation de droits d’auteur",
+   "source_file": "feuilletons/f-0002.md"
+  },
+  {
+   "id": "veilles_veille_ia_cn_2026_11_10_t5",
+   "label": "Veille Chine 2026-11-10 : Écosystèmes, plateformes et outils IA",
+   "_origin": "semantic",
+   "community": 3,
+   "community_name": "avancées matérielles nvidia",
+   "file_type": "document",
+   "norm_label": "veille chine 2026-11-10 : ecosystemes, plateformes et outils ia",
+   "rationale": "Root document for ecosystem and tools news.",
+   "source_file": "veilles/veille-ia-cn-2026-11-10-t5.md"
+  },
+  {
    "id": "veilles_veille_ia_cn_2026_11_12_t7",
    "label": "Veille Chine 2026-11-12 : Marché financier et investissements IA",
    "_origin": "semantic",
    "community": 3,
-   "community_name": "IA en entreprise et RH",
+   "community_name": "avancées matérielles nvidia",
    "file_type": "document",
    "norm_label": "veille chine 2026-11-12 : marche financier et investissements ia",
    "source_file": "veilles/veille-ia-cn-2026-11-12-t7.md"
@@ -3854,7 +3929,7 @@
    "label": "Veille France 2026-11-08",
    "_origin": "semantic",
    "community": 3,
-   "community_name": "IA en entreprise et RH",
+   "community_name": "avancées matérielles nvidia",
    "file_type": "document",
    "norm_label": "veille france 2026-11-08",
    "source_file": "veilles/veille-ia-fr-2026-11-08-t5.md"
@@ -3864,7 +3939,7 @@
    "label": "Veille France 2026-11-10",
    "_origin": "semantic",
    "community": 3,
-   "community_name": "IA en entreprise et RH",
+   "community_name": "avancées matérielles nvidia",
    "file_type": "document",
    "norm_label": "veille france 2026-11-10",
    "source_file": "veilles/veille-ia-fr-2026-11-10-t6.md",
@@ -3874,24 +3949,14 @@
    ]
   },
   {
-   "id": "entity_liyanhong",
-   "label": "Li Yanhong (Robin Li)",
+   "id": "veilles_veilleiaus20261108t2",
+   "label": "Veille États-Unis 2026-11-08 : Régulation et contentieux",
    "_origin": "semantic",
-   "community": 32,
-   "community_name": "matériel et calcul chinois",
-   "file_type": "concept",
-   "norm_label": "li yanhong (robin li)",
-   "source_file": "veilles/veille-ia-cn-2026-11-12-t6.md"
-  },
-  {
-   "id": "veilles_veille_ia_cn_2026_11_12_t6",
-   "label": "Veille Chine 2026-11-12 : Matériel, calcul et infrastructure",
-   "_origin": "semantic",
-   "community": 32,
-   "community_name": "matériel et calcul chinois",
+   "community": 3,
+   "community_name": "avancées matérielles nvidia",
    "file_type": "document",
-   "norm_label": "veille chine 2026-11-12 : materiel, calcul et infrastructure",
-   "source_file": "veilles/veille-ia-cn-2026-11-12-t6.md"
+   "norm_label": "veille etats-unis 2026-11-08 : regulation et contentieux",
+   "source_file": "veilles/veille-ia-us-2026-11-08-t2.md"
   },
   {
    "id": "entity_zhaoliying",
@@ -3913,93 +3978,6 @@
    "file_type": "document",
    "norm_label": "veille chine 2026-11-12 : contenus et medias ia",
    "source_file": "veilles/veille-ia-cn-2026-11-12-t5.md"
-  },
-  {
-   "id": "feuilletons_f0005_australia_ai_regulator",
-   "label": "Australia AI Regulator",
-   "_origin": "semantic",
-   "community": 34,
-   "community_name": "régulation de l'IA",
-   "file_type": "concept",
-   "norm_label": "australia ai regulator",
-   "source_file": "feuilletons/f-0005.md"
-  },
-  {
-   "id": "feuilletons_f0005_rfi",
-   "label": "RFI",
-   "_origin": "semantic",
-   "community": 34,
-   "community_name": "régulation de l'IA",
-   "file_type": "concept",
-   "norm_label": "rfi",
-   "source_file": "feuilletons/f-0005.md"
-  },
-  {
-   "id": "alibaba_thead",
-   "label": "Alibaba T-Head",
-   "_origin": "semantic",
-   "community": 36,
-   "community_name": "infrastructure et finance IA",
-   "file_type": "concept",
-   "norm_label": "alibaba t-head",
-   "source_file": "veilles/veille-ia-fr-2026-11-10-t2.md"
-  },
-  {
-   "id": "bay_startup",
-   "label": "Bay (start-up)",
-   "_origin": "semantic",
-   "community": 36,
-   "community_name": "infrastructure et finance IA",
-   "file_type": "concept",
-   "norm_label": "bay (start-up)",
-   "source_file": "veilles/veille-ia-fr-2026-11-10-t2.md"
-  },
-  {
-   "id": "feuilletons_f0007_yahoo_finance_france",
-   "label": "Yahoo Finance France",
-   "_origin": "semantic",
-   "community": 36,
-   "community_name": "infrastructure et finance IA",
-   "file_type": "concept",
-   "norm_label": "yahoo finance france",
-   "source_file": "feuilletons/f-0007.md"
-  },
-  {
-   "id": "infineon",
-   "label": "Infineon",
-   "_origin": "semantic",
-   "community": 36,
-   "community_name": "infrastructure et finance IA",
-   "file_type": "concept",
-   "norm_label": "infineon",
-   "source_file": "veilles/veille-ia-fr-2026-11-10-t2.md",
-   "sources": [
-    "veilles/veille-ia-fr-2026-11-10-t2.md",
-    "feuilletons/f-0007.md",
-    "veilles/veille-ia-us-2026-11-10-t4.md"
-   ]
-  },
-  {
-   "id": "veilles_veille_ia_fr_2026_11_10_t2",
-   "label": "Veille France 2026-11-10 : Financement, marchés et IPO",
-   "_origin": "semantic",
-   "community": 36,
-   "community_name": "infrastructure et finance IA",
-   "file_type": "document",
-   "norm_label": "veille france 2026-11-10 : financement, marches et ipo",
-   "rationale": "Root document for financial and market news.",
-   "source_file": "veilles/veille-ia-fr-2026-11-10-t2.md"
-  },
-  {
-   "id": "veilles_veille_ia_us_2026_11_10_t4",
-   "label": "Veille États-Unis 2026-11-10 : Infrastructure et data‑centers",
-   "_origin": "semantic",
-   "community": 36,
-   "community_name": "infrastructure et finance IA",
-   "file_type": "document",
-   "norm_label": "veille etats-unis 2026-11-10 : infrastructure et data‐centers",
-   "rationale": "Root document for infrastructure.",
-   "source_file": "veilles/veille-ia-us-2026-11-10-t4.md"
   },
   {
    "id": "feuilletons_f0012_torus",
@@ -4046,116 +4024,11 @@
    "source_file": "veilles/veille-ia-cn-2026-11-10-t3.md"
   },
   {
-   "id": "logic_pro",
-   "label": "Logic Pro",
-   "_origin": "semantic",
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
-   "file_type": "code",
-   "norm_label": "logic pro",
-   "rationale": "Product receiving AI updates.",
-   "source_file": "veilles/veille-ia-fr-2026-11-09-t2.md"
-  },
-  {
-   "id": "dossiers_2026_11_12_1_colette_kress",
-   "label": "Colette Kress",
-   "_origin": "semantic",
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
-   "file_type": "concept",
-   "norm_label": "colette kress",
-   "rationale": "CFO and interim CEO of Nvidia.",
-   "source_file": "dossiers/2026-11-12-1.md"
-  },
-  {
-   "id": "dossiers_2026_11_12_1_harvey_c_jones",
-   "label": "Harvey C. Jones",
-   "_origin": "semantic",
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
-   "file_type": "concept",
-   "norm_label": "harvey c. jones",
-   "rationale": "Newly appointed Chairman of the Board at Nvidia.",
-   "source_file": "dossiers/2026-11-12-1.md"
-  },
-  {
-   "id": "dossiers_2026_11_12_1_huawei",
-   "label": "Huawei",
-   "_origin": "semantic",
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
-   "file_type": "concept",
-   "norm_label": "huawei",
-   "rationale": "Competitor capturing market share in China.",
-   "source_file": "dossiers/2026-11-12-1.md"
-  },
-  {
-   "id": "dossiers_2026_11_12_1_synopsys",
-   "label": "Synopsys",
-   "_origin": "semantic",
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
-   "file_type": "concept",
-   "norm_label": "synopsys",
-   "rationale": "Former employer of Harvey C. Jones.",
-   "source_file": "dossiers/2026-11-12-1.md"
-  },
-  {
-   "id": "fractile",
-   "label": "Fractile",
-   "_origin": "semantic",
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
-   "file_type": "concept",
-   "metadata": {
-    "graphify_reference_stub": true
-   },
-   "norm_label": "fractile",
-   "source_file": "veilles/veille-ia-fr-2026-11-11-t1.md"
-  },
-  {
-   "id": "harbor",
-   "label": "Harbor",
-   "_origin": "semantic",
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
-   "file_type": "concept",
-   "norm_label": "harbor",
-   "source_file": "veilles/veille-ia-fr-2026-11-11-t2.md"
-  },
-  {
-   "id": "mistral",
-   "label": "Mistral AI",
-   "_origin": "semantic",
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
-   "file_type": "concept",
-   "metadata": {
-    "graphify_reference_stub": true
-   },
-   "norm_label": "mistral ai",
-   "source_file": "veilles/veille-ia-fr-2026-11-11-t5.md"
-  },
-  {
-   "id": "sunoai",
-   "label": "Suno AI",
-   "_origin": "semantic",
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
-   "file_type": "concept",
-   "metadata": {
-    "graphify_reference_stub": true
-   },
-   "norm_label": "suno ai",
-   "rationale": "Entity central to the legal proceedings described in the document.",
-   "source_file": "veilles/veille-ia-us-2026-11-08-t2.md"
-  },
-  {
    "id": "veilles_elon_musk",
    "label": "Elon Musk",
    "_origin": "semantic",
    "community": 4,
-   "community_name": "matériel et géopolitique IA",
+   "community_name": "infrastructure cloud coreweave",
    "file_type": "concept",
    "norm_label": "elon musk",
    "source_file": "veilles/veille-ia-cn-2026-11-12-t2.md"
@@ -4165,74 +4038,10 @@
    "label": "SpaceX",
    "_origin": "semantic",
    "community": 4,
-   "community_name": "matériel et géopolitique IA",
+   "community_name": "infrastructure cloud coreweave",
    "file_type": "concept",
    "norm_label": "spacex",
    "source_file": "veilles/veille-ia-cn-2026-11-12-t2.md"
-  },
-  {
-   "id": "feuilletons_f0002",
-   "label": "Feuilleton: Suno AI poursuivi de nouveau pour violation de droits d’auteur",
-   "_origin": "semantic",
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
-   "file_type": "document",
-   "norm_label": "feuilleton: suno ai poursuivi de nouveau pour violation de droits d’auteur",
-   "source_file": "feuilletons/f-0002.md"
-  },
-  {
-   "id": "feuilletons_f0011",
-   "label": "Feuilleton: Fractile atteint 7 Mds $ après tour de financement",
-   "_origin": "semantic",
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
-   "file_type": "document",
-   "norm_label": "feuilleton: fractile atteint 7 mds $ apres tour de financement",
-   "source_file": "feuilletons/f-0011.md"
-  },
-  {
-   "id": "veilles_veille_ia_fr_2026_11_10_t5",
-   "label": "Veille France 2026-11-10 : Sécurité, risques et éthique",
-   "_origin": "semantic",
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
-   "file_type": "document",
-   "norm_label": "veille france 2026-11-10 : securite, risques et ethique",
-   "source_file": "veilles/veille-ia-fr-2026-11-10-t5.md"
-  },
-  {
-   "id": "veilles_veille_ia_fr_2026_11_11_t1",
-   "label": "Veille France 2026-11-11",
-   "_origin": "semantic",
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
-   "file_type": "document",
-   "norm_label": "veille france 2026-11-11",
-   "source_file": "veilles/veille-ia-fr-2026-11-11-t1.md",
-   "sources": [
-    "veilles/veille-ia-fr-2026-11-11-t1.md",
-    "veilles/veille-ia-fr-2026-11-11-t2.md"
-   ]
-  },
-  {
-   "id": "veilles_veille_ia_fr_2026_11_11_t5",
-   "label": "Veille France 2026-11-11 : Autres articles",
-   "_origin": "semantic",
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
-   "file_type": "document",
-   "norm_label": "veille france 2026-11-11 : autres articles",
-   "source_file": "veilles/veille-ia-fr-2026-11-11-t5.md"
-  },
-  {
-   "id": "veilles_veilleiaus20261108t2",
-   "label": "Veille États-Unis 2026-11-08 : Régulation et contentieux",
-   "_origin": "semantic",
-   "community": 4,
-   "community_name": "matériel et géopolitique IA",
-   "file_type": "document",
-   "norm_label": "veille etats-unis 2026-11-08 : regulation et contentieux",
-   "source_file": "veilles/veille-ia-us-2026-11-08-t2.md"
   },
   {
    "id": "googlehealth",
@@ -4451,23 +4260,79 @@
    "source_file": "veilles/veille-ia-us-2026-11-11-t6.md"
   },
   {
-   "id": "feuilletons_f0010_gemini_decisions",
-   "label": "Gemini Decisions",
+   "id": "claude_code",
+   "label": "Claude Code",
    "_origin": "semantic",
    "community": 6,
-   "community_name": "produits IA des Big Tech",
+   "community_name": "actualités de google",
    "file_type": "concept",
-   "norm_label": "gemini decisions",
-   "source_file": "feuilletons/f-0010.md"
+   "norm_label": "claude code",
+   "rationale": "Tool used by an educator to manage a family knowledge base.",
+   "source_file": "veilles/veille-ia-fr-2026-11-11-t2.md"
+  },
+  {
+   "id": "dossiers_2026_11_12_2_amap",
+   "label": "Amap",
+   "_origin": "semantic",
+   "community": 6,
+   "community_name": "actualités de google",
+   "file_type": "concept",
+   "norm_label": "amap",
+   "rationale": "The target of the autonomous agents' intrusion attempts.",
+   "source_file": "dossiers/2026-11-12-2.md"
+  },
+  {
+   "id": "dossiers_2026_11_12_2_chasseurs_dessaim",
+   "label": "Chasseurs d'essaim",
+   "_origin": "semantic",
+   "community": 6,
+   "community_name": "actualités de google",
+   "file_type": "concept",
+   "norm_label": "chasseurs d'essaim",
+   "rationale": "The research group that published the report on the incidents.",
+   "source_file": "dossiers/2026-11-12-2.md"
+  },
+  {
+   "id": "dossiers_2026_11_12_2_ia_native_strategy",
+   "label": "IA-native Strategy",
+   "_origin": "semantic",
+   "community": 6,
+   "community_name": "actualités de google",
+   "file_type": "concept",
+   "norm_label": "ia-native strategy",
+   "rationale": "The strategic initiative involving 50% of Tencent's workforce.",
+   "source_file": "dossiers/2026-11-12-2.md"
+  },
+  {
+   "id": "dossiers_2026_11_12_2_opinion_fr",
+   "label": "L'Opinion.fr",
+   "_origin": "semantic",
+   "community": 6,
+   "community_name": "actualités de google",
+   "file_type": "concept",
+   "norm_label": "l'opinion.fr",
+   "rationale": "The media outlet that analyzed the security incidents.",
+   "source_file": "dossiers/2026-11-12-2.md"
   },
   {
    "id": "gemini_4_carbon",
    "label": "Gemini 4 Carbon",
    "_origin": "semantic",
    "community": 6,
-   "community_name": "produits IA des Big Tech",
+   "community_name": "actualités de google",
    "file_type": "concept",
    "norm_label": "gemini 4 carbon",
+   "source_file": "veilles/veille-ia-fr-2026-11-11-t2.md"
+  },
+  {
+   "id": "obsidian",
+   "label": "Obsidian",
+   "_origin": "semantic",
+   "community": 6,
+   "community_name": "actualités de google",
+   "file_type": "concept",
+   "norm_label": "obsidian",
+   "rationale": "Used as the display interface for the family brain system managed by Claude Code.",
    "source_file": "veilles/veille-ia-fr-2026-11-11-t2.md"
   },
   {
@@ -4475,10 +4340,31 @@
    "label": "Feuilleton: Google étend la gamme Gemini",
    "_origin": "semantic",
    "community": 6,
-   "community_name": "produits IA des Big Tech",
+   "community_name": "actualités de google",
    "file_type": "document",
    "norm_label": "feuilleton: google etend la gamme gemini",
    "source_file": "feuilletons/f-0010.md"
+  },
+  {
+   "id": "feuilletons_f0014",
+   "label": "Feuilleton: Tencent mobilise la moitié de son personnel pour une poussée IA‑native",
+   "_origin": "semantic",
+   "community": 6,
+   "community_name": "actualités de google",
+   "file_type": "document",
+   "norm_label": "feuilleton: tencent mobilise la moitie de son personnel pour une poussee ia‐native",
+   "source_file": "feuilletons/f-0014.md"
+  },
+  {
+   "id": "veilles_veille_ia_us_2026_11_10_t6",
+   "label": "Veille États-Unis 2026-11-10 : Marché, concurrence et tendances",
+   "_origin": "semantic",
+   "community": 6,
+   "community_name": "actualités de google",
+   "file_type": "document",
+   "norm_label": "veille etats-unis 2026-11-10 : marche, concurrence et tendances",
+   "rationale": "Root document for market trends.",
+   "source_file": "veilles/veille-ia-us-2026-11-10-t6.md"
   },
   {
    "id": "veilles_veilleiaus20261108t5",
@@ -4645,18 +4531,83 @@
    "label": "Apple Siri AI",
    "_origin": "semantic",
    "community": 8,
-   "community_name": "matériel et assistants IA",
+   "community_name": "veille ia états-unis",
    "file_type": "concept",
    "norm_label": "apple siri ai",
    "rationale": "Identified as a primary agentic AI product under development by Apple.",
    "source_file": "veilles/veille-ia-us-2026-11-08-t6.md"
   },
   {
+   "id": "bay_startup",
+   "label": "Bay (start-up)",
+   "_origin": "semantic",
+   "community": 8,
+   "community_name": "veille ia états-unis",
+   "file_type": "concept",
+   "norm_label": "bay (start-up)",
+   "source_file": "veilles/veille-ia-fr-2026-11-10-t2.md"
+  },
+  {
+   "id": "feuilletons_f0007_yahoo_finance_france",
+   "label": "Yahoo Finance France",
+   "_origin": "semantic",
+   "community": 8,
+   "community_name": "veille ia états-unis",
+   "file_type": "concept",
+   "norm_label": "yahoo finance france",
+   "source_file": "feuilletons/f-0007.md"
+  },
+  {
+   "id": "feuilletons_f0008_alibaba",
+   "label": "Alibaba",
+   "_origin": "semantic",
+   "community": 8,
+   "community_name": "veille ia états-unis",
+   "file_type": "concept",
+   "norm_label": "alibaba",
+   "source_file": "feuilletons/f-0008.md"
+  },
+  {
+   "id": "feuilletons_f0008_zonebourse_suisse",
+   "label": "Zonebourse Suisse",
+   "_origin": "semantic",
+   "community": 8,
+   "community_name": "veille ia états-unis",
+   "file_type": "concept",
+   "norm_label": "zonebourse suisse",
+   "source_file": "feuilletons/f-0008.md"
+  },
+  {
+   "id": "helsing",
+   "label": "Helsing",
+   "_origin": "semantic",
+   "community": 8,
+   "community_name": "veille ia états-unis",
+   "file_type": "concept",
+   "norm_label": "helsing",
+   "source_file": "veilles/veille-ia-us-2026-11-11-t3.md"
+  },
+  {
+   "id": "infineon",
+   "label": "Infineon",
+   "_origin": "semantic",
+   "community": 8,
+   "community_name": "veille ia états-unis",
+   "file_type": "concept",
+   "norm_label": "infineon",
+   "source_file": "veilles/veille-ia-fr-2026-11-10-t2.md",
+   "sources": [
+    "veilles/veille-ia-fr-2026-11-10-t2.md",
+    "feuilletons/f-0007.md",
+    "veilles/veille-ia-us-2026-11-10-t4.md"
+   ]
+  },
+  {
    "id": "meta_muse",
    "label": "Meta Muse",
    "_origin": "semantic",
    "community": 8,
-   "community_name": "matériel et assistants IA",
+   "community_name": "veille ia états-unis",
    "file_type": "concept",
    "norm_label": "meta muse",
    "source_file": "veilles/veille-ia-us-2026-11-08-t6.md"
@@ -4666,47 +4617,28 @@
    "label": "OpenAI Dots",
    "_origin": "semantic",
    "community": 8,
-   "community_name": "matériel et assistants IA",
+   "community_name": "veille ia états-unis",
    "file_type": "concept",
    "norm_label": "openai dots",
    "source_file": "veilles/veille-ia-us-2026-11-08-t6.md"
   },
   {
-   "id": "veilles_meta",
-   "label": "Meta Platforms",
+   "id": "veilles_veille_ia_fr_2026_11_10_t2",
+   "label": "Veille France 2026-11-10 : Financement, marchés et IPO",
    "_origin": "semantic",
    "community": 8,
-   "community_name": "matériel et assistants IA",
-   "file_type": "concept",
-   "norm_label": "meta platforms",
-   "source_file": "veilles/veille-ia-us-2026-11-08-t4.md"
-  },
-  {
-   "id": "veilles_muse_ai",
-   "label": "Muse AI assistant",
-   "_origin": "semantic",
-   "community": 8,
-   "community_name": "matériel et assistants IA",
-   "file_type": "concept",
-   "norm_label": "muse ai assistant",
-   "source_file": "veilles/veille-ia-us-2026-11-08-t4.md"
-  },
-  {
-   "id": "veilles_palantir",
-   "label": "Palantir Technologies Inc.",
-   "_origin": "semantic",
-   "community": 8,
-   "community_name": "matériel et assistants IA",
-   "file_type": "concept",
-   "norm_label": "palantir technologies inc.",
-   "source_file": "veilles/veille-ia-us-2026-11-08-t4.md"
+   "community_name": "veille ia états-unis",
+   "file_type": "document",
+   "norm_label": "veille france 2026-11-10 : financement, marches et ipo",
+   "rationale": "Root document for financial and market news.",
+   "source_file": "veilles/veille-ia-fr-2026-11-10-t2.md"
   },
   {
    "id": "veilles_veille_ia_us_2026_11_08_t6",
    "label": "Veille États-Unis 2026-11-08",
    "_origin": "semantic",
    "community": 8,
-   "community_name": "matériel et assistants IA",
+   "community_name": "veille ia états-unis",
    "file_type": "document",
    "norm_label": "veille etats-unis 2026-11-08",
    "source_file": "veilles/veille-ia-us-2026-11-08-t6.md",
@@ -4716,11 +4648,22 @@
    ]
   },
   {
+   "id": "veilles_veille_ia_us_2026_11_10_t4",
+   "label": "Veille États-Unis 2026-11-10 : Infrastructure et data‑centers",
+   "_origin": "semantic",
+   "community": 8,
+   "community_name": "veille ia états-unis",
+   "file_type": "document",
+   "norm_label": "veille etats-unis 2026-11-10 : infrastructure et data‐centers",
+   "rationale": "Root document for infrastructure.",
+   "source_file": "veilles/veille-ia-us-2026-11-10-t4.md"
+  },
+  {
    "id": "veilles_xiaocai_arxiv261107042",
    "label": "Xiao and Cai, “Follow the Policy, Fail the Benchmark”, arXiv 2611.07042",
    "_origin": "semantic",
    "community": 8,
-   "community_name": "matériel et assistants IA",
+   "community_name": "veille ia états-unis",
    "file_type": "paper",
    "norm_label": "xiao and cai, “follow the policy, fail the benchmark”, arxiv 2611.07042",
    "source_file": "veilles/veille-ia-us-2026-11-08-t4.md"
@@ -4870,7 +4813,7 @@
    "source_file": "veilles/veille-ia-fr-2026-11-08-t4.md"
   },
   {
-   "source": "veilles_meta",
+   "source": "meta",
    "target": "veilles_muse_ai",
    "relation": "references",
    "_origin": "semantic",
@@ -4890,7 +4833,7 @@
    "source_file": "veilles/veille-ia-us-2026-11-11-t2.md"
   },
   {
-   "source": "feuilletons_f0008_thead",
+   "source": "veilles_pingtouge",
    "target": "feuilletons_f0008_alibaba",
    "relation": "references",
    "_origin": "semantic",
@@ -4982,7 +4925,7 @@
   },
   {
    "source": "feuilletons_f0005_rfi",
-   "target": "feuilletons_f0005_australia_ai_regulator",
+   "target": "australia_ai_regulation",
    "relation": "cites",
    "_origin": "semantic",
    "confidence": "EXTRACTED",
@@ -5012,7 +4955,7 @@
   },
   {
    "source": "feuilletons_f0008_zonebourse_suisse",
-   "target": "feuilletons_f0008_thead",
+   "target": "veilles_pingtouge",
    "relation": "cites",
    "_origin": "semantic",
    "confidence": "EXTRACTED",
@@ -5032,16 +4975,6 @@
   },
   {
    "source": "feuilletons_f0009_numerama",
-   "target": "openai",
-   "relation": "cites",
-   "_origin": "semantic",
-   "confidence": "EXTRACTED",
-   "confidence_score": 1.0,
-   "source_file": "feuilletons/f-0009.md",
-   "weight": 1.0
-  },
-  {
-   "source": "feuilletons_f0009_quartz",
    "target": "openai",
    "relation": "cites",
    "_origin": "semantic",
@@ -5139,7 +5072,7 @@
   },
   {
    "source": "adobe_creative_cloud",
-   "target": "anthropic_claude",
+   "target": "claude",
    "relation": "references",
    "_origin": "semantic",
    "confidence": "EXTRACTED",
@@ -5225,7 +5158,7 @@
   },
   {
    "source": "anthropic",
-   "target": "mythos_5_2",
+   "target": "claude_mythos_5_2",
    "relation": "references",
    "_origin": "semantic",
    "confidence": "EXTRACTED",
@@ -5297,7 +5230,7 @@
   },
   {
    "source": "cognizant",
-   "target": "anthropic_claude",
+   "target": "claude",
    "relation": "references",
    "_origin": "semantic",
    "confidence": "EXTRACTED",
@@ -5342,15 +5275,6 @@
   },
   {
    "source": "dossiers_2026_11_12_1_harvey_c_jones",
-   "target": "veilles_veille_ia_fr_2026_11_08_t2_nvidia",
-   "relation": "references",
-   "_origin": "semantic",
-   "confidence": "EXTRACTED",
-   "confidence_score": 1.0,
-   "source_file": "dossiers/2026-11-12-1.md"
-  },
-  {
-   "source": "dossiers_2026_11_12_1_huawei",
    "target": "veilles_veille_ia_fr_2026_11_08_t2_nvidia",
    "relation": "references",
    "_origin": "semantic",
@@ -5431,7 +5355,7 @@
   },
   {
    "source": "feuilletons_f0010",
-   "target": "feuilletons_f0010_gemini_decisions",
+   "target": "gemini_4_carbon",
    "relation": "references",
    "_origin": "semantic",
    "confidence": "EXTRACTED",
@@ -5440,7 +5364,7 @@
   },
   {
    "source": "feuilletons_f0010",
-   "target": "gemini_4_carbon",
+   "target": "google_gemini_decisions",
    "relation": "references",
    "_origin": "semantic",
    "confidence": "EXTRACTED",
@@ -5553,6 +5477,15 @@
    "confidence_score": 1.0,
    "source_file": "veilles/veille-ia-fr-2026-11-12-t4.md",
    "weight": 1.0
+  },
+  {
+   "source": "huawei",
+   "target": "veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+   "relation": "references",
+   "_origin": "semantic",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0,
+   "source_file": "dossiers/2026-11-12-1.md"
   },
   {
    "source": "linux_foundation",
@@ -5859,7 +5792,7 @@
   },
   {
    "source": "veilles_veille_ia_cn_2026_11_10_t4",
-   "target": "goldman_sachs",
+   "target": "veilles_veille_ia_fr_2026_11_09_t4_goldman_sachs",
    "relation": "references",
    "_origin": "semantic",
    "confidence": "EXTRACTED",
@@ -6140,7 +6073,7 @@
   },
   {
    "source": "veilles_veille_ia_cn_2026_11_12_t6",
-   "target": "entity_liyanhong",
+   "target": "veilles_robin_li",
    "relation": "references",
    "_origin": "semantic",
    "confidence": "EXTRACTED",
@@ -6500,15 +6433,6 @@
   },
   {
    "source": "veilles_veille_ia_fr_2026_11_10_t2",
-   "target": "alibaba_thead",
-   "relation": "references",
-   "_origin": "semantic",
-   "confidence": "EXTRACTED",
-   "confidence_score": 1.0,
-   "source_file": "veilles/veille-ia-fr-2026-11-10-t2.md"
-  },
-  {
-   "source": "veilles_veille_ia_fr_2026_11_10_t2",
    "target": "anthropic",
    "relation": "references",
    "_origin": "semantic",
@@ -6528,6 +6452,15 @@
   {
    "source": "veilles_veille_ia_fr_2026_11_10_t2",
    "target": "infineon",
+   "relation": "references",
+   "_origin": "semantic",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0,
+   "source_file": "veilles/veille-ia-fr-2026-11-10-t2.md"
+  },
+  {
+   "source": "veilles_veille_ia_fr_2026_11_10_t2",
+   "target": "veilles_pingtouge",
    "relation": "references",
    "_origin": "semantic",
    "confidence": "EXTRACTED",
@@ -7002,25 +6935,25 @@
   },
   {
    "source": "veilles_veille_ia_us_2026_11_08_t6",
+   "target": "meta",
+   "relation": "references",
+   "_origin": "semantic",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0,
+   "source_file": "veilles/veille-ia-us-2026-11-08-t4.md"
+  },
+  {
+   "source": "veilles_veille_ia_us_2026_11_08_t6",
+   "target": "palantir",
+   "relation": "references",
+   "_origin": "semantic",
+   "confidence": "EXTRACTED",
+   "confidence_score": 1.0,
+   "source_file": "veilles/veille-ia-us-2026-11-08-t4.md"
+  },
+  {
+   "source": "veilles_veille_ia_us_2026_11_08_t6",
    "target": "veilles_amd",
-   "relation": "references",
-   "_origin": "semantic",
-   "confidence": "EXTRACTED",
-   "confidence_score": 1.0,
-   "source_file": "veilles/veille-ia-us-2026-11-08-t4.md"
-  },
-  {
-   "source": "veilles_veille_ia_us_2026_11_08_t6",
-   "target": "veilles_meta",
-   "relation": "references",
-   "_origin": "semantic",
-   "confidence": "EXTRACTED",
-   "confidence_score": 1.0,
-   "source_file": "veilles/veille-ia-us-2026-11-08-t4.md"
-  },
-  {
-   "source": "veilles_veille_ia_us_2026_11_08_t6",
-   "target": "veilles_palantir",
    "relation": "references",
    "_origin": "semantic",
    "confidence": "EXTRACTED",
@@ -7056,7 +6989,7 @@
   },
   {
    "source": "veilles_veille_ia_us_2026_11_09_t2",
-   "target": "anthropic_claude_fable_5_2",
+   "target": "claude_fable_5_2",
    "relation": "references",
    "_origin": "semantic",
    "confidence": "EXTRACTED",
@@ -7065,7 +6998,7 @@
   },
   {
    "source": "veilles_veille_ia_us_2026_11_09_t2",
-   "target": "anthropic_claude_mythos_5_2",
+   "target": "claude_mythos_5_2",
    "relation": "references",
    "_origin": "semantic",
    "confidence": "EXTRACTED",
@@ -7914,7 +7847,7 @@
    "weight": 0.5
   },
   {
-   "source": "goldman_sachs",
+   "source": "veilles_veille_ia_fr_2026_11_09_t4_goldman_sachs",
    "target": "anthropic",
    "relation": "conceptually_related_to",
    "_origin": "semantic",
@@ -8021,7 +7954,7 @@
     "adobe_creative_cloud",
     "openai",
     "veilles_veille_ia_fr_2026_11_08_t1_google",
-    "anthropic_claude"
+    "claude"
    ],
    "relation": "participate_in",
    "confidence": "EXTRACTED",
@@ -8044,8 +7977,8 @@
    "id": "anthropic_frontier_model_release",
    "label": "Anthropic Frontier Model Release",
    "nodes": [
-    "anthropic_claude_fable_5_2",
-    "anthropic_claude_mythos_5_2"
+    "claude_fable_5_2",
+    "claude_mythos_5_2"
    ],
    "relation": "form",
    "confidence": "EXTRACTED",
@@ -8110,8 +8043,7 @@
    "label": "Media coverage of OpenAI updates",
    "nodes": [
     "feuilletons_f0009_fr_qz_com",
-    "feuilletons_f0009_numerama",
-    "feuilletons_f0009_quartz"
+    "feuilletons_f0009_numerama"
    ],
    "relation": "participate_in",
    "confidence": "EXTRACTED",
@@ -8189,7 +8121,7 @@
    "label": "Entities involved in AI market activity",
    "nodes": [
     "anthropic",
-    "alibaba_thead",
+    "veilles_pingtouge",
     "infineon",
     "bay_startup"
    ],

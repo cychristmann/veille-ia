@@ -16,11 +16,12 @@ tags:
 - [[Claude]] - `references` [EXTRACTED]
 - [[Claude Code]] - `references` [EXTRACTED]
 - [[Claude Fable 5.2]] - `conceptually_related_to` [EXTRACTED]
-- [[Claude Mythos 5.2]] - `conceptually_related_to` [EXTRACTED]
 - [[Claude Sheet]] - `references` [EXTRACTED]
 - [[Claude Whiteboards]] - `references` [EXTRACTED]
 - [[Fable 5.2 & Mythos 5.2]] - `references` [EXTRACTED]
 - [[Feuilleton Anthropic poursuit son IPO malgré inquiétudes]] - `references` [EXTRACTED]
+- [[Goldman Sachs]] - `conceptually_related_to` [INFERRED]
+- [[Mythos 5.2]] - `conceptually_related_to` [EXTRACTED]
 - [[Mythos 5.2]] - `references` [EXTRACTED]
 - [[SEC (U.S. Securities and Exchange Commission)]] - `references` [EXTRACTED]
 - [[SpaceX]] - `references` [EXTRACTED]
@@ -43,6 +44,5 @@ tags:
 - [[Veille États-Unis 2026-11-11  Régulation, Gouvernance et Éthique]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-12  Autres articles]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-12  Financement et marché de l'IA]] - `references` [EXTRACTED]
-- [[高盛 (Goldman Sachs)]] - `conceptually_related_to` [INFERRED]
 
 #graphify/concept #graphify/EXTRACTED #community/écosystème_Anthropic

@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0008.md"
 type: "concept"
-community: "matériel et finance Alibaba"
+community: "veille ia états-unis"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/matériel_et_finance_Alibaba
+  - community/veille_ia_états-unis
 ---
 
 # Alibaba
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[T-Head]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/matériel_et_finance_Alibaba
+#graphify/concept #graphify/EXTRACTED #community/veille_ia_états-unis

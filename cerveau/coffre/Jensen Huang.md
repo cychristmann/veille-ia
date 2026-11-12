@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t5.md"
 type: "concept"
-community: "IA en entreprise et RH"
+community: "avancées matérielles nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/IA_en_entreprise_et_RH
+  - community/avancées_matérielles_nvidia
 ---
 
 # Jensen Huang
@@ -20,4 +20,4 @@ tags:
 - [[Veille France 2026-11-08]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-10]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/IA_en_entreprise_et_RH
+#graphify/concept #graphify/EXTRACTED #community/avancées_matérielles_nvidia

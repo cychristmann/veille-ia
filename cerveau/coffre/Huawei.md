@@ -1,16 +1,17 @@
 ---
-source_file: "dossiers/2026-11-12-1.md"
+source_file: "veilles/veille-ia-cn-2026-11-10-t5.md"
 type: "concept"
-community: "matériel et géopolitique IA"
+community: "avancées matérielles nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/matériel_et_géopolitique_IA
+  - community/avancées_matérielles_nvidia
 ---
 
 # Huawei
 
 ## Connections
 - [[Nvidia]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-10  Écosystèmes, plateformes et outils IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/matériel_et_géopolitique_IA
+#graphify/concept #graphify/EXTRACTED #community/avancées_matérielles_nvidia

@@ -12,6 +12,6 @@ tags:
 
 ## Connections
 - [[Baidu World 2026]] - `references` [EXTRACTED]
-- [[Robin Li (李彦宏)]] - `references` [EXTRACTED]
+- [[Robin Li]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Baidu_et_IA_incarnée
