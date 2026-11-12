@@ -11,7 +11,7 @@ import json
 import shutil
 from pathlib import Path
 
-from interface import _fichiers_veille, etat_sources, liste_veilles
+from interface import _fichiers_veille, etat_sources, index_recherche, lire_tendances, liste_veilles
 
 RACINE = Path(__file__).parent
 SITE = RACINE / "site"
@@ -28,9 +28,17 @@ TETE = """<script>window.VEILLE_STATIQUE = true;</script>
 <link rel="apple-touch-icon" href="icones/apple-touch-icon.png">
 </head>"""
 
-# Avant </body> : enregistrement du service worker (lecture hors connexion).
+# Avant </body> : service worker (lecture hors connexion) et détection d'une nouvelle version.
 PIED = """<script>
-if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+if ("serviceWorker" in navigator) {
+  // Un changement de contrôleur alors qu'il y en avait déjà un = nouvelle version installée.
+  let dejaControle = !!navigator.serviceWorker.controller;
+  navigator.serviceWorker.addEventListener("controllerchange", () => {
+    if (dejaControle && typeof signalerNouvelleVersion === "function") signalerNouvelleVersion();
+    dejaControle = true;
+  });
+  navigator.serviceWorker.register("sw.js").catch(() => {});
+}
 </script>
 </body>"""
 
@@ -59,6 +67,8 @@ def construire() -> int:
         shutil.copy(fichier, SITE / "donnees" / fichier.name)
     _ecrire_json(SITE / "donnees" / "veilles.json", {"veilles": liste_veilles()})
     _ecrire_json(SITE / "donnees" / "sources.json", etat_sources())
+    _ecrire_json(SITE / "donnees" / "index.json", {"articles": index_recherche()})
+    _ecrire_json(SITE / "donnees" / "tendances.json", lire_tendances() or {"vide": True})
     return len(fichiers)
 
 

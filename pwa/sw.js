@@ -2,7 +2,7 @@
 // Stratégie « réseau d'abord » : on charge toujours la version la plus récente, et on en
 // garde une copie ; sans connexion, on affiche la dernière copie (la dernière veille consultée).
 
-const CACHE = "veille-ia-v2"; // changer le numéro à chaque refonte : vide l'ancien cache sur les téléphones
+const CACHE = "veille-ia-v3"; // changer le numéro à chaque refonte : vide l'ancien cache sur les téléphones
 const COQUILLE = ["./", "./index.html", "./manifest.json", "./icones/icone-192.png", "./icones/icone-512.png"];
 
 self.addEventListener("install", (evenement) => {

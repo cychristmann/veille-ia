@@ -8,6 +8,9 @@ N'utilise que la bibliothèque standard de Python : un petit serveur web sert la
     GET  /api/veille?region=fr&date=AAAA-MM-JJ   -> la veille d'une région un jour donné
                                                     (la plus récente sans date)
     POST /api/actualiser                         -> relance l'agent pour toutes les régions
+    GET  /api/index                              -> tous les articles de l'historique (recherche)
+    GET  /api/tendances                          -> tendances de la semaine (tendances.py)
+    POST /api/tendances/actualiser               -> relance l'agent tendances
     GET  /api/sources                            -> sources suivies et propositions
     POST /api/sources/chercher                   -> lance l'agent de découverte de sources
     POST /api/sources/decision                   -> ajouter / refuser / retirer une source
@@ -25,6 +28,7 @@ from urllib.parse import parse_qs, urlsplit
 from dotenv import load_dotenv
 
 import sources
+import tendances
 from agent import DOSSIER_RAPPORTS, REGIONS, lancer_veilles
 
 PAGE = Path(__file__).parent / "interface.html"
@@ -83,6 +87,31 @@ def liste_veilles() -> list[dict]:
     return list(jours.values())
 
 
+def index_recherche() -> list[dict]:
+    """Tous les articles de toutes les veilles, allégés, pour la recherche dans l'historique."""
+    entrees = []
+    for date, region, fichier in _fichiers_veille():
+        try:
+            donnees = json.loads(fichier.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+        for theme in donnees.get("themes", []):
+            for a in theme.get("articles", []):
+                entrees.append({
+                    "date": date, "region": region, "theme": theme.get("nom", ""),
+                    "titre": a.get("titre", ""), "titre_fr": a.get("titre_fr", ""),
+                    "source": a.get("source", ""), "lien": a.get("lien", ""), "note": a.get("note"),
+                })
+    return entrees
+
+
+def lire_tendances() -> dict | None:
+    try:
+        return json.loads(tendances.FICHIER_TENDANCES.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return None
+
+
 def lire_veille(region: str, date: str | None = None) -> dict | None:
     """Veille d'une région un jour donné, ou sa plus récente si date est None."""
     if region not in REGIONS:
@@ -128,6 +157,10 @@ class Gestionnaire(BaseHTTPRequestHandler):
             self._json(200, {"veilles": liste_veilles()})
         elif adresse.path == "/api/sources":
             self._json(200, etat_sources())
+        elif adresse.path == "/api/index":
+            self._json(200, {"articles": index_recherche()})
+        elif adresse.path == "/api/tendances":
+            self._json(200, lire_tendances() or {"vide": True})
         elif adresse.path == "/api/veille":
             parametres = parse_qs(adresse.query)
             date = parametres.get("date", [None])[0]
@@ -149,6 +182,8 @@ class Gestionnaire(BaseHTTPRequestHandler):
             return self._chercher_sources()
         if self.path == "/api/sources/decision":
             return self._decider_source()
+        if self.path == "/api/tendances/actualiser":
+            return self._actualiser_tendances()
         if self.path != "/api/actualiser":
             return self._json(404, {"erreur": "Page introuvable"})
         if not VEILLE_EN_COURS.acquire(blocking=False):
@@ -171,6 +206,21 @@ class Gestionnaire(BaseHTTPRequestHandler):
             etat = sources.chercher()
             print("Recherche terminée.")
             self._json(200, {**etat_sources(), "nouvelles": len(etat.get("propositions", []))})
+        except Exception as exc:
+            self._json(500, {"erreur": f"{type(exc).__name__} : {exc}"})
+        finally:
+            RECHERCHE_EN_COURS.release()
+
+    def _actualiser_tendances(self) -> None:
+        if not RECHERCHE_EN_COURS.acquire(blocking=False):
+            return self._json(409, {"erreur": "Un agent est déjà en cours."})
+        try:
+            print("Analyse des tendances…")
+            resultat = tendances.analyser()
+            print("Tendances terminées.")
+            self._json(200, resultat)
+        except SystemExit as exc:
+            self._json(400, {"erreur": str(exc)})
         except Exception as exc:
             self._json(500, {"erreur": f"{type(exc).__name__} : {exc}"})
         finally:

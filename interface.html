@@ -218,6 +218,81 @@
   .liste-source .etiquette.ajoutee { color: var(--accent); font-weight: 600; }
   .liste-source .bouton-retirer { padding: 3px 9px; font-size: .75rem; }
 
+  /* ---------- Favoris, partage, lecture, filtres, recherche, tendances ---------- */
+  .carte h3 a:visited, .top a:visited, .resultats a:visited { color: var(--texte-3); }  /* articles déjà ouverts */
+  .pied-carte { display: flex; align-items: center; gap: 4px; margin-top: auto; padding-top: 4px; }
+  .pied-carte .lire { margin: 0; flex: 1; }
+  .bouton-carte {
+    position: relative; z-index: 1; display: grid; place-items: center; width: 30px; height: 30px; border-radius: 8px;
+    border: 1px solid transparent; background: none; color: var(--texte-3); cursor: pointer;
+  }
+  .bouton-carte:hover { color: var(--accent); background: var(--accent-doux); }
+  .bouton-carte[aria-pressed="true"] { color: var(--accent); }
+  .bouton-carte[aria-pressed="true"] svg.icone { fill: currentColor; }
+  .bouton-carte svg.icone { width: 17px; height: 17px; }
+  .tag-region { padding: 1px 6px; border-radius: 5px; font-size: .68rem; font-weight: 700; flex: none;
+                color: hsl(var(--teinte) var(--sat) var(--lum-icone)); background: hsl(var(--teinte) var(--sat) var(--lum-fond)); }
+
+  .actions-synthese { display: flex; gap: 6px; margin-left: auto; }
+  .bouton-discret {
+    display: inline-flex; align-items: center; gap: 6px; padding: 6px 11px; border-radius: 9px; cursor: pointer;
+    font-size: .82rem; font-weight: 600; color: var(--texte-2); background: var(--surface-2); border: 1px solid var(--bordure);
+  }
+  .bouton-discret:hover { color: var(--texte); border-color: var(--bordure-forte); }
+  .bouton-discret[aria-pressed="true"] { color: var(--accent); background: var(--accent-doux); border-color: transparent; }
+  .bouton-discret svg.icone { width: 15px; height: 15px; }
+
+  .outils-ligne { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; margin-top: 10px; }
+  .outils-ligne label { display: inline-flex; align-items: center; gap: 6px; font-size: .82rem; color: var(--texte-3); }
+  .outils-ligne select {
+    font: inherit; font-size: .85rem; font-weight: 500; padding: 6px 10px; border-radius: 9px; cursor: pointer;
+    color: var(--texte); background: var(--surface); border: 1px solid var(--bordure);
+  }
+  .puces-note { display: inline-flex; gap: 6px; }
+  .puces-note .puce { padding: 5px 10px; font-size: .8rem; }
+  .lien-historique {
+    display: inline-flex; align-items: center; gap: 6px; margin-top: 8px; padding: 0; border: 0; background: none;
+    font-size: .85rem; font-weight: 600; color: var(--accent); cursor: pointer; text-align: left;
+  }
+  .lien-historique:hover { text-decoration: underline; }
+
+  .hors-ligne {
+    display: flex; align-items: center; justify-content: center; gap: 8px; padding: 8px 16px;
+    font-size: .85rem; font-weight: 600; background: var(--alerte-fond); color: var(--alerte-texte);
+  }
+  .toast .action {
+    margin-left: 6px; padding: 5px 10px; border-radius: 7px; border: 0; cursor: pointer; font-weight: 700; font-size: .85rem;
+    color: var(--texte); background: var(--fond);
+  }
+
+  .titre-vue { margin: 0; font-size: clamp(1.7rem, 3.4vw, 2.5rem); line-height: 1.15; letter-spacing: -.02em; }
+  .retour { margin-top: 14px; }
+  .resultats { margin-top: 24px; }
+  .resultats h2 { margin: 22px 0 8px; font-size: 1rem; color: var(--texte-2); }
+  .resultats ol { list-style: none; margin: 0; padding: 0; }
+  .resultats li { display: flex; align-items: flex-start; gap: 12px; padding: 9px 0; border-top: 1px solid var(--bordure); }
+  .resultats .texte { min-width: 0; flex: 1; }
+  .resultats a { color: var(--texte); font-weight: 600; text-decoration: none; overflow-wrap: anywhere; }
+  .resultats a:hover { color: var(--accent); text-decoration: underline; }
+  .resultats .detail { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; font-size: .8rem; color: var(--texte-3); margin-top: 3px; }
+
+  .tendances-grille { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(340px, 100%), 1fr)); gap: 16px; margin-top: 24px; }
+  .bloc-tendance { padding: 18px 20px; border-radius: 16px; background: var(--surface); border: 1px solid var(--bordure); box-shadow: var(--ombre-1); }
+  .bloc-tendance h2 { display: flex; align-items: center; gap: 8px; margin: 0 0 12px; font-size: 1.05rem; }
+  .bloc-tendance h2 .icone-theme { width: 32px; height: 32px; border-radius: 9px; }
+  .sujet { padding: 10px 0; border-top: 1px solid var(--bordure); }
+  .sujet:first-of-type { border-top: 0; padding-top: 0; }
+  .sujet strong { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; font-size: .98rem; }
+  .sujet p { margin: 4px 0 0; font-size: .9rem; color: var(--texte-2); }
+  .bloc-tendance ul { margin: 0; padding-left: 20px; color: var(--texte-2); font-size: .92rem; }
+  .bloc-tendance ul li { margin-bottom: 6px; }
+  .acteur { display: grid; grid-template-columns: 120px 1fr auto; align-items: center; gap: 10px; padding: 5px 0; font-size: .86rem; }
+  .acteur .nom { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .acteur .barre-acteur { height: 10px; border-radius: 999px; background: var(--surface-2); overflow: hidden; }
+  .acteur .barre-acteur i { display: block; height: 100%; border-radius: 999px; background: linear-gradient(90deg, var(--bleu-clair), var(--bleu-marine)); }
+  .acteur .delta { color: var(--texte-3); font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .acteur .delta.plus { color: var(--accent); font-weight: 600; }
+
   .pied-barre { margin-top: auto; display: flex; justify-content: space-between; align-items: center; padding: 0 6px; }
   .pied-barre small { color: var(--texte-3); font-size: .75rem; }
   .bouton-icone {
@@ -524,6 +599,12 @@
       <svg class="icone" data-icone="horloge"></svg><span>Mise à jour automatique chaque matin</span>
     </p>
 
+    <button class="lien-sources" id="ouvrir-tendances" type="button" aria-current="false">
+      <svg class="icone" data-icone="tendance"></svg><span>Cette semaine</span>
+    </button>
+    <button class="lien-sources" id="ouvrir-favoris" type="button" aria-current="false">
+      <svg class="icone" data-icone="etoile"></svg><span>Favoris</span><span class="compte" id="compte-favoris" hidden></span>
+    </button>
     <button class="lien-sources" id="ouvrir-sources" type="button" aria-current="false">
       <svg class="icone" data-icone="rss"></svg><span>Sources</span><span class="compte" id="compte-propositions" hidden></span>
     </button>
@@ -550,6 +631,7 @@
       <strong>Veille IA</strong>
     </div>
     <div class="progression" id="progression" hidden></div>
+    <div class="hors-ligne" id="hors-ligne" hidden><svg class="icone" data-icone="horsligne"></svg>Hors connexion : tu lis la dernière version enregistrée sur cet appareil.</div>
 
     <main class="page" id="page">
       <div id="chargement">
@@ -575,6 +657,14 @@
           <div class="tete-synthese">
             <h2><svg class="icone" data-icone="etincelles"></svg>Synthèse du jour</h2>
             <span class="verif" id="verif"></span>
+            <div class="actions-synthese">
+              <button class="bouton-discret" id="ecouter" type="button" aria-pressed="false" title="Lire la synthèse à voix haute">
+                <svg class="icone" data-icone="volume"></svg><span>Écouter</span>
+              </button>
+              <button class="bouton-discret" id="partager-synthese" type="button" title="Partager la synthèse du jour">
+                <svg class="icone" data-icone="partage"></svg><span>Partager</span>
+              </button>
+            </div>
           </div>
           <p id="synthese"></p>
           <details class="corrections" id="corrections" hidden>
@@ -609,7 +699,25 @@
             <svg class="icone" data-icone="loupe"></svg>
             <input id="recherche" type="search" placeholder="Rechercher un titre, un média…" aria-label="Rechercher un article">
           </label>
+          <button class="lien-historique" id="lien-historique" type="button" hidden>
+            <svg class="icone" data-icone="historique"></svg><span></span>
+          </button>
           <div class="puces" id="puces" role="group" aria-label="Filtrer par thème"></div>
+          <div class="outils-ligne">
+            <label><svg class="icone" data-icone="tri"></svg>Tri
+              <select id="tri" aria-label="Ordre des articles">
+                <option value="theme">par thème</option>
+                <option value="note">par note</option>
+                <option value="heure">par heure</option>
+              </select>
+            </label>
+            <div class="puces-note" id="filtre-note" role="group" aria-label="Note minimale">
+              <button class="puce" type="button" data-min="0" aria-pressed="true">Toutes les notes</button>
+              <button class="puce" type="button" data-min="5" aria-pressed="false">≥ 5</button>
+              <button class="puce" type="button" data-min="7" aria-pressed="false">≥ 7</button>
+              <button class="puce" type="button" data-min="8" aria-pressed="false">≥ 8</button>
+            </div>
+          </div>
         </div>
 
         <div id="themes"></div>
@@ -646,6 +754,57 @@
 
         <h2 class="titre-section"><svg class="icone" data-icone="rss"></svg>Sources suivies</h2>
         <div class="listes-sources" id="listes-sources"></div>
+      </div>
+
+      <div id="vue-favoris" hidden>
+        <header>
+          <p class="surtitre"><svg class="icone" data-icone="etoile"></svg>Mis de côté</p>
+          <h1 class="titre-vue">Favoris <small class="nb" id="nb-favoris"></small></h1>
+          <p class="intro-sources">Les articles que tu as marqués d'une étoile. Ils restent sur cet appareil, dans ce navigateur.</p>
+        </header>
+        <div class="grille" id="grille-favoris" style="margin-top: 24px"></div>
+        <p class="aucun-jour" id="aucun-favori" hidden>Aucun favori pour l'instant : touche l'étoile sur un article pour le garder ici.</p>
+      </div>
+
+      <div id="vue-recherche" hidden>
+        <header>
+          <p class="surtitre"><svg class="icone" data-icone="historique"></svg>Dans tout l'historique</p>
+          <h1 class="titre-vue" id="titre-recherche"></h1>
+          <p class="intro-sources" id="nb-resultats"></p>
+          <button class="bouton-discret retour" id="retour-recherche" type="button"><svg class="icone" data-icone="retour"></svg><span>Retour à la veille</span></button>
+        </header>
+        <div class="resultats" id="liste-resultats"></div>
+      </div>
+
+      <div id="vue-tendances" hidden>
+        <header>
+          <p class="surtitre"><svg class="icone" data-icone="tendance"></svg>Agent tendances</p>
+          <h1 class="titre-vue">Cette semaine</h1>
+          <p class="intro-sources" id="periode-tendances"></p>
+          <div class="actions-sources" id="actions-tendances">
+            <button class="bouton-principal" id="actualiser-tendances" type="button">
+              <svg class="icone" data-icone="actualiser"></svg><span>Recalculer les tendances</span>
+            </button>
+            <small>Un appel à l'IA · compare les 7 derniers jours</small>
+          </div>
+        </header>
+        <div class="vide" id="tendances-vide" hidden>
+          <div class="rond-vide"><svg class="icone" data-icone="tendance"></svg></div>
+          <h2>Pas encore de tendances</h2>
+          <p>Elles sont calculées chaque matin à partir des 7 derniers jours de veille.</p>
+        </div>
+        <div id="tendances-contenu" hidden>
+          <div class="synthese" style="margin-top: 22px">
+            <h2><svg class="icone" data-icone="etincelles"></svg>La semaine en bref</h2>
+            <p id="synthese-semaine"></p>
+          </div>
+          <div class="tendances-grille">
+            <div class="bloc-tendance"><h2><span class="icone-theme" style="--teinte: 210"><svg class="icone" data-icone="tendance"></svg></span>Ce qui monte</h2><div id="montants"></div></div>
+            <div class="bloc-tendance"><h2><span class="icone-theme" style="--teinte: 228"><svg class="icone" data-icone="baisse"></svg></span>Ce qui retombe</h2><div id="retombes"></div></div>
+            <div class="bloc-tendance"><h2><span class="icone-theme" style="--teinte: 200"><svg class="icone" data-icone="oeil"></svg></span>À surveiller</h2><ul id="surveiller"></ul></div>
+            <div class="bloc-tendance"><h2><span class="icone-theme" style="--teinte: 220"><svg class="icone" data-icone="personnes"></svg></span>Acteurs les plus cités</h2><div id="acteurs"></div></div>
+          </div>
+        </div>
       </div>
 
       <div class="vide" id="pas-de-veille" hidden>
@@ -712,6 +871,16 @@ const ICONES = {
   langues: '<path d="m5 8 6 6"/><path d="m4 14 6-6 2-3"/><path d="M2 5h12"/><path d="M7 2h1"/><path d="m22 22-5-10-5 10"/><path d="M14 18h6"/>', // languages
   boussole: '<circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/>', // compass
   coche: '<path d="M20 6 9 17l-5-5"/>', // check
+  etoile: '<path d="M11.525 2.295a.53.53 0 0 1 .95 0l2.31 4.679a2.123 2.123 0 0 0 1.595 1.16l5.166.756a.53.53 0 0 1 .294.904l-3.736 3.638a2.123 2.123 0 0 0-.611 1.878l.882 5.14a.53.53 0 0 1-.771.56l-4.618-2.428a2.122 2.122 0 0 0-1.973 0L6.396 21.01a.53.53 0 0 1-.77-.56l.881-5.139a2.122 2.122 0 0 0-.611-1.879L2.16 9.795a.53.53 0 0 1 .294-.906l5.165-.755a2.122 2.122 0 0 0 1.597-1.16z"/>', // star
+  partage: '<circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" x2="15.42" y1="13.51" y2="17.49"/><line x1="15.41" x2="8.59" y1="6.51" y2="10.49"/>', // share-2
+  volume: '<path d="M11 4.702a.705.705 0 0 0-1.203-.498L6.413 7.587A1.4 1.4 0 0 1 5.416 8H3a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h2.416a1.4 1.4 0 0 1 .997.413l3.383 3.384A.705.705 0 0 0 11 19.298z"/><path d="M16 9a5 5 0 0 1 0 6"/><path d="M19.364 18.364a9 9 0 0 0 0-12.728"/>', // volume-2
+  stop: '<rect width="18" height="18" x="3" y="3" rx="2"/>', // square
+  horsligne: '<path d="M12 20h.01"/><path d="M8.5 16.429a5 5 0 0 1 7 0"/><path d="M5 12.859a10 10 0 0 1 5.17-2.69"/><path d="M19 12.859a10 10 0 0 0-2.007-1.523"/><path d="M2 8.82a15 15 0 0 1 4.177-2.643"/><path d="M22 8.82a15 15 0 0 0-11.288-3.764"/><path d="m2 2 20 20"/>', // wifi-off
+  baisse: '<polyline points="22 17 13.5 8.5 8.5 13.5 2 7"/><polyline points="16 17 22 17 22 11"/>', // trending-down
+  oeil: '<path d="M2.062 12.348a1 1 0 0 1 0-.696 10.75 10.75 0 0 1 19.876 0 1 1 0 0 1 0 .696 10.75 10.75 0 0 1-19.876 0"/><circle cx="12" cy="12" r="3"/>', // eye
+  historique: '<path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/><path d="M12 7v5l4 2"/>', // history
+  tri: '<path d="m21 16-4 4-4-4"/><path d="M17 20V4"/><path d="m3 8 4-4 4 4"/><path d="M7 4v16"/>', // arrow-up-down
+  retour: '<path d="m12 19-7-7 7-7"/><path d="M19 12H5"/>', // arrow-left
 };
 
 // Thème -> (icône, teinte). Le modèle choisit librement les noms : on reconnaît des mots-clés.
@@ -757,11 +926,15 @@ const URLS = STATIQUE
       jours: "donnees/veilles.json",
       veille: (r, d) => `donnees/veille-ia-${encodeURIComponent(r)}-${encodeURIComponent(d)}.json`,
       sources: "donnees/sources.json",
+      index: "donnees/index.json",
+      tendances: "donnees/tendances.json",
     }
   : {
       jours: "/api/veilles",
       veille: (r, d) => `/api/veille?region=${encodeURIComponent(r)}&date=${encodeURIComponent(d)}`,
       sources: "/api/sources",
+      index: "/api/index",
+      tendances: "/api/tendances",
     };
 const SVG = "http://www.w3.org/2000/svg";
 function icone(nom) {
@@ -807,7 +980,7 @@ function libelleJour(iso) {
 }
 function heureArticle(iso, jourVeille) {
   const d = new Date(iso);
-  const memeJour = d.toDateString() === dateLocale(jourVeille).toDateString();
+  const memeJour = !!jourVeille && d.toDateString() === dateLocale(jourVeille).toDateString();
   return memeJour ? fmt(d, { hour: "2-digit", minute: "2-digit" })
                   : fmt(d, { day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit" });
 }
@@ -892,6 +1065,11 @@ function carte(article) {
   avatar.style.setProperty("--teinte", teinteSource(article.source));
   const heure = el("span", "heure");
   heure.append(icone("horloge"), document.createTextNode(heureArticle(article.date, jourActif)));
+  if (!jourActif && REGIONS[article.region]) {  // hors d'une veille (favoris) : rappeler la région
+    const tag = el("span", "tag-region", REGIONS[article.region].code);
+    tag.style.setProperty("--teinte", REGIONS[article.region].teinte);
+    ligne.append(tag);
+  }
   ligne.append(avatar, el("span", "nom", article.source), heure);
   if (Number.isInteger(article.note)) ligne.append(pastilleNote(article));
 
@@ -905,11 +1083,28 @@ function carte(article) {
   if (article.titre_fr) div.append(el("p", "titre-original", article.titre));
   if (article.motif) div.append(el("p", "motif", article.motif));
   if (article.resume) div.append(el("p", "resume", article.resume));
+  const pied = el("div", "pied-carte");
   if (href) {
     const lire = el("span", "lire", "Lire l'article");
     lire.append(icone("externe"));
-    div.append(lire);
+    pied.append(lire);
+  } else {
+    pied.append(el("span", "lire", ""));
   }
+  const favori = el("button", "bouton-carte");
+  favori.type = "button";
+  favori.setAttribute("aria-pressed", String(estFavori(article.lien)));
+  favori.title = "Garder dans les favoris";
+  favori.append(icone("etoile"));
+  favori.addEventListener("click", (e) => { e.preventDefault(); basculerFavori(article, favori); });
+  const part = el("button", "bouton-carte");
+  part.type = "button";
+  part.title = "Partager";
+  part.append(icone("partage"));
+  part.addEventListener("click", (e) => { e.preventDefault(); partager(article.titre_fr || article.titre, href || "", `${article.titre_fr || article.titre} — ${article.source}`); });
+  pied.append(favori, part);
+  div.append(pied);
+  if (Number.isInteger(article.note)) div.dataset.note = String(article.note);
   div.dataset.recherche = sansAccents(`${article.titre} ${article.titre_fr || ""} ${article.source} ${article.resume} ${article.motif || ""}`);
   return div;
 }
@@ -995,39 +1190,57 @@ function afficherVeille() {
   ajouterPuce("tous", "Tous", veille.nombre_articles, { icone: "couches", teinte: TEINTE_DEFAUT });
   veille.themes.forEach((t) => ajouterPuce(t.nom, t.nom, t.articles.length, famille(t.nom)));
 
-  const themes = $("themes");
-  themes.replaceChildren();
-  for (const t of veille.themes) {
-    const fam = famille(t.nom);
-    const section = el("section", "theme");
-    section.dataset.theme = t.nom;
-    const tete = el("div", "tete-theme");
-    const rond = el("div", "icone-theme");
-    rond.style.setProperty("--teinte", fam.teinte);
-    rond.append(icone(fam.icone));
-    const textes = el("div");
-    const h2 = el("h2", "", t.nom);
-    h2.append(el("span", "nb", `${t.articles.length} article${t.articles.length > 1 ? "s" : ""}`));
-    textes.append(h2);
-    if (t.resume) textes.append(el("p", "", t.resume));
-    tete.append(rond, textes);
-    const grille = el("div", "grille");
-    t.articles.forEach((a) => grille.append(carte(a)));
-    section.append(tete, grille);
-    themes.append(section);
-  }
+  // Filtre par note : seulement si l'agent noteur est passé sur cette veille.
+  $("filtre-note").hidden = !veille.articles_notes;
+  if (!veille.articles_notes) choisirNoteMin(0);
+  rendreArticles();
 
   const ecartes = veille.ecartes || [];
   $("ecartes").hidden = !ecartes.length;
   $("titre-ecartes").textContent = `Écartés par l'IA comme hors sujet (${ecartes.length})`;
   $("grille-ecartes").replaceChildren(...ecartes.map(carte));
 
-  $("chargement").hidden = true;
-  $("pas-de-veille").hidden = true;
-  $("vue-sources").hidden = true;
-  $("ouvrir-sources").setAttribute("aria-current", "false");
-  $("vue").hidden = false;
+  montrerVue("vue");
   filtrer();
+}
+
+// Les articles, groupés par thème (défaut) ou à plat, triés par note ou par heure.
+function sectionArticles(nom, fam, resume, articles, theme) {
+  const section = el("section", "theme");
+  if (theme) section.dataset.theme = theme;
+  const tete = el("div", "tete-theme");
+  const rond = el("div", "icone-theme");
+  rond.style.setProperty("--teinte", fam.teinte);
+  rond.append(icone(fam.icone));
+  const textes = el("div");
+  const h2 = el("h2", "", nom);
+  h2.append(el("span", "nb", `${articles.length} article${articles.length > 1 ? "s" : ""}`));
+  textes.append(h2);
+  if (resume) textes.append(el("p", "", resume));
+  tete.append(rond, textes);
+  const grille = el("div", "grille");
+  for (const a of articles) {
+    const c = carte(a);
+    c.dataset.theme = a._theme || theme || "";
+    grille.append(c);
+  }
+  section.append(tete, grille);
+  return section;
+}
+
+function rendreArticles() {
+  const themes = $("themes");
+  themes.replaceChildren();
+  if (triActif === "theme") {
+    for (const t of veille.themes) themes.append(sectionArticles(t.nom, famille(t.nom), t.resume, t.articles, t.nom));
+    return;
+  }
+  const tous = veille.themes.flatMap((t) => t.articles.map((a) => ({ ...a, _theme: t.nom })));
+  tous.sort(triActif === "note"
+    ? (a, b) => (b.note || 0) - (a.note || 0) || b.date.localeCompare(a.date)
+    : (a, b) => b.date.localeCompare(a.date));
+  const titre = triActif === "note" ? "Tous les articles, du mieux noté au moins bien noté" : "Tous les articles, du plus récent au plus ancien";
+  themes.append(sectionArticles(titre, { icone: "tri", teinte: TEINTE_DEFAUT }, "", tous, null));
 }
 
 // ===== Rubriques Vidéos et Podcasts =====
@@ -1167,13 +1380,15 @@ function afficherVerification(verification) {
 }
 
 function filtrer() {
-  const texte = sansAccents($("recherche").value.trim());
+  const brut = $("recherche").value.trim();
+  const texte = sansAccents(brut);
   let visibles = 0;
   for (const section of $("themes").children) {
-    const themeOk = themeActif === "tous" || section.dataset.theme === themeActif;
     let n = 0;
     for (const c of section.querySelectorAll(".carte")) {
-      const ok = themeOk && (!texte || c.dataset.recherche.includes(texte));
+      const themeOk = themeActif === "tous" || c.dataset.theme === themeActif;
+      const noteOk = !noteMin || (Number(c.dataset.note) || 0) >= noteMin;
+      const ok = themeOk && noteOk && (!texte || c.dataset.recherche.includes(texte));
       c.hidden = !ok;
       if (ok) n++;
     }
@@ -1181,6 +1396,10 @@ function filtrer() {
     visibles += n;
   }
   $("aucun-resultat").hidden = visibles > 0;
+  // Dès trois caractères, proposer d'étendre la recherche à tout l'historique.
+  const lien = $("lien-historique");
+  lien.hidden = brut.length < 3 || jours.length < 2;
+  if (!lien.hidden) lien.querySelector("span").textContent = `Chercher « ${brut} » dans tout l'historique (${jours.length} jours)`;
 }
 
 // ===== Chargement des données (serveur local ou fichiers publiés) =====
@@ -1241,16 +1460,20 @@ async function choisirJour(date, region = regionActive) {
 }
 
 function montrerVide() {
-  $("chargement").hidden = true;
-  $("vue").hidden = true;
-  $("vue-sources").hidden = true;
-  $("pas-de-veille").hidden = false;
+  montrerVue("pas-de-veille");
 }
 
 async function demarrer() {
   chargerSources().catch(() => {});  // le compteur de propositions n'est pas indispensable
+  majCompteFavoris();
   await chargerJours();
+  if (STATIQUE && jours.length) {
+    // Précharger les veilles du jour : le service worker les garde pour la lecture hors ligne.
+    for (const code of Object.keys(jours[0].regions)) fetch(URLS.veille(code, jours[0].date)).catch(() => {});
+  }
   if (location.hash === "#sources") { afficherJours(); return montrerSources(); }
+  if (location.hash === "#favoris") { afficherJours(); return montrerFavoris(); }
+  if (location.hash === "#semaine") { afficherJours(); return montrerTendances(); }
   if (!jours.length) { afficherJours(); return montrerVide(); }
   const [date, region] = location.hash.slice(1).split("/");  // ex. #2026-11-08/us
   await choisirJour(jours.some((j) => j.date === date) ? date : jours[0].date,
@@ -1287,6 +1510,264 @@ function toast(message, erreur = false) {
   document.body.append(t);
   setTimeout(() => t.remove(), erreur ? 9000 : 4500);
 }
+
+// ===== Vues : une seule visible à la fois =====
+const VUES = ["chargement", "vue", "vue-sources", "vue-favoris", "vue-recherche", "vue-tendances", "pas-de-veille"];
+const BOUTONS_VUES = { "vue-sources": "ouvrir-sources", "vue-favoris": "ouvrir-favoris", "vue-tendances": "ouvrir-tendances" };
+function montrerVue(nom) {
+  for (const v of VUES) $(v).hidden = v !== nom;
+  for (const [v, b] of Object.entries(BOUTONS_VUES)) $(b).setAttribute("aria-current", String(v === nom));
+  if (nom !== "vue") arreterLecture();
+}
+function ouvrirVueAnnexe(nom, hash) {
+  montrerVue(nom);
+  jourActif = null;
+  afficherJours();
+  history.replaceState(null, "", hash);
+  fermerTiroir();
+  window.scrollTo({ top: 0 });
+}
+function toastAction(message, libelle, action) {
+  const t = el("div", "toast");
+  t.setAttribute("role", "status");
+  t.append(icone("etincelles"), el("span", "", message));
+  const b = el("button", "action", libelle);
+  b.type = "button";
+  b.addEventListener("click", () => { t.remove(); action(); });
+  t.append(b);
+  document.body.append(t);
+}
+// Appelée par le service worker de la version en ligne quand une nouvelle version est installée.
+function signalerNouvelleVersion() {
+  toastAction("Nouvelle version de l'app disponible.", "Recharger", () => location.reload());
+}
+function majConnexion() { $("hors-ligne").hidden = navigator.onLine !== false; }
+window.addEventListener("online", majConnexion);
+window.addEventListener("offline", majConnexion);
+majConnexion();
+
+// ===== Tri et note minimale =====
+let triActif = "theme";
+let noteMin = 0;
+try { const t = localStorage.getItem("veille-tri"); if (["theme", "note", "heure"].includes(t)) triActif = t; } catch {}
+$("tri").value = triActif;
+$("tri").addEventListener("change", () => {
+  triActif = $("tri").value;
+  try { localStorage.setItem("veille-tri", triActif); } catch {}
+  if (veille) { rendreArticles(); filtrer(); }
+});
+function choisirNoteMin(min) {
+  noteMin = min;
+  for (const b of $("filtre-note").querySelectorAll("button")) b.setAttribute("aria-pressed", String(Number(b.dataset.min) === min));
+}
+for (const b of $("filtre-note").querySelectorAll("button")) {
+  b.addEventListener("click", () => { choisirNoteMin(Number(b.dataset.min)); filtrer(); });
+}
+
+// ===== Favoris (gardés dans ce navigateur) =====
+const FAVORIS_CLE = "veille-favoris";
+function lireFavoris() { try { return JSON.parse(localStorage.getItem(FAVORIS_CLE)) || {}; } catch { return {}; } }
+function ecrireFavoris(f) { try { localStorage.setItem(FAVORIS_CLE, JSON.stringify(f)); } catch { toast("Impossible d'enregistrer le favori sur cet appareil.", true); } }
+function estFavori(lien) { return !!lireFavoris()[lien]; }
+function majCompteFavoris() {
+  const n = Object.keys(lireFavoris()).length;
+  $("compte-favoris").hidden = n === 0;
+  $("compte-favoris").textContent = String(n);
+}
+function basculerFavori(article, bouton) {
+  const favs = lireFavoris();
+  if (favs[article.lien]) {
+    delete favs[article.lien];
+    toast("Retiré des favoris.");
+  } else {
+    favs[article.lien] = {
+      titre: article.titre, titre_fr: article.titre_fr || "", source: article.source, lien: article.lien,
+      date: article.date, note: Number.isInteger(article.note) ? article.note : null, motif: article.motif || "",
+      resume: "", region: article.region || regionActive, ajoute: Date.now(),
+    };
+    toast("Ajouté aux favoris.");
+  }
+  ecrireFavoris(favs);
+  bouton.setAttribute("aria-pressed", String(!!favs[article.lien]));
+  majCompteFavoris();
+  if (!$("vue-favoris").hidden) afficherFavoris();
+}
+function afficherFavoris() {
+  const favs = Object.values(lireFavoris()).sort((a, b) => b.ajoute - a.ajoute);
+  $("nb-favoris").textContent = favs.length ? `(${favs.length})` : "";
+  $("grille-favoris").replaceChildren(...favs.map(carte));
+  $("aucun-favori").hidden = favs.length > 0;
+}
+function montrerFavoris() { ouvrirVueAnnexe("vue-favoris", "#favoris"); afficherFavoris(); }
+
+// ===== Partage (partage natif du téléphone, sinon copie du lien) =====
+async function partager(titre, url, texte) {
+  if (navigator.share) {
+    try { await navigator.share({ title: titre, text: texte || titre, url: url || undefined }); } catch {}
+    return;
+  }
+  try {
+    await navigator.clipboard.writeText(url ? `${texte || titre}\n${url}` : (texte || titre));
+    toast("Copié dans le presse-papiers.");
+  } catch {
+    toast("Le partage n'est pas disponible dans ce navigateur.", true);
+  }
+}
+$("partager-synthese").addEventListener("click", () => {
+  const region = REGIONS[regionActive];
+  partager(`Veille IA ${region.adjectif} du ${fmt(dateLocale(jourActif), { day: "numeric", month: "long" })}`,
+           location.href, $("synthese").textContent);
+});
+
+// ===== Lecture à voix haute de la synthèse (voix du téléphone, hors ligne) =====
+function majBoutonLecture(enCours) {
+  const b = $("ecouter");
+  b.setAttribute("aria-pressed", String(enCours));
+  b.querySelector("span").textContent = enCours ? "Arrêter" : "Écouter";
+  b.querySelector("svg").dataset.icone = enCours ? "stop" : "volume";
+  remplirIcones(b);
+}
+function arreterLecture() {
+  if ("speechSynthesis" in window && speechSynthesis.speaking) speechSynthesis.cancel();
+  majBoutonLecture(false);
+}
+function basculerLecture() {
+  if (!("speechSynthesis" in window) || !veille) return;
+  if (speechSynthesis.speaking) return arreterLecture();
+  const region = REGIONS[regionActive];
+  const parties = [
+    `Synthèse du ${fmt(dateLocale(jourActif), { weekday: "long", day: "numeric", month: "long" })}, veille ${region.adjectif}.`,
+    $("synthese").textContent,
+  ];
+  if (veille.top?.length) parties.push("À lire en priorité : " + veille.top.map((a) => a.titre_fr || a.titre).join(". "));
+  const u = new SpeechSynthesisUtterance(parties.join(" "));
+  u.lang = "fr-FR";
+  u.onend = () => majBoutonLecture(false);
+  u.onerror = () => majBoutonLecture(false);
+  speechSynthesis.cancel();
+  speechSynthesis.speak(u);
+  majBoutonLecture(true);
+}
+if ("speechSynthesis" in window) $("ecouter").addEventListener("click", basculerLecture);
+else $("ecouter").hidden = true;
+
+// ===== Recherche dans tout l'historique =====
+let indexArticles = null;
+async function rechercherHistorique(q) {
+  const jourAvant = jourActif;
+  ouvrirVueAnnexe("vue-recherche", "#recherche");
+  $("retour-recherche").onclick = () => choisirJour(jourAvant || jours[0].date, regionActive);
+  $("titre-recherche").textContent = `Résultats pour « ${q} »`;
+  $("nb-resultats").textContent = "Recherche…";
+  $("liste-resultats").replaceChildren();
+  try {
+    if (!indexArticles) indexArticles = (await lireJSON(URLS.index)).articles || [];
+  } catch (e) {
+    $("nb-resultats").textContent = "Historique indisponible : " + e.message;
+    return;
+  }
+  const motif = sansAccents(q);
+  const trouves = indexArticles
+    .filter((a) => sansAccents(`${a.titre} ${a.titre_fr || ""} ${a.source}`).includes(motif))
+    .sort((a, b) => b.date.localeCompare(a.date) || (b.note || 0) - (a.note || 0))
+    .slice(0, 150);
+  $("nb-resultats").textContent = trouves.length
+    ? `${trouves.length} article${trouves.length > 1 ? "s" : ""}${trouves.length === 150 ? " (les 150 plus récents)" : ""} sur ${jours.length} jours de veille`
+    : `Aucun article ne contient « ${q} » dans l'historique.`;
+  const conteneur = $("liste-resultats");
+  let dateCourante = null, liste = null;
+  for (const a of trouves) {
+    if (a.date !== dateCourante) {
+      dateCourante = a.date;
+      const titre = libelleJour(a.date);
+      conteneur.append(el("h2", "", titre[0].toUpperCase() + titre.slice(1)));
+      liste = el("ol");
+      conteneur.append(liste);
+    }
+    const li = el("li");
+    const texte = el("div", "texte");
+    const href = lienSur(a.lien);
+    const lien = el(href ? "a" : "span", "", a.titre_fr || a.titre);
+    if (href) { lien.href = href; lien.target = "_blank"; lien.rel = "noopener noreferrer"; }
+    const detail = el("span", "detail");
+    const r = REGIONS[a.region];
+    if (r) { const tag = el("span", "tag-region", r.code); tag.style.setProperty("--teinte", r.teinte); detail.append(tag); }
+    detail.append(document.createTextNode(`${a.source}${a.theme ? " · " + a.theme : ""}`));
+    texte.append(lien, detail);
+    li.append(texte);
+    if (Number.isInteger(a.note)) li.append(pastilleNote(a));
+    liste.append(li);
+  }
+}
+$("lien-historique").addEventListener("click", () => rechercherHistorique($("recherche").value.trim()));
+$("recherche").addEventListener("keydown", (e) => {
+  if (e.key === "Enter" && $("recherche").value.trim().length >= 3 && jours.length > 1) rechercherHistorique($("recherche").value.trim());
+});
+
+// ===== Tendances de la semaine =====
+function sujetElement(s) {
+  const div = el("div", "sujet");
+  const titre = el("strong", "", s.nom + " ");
+  for (const code of s.regions || []) {
+    const r = REGIONS[code];
+    if (!r) continue;
+    const tag = el("span", "tag-region", r.code);
+    tag.style.setProperty("--teinte", r.teinte);
+    titre.append(tag);
+  }
+  div.append(titre, el("p", "", s.explication));
+  return div;
+}
+function afficherTendances(d) {
+  const vide = !d || d.vide;
+  $("tendances-vide").hidden = !vide;
+  $("tendances-contenu").hidden = vide;
+  $("periode-tendances").textContent = vide ? "" :
+    `Du ${fmt(dateLocale(d.periode.du), { day: "numeric", month: "long" })} au ${fmt(dateLocale(d.periode.au), { day: "numeric", month: "long" })}`
+    + ` · ${d.periode.jours} jour${d.periode.jours > 1 ? "s" : ""} de veille · calculé le ${fmt(new Date(d.genere_a), { day: "numeric", month: "long", hour: "2-digit", minute: "2-digit" })}`
+    + (d.precedente_jours ? ` · comparé aux ${d.precedente_jours} jours précédents` : " · pas encore de période précédente pour comparer");
+  if (vide) return;
+  $("synthese-semaine").textContent = d.synthese;
+  $("montants").replaceChildren(...(d.montants || []).map(sujetElement));
+  $("retombes").replaceChildren(...(d.retombes?.length ? d.retombes.map(sujetElement) : [el("p", "aucun-jour", "Rien de notable n'est retombé sur la période.")]));
+  $("surveiller").replaceChildren(...(d.a_surveiller || []).map((p) => el("li", "", p)));
+  const acteurs = (d.acteurs || []).slice(0, 10);
+  const max = Math.max(1, ...acteurs.map((a) => a.mentions));
+  $("acteurs").replaceChildren(...acteurs.map((a) => {
+    const ligne = el("div", "acteur");
+    const barre = el("div", "barre-acteur");
+    const i = el("i");
+    i.style.width = `${Math.round(100 * a.mentions / max)}%`;
+    barre.append(i);
+    const delta = a.mentions - a.mentions_precedentes;
+    const d2 = el("span", "delta" + (delta > 0 ? " plus" : ""), `${a.mentions} (${delta > 0 ? "+" : ""}${delta})`);
+    d2.title = `${a.mentions} titres cette période, ${a.mentions_precedentes} la période précédente`;
+    ligne.append(el("span", "nom", a.nom), barre, d2);
+    return ligne;
+  }));
+}
+async function montrerTendances() {
+  ouvrirVueAnnexe("vue-tendances", "#semaine");
+  try { afficherTendances(await lireJSON(URLS.tendances)); }
+  catch (e) { toast("Tendances indisponibles : " + e.message, true); }
+}
+async function actualiserTendances() {
+  const b = $("actualiser-tendances");
+  b.disabled = true; b.classList.add("tourne"); b.querySelector("span").textContent = "Analyse en cours… ≈ 30 s";
+  $("progression").hidden = false;
+  try {
+    afficherTendances(await lireJSON("/api/tendances/actualiser", { method: "POST", headers: { "X-Veille": "1" } }));
+    toast("Tendances recalculées.");
+  } catch (e) {
+    toast("L'analyse a échoué : " + e.message, true);
+  } finally {
+    b.disabled = false; b.classList.remove("tourne"); b.querySelector("span").textContent = "Recalculer les tendances";
+    $("progression").hidden = true;
+  }
+}
+$("ouvrir-favoris").addEventListener("click", montrerFavoris);
+$("ouvrir-tendances").addEventListener("click", montrerTendances);
+$("actualiser-tendances").addEventListener("click", actualiserTendances);
 
 // ===== Thème clair / sombre (préférence gardée dans ce navigateur si possible) =====
 function themeEffectif() {
@@ -1406,16 +1887,7 @@ function afficherSources() {
 }
 
 async function montrerSources() {
-  $("chargement").hidden = true;
-  $("vue").hidden = true;
-  $("pas-de-veille").hidden = true;
-  $("vue-sources").hidden = false;
-  $("ouvrir-sources").setAttribute("aria-current", "true");
-  jourActif = null;
-  afficherJours();
-  history.replaceState(null, "", "#sources");
-  fermerTiroir();
-  window.scrollTo({ top: 0 });
+  ouvrirVueAnnexe("vue-sources", "#sources");
   try {
     await chargerSources();
     afficherSources();
@@ -1471,7 +1943,7 @@ $("chercher-sources").addEventListener("click", chercherSources);
 
 // Version en ligne : pas de serveur pour lancer une veille ou modifier les sources.
 if (STATIQUE) {
-  for (const id of ["lancer", "lancer-vide", "actions-sources"]) $(id).hidden = true;
+  for (const id of ["lancer", "lancer-vide", "actions-sources", "actions-tendances"]) $(id).hidden = true;
   $("note-auto").hidden = false;
   $("note-sources-statique").hidden = false;
   $("texte-pas-de-veille").textContent =
