@@ -11,7 +11,6 @@
       "Le Figaro (High-Tech)": "https://www.lefigaro.fr/rss/figaro_secteur_high-tech.xml"
     },
     "us": {
-      "https://tech-insider.org/": "https://tech-insider.org/feed/",
       "The Information": "https://www.theinformation.com/feed",
       "Cisco Blogs": "https://blogs.cisco.com/feed",
       "24/7 Wall St.": "https://247wallst.com/feed/",
@@ -27,6 +26,7 @@
   },
   "propositions": [],
   "refusees": [
-    "fourweekmba.com"
+    "fourweekmba.com",
+    "tech-insider.org"
   ]
 }
