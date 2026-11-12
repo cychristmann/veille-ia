@@ -18,9 +18,9 @@ on:
   workflow_dispatch: # bouton « Run workflow » pour lancer une veille à la main
   push:
     # Une modification de l'app (design, code) republie le site sans relancer la veille.
-    # Les commits du robot ne touchent que veilles/ : ils ne redéclenchent rien.
+    # Les commits du robot ne touchent que veilles/ et cerveau/ : ils ne redéclenchent rien.
     branches: [main]
-    paths-ignore: ["veilles/**"]
+    paths-ignore: ["veilles/**", "cerveau/**"]
 
 # Sécurité : les actions sont verrouillées sur l'empreinte exacte d'une version (et non
 # « @v4 », qui peut être déplacé). Pour mettre à jour, remplacer l'empreinte par celle
@@ -97,12 +97,22 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # secours (facultatif)
         run: uv run python tendances.py
 
+      # Coffre Obsidian relié par Graphify (cerveau/coffre). Facultatif : une panne ici ne
+      # doit jamais empêcher la publication de la veille.
+      - name: Deuxième cerveau (Graphify + Obsidian)
+        if: steps.decision.outputs.lancer == 'true'
+        continue-on-error: true
+        timeout-minutes: 15
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: uv run python cerveau.py
+
       - name: Enregistrer la veille dans le dépôt
         if: steps.decision.outputs.lancer == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add veilles/
+          git add veilles/ cerveau/
           git diff --cached --quiet || git commit -m "Veille du $(date +%F)"
           git push
 

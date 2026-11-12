@@ -1,0 +1,222 @@
+"""Deuxième cerveau : transforme la veille en coffre Obsidian relié par Graphify.
+
+Étapes :
+1. verser   : chaque veille, feuilleton et dossier devient une note Markdown
+              dans cerveau/sources/ (une note n'est réécrite que si elle change,
+              ce qui permet à Graphify de ne retraiter que les nouveautés).
+2. extraire : Graphify lit ces notes et en tire les entités (entreprises,
+              modèles, personnes, sujets) et leurs relations, via Gemini.
+3. exporter : Graphify écrit le coffre Obsidian dans cerveau/coffre/.
+
+Usage : uv run python cerveau.py            (tout)
+        uv run python cerveau.py --verser   (étape 1 seulement, sans IA)
+"""
+
+import json
+import os
+import re
+import subprocess
+import sys
+from pathlib import Path
+
+from dotenv import load_dotenv
+
+RACINE = Path(__file__).parent
+VEILLES = RACINE / "veilles"
+CERVEAU = RACINE / "cerveau"
+SOURCES = CERVEAU / "sources"
+COFFRE = CERVEAU / "coffre"
+GRAPHE = CERVEAU / "graphify-out" / "graph.json"
+
+# Les gros modèles Flash renvoient souvent 503 sur l'offre gratuite : on prend Flash-Lite.
+MODELE_GEMINI = "gemini-3.1-flash-lite"  # 3.5 Flash-Lite n extrait presque aucune entite (teste)
+NOMS_REGIONS = {"fr": "France", "us": "États-Unis", "cn": "Chine"}
+
+
+def _propre(texte: str, limite: int = 0) -> str:
+    """Texte extérieur sur une ligne, sans syntaxe Obsidian qui créerait de faux liens."""
+    texte = re.sub(r"\s+", " ", str(texte or "")).strip()
+    texte = texte.replace("[[", "[").replace("]]", "]")
+    if limite and len(texte) > limite:
+        texte = texte[:limite].rsplit(" ", 1)[0] + "…"
+    return texte
+
+
+def _ecrire(chemin: Path, contenu: str) -> bool:
+    """Écrit seulement si le contenu change ; renvoie True si la note est nouvelle ou modifiée."""
+    if chemin.exists() and chemin.read_text(encoding="utf-8") == contenu:
+        return False
+    chemin.parent.mkdir(parents=True, exist_ok=True)
+    chemin.write_text(contenu, encoding="utf-8")
+    return True
+
+
+def notes_veille(fichier: Path) -> list[tuple[str, str]]:
+    """Une note par thème : un modèle léger survole les longues notes et rate des entités."""
+    d = json.loads(fichier.read_text(encoding="utf-8"))
+    region = NOMS_REGIONS.get(d.get("region"), d.get("region", "?"))
+    date = "-".join(fichier.stem.rsplit("-", 3)[-3:])
+    notes = []
+    for i, theme in enumerate(d.get("themes", []), 1):
+        lignes = [f"# Veille {region} {date} : {_propre(theme.get('nom'))}", "",
+                  f"Région : {region} · Date : {date}", "", _propre(theme.get("resume")), ""]
+        articles = sorted(theme.get("articles", []), key=lambda a: -(a.get("note") or 0))
+        lignes += _lignes_articles(articles)
+        notes.append((f"veilles/{fichier.stem}-t{i}.md", "\n".join(lignes) + "\n"))
+    return notes
+
+
+def _lignes_articles(articles: list[dict]) -> list[str]:
+    lignes = []
+    for a in articles:
+        note = a.get("note")
+        lignes.append(f"- **{_propre(a.get('titre'))}** ({_propre(a.get('source'))}"
+                      + (f", note {note}/10" if note else "") + ")")
+        if a.get("resume"):
+            lignes.append(f"  {_propre(a['resume'], 300)}")
+    return lignes
+
+
+def note_feuilleton(f: dict) -> tuple[str, str]:
+    lignes = [f"# Feuilleton : {_propre(f.get('titre'))}", "",
+              f"Statut : {f.get('statut')} · Du {f.get('debut')} au {f.get('derniere_activite')}"
+              f" · Régions : {', '.join(NOMS_REGIONS.get(r, r) for r in f.get('regions', []))}", "",
+              _propre(f.get("resume")), "", "## Épisodes", ""]
+    for ev in f.get("evenements", []):
+        lignes.append(f"- {ev.get('date')} : {_propre(ev.get('texte'))}")
+        for a in ev.get("articles", []):
+            lignes.append(f"  - {_propre(a.get('titre'))} ({_propre(a.get('source'))})")
+    return f"feuilletons/{f.get('id')}.md", "\n".join(lignes) + "\n"
+
+
+def notes_dossiers(fichier: Path) -> list[tuple[str, str]]:
+    d = json.loads(fichier.read_text(encoding="utf-8"))
+    date = d.get("date", fichier.stem[-10:])
+    notes = []
+    for i, dos in enumerate(d.get("dossiers", []), 1):
+        lignes = [f"# Dossier : {_propre(dos.get('titre'))}", "", f"Date : {date}", "",
+                  f"*{_propre(dos.get('chapeau'))}*", "", str(dos.get("analyse", "")).strip(), ""]
+        sources = dos.get("sources") or []
+        if sources:
+            lignes += ["## Sources", ""]
+            for s in sources:
+                if isinstance(s, dict):
+                    lignes.append(f"- {_propre(s.get('titre') or s.get('source'))}")
+                else:
+                    lignes.append(f"- {_propre(s)}")
+        notes.append((f"dossiers/{date}-{i}.md", "\n".join(lignes).replace("[[", "[") + "\n"))
+    return notes
+
+
+def verser() -> int:
+    """Étape 1 : écrit les notes sources. Renvoie le nombre de notes nouvelles ou modifiées."""
+    notes = [n for f in sorted(VEILLES.glob("veille-ia-*.json")) for n in notes_veille(f)]
+    memoire = VEILLES / "memoire.json"
+    if memoire.exists():
+        m = json.loads(memoire.read_text(encoding="utf-8"))
+        notes += [note_feuilleton(f) for f in m.get("feuilletons", [])]
+    for f in sorted(VEILLES.glob("dossiers-*.json")):
+        notes += notes_dossiers(f)
+    changees = sum(_ecrire(SOURCES / chemin, contenu) for chemin, contenu in notes)
+    # Les notes qui ne correspondent plus à rien (ancien découpage…) sont retirées.
+    attendues = {(SOURCES / chemin).resolve() for chemin, _ in notes}
+    retirees = [p for p in SOURCES.rglob("*.md") if p.resolve() not in attendues]
+    for p in retirees:
+        p.unlink()
+    print(f"Versement : {len(notes)} notes, dont {changees} nouvelles ou modifiées"
+          f" et {len(retirees)} retirées.")
+    return changees
+
+
+def _graphify(*args: str, obligatoire: bool = True) -> bool:
+    env = dict(os.environ)
+    env.setdefault("GRAPHIFY_GEMINI_MODEL", MODELE_GEMINI)
+    env["PYTHONIOENCODING"] = "utf-8"
+    cmd = [sys.executable, "-m", "graphify", *args]
+    print("→ graphify", " ".join(args), flush=True)
+    return subprocess.run(cmd, cwd=RACINE, env=env, check=obligatoire).returncode == 0
+
+
+def extraire() -> None:
+    """Étape 2 : extraction des entités et relations (incrémentale grâce au cache Graphify).
+
+    Lots de 1 500 tokens environ (une note à la fois) et mode « deep » : en dessous, le
+    modèle léger survole les notes et n'en tire presque aucune entité.
+    """
+    if not os.environ.get("GEMINI_API_KEY"):
+        sys.exit("GEMINI_API_KEY absente : impossible d'extraire les connaissances.")
+    reussi = _graphify("extract", str(SOURCES.relative_to(RACINE)), "--backend", "gemini",
+                       "--out", str(CERVEAU.relative_to(RACINE)), "--max-concurrency", "2",
+                       "--token-budget", "1500", "--mode", "deep", "--no-gitignore",
+                       obligatoire=False)
+    # Gemini refuse parfois une note (réponse vide, filtre de contenu) : Graphify s'arrête
+    # alors en erreur. On garde le graphe existant ; la note sera retentée au prochain passage.
+    if not reussi:
+        if not GRAPHE.exists():
+            sys.exit("Extraction impossible et aucun graphe existant.")
+        print("Extraction partielle : graphe précédent conservé pour les notes refusées.")
+
+
+def fusionner() -> None:
+    """Fusionne les entités de même nom venues de notes différentes.
+
+    Graphify préfixe chaque entité par sa note (« dossier_nvidia », « veille_nvidia »…) et ne
+    fusionne que les identifiants identiques : sans cette étape, Nvidia existerait une fois par
+    note et le graphe ne relierait rien au fil des jours.
+    """
+    g = json.loads(GRAPHE.read_text(encoding="utf-8"))
+    cle_liens = "links" if "links" in g else "edges"
+    garde: dict[str, dict] = {}   # nom normalisé → entité conservée
+    renomme: dict[str, str] = {}  # ancien identifiant → identifiant conservé
+    for n in g["nodes"]:
+        nom = (n.get("norm_label") or n.get("label") or n["id"]).casefold().strip()
+        if nom in garde:
+            gardee = garde[nom]
+            renomme[n["id"]] = gardee["id"]
+            sources = gardee.setdefault("sources", [gardee.get("source_file")])
+            if n.get("source_file") not in sources:
+                sources.append(n.get("source_file"))
+        else:
+            garde[nom] = n
+            renomme[n["id"]] = n["id"]
+    vus, liens = set(), []
+    for lien in g[cle_liens]:
+        s, t = renomme.get(lien["source"], lien["source"]), renomme.get(lien["target"], lien["target"])
+        if s == t or (s, t, lien.get("relation")) in vus:
+            continue
+        vus.add((s, t, lien.get("relation")))
+        liens.append({**lien, "source": s, "target": t})
+    for h in g.get("hyperedges", []):
+        h["nodes"] = list(dict.fromkeys(renomme.get(i, i) for i in h.get("nodes", [])))
+    avant = len(g["nodes"])
+    g["nodes"], g[cle_liens] = list(garde.values()), liens
+    GRAPHE.write_text(json.dumps(g, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"Fusion : {avant} → {len(g['nodes'])} entités, {len(liens)} relations.")
+    # Regroupement en thèmes, nommés par Gemini, sur le graphe fusionné.
+    _graphify("cluster-only", str(CERVEAU.relative_to(RACINE)), "--no-viz", "--backend=gemini")
+
+
+def exporter() -> None:
+    """Étape 3 : coffre Obsidian régénéré.
+
+    Seules les notes créées par Graphify lors du dernier export (listées dans son manifeste)
+    sont supprimées : les notes personnelles et les réglages d'Obsidian restent intacts.
+    """
+    manifeste = COFFRE / ".graphify_obsidian_manifest.json"
+    if manifeste.exists():
+        for nom in json.loads(manifeste.read_text(encoding="utf-8")).get("files", []):
+            chemin = (COFFRE / nom).resolve()
+            if chemin.suffix in (".md", ".canvas") and chemin.is_relative_to(COFFRE.resolve()):
+                chemin.unlink(missing_ok=True)
+    _graphify("export", "obsidian", "--graph", str(GRAPHE.relative_to(RACINE)),
+              "--dir", str(COFFRE.relative_to(RACINE)))
+    print(f"Coffre Obsidian prêt : {COFFRE}")
+
+
+if __name__ == "__main__":
+    load_dotenv(RACINE / ".env")
+    verser()
+    if "--verser" not in sys.argv:
+        extraire()
+        fusionner()
+        exporter()

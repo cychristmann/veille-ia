@@ -1,0 +1,642 @@
+{
+  "communities": {
+    "0": [
+      "andrej_karpathy",
+      "anthropic",
+      "anthropic_ipo",
+      "artifact_ai",
+      "claude",
+      "claude_fable_5_2",
+      "claude_mythos_5_2",
+      "claude_sheet",
+      "claude_whiteboards",
+      "fable_mythos_5_2",
+      "feuilletons_f0003",
+      "goldman_sachs",
+      "greg_morrisett",
+      "hackertube",
+      "moe_models",
+      "mythos_5_2",
+      "nys_ai_safety_research_center",
+      "synapse_medicine",
+      "veilles_chinanews",
+      "veilles_huarjiejiwen",
+      "veilles_itzhija",
+      "veilles_sec",
+      "veilles_veille_ia_cn_2026_11_10_t4",
+      "veilles_veille_ia_cn_2026_11_12_t2",
+      "veilles_veille_ia_fr_2026_11_08_t4",
+      "veilles_veille_ia_fr_2026_11_09_t1",
+      "veilles_veille_ia_fr_2026_11_11_t3",
+      "veilles_veille_ia_fr_2026_11_12_t3",
+      "veilles_veille_ia_us_2026_11_10_t7",
+      "veilles_veille_ia_us_2026_11_11_t2",
+      "veilles_veilleiaus20261108t1",
+      "veilles_zhengquanzhixing",
+      "venture_global"
+    ],
+    "1": [
+      "cisco",
+      "claude_code",
+      "dossiers_2026_11_12_2_amap",
+      "dossiers_2026_11_12_2_chasseurs_dessaim",
+      "dossiers_2026_11_12_2_ia_native_strategy",
+      "dossiers_2026_11_12_2_opinion_fr",
+      "feuilletons_f0014",
+      "genpulse",
+      "insight",
+      "micron",
+      "nearme",
+      "obsidian",
+      "sandisk",
+      "seagate",
+      "taiwan_semiconductor",
+      "tencent",
+      "veilles_veille_ia_us_2026_11_10_t6",
+      "veilles_veille_ia_us_2026_11_11_t1",
+      "veilles_veille_ia_us_2026_11_11_t1__ref__broadcom",
+      "veilles_veille_ia_us_2026_11_12_t6",
+      "vmware"
+    ],
+    "2": [
+      "adobe_creative_cloud",
+      "adobe_firefly",
+      "amazon_bedrock",
+      "anthropic_claude",
+      "atlas",
+      "aws",
+      "chatgpt",
+      "chatgpt_enterprise",
+      "cognizant",
+      "control_room",
+      "feuilletons_f0009_fr_qz_com",
+      "feuilletons_f0009_numerama",
+      "feuilletons_f0009_quartz",
+      "geoffrey_hinton",
+      "hugging_face",
+      "ibm",
+      "meta",
+      "microsoft",
+      "microsoft_ignite",
+      "muse_ember",
+      "openai",
+      "roland_busch",
+      "siemens",
+      "veilles_veille_ia_cn_2026_11_10_t2",
+      "veilles_veille_ia_fr_2026_11_08_t3",
+      "veilles_veille_ia_fr_2026_11_11_t4",
+      "veilles_veille_ia_us_2026_11_10_t2",
+      "veilles_veille_ia_us_2026_11_10_t3",
+      "veilles_veille_ia_us_2026_11_12_t7"
+    ],
+    "3": [
+      "dossiers_2026_11_12_1_alice_huang",
+      "dossiers_2026_11_12_1_pekin",
+      "feuilletons_f_0001_baird",
+      "feuilletons_f_0001_feuilleton_nvidia_crise",
+      "orange",
+      "veilles_veille_ia_cn_2026_11_12_t7",
+      "veilles_veille_ia_fr_2026_11_08_t5",
+      "veilles_veille_ia_fr_2026_11_09_t5_jensen_huang",
+      "veilles_veille_ia_fr_2026_11_10_t6",
+      "veilles_veilleiafr20261110t3_cybersécurité",
+      "veilles_veilleiafr20261110t3_emploi",
+      "veilles_veilleiafr20261110t3_ia_rh"
+    ],
+    "4": [
+      "coreweave",
+      "dossiers_2026_11_12_1_colette_kress",
+      "dossiers_2026_11_12_1_harvey_c_jones",
+      "dossiers_2026_11_12_1_huawei",
+      "dossiers_2026_11_12_1_synopsys",
+      "dossiers_2026_11_12_3_demis_hassabis",
+      "dossiers_2026_11_12_3_dossier_ia_course",
+      "dossiers_2026_11_12_3_eric_schmidt",
+      "dossiers_2026_11_12_3_institute_for_progress",
+      "feuilletons_f0002",
+      "feuilletons_f0011",
+      "fractile",
+      "harbor",
+      "inmobi",
+      "logic_pro",
+      "mistral",
+      "naver",
+      "sunoai",
+      "veilles_elon_musk",
+      "veilles_morganstanley",
+      "veilles_projetkessel",
+      "veilles_spacex",
+      "veilles_ubs",
+      "veilles_veille_ia_fr_2026_11_08_t1_apple",
+      "veilles_veille_ia_fr_2026_11_08_t1_doc",
+      "veilles_veille_ia_fr_2026_11_08_t2_doc",
+      "veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "veilles_veille_ia_fr_2026_11_10_t5",
+      "veilles_veille_ia_fr_2026_11_11_t1",
+      "veilles_veille_ia_fr_2026_11_11_t5",
+      "veilles_veille_ia_us_2026_11_12_t1",
+      "veilles_veilleiafr20261112t1",
+      "veilles_veilleiaus20261108t2"
+    ],
+    "5": [
+      "alibaba_ai",
+      "bitcoin_miners_ai",
+      "feuilletons_f0013",
+      "google_ai_studio",
+      "google_gemini_carplay",
+      "google_gemini_decisions",
+      "harbor_claris",
+      "jiostar",
+      "local_llm_server",
+      "mel_conference",
+      "nas_ai_server",
+      "omniidefense",
+      "r_localllm",
+      "snowflake_cortex",
+      "unitedairlines",
+      "veilles_veille_ia_fr_2026_11_12_t2"
+    ],
+    "6": [
+      "feuilletons_f0010",
+      "feuilletons_f0010_gemini_decisions",
+      "gemini_4_carbon",
+      "veilles_veille_ia_fr_2026_11_08_t1_google",
+      "veilles_veille_ia_fr_2026_11_09_t4",
+      "veilles_veille_ia_fr_2026_11_09_t4_cern",
+      "veilles_veille_ia_fr_2026_11_09_t4_goldman_sachs",
+      "veilles_veille_ia_fr_2026_11_09_t4_nolej",
+      "veilles_veille_ia_fr_2026_11_09_t4_siri",
+      "veilles_veille_ia_fr_2026_11_09_t4_take_two",
+      "veilles_veille_ia_fr_2026_11_09_t5",
+      "veilles_veille_ia_fr_2026_11_09_t5_adobe",
+      "veilles_veille_ia_fr_2026_11_09_t5_claude_opus_4_8",
+      "veilles_veille_ia_fr_2026_11_09_t5_disney",
+      "veilles_veille_ia_fr_2026_11_09_t5_tpu_8i_max",
+      "veilles_veille_ia_fr_2026_11_09_t5_tpu_8tx"
+    ],
+    "7": [
+      "veilles_veille_ia_us_2026_11_09_t4",
+      "veilles_veille_ia_us_2026_11_09_t4_ai_buildout",
+      "veilles_veille_ia_us_2026_11_09_t4_ai_industry_security",
+      "veilles_veille_ia_us_2026_11_09_t4_ai_political_ads",
+      "veilles_veille_ia_us_2026_11_09_t4_cornell_finance",
+      "veilles_veille_ia_us_2026_11_09_t4_crisis_comm",
+      "veilles_veille_ia_us_2026_11_09_t4_elvis_lawsuit",
+      "veilles_veille_ia_us_2026_11_09_t4_finovate_trends",
+      "veilles_veille_ia_us_2026_11_09_t4_firmware_teams",
+      "veilles_veille_ia_us_2026_11_09_t4_georgia_students",
+      "veilles_veille_ia_us_2026_11_09_t4_meta_accountant",
+      "veilles_veille_ia_us_2026_11_09_t4_nebraska_employees",
+      "veilles_veille_ia_us_2026_11_09_t4_texas_business",
+      "veilles_veille_ia_us_2026_11_09_t4_vermont_hospitals"
+    ],
+    "8": [
+      "apple_siri_ai",
+      "meta_muse",
+      "openai_dots",
+      "veilles_amd",
+      "veilles_epyc_9006_sp7",
+      "veilles_jieli_tech",
+      "veilles_jl280n_jl380n_jl681n",
+      "veilles_meta",
+      "veilles_muse_ai",
+      "veilles_palantir",
+      "veilles_pingtouge",
+      "veilles_veille_ia_cn_2026_11_10_t1",
+      "veilles_veille_ia_us_2026_11_08_t6",
+      "veilles_xiaocai_arxiv261107042",
+      "veilles_zen6"
+    ],
+    "9": [
+      "veilles_veille_ia_cn_2026_11_12_t3",
+      "veilles_veille_ia_cn_2026_11_12_t3_aorong_yunke",
+      "veilles_veille_ia_cn_2026_11_12_t3_bytedance",
+      "veilles_veille_ia_cn_2026_11_12_t3_deepseek",
+      "veilles_veille_ia_cn_2026_11_12_t3_doubao",
+      "veilles_veille_ia_cn_2026_11_12_t3_greenland_nanchang_opc",
+      "veilles_veille_ia_cn_2026_11_12_t3_jd",
+      "veilles_veille_ia_cn_2026_11_12_t3_kimi",
+      "veilles_veille_ia_cn_2026_11_12_t3_taobao",
+      "veilles_veille_ia_cn_2026_11_12_t3_xirang_cup"
+    ],
+    "10": [
+      "codex",
+      "fireworks_ai",
+      "gpt_6_astra",
+      "jacek_rozenek",
+      "lean_4",
+      "notion",
+      "notion_ai",
+      "oroni",
+      "veilles_veille_ia_fr_2026_11_10_t4",
+      "veilles_veille_ia_fr_2026_11_12_t4",
+      "yann_lecun"
+    ],
+    "11": [
+      "veilles_veille_ia_us_2026_11_09_t6",
+      "veilles_veille_ia_us_2026_11_09_t6_ai_pushback",
+      "veilles_veille_ia_us_2026_11_09_t6_bitcoin_prediction",
+      "veilles_veille_ia_us_2026_11_09_t6_brave_leo",
+      "veilles_veille_ia_us_2026_11_09_t6_cbp_modernization",
+      "veilles_veille_ia_us_2026_11_09_t6_chatbot_complaints",
+      "veilles_veille_ia_us_2026_11_09_t6_chicago_protest",
+      "veilles_veille_ia_us_2026_11_09_t6_market_broadening",
+      "veilles_veille_ia_us_2026_11_09_t6_nvidia_alternatives"
+    ],
+    "12": [
+      "appel_de_paris",
+      "arthur_mensch",
+      "australia_ai_regulation",
+      "dario_amodei",
+      "emmanuel_macron",
+      "feuilletons_f0006_pressecitron",
+      "loi_darcos",
+      "sam_altman",
+      "veilles_veille_ia_fr_2026_11_10_t1"
+    ],
+    "13": [
+      "veilles_veille_ia_cn_2026_11_11_t1",
+      "veilles_veille_ia_cn_2026_11_11_t1_aoshikang",
+      "veilles_veille_ia_cn_2026_11_11_t1_guangdong_province",
+      "veilles_veille_ia_cn_2026_11_11_t1_nanling_technology",
+      "veilles_veille_ia_cn_2026_11_11_t1_shanghai_film"
+    ],
+    "15": [
+      "veilles_apollo_go",
+      "veilles_baidu",
+      "veilles_baidu_world_2026",
+      "veilles_embodied_ai",
+      "veilles_intelligent_organization",
+      "veilles_robin_li",
+      "veilles_veille_ia_cn_2026_11_12_t1"
+    ],
+    "16": [
+      "adobe_max_2026",
+      "deepl_voice_aure",
+      "google_deepmind_hurricane_model",
+      "minimax_model",
+      "project_screen_test",
+      "veilles_veille_ia_cn_2026_11_11_t3"
+    ],
+    "18": [
+      "veilles_veille_ia_us_2026_11_10_t1",
+      "veilles_veille_ia_us_2026_11_10_t1_anthropic_ipo",
+      "veilles_veille_ia_us_2026_11_10_t1_bay_security",
+      "veilles_veille_ia_us_2026_11_10_t1_blue_j_funding",
+      "veilles_veille_ia_us_2026_11_10_t1_lumbra_startup",
+      "veilles_veille_ia_us_2026_11_10_t1_qantas_deal"
+    ],
+    "19": [
+      "anduril",
+      "helsing",
+      "palantir",
+      "shield_ai",
+      "veilles_veille_ia_us_2026_11_12_t3"
+    ],
+    "20": [
+      "barnard",
+      "boulder",
+      "stanford",
+      "veilles_veille_ia_us_2026_11_12_t2",
+      "veilles_veille_ia_us_2026_11_12_t4"
+    ],
+    "21": [
+      "agent_name_service",
+      "huawei",
+      "linux_foundation",
+      "veilles_veille_ia_cn_2026_11_10_t5"
+    ],
+    "22": [
+      "alphagenome_2",
+      "google_deepmind",
+      "veilles_veille_ia_us_2026_11_11_t3",
+      "veilles_veille_ia_us_2026_11_11_t4"
+    ],
+    "24": [
+      "feuilletons_f0004_bay",
+      "feuilletons_f0004_govinfosecurity",
+      "feuilletons_f0004_reuters",
+      "feuilletons_f0004_zonebourse"
+    ],
+    "25": [
+      "veilles_veille_ia_us_2026_11_09_t5",
+      "veilles_veille_ia_us_2026_11_09_t5_irs_guidance",
+      "veilles_veille_ia_us_2026_11_09_t5_military_ai",
+      "veilles_veille_ia_us_2026_11_09_t5_nvidia_spy"
+    ],
+    "26": [
+      "anthropic_claude_fable_5_2",
+      "anthropic_claude_mythos_5_2",
+      "veilles_veille_ia_us_2026_11_09_t2"
+    ],
+    "27": [
+      "caa",
+      "echo",
+      "ogilvy"
+    ],
+    "28": [
+      "feuilletons_f0008_alibaba",
+      "feuilletons_f0008_thead",
+      "feuilletons_f0008_zonebourse_suisse"
+    ],
+    "30": [
+      "veilles_veille_ia_cn_2026_11_11_t2",
+      "veilles_veille_ia_cn_2026_11_11_t2_opus_5_5",
+      "veilles_veille_ia_cn_2026_11_11_t2_shengquan_group"
+    ],
+    "32": [
+      "entity_liyanhong",
+      "veilles_veille_ia_cn_2026_11_12_t6"
+    ],
+    "33": [
+      "entity_zhaoliying",
+      "veilles_veille_ia_cn_2026_11_12_t5"
+    ],
+    "34": [
+      "feuilletons_f0005_australia_ai_regulator",
+      "feuilletons_f0005_rfi"
+    ],
+    "36": [
+      "alibaba_thead",
+      "bay_startup",
+      "feuilletons_f0007_yahoo_finance_france",
+      "infineon",
+      "veilles_veille_ia_fr_2026_11_10_t2",
+      "veilles_veille_ia_us_2026_11_10_t4"
+    ],
+    "37": [
+      "feuilletons_f0012",
+      "feuilletons_f0012_torus"
+    ],
+    "39": [
+      "fudan_development_institute",
+      "veilles_veille_ia_cn_2026_11_10_t3"
+    ],
+    "40": [
+      "googlehealth",
+      "veilles_veilleiaus20261108t3"
+    ],
+    "41": [
+      "nubia",
+      "veilles_veille_ia_fr_2026_11_12_t5"
+    ],
+    "42": [
+      "pennsylvania_ai_deceptive_advertising_act",
+      "veilles_veille_ia_us_2026_11_09_t1"
+    ],
+    "43": [
+      "veilles_veille_ia_cn_2026_11_12_t4",
+      "veilles_veille_ia_cn_2026_11_12_t4_citic_securities"
+    ],
+    "44": [
+      "veilles_veille_ia_cn_2026_11_12_t8_ai_competition",
+      "veilles_veille_ia_cn_2026_11_12_t8_doc"
+    ],
+    "47": [
+      "beijing_university_of_posts_and_telecommunications"
+    ],
+    "48": [
+      "dossiers_2026_11_12_2_chine_agents_ia_voyous"
+    ],
+    "49": [
+      "edelbyte"
+    ],
+    "50": [
+      "jiohotstar"
+    ],
+    "51": [
+      "louis_perez"
+    ],
+    "52": [
+      "nanjing_university_of_aeronautics_and_astronautics"
+    ],
+    "53": [
+      "red_hat_ai"
+    ],
+    "54": [
+      "trust3_ai"
+    ],
+    "55": [
+      "veilles_veille_ia_fr_2026_11_09_t2"
+    ],
+    "56": [
+      "veilles_veille_ia_fr_2026_11_09_t3"
+    ],
+    "57": [
+      "veilles_veille_ia_us_2026_11_09_t3"
+    ],
+    "58": [
+      "veilles_veille_ia_us_2026_11_11_t5"
+    ],
+    "59": [
+      "veilles_veille_ia_us_2026_11_11_t6"
+    ],
+    "60": [
+      "veilles_veilleiaus20261108t5"
+    ],
+    "61": [
+      "wuhan_university_of_science_and_technology"
+    ]
+  },
+  "cohesion": {
+    "0": 0.06818181818181818,
+    "1": 0.10476190476190476,
+    "2": 0.07881773399014778,
+    "3": 0.16666666666666666,
+    "4": 0.07575757575757576,
+    "5": 0.125,
+    "6": 0.125,
+    "7": 0.14285714285714285,
+    "8": 0.13333333333333333,
+    "9": 0.2,
+    "10": 0.18181818181818182,
+    "11": 0.2222222222222222,
+    "12": 0.2222222222222222,
+    "13": 0.4,
+    "15": 0.3333333333333333,
+    "16": 0.3333333333333333,
+    "18": 0.3333333333333333,
+    "19": 0.4,
+    "20": 0.4,
+    "21": 0.5,
+    "22": 0.5,
+    "24": 0.5,
+    "25": 0.5,
+    "26": 0.6666666666666666,
+    "27": 0.6666666666666666,
+    "28": 0.6666666666666666,
+    "30": 0.6666666666666666,
+    "32": 1.0,
+    "33": 1.0,
+    "34": 1.0,
+    "36": 0.3333333333333333,
+    "37": 1.0,
+    "39": 1.0,
+    "40": 1.0,
+    "41": 1.0,
+    "42": 1.0,
+    "43": 1.0,
+    "44": 1.0,
+    "47": 1.0,
+    "48": 1.0,
+    "49": 1.0,
+    "50": 1.0,
+    "51": 1.0,
+    "52": 1.0,
+    "53": 1.0,
+    "54": 1.0,
+    "55": 1.0,
+    "56": 1.0,
+    "57": 1.0,
+    "58": 1.0,
+    "59": 1.0,
+    "60": 1.0,
+    "61": 1.0
+  },
+  "gods": [
+    {
+      "id": "anthropic",
+      "label": "Anthropic",
+      "degree": 33
+    },
+    {
+      "id": "veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "Nvidia",
+      "degree": 21
+    },
+    {
+      "id": "veilles_veille_ia_fr_2026_11_12_t2",
+      "label": "Veille France 2026-11-12",
+      "degree": 14
+    },
+    {
+      "id": "openai",
+      "label": "OpenAI",
+      "degree": 13
+    },
+    {
+      "id": "veilles_veille_ia_us_2026_11_09_t4",
+      "label": "Veille États-Unis 2026-11-09 : Applications sectorielles de l’IA",
+      "degree": 13
+    },
+    {
+      "id": "veilles_veille_ia_us_2026_11_11_t1",
+      "label": "Veille États-Unis 2026-11-11 : Financement et Bourse de l'IA",
+      "degree": 10
+    },
+    {
+      "id": "veilles_veille_ia_fr_2026_11_08_t1_google",
+      "label": "Google",
+      "degree": 9
+    },
+    {
+      "id": "veilles_veille_ia_us_2026_11_09_t6",
+      "label": "Veille États-Unis 2026-11-09 : Autres articles",
+      "degree": 8
+    },
+    {
+      "id": "veilles_veille_ia_fr_2026_11_10_t6",
+      "label": "Veille France 2026-11-10",
+      "degree": 8
+    },
+    {
+      "id": "veilles_veille_ia_cn_2026_11_12_t3",
+      "label": "Veille Chine 2026-11-12 : IA dans le commerce et le divertissement",
+      "degree": 7
+    }
+  ],
+  "surprises": [
+    {
+      "source": "Baird",
+      "target": "Nvidia",
+      "source_files": [
+        "feuilletons/f-0001.md",
+        "veilles/veille-ia-fr-2026-11-08-t2.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `Baird` unexpectedly reaches hub `Nvidia`"
+    },
+    {
+      "source": "Veille France 2026-11-08 (Environment)",
+      "target": "Anthropic",
+      "source_files": [
+        "veilles/veille-ia-fr-2026-11-08-t2.md",
+        "feuilletons/f-0003.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `Veille France 2026-11-08 (Environment)` unexpectedly reaches hub `Anthropic`"
+    },
+    {
+      "source": "高盛 (Goldman Sachs)",
+      "target": "Anthropic",
+      "source_files": [
+        "veilles/veille-ia-cn-2026-11-10-t4.md",
+        "feuilletons/f-0003.md"
+      ],
+      "confidence": "INFERRED",
+      "relation": "conceptually_related_to",
+      "why": "inferred connection - not explicitly stated in source; connects across different repos/directories; peripheral node `高盛 (Goldman Sachs)` unexpectedly reaches hub `Anthropic`"
+    },
+    {
+      "source": "Veille France 2026-11-08 : Régulation, politique et enjeux sociétaux",
+      "target": "Anthropic",
+      "source_files": [
+        "veilles/veille-ia-fr-2026-11-08-t3.md",
+        "feuilletons/f-0003.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `Veille France 2026-11-08 : Régulation, politique et enjeux sociétaux` unexpectedly reaches hub `Anthropic`"
+    },
+    {
+      "source": "Veille France 2026-11-10 : Nouveaux modèles et produits IA",
+      "target": "Anthropic",
+      "source_files": [
+        "veilles/veille-ia-fr-2026-11-10-t4.md",
+        "feuilletons/f-0003.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; bridges separate communities; peripheral node `Veille France 2026-11-10 : Nouveaux modèles et produits IA` unexpectedly reaches hub `Anthropic`"
+    }
+  ],
+  "questions": [
+    {
+      "type": "bridge_node",
+      "question": "Why does `Anthropic` connect `Anthropic Ecosystem` to `AI Strategy & Tech`, `AI Platforms & Enterprise`, `AI Corporate & HR`, `AI Hardware & Geopolitics`, `AI Infrastructure & Finance`, `AI Models & Ethics`, `Chinese Market Investment`?",
+      "why": "High betweenness centrality (0.191) - this node is a cross-community bridge."
+    },
+    {
+      "type": "verify_inferred",
+      "question": "Are the 2 inferred relationships involving `Nvidia` (e.g. with `CoreWeave` and `Jensen Huang`) actually correct?",
+      "why": "`Nvidia` has 2 INFERRED edges - model-reasoned connections that need verification."
+    },
+    {
+      "type": "isolated_nodes",
+      "question": "What connects `Cisco`, `Genpulse`, `NearMe` to the rest of the system?",
+      "why": "217 weakly-connected nodes found - possible documentation gaps or missing edges."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `Anthropic Ecosystem` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.06818181818181818 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Nvidia` connect `AI Hardware & Geopolitics` to `AI Strategy & Tech`, `AI Corporate & HR`, `Cloud & Enterprise AI`, `Big Tech AI Products`?",
+      "why": "High betweenness centrality (0.132) - this node is a cross-community bridge."
+    },
+    {
+      "type": "low_cohesion",
+      "question": "Should `AI Strategy & Tech` be split into smaller, more focused modules?",
+      "why": "Cohesion score 0.10476190476190476 - nodes in this community are weakly interconnected."
+    },
+    {
+      "type": "bridge_node",
+      "question": "Why does `Google` connect `Big Tech AI Products` to `AI Hardware & Assistants`, `AI Strategy & Tech`, `AI Platforms & Enterprise`, `AI Hardware & Geopolitics`?",
+      "why": "High betweenness centrality (0.080) - this node is a cross-community bridge."
+    }
+  ]
+}

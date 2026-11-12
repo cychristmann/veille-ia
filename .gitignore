@@ -16,3 +16,8 @@ wheels/
 site/
 sources.tmp
 .claude/
+
+# Deuxième cerveau (cerveau.py) : le coffre et le graphe sont suivis par Git, sauf :
+cerveau/graphify-out/.graphify_root
+cerveau/graphify-out/[0-9]*/
+cerveau/coffre/.obsidian/

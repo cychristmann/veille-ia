@@ -1,0 +1,4715 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "Anthropic Ecosystem",
+      "x": 0,
+      "y": 0,
+      "width": 1320,
+      "height": 720,
+      "color": "1"
+    },
+    {
+      "id": "n_andrej_karpathy",
+      "type": "file",
+      "file": "Andrej Karpathy.md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anthropic",
+      "type": "file",
+      "file": "Anthropic.md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anthropic_ipo",
+      "type": "file",
+      "file": "Anthropic IPO.md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_artifact_ai",
+      "type": "file",
+      "file": "Artifact AI.md",
+      "x": 620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude",
+      "type": "file",
+      "file": "Claude.md",
+      "x": 820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_fable_5_2",
+      "type": "file",
+      "file": "Claude Fable 5.2.md",
+      "x": 1020,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_mythos_5_2",
+      "type": "file",
+      "file": "Claude Mythos 5.2.md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_sheet",
+      "type": "file",
+      "file": "Claude Sheet.md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_whiteboards",
+      "type": "file",
+      "file": "Claude Whiteboards.md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_fable_mythos_5_2",
+      "type": "file",
+      "file": "Fable 5.2 & Mythos 5.2.md",
+      "x": 620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f0003",
+      "type": "file",
+      "file": "Feuilleton Anthropic poursuit son IPO malgr\u00e9 inqui\u00e9tudes.md",
+      "x": 820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_greg_morrisett",
+      "type": "file",
+      "file": "Greg Morrisett.md",
+      "x": 1020,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hackertube",
+      "type": "file",
+      "file": "HackerTube.md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_itzhija",
+      "type": "file",
+      "file": "IT\u4e4b\u5bb6.md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_moe_models",
+      "type": "file",
+      "file": "Mod\u00e8les d'IA MoE.md",
+      "x": 420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_mythos_5_2",
+      "type": "file",
+      "file": "Mythos 5.2.md",
+      "x": 620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_nys_ai_safety_research_center",
+      "type": "file",
+      "file": "NYS AI Safety Research Center.md",
+      "x": 820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_sec",
+      "type": "file",
+      "file": "SEC (U.S. Securities and Exchange Commission).md",
+      "x": 1020,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_synapse_medicine",
+      "type": "file",
+      "file": "Synapse Medicine.md",
+      "x": 20,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_10_t4",
+      "type": "file",
+      "file": "Veille Chine 2026-11-10  Investissements, valorisations et march\u00e9s.md",
+      "x": 220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_12_t2",
+      "type": "file",
+      "file": "Veille Chine 2026-11-12  Anthropic et concurrence.md",
+      "x": 420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_08_t4",
+      "type": "file",
+      "file": "Veille France 2026-11-08  Applications concr\u00e8tes et innovations IA.md",
+      "x": 620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_09_t1",
+      "type": "file",
+      "file": "Veille France 2026-11-09.md",
+      "x": 820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_11_t3",
+      "type": "file",
+      "file": "Veille France 2026-11-11  Recherche, mod\u00e8les et hardware IA.md",
+      "x": 1020,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_12_t3",
+      "type": "file",
+      "file": "Veille France 2026-11-12  Applications IA en sant\u00e9 et soci\u00e9t\u00e9.md",
+      "x": 20,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veilleiaus20261108t1",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-08  Investissements et march\u00e9.md",
+      "x": 220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_10_t7",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-10  Autres articles.md",
+      "x": 420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_11_t2",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-11  R\u00e9gulation, Gouvernance et \u00c9thique.md",
+      "x": 620,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_venture_global",
+      "type": "file",
+      "file": "Venture Global.md",
+      "x": 820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_chinanews",
+      "type": "file",
+      "file": "\u4e2d\u56fd\u65b0\u95fb\u7f51.md",
+      "x": 1020,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_huarjiejiwen",
+      "type": "file",
+      "file": "\u534e\u5c14\u8857\u89c1\u95fb.md",
+      "x": 20,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_zhengquanzhixing",
+      "type": "file",
+      "file": "\u8bc1\u5238\u4e4b\u661f.md",
+      "x": 220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_goldman_sachs",
+      "type": "file",
+      "file": "\u9ad8\u76db (Goldman Sachs).md",
+      "x": 420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "AI Strategy & Tech",
+      "x": 1400,
+      "y": 0,
+      "width": 1100,
+      "height": 620,
+      "color": "2"
+    },
+    {
+      "id": "n_dossiers_2026_11_12_2_amap",
+      "type": "file",
+      "file": "Amap.md",
+      "x": 1420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_11_t1__ref__broadcom",
+      "type": "file",
+      "file": "Broadcom.md",
+      "x": 1620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_dossiers_2026_11_12_2_chasseurs_dessaim",
+      "type": "file",
+      "file": "Chasseurs d'essaim.md",
+      "x": 1820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_cisco",
+      "type": "file",
+      "file": "Cisco.md",
+      "x": 2020,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_code",
+      "type": "file",
+      "file": "Claude Code.md",
+      "x": 2220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f0014",
+      "type": "file",
+      "file": "Feuilleton Tencent mobilise la moiti\u00e9 de son personnel pour une pouss\u00e9e IA\u2011native.md",
+      "x": 1420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_genpulse",
+      "type": "file",
+      "file": "Genpulse.md",
+      "x": 1620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_dossiers_2026_11_12_2_ia_native_strategy",
+      "type": "file",
+      "file": "IA-native Strategy.md",
+      "x": 1820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_insight",
+      "type": "file",
+      "file": "Insight.md",
+      "x": 2020,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_dossiers_2026_11_12_2_opinion_fr",
+      "type": "file",
+      "file": "L'Opinion.fr.md",
+      "x": 2220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_micron",
+      "type": "file",
+      "file": "Micron.md",
+      "x": 1420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_nearme",
+      "type": "file",
+      "file": "NearMe.md",
+      "x": 1620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_obsidian",
+      "type": "file",
+      "file": "Obsidian.md",
+      "x": 1820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_sandisk",
+      "type": "file",
+      "file": "Sandisk.md",
+      "x": 2020,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_seagate",
+      "type": "file",
+      "file": "Seagate.md",
+      "x": 2220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_taiwan_semiconductor",
+      "type": "file",
+      "file": "Taiwan Semiconductor.md",
+      "x": 1420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tencent",
+      "type": "file",
+      "file": "Tencent.md",
+      "x": 1620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_vmware",
+      "type": "file",
+      "file": "VMware.md",
+      "x": 1820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_10_t6",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-10  March\u00e9, concurrence et tendances.md",
+      "x": 2020,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_11_t1",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-11  Financement et Bourse de l'IA.md",
+      "x": 2220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_12_t6",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-12  Applications industrielles et commerciales de l'IA.md",
+      "x": 1420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "AI Platforms & Enterprise",
+      "x": 2580,
+      "y": 0,
+      "width": 1320,
+      "height": 620,
+      "color": "3"
+    },
+    {
+      "id": "n_aws",
+      "type": "file",
+      "file": "AWS.md",
+      "x": 2600,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adobe_creative_cloud",
+      "type": "file",
+      "file": "Adobe Creative Cloud.md",
+      "x": 2800,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adobe_firefly",
+      "type": "file",
+      "file": "Adobe Firefly.md",
+      "x": 3000,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_amazon_bedrock",
+      "type": "file",
+      "file": "Amazon Bedrock.md",
+      "x": 3200,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anthropic_claude",
+      "type": "file",
+      "file": "Anthropic Claude.md",
+      "x": 3400,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_atlas",
+      "type": "file",
+      "file": "Atlas.md",
+      "x": 3600,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chatgpt",
+      "type": "file",
+      "file": "ChatGPT.md",
+      "x": 2600,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_chatgpt_enterprise",
+      "type": "file",
+      "file": "ChatGPT Enterprise.md",
+      "x": 2800,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_cognizant",
+      "type": "file",
+      "file": "Cognizant.md",
+      "x": 3000,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_control_room",
+      "type": "file",
+      "file": "Control Room (OpenAI).md",
+      "x": 3200,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_geoffrey_hinton",
+      "type": "file",
+      "file": "Geoffrey Hinton.md",
+      "x": 3400,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_hugging_face",
+      "type": "file",
+      "file": "Hugging Face.md",
+      "x": 3600,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ibm",
+      "type": "file",
+      "file": "IBM.md",
+      "x": 2600,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_meta",
+      "type": "file",
+      "file": "Meta.md",
+      "x": 2800,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_microsoft",
+      "type": "file",
+      "file": "Microsoft.md",
+      "x": 3000,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_microsoft_ignite",
+      "type": "file",
+      "file": "Microsoft Ignite.md",
+      "x": 3200,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_muse_ember",
+      "type": "file",
+      "file": "Muse Ember.md",
+      "x": 3400,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f0009_numerama",
+      "type": "file",
+      "file": "Numerama.md",
+      "x": 3600,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_openai",
+      "type": "file",
+      "file": "OpenAI.md",
+      "x": 2600,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f0009_quartz",
+      "type": "file",
+      "file": "Quartz.md",
+      "x": 2800,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_roland_busch",
+      "type": "file",
+      "file": "Roland Busch (\u535a\u4e50\u4ec1).md",
+      "x": 3000,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_siemens",
+      "type": "file",
+      "file": "Siemens.md",
+      "x": 3200,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_10_t2",
+      "type": "file",
+      "file": "Veille Chine 2026-11-10.md",
+      "x": 3400,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_08_t3",
+      "type": "file",
+      "file": "Veille France 2026-11-08  R\u00e9gulation, politique et enjeux soci\u00e9taux.md",
+      "x": 3600,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_11_t4",
+      "type": "file",
+      "file": "Veille France 2026-11-11  R\u00e9gulation, \u00e9thique et risques de l'IA.md",
+      "x": 2600,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_10_t3",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-10  Agents IA et plateformes.md",
+      "x": 2800,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_10_t2",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-10  Applications sectorielles.md",
+      "x": 3000,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_12_t7",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-12  Autres articles.md",
+      "x": 3200,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f0009_fr_qz_com",
+      "type": "file",
+      "file": "fr.qz.com.md",
+      "x": 3400,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "AI Corporate & HR",
+      "x": 3980,
+      "y": 0,
+      "width": 880,
+      "height": 420,
+      "color": "4"
+    },
+    {
+      "id": "n_dossiers_2026_11_12_1_alice_huang",
+      "type": "file",
+      "file": "Alice Huang.md",
+      "x": 4000,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f_0001_baird",
+      "type": "file",
+      "file": "Baird.md",
+      "x": 4200,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veilleiafr20261110t3_cybers\u00e9curit\u00e9",
+      "type": "file",
+      "file": "Cybers\u00e9curit\u00e9.md",
+      "x": 4400,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veilleiafr20261110t3_emploi",
+      "type": "file",
+      "file": "Emploi et Licenciements.md",
+      "x": 4600,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f_0001_feuilleton_nvidia_crise",
+      "type": "file",
+      "file": "Feuilleton  Crise de direction chez Nvidia.md",
+      "x": 4000,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veilleiafr20261110t3_ia_rh",
+      "type": "file",
+      "file": "IA et RH.md",
+      "x": 4200,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_09_t5_jensen_huang",
+      "type": "file",
+      "file": "Jensen Huang.md",
+      "x": 4400,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_orange",
+      "type": "file",
+      "file": "Orange.md",
+      "x": 4600,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_dossiers_2026_11_12_1_pekin",
+      "type": "file",
+      "file": "P\u00e9kin.md",
+      "x": 4000,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_12_t7",
+      "type": "file",
+      "file": "Veille Chine 2026-11-12  March\u00e9 financier et investissements IA.md",
+      "x": 4200,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_08_t5",
+      "type": "file",
+      "file": "Veille France 2026-11-08.md",
+      "x": 4400,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_10_t6",
+      "type": "file",
+      "file": "Veille France 2026-11-10.md",
+      "x": 4600,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g4",
+      "type": "group",
+      "label": "AI Hardware & Geopolitics",
+      "x": 4940,
+      "y": 0,
+      "width": 1320,
+      "height": 720,
+      "color": "5"
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_08_t1_apple",
+      "type": "file",
+      "file": "Apple.md",
+      "x": 4960,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_dossiers_2026_11_12_1_colette_kress",
+      "type": "file",
+      "file": "Colette Kress.md",
+      "x": 5160,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_coreweave",
+      "type": "file",
+      "file": "CoreWeave.md",
+      "x": 5360,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_dossiers_2026_11_12_3_demis_hassabis",
+      "type": "file",
+      "file": "Demis Hassabis.md",
+      "x": 5560,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_dossiers_2026_11_12_3_dossier_ia_course",
+      "type": "file",
+      "file": "Dossier  Course \u00e0 l'IA entre \u00c9tats\u2011Unis et Chine.md",
+      "x": 5760,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_elon_musk",
+      "type": "file",
+      "file": "Elon Musk.md",
+      "x": 5960,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_dossiers_2026_11_12_3_eric_schmidt",
+      "type": "file",
+      "file": "Eric Schmidt.md",
+      "x": 4960,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f0011",
+      "type": "file",
+      "file": "Feuilleton Fractile atteint 7 Mds $ apr\u00e8s tour de financement.md",
+      "x": 5160,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f0002",
+      "type": "file",
+      "file": "Feuilleton Suno AI poursuivi de nouveau pour violation de droits d\u2019auteur.md",
+      "x": 5360,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_fractile",
+      "type": "file",
+      "file": "Fractile.md",
+      "x": 5560,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_harbor",
+      "type": "file",
+      "file": "Harbor.md",
+      "x": 5760,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_dossiers_2026_11_12_1_harvey_c_jones",
+      "type": "file",
+      "file": "Harvey C. Jones.md",
+      "x": 5960,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_dossiers_2026_11_12_1_huawei",
+      "type": "file",
+      "file": "Huawei.md",
+      "x": 4960,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_inmobi",
+      "type": "file",
+      "file": "InMobi.md",
+      "x": 5160,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_dossiers_2026_11_12_3_institute_for_progress",
+      "type": "file",
+      "file": "Institute for Progress.md",
+      "x": 5360,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_logic_pro",
+      "type": "file",
+      "file": "Logic Pro.md",
+      "x": 5560,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_mistral",
+      "type": "file",
+      "file": "Mistral AI.md",
+      "x": 5760,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_morganstanley",
+      "type": "file",
+      "file": "Morgan Stanley.md",
+      "x": 5960,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_naver",
+      "type": "file",
+      "file": "Naver.md",
+      "x": 4960,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "type": "file",
+      "file": "Nvidia.md",
+      "x": 5160,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_projetkessel",
+      "type": "file",
+      "file": "Projet Kessel.md",
+      "x": 5360,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_spacex",
+      "type": "file",
+      "file": "SpaceX.md",
+      "x": 5560,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_sunoai",
+      "type": "file",
+      "file": "Suno AI.md",
+      "x": 5760,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_dossiers_2026_11_12_1_synopsys",
+      "type": "file",
+      "file": "Synopsys.md",
+      "x": 5960,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_ubs",
+      "type": "file",
+      "file": "UBS.md",
+      "x": 4960,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_08_t2_doc",
+      "type": "file",
+      "file": "Veille France 2026-11-08 (Environment).md",
+      "x": 5160,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_08_t1_doc",
+      "type": "file",
+      "file": "Veille France 2026-11-08 (Strategies).md",
+      "x": 5360,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_10_t5",
+      "type": "file",
+      "file": "Veille France 2026-11-10  S\u00e9curit\u00e9, risques et \u00e9thique.md",
+      "x": 5560,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_11_t1",
+      "type": "file",
+      "file": "Veille France 2026-11-11.md",
+      "x": 5760,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_11_t5",
+      "type": "file",
+      "file": "Veille France 2026-11-11  Autres articles.md",
+      "x": 5960,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veilleiafr20261112t1",
+      "type": "file",
+      "file": "Veille France 2026-11-12  March\u00e9s financiers et investissements IA.md",
+      "x": 4960,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veilleiaus20261108t2",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-08  R\u00e9gulation et contentieux.md",
+      "x": 5160,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_12_t1",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-12  Financement et march\u00e9 de l'IA.md",
+      "x": 5360,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g5",
+      "type": "group",
+      "label": "Cloud & Enterprise AI",
+      "x": 6340,
+      "y": 0,
+      "width": 880,
+      "height": 520,
+      "color": "6"
+    },
+    {
+      "id": "n_alibaba_ai",
+      "type": "file",
+      "file": "Alibaba AI.md",
+      "x": 6360,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_bitcoin_miners_ai",
+      "type": "file",
+      "file": "Bitcoin Miners AI.md",
+      "x": 6560,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f0013",
+      "type": "file",
+      "file": "Feuilleton Snowflake lance Cortex IA g\u00e9n\u00e9rative.md",
+      "x": 6760,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_google_ai_studio",
+      "type": "file",
+      "file": "Google AI Studio.md",
+      "x": 6960,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_google_gemini_carplay",
+      "type": "file",
+      "file": "Google Gemini CarPlay.md",
+      "x": 6360,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_google_gemini_decisions",
+      "type": "file",
+      "file": "Google Gemini Decisions.md",
+      "x": 6560,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_harbor_claris",
+      "type": "file",
+      "file": "Harbor Claris.md",
+      "x": 6760,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jiostar",
+      "type": "file",
+      "file": "JioStar.md",
+      "x": 6960,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_local_llm_server",
+      "type": "file",
+      "file": "Local LLM Server.md",
+      "x": 6360,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_mel_conference",
+      "type": "file",
+      "file": "MEL Conference.md",
+      "x": 6560,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_nas_ai_server",
+      "type": "file",
+      "file": "NAS AI Server.md",
+      "x": 6760,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_omniidefense",
+      "type": "file",
+      "file": "Omnii Defense.md",
+      "x": 6960,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_snowflake_cortex",
+      "type": "file",
+      "file": "Snowflake Cortex.md",
+      "x": 6360,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_unitedairlines",
+      "type": "file",
+      "file": "United Airlines.md",
+      "x": 6560,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_12_t2",
+      "type": "file",
+      "file": "Veille France 2026-11-12.md",
+      "x": 6760,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_r_localllm",
+      "type": "file",
+      "file": "rLocalLLM.md",
+      "x": 6960,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g6",
+      "type": "group",
+      "label": "Big Tech AI Products",
+      "x": 7300,
+      "y": 0,
+      "width": 880,
+      "height": 520,
+      "color": "1"
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_09_t5_adobe",
+      "type": "file",
+      "file": "Adobe.md",
+      "x": 7320,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_09_t4_cern",
+      "type": "file",
+      "file": "CERN.md",
+      "x": 7520,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_09_t5_claude_opus_4_8",
+      "type": "file",
+      "file": "Claude Opus 4.8.md",
+      "x": 7720,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_09_t5_disney",
+      "type": "file",
+      "file": "Disney.md",
+      "x": 7920,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f0010",
+      "type": "file",
+      "file": "Feuilleton Google \u00e9tend la gamme Gemini.md",
+      "x": 7320,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_gemini_4_carbon",
+      "type": "file",
+      "file": "Gemini 4 Carbon.md",
+      "x": 7520,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f0010_gemini_decisions",
+      "type": "file",
+      "file": "Gemini Decisions.md",
+      "x": 7720,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_09_t4_goldman_sachs",
+      "type": "file",
+      "file": "Goldman Sachs.md",
+      "x": 7920,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_08_t1_google",
+      "type": "file",
+      "file": "Google.md",
+      "x": 7320,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_09_t4_nolej",
+      "type": "file",
+      "file": "Nolej.md",
+      "x": 7520,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_09_t4_siri",
+      "type": "file",
+      "file": "Siri.md",
+      "x": 7720,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_09_t5_tpu_8i_max",
+      "type": "file",
+      "file": "TPU 8i Max.md",
+      "x": 7920,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_09_t5_tpu_8tx",
+      "type": "file",
+      "file": "TPU 8tx.md",
+      "x": 7320,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_09_t4_take_two",
+      "type": "file",
+      "file": "Take Two.md",
+      "x": 7520,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_09_t4",
+      "type": "file",
+      "file": "Veille France 2026-11-09  Applications soci\u00e9tales et culturelles de l\u2019IA.md",
+      "x": 7720,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_09_t5",
+      "type": "file",
+      "file": "Veille France 2026-11-09  Autres articles.md",
+      "x": 7920,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g7",
+      "type": "group",
+      "label": "AI Sector Applications",
+      "x": 8260,
+      "y": 0,
+      "width": 880,
+      "height": 520,
+      "color": "2"
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t4_ai_buildout",
+      "type": "file",
+      "file": "AI buildout market impact.md",
+      "x": 8280,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t4_ai_industry_security",
+      "type": "file",
+      "file": "AI industry security.md",
+      "x": 8480,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t4_firmware_teams",
+      "type": "file",
+      "file": "AI lessons for firmware teams.md",
+      "x": 8680,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t4_crisis_comm",
+      "type": "file",
+      "file": "AI tool for crisis communication.md",
+      "x": 8880,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t4_ai_political_ads",
+      "type": "file",
+      "file": "AI-generated political ads.md",
+      "x": 8280,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t4_cornell_finance",
+      "type": "file",
+      "file": "Cornell AI finance certificate.md",
+      "x": 8480,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t4_elvis_lawsuit",
+      "type": "file",
+      "file": "Elvis Presley generative AI lawsuit.md",
+      "x": 8680,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t4_finovate_trends",
+      "type": "file",
+      "file": "FinovateSpring 2027 AI trends.md",
+      "x": 8880,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t4_georgia_students",
+      "type": "file",
+      "file": "Georgia College Students AI projects.md",
+      "x": 8280,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t4_meta_accountant",
+      "type": "file",
+      "file": "Meta Accountant AI Fluency.md",
+      "x": 8480,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t4_nebraska_employees",
+      "type": "file",
+      "file": "Nebraska state employees AI negotiation.md",
+      "x": 8680,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t4_texas_business",
+      "type": "file",
+      "file": "Texas business AI adoption.md",
+      "x": 8880,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t4",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-09  Applications sectorielles de l\u2019IA.md",
+      "x": 8280,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t4_vermont_hospitals",
+      "type": "file",
+      "file": "Vermont hospitals AI adoption.md",
+      "x": 8480,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g8",
+      "type": "group",
+      "label": "AI Hardware & Assistants",
+      "x": 0,
+      "y": 800,
+      "width": 880,
+      "height": 520,
+      "color": "3"
+    },
+    {
+      "id": "n_veilles_amd",
+      "type": "file",
+      "file": "AMD.md",
+      "x": 20,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_epyc_9006_sp7",
+      "type": "file",
+      "file": "AMD \u9704\u9f99\u5d4c\u5165\u5f0f 9006 \u7cfb\u5217 SP7.md",
+      "x": 220,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_apple_siri_ai",
+      "type": "file",
+      "file": "Apple Siri AI.md",
+      "x": 420,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_jl280n_jl380n_jl681n",
+      "type": "file",
+      "file": "JL280NJL380NJL681N.md",
+      "x": 620,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_meta_muse",
+      "type": "file",
+      "file": "Meta Muse.md",
+      "x": 20,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_meta",
+      "type": "file",
+      "file": "Meta Platforms.md",
+      "x": 220,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_muse_ai",
+      "type": "file",
+      "file": "Muse AI assistant.md",
+      "x": 420,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_openai_dots",
+      "type": "file",
+      "file": "OpenAI Dots.md",
+      "x": 620,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_palantir",
+      "type": "file",
+      "file": "Palantir Technologies Inc..md",
+      "x": 20,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_10_t1",
+      "type": "file",
+      "file": "Veille Chine 2026-11-10  AI\u82af\u7247\u4e0e\u7b97\u529b.md",
+      "x": 220,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_08_t6",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-08.md",
+      "x": 420,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_xiaocai_arxiv261107042",
+      "type": "file",
+      "file": "Xiao and Cai, \u201cFollow the Policy, Fail the Benchmark\u201d, arXiv 2611.07042.md",
+      "x": 620,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_zen6",
+      "type": "file",
+      "file": "Zen 6 \u67b6\u6784.md",
+      "x": 20,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_pingtouge",
+      "type": "file",
+      "file": "\u5e73\u5934\u54e5 (T-Head).md",
+      "x": 220,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_jieli_tech",
+      "type": "file",
+      "file": "\u6770\u7406\u79d1\u6280 (Jieli Technology).md",
+      "x": 420,
+      "y": 1120,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g9",
+      "type": "group",
+      "label": "Chinese Consumer AI",
+      "x": 1400,
+      "y": 800,
+      "width": 880,
+      "height": 420,
+      "color": "4"
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_12_t3_bytedance",
+      "type": "file",
+      "file": "ByteDance.md",
+      "x": 1420,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_12_t3_deepseek",
+      "type": "file",
+      "file": "DeepSeek.md",
+      "x": 1620,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_12_t3_doubao",
+      "type": "file",
+      "file": "Doubao.md",
+      "x": 1820,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_12_t3_jd",
+      "type": "file",
+      "file": "JD.com.md",
+      "x": 2020,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_12_t3_kimi",
+      "type": "file",
+      "file": "Kimi.md",
+      "x": 1420,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_12_t3_taobao",
+      "type": "file",
+      "file": "Taobao.md",
+      "x": 1620,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_12_t3",
+      "type": "file",
+      "file": "Veille Chine 2026-11-12  IA dans le commerce et le divertissement.md",
+      "x": 1820,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_12_t3_aorong_yunke",
+      "type": "file",
+      "file": "\u50b2\u878d\u4e91\u5ba2.md",
+      "x": 2020,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_12_t3_xirang_cup",
+      "type": "file",
+      "file": "\u606f\u58e4\u676f.md",
+      "x": 1420,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_12_t3_greenland_nanchang_opc",
+      "type": "file",
+      "file": "\u7eff\u5730\u5357\u660c\u5362\u585e\u6069OPC\u793e\u533a.md",
+      "x": 1620,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g10",
+      "type": "group",
+      "label": "AI Models & Ethics",
+      "x": 2580,
+      "y": 800,
+      "width": 880,
+      "height": 420,
+      "color": "5"
+    },
+    {
+      "id": "n_codex",
+      "type": "file",
+      "file": "Codex.md",
+      "x": 2600,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_fireworks_ai",
+      "type": "file",
+      "file": "Fireworks AI.md",
+      "x": 2800,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_gpt_6_astra",
+      "type": "file",
+      "file": "GPT-6 Astra.md",
+      "x": 3000,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_jacek_rozenek",
+      "type": "file",
+      "file": "Jacek Rozenek.md",
+      "x": 3200,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lean_4",
+      "type": "file",
+      "file": "Lean 4.md",
+      "x": 2600,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_notion",
+      "type": "file",
+      "file": "Notion.md",
+      "x": 2800,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_notion_ai",
+      "type": "file",
+      "file": "Notion AI.md",
+      "x": 3000,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_oroni",
+      "type": "file",
+      "file": "ORONI.md",
+      "x": 3200,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_10_t4",
+      "type": "file",
+      "file": "Veille France 2026-11-10  Nouveaux mod\u00e8les et produits IA.md",
+      "x": 2600,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_12_t4",
+      "type": "file",
+      "file": "Veille France 2026-11-12  R\u00e9gulation, \u00e9thique et impacts soci\u00e9taux.md",
+      "x": 2800,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_yann_lecun",
+      "type": "file",
+      "file": "Yann Le Cun.md",
+      "x": 3000,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g11",
+      "type": "group",
+      "label": "AI Market Trends",
+      "x": 3980,
+      "y": 800,
+      "width": 660,
+      "height": 420,
+      "color": "6"
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t6_bitcoin_prediction",
+      "type": "file",
+      "file": "AI Bitcoin price prediction.md",
+      "x": 4000,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t6_chatbot_complaints",
+      "type": "file",
+      "file": "AI chatbot for personal complaints.md",
+      "x": 4200,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t6_brave_leo",
+      "type": "file",
+      "file": "Brave Leo AI assistant.md",
+      "x": 4400,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t6_cbp_modernization",
+      "type": "file",
+      "file": "CBP Commerce IT modernization.md",
+      "x": 4000,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t6_chicago_protest",
+      "type": "file",
+      "file": "Chicago parents Google AI protest.md",
+      "x": 4200,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t6_ai_pushback",
+      "type": "file",
+      "file": "Effective AI pushback.md",
+      "x": 4400,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t6_market_broadening",
+      "type": "file",
+      "file": "Market broadening beyond AI.md",
+      "x": 4000,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t6_nvidia_alternatives",
+      "type": "file",
+      "file": "Nvidia AI infrastructure alternatives.md",
+      "x": 4200,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t6",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-09  Autres articles.md",
+      "x": 4400,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g12",
+      "type": "group",
+      "label": "AI Governance & Policy",
+      "x": 4940,
+      "y": 800,
+      "width": 660,
+      "height": 420,
+      "color": "1"
+    },
+    {
+      "id": "n_appel_de_paris",
+      "type": "file",
+      "file": "Appel de Paris.md",
+      "x": 4960,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_arthur_mensch",
+      "type": "file",
+      "file": "Arthur Mensch.md",
+      "x": 5160,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_dario_amodei",
+      "type": "file",
+      "file": "Dario Amodei.md",
+      "x": 5360,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_emmanuel_macron",
+      "type": "file",
+      "file": "Emmanuel Macron.md",
+      "x": 4960,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_loi_darcos",
+      "type": "file",
+      "file": "Loi Darcos.md",
+      "x": 5160,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_australia_ai_regulation",
+      "type": "file",
+      "file": "Organe de r\u00e9gulation de l'IA en Australie.md",
+      "x": 5360,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f0006_pressecitron",
+      "type": "file",
+      "file": "Presse-citron.md",
+      "x": 4960,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_sam_altman",
+      "type": "file",
+      "file": "Sam Altman.md",
+      "x": 5160,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_10_t1",
+      "type": "file",
+      "file": "Veille France 2026-11-10  R\u00e9gulation et gouvernance.md",
+      "x": 5360,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g13",
+      "type": "group",
+      "label": "Chinese Market Investment",
+      "x": 6340,
+      "y": 800,
+      "width": 660,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_11_t1_aoshikang",
+      "type": "file",
+      "file": "Aoshikang.md",
+      "x": 6360,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_11_t1_guangdong_province",
+      "type": "file",
+      "file": "Guangdong Province.md",
+      "x": 6560,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_11_t1_nanling_technology",
+      "type": "file",
+      "file": "Nanling Technology.md",
+      "x": 6760,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_11_t1_shanghai_film",
+      "type": "file",
+      "file": "Shanghai Film.md",
+      "x": 6360,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_11_t1",
+      "type": "file",
+      "file": "Veille Chine 2026-11-11  March\u00e9s et investissements.md",
+      "x": 6560,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g15",
+      "type": "group",
+      "label": "Baidu & Embodied AI",
+      "x": 7300,
+      "y": 800,
+      "width": 660,
+      "height": 420,
+      "color": "3"
+    },
+    {
+      "id": "n_veilles_apollo_go",
+      "type": "file",
+      "file": "Apollo Go (\u841d\u535c\u5feb\u8dd1).md",
+      "x": 7320,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_baidu",
+      "type": "file",
+      "file": "Baidu (\u767e\u5ea6).md",
+      "x": 7520,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_baidu_world_2026",
+      "type": "file",
+      "file": "Baidu World 2026.md",
+      "x": 7720,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_embodied_ai",
+      "type": "file",
+      "file": "Embodied AI (\u5177\u8eab\u667a\u80fd).md",
+      "x": 7320,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_intelligent_organization",
+      "type": "file",
+      "file": "Intelligent Organization (\u667a\u80fd\u7ec4\u7ec7).md",
+      "x": 7520,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_robin_li",
+      "type": "file",
+      "file": "Robin Li (\u674e\u5f66\u5b8f).md",
+      "x": 7720,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_12_t1",
+      "type": "file",
+      "file": "Veille Chine 2026-11-12  Organisations intelligentes.md",
+      "x": 7320,
+      "y": 1040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g16",
+      "type": "group",
+      "label": "AI Models & Creative",
+      "x": 8260,
+      "y": 800,
+      "width": 660,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_adobe_max_2026",
+      "type": "file",
+      "file": "Adobe MAX 2026.md",
+      "x": 8280,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_deepl_voice_aure",
+      "type": "file",
+      "file": "DeepL Aure.md",
+      "x": 8480,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_google_deepmind_hurricane_model",
+      "type": "file",
+      "file": "Google DeepMind Hurricane Model.md",
+      "x": 8680,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_minimax_model",
+      "type": "file",
+      "file": "MiniMax Model.md",
+      "x": 8280,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_project_screen_test",
+      "type": "file",
+      "file": "Project Screen Test.md",
+      "x": 8480,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_11_t3",
+      "type": "file",
+      "file": "Veille Chine 2026-11-11  Applications sectorielles.md",
+      "x": 8680,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g18",
+      "type": "group",
+      "label": "AI Funding & Deals",
+      "x": 0,
+      "y": 1400,
+      "width": 660,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_10_t1_anthropic_ipo",
+      "type": "file",
+      "file": "Anthropic IPO valuation.md",
+      "x": 20,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_10_t1_bay_security",
+      "type": "file",
+      "file": "Bay Security funding.md",
+      "x": 220,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_10_t1_blue_j_funding",
+      "type": "file",
+      "file": "Blue J funding.md",
+      "x": 420,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_10_t1_lumbra_startup",
+      "type": "file",
+      "file": "Lumbra Series A.md",
+      "x": 20,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_10_t1_qantas_deal",
+      "type": "file",
+      "file": "Qantas Accenture AI deal.md",
+      "x": 220,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_10_t1",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-10  Financement et valorisation.md",
+      "x": 420,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g19",
+      "type": "group",
+      "label": "Defense & Security AI",
+      "x": 1400,
+      "y": 1400,
+      "width": 660,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_anduril",
+      "type": "file",
+      "file": "Anduril.md",
+      "x": 1420,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_helsing",
+      "type": "file",
+      "file": "Helsing.md",
+      "x": 1620,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_palantir",
+      "type": "file",
+      "file": "Palantir.md",
+      "x": 1820,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_shield_ai",
+      "type": "file",
+      "file": "Shield AI.md",
+      "x": 1420,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_12_t3",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-12  IA dans la d\u00e9fense et la s\u00e9curit\u00e9.md",
+      "x": 1620,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g20",
+      "type": "group",
+      "label": "AI Education & Society",
+      "x": 2580,
+      "y": 1400,
+      "width": 660,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_barnard",
+      "type": "file",
+      "file": "Barnard College.md",
+      "x": 2600,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_boulder",
+      "type": "file",
+      "file": "Boulder.md",
+      "x": 2800,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_stanford",
+      "type": "file",
+      "file": "Stanford University.md",
+      "x": 3000,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_12_t4",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-12  IA dans l'\u00e9ducation et la soci\u00e9t\u00e9.md",
+      "x": 2600,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_12_t2",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-12  R\u00e9gulation, politiques et protestations li\u00e9es \u00e0 l'IA.md",
+      "x": 2800,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g21",
+      "type": "group",
+      "label": "AI Ecosystems & Tools",
+      "x": 3980,
+      "y": 1400,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_agent_name_service",
+      "type": "file",
+      "file": "Agent Name Service.md",
+      "x": 4000,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_linux_foundation",
+      "type": "file",
+      "file": "Linux Foundation.md",
+      "x": 4200,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_10_t5",
+      "type": "file",
+      "file": "Veille Chine 2026-11-10  \u00c9cosyst\u00e8mes, plateformes et outils IA.md",
+      "x": 4000,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_huawei",
+      "type": "file",
+      "file": "\u534e\u4e3a (Huawei).md",
+      "x": 4200,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g22",
+      "type": "group",
+      "label": "AI Research & Applications",
+      "x": 4940,
+      "y": 1400,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_alphagenome_2",
+      "type": "file",
+      "file": "AlphaGenome 2.md",
+      "x": 4960,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_google_deepmind",
+      "type": "file",
+      "file": "Google DeepMind.md",
+      "x": 5160,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_11_t3",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-11  Applications sectorielles de l'IA.md",
+      "x": 4960,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_11_t4",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-11  Outils, plateformes et recherche IA.md",
+      "x": 5160,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g24",
+      "type": "group",
+      "label": "AI Security News",
+      "x": 6340,
+      "y": 1400,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_feuilletons_f0004_bay",
+      "type": "file",
+      "file": "Bay Security.md",
+      "x": 6360,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f0004_govinfosecurity",
+      "type": "file",
+      "file": "GovInfoSecurity.md",
+      "x": 6560,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f0004_reuters",
+      "type": "file",
+      "file": "Reuters.md",
+      "x": 6360,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f0004_zonebourse",
+      "type": "file",
+      "file": "Zonebourse.md",
+      "x": 6560,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g25",
+      "type": "group",
+      "label": "AI Security & Ethics",
+      "x": 7300,
+      "y": 1400,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t5_irs_guidance",
+      "type": "file",
+      "file": "IRS AI guidance.md",
+      "x": 7320,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t5_military_ai",
+      "type": "file",
+      "file": "Military AI bomb threat prevention.md",
+      "x": 7520,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t5_nvidia_spy",
+      "type": "file",
+      "file": "Nvidia spy allegations.md",
+      "x": 7320,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t5",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-09  S\u00e9curit\u00e9, \u00e9thique et fraude.md",
+      "x": 7520,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g26",
+      "type": "group",
+      "label": "Enterprise AI Adoption",
+      "x": 8260,
+      "y": 1400,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_anthropic_claude_fable_5_2",
+      "type": "file",
+      "file": "Anthropic Claude Fable 5.2.md",
+      "x": 8280,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_anthropic_claude_mythos_5_2",
+      "type": "file",
+      "file": "Anthropic Claude Mythos 5.2.md",
+      "x": 8480,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t2",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-09  Entreprise.md",
+      "x": 8280,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g27",
+      "type": "group",
+      "label": "Creative Agency AI",
+      "x": 0,
+      "y": 1880,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_caa",
+      "type": "file",
+      "file": "CAA.md",
+      "x": 20,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_echo",
+      "type": "file",
+      "file": "ECHO.md",
+      "x": 220,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ogilvy",
+      "type": "file",
+      "file": "Ogilvy.md",
+      "x": 20,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g28",
+      "type": "group",
+      "label": "Alibaba Hardware & Finance",
+      "x": 1400,
+      "y": 1880,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_feuilletons_f0008_alibaba",
+      "type": "file",
+      "file": "Alibaba.md",
+      "x": 1420,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f0008_thead",
+      "type": "file",
+      "file": "T-Head.md",
+      "x": 1620,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f0008_zonebourse_suisse",
+      "type": "file",
+      "file": "Zonebourse Suisse.md",
+      "x": 1420,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g30",
+      "type": "group",
+      "label": "Chinese Tech Infrastructure",
+      "x": 2580,
+      "y": 1880,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_11_t2_opus_5_5",
+      "type": "file",
+      "file": "Opus 5.5.md",
+      "x": 2600,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_11_t2_shengquan_group",
+      "type": "file",
+      "file": "Shengquan Group.md",
+      "x": 2800,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_11_t2",
+      "type": "file",
+      "file": "Veille Chine 2026-11-11  Technologie et infrastructure.md",
+      "x": 2600,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g32",
+      "type": "group",
+      "label": "Chinese Hardware & Computing",
+      "x": 3980,
+      "y": 1880,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_entity_liyanhong",
+      "type": "file",
+      "file": "Li Yanhong (Robin Li).md",
+      "x": 4000,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_12_t6",
+      "type": "file",
+      "file": "Veille Chine 2026-11-12  Mat\u00e9riel, calcul et infrastructure.md",
+      "x": 4200,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g33",
+      "type": "group",
+      "label": "Chinese AI Media",
+      "x": 4940,
+      "y": 1880,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_12_t5",
+      "type": "file",
+      "file": "Veille Chine 2026-11-12  Contenus et m\u00e9dias IA.md",
+      "x": 4960,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_entity_zhaoliying",
+      "type": "file",
+      "file": "Zhao Liying.md",
+      "x": 5160,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g34",
+      "type": "group",
+      "label": "AI Regulation",
+      "x": 6340,
+      "y": 1880,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_feuilletons_f0005_australia_ai_regulator",
+      "type": "file",
+      "file": "Australia AI Regulator.md",
+      "x": 6360,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f0005_rfi",
+      "type": "file",
+      "file": "RFI.md",
+      "x": 6560,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g36",
+      "type": "group",
+      "label": "AI Infrastructure & Finance",
+      "x": 7300,
+      "y": 1880,
+      "width": 660,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_alibaba_thead",
+      "type": "file",
+      "file": "Alibaba T-Head.md",
+      "x": 7320,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_bay_startup",
+      "type": "file",
+      "file": "Bay (start-up).md",
+      "x": 7520,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_infineon",
+      "type": "file",
+      "file": "Infineon.md",
+      "x": 7720,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_10_t2",
+      "type": "file",
+      "file": "Veille France 2026-11-10  Financement, march\u00e9s et IPO.md",
+      "x": 7320,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_10_t4",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-10  Infrastructure et data\u2011centers.md",
+      "x": 7520,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f0007_yahoo_finance_france",
+      "type": "file",
+      "file": "Yahoo Finance France.md",
+      "x": 7720,
+      "y": 2040,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g37",
+      "type": "group",
+      "label": "Data Center Infrastructure",
+      "x": 8260,
+      "y": 1880,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_feuilletons_f0012",
+      "type": "file",
+      "file": "Feuilleton Torus l\u00e8ve 500 M$ pour un produit IA de data\u2011centre.md",
+      "x": 8280,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_feuilletons_f0012_torus",
+      "type": "file",
+      "file": "Torus.md",
+      "x": 8480,
+      "y": 1960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g39",
+      "type": "group",
+      "label": "Chinese AI Governance",
+      "x": 0,
+      "y": 2360,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_10_t3",
+      "type": "file",
+      "file": "Veille Chine 2026-11-10  R\u00e9gulation et gouvernance de l\u2019IA.md",
+      "x": 20,
+      "y": 2440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_fudan_development_institute",
+      "type": "file",
+      "file": "\u590d\u65e6\u53d1\u5c55\u7814\u7a76\u9662.md",
+      "x": 220,
+      "y": 2440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g40",
+      "type": "group",
+      "label": "Healthcare AI Applications",
+      "x": 1400,
+      "y": 2360,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_googlehealth",
+      "type": "file",
+      "file": "Google Health.md",
+      "x": 1420,
+      "y": 2440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veilleiaus20261108t3",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-08  Applications sectorielles.md",
+      "x": 1620,
+      "y": 2440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g41",
+      "type": "group",
+      "label": "Consumer AI Products",
+      "x": 2580,
+      "y": 2360,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_nubia",
+      "type": "file",
+      "file": "Nubia.md",
+      "x": 2600,
+      "y": 2440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_12_t5",
+      "type": "file",
+      "file": "Veille France 2026-11-12  Produits grand public et IA g\u00e9n\u00e9rative.md",
+      "x": 2800,
+      "y": 2440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g42",
+      "type": "group",
+      "label": "AI Advertising Regulation",
+      "x": 3980,
+      "y": 2360,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_pennsylvania_ai_deceptive_advertising_act",
+      "type": "file",
+      "file": "Pennsylvania AI Deceptive Advertising Act.md",
+      "x": 4000,
+      "y": 2440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t1",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-09  R\u00e9gulation.md",
+      "x": 4200,
+      "y": 2440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g43",
+      "type": "group",
+      "label": "Chinese Geopolitics & Regulation",
+      "x": 4940,
+      "y": 2360,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_12_t4",
+      "type": "file",
+      "file": "Veille Chine 2026-11-12  R\u00e9gulation, g\u00e9opolitique et politique.md",
+      "x": 4960,
+      "y": 2440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_12_t4_citic_securities",
+      "type": "file",
+      "file": "\u4e2d\u4fe1\u8bc1\u5238.md",
+      "x": 5160,
+      "y": 2440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g44",
+      "type": "group",
+      "label": "AI Competitions",
+      "x": 6340,
+      "y": 2360,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_12_t8_doc",
+      "type": "file",
+      "file": "Veille Chine 2026-11-12.md",
+      "x": 6360,
+      "y": 2440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_veilles_veille_ia_cn_2026_11_12_t8_ai_competition",
+      "type": "file",
+      "file": "\u667a\u6c47\u9621\u964c\u00b7\u6570\u878d\u6c83\u91ce AI Competition.md",
+      "x": 6560,
+      "y": 2440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g47",
+      "type": "group",
+      "label": "Academic AI Research",
+      "x": 7300,
+      "y": 2360,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_beijing_university_of_posts_and_telecommunications",
+      "type": "file",
+      "file": "Beijing University of Posts and Telecommunications.md",
+      "x": 7320,
+      "y": 2440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g48",
+      "type": "group",
+      "label": "AI Safety & Control",
+      "x": 8260,
+      "y": 2360,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_dossiers_2026_11_12_2_chine_agents_ia_voyous",
+      "type": "file",
+      "file": "Chine  comment des agents IA \u00ab voyous \u00bb ont \u00e9chapp\u00e9 au contr\u00f4le de leurs cr\u00e9ateurs.md",
+      "x": 8280,
+      "y": 2440,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g49",
+      "type": "group",
+      "label": "Software Development",
+      "x": 0,
+      "y": 2840,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_edelbyte",
+      "type": "file",
+      "file": "Edelbyte.md",
+      "x": 20,
+      "y": 2920,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g50",
+      "type": "group",
+      "label": "Media Streaming AI",
+      "x": 1400,
+      "y": 2840,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_jiohotstar",
+      "type": "file",
+      "file": "JioHotstar.md",
+      "x": 1420,
+      "y": 2920,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g51",
+      "type": "group",
+      "label": "Individual Profile",
+      "x": 2580,
+      "y": 2840,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_louis_perez",
+      "type": "file",
+      "file": "Louis Perez.md",
+      "x": 2600,
+      "y": 2920,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g52",
+      "type": "group",
+      "label": "Academic AI Research",
+      "x": 3980,
+      "y": 2840,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_nanjing_university_of_aeronautics_and_astronautics",
+      "type": "file",
+      "file": "Nanjing University of Aeronautics and Astronautics.md",
+      "x": 4000,
+      "y": 2920,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g53",
+      "type": "group",
+      "label": "Enterprise AI Software",
+      "x": 4940,
+      "y": 2840,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_red_hat_ai",
+      "type": "file",
+      "file": "Red Hat AI.md",
+      "x": 4960,
+      "y": 2920,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g54",
+      "type": "group",
+      "label": "AI Trust & Safety",
+      "x": 6340,
+      "y": 2840,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_trust3_ai",
+      "type": "file",
+      "file": "Trust3 AI.md",
+      "x": 6360,
+      "y": 2920,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g55",
+      "type": "group",
+      "label": "AI Financial Markets",
+      "x": 7300,
+      "y": 2840,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_09_t2",
+      "type": "file",
+      "file": "Veille France 2026-11-09  Finance, Bourse et IA.md",
+      "x": 7320,
+      "y": 2920,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g56",
+      "type": "group",
+      "label": "AI Governance & Security",
+      "x": 8260,
+      "y": 2840,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_veilles_veille_ia_fr_2026_11_09_t3",
+      "type": "file",
+      "file": "Veille France 2026-11-09  R\u00e9gulation, s\u00e9curit\u00e9 et enjeux g\u00e9opolitiques.md",
+      "x": 8280,
+      "y": 2920,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g57",
+      "type": "group",
+      "label": "General AI Technology",
+      "x": 0,
+      "y": 3320,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_09_t3",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-09  Technologie.md",
+      "x": 20,
+      "y": 3400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g58",
+      "type": "group",
+      "label": "AI Education & Training",
+      "x": 1400,
+      "y": 3320,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_11_t5",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-11  \u00c9ducation et formation \u00e0 l'IA.md",
+      "x": 1420,
+      "y": 3400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g59",
+      "type": "group",
+      "label": "General AI News",
+      "x": 2580,
+      "y": 3320,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_veilles_veille_ia_us_2026_11_11_t6",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-11  Autres articles.md",
+      "x": 2600,
+      "y": 3400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g60",
+      "type": "group",
+      "label": "AI Public Perception",
+      "x": 3980,
+      "y": 3320,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_veilles_veilleiaus20261108t5",
+      "type": "file",
+      "file": "Veille \u00c9tats-Unis 2026-11-08  Perception publique et soci\u00e9tale.md",
+      "x": 4000,
+      "y": 3400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g61",
+      "type": "group",
+      "label": "Academic AI Research",
+      "x": 4940,
+      "y": 3320,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_wuhan_university_of_science_and_technology",
+      "type": "file",
+      "file": "Wuhan University of Science and Technology.md",
+      "x": 4960,
+      "y": 3400,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_feuilletons_f_0001_feuilleton_nvidia_crise_feuilletons_f_0001_baird",
+      "fromNode": "n_feuilletons_f_0001_feuilleton_nvidia_crise",
+      "toNode": "n_feuilletons_f_0001_baird",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_feuilletons_f_0001_feuilleton_nvidia_crise_veilles_veille_ia_fr_2026_11_09_t5_jensen_huang",
+      "fromNode": "n_feuilletons_f_0001_feuilleton_nvidia_crise",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_09_t5_jensen_huang",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_dossiers_2026_11_12_3_dossier_ia_course_dossiers_2026_11_12_3_demis_hassabis",
+      "fromNode": "n_dossiers_2026_11_12_3_dossier_ia_course",
+      "toNode": "n_dossiers_2026_11_12_3_demis_hassabis",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_dossiers_2026_11_12_3_dossier_ia_course_dossiers_2026_11_12_3_eric_schmidt",
+      "fromNode": "n_dossiers_2026_11_12_3_dossier_ia_course",
+      "toNode": "n_dossiers_2026_11_12_3_eric_schmidt",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_dossiers_2026_11_12_3_dossier_ia_course_dossiers_2026_11_12_3_institute_for_progress",
+      "fromNode": "n_dossiers_2026_11_12_3_dossier_ia_course",
+      "toNode": "n_dossiers_2026_11_12_3_institute_for_progress",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_dossiers_2026_11_12_3_dossier_ia_course_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_dossiers_2026_11_12_3_dossier_ia_course",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t3_anthropic",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t3",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t3_synapse_medicine",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t3",
+      "toNode": "n_synapse_medicine",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t6_cisco",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t6",
+      "toNode": "n_cisco",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t6_genpulse",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t6",
+      "toNode": "n_genpulse",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_11_t1_micron",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_11_t1",
+      "toNode": "n_micron",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t6_micron",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t6",
+      "toNode": "n_micron",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t6_nearme",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t6",
+      "toNode": "n_nearme",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_11_t1_sandisk",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_11_t1",
+      "toNode": "n_sandisk",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t6_sandisk",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t6",
+      "toNode": "n_sandisk",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_tencent_claude_code",
+      "fromNode": "n_tencent",
+      "toNode": "n_claude_code",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_feuilletons_f0014_tencent",
+      "fromNode": "n_feuilletons_f0014",
+      "toNode": "n_tencent",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_tencent_dossiers_2026_11_12_2_ia_native_strategy",
+      "fromNode": "n_tencent",
+      "toNode": "n_dossiers_2026_11_12_2_ia_native_strategy",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_10_t6_tencent",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_10_t6",
+      "toNode": "n_tencent",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t6_tencent",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t6",
+      "toNode": "n_tencent",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t4_gpt_6_astra",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t4",
+      "toNode": "n_gpt_6_astra",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t4_jacek_rozenek",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t4",
+      "toNode": "n_jacek_rozenek",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t4_notion",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t4",
+      "toNode": "n_notion",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t4_oroni",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t4",
+      "toNode": "n_oroni",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t4_yann_lecun",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t4",
+      "toNode": "n_yann_lecun",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_11_t1_veilles_veille_ia_cn_2026_11_11_t1_aoshikang",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_11_t1",
+      "toNode": "n_veilles_veille_ia_cn_2026_11_11_t1_aoshikang",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_11_t1_veilles_veille_ia_cn_2026_11_11_t1_guangdong_province",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_11_t1",
+      "toNode": "n_veilles_veille_ia_cn_2026_11_11_t1_guangdong_province",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_11_t1_veilles_veille_ia_cn_2026_11_11_t1_nanling_technology",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_11_t1",
+      "toNode": "n_veilles_veille_ia_cn_2026_11_11_t1_nanling_technology",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_11_t1_veilles_veille_ia_cn_2026_11_11_t1_shanghai_film",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_11_t1",
+      "toNode": "n_veilles_veille_ia_cn_2026_11_11_t1_shanghai_film",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_11_t1_anthropic",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_11_t1",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_11_t1_coreweave",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_11_t1",
+      "toNode": "n_coreweave",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_baidu_veilles_apollo_go",
+      "fromNode": "n_veilles_baidu",
+      "toNode": "n_veilles_apollo_go",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_robin_li_veilles_baidu",
+      "fromNode": "n_veilles_robin_li",
+      "toNode": "n_veilles_baidu",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_baidu_world_2026_veilles_intelligent_organization",
+      "fromNode": "n_veilles_baidu_world_2026",
+      "toNode": "n_veilles_intelligent_organization",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_baidu_world_2026_veilles_robin_li",
+      "fromNode": "n_veilles_baidu_world_2026",
+      "toNode": "n_veilles_robin_li",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_robin_li_veilles_embodied_ai",
+      "fromNode": "n_veilles_robin_li",
+      "toNode": "n_veilles_embodied_ai",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_robin_li_veilles_intelligent_organization",
+      "fromNode": "n_veilles_robin_li",
+      "toNode": "n_veilles_intelligent_organization",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_12_t1_veilles_robin_li",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_12_t1",
+      "toNode": "n_veilles_robin_li",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adobe_max_2026_project_screen_test",
+      "fromNode": "n_adobe_max_2026",
+      "toNode": "n_project_screen_test",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_11_t3_adobe_max_2026",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_11_t3",
+      "toNode": "n_adobe_max_2026",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_11_t3_deepl_voice_aure",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_11_t3",
+      "toNode": "n_deepl_voice_aure",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_11_t3_google_deepmind_hurricane_model",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_11_t3",
+      "toNode": "n_google_deepmind_hurricane_model",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_11_t3_minimax_model",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_11_t3",
+      "toNode": "n_minimax_model",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_shield_ai_anduril",
+      "fromNode": "n_shield_ai",
+      "toNode": "n_anduril",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_helsing_palantir",
+      "fromNode": "n_helsing",
+      "toNode": "n_palantir",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t3_shield_ai",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t3",
+      "toNode": "n_shield_ai",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t3_helsing",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t3",
+      "toNode": "n_helsing",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t7_atlas",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t7",
+      "toNode": "n_atlas",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t7_anthropic",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t7",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t7_meta",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t7",
+      "toNode": "n_meta",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t7_microsoft",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t7",
+      "toNode": "n_microsoft",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t2_barnard",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t2",
+      "toNode": "n_barnard",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t2_boulder",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t2",
+      "toNode": "n_boulder",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t4_boulder",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t4",
+      "toNode": "n_boulder",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t2_stanford",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t2",
+      "toNode": "n_stanford",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_feuilletons_f_0001_baird_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_feuilletons_f_0001_baird",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_08_t2_nvidia_veilles_veille_ia_fr_2026_11_09_t5_jensen_huang",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_09_t5_jensen_huang",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_09_t5_jensen_huang_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_09_t5_jensen_huang",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_09_t5_jensen_huang_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_09_t5_jensen_huang",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_12_t7_veilles_veille_ia_fr_2026_11_09_t5_jensen_huang",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_12_t7",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_09_t5_jensen_huang",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_08_t5_veilles_veille_ia_fr_2026_11_09_t5_jensen_huang",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_08_t5",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_09_t5_jensen_huang",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_09_t5_jensen_huang_dossiers_2026_11_12_1_alice_huang",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_09_t5_jensen_huang",
+      "toNode": "n_dossiers_2026_11_12_1_alice_huang",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_10_t6_veilles_veille_ia_fr_2026_11_09_t5_jensen_huang",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_10_t6",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_09_t5_jensen_huang",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_11_t2_veilles_veille_ia_cn_2026_11_11_t2_opus_5_5",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_11_t2",
+      "toNode": "n_veilles_veille_ia_cn_2026_11_11_t2_opus_5_5",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_11_t2_veilles_veille_ia_cn_2026_11_11_t2_shengquan_group",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_11_t2",
+      "toNode": "n_veilles_veille_ia_cn_2026_11_11_t2_shengquan_group",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_11_t1_coreweave",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_11_t1",
+      "toNode": "n_coreweave",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_11_t1_coreweave",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_11_t1",
+      "toNode": "n_coreweave",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t1_coreweave",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t1",
+      "toNode": "n_coreweave",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veilleiafr20261112t1_coreweave",
+      "fromNode": "n_veilles_veilleiafr20261112t1",
+      "toNode": "n_coreweave",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_coreweave_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_coreweave",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "shares_data_with [INFERRED]"
+    },
+    {
+      "id": "e_coreweave_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_coreweave",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t1_inmobi",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t1",
+      "toNode": "n_inmobi",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t2_naver",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t2",
+      "toNode": "n_naver",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t1_naver",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t1",
+      "toNode": "n_naver",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veilleiafr20261112t1_naver",
+      "fromNode": "n_veilles_veilleiafr20261112t1",
+      "toNode": "n_naver",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veilleiafr20261112t1_veilles_morganstanley",
+      "fromNode": "n_veilles_veilleiafr20261112t1",
+      "toNode": "n_veilles_morganstanley",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_spacex_veilles_projetkessel",
+      "fromNode": "n_veilles_spacex",
+      "toNode": "n_veilles_projetkessel",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_projetkessel_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_veilles_projetkessel",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veilleiafr20261112t1_veilles_ubs",
+      "fromNode": "n_veilles_veilleiafr20261112t1",
+      "toNode": "n_veilles_ubs",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_08_t1_apple_logic_pro",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_08_t1_apple",
+      "toNode": "n_logic_pro",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_08_t1_apple_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_08_t1_apple",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_08_t1_apple_harbor",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_08_t1_apple",
+      "toNode": "n_harbor",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_08_t1_doc_veilles_veille_ia_fr_2026_11_08_t1_apple",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_08_t1_doc",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t1_apple",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_10_t5_veilles_veille_ia_fr_2026_11_08_t1_apple",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_10_t5",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t1_apple",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_11_t1_veilles_veille_ia_fr_2026_11_08_t1_apple",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_11_t1",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t1_apple",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_dossiers_2026_11_12_1_colette_kress_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_dossiers_2026_11_12_1_colette_kress",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_dossiers_2026_11_12_1_harvey_c_jones_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_dossiers_2026_11_12_1_harvey_c_jones",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_dossiers_2026_11_12_1_huawei_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_dossiers_2026_11_12_1_huawei",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_12_t7_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_12_t7",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_08_t1_doc_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_08_t1_doc",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_08_t2_doc_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_08_t2_doc",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_09_t5_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_09_t5",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_10_t5_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_10_t5",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_10_t6_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_10_t6",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_11_t1_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_11_t1",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t2_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t2",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_11_t1_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_11_t1",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t1_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t1",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veilleiafr20261112t1_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_veilles_veilleiafr20261112t1",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veilleiaus20261108t2_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "fromNode": "n_veilles_veilleiaus20261108t2",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t2_nvidia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_08_t1_doc_microsoft",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_08_t1_doc",
+      "toNode": "n_microsoft",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_08_t1_doc_veilles_veille_ia_fr_2026_11_08_t1_google",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_08_t1_doc",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t1_google",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_08_t2_doc_anthropic",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_08_t2_doc",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_12_t1_anthropic",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_12_t1",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veilleiafr20261112t1_veilles_spacex",
+      "fromNode": "n_veilles_veilleiafr20261112t1",
+      "toNode": "n_veilles_spacex",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t5_nubia",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t5",
+      "toNode": "n_nubia",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_12_t4_veilles_veille_ia_cn_2026_11_12_t4_citic_securities",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_12_t4",
+      "toNode": "n_veilles_veille_ia_cn_2026_11_12_t4_citic_securities",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_12_t8_doc_veilles_veille_ia_cn_2026_11_12_t8_ai_competition",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_12_t8_doc",
+      "toNode": "n_veilles_veille_ia_cn_2026_11_12_t8_ai_competition",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t2_alibaba_ai",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t2",
+      "toNode": "n_alibaba_ai",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t2_bitcoin_miners_ai",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t2",
+      "toNode": "n_bitcoin_miners_ai",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_google_gemini_decisions_google_ai_studio",
+      "fromNode": "n_google_gemini_decisions",
+      "toNode": "n_google_ai_studio",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t2_google_gemini_carplay",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t2",
+      "toNode": "n_google_gemini_carplay",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t2_google_gemini_decisions",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t2",
+      "toNode": "n_google_gemini_decisions",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t2_harbor_claris",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t2",
+      "toNode": "n_harbor_claris",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t2_jiostar",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t2",
+      "toNode": "n_jiostar",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_local_llm_server_r_localllm",
+      "fromNode": "n_local_llm_server",
+      "toNode": "n_r_localllm",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t2_local_llm_server",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t2",
+      "toNode": "n_local_llm_server",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t2_mel_conference",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t2",
+      "toNode": "n_mel_conference",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t2_nas_ai_server",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t2",
+      "toNode": "n_nas_ai_server",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t2_omniidefense",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t2",
+      "toNode": "n_omniidefense",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_feuilletons_f0013_snowflake_cortex",
+      "fromNode": "n_feuilletons_f0013",
+      "toNode": "n_snowflake_cortex",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t2_snowflake_cortex",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t2",
+      "toNode": "n_snowflake_cortex",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_12_t2_unitedairlines",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_12_t2",
+      "toNode": "n_unitedairlines",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adobe_creative_cloud_veilles_veille_ia_fr_2026_11_08_t1_google",
+      "fromNode": "n_adobe_creative_cloud",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t1_google",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_08_t1_google_veilles_veille_ia_fr_2026_11_09_t5_tpu_8i_max",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_08_t1_google",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_09_t5_tpu_8i_max",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_08_t1_google_veilles_veille_ia_fr_2026_11_09_t5_tpu_8tx",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_08_t1_google",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_09_t5_tpu_8tx",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_08_t1_google_gemini_4_carbon",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_08_t1_google",
+      "toNode": "n_gemini_4_carbon",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_09_t5_veilles_veille_ia_fr_2026_11_08_t1_google",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_09_t5",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t1_google",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_11_t1_veilles_veille_ia_fr_2026_11_08_t1_google",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_11_t1",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t1_google",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_08_t6_veilles_veille_ia_fr_2026_11_08_t1_google",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_08_t6",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t1_google",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_10_t6_veilles_veille_ia_fr_2026_11_08_t1_google",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_10_t6",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_08_t1_google",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_09_t4_veilles_veille_ia_fr_2026_11_09_t4_cern",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_09_t4",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_09_t4_cern",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_09_t4_veilles_veille_ia_fr_2026_11_09_t4_goldman_sachs",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_09_t4",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_09_t4_goldman_sachs",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_09_t5_veilles_veille_ia_fr_2026_11_09_t4_goldman_sachs",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_09_t5",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_09_t4_goldman_sachs",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_09_t4_veilles_veille_ia_fr_2026_11_09_t4_nolej",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_09_t4",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_09_t4_nolej",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_09_t4_veilles_veille_ia_fr_2026_11_09_t4_siri",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_09_t4",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_09_t4_siri",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_09_t4_veilles_veille_ia_fr_2026_11_09_t4_take_two",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_09_t4",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_09_t4_take_two",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_09_t5_veilles_veille_ia_fr_2026_11_09_t5_adobe",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_09_t5",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_09_t5_adobe",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_09_t5_veilles_veille_ia_fr_2026_11_09_t5_claude_opus_4_8",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_09_t5",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_09_t5_claude_opus_4_8",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_09_t5_veilles_veille_ia_fr_2026_11_09_t5_disney",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_09_t5",
+      "toNode": "n_veilles_veille_ia_fr_2026_11_09_t5_disney",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_amd_veilles_epyc_9006_sp7",
+      "fromNode": "n_veilles_amd",
+      "toNode": "n_veilles_epyc_9006_sp7",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_10_t1_veilles_amd",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_10_t1",
+      "toNode": "n_veilles_amd",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_08_t6_veilles_amd",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_08_t6",
+      "toNode": "n_veilles_amd",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_epyc_9006_sp7_veilles_zen6",
+      "fromNode": "n_veilles_epyc_9006_sp7",
+      "toNode": "n_veilles_zen6",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_jieli_tech_veilles_jl280n_jl380n_jl681n",
+      "fromNode": "n_veilles_jieli_tech",
+      "toNode": "n_veilles_jl280n_jl380n_jl681n",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_10_t1_veilles_jieli_tech",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_10_t1",
+      "toNode": "n_veilles_jieli_tech",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_10_t1_veilles_pingtouge",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_10_t1",
+      "toNode": "n_veilles_pingtouge",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_12_t3_veilles_veille_ia_cn_2026_11_12_t3_aorong_yunke",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_12_t3",
+      "toNode": "n_veilles_veille_ia_cn_2026_11_12_t3_aorong_yunke",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_12_t3_veilles_veille_ia_cn_2026_11_12_t3_bytedance",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_12_t3",
+      "toNode": "n_veilles_veille_ia_cn_2026_11_12_t3_bytedance",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_12_t3_doubao_veilles_veille_ia_cn_2026_11_12_t3_deepseek",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_12_t3_doubao",
+      "toNode": "n_veilles_veille_ia_cn_2026_11_12_t3_deepseek",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_12_t3_veilles_veille_ia_cn_2026_11_12_t3_doubao",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_12_t3",
+      "toNode": "n_veilles_veille_ia_cn_2026_11_12_t3_doubao",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_12_t3_doubao_veilles_veille_ia_cn_2026_11_12_t3_kimi",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_12_t3_doubao",
+      "toNode": "n_veilles_veille_ia_cn_2026_11_12_t3_kimi",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_12_t3_veilles_veille_ia_cn_2026_11_12_t3_greenland_nanchang_opc",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_12_t3",
+      "toNode": "n_veilles_veille_ia_cn_2026_11_12_t3_greenland_nanchang_opc",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_12_t3_veilles_veille_ia_cn_2026_11_12_t3_jd",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_12_t3",
+      "toNode": "n_veilles_veille_ia_cn_2026_11_12_t3_jd",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_12_t3_veilles_veille_ia_cn_2026_11_12_t3_taobao",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_12_t3",
+      "toNode": "n_veilles_veille_ia_cn_2026_11_12_t3_taobao",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_12_t3_veilles_veille_ia_cn_2026_11_12_t3_xirang_cup",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_12_t3",
+      "toNode": "n_veilles_veille_ia_cn_2026_11_12_t3_xirang_cup",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_andrej_karpathy_claude",
+      "fromNode": "n_andrej_karpathy",
+      "toNode": "n_claude",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_andrej_karpathy_hackertube",
+      "fromNode": "n_andrej_karpathy",
+      "toNode": "n_hackertube",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_08_t4_andrej_karpathy",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_08_t4",
+      "toNode": "n_andrej_karpathy",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_anthropic_claude_code",
+      "fromNode": "n_anthropic",
+      "toNode": "n_claude_code",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_anthropic_anthropic_ipo",
+      "fromNode": "n_anthropic",
+      "toNode": "n_anthropic_ipo",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_08_t4_anthropic",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_08_t4",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_anthropic_claude_fable_5_2",
+      "fromNode": "n_anthropic",
+      "toNode": "n_claude_fable_5_2",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_anthropic_claude_mythos_5_2",
+      "fromNode": "n_anthropic",
+      "toNode": "n_claude_mythos_5_2",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_anthropic_claude",
+      "fromNode": "n_anthropic",
+      "toNode": "n_claude",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_anthropic_veilles_sec",
+      "fromNode": "n_anthropic",
+      "toNode": "n_veilles_sec",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_anthropic_veilles_spacex",
+      "fromNode": "n_anthropic",
+      "toNode": "n_veilles_spacex",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_anthropic_fable_mythos_5_2",
+      "fromNode": "n_anthropic",
+      "toNode": "n_fable_mythos_5_2",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_anthropic_mythos_5_2",
+      "fromNode": "n_anthropic",
+      "toNode": "n_mythos_5_2",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_anthropic_claude_sheet",
+      "fromNode": "n_anthropic",
+      "toNode": "n_claude_sheet",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_anthropic_claude_whiteboards",
+      "fromNode": "n_anthropic",
+      "toNode": "n_claude_whiteboards",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_feuilletons_f0003_anthropic",
+      "fromNode": "n_feuilletons_f0003",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_10_t4_anthropic",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_10_t4",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_12_t2_anthropic",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_12_t2",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_08_t3_anthropic",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_08_t3",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_09_t1_anthropic",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_09_t1",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_10_t2_anthropic",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_10_t2",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_10_t4_anthropic",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_10_t4",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_10_t6_anthropic",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_10_t6",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_11_t1_anthropic",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_11_t1",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_11_t3_anthropic",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_11_t3",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_10_t7_anthropic",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_10_t7",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_11_t1_anthropic",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_11_t1",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_11_t1__ref__broadcom_anthropic",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_11_t1__ref__broadcom",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_11_t2_anthropic",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_11_t2",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veilleiaus20261108t1_anthropic",
+      "fromNode": "n_veilles_veilleiaus20261108t1",
+      "toNode": "n_anthropic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_goldman_sachs_anthropic",
+      "fromNode": "n_goldman_sachs",
+      "toNode": "n_anthropic",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_10_t7_artifact_ai",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_10_t7",
+      "toNode": "n_artifact_ai",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_08_t4_claude",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_08_t4",
+      "toNode": "n_claude",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_10_t4_goldman_sachs",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_10_t4",
+      "toNode": "n_goldman_sachs",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_greg_morrisett_nys_ai_safety_research_center",
+      "fromNode": "n_greg_morrisett",
+      "toNode": "n_nys_ai_safety_research_center",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_11_t2_greg_morrisett",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_11_t2",
+      "toNode": "n_greg_morrisett",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_fr_2026_11_08_t4_moe_models",
+      "fromNode": "n_veilles_veille_ia_fr_2026_11_08_t4",
+      "toNode": "n_moe_models",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_11_t2_nys_ai_safety_research_center",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_11_t2",
+      "toNode": "n_nys_ai_safety_research_center",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_12_t2_veilles_chinanews",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_12_t2",
+      "toNode": "n_veilles_chinanews",
+      "label": "cites [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_12_t2_veilles_huarjiejiwen",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_12_t2",
+      "toNode": "n_veilles_huarjiejiwen",
+      "label": "cites [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_12_t2_veilles_itzhija",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_12_t2",
+      "toNode": "n_veilles_itzhija",
+      "label": "cites [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_cn_2026_11_12_t2_veilles_zhengquanzhixing",
+      "fromNode": "n_veilles_veille_ia_cn_2026_11_12_t2",
+      "toNode": "n_veilles_zhengquanzhixing",
+      "label": "cites [EXTRACTED]"
+    },
+    {
+      "id": "e_veilles_veille_ia_us_2026_11_10_t7_venture_global",
+      "fromNode": "n_veilles_veille_ia_us_2026_11_10_t7",
+      "toNode": "n_venture_global",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_claude_code_dossiers_2026_11_12_2_amap",
+      "fromNode": "n_claude_code",
+      "toNode": "n_dossiers_2026_11_12_2_amap",
+      "label": "references [EXTRACTED]"
+    }
+  ]
+}
