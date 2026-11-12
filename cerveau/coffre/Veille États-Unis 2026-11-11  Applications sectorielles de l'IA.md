@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t3.md"
 type: "document"
-community: "AI Research & Applications"
+community: "recherche et applications IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Research__Applications
+  - community/recherche_et_applications_IA
 ---
 
 # Veille États-Unis 2026-11-11 : Applications sectorielles de l'IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AlphaGenome 2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Research__Applications
+#graphify/document #graphify/EXTRACTED #community/recherche_et_applications_IA

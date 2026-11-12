@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-08-t4.md"
 type: "concept"
-community: "Anthropic Ecosystem"
+community: "écosystème Anthropic"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Anthropic_Ecosystem
+  - community/écosystème_Anthropic
 ---
 
 # HackerTube
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Andrej Karpathy]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Anthropic_Ecosystem
+#graphify/concept #graphify/EXTRACTED #community/écosystème_Anthropic

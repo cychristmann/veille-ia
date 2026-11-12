@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0003.md"
 type: "concept"
-community: "Anthropic Ecosystem"
+community: "écosystème Anthropic"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Anthropic_Ecosystem
+  - community/écosystème_Anthropic
 ---
 
 # Anthropic
@@ -45,4 +45,4 @@ tags:
 - [[Veille États-Unis 2026-11-12  Financement et marché de l'IA]] - `references` [EXTRACTED]
 - [[高盛 (Goldman Sachs)]] - `conceptually_related_to` [INFERRED]
 
-#graphify/concept #graphify/EXTRACTED #community/Anthropic_Ecosystem
+#graphify/concept #graphify/EXTRACTED #community/écosystème_Anthropic

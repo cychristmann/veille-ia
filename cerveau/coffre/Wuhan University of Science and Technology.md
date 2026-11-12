@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "code"
-community: "Academic AI Research"
+community: "recherche académique en IA"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Academic_AI_Research
+  - community/recherche_académique_en_IA
 ---
 
 # Wuhan University of Science and Technology
 
-#graphify/code #graphify/EXTRACTED #community/Academic_AI_Research
+#graphify/code #graphify/EXTRACTED #community/recherche_académique_en_IA

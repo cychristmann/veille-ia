@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0003.md"
 type: "concept"
-community: "Anthropic Ecosystem"
+community: "écosystème Anthropic"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Anthropic_Ecosystem
+  - community/écosystème_Anthropic
 ---
 
 # Anthropic IPO
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Anthropic]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Anthropic_Ecosystem
+#graphify/concept #graphify/EXTRACTED #community/écosystème_Anthropic

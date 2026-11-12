@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t1.md"
 type: "concept"
-community: "Baidu & Embodied AI"
+community: "Baidu et IA incarnée"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Baidu__Embodied_AI
+  - community/Baidu_et_IA_incarnée
 ---
 
 # Robin Li (李彦宏)
@@ -17,4 +17,4 @@ tags:
 - [[Intelligent Organization (智能组织)]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-12  Organisations intelligentes]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Baidu__Embodied_AI
+#graphify/concept #graphify/EXTRACTED #community/Baidu_et_IA_incarnée

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t6.md"
 type: "document"
-community: "AI Market Trends"
+community: "tendances du marché IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Market_Trends
+  - community/tendances_du_marché_IA
 ---
 
 # Veille États-Unis 2026-11-09 : Autres articles
@@ -20,4 +20,4 @@ tags:
 - [[Market broadening beyond AI]] - `references` [EXTRACTED]
 - [[Nvidia AI infrastructure alternatives]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Market_Trends
+#graphify/document #graphify/EXTRACTED #community/tendances_du_marché_IA

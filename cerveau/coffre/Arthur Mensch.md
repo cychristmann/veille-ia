@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t3.md"
 type: "code"
-community: "AI Governance & Policy"
+community: "gouvernance et politiques IA"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/AI_Governance__Policy
+  - community/gouvernance_et_politiques_IA
 ---
 
 # Arthur Mensch
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Appel de Paris]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/AI_Governance__Policy
+#graphify/code #graphify/EXTRACTED #community/gouvernance_et_politiques_IA

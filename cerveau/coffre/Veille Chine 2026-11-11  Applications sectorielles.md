@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-11-t3.md"
 type: "document"
-community: "AI Models & Creative"
+community: "modèles IA et création"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Models__Creative
+  - community/modèles_IA_et_création
 ---
 
 # Veille Chine 2026-11-11 : Applications sectorielles
@@ -16,4 +16,4 @@ tags:
 - [[Google DeepMind Hurricane Model]] - `references` [EXTRACTED]
 - [[MiniMax Model]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Models__Creative
+#graphify/document #graphify/EXTRACTED #community/modèles_IA_et_création

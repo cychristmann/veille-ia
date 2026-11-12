@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t6.md"
 type: "concept"
-community: "AI Market Trends"
+community: "tendances du marché IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AI_Market_Trends
+  - community/tendances_du_marché_IA
 ---
 
 # AI chatbot for personal complaints
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-09  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AI_Market_Trends
+#graphify/concept #graphify/EXTRACTED #community/tendances_du_marché_IA

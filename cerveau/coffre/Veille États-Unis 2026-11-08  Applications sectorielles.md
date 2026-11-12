@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t3.md"
 type: "document"
-community: "Healthcare AI Applications"
+community: "IA appliquée à santé"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Healthcare_AI_Applications
+  - community/IA_appliquée_à_santé
 ---
 
 # Veille États-Unis 2026-11-08 : Applications sectorielles
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Google Health]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Healthcare_AI_Applications
+#graphify/document #graphify/EXTRACTED #community/IA_appliquée_à_santé

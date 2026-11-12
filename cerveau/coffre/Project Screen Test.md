@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-11-t3.md"
 type: "concept"
-community: "AI Models & Creative"
+community: "modèles IA et création"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AI_Models__Creative
+  - community/modèles_IA_et_création
 ---
 
 # Project Screen Test
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Adobe MAX 2026]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AI_Models__Creative
+#graphify/concept #graphify/EXTRACTED #community/modèles_IA_et_création

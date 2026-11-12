@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0001.md"
 type: "document"
-community: "AI Corporate & HR"
+community: "IA en entreprise et RH"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Corporate__HR
+  - community/IA_en_entreprise_et_RH
 ---
 
 # Feuilleton : Crise de direction chez Nvidia
@@ -14,4 +14,4 @@ tags:
 - [[Baird]] - `references` [EXTRACTED]
 - [[Jensen Huang]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Corporate__HR
+#graphify/document #graphify/EXTRACTED #community/IA_en_entreprise_et_RH

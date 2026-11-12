@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-11-t2.md"
 type: "concept"
-community: "AI Strategy & Tech"
+community: "stratégie et technologie IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AI_Strategy__Tech
+  - community/stratégie_et_technologie_IA
 ---
 
 # Claude Code
@@ -18,4 +18,4 @@ tags:
 - [[Obsidian]] - `shares_data_with` [INFERRED]
 - [[Tencent]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AI_Strategy__Tech
+#graphify/concept #graphify/EXTRACTED #community/stratégie_et_technologie_IA

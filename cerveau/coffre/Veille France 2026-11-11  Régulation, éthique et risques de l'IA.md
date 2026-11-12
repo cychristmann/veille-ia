@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-11-t4.md"
 type: "document"
-community: "AI Platforms & Enterprise"
+community: "plateformes et entreprises IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Platforms__Enterprise
+  - community/plateformes_et_entreprises_IA
 ---
 
 # Veille France 2026-11-11 : Régulation, éthique et risques de l'IA
@@ -15,4 +15,4 @@ tags:
 - [[Geoffrey Hinton]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Platforms__Enterprise
+#graphify/document #graphify/EXTRACTED #community/plateformes_et_entreprises_IA

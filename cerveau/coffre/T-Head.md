@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0008.md"
 type: "concept"
-community: "Alibaba Hardware & Finance"
+community: "matériel et finance Alibaba"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Alibaba_Hardware__Finance
+  - community/matériel_et_finance_Alibaba
 ---
 
 # T-Head
@@ -14,4 +14,4 @@ tags:
 - [[Alibaba]] - `references` [EXTRACTED]
 - [[Zonebourse Suisse]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Alibaba_Hardware__Finance
+#graphify/concept #graphify/EXTRACTED #community/matériel_et_finance_Alibaba

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t5.md"
 type: "concept"
-community: "AI Security & Ethics"
+community: "sécurité et éthique IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AI_Security__Ethics
+  - community/sécurité_et_éthique_IA
 ---
 
 # IRS AI guidance
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-09  Sécurité, éthique et fraude]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AI_Security__Ethics
+#graphify/concept #graphify/EXTRACTED #community/sécurité_et_éthique_IA

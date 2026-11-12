@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0001.md"
 type: "concept"
-community: "AI Corporate & HR"
+community: "IA en entreprise et RH"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AI_Corporate__HR
+  - community/IA_en_entreprise_et_RH
 ---
 
 # Baird
@@ -14,4 +14,4 @@ tags:
 - [[Feuilleton  Crise de direction chez Nvidia]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AI_Corporate__HR
+#graphify/concept #graphify/EXTRACTED #community/IA_en_entreprise_et_RH

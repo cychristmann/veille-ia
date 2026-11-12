@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-10-t1.md"
 type: "concept"
-community: "AI Funding & Deals"
+community: "financements et contrats IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AI_Funding__Deals
+  - community/financements_et_contrats_IA
 ---
 
 # Anthropic IPO valuation
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-10  Financement et valorisation]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AI_Funding__Deals
+#graphify/concept #graphify/EXTRACTED #community/financements_et_contrats_IA

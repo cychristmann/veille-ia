@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-12-3.md"
 type: "document"
-community: "AI Hardware & Geopolitics"
+community: "matériel et géopolitique IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Hardware__Geopolitics
+  - community/matériel_et_géopolitique_IA
 ---
 
 # Dossier : Course à l'IA entre États‑Unis et Chine
@@ -16,4 +16,4 @@ tags:
 - [[Institute for Progress]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Hardware__Geopolitics
+#graphify/document #graphify/EXTRACTED #community/matériel_et_géopolitique_IA

@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0009.md"
 type: "concept"
-community: "AI Platforms & Enterprise"
+community: "plateformes et entreprises IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AI_Platforms__Enterprise
+  - community/plateformes_et_entreprises_IA
 ---
 
 # fr.qz.com
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[OpenAI]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AI_Platforms__Enterprise
+#graphify/concept #graphify/EXTRACTED #community/plateformes_et_entreprises_IA

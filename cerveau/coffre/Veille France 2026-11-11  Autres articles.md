@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-11-t5.md"
 type: "document"
-community: "AI Hardware & Geopolitics"
+community: "matériel et géopolitique IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Hardware__Geopolitics
+  - community/matériel_et_géopolitique_IA
 ---
 
 # Veille France 2026-11-11 : Autres articles
@@ -14,4 +14,4 @@ tags:
 - [[Mistral AI]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Hardware__Geopolitics
+#graphify/document #graphify/EXTRACTED #community/matériel_et_géopolitique_IA

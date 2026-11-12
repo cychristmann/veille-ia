@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-11-t3.md"
 type: "document"
-community: "Anthropic Ecosystem"
+community: "écosystème Anthropic"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Anthropic_Ecosystem
+  - community/écosystème_Anthropic
 ---
 
 # Veille France 2026-11-11 : Recherche, modèles et hardware IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Anthropic]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Anthropic_Ecosystem
+#graphify/document #graphify/EXTRACTED #community/écosystème_Anthropic

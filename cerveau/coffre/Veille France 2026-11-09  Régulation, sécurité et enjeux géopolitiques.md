@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t3.md"
 type: "document"
-community: "AI Governance & Security"
+community: "gouvernance et sécurité IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Governance__Security
+  - community/gouvernance_et_sécurité_IA
 ---
 
 # Veille France 2026-11-09 : Régulation, sécurité et enjeux géopolitiques
 
-#graphify/document #graphify/EXTRACTED #community/AI_Governance__Security
+#graphify/document #graphify/EXTRACTED #community/gouvernance_et_sécurité_IA

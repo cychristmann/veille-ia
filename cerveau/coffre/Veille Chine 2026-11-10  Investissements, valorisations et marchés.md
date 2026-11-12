@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t4.md"
 type: "document"
-community: "Anthropic Ecosystem"
+community: "écosystème Anthropic"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Anthropic_Ecosystem
+  - community/écosystème_Anthropic
 ---
 
 # Veille Chine 2026-11-10 : Investissements, valorisations et marchés
@@ -14,4 +14,4 @@ tags:
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[高盛 (Goldman Sachs)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Anthropic_Ecosystem
+#graphify/document #graphify/EXTRACTED #community/écosystème_Anthropic

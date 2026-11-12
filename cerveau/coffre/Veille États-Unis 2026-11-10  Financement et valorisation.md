@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-10-t1.md"
 type: "document"
-community: "AI Funding & Deals"
+community: "financements et contrats IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Funding__Deals
+  - community/financements_et_contrats_IA
 ---
 
 # Veille États-Unis 2026-11-10 : Financement et valorisation
@@ -17,4 +17,4 @@ tags:
 - [[Lumbra Series A]] - `references` [EXTRACTED]
 - [[Qantas Accenture AI deal]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Funding__Deals
+#graphify/document #graphify/EXTRACTED #community/financements_et_contrats_IA

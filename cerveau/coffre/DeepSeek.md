@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t3.md"
 type: "concept"
-community: "Chinese Consumer AI"
+community: "IA grand public chinoise"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Chinese_Consumer_AI
+  - community/IA_grand_public_chinoise
 ---
 
 # DeepSeek
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Doubao]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Chinese_Consumer_AI
+#graphify/concept #graphify/EXTRACTED #community/IA_grand_public_chinoise

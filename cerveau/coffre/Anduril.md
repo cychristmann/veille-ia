@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t3.md"
 type: "concept"
-community: "Defense & Security AI"
+community: "IA défense et sécurité"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Defense__Security_AI
+  - community/IA_défense_et_sécurité
 ---
 
 # Anduril
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Shield AI]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Defense__Security_AI
+#graphify/concept #graphify/EXTRACTED #community/IA_défense_et_sécurité

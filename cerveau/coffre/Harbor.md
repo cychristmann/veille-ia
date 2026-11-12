@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-11-t2.md"
 type: "concept"
-community: "AI Hardware & Geopolitics"
+community: "matériel et géopolitique IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AI_Hardware__Geopolitics
+  - community/matériel_et_géopolitique_IA
 ---
 
 # Harbor
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Apple]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AI_Hardware__Geopolitics
+#graphify/concept #graphify/EXTRACTED #community/matériel_et_géopolitique_IA

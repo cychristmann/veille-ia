@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t5.md"
 type: "document"
-community: "AI Public Perception"
+community: "perception publique de l'IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Public_Perception
+  - community/perception_publique_de_lIA
 ---
 
 # Veille États-Unis 2026-11-08 : Perception publique et sociétale
 
-#graphify/document #graphify/EXTRACTED #community/AI_Public_Perception
+#graphify/document #graphify/EXTRACTED #community/perception_publique_de_lIA

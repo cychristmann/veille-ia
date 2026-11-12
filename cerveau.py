@@ -196,6 +196,66 @@ def fusionner() -> None:
     _graphify("cluster-only", str(CERVEAU.relative_to(RACINE)), "--no-viz", "--backend=gemini")
 
 
+NOMS_THEMES = GRAPHE.parent / ".graphify_labels.json"
+MEMO_TRADUCTIONS = CERVEAU / "traductions-themes.json"
+
+
+def traduire_themes() -> None:
+    """Traduit en français les noms des thèmes, que Graphify rédige toujours en anglais.
+
+    Un mémo (anglais → français) évite de retraduire un même nom. Les noms déjà en
+    français sont reconnus (valeurs du mémo) et laissés tels quels : Graphify garde les
+    noms d'un thème tant que ses membres ne changent pas, donc seuls les nouveaux thèmes
+    arrivent en anglais.
+    """
+    if not NOMS_THEMES.exists():
+        return
+    noms = json.loads(NOMS_THEMES.read_text(encoding="utf-8"))
+    memo = json.loads(MEMO_TRADUCTIONS.read_text(encoding="utf-8")) if MEMO_TRADUCTIONS.exists() else {}
+    deja_fr = set(memo.values())
+    a_traduire = sorted({n for n in noms.values() if n not in memo and n not in deja_fr})
+    if a_traduire:
+        from langchain_google_genai import ChatGoogleGenerativeAI
+        from pydantic import BaseModel, Field
+
+        class Traduction(BaseModel):
+            anglais: str = Field(description="Nom d'origine, recopié à l'identique")
+            francais: str = Field(description="Traduction française naturelle, 2 à 5 mots")
+
+        class Traductions(BaseModel):
+            traductions: list[Traduction]
+
+        llm = ChatGoogleGenerativeAI(model=MODELE_GEMINI, google_api_key=os.environ["GEMINI_API_KEY"],
+                                     max_output_tokens=4000, max_retries=3)
+        consigne = ("Traduis en français ces noms de thèmes d'une veille sur l'intelligence "
+                    "artificielle. Garde les noms propres (Anthropic, Nvidia, Baidu…), écris "
+                    "« IA » pour « AI », pas de majuscule à chaque mot.\n\n" + "\n".join(a_traduire))
+        try:
+            reponse = llm.with_structured_output(Traductions, method="json_schema").invoke(consigne)
+            for t in reponse.traductions:
+                if t.anglais in a_traduire and t.francais.strip():
+                    memo[t.anglais] = t.francais.strip()
+        except Exception as erreur:  # une panne de traduction ne doit rien bloquer
+            print(f"Traduction des thèmes impossible ({erreur}) : noms laissés en anglais.")
+        MEMO_TRADUCTIONS.write_text(json.dumps(memo, ensure_ascii=False, indent=1, sort_keys=True),
+                                    encoding="utf-8")
+    traduits = {cid: memo.get(n, n) for cid, n in noms.items()}
+    NOMS_THEMES.write_text(json.dumps(traduits, ensure_ascii=False), encoding="utf-8")
+    # Le graphe et le rapport portent aussi les noms : on les aligne.
+    g = json.loads(GRAPHE.read_text(encoding="utf-8"))
+    for n in g["nodes"]:
+        if n.get("community_name") in memo:
+            n["community_name"] = memo[n["community_name"]]
+    GRAPHE.write_text(json.dumps(g, ensure_ascii=False, indent=1), encoding="utf-8")
+    rapport = GRAPHE.parent / "GRAPH_REPORT.md"
+    if rapport.exists():
+        texte = rapport.read_text(encoding="utf-8")
+        for anglais in sorted(memo, key=len, reverse=True):
+            texte = texte.replace(anglais, memo[anglais])
+        rapport.write_text(texte, encoding="utf-8")
+    print(f"Thèmes : {len(a_traduire)} nouveaux noms traduits, {len(noms)} au total.")
+
+
 def exporter() -> None:
     """Étape 3 : coffre Obsidian régénéré.
 
@@ -219,4 +279,5 @@ if __name__ == "__main__":
     if "--verser" not in sys.argv:
         extraire()
         fusionner()
+        traduire_themes()
         exporter()

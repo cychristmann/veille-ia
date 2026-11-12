@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-12-t2.md"
 type: "document"
-community: "Cloud & Enterprise AI"
+community: "cloud et IA d'entreprise"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Cloud__Enterprise_AI
+  - community/cloud_et_IA_dentreprise
 ---
 
 # Veille France 2026-11-12
@@ -26,4 +26,4 @@ tags:
 - [[Snowflake Cortex]] - `references` [EXTRACTED]
 - [[United Airlines]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Cloud__Enterprise_AI
+#graphify/document #graphify/EXTRACTED #community/cloud_et_IA_dentreprise

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t1.md"
 type: "document"
-community: "AI Strategy & Tech"
+community: "stratégie et technologie IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Strategy__Tech
+  - community/stratégie_et_technologie_IA
 ---
 
 # Veille États-Unis 2026-11-11 : Financement et Bourse de l'IA
@@ -22,4 +22,4 @@ tags:
 - [[Taiwan Semiconductor]] - `references` [EXTRACTED]
 - [[VMware]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Strategy__Tech
+#graphify/document #graphify/EXTRACTED #community/stratégie_et_technologie_IA

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "code"
-community: "AI Platforms & Enterprise"
+community: "plateformes et entreprises IA"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/AI_Platforms__Enterprise
+  - community/plateformes_et_entreprises_IA
 ---
 
 # Microsoft
@@ -18,4 +18,4 @@ tags:
 - [[Veille États-Unis 2026-11-10  Agents IA et plateformes]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-12  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/AI_Platforms__Enterprise
+#graphify/code #graphify/EXTRACTED #community/plateformes_et_entreprises_IA

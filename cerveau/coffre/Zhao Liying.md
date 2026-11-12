@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t5.md"
 type: "concept"
-community: "Chinese AI Media"
+community: "médias chinois sur l'IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Chinese_AI_Media
+  - community/médias_chinois_sur_lIA
 ---
 
 # Zhao Liying
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-12  Contenus et médias IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Chinese_AI_Media
+#graphify/concept #graphify/EXTRACTED #community/médias_chinois_sur_lIA

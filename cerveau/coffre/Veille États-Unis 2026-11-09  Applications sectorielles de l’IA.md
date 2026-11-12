@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t4.md"
 type: "document"
-community: "AI Sector Applications"
+community: "applications sectorielles IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Sector_Applications
+  - community/applications_sectorielles_IA
 ---
 
 # Veille États-Unis 2026-11-09 : Applications sectorielles de l’IA
@@ -25,4 +25,4 @@ tags:
 - [[Texas business AI adoption]] - `references` [EXTRACTED]
 - [[Vermont hospitals AI adoption]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Sector_Applications
+#graphify/document #graphify/EXTRACTED #community/applications_sectorielles_IA

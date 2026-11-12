@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0003.md"
 type: "document"
-community: "Anthropic Ecosystem"
+community: "écosystème Anthropic"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Anthropic_Ecosystem
+  - community/écosystème_Anthropic
 ---
 
 # Feuilleton: Anthropic poursuit son IPO malgré inquiétudes
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Anthropic]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Anthropic_Ecosystem
+#graphify/document #graphify/EXTRACTED #community/écosystème_Anthropic

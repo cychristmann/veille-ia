@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t6.md"
 type: "document"
-community: "Chinese Hardware & Computing"
+community: "matériel et calcul chinois"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Chinese_Hardware__Computing
+  - community/matériel_et_calcul_chinois
 ---
 
 # Veille Chine 2026-11-12 : Matériel, calcul et infrastructure
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Li Yanhong (Robin Li)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Chinese_Hardware__Computing
+#graphify/document #graphify/EXTRACTED #community/matériel_et_calcul_chinois

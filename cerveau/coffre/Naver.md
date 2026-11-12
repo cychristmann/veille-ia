@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-12-t2.md"
 type: "concept"
-community: "AI Hardware & Geopolitics"
+community: "matériel et géopolitique IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AI_Hardware__Geopolitics
+  - community/matériel_et_géopolitique_IA
 ---
 
 # Naver
@@ -15,4 +15,4 @@ tags:
 - [[Veille France 2026-11-12  Marchés financiers et investissements IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-12  Financement et marché de l'IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AI_Hardware__Geopolitics
+#graphify/concept #graphify/EXTRACTED #community/matériel_et_géopolitique_IA

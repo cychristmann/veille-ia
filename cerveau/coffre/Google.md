@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-08-t1.md"
 type: "concept"
-community: "Big Tech AI Products"
+community: "produits IA des Big Tech"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Big_Tech_AI_Products
+  - community/produits_IA_des_Big_Tech
 ---
 
 # Google
@@ -21,4 +21,4 @@ tags:
 - [[Veille États-Unis 2026-11-08]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-10  Marché, concurrence et tendances]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Big_Tech_AI_Products
+#graphify/concept #graphify/EXTRACTED #community/produits_IA_des_Big_Tech

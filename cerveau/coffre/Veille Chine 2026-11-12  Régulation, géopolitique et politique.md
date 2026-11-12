@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t4.md"
 type: "document"
-community: "Chinese Geopolitics & Regulation"
+community: "géopolitique et régulation chinoise"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Chinese_Geopolitics__Regulation
+  - community/géopolitique_et_régulation_chinoise
 ---
 
 # Veille Chine 2026-11-12 : Régulation, géopolitique et politique
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[中信证券]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Chinese_Geopolitics__Regulation
+#graphify/document #graphify/EXTRACTED #community/géopolitique_et_régulation_chinoise

@@ -14,59 +14,59 @@
 - Run `graphify update .` after code changes (no API cost).
 
 ## Community Hubs (Navigation)
-- Anthropic Ecosystem
-- AI Strategy & Tech
-- AI Platforms & Enterprise
-- AI Corporate & HR
-- AI Hardware & Geopolitics
-- Cloud & Enterprise AI
-- Big Tech AI Products
-- AI Sector Applications
-- AI Hardware & Assistants
-- Chinese Consumer AI
-- AI Models & Ethics
-- AI Market Trends
-- AI Governance & Policy
-- Chinese Market Investment
-- Baidu & Embodied AI
-- AI Models & Creative
-- AI Funding & Deals
-- Defense & Security AI
-- AI Education & Society
-- AI Ecosystems & Tools
-- AI Research & Applications
-- AI Security News
-- AI Security & Ethics
-- Enterprise AI Adoption
-- Creative Agency AI
-- Alibaba Hardware & Finance
-- Chinese Tech Infrastructure
-- Chinese Hardware & Computing
-- Chinese AI Media
-- AI Regulation
-- AI Infrastructure & Finance
-- Data Center Infrastructure
-- Chinese AI Governance
-- Healthcare AI Applications
-- Consumer AI Products
-- AI Advertising Regulation
-- Chinese Geopolitics & Regulation
-- AI Competitions
-- Academic AI Research
-- AI Safety & Control
-- Software Development
-- Media Streaming AI
-- Individual Profile
-- Academic AI Research
-- Enterprise AI Software
-- AI Trust & Safety
-- AI Financial Markets
-- AI Governance & Security
-- General AI Technology
-- AI Education & Training
-- General AI News
-- AI Public Perception
-- Academic AI Research
+- écosystème Anthropic
+- stratégie et technologie IA
+- plateformes et entreprises IA
+- IA en entreprise et RH
+- matériel et géopolitique IA
+- cloud et IA d'entreprise
+- produits IA des Big Tech
+- applications sectorielles IA
+- matériel et assistants IA
+- IA grand public chinoise
+- modèles IA et éthique
+- tendances du marché IA
+- gouvernance et politiques IA
+- investissements marché chinois
+- Baidu et IA incarnée
+- modèles IA et création
+- financements et contrats IA
+- IA défense et sécurité
+- IA éducation et société
+- écosystèmes et outils IA
+- recherche et applications IA
+- actualités sécurité IA
+- sécurité et éthique IA
+- adoption IA en entreprise
+- IA en agence créative
+- matériel et finance Alibaba
+- infrastructure technologique chinoise
+- matériel et calcul chinois
+- médias chinois sur l'IA
+- régulation de l'IA
+- infrastructure et finance IA
+- infrastructure des centres données
+- gouvernance chinoise de l'IA
+- IA appliquée à santé
+- produits IA grand public
+- régulation publicitaire de l'IA
+- géopolitique et régulation chinoise
+- compétitions en IA
+- recherche académique en IA
+- sécurité et contrôle IA
+- développement logiciel
+- IA pour streaming média
+- profil individuel
+- recherche académique en IA
+- logiciels IA pour entreprises
+- confiance et sécurité IA
+- marchés financiers de l'IA
+- gouvernance et sécurité IA
+- technologie générale IA
+- formation et éducation IA
+- actualités générales IA
+- perception publique de l'IA
+- recherche académique en IA
 
 ## God Nodes (most connected - your core abstractions)
 1. `Anthropic` - 33 edges
@@ -116,7 +116,7 @@
 - **Entities involved in AI market activity** — anthropic, alibaba_thead, infineon, bay_startup [INFERRED 0.80]
 - **AI Safety and Regulation Concerns** — geoffrey_hinton, control_room, openai [INFERRED 0.80]
 - **Anthropic Product Suite** — claude_sheet, claude_whiteboards, claude_code [INFERRED 0.80]
-- **Data Center Infrastructure Concerns** — openai, infineon [INFERRED 0.80]
+- **infrastructure des centres données Concerns** — openai, infineon [INFERRED 0.80]
 - **Defense AI Ecosystem** — helsing, palantir, shield_ai, anduril [INFERRED 0.80]
 - **Education and AI Protests** — stanford, boulder, barnard [INFERRED 0.80]
 - **Impact de l'IA sur la société et l'entreprise** — veilles_veilleiafr20261110t3_ia_rh, veilles_veilleiafr20261110t3_emploi, veilles_veilleiafr20261110t3_cybersécurité [INFERRED 0.80]
@@ -135,115 +135,115 @@
 
 ## Communities (53 total, 25 thin omitted)
 
-### Community 0 - "Anthropic Ecosystem"
+### Community 0 - "écosystème Anthropic"
 Cohesion: 0.07
 Nodes (33): Andrej Karpathy, Anthropic, Anthropic IPO, Artifact AI, Claude, Claude Fable 5.2, Claude Mythos 5.2, Claude Sheet (+25 more)
 
-### Community 1 - "AI Strategy & Tech"
+### Community 1 - "stratégie et technologie IA"
 Cohesion: 0.10
 Nodes (21): Cisco, Claude Code, Amap, Chasseurs d'essaim, IA-native Strategy, L'Opinion.fr, Feuilleton: Tencent mobilise la moitié de son personnel pour une poussée IA‑native, Genpulse (+13 more)
 
-### Community 2 - "AI Platforms & Enterprise"
+### Community 2 - "plateformes et entreprises IA"
 Cohesion: 0.08
 Nodes (29): Adobe Creative Cloud, Adobe Firefly, Amazon Bedrock, Anthropic Claude, Atlas, AWS, ChatGPT, ChatGPT Enterprise (+21 more)
 
-### Community 3 - "AI Corporate & HR"
+### Community 3 - "IA en entreprise et RH"
 Cohesion: 0.17
 Nodes (12): Alice Huang, Pékin, Baird, Feuilleton : Crise de direction chez Nvidia, Orange, Veille Chine 2026-11-12 : Marché financier et investissements IA, Veille France 2026-11-08, Jensen Huang (+4 more)
 
-### Community 4 - "AI Hardware & Geopolitics"
+### Community 4 - "matériel et géopolitique IA"
 Cohesion: 0.08
 Nodes (33): CoreWeave, Colette Kress, Harvey C. Jones, Huawei, Synopsys, Demis Hassabis, Dossier : Course à l'IA entre États‑Unis et Chine, Eric Schmidt (+25 more)
 
-### Community 5 - "Cloud & Enterprise AI"
+### Community 5 - "cloud et IA d'entreprise"
 Cohesion: 0.12
 Nodes (16): Alibaba AI, Bitcoin Miners AI, Feuilleton: Snowflake lance Cortex IA générative, Google AI Studio, Google Gemini CarPlay, Google Gemini Decisions, Harbor Claris, JioStar (+8 more)
 
-### Community 6 - "Big Tech AI Products"
+### Community 6 - "produits IA des Big Tech"
 Cohesion: 0.12
 Nodes (16): Feuilleton: Google étend la gamme Gemini, Gemini Decisions, Gemini 4 Carbon, Google, Veille France 2026-11-09 : Applications sociétales et culturelles de l’IA, CERN, Goldman Sachs, Nolej (+8 more)
 
-### Community 7 - "AI Sector Applications"
+### Community 7 - "applications sectorielles IA"
 Cohesion: 0.14
 Nodes (14): Veille États-Unis 2026-11-09 : Applications sectorielles de l’IA, AI buildout market impact, AI industry security, AI-generated political ads, Cornell AI finance certificate, AI tool for crisis communication, Elvis Presley generative AI lawsuit, FinovateSpring 2027 AI trends (+6 more)
 
-### Community 8 - "AI Hardware & Assistants"
+### Community 8 - "matériel et assistants IA"
 Cohesion: 0.13
 Nodes (15): Apple Siri AI, Meta Muse, OpenAI Dots, AMD, AMD 霄龙嵌入式 9006 系列 SP7, 杰理科技 (Jieli Technology), JL280N/JL380N/JL681N, Meta Platforms (+7 more)
 
-### Community 9 - "Chinese Consumer AI"
+### Community 9 - "IA grand public chinoise"
 Cohesion: 0.20
 Nodes (10): Veille Chine 2026-11-12 : IA dans le commerce et le divertissement, 傲融云客, ByteDance, DeepSeek, Doubao, 绿地南昌卢塞恩OPC社区, JD.com, Kimi (+2 more)
 
-### Community 10 - "AI Models & Ethics"
+### Community 10 - "modèles IA et éthique"
 Cohesion: 0.18
 Nodes (11): Codex, Fireworks AI, GPT-6 Astra, Jacek Rozenek, Lean 4, Notion, Notion AI, ORONI (+3 more)
 
-### Community 11 - "AI Market Trends"
+### Community 11 - "tendances du marché IA"
 Cohesion: 0.22
 Nodes (9): Veille États-Unis 2026-11-09 : Autres articles, Effective AI pushback, AI Bitcoin price prediction, Brave Leo AI assistant, CBP Commerce IT modernization, AI chatbot for personal complaints, Chicago parents Google AI protest, Market broadening beyond AI (+1 more)
 
-### Community 12 - "AI Governance & Policy"
+### Community 12 - "gouvernance et politiques IA"
 Cohesion: 0.22
 Nodes (9): Appel de Paris, Arthur Mensch, Organe de régulation de l'IA en Australie, Dario Amodei, Emmanuel Macron, Presse-citron, Loi Darcos, Sam Altman (+1 more)
 
-### Community 13 - "Chinese Market Investment"
+### Community 13 - "investissements marché chinois"
 Cohesion: 0.40
 Nodes (5): Veille Chine 2026-11-11 : Marchés et investissements, Aoshikang, Guangdong Province, Nanling Technology, Shanghai Film
 
-### Community 15 - "Baidu & Embodied AI"
+### Community 15 - "Baidu et IA incarnée"
 Cohesion: 0.33
 Nodes (7): Apollo Go (萝卜快跑), Baidu (百度), Baidu World 2026, Embodied AI (具身智能), Intelligent Organization (智能组织), Robin Li (李彦宏), Veille Chine 2026-11-12 : Organisations intelligentes
 
-### Community 16 - "AI Models & Creative"
+### Community 16 - "modèles IA et création"
 Cohesion: 0.33
 Nodes (6): Adobe MAX 2026, DeepL Aure, Google DeepMind Hurricane Model, MiniMax Model, Project Screen Test, Veille Chine 2026-11-11 : Applications sectorielles
 
-### Community 18 - "AI Funding & Deals"
+### Community 18 - "financements et contrats IA"
 Cohesion: 0.33
 Nodes (6): Veille États-Unis 2026-11-10 : Financement et valorisation, Anthropic IPO valuation, Bay Security funding, Blue J funding, Lumbra Series A, Qantas Accenture AI deal
 
-### Community 19 - "Defense & Security AI"
+### Community 19 - "IA défense et sécurité"
 Cohesion: 0.40
 Nodes (5): Anduril, Helsing, Palantir, Shield AI, Veille États-Unis 2026-11-12 : IA dans la défense et la sécurité
 
-### Community 20 - "AI Education & Society"
+### Community 20 - "IA éducation et société"
 Cohesion: 0.40
 Nodes (5): Barnard College, Boulder, Stanford University, Veille États-Unis 2026-11-12 : Régulation, politiques et protestations liées à l'IA, Veille États-Unis 2026-11-12 : IA dans l'éducation et la société
 
-### Community 21 - "AI Ecosystems & Tools"
+### Community 21 - "écosystèmes et outils IA"
 Cohesion: 0.50
 Nodes (4): Agent Name Service, 华为 (Huawei), Linux Foundation, Veille Chine 2026-11-10 : Écosystèmes, plateformes et outils IA
 
-### Community 22 - "AI Research & Applications"
+### Community 22 - "recherche et applications IA"
 Cohesion: 0.50
 Nodes (4): AlphaGenome 2, Google DeepMind, Veille États-Unis 2026-11-11 : Applications sectorielles de l'IA, Veille États-Unis 2026-11-11 : Outils, plateformes et recherche IA
 
-### Community 24 - "AI Security News"
+### Community 24 - "actualités sécurité IA"
 Cohesion: 0.50
 Nodes (4): Bay Security, GovInfoSecurity, Reuters, Zonebourse
 
-### Community 25 - "AI Security & Ethics"
+### Community 25 - "sécurité et éthique IA"
 Cohesion: 0.50
 Nodes (4): Veille États-Unis 2026-11-09 : Sécurité, éthique et fraude, IRS AI guidance, Military AI bomb threat prevention, Nvidia spy allegations
 
-### Community 26 - "Enterprise AI Adoption"
+### Community 26 - "adoption IA en entreprise"
 Cohesion: 0.67
 Nodes (3): Anthropic Claude Fable 5.2, Anthropic Claude Mythos 5.2, Veille États-Unis 2026-11-09 : Entreprise
 
-### Community 27 - "Creative Agency AI"
+### Community 27 - "IA en agence créative"
 Cohesion: 0.67
 Nodes (3): CAA, ECHO, Ogilvy
 
-### Community 28 - "Alibaba Hardware & Finance"
+### Community 28 - "matériel et finance Alibaba"
 Cohesion: 0.67
 Nodes (3): Alibaba, T-Head, Zonebourse Suisse
 
-### Community 30 - "Chinese Tech Infrastructure"
+### Community 30 - "infrastructure technologique chinoise"
 Cohesion: 0.67
 Nodes (3): Veille Chine 2026-11-11 : Technologie et infrastructure, Opus 5.5, Shengquan Group
 
-### Community 36 - "AI Infrastructure & Finance"
+### Community 36 - "infrastructure et finance IA"
 Cohesion: 0.33
 Nodes (6): Alibaba T-Head, Bay (start-up), Yahoo Finance France, Infineon, Veille France 2026-11-10 : Financement, marchés et IPO, Veille États-Unis 2026-11-10 : Infrastructure et data‑centers
 
@@ -255,17 +255,17 @@ Nodes (6): Alibaba T-Head, Bay (start-up), Yahoo Finance France, Infineon, Veill
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `Anthropic` connect `Anthropic Ecosystem` to `AI Strategy & Tech`, `AI Platforms & Enterprise`, `AI Corporate & HR`, `AI Hardware & Geopolitics`, `AI Infrastructure & Finance`, `AI Models & Ethics`, `Chinese Market Investment`?**
+- **Why does `Anthropic` connect `écosystème Anthropic` to `stratégie et technologie IA`, `plateformes et entreprises IA`, `IA en entreprise et RH`, `matériel et géopolitique IA`, `infrastructure et finance IA`, `modèles IA et éthique`, `investissements marché chinois`?**
   _High betweenness centrality (0.191) - this node is a cross-community bridge._
 - **Are the 2 inferred relationships involving `Nvidia` (e.g. with `CoreWeave` and `Jensen Huang`) actually correct?**
   _`Nvidia` has 2 INFERRED edges - model-reasoned connections that need verification._
 - **What connects `Cisco`, `Genpulse`, `NearMe` to the rest of the system?**
   _217 weakly-connected nodes found - possible documentation gaps or missing edges._
-- **Should `Anthropic Ecosystem` be split into smaller, more focused modules?**
+- **Should `écosystème Anthropic` be split into smaller, more focused modules?**
   _Cohesion score 0.06818181818181818 - nodes in this community are weakly interconnected._
-- **Why does `Nvidia` connect `AI Hardware & Geopolitics` to `AI Strategy & Tech`, `AI Corporate & HR`, `Cloud & Enterprise AI`, `Big Tech AI Products`?**
+- **Why does `Nvidia` connect `matériel et géopolitique IA` to `stratégie et technologie IA`, `IA en entreprise et RH`, `cloud et IA d'entreprise`, `produits IA des Big Tech`?**
   _High betweenness centrality (0.132) - this node is a cross-community bridge._
-- **Should `AI Strategy & Tech` be split into smaller, more focused modules?**
+- **Should `stratégie et technologie IA` be split into smaller, more focused modules?**
   _Cohesion score 0.10476190476190476 - nodes in this community are weakly interconnected._
-- **Why does `Google` connect `Big Tech AI Products` to `AI Hardware & Assistants`, `AI Strategy & Tech`, `AI Platforms & Enterprise`, `AI Hardware & Geopolitics`?**
+- **Why does `Google` connect `produits IA des Big Tech` to `matériel et assistants IA`, `stratégie et technologie IA`, `plateformes et entreprises IA`, `matériel et géopolitique IA`?**
   _High betweenness centrality (0.080) - this node is a cross-community bridge._
