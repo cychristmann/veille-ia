@@ -8,6 +8,7 @@ N'utilise que la bibliothèque standard de Python : un petit serveur web sert la
     GET  /api/veille?region=fr&date=AAAA-MM-JJ   -> la veille d'une région un jour donné
                                                     (la plus récente sans date)
     POST /api/actualiser                         -> relance l'agent pour toutes les régions
+    POST /api/chat                               -> question à l'agent du chat (chat.py)
     GET  /api/memoire                            -> feuilletons suivis (memoire.py)
     GET  /api/dossiers?date=AAAA-MM-JJ           -> dossiers du rédacteur en chef (redacteur.py)
     GET  /api/index                              -> tous les articles de l'historique (recherche)
@@ -29,6 +30,7 @@ from urllib.parse import parse_qs, urlsplit
 
 from dotenv import load_dotenv
 
+import chat
 import memoire
 import redacteur
 import sources
@@ -43,7 +45,10 @@ HEURES = 24
 # ne doivent pas lancer deux collectes.
 VEILLE_EN_COURS = threading.Lock()
 RECHERCHE_EN_COURS = threading.Lock()
+CHAT_EN_COURS = threading.Lock()  # une question à la fois : la limite Groq est par minute
 MAX_CORPS = 10_000  # taille maximale d'une requête POST acceptée
+MAX_CORPS_CHAT = 30_000  # le chat envoie aussi les échanges précédents
+MAX_QUESTION = 1_000  # caractères
 
 
 def etat_sources() -> dict:
@@ -202,6 +207,8 @@ class Gestionnaire(BaseHTTPRequestHandler):
             return self._decider_source()
         if self.path == "/api/tendances/actualiser":
             return self._actualiser_tendances()
+        if self.path == "/api/chat":
+            return self._chat()
         if self.path != "/api/actualiser":
             return self._json(404, {"erreur": "Page introuvable"})
         if not VEILLE_EN_COURS.acquire(blocking=False):
@@ -228,6 +235,29 @@ class Gestionnaire(BaseHTTPRequestHandler):
             self._json(500, {"erreur": f"{type(exc).__name__} : {exc}"})
         finally:
             RECHERCHE_EN_COURS.release()
+
+    def _chat(self) -> None:
+        try:
+            longueur = int(self.headers.get("Content-Length", "0"))
+            if not 0 < longueur <= MAX_CORPS_CHAT:
+                raise ValueError("Requête vide ou trop grande.")
+            corps = json.loads(self.rfile.read(longueur))
+            question = str(corps["question"]).strip()
+            historique = corps.get("historique", [])
+            if not question or len(question) > MAX_QUESTION:
+                raise ValueError(f"La question doit faire entre 1 et {MAX_QUESTION} caractères.")
+            if not isinstance(historique, list):
+                raise ValueError("Historique invalide.")
+        except (ValueError, KeyError, TypeError) as exc:
+            return self._json(400, {"erreur": str(exc)})
+        if not CHAT_EN_COURS.acquire(blocking=False):
+            return self._json(409, {"erreur": "Une question est déjà en cours."})
+        try:
+            self._json(200, chat.repondre(question, [m for m in historique if isinstance(m, dict)]))
+        except Exception as exc:  # quota Groq, réseau…
+            self._json(500, {"erreur": f"{type(exc).__name__} : {exc}"})
+        finally:
+            CHAT_EN_COURS.release()
 
     def _actualiser_tendances(self) -> None:
         if not RECHERCHE_EN_COURS.acquire(blocking=False):

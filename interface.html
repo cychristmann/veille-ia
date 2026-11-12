@@ -322,6 +322,42 @@
   .journal-agent ol { margin: 8px 0 0; padding-left: 22px; }
   .journal-agent li { margin-bottom: 3px; overflow-wrap: anywhere; }
 
+  /* ---------- Chat ---------- */
+  .suggestions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+  .fil { display: flex; flex-direction: column; gap: 14px; margin-top: 22px; }
+  .bulle { max-width: 860px; padding: 14px 18px; border-radius: 16px; overflow-wrap: anywhere; line-height: 1.6; }
+  .bulle.utilisateur { align-self: flex-end; max-width: 640px; color: var(--accent-texte); background: linear-gradient(135deg, var(--bleu-clair), var(--bleu-marine)); border-bottom-right-radius: 4px; }
+  .bulle.agent { align-self: flex-start; background: var(--surface); border: 1px solid var(--bordure); box-shadow: var(--ombre-1); border-bottom-left-radius: 4px; }
+  .bulle.agent p { margin: 0 0 10px; }
+  .bulle.agent ul { margin: 0 0 10px; padding-left: 20px; }
+  .bulle.agent li { margin-bottom: 4px; }
+  .bulle.agent > :last-child { margin-bottom: 0; }
+  .bulle.erreur { border-color: var(--erreur); color: var(--erreur); }
+  .ref {
+    display: inline-grid; place-items: center; min-width: 20px; height: 18px; padding: 0 5px; margin: 0 1px; border-radius: 6px;
+    font-size: .7rem; font-weight: 700; vertical-align: 2px; text-decoration: none; white-space: nowrap; flex: none;
+    color: var(--accent); background: var(--accent-doux);
+  }
+  .ref:hover { color: var(--accent-texte); background: var(--accent); }
+  .outils-utilises { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; padding-top: 10px; border-top: 1px dashed var(--bordure); font-size: .76rem; color: var(--texte-3); }
+  .outils-utilises span.outil { padding: 1px 8px; border-radius: 999px; background: var(--surface-2); border: 1px solid var(--bordure); }
+  .sources-chat { margin: 10px 0 0; padding-left: 0; list-style: none; font-size: .82rem; }
+  .sources-chat li { display: flex; gap: 8px; padding: 3px 0; }
+  .sources-chat a { color: var(--texte-2); }
+  .sources-chat a:hover { color: var(--accent); }
+  .reflexion { display: inline-flex; align-items: center; gap: 8px; color: var(--texte-3); font-size: .9rem; }
+  .reflexion svg.icone { animation: tourne 1.2s linear infinite; }
+  .saisie {
+    position: sticky; bottom: 0; display: flex; gap: 10px; align-items: flex-end; margin-top: 18px; padding: 12px 0 16px;
+    background: linear-gradient(transparent, var(--fond) 22%);
+  }
+  .saisie textarea {
+    flex: 1; min-height: 48px; max-height: 180px; resize: vertical; padding: 12px 14px; border-radius: 12px; font: inherit;
+    color: var(--texte); background: var(--surface); border: 1px solid var(--bordure); box-shadow: var(--ombre-1);
+  }
+  .saisie textarea:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-doux); }
+  .saisie .bouton-principal { width: auto; }
+
   /* ---------- Feuilletons ---------- */
   .feuilleton {
     padding: 18px 20px; border-radius: 16px; margin-top: 14px; scroll-margin-top: 20px;
@@ -655,6 +691,9 @@
       <svg class="icone" data-icone="horloge"></svg><span>Mise à jour automatique chaque matin</span>
     </p>
 
+    <button class="lien-sources" id="ouvrir-chat" type="button" aria-current="false">
+      <svg class="icone" data-icone="bulle"></svg><span>Discuter</span>
+    </button>
     <button class="lien-sources" id="ouvrir-feuilletons" type="button" aria-current="false">
       <svg class="icone" data-icone="historique"></svg><span>Feuilletons</span><span class="compte" id="compte-feuilletons" hidden></span>
     </button>
@@ -878,6 +917,22 @@
         </div>
       </div>
 
+      <div id="vue-chat" hidden>
+        <header>
+          <p class="surtitre"><svg class="icone" data-icone="bulle"></svg>Agent conversationnel</p>
+          <h1 class="titre-vue">Discuter avec ta veille</h1>
+          <p class="intro-sources">Pose une question sur l'actualité de l'IA : l'agent consulte lui-même l'historique de ta veille (articles, feuilletons, dossiers, tendances) et cite ses sources. Il ne répond qu'à partir de ce que la veille a enregistré.</p>
+          <p class="alerte" id="chat-statique" hidden><svg class="icone" data-icone="alerte"></svg><span>Le chat fonctionne sur l'app de ton PC (<code>uv run python interface.py</code>) : en ligne, il faudrait un serveur pour garder ta clé Groq secrète.</span></p>
+        </header>
+        <div class="suggestions" id="suggestions"></div>
+        <div class="fil" id="fil" aria-live="polite"></div>
+        <form class="saisie" id="saisie">
+          <textarea id="question" rows="2" maxlength="1000" placeholder="Ta question… (Entrée pour envoyer, Maj+Entrée pour aller à la ligne)" aria-label="Ta question"></textarea>
+          <button class="bouton-icone" id="nouvelle-conversation" type="button" title="Nouvelle conversation" aria-label="Nouvelle conversation"><svg class="icone" data-icone="plus"></svg></button>
+          <button class="bouton-principal" id="envoyer" type="submit"><svg class="icone" data-icone="envoyer"></svg><span>Envoyer</span></button>
+        </form>
+      </div>
+
       <div id="vue-feuilletons" hidden>
         <header>
           <p class="surtitre"><svg class="icone" data-icone="historique"></svg>Agent mémoire</p>
@@ -957,6 +1012,9 @@ const ICONES = {
   langues: '<path d="m5 8 6 6"/><path d="m4 14 6-6 2-3"/><path d="M2 5h12"/><path d="M7 2h1"/><path d="m22 22-5-10-5 10"/><path d="M14 18h6"/>', // languages
   boussole: '<circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/>', // compass
   coche: '<path d="M20 6 9 17l-5-5"/>', // check
+  bulle: '<path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/>', // message-circle
+  envoyer: '<path d="M14.536 21.686a.5.5 0 0 0 .937-.024l6.5-19a.496.496 0 0 0-.635-.635l-19 6.5a.5.5 0 0 0-.024.937l7.93 3.18a2 2 0 0 1 1.112 1.11z"/><path d="m21.854 2.147-10.94 10.939"/>', // send
+  plus: '<path d="M5 12h14"/><path d="M12 5v14"/>', // plus
   etoile: '<path d="M11.525 2.295a.53.53 0 0 1 .95 0l2.31 4.679a2.123 2.123 0 0 0 1.595 1.16l5.166.756a.53.53 0 0 1 .294.904l-3.736 3.638a2.123 2.123 0 0 0-.611 1.878l.882 5.14a.53.53 0 0 1-.771.56l-4.618-2.428a2.122 2.122 0 0 0-1.973 0L6.396 21.01a.53.53 0 0 1-.77-.56l.881-5.139a2.122 2.122 0 0 0-.611-1.879L2.16 9.795a.53.53 0 0 1 .294-.906l5.165-.755a2.122 2.122 0 0 0 1.597-1.16z"/>', // star
   partage: '<circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" x2="15.42" y1="13.51" y2="17.49"/><line x1="15.41" x2="8.59" y1="6.51" y2="10.49"/>', // share-2
   volume: '<path d="M11 4.702a.705.705 0 0 0-1.203-.498L6.413 7.587A1.4 1.4 0 0 1 5.416 8H3a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h2.416a1.4 1.4 0 0 1 .997.413l3.383 3.384A.705.705 0 0 0 11 19.298z"/><path d="M16 9a5 5 0 0 1 0 6"/><path d="M19.364 18.364a9 9 0 0 0 0-12.728"/>', // volume-2
@@ -1509,7 +1567,8 @@ async function lireJSON(url, options) {
 }
 
 async function chargerJours() {
-  jours = (await lireJSON(URLS.jours)).veilles;
+  // « || [] » : si la liste est absente (fichier manquant), l'app reste utilisable.
+  jours = (await lireJSON(URLS.jours)).veilles || [];
 }
 
 function afficherRegions() {
@@ -1567,6 +1626,7 @@ async function demarrer() {
   if (location.hash === "#favoris") { afficherJours(); return montrerFavoris(); }
   if (location.hash === "#semaine") { afficherJours(); return montrerTendances(); }
   if (location.hash.startsWith("#feuilletons")) { afficherJours(); return montrerFeuilletons(location.hash.split("/")[1]); }
+  if (location.hash === "#chat") { afficherJours(); return montrerChat(); }
   if (!jours.length) { afficherJours(); return montrerVide(); }
   const [date, region] = location.hash.slice(1).split("/");  // ex. #2026-11-08/us
   await choisirJour(jours.some((j) => j.date === date) ? date : jours[0].date,
@@ -1605,8 +1665,8 @@ function toast(message, erreur = false) {
 }
 
 // ===== Vues : une seule visible à la fois =====
-const VUES = ["chargement", "vue", "vue-sources", "vue-favoris", "vue-recherche", "vue-tendances", "vue-feuilletons", "pas-de-veille"];
-const BOUTONS_VUES = { "vue-sources": "ouvrir-sources", "vue-favoris": "ouvrir-favoris", "vue-tendances": "ouvrir-tendances", "vue-feuilletons": "ouvrir-feuilletons" };
+const VUES = ["chargement", "vue", "vue-sources", "vue-favoris", "vue-recherche", "vue-tendances", "vue-feuilletons", "vue-chat", "pas-de-veille"];
+const BOUTONS_VUES = { "vue-sources": "ouvrir-sources", "vue-favoris": "ouvrir-favoris", "vue-tendances": "ouvrir-tendances", "vue-feuilletons": "ouvrir-feuilletons", "vue-chat": "ouvrir-chat" };
 function montrerVue(nom) {
   for (const v of VUES) $(v).hidden = v !== nom;
   for (const [v, b] of Object.entries(BOUTONS_VUES)) $(b).setAttribute("aria-current", String(v === nom));
@@ -1996,6 +2056,151 @@ async function majCompteFeuilletons() {
   } catch {}
 }
 $("ouvrir-feuilletons").addEventListener("click", () => montrerFeuilletons());
+
+// ===== Chat sur l'historique (app locale seulement) =====
+// La réponse de l'IA est reconstruite élément par élément (textContent, liens vérifiés) :
+// jamais de innerHTML, même si un article lu par l'agent contenait du code piégé.
+let conversation = [];  // [{role: "user" | "assistant", contenu, sources?, outils?}]
+let chatEnCours = false;
+const SUGGESTIONS = [
+  "Résume-moi l'affaire Nvidia depuis le début",
+  "Quels sont les feuilletons en cours ?",
+  "Qu'est-ce qui s'est dit sur Mistral ces derniers jours ?",
+  "Quels sujets montent cette semaine ?",
+  "Que dit la presse chinoise sur les puces IA ?",
+];
+const LIBELLES_OUTILS = {
+  search_articles: (a) => `recherche « ${a.query || ""} »`,
+  list_stories: () => "liste des feuilletons",
+  get_story: (a) => `feuilleton ${a.story_id || ""}`,
+  get_day: (a) => `veille du ${a.day || ""} (${a.region || "fr"})`,
+  get_dossiers: (a) => `dossiers du ${a.day || ""}`,
+  get_trends: () => "tendances de la semaine",
+};
+
+function texteEnrichi(parent, texte, sources) {
+  // Gère **gras** et les références [a3] ; tout le reste est du texte brut.
+  for (const morceau of texte.split(/(\[a\d+\]|\*\*[^*\n]+\*\*)/g)) {
+    if (!morceau) continue;
+    const ref = morceau.match(/^\[(a\d+)\]$/);
+    if (ref && sources[ref[1]]) {
+      const s = sources[ref[1]];
+      const href = lienSur(s.lien);
+      const a = el(href ? "a" : "span", "ref", ref[1].slice(1));
+      if (href) { a.href = href; a.target = "_blank"; a.rel = "noopener noreferrer"; }
+      a.title = `${s.titre} — ${s.source}`;
+      parent.append(a);
+    } else if (/^\*\*[^*]+\*\*$/.test(morceau)) {
+      parent.append(el("strong", "", morceau.slice(2, -2)));
+    } else {
+      parent.append(document.createTextNode(morceau));
+    }
+  }
+}
+function rendreReponse(texte, sources) {
+  const frag = document.createDocumentFragment();
+  for (const bloc of texte.split(/\n\s*\n/)) {
+    const lignes = bloc.split("\n").map((l) => l.trim()).filter(Boolean);
+    if (!lignes.length) continue;
+    if (lignes.every((l) => /^([-*•]|\d+\.)\s+/.test(l))) {
+      const ul = el("ul");
+      for (const l of lignes) { const li = el("li"); texteEnrichi(li, l.replace(/^([-*•]|\d+\.)\s+/, ""), sources); ul.append(li); }
+      frag.append(ul);
+    } else {
+      const p = el("p");
+      lignes.forEach((l, i) => {
+        if (i) p.append(el("br"));
+        texteEnrichi(p, l.replace(/^#+\s*/, ""), sources);
+      });
+      frag.append(p);
+    }
+  }
+  return frag;
+}
+function bulle(message) {
+  const div = el("div", "bulle " + (message.role === "user" ? "utilisateur" : "agent") + (message.erreur ? " erreur" : ""));
+  if (message.role === "user" || message.erreur) {
+    div.textContent = message.contenu;
+    return div;
+  }
+  const sources = message.sources || {};
+  div.append(rendreReponse(message.contenu, sources));
+  const cles = Object.keys(sources).sort((a, b) => Number(a.slice(1)) - Number(b.slice(1)));
+  if (cles.length) {
+    const ol = el("ol", "sources-chat");
+    for (const k of cles) {
+      const li = el("li");
+      li.append(el("span", "ref", k.slice(1)), lienExterne(`${sources[k].titre} — ${sources[k].source}`, sources[k].lien));
+      ol.append(li);
+    }
+    div.append(ol);
+  }
+  if (message.outils?.length) {
+    const o = el("div", "outils-utilises");
+    o.append(el("span", "", "A consulté :"));
+    for (const appel of message.outils) {
+      const lib = LIBELLES_OUTILS[appel.nom];
+      o.append(el("span", "outil", lib ? lib(appel.arguments || {}) : appel.nom));
+    }
+    div.append(o);
+  }
+  return div;
+}
+function afficherFil() {
+  $("fil").replaceChildren(...conversation.map(bulle));
+  $("suggestions").hidden = conversation.length > 0 || STATIQUE;
+}
+async function envoyerQuestion(question) {
+  question = question.trim();
+  if (!question || chatEnCours || STATIQUE) return;
+  chatEnCours = true;
+  const historique = conversation.filter((m) => !m.erreur).map((m) => ({ role: m.role, contenu: m.contenu }));
+  conversation.push({ role: "user", contenu: question });
+  afficherFil();
+  $("question").value = "";
+  const attente = el("div", "bulle agent");
+  const r = el("span", "reflexion");
+  r.append(icone("actualiser"), el("span", "", "L'agent consulte la veille…"));
+  attente.append(r);
+  $("fil").append(attente);
+  attente.scrollIntoView({ block: "end", behavior: "smooth" });
+  $("envoyer").disabled = true;
+  try {
+    const d = await lireJSON("/api/chat", {
+      method: "POST",
+      headers: { "X-Veille": "1", "Content-Type": "application/json" },
+      body: JSON.stringify({ question, historique }),
+    });
+    conversation.push({ role: "assistant", contenu: d.reponse, sources: d.sources, outils: d.outils });
+  } catch (e) {
+    conversation.push({ role: "assistant", contenu: "Je n'ai pas pu répondre : " + e.message, erreur: true });
+  } finally {
+    chatEnCours = false;
+    $("envoyer").disabled = false;
+    afficherFil();
+    $("fil").lastElementChild?.scrollIntoView({ block: "start", behavior: "smooth" });
+    $("question").focus();
+  }
+}
+function montrerChat() {
+  ouvrirVueAnnexe("vue-chat", "#chat");
+  $("chat-statique").hidden = !STATIQUE;
+  $("saisie").hidden = STATIQUE;
+  $("suggestions").replaceChildren(...SUGGESTIONS.map((s) => {
+    const b = el("button", "puce", s);
+    b.type = "button";
+    b.addEventListener("click", () => envoyerQuestion(s));
+    return b;
+  }));
+  afficherFil();
+  if (!STATIQUE) $("question").focus();
+}
+$("ouvrir-chat").addEventListener("click", montrerChat);
+$("saisie").addEventListener("submit", (e) => { e.preventDefault(); envoyerQuestion($("question").value); });
+$("question").addEventListener("keydown", (e) => {
+  if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); envoyerQuestion($("question").value); }
+});
+$("nouvelle-conversation").addEventListener("click", () => { conversation = []; afficherFil(); $("question").focus(); });
 
 $("ouvrir-favoris").addEventListener("click", montrerFavoris);
 $("ouvrir-tendances").addEventListener("click", montrerTendances);
