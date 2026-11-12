@@ -30,7 +30,7 @@ GRAPHE = CERVEAU / "graphify-out" / "graph.json"
 
 # Les gros modèles Flash renvoient souvent 503 sur l'offre gratuite : on prend Flash-Lite.
 MODELE_GEMINI = "gemini-3.1-flash-lite"  # 3.5 Flash-Lite n extrait presque aucune entite (teste)
-NOMS_REGIONS = {"fr": "France", "us": "États-Unis", "cn": "Chine"}
+NOMS_REGIONS = {"fr": "France", "us": "États-Unis", "cn": "Chine", "dev": "Outils & code"}
 
 
 def _propre(texte: str, limite: int = 0) -> str:

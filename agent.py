@@ -55,6 +55,14 @@ class Region:
     # Médias entièrement consacrés à l'IA : leurs titres ne citent pas toujours « IA »,
     # on les garde sans passer par le filtre.
     toujours_ia: frozenset[str] = frozenset()
+    # Ce que l'analyste écarte (consigne « hors_sujet ») et ce que le noteur privilégie :
+    # les veilles géographiques couvrent toute l'IA, la section « outils » est thématique.
+    hors_sujet: str = "qui ne parlent pas d'IA"
+    orientation: str = ""
+    # Section thématique : part maximale de Google Actualités parmi les candidats, et
+    # fenêtre minimale (les blogs d'outils publient moins souvent que la presse).
+    part_google: float = 1.0
+    heures_min: int = 0
 
 
 # Google Actualités apporte le volume (une centaine d'articles par jour, même le
@@ -107,6 +115,34 @@ FLUX_CN = {
     "SCMP Tech": "https://www.scmp.com/rss/36/feed",
 }
 
+# Section thématique « Outils & code » (ajoutée le 12/11/2026) : nouveaux outils d'IA,
+# agents, nouveautés pour coder. Flux testés le 12/11/2026 ; Google Developers (vide),
+# LangChain (XML invalide), Programmez (404) et Developpez.com (délai) sont écartés.
+FLUX_DEV = {
+    "GitHub Changelog": "https://github.blog/changelog/feed/",
+    "GitHub Blog": "https://github.blog/feed/",
+    "Simon Willison": "https://simonwillison.net/atom/everything/",
+    "Hugging Face": "https://huggingface.co/blog/feed.xml",
+    "Latent Space": "https://www.latent.space/feed",
+    "The New Stack": "https://thenewstack.io/feed/",
+    "InfoQ": "https://feed.infoq.com/ai-ml-data-eng/",
+    "InfoWorld": "https://www.infoworld.com/feed/",
+    "Hacker News": "https://hnrss.org/frontpage",
+    "dev.to": "https://dev.to/feed/tag/ai",
+    "OpenAI": "https://openai.com/news/rss.xml",
+    "MarkTechPost": "https://www.marktechpost.com/feed/",
+    "The Decoder": "https://the-decoder.com/feed/",
+    "Product Hunt": "https://www.producthunt.com/feed",
+    "Vercel": "https://vercel.com/atom",
+    "JetBrains AI": "https://blog.jetbrains.com/ai/feed/",
+    "Cursor": "https://cursor.com/changelog/rss.xml",
+    "Ollama": "https://ollama.com/blog/rss.xml",
+    "AWS Machine Learning": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "Towards Data Science": "https://towardsdatascience.com/feed",
+    "Korben": "https://korben.info/feed",
+    "Blog du Modérateur": "https://www.blogdumoderateur.com/feed/",
+}
+
 REGIONS = {
     "fr": Region(
         code="fr",
@@ -150,6 +186,43 @@ REGIONS = {
             r"ChatGPT|Anthropic|Claude|Gemini|英伟达|算力|(?<![A-Za-z])(?:AI|AGI|LLM)(?![A-Za-z])"
         ),
         toujours_ia=frozenset({"量子位"}),
+    ),
+    "dev": Region(
+        code="dev",
+        nom="outils & code",
+        langue="tech anglophones et francophones (blogs d'outils, Hacker News, Product Hunt)",
+        requete_google=('"coding agent" OR "AI coding" OR "Claude Code" OR "OpenAI Codex" OR '
+                        '"GitHub Copilot" OR "Cursor AI" OR "vibe coding" OR '
+                        '"Model Context Protocol" OR "AI developer tools" OR "agent framework"'),
+        parametres_google="hl=en-US&gl=US&ceid=US:en",
+        flux_medias=FLUX_DEV,
+        # Les flux généralistes (Hacker News, Product Hunt, GitHub, Korben…) ne gardent
+        # que ce qui touche aux outils d'IA, aux agents ou au code assisté.
+        mots_ia=re.compile(
+            r"\bAI\b|\bIA\b|\b(?i:LLMs?|agents?|agentic|agentique|copilot|cursor|claude|codex|"
+            r"windsurf|devin|replit|lovable|MCP|model context protocol|langchain|langgraph|"
+            r"llama|ollama|gemini|GPT-?\d*|ChatGPT|openai|anthropic|mistral|deepseek|qwen|"
+            r"hugging ?face|vibe coding|coding assistant|assistant de code|machine learning|"
+            r"intelligence artificielle|RAG|embeddings?|fine-?tun\w*|inference|inférence)\b"
+        ),
+        toujours_ia=frozenset({"Simon Willison", "Hugging Face", "Latent Space", "InfoQ",
+                               "dev.to", "OpenAI", "MarkTechPost", "The Decoder", "JetBrains AI",
+                               "Ollama", "AWS Machine Learning"}),
+        hors_sujet=("qui ne portent pas sur des outils d'IA, des agents IA, des modèles ou "
+                    "frameworks utilisables, ou le développement logiciel assisté par l'IA. "
+                    "Sont hors sujet : l'actualité financière, politique ou juridique, les "
+                    "opinions générales sur l'IA, et les simples usages de l'IA dans un "
+                    "secteur (santé, agriculture, finance, éducation…) quand l'article ne "
+                    "présente pas un outil, un agent ou une technique réutilisable"),
+        part_google=0.35,
+        heures_min=48,
+        orientation=(
+            "Cette veille est personnelle et pratique : elle sert à découvrir de nouveaux "
+            "outils d'IA, des agents et des nouveautés pour coder. Valorise les sorties "
+            "concrètes et utilisables (nouvel outil, nouvelle version, fonctionnalité, "
+            "framework, modèle pour le code, protocole comme MCP, retour d'expérience ou "
+            "guide pratique) ; note bas l'actualité financière, les levées de fonds et les "
+            "opinions.\n\n"),
     ),
 }
 
@@ -218,7 +291,7 @@ Voici des articles de médias {langue} publiés ces dernières heures (numéro, 
 
 {articles}
 
-1. Liste dans hors_sujet les numéros des articles qui ne parlent pas d'IA.
+1. Liste dans hors_sujet les numéros des articles {hors_sujet}.
 2. Regroupe tous les autres en 4 à 8 thèmes : chaque article pertinent doit figurer
    dans exactement un thème, aucun ne doit être oublié.
 3. Rédige une synthèse des faits marquants.
@@ -319,7 +392,7 @@ nouvelle, titre) :
 
 {articles}
 
-Critères, par ordre d'importance :
+{orientation}Critères, par ordre d'importance :
 1. Nouveauté et impact : un fait concret (nouveau modèle, résultat de recherche, décision
    réglementaire, investissement majeur, incident) vaut plus qu'une opinion, une promotion
    ou un sujet rebattu.
@@ -398,7 +471,7 @@ def _modele(schema: type[BaseModel], max_tokens: int = 4000):
 
 
 class EtatVeille(TypedDict, total=False):
-    region: str  # "fr" ou "us"
+    region: str  # "fr", "us", "cn" ou "dev" (section outils & code)
     nombre: int  # nombre d'articles voulus
     heures: int  # fenêtre de publication
     candidats: list[Article]
@@ -486,7 +559,8 @@ def _cle(titre: str) -> str:
 
 def collecter(etat: EtatVeille) -> dict:
     region = REGIONS[etat["region"]]
-    limite = datetime.now(timezone.utc) - timedelta(hours=etat["heures"])
+    heures = max(etat["heures"], region.heures_min)
+    limite = datetime.now(timezone.utc) - timedelta(hours=heures)
     jours = max(1, -(-etat["heures"] // 24))  # Google filtre par jours entiers
     medias = flux_de(region)
     flux = {**medias, NOM_GOOGLE: _url_google_news(region, jours)}
@@ -523,7 +597,14 @@ def collecter(etat: EtatVeille) -> dict:
 
     candidats.sort(key=lambda a: a.date, reverse=True)  # du plus récent au plus ancien
     maximum = int(etat["nombre"] * MARGE_CANDIDATS)
-    return {"candidats": candidats[:maximum], "sources_en_echec": echecs}
+    if region.part_google < 1:
+        # Section thématique : Google Actualités ramène beaucoup d'actualité générale ; on
+        # plafonne sa part pour laisser la priorité aux sources spécialisées.
+        directs = [a for a in candidats if a.source in medias]
+        google = [a for a in candidats if a.source not in medias]
+        part = min(len(google), max(int(maximum * region.part_google), maximum - len(directs)))
+        candidats = sorted(directs[:maximum - part] + google[:part], key=lambda a: a.date, reverse=True)
+    return {"candidats": candidats[:maximum], "sources_en_echec": echecs, "heures": heures}
 
 
 def _essayer(nom: str, url: str) -> list[Article] | None:
@@ -540,7 +621,8 @@ def analyser(etat: EtatVeille) -> dict:
     liste = "\n".join(
         f"{numero}. [{a.source}] {a.titre}" for numero, a in enumerate(etat["candidats"], start=1)
     )
-    prompt = PROMPT_ANALYSE.format(langue=REGIONS[etat["region"]].langue, articles=liste)
+    region = REGIONS[etat["region"]]
+    prompt = PROMPT_ANALYSE.format(langue=region.langue, hors_sujet=region.hors_sujet, articles=liste)
     try:
         analyse = _modele(Analyse).invoke(prompt)
     except Exception as exc:  # quota Groq, réseau… : le rapport sortira sans thèmes
@@ -622,7 +704,8 @@ def noter(etat: EtatVeille) -> dict:
         for n, a in enumerate(articles, start=1)
     )
     try:
-        notation = _modele(Notation).invoke(PROMPT_NOTATION.format(articles=liste))
+        orientation = REGIONS[etat["region"]].orientation
+        notation = _modele(Notation).invoke(PROMPT_NOTATION.format(articles=liste, orientation=orientation))
     except Exception as exc:  # sans notes, le rapport sort quand même
         print(f"Notation impossible ({type(exc).__name__}) : articles sans note.")
         return {"articles_notes": 0}

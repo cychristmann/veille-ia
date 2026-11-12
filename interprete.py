@@ -43,7 +43,8 @@ FENETRE = 7          # jours de veille pris en compte
 RECENT = 2           # « récemment » = les 2 derniers jours de veille
 MAX_SIGNAUX = 4      # analyses par jour
 PAR_TYPE = 3         # candidats retenus par type de signal
-NOMS_REGIONS = {"fr": "France", "us": "États-Unis", "cn": "Chine"}
+NOMS_REGIONS = {"fr": "France", "us": "États-Unis", "cn": "Chine", "dev": "Outils & code"}
+REGIONS_GEO = ("fr", "us", "cn")  # écarts entre régions : la section outils n'en est pas une
 MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août",
         "septembre", "octobre", "novembre", "décembre"]
 
@@ -57,7 +58,7 @@ def _date_de(fichier: str) -> str | None:
 
 
 def _region_de(fichier: str) -> str | None:
-    m = re.search(r"veille-ia-(fr|us|cn)-", fichier or "")
+    m = re.search(r"veille-ia-(fr|us|cn|dev)-", fichier or "")
     return m.group(1) if m else None
 
 
@@ -232,8 +233,8 @@ def mesurer(etat: EtatInterprete) -> dict:
             for f in pj[j]:
                 if _region_de(f):
                     par_region[_region_de(f)] += 1
-        absentes = [r for r in NOMS_REGIONS if par_region[r] == 0]
-        presentes = {r: c for r, c in par_region.items() if c}
+        absentes = [r for r in REGIONS_GEO if par_region[r] == 0]
+        presentes = {r: c for r, c in par_region.items() if c and r in REGIONS_GEO}
         if len(presentes) >= 2 and absentes and sum(presentes.values()) >= 3:
             ecarts.append((sum(presentes.values()), i, presentes, absentes))
     for _, i, presentes, absentes in sorted(ecarts, reverse=True)[:PAR_TYPE]:

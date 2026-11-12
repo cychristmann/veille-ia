@@ -437,7 +437,7 @@
   .entete h1::first-letter { text-transform: uppercase; }
   .entete .meta { display: flex; align-items: center; gap: 6px; margin: 8px 0 0; color: var(--texte-3); font-size: .9rem; }
 
-  /* Sélecteur de région (France / États-Unis / Chine) */
+  /* Sélecteur de section (France / États-Unis / Chine / Outils & code) */
   .regions {
     display: inline-flex; flex-wrap: wrap; gap: 4px; padding: 4px; border-radius: 14px;
     background: var(--surface-2); border: 1px solid var(--bordure);
@@ -458,7 +458,7 @@
   .region strong { display: block; font-size: .92rem; line-height: 1.2; }
   .region small { display: block; font-size: .75rem; color: var(--texte-3); }
   /* Préfixe .jour-texte : ces règles doivent l'emporter sur « .jour-texte span ». */
-  .jour-texte .mini-regions { display: inline-flex; gap: 6px; margin-top: 3px; }
+  .jour-texte .mini-regions { display: inline-flex; flex-wrap: wrap; gap: 4px 6px; margin-top: 3px; }
   .jour-texte .mini-region {
     display: inline-block;
     padding: 0 5px; border-radius: 5px; font-size: .66rem; font-weight: 700; line-height: 1.5;
@@ -704,7 +704,7 @@
   <aside class="barre" id="barre" aria-label="Historique des veilles">
     <div class="marque">
       <div class="logo"><svg class="icone" data-icone="etincelles"></svg></div>
-      <div><strong>Veille IA</strong><span>France, États-Unis, Chine · chaque jour</span></div>
+      <div><strong>Veille IA</strong><span>France, États-Unis, Chine, outils &amp; code · chaque jour</span></div>
     </div>
 
     <button class="bouton-principal" id="lancer" type="button">
@@ -797,7 +797,7 @@
         <section class="dossiers" id="dossiers" hidden>
           <div class="tete-rubrique">
             <h2><span class="icone-theme" style="--teinte: 218"><svg class="icone" data-icone="livre"></svg></span>Dossiers du jour</h2>
-            <small>enquêtes de l'agent rédacteur en chef · communs aux trois régions</small>
+            <small>enquêtes de l'agent rédacteur en chef · communs à toutes les sections</small>
           </div>
           <div id="liste-dossiers"></div>
           <details class="journal-agent" id="journal-agent">
@@ -809,7 +809,7 @@
         <section class="analyses" id="analyses" hidden>
           <div class="tete-rubrique">
             <h2><span class="icone-theme" style="--teinte: 196"><svg class="icone" data-icone="boussole"></svg></span>Ce qui change</h2>
-            <small>lecture du graphe sur 7 jours par l'agent interprète · commun aux trois régions</small>
+            <small>lecture du graphe sur 7 jours par l'agent interprète · commun à toutes les sections</small>
           </div>
           <p class="avertissement">Analyses automatiques à partir des articles cités : à vérifier avant de les reprendre.</p>
           <div id="liste-analyses"></div>
@@ -1172,6 +1172,7 @@ const REGIONS = {
   fr: { code: "FR", nom: "France", sous: "Presse francophone", teinte: 224, adjectif: "francophone", medias: "médias francophones" },
   us: { code: "US", nom: "États-Unis", sous: "Presse américaine", teinte: 202, adjectif: "américaine", medias: "médias américains" },
   cn: { code: "CN", nom: "Chine", sous: "Presse chinoise", teinte: 213, adjectif: "chinoise", medias: "médias chinois" },
+  dev: { code: "DEV", nom: "Outils & code", sous: "Outils IA, agents, code", teinte: 190, adjectif: "outils & code", medias: "blogs d'outils et médias tech" },
 };
 
 // ===== État =====

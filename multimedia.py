@@ -65,6 +65,9 @@ LANGUES = {
     "us": "privilégie les contenus en anglais ;",
     "cn": "garde uniquement des contenus en chinois (simplifié ou traditionnel) ; écarte "
           "ceux dans une autre langue, même s'ils parlent de la Chine ;",
+    "dev": "garde des contenus en anglais ou en français sur les outils d'IA, les agents et "
+           "le code assisté par l'IA (démonstrations, tutoriels, nouveautés) ; écarte "
+           "l'actualité financière ou générale ;",
 }
 
 
@@ -124,10 +127,11 @@ REQUETES_YOUTUBE = {
     # Termes chinois seulement : « DeepSeek » en lettres latines ramenait des vidéos en
     # anglais ou en russe.
     "cn": ["人工智能", "大模型 OR 智能体 OR 通义 OR 豆包"],
+    "dev": ["AI coding agent OR Claude Code OR Cursor OR Codex", "AI agents tutorial OR MCP OR new AI tools"],
 }
 # YouTube est bloqué en Chine, mais l'API renvoie bien des vidéos en chinois (chaînes de
 # Hong Kong, Taïwan ou de la diaspora, et médias chinois présents sur YouTube).
-LANGUE_YOUTUBE = {"fr": ("fr", "FR"), "us": ("en", "US"), "cn": ("zh-Hans", "CN")}
+LANGUE_YOUTUBE = {"fr": ("fr", "FR"), "us": ("en", "US"), "cn": ("zh-Hans", "CN"), "dev": ("en", "US")}
 
 
 def _recherche_youtube(cle: str, requete: str, region: str, depuis: datetime) -> list[dict]:
@@ -194,8 +198,9 @@ REQUETES_PODCASTS = {
     "fr": ["intelligence artificielle", "IA", "ChatGPT"],
     "us": ["artificial intelligence", "AI news", "machine learning"],
     "cn": ["AI", "人工智能", "大模型"],
+    "dev": ["AI coding", "AI engineering", "AI agents"],
 }
-PAYS_PODCASTS = {"fr": "FR", "us": "US", "cn": "CN"}
+PAYS_PODCASTS = {"fr": "FR", "us": "US", "cn": "CN", "dev": "US"}
 
 
 def _date_apple(texte: str | None) -> datetime | None:

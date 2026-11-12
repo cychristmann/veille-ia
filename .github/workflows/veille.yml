@@ -62,13 +62,14 @@ jobs:
           if [ "${{ github.event_name }}" = "push" ]; then
             echo "lancer=false" >> "$GITHUB_OUTPUT"; echo "Push : republication seule."
           elif [ "${{ github.event_name }}" = "schedule" ] && [ -f "veilles/veille-ia-fr-$(date +%F).json" ] \
-               && [ -f "veilles/veille-ia-us-$(date +%F).json" ] && [ -f "veilles/veille-ia-cn-$(date +%F).json" ]; then
+               && [ -f "veilles/veille-ia-us-$(date +%F).json" ] && [ -f "veilles/veille-ia-cn-$(date +%F).json" ] \
+               && [ -f "veilles/veille-ia-dev-$(date +%F).json" ]; then
             echo "lancer=false" >> "$GITHUB_OUTPUT"; echo "La veille du $(date +%F) existe déjà : rien à refaire."
           else
             echo "lancer=true" >> "$GITHUB_OUTPUT"; echo "Veille du $(date +%F) à produire."
           fi
 
-      - name: Lancer la veille (France, États-Unis, Chine)
+      - name: Lancer la veille (France, États-Unis, Chine, Outils & code)
         if: steps.decision.outputs.lancer == 'true'
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
