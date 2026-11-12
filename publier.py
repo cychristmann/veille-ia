@@ -7,7 +7,10 @@ la page une app installable (manifeste, icônes, service worker).
 Lancement : uv run python publier.py        (puis ouvrir site/ avec un serveur web)
 """
 
+import base64
+import hashlib
 import json
+import re
 import shutil
 from pathlib import Path
 
@@ -43,6 +46,37 @@ if ("serviceWorker" in navigator) {
 </body>"""
 
 
+# Politique de sécurité du contenu (CSP) : le navigateur refuse tout ce qui n'est pas
+# listé ici. Seuls les scripts écrits dans la page (identifiés par leur empreinte), les
+# données du site lui-même et les images de YouTube et d'Apple sont autorisés. Si un
+# titre piégé réussissait à injecter du code, le navigateur refuserait de l'exécuter.
+CSP = (
+    "default-src 'none'; "
+    "script-src {empreintes}; "
+    "style-src 'unsafe-inline'; "  # styles écrits dans la page (aucun code exécutable)
+    "img-src 'self' https://i.ytimg.com https://*.mzstatic.com; "
+    "connect-src 'self'; "
+    "manifest-src 'self'; "
+    "worker-src 'self'; "
+    "base-uri 'none'; "
+    "form-action 'none'"
+)
+
+
+def _avec_csp(page: str) -> str:
+    """Ajoute la CSP en tête de page, avec l'empreinte SHA-256 de chaque script de la page."""
+    scripts = re.findall(r"<script>(.*?)</script>", page, flags=re.DOTALL)
+    assert scripts and "<script " not in page, "script inattendu : la CSP ne le couvrirait pas"
+    empreintes = " ".join(
+        f"'sha256-{base64.b64encode(hashlib.sha256(s.encode('utf-8')).digest()).decode()}'"
+        for s in scripts
+    )
+    balise = f'<meta http-equiv="Content-Security-Policy" content="{CSP.format(empreintes=empreintes)}">'
+    # Juste après <meta charset> : la CSP doit précéder tous les scripts.
+    assert page.count('<meta charset="utf-8">') == 1, "interface.html inattendu"
+    return page.replace('<meta charset="utf-8">', '<meta charset="utf-8">\n' + balise)
+
+
 def _ecrire_json(chemin: Path, donnees) -> None:
     chemin.write_text(json.dumps(donnees, ensure_ascii=False), encoding="utf-8")
 
@@ -54,8 +88,8 @@ def construire() -> int:
 
     page = (RACINE / "interface.html").read_text(encoding="utf-8")
     assert page.count("</head>") == 1 and page.count("</body>") == 1, "interface.html inattendu"
-    page = page.replace("</head>", TETE).replace("</body>", PIED)
-    (SITE / "index.html").write_text(page, encoding="utf-8")
+    page = _avec_csp(page.replace("</head>", TETE).replace("</body>", PIED))
+    (SITE / "index.html").write_text(page, encoding="utf-8", newline="\n")
 
     shutil.copy(PWA / "manifest.json", SITE / "manifest.json")
     shutil.copy(PWA / "sw.js", SITE / "sw.js")
