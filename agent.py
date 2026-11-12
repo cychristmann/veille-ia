@@ -13,8 +13,8 @@ utilisent le modèle, chacun avec son rôle : l'analyste, le traducteur, le vér
 le noteur (pertinence de 1 à 10), l'agent vidéos et l'agent podcasts (ces deux derniers
 dans multimedia.py).
 
-    collecter -> analyser -> selectionner -> liens -> (us, cn : traduire) -> verifier
-              -> noter -> videos -> podcasts -> rediger
+    collecter -> analyser -> selectionner -> (us, cn : traduire) -> verifier -> noter
+              -> videos -> podcasts -> rediger
 """
 
 import argparse
@@ -29,7 +29,7 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import TypedDict
-from urllib.parse import quote_plus, urlparse
+from urllib.parse import quote_plus
 
 import httpx
 from dotenv import load_dotenv
@@ -359,8 +359,6 @@ class EtatVeille(TypedDict, total=False):
     titres_traduits: int  # nombre de titres traduits (régions étrangères)
     verification: Verification | None
     articles_notes: int  # nombre d'articles notés par l'agent noteur
-    liens_resolus: int  # liens Google Actualités remplacés par l'adresse réelle
-    liens_google: int  # liens Google Actualités restés tels quels
     videos: dict  # {"statut", "elements", ...} rempli par l'agent vidéos (multimedia.py)
     podcasts: dict  # idem, rempli par l'agent podcasts
     fichier: str
@@ -512,48 +510,11 @@ def selectionner(etat: EtatVeille) -> dict:
     return {"articles": gardes[: etat["nombre"]]}
 
 
-# --- Liens réels ------------------------------------------------------------------------
-
-GOOGLE_ARTICLE = "news.google.com/rss/articles/"
-HOTES_IGNORES = ("google.com", "googleusercontent.com", "gstatic.com", "apple.com", "youtube.com")
-
-
-def _lien_reel(url: str) -> str | None:
-    """Adresse du média derrière un lien Google Actualités, si Google la laisse voir.
-
-    Depuis l'Europe, Google renvoie une page de consentement aux cookies : on ne la
-    contourne pas, le lien Google est gardé. Depuis les serveurs de GitHub (États-Unis),
-    la page de redirection contient normalement l'adresse de l'article.
-    """
-    try:
-        reponse = httpx.get(url, headers=HTTP_HEADERS, timeout=10, follow_redirects=True)
-    except httpx.HTTPError:
-        return None
-    hote = (urlparse(str(reponse.url)).hostname or "").lower()
-    if reponse.status_code == 200 and not hote.endswith(HOTES_IGNORES):
-        return str(reponse.url)  # Google a redirigé vers le média
-    if not hote.endswith("google.com"):
-        return None
-    page = reponse.text
-    trouve = re.search(r'data-n-au="(https?://[^"]+)"', page)
-    if not trouve:
-        for candidat in re.findall(r'<a[^>]+href="(https?://[^"]+)"', page):
-            if not (urlparse(candidat).hostname or "").lower().endswith(HOTES_IGNORES):
-                trouve = re.match(r"(.*)", candidat)
-                break
-    return html.unescape(trouve.group(1)) if trouve else None
-
-
-def resoudre_liens(etat: EtatVeille) -> dict:
-    cibles = [a for a in etat["articles"] if GOOGLE_ARTICLE in a.lien]
-    resolus = 0
-    with ThreadPoolExecutor(max_workers=4) as pool:  # 4 à la fois : pas de rafale sur Google
-        for article, reel in zip(cibles, pool.map(lambda a: _lien_reel(a.lien), cibles)):
-            if reel:
-                article.lien, resolus = reel, resolus + 1
-    if cibles:
-        print(f"Liens réels : {resolus} retrouvés sur {len(cibles)} liens Google Actualités.")
-    return {"liens_resolus": resolus, "liens_google": len(cibles) - resolus}
+# Note : les liens Google Actualités ne peuvent pas être remplacés par l'adresse du média.
+# Essai du 12/11/2026 : depuis l'Europe, Google renvoie une page de consentement ; depuis
+# les serveurs de GitHub (États-Unis), sa page de redirection ne contient plus l'adresse
+# (0 lien retrouvé sur 134). Seuls les flux directs des médias donnent de vrais liens :
+# c'est le rôle de l'agent de découverte de sources (sources.py) d'en ajouter.
 
 
 def apres_selection(etat: EtatVeille) -> str:
@@ -781,8 +742,9 @@ def _json(etat: EtatVeille, groupes, ecartes, maintenant: datetime) -> str:
         "ecartes": [_article_json(a) for a in ecartes],
         "top": [_article_json(a) for a in _top(etat["articles"])],
         "articles_notes": etat.get("articles_notes", 0),
-        "liens_resolus": etat.get("liens_resolus", 0),
-        "liens_google": etat.get("liens_google", 0),
+        # Part des liens qui passent encore par Google Actualités (les flux directs donnent
+        # de vrais liens) : utile pour juger l'apport de nouvelles sources.
+        "liens_google": sum(1 for a in etat["articles"] if "news.google.com" in a.lien),
         "videos": etat.get("videos"),
         "podcasts": etat.get("podcasts"),
     }
@@ -811,7 +773,6 @@ def build_graph():
     graph.add_node("collecter", collecter)
     graph.add_node("analyser", analyser)
     graph.add_node("selectionner", selectionner)
-    graph.add_node("liens", resoudre_liens)
     graph.add_node("traduire", traduire)
     graph.add_node("verifier", verifier)
     graph.add_node("noter", noter)
@@ -821,9 +782,8 @@ def build_graph():
     graph.add_edge(START, "collecter")
     graph.add_edge("collecter", "analyser")
     graph.add_edge("analyser", "selectionner")
-    graph.add_edge("selectionner", "liens")
     # Embranchement : les régions étrangères passent par le traducteur, « fr » va au vérificateur.
-    graph.add_conditional_edges("liens", apres_selection, ["traduire", "verifier"])
+    graph.add_conditional_edges("selectionner", apres_selection, ["traduire", "verifier"])
     graph.add_edge("traduire", "verifier")
     graph.add_edge("verifier", "noter")
     graph.add_edge("noter", "videos")
