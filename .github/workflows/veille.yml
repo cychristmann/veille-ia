@@ -9,9 +9,11 @@ name: Veille IA quotidienne
 
 on:
   schedule:
-    # 5 h 15 UTC = 6 h 15 à Paris en hiver, 7 h 15 en été.
-    # GitHub peut démarrer une tâche programmée avec un peu de retard.
-    - cron: "15 5 * * *"
+    # Heures UTC. GitHub lance les tâches programmées avec un retard qui peut atteindre
+    # plusieurs heures (observé : 7 à 8 h) : on vise tôt, et on prévoit une seconde
+    # tentative, qui ne refait la veille que si celle du jour n'existe pas encore.
+    - cron: "7 0 * * *" # 1 h 07 à Paris en hiver (2 h 07 en été)
+    - cron: "7 4 * * *" # 5 h 07 à Paris en hiver (6 h 07 en été) : seconde tentative
   workflow_dispatch: # bouton « Run workflow » pour lancer une veille à la main
   push:
     # Une modification de l'app (design, code) republie le site sans relancer la veille.
@@ -47,21 +49,35 @@ jobs:
       - name: Installer les dépendances
         run: uv sync --locked
 
+      # Sur un push, on republie seulement. Sur une tâche programmée, on ne refait pas une
+      # veille déjà faite aujourd'hui (seconde tentative). À la main, on force toujours.
+      - name: Faut-il lancer la veille ?
+        id: decision
+        run: |
+          if [ "${{ github.event_name }}" = "push" ]; then
+            echo "lancer=false" >> "$GITHUB_OUTPUT"; echo "Push : republication seule."
+          elif [ "${{ github.event_name }}" = "schedule" ] && [ -f "veilles/veille-ia-fr-$(date +%F).json" ] \
+               && [ -f "veilles/veille-ia-us-$(date +%F).json" ] && [ -f "veilles/veille-ia-cn-$(date +%F).json" ]; then
+            echo "lancer=false" >> "$GITHUB_OUTPUT"; echo "La veille du $(date +%F) existe déjà : rien à refaire."
+          else
+            echo "lancer=true" >> "$GITHUB_OUTPUT"; echo "Veille du $(date +%F) à produire."
+          fi
+
       - name: Lancer la veille (France, États-Unis, Chine)
-        if: github.event_name != 'push' # sur un push, on republie seulement
+        if: steps.decision.outputs.lancer == 'true'
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: uv run python agent.py
 
       - name: Analyser les tendances de la semaine
-        if: github.event_name != 'push'
+        if: steps.decision.outputs.lancer == 'true'
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: uv run python tendances.py
 
       - name: Enregistrer la veille dans le dépôt
-        if: github.event_name != 'push'
+        if: steps.decision.outputs.lancer == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
