@@ -14,6 +14,7 @@ import re
 import shutil
 from pathlib import Path
 
+from agent import DOSSIER_RAPPORTS
 from interface import _fichiers_veille, etat_sources, index_recherche, lire_tendances, liste_veilles
 
 RACINE = Path(__file__).parent
@@ -103,6 +104,10 @@ def construire() -> int:
     _ecrire_json(SITE / "donnees" / "sources.json", etat_sources())
     _ecrire_json(SITE / "donnees" / "index.json", {"articles": index_recherche()})
     _ecrire_json(SITE / "donnees" / "tendances.json", lire_tendances() or {"vide": True})
+    # Mémoire des feuilletons et dossiers du rédacteur en chef.
+    for fichier in list(DOSSIER_RAPPORTS.glob("dossiers-*.json")) + [DOSSIER_RAPPORTS / "memoire.json"]:
+        if fichier.is_file():
+            shutil.copy(fichier, SITE / "donnees" / fichier.name)
     return len(fichiers)
 
 

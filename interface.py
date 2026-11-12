@@ -8,6 +8,8 @@ N'utilise que la bibliothèque standard de Python : un petit serveur web sert la
     GET  /api/veille?region=fr&date=AAAA-MM-JJ   -> la veille d'une région un jour donné
                                                     (la plus récente sans date)
     POST /api/actualiser                         -> relance l'agent pour toutes les régions
+    GET  /api/memoire                            -> feuilletons suivis (memoire.py)
+    GET  /api/dossiers?date=AAAA-MM-JJ           -> dossiers du rédacteur en chef (redacteur.py)
     GET  /api/index                              -> tous les articles de l'historique (recherche)
     GET  /api/tendances                          -> tendances de la semaine (tendances.py)
     POST /api/tendances/actualiser               -> relance l'agent tendances
@@ -27,6 +29,8 @@ from urllib.parse import parse_qs, urlsplit
 
 from dotenv import load_dotenv
 
+import memoire
+import redacteur
 import sources
 import tendances
 from agent import DOSSIER_RAPPORTS, REGIONS, lancer_veilles
@@ -105,6 +109,15 @@ def index_recherche() -> list[dict]:
     return entrees
 
 
+def lire_dossiers(date: str) -> dict | None:
+    if not FORMAT_DATE.fullmatch(date or ""):  # format strict : pas de « ../ »
+        return None
+    try:
+        return json.loads(redacteur.fichier_dossiers(date).read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return None
+
+
 def lire_tendances() -> dict | None:
     try:
         return json.loads(tendances.FICHIER_TENDANCES.read_text(encoding="utf-8"))
@@ -157,6 +170,11 @@ class Gestionnaire(BaseHTTPRequestHandler):
             self._json(200, {"veilles": liste_veilles()})
         elif adresse.path == "/api/sources":
             self._json(200, etat_sources())
+        elif adresse.path == "/api/memoire":
+            self._json(200, memoire.charger_memoire())
+        elif adresse.path == "/api/dossiers":
+            date = parse_qs(adresse.query).get("date", [""])[0]
+            self._json(200, lire_dossiers(date) or {"vide": True})
         elif adresse.path == "/api/index":
             self._json(200, {"articles": index_recherche()})
         elif adresse.path == "/api/tendances":

@@ -293,6 +293,62 @@
   .acteur .delta { color: var(--texte-3); font-variant-numeric: tabular-nums; white-space: nowrap; }
   .acteur .delta.plus { color: var(--accent); font-weight: 600; }
 
+  /* ---------- Dossiers du rédacteur en chef ---------- */
+  .dossiers { margin-top: 18px; }
+  .dossiers > .tete-rubrique small { color: var(--texte-3); }
+  .dossier {
+    padding: 20px 22px; border-radius: 16px; margin-bottom: 14px;
+    background: var(--surface); border: 1px solid var(--bordure); box-shadow: var(--ombre-1);
+  }
+  .dossier .etiquettes { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
+  .lien-feuilleton {
+    display: inline-flex; align-items: center; gap: 5px; padding: 2px 9px; border-radius: 999px; border: 0; cursor: pointer;
+    font-size: .76rem; font-weight: 600; color: var(--accent); background: var(--accent-doux);
+  }
+  .lien-feuilleton svg.icone { width: 13px; height: 13px; }
+  .dossier h3 { margin: 0; font-size: 1.15rem; line-height: 1.35; overflow-wrap: anywhere; }
+  .dossier .chapeau { margin: 8px 0 0; color: var(--texte-2); font-size: .98rem; }
+  .dossier details { margin-top: 12px; }
+  .dossier details > summary { cursor: pointer; font-weight: 600; color: var(--accent); font-size: .9rem; }
+  .dossier .analyse p { margin: 12px 0 0; line-height: 1.7; max-width: 85ch; overflow-wrap: anywhere; }
+  .dossier h4 { margin: 18px 0 6px; font-size: .9rem; color: var(--texte-2); }
+  .dossier ul { margin: 0; padding-left: 20px; font-size: .92rem; }
+  .dossier ul li { margin-bottom: 4px; overflow-wrap: anywhere; }
+  .dossier .sources a { color: var(--texte); }
+  .dossier .sources a:hover { color: var(--accent); }
+  .dossier .enquete { margin-top: 16px; padding: 12px 14px; border-radius: 12px; background: var(--surface-2); font-size: .85rem; color: var(--texte-2); }
+  .journal-agent { margin-top: 6px; font-size: .85rem; color: var(--texte-3); }
+  .journal-agent summary { cursor: pointer; font-weight: 600; }
+  .journal-agent ol { margin: 8px 0 0; padding-left: 22px; }
+  .journal-agent li { margin-bottom: 3px; overflow-wrap: anywhere; }
+
+  /* ---------- Feuilletons ---------- */
+  .feuilleton {
+    padding: 18px 20px; border-radius: 16px; margin-top: 14px; scroll-margin-top: 20px;
+    background: var(--surface); border: 1px solid var(--bordure); box-shadow: var(--ombre-1);
+  }
+  .feuilleton.surligne { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-doux); }
+  .feuilleton .tete { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; }
+  .feuilleton h3 { margin: 0; font-size: 1.08rem; overflow-wrap: anywhere; }
+  .statut { padding: 1px 8px; border-radius: 999px; font-size: .72rem; font-weight: 700; background: var(--surface-2); color: var(--texte-3); }
+  .statut.actif { color: var(--accent-texte); background: var(--accent); }
+  .feuilleton .depuis { font-size: .8rem; color: var(--texte-3); margin-left: auto; }
+  .feuilleton > p { margin: 8px 0 0; color: var(--texte-2); }
+  .chronologie { list-style: none; margin: 14px 0 0; padding: 0 0 0 16px; border-left: 2px solid var(--bordure); }
+  .chronologie li { position: relative; padding: 0 0 12px 12px; }
+  .chronologie li::before {
+    content: ""; position: absolute; left: -23px; top: 6px; width: 10px; height: 10px; border-radius: 50%;
+    background: var(--surface); border: 2px solid var(--accent);
+  }
+  .chronologie li:first-child::before { background: var(--accent); }
+  .chronologie .quand { font-size: .78rem; font-weight: 700; color: var(--texte-3); }
+  .chronologie .quoi { display: block; margin-top: 2px; }
+  .chronologie .articles { display: flex; flex-direction: column; gap: 2px; margin-top: 4px; font-size: .82rem; }
+  .chronologie .articles a { color: var(--texte-2); overflow-wrap: anywhere; }
+  .chronologie .articles a:hover { color: var(--accent); }
+  details.autres-feuilletons { margin-top: 26px; }
+  details.autres-feuilletons summary { cursor: pointer; font-weight: 600; color: var(--texte-2); }
+
   .pied-barre { margin-top: auto; display: flex; justify-content: space-between; align-items: center; padding: 0 6px; }
   .pied-barre small { color: var(--texte-3); font-size: .75rem; }
   .bouton-icone {
@@ -599,6 +655,9 @@
       <svg class="icone" data-icone="horloge"></svg><span>Mise à jour automatique chaque matin</span>
     </p>
 
+    <button class="lien-sources" id="ouvrir-feuilletons" type="button" aria-current="false">
+      <svg class="icone" data-icone="historique"></svg><span>Feuilletons</span><span class="compte" id="compte-feuilletons" hidden></span>
+    </button>
     <button class="lien-sources" id="ouvrir-tendances" type="button" aria-current="false">
       <svg class="icone" data-icone="tendance"></svg><span>Cette semaine</span>
     </button>
@@ -672,6 +731,18 @@
             <ul id="liste-corrections"></ul>
           </details>
         </div>
+
+        <section class="dossiers" id="dossiers" hidden>
+          <div class="tete-rubrique">
+            <h2><span class="icone-theme" style="--teinte: 218"><svg class="icone" data-icone="livre"></svg></span>Dossiers du jour</h2>
+            <small>enquêtes de l'agent rédacteur en chef · communs aux trois régions</small>
+          </div>
+          <div id="liste-dossiers"></div>
+          <details class="journal-agent" id="journal-agent">
+            <summary id="titre-journal"></summary>
+            <ol id="lignes-journal"></ol>
+          </details>
+        </section>
 
         <section class="top" id="top" hidden>
           <h2><svg class="icone" data-icone="etincelles"></svg>À lire en priorité<small id="top-note"></small></h2>
@@ -807,6 +878,21 @@
         </div>
       </div>
 
+      <div id="vue-feuilletons" hidden>
+        <header>
+          <p class="surtitre"><svg class="icone" data-icone="historique"></svg>Agent mémoire</p>
+          <h1 class="titre-vue">Feuilletons</h1>
+          <p class="intro-sources">Les histoires que l'agent suit d'un jour à l'autre : affaires, procès, lois, entrées en bourse… Chaque matin, il rattache les nouveaux articles aux feuilletons en cours, en ouvre de nouveaux et clôt ceux qui sont terminés.</p>
+          <p class="intro-sources" id="maj-feuilletons"></p>
+        </header>
+        <div id="feuilletons-actifs"></div>
+        <p class="aucun-jour" id="aucun-feuilleton" hidden>Aucun feuilleton pour l'instant : la mémoire se construit au fil des jours.</p>
+        <details class="autres-feuilletons" id="feuilletons-autres" hidden>
+          <summary id="titre-feuilletons-autres"></summary>
+          <div id="liste-feuilletons-autres"></div>
+        </details>
+      </div>
+
       <div class="vide" id="pas-de-veille" hidden>
         <div class="rond-vide"><svg class="icone" data-icone="etincelles"></svg></div>
         <h2>Pas encore de veille</h2>
@@ -928,6 +1014,8 @@ const URLS = STATIQUE
       sources: "donnees/sources.json",
       index: "donnees/index.json",
       tendances: "donnees/tendances.json",
+      memoire: "donnees/memoire.json",
+      dossiers: (d) => `donnees/dossiers-${encodeURIComponent(d)}.json`,
     }
   : {
       jours: "/api/veilles",
@@ -935,6 +1023,8 @@ const URLS = STATIQUE
       sources: "/api/sources",
       index: "/api/index",
       tendances: "/api/tendances",
+      memoire: "/api/memoire",
+      dossiers: (d) => `/api/dossiers?date=${encodeURIComponent(d)}`,
     };
 const SVG = "http://www.w3.org/2000/svg";
 function icone(nom) {
@@ -1168,6 +1258,7 @@ function afficherVeille() {
   $("bloc-synthese").hidden = !veille.synthese;
   $("synthese").textContent = veille.synthese;
   afficherVerification(veille.verification);
+  chargerDossiers(jourActif);
   afficherTop(veille.top);
   afficherRubrique("videos", veille.videos);
   afficherRubrique("podcasts", veille.podcasts);
@@ -1466,6 +1557,7 @@ function montrerVide() {
 async function demarrer() {
   chargerSources().catch(() => {});  // le compteur de propositions n'est pas indispensable
   majCompteFavoris();
+  majCompteFeuilletons();
   await chargerJours();
   if (STATIQUE && jours.length) {
     // Précharger les veilles du jour : le service worker les garde pour la lecture hors ligne.
@@ -1474,6 +1566,7 @@ async function demarrer() {
   if (location.hash === "#sources") { afficherJours(); return montrerSources(); }
   if (location.hash === "#favoris") { afficherJours(); return montrerFavoris(); }
   if (location.hash === "#semaine") { afficherJours(); return montrerTendances(); }
+  if (location.hash.startsWith("#feuilletons")) { afficherJours(); return montrerFeuilletons(location.hash.split("/")[1]); }
   if (!jours.length) { afficherJours(); return montrerVide(); }
   const [date, region] = location.hash.slice(1).split("/");  // ex. #2026-11-08/us
   await choisirJour(jours.some((j) => j.date === date) ? date : jours[0].date,
@@ -1512,8 +1605,8 @@ function toast(message, erreur = false) {
 }
 
 // ===== Vues : une seule visible à la fois =====
-const VUES = ["chargement", "vue", "vue-sources", "vue-favoris", "vue-recherche", "vue-tendances", "pas-de-veille"];
-const BOUTONS_VUES = { "vue-sources": "ouvrir-sources", "vue-favoris": "ouvrir-favoris", "vue-tendances": "ouvrir-tendances" };
+const VUES = ["chargement", "vue", "vue-sources", "vue-favoris", "vue-recherche", "vue-tendances", "vue-feuilletons", "pas-de-veille"];
+const BOUTONS_VUES = { "vue-sources": "ouvrir-sources", "vue-favoris": "ouvrir-favoris", "vue-tendances": "ouvrir-tendances", "vue-feuilletons": "ouvrir-feuilletons" };
 function montrerVue(nom) {
   for (const v of VUES) $(v).hidden = v !== nom;
   for (const [v, b] of Object.entries(BOUTONS_VUES)) $(b).setAttribute("aria-current", String(v === nom));
@@ -1765,6 +1858,145 @@ async function actualiserTendances() {
     $("progression").hidden = true;
   }
 }
+// ===== Dossiers du rédacteur en chef =====
+let memoireCache = null;
+async function chargerMemoire() {
+  if (!memoireCache) memoireCache = await lireJSON(URLS.memoire);
+  return memoireCache;
+}
+function lienExterne(texte, url, classe = "") {
+  const href = lienSur(url);
+  const a = el(href ? "a" : "span", classe, texte);
+  if (href) { a.href = href; a.target = "_blank"; a.rel = "noopener noreferrer"; }
+  return a;
+}
+function boutonFeuilleton(id, titre) {
+  const b = el("button", "lien-feuilleton");
+  b.type = "button";
+  b.append(icone("historique"), el("span", "", titre ? `Feuilleton : ${titre}` : "Voir le feuilleton"));
+  b.addEventListener("click", () => montrerFeuilletons(id));
+  return b;
+}
+function carteDossier(d, feuilletons) {
+  const div = el("article", "dossier");
+  const etiquettes = el("div", "etiquettes");
+  const f = d.feuilleton && feuilletons.find((x) => x.id === d.feuilleton);
+  if (f) etiquettes.append(boutonFeuilleton(f.id, f.titre));
+  if (etiquettes.children.length) div.append(etiquettes);
+  div.append(el("h3", "", d.titre), el("p", "chapeau", d.chapeau));
+
+  const details = el("details");
+  details.append(el("summary", "", "Lire le dossier"));
+  const analyse = el("div", "analyse");
+  for (const p of (d.analyse || "").split(/\n\s*\n/)) if (p.trim()) analyse.append(el("p", "", p.trim()));
+  details.append(analyse);
+  const liste = (titre, elements) => {
+    if (!elements?.length) return;
+    details.append(el("h4", "", titre));
+    const ul = el("ul");
+    for (const x of elements) ul.append(el("li", "", x));
+    details.append(ul);
+  };
+  liste("Points clés", d.points_cles);
+  liste("Ce qui reste incertain", d.incertitudes);
+  if (d.sources?.length) {
+    details.append(el("h4", "", `Articles lus par l'agent (${d.sources.length})`));
+    const ul = el("ul", "sources");
+    for (const s of d.sources) {
+      const li = el("li");
+      li.append(lienExterne(s.titre || s.lien, s.lien), document.createTextNode(` — ${s.source}`));
+      ul.append(li);
+    }
+    details.append(ul);
+  }
+  const enquete = el("div", "enquete");
+  enquete.append(el("strong", "", "Comment l'agent a enquêté : "),
+    document.createTextNode(`${d.pourquoi || ""} Angle : ${d.angle || "—"}. `
+      + `Recherches : ${(d.requetes || []).map((r) => `« ${r} »`).join(", ") || "—"} `
+      + `(${d.tours || 1} tour${(d.tours || 1) > 1 ? "s" : ""}).`));
+  details.append(enquete);
+  div.append(details);
+  return div;
+}
+async function chargerDossiers(date) {
+  const section = $("dossiers");
+  section.hidden = true;
+  let donnees, memoire;
+  try {
+    [donnees, memoire] = await Promise.all([lireJSON(URLS.dossiers(date)), chargerMemoire().catch(() => ({ feuilletons: [] }))]);
+  } catch { return; }
+  if (date !== jourActif || !donnees || donnees.vide) return;  // l'utilisateur a changé de jour entre-temps
+  const feuilletons = memoire?.feuilletons || [];
+  $("liste-dossiers").replaceChildren(...(donnees.dossiers || []).map((d) => carteDossier(d, feuilletons)));
+  const journal = donnees.journal || [];
+  $("journal-agent").hidden = !journal.length;
+  $("titre-journal").textContent = `Journal de l'agent : ses décisions pas à pas (${donnees.appels || 0} appels à l'IA)`;
+  $("lignes-journal").replaceChildren(...journal.map((l) => el("li", "", l)));
+  section.hidden = !(donnees.dossiers?.length || journal.length);
+}
+
+// ===== Feuilletons (mémoire de l'agent) =====
+function carteFeuilleton(f) {
+  const div = el("article", "feuilleton");
+  div.id = "feuilleton-" + f.id;
+  const tete = el("div", "tete");
+  tete.append(el("h3", "", f.titre), el("span", "statut" + (f.statut === "actif" ? " actif" : ""), f.statut));
+  for (const code of f.regions || []) {
+    const r = REGIONS[code];
+    if (!r) continue;
+    const tag = el("span", "tag-region", r.code);
+    tag.style.setProperty("--teinte", r.teinte);
+    tete.append(tag);
+  }
+  const nbJours = new Set((f.evenements || []).map((e) => e.date)).size;
+  tete.append(el("span", "depuis", `depuis le ${fmt(dateLocale(f.debut), { day: "numeric", month: "long" })} · ${nbJours} jour${nbJours > 1 ? "s" : ""} d'actualité`));
+  div.append(tete, el("p", "", f.resume));
+  const chrono = el("ol", "chronologie");
+  for (const e of [...(f.evenements || [])].reverse()) {
+    const li = el("li");
+    const jour = libelleJour(e.date);
+    li.append(el("span", "quand", jour[0].toUpperCase() + jour.slice(1)), el("span", "quoi", e.texte));
+    const articles = el("div", "articles");
+    for (const a of (e.articles || []).slice(0, 4)) articles.append(lienExterne(`${a.titre} — ${a.source}`, a.lien));
+    li.append(articles);
+    chrono.append(li);
+  }
+  div.append(chrono);
+  return div;
+}
+async function montrerFeuilletons(idCible) {
+  ouvrirVueAnnexe("vue-feuilletons", idCible ? `#feuilletons/${idCible}` : "#feuilletons");
+  let memoire;
+  try { memoire = await chargerMemoire(); }
+  catch (e) { toast("Feuilletons indisponibles : " + e.message, true); return; }
+  const tous = memoire?.feuilletons || [];
+  const actifs = tous.filter((f) => f.statut === "actif");
+  const autres = tous.filter((f) => f.statut !== "actif");
+  $("maj-feuilletons").textContent = memoire?.maj ? `Mémoire mise à jour le ${fmt(dateLocale(memoire.maj), { day: "numeric", month: "long" })} · ${actifs.length} feuilleton${actifs.length > 1 ? "s" : ""} en cours` : "";
+  $("feuilletons-actifs").replaceChildren(...actifs.map(carteFeuilleton));
+  $("aucun-feuilleton").hidden = tous.length > 0;
+  $("feuilletons-autres").hidden = !autres.length;
+  $("titre-feuilletons-autres").textContent = `En sommeil ou terminés (${autres.length})`;
+  $("liste-feuilletons-autres").replaceChildren(...autres.map(carteFeuilleton));
+  if (idCible) {
+    const cible = document.getElementById("feuilleton-" + idCible);
+    if (cible) {
+      if (cible.closest("details")) cible.closest("details").open = true;
+      cible.classList.add("surligne");
+      cible.scrollIntoView({ block: "start" });
+    }
+  }
+}
+async function majCompteFeuilletons() {
+  try {
+    const m = await chargerMemoire();
+    const n = (m?.feuilletons || []).filter((f) => f.statut === "actif").length;
+    $("compte-feuilletons").hidden = n === 0;
+    $("compte-feuilletons").textContent = String(n);
+  } catch {}
+}
+$("ouvrir-feuilletons").addEventListener("click", () => montrerFeuilletons());
+
 $("ouvrir-favoris").addEventListener("click", montrerFavoris);
 $("ouvrir-tendances").addEventListener("click", montrerTendances);
 $("actualiser-tendances").addEventListener("click", actualiserTendances);

@@ -37,7 +37,7 @@ concurrency:
 jobs:
   veille:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 50 # veille + mémoire + enquêtes du rédacteur : ~20 min avec les pauses Groq
     environment:
       name: github-pages
       url: ${{ steps.publication.outputs.page_url }}
@@ -73,6 +73,18 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: uv run python agent.py
+
+      - name: Mettre à jour la mémoire des feuilletons
+        if: steps.decision.outputs.lancer == 'true'
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: uv run python memoire.py
+
+      - name: Rédacteur en chef (enquêtes et dossiers du jour)
+        if: steps.decision.outputs.lancer == 'true'
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: uv run python redacteur.py
 
       - name: Analyser les tendances de la semaine
         if: steps.decision.outputs.lancer == 'true'
