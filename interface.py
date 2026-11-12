@@ -11,6 +11,7 @@ N'utilise que la bibliothèque standard de Python : un petit serveur web sert la
     POST /api/chat                               -> question à l'agent du chat (chat.py)
     GET  /api/memoire                            -> feuilletons suivis (memoire.py)
     GET  /api/dossiers?date=AAAA-MM-JJ           -> dossiers du rédacteur en chef (redacteur.py)
+    GET  /api/analyse?date=AAAA-MM-JJ            -> « ce qui change » : agent interprète (interprete.py)
     GET  /api/index                              -> tous les articles de l'historique (recherche)
     GET  /api/tendances                          -> tendances de la semaine (tendances.py)
     POST /api/tendances/actualiser               -> relance l'agent tendances
@@ -123,6 +124,18 @@ def lire_dossiers(date: str) -> dict | None:
         return None
 
 
+DOSSIER_ANALYSES = Path(__file__).parent / "cerveau" / "analyses"
+
+
+def lire_analyse(date: str) -> dict | None:
+    if not FORMAT_DATE.fullmatch(date or ""):  # format strict : pas de « ../ »
+        return None
+    try:
+        return json.loads((DOSSIER_ANALYSES / f"analyse-{date}.json").read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return None
+
+
 def lire_tendances() -> dict | None:
     try:
         return json.loads(tendances.FICHIER_TENDANCES.read_text(encoding="utf-8"))
@@ -180,6 +193,9 @@ class Gestionnaire(BaseHTTPRequestHandler):
         elif adresse.path == "/api/dossiers":
             date = parse_qs(adresse.query).get("date", [""])[0]
             self._json(200, lire_dossiers(date) or {"vide": True})
+        elif adresse.path == "/api/analyse":
+            date = parse_qs(adresse.query).get("date", [""])[0]
+            self._json(200, lire_analyse(date) or {"vide": True})
         elif adresse.path == "/api/index":
             self._json(200, {"articles": index_recherche()})
         elif adresse.path == "/api/tendances":

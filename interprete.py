@@ -381,8 +381,13 @@ def interpreter(etat: EtatInterprete) -> dict:
             f"Signal ({s['type']}) : {s['constat']}\n\nExtraits :\n" + "\n".join(f"- {e}" for e in extraits)
         )
         r = _modele(Redaction, 1500).invoke(consigne)
-        sources = [re.sub(r"^\[[^\]]+\]\s*", "", e).split("**")[1] if "**" in e else e[:120]
-                   for e in extraits[:5]]
+        index = _index_articles()
+        sources = []
+        for e in extraits[:5]:
+            titre = re.sub(r"^\[[^\]]+\]\s*", "", e).split("**")[1] if "**" in e else e[:120]
+            trouve = index.get(" ".join(titre.split()).casefold(), {})
+            sources.append({"titre": titre.strip(), "lien": trouve.get("lien", ""),
+                            "source": trouve.get("source", "")})
         analyses.append({"signal": s["type"], "titre": r.titre.strip(), "constat": r.constat.strip(),
                          "pourquoi": r.pourquoi.strip(), "a_surveiller": r.a_surveiller.strip(),
                          "entites": s["entites"], "sources": sources})
@@ -391,6 +396,20 @@ def interpreter(etat: EtatInterprete) -> dict:
 
 
 # --------------------------------------------------------------------------- publier
+
+
+def _index_articles() -> dict[str, dict]:
+    """Titre (minuscules) → article de veille (lien, média), pour relier les sources."""
+    index = {}
+    for f in (RACINE / "veilles").glob("veille-ia-*.json"):
+        d = json.loads(f.read_text(encoding="utf-8"))
+        for theme in d.get("themes", []):
+            for a in theme.get("articles", []):
+                for cle in (a.get("titre"), a.get("titre_fr")):
+                    if cle:
+                        index.setdefault(" ".join(cle.split()).casefold(),
+                                         {"lien": a.get("lien", ""), "source": a.get("source", "")})
+    return index
 
 
 def _nom_note(label: str) -> str:
@@ -421,7 +440,12 @@ def publier(etat: EtatInterprete) -> dict:
         lignes += [f"## {a['titre']}", "", f"*Signal : {a['signal']}* · {liens}", "",
                    f"**Constat.** {a['constat']}", "", f"**Pourquoi c'est important.** {a['pourquoi']}",
                    "", f"**À surveiller.** {a['a_surveiller']}", "", "Articles :"]
-        lignes += [f"- {s}" for s in a["sources"]] + [""]
+        for s in a["sources"]:
+            titre = s["titre"].replace("[", "(").replace("]", ")")
+            lien = s["lien"] if s["lien"].startswith(("https://", "http://")) else ""
+            lignes.append(f"- [{titre}]({lien})" + (f" ({s['source']})" if s["source"] else "")
+                          if lien else f"- {titre}")
+        lignes.append("")
     NOTES_ANALYSES.mkdir(parents=True, exist_ok=True)
     note = NOTES_ANALYSES / f"Analyse du {jour}.md"
     note.write_text("\n".join(lignes) + "\n", encoding="utf-8")

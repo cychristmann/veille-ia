@@ -293,6 +293,29 @@
   .acteur .delta { color: var(--texte-3); font-variant-numeric: tabular-nums; white-space: nowrap; }
   .acteur .delta.plus { color: var(--accent); font-weight: 600; }
 
+  /* ---------- Ce qui change (agent interprète) ---------- */
+  .analyses { margin-top: 18px; }
+  .analyses > .tete-rubrique small { color: var(--texte-3); }
+  .analyse-carte {
+    padding: 18px 22px; border-radius: 16px; margin-bottom: 14px;
+    background: var(--surface); border: 1px solid var(--bordure); box-shadow: var(--ombre-1);
+  }
+  .analyse-carte .etiquettes { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; align-items: center; }
+  .analyse-carte .signal {
+    padding: 2px 9px; border-radius: 999px; font-size: .74rem; font-weight: 700;
+    color: var(--texte-2); background: var(--surface-2); text-transform: uppercase; letter-spacing: .03em;
+  }
+  .analyse-carte h3 { margin: 0; font-size: 1.1rem; line-height: 1.35; overflow-wrap: anywhere; }
+  .analyse-carte p { margin: 10px 0 0; line-height: 1.65; max-width: 85ch; overflow-wrap: anywhere; }
+  .analyse-carte p strong { color: var(--texte); }
+  .analyse-carte details { margin-top: 10px; }
+  .analyse-carte details > summary { cursor: pointer; font-weight: 600; color: var(--accent); font-size: .88rem; }
+  .analyse-carte ul { margin: 8px 0 0; padding-left: 20px; font-size: .9rem; }
+  .analyse-carte ul li { margin-bottom: 4px; overflow-wrap: anywhere; }
+  .analyse-carte ul a { color: var(--texte); }
+  .analyse-carte ul a:hover { color: var(--accent); }
+  .analyses .avertissement { font-size: .8rem; color: var(--texte-3); margin: 0 0 10px; }
+
   /* ---------- Dossiers du rédacteur en chef ---------- */
   .dossiers { margin-top: 18px; }
   .dossiers > .tete-rubrique small { color: var(--texte-3); }
@@ -783,6 +806,15 @@
           </details>
         </section>
 
+        <section class="analyses" id="analyses" hidden>
+          <div class="tete-rubrique">
+            <h2><span class="icone-theme" style="--teinte: 196"><svg class="icone" data-icone="boussole"></svg></span>Ce qui change</h2>
+            <small>lecture du graphe sur 7 jours par l'agent interprète · commun aux trois régions</small>
+          </div>
+          <p class="avertissement">Analyses automatiques à partir des articles cités : à vérifier avant de les reprendre.</p>
+          <div id="liste-analyses"></div>
+        </section>
+
         <section class="top" id="top" hidden>
           <h2><svg class="icone" data-icone="etincelles"></svg>À lire en priorité<small id="top-note"></small></h2>
           <ol id="liste-top"></ol>
@@ -1074,6 +1106,7 @@ const URLS = STATIQUE
       tendances: "donnees/tendances.json",
       memoire: "donnees/memoire.json",
       dossiers: (d) => `donnees/dossiers-${encodeURIComponent(d)}.json`,
+      analyse: (d) => `donnees/analyse-${encodeURIComponent(d)}.json`,
     }
   : {
       jours: "/api/veilles",
@@ -1083,6 +1116,7 @@ const URLS = STATIQUE
       tendances: "/api/tendances",
       memoire: "/api/memoire",
       dossiers: (d) => `/api/dossiers?date=${encodeURIComponent(d)}`,
+      analyse: (d) => `/api/analyse?date=${encodeURIComponent(d)}`,
     };
 const SVG = "http://www.w3.org/2000/svg";
 function icone(nom) {
@@ -1317,6 +1351,7 @@ function afficherVeille() {
   $("synthese").textContent = veille.synthese;
   afficherVerification(veille.verification);
   chargerDossiers(jourActif);
+  chargerAnalyse(jourActif);
   afficherTop(veille.top);
   afficherRubrique("videos", veille.videos);
   afficherRubrique("podcasts", veille.podcasts);
@@ -1993,6 +2028,65 @@ async function chargerDossiers(date) {
   $("titre-journal").textContent = `Journal de l'agent : ses décisions pas à pas (${donnees.appels || 0} appels à l'IA)`;
   $("lignes-journal").replaceChildren(...journal.map((l) => el("li", "", l)));
   section.hidden = !(donnees.dossiers?.length || journal.length);
+}
+
+// ===== Ce qui change (agent interprète) =====
+const NOMS_SIGNAUX = {
+  "montée": "En hausse", "nouveauté": "Nouveau", "lien nouveau": "Lien nouveau",
+  "écart régional": "Écart entre régions", "déclin": "En recul",
+};
+function carteAnalyse(a) {
+  const div = el("article", "analyse-carte");
+  const etiquettes = el("div", "etiquettes");
+  etiquettes.append(el("span", "signal", NOMS_SIGNAUX[a.signal] || a.signal || "Signal"));
+  for (const entite of a.entites || []) {
+    const b = el("button", "lien-feuilleton");
+    b.type = "button";
+    b.title = `Chercher « ${entite} » dans tout l'historique`;
+    b.append(icone("loupe"), el("span", "", entite));
+    b.addEventListener("click", () => rechercherHistorique(entite));
+    etiquettes.append(b);
+  }
+  div.append(etiquettes, el("h3", "", a.titre));
+  const bloc = (parent, titre, texte) => {
+    if (!texte) return;
+    const p = el("p");
+    p.append(el("strong", "", titre + " "), document.createTextNode(texte));
+    parent.append(p);
+  };
+  bloc(div, "Constat.", a.constat);
+  // Le reste est replié pour garder la page courte sur téléphone.
+  const details = el("details");
+  details.append(el("summary", "", "Lire la suite"));
+  bloc(details, "Pourquoi c'est important.", a.pourquoi);
+  bloc(details, "À surveiller.", a.a_surveiller);
+  div.append(details);
+  const sources = (a.sources || []).filter((s) => s && (s.titre || typeof s === "string"));
+  if (sources.length) {
+    details.append(el("p", "", `Articles à l'appui (${sources.length}) :`));
+    const ul = el("ul");
+    for (const s of sources) {
+      const li = el("li");
+      if (typeof s === "string") li.textContent = s;  // anciennes analyses : titre seul
+      else {
+        li.append(lienExterne(s.titre, s.lien));
+        if (s.source) li.append(document.createTextNode(` — ${s.source}`));
+      }
+      ul.append(li);
+    }
+    details.append(ul);
+  }
+  return div;
+}
+async function chargerAnalyse(date) {
+  const section = $("analyses");
+  section.hidden = true;
+  let donnees;
+  try { donnees = await lireJSON(URLS.analyse(date)); } catch { return; }
+  if (date !== jourActif || !donnees || donnees.vide || !donnees.analyses?.length) return;
+  $("liste-analyses").replaceChildren(...donnees.analyses.map(carteAnalyse));
+  remplirIcones(section);
+  section.hidden = false;
 }
 
 // ===== Feuilletons (mémoire de l'agent) =====

@@ -15,7 +15,8 @@ import shutil
 from pathlib import Path
 
 from agent import DOSSIER_RAPPORTS
-from interface import _fichiers_veille, etat_sources, index_recherche, lire_tendances, liste_veilles
+from interface import (DOSSIER_ANALYSES, _fichiers_veille, etat_sources, index_recherche,
+                       lire_tendances, liste_veilles)
 
 RACINE = Path(__file__).parent
 SITE = RACINE / "site"
@@ -108,6 +109,9 @@ def construire() -> int:
     for fichier in list(DOSSIER_RAPPORTS.glob("dossiers-*.json")) + [DOSSIER_RAPPORTS / "memoire.json"]:
         if fichier.is_file():
             shutil.copy(fichier, SITE / "donnees" / fichier.name)
+    # Analyses de l'agent interprète (« Ce qui change »).
+    for fichier in DOSSIER_ANALYSES.glob("analyse-*.json"):
+        shutil.copy(fichier, SITE / "donnees" / fichier.name)
     return len(fichiers)
 
 
