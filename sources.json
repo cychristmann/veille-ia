@@ -11,13 +11,11 @@
       "Le Figaro (High-Tech)": "https://www.lefigaro.fr/rss/figaro_secteur_high-tech.xml"
     },
     "us": {
-      "FourWeekMBA": "https://fourweekmba.com/feed/",
       "https://tech-insider.org/": "https://tech-insider.org/feed/",
       "The Information": "https://www.theinformation.com/feed",
       "Cisco Blogs": "https://blogs.cisco.com/feed",
       "24/7 Wall St.": "https://247wallst.com/feed/",
       "SC Media": "https://www.scworld.com/rss",
-      "Substack": "https://douglevin.substack.com/feed",
       "SiliconANGLE": "https://siliconangle.com/feed",
       "The Guardian (IA)": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
       "The Decoder": "https://the-decoder.com/feed/",
@@ -28,5 +26,7 @@
     "cn": {}
   },
   "propositions": [],
-  "refusees": []
+  "refusees": [
+    "fourweekmba.com"
+  ]
 }
