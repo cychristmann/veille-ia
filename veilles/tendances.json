@@ -1,146 +1,112 @@
 {
-  "genere_a": "2026-11-12T06:31+01:00",
+  "genere_a": "2026-11-13T07:42+01:00",
   "periode": {
     "du": "2026-11-08",
-    "au": "2026-11-12",
-    "jours": 5
+    "au": "2026-11-13",
+    "jours": 6
   },
   "precedente_jours": 0,
   "regions": [
     "cn",
+    "dev",
     "fr",
     "us"
   ],
-  "synthese": "La semaine a été marquée par une flambée des financements IA, avec Anthropic au centre d’une IPO très attendue et des levées de fonds record aux États-Unis et en Europe. La régulation s’intensifie : la France et l’Australie envisagent des cadres pour l’usage chez les enfants, plusieurs États américains débattent de lois sur la transparence et la publicité trompeuse, tandis que la Chine pousse à la scission d’unités de puces IA. Les géants technologiques lancent de nouveaux modèles (Claude Fable 5.2, Mythos 5.2, Gemini 4 Carbon) et explorent l’IA physique (robots, agents). Les tensions autour de Nvidia s’accentuent avec des discussions de conseil d’administration, et les débats sur la sécurité et le contrôle des IA (kill‑switch, Hinton) restent vifs. Enfin, la vision de Baidu sur les « organisations intelligentes » et les projets d’agents IA de ByteDance annoncent une nouvelle phase d’intégration de l’IA dans les entreprises.",
+  "synthese": "La période récente a été marquée par une immense effervescence financière et géopolitique autour de l'intelligence artificielle, dominée par la crise de gouvernance chez Nvidia et la démission de son PDG Jensen Huang. Cet événement a provoqué des ondes de choc sur les marchés boursiers, entraînant une chute des actions technologiques et chinoises tout en exacerbant les craintes de pénurie de puces. En parallèle, Anthropic a capté l'attention mondiale avec le lancement de ses modèles Fable 5.2 et Mythos 5.2, ainsi qu'avec des projets d'introduction en bourse et des valorisations record. Les géants comme Google, OpenAI et Microsoft continuent de déployer de nouveaux agents IA et des fonctionnalités avancées, tandis que les questions de régulation, de sécurité et de consommation énergétique des data-centers restent au cœur des préoccupations. Enfin, l'écosystème de développement a progressé rapidement, notamment grâce aux innovations dans les agents de codage et le calcul cloud.",
   "montants": [
     {
-      "nom": "Anthropic IPO",
-      "explication": "Anthropic attire l’attention avec des prévisions de valorisation record et des dépenses en hausse de 79 % en octobre, suscitant des débats sur une possible bulle IA. Cette dynamique financière alimente les attentes du marché pour une entrée en bourse majeure.",
-      "regions": [
-        "us",
-        "fr",
-        "cn"
-      ]
-    },
-    {
-      "nom": "Régulation IA en Europe et US",
-      "explication": "La France et l’Australie proposent des cadres restrictifs pour l’usage de l’IA chez les enfants, tandis que plusieurs États américains (Ohio, Pennsylvanie) adoptent ou débattent de lois sur la transparence et la publicité trompeuse, reflétant une montée des préoccupations législatives.",
+      "nom": "Crise de gouvernance chez Nvidia",
+      "explication": "Le départ soudain du PDG Jensen Huang, sur fond d'enquêtes et de révélations personnelles, a ébranlé le marché mondial des puces et fait chuter les actions du secteur. Cette situation relance les inquiétudes sur la chaîne d'approvisionnement et les restrictions à l'exportation vers la Chine.",
       "regions": [
         "fr",
-        "us"
-      ]
-    },
-    {
-      "nom": "Scission et IPO de puces IA en Chine",
-      "explication": "Alibaba scinde son unité Pingtouge pour une IPO indépendante, et d’autres acteurs comme T‑Head déposent des dossiers d’introduction en bourse, indiquant un renforcement de l’écosystème matériel IA chinois.",
-      "regions": [
+        "us",
         "cn"
       ]
     },
     {
-      "nom": "Nouveaux modèles IA ultra‑puissants",
-      "explication": "Anthropic lance Claude Fable 5.2 et Mythos 5.2, Google ouvre Gemini 4 Carbon, et OpenAI ajoute des profils d’entreprise et des agents, montrant une course à la puissance et à la spécialisation des modèles.",
+      "nom": "Montée en puissance d'Anthropic",
+      "explication": "L'entreprise enchaîne les lancements majeurs avec les modèles Fable 5.2 et Mythos 5.2, tout en préparant une introduction en bourse massive visant des valorisations historiques. Son trafic record et ses investissements en forte hausse en font un acteur central de la compétition face à OpenAI et Google.",
       "regions": [
-        "us",
         "fr",
-        "cn"
-      ]
-    },
-    {
-      "nom": "Vision des organisations intelligentes",
-      "explication": "Baidu, via Robin Li, promeut le passage des grands modèles à des « organisations intelligentes », signalant une évolution vers l’intégration de l’IA dans la structure même des entreprises.",
-      "regions": [
-        "cn"
-      ]
-    },
-    {
-      "nom": "Débats sur la sécurité et le contrôle de l’IA",
-      "explication": "Des figures comme Hinton réclament des contrôles avant diffusion, OpenAI dévoile un kill‑switch, et les législateurs américains envisagent des restrictions, reflétant une préoccupation croissante pour les risques d’IA hors‑contrôle.",
-      "regions": [
         "us",
-        "fr"
+        "cn"
+      ]
+    },
+    {
+      "nom": "Progrès des agents de codage et d'infrastructure",
+      "explication": "Les outils de développement s'améliorent avec des capacités de changement dynamique de modèles et des modes multijoueurs, réduisant les temps de tâche. Parallèlement, la demande en puissance de calcul soutient de nouveaux projets d'infrastructure cloud et de data-centers, malgré les risques de pénurie matérielle.",
+      "regions": [
+        "dev",
+        "us",
+        "cn"
       ]
     }
   ],
   "retombes": [
     {
-      "nom": "Scandale espionnage Nvidia",
-      "explication": "Les enquêtes sur des liens supposés entre le PDG de Nvidia et une espionne chinoise dominaient les titres le 8 novembre, mais ils ont disparu des discussions récentes, indiquant un désintérêt ou une résolution du sujet.",
+      "nom": "Débats sur les data-centres et l'environnement",
+      "explication": "Initialement très présents en début de période autour de la consommation énergétique, ces sujets ont été eclipsés par la crise financière de Nvidia et l'actualité bouillante des introductions en bourse.",
       "regions": [
-        "fr"
-      ]
-    },
-    {
-      "nom": "Débat sur le « cocktail sexe‑espionnage‑bulle IA »",
-      "explication": "Ce thème sensationnel était présent dans les titres du 8 novembre mais n’apparaît plus, montrant qu’il a perdu de l’attention au profit de sujets plus structurels.",
-      "regions": [
-        "fr"
-      ]
-    },
-    {
-      "nom": "Discussion sur les investissements IA de 2000 (Cisco)",
-      "explication": "Une référence historique aux cours de Cisco en 2000 a été citée le 8 novembre, mais n’est plus mentionnée, signalant un retour aux actualités plus contemporaines.",
-      "regions": [
+        "fr",
         "us"
       ]
     }
   ],
   "a_surveiller": [
-    "L’évolution de l’IPO d’Anthropic et son impact sur le marché des IA.",
-    "Les nouvelles législations américaines et européennes sur la transparence et la publicité IA.",
-    "Les progrès de la scission d’unités de puces IA en Chine et leurs effets sur la chaîne d’approvisionnement.",
-    "Les réactions du conseil d’administration de Nvidia face aux tensions internes.",
-    "Le déploiement d’agents IA par ByteDance et la concrétisation de la vision d’organisations intelligentes de Baidu."
+    "L'évolution de l'introduction en bourse d'Anthropic et son impact psychologique sur la bulle des investissements en IA.",
+    "Les répercussions à long terme de la transition de direction chez Nvidia sur le marché mondial des semi-conducteurs.",
+    "La mise en place concrète des nouvelles régulations gouvernementales concernant la sécurité et l'usage de l'IA.",
+    "L'adoption et la fiabilité des nouveaux agents de codage et des assistants multilingues par les entreprises."
   ],
   "acteurs": [
     {
       "nom": "Anthropic",
-      "mentions": 55,
+      "mentions": 70,
       "mentions_precedentes": 0
     },
     {
       "nom": "Nvidia",
+      "mentions": 55,
+      "mentions_precedentes": 0
+    },
+    {
+      "nom": "Google",
       "mentions": 34,
       "mentions_precedentes": 0
     },
     {
       "nom": "OpenAI",
-      "mentions": 16,
-      "mentions_precedentes": 0
-    },
-    {
-      "nom": "Google",
-      "mentions": 16,
-      "mentions_precedentes": 0
-    },
-    {
-      "nom": "Meta",
-      "mentions": 12,
-      "mentions_precedentes": 0
-    },
-    {
-      "nom": "Apple",
-      "mentions": 12,
+      "mentions": 22,
       "mentions_precedentes": 0
     },
     {
       "nom": "Microsoft",
-      "mentions": 9,
+      "mentions": 18,
       "mentions_precedentes": 0
     },
     {
       "nom": "Amazon",
-      "mentions": 5,
+      "mentions": 18,
+      "mentions_precedentes": 0
+    },
+    {
+      "nom": "Meta",
+      "mentions": 14,
+      "mentions_precedentes": 0
+    },
+    {
+      "nom": "Apple",
+      "mentions": 13,
       "mentions_precedentes": 0
     },
     {
       "nom": "xAI",
-      "mentions": 5,
+      "mentions": 8,
       "mentions_precedentes": 0
     },
     {
       "nom": "Alibaba",
-      "mentions": 4,
+      "mentions": 5,
       "mentions_precedentes": 0
     },
     {
@@ -155,7 +121,7 @@
     },
     {
       "nom": "DeepSeek",
-      "mentions": 1,
+      "mentions": 2,
       "mentions_precedentes": 0
     },
     {
