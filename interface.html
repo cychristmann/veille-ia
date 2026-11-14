@@ -16,7 +16,7 @@
     --surface-2: #edf3fa;
     --texte: #0b1f3f;
     --texte-2: #3b5278;
-    --texte-3: #7589a6;
+    --texte-3: #586c8c;
     --bordure: #dbe4f0;
     --bordure-forte: #c2d1e4;
     --bleu-clair: #3b9ff0;
@@ -43,7 +43,7 @@
       --surface-2: #182640;
       --texte: #e8f0fb;
       --texte-2: #a9bbd6;
-      --texte-3: #6f84a6;
+      --texte-3: #8496b6;
       --bordure: #22304a;
       --bordure-forte: #30425f;
       --bleu-clair: #8fd0ff;
@@ -70,7 +70,7 @@
     --surface-2: #182640;
     --texte: #e8f0fb;
     --texte-2: #a9bbd6;
-    --texte-3: #6f84a6;
+    --texte-3: #8496b6;
     --bordure: #22304a;
     --bordure-forte: #30425f;
     --bleu-clair: #8fd0ff;
@@ -512,18 +512,32 @@
   }
   .alerte svg.icone { margin-top: 2px; }
 
-  .stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; margin-top: 24px; }
-  .stat {
-    display: flex; align-items: center; gap: 14px; padding: 16px 18px; border-radius: 14px;
-    background: var(--surface); border: 1px solid var(--bordure); box-shadow: var(--ombre-1);
+  /* Chiffres du jour : une ligne discrète (ils n'aident pas à choisir quoi lire). */
+  .stats { display: flex; flex-wrap: wrap; gap: 2px 16px; margin: 14px 0 0; font-size: .85rem; color: var(--texte-3); }
+  .stats b { color: var(--texte-2); font-weight: 600; font-variant-numeric: tabular-nums; }
+
+  /* Raccourcis vers les rubriques de la page */
+  .sauts { display: flex; gap: 8px; margin: 16px 0 0; overflow-x: auto; scrollbar-width: none; padding-bottom: 2px; }
+  .sauts::-webkit-scrollbar { display: none; }
+  .sauts button {
+    flex: none; display: inline-flex; align-items: center; gap: 6px; min-height: 40px; padding: 0 14px;
+    border-radius: 999px; border: 1px solid var(--bordure); background: var(--surface); color: var(--texte-2);
+    font: inherit; font-size: .88rem; font-weight: 600; cursor: pointer;
   }
-  .stat .rond {
-    display: grid; place-items: center; width: 40px; height: 40px; border-radius: 11px; flex: none;
-    color: hsl(var(--teinte) var(--sat) var(--lum-icone)); background: hsl(var(--teinte) var(--sat) var(--lum-fond));
+  .sauts button:hover { color: var(--accent); border-color: var(--bordure-forte); }
+  .sauts button.principal { color: var(--accent-texte); border-color: transparent; background: linear-gradient(135deg, var(--bleu-clair), var(--bleu-marine)); }
+  .sauts button svg.icone { width: 15px; height: 15px; }
+  /* Rubriques visées par un raccourci : ne pas glisser sous la barre de recherche collante. */
+  #top, #bloc-synthese, #analyses, #dossiers, #rubrique-videos, #zone-articles { scroll-margin-top: 12px; }
+
+  /* Retour en haut, dans la zone du pouce */
+  .remonter {
+    position: fixed; right: 16px; bottom: 18px; z-index: 30; display: grid; place-items: center;
+    width: 48px; height: 48px; border-radius: 50%; cursor: pointer;
+    color: var(--texte); background: var(--surface); border: 1px solid var(--bordure-forte); box-shadow: var(--ombre-2);
   }
-  .stat .rond svg.icone { width: 20px; height: 20px; }
-  .stat b { display: block; font-size: 1.5rem; line-height: 1.1; letter-spacing: -.02em; font-variant-numeric: tabular-nums; }
-  .stat span { font-size: .82rem; color: var(--texte-3); }
+  .remonter[hidden] { display: none; }
+  .remonter svg.icone { width: 20px; height: 20px; }
 
   .synthese {
     position: relative; margin-top: 18px; padding: 22px 26px; border-radius: 16px;
@@ -730,8 +744,33 @@
     .entete-mobile strong { font-size: 1rem; }
     .page { padding: 20px 16px 64px; }
     .outils { margin: 18px -16px 0; padding: 12px 16px 10px; }
-    .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
     .puces { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; scrollbar-width: none; }
+    /* Lecture du matin sur téléphone : les priorités et les articles d'abord, les rubriques
+       de fond (synthèse, analyses, dossiers, vidéos, podcasts, consommation) ensuite. */
+    #vue:not([hidden]) { display: flex; flex-direction: column; }
+    #vue > * { order: 6; min-width: 0; }
+    #vue > .entete { order: 0; }
+    #vue > .note-langue, #vue > .alertes, #vue > .sante { order: 1; align-self: flex-start; }
+    #vue > .alertes { align-self: stretch; }
+    #vue > .stats { order: 2; }
+    #vue > .sauts { order: 3; margin-left: -16px; margin-right: -16px; padding-left: 16px; padding-right: 16px; }
+    #vue > .top { order: 4; }
+    #vue > .zone-articles { order: 5; }
+    #vue > .synthese { order: 7; }
+    #vue > .analyses { order: 8; }
+    #vue > .dossiers { order: 9; }
+    #vue > #rubrique-videos { order: 10; }
+    #vue > #rubrique-podcasts { order: 11; }
+    #vue > .consommation { order: 12; }
+  }
+  @media (pointer: coarse) {
+    .bouton-carte { width: 44px; height: 44px; }
+    .bouton-carte svg.icone { width: 20px; height: 20px; }
+    .puce { min-height: 44px; }
+    .puces-note .puce { padding: 5px 16px; }
+    .regions button { min-height: 48px; }
+    details > summary { min-height: 44px; align-items: center; }
+    .carte .lire { min-height: 44px; }
   }
   @media (prefers-reduced-motion: reduce) {
     *, *::before, *::after { animation: none !important; transition: none !important; }
@@ -781,6 +820,7 @@
     </div>
   </aside>
   <div class="voile" id="voile"></div>
+  <button class="remonter" id="remonter" type="button" hidden aria-label="Revenir en haut de la page" title="Revenir en haut"><svg class="icone" data-icone="haut"></svg></button>
 
   <div class="contenu">
     <div class="entete-mobile">
@@ -814,7 +854,8 @@
           <ul id="sante-liste"></ul>
         </details>
 
-        <div class="stats" id="stats"></div>
+        <p class="stats" id="stats"></p>
+        <nav class="sauts" id="sauts" aria-label="Aller à une rubrique de la page"></nav>
 
         <div class="synthese" id="bloc-synthese">
           <div class="tete-synthese">
@@ -894,6 +935,7 @@
           <div id="contenu-podcasts"></div>
         </section>
 
+        <div class="zone-articles" id="zone-articles">
         <div class="outils" id="outils">
           <label class="recherche">
             <svg class="icone" data-icone="loupe"></svg>
@@ -932,6 +974,7 @@
           <p>L'IA a jugé que ces articles ne parlaient pas vraiment d'intelligence artificielle. Son tri n'est pas parfait : jette un œil.</p>
           <div class="grille" id="grille-ecartes"></div>
         </details>
+        </div>
       </div>
 
       <div id="vue-sources" hidden>
@@ -1115,6 +1158,7 @@ const ICONES = {
   historique: '<path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/><path d="M12 7v5l4 2"/>', // history
   tri: '<path d="m21 16-4 4-4-4"/><path d="M17 20V4"/><path d="m3 8 4-4 4 4"/><path d="M7 4v16"/>', // arrow-up-down
   retour: '<path d="m12 19-7-7 7-7"/><path d="M19 12H5"/>', // arrow-left
+  haut: '<path d="m5 12 7-7 7 7"/><path d="M12 19V5"/>', // arrow-up
 };
 
 // Thème -> (icône, teinte). Le modèle choisit librement les noms : on reconnaît des mots-clés.
@@ -1231,16 +1275,20 @@ function heureArticle(iso, jourVeille) {
 
 // ===== Régions =====
 const REGIONS = {
+  // Outils & code en premier : c'est la section prioritaire du lecteur (PRODUCT.md).
+  dev: { code: "DEV", nom: "Outils & code", sous: "Outils IA, agents, code", teinte: 190, adjectif: "outils & code", medias: "blogs d'outils et médias tech" },
   fr: { code: "FR", nom: "France", sous: "Presse francophone", teinte: 224, adjectif: "francophone", medias: "médias francophones" },
   us: { code: "US", nom: "États-Unis", sous: "Presse américaine", teinte: 202, adjectif: "américaine", medias: "médias américains" },
   cn: { code: "CN", nom: "Chine", sous: "Presse chinoise", teinte: 213, adjectif: "chinoise", medias: "médias chinois" },
-  dev: { code: "DEV", nom: "Outils & code", sous: "Outils IA, agents, code", teinte: 190, adjectif: "outils & code", medias: "blogs d'outils et médias tech" },
 };
 
 // ===== État =====
 let jours = [];          // liste des jours : [{date, regions: {fr: {...}, us: {...}}}]
 let jourActif = null;    // "AAAA-MM-JJ"
-let regionActive = "fr";
+// Section ouverte au lancement : la dernière consultée, sinon Outils & code.
+let sectionRetenue = "dev";
+try { const s = localStorage.getItem("veille-section"); if (s) sectionRetenue = s; } catch {}
+let regionActive = sectionRetenue;
 let veille = null;       // données affichées (un jour, une région)
 let themeActif = "tous";
 
@@ -1292,17 +1340,6 @@ function afficherJours() {
 }
 
 // ===== Contenu d'une veille =====
-function stat(icone_, teinte, valeur, libelle) {
-  const div = el("div", "stat");
-  const rond = el("div", "rond");
-  rond.style.setProperty("--teinte", teinte);
-  rond.append(icone(icone_));
-  const texte = el("div");
-  texte.append(el("b", "", String(valeur)), el("span", "", libelle));
-  div.append(rond, texte);
-  return div;
-}
-
 function carte(article) {
   const div = el("article", "carte");
   const ligne = el("div", "ligne-source");
@@ -1403,11 +1440,12 @@ function afficherVeille() {
 
   const medias = new Set(veille.themes.flatMap((t) => t.articles.map((a) => a.source)));
   const vraisThemes = veille.themes.filter((t) => !/^autres articles$|^articles$/i.test(t.nom)).length;
+  const chiffre = (n, libelle) => { const s = el("span"); s.append(el("b", "", String(n)), document.createTextNode(" " + libelle)); return s; };
   $("stats").replaceChildren(
-    stat("journal", 218, veille.nombre_articles, "articles"),
-    stat("globe", 204, medias.size, "médias différents"),
-    stat("etiquette", 228, vraisThemes, "thèmes"),
-    stat("masque", 210, (veille.ecartes || []).length, "écartés par l'IA"),
+    chiffre(veille.nombre_articles, "articles"),
+    chiffre(medias.size, "médias"),
+    chiffre(vraisThemes, "thèmes"),
+    chiffre((veille.ecartes || []).length, "écartés par l'IA"),
   );
 
   $("bloc-synthese").hidden = !veille.synthese;
@@ -1698,6 +1736,7 @@ async function choisirJour(date, region = regionActive) {
   if (jour && !jour.regions[region]) region = Object.keys(REGIONS).find((c) => jour.regions[c]) || region;
   jourActif = date;
   regionActive = region;
+  try { localStorage.setItem("veille-section", region); } catch {}
   themeActif = "tous";
   $("recherche").value = "";
   history.replaceState(null, "", `#${date}/${region}`);
@@ -1730,7 +1769,7 @@ async function demarrer() {
   if (!jours.length) { afficherJours(); return montrerVide(); }
   const [date, region] = location.hash.slice(1).split("/");  // ex. #2026-11-08/us
   await choisirJour(jours.some((j) => j.date === date) ? date : jours[0].date,
-                    region in REGIONS ? region : "fr");
+                    region in REGIONS ? region : (sectionRetenue in REGIONS ? sectionRetenue : "dev"));
 }
 
 // ===== Lancer la veille =====
@@ -1800,7 +1839,7 @@ window.addEventListener("offline", majConnexion);
 majConnexion();
 
 // ===== Tri et note minimale =====
-let triActif = "theme";
+let triActif = "note";  // les mieux notés d'abord (choix retenu si on le change)
 let noteMin = 0;
 try { const t = localStorage.getItem("veille-tri"); if (["theme", "note", "heure"].includes(t)) triActif = t; } catch {}
 $("tri").value = triActif;
@@ -2153,6 +2192,30 @@ async function chargerAnalyse(date) {
   remplirIcones(section);
   section.hidden = false;
 }
+
+// ===== Raccourcis vers les rubriques, et retour en haut =====
+const SAUTS = [
+  ["zone-articles", "Articles", "journal", true],
+  ["bloc-synthese", "Synthèse", "etincelles"],
+  ["analyses", "Ce qui change", "boussole"],
+  ["dossiers", "Dossiers", "livre"],
+  ["rubrique-videos", "Vidéos", "lecture"],
+];
+const DOUX = !matchMedia("(prefers-reduced-motion: reduce)").matches;
+function majSauts() {
+  $("sauts").replaceChildren(...SAUTS.filter(([id]) => !$(id).hidden).map(([id, nom, ico, principal]) => {
+    const b = el("button", principal ? "principal" : "");
+    b.type = "button";
+    b.append(icone(ico), el("span", "", nom));
+    b.addEventListener("click", () => $(id).scrollIntoView({ behavior: DOUX ? "smooth" : "auto", block: "start" }));
+    return b;
+  }));
+}
+// Les rubriques apparaissent au fil des chargements : on suit leur attribut « hidden ».
+new MutationObserver(majSauts).observe($("vue"), { attributes: true, attributeFilter: ["hidden"], subtree: true });
+majSauts();
+$("remonter").addEventListener("click", () => window.scrollTo({ top: 0, behavior: DOUX ? "smooth" : "auto" }));
+addEventListener("scroll", () => { $("remonter").hidden = scrollY < 900; }, { passive: true });
 
 // ===== État de la nuit (sante.py) =====
 let santeCache = null;

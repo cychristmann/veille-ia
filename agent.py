@@ -899,8 +899,20 @@ NOMBRE_TOP = 5
 
 
 def _top(articles: list[Article]) -> list[Article]:
-    """Les articles les mieux notés du jour (au moins 7/10), pour la rubrique « à lire »."""
-    return [a for a in _par_note(articles) if (a.note or 0) >= 7][:NOMBRE_TOP]
+    """Les articles les mieux notés du jour (au moins 7/10), pour la rubrique « à lire ».
+
+    Deux articles au plus par média : sinon un seul blog très actif (constaté le 14/11/2026 :
+    4 priorités sur 5 venaient du même) occupe toute la rubrique.
+    """
+    retenus, par_source = [], Counter()
+    for article in _par_note(articles):
+        if (article.note or 0) < 7 or par_source[article.source] >= 2:
+            continue
+        par_source[article.source] += 1
+        retenus.append(article)
+        if len(retenus) == NOMBRE_TOP:
+            break
+    return retenus
 
 
 def _article_json(article: Article) -> dict:
