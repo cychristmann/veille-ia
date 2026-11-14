@@ -1,14 +1,16 @@
 ---
 type: community
-members: 1
+members: 3
 ---
 
 # recherche académique en IA
 
-**Members:** 1 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Nanjing University of Aeronautics and Astronautics]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Centre international dédié à l'IA militaire à Rennes]] - concept - feuilletons/f-0023.md
+- [[Feuilleton La France crée un centre international dédié à l'IA militaire à Rennes]] - document - feuilletons/f-0023.md
+- [[IA militaire]] - concept - feuilletons/f-0023.md
 
 ## Live Query (requires Dataview plugin)
 

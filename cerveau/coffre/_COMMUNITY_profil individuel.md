@@ -1,14 +1,16 @@
 ---
 type: community
-members: 1
+members: 3
 ---
 
 # profil individuel
 
-**Members:** 1 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Louis Perez]] - code - veilles/veille-ia-fr-2026-11-09-t3.md
+- [[AI+Manufacturing]] - concept - veilles/veille-ia-cn-2026-11-13-t2.md
+- [[IA et création de contenus courts]] - concept - veilles/veille-ia-cn-2026-11-13-t2.md
+- [[Veille Chine 2026-11-13  Industrie et fabrication]] - document - veilles/veille-ia-cn-2026-11-13-t2.md
 
 ## Live Query (requires Dataview plugin)
 

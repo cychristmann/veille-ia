@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "code"
-community: "suite créative adobe"
+community: "écosystème microsoft"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/suite_créative_adobe
+  - community/écosystème_microsoft
 ---
 
 # Siemens
@@ -14,4 +14,4 @@ tags:
 - [[Roland Busch (博乐仁)]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-10]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/suite_créative_adobe
+#graphify/code #graphify/EXTRACTED #community/écosystème_microsoft

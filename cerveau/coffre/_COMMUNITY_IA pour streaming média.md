@@ -1,14 +1,16 @@
 ---
 type: community
-members: 1
+members: 3
 ---
 
 # IA pour streaming média
 
-**Members:** 1 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[JioHotstar]] - concept - veilles/veille-ia-us-2026-11-11-t4.md
+- [[Veille Outils & code 2026-11-14  Bibliothèques, outils et releases open‑source]] - document - veilles/veille-ia-dev-2026-11-14-t4.md
+- [[XYBench]] - concept - veilles/veille-ia-dev-2026-11-14-t4.md
+- [[agent-desktop]] - concept - veilles/veille-ia-dev-2026-11-14-t4.md
 
 ## Live Query (requires Dataview plugin)
 

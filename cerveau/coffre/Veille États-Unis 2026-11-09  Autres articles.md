@@ -1,23 +1,18 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t6.md"
 type: "document"
-community: "tendances du marché IA"
+community: "actualités de google"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/tendances_du_marché_IA
+  - community/actualités_de_google
 ---
 
 # Veille États-Unis 2026-11-09 : Autres articles
 
 ## Connections
-- [[AI Bitcoin price prediction]] - `references` [EXTRACTED]
-- [[AI chatbot for personal complaints]] - `references` [EXTRACTED]
-- [[Brave Leo AI assistant]] - `references` [EXTRACTED]
-- [[CBP Commerce IT modernization]] - `references` [EXTRACTED]
-- [[Chicago parents Google AI protest]] - `references` [EXTRACTED]
-- [[Effective AI pushback]] - `references` [EXTRACTED]
-- [[Market broadening beyond AI]] - `references` [EXTRACTED]
-- [[Nvidia AI infrastructure alternatives]] - `references` [EXTRACTED]
+- [[Brave]] - `references` [EXTRACTED]
+- [[Google]] - `references` [EXTRACTED]
+- [[NEAR AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/tendances_du_marché_IA
+#graphify/document #graphify/EXTRACTED #community/actualités_de_google

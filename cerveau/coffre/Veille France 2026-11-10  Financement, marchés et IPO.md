@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-10-t2.md"
 type: "document"
-community: "veille ia états-unis"
+community: "infrastructure cloud coreweave"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/veille_ia_états-unis
+  - community/infrastructure_cloud_coreweave
 ---
 
 # Veille France 2026-11-10 : Financement, marchés et IPO
@@ -16,4 +16,4 @@ tags:
 - [[Infineon]] - `references` [EXTRACTED]
 - [[T-Head]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/veille_ia_états-unis
+#graphify/document #graphify/EXTRACTED #community/infrastructure_cloud_coreweave

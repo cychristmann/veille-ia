@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0009.md"
 type: "concept"
-community: "recherche sur l'ia openai"
+community: "stratégie et technologie IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/recherche_sur_lia_openai
+  - community/stratégie_et_technologie_IA
 ---
 
 # Numerama
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[OpenAI]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/recherche_sur_lia_openai
+#graphify/concept #graphify/EXTRACTED #community/stratégie_et_technologie_IA

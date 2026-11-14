@@ -1,17 +1,16 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t3.md"
 type: "concept"
-community: "recherche et applications IA"
+community: "gouvernance et politiques IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/recherche_et_applications_IA
+  - community/gouvernance_et_politiques_IA
 ---
 
 # Google DeepMind
 
 ## Connections
-- [[AlphaGenome 2]] - `references` [EXTRACTED]
-- [[Veille États-Unis 2026-11-11  Outils, plateformes et recherche IA]] - `references` [INFERRED]
+- [[Veille États-Unis 2026-11-11  Applications sectorielles de l'IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/recherche_et_applications_IA
+#graphify/concept #graphify/EXTRACTED #community/gouvernance_et_politiques_IA

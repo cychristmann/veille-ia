@@ -1,16 +1,18 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t4.md"
-type: "concept"
-community: "recherche sur l'ia openai"
+type: "code"
+community: "stratégie et technologie IA"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
-  - community/recherche_sur_lia_openai
+  - community/stratégie_et_technologie_IA
 ---
 
 # ChatGPT
 
 ## Connections
+- [[ChatGPT Wallet]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-11 T4]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/recherche_sur_lia_openai
+#graphify/code #graphify/EXTRACTED #community/stratégie_et_technologie_IA

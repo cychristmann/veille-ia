@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t2.md"
 type: "concept"
-community: "infrastructure cloud coreweave"
+community: "SpaceX"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/infrastructure_cloud_coreweave
+  - community/SpaceX
 ---
 
 # Elon Musk
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[SpaceX]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/infrastructure_cloud_coreweave
+#graphify/concept #graphify/EXTRACTED #community/SpaceX

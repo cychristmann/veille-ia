@@ -1,0 +1,16 @@
+---
+source_file: "veilles/veille-ia-fr-2026-11-14-t4.md"
+type: "concept"
+community: "sécurité et risques IA"
+tags:
+  - graphify/concept
+  - graphify/EXTRACTED
+  - community/sécurité_et_risques_IA
+---
+
+# Sécurité et risques de l'IA
+
+## Connections
+- [[Veille France 2026-11-14  Sécurité, risques et fraudes]] - `conceptually_related_to` [EXTRACTED]
+
+#graphify/concept #graphify/EXTRACTED #community/sécurité_et_risques_IA

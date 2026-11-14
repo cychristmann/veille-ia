@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "code"
-community: "suite créative adobe"
+community: "écosystème microsoft"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/suite_créative_adobe
+  - community/écosystème_microsoft
 ---
 
 # Adobe Firefly
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Adobe Creative Cloud]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/suite_créative_adobe
+#graphify/code #graphify/EXTRACTED #community/écosystème_microsoft

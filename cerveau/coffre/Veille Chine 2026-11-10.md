@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "document"
-community: "suite créative adobe"
+community: "écosystème microsoft"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/suite_créative_adobe
+  - community/écosystème_microsoft
 ---
 
 # Veille Chine 2026-11-10
@@ -16,4 +16,4 @@ tags:
 - [[Microsoft]] - `references` [EXTRACTED]
 - [[Siemens]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/suite_créative_adobe
+#graphify/document #graphify/EXTRACTED #community/écosystème_microsoft

@@ -20,5 +20,8 @@ sources.tmp
 # Deuxième cerveau (cerveau.py) : le coffre et le graphe sont suivis par Git, sauf :
 cerveau/graphify-out/.graphify_root
 cerveau/graphify-out/[0-9]*/
+cerveau/brut/graphify-out/.graphify_root
+cerveau/brut/graphify-out/[0-9]*/
+cerveau/brut/graphify-out/cache/last_query_stamp
 cerveau/coffre/.obsidian/
 cerveau/graphify-out/cache/last_query_stamp

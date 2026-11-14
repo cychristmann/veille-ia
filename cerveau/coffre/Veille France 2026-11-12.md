@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-12-t2.md"
 type: "document"
-community: "cloud et IA d'entreprise"
+community: "modèles IA et éthique"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/cloud_et_IA_dentreprise
+  - community/modèles_IA_et_éthique
 ---
 
 # Veille France 2026-11-12
@@ -13,6 +13,7 @@ tags:
 ## Connections
 - [[Alibaba AI]] - `references` [EXTRACTED]
 - [[Bitcoin Miners AI]] - `references` [EXTRACTED]
+- [[Cortex]] - `references` [EXTRACTED]
 - [[Gemini Decisions]] - `references` [EXTRACTED]
 - [[Google Gemini CarPlay]] - `references` [EXTRACTED]
 - [[Harbor Claris]] - `references` [EXTRACTED]
@@ -23,7 +24,6 @@ tags:
 - [[Naver]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[Omnii Defense]] - `references` [EXTRACTED]
-- [[Snowflake Cortex]] - `references` [EXTRACTED]
 - [[United Airlines]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/cloud_et_IA_dentreprise
+#graphify/document #graphify/EXTRACTED #community/modèles_IA_et_éthique

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t2.md"
 type: "document"
-community: "écosystème Anthropic"
+community: "Anthropic"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/écosystème_Anthropic
+  - community/Anthropic
 ---
 
 # Veille Chine 2026-11-12 : Anthropic et concurrence
@@ -17,4 +17,4 @@ tags:
 - [[华尔街见闻]] - `cites` [EXTRACTED]
 - [[证券之星]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/écosystème_Anthropic
+#graphify/document #graphify/EXTRACTED #community/Anthropic

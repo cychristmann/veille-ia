@@ -1,13 +1,16 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t4.md"
-type: "concept"
-community: "confiance et sécurité IA"
+type: "code"
+community: "stratégie et technologie IA"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
-  - community/confiance_et_sécurité_IA
+  - community/stratégie_et_technologie_IA
 ---
 
 # Trust3 AI
 
-#graphify/concept #graphify/EXTRACTED #community/confiance_et_sécurité_IA
+## Connections
+- [[Veille États-Unis 2026-11-11 T4]] - `references` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/stratégie_et_technologie_IA

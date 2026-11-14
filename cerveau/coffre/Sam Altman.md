@@ -1,16 +1,17 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-09-t3.md"
-type: "code"
-community: "gouvernance et politiques IA"
+source_file: "dossiers/2026-11-14-3.md"
+type: "concept"
+community: "appel de paris"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/gouvernance_et_politiques_IA
+  - community/appel_de_paris
 ---
 
 # Sam Altman
 
 ## Connections
 - [[Appel de Paris]] - `references` [EXTRACTED]
+- [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/gouvernance_et_politiques_IA
+#graphify/concept #graphify/EXTRACTED #community/appel_de_paris

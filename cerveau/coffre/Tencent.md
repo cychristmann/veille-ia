@@ -1,20 +1,17 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-12-t6.md"
+source_file: "dossiers/2026-11-12-2.md"
 type: "concept"
-community: "actualités de google"
+community: "veille outils et code"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/actualités_de_google
+  - community/veille_outils_et_code
 ---
 
 # Tencent
 
 ## Connections
 - [[Claude Code]] - `references` [EXTRACTED]
-- [[Feuilleton Tencent mobilise la moitié de son personnel pour une poussée IA‑native]] - `references` [EXTRACTED]
 - [[IA-native Strategy]] - `references` [EXTRACTED]
-- [[Veille États-Unis 2026-11-10  Marché, concurrence et tendances]] - `references` [EXTRACTED]
-- [[Veille États-Unis 2026-11-12  Applications industrielles et commerciales de l'IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/actualités_de_google
+#graphify/concept #graphify/EXTRACTED #community/veille_outils_et_code

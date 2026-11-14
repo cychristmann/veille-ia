@@ -1,14 +1,16 @@
 ---
 type: community
-members: 1
+members: 3
 ---
 
 # technologie générale IA
 
-**Members:** 1 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Veille États-Unis 2026-11-09  Technologie]] - document - veilles/veille-ia-us-2026-11-09-t3.md
+- [[Gemma 4]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
+- [[Nimble]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
+- [[Ollama]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,14 +1,16 @@
 ---
 type: community
-members: 1
+members: 3
 ---
 
 # perception publique de l'IA
 
-**Members:** 1 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Veille États-Unis 2026-11-08  Perception publique et sociétale]] - document - veilles/veille-ia-us-2026-11-08-t5.md
+- [[Veille Chine 2026-11-11  Régulation et gouvernance]] - document - veilles/veille-ia-cn-2026-11-11-t4.md
+- [[文投控股 (Wentou Holding)]] - concept - veilles/veille-ia-cn-2026-11-11-t4.md
+- [[清华大学人工智能国际治理研究院]] - concept - veilles/veille-ia-cn-2026-11-11-t4.md
 
 ## Live Query (requires Dataview plugin)
 

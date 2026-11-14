@@ -1,41 +1,31 @@
 ---
 type: community
-members: 28
+members: 18
 ---
 
 # avancées matérielles nvidia
 
-**Members:** 28 nodes
+**Members:** 18 nodes
 
 ## Members
-- [[Agent Name Service]] - concept - veilles/veille-ia-cn-2026-11-10-t5.md
-- [[Alice Huang]] - concept - dossiers/2026-11-12-1.md
-- [[Baird]] - concept - feuilletons/f-0001.md
+- [[Baird]] - concept - dossiers/2026-11-12-1.md
+- [[Coinbase]] - concept - veilles/veille-ia-us-2026-11-14-t5.md
 - [[Colette Kress]] - concept - dossiers/2026-11-12-1.md
-- [[Cybersécurité]] - concept - veilles/veille-ia-fr-2026-11-10-t3.md
-- [[Demis Hassabis]] - concept - dossiers/2026-11-12-3.md
-- [[Dossier  Course à l'IA entre États‑Unis et Chine]] - document - dossiers/2026-11-12-3.md
-- [[Emploi et Licenciements]] - concept - veilles/veille-ia-fr-2026-11-10-t3.md
-- [[Eric Schmidt]] - concept - dossiers/2026-11-12-3.md
-- [[Feuilleton  Crise de direction chez Nvidia]] - document - feuilletons/f-0001.md
-- [[Feuilleton Suno AI poursuivi de nouveau pour violation de droits d’auteur]] - document - feuilletons/f-0002.md
+- [[Feuilleton SMIC prévoit une pénurie de calcul IA]] - document - feuilletons/f-0016.md
 - [[Harvey C. Jones]] - concept - dossiers/2026-11-12-1.md
-- [[Huawei]] - concept - veilles/veille-ia-cn-2026-11-10-t5.md
-- [[IA et RH]] - concept - veilles/veille-ia-fr-2026-11-10-t3.md
-- [[Institute for Progress]] - concept - dossiers/2026-11-12-3.md
-- [[Jensen Huang]] - concept - veilles/veille-ia-fr-2026-11-09-t5.md
-- [[Linux Foundation]] - concept - veilles/veille-ia-cn-2026-11-10-t5.md
-- [[Nvidia]] - concept - veilles/veille-ia-fr-2026-11-08-t2.md
-- [[Orange]] - concept - veilles/veille-ia-fr-2026-11-10-t6.md
-- [[Pékin]] - concept - dossiers/2026-11-12-1.md
-- [[Suno AI]] - concept - veilles/veille-ia-us-2026-11-08-t2.md
+- [[IRS]] - concept - veilles/veille-ia-us-2026-11-09-t5.md
+- [[Nvidia]] - concept - veilles/veille-ia-fr-2026-11-09-t5.md
+- [[SMIC]] - concept - dossiers/2026-11-13-2.md
 - [[Synopsys]] - concept - dossiers/2026-11-12-1.md
-- [[Veille Chine 2026-11-10  Écosystèmes, plateformes et outils IA]] - document - veilles/veille-ia-cn-2026-11-10-t5.md
-- [[Veille Chine 2026-11-12  Marché financier et investissements IA]] - document - veilles/veille-ia-cn-2026-11-12-t7.md
-- [[Veille France 2026-11-08]] - document - veilles/veille-ia-fr-2026-11-08-t5.md
-- [[Veille France 2026-11-08 (Environment)]] - document - veilles/veille-ia-fr-2026-11-08-t2.md
-- [[Veille France 2026-11-10]] - document - veilles/veille-ia-fr-2026-11-10-t6.md
-- [[Veille États-Unis 2026-11-08  Régulation et contentieux]] - document - veilles/veille-ia-us-2026-11-08-t2.md
+- [[Tim Teter]] - code - veilles/veille-ia-us-2026-11-13-t1.md
+- [[Trump's AI task force]] - code - veilles/veille-ia-us-2026-11-13-t2.md
+- [[US Restrictions on AI Chips]] - concept - dossiers/2026-11-13-2.md
+- [[Veille France 2026-11-08  Environnement et empreinte carbone de l'IA]] - document - veilles/veille-ia-fr-2026-11-08-t2.md
+- [[Veille États-Unis 2026-11-09  Déploiements et stratégies d’entreprise]] - document - veilles/veille-ia-us-2026-11-09-t2.md
+- [[Veille États-Unis 2026-11-09  Sécurité, éthique et fraude]] - document - veilles/veille-ia-us-2026-11-09-t5.md
+- [[Veille États-Unis 2026-11-12  Financement et marché de l'IA]] - document - veilles/veille-ia-us-2026-11-12-t1.md
+- [[Veille États-Unis 2026-11-13  Régulation et politiques publiques]] - document - veilles/veille-ia-us-2026-11-13-t2.md
+- [[Veille États-Unis 2026-11-14  Politique, Régulation et Sécurité]] - document - veilles/veille-ia-us-2026-11-14-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -45,15 +35,23 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 5 edges to [[_COMMUNITY_infrastructure cloud coreweave]]
-- 4 edges to [[_COMMUNITY_recherche sur l'ia openai]]
-- 2 edges to [[_COMMUNITY_écosystème Anthropic]]
-- 1 edge to [[_COMMUNITY_écosystème microsoft]]
-- 1 edge to [[_COMMUNITY_actualités de google]]
-- 1 edge to [[_COMMUNITY_cloud et IA d'entreprise]]
-- 1 edge to [[_COMMUNITY_stratégie et technologie IA]]
+- 7 edges to [[_COMMUNITY_recherche sur l'ia openai]]
+- 4 edges to [[_COMMUNITY_SpaceX]]
+- 3 edges to [[_COMMUNITY_stratégie et technologie IA]]
+- 3 edges to [[_COMMUNITY_actualités de google]]
+- 3 edges to [[_COMMUNITY_Anthropic]]
+- 2 edges to [[_COMMUNITY_veille chine quotidienne]]
+- 2 edges to [[_COMMUNITY_produits IA grand public]]
+- 2 edges to [[_COMMUNITY_infrastructure cloud coreweave]]
+- 1 edge to [[_COMMUNITY_modèles IA et éthique]]
+- 1 edge to [[_COMMUNITY_course IA sino-américaine]]
+- 1 edge to [[_COMMUNITY_Baidu et IA incarnée]]
+- 1 edge to [[_COMMUNITY_veille états-unis régulation contentieux]]
+- 1 edge to [[_COMMUNITY_veille états-unis investissements entreprises]]
+- 1 edge to [[_COMMUNITY_IA grand public chinoise]]
+- 1 edge to [[_COMMUNITY_sécurité et éthique IA]]
 
 ## Top bridge nodes
-- [[Nvidia]] - degree 24, connects to 6 communities
-- [[Veille France 2026-11-10]] - degree 8, connects to 2 communities
-- [[Veille France 2026-11-08 (Environment)]] - degree 2, connects to 1 community
+- [[Nvidia]] - degree 43, connects to 15 communities
+- [[Veille États-Unis 2026-11-09  Déploiements et stratégies d’entreprise]] - degree 2, connects to 1 community
+- [[Veille France 2026-11-08  Environnement et empreinte carbone de l'IA]] - degree 2, connects to 1 community

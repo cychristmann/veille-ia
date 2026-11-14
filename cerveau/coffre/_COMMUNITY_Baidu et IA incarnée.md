@@ -1,21 +1,27 @@
 ---
 type: community
-members: 8
+members: 14
 ---
 
 # Baidu et IA incarnée
 
-**Members:** 8 nodes
+**Members:** 14 nodes
 
 ## Members
-- [[Apollo Go (萝卜快跑)]] - concept - veilles/veille-ia-cn-2026-11-12-t1.md
-- [[Baidu (百度)]] - concept - veilles/veille-ia-cn-2026-11-12-t1.md
-- [[Baidu World 2026]] - concept - veilles/veille-ia-cn-2026-11-12-t1.md
-- [[Embodied AI (具身智能)]] - concept - veilles/veille-ia-cn-2026-11-12-t1.md
-- [[Intelligent Organization (智能组织)]] - concept - veilles/veille-ia-cn-2026-11-12-t1.md
-- [[Robin Li]] - concept - veilles/veille-ia-cn-2026-11-12-t1.md
-- [[Veille Chine 2026-11-12  Matériel, calcul et infrastructure]] - document - veilles/veille-ia-cn-2026-11-12-t6.md
-- [[Veille Chine 2026-11-12  Organisations intelligentes]] - document - veilles/veille-ia-cn-2026-11-12-t1.md
+- [[ANSSI]] - concept - dossiers/2026-11-14-1.md
+- [[Agence ministérielle pour l’intelligence artificielle de défense (AMIAD)]] - concept - dossiers/2026-11-14-1.md
+- [[Banque de France]] - concept - dossiers/2026-11-14-1.md
+- [[CERT-FR]] - concept - dossiers/2026-11-14-1.md
+- [[ENSTA]] - concept - dossiers/2026-11-14-1.md
+- [[International Center for AI in Defence (ICAID)]] - concept - dossiers/2026-11-14-1.md
+- [[Laboratoire dédié (LARIAD)]] - concept - dossiers/2026-11-14-1.md
+- [[Ministère des Armées]] - concept - dossiers/2026-11-14-1.md
+- [[Mistral AI]] - concept - veilles/veille-ia-fr-2026-11-11-t5.md
+- [[Veille France 2026-11-10  Sécurité, risques et éthique]] - document - veilles/veille-ia-fr-2026-11-10-t5.md
+- [[Veille France 2026-11-11  Autres articles]] - document - veilles/veille-ia-fr-2026-11-11-t5.md
+- [[boursorama.com]] - concept - dossiers/2026-11-14-1.md
+- [[lefigaro.fr]] - concept - dossiers/2026-11-14-1.md
+- [[lemagit.fr]] - concept - dossiers/2026-11-14-1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,3 +29,12 @@ members: 8
 TABLE source_file, type FROM #community/Baidu_et_IA_incarnée
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_stratégie et technologie IA]]
+- 1 edge to [[_COMMUNITY_actualités de google]]
+- 1 edge to [[_COMMUNITY_avancées matérielles nvidia]]
+
+## Top bridge nodes
+- [[Veille France 2026-11-10  Sécurité, risques et éthique]] - degree 3, connects to 2 communities
+- [[Veille France 2026-11-11  Autres articles]] - degree 2, connects to 1 community

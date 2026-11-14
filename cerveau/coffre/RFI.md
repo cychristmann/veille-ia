@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0005.md"
 type: "concept"
-community: "gouvernance et politiques IA"
+community: "appel de paris"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/gouvernance_et_politiques_IA
+  - community/appel_de_paris
 ---
 
 # RFI
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Australia AI Regulator]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/gouvernance_et_politiques_IA
+#graphify/concept #graphify/EXTRACTED #community/appel_de_paris

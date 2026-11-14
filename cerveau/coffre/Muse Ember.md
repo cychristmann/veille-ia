@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-09-t2.md"
+source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
 type: "code"
-community: "écosystème microsoft"
+community: "veille chine quotidienne"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/écosystème_microsoft
+  - community/veille_chine_quotidienne
 ---
 
 # Muse Ember
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Meta]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/écosystème_microsoft
+#graphify/code #graphify/EXTRACTED #community/veille_chine_quotidienne

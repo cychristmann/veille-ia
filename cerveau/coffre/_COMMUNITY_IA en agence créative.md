@@ -1,16 +1,20 @@
 ---
 type: community
-members: 3
+members: 7
 ---
 
 # IA en agence créative
 
-**Members:** 3 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[CAA]] - concept - veilles/veille-ia-fr-2026-11-11-t2.md
-- [[ECHO]] - concept - veilles/veille-ia-fr-2026-11-11-t2.md
-- [[Ogilvy]] - concept - veilles/veille-ia-fr-2026-11-11-t2.md
+- [[Andrew Bailey]] - concept - dossiers/2026-11-14-2.md
+- [[Autorités chinoises]] - concept - dossiers/2026-11-14-2.md
+- [[Banque Centrale Européenne (BCE)]] - concept - dossiers/2026-11-14-2.md
+- [[Dossier  IA  risque systémique pour la stabilité financière]] - document - dossiers/2026-11-14-2.md
+- [[Federal Reserve (Fed)]] - concept - dossiers/2026-11-14-2.md
+- [[Financial Stability Board (FSB)]] - concept - dossiers/2026-11-14-2.md
+- [[Risque systémique de l'IA]] - concept - dossiers/2026-11-14-2.md
 
 ## Live Query (requires Dataview plugin)
 

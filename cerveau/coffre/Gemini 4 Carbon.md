@@ -1,17 +1,17 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-11-t2.md"
+source_file: "veilles/veille-ia-fr-2026-11-13-t2.md"
 type: "concept"
-community: "actualités de google"
+community: "écosystème Anthropic"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/actualités_de_google
+  - community/écosystème_Anthropic
 ---
 
 # Gemini 4 Carbon
 
 ## Connections
-- [[Feuilleton Google étend la gamme Gemini]] - `references` [EXTRACTED]
+- [[Gemini 4 Hydrogen]] - `references` [EXTRACTED]
 - [[Google]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/actualités_de_google
+#graphify/concept #graphify/EXTRACTED #community/écosystème_Anthropic

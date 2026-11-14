@@ -1,14 +1,16 @@
 ---
 type: community
-members: 1
+members: 3
 ---
 
 # recherche académique en IA
 
-**Members:** 1 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Beijing University of Posts and Telecommunications]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Opus 5.5]] - concept - veilles/veille-ia-cn-2026-11-11-t2.md
+- [[Shengquan Group]] - concept - veilles/veille-ia-cn-2026-11-11-t2.md
+- [[Veille Chine 2026-11-11  Technologie et infrastructure]] - document - veilles/veille-ia-cn-2026-11-11-t2.md
 
 ## Live Query (requires Dataview plugin)
 

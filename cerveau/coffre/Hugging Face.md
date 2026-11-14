@@ -1,16 +1,18 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-10-t2.md"
+source_file: "veilles/veille-ia-fr-2026-11-13-t4.md"
 type: "concept"
-community: "écosystème microsoft"
+community: "stratégie et technologie IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/écosystème_microsoft
+  - community/stratégie_et_technologie_IA
 ---
 
 # Hugging Face
 
 ## Connections
-- [[Veille États-Unis 2026-11-10  Applications sectorielles]] - `references` [EXTRACTED]
+- [[Irene Solaiman]] - `references` [EXTRACTED]
+- [[Nvidia]] - `references` [EXTRACTED]
+- [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/écosystème_microsoft
+#graphify/concept #graphify/EXTRACTED #community/stratégie_et_technologie_IA

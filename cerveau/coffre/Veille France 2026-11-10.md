@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-10-t6.md"
 type: "document"
-community: "avancées matérielles nvidia"
+community: "stratégie et technologie IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/avancées_matérielles_nvidia
+  - community/stratégie_et_technologie_IA
 ---
 
 # Veille France 2026-11-10
@@ -20,4 +20,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Orange]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/avancées_matérielles_nvidia
+#graphify/document #graphify/EXTRACTED #community/stratégie_et_technologie_IA

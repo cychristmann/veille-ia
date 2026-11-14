@@ -2,66 +2,54 @@
 
 *Interprétation automatique du graphe de la veille (7 derniers jours) par l'agent interprète. Les faits viennent des articles cités ; à vérifier avant de les reprendre.*
 
-## Naver voit son bénéfice chuter fortement sous la pression des dépenses en IA
+## Démission de Jensen Huang chez Nvidia suite à des révélations
 
-*Signal : montée* · [[Naver|Naver]]
+*Signal : montée* · [[Jensen Huang|Jensen Huang]]
 
-**Constat.** Le bénéfice net de Naver a presque été réduit de moitié, selon le Wall Street Journal (12 nov. 2026) (WSJ). Le bénéfice opérationnel a reculé, avec une chute de 21 % attribuée à l'IA et au marketing, comme le rapporte Investing.com France (12 nov. 2026). Un article de Unite.AI (12 nov. 2026) indique que Naver prévoit une filiale logistique et un agent IA, reflétant une réorientation stratégique malgré la baisse de profit.
+**Constat.** Jensen Huang a quitté ses fonctions de directeur général de Nvidia après la révélation publique d'une relation avec une espionne chinoise présumée. Cette affaire a provoqué sa chute en quelques jours, entraînant des interrogations sur l'avenir financier et stratégique de l'entreprise selon Les Echos et The Information.
 
-**Pourquoi c'est important.** Cette détérioration des marges montre que les investissements massifs de Naver dans l'IA pèsent lourdement sur sa rentabilité, ce qui pourrait freiner sa compétitivité face à d’autres géants technologiques. La situation souligne l'importance de suivre l'évolution des coûts liés à l'IA et les réponses stratégiques de l'entreprise.
+**Pourquoi c'est important.** Le départ brutal du dirigeant emblématique fragilise le géant des puces qui a financé le boom de l'intelligence artificielle. Il intervient alors que Nvidia fait face à des tensions géopolitiques et à des auditions politiques.
 
-**À surveiller.** L'évolution des marges et les éventuelles annonces de nouvelles sources de revenus ou de réduction des coûts liés à l'IA dans les prochains jours.
-
-Articles :
-- [Naver Profit Nearly Halves as AI Spending Squeezes Margins](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNkdFOWZIb3VyYzE2RkstVllKYXZjdDAtc2IwcmZhUEtUM3hsaG8wRmZpV3RIcjBxd09NT2pTeV9iMXZTSG8tYkhkVDJGVXFwQk5vUzZCcklHVVRIX0JsQy0wcGozbkc1SHBLRTMtWF9lSVRTOW5qODk0ME5VazZGZE94RDFFcHRiMUhlRHdZZlJySnNCQXhWSW16cDJERHBNQVJpS3doMA?oc=5) (WSJ)
-- [NAVER prévoit une filiale logistique et un agent IA, tandis que son bénéfice opérationnel recule](https://news.google.com/rss/articles/CBMilAFBVV95cUxQTTFWSHJjTE1wdUZ3TVlhQ2RHdUhDcFBDaU9jLVBpLXd0UjBSMzYxVXNIUmNWbXNiaVQ4YTBGX2QwSklHSXdVVEdlbWVSZVdhaXJLWF90eGZKcmZpQWtHdjNFRTBBNWZtQndaM01FUXhIYVhMYXZkOUxFZWJxWS00SHFlaGxBU2daanlTemNNT2JiMkgz?oc=5) (Unite.AI)
-- [Le bénéfice de Naver chute de 21 % en raison de l’IA et du marketing](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzBnZjczd3FrSlFqa1g5XzlnRVdCMkNQWndiRGIwTHpCTnpCY2t1MWE4NzNLZy04WEVrRjR1T3hGM1E5ZlR2amptejg2UmpxZUpyUW5RZkFQUWNoa19lS2NqNW5WZGxSOXRTYkpFbXZhX3NQRFpnVUFuTndqelN4MndzekJuazAwdUhYeHZuNXVhSWloaXpvWHN4S3lLZDdEaEhPZFVJQXZFQ3hMNUJYWThHaw?oc=5) (Investing.com France)
-
-## OpenAI renforce ChatGPT en France et aux États‑Unis, aucune trace en Chine
-
-*Signal : écart régional* · [[OpenAI|OpenAI]]
-
-**Constat.** Le 11 novembre 2026, OpenAI a annoncé l’ajout de profils d’entreprise vérifiés et d’agents IA à ChatGPT, mentionné tant par Quartz (États‑Unis) que par fr.qz.com et Numerama (France) (Quartz ; Numerama ; fr.qz.com). En France, BFM a également relayé une affaire judiciaire liée à l’usage de ChatGPT (BFM). Aucun extrait ne signale d’activité similaire en Chine durant la même période.
-
-**Pourquoi c'est important.** Ces annonces montrent que OpenAI déploie de nouvelles fonctionnalités commerciales et de contrôle de ses IA sur les marchés français et américain, ce qui peut influencer la concurrence locale et les cadres réglementaires. L’absence de mentions en Chine pourrait indiquer soit un retard de communication, soit une stratégie différente sur ce marché, un point à surveiller pour anticiper d’éventuels développements futurs.
-
-**À surveiller.** L’éventuelle arrivée de ces fonctionnalités en Chine et les réactions réglementaires dans les trois régions.
+**À surveiller.** Il faut surveiller la réaction du nouveau PDG concernant le maintien des investissements et le soutien financier à l'expansion des centres de données.
 
 Articles :
-- [OpenAI adds verified business profiles and AI agents to ChatGPT](https://news.google.com/rss/articles/CBMickFVX3lxTE5LZDdPYkRUTjBfaGZMNXd2NlBJczBITmVfOE1ZUjFQaWRMVGU5eDN3LUtseXlaU3I5RHJYWThvdVpIUVV5UzZreDRMZzNVQ0lmUnNmTF90TVZ5bUU3TG9YNVgzeUxTdS1BT2tCTnVmZ1VIdw?oc=5) (Quartz)
-- ["Elle n'a pas agi seule": sa femme tente de l'empoisonner avec ChatGPT, un homme dépose plainte contre OpenAI aux États-Unis](https://news.google.com/rss/articles/CBMiogJBVV95cUxNVklwTWp5bUZZdGZRWVpKWVg3TENvRXQxd2o2TGZ3czhZdjZma1l5ZzRDbUZ4REV5SnIySkJqcmh1SENhYlV4MjJ2NVJuR1NZdi12MVh0eWZqNUJLM29WU0FHRXVkZGJDWFBvQ29GWmtJbEZ1UHNMMHRIWWNScThzekZaSHN4UzVld0hRMW9kOU40blR3VlNlNWxRcG5Ed0xpa1N4OXVIdnRXWnNscGN2OUhDOFFLQkNYNGJNelFfLWQzUUVtRHNFcTB3WHhmZXJyS05uZGowaHZkUFlEaG4xN01iMGFUaUZFaV9ZZmZzckhDLXhUVlRnMjRMejJBOTZyUEluajFFb0NaUkZBaUdzOHBQUW9pVE9ZaTNPek40WVJSQQ?oc=5) (BFM)
-- [Arrêter les dégâts « dans les 35 secondes » : OpenAI dévoile le kill switch censé stopper ses IA quand elles dérapent](https://www.numerama.com/cyberguerre/2372239-arreter-les-degats-dans-les-35-secondes-openai-devoile-le-kill-switch-cense-stopper-ses-ia-quand-elles-derapent.html) (Numerama)
-- [OpenAI ajoute des profils d'entreprise vérifiés et des agents IA à ChatGPT](https://news.google.com/rss/articles/CBMid0FVX3lxTFBjWVAybWp6R1VDdXJqcmJXYVpMUXZNblNlTU9rOEVKVVMyNm4yY0xjb3JPUmJuYnhRUzhZeWNCTl81UEZmcEZJMVRfaWRDZE1ZWHdXaTBsZHB3cTBqR3pYLTAwU25IOWZLMEtFNlUwbW40eU9SOEJz?oc=5) (fr.qz.com)
+- [Sex, Lies and AI Chips: Jensen Huang’s Last Days as Nvidia CEO](https://www.theinformation.com/articles/sex-lies-ai-chips-jensen-huangs-last-days-nvidia-ceo) (The Information)
+- [Nvidia Funded AI Boom Under Jensen Huang, but Gary Marcus Questions if New CEO Will Keep Writing the Chec](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSFd6TG9SYXdSZXl2eWlvOUVBXzdPdFh5RlFPMjRXajBqbEFIbFNCV3FmaVZLak1EVDRMbThQQ1V6TGw1SGloMlVkNjRJd21ZR1FmbGkwOW0zOTRLSUdHdGQwUndNVFlHUW1xNzNVX3h2MnNmZUQ2VkVyd2MzUUNOUGgwczk0cVMzZUU3VXNCYy01MVBMUlpYakFYOGx4ZlhCbExSTkk0UURkRGsxZVlBUkllMTQ1MWtMN3RJWm9JYTA?oc=5) (Benzinga)
+- [The AI boom was built around Jensen Huang. What happens now?](https://news.google.com/rss/articles/CBMinAFBVV95cUxNVVdEdDk1ZVZ4OGtsaWh4eFM4d3JRMWVRMFIwUDE2YWVxUVlRanI3Y1VFNHYtZHk3YUdnSFlsejg2akpuVHZtMC12X2o5M1lvUFlIZUFBaE4zdXk0ZV8wZlowZFBVN1E5QWp0NFZ2Szdpdkhpb3Vic0VjdnA5dWV0OFV5c1NDN2NPTWw2MTZFaC00NlRDR25lY2owRTU?oc=5) (Fast Company Middle East)
+- [« Je vous dois à tous des excuses » : ces cinq jours qui ont provoqué la chute de Jensen Huang et le plongeon vertigineux de Nvidia](https://news.google.com/rss/articles/CBMioAJBVV95cUxOQzljZkFXSm95TkVPNlBheW1WMXVDWHN2M3c0OWp4TE9jT3NxblA3TU1ZR1UzRVhVdVRoTVFiYVRvQ0thQlAwQlU0OG4zSnZ1LVVjTTBodXFZWDJPZFdjenJOcDhCN0hQRW8wZW9STGRXdkNYSXhFSnhrTzZSazBYdkF4UXlCVVNiT3VZNlg0MEFJdmJLYUpVcWZHZ0J5RWdlbHN6WGpLXzZ2TjlhZDEtcUJvNVVEX1BFdG81NmZnMnZMSjhuQXZBWTh4SnRMek5wWU0yVjdxcDROejFjcHNzeHhHOHZpTVNlNERjWlpRVTdzSnViWFMxd2hLUVRHd1d2UmdQcnYxSFJDX3p5T1FuOHo2TzNhVmEzejNTbjFtUHE?oc=5) (Les Echos)
+- [Après le départ de Jensen Huang, l’IA perd son aiguillon](https://www.briefia.fr/article/apres-le-depart-de-jensen-huang-l-ia-perd-son-aiguillon) (Brief IA)
 
-## Naver voit son bénéfice chuter en Europe et aux USA, aucune mention en Chine
+## Google lance le nouveau modèle d'intelligence artificielle Gemini 4 Hydrogen
 
-*Signal : écart régional* · [[Naver|Naver]]
+*Signal : montée* · [[Gemini 4 Hydrogen|Gemini 4 Hydrogen]]
 
-**Constat.** Le 12 novembre 2026, le Wall Street Journal rapporte que le profit de Naver a presque diminué de moitié en raison des dépenses liées à l'IA aux États-Unis. Le même jour, deux médias français (Unite.AI et Investing.com France) indiquent que le bénéfice opérationnel de Naver recule de 21 % en France, attribué à l'IA et aux coûts marketing. Aucun article ne mentionne Naver en Chine sur la même période.
+**Constat.** Google a lancé une importante mise à jour gratuite avec son nouveau modèle d'intelligence artificielle baptisé Gemini 4 Hydrogen, qui remplace la série Flash (Journal du Geek, The Decoder). Ce modèle intermédiaire est proposé gratuitement sur l'application Gemini et le moteur de recherche (Journal du Geek). Selon les benchmarks, il surpasse le modèle Argon et talonne Claude Sonnet 5.5 tout en étant plus économique (The Decoder).
 
-**Pourquoi c'est important.** Ces baisses de rentabilité soulignent l'impact financier immédiat des investissements massifs en IA, un facteur critique pour les actionnaires et les stratégies de croissance. L'absence de couverture en Chine pourrait refléter soit un retard de la société sur ce marché, soit simplement un manque de visibilité médiatique locale, ce qui mérite d'être suivi.
+**Pourquoi c'est important.** Ce nouveau modèle vient perturber la gamme existante de Google en surpassant des versions plus onéreuses comme Argon. Il offre aux utilisateurs et aux développeurs une alternative plus rapide et performante pour le codage et les tâches courantes.
 
-**À surveiller.** Surveiller les prochains jours toute mention de Naver en Chine ainsi que les mesures que l'entreprise pourrait annoncer pour maîtriser ses coûts d'IA.
-
-Articles :
-- [Naver Profit Nearly Halves as AI Spending Squeezes Margins](https://news.google.com/rss/articles/CBMipwFBVV95cUxNNkdFOWZIb3VyYzE2RkstVllKYXZjdDAtc2IwcmZhUEtUM3hsaG8wRmZpV3RIcjBxd09NT2pTeV9iMXZTSG8tYkhkVDJGVXFwQk5vUzZCcklHVVRIX0JsQy0wcGozbkc1SHBLRTMtWF9lSVRTOW5qODk0ME5VazZGZE94RDFFcHRiMUhlRHdZZlJySnNCQXhWSW16cDJERHBNQVJpS3doMA?oc=5) (WSJ)
-- [NAVER prévoit une filiale logistique et un agent IA, tandis que son bénéfice opérationnel recule](https://news.google.com/rss/articles/CBMilAFBVV95cUxQTTFWSHJjTE1wdUZ3TVlhQ2RHdUhDcFBDaU9jLVBpLXd0UjBSMzYxVXNIUmNWbXNiaVQ4YTBGX2QwSklHSXdVVEdlbWVSZVdhaXJLWF90eGZKcmZpQWtHdjNFRTBBNWZtQndaM01FUXhIYVhMYXZkOUxFZWJxWS00SHFlaGxBU2daanlTemNNT2JiMkgz?oc=5) (Unite.AI)
-- [Le bénéfice de Naver chute de 21 % en raison de l’IA et du marketing](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdzBnZjczd3FrSlFqa1g5XzlnRVdCMkNQWndiRGIwTHpCTnpCY2t1MWE4NzNLZy04WEVrRjR1T3hGM1E5ZlR2amptejg2UmpxZUpyUW5RZkFQUWNoa19lS2NqNW5WZGxSOXRTYkpFbXZhX3NQRFpnVUFuTndqelN4MndzekJuazAwdUhYeHZuNXVhSWloaXpvWHN4S3lLZDdEaEhPZFVJQXZFQ3hMNUJYWThHaw?oc=5) (Investing.com France)
-
-## Google maintient son activité IA malgré un silence récent
-
-*Signal : déclin* · [[Google|Google]]
-
-**Constat.** Les derniers jours ont vu plusieurs annonces de Google liées à l'IA : le 8 novembre, la société a annoncé un investissement de 17 milliards de dollars dans des data centers IA dans le Wyoming (wyomingnewsnow.tv) et a présenté deux nouvelles puces TPU 8tx et TPU 8i Max basées sur des architectures existantes (Clubic). Le 9 novembre, Google a lancé Gemini 4 Carbon en France, rendant accessible sa IA la plus puissante (Le Big Data) et a constaté une hausse de 30 % des requêtes liées aux jeux sur son assistant Gemini (Foro3D). Le 10 novembre, le Local Pack de Google AI a été mis à jour avec de nouveaux boutons d'action, photos et avis (Search Engine Roundtable). Aucun nouveau signal n'est apparu les 12 et 13 novembre, marquant un creux après ces annonces.
-
-**Pourquoi c'est important.** Cette période d'absence de nouvelles publications peut indiquer une phase de consolidation après le lancement de plusieurs produits majeurs, voire un ralentissement temporaire de la communication externe. Il est crucial de surveiller si ce silence se prolonge, ce qui pourrait refléter un changement de stratégie ou des difficultés internes.
-
-**À surveiller.** L'évolution des annonces de produits IA de Google et tout nouveau communiqué officiel dans les prochains jours.
+**À surveiller.** Il faut surveiller l'évolution des performances et l'accueil des utilisateurs face à ce nouveau modèle sur le marché.
 
 Articles :
-- [Google AI Overview Local Pack Dropping Action Buttons, Photos & Reviews](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWG1PNml3Z0xWY3VFcUxQSnYtRUxlWTI5aWNTcWZvZXNyU1R6SU1DemZCNDlBclJKV2tCQjd6c0xHT3JJMVhsZHZnS3ktLUVfZDZQVS1yUWdwRUxpNEJhdDRFcUIzS3lNZ0ljWmxiNmVHcVBWV1RnNGR0NG5HQmpBSEtHbFNIR3VpMTVPOQ?oc=5) (Search Engine Roundtable)
-- [Google commits to spending $17B on AI data centers in Wyoming](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLTFKNnhOVTVZaWk5WnJQc2tfWU9Na3Z4UVc5aDZ3V0pYMG9BRm5ob2NHb18tSEctWV9iakJ1Ri0zV3h6NXRxTFpMS0h1czNlalAyemk5bTlKOFh0OTBiSHIwUnlWSHpNUnNPWkpQMExzSHU3MTRiVWVubnVsUmFwR2RnSXdYUnBRa1kwazhLZlhyWVNpSkhLcTRPQk9YZnRJeTFYSml2N05QRHlZTDF1T1B4UUx6LUFYTzFTVjRFeTV6ZGtrOS1QV2dkNjI3eGJXMlhZLU1uUWZma1JFckE?oc=5) (wyomingnewsnow.tv)
-- [Google ouvre Gemini 4 Carbon au public : comment tester sa nouvelle IA la plus puissante ?](https://www.lebigdata.fr/google-ouvre-gemini-4-carbon-au-public-comment-tester-sa-nouvelle-ia-la-plus-puissante) (Le Big Data)
-- [GG Gemini: el asistente de Google gana terreno entre jugadores](https://foro3d.com/2026/noviembre/gg-gemini-el-asistente-de-google-gana-terreno-entre-jugadores.html) (Foro3D)
-- [Curiosité chez Google, qui sort deux nouveaux TPU pour les agents IA sans dessiner la moindre nouvelle puce](https://www.clubic.com/actualite-638488-curiosite-chez-google-qui-sort-deux-nouveaux-tpu-pour-les-agents-ia-sans-dessiner-la-moindre-nouvelle-puce.html) (Clubic)
+- [Gemini vient de lancer une importante mise à jour gratuite : voici tout ce qui change avec le modèle Gemini 4 Hydrogen](https://www.journaldugeek.com/2026/11/13/gemini-vient-de-lancer-une-importante-mise-a-jour-gratuite-voici-tout-ce-qui-change-avec-le-modele-gemini-4-hydrogen/) (Journal du Geek)
+- [Google Launches Gemini 4 Hydrogen for Faster AI Coding](https://news.google.com/rss/articles/CBMimwFBVV95cUxPb29mU2YzU3pMakVHNUI4TklDNXdPOXE0WHpaeEc1TnR6LXJZWTljdFRHMWEzbGttTHFYN1hUNnZGRHRsTFJQdXNvdXVhaTE4a1A0S1J0cHlPOTNoZkYySndZNjQxa0ZPQ2pGWldKbGFVV2NnTUpYQ0plRzZWMmpZSnFGOURVR2JqeHdwTjBlck9zajNlVEI4WUJaWQ?oc=5) (WinBuzzer)
+- [Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch](https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/) (The Decoder)
+- [Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch](https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/) (The Decoder)
+- [Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) (Hacker News)
+
+## Hausse notable des mentions d'OpenAI Codex dans l'actualité technique
+
+*Signal : montée* · [[Codex|Codex]]
+
+**Constat.** Entre le 12 et le 13 novembre 2026, l'outil Codex a fait l'objet de plusieurs publications remarquées. Selon les sources, GPT-6 Astra a atteint 70% de réussite sur des théorèmes Lean 4 sous Codex 0.154.0 (Foro3D), tandis que Codex a également été associé à la résolution d'un bug de pilote Linux Radeon vieux de près de 20 ans (Phoronix) et à l'analyse du calculateur moteur d'une Jeep de 1994 (Pasquale Pillitteri). Par ailleurs, l'entreprise Holiday Extras réévalue ses développements avec cet outil (OpenAI) et les compétences d'agents sont devenues neutres vis-à-vis des fournisseurs pour Claude, Codex et Gemini au sein de la Linux Foundation (dev.to).
+
+**Pourquoi c'est important.** Ces développements démontrent la polyvalence croissante de Codex dans des domaines variés allant de la résolution de théorèmes mathématiques complexes au débogage matériel et logiciel. Ils illustrent également une adoption élargie par les entreprises et une standardisation de son écosystème.
+
+**À surveiller.** Il conviendra de suivre l'évolution des performances de ces nouvelles versions de Codex et leur intégration continue dans les environnements industriels.
+
+Articles :
+- [GPT-6 Astra logra 70% en teoremas Lean 4 bajo Codex 0.154.0](https://foro3d.com/2026/noviembre/gpt-6-astra-logra-70-en-teoremas-lean-4-bajo-codex-01540.html) (Foro3D)
+- [Claude Code and Codex get inside a 1994 Jeep's engine computer](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUkVnb0YyQUV4RTJneW1KbTJUUVFPUEE1cE1CNjBqeFc1R2prT3Q3Qk9jbFFGTjhyUktsdmU5aDJGOXlrTHpWUnZBZUZmcUIxQ2U3R0sySFFaUkhiR0hjbl9tMW9pSFJ3aXpJOUtBa1F2c2NMN1pTSkpWaXBfaERLZm9VcEhWYmRENk5OdW5sOUU?oc=5) (Pasquale Pillitteri)
+- [OpenAI Codex Helps Uncover & Fix A Nearly 20 Year Old Radeon Linux Driver Bug](https://news.google.com/rss/articles/CBMiakFVX3lxTE8tUmN0MXE5SXA1TjlOR1p2cldYQVU5XzZ6Y3VMcFNVTlFLclhhaFBDWjU3V0tGc0ZvQ2h4OV85dTJ0VndSRjJCSHFrNHpRVHpJOV9rNGswcWRBY0VaLUVnY1R5Vk1uVkNBSnc?oc=5) (Phoronix)
+- [Agent Skills Went Vendor-Neutral: Building a Writing-Quality Skill for Claude, Codex and Gemini](https://dev.to/mohab_karim/agent-skills-went-vendor-neutral-building-a-writing-quality-skill-for-claude-codex-and-gemini-31ie) (dev.to)
+- [Holiday Extras is rethinking what it can build with Codex](https://openai.com/business/customer-stories/holidays-extras-codex) (OpenAI)
 

@@ -1,21 +1,19 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-08-t6.md"
+source_file: "veilles/veille-ia-us-2026-11-08-t4.md"
 type: "document"
-community: "veille ia états-unis"
+community: "veille chine quotidienne"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/veille_ia_états-unis
+  - community/veille_chine_quotidienne
 ---
 
 # Veille États-Unis 2026-11-08
 
 ## Connections
-- [[AMD]] - `references` [EXTRACTED]
-- [[Apple Siri AI]] - `references` [EXTRACTED]
-- [[Google]] - `references` [EXTRACTED]
+- [[Advanced Micro Devices (AMD)]] - `references` [EXTRACTED]
 - [[Meta]] - `references` [EXTRACTED]
 - [[Palantir]] - `references` [EXTRACTED]
-- [[Xiao and Cai, “Follow the Policy, Fail the Benchmark”, arXiv 2611.07042]] - `cites` [EXTRACTED]
+- [[Xiao and Cai, “Follow the Policy, Fail the Benchmark”]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/veille_ia_états-unis
+#graphify/document #graphify/EXTRACTED #community/veille_chine_quotidienne

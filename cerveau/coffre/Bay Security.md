@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0004.md"
 type: "concept"
-community: "actualités sécurité IA"
+community: "Bay Security"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/actualités_sécurité_IA
+  - community/Bay_Security
 ---
 
 # Bay Security
@@ -15,4 +15,4 @@ tags:
 - [[Reuters]] - `cites` [EXTRACTED]
 - [[Zonebourse]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/actualités_sécurité_IA
+#graphify/concept #graphify/EXTRACTED #community/Bay_Security

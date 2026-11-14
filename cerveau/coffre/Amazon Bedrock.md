@@ -1,16 +1,18 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-09-t2.md"
-type: "code"
-community: "recherche sur l'ia openai"
+source_file: "veilles/veille-ia-dev-2026-11-14-t2.md"
+type: "concept"
+community: "écosystème Anthropic"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/recherche_sur_lia_openai
+  - community/écosystème_Anthropic
 ---
 
 # Amazon Bedrock
 
 ## Connections
 - [[ChatGPT Enterprise]] - `references` [EXTRACTED]
+- [[NVIDIA NeMo Switchyard]] - `conceptually_related_to` [EXTRACTED]
+- [[Veille Outils & code 2026-11-13]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/recherche_sur_lia_openai
+#graphify/concept #graphify/EXTRACTED #community/écosystème_Anthropic

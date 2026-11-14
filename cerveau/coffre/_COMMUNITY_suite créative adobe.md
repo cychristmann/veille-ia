@@ -1,24 +1,25 @@
 ---
 type: community
-members: 11
+members: 12
 ---
 
 # suite créative adobe
 
-**Members:** 11 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Adobe Creative Cloud]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Adobe Firefly]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Andrej Karpathy]] - concept - veilles/veille-ia-fr-2026-11-08-t4.md
-- [[Claude]] - concept - veilles/veille-ia-fr-2026-11-08-t4.md
-- [[Cognizant]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[HackerTube]] - concept - veilles/veille-ia-fr-2026-11-08-t4.md
-- [[Modèles d'IA MoE]] - concept - veilles/veille-ia-fr-2026-11-08-t4.md
-- [[Roland Busch (博乐仁)]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Siemens]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Veille Chine 2026-11-10]] - document - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Veille France 2026-11-08  Applications concrètes et innovations IA]] - document - veilles/veille-ia-fr-2026-11-08-t4.md
+- [[AI Hallucination Challenges]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[Baidu AI Models]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[Cisco AI Revenue Performance]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[DAI 2026“物理世界AI前沿安全”研讨会]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[Veille Chine 2026-11-13  Régulation, compétition et marché]] - document - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[Veille Chine 2026-11-14  Stratégie, gouvernance et recherche IA]] - document - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[上海市科学数据管理办法]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[吴清：深化人工智能与资本市场双向赋能研究]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[李彦宏：人工智能的下一幕是智能组织]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[第七届中国人工智能大赛]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[腾讯闭门会比喻被误读为裁员50%]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[让人工智能技术潜力更好转化为生产率增长]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,15 +27,3 @@ members: 11
 TABLE source_file, type FROM #community/suite_créative_adobe
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 2 edges to [[_COMMUNITY_écosystème Anthropic]]
-- 1 edge to [[_COMMUNITY_actualités de google]]
-- 1 edge to [[_COMMUNITY_écosystème microsoft]]
-- 1 edge to [[_COMMUNITY_recherche sur l'ia openai]]
-
-## Top bridge nodes
-- [[Adobe Creative Cloud]] - degree 5, connects to 2 communities
-- [[Claude]] - degree 5, connects to 1 community
-- [[Veille Chine 2026-11-10]] - degree 4, connects to 1 community
-- [[Veille France 2026-11-08  Applications concrètes et innovations IA]] - degree 4, connects to 1 community

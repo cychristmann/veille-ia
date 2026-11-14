@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t3.md"
 type: "code"
-community: "gouvernance et politiques IA"
+community: "appel de paris"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/gouvernance_et_politiques_IA
+  - community/appel_de_paris
 ---
 
 # Appel de Paris
@@ -16,4 +16,4 @@ tags:
 - [[Emmanuel Macron]] - `references` [EXTRACTED]
 - [[Sam Altman]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/gouvernance_et_politiques_IA
+#graphify/code #graphify/EXTRACTED #community/appel_de_paris

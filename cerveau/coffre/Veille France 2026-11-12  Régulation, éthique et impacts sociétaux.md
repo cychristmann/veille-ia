@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-12-t4.md"
 type: "document"
-community: "modèles IA et éthique"
+community: "gouvernance et politiques IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/modèles_IA_et_éthique
+  - community/gouvernance_et_politiques_IA
 ---
 
 # Veille France 2026-11-12 : Régulation, éthique et impacts sociétaux
@@ -17,4 +17,4 @@ tags:
 - [[ORONI]] - `references` [EXTRACTED]
 - [[Yann Le Cun]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/modèles_IA_et_éthique
+#graphify/document #graphify/EXTRACTED #community/gouvernance_et_politiques_IA

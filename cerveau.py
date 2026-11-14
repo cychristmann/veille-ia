@@ -26,7 +26,9 @@ VEILLES = RACINE / "veilles"
 CERVEAU = RACINE / "cerveau"
 SOURCES = CERVEAU / "sources"
 COFFRE = CERVEAU / "coffre"
-GRAPHE = CERVEAU / "graphify-out" / "graph.json"
+GRAPHE = CERVEAU / "graphify-out" / "graph.json"  # graphe fusionné (Obsidian, interprète)
+BRUT = CERVEAU / "brut"  # sortie propre à Graphify, jamais modifiée par nous
+GRAPHE_BRUT = BRUT / "graphify-out" / "graph.json"
 
 # Les gros modèles Flash renvoient souvent 503 sur l'offre gratuite : on prend Flash-Lite.
 MODELE_GEMINI = "gemini-3.1-flash-lite"  # 3.5 Flash-Lite n extrait presque aucune entite (teste)
@@ -145,16 +147,25 @@ def extraire() -> None:
     """
     if not os.environ.get("GEMINI_API_KEY"):
         sys.exit("GEMINI_API_KEY absente : impossible d'extraire les connaissances.")
+    # Graphify écrit son graphe BRUT dans cerveau/brut, que l'on ne modifie jamais : son
+    # garde-fou refuse d'écraser un graphe qui a « perdu » des entités, et la fusion des
+    # doublons en fait disparaître (renommées, regroupées). Tant que la fusion réécrivait
+    # le graphe de Graphify, chaque nuit était refusée et le graphe restait figé (constaté
+    # le 14/11/2026 : rien d'intégré depuis le 12). « --allow-partial » : une note refusée
+    # par Gemini ne bloque plus les autres ; elle sera retentée au prochain passage.
+    avant = GRAPHE_BRUT.stat().st_mtime if GRAPHE_BRUT.exists() else 0
     reussi = _graphify("extract", str(SOURCES.relative_to(RACINE)), "--backend", "gemini",
-                       "--out", str(CERVEAU.relative_to(RACINE)), "--max-concurrency", "2",
+                       "--out", str(BRUT.relative_to(RACINE)), "--max-concurrency", "2",
                        "--token-budget", "1500", "--mode", "deep", "--no-gitignore",
-                       obligatoire=False)
-    # Gemini refuse parfois une note (réponse vide, filtre de contenu) : Graphify s'arrête
-    # alors en erreur. On garde le graphe existant ; la note sera retentée au prochain passage.
-    if not reussi:
-        if not GRAPHE.exists():
-            sys.exit("Extraction impossible et aucun graphe existant.")
-        print("Extraction partielle : graphe précédent conservé pour les notes refusées.")
+                       "--allow-partial", obligatoire=False)
+    if not GRAPHE_BRUT.exists():
+        sys.exit("Extraction impossible et aucun graphe existant.")
+    if GRAPHE_BRUT.stat().st_mtime == avant:
+        # Ne plus jamais échouer en silence : le graphe n'a pas été réécrit.
+        print("ATTENTION : Graphify n'a pas mis à jour le graphe brut ; le cerveau "
+              "repose sur l'extraction précédente.", file=sys.stderr)
+    elif not reussi:
+        print("Extraction partielle : certaines notes seront retentées au prochain passage.")
 
 
 MEMO_ALIAS = CERVEAU / "alias.json"
@@ -294,7 +305,7 @@ def fusionner() -> None:
     directement ; les variantes (« 华为 (Huawei) », « Palantir Technologies Inc. ») passent
     par completer_alias().
     """
-    g = json.loads(GRAPHE.read_text(encoding="utf-8"))
+    g = json.loads(GRAPHE_BRUT.read_text(encoding="utf-8"))  # brut → fusionné (GRAPHE)
     cle_liens = "links" if "links" in g else "edges"
     entites = [n["label"] for n in g["nodes"] if not est_note(n)]
     # Règles sûres d'abord, puis l'IA (dont les réponses, mémorisées, priment).

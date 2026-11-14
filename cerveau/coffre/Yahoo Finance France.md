@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0007.md"
 type: "concept"
-community: "veille ia états-unis"
+community: "infrastructure cloud coreweave"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/veille_ia_états-unis
+  - community/infrastructure_cloud_coreweave
 ---
 
 # Yahoo Finance France
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Infineon]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/veille_ia_états-unis
+#graphify/concept #graphify/EXTRACTED #community/infrastructure_cloud_coreweave

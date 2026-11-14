@@ -1,17 +1,17 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t3.md"
-type: "concept"
-community: "veille ia états-unis"
+type: "code"
+community: "veille chine quotidienne"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
-  - community/veille_ia_états-unis
+  - community/veille_chine_quotidienne
 ---
 
 # Palantir
 
 ## Connections
-- [[Helsing]] - `references` [EXTRACTED]
+- [[Helsing]] - `references` [INFERRED]
 - [[Veille États-Unis 2026-11-08]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/veille_ia_états-unis
+#graphify/code #graphify/EXTRACTED #community/veille_chine_quotidienne

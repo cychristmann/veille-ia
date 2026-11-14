@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-10-t2.md"
 type: "concept"
-community: "veille ia états-unis"
+community: "infrastructure cloud coreweave"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/veille_ia_états-unis
+  - community/infrastructure_cloud_coreweave
 ---
 
 # Infineon
@@ -15,4 +15,4 @@ tags:
 - [[Veille États-Unis 2026-11-10  Infrastructure et data‑centers]] - `references` [EXTRACTED]
 - [[Yahoo Finance France]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/veille_ia_états-unis
+#graphify/concept #graphify/EXTRACTED #community/infrastructure_cloud_coreweave

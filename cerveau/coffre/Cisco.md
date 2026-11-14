@@ -1,16 +1,17 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-12-t6.md"
-type: "concept"
-community: "stratégie et technologie IA"
+source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
+type: "code"
+community: "veille états-unis investissements entreprises"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
-  - community/stratégie_et_technologie_IA
+  - community/veille_états-unis_investissements_entreprises
 ---
 
 # Cisco
 
 ## Connections
-- [[Veille États-Unis 2026-11-12  Applications industrielles et commerciales de l'IA]] - `references` [EXTRACTED]
+- [[Digital Networks Act]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/stratégie_et_technologie_IA
+#graphify/code #graphify/EXTRACTED #community/veille_états-unis_investissements_entreprises

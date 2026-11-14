@@ -1,16 +1,17 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t3.md"
-type: "concept"
-community: "veille ia états-unis"
+type: "code"
+community: "gouvernance et politiques IA"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
-  - community/veille_ia_états-unis
+  - community/gouvernance_et_politiques_IA
 ---
 
 # Anduril
 
 ## Connections
 - [[Shield AI]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-12 T3]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/veille_ia_états-unis
+#graphify/code #graphify/EXTRACTED #community/gouvernance_et_politiques_IA

@@ -1,5 +1,5 @@
 ---
-source_file: "feuilletons/f-0001.md"
+source_file: "dossiers/2026-11-12-1.md"
 type: "concept"
 community: "avancées matérielles nvidia"
 tags:
@@ -11,7 +11,6 @@ tags:
 # Baird
 
 ## Connections
-- [[Feuilleton  Crise de direction chez Nvidia]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/avancées_matérielles_nvidia

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-11-t2.md"
 type: "concept"
-community: "recherche sur l'ia openai"
+community: "actualités de google"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/recherche_sur_lia_openai
+  - community/actualités_de_google
 ---
 
 # Harbor
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Apple]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/recherche_sur_lia_openai
+#graphify/concept #graphify/EXTRACTED #community/actualités_de_google

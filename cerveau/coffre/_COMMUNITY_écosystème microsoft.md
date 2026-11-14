@@ -1,25 +1,38 @@
 ---
 type: community
-members: 12
+members: 25
 ---
 
 # écosystème microsoft
 
-**Members:** 12 nodes
+**Members:** 25 nodes
 
 ## Members
-- [[Atlas]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
-- [[Hugging Face]] - concept - veilles/veille-ia-us-2026-11-10-t2.md
-- [[IBM]] - concept - veilles/veille-ia-us-2026-11-10-t2.md
-- [[Meta]] - code - veilles/veille-ia-fr-2026-11-09-t2.md
-- [[Microsoft]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[AI Impact on Finance and Markets]] - concept - veilles/veille-ia-cn-2026-11-14-t5.md
+- [[Adobe Creative Cloud]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Adobe Firefly]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Andrej Karpathy]] - concept - veilles/veille-ia-fr-2026-11-08-t4.md
+- [[Claude]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Cognizant]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Enterprise AI Agent Platform]] - code - veilles/veille-ia-us-2026-11-13-t1.md
+- [[Federal Aviation Administration (FAA)]] - concept - veilles/veille-ia-us-2026-11-14-t1.md
+- [[HackerTube]] - concept - veilles/veille-ia-fr-2026-11-08-t4.md
+- [[IBM]] - concept - veilles/veille-ia-us-2026-11-10-t3.md
+- [[John Langford]] - concept - veilles/veille-ia-cn-2026-11-14-t5.md
+- [[Microsoft]] - concept - veilles/veille-ia-cn-2026-11-14-t5.md
 - [[Microsoft Ignite]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Muse AI assistant]] - concept - veilles/veille-ia-us-2026-11-08-t4.md
-- [[Muse Ember]] - code - veilles/veille-ia-fr-2026-11-09-t2.md
-- [[Veille France 2026-11-08 (Strategies)]] - document - veilles/veille-ia-fr-2026-11-08-t1.md
+- [[Microsoft Outlook Outage]] - concept - veilles/veille-ia-cn-2026-11-14-t7.md
+- [[Modèles d'IA MoE]] - concept - veilles/veille-ia-fr-2026-11-08-t4.md
+- [[Roland Busch (博乐仁)]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[SMART AI System]] - concept - veilles/veille-ia-us-2026-11-14-t1.md
+- [[Shield AI X-BAT]] - concept - veilles/veille-ia-cn-2026-11-14-t7.md
+- [[Siemens]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Veille Chine 2026-11-10]] - document - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Veille Chine 2026-11-14  Autres articles]] - document - veilles/veille-ia-cn-2026-11-14-t7.md
+- [[Veille Chine 2026-11-14  Finance, investissement et IA]] - document - veilles/veille-ia-cn-2026-11-14-t5.md
+- [[Veille France 2026-11-08  Applications concrètes et innovations IA]] - document - veilles/veille-ia-fr-2026-11-08-t4.md
 - [[Veille États-Unis 2026-11-10  Agents IA et plateformes]] - document - veilles/veille-ia-us-2026-11-10-t3.md
-- [[Veille États-Unis 2026-11-10  Applications sectorielles]] - document - veilles/veille-ia-us-2026-11-10-t2.md
-- [[Veille États-Unis 2026-11-12  Autres articles]] - document - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Veille États-Unis 2026-11-14  Incident FAA et Intelligence Artificielle]] - document - veilles/veille-ia-us-2026-11-14-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,16 +42,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_recherche sur l'ia openai]]
-- 1 edge to [[_COMMUNITY_actualités de google]]
-- 1 edge to [[_COMMUNITY_avancées matérielles nvidia]]
+- 3 edges to [[_COMMUNITY_Anthropic]]
+- 2 edges to [[_COMMUNITY_actualités de google]]
 - 1 edge to [[_COMMUNITY_écosystème Anthropic]]
-- 1 edge to [[_COMMUNITY_veille ia états-unis]]
-- 1 edge to [[_COMMUNITY_suite créative adobe]]
+- 1 edge to [[_COMMUNITY_stratégie et technologie IA]]
+- 1 edge to [[_COMMUNITY_veille états-unis investissements entreprises]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-08 (Strategies)]] - degree 4, connects to 3 communities
-- [[Microsoft]] - degree 6, connects to 1 community
-- [[Veille États-Unis 2026-11-12  Autres articles]] - degree 4, connects to 1 community
-- [[Meta]] - degree 4, connects to 1 community
-- [[Veille États-Unis 2026-11-10  Applications sectorielles]] - degree 3, connects to 1 community
+- [[Microsoft]] - degree 10, connects to 2 communities
+- [[Claude]] - degree 7, connects to 2 communities
+- [[Adobe Creative Cloud]] - degree 5, connects to 2 communities
+- [[Veille France 2026-11-08  Applications concrètes et innovations IA]] - degree 4, connects to 1 community

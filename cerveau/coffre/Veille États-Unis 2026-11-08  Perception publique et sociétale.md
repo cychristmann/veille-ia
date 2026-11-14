@@ -1,13 +1,16 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t5.md"
 type: "document"
-community: "perception publique de l'IA"
+community: "Fabula Rasa"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/perception_publique_de_lIA
+  - community/Fabula_Rasa
 ---
 
 # Veille États-Unis 2026-11-08 : Perception publique et sociétale
 
-#graphify/document #graphify/EXTRACTED #community/perception_publique_de_lIA
+## Connections
+- [[Fabula Rasa]] - `references` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Fabula_Rasa

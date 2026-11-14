@@ -1,24 +1,30 @@
 ---
 type: community
-members: 11
+members: 17
 ---
 
 # modèles IA et éthique
 
-**Members:** 11 nodes
+**Members:** 17 nodes
 
 ## Members
-- [[Codex]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
-- [[Fireworks AI]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
-- [[GPT-6 Astra]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
-- [[Jacek Rozenek]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
-- [[Lean 4]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
-- [[Notion]] - concept - veilles/veille-ia-fr-2026-11-10-t4.md
-- [[Notion AI]] - concept - veilles/veille-ia-fr-2026-11-10-t4.md
-- [[ORONI]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
-- [[Veille France 2026-11-10  Nouveaux modèles et produits IA]] - document - veilles/veille-ia-fr-2026-11-10-t4.md
-- [[Veille France 2026-11-12  Régulation, éthique et impacts sociétaux]] - document - veilles/veille-ia-fr-2026-11-12-t4.md
-- [[Yann Le Cun]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
+- [[Alibaba AI]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Bitcoin Miners AI]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Cortex]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Gemini Decisions]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Google AI Studio]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Google Gemini CarPlay]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Harbor Claris]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[JioStar]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Local LLM Server]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[MEL Conference]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[NAS AI Server]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Omnii Defense]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Snowflake]] - concept - feuilletons/f-0013.md
+- [[United Airlines]] - concept - veilles/veille-ia-us-2026-11-13-t3.md
+- [[Veille France 2026-11-12]] - document - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Veille États-Unis 2026-11-13  Applications sectorielles de l’IA]] - document - veilles/veille-ia-us-2026-11-13-t3.md
+- [[rLocalLLM]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -28,7 +34,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_écosystème Anthropic]]
+- 1 edge to [[_COMMUNITY_actualités de google]]
+- 1 edge to [[_COMMUNITY_infrastructure cloud coreweave]]
+- 1 edge to [[_COMMUNITY_avancées matérielles nvidia]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-10  Nouveaux modèles et produits IA]] - degree 2, connects to 1 community
+- [[Veille France 2026-11-12]] - degree 14, connects to 2 communities
+- [[Gemini Decisions]] - degree 3, connects to 1 community

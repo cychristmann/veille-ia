@@ -1,13 +1,16 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t6.md"
 type: "document"
-community: "actualités générales IA"
+community: "Anthropic"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/actualités_générales_IA
+  - community/Anthropic
 ---
 
 # Veille États-Unis 2026-11-11 : Autres articles
 
-#graphify/document #graphify/EXTRACTED #community/actualités_générales_IA
+## Connections
+- [[Broadcom]] - `references` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Anthropic

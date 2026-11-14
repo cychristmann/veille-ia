@@ -43,6 +43,8 @@ FENETRE = 7          # jours de veille pris en compte
 RECENT = 2           # « récemment » = les 2 derniers jours de veille
 MAX_SIGNAUX = 4      # analyses par jour
 PAR_TYPE = 3         # candidats retenus par type de signal
+MEMOIRE_JOURS = 3    # une entité analysée ces 3 derniers jours n'est pas reprise
+                     # (sauf lien nouveau avec une autre entité : c'est un fait nouveau)
 NOMS_REGIONS = {"fr": "France", "us": "États-Unis", "cn": "Chine", "dev": "Outils & code"}
 REGIONS_GEO = ("fr", "us", "cn")  # écarts entre régions : la section outils n'en est pas une
 MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août",
@@ -159,8 +161,20 @@ def mesurer(etat: EtatInterprete) -> dict:
     recents, anciens = set(jours[-RECENT:]), [j for j in jours[:-RECENT]]
     label = lambda i: entites[i]["label"]  # noqa: E731
     signaux: list[Signal] = []
+    # Anti-redite : entités analysées ces derniers jours, et entités déjà prises par un
+    # signal du jour (une entité = un seul signal par jour).
+    deja = _entites_deja_analysees(jour)
+    utilisees: set[str] = set()
+
+    def libre(i) -> bool:
+        return i not in utilisees and label(i).casefold() not in deja
+
+    def premiers(candidats, cle_id):
+        """Les PAR_TYPE premiers candidats dont l'entité est libre."""
+        return [c for c in candidats if libre(cle_id(c))][:PAR_TYPE]
 
     def ajouter(type_, ids, constat, fichiers):
+        utilisees.update(ids)
         signaux.append({"id": f"s{len(signaux) + 1}", "type": type_,
                         "entites": [label(i) for i in ids], "constat": constat,
                         "fichiers": sorted(set(fichiers))[-12:]})
@@ -178,7 +192,7 @@ def mesurer(etat: EtatInterprete) -> dict:
         base = sum(len(pj[j]) for j in anciens) / max(len(anciens), 1) * RECENT
         if recent >= 3 and recent >= 2 * base + 1:
             montees.append((recent - base, i, recent, base))
-    for _, i, recent, base in sorted(montees, reverse=True)[:PAR_TYPE]:
+    for _, i, recent, base in premiers(sorted(montees, reverse=True), lambda c: c[1]):
         ajouter("montée", [i], f"{label(i)} : {recent} notes sur les {RECENT} derniers jours, "
                 f"contre {base:.1f} en moyenne auparavant.",
                 [f for j in recents for f in par_jour[i][j]])
@@ -190,7 +204,7 @@ def mesurer(etat: EtatInterprete) -> dict:
             regions = {_region_de(f) for f in fs} - {None}
             if len(fs) >= 2 or len(regions) >= 2:
                 nouveaux.append((len(fs) + len(regions), i, regions, fs))
-    for _, i, regions, fs in sorted(nouveaux, reverse=True)[:PAR_TYPE]:
+    for _, i, regions, fs in premiers(sorted(nouveaux, reverse=True), lambda c: c[1]):
         ajouter("nouveauté", [i], f"{label(i)} apparaît pour la première fois : {len(fs)} notes"
                 + (f", {len(regions)} régions." if regions else "."), fs)
 
@@ -221,7 +235,11 @@ def mesurer(etat: EtatInterprete) -> dict:
                            for art in articles)
             if passe_a and passe_b and ensemble:
                 liens.setdefault((a, b), [passe_a + passe_b, []])[1].append(f)
-    for (a, b), (poids, fs) in sorted(liens.items(), key=lambda x: -x[1][0])[:PAR_TYPE]:
+    # Un lien nouveau est un fait nouveau : permis même si les deux entités ont déjà été
+    # analysées, mais pas deux fois la même entité dans la journée.
+    liens_libres = [x for x in sorted(liens.items(), key=lambda x: -x[1][0])
+                    if x[0][0] not in utilisees and x[0][1] not in utilisees][:PAR_TYPE]
+    for (a, b), (poids, fs) in liens_libres:
         ajouter("lien nouveau", [a, b], f"{label(a)} et {label(b)}, déjà suivis séparément, "
                 f"sont cités dans un même article pour la première fois.", fs)
 
@@ -237,7 +255,7 @@ def mesurer(etat: EtatInterprete) -> dict:
         presentes = {r: c for r, c in par_region.items() if c and r in REGIONS_GEO}
         if len(presentes) >= 2 and absentes and sum(presentes.values()) >= 3:
             ecarts.append((sum(presentes.values()), i, presentes, absentes))
-    for _, i, presentes, absentes in sorted(ecarts, reverse=True)[:PAR_TYPE]:
+    for _, i, presentes, absentes in premiers(sorted(ecarts, reverse=True), lambda c: c[1]):
         ajouter("écart régional", [i], f"{label(i)} : cité en "
                 + ", ".join(f"{NOMS_REGIONS[r]} ({c} notes)" for r, c in presentes.items())
                 + f" sur 3 jours, mais absent en {', '.join(NOMS_REGIONS[r] for r in absentes)}.",
@@ -249,11 +267,12 @@ def mesurer(etat: EtatInterprete) -> dict:
         avant = sum(len(pj[j]) for j in anciens)
         if avant >= 4 and not any(pj[j] for j in recents):
             declins.append((avant, i))
-    for avant, i in sorted(declins, reverse=True)[:PAR_TYPE]:
+    for avant, i in premiers(sorted(declins, reverse=True), lambda c: c[1]):
         ajouter("déclin", [i], f"{label(i)} : {avant} notes les jours précédents, aucune sur "
                 f"les {RECENT} derniers jours.", [f for j in anciens for f in par_jour[i][j]])
 
-    print(f"[mesurer] {jour} : {len(signaux)} signaux candidats sur {len(jours)} jours de veille.")
+    print(f"[mesurer] {jour} : {len(signaux)} signaux candidats sur {len(jours)} jours de veille"
+          f" ({len(deja)} entités déjà analysées écartées).")
     if not signaux:
         return {"signaux": [], "rien": "Aucun changement notable détecté dans le graphe."}
     return {"signaux": signaux}
@@ -275,12 +294,22 @@ def _modele(schema, max_tokens):
     return modele_commun(schema, max_tokens=max_tokens)
 
 
+def _analyses_recentes(jour: str) -> list[dict]:
+    """Analyses publiées les MEMOIRE_JOURS jours précédant `jour`."""
+    analyses = []
+    for f in ANALYSES.glob("analyse-*.json"):
+        d = _date_de(f.name)
+        if d and 0 < (Date.fromisoformat(jour) - Date.fromisoformat(d)).days <= MEMOIRE_JOURS:
+            analyses += json.loads(f.read_text(encoding="utf-8")).get("analyses", [])
+    return analyses
+
+
+def _entites_deja_analysees(jour: str) -> set[str]:
+    return {e.casefold() for a in _analyses_recentes(jour) for e in a.get("entites", [])}
+
+
 def _analyses_precedentes(jour: str) -> list[str]:
-    titres = []
-    for f in sorted(ANALYSES.glob("analyse-*.json"))[-3:]:
-        if _date_de(f.name) and _date_de(f.name) < jour:
-            titres += [a["titre"] for a in json.loads(f.read_text(encoding="utf-8")).get("analyses", [])]
-    return titres
+    return [a["titre"] for a in _analyses_recentes(jour)]
 
 
 def choisir(etat: EtatInterprete) -> dict:
@@ -299,7 +328,18 @@ def choisir(etat: EtatInterprete) -> dict:
     )
     choix = _modele(Choix, 1000).invoke(consigne)
     valides = {s["id"] for s in etat["signaux"]}
-    ids = [i for i in choix.ids if i in valides][:MAX_SIGNAUX]
+    # Garde-fou : jamais deux analyses sur la même entité le même jour.
+    par_id = {s["id"]: s for s in etat["signaux"]}
+    ids, vues = [], set()
+    for i in choix.ids:
+        if i not in valides or i in ids:
+            continue
+        cles = {e.casefold() for e in par_id[i]["entites"]}
+        if cles & vues:
+            continue
+        vues |= cles
+        ids.append(i)
+    ids = ids[:MAX_SIGNAUX]
     print(f"[choisir] retenus : {', '.join(ids) or 'aucun'}")
     return {"choisis": ids}
 
