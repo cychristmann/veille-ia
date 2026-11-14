@@ -28,6 +28,10 @@
     --alerte-fond: #fff6e5;
     --alerte-texte: #8a5300;
     --erreur: #b4532a;
+    /* Accent chaud, rare : priorités et notes de 8 et plus. Tout le reste est bleu. */
+    --chaud: #a86200;
+    --chaud-fond: #ffe9c2;
+    --chaud-texte: #7a4300;
     --ombre-1: 0 1px 2px rgba(11, 31, 63, .05);
     --ombre-2: 0 1px 2px rgba(11, 31, 63, .04), 0 8px 24px -8px rgba(11, 31, 63, .14);
     --lum-fond: 93%;
@@ -55,6 +59,9 @@
       --alerte-fond: #33260f;
       --alerte-texte: #f5cf8a;
       --erreur: #fb923c;
+      --chaud: #f5b651;
+      --chaud-fond: #3b2a0d;
+      --chaud-texte: #ffcf7a;
       --ombre-1: none;
       --ombre-2: 0 0 0 1px rgba(255, 255, 255, .02), 0 12px 32px -12px rgba(0, 0, 0, .6);
       --lum-fond: 20%;
@@ -82,6 +89,9 @@
     --alerte-fond: #33260f;
     --alerte-texte: #f5cf8a;
     --erreur: #fb923c;
+    --chaud: #f5b651;
+    --chaud-fond: #3b2a0d;
+    --chaud-texte: #ffcf7a;
     --ombre-1: none;
     --ombre-2: 0 0 0 1px rgba(255, 255, 255, .02), 0 12px 32px -12px rgba(0, 0, 0, .6);
     --lum-fond: 20%;
@@ -619,19 +629,20 @@
     color: var(--texte-2); background: var(--surface-2); border: 1px solid var(--bordure);
   }
   .note.moyenne { color: var(--accent); background: var(--accent-doux); border-color: transparent; }
-  .note.haute { color: var(--accent-texte); background: var(--accent); border-color: transparent; }
+  .note.haute { color: var(--chaud-texte); background: var(--chaud-fond); border-color: transparent; }
   .carte .motif { margin: 0; font-size: .8rem; color: var(--texte-3); overflow-wrap: anywhere; }
   .carte .motif::before { content: "Pertinence : "; font-weight: 600; color: var(--texte-2); }
 
   /* « À lire en priorité » : les mieux notés du jour */
   .top { margin-top: 18px; padding: 18px 22px; border-radius: 16px; background: var(--surface); border: 1px solid var(--bordure); box-shadow: var(--ombre-1); }
   .top h2 { display: flex; align-items: center; gap: 8px; margin: 0 0 10px; font-size: 1rem; }
+  .top h2 > svg.icone { color: var(--chaud); }
   .top h2 small { font-weight: 400; color: var(--texte-3); margin-left: 4px; }
   .top ol { list-style: none; margin: 0; padding: 0; counter-reset: top; }
   .top li { display: flex; align-items: flex-start; gap: 12px; padding: 9px 0; border-top: 1px solid var(--bordure); counter-increment: top; }
   .top li:first-child { border-top: 0; padding-top: 0; }
   .top li::before { content: counter(top); display: grid; place-items: center; width: 24px; height: 24px; border-radius: 8px; flex: none;
-                    font-size: .78rem; font-weight: 700; color: var(--accent); background: var(--accent-doux); }
+                    font-size: .78rem; font-weight: 700; color: var(--chaud-texte); background: var(--chaud-fond); }
   .top .texte { min-width: 0; flex: 1; }
   .top a { color: var(--texte); font-weight: 600; text-decoration: none; overflow-wrap: anywhere; }
   .top a:hover { color: var(--accent); text-decoration: underline; }
