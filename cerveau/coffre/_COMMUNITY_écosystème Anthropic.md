@@ -52,12 +52,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 6 edges to [[_COMMUNITY_veille outils et code]]
-- 2 edges to [[_COMMUNITY_actualités de google]]
-- 1 edge to [[_COMMUNITY_écosystème microsoft]]
+- 6 edges to [[_COMMUNITY_Veille Outils & code 2026-11-12]]
+- 2 edges to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Microsoft]]
 - 1 edge to [[_COMMUNITY_stratégie et technologie IA]]
 - 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_actualités de google_1]]
+- 1 edge to [[_COMMUNITY_Google_1]]
 
 ## Top bridge nodes
 - [[Gemini 4 Hydrogen]] - degree 12, connects to 3 communities

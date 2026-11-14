@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t4.md"
 type: "paper"
-community: "veille chine quotidienne"
+community: "Veille Chine 2026-11-13"
 tags:
   - graphify/paper
   - graphify/EXTRACTED
-  - community/veille_chine_quotidienne
+  - community/Veille_Chine_2026-11-13
 ---
 
 # Xiao and Cai, “Follow the Policy, Fail the Benchmark”
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-08]] - `cites` [EXTRACTED]
 
-#graphify/paper #graphify/EXTRACTED #community/veille_chine_quotidienne
+#graphify/paper #graphify/EXTRACTED #community/Veille_Chine_2026-11-13

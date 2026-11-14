@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t2.md"
 type: "code"
-community: "actualités de google"
+community: "Google"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/actualités_de_google
+  - community/Google
 ---
 
 # Logic Pro
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Apple]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/actualités_de_google
+#graphify/code #graphify/EXTRACTED #community/Google

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-14-t6.md"
 type: "concept"
-community: "infrastructure cloud coreweave"
+community: "CoreWeave"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/infrastructure_cloud_coreweave
+  - community/CoreWeave
 ---
 
 # Unified AI Model Accurately Simulates Diverse Physical Phenomena
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-14]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/infrastructure_cloud_coreweave
+#graphify/concept #graphify/EXTRACTED #community/CoreWeave

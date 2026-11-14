@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-11-t5.md"
 type: "document"
-community: "infrastructure cloud coreweave"
+community: "CoreWeave"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/infrastructure_cloud_coreweave
+  - community/CoreWeave
 ---
 
 # Veille Chine 2026-11-11 : Autres articles
@@ -18,4 +18,4 @@ tags:
 - [[数说故事]] - `references` [EXTRACTED]
 - [[浦银国际]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/infrastructure_cloud_coreweave
+#graphify/document #graphify/EXTRACTED #community/CoreWeave

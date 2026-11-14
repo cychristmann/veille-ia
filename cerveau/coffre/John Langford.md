@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-14-t5.md"
 type: "concept"
-community: "écosystème microsoft"
+community: "Microsoft"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/écosystème_microsoft
+  - community/Microsoft
 ---
 
 # John Langford
@@ -14,4 +14,4 @@ tags:
 - [[AI Impact on Finance and Markets]] - `conceptually_related_to` [INFERRED]
 - [[Microsoft]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/écosystème_microsoft
+#graphify/concept #graphify/EXTRACTED #community/Microsoft

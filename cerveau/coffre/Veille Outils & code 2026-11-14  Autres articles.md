@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-14-t6.md"
 type: "document"
-community: "veille outils et code"
+community: "Veille Outils & code 2026-11-12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/veille_outils_et_code
+  - community/Veille_Outils__code_2026-11-12
 ---
 
 # Veille Outils & code 2026-11-14 : Autres articles
@@ -15,4 +15,4 @@ tags:
 - [[Claude Code]] - `references` [EXTRACTED]
 - [[Claude Managed Agents]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/veille_outils_et_code
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12

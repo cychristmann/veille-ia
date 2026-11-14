@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t6.md"
 type: "concept"
-community: "veille chine quotidienne"
+community: "Veille Chine 2026-11-13"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/veille_chine_quotidienne
+  - community/Veille_Chine_2026-11-13
 ---
 
 # Meta
@@ -22,4 +22,4 @@ tags:
 - [[Veille États-Unis 2026-11-09  Nouveaux modèles et avancées technologiques]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/veille_chine_quotidienne
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-13

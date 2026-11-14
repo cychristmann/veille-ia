@@ -38,15 +38,15 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_avancées matérielles nvidia]]
-- 2 edges to [[_COMMUNITY_actualités de google]]
+- 3 edges to [[_COMMUNITY_Nvidia]]
+- 2 edges to [[_COMMUNITY_Google]]
 - 2 edges to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_écosystème microsoft]]
-- 1 edge to [[_COMMUNITY_veille outils et code]]
+- 1 edge to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-12]]
 - 1 edge to [[_COMMUNITY_écosystème Anthropic]]
-- 1 edge to [[_COMMUNITY_appel de paris]]
+- 1 edge to [[_COMMUNITY_Appel de Paris]]
 - 1 edge to [[_COMMUNITY_Baidu et IA incarnée]]
-- 1 edge to [[_COMMUNITY_recherche sur l'ia openai]]
+- 1 edge to [[_COMMUNITY_OpenAI]]
 
 ## Top bridge nodes
 - [[OpenAI]] - degree 16, connects to 6 communities

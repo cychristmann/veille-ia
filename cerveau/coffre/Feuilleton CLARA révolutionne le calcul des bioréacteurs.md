@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0017.md"
 type: "document"
-community: "actualités de google"
+community: "Google"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/actualités_de_google
+  - community/Google
 ---
 
 # Feuilleton: CLARA révolutionne le calcul des bioréacteurs
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[CLARA]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/actualités_de_google
+#graphify/document #graphify/EXTRACTED #community/Google

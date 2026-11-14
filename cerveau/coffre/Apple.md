@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t6.md"
 type: "concept"
-community: "actualités de google"
+community: "Google"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/actualités_de_google
+  - community/Google
 ---
 
 # Apple
@@ -21,4 +21,4 @@ tags:
 - [[Veille France 2026-11-11]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-08  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/actualités_de_google
+#graphify/concept #graphify/EXTRACTED #community/Google

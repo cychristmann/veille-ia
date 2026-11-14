@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-14-t6.md"
 type: "document"
-community: "infrastructure cloud coreweave"
+community: "CoreWeave"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/infrastructure_cloud_coreweave
+  - community/CoreWeave
 ---
 
 # Veille États-Unis 2026-11-14
@@ -20,4 +20,4 @@ tags:
 - [[Terry Mattingly AI is already shaping life in many Protestant pulpits]] - `references` [EXTRACTED]
 - [[Unified AI Model Accurately Simulates Diverse Physical Phenomena]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/infrastructure_cloud_coreweave
+#graphify/document #graphify/EXTRACTED #community/CoreWeave

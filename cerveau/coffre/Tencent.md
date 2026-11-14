@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-12-2.md"
 type: "concept"
-community: "veille outils et code"
+community: "Veille Outils & code 2026-11-12"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/veille_outils_et_code
+  - community/Veille_Outils__code_2026-11-12
 ---
 
 # Tencent
@@ -14,4 +14,4 @@ tags:
 - [[Claude Code]] - `references` [EXTRACTED]
 - [[IA-native Strategy]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/veille_outils_et_code
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12

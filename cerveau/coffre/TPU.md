@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-13-3.md"
 type: "concept"
-community: "actualités de google"
+community: "Google"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/actualités_de_google
+  - community/Google
 ---
 
 # TPU
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Google]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/actualités_de_google
+#graphify/concept #graphify/EXTRACTED #community/Google

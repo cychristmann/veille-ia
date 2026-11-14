@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-10-t2.md"
 type: "concept"
-community: "infrastructure cloud coreweave"
+community: "CoreWeave"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/infrastructure_cloud_coreweave
+  - community/CoreWeave
 ---
 
 # Bay (start-up)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-10  Financement, marchés et IPO]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/infrastructure_cloud_coreweave
+#graphify/concept #graphify/EXTRACTED #community/CoreWeave

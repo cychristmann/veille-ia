@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t2.md"
 type: "document"
-community: "avancées matérielles nvidia"
+community: "Nvidia"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/avancées_matérielles_nvidia
+  - community/Nvidia
 ---
 
 # Veille États-Unis 2026-11-09 : Déploiements et stratégies d’entreprise
@@ -14,4 +14,4 @@ tags:
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/avancées_matérielles_nvidia
+#graphify/document #graphify/EXTRACTED #community/Nvidia

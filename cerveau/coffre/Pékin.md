@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-12-1.md"
 type: "concept"
-community: "recherche sur l'ia openai"
+community: "OpenAI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/recherche_sur_lia_openai
+  - community/OpenAI
 ---
 
 # Pékin
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Alice Huang]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/recherche_sur_lia_openai
+#graphify/concept #graphify/EXTRACTED #community/OpenAI

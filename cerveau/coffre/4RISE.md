@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
 type: "code"
-community: "veille états-unis investissements entreprises"
+community: "Veille États-Unis 2026-11-13 : Développements et investissements corporatifs"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/veille_états-unis_investissements_entreprises
+  - community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
 ---
 
 # 4RISE
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Sino Biological]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/veille_états-unis_investissements_entreprises
+#graphify/code #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs

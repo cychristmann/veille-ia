@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t1.md"
 type: "concept"
-community: "veille chine quotidienne"
+community: "Veille Chine 2026-11-13"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/veille_chine_quotidienne
+  - community/Veille_Chine_2026-11-13
 ---
 
 # Baidu
@@ -15,4 +15,4 @@ tags:
 - [[Robin Li]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-13]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/veille_chine_quotidienne
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-13

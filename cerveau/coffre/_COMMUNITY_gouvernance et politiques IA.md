@@ -38,8 +38,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_veille chine quotidienne]]
-- 1 edge to [[_COMMUNITY_veille outils et code]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-13]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-12]]
 - 1 edge to [[_COMMUNITY_Anthropic]]
 
 ## Top bridge nodes

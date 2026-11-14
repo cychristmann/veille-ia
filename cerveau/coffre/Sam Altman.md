@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-14-3.md"
 type: "concept"
-community: "appel de paris"
+community: "Appel de Paris"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/appel_de_paris
+  - community/Appel_de_Paris
 ---
 
 # Sam Altman
@@ -14,4 +14,4 @@ tags:
 - [[Appel de Paris]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/appel_de_paris
+#graphify/concept #graphify/EXTRACTED #community/Appel_de_Paris

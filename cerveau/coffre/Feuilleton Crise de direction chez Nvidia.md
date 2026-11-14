@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0001.md"
 type: "document"
-community: "recherche sur l'ia openai"
+community: "OpenAI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/recherche_sur_lia_openai
+  - community/OpenAI
 ---
 
 # Feuilleton: Crise de direction chez Nvidia
@@ -14,4 +14,4 @@ tags:
 - [[Jensen Huang]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/recherche_sur_lia_openai
+#graphify/document #graphify/EXTRACTED #community/OpenAI

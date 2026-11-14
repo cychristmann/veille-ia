@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t5.md"
 type: "concept"
-community: "actualités de google"
+community: "Google"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/actualités_de_google
+  - community/Google
 ---
 
 # Google
@@ -27,4 +27,4 @@ tags:
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-14  Économie, Marchés et Investissements]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/actualités_de_google
+#graphify/concept #graphify/EXTRACTED #community/Google

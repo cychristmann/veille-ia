@@ -21,7 +21,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_avancées matérielles nvidia]]
+- 2 edges to [[_COMMUNITY_Nvidia]]
 
 ## Top bridge nodes
 - [[Huawei]] - degree 3, connects to 1 community

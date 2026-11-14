@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-10-t5.md"
 type: "document"
-community: "veille états-unis éthique sécurité"
+community: "Veille États-Unis 2026-11-10 : Régulation, sécurité et éthique"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/veille_états-unis_éthique_sécurité
+  - community/Veille_États-Unis_2026-11-10__Régulation_sécurité_et_éthique
 ---
 
 # Veille États-Unis 2026-11-10 : Régulation, sécurité et éthique
 
-#graphify/document #graphify/EXTRACTED #community/veille_états-unis_éthique_sécurité
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-10__Régulation_sécurité_et_éthique

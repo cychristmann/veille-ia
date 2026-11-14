@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "code"
-community: "université aéronautique de nankin"
+community: "Nanjing University of Aeronautics and Astronautics"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/université_aéronautique_de_nankin
+  - community/Nanjing_University_of_Aeronautics_and_Astronautics
 ---
 
 # Nanjing University of Aeronautics and Astronautics
 
-#graphify/code #graphify/EXTRACTED #community/université_aéronautique_de_nankin
+#graphify/code #graphify/EXTRACTED #community/Nanjing_University_of_Aeronautics_and_Astronautics

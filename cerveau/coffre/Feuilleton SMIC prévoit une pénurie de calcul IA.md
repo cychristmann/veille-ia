@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0016.md"
 type: "document"
-community: "avancées matérielles nvidia"
+community: "Nvidia"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/avancées_matérielles_nvidia
+  - community/Nvidia
 ---
 
 # Feuilleton: SMIC prévoit une pénurie de calcul IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[SMIC]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/avancées_matérielles_nvidia
+#graphify/document #graphify/EXTRACTED #community/Nvidia

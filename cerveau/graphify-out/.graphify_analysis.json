@@ -882,8 +882,8 @@
       "degree": 12
     },
     {
-      "id": "veilles_claude_code",
-      "label": "Claude Code",
+      "id": "veilles_gemini_4_hydrogen",
+      "label": "Gemini 4 Hydrogen",
       "degree": 12
     }
   ],
@@ -947,7 +947,7 @@
   "questions": [
     {
       "type": "bridge_node",
-      "question": "Why does `Anthropic` connect `Anthropic` to `écosystème Anthropic`, `stratégie et technologie IA`, `infrastructure cloud coreweave`, `Veille Outils & code 2026-11-12`, `IA grand public chinoise`, `gouvernance et politiques IA`, `Google`, `Veille Chine 2026-11-13`, `Nvidia`, `Microsoft`, `CoreWeave`, `Appel de Paris`, `SpaceX`?",
+      "question": "Why does `Anthropic` connect `Anthropic` to `écosystème Anthropic`, `stratégie et technologie IA`, `CoreWeave`, `Veille Outils & code 2026-11-12`, `IA grand public chinoise`, `gouvernance et politiques IA`, `Google`, `Veille Chine 2026-11-13`, `Nvidia`, `Microsoft`, `CoreWeave`, `Appel de Paris`, `SpaceX`?",
       "why": "High betweenness centrality (0.251) - this node is a cross-community bridge."
     },
     {
@@ -967,7 +967,7 @@
     },
     {
       "type": "bridge_node",
-      "question": "Why does `Nvidia` connect `Nvidia` to `stratégie et technologie IA`, `recherche sur l'ia openai`, `Veille États-Unis 2026-11-13 : Développements et investissements corporatifs`, `Anthropic`, `produits IA grand public`, `modèles IA et éthique`, `IA grand public chinoise`, `Google`, `Veille États-Unis 2026-11-08 : Régulation et contentieux`, `Baidu et IA incarnée`, `Veille Chine 2026-11-13`, `CoreWeave`, `SpaceX`, `sécurité et éthique IA`, `Dossier: Course à l'IA entre États‑Unis et Chine`?",
+      "question": "Why does `Nvidia` connect `Nvidia` to `stratégie et technologie IA`, `OpenAI`, `Veille États-Unis 2026-11-13 : Développements et investissements corporatifs`, `Anthropic`, `produits IA grand public`, `modèles IA et éthique`, `IA grand public chinoise`, `Google`, `Veille États-Unis 2026-11-08 : Régulation et contentieux`, `Baidu et IA incarnée`, `Veille Chine 2026-11-13`, `CoreWeave`, `SpaceX`, `sécurité et éthique IA`, `Dossier: Course à l'IA entre États‑Unis et Chine`?",
       "why": "High betweenness centrality (0.197) - this node is a cross-community bridge."
     },
     {

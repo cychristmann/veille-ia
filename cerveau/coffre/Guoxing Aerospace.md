@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-13-t3.md"
 type: "concept"
-community: "veille chine quotidienne"
+community: "Veille Chine 2026-11-13"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/veille_chine_quotidienne
+  - community/Veille_Chine_2026-11-13
 ---
 
 # Guoxing Aerospace
@@ -14,4 +14,4 @@ tags:
 - [[Star-Compute Project]] - `conceptually_related_to` [EXTRACTED]
 - [[Veille Chine 2026-11-13]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/veille_chine_quotidienne
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-13

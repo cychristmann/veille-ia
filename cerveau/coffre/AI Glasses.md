@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
 type: "code"
-community: "actualités de google"
+community: "Google"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/actualités_de_google
+  - community/Google
 ---
 
 # AI Glasses
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Google]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/actualités_de_google
+#graphify/code #graphify/EXTRACTED #community/Google

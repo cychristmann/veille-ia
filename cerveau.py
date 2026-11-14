@@ -375,7 +375,13 @@ def traduire_themes() -> None:
         return
     noms = json.loads(NOMS_THEMES.read_text(encoding="utf-8"))
     memo = json.loads(MEMO_TRADUCTIONS.read_text(encoding="utf-8")) if MEMO_TRADUCTIONS.exists() else {}
-    deja_fr = set(memo.values())
+    # Faute de nom, Graphify nomme un thème d'après son entité principale (« Nvidia ») ou
+    # une note (« Veille Chine 2026-11-13 ») : ce sont des noms propres, à ne pas traduire.
+    # Les traduire produisait des noms inventés (« Nvidia » → « avancées matérielles
+    # nvidia », constaté le 14/11/2026).
+    propres = {n.get("label") for n in json.loads(GRAPHE.read_text(encoding="utf-8"))["nodes"]}
+    memo = {k: v for k, v in memo.items() if k not in propres}
+    deja_fr = set(memo.values()) | propres
     a_traduire = sorted({n for n in noms.values() if n not in memo and n not in deja_fr})
     if a_traduire:
         from langchain_google_genai import ChatGoogleGenerativeAI
@@ -404,18 +410,14 @@ def traduire_themes() -> None:
                                     encoding="utf-8")
     traduits = {cid: memo.get(n, n) for cid, n in noms.items()}
     NOMS_THEMES.write_text(json.dumps(traduits, ensure_ascii=False), encoding="utf-8")
-    # Le graphe et le rapport portent aussi les noms : on les aligne.
+    # Le graphe porte aussi les noms de thèmes : on les aligne. Le rapport, lui, n'est plus
+    # retouché par remplacement de texte (cela renommait aussi les entités) : Graphify le
+    # régénère au prochain regroupement avec les noms français enregistrés.
     g = json.loads(GRAPHE.read_text(encoding="utf-8"))
     for n in g["nodes"]:
         if n.get("community_name") in memo:
             n["community_name"] = memo[n["community_name"]]
     GRAPHE.write_text(json.dumps(g, ensure_ascii=False, indent=1), encoding="utf-8")
-    rapport = GRAPHE.parent / "GRAPH_REPORT.md"
-    if rapport.exists():
-        texte = rapport.read_text(encoding="utf-8")
-        for anglais in sorted(memo, key=len, reverse=True):
-            texte = texte.replace(anglais, memo[anglais])
-        rapport.write_text(texte, encoding="utf-8")
     print(f"Thèmes : {len(a_traduire)} nouveaux noms traduits, {len(noms)} au total.")
 
 

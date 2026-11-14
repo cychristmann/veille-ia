@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-11-t3.md"
 type: "concept"
-community: "actualités de google"
+community: "Google"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/actualités_de_google
+  - community/Google
 ---
 
 # Adobe MAX 2026
@@ -16,4 +16,4 @@ tags:
 - [[Veille Chine 2026-11-11  Applications sectorielles]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-13  Applications & Outils IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/actualités_de_google
+#graphify/concept #graphify/EXTRACTED #community/Google

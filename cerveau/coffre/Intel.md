@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-13-1.md"
 type: "concept"
-community: "infrastructure cloud coreweave"
+community: "CoreWeave"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/infrastructure_cloud_coreweave
+  - community/CoreWeave
 ---
 
 # Intel
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[CoreWeave]] - `shares_data_with` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/infrastructure_cloud_coreweave
+#graphify/concept #graphify/INFERRED #community/CoreWeave

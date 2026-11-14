@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-13-2.md"
 type: "concept"
-community: "avancées matérielles nvidia"
+community: "Nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/avancées_matérielles_nvidia
+  - community/Nvidia
 ---
 
 # US Restrictions on AI Chips
@@ -14,4 +14,4 @@ tags:
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[SMIC]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/avancées_matérielles_nvidia
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

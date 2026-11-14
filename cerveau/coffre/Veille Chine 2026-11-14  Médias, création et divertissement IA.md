@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-14-t3.md"
 type: "document"
-community: "courts métrages IA"
+community: "AI Short Dramas (AI短剧)"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/courts_métrages_IA
+  - community/AI_Short_Dramas_AI短剧
 ---
 
 # Veille Chine 2026-11-14 : Médias, création et divertissement IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AI Short Dramas (AI短剧)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/courts_métrages_IA
+#graphify/document #graphify/EXTRACTED #community/AI_Short_Dramas_AI短剧

@@ -32,8 +32,8 @@ SORT file.name ASC
 
 ## Connections to other communities
 - 1 edge to [[_COMMUNITY_stratégie et technologie IA]]
-- 1 edge to [[_COMMUNITY_actualités de google]]
-- 1 edge to [[_COMMUNITY_avancées matérielles nvidia]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
 
 ## Top bridge nodes
 - [[Veille France 2026-11-10  Sécurité, risques et éthique]] - degree 3, connects to 2 communities

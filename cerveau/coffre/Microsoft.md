@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-14-t5.md"
 type: "concept"
-community: "écosystème microsoft"
+community: "Microsoft"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/écosystème_microsoft
+  - community/Microsoft
 ---
 
 # Microsoft
@@ -22,4 +22,4 @@ tags:
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-14  Incident FAA et Intelligence Artificielle]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/écosystème_microsoft
+#graphify/concept #graphify/EXTRACTED #community/Microsoft

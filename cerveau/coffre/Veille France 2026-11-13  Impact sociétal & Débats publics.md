@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t4.md"
 type: "document"
-community: "recherche sur l'ia openai"
+community: "OpenAI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/recherche_sur_lia_openai
+  - community/OpenAI
 ---
 
 # Veille France 2026-11-13 : Impact sociétal & Débats publics
@@ -17,4 +17,4 @@ tags:
 - [[Jensen Huang]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/recherche_sur_lia_openai
+#graphify/document #graphify/EXTRACTED #community/OpenAI

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-11-t5.md"
 type: "concept"
-community: "infrastructure cloud coreweave"
+community: "CoreWeave"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/infrastructure_cloud_coreweave
+  - community/CoreWeave
 ---
 
 # CVS Health
@@ -14,4 +14,4 @@ tags:
 - [[Veille Chine 2026-11-11  Autres articles]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-14]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/infrastructure_cloud_coreweave
+#graphify/concept #graphify/EXTRACTED #community/CoreWeave

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t5.md"
 type: "document"
-community: "actualités de google"
+community: "Google"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/actualités_de_google
+  - community/Google
 ---
 
 # Veille France 2026-11-09 : Autres articles
@@ -18,4 +18,4 @@ tags:
 - [[Google]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/actualités_de_google
+#graphify/document #graphify/EXTRACTED #community/Google

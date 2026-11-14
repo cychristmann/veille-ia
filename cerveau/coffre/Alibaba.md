@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-13-t6.md"
 type: "concept"
-community: "infrastructure cloud coreweave"
+community: "CoreWeave"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/infrastructure_cloud_coreweave
+  - community/CoreWeave
 ---
 
 # Alibaba
@@ -14,4 +14,4 @@ tags:
 - [[T-Head]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-13]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/infrastructure_cloud_coreweave
+#graphify/concept #graphify/EXTRACTED #community/CoreWeave

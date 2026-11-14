@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t1.md"
 type: "document"
-community: "veille états-unis régulation politique"
+community: "Veille États-Unis 2026-11-09 : Régulation et politiques publiques"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/veille_états-unis_régulation_politique
+  - community/Veille_États-Unis_2026-11-09__Régulation_et_politiques_publiques
 ---
 
 # Veille États-Unis 2026-11-09 : Régulation et politiques publiques
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[CISA]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/veille_états-unis_régulation_politique
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-09__Régulation_et_politiques_publiques

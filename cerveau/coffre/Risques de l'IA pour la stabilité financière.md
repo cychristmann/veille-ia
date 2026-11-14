@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0021.md"
 type: "concept"
-community: "appel de paris"
+community: "Appel de Paris"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/appel_de_paris
+  - community/Appel_de_Paris
 ---
 
 # Risques de l'IA pour la stabilité financière
@@ -14,4 +14,4 @@ tags:
 - [[Feuilleton L'IA en tête des risques pour la stabilité financière]] - `references` [EXTRACTED]
 - [[Régulation européenne de l'IA]] - `conceptually_related_to` [INFERRED]
 
-#graphify/concept #graphify/EXTRACTED #community/appel_de_paris
+#graphify/concept #graphify/EXTRACTED #community/Appel_de_Paris

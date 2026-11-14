@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t5.md"
 type: "concept"
-community: "avancées matérielles nvidia"
+community: "Nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/avancées_matérielles_nvidia
+  - community/Nvidia
 ---
 
 # Nvidia
@@ -55,4 +55,4 @@ tags:
 - [[Veille États-Unis 2026-11-14  Politique, Régulation et Sécurité]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-14  Économie, Marchés et Investissements]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/avancées_matérielles_nvidia
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

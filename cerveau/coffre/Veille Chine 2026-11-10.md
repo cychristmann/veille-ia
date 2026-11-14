@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "document"
-community: "écosystème microsoft"
+community: "Microsoft"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/écosystème_microsoft
+  - community/Microsoft
 ---
 
 # Veille Chine 2026-11-10
@@ -16,4 +16,4 @@ tags:
 - [[Microsoft]] - `references` [EXTRACTED]
 - [[Siemens]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/écosystème_microsoft
+#graphify/document #graphify/EXTRACTED #community/Microsoft

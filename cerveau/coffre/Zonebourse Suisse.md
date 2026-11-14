@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0008.md"
 type: "concept"
-community: "infrastructure cloud coreweave"
+community: "CoreWeave"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/infrastructure_cloud_coreweave
+  - community/CoreWeave
 ---
 
 # Zonebourse Suisse
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[T-Head]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/infrastructure_cloud_coreweave
+#graphify/concept #graphify/EXTRACTED #community/CoreWeave

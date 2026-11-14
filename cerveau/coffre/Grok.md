@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-13-t6.md"
 type: "code"
-community: "infrastructure cloud coreweave"
+community: "CoreWeave"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/infrastructure_cloud_coreweave
+  - community/CoreWeave
 ---
 
 # Grok
@@ -15,4 +15,4 @@ tags:
 - [[Veille États-Unis 2026-11-14  Agents et Outils Technologiques]] - `references` [EXTRACTED]
 - [[xAI]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/infrastructure_cloud_coreweave
+#graphify/code #graphify/EXTRACTED #community/CoreWeave

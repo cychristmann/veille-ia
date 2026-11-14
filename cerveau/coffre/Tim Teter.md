@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
 type: "code"
-community: "avancées matérielles nvidia"
+community: "Nvidia"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/avancées_matérielles_nvidia
+  - community/Nvidia
 ---
 
 # Tim Teter
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/avancées_matérielles_nvidia
+#graphify/code #graphify/EXTRACTED #community/Nvidia

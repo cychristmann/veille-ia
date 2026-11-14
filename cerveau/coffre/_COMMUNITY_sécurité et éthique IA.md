@@ -26,8 +26,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_avancées matérielles nvidia]]
-- 1 edge to [[_COMMUNITY_recherche sur l'ia openai]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_OpenAI]]
 - 1 edge to [[_COMMUNITY_SpaceX]]
 
 ## Top bridge nodes

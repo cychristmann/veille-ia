@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-14-t1.md"
 type: "document"
-community: "suite créative adobe"
+community: "Adobe Creative Cloud"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/suite_créative_adobe
+  - community/Adobe_Creative_Cloud
 ---
 
 # Veille Chine 2026-11-14 : Stratégie, gouvernance et recherche IA
@@ -18,4 +18,4 @@ tags:
 - [[腾讯闭门会比喻被误读为裁员50%]] - `references` [EXTRACTED]
 - [[让人工智能技术潜力更好转化为生产率增长]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/suite_créative_adobe
+#graphify/document #graphify/EXTRACTED #community/Adobe_Creative_Cloud

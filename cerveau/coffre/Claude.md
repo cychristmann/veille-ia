@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "code"
-community: "écosystème microsoft"
+community: "Microsoft"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/écosystème_microsoft
+  - community/Microsoft
 ---
 
 # Claude
@@ -19,4 +19,4 @@ tags:
 - [[Veille France 2026-11-08  Applications concrètes et innovations IA]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-14]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/écosystème_microsoft
+#graphify/code #graphify/EXTRACTED #community/Microsoft

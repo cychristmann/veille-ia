@@ -34,9 +34,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_actualités de google]]
-- 1 edge to [[_COMMUNITY_infrastructure cloud coreweave]]
-- 1 edge to [[_COMMUNITY_avancées matérielles nvidia]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_CoreWeave]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
 
 ## Top bridge nodes
 - [[Veille France 2026-11-12]] - degree 14, connects to 2 communities

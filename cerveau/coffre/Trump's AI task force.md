@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-13-t2.md"
 type: "code"
-community: "avancées matérielles nvidia"
+community: "Nvidia"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/avancées_matérielles_nvidia
+  - community/Nvidia
 ---
 
 # Trump's AI task force
@@ -14,4 +14,4 @@ tags:
 - [[Nvidia]] - `references` [INFERRED]
 - [[Veille États-Unis 2026-11-13  Régulation et politiques publiques]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/avancées_matérielles_nvidia
+#graphify/code #graphify/EXTRACTED #community/Nvidia

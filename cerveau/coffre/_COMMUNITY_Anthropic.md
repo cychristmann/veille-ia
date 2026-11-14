@@ -53,18 +53,18 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_avancées matérielles nvidia]]
-- 3 edges to [[_COMMUNITY_écosystème microsoft]]
-- 3 edges to [[_COMMUNITY_veille outils et code]]
-- 2 edges to [[_COMMUNITY_actualités de google]]
+- 3 edges to [[_COMMUNITY_Nvidia]]
+- 3 edges to [[_COMMUNITY_Microsoft]]
+- 3 edges to [[_COMMUNITY_Veille Outils & code 2026-11-12]]
+- 2 edges to [[_COMMUNITY_Google]]
 - 2 edges to [[_COMMUNITY_stratégie et technologie IA]]
-- 1 edge to [[_COMMUNITY_veille chine quotidienne]]
-- 1 edge to [[_COMMUNITY_infrastructure cloud coreweave]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-13]]
+- 1 edge to [[_COMMUNITY_CoreWeave]]
 - 1 edge to [[_COMMUNITY_SpaceX]]
 - 1 edge to [[_COMMUNITY_écosystème Anthropic]]
 - 1 edge to [[_COMMUNITY_gouvernance et politiques IA]]
-- 1 edge to [[_COMMUNITY_appel de paris]]
-- 1 edge to [[_COMMUNITY_infrastructure cloud coreweave_1]]
+- 1 edge to [[_COMMUNITY_Appel de Paris]]
+- 1 edge to [[_COMMUNITY_CoreWeave_1]]
 - 1 edge to [[_COMMUNITY_IA grand public chinoise]]
 
 ## Top bridge nodes

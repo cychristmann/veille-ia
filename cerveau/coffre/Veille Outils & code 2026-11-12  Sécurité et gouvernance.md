@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-12-t4.md"
 type: "document"
-community: "veille outils sécurité gouvernance"
+community: "Veille Outils & code 2026-11-12 : Sécurité et gouvernance"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/veille_outils_sécurité_gouvernance
+  - community/Veille_Outils__code_2026-11-12__Sécurité_et_gouvernance
 ---
 
 # Veille Outils & code 2026-11-12 : Sécurité et gouvernance
@@ -17,4 +17,4 @@ tags:
 - [[Kiji Inspector]] - `references` [EXTRACTED]
 - [[Stolen Claude API keys can turn Claude Code into a remote-controlled implant]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/veille_outils_sécurité_gouvernance
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12__Sécurité_et_gouvernance

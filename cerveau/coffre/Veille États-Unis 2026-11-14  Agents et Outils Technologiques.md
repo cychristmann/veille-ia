@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-14-t3.md"
 type: "document"
-community: "infrastructure cloud coreweave"
+community: "CoreWeave"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/infrastructure_cloud_coreweave
+  - community/CoreWeave
 ---
 
 # Veille États-Unis 2026-11-14 : Agents et Outils Technologiques
@@ -16,4 +16,4 @@ tags:
 - [[Grok]] - `references` [EXTRACTED]
 - [[Perplexity]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/infrastructure_cloud_coreweave
+#graphify/document #graphify/EXTRACTED #community/CoreWeave

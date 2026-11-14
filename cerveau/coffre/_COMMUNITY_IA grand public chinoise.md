@@ -31,9 +31,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_actualités de google]]
-- 1 edge to [[_COMMUNITY_veille chine quotidienne]]
-- 1 edge to [[_COMMUNITY_avancées matérielles nvidia]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-13]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
 - 1 edge to [[_COMMUNITY_Anthropic]]
 
 ## Top bridge nodes

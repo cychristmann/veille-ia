@@ -26,11 +26,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_avancées matérielles nvidia]]
-- 1 edge to [[_COMMUNITY_actualités de google]]
-- 1 edge to [[_COMMUNITY_infrastructure cloud coreweave]]
+- 4 edges to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_CoreWeave]]
 - 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_veille états-unis investissements entreprises]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
 - 1 edge to [[_COMMUNITY_sécurité et éthique IA]]
 
 ## Top bridge nodes

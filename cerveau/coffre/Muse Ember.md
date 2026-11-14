@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
 type: "code"
-community: "veille chine quotidienne"
+community: "Veille Chine 2026-11-13"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/veille_chine_quotidienne
+  - community/Veille_Chine_2026-11-13
 ---
 
 # Muse Ember
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Meta]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/veille_chine_quotidienne
+#graphify/code #graphify/EXTRACTED #community/Veille_Chine_2026-11-13

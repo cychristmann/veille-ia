@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-11-t2.md"
 type: "concept"
-community: "veille outils et code"
+community: "Veille Outils & code 2026-11-12"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/veille_outils_et_code
+  - community/Veille_Outils__code_2026-11-12
 ---
 
 # Obsidian
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Claude Code]] - `shares_data_with` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/veille_outils_et_code
+#graphify/concept #graphify/INFERRED #community/Veille_Outils__code_2026-11-12

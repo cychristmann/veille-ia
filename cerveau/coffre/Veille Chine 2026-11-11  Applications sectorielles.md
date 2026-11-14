@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-11-t3.md"
 type: "document"
-community: "actualités de google"
+community: "Google"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/actualités_de_google
+  - community/Google
 ---
 
 # Veille Chine 2026-11-11 : Applications sectorielles
@@ -16,4 +16,4 @@ tags:
 - [[Google DeepMind Hurricane Model]] - `references` [EXTRACTED]
 - [[MiniMax Model]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/actualités_de_google
+#graphify/document #graphify/EXTRACTED #community/Google

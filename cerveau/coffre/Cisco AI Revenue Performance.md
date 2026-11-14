@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-13-t4.md"
 type: "concept"
-community: "suite créative adobe"
+community: "Adobe Creative Cloud"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/suite_créative_adobe
+  - community/Adobe_Creative_Cloud
 ---
 
 # Cisco AI Revenue Performance
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-13  Régulation, compétition et marché]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/suite_créative_adobe
+#graphify/concept #graphify/EXTRACTED #community/Adobe_Creative_Cloud
