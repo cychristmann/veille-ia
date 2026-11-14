@@ -429,8 +429,7 @@
   details.autres-feuilletons { margin-top: 26px; }
   details.autres-feuilletons summary { cursor: pointer; font-weight: 600; color: var(--texte-2); }
 
-  .pied-barre { margin-top: auto; display: flex; justify-content: space-between; align-items: center; padding: 0 6px; }
-  .pied-barre small { color: var(--texte-3); font-size: .75rem; }
+  .pied-barre { margin-top: auto; display: flex; justify-content: flex-end; align-items: center; padding: 0 6px; }
   .bouton-icone {
     display: grid; place-items: center; width: 36px; height: 36px; border-radius: 9px; cursor: pointer;
     background: var(--surface); border: 1px solid var(--bordure); color: var(--texte-2);
@@ -757,7 +756,6 @@
     </nav>
 
     <div class="pied-barre">
-      <small>Données : Google Actualités et médias tech</small>
       <button class="bouton-icone" id="theme" type="button" aria-label="Basculer le thème clair ou sombre">
         <svg class="icone" data-icone="lune"></svg>
       </button>
