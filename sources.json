@@ -20,9 +20,22 @@
       "The Decoder": "https://the-decoder.com/feed/",
       "MarkTechPost": "https://www.marktechpost.com/feed/",
       "Bloomberg Technology": "https://feeds.bloomberg.com/technology/news.rss",
-      "The Wall Street Journal (Tech)": "https://feeds.content.dowjones.io/public/rss/RSSWSJD"
+      "The Wall Street Journal (Tech)": "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
+      "CASRAI": "https://casrai.org/feed.xml",
+      "markets.businessinsider.com": "https://markets.businessinsider.com/rss",
+      "Amazon Web Services (AWS)": "https://aws.amazon.com/rss",
+      "Mashable": "https://mashable.com/feeds/rss/all",
+      "Fortune": "https://fortune.com/feed",
+      "PYMNTS.com": "https://www.pymnts.com/feed/atom/"
     },
-    "cn": {}
+    "cn": {},
+    "dev": {
+      "HackerNoon": "https://hackernoon.com/feed",
+      "Crypto Briefing": "https://cryptobriefing.com/feed/",
+      "DevOps.com": "https://devops.com/feed.xml",
+      "IT Brief Australia": "https://itbrief.com.au/feed",
+      "news.lavx.hu": "https://news.lavx.hu/api/rss"
+    }
   },
   "propositions": [],
   "refusees": [
