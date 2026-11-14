@@ -116,6 +116,9 @@
               stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
   [hidden] { display: none !important; }
   :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  /* Surfaces du navigateur aux couleurs de l'app : sélection, curseur, cases et listes. */
+  ::selection { background: var(--accent); color: var(--accent-texte); }
+  :root { accent-color: var(--accent); caret-color: var(--accent); }
 
   /* ---------- Structure : barre latérale + contenu ---------- */
   .app { display: grid; grid-template-columns: 290px minmax(0, 1fr); min-height: 100vh; }
@@ -174,6 +177,8 @@
     background: var(--accent); box-shadow: 0 0 0 4px var(--accent-doux);
   }
   .aucun-jour { margin: 0 6px; font-size: .85rem; color: var(--texte-3); }
+  /* Dans les vues, le message d'état vide s'aligne sur le texte d'introduction. */
+  .page .aucun-jour { margin-left: 0; margin-right: 0; font-size: .92rem; }
 
   .note-auto {
     display: flex; align-items: center; justify-content: center; gap: 8px; margin: 0; padding: 10px 12px;
@@ -773,6 +778,12 @@
     #vue > #rubrique-videos { order: 10; }
     #vue > #rubrique-podcasts { order: 11; }
     #vue > .consommation { order: 12; }
+    /* Finitions à 360 px */
+    #vue > .synthese { margin-top: 30px; }                      /* respiration après la liste d'articles */
+    .top h2 { flex-wrap: wrap; row-gap: 2px; }
+    .top h2 small { flex-basis: 100%; margin-left: 28px; }      /* sous le titre, aligné sur son texte */
+    .tete-theme h2 { font-size: 1.12rem; flex-wrap: wrap; row-gap: 0; }
+    .feuilleton .depuis { margin-left: 0; flex-basis: 100%; }   /* plus de ligne flottante à droite */
   }
   @media (pointer: coarse) {
     .bouton-carte { width: 44px; height: 44px; }
@@ -856,7 +867,7 @@
             <h1 id="titre"></h1>
             <p class="meta"><svg class="icone" data-icone="horloge"></svg><span id="meta"></span></p>
           </div>
-          <div class="regions" id="regions" role="tablist" aria-label="Choisir la région"></div>
+          <div class="regions" id="regions" role="tablist" aria-label="Choisir la section"></div>
         </header>
         <p class="note-langue" id="note-langue" hidden><svg class="icone" data-icone="langues"></svg>Titres traduits en français par l'agent traducteur · titre original sous chaque article</p>
         <div class="alertes" id="alertes"></div>
