@@ -139,6 +139,20 @@ def _graphify(*args: str, obligatoire: bool = True) -> bool:
     return subprocess.run(cmd, cwd=RACINE, env=env, check=obligatoire).returncode == 0
 
 
+def _compter_graphify(cout: Path, runs_avant: int) -> None:
+    """Graphify appelle Gemini lui-même : on reporte ses tokens dans le compteur du jour."""
+    try:
+        from consommation import enregistrer
+
+        runs = json.loads(cout.read_text(encoding="utf-8")).get("runs", [])[runs_avant:]
+        entree = sum(r.get("input_tokens", 0) for r in runs)
+        sortie = sum(r.get("output_tokens", 0) for r in runs)
+        enregistrer("gemini", entree, sortie, appels=len(runs),
+                    etape="graphify")
+    except (OSError, ValueError):
+        pass
+
+
 def extraire() -> None:
     """Étape 2 : extraction des entités et relations (incrémentale grâce au cache Graphify).
 
@@ -154,10 +168,13 @@ def extraire() -> None:
     # le 14/11/2026 : rien d'intégré depuis le 12). « --allow-partial » : une note refusée
     # par Gemini ne bloque plus les autres ; elle sera retentée au prochain passage.
     avant = GRAPHE_BRUT.stat().st_mtime if GRAPHE_BRUT.exists() else 0
+    cout = BRUT / "graphify-out" / "cost.json"
+    runs_avant = len(json.loads(cout.read_text(encoding="utf-8")).get("runs", [])) if cout.exists() else 0
     reussi = _graphify("extract", str(SOURCES.relative_to(RACINE)), "--backend", "gemini",
                        "--out", str(BRUT.relative_to(RACINE)), "--max-concurrency", "2",
                        "--token-budget", "1500", "--mode", "deep", "--no-gitignore",
                        "--allow-partial", obligatoire=False)
+    _compter_graphify(cout, runs_avant)
     if not GRAPHE_BRUT.exists():
         sys.exit("Extraction impossible et aucun graphe existant.")
     if GRAPHE_BRUT.stat().st_mtime == avant:
@@ -394,8 +411,11 @@ def traduire_themes() -> None:
         class Traductions(BaseModel):
             traductions: list[Traduction]
 
+        from consommation import COMPTEUR_GEMINI
+
         llm = ChatGoogleGenerativeAI(model=MODELE_GEMINI, google_api_key=os.environ["GEMINI_API_KEY"],
-                                     max_output_tokens=4000, max_retries=3)
+                                     max_output_tokens=4000, max_retries=3,
+                                     callbacks=[COMPTEUR_GEMINI])
         consigne = ("Traduis en français ces noms de thèmes d'une veille sur l'intelligence "
                     "artificielle. Garde les noms propres (Anthropic, Nvidia, Baidu…), écris "
                     "« IA » pour « AI », pas de majuscule à chaque mot.\n\n" + "\n".join(a_traduire))

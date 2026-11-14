@@ -15,6 +15,7 @@ import shutil
 from pathlib import Path
 
 from agent import DOSSIER_RAPPORTS
+import consommation
 from interface import (DOSSIER_ANALYSES, _fichiers_veille, etat_sources, index_recherche,
                        lire_tendances, liste_veilles)
 
@@ -109,6 +110,8 @@ def construire() -> int:
     for fichier in list(DOSSIER_RAPPORTS.glob("dossiers-*.json")) + [DOSSIER_RAPPORTS / "memoire.json"]:
         if fichier.is_file():
             shutil.copy(fichier, SITE / "donnees" / fichier.name)
+    # Compteur de tokens Groq / Gemini (consommation.py).
+    _ecrire_json(SITE / "donnees" / "consommation.json", {"jours": consommation.historique()})
     # Analyses de l'agent interprète (« Ce qui change »).
     for fichier in DOSSIER_ANALYSES.glob("analyse-*.json"):
         shutil.copy(fichier, SITE / "donnees" / fichier.name)

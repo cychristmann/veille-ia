@@ -426,7 +426,10 @@ def creer_llm(max_tokens: int, max_retries: int = 6):
     # max_retries : les appels s'enchaînent et peuvent dépasser la limite de 8 000
     # tokens/minute ; le client attend alors le délai indiqué par Groq et réessaie.
     # max_tokens compte dans cette limite : un prompt long demande un max_tokens plus bas.
-    return ChatGroq(model=MODEL, reasoning_effort="low", max_tokens=max_tokens, max_retries=max_retries)
+    from consommation import COMPTEUR_GROQ  # compteur de tokens du jour (consommation.py)
+
+    return ChatGroq(model=MODEL, reasoning_effort="low", max_tokens=max_tokens, max_retries=max_retries,
+                    callbacks=[COMPTEUR_GROQ])
 
 
 def secours_disponible() -> bool:
@@ -436,8 +439,11 @@ def secours_disponible() -> bool:
 def _llm_gemini(modele: str, max_tokens: int):
     from langchain_google_genai import ChatGoogleGenerativeAI
 
+    from consommation import COMPTEUR_GEMINI
+
     return ChatGoogleGenerativeAI(model=modele, google_api_key=os.environ["GEMINI_API_KEY"],
-                                  max_output_tokens=max_tokens, max_retries=2)
+                                  max_output_tokens=max_tokens, max_retries=2,
+                                  callbacks=[COMPTEUR_GEMINI])
 
 
 def llm_avec_secours(max_tokens: int, preparer_groq, preparer_gemini=None):

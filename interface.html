@@ -316,6 +316,27 @@
   .analyse-carte ul a:hover { color: var(--accent); }
   .analyses .avertissement { font-size: .8rem; color: var(--texte-3); margin: 0 0 10px; }
 
+  /* ---------- Consommation d'IA (tokens Groq / Gemini) ---------- */
+  .consommation { margin-top: 18px; }
+  .consommation > .tete-rubrique small { color: var(--texte-3); }
+  .conso-cartes { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+  .conso-carte {
+    padding: 16px 18px; border-radius: 16px; background: var(--surface);
+    border: 1px solid var(--bordure); box-shadow: var(--ombre-1);
+  }
+  .conso-carte h3 { margin: 0 0 4px; font-size: .9rem; color: var(--texte-2); }
+  .conso-carte .valeur { font-size: 1.5rem; font-weight: 700; }
+  .conso-carte .detail { font-size: .82rem; color: var(--texte-3); margin-top: 2px; }
+  .jauge { height: 8px; border-radius: 999px; background: var(--surface-2); overflow: hidden; margin-top: 10px; }
+  .jauge i { display: block; height: 100%; border-radius: 999px; background: linear-gradient(90deg, var(--bleu-clair), var(--bleu-marine)); }
+  .jauge.alerte i { background: linear-gradient(90deg, #f0a35a, #d9534f); }
+  .consommation details { margin-top: 12px; }
+  .consommation details > summary { cursor: pointer; font-weight: 600; color: var(--accent); font-size: .88rem; }
+  .conso-table { width: 100%; border-collapse: collapse; margin-top: 8px; font-size: .86rem; }
+  .conso-table th, .conso-table td { padding: 6px 8px; text-align: right; border-bottom: 1px solid var(--bordure); }
+  .conso-table th:first-child, .conso-table td:first-child { text-align: left; }
+  .conso-table th { color: var(--texte-3); font-weight: 600; }
+
   /* ---------- Dossiers du rédacteur en chef ---------- */
   .dossiers { margin-top: 18px; }
   .dossiers > .tete-rubrique small { color: var(--texte-3); }
@@ -815,6 +836,22 @@
           <div id="liste-analyses"></div>
         </section>
 
+        <section class="consommation" id="consommation" hidden>
+          <div class="tete-rubrique">
+            <h2><span class="icone-theme" style="--teinte: 208"><svg class="icone" data-icone="tendance"></svg></span>Consommation d'IA</h2>
+            <small>tokens utilisés ce jour-là par la veille et ses agents · offres gratuites</small>
+          </div>
+          <div class="conso-cartes" id="conso-cartes"></div>
+          <details>
+            <summary>Détail par étape</summary>
+            <table class="conso-table" id="conso-etapes"></table>
+          </details>
+          <details>
+            <summary>Les 7 derniers jours</summary>
+            <table class="conso-table" id="conso-historique"></table>
+          </details>
+        </section>
+
         <section class="top" id="top" hidden>
           <h2><svg class="icone" data-icone="etincelles"></svg>À lire en priorité<small id="top-note"></small></h2>
           <ol id="liste-top"></ol>
@@ -1107,6 +1144,7 @@ const URLS = STATIQUE
       memoire: "donnees/memoire.json",
       dossiers: (d) => `donnees/dossiers-${encodeURIComponent(d)}.json`,
       analyse: (d) => `donnees/analyse-${encodeURIComponent(d)}.json`,
+      consommation: "donnees/consommation.json",
     }
   : {
       jours: "/api/veilles",
@@ -1117,6 +1155,7 @@ const URLS = STATIQUE
       memoire: "/api/memoire",
       dossiers: (d) => `/api/dossiers?date=${encodeURIComponent(d)}`,
       analyse: (d) => `/api/analyse?date=${encodeURIComponent(d)}`,
+      consommation: "/api/consommation",
     };
 const SVG = "http://www.w3.org/2000/svg";
 function icone(nom) {
@@ -1353,6 +1392,7 @@ function afficherVeille() {
   afficherVerification(veille.verification);
   chargerDossiers(jourActif);
   chargerAnalyse(jourActif);
+  chargerConsommation(jourActif);
   afficherTop(veille.top);
   afficherRubrique("videos", veille.videos);
   afficherRubrique("podcasts", veille.podcasts);
@@ -2086,6 +2126,64 @@ async function chargerAnalyse(date) {
   try { donnees = await lireJSON(URLS.analyse(date)); } catch { return; }
   if (date !== jourActif || !donnees || donnees.vide || !donnees.analyses?.length) return;
   $("liste-analyses").replaceChildren(...donnees.analyses.map(carteAnalyse));
+  remplirIcones(section);
+  section.hidden = false;
+}
+
+// ===== Consommation d'IA (consommation.py) =====
+const NOMS_ETAPES = {
+  agent: "Veille (4 sections)", memoire: "Mémoire des feuilletons", redacteur: "Rédacteur en chef",
+  tendances: "Tendances", cerveau: "Cerveau (doublons, thèmes)", graphify: "Graphify (extraction)",
+  interprete: "Interprète", interface: "App sur le PC (chat, relances)", autre: "Autres",
+};
+let consommationCache = null;
+const nombre = (n) => new Intl.NumberFormat("fr-FR", { maximumFractionDigits: 1 }).format(n || 0);
+const totalTokens = (f) => (f?.entree || 0) + (f?.sortie || 0);
+function carteConso(titre, f, detail, part) {
+  const c = el("div", "conso-carte");
+  c.append(el("h3", "", titre), el("div", "valeur", `${nombre(totalTokens(f))} tokens`),
+    el("div", "detail", detail));
+  if (part != null) {
+    const j = el("div", "jauge" + (part >= 80 ? " alerte" : ""));
+    const i = el("i");
+    i.style.width = `${Math.min(100, part)}%`;
+    j.append(i);
+    j.title = `${nombre(part)} % du quota gratuit quotidien`;
+    c.append(j);
+  }
+  return c;
+}
+function ligneTable(cellules, entete = false) {
+  const tr = el("tr");
+  for (const x of cellules) tr.append(el(entete ? "th" : "td", "", x));
+  return tr;
+}
+async function chargerConsommation(date) {
+  const section = $("consommation");
+  section.hidden = true;
+  try {
+    if (!consommationCache) consommationCache = (await lireJSON(URLS.consommation)).jours || [];
+  } catch { return; }
+  if (date !== jourActif) return;
+  const jour = consommationCache.find((d) => d.date === date);
+  if (!jour) return;  // le compteur n'existe que depuis le 14/11/2026
+  const groq = jour.fournisseurs?.groq, gemini = jour.fournisseurs?.gemini;
+  $("conso-cartes").replaceChildren(
+    carteConso("Groq (principal)", groq,
+      `${nombre(groq?.appels)} appels · ${nombre(jour.part_quota_groq)} % du quota gratuit (${nombre(jour.quota_groq)}/jour)`,
+      jour.part_quota_groq),
+    carteConso("Gemini (secours, cerveau)", gemini,
+      `${nombre(gemini?.appels)} appels · limite gratuite comptée en requêtes par jour`, null),
+  );
+  const etapes = Object.entries(jour.etapes || {})
+    .sort((a, b) => (totalTokens(b[1].groq) + totalTokens(b[1].gemini)) - (totalTokens(a[1].groq) + totalTokens(a[1].gemini)));
+  $("conso-etapes").replaceChildren(ligneTable(["Étape", "Groq", "Gemini"], true),
+    ...etapes.map(([nom, f]) => ligneTable([NOMS_ETAPES[nom] || nom, nombre(totalTokens(f.groq)), nombre(totalTokens(f.gemini))])));
+  $("conso-historique").replaceChildren(ligneTable(["Jour", "Groq", "% quota", "Gemini"], true),
+    ...consommationCache.slice(0, 7).map((d) => ligneTable([
+      fmt(dateLocale(d.date), { weekday: "short", day: "numeric", month: "short" }),
+      nombre(totalTokens(d.fournisseurs?.groq)), `${nombre(d.part_quota_groq)} %`, nombre(totalTokens(d.fournisseurs?.gemini)),
+    ])));
   remplirIcones(section);
   section.hidden = false;
 }
