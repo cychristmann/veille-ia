@@ -316,6 +316,25 @@
   .analyse-carte ul a:hover { color: var(--accent); }
   .analyses .avertissement { font-size: .8rem; color: var(--texte-3); margin: 0 0 10px; }
 
+  /* ---------- État de la nuit (sante.py) ---------- */
+  .sante { margin: 12px 0 0; }
+  .sante > summary {
+    display: inline-flex; align-items: center; gap: 7px; padding: 4px 12px; border-radius: 999px; cursor: pointer;
+    font-size: .82rem; font-weight: 600; list-style: none; border: 1px solid var(--bordure);
+    background: var(--surface); color: var(--texte-2);
+  }
+  .sante > summary::-webkit-details-marker { display: none; }
+  .sante .pastille { width: 9px; height: 9px; border-radius: 50%; background: #3fb27f; flex: none; }
+  .sante[data-statut="attention"] .pastille { background: #e0a030; }
+  .sante[data-statut="echec"] .pastille { background: #d9534f; }
+  .sante ul { list-style: none; margin: 10px 0 0; padding: 12px 16px; border-radius: 14px; background: var(--surface); border: 1px solid var(--bordure); }
+  .sante li { display: flex; gap: 10px; align-items: baseline; padding: 4px 0; font-size: .88rem; }
+  .sante li .pastille { transform: translateY(-1px); }
+  .sante li[data-statut="attention"] .pastille { background: #e0a030; }
+  .sante li[data-statut="echec"] .pastille { background: #d9534f; }
+  .sante li strong { flex: none; }
+  .sante li span.detail { color: var(--texte-3); overflow-wrap: anywhere; }
+
   /* ---------- Consommation d'IA (tokens Groq / Gemini) ---------- */
   .consommation { margin-top: 18px; }
   .consommation > .tete-rubrique small { color: var(--texte-3); }
@@ -790,6 +809,10 @@
         </header>
         <p class="note-langue" id="note-langue" hidden><svg class="icone" data-icone="langues"></svg>Titres traduits en français par l'agent traducteur · titre original sous chaque article</p>
         <div class="alertes" id="alertes"></div>
+        <details class="sante" id="sante" hidden>
+          <summary><span class="pastille"></span><span id="sante-resume"></span></summary>
+          <ul id="sante-liste"></ul>
+        </details>
 
         <div class="stats" id="stats"></div>
 
@@ -1143,6 +1166,7 @@ const URLS = STATIQUE
       dossiers: (d) => `donnees/dossiers-${encodeURIComponent(d)}.json`,
       analyse: (d) => `donnees/analyse-${encodeURIComponent(d)}.json`,
       consommation: "donnees/consommation.json",
+      sante: "donnees/sante.json",
     }
   : {
       jours: "/api/veilles",
@@ -1154,6 +1178,7 @@ const URLS = STATIQUE
       dossiers: (d) => `/api/dossiers?date=${encodeURIComponent(d)}`,
       analyse: (d) => `/api/analyse?date=${encodeURIComponent(d)}`,
       consommation: "/api/consommation",
+      sante: "/api/sante",
     };
 const SVG = "http://www.w3.org/2000/svg";
 function icone(nom) {
@@ -1391,6 +1416,7 @@ function afficherVeille() {
   chargerDossiers(jourActif);
   chargerAnalyse(jourActif);
   chargerConsommation(jourActif);
+  chargerSante(jourActif);
   afficherTop(veille.top);
   afficherRubrique("videos", veille.videos);
   afficherRubrique("podcasts", veille.podcasts);
@@ -2126,6 +2152,32 @@ async function chargerAnalyse(date) {
   $("liste-analyses").replaceChildren(...donnees.analyses.map(carteAnalyse));
   remplirIcones(section);
   section.hidden = false;
+}
+
+// ===== État de la nuit (sante.py) =====
+let santeCache = null;
+async function chargerSante(date) {
+  const bloc = $("sante");
+  bloc.hidden = true;
+  try {
+    if (!santeCache) santeCache = (await lireJSON(URLS.sante)).jours || [];
+  } catch { return; }
+  if (date !== jourActif) return;
+  const b = santeCache.find((d) => d.date === date);
+  if (!b) return;
+  const soucis = b.controles.filter((c) => c.statut !== "ok");
+  bloc.dataset.statut = b.statut;
+  bloc.open = false;
+  $("sante-resume").textContent = b.statut === "ok" ? "Nuit complète : toutes les étapes ont abouti"
+    : b.statut === "echec" ? `Problème cette nuit : ${soucis.map((c) => c.nom).join(", ")}`
+    : `${soucis.length} point${soucis.length > 1 ? "s" : ""} d'attention cette nuit`;
+  $("sante-liste").replaceChildren(...b.controles.map((c) => {
+    const li = el("li");
+    li.dataset.statut = c.statut;
+    li.append(el("span", "pastille"), el("strong", "", c.nom), el("span", "detail", c.detail));
+    return li;
+  }));
+  bloc.hidden = false;
 }
 
 // ===== Consommation d'IA (consommation.py) =====

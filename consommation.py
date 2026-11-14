@@ -21,7 +21,14 @@ from pathlib import Path
 
 from langchain_core.callbacks import BaseCallbackHandler
 
-DOSSIER = Path(__file__).parent / "veilles"
+import os
+
+# Sur GitHub (mission de nuit), le compteur est enregistré avec la veille. Sur le PC
+# (chat, relances, essais), il va dans un dossier à part, ignoré par Git : sinon le
+# fichier local entrerait en conflit avec celui de la mission au prochain « git pull ».
+DOSSIER_MISSION = Path(__file__).parent / "veilles"
+DOSSIER_LOCAL = Path(__file__).parent / "consommation-locale"
+DOSSIER = DOSSIER_MISSION if os.environ.get("GITHUB_ACTIONS") else DOSSIER_LOCAL
 FORMAT = re.compile(r"consommation-(\d{4}-\d{2}-\d{2})\.json")
 VERROU = threading.Lock()
 # Limite gratuite de Groq pour gpt-oss-120b (tokens par jour, entrée + sortie). Gemini
@@ -62,7 +69,7 @@ def enregistrer(fournisseur: str, entree: int, sortie: int, appels: int = 1,
             cible["sortie"] += int(sortie)
             cible["appels"] += appels
         try:
-            DOSSIER.mkdir(exist_ok=True)
+            DOSSIER.mkdir(parents=True, exist_ok=True)
             chemin.write_text(json.dumps(donnees, ensure_ascii=False, indent=1), encoding="utf-8")
         except OSError:
             pass  # le compteur ne doit jamais faire échouer la veille
@@ -95,21 +102,34 @@ COMPTEUR_GROQ = Compteur("groq")
 COMPTEUR_GEMINI = Compteur("gemini")
 
 
+def _ajouter(cible: dict, source: dict) -> None:
+    for cle in ("entree", "sortie", "appels"):
+        cible[cle] = cible.get(cle, 0) + source.get(cle, 0)
+
+
 def historique(jours: int = 30) -> list[dict]:
-    """Les derniers jours, du plus récent au plus ancien, avec le % du quota Groq."""
-    lignes = []
-    for chemin in DOSSIER.glob("consommation-*.json"):
-        if not FORMAT.fullmatch(chemin.name):
-            continue
-        try:
-            d = json.loads(chemin.read_text(encoding="utf-8"))
-        except (OSError, json.JSONDecodeError):
-            continue
-        groq = d.get("fournisseurs", {}).get("groq", _vide())
+    """Les derniers jours, du plus récent au plus ancien (mission de nuit + usage du PC),
+    avec le % du quota Groq."""
+    par_jour: dict[str, dict] = {}
+    for dossier in {DOSSIER_MISSION, DOSSIER_LOCAL}:
+        for chemin in dossier.glob("consommation-*.json"):
+            if not FORMAT.fullmatch(chemin.name):
+                continue
+            try:
+                d = json.loads(chemin.read_text(encoding="utf-8"))
+            except (OSError, json.JSONDecodeError):
+                continue
+            total = par_jour.setdefault(d["date"], {"date": d["date"], "fournisseurs": {}, "etapes": {}})
+            for f, v in d.get("fournisseurs", {}).items():
+                _ajouter(total["fournisseurs"].setdefault(f, _vide()), v)
+            for etape, fs in d.get("etapes", {}).items():
+                for f, v in fs.items():
+                    _ajouter(total["etapes"].setdefault(etape, {}).setdefault(f, _vide()), v)
+    for d in par_jour.values():
+        groq = d["fournisseurs"].get("groq", _vide())
         d["quota_groq"] = QUOTA_GROQ_JOUR
         d["part_quota_groq"] = round(100 * (groq["entree"] + groq["sortie"]) / QUOTA_GROQ_JOUR, 1)
-        lignes.append(d)
-    return sorted(lignes, key=lambda d: d["date"], reverse=True)[:jours]
+    return sorted(par_jour.values(), key=lambda d: d["date"], reverse=True)[:jours]
 
 
 if __name__ == "__main__":

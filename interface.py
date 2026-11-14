@@ -12,6 +12,7 @@ N'utilise que la bibliothèque standard de Python : un petit serveur web sert la
     GET  /api/memoire                            -> feuilletons suivis (memoire.py)
     GET  /api/dossiers?date=AAAA-MM-JJ           -> dossiers du rédacteur en chef (redacteur.py)
     GET  /api/analyse?date=AAAA-MM-JJ            -> « ce qui change » : agent interprète (interprete.py)
+    GET  /api/sante                              -> bilan de santé des dernières nuits (sante.py)
     GET  /api/consommation                       -> tokens Groq / Gemini consommés par jour (consommation.py)
     GET  /api/index                              -> tous les articles de l'historique (recherche)
     GET  /api/tendances                          -> tendances de la semaine (tendances.py)
@@ -36,6 +37,7 @@ import chat
 import consommation
 import memoire
 import redacteur
+import sante
 import sources
 import tendances
 from agent import DOSSIER_RAPPORTS, REGIONS, lancer_veilles
@@ -195,6 +197,8 @@ class Gestionnaire(BaseHTTPRequestHandler):
         elif adresse.path == "/api/dossiers":
             date = parse_qs(adresse.query).get("date", [""])[0]
             self._json(200, lire_dossiers(date) or {"vide": True})
+        elif adresse.path == "/api/sante":
+            self._json(200, {"jours": sante.historique()})
         elif adresse.path == "/api/consommation":
             self._json(200, {"jours": consommation.historique()})
         elif adresse.path == "/api/analyse":

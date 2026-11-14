@@ -106,6 +106,7 @@ jobs:
       # Coffre Obsidian relié par Graphify (cerveau/coffre). Facultatif : une panne ici ne
       # doit jamais empêcher la publication de la veille.
       - name: Deuxième cerveau (Graphify + Obsidian)
+        id: cerveau
         if: steps.decision.outputs.lancer == 'true'
         continue-on-error: true
         timeout-minutes: 15
@@ -117,6 +118,7 @@ jobs:
       # Agent interprète : lit le graphe sur 7 jours et rédige « Analyse du jour »
       # (cerveau/analyses + note Obsidian). Facultatif, comme le cerveau.
       - name: Interpréter le graphe (analyse du jour)
+        id: interprete
         if: steps.decision.outputs.lancer == 'true'
         continue-on-error: true
         timeout-minutes: 10
@@ -124,6 +126,13 @@ jobs:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # secours
         run: uv run python interprete.py
+
+      # Les deux étapes facultatives peuvent échouer sans arrêter la mission : on note leur
+      # résultat pour le voyant « État de la nuit » de l'app (sante.py).
+      - name: Noter le résultat des étapes facultatives
+        if: steps.decision.outputs.lancer == 'true'
+        run: |
+          echo '{"cerveau": "${{ steps.cerveau.outcome }}", "interprete": "${{ steps.interprete.outcome }}"}'             > "veilles/etapes-$(date +%F).json"
 
       - name: Enregistrer la veille dans le dépôt
         if: steps.decision.outputs.lancer == 'true'
