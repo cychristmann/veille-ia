@@ -62,11 +62,9 @@ class Region:
     # Section thématique : part maximale de Google Actualités parmi les candidats, et
     # fenêtre minimale (les blogs d'outils publient moins souvent que la presse).
     part_google: float = 1.0
-    # Bing Actualités : contrairement à Google, son flux donne la vraie adresse des
-    # articles. Vide = pas de Bing (son flux ne répond pas pour la Chine).
+    # Édition de Bing Actualités où retrouver le vrai lien des articles venus de Google
+    # (voir _vrai_lien). Vide = pas de recherche (le flux Bing ne répond pas pour la Chine).
     marche_bing: str = ""
-    requetes_bing: tuple[str, ...] = ()
-    bing_en_francais: bool = False  # écarte les articles en anglais que Bing glisse (édition France)
     heures_min: int = 0
 
 
@@ -156,8 +154,6 @@ REGIONS = {
         requete_google='"intelligence artificielle" OR IA',
         parametres_google="hl=fr&gl=FR&ceid=FR:fr",
         marche_bing="fr-FR",
-        bing_en_francais=True,
-        requetes_bing=('"intelligence artificielle"', "IA OpenAI OR ChatGPT OR Mistral OR Anthropic"),
         flux_medias=FLUX_FR,
         mots_ia=re.compile(
             r"\b(IA|intelligence artificielle|LLM|ChatGPT|OpenAI|Claude|Anthropic|Gemini|"
@@ -173,7 +169,6 @@ REGIONS = {
         requete_google='"artificial intelligence" OR AI',
         parametres_google="hl=en-US&gl=US&ceid=US:en",
         marche_bing="en-US",
-        requetes_bing=('"artificial intelligence"', "AI OpenAI OR Anthropic OR Nvidia OR Gemini"),
         flux_medias=FLUX_US,
         # « AI » en majuscules seulement : sinon « ai » isolé (un prénom, par ex.) passerait.
         mots_ia=re.compile(
@@ -226,8 +221,6 @@ REGIONS = {
                     "présente pas un outil, un agent ou une technique réutilisable"),
         part_google=0.35,
         marche_bing="en-US",
-        requetes_bing=('"AI coding" OR "coding agent" OR "Claude Code" OR "GitHub Copilot"',
-                       '"AI agents" framework OR tool OR MCP OR "open source"'),
         heures_min=48,
         orientation=(
             "Cette veille est personnelle et pratique : elle sert à découvrir de nouveaux "
@@ -276,7 +269,6 @@ class Article:
     lien: str
     date: datetime
     resume: str = ""
-    origine: str = ""  # "flux" (média suivi), "bing" ou "google"
     titre_fr: str = ""  # traduction, remplie par l'agent traducteur (régions étrangères)
     couverture: int = 1  # nombre de médias qui traitent la même nouvelle (doublons retirés)
     note: int | None = None  # pertinence de 1 à 10, donnée par l'agent noteur
@@ -578,64 +570,56 @@ def _cle(titre: str) -> str:
 
 
 NOM_BING = "Bing Actualités"
-# Repérage simple de la langue : on compare les petits mots courants des deux langues.
-MOTS_FR = re.compile(r"\b(le|la|les|des|du|une|un|et|est|pour|dans|sur|qui|que|avec|au|aux|en|ses|son|sa|ce|"
-                     r"cette|par|plus|pas|ne|se|il|elle)\b", re.IGNORECASE)
-MOTS_EN = re.compile(r"\b(the|and|of|to|is|for|with|on|that|its|are|as|by|from|how|why|what|will|has|"
-                     r"have|this|their|new|says)\b", re.IGNORECASE)
+# Sites qui republient la presse : vraie page lisible, mais on préfère l'article d'origine.
+HOTES_AGREGATEURS = ("msn.com", "yahoo.com")
 
 
-def _en_anglais(article: "Article") -> bool:
-    texte = f"{article.titre} {article.resume}"
-    return len(MOTS_EN.findall(texte)) > len(MOTS_FR.findall(texte))
-BING_PAGES = (0, 11, 21, 31)  # Bing sert une dizaine d'articles par page
-HOTES_AGREGATEURS = ("msn.com",)  # vraie page, mais reprise : on préfère l'article d'origine
+def _vrai_lien(article: Article, marche: str) -> tuple[str, str] | None:
+    """Cherche chez Bing Actualités le MÊME article (même titre) : (vraie adresse, résumé).
+
+    Google Actualités ne donne qu'un lien de redirection et pas de résumé ; le flux de
+    Bing contient l'adresse de l'article en clair. Bing ne choisit donc aucun article :
+    il sert seulement à retrouver le lien de ceux que Google a remontés.
+    """
+    url = f"https://www.bing.com/news/search?q={quote_plus(article.titre)}&format=rss&mkt={marche}"
+    try:
+        reponse = httpx.get(url, headers=HTTP_HEADERS, timeout=HTTP_TIMEOUT, follow_redirects=True)
+        reponse.raise_for_status()
+        racine = ET.fromstring(reponse.content)
+    except (httpx.HTTPError, ET.ParseError):
+        return None
+    cle, trouves = _cle(article.titre)[:50], []
+    for item in racine.iter("item"):
+        if _cle(_nettoyer(item.findtext("title")))[:50] != cle:
+            continue
+        lien = item.findtext("link") or ""
+        # Le lien Bing contient l'adresse de l'article dans le paramètre « url ».
+        reel = parse_qs(urlparse(lien).query).get("url", [lien])[0].strip()
+        hote = urlparse(reel).hostname or ""
+        if urlparse(reel).scheme not in ("http", "https") or hote.endswith("bing.com"):
+            continue
+        trouves.append((hote.endswith(HOTES_AGREGATEURS), reel, _nettoyer(item.findtext("description"))[:300]))
+    if not trouves:
+        return None
+    _, reel, resume = min(trouves, key=lambda t: t[0])  # l'article d'origine avant une reprise
+    return reel, resume
 
 
-def _lire_bing(region: Region, heures: int) -> list[Article]:
-    """Articles récents via Bing Actualités, avec leur vraie adresse et un résumé."""
-    intervalle = "7" if heures <= 24 else "8"  # 7 = dernières 24 h, 8 = dernière semaine
-    urls = [f"https://www.bing.com/news/search?q={quote_plus(q)}&format=rss&mkt={region.marche_bing}"
-            f"&qft=interval%3d%22{intervalle}%22" + (f"&first={page}" if page else "")
-            for q in region.requetes_bing for page in BING_PAGES]
-
-    def page(url: str) -> list[Article]:
-        try:
-            reponse = httpx.get(url, headers=HTTP_HEADERS, timeout=HTTP_TIMEOUT, follow_redirects=True)
-            reponse.raise_for_status()
-            racine = ET.fromstring(reponse.content)
-        except (httpx.HTTPError, ET.ParseError):
-            return []
-        trouves = []
-        for item in racine.iter("item"):
-            date, titre = _date(item), _nettoyer(item.findtext("title"))
-            lien = item.findtext("link") or ""
-            # Le lien Bing contient l'adresse de l'article en clair, dans le paramètre « url ».
-            reel = parse_qs(urlparse(lien).query).get("url", [lien])[0].strip()
-            hote = (urlparse(reel).hostname or "").removeprefix("www.")
-            if not (date and titre) or urlparse(reel).scheme not in ("http", "https") or hote.endswith("bing.com"):
-                continue
-            # <News:Source> : l'espace de noms change à chaque requête, on lit la fin de la balise.
-            media = next((e.text for e in item if e.tag.endswith("}Source") and e.text), None) or hote
-            resume = _nettoyer(item.findtext("description"))[:300]
-            trouves.append(Article(titre, media.strip(), reel, date, resume, origine="bing"))
-        return trouves
-
-    with ThreadPoolExecutor(max_workers=4) as pool:
-        trouves = [a for articles in pool.map(page, urls) for a in articles]
-    if region.bing_en_francais:
-        trouves = [a for a in trouves if not _en_anglais(a)]
-    return trouves
-
-
-def _rang(article: Article) -> int:
-    """Ordre de préférence à doublon égal : média suivi, Bing, reprise MSN, puis Google."""
-    if article.origine == "flux":
+def _retrouver_vrais_liens(candidats: list[Article], region: Region) -> int:
+    """Remplace, quand c'est possible, les liens Google des candidats par le vrai lien."""
+    google = [a for a in candidats if "news.google.com" in a.lien]
+    if not (region.marche_bing and google):
         return 0
-    if article.origine == "bing":
-        hote = urlparse(article.lien).hostname or ""
-        return 2 if hote.endswith(HOTES_AGREGATEURS) else 1
-    return 3
+    with ThreadPoolExecutor(max_workers=4) as pool:
+        resultats = list(pool.map(lambda a: _vrai_lien(a, region.marche_bing), google))
+    retrouves = 0
+    for article, resultat in zip(google, resultats):
+        if resultat:
+            article.lien, resume = resultat
+            article.resume = article.resume or resume
+            retrouves += 1
+    print(f"Vrais liens ({region.code}) : {retrouves} retrouvés sur {len(google)} articles Google.")
+    return retrouves
 
 
 def collecter(etat: EtatVeille) -> dict:
@@ -659,17 +643,10 @@ def collecter(etat: EtatVeille) -> dict:
                 if (nom != NOM_GOOGLE and nom not in region.toujours_ia
                         and not region.mots_ia.search(f"{article.titre} {article.resume}")):
                     continue
-                article.origine = "google" if nom == NOM_GOOGLE else "flux"
                 articles.append(article)
-    if region.marche_bing:
-        bing = [a for a in _lire_bing(region, heures) if a.date >= limite]
-        if not bing:
-            echecs.append(NOM_BING)
-        articles += bing
 
-    # Vrais liens d'abord : à doublon égal, on garde l'article du média suivi, sinon celui
-    # de Bing, et Google (lien de redirection, sans résumé) seulement en dernier recours.
-    articles.sort(key=_rang)
+    # Les flux des médias passent en premier : à doublon égal, on garde leur vrai lien.
+    articles.sort(key=lambda a: a.source in medias, reverse=True)
     # Une même nouvelle reprise par plusieurs médias : on ne garde qu'un article, mais on
     # retient combien de médias la couvrent (indice d'importance pour l'agent noteur).
     occurrences = Counter(_cle(a.titre) for a in articles)
@@ -683,16 +660,20 @@ def collecter(etat: EtatVeille) -> dict:
         par_source[article.source] = par_source.get(article.source, 0) + 1
         candidats.append(article)
 
+    candidats.sort(key=lambda a: a.date, reverse=True)  # du plus récent au plus ancien
     maximum = int(etat["nombre"] * MARGE_CANDIDATS)
-    reels = sorted((a for a in candidats if a.origine != "google"), key=lambda a: a.date, reverse=True)
-    google = sorted((a for a in candidats if a.origine == "google"), key=lambda a: a.date, reverse=True)
-    if region.marche_bing:
-        # Google ne fait que compléter ce que les vrais liens ne couvrent pas.
-        part = min(len(google), max(maximum - len(reels), 0))
-    else:
-        part = len(google)  # pas de Bing (Chine) : Google reste la source de volume
-    candidats = sorted(reels[:maximum - part] + google[:part], key=lambda a: a.date, reverse=True)
-    return {"candidats": candidats[:maximum], "sources_en_echec": echecs, "heures": heures}
+    if region.part_google < 1:
+        # Section thématique : Google Actualités ramène beaucoup d'actualité générale ; on
+        # plafonne sa part pour laisser la priorité aux sources spécialisées.
+        directs = [a for a in candidats if a.source in medias]
+        google = [a for a in candidats if a.source not in medias]
+        part = min(len(google), max(int(maximum * region.part_google), maximum - len(directs)))
+        candidats = sorted(directs[:maximum - part] + google[:part], key=lambda a: a.date, reverse=True)
+    candidats = candidats[:maximum]
+    # La sélection est faite (flux directs + Google, comme toujours) : Bing ne sert qu'à
+    # retrouver le vrai lien et un résumé des articles venus de Google.
+    _retrouver_vrais_liens(candidats, region)
+    return {"candidats": candidats, "sources_en_echec": echecs, "heures": heures}
 
 
 def _essayer(nom: str, url: str) -> list[Article] | None:
