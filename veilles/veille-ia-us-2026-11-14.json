@@ -1,0 +1,851 @@
+{
+  "region": "us",
+  "genere_a": "2026-11-14T07:11:14.939854+01:00",
+  "heures": 24,
+  "nombre_demande": 50,
+  "nombre_articles": 50,
+  "synthese": "L'actualité récente de l'intelligence artificielle est dominée par les interrogations autour d'une panne aérienne nationale de la FAA, survenue peu après le déploiement d'un nouvel outil de gestion du trafic aérien, bien que les fournisseurs et les autorités nient tout lien. Sur le plan économique, les marchés font face à des mouvements financiers et à des avertissements de la Réserve fédérale concernant l'optimisme excessif, tandis que les investisseurs scrutent les introductions en bourse et les financements de start-ups. Parallèlement, de nouveaux outils et agents IA continuent d'être lancés par les entreprises technologiques. Enfin, les questions sociétales, éthiques et réglementaires reviennent régulièrement au premier plan, qu'il s'agisse de l'impact sur l'emploi, de la cybersécurité ou de son utilisation dans la santé et la justice.",
+  "verification": {
+    "problemes": [],
+    "synthese_originale": "L'actualité récente de l'intelligence artificielle est dominée par les interrogations autour d'une panne aérienne nationale de la FAA, survenue peu après le déploiement d'un nouvel outil de gestion du trafic aérien, bien que les fournisseurs et les autorités nient tout lien. Sur le plan économique, les marchés font face à des mouvements financiers et à des avertissements de la Réserve fédérale concernant l'optimisme excessif, tandis que les investisseurs scrutent les introductions en bourse et les financements de start-ups. Parallèlement, de nouveaux outils et agents IA continuent d'être lancés par les entreprises technologiques. Enfin, les questions sociétales, éthiques et réglementaires reviennent régulièrement au premier plan, qu'il s'agisse de l'impact sur l'emploi, de la cybersécurité ou de son utilisation dans la santé et la justice."
+  },
+  "sources_en_echec": [],
+  "themes": [
+    {
+      "nom": "Incident FAA et Intelligence Artificielle",
+      "resume": "Plusieurs articles examinent la panne aérienne nationale de la FAA et la question de savoir si le nouveau système d'intelligence artificielle ou ses fournisseurs y sont liés. Des responsables et des entreprises se prononcent pour nier toute implication de la technologie.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Déclarations FAA et Microsoft, incident AI majeur",
+          "couverture": 1,
+          "titre": "FAA SMART AI system vendor and Microsoft both say ground stop isn't their fault",
+          "source": "Business Insider",
+          "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRDBYNUZuZnY1ZDRPSGZYcVV3akxRTERxN2xILTV2RGlZdko3YW5QcktxZjNaTm9ycHhYM3daeE9HbnlqamhCWXlqN2RoX1JqQmpTLThHQzZlbGNOUWxTc28waTl5aUJob1JnN3ViMHZEUXFpa3cxX2NTUFp3VVUySUdGOWpqSkJfMTNNYmRzaDVhbThxRU5zMGJR?oc=5",
+          "date": "2026-11-14T02:23:00+00:00",
+          "resume": "",
+          "titre_fr": "Le fournisseur du système IA SMART de la FAA et Microsoft affirment tous deux que l'arrêt au sol n'est pas de leur faute"
+        },
+        {
+          "note": 7,
+          "motif": "Startup nie responsabilité ground stop, sujet clé",
+          "couverture": 1,
+          "titre": "AI startup says nationwide ground stop was not caused by its software",
+          "source": "NBC News",
+          "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeE5XUFZ3TU1mSXBoREp6SzNHTDc1a0hocDNFVmhibjlxOEVCTFJWbm5fSW9JM1N5Y3d3NGJwdWFFOXlYNGUtYWlZY2pUMG4zcUxENmdTR1hSYlFldEFGNklPZm8zWnd2T3VTcWZjYk9kcDY1c1pPLVYzZFZHR2dDdDFMM21YSTAwTmhGVWV2Y01OREJvTHRhaUE1ajRLeGRMT2UtUXZFd2JlSkhMSTViWHBB?oc=5",
+          "date": "2026-11-14T02:17:05+00:00",
+          "resume": "",
+          "titre_fr": "Une startup IA affirme que l'arrêt au sol national n'a pas été causé par son logiciel"
+        },
+        {
+          "note": 7,
+          "motif": "Récapitulatif incident FAA AI, impact large",
+          "couverture": 1,
+          "titre": "This Week, the FAA Rolled Out AI Air Traffic Management. Then It Grounded Flights Nationwide",
+          "source": "Inc.com",
+          "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS1JGMmk4ckVUM0Qza2Q5U18xRndmeEx3ZlFhWERQdVFrZVVDNFdnS2ZneWxRTVdEZDdpc2l4UVkxTm5naWM0a3I2eTZQdVN0QUtNLVoycUJIamRNQ0E4dU5mTmlwVXg3UnA5U3BpSlNSSWNNSzZteV82dU9Hb2RCZzZ6cmROekpkdGpSR2NoTGpZT0JkLW5OdHhuQmNHdFVZOEdjbUc3VzQwTU5fdEhHRFVTZWJXcEVMQTBOM080NExUZGR4c0pObHln?oc=5",
+          "date": "2026-11-14T02:13:59+00:00",
+          "resume": "",
+          "titre_fr": "Cette semaine, la FAA a déployé une IA de gestion du trafic aérien, puis a cloué les vols à l'échelle nationale"
+        },
+        {
+          "note": 6,
+          "motif": "Lien possible FAA ground stop et IA, sujet d'actualité",
+          "couverture": 1,
+          "titre": "Is the nationwide ground stop related to the FAA's new air traffic AI?",
+          "source": "Mashable",
+          "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oVXE3ZmF0WkYzN2R6MUdURzFzSTNqY3VmNEc0bDNlTm1sUGJ5TGhFd3JFVENkNFVGNWh1bWVBR0JMSGVJUHJMWGZGWmdlbFdxYkd2T0lHZG40YW1ySDYyUFNielR4cjduWmxodXhvT1IwMzA?oc=5",
+          "date": "2026-11-14T05:15:00+00:00",
+          "resume": "",
+          "titre_fr": "L'arrêt au sol national est‑il lié à la nouvelle IA de contrôle du trafic aérien de la FAA ?"
+        },
+        {
+          "note": 6,
+          "motif": "Questionnement sur FAA ground stop, IA centrale",
+          "couverture": 1,
+          "titre": "FAA ground stop raises questions after rollout of new AI air-traffic system",
+          "source": "WLWT",
+          "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaFh6a1hvT3Y3Tk1uRm5wLTZKajlLM2hDWVU0VE03NHNFdUV1LU9yRFVMWE1yYkF0VzFib1I4YTdjaWI4LWpWMTV0TnE4ZnlJMEhQUzdsYnJ1LURrSXpxMF9fSFhlQkxGcWFtcG8zRklDNENtRXZIZzF2cFNNWXVMdTEyclRZOXJBV0c5dGhCNXV1cFdmV3plQjVfT1FoamQwQzRmSUctaU90RzlJN2hNbkxKOA?oc=5",
+          "date": "2026-11-14T04:43:00+00:00",
+          "resume": "",
+          "titre_fr": "L'arrêt au sol de la FAA suscite des interrogations après le déploiement du nouveau système IA de gestion du trafic aérien"
+        },
+        {
+          "note": 6,
+          "motif": "Déni officiel FAA SMART, sujet d'actualité majeure",
+          "couverture": 1,
+          "titre": "AI company behind FAA’s SMART tool denies link to ground stop, Duffy confirms",
+          "source": "The Hill",
+          "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWXVXRE54ZzE0YWRsQlUtNmE4LUR3a0hjVGh3QXRSYTB6cHc1VlU2Sk10WEw1VWdVd3ZyTmw2Z25veTNJM2VWM3ZhV2VEdkxVSU1BWlk5MUkyMTJ3Y0NqS1dSd016UjBHS3NvV2NGeHZHUTNINkt5ZE9iLUxNQkx2YUNQdGhOMzlVb3fSAY8BQVVfeXFMTjFyanBTRHZFU3U5MUd1dnh0S2FxX0xDcVR0aUg5S2JNeHI5RFlBYkRlcVJ6Rnk3ZjV1X0czMkxKWnNiSTRpXzdPQ0pFMF9DazEyaG02eU1Va2pOQ3AyRS1ZblR4aFN1VHV6Zi1Qdlh5WUZPSnNLTGVYMTA1ZzFRVkgxelVRMXE2X3lMZ1E2c0k?oc=5",
+          "date": "2026-11-14T04:04:00+00:00",
+          "resume": "",
+          "titre_fr": "L'entreprise IA derrière l'outil SMART de la FAA nie tout lien avec l'arrêt au sol, le confirme Duffy"
+        },
+        {
+          "note": 6,
+          "motif": "Lien hypothétique entre espionnage Chine et IA, pertinence géopolitique",
+          "couverture": 1,
+          "titre": "Do U.S. air traffic control and email blackouts after China AI espionage have a common answer?",
+          "source": "Fortune",
+          "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPckd1VlJSaFo4LXZlenY0VkZoRGJmbFBWZUE0WHB2ZzlPSy1Wa255MXc3SjR2NDFLQ21uSHpEd2pBcWhlcEdUdkR1NVMzdWFKMTdWR1NGYVpEWFMyM3hLaFQ3VElrc0w5MzVCWGg1Rnl2ZUx0WDllUk9hb1o0ZnB4Um16aVZENjJQUU9hZDZ1Z2lPalpjc3JBNG5JSzQ0WEFoaTRZNGgwRlVxa0pfYWc?oc=5",
+          "date": "2026-11-14T01:29:00+00:00",
+          "resume": "",
+          "titre_fr": "Les coupures de contrôle du trafic aérien et de courriels aux États‑Unis après l'espionnage IA chinois ont-elles une réponse commune ?"
+        },
+        {
+          "note": 5,
+          "motif": "Enquête sur lien IA/FAA, pertinence sectorielle",
+          "couverture": 1,
+          "titre": "In the US, investigations are underway into whether the new AI is linked to the FAA glitch",
+          "source": "UkrMedia News",
+          "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLW1NQXZ5ZUtrSGxzSzhEZjhFOTB0TzJVRVZocmtPTVRvRzh5MF9TUW9OY0dSZm5OVHFCMFdMOEpjV2NBTkJFaUYtTWcxeTR1UFpyMkMtbWVjaUNFMTJOX2RucDdORDRROEVqU1V2ZG9kOWpidDBaYnI2dWlpc3lvVk1ReGRSckV0dWc?oc=5",
+          "date": "2026-11-14T05:29:12+00:00",
+          "resume": "",
+          "titre_fr": "Aux États‑Unis, des enquêtes sont ouvertes pour savoir si la nouvelle IA est liée au dysfonctionnement de la FAA"
+        },
+        {
+          "note": 5,
+          "motif": "Déclaration officielle FAA, lien IA clarifié",
+          "couverture": 1,
+          "titre": "No evidence of cyberattack or rogue AI in FAA outage: US",
+          "source": "Rediff",
+          "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaFFTTlN1NjVUcmRUQXloZlduRTRHUHpFVUFLNmJsMDZXVjNiYnFpNzdiTUhES1hpUGVaVXhVTl9Kbzd2SlNVamVPZ01COGVuWU9uLVNqbXU0SWdSenZFd0dUbDhzQWVFNms4dnRvRUk2TmRvV2dBXzZJOGctN2NUUlZtb1dfUTRvamFJZWh1TGItYmVlamVDb2lWTWVScU90VVlScEtjdlhOVFczcXZlNENkQ2MzYkExRFJVQnJnNnczcDJ4WXFPWWZyak9yNERpeXozVFhn?oc=5",
+          "date": "2026-11-14T05:05:35+00:00",
+          "resume": "",
+          "titre_fr": "Aucune preuve de cyberattaque ou d'IA rogue dans la panne de la FAA : États‑Unis"
+        },
+        {
+          "note": 5,
+          "motif": "Analyse sociétale de blâme IA, perspective intéressante",
+          "couverture": 1,
+          "titre": "Of Course Americans Blamed the Ground Stop on AI",
+          "source": "The Atlantic",
+          "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNHBIZjRJdjJocVFOcG5uN0YzeUExaUk1NjV5c0F4NUxHWGtXa0hacjAyczVkazlhS3B5ZHNLQUxNNE1ESWthT3YyWWN4UXJqVnVQLUh1LUtCb0hrV29pT1hBR0QyMDY4NnVVM3lFSUc4NzRpMzU1bTZ1WUppRG54SjVZcnZvOUFp?oc=5",
+          "date": "2026-11-14T01:47:00+00:00",
+          "resume": "",
+          "titre_fr": "Évidemment, les Américains ont imputé l'arrêt au sol à l'IA"
+        },
+        {
+          "note": 4,
+          "motif": "Déclaration politique, lien vague avec IA, impact limité",
+          "couverture": 1,
+          "titre": "Trump: US Aviation Disruption Not Linked to Cyberattack or AI...",
+          "source": "Jordan News",
+          "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN3pNVFlQeTNwdWtRR2wwdWNRV29GMENkZ0lZdlJQWUVoMURvc29LcGl2d0d1eXdJN3lVaDk2VV9nbzhEaHNTZ2o0V19HQUc5YzVFM3lHSDBTRk14M0VfUm0xV3NXSTlCOVR1SzNZczhJZUNrZ1N3cjc0Z0lSWndLWDBJVWlUc0ZaWVh3VlU2NEJQYU5lU1dsajhQcnFCc1M2RU5rV3UwOFlMZGFC?oc=5",
+          "date": "2026-11-14T05:55:27+00:00",
+          "resume": "",
+          "titre_fr": "Trump : la perturbation de l'aviation américaine n'est pas liée à une cyberattaque ni à l'IA..."
+        }
+      ]
+    },
+    {
+      "nom": "Économie, Marchés et Investissements",
+      "resume": "Ces articles abordent l'impact financier de l'intelligence artificielle, incluant des mouvements sur les obligations à haut rendement, des avertissements de la Réserve fédérale sur l'optimisme du marché, des levées de fonds et des investissements dans des start-ups ou des puces.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Synthèse d'actualités majeures (Nvidia, Anthropic, Google), source spécialisée",
+          "couverture": 1,
+          "titre": "AI: Nvidia’s Mega-Blip, Anthropic’s IPO Range, Google’s TPUs & More. AI-RTZ #1270",
+          "source": "AI: Reset to Zero",
+          "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDJObUFCRHZSZHJFeU1QTmFHbWhtSC03YXo2UVR2cUNmUFpILUlkeEdTZGExSVA4WFhwelY1d21oTzN1c0xNdmdCaHQxRnNzdVZlN3pIWkxpLVJJZ0xPdENhdVhqajNLd1BtR3pHXy1pQmNzVFFrdWFlSFBwQ3FxTldfSVg?oc=5",
+          "date": "2026-11-14T06:02:30+00:00",
+          "resume": "",
+          "titre_fr": "IA : le Mega‑Blip de Nvidia, la fourchette d'IPO d'Anthropic, les TPU de Google et plus encore. AI‑RTZ #1270"
+        },
+        {
+          "note": 7,
+          "motif": "Lancement d'un chip AI low-power, impact matériel notable",
+          "couverture": 1,
+          "titre": "DeepX tapes out $50 edge AI chip to run big models at 5W",
+          "source": "Dealroom",
+          "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeTNzR1ZXR1BHbEFjZm9reDhGWEhjTkNRRkhFeXdqd0x2Zk51aGFnZmUtalpYV2VuNFMyWUtfamlhRWZEblh5Sm51cVp2Zi1GVFZqY09fU1dHQ1lyRVFlWWJFTjlPbUpjdVdlSjNta2Z1eGxEbkNfSmhWNC1Ud2ZpdlM0SWtHalJzazZOd3UyRUdkZjA?oc=5",
+          "date": "2026-11-14T05:50:22+00:00",
+          "resume": "",
+          "titre_fr": "DeepX lance une puce IA edge à 50 $ capable de faire tourner de gros modèles avec 5 W"
+        },
+        {
+          "note": 7,
+          "motif": "Perspective sur actions chinoises et IA, impact macroéconomique",
+          "couverture": 1,
+          "titre": "China’s beaten-down tech stocks could offer AI with a little less drama",
+          "source": "Financial Times",
+          "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVBvSkdtOVRna0hvdldmUHJoakppR3Iyc3EyR09xdzRwSkR5Y25sZHhKU0RyY3JBOFBGbHZ4ZVlCY05obDVfeHVENW5iSDJULU94VUtmMWE5cVplcFFmX3R5ekEwYnFOcFdDN243UEhMSlg4ME5CM2FrZTJYSDBQX0tpX3Q?oc=5",
+          "date": "2026-11-14T05:10:34+00:00",
+          "resume": "",
+          "titre_fr": "Les actions technologiques chinoises en chute pourraient offrir de l'IA avec moins de drame"
+        },
+        {
+          "note": 6,
+          "motif": "Nouvelle incitation fiscale potentielle, impact limité et source peu fiable",
+          "couverture": 1,
+          "titre": "Backdoor subsidy for AI data centers? Cato analyst says let CHIPS Act tax credit expire",
+          "source": "fox42kptm.com",
+          "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZkJNdUw1VXZfd25vWW0ycUlNMUFMYm90bFhDZWtzU2tKWXRmTHIxRUlmeVdEV1FaLVZLQzg2MS1VQkxBMWxrdEhtc3puVm42S1RsdU1PVXdqRGVJdmtRYW1SVndTQW1rVmJuWG5FTlp6Q0N1cVFIejkyZTZiWE01VGRURE55V1g5SW9YVWFmMEh1RlNiaF8tOU9zMVF3Ti00UUtEangxcW9NSS1vZ0FuZHdPQ0EwVU53U3JhSUVMQjBfLVBoZzFIbWI3WUtRXzZhMEVRTENUVFdqczFPekV2MW9B?oc=5",
+          "date": "2026-11-14T06:04:37+00:00",
+          "resume": "",
+          "titre_fr": "Subvention occulte pour les data centers d'IA ? Un analyste du Cato estime que le crédit d'impôt du CHIPS Act devrait expirer"
+        },
+        {
+          "note": 5,
+          "motif": "Analyse de risques AI sur obligations, intéressant pour finance",
+          "couverture": 1,
+          "titre": "AI Jitters Creating Risks, But Also Opportunities In High Yield Bonds",
+          "source": "Seeking Alpha",
+          "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZkFyUWlaVHhRTkVhcFR6cGtDVEV5SGVSaUhBS3BoVXBjc1BGQWQ0NlVBcm1qam1tbVRxUWVMNGF6ZHh6cTJXNkdPX0l4S1hiNEluemRZYUxQWXQzdzNZWVZnX0E0djAxakl3UVZSZ0xZdjVoZzNYaTB4UUcxelFINUdtTUdvQU45SkZ2emh3LXFEeEtCQ2JEMDBmaGJqSUxPRzhRTGE0RW9pbUR2RlE1MU56M2hmMnM?oc=5",
+          "date": "2026-11-14T05:25:00+00:00",
+          "resume": "",
+          "titre_fr": "L'anxiété autour de l'IA crée des risques, mais aussi des opportunités dans les obligations à haut rendement"
+        },
+        {
+          "note": 4,
+          "motif": "Interprétation d'un article économique, peu d'info nouvelle",
+          "couverture": 1,
+          "titre": "Did The Economist Just Call The AI Low?",
+          "source": "Seeking Alpha",
+          "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sanJXX3h3RmE1dllZOXFDSEQ5R1g3WVFManNxWm80R3ZLWG9YbkxHQ2V2M0ZfNWdvNzFiYUlHaGZZRlJNeEZsSW0zY25XZHdLaGhtNndfYWNPbjB0ZnB0WU9MbTVXWklwenZSSnJRZGY2ZmNZWjl3S05tOA?oc=5",
+          "date": "2026-11-14T05:30:00+00:00",
+          "resume": "",
+          "titre_fr": "The Economist a-t-il vraiment qualifié l'IA de « faible » ?"
+        },
+        {
+          "note": 4,
+          "motif": "Analyse financière d'Hut 8, IA mentionnée mais pas centrale",
+          "couverture": 1,
+          "titre": "Hut 8 (HUT) Locked In AI Lease Revenue, Is The Stock Expensive?",
+          "source": "Yahoo Finance",
+          "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWJKZUZvSG01STRwbTZsZ3haWnl6NjZhVmk3dUZCN3ROcWJOZlNXeG1XMXlDU01MdDFaVDVlWmlpV2F0bzZBR2dlV0FoaFpzTVpuMG5oSy1oWDY3ZFN2V2lFOFhqS1c4cWh5NXlBX0Y0bWV0c3B6RXg4RWtLUFZyS1lmVmdpMlRLTEcyZVdjb0pkMEJXbHBQR1Nn?oc=5",
+          "date": "2026-11-14T05:13:00+00:00",
+          "resume": "",
+          "titre_fr": "Hut 8 (HUT) verrouille des revenus de location IA, l'action est‑elle surévaluée ?"
+        }
+      ]
+    },
+    {
+      "nom": "Agents et Outils Technologiques",
+      "resume": "Diverses nouveautés logicielles et matérielles sont présentées, telles que des agents IA autonomes sur Mac, des assistants pour le marketing, des puces de pointe et des applications sur les téléviseurs ou le matériel informatique.",
+      "articles": [
+        {
+          "note": 6,
+          "motif": "Déploiement d'agents autonomes sur Mac, impact utilisateur large",
+          "couverture": 1,
+          "titre": "Perplexity Teammates bring autonomous AI agents to the Mac app",
+          "source": "Digital Trends",
+          "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTi1nd1RpdWdqSHVjWmhlNmhBMnUyZWs1MThqcFl2MExhdUgyT1dUNjFpdEFPYVZlYkJKSkRqelNUU2RLcTBuNHRXQVk2VmRTcGFQbUozLUc3NFhIdUpsSHY4ZTFwZUxCd0NHY2hGUnc5d2tvMTl1Z1dEV0UtaFFNVEZUOG9aLVJqSndGLXM5d3REU2NFWDdKcDljU0NhR24wTGRDdm1B?oc=5",
+          "date": "2026-11-14T05:16:43+00:00",
+          "resume": "",
+          "titre_fr": "Les équipes de Perplexity intègrent des agents IA autonomes à l'application Mac"
+        },
+        {
+          "note": 6,
+          "motif": "Insight de Databricks sur blocage IA, pertinent pour développeurs",
+          "couverture": 1,
+          "titre": "Databricks' Ken Wong says context, not model IQ, is what's blocking AI agents at work",
+          "source": "BigGo Finance",
+          "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uVzFsRlowRjA0amNiQm43OVVrX0hibDRSOHV0a2dnSlRpMDRkQVNlMk1hYndwT3dYZ3VpYzA4OXp4Y2MtMlp0X1NsdDliUFN5b1htb0FkT1VlU3M?oc=5",
+          "date": "2026-11-14T05:13:07+00:00",
+          "resume": "",
+          "titre_fr": "Ken Wong de Databricks affirme que c'est le contexte, pas le QI du modèle, qui bloque les agents IA au travail"
+        },
+        {
+          "note": 5,
+          "motif": "Classement d'entreprises, utile mais peu d'actualité majeure",
+          "couverture": 1,
+          "titre": "Top 5 Artificial Intelligence and Machine Learning Development Companies (2026)",
+          "source": "The Hype Magazine",
+          "lien": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMG1uZ3FpTVd1eWU4cjRkcVBCcV9Cd08tNDZ6YVI4SkdoVzZvX2w3YVhhTFRIREEtWDJYMFdrck44WjZxYlJocmJ4YVFZUVExS0NpaldSSVFPdlV5bzMxTFZ4THh0TWt5NkwtWXJ6R1ktazluNzFsTm1HWWVzdGZRdFlZUFJjRmpad1VIR3V0a044YWJ3bFp3eHFuQ1J5Wi11S3FTT0dHX2N5UFdEWnRyYmM2TDZuRWN3bkdJdGZR?oc=5",
+          "date": "2026-11-14T05:49:02+00:00",
+          "resume": "",
+          "titre_fr": "Top 5 des entreprises de développement en intelligence artificielle et apprentissage automatique (2026)"
+        },
+        {
+          "note": 5,
+          "motif": "Cas pratique marketing IA, intéressant mais promotionnel",
+          "couverture": 1,
+          "titre": "How I Built an AI Marketing Team With Grok Bot Without Writing Code",
+          "source": "HackerNoon",
+          "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTVpJOFByem9NRjBPdFc1THJ1S0tvWDNRaVc4UlZjYVNmLU1veGJwM3ZOTVc0b1VfRXRlNWVnUU44ZTJuQzBqcGs2SkpLUmg0eER5YnNlSkYyWTZBNkxvY3BTN0liS1RNdGJ2bFNjbVVLaVBMY3QwVENqRWFFZU5mVkpSWFJPV1I2V0pIQy1lTTR3ODVW?oc=5",
+          "date": "2026-11-14T05:35:23+00:00",
+          "resume": "",
+          "titre_fr": "Comment j'ai créé une équipe marketing IA avec Grok Bot sans écrire de code"
+        },
+        {
+          "note": 5,
+          "motif": "Nouveau dispositif Edge AI, intérêt pour makers",
+          "couverture": 1,
+          "titre": "Want Edge & Physical AI? Meet the Arduino VENTUNO Q",
+          "source": "Design News",
+          "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbXJ3VHV1ZklKMmVkcE1hZmRxN19QOGYtZ19GRElnbVprUEJsbU94d1d4QW91WkhVM0lCekhyMUxaV1Y0NDFwdXpCNllueWtJRy16TmU0N20zbEZrMHZCZnRCOXlVM0FlMlNaQmsxNnctZzNoQ0hlSGFHT0ZRbjJod2V6OVM3cTF4ZzZ3eGc1bV8?oc=5",
+          "date": "2026-11-14T04:51:24+00:00",
+          "resume": "",
+          "titre_fr": "Envie d'IA edge et physique ? Découvrez l'Arduino VENTUNO Q"
+        },
+        {
+          "note": 4,
+          "motif": "Astuce grand public, IA mineure",
+          "couverture": 1,
+          "titre": "I found a free AI trick that could make your old smart TV feel new again",
+          "source": "Tom's Guide",
+          "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWTFsaEtJM3BKX0xOa0JhSUhSbmVOUHJ5WF9Jbks3NjlHR3VOclR1ZGhONmpZeTFvYnBUQjdfOUh6dV9VMGJaYlFfZG5wRGEyd2o2Sk9EaExmU0gxQnVocEwxb0tOLWJTenJNX2FVdnJFMk1nMEFEZzFKYWFSS0pUU1FES3VmaEF3X0tnZnN3NTVmQk82dEszVkNmSlNfc3ozLWFJ?oc=5",
+          "date": "2026-11-14T05:00:00+00:00",
+          "resume": "",
+          "titre_fr": "J'ai découvert une astuce IA gratuite qui peut redonner vie à votre vieille smart TV"
+        },
+        {
+          "note": 3,
+          "motif": "Mise à jour produit AI, portée limitée",
+          "couverture": 1,
+          "titre": "Core Factors Releases Upgraded Pro Account, Participant Hub, and Evidentra AI Coach Assistant",
+          "source": "Knoxville News Sentinel",
+          "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYXoxNFFncU5Mdk9DSmZxUnktQnU4ei13Yi0tUnEtNEJHbVhvNDlwaHA5RjlNb2kybzNJZlpEd3I4VGlDenM2OV83cGR5bkhybkwxR1NLeXl0eF9wNThNVUZvY1FHRlQtQjVhdjllcmVORzdLd2U5ckh1U3VOdWJOYk12OFpWV0NaZHFwOWJ0Wmo0dl9JM2hKNDhiNl8tWXhqcVJaY1BSS0k3R01NS3IwZ2Y3SG9WSDZLc2MxS2F5eTJON0Fwbjk3RUt5QTZzV3lBekRKbkVwUEdNaU9m?oc=5",
+          "date": "2026-11-14T05:17:44+00:00",
+          "resume": "",
+          "titre_fr": "Core Factors lance le compte Pro amélioré, le Hub des participants et l'assistant Coach IA d'Evidentra"
+        }
+      ]
+    },
+    {
+      "nom": "Impact Social, Éthique et Travail",
+      "resume": "L'intelligence artificielle influence la société à travers des questions liées à la communauté LGBTQIA+, aux conditions de travail dans les rédactions et le jeu vidéo, à l'éducation, ainsi qu'à la surveillance des pauses par l'IA.",
+      "articles": [
+        {
+          "note": 6,
+          "motif": "Solution décentralisée pour prédiction de décrochage, pertinence éducative",
+          "couverture": 1,
+          "titre": "Decentralized AI Accurately Identifies Student Dropout Risks While Preserving Data Locality",
+          "source": "Bioengineer.org",
+          "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOenhtcmdLVU9fRUxPX2tfQWVaU3RXTE13YUhvWElTdFBVdlY4Mk9xTk5UMGFGcDZWSUVDaWRBWTUwVlhUM0pUS05HMGx6RjRONU90ejZBU3l6OVZlZHRLWFhOSWRRRkxTOGtLTmdtS21yT3Vsd1dTdnhHdVhRLVc5cTlDMGJVdW1tbUtaeEwwMFZlVV9iMnVsQl9CUjFpZlpRN0NFbzVWeFJTN3dRbldyWlM2YU1SWnc?oc=5",
+          "date": "2026-11-14T05:43:51+00:00",
+          "resume": "",
+          "titre_fr": "L'IA décentralisée identifie avec précision les risques d'abandon scolaire tout en préservant la localisation des données"
+        },
+        {
+          "note": 5,
+          "motif": "Négociations syndicales autour IA, impact secteur média",
+          "couverture": 1,
+          "titre": "US newsroom unions seek contract limits as AI tools spread",
+          "source": "Tomorrow's Publisher",
+          "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNU9PWG5pM013akhIcEE4aWtTU3FYZnVUak5ob2oyOVFvR1NxUnBiN1VQQndLeEQxZnNFd0dKWWdSSVd3WGxUNHNiY0otWEZ3eHhyZVNZazMySWs5YmlkQVJ6aEctVnRMbk1oQTZQb2NhaUlmdFVucGxXNmM2OVlmenRGeHpQdllUT0xQeTJIek1zTXFSY0Y3dWRvd3E5SW8yN1hhZXhHSWx3eW1pQkZVZmtqaEFsODBGXzJseA?oc=5",
+          "date": "2026-11-14T05:01:12+00:00",
+          "resume": "",
+          "titre_fr": "Les syndicats des rédactions américaines réclament des limites contractuelles face à la diffusion des outils IA"
+        },
+        {
+          "note": 5,
+          "motif": "Sondage sur IA dans jeux vidéo, perception professionnelle",
+          "couverture": 1,
+          "titre": "Video Game Workers and AI: 40% Use It, but 55% Think It's Bad News",
+          "source": "TechPowerUp",
+          "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc29Uckk1RHA5YkJmTk43MzRhNFRmRDVPbUFWd3FSTUJnRjJGM05QaGRoQjVlZ3U2SnpWbkJtYlRrMllZU091Z3JNUTZiR0hMdUNYeXh4QmttYUdNOFlxRVZlOUNGem1IR1htMUtNOVVVWGtzdW96b2ZqUHJiSUhwVDFzbmk1ZHZpQXRhYmI3LS01N3lpcmtHVlRJbmnSAaIBQVVfeXFMTzJhektqb0NsZmxBMlJwX3ZBRGtIdFZHbFczTHF2SHZFTW5QUlZpM294SHdHSk5oSmZfQi1NbUFhaWxJVFZRTFpNWDFza3dkN3Z3U0lrQ2ZiUkpIaFBHV19IbUx2bDBpcjZQV0dWX3VwWHhwaFh6eVVqZG52R0lnMmRuUlo5T0o1WV83SlpEbmdYdVFZZ29fT2Y0a1pPUFpFMWVn?oc=5",
+          "date": "2026-11-14T04:48:25+00:00",
+          "resume": "",
+          "titre_fr": "Travailleurs du jeu vidéo et IA : 40 % l'utilisent, mais 55 % le jugent néfaste"
+        },
+        {
+          "note": 3,
+          "motif": "Opinion sur LGBTQIA+, IA secondaire, source marginale",
+          "couverture": 1,
+          "titre": "Understand the LGBTQIA+ news: Was AI always set up to fail LGBTQIA+ people, and can we improve it by engaging with it?",
+          "source": "QueerAF",
+          "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU1RzQ0Z2Q3lzMUI4SklWVmVFQjdKSjl5Y0hNUVlBanFPdlUxV3Atc3pSSUlaM2M5cHQwcWpZdVE3UENPRDJaRkVLN2xUbHVoZTdQVXB1Wk5iUFNWYWx5clVRMl9MZ1JEQW9CLTVwUWtKQ1JvalN2ckhxTEZ3TXFCa3FjRjBMSVdzOUszQm51ZlR0dWNEVExZVEZzSS0temJvUV9zUFdESGFkclBKVFVlOHVwT2p6UzBGN1IzTkpoZGY3MkdLR0FBREtYbnRZVWNKM1ZIVlo3Qm5MNms?oc=5",
+          "date": "2026-11-14T06:04:29+00:00",
+          "resume": "",
+          "titre_fr": "Comprendre l'actualité LGBTQIA+ : L'IA a-t-elle toujours été vouée à l'échec pour les personnes LGBTQIA+, et peut-on l'améliorer en interagissant avec elle ?"
+        },
+        {
+          "note": 3,
+          "motif": "Redite d'opinion sur LGBTQIA+, IA secondaire, même source que 2",
+          "couverture": 1,
+          "titre": "AI was set up to fail LGBTQIA+ people. Here's how it's already harming us",
+          "source": "QueerAF",
+          "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRTRJQ01kT2c1NXNQVEVUS3lOSDd4ZUpIeWpVVWY4N2prZ3V5dVRLaEZnbkJXOWREY2J2UXIzN1V4QlR1ZnZiWTNqemowM0xIX3ZtbUhtNkVvMWN6RjVrR1N1NW9xOVFhNmE0NXliYmZMc3RTbmlWM0lGbTNXR2RiSHU2NHpYbk5XekhfTVQ2RDFyMzV6UGludnRZb1l3ampz?oc=5",
+          "date": "2026-11-14T05:59:29+00:00",
+          "resume": "",
+          "titre_fr": "L'IA a été conçue pour échouer avec les personnes LGBTQIA+. Voici comment elle nous nuit déjà"
+        },
+        {
+          "note": 3,
+          "motif": "Hackathon local inspiré d'un incendie, IA marginale",
+          "couverture": 1,
+          "titre": "A Mother’s Escape From the Paradise Fire Inspires Santa Fe AI Hackathon",
+          "source": "Bergen Record",
+          "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVG0tVldXa0JtRk80RC02c0JtV2xuc3BlZmFxS28xRWU4cldGMno4d0xGOWF1dWNpZGN3WXVJN21qdUxMODg1RjhtcjZpT2VHN1JlNlU0T3A4bVhIbUNqVk9GeTZDWElDMDdadlZwSEh0N0thNEFrNkczOHBNMU9icGt2WkcxRWUzODZTamFrZ0w0WnZkeHZMNVUwRFNZVGRxeEVrUkFZZzVFMTFlaGFuNFNFc1czd2FoeWs4QVBpQjV4QTA4?oc=5",
+          "date": "2026-11-14T05:44:48+00:00",
+          "resume": "",
+          "titre_fr": "L'évasion d'une mère du feu de Paradise inspire le hackathon IA de Santa Fe"
+        },
+        {
+          "note": 2,
+          "motif": "Titre sensationnaliste, IA improbable, source douteuse",
+          "couverture": 1,
+          "titre": "New Zealand Workers Defecate In Shopping Aisles As AI Tracks Bathroom Breaks",
+          "source": "NDTV",
+          "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSTAyZ05QM3FiU3V6OXRQY2ZOVzdtd0ZMdG5HVUhDbXExV3J1cnpnQ0ZzbHZxOWdSQkNWdkVXSTFHNHRMRVUybkdmcXFhV1RVVWJjYUpobDNqcjAxdENtUTZVaWc4TEdIVjhhb3dFNUV2TkU4czFqSHBJRnlueTZHc3Y5bXJnUklNZ05JMU42b3dlYkhUWEl6UEc1bFZmYnZqdXJhSzBjQ2toOVZ1VWlDSjhzX3pHTXRX0gHAAUFVX3lxTFB4ZTRsd2xIQk9UaGhzblVxakc5VEVtcUNBNEpNREFtdUZFQXNJRE82RFM5ek9tMzZYX0VWRUYxdHF5Y3pRaXZ0bDlYMnR5ekJpbUFvVU0yVjFWQmN1ZEtsQk1tRFNaaG84VkVNSUttaVh3Q3pFZTRBV2ZQSUhuTVhyelBVLUVPbExieG5OM2FLbmM4SmhQbDAxM2ZsTEtIX3E0eTJSOEdUc01Rb09UX1RlM1FJYTRZS0R6M1NIUmdmbg?oc=5",
+          "date": "2026-11-14T01:37:05+00:00",
+          "resume": "",
+          "titre_fr": "Des travailleurs néo‑zélandais se souillent les allées des magasins alors que l'IA suit les pauses toilettes"
+        }
+      ]
+    },
+    {
+      "nom": "Politique, Régulation et Sécurité",
+      "resume": "Les gouvernements et les experts se penchent sur la régulation, l'utilisation politique de l'intelligence artificielle, les risques de cybersécurité comme les rançongiciels, ainsi que sur les enquêtes et responsabilités juridiques.",
+      "articles": [
+        {
+          "note": 9,
+          "motif": "Scandale Nvidia, rivalité USA/Chine, large couverture médiatique",
+          "couverture": 5,
+          "titre": "The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTdIb1dVWXp1MFVRQmJfY3lVelBQN0RDZzJoQnI4V19GQVAyZ0Fkdk9JdU5LenRnY3lYejRzdy1UYVRjVXh4SmVrb09rbjFxLU96d0pGN0NYdmJQT3BwaVNLdjVJSjNBUzFwcUhXVDZYNU9QYWdMWURzQWNfd3dUbnZORGlROFFWaENQTjNOcE9vdmtPanRQWEpzUTdmV1dMSy1j0gGoAUFVX3lxTFBIdGZpRWxLclBvWlBpQkt0OURmdXdSYklEZHp6bVhORWFkMDQ3NDFuUzVoQkRrRks4ZW8ydF83UmhJOFdrTV9GN1d4UWtjYlRmX3owYXRpaW9OZEl5VDZWdUwybUdZLXlHNWpsNWFLMzNwRTgtRG1RUXFLdUYyVHBmcGNkdF95Q3o4Tm1SN1laeFdZQmwwY1BVRncyMjIzblRfaTE3OGgtOQ?oc=5",
+          "date": "2026-11-14T05:51:32+00:00",
+          "resume": "",
+          "titre_fr": "Le scandale Nvidia intensifie la rivalité américaine‑chinoise en IA avant la visite de Trump"
+        },
+        {
+          "note": 8,
+          "motif": "Analyse du pouvoir politique de l'IA, acteur majeur, source reconnue",
+          "couverture": 1,
+          "titre": "How AI is becoming the ultimate political power",
+          "source": "The Telegraph",
+          "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU0VlSjJkbGhzWkNDdFFydm9QRlVQM3Y5TjdOTWJfWE1VNXF3UF9JanVYRHVIR3dXS0hrTzlaUlF2cW1oZ2Fxd2xHUWFPck5UajlfdUgwd1BiU1dHbDhuYkpQR3EySWl6eGNRczI2bmFudXh1QktNMnQxLWphaXhaX21TV3poUTFldXhMMQ?oc=5",
+          "date": "2026-11-14T06:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Comment l'IA devient le pouvoir politique ultime"
+        },
+        {
+          "note": 5,
+          "motif": "Analyse juridique niche, IA centrale mais portée restreinte",
+          "couverture": 1,
+          "titre": "A Case of Metropolis? The Position of AI within Future Austrian Administrative Law and Procedures",
+          "source": "www.iconnectblog.com",
+          "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbHhQT3kxTUdveUtYM3FLczRXenpjZjVUNkpSYWxiLXBBQXpGUi1Cb3RxQ1BmUXYwd3MwOXpqal9HMDd6Uy1OLUVla2VQdGN3WW1BWEJkWkRxak93YkxXVHlxQUNqUnZXZGJCbi1KQXRIbU9LMkd0MC1TZlJFZTY4TDJKVDJRNVF5UlpaOExWdUtFNURkMTgzLVNwNEp0TER5MDZQeGtTX2VfNWJUcVdRbVFLZ2R6bnpOeDZvMFBpMUYwTFFB?oc=5",
+          "date": "2026-11-14T06:01:02+00:00",
+          "resume": "",
+          "titre_fr": "Un cas de Métropole ? La place de l'IA dans le futur droit administratif et les procédures autrichiennes"
+        },
+        {
+          "note": 5,
+          "motif": "Pause bots Coinbase, IA financière opérationnelle",
+          "couverture": 1,
+          "titre": "Coinbase AI trading tool pauses bots, but leaves orders open",
+          "source": "CryptoSlate",
+          "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNG9JQUNuV3VqOHBnUk1tenBXQWFfUHV5VWctWnpPaWxqNFlTUnY4V3FISURvV3pnU1hSZ0tjZWVLZHdFaXdEQ3B6UkotQlNBeWFwaEs2UmU0UjUzNFdRQ0ZTa0pmLVFweFA0WnJWRDdJNmQxN2JubmQ4bHVSZ0RuY1B6OWJvZ3BaRGJodA?oc=5",
+          "date": "2026-11-14T04:30:00+00:00",
+          "resume": "",
+          "titre_fr": "L'outil de trading IA de Coinbase suspend les bots, mais laisse les ordres ouverts"
+        },
+        {
+          "note": 4,
+          "motif": "Cas judiciaire local, IA secondaire",
+          "couverture": 1,
+          "titre": "Maricopa County judge dismisses DUI case after trooper uses AI",
+          "source": "AZ Family",
+          "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUmZKNzJ4T3N3UlY0elhhU2hmUUhTTGlUZlZhbkhjRUcxeFNXQzBaMjdGNkpwTGRjLVR0SnpxMFc1bVFwOU1TcXJMUWVNVXJIX0FtcEZ1RTgxeDZHcF9CanhmQ1A5Nkl4N1VQOGlacE5FczJTMU5XeEVQb0pDc1Z4UVNoOXdZbS1xekxKSU1YVGNrbEZLaHJWOUdWOThhaGZn0gG0AUFVX3lxTE1JckFQazBiSkMzc1hCSVUyZ1hvQ096WmtaMW02MVhVYlRUNnNoaktteEhjaVlnU3dIRkVlandKcVdnYXhvcV9PSF9ydWZYbUhvdzlpZVhabTJPT3N2WHBYUDlkODVjbmEwWFdZakdfUm52ODR6NEJXQTJra0s1Z2tHTmhkaDVDVVVHa3lqbXljMGF0MFBhQzBJYVVPZDdxYlVad0NReTFDb1VCVlgzTF9wd19uUg?oc=5",
+          "date": "2026-11-14T03:58:00+00:00",
+          "resume": "",
+          "titre_fr": "Un juge du comté de Maricopa rejette une affaire de DUI après que le policier ait utilisé l'IA"
+        },
+        {
+          "note": 4,
+          "motif": "Même sujet que 41, redondance",
+          "couverture": 1,
+          "titre": "Why a judge dismissed DUI after trooper used AI",
+          "source": "AZ Family",
+          "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSVZaODV1S1RTdUVadTVpUGdPc2lORnNGUVl6YkliMkhLOGItWEJITVBfMms4Z0thUzBGWGRWeU1nUlVpQnZjeXoySDRKZHpvNXJWZ2JQX2VxdEJHN1JRUXJBRnkzVTJXUE5lSnZ3S1FiaE5SQTZLdzk5QUFCY2YwNWo0SWNTVFpIM0JCcU1GbXJXZw?oc=5",
+          "date": "2026-11-14T03:50:57+00:00",
+          "resume": "",
+          "titre_fr": "Pourquoi un juge a rejeté un DUI après que le policier ait utilisé l'IA"
+        }
+      ]
+    },
+    {
+      "nom": "Santé, Culture et Société",
+      "resume": "L'intelligence artificielle trouve des applications variées dans la vie quotidienne, la littérature, la santé avec le suivi du diabète et la prédiction du stress post-traumatique, ainsi que dans le milieu religieux.",
+      "articles": [
+        {
+          "note": 6,
+          "motif": "Modèle unifié simulant physiques, avancée technique notable",
+          "couverture": 1,
+          "titre": "Unified AI Model Accurately Simulates Diverse Physical Phenomena From Sand to Proteins",
+          "source": "Bioengineer.org",
+          "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd290bnVCVGlCMVQ5cVlwTVJ4cTVMUWE3NmhHc05iOGNRN0JFRld0N3UyYThaNzJKeVV5WWxlVVBOS1ZZZXN0Zm95TlhxUWhEaWRLVmZwV2ZBaW1TRlhyNTNpa2plaGYxdWdxaUg1cFdTZ1NfaFRYUXByVGdROWNyUlljT2VoeHpaUjFOT2VUMXQ0UjRfcFNsZWc5M0dldHJlaXQ1UzhweTNHUmFlb1Fwcg?oc=5",
+          "date": "2026-11-14T05:03:39+00:00",
+          "resume": "",
+          "titre_fr": "Modèle IA unifié simulant avec précision des phénomènes physiques variés, du sable aux protéines"
+        },
+        {
+          "note": 6,
+          "motif": "Outil IA prédiction PTSD, application médicale concrète",
+          "couverture": 1,
+          "titre": "AI Tool Predicts PTSD Risk From Emergency Room Narratives",
+          "source": "Bioengineer.org",
+          "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR2dvbWxkT0trdC1nMEdFUmd4OE9QUjBLSzRtYVd2SGpOTGM0YXcyel9JOWthWHBfMjhQbklqeVdHSkh4Wm1KZVJTc0h6R2VpT1ljeUF2SGhRYnpYVXJMd0tuUXdxcmN6UDN0STl1V2toeVZFM1ZvWVJnSzlCOTcxcHhieVdGV1o1TFE?oc=5",
+          "date": "2026-11-14T04:34:11+00:00",
+          "resume": "",
+          "titre_fr": "Un outil IA prédit le risque de SSPT à partir des récits d'urgences"
+        },
+        {
+          "note": 6,
+          "motif": "Essai de coach IA pour diabète, application santé concrète",
+          "couverture": 1,
+          "titre": "Researchers trial AI coach for diabetes",
+          "source": "Medical Xpress",
+          "lien": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ybmlQY1BpRXRNenhNQVA5SWZvNVdCTkdKcjZPTGlwX3pGRDRoMng4MDBGN05wa0cxNS1MRG9hbmgwY05zdzZTZVdSVFlJMTBvWlFFM09YeFlsbng2NG4tajBGN1lLRm9lNjNPTlpR?oc=5",
+          "date": "2026-11-14T03:20:01+00:00",
+          "resume": "",
+          "titre_fr": "Des chercheurs testent un coach IA pour le diabète"
+        },
+        {
+          "note": 5,
+          "motif": "Proposition de modèle clinique, IA centrale mais domaine spécialisé",
+          "couverture": 1,
+          "titre": "Review proposes clinical model for AI decision oversight",
+          "source": "Bioengineer.org",
+          "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVExXQk9BYkRWNy1CVlNBaHlJdldoVFVxUVNhQzZ0dUtwQnpBUkZEck1VWXV2Rm1lcGdOanNJd2xKZVBLbzJ1Y2N0cGlEU1BCdXJXSFhURFJYY0I2V2xsTnNnQ2NReGNrckZlXzZtOXBIbUhya1hIWjJzVlNLVkZoQjdYSUxwZFRQ?oc=5",
+          "date": "2026-11-14T05:13:45+00:00",
+          "resume": "",
+          "titre_fr": "Une revue propose un modèle clinique pour la supervision des décisions IA"
+        },
+        {
+          "note": 5,
+          "motif": "Prix littéraire IA, impact culturel limité",
+          "couverture": 1,
+          "titre": "New French literary prize will reward work created with AI help",
+          "source": "Le Monde.fr",
+          "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUlZNUXVaWmVoZ0JEWENub3BLSkRNUVpIdW0wRVpMaE4tWU9SVjZ4RUU3eUhHSHBLeHFoeVFnSGRyd2ZsZ0JXVVVCbnpuQWx4SWxfdmYzeERaVkhLMFlvVF9iOUlyLTVIUVowTk4wcWx6OVVmVjJKRnJ1WHdPMmZENnpocDN4czJHWS1iZHVSX3drUDRjQWtreGd5VXlTUnFvMURwcHp5M2lBRUFvZC03ZkJaaE43cjRpWnBkdkk4aHZCTmVHTWxtZVZBdjJDZ2s?oc=5",
+          "date": "2026-11-14T04:30:07+00:00",
+          "resume": "",
+          "titre_fr": "Nouveau prix littéraire français récompensant les œuvres créées avec l'aide de l'IA"
+        },
+        {
+          "note": 4,
+          "motif": "Opinion religieuse, IA secondaire",
+          "couverture": 1,
+          "titre": "Terry Mattingly: AI is already shaping life in many Protestant pulpits",
+          "source": "The Republic News",
+          "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSno3MjFPUzRQR3V0V1lfQkZ5RGhXYWRDMEVWNlI5QXppXzRjbnFUcWFYMHBDTVNVM3I5QlJydzJqdkx0REd6Ni15bnh0UktneDZyZzZ4RC1faHhyOEs4Vk5DNE5Rd3hqQzZCSW9nMDRwV2hQODQtMTVVUkk2WmpfaXF3NTh2N0RxZENjR09vSVRMOUsyRmJYV2NXSHU3VkJMQWhyakpCU2tVclVGWEE?oc=5",
+          "date": "2026-11-14T05:10:00+00:00",
+          "resume": "",
+          "titre_fr": "Terry Mattingly : l'IA façonne déjà la vie dans de nombreuses chaire protestantes"
+        },
+        {
+          "note": 3,
+          "motif": "Annonce de prix, IA accessoire",
+          "couverture": 1,
+          "titre": "CVS Health (CVS) Wins Seven Stevie Awards For AI And Technology",
+          "source": "Yahoo Finance",
+          "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQnkzSlVUemIwZnYyZ041MFNhWVVlVW5zeVplVVUyX2FnMzlYQWZLUk9nRC1fY29palpaZTdkb0Z0aDNyQ09YblpkblIyOXdiYk41ZXNmTVFRa0hwSi12d3ZVS1hGeXo0Qnp3b1ExaTNtNFZUV1pHejdSc1I1V2hVREpSQ2pjemR2VlJBaml4OA?oc=5",
+          "date": "2026-11-14T05:12:00+00:00",
+          "resume": "",
+          "titre_fr": "CVS Health (CVS) remporte sept Stevie Awards pour l'IA et la technologie"
+        },
+        {
+          "note": 2,
+          "motif": "Anecdote immobilière, IA marginale, source non reconnue",
+          "couverture": 1,
+          "titre": "AI millionaires in California skip starter homes for mansions with elevators for aging parents",
+          "source": "The Cool Down",
+          "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQmJlQXJLbWFLUW1qdHNQdVNaYndxbDhaVXJrMnBBWFM0eVhnbzhHOFpwcGh3QmhtQTVtdzNzcXQ5YUdGUHpRNVQ3cmxsNkc2RnE2YWh0YVloUnVBMGd2a3prdm9vLXp6aDk1N19pS3k3VnlaWVVuNjlyNjJRVmE4MXJJU2ZUMWpQZGFkS1BLXzJET3M?oc=5",
+          "date": "2026-11-14T06:03:00+00:00",
+          "resume": "",
+          "titre_fr": "Les millionnaires de l'IA en Californie préfèrent les manoirs avec ascenseurs pour leurs parents vieillissants aux logements d'entrée de gamme"
+        }
+      ]
+    },
+    {
+      "nom": "Autres articles",
+      "resume": "",
+      "articles": [
+        {
+          "note": 6,
+          "motif": "Licence collective IA de Yahoo, impact sur droits d'auteur",
+          "couverture": 1,
+          "titre": "Yahoo signs a collective AI licence. Now follow the royalties",
+          "source": "Tomorrow's Publisher",
+          "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeTY0dGVtUmxvaWxRSjdQX3FTeWdfNDE2UERuR1I0VTlpSnJuT09HQ1N5RkRrOC1GVnptNUZTVXo1aE5yd1JPQjBsWjVUY1F4QXd3alBLOW5FVTduNUFQWUEwSXREWDJldl85TENmNzR4QkVEd1FYSlhIbzdnaHB0cFlOcU1uVnY2Qm5rc0l3UWxNaExKdGVuOU1BanRQcFNKMUpwanN0X2FCYVRzVlR0YXhRRVpxX01IY1FLeVhmb0N3YmN0bXZfUGdVZHVLSHpHS2FmUExVRzVXcHNFZjNZM1lB?oc=5",
+          "date": "2026-11-14T05:31:39+00:00",
+          "resume": "",
+          "titre_fr": "Yahoo signe une licence collective IA. Suivez maintenant les redevances"
+        },
+        {
+          "note": 4,
+          "motif": "Essai de perspective, peu d'info concrète, source peu connue",
+          "couverture": 1,
+          "titre": "AI promises an age of miracles. We expect grounded planes",
+          "source": "Blood in the Machine | Brian Merchant",
+          "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40MGxwbTF5NXhVSHFMNWNtT0ZqUm9pQkZXSGVDYkowY0RNV3A5SE1kcEpHR3Z3QjlubW83amoyRno3TjdPeEJfeUlTMm93Y2RueTFHaV9kSVc1djk1WEIxNGFYcW8xMDNMRjZkVEt4WXJIR184T2U4MnBIcw?oc=5",
+          "date": "2026-11-14T05:50:38+00:00",
+          "resume": "",
+          "titre_fr": "L'IA promet une ère de miracles. Nous attendons des avions au sol"
+        },
+        {
+          "note": 4,
+          "motif": "Conseil carrière, IA accessoire",
+          "couverture": 1,
+          "titre": "Should you be using AI on your resume?",
+          "source": "KSAT",
+          "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdm9pNjJQZTAwaU9oOGxSUkNZaElJM0FacTJxOHZlQ0lDaTJKbkxYM182MHdkTlRMRU11a3gycEdVQlZ6eDN5em54b2RPZzdxUzZfeEg3OUJDMWdEN19fOTNib01CQk5wcEZwREo0YkM2VjU5cFNjbFNBUzNOZzB1RUpEcjdZa2M4?oc=5",
+          "date": "2026-11-14T04:51:48+00:00",
+          "resume": "",
+          "titre_fr": "Devriez‑vous utiliser l'IA sur votre CV ?"
+        },
+        {
+          "note": 4,
+          "motif": "Guide promotionnel sur agents IA, peu de nouveauté",
+          "couverture": 1,
+          "titre": "You’re Not Behind on AI Agents Yet. Learn How They Work in 10 Minutes, Before Your Competitors Get Ahead",
+          "source": "Entrepreneur",
+          "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSGtCZjIzVkJrR1lHQ0V4YWxqblVnUk5MSVFmTnVrbkMxX0RRR0pscDd2cXh6YVpMVGJQRjl1RWg1X01IelBqRkdkdXJWMnFvNktPT2ZZM1A4ZXkyTDZiVTZjcFlpOGNJVjZ1WHFmbGN1MVZVVFk2allmYnA3UUotdUJQNDl1TWY5SjJ5TTlHOGZkQ1lwOEptdklZdjgyS3B3S0VYT1UxbG0wZUFDeGpiNjQydkFWazdzZXpZVHNEMkMxV0Fjc0NXcXRnWmtIc1Q0Nnptb2hobE84U2Zm?oc=5",
+          "date": "2026-11-14T03:00:38+00:00",
+          "resume": "",
+          "titre_fr": "Vous n'êtes pas encore à la traîne sur les agents IA. Apprenez leur fonctionnement en 10 minutes, avant que vos concurrents ne prennent de l'avance"
+        }
+      ]
+    }
+  ],
+  "ecartes": [],
+  "top": [
+    {
+      "note": 9,
+      "motif": "Scandale Nvidia, rivalité USA/Chine, large couverture médiatique",
+      "couverture": 5,
+      "titre": "The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTdIb1dVWXp1MFVRQmJfY3lVelBQN0RDZzJoQnI4V19GQVAyZ0Fkdk9JdU5LenRnY3lYejRzdy1UYVRjVXh4SmVrb09rbjFxLU96d0pGN0NYdmJQT3BwaVNLdjVJSjNBUzFwcUhXVDZYNU9QYWdMWURzQWNfd3dUbnZORGlROFFWaENQTjNOcE9vdmtPanRQWEpzUTdmV1dMSy1j0gGoAUFVX3lxTFBIdGZpRWxLclBvWlBpQkt0OURmdXdSYklEZHp6bVhORWFkMDQ3NDFuUzVoQkRrRks4ZW8ydF83UmhJOFdrTV9GN1d4UWtjYlRmX3owYXRpaW9OZEl5VDZWdUwybUdZLXlHNWpsNWFLMzNwRTgtRG1RUXFLdUYyVHBmcGNkdF95Q3o4Tm1SN1laeFdZQmwwY1BVRncyMjIzblRfaTE3OGgtOQ?oc=5",
+      "date": "2026-11-14T05:51:32+00:00",
+      "resume": "",
+      "titre_fr": "Le scandale Nvidia intensifie la rivalité américaine‑chinoise en IA avant la visite de Trump"
+    },
+    {
+      "note": 8,
+      "motif": "Analyse du pouvoir politique de l'IA, acteur majeur, source reconnue",
+      "couverture": 1,
+      "titre": "How AI is becoming the ultimate political power",
+      "source": "The Telegraph",
+      "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU0VlSjJkbGhzWkNDdFFydm9QRlVQM3Y5TjdOTWJfWE1VNXF3UF9JanVYRHVIR3dXS0hrTzlaUlF2cW1oZ2Fxd2xHUWFPck5UajlfdUgwd1BiU1dHbDhuYkpQR3EySWl6eGNRczI2bmFudXh1QktNMnQxLWphaXhaX21TV3poUTFldXhMMQ?oc=5",
+      "date": "2026-11-14T06:00:00+00:00",
+      "resume": "",
+      "titre_fr": "Comment l'IA devient le pouvoir politique ultime"
+    },
+    {
+      "note": 7,
+      "motif": "Synthèse d'actualités majeures (Nvidia, Anthropic, Google), source spécialisée",
+      "couverture": 1,
+      "titre": "AI: Nvidia’s Mega-Blip, Anthropic’s IPO Range, Google’s TPUs & More. AI-RTZ #1270",
+      "source": "AI: Reset to Zero",
+      "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDJObUFCRHZSZHJFeU1QTmFHbWhtSC03YXo2UVR2cUNmUFpILUlkeEdTZGExSVA4WFhwelY1d21oTzN1c0xNdmdCaHQxRnNzdVZlN3pIWkxpLVJJZ0xPdENhdVhqajNLd1BtR3pHXy1pQmNzVFFrdWFlSFBwQ3FxTldfSVg?oc=5",
+      "date": "2026-11-14T06:02:30+00:00",
+      "resume": "",
+      "titre_fr": "IA : le Mega‑Blip de Nvidia, la fourchette d'IPO d'Anthropic, les TPU de Google et plus encore. AI‑RTZ #1270"
+    },
+    {
+      "note": 7,
+      "motif": "Lancement d'un chip AI low-power, impact matériel notable",
+      "couverture": 1,
+      "titre": "DeepX tapes out $50 edge AI chip to run big models at 5W",
+      "source": "Dealroom",
+      "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeTNzR1ZXR1BHbEFjZm9reDhGWEhjTkNRRkhFeXdqd0x2Zk51aGFnZmUtalpYV2VuNFMyWUtfamlhRWZEblh5Sm51cVp2Zi1GVFZqY09fU1dHQ1lyRVFlWWJFTjlPbUpjdVdlSjNta2Z1eGxEbkNfSmhWNC1Ud2ZpdlM0SWtHalJzazZOd3UyRUdkZjA?oc=5",
+      "date": "2026-11-14T05:50:22+00:00",
+      "resume": "",
+      "titre_fr": "DeepX lance une puce IA edge à 50 $ capable de faire tourner de gros modèles avec 5 W"
+    },
+    {
+      "note": 7,
+      "motif": "Perspective sur actions chinoises et IA, impact macroéconomique",
+      "couverture": 1,
+      "titre": "China’s beaten-down tech stocks could offer AI with a little less drama",
+      "source": "Financial Times",
+      "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVBvSkdtOVRna0hvdldmUHJoakppR3Iyc3EyR09xdzRwSkR5Y25sZHhKU0RyY3JBOFBGbHZ4ZVlCY05obDVfeHVENW5iSDJULU94VUtmMWE5cVplcFFmX3R5ekEwYnFOcFdDN243UEhMSlg4ME5CM2FrZTJYSDBQX0tpX3Q?oc=5",
+      "date": "2026-11-14T05:10:34+00:00",
+      "resume": "",
+      "titre_fr": "Les actions technologiques chinoises en chute pourraient offrir de l'IA avec moins de drame"
+    }
+  ],
+  "articles_notes": 50,
+  "liens_google": 50,
+  "videos": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "Anthropic’s Amodei Doesn’t Want AI Agents to ‘Run Wild’",
+        "source": "Bloomberg Television",
+        "lien": "https://www.youtube.com/watch?v=jbvHYx9aQ6k",
+        "date": "2026-11-13T22:12:52Z",
+        "image": "https://i.ytimg.com/vi/jbvHYx9aQ6k/mqdefault.jpg",
+        "extrait": "Anthropic CEO and co-founder Dario Amodei said that the company is continuously putting efforts into “safety and security and ...",
+        "description": "Le cofondateur et PDG d'Anthropic, Dario Amodei, insiste sur la nécessité de maintenir la sécurité pour éviter que les agents IA ne se développent sans contrôle."
+      },
+      {
+        "titre": "Google's Gemini Decisions API picks answers instead of writing them",
+        "source": "The Daily AI Show",
+        "lien": "https://www.youtube.com/watch?v=BrzC54E6XEI",
+        "date": "2026-11-14T01:30:35Z",
+        "image": "https://i.ytimg.com/vi/BrzC54E6XEI/mqdefault.jpg",
+        "extrait": "Google launched the Gemini Decisions API on Nov 11. Its model, Gemini Decision 1, answers up to 1000 yes/no, multiple-choice ...",
+        "description": "Google a lancé l'API Gemini Decisions, conçue pour sélectionner des réponses structurées plutôt que de rédiger du texte."
+      },
+      {
+        "titre": "AI startup says nationwide ground stop was not caused by its software",
+        "source": "NBC News",
+        "lien": "https://www.youtube.com/watch?v=PYpzQk7cH_Q",
+        "date": "2026-11-13T23:52:13Z",
+        "image": "https://i.ytimg.com/vi/PYpzQk7cH_Q/mqdefault.jpg",
+        "extrait": "Air Space Intelligence, the AI tech startup that is a vendor for the FAA on its new SMART system for air traffic control, said its ...",
+        "description": "Une startup d'intelligence artificielle nie toute implication de son logiciel dans une panne de trafic aérien aux États-Unis."
+      },
+      {
+        "titre": "Claude Fable 5.2 Just Built A Working Operating System From Scratch",
+        "source": "Mason Anderson",
+        "lien": "https://www.youtube.com/watch?v=EsHtpnEAjq0",
+        "date": "2026-11-13T16:23:48Z",
+        "image": "https://i.ytimg.com/vi/EsHtpnEAjq0/mqdefault.jpg",
+        "extrait": "Imagine an AI building the software that runs your laptop from an empty folder in eight days. Claude Fable 5.2 did it, and Anthropic ...",
+        "description": "Un modèle d'Anthropic, Claude Fable 5.2, a réussi à concevoir un système d'exploitation fonctionnel à partir d'un dossier vide en huit jours."
+      },
+      {
+        "titre": "Will artificial intelligence take your job? | Insiders: On Background",
+        "source": "ABC News In-depth",
+        "lien": "https://www.youtube.com/watch?v=SsOFOwZZnFg",
+        "date": "2026-11-14T03:00:06Z",
+        "image": "https://i.ytimg.com/vi/SsOFOwZZnFg/mqdefault.jpg",
+        "extrait": "The promise of AI is that it will make our lives easier. But could it also mean unemployment? This week, the government has ...",
+        "description": "Une analyse de la chaîne ABC News examine l'impact potentiel de l'intelligence artificielle sur l'emploi et le risque de chômage."
+      },
+      {
+        "titre": "Are AI summaries hurting the news sector?",
+        "source": "The Scottish Parliament",
+        "lien": "https://www.youtube.com/watch?v=aN_dTwsR3TM",
+        "date": "2026-11-13T17:40:13Z",
+        "image": "https://i.ytimg.com/vi/aN_dTwsR3TM/mqdefault.jpg",
+        "extrait": "What if a newsagent just told you what's in the paper today without you having to pay for it? Nick McGowan-Lowe from the ...",
+        "description": "Le Parlement écossais débat pour savoir si l'utilisation de résumés générés par l'IA nuit au secteur de l'information."
+      },
+      {
+        "titre": "Why AI Agents Delete Tests | Gemini 4 Carbon",
+        "source": "Ashish Decodes English",
+        "lien": "https://www.youtube.com/watch?v=DiR3lNnGQHM",
+        "date": "2026-11-13T14:50:53Z",
+        "image": "https://i.ytimg.com/vi/DiR3lNnGQHM/mqdefault.jpg",
+        "extrait": "An AI coding agent gets stuck on a failing test. Its shortcut? Delete the test. This breakdown explains reward hacking, why agents ...",
+        "description": "Cette vidéo explique pourquoi un agent de codage guidé par l'IA peut en venir à supprimer des tests défaillants pour contourner un problème."
+      },
+      {
+        "titre": "Microsoft Global Outage Hits AI Tools Of Anthropic & OpenAI",
+        "source": "NDTV Profit",
+        "lien": "https://www.youtube.com/watch?v=vEtC5VBQDMU",
+        "date": "2026-11-13T13:34:23Z",
+        "image": "https://i.ytimg.com/vi/vEtC5VBQDMU/mqdefault.jpg",
+        "extrait": "For more videos subscribe to our channel: https://www.youtube.com/@NDTVProfitIndia Visit NDTV Profit for more news: ...",
+        "description": "Une panne informatique mondiale chez Microsoft a perturbé les outils d'intelligence artificielle d'Anthropic et d'OpenAI."
+      }
+    ]
+  },
+  "podcasts": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "How Data Teams Measure AI ROI Without Guesswork",
+        "source": "The Data Science Podcast with Fexingo: Analytics, Machine Learning, and Data-Driven Conversations",
+        "lien": "https://podcasts.apple.com/us/podcast/how-data-teams-measure-ai-roi-without-guesswork/id1896799032?i=1000801855430&uo=4",
+        "date": "2026-11-14T04:00:32+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/15/98/12/159812ed-d60a-496a-95a3-ead16aca0ad2/mza_4704325527815697416.png/160x160bb.jpg",
+        "duree_min": 12,
+        "extrait": "Most companies treat AI spending like a black box, burning millions on compute and data infrastructure with no clear line of sight to revenue impact. In this episode, we break down the specific framework leading tech firms use to calculate true return o",
+        "description": "Analyse du cadre permettant aux équipes data de mesurer le retour sur investissement de l'IA sans conjectures."
+      },
+      {
+        "titre": "ChatGPT Wallet Masks Card Details. France Urges Chatbot Tests. Richer Teens Use AI More. Amazon Builds World Product Graph.",
+        "source": "AI News Daily - Your Daily AI Briefing in 5 Minutes",
+        "lien": "https://podcasts.apple.com/us/podcast/chatgpt-wallet-masks-card-details-france-urges-chatbot/id1792810626?i=1000801857862&uo=4",
+        "date": "2026-11-14T04:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/98/79/87/987987b2-89a1-a3a0-1715-735f343eb38b/mza_11377502211998301814.jpg/160x160bb.jpg",
+        "duree_min": 4,
+        "extrait": "The AI news for November 14th, 2026 Here are the details of the day's selected top stories: ChatGPT Wallet Lets OpenAI’s Agents Pay Without Seeing Your Card Source: https://dailyai.com/2026/11/chatgpt-wallet-lets-openais-agents-pay-without-seeing-yo",
+        "description": "Actualités du jour : le portefeuille ChatGPT permet de payer sans voir les cartes, la France encourage les tests de chatbots, les adolescents plus aisés utilisent davantage l'IA, et Amazon crée un graphe produit mondial."
+      },
+      {
+        "titre": "[EN] Daily briefing — 2026-11-14",
+        "source": "AI News — AI and cybersecurity briefing",
+        "lien": "https://podcasts.apple.com/us/podcast/en-daily-briefing-2026-11-14/id6821580049?i=1000801836331&uo=4",
+        "date": "2026-11-14T03:08:20+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d7/e1/60/d7e16021-05f8-5376-371b-b515264b7c36/mza_2785864942769386774.jpg/160x160bb.jpg",
+        "duree_min": null,
+        "extrait": "In this briefing: 1. OpenAI Codex GUI Vulnerability Allows Remote Code Execution Source: ZDI-26-968: (Pwn2Own) OpenAI Codex GUI OpenProjectInCodex Argument Injection Remote Code Execution Vulnerability — http://www.zerodayinitiative.com/advisor",
+        "description": "Briefing sur une vulnérabilité du GUI d'OpenAI Codex qui permet une exécution de code à distance via une injection d'arguments."
+      },
+      {
+        "titre": "How AI Agents Are Rewiring Corporate Workflows",
+        "source": "The AI Podcast with Fexingo: Artificial Intelligence, Machine Learning, and Modern AI Models",
+        "lien": "https://podcasts.apple.com/us/podcast/how-ai-agents-are-rewiring-corporate-workflows/id1896798905?i=1000801834965&uo=4",
+        "date": "2026-11-14T02:40:05+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ff/a1/d6/ffa1d637-48ec-b231-b077-1c4c8e64050e/mza_2659974995729559600.png/160x160bb.jpg",
+        "duree_min": 11,
+        "extrait": "With LangChain hitting a three billion dollar valuation and Nvidia facing leadership shifts, we look at how AI agents are moving from experimental pilots to core operational infrastructure. Lucas and Luna break down the specific workflow changes happeni",
+        "description": "Discussion sur la façon dont les agents IA, soutenus par LangChain et les changements chez Nvidia, passent de projets pilotes à une infrastructure opérationnelle centrale."
+      },
+      {
+        "titre": "Jensen Ousted as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact",
+        "source": "All-In with Chamath, Jason, Sacks & Friedberg",
+        "lien": "https://podcasts.apple.com/us/podcast/jensen-ousted-as-nvidia-ceo-spy-scandal-export-restrictions/id1502871393?i=1000801835339&uo=4",
+        "date": "2026-11-14T02:35:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/dd/ae/c9ddaeeb-f540-5eed-4eee-f031b93ccae4/mza_12163604355914070581.png/160x160bb.jpg",
+        "duree_min": 85,
+        "extrait": "(0:00) Bestie intros! (1:20) Jensen Huang out as CEO: Spy allegations, classified memo leak, who wanted Jensen out? (31:22) Market impact: AI trade, what happens to \"The Bank of Nvidia,\" China's strategy (44:19) Export controls, totalitarian AI risks",
+        "description": "Analyse de la destitution de Jensen Huang chez Nvidia, des accusations d'espionnage, des restrictions à l'exportation et de leurs impacts sur le marché de l'IA."
+      },
+      {
+        "titre": "Jensen’s Departure, NVIDIA’s succession plan, AI doomer response, and Demis talks RSI | MOONSHOTS #311 (recorded live)",
+        "source": "Moonshots with Peter Diamandis",
+        "lien": "https://podcasts.apple.com/us/podcast/jensens-departure-nvidias-succession-plan-ai-doomer/id1648228034?i=1000801832580&uo=4",
+        "date": "2026-11-14T02:03:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/db/93/ed/db93ed1e-0cc1-8c0d-0788-b987040bf98d/mza_12828457162931711615.jpg/160x160bb.jpg",
+        "duree_min": 122,
+        "extrait": "The Mates sit down with Emad Mostaque to discuss Jensen Huang’s departure, what it means for NVIDIA, and the potential implications for the future of AI. Get access to metatrends 10+ years before anyone else - https://qr.diamandis.com/metatrends",
+        "description": "Entretien avec Emad Mostaque sur le départ de Jensen Huang, le plan de succession de Nvidia et les réactions des pessimistes de l'IA."
+      },
+      {
+        "titre": "Notion confirmed that AI conversation transcripts were leaked across less than 1% of total workspaces due to a security incident at its AI c",
+        "source": "Daily AI News from Seoul",
+        "lien": "https://podcasts.apple.com/us/podcast/notion-confirmed-that-ai-conversation-transcripts-were/id1896911525?i=1000801829352&uo=4",
+        "date": "2026-11-14T01:31:52+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/68/fa/1a/68fa1ab2-a9ca-36bd-68dc-4cb4cd7a8465/mza_16254319392793726921.jpg/160x160bb.jpg",
+        "duree_min": 20,
+        "extrait": "Notion confirmed that AI conversation transcripts were leaked across less than 1% of total workspaces due to a security incident at its AI compute partner, Fireworks AI. The exposure extended to conversations offloaded to the external compute vendor. Se",
+        "description": "Signalement d'une fuite de transcriptions de conversations IA chez Notion, affectant moins d'1 % des espaces de travail suite à un incident chez son partenaire de calcul."
+      },
+      {
+        "titre": "Special Report: The Fall Of Jensen Huang & What Comes Next",
+        "source": "Big Technology Podcast",
+        "lien": "https://podcasts.apple.com/us/podcast/special-report-the-fall-of-jensen-huang-what-comes-next/id1522960417?i=1000801822873&uo=4",
+        "date": "2026-11-14T00:04:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c3/30/67/c330676b-2402-432b-0505-12490dc3ccc1/mza_4262545472677654397.jpeg/160x160bb.jpg",
+        "duree_min": 63,
+        "extrait": "Ranjan Roy from Margins is back for our weekly discussion of the latest tech news. We cover: 1) Jensen Huang ousted as CEO of Nvidia 2) The real issue: Sending hundreds of thousands of restricted chips to China 3) Nvidia's mysterious Singapore numbers 4",
+        "description": "Report spécial sur la chute de Jensen Huang chez Nvidia et les perspectives futures, incluant la question des puces restreintes envoyées à la Chine."
+      },
+      {
+        "titre": "[11/14 00:00 UTC] Amazon reports ARTEX campaigns from attacker AI agents' own records…",
+        "source": "AI News Flash",
+        "lien": "https://podcasts.apple.com/us/podcast/11-14-00-00-utc-amazon-reports-artex-campaigns-from/id1873892136?i=1000801822520&uo=4",
+        "date": "2026-11-14T00:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/1f/b6/b91fb627-f6de-9e77-e614-ef36393402d6/mza_13059665318982617720.png/160x160bb.jpg",
+        "duree_min": 3,
+        "extrait": "AI News Flash for November 14, 2026 at 00:00 UTC. Topics: 1. Amazon reports ARTEX campaigns from attacker AI agents' own records https://aws.amazon.com/blogs/security/amazon-threat-intelligence-observes-threat-actors-running-cybercrime-campaigns-wit",
+        "description": "Amazon rapporte des campagnes ARTEX provenant d'agents IA attaquants, détaillant les menaces observées par son service de renseignement."
+      },
+      {
+        "titre": "AI agent startup LangChain hits $3B valuation & Olaf Sakkers is betting he can beat the emer… | SNN",
+        "source": "NotHuman.fyi | 24/7 AI News",
+        "lien": "https://podcasts.apple.com/us/podcast/ai-agent-startup-langchain-hits-%243b-valuation-olaf/id6833191883?i=1000801817668&uo=4",
+        "date": "2026-11-13T22:23:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/1c/28/491c28fc-c161-feef-fdf1-2ee88fefffb1/mza_6674776311632141358.jpg/160x160bb.jpg",
+        "duree_min": 17,
+        "extrait": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+        "description": "Annonce de la valorisation de 3 milliards de dollars pour LangChain et du pari d'Olaf Sakkers sur la capacité à surpasser les acteurs établis."
+      }
+    ]
+  }
+}

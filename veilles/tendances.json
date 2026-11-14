@@ -1,9 +1,9 @@
 {
-  "genere_a": "2026-11-13T07:42+01:00",
+  "genere_a": "2026-11-14T07:21+01:00",
   "periode": {
     "du": "2026-11-08",
-    "au": "2026-11-13",
-    "jours": 6
+    "au": "2026-11-14",
+    "jours": 7
   },
   "precedente_jours": 0,
   "regions": [
@@ -12,11 +12,11 @@
     "fr",
     "us"
   ],
-  "synthese": "La période récente a été marquée par une immense effervescence financière et géopolitique autour de l'intelligence artificielle, dominée par la crise de gouvernance chez Nvidia et la démission de son PDG Jensen Huang. Cet événement a provoqué des ondes de choc sur les marchés boursiers, entraînant une chute des actions technologiques et chinoises tout en exacerbant les craintes de pénurie de puces. En parallèle, Anthropic a capté l'attention mondiale avec le lancement de ses modèles Fable 5.2 et Mythos 5.2, ainsi qu'avec des projets d'introduction en bourse et des valorisations record. Les géants comme Google, OpenAI et Microsoft continuent de déployer de nouveaux agents IA et des fonctionnalités avancées, tandis que les questions de régulation, de sécurité et de consommation énergétique des data-centers restent au cœur des préoccupations. Enfin, l'écosystème de développement a progressé rapidement, notamment grâce aux innovations dans les agents de codage et le calcul cloud.",
+  "synthese": "La semaine a été marquée par une crise majeure chez Nvidia, dont le PDG a démissionné suite à un scandale de mœurs, entraînant une onde de choc sur les marchés financiers et exacerbant les tensions géopolitiques avec la Chine. Parallèlement, le secteur a connu une activité frénétique avec le lancement des nouveaux modèles Claude d'Anthropic, qui affiche des ambitions de valorisation record malgré les craintes de bulle spéculative. Les autorités et banques centrales alertent désormais sur les risques systémiques de l'IA pour la stabilité financière. Sur le plan technique, les agents autonomes deviennent une réalité concrète, avec des déploiements dans le paiement, la gestion du trafic aérien et le codage, bien que leur fiabilité pose des problèmes de sécurité croissants. Enfin, les enjeux environnementaux et les besoins en infrastructures massives restent au cœur des préoccupations industrielles jusqu'en 2028.",
   "montants": [
     {
-      "nom": "Crise de gouvernance chez Nvidia",
-      "explication": "Le départ soudain du PDG Jensen Huang, sur fond d'enquêtes et de révélations personnelles, a ébranlé le marché mondial des puces et fait chuter les actions du secteur. Cette situation relance les inquiétudes sur la chaîne d'approvisionnement et les restrictions à l'exportation vers la Chine.",
+      "nom": "Crise Nvidia",
+      "explication": "Le départ du PDG Jensen Huang, lié à une affaire d'espionnage et de vie privée, déstabilise l'entreprise leader du secteur. Cet événement fait chuter les actions et alimente les inquiétudes sur la disponibilité future des puces.",
       "regions": [
         "fr",
         "us",
@@ -24,8 +24,17 @@
       ]
     },
     {
-      "nom": "Montée en puissance d'Anthropic",
-      "explication": "L'entreprise enchaîne les lancements majeurs avec les modèles Fable 5.2 et Mythos 5.2, tout en préparant une introduction en bourse massive visant des valorisations historiques. Son trafic record et ses investissements en forte hausse en font un acteur central de la compétition face à OpenAI et Google.",
+      "nom": "Agents autonomes",
+      "explication": "De nouveaux outils capables de prendre des décisions et d'agir, comme dans le paiement ou le contrôle de systèmes, se multiplient. Leur intégration soulève des questions critiques sur leur sécurité et leur potentiel de dérapage.",
+      "regions": [
+        "fr",
+        "us",
+        "dev"
+      ]
+    },
+    {
+      "nom": "Valorisation d'Anthropic",
+      "explication": "La startup enchaîne les records de trafic et prépare une introduction en bourse à des niveaux de valorisation astronomiques. Ce dossier devient le symbole des attentes des investisseurs et du risque de bulle.",
       "regions": [
         "fr",
         "us",
@@ -33,65 +42,57 @@
       ]
     },
     {
-      "nom": "Progrès des agents de codage et d'infrastructure",
-      "explication": "Les outils de développement s'améliorent avec des capacités de changement dynamique de modèles et des modes multijoueurs, réduisant les temps de tâche. Parallèlement, la demande en puissance de calcul soutient de nouveaux projets d'infrastructure cloud et de data-centers, malgré les risques de pénurie matérielle.",
+      "nom": "Risque systémique",
+      "explication": "La Fed et des observateurs financiers alertent sur l'impact de la fièvre IA sur la stabilité globale des marchés. Les valorisations jugées excessives menacent désormais l'équilibre économique.",
       "regions": [
-        "dev",
         "us",
-        "cn"
+        "cn",
+        "fr"
       ]
     }
   ],
-  "retombes": [
-    {
-      "nom": "Débats sur les data-centres et l'environnement",
-      "explication": "Initialement très présents en début de période autour de la consommation énergétique, ces sujets ont été eclipsés par la crise financière de Nvidia et l'actualité bouillante des introductions en bourse.",
-      "regions": [
-        "fr",
-        "us"
-      ]
-    }
-  ],
+  "retombes": [],
   "a_surveiller": [
-    "L'évolution de l'introduction en bourse d'Anthropic et son impact psychologique sur la bulle des investissements en IA.",
-    "Les répercussions à long terme de la transition de direction chez Nvidia sur le marché mondial des semi-conducteurs.",
-    "La mise en place concrète des nouvelles régulations gouvernementales concernant la sécurité et l'usage de l'IA.",
-    "L'adoption et la fiabilité des nouveaux agents de codage et des assistants multilingues par les entreprises."
+    "L'impact de la démission du PDG de Nvidia sur la supply chain mondiale des puces.",
+    "La progression de l'introduction en bourse d'Anthropic comme test de la confiance des marchés.",
+    "Les résultats des enquêtes sur le rôle potentiel de l'IA dans la panne aérienne de la FAA.",
+    "L'évolution des réglementations sur l'IA dans les domaines de la sécurité et des droits d'auteur.",
+    "La capacité de l'industrie à gérer les pénuries d'infrastructures de calcul annoncées jusqu'en 2028."
   ],
   "acteurs": [
     {
       "nom": "Anthropic",
-      "mentions": 70,
+      "mentions": 90,
       "mentions_precedentes": 0
     },
     {
       "nom": "Nvidia",
-      "mentions": 55,
+      "mentions": 60,
       "mentions_precedentes": 0
     },
     {
       "nom": "Google",
-      "mentions": 34,
+      "mentions": 41,
       "mentions_precedentes": 0
     },
     {
       "nom": "OpenAI",
-      "mentions": 22,
+      "mentions": 27,
       "mentions_precedentes": 0
     },
     {
       "nom": "Microsoft",
-      "mentions": 18,
+      "mentions": 26,
       "mentions_precedentes": 0
     },
     {
       "nom": "Amazon",
-      "mentions": 18,
+      "mentions": 23,
       "mentions_precedentes": 0
     },
     {
       "nom": "Meta",
-      "mentions": 14,
+      "mentions": 17,
       "mentions_precedentes": 0
     },
     {
@@ -101,12 +102,17 @@
     },
     {
       "nom": "xAI",
-      "mentions": 8,
+      "mentions": 10,
       "mentions_precedentes": 0
     },
     {
       "nom": "Alibaba",
       "mentions": 5,
+      "mentions_precedentes": 0
+    },
+    {
+      "nom": "DeepSeek",
+      "mentions": 4,
       "mentions_precedentes": 0
     },
     {
@@ -120,12 +126,12 @@
       "mentions_precedentes": 0
     },
     {
-      "nom": "DeepSeek",
-      "mentions": 2,
+      "nom": "Hugging Face",
+      "mentions": 1,
       "mentions_precedentes": 0
     },
     {
-      "nom": "Hugging Face",
+      "nom": "Union européenne",
       "mentions": 1,
       "mentions_precedentes": 0
     }
