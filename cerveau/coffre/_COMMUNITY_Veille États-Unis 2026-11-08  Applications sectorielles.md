@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[General Motors]] - concept - veilles/veille-ia-us-2026-11-08-t3.md
-- [[Google Health]] - concept - veilles/veille-ia-us-2026-11-08-t3.md
-- [[Veille États-Unis 2026-11-08  Applications sectorielles]] - document - veilles/veille-ia-us-2026-11-08-t3.md
+- [[Veille Outils & code 2026-11-14  Bibliothèques, outils et releases open‑source]] - document - veilles/veille-ia-dev-2026-11-14-t4.md
+- [[XYBench]] - concept - veilles/veille-ia-dev-2026-11-14-t4.md
+- [[agent-desktop]] - concept - veilles/veille-ia-dev-2026-11-14-t4.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0006.md"
 type: "concept"
-community: "Appel de Paris"
+community: "OpenAI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Appel_de_Paris
+  - community/OpenAI
 ---
 
 # Presse-citron
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Emmanuel Macron]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Appel_de_Paris
+#graphify/concept #graphify/EXTRACTED #community/OpenAI

@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0005.md"
 type: "concept"
-community: "Appel de Paris"
+community: "OpenAI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Appel_de_Paris
+  - community/OpenAI
 ---
 
 # RFI
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Australia AI Regulator]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Appel_de_Paris
+#graphify/concept #graphify/EXTRACTED #community/OpenAI

@@ -1,17 +1,19 @@
 ---
 type: community
-members: 4
+members: 6
 ---
 
 # produits IA grand public
 
-**Members:** 4 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Agent Name Service]] - concept - veilles/veille-ia-cn-2026-11-10-t5.md
-- [[Huawei]] - concept - dossiers/2026-11-12-1.md
-- [[Linux Foundation]] - concept - veilles/veille-ia-cn-2026-11-10-t5.md
-- [[Veille Chine 2026-11-10  Écosystèmes, plateformes et outils IA]] - document - veilles/veille-ia-cn-2026-11-10-t5.md
+- [[Community Impact]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Daily Herald]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Federal News Network]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Inside Global Tech]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[News 5 Cleveland WEWS]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Veille États-Unis 2026-11-09  Régulation et politiques publiques]] - document - veilles/veille-ia-us-2026-11-09-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,9 +21,3 @@ members: 4
 TABLE source_file, type FROM #community/produits_IA_grand_public
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 2 edges to [[_COMMUNITY_Nvidia]]
-
-## Top bridge nodes
-- [[Huawei]] - degree 3, connects to 1 community

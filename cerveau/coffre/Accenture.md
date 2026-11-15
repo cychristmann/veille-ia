@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-10-t1.md"
 type: "concept"
-community: "Accenture"
+community: "Claude Data"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Accenture
+  - community/Claude_Data
 ---
 
 # Accenture
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Qantas]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Accenture
+#graphify/concept #graphify/EXTRACTED #community/Claude_Data

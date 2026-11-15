@@ -1,27 +1,30 @@
 ---
 type: community
-members: 14
+members: 17
 ---
 
 # IA grand public chinoise
 
-**Members:** 14 nodes
+**Members:** 17 nodes
 
 ## Members
-- [[ByteDance]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[CHIPS Act]] - concept - veilles/veille-ia-us-2026-11-14-t2.md
-- [[DeepSeek]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[Doubao]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[JD.com]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
-- [[Kimi]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[Mistral]] - concept - veilles/veille-ia-fr-2026-11-14-t2.md
-- [[Open Weights Models]] - concept - veilles/veille-ia-fr-2026-11-14-t2.md
-- [[Taobao]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[Veille Chine 2026-11-12  IA dans le commerce et le divertissement]] - document - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[Veille États-Unis 2026-11-14  Économie, Marchés et Investissements]] - document - veilles/veille-ia-us-2026-11-14-t2.md
-- [[傲融云客]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[息壤杯]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[绿地南昌卢塞恩OPC社区]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
+- [[Agent Name Service]] - concept - veilles/veille-ia-cn-2026-11-10-t5.md
+- [[Apple HomeView]] - concept - veilles/veille-ia-cn-2026-11-15-t7.md
+- [[Cadence]] - concept - veilles/veille-ia-us-2026-11-15-t3.md
+- [[HarmonyOS]] - concept - veilles/veille-ia-cn-2026-11-15-t7.md
+- [[Huawei]] - concept - veilles/veille-ia-cn-2026-11-10-t5.md
+- [[Linux Foundation]] - concept - veilles/veille-ia-cn-2026-11-10-t5.md
+- [[MEOMURU]] - code - veilles/veille-ia-fr-2026-11-15-t6.md
+- [[SK Hynix]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
+- [[Samsung]] - concept - veilles/veille-ia-us-2026-11-15-t3.md
+- [[Shanghai Universities]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
+- [[Suno]] - code - veilles/veille-ia-fr-2026-11-15-t6.md
+- [[Veille Chine 2026-11-10  Écosystèmes, plateformes et outils IA]] - document - veilles/veille-ia-cn-2026-11-10-t5.md
+- [[Veille Chine 2026-11-15  Autres articles]] - document - veilles/veille-ia-cn-2026-11-15-t7.md
+- [[Veille Chine 2026-11-15  IA industrielle et technologique]] - document - veilles/veille-ia-cn-2026-11-15-t2.md
+- [[Veille États-Unis 2026-11-15  Matériel et robotique IA]] - document - veilles/veille-ia-us-2026-11-15-t3.md
+- [[WEIBUILD]] - concept - veilles/veille-ia-us-2026-11-15-t3.md
+- [[Xiaopeng G9]] - concept - veilles/veille-ia-cn-2026-11-15-t7.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -31,11 +34,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-13]]
-- 1 edge to [[_COMMUNITY_Nvidia]]
+- 3 edges to [[_COMMUNITY_Google]]
 - 1 edge to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_OpenAI]]
 
 ## Top bridge nodes
-- [[Veille États-Unis 2026-11-14  Économie, Marchés et Investissements]] - degree 5, connects to 3 communities
-- [[JD.com]] - degree 2, connects to 1 community
+- [[Veille Chine 2026-11-15  IA industrielle et technologique]] - degree 8, connects to 4 communities
+- [[Huawei]] - degree 6, connects to 1 community

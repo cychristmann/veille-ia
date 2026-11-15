@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-14-t2.md"
 type: "document"
-community: "IA grand public chinoise"
+community: "Veille Chine 2026-11-13"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/IA_grand_public_chinoise
+  - community/Veille_Chine_2026-11-13
 ---
 
 # Veille États-Unis 2026-11-14 : Économie, Marchés et Investissements
@@ -17,4 +17,4 @@ tags:
 - [[Google]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/IA_grand_public_chinoise
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-13

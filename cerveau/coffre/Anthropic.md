@@ -1,9 +1,9 @@
 ---
-source_file: "dossiers/2026-11-12-2.md"
-type: "concept"
+source_file: "veilles/veille-ia-us-2026-11-08-t1.md"
+type: "code"
 community: "Anthropic"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
   - community/Anthropic
 ---
@@ -26,9 +26,11 @@ tags:
 - [[Fable 5.2]] - `references` [EXTRACTED]
 - [[Fable 5.2 & Mythos 5.2]] - `references` [EXTRACTED]
 - [[Feuilleton Anthropic IPO and AI Safety]] - `references` [EXTRACTED]
+- [[Feuilleton Scandale qui renverse la star de l’IA]] - `references` [EXTRACTED]
 - [[Goldman Sachs]] - `conceptually_related_to` [INFERRED]
 - [[Introduction en bourse d'Anthropic]] - `conceptually_related_to` [INFERRED]
 - [[Jacob Coxon]] - `references` [EXTRACTED]
+- [[Mythos]] - `references` [EXTRACTED]
 - [[Mythos 5.2]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[SEC (U.S. Securities and Exchange Commission)]] - `references` [EXTRACTED]
@@ -37,6 +39,7 @@ tags:
 - [[Veille Chine 2026-11-11  Marchés et investissements]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-12  Anthropic et concurrence]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-13]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-15  IA industrielle et technologique]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Applications concrètes et innovations IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Environnement et empreinte carbone de l'IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Régulation, politique et enjeux sociétaux]] - `references` [EXTRACTED]
@@ -48,9 +51,10 @@ tags:
 - [[Veille France 2026-11-11  Recherche, modèles et hardware IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-12  Applications IA en santé et société]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-14  Régulation, politiques publiques et géopolitique]] - `references` [EXTRACTED]
-- [[Veille États-Unis 2026-11-08  Investissements et marché]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-15  Industrie & matériel]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-15  Recherche, outils et modèles IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-09  Déploiements et stratégies d’entreprise]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-11  Régulation, Gouvernance et Éthique]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-14  Économie, Marchés et Investissements]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Anthropic
+#graphify/code #graphify/EXTRACTED #community/Anthropic

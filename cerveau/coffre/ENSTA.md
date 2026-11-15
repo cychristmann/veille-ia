@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-14-1.md"
 type: "concept"
-community: "Baidu et IA incarnée"
+community: "Veille France 2026-11-15"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Baidu_et_IA_incarnée
+  - community/Veille_France_2026-11-15
 ---
 
 # ENSTA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Laboratoire dédié (LARIAD)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Baidu_et_IA_incarnée
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-15

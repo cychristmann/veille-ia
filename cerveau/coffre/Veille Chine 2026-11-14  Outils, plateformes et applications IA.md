@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-14-t6.md"
 type: "document"
-community: "logiciels IA pour entreprises"
+community: "AI Ethics, Security and Regulation"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/logiciels_IA_pour_entreprises
+  - community/AI_Ethics_Security_and_Regulation
 ---
 
 # Veille Chine 2026-11-14 : Outils, plateformes et applications IA
@@ -14,4 +14,4 @@ tags:
 - [[DeepSeek API]] - `references` [EXTRACTED]
 - [[Moomoo AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/logiciels_IA_pour_entreprises
+#graphify/document #graphify/EXTRACTED #community/AI_Ethics_Security_and_Regulation

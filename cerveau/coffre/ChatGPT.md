@@ -1,18 +1,21 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-11-t4.md"
-type: "code"
-community: "stratégie et technologie IA"
+source_file: "feuilletons/f-0009.md"
+type: "concept"
+community: "OpenAI"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/stratégie_et_technologie_IA
+  - community/OpenAI
 ---
 
 # ChatGPT
 
 ## Connections
+- [[Amex]] - `references` [EXTRACTED]
 - [[ChatGPT Wallet]] - `references` [EXTRACTED]
+- [[Mastercard]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
-- [[Veille États-Unis 2026-11-11 T4]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-15  Impact culturel et médiatique de l'IA]] - `references` [EXTRACTED]
+- [[Visa]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/stratégie_et_technologie_IA
+#graphify/concept #graphify/EXTRACTED #community/OpenAI

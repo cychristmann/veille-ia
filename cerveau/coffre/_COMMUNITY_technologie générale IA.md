@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # technologie générale IA
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Gemma 4]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
-- [[Nimble]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
-- [[Ollama]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
+- [[Crise des data-centers IA]] - concept - feuilletons/f-0024.md
+- [[Feuilleton Effondrement du boom IA et crise des data-centers]] - document - feuilletons/f-0024.md
+- [[Feuilleton L'IA en tête des risques pour la stabilité financière]] - document - feuilletons/f-0021.md
+- [[Risques financiers de l'IA]] - concept - feuilletons/f-0021.md
 
 ## Live Query (requires Dataview plugin)
 

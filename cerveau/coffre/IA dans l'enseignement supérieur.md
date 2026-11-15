@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-13-t1.md"
 type: "concept"
-community: "IA dans l'enseignement supérieur"
+community: "复旦发展研究院"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/IA_dans_lenseignement_supérieur
+  - community/复旦发展研究院
 ---
 
 # IA dans l'enseignement supérieur
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-13  Éducation et formation]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/IA_dans_lenseignement_supérieur
+#graphify/concept #graphify/EXTRACTED #community/复旦发展研究院

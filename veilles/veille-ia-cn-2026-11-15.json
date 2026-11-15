@@ -1,0 +1,893 @@
+{
+  "region": "cn",
+  "genere_a": "2026-11-15T07:21:22.489119+01:00",
+  "heures": 24,
+  "nombre_demande": 50,
+  "nombre_articles": 50,
+  "synthese": "Les dernières heures témoignent d’une explosion de l’IA dans le paysage chinois, tant dans le secteur du divertissement que dans l’industrie lourde. Tandis que les courts‑métrages et séries générés par IA connaissent une diffusion massive, les entreprises technologiques multiplient les investissements dans les centres de calcul et les applications IA pour la santé, l’automobile ou l’énergie. Cette dynamique s’accompagne d’une forte activité financière : valorisations révisées, flux de capitaux et débats sur la possible bulle IA. Parallèlement, la formation et le recrutement se réorientent vers des compétences IA, avec des programmes ouverts aux non‑codeurs et une présence accrue dans les universités. Enfin, les questions d’éthique, de gouvernance et de souveraineté technologique restent centrales, les autorités et les acteurs du secteur débattant de la régulation, des risques de cybersécurité et de la place de l’IA dans la société.",
+  "verification": {
+    "problemes": [],
+    "synthese_originale": "Les dernières heures témoignent d’une explosion de l’IA dans le paysage chinois, tant dans le secteur du divertissement que dans l’industrie lourde. Tandis que les courts‑métrages et séries générés par IA connaissent une diffusion massive, les entreprises technologiques multiplient les investissements dans les centres de calcul et les applications IA pour la santé, l’automobile ou l’énergie. Cette dynamique s’accompagne d’une forte activité financière : valorisations révisées, flux de capitaux et débats sur la possible bulle IA. Parallèlement, la formation et le recrutement se réorientent vers des compétences IA, avec des programmes ouverts aux non‑codeurs et une présence accrue dans les universités. Enfin, les questions d’éthique, de gouvernance et de souveraineté technologique restent centrales, les autorités et les acteurs du secteur débattant de la régulation, des risques de cybersécurité et de la place de l’IA dans la société."
+  },
+  "sources_en_echec": [],
+  "themes": [
+    {
+      "nom": "Contenu et divertissement IA",
+      "resume": "Une vague de productions basées sur l’IA envahit les médias chinois : courts‑métrages, séries, films et même des plateformes de streaming. Les titres évoquent la prolifération des « AI short‑dramas », les succès et les échecs de productions entièrement générées par IA, ainsi que les débats autour de la créativité et de la qualité de ces œuvres.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "430 000 AI short‑dramas, forte dynamique sectorielle",
+          "couverture": 2,
+          "titre": "43万部AI短剧刷屏，长三角机房成了新金主",
+          "source": "投资界",
+          "lien": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfTEZ4dFgzUWdvU2s1YWhacnc0MEdIX3h1RGM0MHR2T0VvU0lPbE50enAtcENuX0J4MTBkR0JmZDJVbU9Zbkt0SWdEc0IwUzR3YjdYMXd3?oc=5",
+          "date": "2026-11-15T05:22:00+00:00",
+          "resume": "",
+          "titre_fr": "430 000 micro-dramas en IA inondent les écrans, les centres de données du delta du Yangtsé deviennent de nouveaux mécènes"
+        },
+        {
+          "note": 6,
+          "motif": "Tendance AI short‑dramas, impact sur le marché de contenu",
+          "couverture": 1,
+          "titre": "A股上周活跃品种聚焦AI短剧国产替代机器人等方向",
+          "source": "手机新浪网",
+          "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVS1NOExvcGI0Z2xRZVRWcmpXU0QxUl9HbmZDT0MzN1JaTzFCeXd0RlJNSUhrR3hKUTE0b1VmYnVBRXBsQnBKa01tajVfRkdja2hSZWU4enhfV1BEM283VnFwV2cyVUVlbHFleWVxS1ZKRUREU21rRHZRdDNBZGJtNnNR?oc=5",
+          "date": "2026-11-15T05:29:57+00:00",
+          "resume": "",
+          "titre_fr": "Les valeurs vedettes des actions A la semaine dernière se concentrent sur les mini-dramas en IA, le remplacement national et les robots"
+        },
+        {
+          "note": 6,
+          "motif": "Échec d'un film AI, indicateur de marché du divertissement",
+          "couverture": 1,
+          "titre": "No actors, no crew, no ticket sales: ‘So obviously AI’ film flops at China’s box office",
+          "source": "SCMP Tech",
+          "lien": "https://www.scmp.com/economy/china-economy/article/3374358/no-actors-no-crew-no-ticket-sales-so-obviously-ai-film-flops-chinas-box-office",
+          "date": "2026-11-15T05:00:06+00:00",
+          "resume": "China has ushered artificial intelligence into its cinemas, but the country’s first fully AI-generated feature film has flopped at the box office. Made with no human actors or camera crew, Sanxingdui: Future Past brought in just around 1.8 million yuan (US$270,000) after three weeks in theatres, acc",
+          "titre_fr": "Pas d'acteurs, pas d'équipe, pas de ventes de billets : un film \"manifestement généré par IA\" fait un flop au box-office chinois"
+        },
+        {
+          "note": 5,
+          "motif": "Succès d'un créateur individuel, anecdote inspirante",
+          "couverture": 1,
+          "titre": "四川40岁男子辞职后自学AI“搓”短剧，4000元成本做出6000多万热度，被全网催更",
+          "source": "上观新闻",
+          "lien": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKekZTX3VXSFp4RTNzeHZ4U1Z3Z1ZTZmZYbGZ0c3YxeXNLdkNJeW83WGY5MEJpUVp0djV3MnRmNFlIRmhQRmpsZTlZVFpVQXI0T05hQmhQVEdZdw?oc=5",
+          "date": "2026-11-15T04:02:00+00:00",
+          "resume": "",
+          "titre_fr": "Un Sichuanais de 40 ans démissionne et apprend seul l'IA pour \"bricoler\" un micro-drama : 4 000 yuans de budget pour plus de 60 millions de vues, le web réclame la suite"
+        },
+        {
+          "note": 4,
+          "motif": "Focus niche sur les AI‑dramas, peu de portée sectorielle",
+          "couverture": 1,
+          "titre": "国产AI漫剧，抢占全球",
+          "source": "中国新闻网",
+          "lien": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOVVdpSkNyT2tDNXdtTnVtbEEzb0lIaWZldHV0Qk1NUDluNVBWSTF3MEtTckJQaGhlS283MXFhY19VNXNCcHlrWXlGVlpfc1VSVDZnVTBXTG90MTVZeFZRWlhKMWJOOS1Y?oc=5",
+          "date": "2026-11-15T05:55:30+00:00",
+          "resume": "",
+          "titre_fr": "Les séries animées en IA chinoises à la conquête du monde"
+        },
+        {
+          "note": 4,
+          "motif": "Réflexion culturelle, peu d'actualité concrète",
+          "couverture": 1,
+          "titre": "制造亲密与延后哀悼：AI时代下的情感困境",
+          "source": "ThePaper.cn",
+          "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nYWx1UC1CNk8tZkYzOG9FeERjQnFIeV9UX3VOXzF0U054VjhJZ3hNLTR0Y2Z6OFVyRFlQOWJZbnJRdnN6VDNUR3lZTEc4NVFQcFJJOTdmRmJuUlNqX0xyeA?oc=5",
+          "date": "2026-11-15T05:31:51+00:00",
+          "resume": "",
+          "titre_fr": "Créer de l'intimité et retarder le deuil : le dilemme émotionnel à l'ère de l'IA"
+        },
+        {
+          "note": 4,
+          "motif": "Débat philosophique, peu d'information factuelle",
+          "couverture": 1,
+          "titre": "当AI日渐拥有情动的力量，我们该如何理解人与机器的关系｜对谈",
+          "source": "ThePaper.cn",
+          "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yMEI1UkxrOGt0QnI3R3JsVmt6QlJocXRLcDhQUC15Mnk3RkNtQS02aThOUTJ1LS1YZGU5eWtyZXVmUVMxVFMwUTZ6WU5IUXhOd0VNdS05clB6bDlDczBNXw?oc=5",
+          "date": "2026-11-15T04:59:04+00:00",
+          "resume": "",
+          "titre_fr": "Quand l'IA acquiert progressivement le pouvoir d'émouvoir, comment devons-nous comprendre la relation entre l'humain et la machine ? | Entretien"
+        },
+        {
+          "note": 4,
+          "motif": "Production locale d'AI‑dramas, portée restreinte",
+          "couverture": 1,
+          "titre": "在盐城，用AI“造”漫剧！",
+          "source": "www.ycnews.cn",
+          "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IdnFOZFpKZVBNbk5CbkVsdjlmVWRnd1EwWEdaT0dIQVgzRXlva2xBLUV5UjBpUlQtVmpRLWtIVlNiSWgxODBVRW9HVGN4a2ZGdXlHVXlucE5PN2VVNk9JRA?oc=5",
+          "date": "2026-11-15T03:17:00+00:00",
+          "resume": "",
+          "titre_fr": "À Yancheng, on \"fabrique\" des séries animées grâce à l'IA !"
+        },
+        {
+          "note": 3,
+          "motif": "Opinion sur l'esthétique des AI‑dramas, peu pertinent",
+          "couverture": 1,
+          "titre": "看多了 AI 漫剧，我觉得真人脸变“丑”了？！",
+          "source": "风闻",
+          "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPMUtNQWNrTDlONWI1MkZCU3RjNE1KYjlMNzVTVndpV09yMzcxNzlCQVRYY1ZYV3JweVRhTEJ4Vmd6SDU3R0k0ZUZ1bEl2NFVMWDZrSFEtbGpSWE0?oc=5",
+          "date": "2026-11-15T03:33:08+00:00",
+          "resume": "",
+          "titre_fr": "À force de voir des séries animées en IA, je trouve que les vrais visages humains sont devenus \"laids\" ?!"
+        }
+      ]
+    },
+    {
+      "nom": "IA industrielle et technologique",
+      "resume": "De la pharmaceutique à la fabrication de semi‑conducteurs, l’IA est présentée comme un levier de productivité et d’innovation. Les articles couvrent les investissements dans les centres de calcul, les applications IA dans la production de médicaments, les nouveaux modules AI‑Modem, ainsi que les projets d’IA dans l’automobile et l’énergie.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Nvidia et changement global AI, impact majeur à suivre",
+          "couverture": 1,
+          "titre": "英伟达变局冲击全球AI产业 三星SK加速争夺新客户",
+          "source": "亚洲日报",
+          "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15dDQyeFM2WnVjX1JQM2ZiYmpNSmc0T25IRGYydXY2TC01VEgyRzBhcnZoNHlYSHRGeGpKV0xVM3djQVdxZDk2YjRnU0p5Qk9qV2VTaU9LOVdrdjA?oc=5",
+          "date": "2026-11-15T04:44:26+00:00",
+          "resume": "",
+          "titre_fr": "Le bouleversement chez Nvidia secoue l'industrie mondiale de l'IA, Samsung et SK accélèrent la course aux nouveaux clients"
+        },
+        {
+          "note": 7,
+          "motif": "Investissement majeur des géants dans l'AI pharma, forte portée",
+          "couverture": 1,
+          "titre": "科技巨头押注AI制药",
+          "source": "中国新闻网",
+          "lien": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8teFJNcHp5YkdWUEJvc25iX1N3allsNXZGMU9zQ2E0YWViM0Zsek50X1JmckxtSmQ3ZmpSMXhuTXNqa2pJRTlnVklqRWNmWTMzVm5QeGpfeVFzUmZuS05yNklOWk1MNUpI?oc=5",
+          "date": "2026-11-15T05:52:20+00:00",
+          "resume": "",
+          "titre_fr": "Les géants de la tech parient sur la pharmacie pilotée par l'IA"
+        },
+        {
+          "note": 7,
+          "motif": "Réévaluation des valorisations d'OpenAI/Anthropic, couverte par 2 médias",
+          "couverture": 2,
+          "titre": "OpenAI和Anthropic估值松动，AI初创企业身价随之面临重估",
+          "source": "手机新浪网",
+          "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JWjM0c2hnWm5NUUdfZXdRVnZmYnlYUGxwTS1UUFN1ZnRFN3pzYWh4TjFYNWFJeVVQcFM1elVxYXpxdmFnbHdBc3FObUFsM1RJelNYcUIwSHpzcjhvZnVpdVl6ZDZfc2lQMzVKME1RUmgwZ1JjaDV3NXc0UEdfcFk?oc=5",
+          "date": "2026-11-15T05:50:19+00:00",
+          "resume": "",
+          "titre_fr": "Les valorisations d'OpenAI et Anthropic s'ajustent, la valeur des startups de l'IA confrontée à une réévaluation"
+        },
+        {
+          "note": 7,
+          "motif": "Nouveau chipset Huawei AI Modem, avancée technique majeure",
+          "couverture": 2,
+          "titre": "华为麒麟9050系列芯片新一代巴龙AI Modem情报公开：首创融合通信架构、业界首发四卡三待",
+          "source": "凤凰网科技",
+          "lien": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9nbk1uQnljVGtyN1NSa2JoYjBEWlVrRlFMUkd3RVBjM3hvb05vbTc3bXdsMHpBamxBX21JdmxwdWpWOHBZalFCSkhLcWk?oc=5",
+          "date": "2026-11-15T03:32:04+00:00",
+          "resume": "",
+          "titre_fr": "Divulgation des infos sur la nouvelle génération de modem IA Balong de la série Kirin 9050 de Huawei : première architecture de communication convergente et première mondiale de la gestion quatre cartes en veille triple"
+        },
+        {
+          "note": 7,
+          "motif": "SpaceX utilise un bras AI, avancée spatiale notable",
+          "couverture": 1,
+          "titre": "SpaceX首次用“筷子臂” 成功完成星舰捕获回收-AI云资讯",
+          "source": "人工智能",
+          "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82c0JEdlNtVmxISHFlOGprQ3c1dXltODNqVDI2NWRLNDFCZ0VKYkJYR0p0RWwyQWFYRGxYQnBqcV9TRE82WUNranJxeGhiNDdaeFE?oc=5",
+          "date": "2026-11-15T03:22:00+00:00",
+          "resume": "",
+          "titre_fr": "SpaceX capture et récupère avec succès Starship pour la première fois grâce à ses bras mécaniques \"baguettes\" - Actualités Cloud IA"
+        },
+        {
+          "note": 7,
+          "motif": "Paper sur Deletion Tuning, nouvelle méthode pour grands modèles",
+          "couverture": 1,
+          "titre": "仅删除不到0.05%权重，AI大模型就能获得新能力？纽约大学团队提出Deletion Tuning",
+          "source": "智源社区",
+          "lien": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJcVRqbk9kaW5CWlBSem1ablg2NlhRdHZ5bl9KalN4c201YUZ0ajlrWF9vR2tJWmdIVzRJWDFqOUVJb1VvazRKWA?oc=5",
+          "date": "2026-11-15T03:10:00+00:00",
+          "resume": "",
+          "titre_fr": "En supprimant moins de 0,05 % des poids, un grand modèle d'IA acquiert de nouvelles capacités ? L'équipe de l'Université de New York propose le Deletion Tuning"
+        },
+        {
+          "note": 6,
+          "motif": "AI comme levier de développement urbain, intérêt public",
+          "couverture": 1,
+          "titre": "以 AI 激活城市新动能，上海城市发展创新论坛共探科创治理新路径",
+          "source": "Sohu",
+          "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGVLaDh1cGsxbnMwRnVWdDJza1RLSVdkZnVRNTJDVjJRZFVfZHR4TmhOWGFpNXJPSjFLUEtaOVZUT2hMQk1kQVEzUkt6bi1MN0syX01nLXBHTmt3U2JueGFPbzJoY05ibFhabHFDSXNfXzdORW5HZWwySWdUTHRhSTVKdmx1SFdwcXdnQXRlWQ?oc=5",
+          "date": "2026-11-15T05:25:29+00:00",
+          "resume": "",
+          "titre_fr": "Activer le nouveau dynamisme urbain grâce à l'IA, le Forum d'innovation pour le développement urbain de Shanghai explore de nouvelles voies de gouvernance technologique"
+        },
+        {
+          "note": 6,
+          "motif": "AI redéfinit profitabilité, information utile aux investisseurs",
+          "couverture": 1,
+          "titre": "山东上市公司三季报：AI 红利重塑利润格局",
+          "source": "凤凰网",
+          "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tNDZCOFQxTGVpUGRJbG9qYkNUa1l1VzdsUWdNUkJvRnBjTDktRFhLbGJWc1ZobkR6bWFFVDQ4dFBCdnVvZWtoNGRiVEJmWTBT?oc=5",
+          "date": "2026-11-15T05:12:37+00:00",
+          "resume": "",
+          "titre_fr": "Rapports du troisième trimestre des sociétés cotées du Shandong : le dividende de l'IA redessine la carte des profits"
+        },
+        {
+          "note": 6,
+          "motif": "Rapport Fed sur valorisations et dette liées à l'AI",
+          "couverture": 1,
+          "titre": "美联储重磅报告：“AI热”推高估值与债务",
+          "source": "手机新浪网",
+          "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT192MGZDSTl2NFg3ZFk0V0lVbE9yVzU0U1B3VzJxQjBNTU82SVMxUkhTMUVJWVJHTW10emVOYnY5UmRuR3M4SktGeUtxckRGQjNLdzAxRUt4MHFlR3cwakpRWFdnU3NwbENOc2Vyd19uWGVoUHhMWExfTHU5dWF3Z01R?oc=5",
+          "date": "2026-11-15T02:06:26+00:00",
+          "resume": "",
+          "titre_fr": "Rapport majeur de la Réserve fédérale : la \"fièvre de l'IA\" fait grimper les valorisations et la dette"
+        },
+        {
+          "note": 6,
+          "motif": "Conférence sur l'auto‑évolution fermée de l'AI, intérêt technique",
+          "couverture": 1,
+          "titre": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon 北京",
+          "source": "InfoQ.cn",
+          "lien": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhMllGQjVwOWFBcEo1NFN1SkhXaDlNa0FocVRscHZrQXdrWklxZ0NtcUFYREV3R1NOUERSUmVUMWl6Yk5EaGFUeUt6U29lV2dkYWhMZm5JYkpUbVJncXc?oc=5",
+          "date": "2026-11-15T02:00:41+00:00",
+          "resume": "",
+          "titre_fr": "Boucle fermée et auto-évolution de l'IA : des compétences et du harnais à l'entraînement et à l'évaluation des modèles | AICon Pékin"
+        },
+        {
+          "note": 5,
+          "motif": "Info généraliste, mention d'AI parmi d'autres sujets",
+          "couverture": 1,
+          "titre": "{{最新周刊导播｜资金涌入算力中心、油市慢修复、AI微短剧激增",
+          "source": "财新",
+          "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sYV9QWVQwQ1ZZUDR2b0VSbm15NUVhdE9OTG5QTVcxb3RIMnFOOXdOZFJlTDNGZTM1d3gzRjE0bG9HamhUNjFJemxfV1lkbi1MX3k3MkRZenp0MDhrdW5LZw?oc=5",
+          "date": "2026-11-15T05:51:00+00:00",
+          "resume": "",
+          "titre_fr": "Guide hebdomadaire récent : afflux de capitaux vers les centres de calcul, reprise lente du marché pétrolier et explosion des micro-dramas en IA"
+        },
+        {
+          "note": 5,
+          "motif": "Finance + AI, mais focus produit spécifique",
+          "couverture": 1,
+          "titre": "电解液龙头300037，签60万吨长单！大模型热门股获南向资金爆买",
+          "source": "凤凰网",
+          "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52QVpxTHVkY1FhYzRSdVNYQlhtRWRHajk2Qk5TcnktM2tMXzUyR2kwNmNXbUt3aXBGM09KZk5MQmpnLWYxTXhUT2dseENqTzBx?oc=5",
+          "date": "2026-11-15T05:18:51+00:00",
+          "resume": "",
+          "titre_fr": "Le leader de l'électrolyte 300037 signe une commande géante de 600 000 tonnes ! Les valeurs phares des grands modèles s'arrachent grâce aux fonds du Sud"
+        },
+        {
+          "note": 5,
+          "motif": "Analyse du rôle de l'AI dans l'industrie lourde",
+          "couverture": 1,
+          "titre": "AI生产显现出重工业的特征，需重新理解人的能力边界",
+          "source": "军网",
+          "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBicnhmQlhDenk3NzZfSm1XclR5MktidEpDa0pCUVl0MVpwcTlQTWJfcmNPQ0NpWTVvbTdGTC1odEYtajRueWFKLXhTRFNTT0dPOGc?oc=5",
+          "date": "2026-11-15T03:17:01+00:00",
+          "resume": "",
+          "titre_fr": "La production par IA présente les caractéristiques de l'industrie lourde, il faut repenser les limites des capacités humaines"
+        },
+        {
+          "note": 5,
+          "motif": "Montée de l'AI dans les universités de Shanghai, tendance éducative",
+          "couverture": 1,
+          "titre": "上海科技大学、同济大学、上海外国语大学、上海海事大学……上海的大学课堂“AI浓度”越来越高了",
+          "source": "东方财富",
+          "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jTVJfUDZGUUxMQ1J4THRwd0pzTFRIVnBQVy0xRnMwRnFkWVpvYk8zejZraDQ5STdkT2JyOUNaSmRiQWhXd3NOZENtcUpuVWp1alJLX0VIRl9xcFNlMERNTQ?oc=5",
+          "date": "2026-11-15T02:52:57+00:00",
+          "resume": "",
+          "titre_fr": "Université de Shanghai, Tongji, études internationales de Shanghai, université maritime de Shanghai... La \"concentration en IA\" ne cesse d'augmenter dans les amphis shanghaïens"
+        },
+        {
+          "note": 5,
+          "motif": "Stratégie AI « flywheel », réorganisation d'entreprise",
+          "couverture": 1,
+          "titre": "崔泰源：通过AI飞轮构建增长良性循环，全面重组业务组合",
+          "source": "亚洲日报",
+          "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HMzJ5Tjdkak95NnFNbjZZS2dVZm1DN0lMMlV3ckRhSjZaLU5OOEdxb0hkOVJIaEtKZ05WeW5BbDVlVFRHc0Q5VWlmSF9ndEVmN1ctM0FkSjRWLTQ?oc=5",
+          "date": "2026-11-15T02:44:00+00:00",
+          "resume": "",
+          "titre_fr": "Chey Tae-won : construire un cercle vertueux de croissance grâce au volant d'inertie de l'IA, réorganiser globalement le portefeuille d'activités"
+        },
+        {
+          "note": 4,
+          "motif": "Anecdote juridique, IA en support de travail, portée limitée",
+          "couverture": 1,
+          "titre": "中企赴土耳其投资升温，上海涉外律师把AI智能体用成了“同事”",
+          "source": "Sohu",
+          "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS19WZkYxWXBPMnZ6cUdWa0lPbERzQ2lyYTR2c2FJdDMxRlVySkM3ZmJFNVpHSFJ5UFZBeE5faW9xNlp3dVlPdHhTQ2RyZnRyVWt5QmZvUklPWk9YeGlYNWgtMXY4bTdEMVJGOGYxRC1KMzQ0ZmJBTFpwU3VDemlvblNtaDFWRnhuSk5RbUVwRQ?oc=5",
+          "date": "2026-11-15T05:25:07+00:00",
+          "resume": "",
+          "titre_fr": "L'investissement des entreprises chinoises en Turquie s'intensifie, les avocats d'affaires internationaux de Shanghai adoptent l'agent IA comme \"collègue\""
+        }
+      ]
+    },
+    {
+      "nom": "Finances, valorisation et marché de l’IA",
+      "resume": "Le secteur fait face à des réévaluations d’entreprises IA, des flux de capitaux massifs et des inquiétudes de surchauffe. Les titres décrivent les variations de valorisation d’OpenAI et d’Anthropic, les ajustements d’attentes d’investissement, les mouvements boursiers liés aux actions IA, ainsi que les analyses de bulles potentielles.",
+      "articles": [
+        {
+          "note": 6,
+          "motif": "Analyse financière de l'impact IA sur les marchés, pertinence moyenne",
+          "couverture": 1,
+          "titre": "招商证券：AI投资预期不断调整 市场在担忧什么？ 提供者 智通财经",
+          "source": "英为财情 Investing.com",
+          "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80Z3NXRUZFVER2WDh4c3FDdjMzb3hGWmZ1eEdUZlYtb2V5N0FpRU5BSEF3Y3BmY0xHUlZ1U3luVWZOMlowVDV3Uk83dW5VajBNeE9jUUVDNU1nUWxBMzF1MTZhZmdWbFlrS0xQdHdpRG0?oc=5",
+          "date": "2026-11-15T05:46:00+00:00",
+          "resume": "",
+          "titre_fr": "China Merchants Securities : les attentes d'investissement dans l'IA s'ajustent continuellement, que craint le marché ?"
+        },
+        {
+          "note": 6,
+          "motif": "Repositionnement de fonds privés sur AI hardware, impact marché",
+          "couverture": 1,
+          "titre": "头部私募高毅资产美股三季度清仓多只AI硬件股，新进亚朵、B站并配置长债ETF",
+          "source": "中国基金报",
+          "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90dU13OUpzcmZiaFpob3VkNm1pSmtjN1V1Y2xDLVBoZTNtb0YzUWd2MGJfNkZucjlxM0J1M3RkeG9iRzd5UERwY2h6RERzMEo5RFFhVjBHQVhFeV82VEQ0aVJEQmxOdVBvb0pyckdKN0ljZ3hSZnIyZmJ3?oc=5",
+          "date": "2026-11-15T05:12:00+00:00",
+          "resume": "",
+          "titre_fr": "Le fonds spéculatif Higharbi a liquidé plusieurs actions de matériel IA au troisième trimestre, a pris des positions sur Atour, Bilibili et s'est positionné sur des ETF d'obligations à long terme"
+        },
+        {
+          "note": 6,
+          "motif": "Baisse des actions chips, question de bulle AI",
+          "couverture": 1,
+          "titre": "全球芯片股较峰值回撤近四成，AI泡沫破了吗？",
+          "source": "新浪财经_金融信息服务商",
+          "lien": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xZ1YyYXlLZTFuNUE4SXk1bnppLUxVWUFtSzFpNWlCWXpaTnZtVEdxSURYX3FxUVMyYlZrSEROLW9pWWc4Q3oyVHljZ01NanZhY2U1eFBOeVZORWl3Mkw4Z2VzSUMxTklValdIU2Zn?oc=5",
+          "date": "2026-11-15T04:23:00+00:00",
+          "resume": "",
+          "titre_fr": "Les valeurs mondiales des semi-conducteurs chutent de près de 40 % par rapport à leur pic, la bulle de l'IA a-t-elle éclaté ?"
+        },
+        {
+          "note": 6,
+          "motif": "Départ de Jensen Huang, débat sur autonomie AI chinoise",
+          "couverture": 1,
+          "titre": "黄仁勋离职风波冷思考：中国AI自主化与海外依赖张力之辩",
+          "source": "富途牛牛",
+          "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1faFhlX3MybUFlX2E5dW9FbnFlYy1MekFqTEFSZnZleWNiemI3Y09mWXF2RVNjcG1LcWNMNGh2NEhnNjJMU1lvLW9wZFJsN2Z2?oc=5",
+          "date": "2026-11-15T02:50:20+00:00",
+          "resume": "",
+          "titre_fr": "Réflexion distanciée sur la polémique du départ de Jensen Huang : le débat sur la tension entre l'autonomie de l'IA en Chine et la dépendance extérieure"
+        },
+        {
+          "note": 5,
+          "motif": "Avertissement d'un investisseur, perspective de marché",
+          "couverture": 1,
+          "titre": "“大空头”Burry加码做空纳指及半导体股，警告AI热潮或陷入“牛市陷阱”",
+          "source": "Moomoo",
+          "lien": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYczBOTHozOVE0azFkbDNKb01ELUNVRGVhZlJ2c3ZPR0w2d01lUFlOZHJNWkNXd0dieTNCLWdpV2FrWExKMnl2b2JlX19UNnh0S19qMVZmWEdreGRX?oc=5",
+          "date": "2026-11-15T04:23:37+00:00",
+          "resume": "",
+          "titre_fr": "Michael Burry (\"The Big Short\") renforce ses positions baissières sur le Nasdaq et les semi-conducteurs, et prévient que la fièvre de l'IA pourrait être un \"piège à hausses\""
+        },
+        {
+          "note": 4,
+          "motif": "Défi pour les arts du spectacle face à l'AI, discussion limitée",
+          "couverture": 1,
+          "titre": "表演专业如何应对“AI表演”？",
+          "source": "中青在线",
+          "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15VVpXUXhybFlaaXk1YldhVGpKSVFmYVQ4VXZPTF9CcHMxUzVaeHl1S1NpSUFHQjNPa3U4MW5Fcmx3ek1FZVF3UWlMR25pWDVpMC14SVA0VzJpdW1BUmRWXzVxMi05WFFLX1pxZ1c5UGlhb09acDdicW5n?oc=5",
+          "date": "2026-11-15T03:29:00+00:00",
+          "resume": "",
+          "titre_fr": "Comment la filière art dramatique fait-elle face à la \"performance par IA\" ?"
+        },
+        {
+          "note": 3,
+          "motif": "Texte confus, peu d'information concrète",
+          "couverture": 1,
+          "titre": "AI 股下跌, 软件股消费股等等立刻上涨, 反转一样, 为什么呢？都唱空做空别人好久了吧? 这是否叫天道轮回? 软件会被...",
+          "source": "Moomoo",
+          "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeTVua3dEYmhBdzB1OHR6OEpXRlFRYjJ1eURhVmZqSjgwYktwVXgwSWdwaHdHLUhTZE94bU9jSXBlQzNrUmZENzRUcXJfZENmZC1jSUhPMXhzMng0VHNNSnVNV3FFN0ZFRVFYblQzSG1WZVNYQzJnYThocVl4MDV5aHo4TkhBLUlmV2lNcF9EenVsYWtua3lRcWo3a08yOTdaOVkwaXRjVzV5cV9hVTdpU2N6LVFkQUVIYjBSaVhOQUY0Rm8?oc=5",
+          "date": "2026-11-15T03:35:40+00:00",
+          "resume": "",
+          "titre_fr": "Les actions IA baissent, les logiciels et la consommation montent immédiatement, un retournement total. Pourquoi ? Tout le monde jouait la baisse des autres depuis si longtemps ? Est-ce cela la roue tourne ?"
+        }
+      ]
+    },
+    {
+      "nom": "Éducation, formation et talents IA",
+      "resume": "L’accent est mis sur le développement des compétences IA, des programmes de formation sans code, l’intégration de l’IA dans les curricula universitaires et les initiatives visant à préparer les étudiants et les professionnels aux nouvelles exigences du marché.",
+      "articles": [
+        {
+          "note": 5,
+          "motif": "Programme de formation AI, intérêt sociétal mais local",
+          "couverture": 1,
+          "titre": "广东“AI智能体”数字人才培训计划全面开启！不懂代码也可学，面向20岁以上年龄开放，符合条件可报！",
+          "source": "Sohu",
+          "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQW9qSDJyenlGeGlaOXhuQThsdkZZZmI2Ry1RU3VocHhPQkdiN25TQXdVVllIZ3UyZ2xNQ25oaGJoRVc1cFJXWmhiWUhzTmhYRWNOQTlCMW84VU81VmFHbGNRY05CaWVETUw2c0NqNXJNQ0ZmcWQ2UkxoU2dkTEZqZjVVNExTbkFzcFd1RA?oc=5",
+          "date": "2026-11-15T05:05:43+00:00",
+          "resume": "",
+          "titre_fr": "Le programme de formation aux talents numériques \"d'agents intelligents IA\" du Guangdong est officiellement lancé ! Accessible sans compétences en codage, ouvert aux plus de 20 ans, inscription sous conditions"
+        },
+        {
+          "note": 4,
+          "motif": "Formation AI pour conseillers, impact limité",
+          "couverture": 1,
+          "titre": "山东商务职业学院举办AI赋能辅导员队伍能力建设专题讲座",
+          "source": "中国教育在线",
+          "lien": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Jc2hHblloWFdoZ0hsblFDUXczRklyN3JfeFlSOWlDRk9zem9taDRDZ3owc3dmX1hrNWFBai0xU2xrUm1IbFBUcGF1SXVlSmZVMEVWd3BYQ256dmlvZXgxanlwc2MyX1BndlJr?oc=5",
+          "date": "2026-11-15T03:07:00+00:00",
+          "resume": "",
+          "titre_fr": "L'Institut professionnel de commerce du Shandong organise une conférence thématique sur le renforcement des capacités des équipes de conseillers pédagogiques par l'IA"
+        }
+      ]
+    },
+    {
+      "nom": "Éthique, société et relations homme‑machine",
+      "resume": "Plusieurs articles interrogent les impacts sociétaux de l’IA : la redéfinition du travail, les risques de « pseudo‑science », les dilemmes moraux des IA émotionnelles, et la manière dont les professions artistiques s’adaptent à la concurrence des agents intelligents.",
+      "articles": [
+        {
+          "note": 6,
+          "motif": "AI cockpit collaboratif, innovation automobile notable",
+          "couverture": 1,
+          "titre": "【视频】合资首家全链路合作的AI座舱，凭什么比新势力更懂你？",
+          "source": "汽车之家",
+          "lien": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqbTBfenpySk16amlmb25KNUVzX2NreC1kUjlNMFFYa09tWm9iTy1FTjFTVUtyNEtiOXRkNmctQmtiSndjdUlpQTk5Rk1nWUt6c1hVdzVMWmtzU1A4NnU5UVI3c19JUXRqc3lv?oc=5",
+          "date": "2026-11-15T04:28:09+00:00",
+          "resume": "",
+          "titre_fr": "[Vidéo] Premier cockpit IA en collaboration de chaîne complète pour une coentreprise, pourquoi comprend-il mieux vos besoins que les nouveaux acteurs ?"
+        },
+        {
+          "note": 5,
+          "motif": "Avertissement contre la hype, pertinence pour industriels",
+          "couverture": 1,
+          "titre": "连卖 AI 的人都劝你别迷信：制造业老板，别再交“智能体”这笔学费",
+          "source": "网易新闻客户端",
+          "lien": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81UFFyejYyNFJhUVFDTnFOVklqbnZGVzhFZ1JSTnNwUnNNajRKaFNkTUNqR29VVGZxRm9feDBEQlZYbGU0SGctRlBoSGpUSWFMRFpIVnRTbWNXSHk5?oc=5",
+          "date": "2026-11-15T05:24:00+00:00",
+          "resume": "",
+          "titre_fr": "Même ceux qui vendent l'IA vous conseillent de ne pas tout gober : patrons de l'industrie manufacturière, cessez de payer pour l'illusion des \"agents intelligents\""
+        },
+        {
+          "note": 5,
+          "motif": "Conférence technique sur modèles larges, audience spécialisée",
+          "couverture": 1,
+          "titre": "静5前沿讲座 | 大模型机理研究的方法论谱系",
+          "source": "智源社区",
+          "lien": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5POEZPc2pGV0NHRjI2cnBJXy0wMFdpcjlnYzNTOHdGVk9uM3FIcTNBdTUxejk0eFp0ajUyQlNfTDFncTg3ODRQSQ?oc=5",
+          "date": "2026-11-15T04:30:00+00:00",
+          "resume": "",
+          "titre_fr": "Conférence de pointe Jing5 | La généalogie méthodologique de la recherche sur les mécanismes des grands modèles"
+        },
+        {
+          "note": 4,
+          "motif": "Analyse sociétale, peu d'impact concret",
+          "couverture": 1,
+          "titre": "【亚洲人之声】全民AI时代已经到来，高考为何还停留在30年前？",
+          "source": "亚洲日报",
+          "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yZjIycWF4dHpwQ3dIZmZMRzhlWFByejBEcllWRmZVcUgzWWltajdjV1ZRdTJlc0xnY0w1bzlYeHVPVmNtR2pJUEVyYVRreU11bk8tbkdvR1R6X1k?oc=5",
+          "date": "2026-11-15T06:13:28+00:00",
+          "resume": "",
+          "titre_fr": "La voix des Asiatiques : l'ère de l'IA pour tous est arrivée, pourquoi le Gaokao reste-t-il bloqué il y a 30 ans ?"
+        }
+      ]
+    },
+    {
+      "nom": "Politiques publiques et gouvernance de l’IA",
+      "resume": "Les gouvernements et les institutions publiques abordent la régulation, la sécurité et la souveraineté technologique de l’IA. Les titres évoquent des forums de gouvernance, des stratégies nationales, des préoccupations de cybersécurité et les débats sur la dépendance aux technologies étrangères.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Nouvelles tech AI pour data‑centers, partenariat de poids",
+          "couverture": 1,
+          "titre": "LG能源解决方案与三星SDI在美国RE+展会展示AI数据中心电力市场新技术",
+          "source": "亚洲日报",
+          "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFaV9uUWZtTUdWTXItTldkdzFFc0RQMEFiYUxmZVp3WkRQcEd0Y1RmS0FCbExENHZwXzhEbnlDNS1xdTRuWHBxbDB1MkppdXNaaTRTVGR5MTJObzg?oc=5",
+          "date": "2026-11-15T05:04:00+00:00",
+          "resume": "",
+          "titre_fr": "LG Energy Solution et Samsung SDI présentent de nouvelles technologies pour le marché de l'électricité des centres de données IA au salon RE+ aux États-Unis"
+        },
+        {
+          "note": 7,
+          "motif": "Risque cyber des modèles ouverts, enjeu majeur pour les entreprises chinoises",
+          "couverture": 1,
+          "titre": "Can Chinese AI companies curb cyber risks from open-weight models without losing their edge?",
+          "source": "SCMP Tech",
+          "lien": "https://www.scmp.com/tech/tech-trends/article/3374332/can-chinese-ai-companies-curb-cyber-risks-open-weight-models-without-losing-their-edge",
+          "date": "2026-11-15T02:00:09+00:00",
+          "resume": "China’s leading artificial intelligence model companies are beginning to curb the cybersecurity capabilities of their most advanced open-weight models, following a string of high-profile AI hacking incidents involving both US and Chinese companies. Earlier this month, Chinese technology giant Tencen",
+          "titre_fr": "Les entreprises chinoises d'IA peuvent-elles maîtriser les cyberrisques des modèles ouverts sans perdre leur avantage ?"
+        },
+        {
+          "note": 6,
+          "motif": "Lancement ChatGPT Wallet, nouvelle fonctionnalité AI",
+          "couverture": 1,
+          "titre": "刚刚，OpenAI 上线 ChatGPT 钱包！AI 真能替你下单付款了",
+          "source": "CSDN博客",
+          "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11Y3hiU2hJMzZBSTFrd0gxZ0lMdm9Fa2hzNzR4bzI4QkVycmZBN3FDNF9JV2NvcXpSU0xiMU4wZFI2RGd3S0VMTlEyZFBaaG9FdGxzZThpcG9sVnM3cEVCZWZ0RDZjWXVjcU15RzFYQnM?oc=5",
+          "date": "2026-11-15T04:07:38+00:00",
+          "resume": "",
+          "titre_fr": "À l'instant, OpenAI lance ChatGPT Wallet ! L'IA peut désormais vraiment payer vos achats à votre place"
+        }
+      ]
+    },
+    {
+      "nom": "Autres articles",
+      "resume": "",
+      "articles": [
+        {
+          "note": 6,
+          "motif": "Xpeng G9 AI assisté, pertinence auto et grand public",
+          "couverture": 1,
+          "titre": "【视频】小鹏G9——图灵AI辅助驾驶，日常通勤到底能帮上多少忙？",
+          "source": "汽车之家",
+          "lien": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04ejQxamZhU3VVNjVxSjRoV3p4ZGFXRzJ6T25NNXZSWjRyUkhabTBTYWtKWDdVTEhDUk8xRHJOLVk5REF6RUE0UEdhNERENmJCMmN1T1lxR3lHb0ZTYUFfdGpfdTVDUkxuWUdr?oc=5",
+          "date": "2026-11-15T04:58:20+00:00",
+          "resume": "",
+          "titre_fr": "[Vidéo] Xiaopeng G9 : la conduite assistée par IA Turing, combien d'aide apporte-t-elle vraiment au trajet quotidien ?"
+        },
+        {
+          "note": 6,
+          "motif": "Premiers tests HomeView, problèmes AI et confidentialité",
+          "couverture": 2,
+          "titre": "苹果智能家庭中枢 HomeView 首批评测出炉：Siri AI 问题频出，隐私问题引担忧",
+          "source": "新浪网",
+          "lien": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZDFHNXVuQUExQ3BYcUY1Q1ZJcjVHNkY4M0NaRWU0bWJqVGZTWkJyYjZuSEc4MWJLckFSZHFwcU0xWHRYSXZERlJUbVprOXZ3RTA2dGhmNnhzVnM0RU03Zmx4dy1uUmsyMEZMNFJtbmcyMDBnMHZmdkRGaTNRLU5SRS0taVRHY3RfeTRnQlRvZGhjY3Q4TEd2SWFpZFlPWFU1TlVwbm1BQWlUUkRCcktWV2Z2SlN4U2o1cVZwODE3Wmc4bWdmVm5fWVVPMllsakp6U1NKTXAtdHoxU2Y1a2RZbUtjZ0hfVGd0ZHU2Z0lpcFBNQU9FWWpJblp0bld6YWN0cXJhVDgzMkU?oc=5",
+          "date": "2026-11-15T04:16:06+00:00",
+          "resume": "",
+          "titre_fr": "Premiers tests de la centrale domestique intelligente Apple HomeView : les ratés de Siri IA suscitent des inquiétudes en matière de confidentialité"
+        },
+        {
+          "note": 6,
+          "motif": "Premier succès chinois sur le classement mondial AI music",
+          "couverture": 2,
+          "titre": "全球AI音乐榜第一易主！中国黑马首次上榜就干翻Suno",
+          "source": "凤凰网科技",
+          "lien": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxTVB1T3BTQ21CWnJhQ0t2V01UTmdxRkVtaG5iZVhZbndHZ2dSSnhhS0p5TFVjVG5ncnFkeFA2aXhQM0Q4NjIwSU1xR1Q?oc=5",
+          "date": "2026-11-15T02:51:57+00:00",
+          "resume": "",
+          "titre_fr": "Le premier mondial du classement de musique IA change de main ! Un outsider chinois détrône Suno dès sa première apparition"
+        },
+        {
+          "note": 5,
+          "motif": "Cas de triche avec IA, intérêt ponctuel",
+          "couverture": 2,
+          "titre": "韩国税务师考试榜一考生自首，承认用微型摄像头与 AI 作弊",
+          "source": "IT之家",
+          "lien": "https://www.ithome.com/1/027/303.htm",
+          "date": "2026-11-15T04:35:42+00:00",
+          "resume": "IT之家 11 月 15 日消息，据韩媒 Etnews 今天报道，韩国 2026 年税务师资格考试的榜一考生承认， 他使用了微型摄像头和生成式人工智能作弊 。 据报道，第 63 届税务师考试第一名考生 A 某近日接受一名律师采访时，承认自己的作弊行为。 A 某表示，他在考试中利用微型摄像头拍摄考试题目，再将照片发给 AI 查看答案。他声称自己在今年 4 月、7 月举行的第一轮、第二轮考试中都实施了作弊行为。 A 某在节目中说道：“我已经将自己所做的一切写进自首书，提交给首尔警察厅。剩余的资料和设备，我也会原样作为证据提交给调查机关。” IT之家从原报道获悉，A 某曾在此前公开自己的考试成绩。在",
+          "titre_fr": "Le meilleur candidat à l'examen de comptable en Corée du Sud se dénonce et avoue avoir triché avec une micro-caméra et l'IA"
+        },
+        {
+          "note": 5,
+          "motif": "Statistiques Huawei, croissance mais peu de nouveauté",
+          "couverture": 1,
+          "titre": "华为何刚：鸿蒙生态用户数已达 9980 万，预计再过几天就能突破 1 亿",
+          "source": "IT之家",
+          "lien": "https://www.ithome.com/1/027/302.htm",
+          "date": "2026-11-15T04:25:40+00:00",
+          "resume": "IT之家 11 月 15 日消息，据爱范儿报道，华为终端 BG CEO 何刚在南京大学透露，截至当天， 鸿蒙生态用户数已经达到 9980 万 ，距离 1 亿大关仅差 20 万。他预计，再过几天就能突破 1 亿。 报道提到，何刚当天出席了 2026 中国高校计算机大赛人工智能创意赛全国总决赛，这也是华为首次赞助该赛事。 华为官网披露，截至 2026 年 6 月，全球鸿蒙开发者规模已超 1100 万，华为应用市场可获取的鸿蒙应用与服务数量突破 38 万。第三方数据显示，鸿蒙已稳居中国第二大智能手机操作系统，2026 年第一季度在中国智能手机市场份额达 19%。 据IT之家此前报道，在 11 月 5",
+          "titre_fr": "He Gang de Huawei : le nombre d'utilisateurs de l'écosystème Harmony atteint déjà 99,8 millions, le cap des 100 millions sera franchi d'ici quelques jours"
+        },
+        {
+          "note": 4,
+          "motif": "Création d'une alliance, impact culturel limité",
+          "couverture": 1,
+          "titre": "华语科幻AI影像联盟成立：AI浪潮之下，华语科幻改编等待破局",
+          "source": "川观新闻",
+          "lien": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYNl9Caktsb1ZoMmhLVHY0Wk5KN2hfeHVrRTE2ajZWNEtDZFlQamxCTEhFWlk2Q0J6WDFtUGhVZUJDcVl3TktSSFgzSUZ0UQ?oc=5",
+          "date": "2026-11-15T03:50:00+00:00",
+          "resume": "",
+          "titre_fr": "Création de l'Alliance chinoise d'imagerie SF par IA : face à la déferlante de l'IA, l'adaptation de la science-fiction sinophone en quête de renouveau"
+        },
+        {
+          "note": 4,
+          "motif": "IA « employé polyvalent » en bureau, concept vague",
+          "couverture": 1,
+          "titre": "办公室来了“全能员工”",
+          "source": "手机新浪网",
+          "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xYkdsMnBHZlh3WmZFRFRQdGNsc3F4bllUSVBuOS1NN0Jibks5ckNNbTZaUW1kcEVSekVWVjhiZE1PeVA1TFRkYW82MVQ1cHctc28tRDJocWNsZWN4ekN5cjc3eEpXeEZXYlpXa1lpeV8yd0xCUDhXX3ZMTVZUdw?oc=5",
+          "date": "2026-11-15T03:35:00+00:00",
+          "resume": "",
+          "titre_fr": "Un \"employé polyvalent\" est arrivé au bureau"
+        },
+        {
+          "note": 3,
+          "motif": "Sujet périphérique, IA peu centrale",
+          "couverture": 1,
+          "titre": "光模块龙头批量跌停，科技小登跌到哪里了",
+          "source": "金融界",
+          "lien": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40aVVDd0h5U29qRGwyTUtqZU5XZ2NLbWMxeUpEN09GMHdiUjRuWDBFM044eTk5Tkh4XzV4YXpURFp3dW1qVzRkNmtNbU45cWxBM0Y2SE1IOGFDNlczZC1Rb1NKdw?oc=5",
+          "date": "2026-11-15T05:38:07+00:00",
+          "resume": "",
+          "titre_fr": "Chute en série des leaders des modules optiques, où s'arrêtent les petites valeurs technologiques ?"
+        },
+        {
+          "note": 3,
+          "motif": "Vidéo culturelle AI, peu d'information factuelle",
+          "couverture": 1,
+          "titre": "【九秩回响 星火燎原】AI视频｜一脉长征红，万里赣鄱青",
+          "source": "光明网",
+          "lien": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53Y0sxRmlvRkF6NFZZcTAtTzdfMS11MGZfQk1UaWRVa2xRckJTUGJHOWl6THhDZFZoR1ctUEFhOF9LNVhTUi1NblV5NlhtZ3E5dWkwLWJfUy1nb1VkbnNPUzlhUklEQQ?oc=5",
+          "date": "2026-11-15T02:02:19+00:00",
+          "resume": "",
+          "titre_fr": "[Écho de quatre-vingt-dix ans, une étincelle embrase la plaine] Vidéo IA : un même fil rouge de la Longue Marche, des milliers de kilomètres de Jiangxi et Poyang verdoyants"
+        }
+      ]
+    }
+  ],
+  "ecartes": [
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "郑州日产 27 款锋坦 Frontier Pro PHEV 新能源皮卡首发，2.0T 插混发动机",
+      "source": "IT之家",
+      "lien": "https://www.ithome.com/1/027/308.htm",
+      "date": "2026-11-15T05:24:17+00:00",
+      "resume": "IT之家 11 月 15 日消息，11 月 13 日，日产汽车 NISSAN DAY 活动在珠海国际会展中心举行，郑州日产新车 27 款锋坦 Frontier Pro PHEV 迎来全球首秀。 据介绍，27 款锋坦 Frontier Pro PHEV 搭载 2.0T 插混专用发动机 + 采埃孚第四代 8HP 混动变速箱，系统综合功率 300kW，峰值扭矩 800N·m，CLTC 纯电续航 135km，动力强、油耗低、耐久可靠，性能达到行业第一梯队水准。智能四驱 +MLOCK+ 前后桥差速锁，搭配越野巡航、坦克掉头、13 种全地形模式。 IT之家注意到，智能体验上，27 款锋坦 Frontier",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 2,
+      "titre": "2026电视怎么选不踩坑？认准RGB-Mini LED与AI画质芯片，3类人群对号入座+FAQ",
+      "source": "新浪网",
+      "lien": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wS1JneGxUVFZlRWlfaG8zTUUyaU5NRllaa01NdHA3THUxc19HNnE5MG4wSThSUkhZdTZCMmpnNnBsanpZV2x5VXpVOWNjRHlVZ2pUdTZGQmUwbkRhdzdB?oc=5",
+      "date": "2026-11-15T05:20:08+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "华为 Mate X8 大折叠手机今日亮相，消息称典藏版本支持睿影 Z10 模块相机",
+      "source": "IT之家",
+      "lien": "https://www.ithome.com/1/027/304.htm",
+      "date": "2026-11-15T04:52:14+00:00",
+      "resume": "IT之家 11 月 15 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，回顾了华为 Mate X 系列折叠屏手机走过的岁月，并宣布 Mate X8 新机“就要来了”。 余承东还在视频的结尾公开了 Mate X8 折叠屏手机外观，他表示，新机在屏幕、拍照、性能等方面又有新的突破。 据博主 @RuryRen 透露，华为 Mate X8 大折叠手机将分普通版和典藏版， 其中典藏版会支持睿影 Z10 模块相机 。 据IT之家了解，华为睿影 Z10 模块相机代号“金刚”，集成红枫等多种传感器，支持与手机 SoC 协同，通过软硬芯 AI 协同 + 智能融合对焦，实现对",
+      "titre_fr": ""
+    }
+  ],
+  "top": [
+    {
+      "note": 8,
+      "motif": "Nvidia et changement global AI, impact majeur à suivre",
+      "couverture": 1,
+      "titre": "英伟达变局冲击全球AI产业 三星SK加速争夺新客户",
+      "source": "亚洲日报",
+      "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15dDQyeFM2WnVjX1JQM2ZiYmpNSmc0T25IRGYydXY2TC01VEgyRzBhcnZoNHlYSHRGeGpKV0xVM3djQVdxZDk2YjRnU0p5Qk9qV2VTaU9LOVdrdjA?oc=5",
+      "date": "2026-11-15T04:44:26+00:00",
+      "resume": "",
+      "titre_fr": "Le bouleversement chez Nvidia secoue l'industrie mondiale de l'IA, Samsung et SK accélèrent la course aux nouveaux clients"
+    },
+    {
+      "note": 7,
+      "motif": "Investissement majeur des géants dans l'AI pharma, forte portée",
+      "couverture": 1,
+      "titre": "科技巨头押注AI制药",
+      "source": "中国新闻网",
+      "lien": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8teFJNcHp5YkdWUEJvc25iX1N3allsNXZGMU9zQ2E0YWViM0Zsek50X1JmckxtSmQ3ZmpSMXhuTXNqa2pJRTlnVklqRWNmWTMzVm5QeGpfeVFzUmZuS05yNklOWk1MNUpI?oc=5",
+      "date": "2026-11-15T05:52:20+00:00",
+      "resume": "",
+      "titre_fr": "Les géants de la tech parient sur la pharmacie pilotée par l'IA"
+    },
+    {
+      "note": 7,
+      "motif": "Réévaluation des valorisations d'OpenAI/Anthropic, couverte par 2 médias",
+      "couverture": 2,
+      "titre": "OpenAI和Anthropic估值松动，AI初创企业身价随之面临重估",
+      "source": "手机新浪网",
+      "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JWjM0c2hnWm5NUUdfZXdRVnZmYnlYUGxwTS1UUFN1ZnRFN3pzYWh4TjFYNWFJeVVQcFM1elVxYXpxdmFnbHdBc3FObUFsM1RJelNYcUIwSHpzcjhvZnVpdVl6ZDZfc2lQMzVKME1RUmgwZ1JjaDV3NXc0UEdfcFk?oc=5",
+      "date": "2026-11-15T05:50:19+00:00",
+      "resume": "",
+      "titre_fr": "Les valorisations d'OpenAI et Anthropic s'ajustent, la valeur des startups de l'IA confrontée à une réévaluation"
+    },
+    {
+      "note": 7,
+      "motif": "430 000 AI short‑dramas, forte dynamique sectorielle",
+      "couverture": 2,
+      "titre": "43万部AI短剧刷屏，长三角机房成了新金主",
+      "source": "投资界",
+      "lien": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfTEZ4dFgzUWdvU2s1YWhacnc0MEdIX3h1RGM0MHR2T0VvU0lPbE50enAtcENuX0J4MTBkR0JmZDJVbU9Zbkt0SWdEc0IwUzR3YjdYMXd3?oc=5",
+      "date": "2026-11-15T05:22:00+00:00",
+      "resume": "",
+      "titre_fr": "430 000 micro-dramas en IA inondent les écrans, les centres de données du delta du Yangtsé deviennent de nouveaux mécènes"
+    },
+    {
+      "note": 7,
+      "motif": "Nouvelles tech AI pour data‑centers, partenariat de poids",
+      "couverture": 1,
+      "titre": "LG能源解决方案与三星SDI在美国RE+展会展示AI数据中心电力市场新技术",
+      "source": "亚洲日报",
+      "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFaV9uUWZtTUdWTXItTldkdzFFc0RQMEFiYUxmZVp3WkRQcEd0Y1RmS0FCbExENHZwXzhEbnlDNS1xdTRuWHBxbDB1MkppdXNaaTRTVGR5MTJObzg?oc=5",
+      "date": "2026-11-15T05:04:00+00:00",
+      "resume": "",
+      "titre_fr": "LG Energy Solution et Samsung SDI présentent de nouvelles technologies pour le marché de l'électricité des centres de données IA au salon RE+ aux États-Unis"
+    }
+  ],
+  "articles_notes": 50,
+  "liens_google": 46,
+  "videos": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "从大模型到3D视觉：行列式如何决定AI的“空间坍缩”？",
+        "source": "天津饭老师",
+        "lien": "https://www.youtube.com/watch?v=EXXV0S3_SWU",
+        "date": "2026-11-15T02:00:18Z",
+        "image": "https://i.ytimg.com/vi/EXXV0S3_SWU/mqdefault.jpg",
+        "extrait": "在AI的世界里，矩阵不只是数字方块，行列式也不只是交叉相乘。它们是空间变换的“带符号体积缩放标尺”。本期视频带你用几何直觉 ...",
+        "description": "Explique comment les déterminants de matrices influencent la « contraction d'espace » en IA, en reliant modèles de grande taille à la vision 3D."
+      },
+      {
+        "titre": "如果没有黄仁勋，英伟达还能躺赢吗？揭秘AI下半场最残酷的利润大转移！",
+        "source": "老牛的商业观察",
+        "lien": "https://www.youtube.com/watch?v=BkPIshK3NK4",
+        "date": "2026-11-15T01:42:02Z",
+        "image": "https://i.ytimg.com/vi/BkPIshK3NK4/mqdefault.jpg",
+        "extrait": "过去三年，AI行业是“下游画饼融资，上游买卡数钱”，英伟达靠卖铲子收走了全行业的过路费。但当算力不再紧缺、推理成本指数级 ...",
+        "description": "Analyse la dépendance de l'industrie IA à Nvidia et explore les scénarios où Nvidia perdrait son avantage dominant."
+      },
+      {
+        "titre": "anthropic 最新发布技术长文，全天候智能体，，自我驱动型数字助理，一期看懂",
+        "source": "三少科技",
+        "lien": "https://www.youtube.com/watch?v=PDqJGuMsp0k",
+        "date": "2026-11-15T01:04:26Z",
+        "image": "https://i.ytimg.com/vi/PDqJGuMsp0k/mqdefault.jpg",
+        "extrait": "本期推文：https://x.com/sanshaokeji/status/2121784066806837471 500+大模型，一 key 通用，https://www.ssopen.top cc，cx ...",
+        "description": "Présente les dernières avancées d'Anthropic, notamment les agents autonomes et les assistants numériques auto‑dirigés."
+      },
+      {
+        "titre": "马化腾亲口承认腾讯已经晚了，要从陆战转海战",
+        "source": "劉毅 YiTalk | Jason Yi Liu ",
+        "lien": "https://www.youtube.com/watch?v=ezkeRf0WV20",
+        "date": "2026-11-15T00:59:27Z",
+        "image": "https://i.ytimg.com/vi/ezkeRf0WV20/mqdefault.jpg",
+        "extrait": "11月11日腾讯28周年，马化腾在内部说腾讯在AI上晚了，要从陆战转向海战。第二天传出裁员50%，腾讯公关总监张军否认。刘毅的 ...",
+        "description": "Rapporte les propos de Ma Huateng sur le retard de Tencent en IA et la stratégie de passer d’une « guerre terrestre » à une « guerre maritime »."
+      },
+      {
+        "titre": "全美停飞5小时，凶手不是AI，真正的危机是新技术压垮老系统",
+        "source": "劉毅 YiTalk | Jason Yi Liu ",
+        "lien": "https://www.youtube.com/watch?v=SZtxs705B8Y",
+        "date": "2026-11-15T00:54:19Z",
+        "image": "https://i.ytimg.com/vi/SZtxs705B8Y/mqdefault.jpg",
+        "extrait": "11月13日周五，美国FAA让全国国内航班停飞超过5小时，取消超过5000个航班，当时还有3500架飞机在空中。很多人怪到3天前刚 ...",
+        "description": "Décrit la suspension de vols aux USA due à une défaillance du système, soulignant que la vraie crise provient de l’accumulation de nouvelles technologies sur des infrastructures vieillissantes."
+      },
+      {
+        "titre": "Qwen4 Max Preview  性能大升级？！｜对比 Qwen3.8 Max 实测｜通义千问四项AI编程挑战｜Blender建模、重力球游戏、Transformer 论文解读、世界认知",
+        "source": "畅的科技工坊",
+        "lien": "https://www.youtube.com/watch?v=0PG6ai3NQgQ",
+        "date": "2026-11-14T17:07:47Z",
+        "image": "https://i.ytimg.com/vi/0PG6ai3NQgQ/mqdefault.jpg",
+        "extrait": "Qwen4 Max Preview 发布评测 免费额度申请链接：https://www.qianwenai.com/drops/qwen-2610 用相同提示词、相同思考等级， ...",
+        "description": "Évalue les performances de Qwen4 Max comparées à Qwen3.8 Max à travers des tests de programmation, modélisation Blender et compréhension de papier Transformer."
+      },
+      {
+        "titre": "AA编码智能体榜更新，不低于48分的配置单任务成本从1.51到44.22美元",
+        "source": "Neuron_X",
+        "lien": "https://www.youtube.com/watch?v=f9HAvPeRBpY",
+        "date": "2026-11-14T16:22:00Z",
+        "image": "https://i.ytimg.com/vi/f9HAvPeRBpY/mqdefault.jpg",
+        "extrait": "一手AI 日报· 11月14日Artificial Analysis编码智能体指数v2.1中，Fable 5.2与Opus 5.5同获58分，但不低于48分的配置，单任务成本 ...",
+        "description": "Annonce la mise à jour du classement AA‑Coding Intelligent Agents, montrant la hausse du coût des tâches pour des configurations au-dessus de 48 points."
+      },
+      {
+        "titre": "1114-人工智能行业前瞻：超大规模云厂商主导地位延续，聚焦模型路由、推理成本与智能体生态",
+        "source": "404K",
+        "lien": "https://www.youtube.com/watch?v=sT-4krLy5YE",
+        "date": "2026-11-14T16:08:25Z",
+        "image": "https://i.ytimg.com/vi/sT-4krLy5YE/mqdefault.jpg",
+        "extrait": "这份花旗研究报告深入剖析了人工智能行业的前沿趋势，重点关注大型云厂商的统治地位以及模型路由和推理成本的变化。报告指出 ...",
+        "description": "Synthèse d’un rapport de recherche de Goldman Sachs sur les tendances du secteur IA, mettant en avant la domination continue des grands fournisseurs cloud et l’importance du routage de modèles et du coût d’inférence."
+      },
+      {
+        "titre": "强到「持证」才能用：Anthropic的Mythos 5.2，到底能做什么？",
+        "source": "大刘科普",
+        "lien": "https://www.youtube.com/watch?v=0XFRJc6KbBI",
+        "date": "2026-11-14T15:08:02Z",
+        "image": "https://i.ytimg.com/vi/0XFRJc6KbBI/mqdefault.jpg",
+        "extrait": "目前地表最强的大模型Mythos 5.2，到底有多变态？前不久，Anthropic发布了Fable 5.2和Mythos 5.2。其中这个Fable 5.2， ...",
+        "description": "Analyse du modèle Mythos 5.2 d’Anthropic, considéré comme le plus puissant, et description de ses capacités avancées."
+      },
+      {
+        "titre": "RTX 3060 12GB 全离线跑 125B 大模型：做成 Windows 一键软件，实测 43-68 tok/s",
+        "source": "玩客笔记",
+        "lien": "https://www.youtube.com/watch?v=s1vMuzcAGNA",
+        "date": "2026-11-14T14:29:23Z",
+        "image": "https://i.ytimg.com/vi/s1vMuzcAGNA/mqdefault.jpg",
+        "extrait": "命令行自己能跑125B 不算完，装进断网环境让同事双击即用才是真门槛！ 这期把Strata 推理引擎、内嵌Python、4 套显存内存预设 ...",
+        "description": "Démontre comment faire tourner hors‑ligne un modèle de 125 milliards de paramètres sur un RTX 3060, avec un logiciel Windows tout‑en‑un."
+      }
+    ]
+  },
+  "podcasts": {
+    "statut": "ok",
+    "fenetre_heures": 168,
+    "elements": [
+      {
+        "titre": "黄仁勋突然离职：英伟达的来时路他铺的，去时路也是他炸的",
+        "source": "AI 费电讯， 一份报告不同模型解读，用爱发电",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E9%BB%84%E4%BB%81%E5%8B%8B%E7%AA%81%E7%84%B6%E7%A6%BB%E8%81%8C-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E6%9D%A5%E6%97%B6%E8%B7%AF%E4%BB%96%E9%93%BA%E7%9A%84-%E5%8E%BB%E6%97%B6%E8%B7%AF%E4%B9%9F%E6%98%AF%E4%BB%96%E7%82%B8%E7%9A%84/id1864718726?i=1000801651457&uo=4",
+        "date": "2026-11-13T02:43:54+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f8/56/c2/f856c273-ce16-5944-c236-7a19755242fa/mza_18308699088486521497.jpeg/160x160bb.jpg",
+        "duree_min": 10,
+        "extrait": "黄仁勋突然离职：英伟达的来时路他铺的，去时路也是他炸的 11月12日，英伟达扔出了一颗炸弹：联合创始人黄仁勋辞去总裁、首席执行官和董事会成员职务，即刻生效。公告里，CFO科莱特·克",
+        "description": "Cet épisode analyse la démission surprise de Jensen Huang de son poste de PDG chez Nvidia et l'impact de ce départ."
+      },
+      {
+        "titre": "每日回顾 · 2026-11-14",
+        "source": "AI VFX PODCAST：AI领域要闻",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E6%AF%8F%E6%97%A5%E5%9B%9E%E9%A1%BE-2026-11-14/id6797152072?i=1000801878173&uo=4",
+        "date": "2026-11-14T06:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4e/0b/4a/4e0b4a11-b8a0-5e6f-3b64-6a22b76778d3/mza_8210746475413632786.jpg/160x160bb.jpg",
+        "duree_min": 16,
+        "extrait": "昨天，仿佛是AI不再请求许可的一天。Meta发布了Muse Glimmer，一个真正能在本地设备运行的开源模型；Thinking Machines开源了Inkling 2 Small；NVIDIA则将Kimi K3.1 Pro压缩进NVFP4构建，并把GLM-5.3拆分部署到",
+        "description": "Cette émission résume l'actualité de l'IA, notamment le modèle open source local de Meta et la compression de modèles par Nvidia."
+      },
+      {
+        "titre": "【1115 | AI日报】OpenAI进军网络安全/DeepSeek开放全套API/Anthropic IPO获追捧",
+        "source": "AI圈儿",
+        "lien": "https://podcasts.apple.com/cn/podcast/1115-ai%E6%97%A5%E6%8A%A5-openai%E8%BF%9B%E5%86%9B%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8-deepseek%E5%BC%80%E6%94%BE%E5%85%A8%E5%A5%97api-anthropic-ipo%E8%8E%B7%E8%BF%BD%E6%8D%A7/id1872685556?i=1000801981506&uo=4",
+        "date": "2026-11-14T23:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f7/64/b2/f764b2fd-f553-ec15-c419-3ec7fde5acd8/mza_18065723763115925921.png/160x160bb.jpg",
+        "duree_min": 23,
+        "extrait": "早安！ 你身边的AI资讯网站【AI圈】：aidailynews.com.cn 欢迎添加＋vx：KyroMa（管理员），加入听友群 今天是2026年11月15日，星期日 欢迎查收你的每日AI资讯速递！今日内容如下： ⏰【AI时间线】 2",
+        "description": "Ce podcast d'actualité aborde l'entrée d'OpenAI dans la cybersécurité, l'ouverture des API de DeepSeek et l'introduction en bourse d'Anthropic."
+      },
+      {
+        "titre": "[人人能懂AI前沿] 从休眠神经元、行列拆解，到打破AI训练的“外聘专家”迷信",
+        "source": "AI可可AI生活",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E4%BA%BA%E4%BA%BA%E8%83%BD%E6%87%82ai%E5%89%8D%E6%B2%BF-%E4%BB%8E%E4%BC%91%E7%9C%A0%E7%A5%9E%E7%BB%8F%E5%85%83-%E8%A1%8C%E5%88%97%E6%8B%86%E8%A7%A3-%E5%88%B0%E6%89%93%E7%A0%B4ai%E8%AE%AD%E7%BB%83%E7%9A%84-%E5%A4%96%E8%81%98%E4%B8%93%E5%AE%B6-%E8%BF%B7%E4%BF%A1/id1755963354?i=1000801814648&uo=4",
+        "date": "2026-11-13T22:26:12+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/9e/0f/039e0f99-c322-9c6d-360c-0db2728bd26b/mza_8520572596064985909.jpg/160x160bb.jpg",
+        "duree_min": 20,
+        "extrait": "今天我们将带你硬核拆解五篇最新论文，看懂前沿技术背后的人生算法。你会发现看似完美的AI可能藏着被唤醒的“休眠特工”，而让AI自我进化的秘诀竟然是打破底层的“默认假设”。我们还",
+        "description": "Cette émission analyse cinq articles scientifiques récents sur l'IA, explorant les neurones endormis et l'évolution autonome des modèles."
+      },
+      {
+        "titre": "【周末特辑】11月第3周最火AI论文 | 让触觉跨传感器复用；让转写不再回改",
+        "source": "HuggingFace 每日AI论文速递",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E5%91%A8%E6%9C%AB%E7%89%B9%E8%BE%91-11%E6%9C%88%E7%AC%AC3%E5%91%A8%E6%9C%80%E7%81%ABai%E8%AE%BA%E6%96%87-%E8%AE%A9%E8%A7%A6%E8%A7%89%E8%B7%A8%E4%BC%A0%E6%84%9F%E5%99%A8%E5%A4%8D%E7%94%A8-%E8%AE%A9%E8%BD%AC%E5%86%99%E4%B8%8D%E5%86%8D%E5%9B%9E%E6%94%B9/id1759487002?i=1000801981621&uo=4",
+        "date": "2026-11-14T23:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fc/36/cf/fc36cf89-3e3a-c480-536b-7b131b78a8a3/mza_2002397294931190567.png/160x160bb.jpg",
+        "duree_min": 11,
+        "extrait": "⏱️ Highlights[00:29] 🖐️ Learning Heterogeneous Tactile Representation for General Dexterous Manipulation（学习用于通用灵巧操作的异构触觉表征）[02:26] 🎙️ Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real R",
+        "description": "Ce podcast présente des recherches récentes en IA, incluant des représentations tactiles pour la manipulation et un modèle de transcription en continu."
+      },
+      {
+        "titre": "[人人能懂AI前沿] 从寻找“能量谷”、无缝接续到打开AI暗箱",
+        "source": "AI可可AI生活",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E4%BA%BA%E4%BA%BA%E8%83%BD%E6%87%82ai%E5%89%8D%E6%B2%BF-%E4%BB%8E%E5%AF%BB%E6%89%BE-%E8%83%BD%E9%87%8F%E8%B0%B7-%E6%97%A0%E7%BC%9D%E6%8E%A5%E7%BB%AD%E5%88%B0%E6%89%93%E5%BC%80ai%E6%9A%97%E7%AE%B1/id1755963354?i=1000801979141&uo=4",
+        "date": "2026-11-14T22:50:55+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/9e/0f/039e0f99-c322-9c6d-360c-0db2728bd26b/mza_8520572596064985909.jpg/160x160bb.jpg",
+        "duree_min": 22,
+        "extrait": "今天我们将通过五篇极具启发性的最新论文，带你用“能量谷”视角把复杂的AI技术化繁为简，看看智能体如何通过“无缝接续”告别低效折返跑。我们还会探讨AI如何被迫写出透明代码打破“",
+        "description": "Cette émission utilise des perspectives scientifiques récentes pour expliquer comment les agents conversationnels s'organisent et pour décoder le code généré par l'IA."
+      },
+      {
+        "titre": "中美AI的真实差距与追赶困境",
+        "source": "AI拉呱：专注于人工智能与前沿技术",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E4%B8%AD%E7%BE%8Eai%E7%9A%84%E7%9C%9F%E5%AE%9E%E5%B7%AE%E8%B7%9D%E4%B8%8E%E8%BF%BD%E8%B5%B6%E5%9B%B0%E5%A2%83/id1896828927?i=1000802011648&uo=4",
+        "date": "2026-11-14T21:50:11+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8d/98/ff/8d98ff59-a582-d01c-8044-9a2f82a2eec2/mza_4577306030952774765.png/160x160bb.jpg",
+        "duree_min": 11,
+        "extrait": "",
+        "description": "Ce podcast discute des véritables écarts technologiques et des difficultés de rattrapage entre les intelligences artificielles chinoises et américaines."
+      },
+      {
+        "titre": "【LLM】Anthropic上市：押注智能，兑现价值",
+        "source": "AI每周谈",
+        "lien": "https://podcasts.apple.com/cn/podcast/llm-anthropic%E4%B8%8A%E5%B8%82-%E6%8A%BC%E6%B3%A8%E6%99%BA%E8%83%BD-%E5%85%91%E7%8E%B0%E4%BB%B7%E5%80%BC/id1856190518?i=1000801320879&uo=4",
+        "date": "2026-11-11T23:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6b/53/b7/6b53b7d8-b9d0-1748-58a1-e830e9e85e60/mza_17707182666232209717.jpg/160x160bb.jpg",
+        "duree_min": 36,
+        "extrait": "Anthropic在赌更强的智能，会成为更好的生意 【LLM】系列第九期，我们聊聊Claude背后的Anthropic。它也是这个系列里，最后一家单独讨论的模型公司。 从OpenAI的“相信规模，敢下重注”，到Anthropi",
+        "description": "Cette émission analyse l'entrée en bourse d'Anthropic et sa vision stratégique misant sur une intelligence artificielle plus forte pour faire prospérer son modèle économique."
+      },
+      {
+        "titre": "黄仁勋辞职简报：14日完美风暴",
+        "source": "AI每周谈",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C%E7%AE%80%E6%8A%A5-14%E6%97%A5%E5%AE%8C%E7%BE%8E%E9%A3%8E%E6%9A%B4/id1856190518?i=1000801684021&uo=4",
+        "date": "2026-11-13T06:56:09+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c6/11/ac/c611acfd-fde4-1767-4e20-11e1bc61f024/mza_14076889400822062913.png/160x160bb.jpg",
+        "duree_min": 21,
+        "extrait": "黄仁勋辞职前的时间线汇总。失去黄仁勋，英伟达会失去什么？ 黄仁勋辞职后，英伟达会失去什么？未来几年的芯片路线、产能安排和竞争优势，还能继续吗？ 本期《AI每周谈》临时加更，复",
+        "description": "Ce podcast analyse les conséquences potentielles du départ soudain de Jensen Huang sur les futures feuilles de route et la compétitivité de Nvidia."
+      }
+    ]
+  }
+}

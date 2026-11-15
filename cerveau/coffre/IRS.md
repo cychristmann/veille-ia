@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t5.md"
 type: "concept"
-community: "Nvidia"
+community: "Nanjing University of Aeronautics and Astronautics"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Nvidia
+  - community/Nanjing_University_of_Aeronautics_and_Astronautics
 ---
 
 # IRS
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-09  Sécurité, éthique et fraude]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Nvidia
+#graphify/concept #graphify/EXTRACTED #community/Nanjing_University_of_Aeronautics_and_Astronautics

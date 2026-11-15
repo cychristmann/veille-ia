@@ -1,16 +1,17 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-12-t2.md"
+source_file: "veilles/veille-ia-us-2026-11-15-t7.md"
 type: "concept"
-community: "SpaceX"
+community: "Microsoft"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/SpaceX
+  - community/Microsoft
 ---
 
 # Elon Musk
 
 ## Connections
+- [[John Mulaney]] - `references` [EXTRACTED]
 - [[SpaceX]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/SpaceX
+#graphify/concept #graphify/EXTRACTED #community/Microsoft

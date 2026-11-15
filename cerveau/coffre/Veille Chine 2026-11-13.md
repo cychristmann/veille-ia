@@ -25,7 +25,7 @@ tags:
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[Omdia]] - `references` [EXTRACTED]
 - [[RISC-V]] - `references` [EXTRACTED]
-- [[Semiconductor Manufacturing International Corporation]] - `references` [EXTRACTED]
+- [[SMIC]] - `references` [EXTRACTED]
 - [[Unisound]] - `references` [EXTRACTED]
 - [[Zhipu]] - `references` [EXTRACTED]
 

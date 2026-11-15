@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Nanjing University of Aeronautics and Astronautics
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Nanjing University of Aeronautics and Astronautics]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[IRS]] - concept - veilles/veille-ia-us-2026-11-09-t5.md
+- [[Veille États-Unis 2026-11-09  Sécurité, éthique et fraude]] - document - veilles/veille-ia-us-2026-11-09-t5.md
 
 ## Live Query (requires Dataview plugin)
 

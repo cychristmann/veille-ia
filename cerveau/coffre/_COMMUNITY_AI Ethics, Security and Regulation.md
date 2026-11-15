@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # AI Ethics, Security and Regulation
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[AI Ethics, Security and Regulation]] - concept - veilles/veille-ia-cn-2026-11-14-t4.md
-- [[Veille Chine 2026-11-14  Éthique, sécurité et réglementation IA]] - document - veilles/veille-ia-cn-2026-11-14-t4.md
+- [[DeepSeek API]] - concept - veilles/veille-ia-cn-2026-11-14-t6.md
+- [[Moomoo AI]] - concept - veilles/veille-ia-cn-2026-11-14-t6.md
+- [[Veille Chine 2026-11-14  Outils, plateformes et applications IA]] - document - veilles/veille-ia-cn-2026-11-14-t6.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # IA dans l'enseignement supérieur
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[IA dans l'enseignement supérieur]] - concept - veilles/veille-ia-cn-2026-11-13-t1.md
-- [[Veille Chine 2026-11-13  Éducation et formation]] - document - veilles/veille-ia-cn-2026-11-13-t1.md
+- [[Fed (Réserve fédérale)]] - concept - veilles/veille-ia-fr-2026-11-14-t5.md
+- [[IA et système financier]] - concept - veilles/veille-ia-fr-2026-11-14-t5.md
+- [[Veille France 2026-11-14  Autres articles]] - document - veilles/veille-ia-fr-2026-11-14-t5.md
 
 ## Live Query (requires Dataview plugin)
 

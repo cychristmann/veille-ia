@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "code"
-community: "Beijing University of Posts and Telecommunications"
+community: "GPT-6.1 Sol"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Beijing_University_of_Posts_and_Telecommunications
+  - community/GPT-61_Sol
 ---
 
 # Beijing University of Posts and Telecommunications
 
-#graphify/code #graphify/EXTRACTED #community/Beijing_University_of_Posts_and_Telecommunications
+#graphify/code #graphify/EXTRACTED #community/GPT-61_Sol

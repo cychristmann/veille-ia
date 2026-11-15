@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-14-2.md"
 type: "concept"
-community: "IA en agence créative"
+community: "Dossier : IA : risque systémique pour la stabilité financière"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/IA_en_agence_créative
+  - community/Dossier__IA__risque_systémique_pour_la_stabilité_financière
 ---
 
 # Autorités chinoises
@@ -14,4 +14,4 @@ tags:
 - [[Dossier  IA  risque systémique pour la stabilité financière]] - `references` [EXTRACTED]
 - [[Risque systémique de l'IA]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/IA_en_agence_créative
+#graphify/concept #graphify/EXTRACTED #community/Dossier__IA__risque_systémique_pour_la_stabilité_financière

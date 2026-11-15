@@ -1,17 +1,18 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t5.md"
 type: "concept"
-community: "OpenAI"
+community: "Jensen Huang"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/OpenAI
+  - community/Jensen_Huang
 ---
 
 # Jensen Huang
 
 ## Connections
 - [[Alice Huang]] - `references` [EXTRACTED]
+- [[Dossier Scandale Nvidia]] - `references` [EXTRACTED]
 - [[Feuilleton Crise de direction chez Nvidia]] - `references` [EXTRACTED]
 - [[Nvidia]] - `conceptually_related_to` [EXTRACTED]
 - [[Nvidia]] - `conceptually_related_to` [EXTRACTED]
@@ -23,5 +24,8 @@ tags:
 - [[Veille France 2026-11-10]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-13]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-13  Impact sociétal & Débats publics]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-15  Recherche, outils et modèles IA]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-15  Autres articles]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-15  Impact culturel et médiatique de l'IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/OpenAI
+#graphify/concept #graphify/EXTRACTED #community/Jensen_Huang

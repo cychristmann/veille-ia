@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-13-t4.md"
 type: "concept"
-community: "Adobe Creative Cloud"
+community: "Baidu et IA incarnée"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Adobe_Creative_Cloud
+  - community/Baidu_et_IA_incarnée
 ---
 
 # Cisco AI Revenue Performance
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-13  Régulation, compétition et marché]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Adobe_Creative_Cloud
+#graphify/concept #graphify/EXTRACTED #community/Baidu_et_IA_incarnée

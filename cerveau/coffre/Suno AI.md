@@ -1,17 +1,18 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t2.md"
-type: "concept"
-community: "Veille États-Unis 2026-11-08 : Régulation et contentieux"
+type: "code"
+community: "Suno AI"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-08__Régulation_et_contentieux
+  - community/Suno_AI
 ---
 
 # Suno AI
 
 ## Connections
+- [[Elvis Presley Music Rights Owners]] - `references` [EXTRACTED]
+- [[Eminem Music Rights Owners]] - `references` [EXTRACTED]
 - [[Feuilleton Suno AI poursuivi]] - `references` [EXTRACTED]
-- [[Veille États-Unis 2026-11-08  Régulation et contentieux]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08__Régulation_et_contentieux
+#graphify/code #graphify/EXTRACTED #community/Suno_AI

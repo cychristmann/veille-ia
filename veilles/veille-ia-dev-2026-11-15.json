@@ -1,0 +1,1090 @@
+{
+  "region": "dev",
+  "genere_a": "2026-11-15T07:23:29.582643+01:00",
+  "heures": 48,
+  "nombre_demande": 50,
+  "nombre_articles": 50,
+  "synthese": "Cette veille révèle une concentration forte sur les outils de codage assisté par IA, avec de nombreuses annonces de nouvelles extensions, SDK et plateformes (Cursor, Vibe Coding, GitHub Copilot, Claude Code). Parallèlement, la sécurité des extensions IA apparaît comme un sujet critique, plusieurs incidents de fuite de clés et d’extensions malveillantes étant rapportés. Le paysage des modèles évolue rapidement, avec l’arrivée de Gemini 4 Carbon, DeepSeek V3 et des frameworks comme NeMo Switchyard qui élargissent les possibilités de génération de code et de calcul. Enfin, l’infrastructure cloud se développe pour soutenir ces charges, notamment via AWS Bedrock, SageMaker et des outils d’émulation dédiés aux agents IA.",
+  "verification": {
+    "problemes": [],
+    "synthese_originale": "Cette veille révèle une concentration forte sur les outils de codage assisté par IA, avec de nombreuses annonces de nouvelles extensions, SDK et plateformes (Cursor, Vibe Coding, GitHub Copilot, Claude Code). Parallèlement, la sécurité des extensions IA apparaît comme un sujet critique, plusieurs incidents de fuite de clés et d’extensions malveillantes étant rapportés. Le paysage des modèles évolue rapidement, avec l’arrivée de Gemini 4 Carbon, DeepSeek V3 et des frameworks comme NeMo Switchyard qui élargissent les possibilités de génération de code et de calcul. Enfin, l’infrastructure cloud se développe pour soutenir ces charges, notamment via AWS Bedrock, SageMaker et des outils d’émulation dédiés aux agents IA."
+  },
+  "sources_en_echec": [],
+  "themes": [
+    {
+      "nom": "Sécurité des outils IA",
+      "resume": "De nombreux titres signalent des failles de sécurité autour des extensions Claude Code et de la plateforme Cursor, avec des attaques exploitant des clés exposées ou des extensions malveillantes. Ces incidents montrent la fragilité des marketplaces d’extensions IA et la nécessité de contrôles d’accès renforcés.",
+      "articles": [
+        {
+          "note": 4,
+          "motif": "Fuite de secrets via Claude Code, problème de sécurité",
+          "couverture": 1,
+          "titre": "Claude Code files leaked secrets on GitHub",
+          "source": "CASRAI",
+          "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQa3dwS25MVk1WTURZeF9lZ1lfS3l1V3hTSi1wODBGMkd2S1ZJZjV2RW1MVHV1YXhzVmxRYUNWczVnUE5WOV90WXRlUDNTUWx4SElrUmlBNm5McnZ0SVBaUXFJN1RBYXcybG45TzR5N3ZtN2FtN3p4YnhsMi04dkEwSg?oc=5",
+          "date": "2026-11-14T07:58:39+00:00",
+          "resume": "",
+          "titre_fr": "Claude Code divulgue des secrets sur GitHub"
+        },
+        {
+          "note": 3,
+          "motif": "Incident déjà largement relayé, peu d'impact supplémentaire",
+          "couverture": 1,
+          "titre": "Cursor confirms breach distributed malicious Claude Code extensions",
+          "source": "Online Tech Tips",
+          "lien": "https://www.online-tech-tips.com/cursor-breach-malicious-claude-code-extension/",
+          "date": "2026-11-15T04:47:58+00:00",
+          "resume": "Cursor confirmed a breach let attackers distribute a fake Claude Code extension with an SSH backdoor. Here's what happened, who's at risk, and what to check.",
+          "titre_fr": "Cursor confirme une faille à l'origine d'extensions Claude Code malveillantes distribuées"
+        },
+        {
+          "note": 3,
+          "motif": "Annonce de retrait, peu d'impact sur le développement IA",
+          "couverture": 1,
+          "titre": "Cursor drops Fireworks AI after a leaked vendor key let hackers steal data and plant a malicious Claude Code extension",
+          "source": "Dealroom",
+          "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU0x5eDE1M0hYQ2FMemNxd2QyanFDUnBsaVEzMGVWSFhZVGVjbGU5ZzdCQTh4cV94cHJYVGxWNm81eXNmUW9iNHNqZ21yUlZodWx5YnpaZ3EzWUZFNVZqWld0Y01vVGtESXNnTGhmTUQ2dnB6Vm1IWmEzMFBWZWQxZVZfVC1WZG1ISXo5UUg1V0xtTWFNN2kwaUxkVkdJSkpjenBudEVPQ1dSNTF2a0pYWURJTnZiM3I0c3IzZ09RRmt2N1lVeTZIcS01R29OZ2ZXZVZtaXlXQ0xEVHM3VDVLWlFJbFlqSm8?oc=5",
+          "date": "2026-11-14T20:57:11+00:00",
+          "resume": "",
+          "titre_fr": "Cursor abandonne Fireworks AI après qu’une clé fournisseur fuitée a permis à des hackers de voler des données et d’implanter une extension Claude Code malveillante"
+        },
+        {
+          "note": 3,
+          "motif": "Redite d'incident de sécurité, peu d'information nouvelle",
+          "couverture": 1,
+          "titre": "Cursor says hackers used a key exposed at Fireworks AI to plant a malicious Claude Code extension in its marketplace",
+          "source": "MLQ.ai",
+          "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMklLWWwya0tiLW53cWJYSk5XODNHT1pyX0x4MEw0Q1BPTG1WWkZhdHVmS2d3cC1iU3dHbHJOdUxzckRGOWlYOUxHdlVTSVRaOTYzWGxHN3lwQXdreVk2U0Y2WnlIVU1VMzBNMVN0eHpmWXNCZVJtV05oUktWSHp2UUNrUXQ3QldVRklzdnY0Tkw2c3JWelFQb1JBRnNyT2d6VmVyR0VVbFJVZW5vUkJDZ1pENldzd09KM2Z5Mk05WWI3VFlNNW9aZlFpcW9CRFlETW0w?oc=5",
+          "date": "2026-11-14T18:24:37+00:00",
+          "resume": "",
+          "titre_fr": "Cursor indique que des hackers ont utilisé une clé exposée chez Fireworks AI pour implanter une extension Claude Code malveillante sur sa marketplace"
+        },
+        {
+          "note": 3,
+          "motif": "Redite d'incident de sécurité, peu de valeur ajoutée",
+          "couverture": 1,
+          "titre": "Cursor says exposed Fireworks access key led to Claude Code extension attack",
+          "source": "Business Upturn",
+          "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZTJINTNWdFkzTk12ci1aNXhwSG0zZDlGX0tOUXdZZTlZcWpUMnNyLVVFTWtEWGNKQnhhcm1zWXNsZVlhcWs2dUlyVDFiMWZYX2dvMzM1Q21ZbUQ0eXVHYUM1bGVRSGdjaUU4OHJWTEtyQ2F5SlY5SjRzWU1ObkpwYldDTkJia1QxczlYVmp6U3U2RWdPNEVSZEZicUpqcXM4VEthVlQ3aVVrSlE5OW1MTVp2ZHFCQQ?oc=5",
+          "date": "2026-11-14T17:38:05+00:00",
+          "resume": "",
+          "titre_fr": "Cursor affirme qu’une clé Fireworks exposée a conduit à une attaque d’extension Claude Code"
+        },
+        {
+          "note": 3,
+          "motif": "Nouvelle fois le même incident, pas de profondeur",
+          "couverture": 1,
+          "titre": "Cursor confirms security breach led to malicious Claude Code extension",
+          "source": "BleepingComputer",
+          "lien": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+          "date": "2026-11-14T17:27:25+00:00",
+          "resume": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider ...",
+          "titre_fr": "Cursor confirme qu’une faille de sécurité a conduit à une extension Claude Code malveillante"
+        },
+        {
+          "note": 3,
+          "motif": "Redite de l'incident Fireworks, peu d'info nouvelle",
+          "couverture": 1,
+          "titre": "Cursor Reveals How a Leaked Fireworks AI Key Led to a Backdoored Claude Code Extension",
+          "source": "CyberSecurityNews",
+          "lien": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sWEMzcDR1S25FUzdxS0hITFVIbUh5a1hvU3BSZE1kX1phc3BLb3pudHVnd2VVMklZbFhhOGotS2h6QUlDUHZqY0tSMGZha2lHQWNJdTR2eGtWUk9oenfSAWNBVV95cUxOYktFcENlNDdpY0MwZ1VVbTRmeFAzVU00RWp5OXZGYi1NcWR3a1ZKeVRzRk9rZ1E3bTJzbnVvSzhXQXk1TU9kOHR5ckZXZTBZSUlzdzBPWlhZYVM4SDE1WTRCbWM?oc=5",
+          "date": "2026-11-14T10:05:34+00:00",
+          "resume": "",
+          "titre_fr": "Cursor révèle comment une clé Fireworks AI fuitée a conduit à une extension Claude Code porteuse d’une porte dérobée"
+        },
+        {
+          "note": 3,
+          "motif": "Nouvelle fois le même lien d'attaque, peu d'intérêt",
+          "couverture": 1,
+          "titre": "Cursor Links Extension Attack to Exposed Credentials",
+          "source": "The Defiant",
+          "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3pUNHpoQTFJLVZlUTFMYVY4WW5IanFWNHZBbXNQT3hnVUNZVkUxRWUyaDZzSzdUMGJSOHlyRDRKVWgwbGFUUUktdHRsM2pKa292OU04a3ZjNGJ0RmctYWJZbVI4T3plSlhyaVBzWG5PR3otVmtkQjFZajRtcEJvUEZkNGExS3JNZGc3QVVvMDlSU2Q1WHhz?oc=5",
+          "date": "2026-11-14T09:27:13+00:00",
+          "resume": "",
+          "titre_fr": "Cursor lie l’attaque d’extension à des identifiants exposés"
+        },
+        {
+          "note": 2,
+          "motif": "Redite d'un incident déjà couvert, source peu fiable",
+          "couverture": 1,
+          "titre": "Cursor confirms breach behind fake Claude Code extension",
+          "source": "2-Spyware",
+          "lien": "https://www.2-spyware.com/cursor-confirms-breach-behind-fake-claude-code-extension",
+          "date": "2026-11-14T21:03:54+00:00",
+          "resume": "Cursor has now explained how attackers slipped a tampered Claude Code extension into its marketplace: a stolen key from its AI partner Fireworks AI.",
+          "titre_fr": "Cursor confirme une faille à l'origine d’une fausse extension Claude Code"
+        },
+        {
+          "note": 2,
+          "motif": "Source douteuse, même contenu que d’autres articles",
+          "couverture": 1,
+          "titre": "Cursor confirms breach enabled malicious Claude Code extensions in its marketplace",
+          "source": "Mezha.net",
+          "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMEJicWFhbzZPdy1Lb3F1Ulh5WUdjaEUxTnhjQkdRdDJuTldjZ3U3cFJzaEdHUWpnUnhkbTZIQTdBR1R6WVZYZy04RWhkVV9Eb1FEU1VudVNiV01NaUVCUkg5VXdUZUZiY1JOajI3X2ZWSDVmT2dLa1U0Z2hhUmdpOC1NV0ttTDd4?oc=5",
+          "date": "2026-11-14T17:34:04+00:00",
+          "resume": "",
+          "titre_fr": "Cursor confirme qu’une faille a permis des extensions Claude Code malveillantes sur sa marketplace"
+        }
+      ]
+    },
+    {
+      "nom": "Modèles et frameworks émergents",
+      "resume": "Les publications couvrent plusieurs nouveaux modèles (Gemini 4 Carbon, DeepSeek V3, Claude Opus 5.5) et des frameworks (NVIDIA NeMo Switchyard, dspy‑wsp, DuckLake) qui élargissent les capacités de génération de code et de calcul à grande échelle.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Résultat de recherche important sur la sécurité des modèles auto‑hébergés",
+          "couverture": 1,
+          "titre": "Cohere Finding Shows Self-Hosted Open-Weight Models Still Need Egress Controls",
+          "source": "InfoQ",
+          "lien": "https://www.infoq.com/news/2026/11/cohere-open-weight-egress-risk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+          "date": "2026-11-15T02:42:00+00:00",
+          "resume": "Cohere recently reported that one of Alibaba’s newest Qwen3.8 models attempted to upload a probe file to a storage container in Beijing while explicitly stating in its reasoning trace that no tools would be triggered. While there is no evidence of intentional backdooring, the report is a reminder th",
+          "titre_fr": "Cohere montre que les modèles open‑weight auto‑hébergés nécessitent toujours des contrôles d’égress"
+        },
+        {
+          "note": 8,
+          "motif": "Implémentation concise de DeepSeek V3 en Jax, très technique",
+          "couverture": 1,
+          "titre": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+          "source": "Hacker News",
+          "lien": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+          "date": "2026-11-14T15:04:15+00:00",
+          "resume": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 213 # Comments: 12",
+          "titre_fr": "Show HN : DeepSeek V3 en ~200 lignes de Jax pur"
+        },
+        {
+          "note": 8,
+          "motif": "Pattern de routage d'agent Bedrock, améliore la scalabilité",
+          "couverture": 1,
+          "titre": "Route coding agent requests to the right model on Amazon Bedrock with NVIDIA NeMo Switchyard",
+          "source": "AWS Machine Learning",
+          "lien": "https://aws.amazon.com/blogs/machine-learning/route-coding-agent-requests-to-the-right-model-on-amazon-bedrock-with-nvidia-nemo-switchyard/",
+          "date": "2026-11-13T22:30:12+00:00",
+          "resume": "Coding agents work in tasks, and the number that matters is cost per solved task, not price per token. In this post, you use the AWS CDK to deploy LiteLLM with the NVIDIA NeMo Switchyard routing plugin on Amazon Bedrock, then measure cost per solved task for a routed model group against single-model",
+          "titre_fr": "Routage des requêtes d’agents de codage vers le bon modèle sur Amazon Bedrock avec NVIDIA NeMo Switchyard"
+        },
+        {
+          "note": 8,
+          "motif": "Architecture pour démarrage rapide d'agents Bedrock, forte pertinence",
+          "couverture": 1,
+          "titre": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
+          "source": "AWS Machine Learning",
+          "lien": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/",
+          "date": "2026-11-13T22:02:39+00:00",
+          "resume": "Amazon Bedrock AgentCore runtime V2 snapshots your initialized environment and restores it for each new session, so session start no longer grows with image size. This post explains how V2 starts a session, how to measure session start time, and four patterns to keep work off the first request.",
+          "titre_fr": "Patrons d’architecture pour un démarrage rapide des sessions sur le runtime AgentCore d’Amazon Bedrock"
+        },
+        {
+          "note": 7,
+          "motif": "Comparaison de modèles coûteux, montre limites économiques",
+          "couverture": 1,
+          "titre": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+          "source": "The Decoder",
+          "lien": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+          "date": "2026-11-14T16:48:01+00:00",
+          "resume": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored the time limit in testing and almost never gave up on a task. The articl",
+          "titre_fr": "Gemini 4 Carbon remporte la couronne du MathArena mais coûte 15 fois plus que GPT‑6.1 Sol"
+        },
+        {
+          "note": 7,
+          "motif": "Solution simplifiée pour data lakes AI, utile aux architectes",
+          "couverture": 1,
+          "titre": "DuckLake 1.1 solves the absurd complexity of data lakes at AI scale",
+          "source": "The New Stack",
+          "lien": "https://thenewstack.io/ducklake-sql-lakehouse-metadata/",
+          "date": "2026-11-14T15:45:04+00:00",
+          "resume": "How much simpler could a data lakehouse get if an ordinary SQL database kept track of its files? That’s the The post DuckLake 1.1 solves the absurd complexity of data lakes at AI scale appeared first on The New Stack .",
+          "titre_fr": "DuckLake 1.1 résout la complexité absurde des lacs de données à l’échelle de l’IA"
+        },
+        {
+          "note": 7,
+          "motif": "OpenFold3 sur SageMaker, montre IA appliquée à biologie",
+          "couverture": 1,
+          "titre": "OpenFold3 on Amazon SageMaker JumpStart: Predict biomolecular structures",
+          "source": "AWS Machine Learning",
+          "lien": "https://aws.amazon.com/blogs/machine-learning/openfold3-on-amazon-sagemaker-jumpstart-predict-biomolecular-structures/",
+          "date": "2026-11-13T21:53:40+00:00",
+          "resume": "Deploy OpenFold3-preview from Amazon SageMaker JumpStart to predict 3D structures of proteins, DNA, RNA, and ligand complexes in your own AWS account. The post covers asynchronous inference, multi-GPU parallelism, bringing your own MSAs for accuracy and privacy, and scaling to zero to reduce cost.",
+          "titre_fr": "OpenFold3 sur Amazon SageMaker JumpStart : prédire les structures biomoléculaires"
+        },
+        {
+          "note": 6,
+          "motif": "Nouvel outil de programmation poids‑espace, intéressant pour les DSP",
+          "couverture": 1,
+          "titre": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
+          "source": "MarkTechPost",
+          "lien": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/",
+          "date": "2026-11-14T16:45:48+00:00",
+          "resume": "Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbox, and tests each change, with no gradients and about $5 to $10 per run. The post Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy appe",
+          "titre_fr": "Cmpnd publie dspy-wsp : la programmation en espace de poids arrive sur DSPy"
+        },
+        {
+          "note": 5,
+          "motif": "Avertissement sur les habitudes de prompting, pertinence modérée",
+          "couverture": 1,
+          "titre": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+          "source": "The Decoder",
+          "lien": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
+          "date": "2026-11-14T16:42:56+00:00",
+          "resume": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium effort. The article Anthropic says outdated prompting habits are slowing down Claude Opus 5.5 appeared ",
+          "titre_fr": "Anthropic affirme que les habitudes de prompt obsolètes ralentissent Claude Opus 5.5"
+        },
+        {
+          "note": 5,
+          "motif": "Dépréciation de modèles Copilot, impact limité aux utilisateurs",
+          "couverture": 1,
+          "titre": "Upcoming deprecation of selected GitHub Copilot models in December",
+          "source": "GitHub Changelog",
+          "lien": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+          "date": "2026-11-13T20:40:05+00:00",
+          "resume": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date… The post Upcoming deprecation of selected GitHub Copilot models in December appeared first on T",
+          "titre_fr": "Dépréciation prochaine de certains modèles GitHub Copilot en décembre"
+        },
+        {
+          "note": 4,
+          "motif": "Analyse de parts de marché, peu d'information concrète sur l'outil",
+          "couverture": 1,
+          "titre": "Cursor vs GitHub Copilot Market Share: 12 Steps [2026]",
+          "source": "shattered.io",
+          "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUVhqSUpQWERIRjRlc0FLdTJJUlJlZlBJeTFLaU43d01uSk96VXZPYjB0eml6S0gzVUdjRmFhcVpKUHpuNk52V01QSm1NVzZTNkNKNTc0a1RhQ2dYYTF4X190NmFqWnMtM0NzUm5XcUlrVzZsZmRTSzZKR1FTOFM1UHhrdU9vUQ?oc=5",
+          "date": "2026-11-15T02:17:10+00:00",
+          "resume": "",
+          "titre_fr": "Part de marché de Cursor vs GitHub Copilot : 12 étapes [2026]"
+        }
+      ]
+    },
+    {
+      "nom": "Outils de développement assisté par IA",
+      "resume": "Une vague d’annonces porte sur des assistants de codage (Cursor, Vibe Coding, GitHub Copilot, Claude Code, datasette‑llm, datasette‑vega, etc.) ainsi que sur des guides et SDK pour améliorer la productivité des développeurs grâce à l’IA.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Nouvelle fonctionnalité de recherche web pour agents, forte portée",
+          "couverture": 1,
+          "titre": "Web search for agents is here: Why ranking still decides the answer",
+          "source": "The New Stack",
+          "lien": "https://thenewstack.io/ai-agent-search-ranking/",
+          "date": "2026-11-14T16:00:00+00:00",
+          "resume": "AI agents have had a URL problem for a while. When an agent needs current information but has no search The post Web search for agents is here: Why ranking still decides the answer appeared first on The New Stack .",
+          "titre_fr": "La recherche Web pour les agents est arrivée : pourquoi le classement décide toujours de la réponse"
+        },
+        {
+          "note": 6,
+          "motif": "Nouvelle approche de mémoire pour agents de code, intéressant pour les chercheurs",
+          "couverture": 1,
+          "titre": "CoReMem Preprint Introduces Cost-Internalizing Memory for Coding Agents",
+          "source": "CASRAI",
+          "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUVJadTFDaVdaR3lJQWZRTkJoc3JGWHVVWkUtX2lvSnUtSEFmNzRScVhtVjBFUXFPWjJ1TU8ybjRaalc0eXZ2Sl85X2FBMFotb3R5ZzZZcEZCTXV5QzVIT2FDeUN3a1lXaFV5NmZPYjNKcmhLclRZX1FuWWd4ZzdtQlRB?oc=5",
+          "date": "2026-11-15T01:58:08+00:00",
+          "resume": "",
+          "titre_fr": "CoReMem, préprint qui introduit la mémoire internalisant le coût pour les agents de codage"
+        },
+        {
+          "note": 6,
+          "motif": "Newsletter avec retour d'expérience riche sur design d'agent",
+          "couverture": 2,
+          "titre": "The HackerNoon Newsletter: I Put a 42-Desk Design Studio Inside My Coding Agent (11/14/2026)",
+          "source": "HackerNoon",
+          "lien": "https://hackernoon.com/11-14-2026-newsletter?source=rss",
+          "date": "2026-11-14T16:02:32+00:00",
+          "resume": "11/14/2026: Top 5 stories on the HackerNoon homepage!",
+          "titre_fr": "Newsletter HackerNoon : j’ai installé un studio de design à 42 postes dans mon agent de codage (14/11/2026)"
+        },
+        {
+          "note": 6,
+          "motif": "SDK UI pour agents de code, améliore l'intégration front‑end",
+          "couverture": 2,
+          "titre": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
+          "source": "MarkTechPost",
+          "lien": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
+          "date": "2026-11-14T06:38:14+00:00",
+          "resume": "Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control. The post Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents appe",
+          "titre_fr": "Vercel publie le SDK UI : plus de 50 comportements UI pour les agents de codage IA"
+        },
+        {
+          "note": 6,
+          "motif": "Mise en garde sur tests indépendants pour code IA, pratique",
+          "couverture": 1,
+          "titre": "AI-Generated Code Needs Independent Testing",
+          "source": "DevOps.com",
+          "lien": "https://devops.com/ai-generated-code-needs-independent-testing",
+          "date": "2026-11-13T19:22:09+00:00",
+          "resume": "Tricentis VP David Colwell joins Alan Shimel to explain why testing agents should challenge a coding agent’s assumptions against requirements and business context.",
+          "titre_fr": "Le code généré par l’IA nécessite des tests indépendants"
+        },
+        {
+          "note": 5,
+          "motif": "Guide pratique intéressant, mais pas de nouveauté majeure",
+          "couverture": 1,
+          "titre": "How to set a CI budget for coding agents",
+          "source": "dev.to",
+          "lien": "https://dev.to/kalemi/how-to-set-a-ci-budget-for-coding-agents-1eoc",
+          "date": "2026-11-15T06:10:23+00:00",
+          "resume": "A CI budget for coding agents needs three layers: a time limit on every job, a rule that cancels runs the agent already superseded, and a hard dollar stop that refuses new work once it is reached. GitHub gives you the first two in YAML and the third as an account or repository budget; Latchkey adds ",
+          "titre_fr": "Comment définir un budget CI pour les agents de codage"
+        },
+        {
+          "note": 5,
+          "motif": "Publication d'une version de bibliothèque utile aux développeurs",
+          "couverture": 1,
+          "titre": "datasette-llm 0.1a11",
+          "source": "Simon Willison",
+          "lien": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+          "date": "2026-11-14T23:59:28+00:00",
+          "resume": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseu",
+          "titre_fr": "datasette-llm 0.1a11"
+        },
+        {
+          "note": 5,
+          "motif": "Guide pratique pour les outils de codage IA, pertinence modérée",
+          "couverture": 1,
+          "titre": "Google’s Modern Web Guidance 1.0 helps AI coding tools write better, modern websites",
+          "source": "PiunikaWeb",
+          "lien": "https://piunikaweb.com/2026/11/15/google-modern-guidance-ai-coding-tools-better-websites/",
+          "date": "2026-11-14T19:20:49+00:00",
+          "resume": "Google Modern Web Guidance 1.0 helps AI coding agents build modern websites with expert guides and updated standards.",
+          "titre_fr": "Le guide Modern Web 1.0 de Google aide les outils d’IA à coder des sites plus modernes"
+        },
+        {
+          "note": 5,
+          "motif": "Analyse de fuite de mots‑de‑passe, mise en garde concrète",
+          "couverture": 1,
+          "titre": "“Don’t ask again”: how AI coding agents publish developers’ passwords",
+          "source": "Cybersecurity Insiders",
+          "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZjBXNU1WOS1uVEZsejZtMVYwNHBzX0JNa2JSWnBydHBTTkZDMkV0MFJEOWxrZWg3cVhGYlNVZ0R1Y19fLWZfVjB6Q2NzS3pUUFh0V0djN2NXVklKdEEybi1BZXctVnBPMGVGYjJvWV82X0lNa0k4Rk9DRmlESGVLeU94S0k3TXVaNzNieEQtSUVCOV90V25VVXRGbl9aUGFNclpBZnJodw?oc=5",
+          "date": "2026-11-14T17:52:14+00:00",
+          "resume": "",
+          "titre_fr": "« Ne plus demander » : comment les agents de codage IA publient les mots de passe des développeurs"
+        },
+        {
+          "note": 5,
+          "motif": "Publication d'une bibliothèque, utile pour les data‑apps",
+          "couverture": 1,
+          "titre": "datasette-vega 0.7",
+          "source": "Simon Willison",
+          "lien": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+          "date": "2026-11-14T17:09:09+00:00",
+          "resume": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to ",
+          "titre_fr": "datasette-vega 0.7"
+        },
+        {
+          "note": 5,
+          "motif": "Mise à jour de modèle Claude, changements mineurs",
+          "couverture": 1,
+          "titre": "Claude Fable 5.2 vs. Fable 5.1: Fewer refusals, with small savings on the login fix",
+          "source": "The New Stack",
+          "lien": "https://thenewstack.io/claude-fable-5-2-vs-fable-5-1/",
+          "date": "2026-11-14T17:00:00+00:00",
+          "resume": "Anthropic’s Claude Fable 5.2 promises fewer refusals and lower token prices, but those changes played out very differently in our The post Claude Fable 5.2 vs. Fable 5.1: Fewer refusals, with small savings on the login fix appeared first on The New Stack .",
+          "titre_fr": "Claude Fable 5.2 vs Fable 5.1 : moins de refus, avec de petites économies sur la correction de connexion"
+        },
+        {
+          "note": 5,
+          "motif": "Extension de disponibilité Copilot, impact sur entreprises",
+          "couverture": 1,
+          "titre": "GitHub Copilot app adds general availability for Enterprise Server accounts",
+          "source": "CASRAI",
+          "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zWnJXVHJNV3o2SFNYSXVEUm9xc1dxUVV2SlBYZXBScDcyU0l3YjBycTJBUWdiRjFGOE95M1ZxUmxUYTQtaVdmTlYzZDdtRldfOXQxRVlaSmZoWWtDT3ZvRC1BTkdwRHFLa3p4SUVuSkFsWnNGd1p4ZXRFTERBdw?oc=5",
+          "date": "2026-11-14T16:03:17+00:00",
+          "resume": "",
+          "titre_fr": "L’application GitHub Copilot ajoute la disponibilité générale pour les comptes Enterprise Server"
+        },
+        {
+          "note": 4,
+          "motif": "Cas d'usage notable mais centré sur un seul développeur",
+          "couverture": 1,
+          "titre": "Non-Engineer Publishes iPhone App in 13 Days, All Code Generated by AI: Anthropic's Claude Code Is Changing How Development Gets Done",
+          "source": "BigGo Finance",
+          "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aeFdRWjFSUkQ0eG5NRE5TOG9QNDk3aEhVcmZwVmZ2dHVSTVNfUU9wbXF4M3BBYllXMjdlbjVwd1gwcGhGVTZTaERCTXNBN3lzRWVLMm5rWVFnM3I1bkt3Q0M4anFIN1BheDg4RmgyVGlFakxuaUE?oc=5",
+          "date": "2026-11-15T02:55:00+00:00",
+          "resume": "",
+          "titre_fr": "Un non‑ingénieur publie une application iPhone en 13 jours, tout le code généré par l'IA : Claude Code d'Anthropic change la façon de développer"
+        },
+        {
+          "note": 4,
+          "motif": "Analyse de coût CPU, peu de nouveauté technique",
+          "couverture": 1,
+          "titre": "Daytona's Ivan Burazin: Vibe Coding Is Down to a Few Winners, and the Real AI Cost Is Hiding in CPUs",
+          "source": "BigGo Finance",
+          "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zazFrcXd1VGJCZ3RIU1oyM1JvaXpYYXVpY21EdDhnUXl0Y2pqZWN3ZmdGeFBBb19xVEswRnMzRk9XU09pU2x4WW9YR0djR2xKS0liakx4MzFybVk?oc=5",
+          "date": "2026-11-14T23:08:00+00:00",
+          "resume": "",
+          "titre_fr": "Ivan Burazin de Daytona : le « vibe coding » se résume à quelques gagnants, et le vrai coût de l’IA se cache dans les CPU"
+        },
+        {
+          "note": 4,
+          "motif": "Astuce d'interface, intéressante pour les utilisateurs mobiles",
+          "couverture": 1,
+          "titre": "A custom home screen widget is the easiest way to start vibe coding Android apps",
+          "source": "How-To Geek",
+          "lien": "https://tech.yahoo.com/computing/articles/custom-home-screen-widget-easiest-180015311.html",
+          "date": "2026-11-14T18:00:15+00:00",
+          "resume": "I've been a devout Android user for nearly two decades, but I never even toyed with the idea of building an app until this year. Google's AI integration in Android Studio makes it accessible to anyone ...",
+          "titre_fr": "Un widget d’écran d’accueil personnalisé, le moyen le plus simple de lancer le vibe coding sur Android"
+        },
+        {
+          "note": 3,
+          "motif": "Annonce de restriction, plus politique que technique",
+          "couverture": 1,
+          "titre": "Goldman Sachs Restricts AI Coding Tools Citing Security Risks",
+          "source": "조선일보",
+          "lien": "https://www.msn.com/en-xl/news/other/goldman-sachs-restricts-ai-coding-tools-citing-security-risks/ar-AA2hrina",
+          "date": "2026-11-15T00:30:25+00:00",
+          "resume": "Most Goldman Sachs traders lost access to AI coding tools in October, which they previously used to monitor client trading flows, model market movements and positions, and generate reports. According ...",
+          "titre_fr": "Goldman Sachs restreint les outils d'IA pour coder, invoquant des risques de sécurité"
+        }
+      ]
+    },
+    {
+      "nom": "Infrastructure et déploiement IA",
+      "resume": "Plusieurs titres décrivent des solutions d’infrastructure cloud (AWS Bedrock, SageMaker Canvas, DocumentDB, Amazon Emulator) et des patterns d’architecture pour accélérer le démarrage des sessions IA et gérer les modèles à grande échelle.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Preuve de concept AWS, montre une contrainte clé pour les agents",
+          "couverture": 1,
+          "titre": "AWS Emulator proves agents need a verification loop. Realism is the hard part.",
+          "source": "The New Stack",
+          "lien": "https://thenewstack.io/aws-emulator-verification-loops/",
+          "date": "2026-11-14T17:30:00+00:00",
+          "resume": "This week, Amazon Web Services released AWS Emulator, a local copy of AWS that coding agents can test against. It The post AWS Emulator proves agents need a verification loop. Realism is the hard part. appeared first on The New Stack .",
+          "titre_fr": "L’émulateur AWS montre que les agents ont besoin d’une boucle de vérification : le réalisme reste le principal défi"
+        },
+        {
+          "note": 6,
+          "motif": "Cas d'usage MLOps avec SageMaker Canvas, appli concret",
+          "couverture": 1,
+          "titre": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+          "source": "AWS Machine Learning",
+          "lien": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/",
+          "date": "2026-11-13T23:22:09+00:00",
+          "resume": "GS Caltex connects Amazon SageMaker Canvas to Amazon SageMaker Pipelines so process engineers' no-code models run in production. This post shows how ML engineers reuse validated preprocessing flows and models, cutting deployment from about a week to a few hours and running batch inference every 30 m",
+          "titre_fr": "MLOps en production chez GS Caltex avec Amazon SageMaker Canvas, partie 1"
+        },
+        {
+          "note": 5,
+          "motif": "Nouvelle extension datasette, utile aux développeurs",
+          "couverture": 1,
+          "titre": "datasette-cluster-map 0.19",
+          "source": "Simon Willison",
+          "lien": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+          "date": "2026-11-13T23:02:45+00:00",
+          "resume": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's ",
+          "titre_fr": "datasette-cluster-map 0.19"
+        },
+        {
+          "note": 5,
+          "motif": "Extension leaflet, apport fonctionnel mineur",
+          "couverture": 1,
+          "titre": "datasette-leaflet 0.3",
+          "source": "Simon Willison",
+          "lien": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+          "date": "2026-11-13T22:30:54+00:00",
+          "resume": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datas",
+          "titre_fr": "datasette-leaflet 0.3"
+        }
+      ]
+    },
+    {
+      "nom": "Autres articles",
+      "resume": "",
+      "articles": [
+        {
+          "note": 9,
+          "motif": "Étude à grande échelle sur dérive silencieuse des agents, impact majeur",
+          "couverture": 1,
+          "titre": "Data From 100+ AI Agents Shows They Fail by Silent Drift, Not Errors",
+          "source": "Towards Data Science",
+          "lien": "https://towardsdatascience.com/data-from-100-ai-agents-shows-they-fail-by-silent-drift-not-errors/",
+          "date": "2026-11-14T13:00:00+00:00",
+          "resume": "Quality and token alerts were early signals for 38% of agents and errors for about 1%, so monitoring should start with quality, cost, and latency. The post Data From 100+ AI Agents Shows They Fail by Silent Drift, Not Errors appeared first on Towards Data Science .",
+          "titre_fr": "Données de plus de 100 agents IA montrent qu’ils échouent par dérive silencieuse, pas par erreurs"
+        },
+        {
+          "note": 7,
+          "motif": "Alerte FBI sur framework d'intrusion, importance sécuritaire",
+          "couverture": 1,
+          "titre": "FBI Issues FLASH Alert on ARTEX, the AI Agent Framework Automating Network Intrusions",
+          "source": "Glitchwire",
+          "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZmYzRDFXUnQ4YnFCZkl4SjMxVFlYaVhtcXpIWFdNMjVlWlQzRjhBM0dHci1WeGoweTFVZEF3N0pLem9wVUhaV3Vpb3EwZzl1WTMxZDdBbVRIWG1aOTlPeG1GMHhNYTdraFBiZ0V1emtheC1WeUduNmFfRGdEY1dpajJ5QzF5cFg3RG5tazVBZHZHV3JQRWhMQVlmM0dub2t0RUhGelJ3RDhPN1dFclE?oc=5",
+          "date": "2026-11-14T14:55:23+00:00",
+          "resume": "",
+          "titre_fr": "Le FBI émet une alerte FLASH sur ARTEX, le framework d’agents IA qui automatise les intrusions réseau"
+        },
+        {
+          "note": 7,
+          "motif": "Open‑source d'un module mémoire latent, intéressant pour la recherche",
+          "couverture": 1,
+          "titre": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
+          "source": "MarkTechPost",
+          "lien": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
+          "date": "2026-11-14T10:21:21+00:00",
+          "resume": "Stanford researchers released Memorilla, an open-source memory system that compresses a document collection into 16 memory tokens for a frozen Qwen3-8B. It reaches 84.33% on FactKG using 108x fewer document tokens than full context. The post Stanford Research Open-Sources Memorilla, a Latent Memory ",
+          "titre_fr": "Recherche de Stanford open‑source Memorilla, un module de mémoire latente pour les LLM gelés"
+        },
+        {
+          "note": 7,
+          "motif": "Revue détaillée d'OpenAI Codex, montre capacités de debugging",
+          "couverture": 1,
+          "titre": "OpenAI Codex Review: It Fixed Every Bug I Threw at It",
+          "source": "Unite.AI",
+          "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVd00yMXR4X3U4SVdRemVDWEZ6RHl5RGdteHJiYTQxRGZ3VG1kRGdIVWluQWN0N1Y0YkxLSzR4VjF2LUV1Q3ZDOWVkNUVWWUNjRWFF?oc=5",
+          "date": "2026-11-14T09:53:27+00:00",
+          "resume": "",
+          "titre_fr": "Analyse d’OpenAI Codex : il a corrigé chaque bug que je lui ai soumis"
+        },
+        {
+          "note": 6,
+          "motif": "Expérience de scaling GPU décentralisé, utile pour les agents locaux",
+          "couverture": 1,
+          "titre": "My Local AI Agent Needed a Bigger Brain, So I Gave It a Decentralized GPU",
+          "source": "HackerNoon",
+          "lien": "https://hackernoon.com/my-local-ai-agent-needed-a-bigger-brain-so-i-gave-it-a-decentralized-gpu?source=rss",
+          "date": "2026-11-14T18:00:02+00:00",
+          "resume": "Running everything locally has a ceiling, and I kept hitting it. Here's how I fixed it.",
+          "titre_fr": "Mon agent IA local avait besoin d’un cerveau plus gros, je lui ai donc fourni un GPU décentralisé"
+        },
+        {
+          "note": 6,
+          "motif": "Cas d'usage réel de Claude Code, montre potentiel produit",
+          "couverture": 1,
+          "titre": "I used Claude Code to build the browser feature I've been wanting for years",
+          "source": "XDA",
+          "lien": "https://www.msn.com/en-us/technology/software/i-used-claude-code-to-build-the-browser-feature-i-ve-been-wanting-for-years/ar-AA2hrMQn",
+          "date": "2026-11-14T12:30:20+00:00",
+          "resume": "Breaking up with a browser doesn't mean giving up its best features.",
+          "titre_fr": "J’ai utilisé Claude Code pour créer la fonctionnalité de navigateur que je voulais depuis des années"
+        },
+        {
+          "note": 5,
+          "motif": "Intégration de nouvelles fonctions, utile mais peu révolutionnaire",
+          "couverture": 1,
+          "titre": "Google AI Studio integrates Antigravity and vibe coding arrives in Build mode",
+          "source": "Foro3D",
+          "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1ZGNk1xTkRQWXVvWFdHcEV2ay0zRU9ncWZCZHBrWFdqTG02eUlUajJtMC1Sa25uYWItT0lZb1RHelk1ZklISTdLSVhteFdQdDNWUEFzTFNDVXg5bGNaUlJDbklOanhnSlVzOTRjVDNaX184NF9nVDRtcWxxbmRoNHdodlJ5YS0tdTlfZDFJQlFHQlEyXzJybU1UX0Q5OGE5SS14WkhPZVY3SHNtWF9nS0lB?oc=5",
+          "date": "2026-11-14T19:42:46+00:00",
+          "resume": "",
+          "titre_fr": "Google AI Studio intègre Antigravity et le vibe coding arrive en mode Build"
+        },
+        {
+          "note": 5,
+          "motif": "Application de SAST contre Vibe Coding, pertinence sécurité",
+          "couverture": 1,
+          "titre": "Using SAST to Protect Against Vibe Coding Fails",
+          "source": "CyberSecurityNews",
+          "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNkFoaTFPSHVleUljSjh6QmdMdFNyblg0ZlQySVYxc0JIdlJ4X1JPdzE2OWtFSEZWY3FpZzVkOXEtX0Z5N3Q0QURiSF83bHE4NjR4NmJLcTZ1a1MtWkdOMUxFMVNiamlOUld4U2NwbjdVQTBhaWFTdEVhMTAxRjI0QzhHM3VtREJ2SXc?oc=5",
+          "date": "2026-11-14T16:59:59+00:00",
+          "resume": "",
+          "titre_fr": "Utiliser le SAST pour se protéger contre les échecs du vibe coding"
+        },
+        {
+          "note": 5,
+          "motif": "Outage de Claude AI, incident ponctuel",
+          "couverture": 1,
+          "titre": "Claude AI Outage: Login Issues Hit Claude Code and Chatbot",
+          "source": "NewsBricks",
+          "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMHhuTjJaX0t6WWpzSkRTOWxscU5LZEo0b1IzX1ljQ2pIZl8xejgxalBCTGtnajRIb3ZPa2NxOUlZejI5cWpockJ6NzA5Q2NudUY1RDRLMS1rRTQ5WmlwZVhqdlpoeGZWOXNrcHFfRUFFNGdzSVN5YWhRWG5xWWh5cExtWjBiWFBSY0hJ?oc=5",
+          "date": "2026-11-14T10:17:40+00:00",
+          "resume": "",
+          "titre_fr": "Panne de Claude AI : problèmes de connexion affectant Claude Code et le chatbot"
+        }
+      ]
+    }
+  ],
+  "ecartes": [
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Nvidia scandal sharpens Trump's political vulnerabilities after Democratic sweep",
+      "source": "news.lavx.hu",
+      "lien": "https://news.lavx.hu/article/nvidia-scandal-sharpens-trump-s-political-vulnerabilities-after-democratic-sweep",
+      "date": "2026-11-15T06:10:08+00:00",
+      "resume": "Former Nvidia CEO Jensen Huang's alleged affair with a suspected Chinese spy has become a political flashpoint for President Donald Trump, connecting AI, China competition, data centers and billionaire access after Democrats won their largest congressional majority since 1990.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Best 83 Sites to Buy Edu Email for Student Discounts | PDF",
+      "source": "dev.to",
+      "lien": "https://dev.to/pvasmmmarket7854/best-83-sites-to-buy-edu-email-for-student-discounts-pdf-1oam",
+      "date": "2026-11-15T06:07:19+00:00",
+      "resume": "Best 83 Sites to Buy Edu Email for Student Discounts | PDF 24 hours response/(Contact US) ➤ WhatsApp: +1 (262) 452-2139 ➤ Telegram: @pvasmmmarket ➤ Email: pvasmmmarket@gmail.com Education has become increasingly connected to digital technology. Students, teachers, researchers, and academic professio",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Part 26: Five builds, five differences",
+      "source": "dev.to",
+      "lien": "https://dev.to/thasha/part-26-five-builds-five-differences-dmk",
+      "date": "2026-11-15T06:05:32+00:00",
+      "resume": "Part 26 · One Agent, Five Platforms Five builds are done: MuleSoft, Boomi, SAP, Azure and AWS. Each one hosted the same nine tools from Part 7 and kept the same approval rule from Part 6 . This part puts them on one screen : what actually differed, in five rows. It's a summary of Parts 11 to 25, all",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Building Smarter Inventory Tracking Systems with RFID and IoT",
+      "source": "dev.to",
+      "lien": "https://dev.to/maryam_hussaini_19a585bac/building-smarter-inventory-tracking-systems-with-rfid-and-iot-43f",
+      "date": "2026-11-15T06:05:31+00:00",
+      "resume": "Building Smarter Inventory Tracking Systems with RFID and IoT Inventory tracking sounds simple until a business starts managing thousands of products across multiple storage locations. At a small scale, spreadsheets and barcode scanners might be enough. But as inventory volumes increase, keeping rec",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Malaysia plans law using data center power consumption to catch AI GPU smugglers",
+      "source": "news.lavx.hu",
+      "lien": "https://news.lavx.hu/article/malaysia-plans-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers",
+      "date": "2026-11-15T04:58:37+00:00",
+      "resume": "Malaysia plans to require data center operators to disclose AI accelerator imports and power consumption to stop restricted GPUs from being rerouted to China, while also charging operators for unused reserved electricity capacity. The approach faces technical limits, since power draw alone cannot re",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Thousands of Lovable apps exposed sensitive data without login, study finds",
+      "source": "news.lavx.hu",
+      "lien": "https://news.lavx.hu/article/thousands-of-lovable-apps-exposed-sensitive-data-without-login-study-finds",
+      "date": "2026-11-15T04:40:22+00:00",
+      "resume": "Crissy Field GmbH examined 159,041 Lovable projects and found many cases where personal and confidential data sat open to anyone, including a German lifestyle forum that exposed more than 80,000 profiles.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Petition to Reinstate Jensen Huang as Nvidia CEO Draws 100,000 Signatures",
+      "source": "news.lavx.hu",
+      "lien": "https://news.lavx.hu/article/petition-to-reinstate-jensen-huang-as-nvidia-ceo-draws-100-000-signatures",
+      "date": "2026-11-15T04:18:26+00:00",
+      "resume": "An online petition calling for Jensen Huang's return as chief executive of Nvidia has collected 100,000 signatures, reflecting continued public attachment to the founder's leadership of the AI chipmaker.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+      "source": "Hacker News",
+      "lien": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "date": "2026-11-15T04:09:11+00:00",
+      "resume": "Article URL: https://github.com/Tthanh2k6/turbo-browser-mcp Comments URL: https://news.ycombinator.com/item?id=50503930 Points: 14 # Comments: 0",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "BitMine chairman Tom Lee links AI selloff and Anthropic IPO to crypto pressure",
+      "source": "Crypto Briefing",
+      "lien": "https://cryptobriefing.com/tom-lee-ai-selloff-anthropic-ipo-crypto/",
+      "date": "2026-11-15T02:12:32+00:00",
+      "resume": "The convergence of AI market volatility, IPO cash demands, and crypto hacks highlights the interconnectedness of modern financial markets. The post BitMine chairman Tom Lee links AI selloff and Anthropic IPO to crypto pressure appeared first on Crypto Briefing .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Digital Realty Trust boosts Japan data center investment by $10B",
+      "source": "Crypto Briefing",
+      "lien": "https://cryptobriefing.com/digital-realty-japan-data-center-10-billion/",
+      "date": "2026-11-15T00:10:00+00:00",
+      "resume": "Digital Realty's $10B investment in Japan's data centers signals a long-term commitment to AI infrastructure, enhancing regional tech capabilities. The post Digital Realty Trust boosts Japan data center investment by $10B appeared first on Crypto Briefing .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Jensen Huang warns a three-month data center delay burns $10 billion",
+      "source": "Crypto Briefing",
+      "lien": "https://cryptobriefing.com/jensen-huang-data-center-delay-10-billion/",
+      "date": "2026-11-14T23:51:01+00:00",
+      "resume": "Delays in AI data center deployment highlight the critical need for streamlined infrastructure processes to capitalize on revenue opportunities. The post Jensen Huang warns a three-month data center delay burns $10 billion appeared first on Crypto Briefing .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Monolithic Power crosses $1 billion in quarterly revenue as AI data center demand surges",
+      "source": "Crypto Briefing",
+      "lien": "https://cryptobriefing.com/monolithic-power-1-billion-quarterly-revenue/",
+      "date": "2026-11-14T19:34:36+00:00",
+      "resume": "Monolithic Power's revenue surge highlights the critical role of power management in AI infrastructure, signaling robust growth but increased dependency on data center demand. The post Monolithic Power crosses $1 billion in quarterly revenue as AI data center demand surges appeared first on Crypto B",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+      "source": "The Decoder",
+      "lien": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+      "date": "2026-11-14T19:05:17+00:00",
+      "resume": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 billion, and it's still far from clear whether future revenue will justify those costs. The planned I",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Lovable apps expose passport details and more than 200K private messages",
+      "source": "Hacker News",
+      "lien": "https://www.crissyfield.de/research/lovable-en/",
+      "date": "2026-11-14T17:43:10+00:00",
+      "resume": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 744 # Comments: 297",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "source": "Hacker News",
+      "lien": "https://gitlab.com/snipedbywifi/terminactory",
+      "date": "2026-11-14T14:05:54+00:00",
+      "resume": "Hey HN readers! I'm snipedbywifi ( https://gitlab.com/snipedbywifi ), and i've been working on terminactory. Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish! The game is a factory game (overused niche, i know xD), but runs in your terminal. Re",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+      "source": "The Decoder",
+      "lien": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+      "date": "2026-11-14T11:40:51+00:00",
+      "resume": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary. The researchers are being redistributed across other teams in what the company fr",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Murati’s $12B Reveal, Nvidia’s Trump Greenlight & An A.I. Coding Gut Check",
+      "source": "puck.news",
+      "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLUQyN2JUV3pLN21kbWRUQmtmNDFFZURZd3BZTUllOXlqTG5jUkw0MkRQc3JqZWVzWUR0T0JtelRFSXVfRGtsTGNtdGtRWW85UFM1T0xOUHhmRUJlSmxKZGc4THZfWnpBcUJ0NHBHeHFJOGV3eC1samxfRkNOYk9ySmM1cThNX2VXY3Q2X0hBb0RERGlUYmt0YWU0cmVCZXRNeXk3UHdoYmc1eFJtTWZ6clZUcw?oc=5",
+      "date": "2026-11-14T09:07:26+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "[AINews] The No AI Slop Manifesto",
+      "source": "Latent Space",
+      "lien": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+      "date": "2026-11-14T08:31:02+00:00",
+      "resume": "November 13, 2026 — AIE speakers unite to lay out how to fight slop.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Shadow AI in the Workplace: Data Security Risks and Governance Strategies",
+      "source": "HackerNoon",
+      "lien": "https://hackernoon.com/shadow-ai-in-the-workplace-data-security-risks-and-governance-strategies?source=rss",
+      "date": "2026-11-14T07:00:02+00:00",
+      "resume": "Workplace AI bans may not stop Shadow AI. Explore the risks to confidential data and practical ways companies can govern employee AI use.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Open Source DocumentDB 1.0 Reaches General Availability",
+      "source": "InfoQ",
+      "lien": "https://www.infoq.com/news/2026/11/mongodb-compatible-documentdb/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "date": "2026-11-14T06:37:00+00:00",
+      "resume": "DocumentDB 1.0 is the first generally available release of the open source, MIT-licensed document database built on PostgreSQL, with compatibility for the MongoDB wire protocol. Most MongoDB drivers, tools, and queries work without changes. By Renato Losio",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "How I Built an AI Marketing Team With Grok Bot Without Writing Code",
+      "source": "HackerNoon",
+      "lien": "https://hackernoon.com/how-i-built-an-ai-marketing-team-with-grok-bot-without-writing-code?source=rss",
+      "date": "2026-11-14T05:15:02+00:00",
+      "resume": "I built an AI marketing team with Grok Bot. Here's how single-purpose agents, strict guardrails, and human oversight keep everything on track.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Thunder",
+      "source": "Product Hunt",
+      "lien": "https://www.producthunt.com/products/thunder-3",
+      "date": "2026-11-13T13:27:29-08:00",
+      "resume": "A blazing-fast, persistent, key-value AI workload database Discussion | Link",
+      "titre_fr": ""
+    }
+  ],
+  "top": [
+    {
+      "note": 9,
+      "motif": "Étude à grande échelle sur dérive silencieuse des agents, impact majeur",
+      "couverture": 1,
+      "titre": "Data From 100+ AI Agents Shows They Fail by Silent Drift, Not Errors",
+      "source": "Towards Data Science",
+      "lien": "https://towardsdatascience.com/data-from-100-ai-agents-shows-they-fail-by-silent-drift-not-errors/",
+      "date": "2026-11-14T13:00:00+00:00",
+      "resume": "Quality and token alerts were early signals for 38% of agents and errors for about 1%, so monitoring should start with quality, cost, and latency. The post Data From 100+ AI Agents Shows They Fail by Silent Drift, Not Errors appeared first on Towards Data Science .",
+      "titre_fr": "Données de plus de 100 agents IA montrent qu’ils échouent par dérive silencieuse, pas par erreurs"
+    },
+    {
+      "note": 8,
+      "motif": "Résultat de recherche important sur la sécurité des modèles auto‑hébergés",
+      "couverture": 1,
+      "titre": "Cohere Finding Shows Self-Hosted Open-Weight Models Still Need Egress Controls",
+      "source": "InfoQ",
+      "lien": "https://www.infoq.com/news/2026/11/cohere-open-weight-egress-risk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "date": "2026-11-15T02:42:00+00:00",
+      "resume": "Cohere recently reported that one of Alibaba’s newest Qwen3.8 models attempted to upload a probe file to a storage container in Beijing while explicitly stating in its reasoning trace that no tools would be triggered. While there is no evidence of intentional backdooring, the report is a reminder th",
+      "titre_fr": "Cohere montre que les modèles open‑weight auto‑hébergés nécessitent toujours des contrôles d’égress"
+    },
+    {
+      "note": 8,
+      "motif": "Preuve de concept AWS, montre une contrainte clé pour les agents",
+      "couverture": 1,
+      "titre": "AWS Emulator proves agents need a verification loop. Realism is the hard part.",
+      "source": "The New Stack",
+      "lien": "https://thenewstack.io/aws-emulator-verification-loops/",
+      "date": "2026-11-14T17:30:00+00:00",
+      "resume": "This week, Amazon Web Services released AWS Emulator, a local copy of AWS that coding agents can test against. It The post AWS Emulator proves agents need a verification loop. Realism is the hard part. appeared first on The New Stack .",
+      "titre_fr": "L’émulateur AWS montre que les agents ont besoin d’une boucle de vérification : le réalisme reste le principal défi"
+    },
+    {
+      "note": 8,
+      "motif": "Nouvelle fonctionnalité de recherche web pour agents, forte portée",
+      "couverture": 1,
+      "titre": "Web search for agents is here: Why ranking still decides the answer",
+      "source": "The New Stack",
+      "lien": "https://thenewstack.io/ai-agent-search-ranking/",
+      "date": "2026-11-14T16:00:00+00:00",
+      "resume": "AI agents have had a URL problem for a while. When an agent needs current information but has no search The post Web search for agents is here: Why ranking still decides the answer appeared first on The New Stack .",
+      "titre_fr": "La recherche Web pour les agents est arrivée : pourquoi le classement décide toujours de la réponse"
+    },
+    {
+      "note": 8,
+      "motif": "Implémentation concise de DeepSeek V3 en Jax, très technique",
+      "couverture": 1,
+      "titre": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "source": "Hacker News",
+      "lien": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "date": "2026-11-14T15:04:15+00:00",
+      "resume": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 213 # Comments: 12",
+      "titre_fr": "Show HN : DeepSeek V3 en ~200 lignes de Jax pur"
+    }
+  ],
+  "articles_notes": 50,
+  "liens_google": 18,
+  "videos": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "Build Your First AI Agent with n8n & Google Gemini",
+        "source": "Arsalan Ahmed",
+        "lien": "https://www.youtube.com/watch?v=3YTmSIEXr1I",
+        "date": "2026-11-15T06:16:46Z",
+        "image": "https://i.ytimg.com/vi/3YTmSIEXr1I/mqdefault.jpg",
+        "extrait": "Build Your First AI Agent with n8n & Google Gemini | Beginner Tutorial Welcome to the world of AI Agents and Automation!",
+        "description": "Tutoriel pour débutants montrant comment créer son premier agent IA en combinant n8n et Google Gemini."
+      },
+      {
+        "titre": "How to Build an AI Agent from Scratch in Python | OpenAI Responses API",
+        "source": "Yashpal Academy",
+        "lien": "https://www.youtube.com/watch?v=IsDHQQuW_AQ",
+        "date": "2026-11-15T06:14:07Z",
+        "image": "https://i.ytimg.com/vi/IsDHQQuW_AQ/mqdefault.jpg",
+        "extrait": "What if you could build your own AI assistant that doesn't just answer questions, but actually performs tasks? In this ...",
+        "description": "Guide pratique pour développer un agent IA autonome en Python en utilisant l'API de réponses d'OpenAI."
+      },
+      {
+        "titre": "Don't Run Your AI Coding Agent in Downloads 😳 #ai  #security",
+        "source": "Code with Sibil",
+        "lien": "https://www.youtube.com/watch?v=HgqYIfYtXzw",
+        "date": "2026-11-15T04:30:29Z",
+        "image": "https://i.ytimg.com/vi/HgqYIfYtXzw/mqdefault.jpg",
+        "extrait": "Forever Security found a malicious AGENTS.md in a customer's Downloads folder. It was disguised as engineering notes and told ...",
+        "description": "Alerte de sécurité sur un fichier malveillant nommé AGENTS.md trouvé dans le dossier Downloads, déguisé en notes d'ingénierie."
+      },
+      {
+        "titre": "Every AI Agent Tool, Mapped: 12 Phases From Prototype to Production",
+        "source": "Neural Quadrant",
+        "lien": "https://www.youtube.com/watch?v=DeuY-UlEvyU",
+        "date": "2026-11-14T23:01:53Z",
+        "image": "https://i.ytimg.com/vi/DeuY-UlEvyU/mqdefault.jpg",
+        "extrait": "The 12 phases 1 Define & prototype — Claude Code, n8n, Dify, Langflow, Flowise, Vellum 2 Model layer — Claude, GPT, Gemini, ...",
+        "description": "Cartographie complète des outils d'agents IA, décrivant les 12 phases du prototype à la production avec des solutions comme Claude Code, n8n, Dify, Langflow, etc."
+      },
+      {
+        "titre": "Review AI Agent Plans and Code in One Workspace",
+        "source": "Repo Radar AI",
+        "lien": "https://www.youtube.com/watch?v=C7T-23xXPAY",
+        "date": "2026-11-14T20:33:51Z",
+        "image": "https://i.ytimg.com/vi/C7T-23xXPAY/mqdefault.jpg",
+        "extrait": "TypeScript AI coding agent review tool Plannotator lets you annotate plans, review code changes, and return feedback to agents.",
+        "description": "Présentation de Plannotator, un outil TypeScript qui permet d'annoter les plans d'IA, de revoir les changements de code et de fournir du feedback aux agents."
+      },
+      {
+        "titre": "AI Agents Explained 🤖 | How Autonomous AI Works (Beginner Friendly)",
+        "source": "CodeToCareer",
+        "lien": "https://www.youtube.com/watch?v=CEuK90Pu6uE",
+        "date": "2026-11-14T18:37:16Z",
+        "image": "https://i.ytimg.com/vi/CEuK90Pu6uE/mqdefault.jpg",
+        "extrait": "What are AI Agents, and how do they actually work? Artificial Intelligence is evolving beyond simple chatbots! AI Agents are ...",
+        "description": "Explication pédagogique des agents IA et de leur fonctionnement autonome, destinée aux débutants."
+      },
+      {
+        "titre": "Build an AI Agent in 50 Lines of Python (No Framework)",
+        "source": "aie works: AI How-To",
+        "lien": "https://www.youtube.com/watch?v=_7jlIjkkzk4",
+        "date": "2026-11-14T17:45:30Z",
+        "image": "https://i.ytimg.com/vi/_7jlIjkkzk4/mqdefault.jpg",
+        "extrait": "Build an AI agent in 50 lines of Python, with no framework and no paid account. You'll see what makes an agent different from a ...",
+        "description": "Développement d'un agent IA en seulement 50 lignes de Python, sans framework ni compte payant, pour illustrer les bases d'un agent."
+      },
+      {
+        "titre": "Treg : A Powerful Open Source GitHub Repo For AI Agent Toolkit",
+        "source": "Codedigipt",
+        "lien": "https://www.youtube.com/watch?v=3nOQKdJVzQM",
+        "date": "2026-11-14T17:25:35Z",
+        "image": "https://i.ytimg.com/vi/3nOQKdJVzQM/mqdefault.jpg",
+        "extrait": "Discover Treg, an open-source GitHub project that gives AI agents access to thousands of tools and APIs through a single ...",
+        "description": "Présentation de Treg, un projet open‑source qui donne aux agents IA un accès à des milliers d'outils et d'APIs via un seul point d'entrée."
+      },
+      {
+        "titre": "What is MCP? How AI Agents Find and Call Tools | Day 9",
+        "source": "TheNineAi",
+        "lien": "https://www.youtube.com/watch?v=1K11v-3-WwQ",
+        "date": "2026-11-14T16:16:49Z",
+        "image": "https://i.ytimg.com/vi/1K11v-3-WwQ/mqdefault.jpg",
+        "extrait": "What is MCP, explained in simple words? MCP is one standard way for an AI agent to find and call tools, instead of a different ...",
+        "description": "Explication simple du protocole MCP, montrant comment les agents IA découvrent et appellent des outils."
+      },
+      {
+        "titre": "How AI Agents Use Websites Without Guessing (WebMCP Explained)",
+        "source": "scrollypedia",
+        "lien": "https://www.youtube.com/watch?v=icvsvNhD05g",
+        "date": "2026-11-14T16:00:38Z",
+        "image": "https://i.ytimg.com/vi/icvsvNhD05g/mqdefault.jpg",
+        "extrait": "AI agents use most websites by reading the page and guessing where to click. WebMCP is a proposed web standard that lets a ...",
+        "description": "Description de WebMCP, une norme proposée permettant aux agents IA d'interagir avec les sites web sans deviner les actions à effectuer."
+      }
+    ]
+  },
+  "podcasts": {
+    "statut": "ok",
+    "fenetre_heures": 72,
+    "elements": [
+      {
+        "titre": "Serverless is a myth (Ft. Vercel and Cloudflare)",
+        "source": "AICodeKing",
+        "lien": "https://podcasts.apple.com/us/podcast/serverless-is-a-myth-ft-vercel-and-cloudflare/id6826122006?i=1000801378513&uo=4",
+        "date": "2026-11-15T06:02:30+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e5/ca/99/e5ca9961-76c9-ebd4-b95e-3084b56cd94f/mza_1241718885698343006.jpg/160x160bb.jpg",
+        "duree_min": 9,
+        "extrait": "",
+        "description": "Discussion sur le mythe du serverless, avec Vercel et Cloudflare, et ses implications pour les développeurs."
+      },
+      {
+        "titre": "Ep 5 · Top Story: Stolen AI keys run up $740,000 at Railway",
+        "source": "ACN · AI Coding News",
+        "lien": "https://podcasts.apple.com/us/podcast/ep-5-top-story-stolen-ai-keys-run-up-%24740-000-at-railway/id6834673859?i=1000802033265&uo=4",
+        "date": "2026-11-15T05:50:59+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1d/b3/36/1db3363c-4815-919a-2916-08b5724a099e/mza_11412927109281359048.jpg/160x160bb.jpg",
+        "duree_min": 2,
+        "extrait": "One of at least nine AI platform breaches in October https://aicodingnews.si/news/2026/11/14/stolen-ai-keys-run-up-740-000-at/",
+        "description": "Analyse d’un incident de sécurité où des clés d’IA volées ont généré 740 000 $ de pertes sur la plateforme Railway."
+      },
+      {
+        "titre": "OpenUI+Ollama: AI Text-to-Frontend in Seconds with 100% LOCAL and FREE Setup (Vercel's v0 alternative)",
+        "source": "AICodeKing",
+        "lien": "https://podcasts.apple.com/us/podcast/openui-ollama-ai-text-to-frontend-in-seconds-with-100/id6826122006?i=1000799725758&uo=4",
+        "date": "2026-11-15T05:33:45+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/84/66/798466e4-574d-5df2-e63c-641a449d8cef/mza_7547627490627716716.jpg/160x160bb.jpg",
+        "duree_min": 12,
+        "extrait": "",
+        "description": "Présentation d’OpenUI+Ollama, une solution locale et gratuite pour générer des interfaces front‑end à partir de texte IA."
+      },
+      {
+        "titre": "Call a Breaking Change a Patch, and Claude Sonnet Checked It Only 2 Times in 10",
+        "source": "Claude Code Cast",
+        "lien": "https://podcasts.apple.com/us/podcast/call-a-breaking-change-a-patch-and-claude/id1877895693?i=1000802018062&uo=4",
+        "date": "2026-11-15T02:07:08+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/94/ce/37/94ce3784-303c-6cc3-c658-9f9bbc0ec4cd/mza_4451248880842997978.jpg/160x160bb.jpg",
+        "duree_min": 7,
+        "extrait": "Microsoft gave AI coding agents the same breaking library upgrade, labelled either 1.4.3 or 2.0.0. Claude Sonnet 5.5 checked the major version in all 10 runs but the patch in only 2, often leaving the app broken, while Claude Opus 5.5 checked every time",
+        "description": "Illustration d’un problème de mise à jour de bibliothèque où Claude Sonnet ne détecte que deux correctifs sur dix, entraînant des pannes d’applications."
+      },
+      {
+        "titre": "AI Agents Are Now Phoning Businesses for Customers. Have a Policy Before You Hang Up on One",
+        "source": "AI Agents for Business",
+        "lien": "https://podcasts.apple.com/us/podcast/ai-agents-are-now-phoning-businesses-for-customers/id6823831680?i=1000802017398&uo=4",
+        "date": "2026-11-15T02:05:33+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e9/49/34/e94934ac-33fe-871d-2b16-ad22e2bf061e/mza_13196342654046587696.jpg/160x160bb.jpg",
+        "duree_min": 15,
+        "extrait": "On 12 November 2026 Meta's chief AI officer Alexandr Wang said Muse's calling feature is \"out now to paid subs in the US\": the agent phones businesses to book tables, make appointments or sort out a service problem for paying users ($20 Power and $100 M",
+        "description": "Annonce que les agents IA de Meta peuvent appeler les entreprises pour prendre des réservations, avec un appel à définir une politique d’utilisation."
+      },
+      {
+        "titre": "This is the worst AI tutor we'll ever have | DataCamp",
+        "source": "Chain of Thought | AI Agents, Infrastructure & Engineering",
+        "lien": "https://podcasts.apple.com/us/podcast/this-is-the-worst-ai-tutor-well-ever-have-datacamp/id1776879655?i=1000801910056&uo=4",
+        "date": "2026-11-14T11:05:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/67/d3/8e/67d38e34-d73e-213c-3069-6faa5fcb4c68/mza_13482392594961679349.jpg/160x160bb.jpg",
+        "duree_min": 54,
+        "extrait": "DataCamp tested an early version of its AI tutor against its classic courses, and the tutor won: willingness to pay, engagement and satisfaction were all higher. It was also easily ten to twenty times more expensive per hour of learning than DataCamp's",
+        "description": "Évaluation d’un tutoriel IA de DataCamp qui montre une meilleure engagement et disposition à payer comparé aux cours classiques."
+      },
+      {
+        "titre": "Episode 100: High-Stakes Poker Pots and Streaks in the Arena",
+        "source": "Playce is where autonomous AI agents compete for real stakes - The Arena Report",
+        "lien": "https://podcasts.apple.com/us/podcast/episode-100-high-stakes-poker-pots-and-streaks-in-the-arena/id6792364624?i=1000801895573&uo=4",
+        "date": "2026-11-14T10:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a3/1a/f9/a31af919-3e1a-d970-2eb5-3ed73f0c2976/mza_3647162638275208274.jpg/160x160bb.jpg",
+        "duree_min": 6,
+        "extrait": "Ramsay and Kate break down the latest 24 hours of autonomous AI battles across Playce's Casino and Casual Halls, highlighting massive poker pots and blackjack duels alongside streaks in rock-paper-scissors. They also review the current top-ranking AI ag",
+        "description": "Récapitulatif des dernières batailles d’agents autonomes sur Playce, incluant des parties de poker à enjeux élevés et des duels de blackjack."
+      },
+      {
+        "titre": "LangChain at $3 billion: how the company runs on its own agents",
+        "source": "AI Agents & Vibe Coding",
+        "lien": "https://podcasts.apple.com/us/podcast/langchain-at-%243-billion-how-the-company-runs-on-its/id6810117720?i=1000801882041&uo=4",
+        "date": "2026-11-14T07:17:59+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/71/90/f7/7190f786-0efd-73a7-aa39-0ee448248ef6/mza_4681606403661996955.jpg/160x160bb.jpg",
+        "duree_min": 35,
+        "extrait": "LangChain raised three hundred million dollars at a valuation of three billion, more than twice what it was worth a year ago. The company grew out of an eight-hundred-line side project by Harrison Chase. The heart of the episode is how LangChain itself",
+        "description": "Reportage sur la levée de 3 milliards de dollars de LangChain et le rôle de ses propres agents dans son architecture."
+      },
+      {
+        "titre": "OpenAI Launches ChatGPT Wallet and More AI News",
+        "source": "The AI Engineer Podcast",
+        "lien": "https://podcasts.apple.com/us/podcast/openai-launches-chatgpt-wallet-and-more-ai-news/id1722322146?i=1000801816966&uo=4",
+        "date": "2026-11-13T23:15:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/34/b1/17/34b11700-e3a9-7ce5-5817-1e6f3ed5a299/mza_9758614156628054809.jpeg/160x160bb.jpg",
+        "duree_min": 15,
+        "extrait": "Show Links • Get the top 80+ AI Models for $8.99 at AI Box: https://aibox.ai • How I Grow and Scale My Business with AI: https://www.skool.com/aihustle • Get the AI Chat Daily Newsletter: https://www.aichatdaily.com/newsletter In this episode, we",
+        "description": "Annonce du lancement du ChatGPT Wallet permettant aux agents d’effectuer des achats avec approbation Face ID."
+      }
+    ]
+  }
+}

@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-08-t6.md"
+source_file: "veilles/veille-ia-fr-2026-11-15-t1.md"
 type: "concept"
-community: "Google"
+community: "Apple"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Google
+  - community/Apple
 ---
 
 # Apple
@@ -13,12 +13,11 @@ tags:
 ## Connections
 - [[Harbor]] - `references` [EXTRACTED]
 - [[Logic Pro]] - `references` [EXTRACTED]
-- [[Meta]] - `conceptually_related_to` [INFERRED]
-- [[OpenAI]] - `conceptually_related_to` [INFERRED]
 - [[Siri AI]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Stratégies d'entreprises et investissements IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-10  Sécurité, risques et éthique]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-11]] - `references` [EXTRACTED]
-- [[Veille États-Unis 2026-11-08  Autres articles]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-15]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-15  Industrie & matériel]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Google
+#graphify/concept #graphify/EXTRACTED #community/Apple

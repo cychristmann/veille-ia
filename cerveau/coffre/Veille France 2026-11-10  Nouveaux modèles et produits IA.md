@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-10-t4.md"
 type: "document"
-community: "gouvernance et politiques IA"
+community: "Claude Code"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/gouvernance_et_politiques_IA
+  - community/Claude_Code
 ---
 
 # Veille France 2026-11-10 : Nouveaux modèles et produits IA
@@ -14,4 +14,4 @@ tags:
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Notion]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/gouvernance_et_politiques_IA
+#graphify/document #graphify/EXTRACTED #community/Claude_Code

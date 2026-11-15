@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-12-t5.md"
 type: "concept"
-community: "Nubia"
+community: "Arm"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Nubia
+  - community/Arm
 ---
 
 # Nubia
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-12  Produits grand public et IA générative]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Nubia
+#graphify/concept #graphify/EXTRACTED #community/Arm

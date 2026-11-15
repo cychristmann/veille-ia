@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille États-Unis 2026-11-14  Impact Social, Éthique et Travail]] - document - veilles/veille-ia-us-2026-11-14-t4.md
+- [[DeepSeek V4.1 Pro]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t2.md"
 type: "document"
-community: "Veille France 2026-11-09 : Finance, Bourse et IA"
+community: "Wuhan University of Science and Technology"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-09__Finance_Bourse_et_IA
+  - community/Wuhan_University_of_Science_and_Technology
 ---
 
 # Veille France 2026-11-09 : Finance, Bourse et IA
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-09__Finance_Bourse_et_IA
+#graphify/document #graphify/EXTRACTED #community/Wuhan_University_of_Science_and_Technology

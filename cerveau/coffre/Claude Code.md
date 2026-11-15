@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-12-t1.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-12"
+community: "Claude Code"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-12
+  - community/Claude_Code
 ---
 
 # Claude Code
@@ -24,5 +24,8 @@ tags:
 - [[Veille Outils & code 2026-11-13 (T5)]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-14]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-14  Autres articles]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-15]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-15 (T5)]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-15  Sécurité des outils IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12
+#graphify/concept #graphify/EXTRACTED #community/Claude_Code

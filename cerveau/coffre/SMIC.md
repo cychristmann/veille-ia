@@ -1,18 +1,20 @@
 ---
-source_file: "dossiers/2026-11-13-2.md"
+source_file: "veilles/veille-ia-fr-2026-11-15-t1.md"
 type: "concept"
-community: "Nvidia"
+community: "Google"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Nvidia
+  - community/Google
 ---
 
 # SMIC
 
 ## Connections
-- [[Feuilleton SMIC prévoit une pénurie de calcul IA]] - `references` [EXTRACTED]
-- [[Nvidia]] - `conceptually_related_to` [EXTRACTED]
+- [[Feuilleton SMIC anticipe une pénurie de capacité IA]] - `references` [EXTRACTED]
+- [[Nvidia]] - `conceptually_related_to` [INFERRED]
 - [[US Restrictions on AI Chips]] - `conceptually_related_to` [EXTRACTED]
+- [[Veille Chine 2026-11-13]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-15  Industrie & matériel]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Nvidia
+#graphify/concept #graphify/EXTRACTED #community/Google

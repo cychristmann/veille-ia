@@ -1,31 +1,24 @@
 ---
 type: community
-members: 18
+members: 11
 ---
 
 # CoreWeave
 
-**Members:** 18 nodes
+**Members:** 11 nodes
 
 ## Members
-- [[Aoshikang]] - concept - veilles/veille-ia-cn-2026-11-11-t1.md
-- [[Barclays Research]] - concept - dossiers/2026-11-13-2.md
-- [[Chinese Robotics Industry]] - concept - dossiers/2026-11-13-2.md
-- [[CoreWeave]] - concept - veilles/veille-ia-fr-2026-11-11-t1.md
-- [[Guangdong Province]] - concept - veilles/veille-ia-cn-2026-11-11-t1.md
-- [[Intel]] - concept - dossiers/2026-11-13-1.md
-- [[Marvell]] - concept - veilles/veille-ia-us-2026-11-11-t1.md
-- [[Micron]] - concept - veilles/veille-ia-us-2026-11-11-t1.md
-- [[Morgan Stanley]] - concept - veilles/veille-ia-fr-2026-11-12-t1.md
-- [[Nanling Technology]] - concept - veilles/veille-ia-cn-2026-11-11-t1.md
-- [[Naver]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Sandisk]] - concept - veilles/veille-ia-us-2026-11-11-t1.md
-- [[Seagate]] - concept - veilles/veille-ia-us-2026-11-11-t1.md
-- [[Shanghai Film]] - concept - veilles/veille-ia-cn-2026-11-11-t1.md
-- [[UBS]] - concept - veilles/veille-ia-fr-2026-11-12-t1.md
-- [[Veille Chine 2026-11-11  Marchés et investissements]] - document - veilles/veille-ia-cn-2026-11-11-t1.md
-- [[Veille France 2026-11-12  Marchés financiers et investissements IA]] - document - veilles/veille-ia-fr-2026-11-12-t1.md
-- [[Veille États-Unis 2026-11-11  Financement et Bourse de l'IA]] - document - veilles/veille-ia-us-2026-11-11-t1.md
+- [[Après l’euphorie, la course à l’IA se heurte déjà aux limites de son modèle économique]] - document - dossiers/2026-11-15-2.md
+- [[Boom de l'intelligence artificielle]] - concept - dossiers/2026-11-15-2.md
+- [[Data-centers]] - concept - dossiers/2026-11-15-2.md
+- [[Dossier  Effondrement du boom IA et crise des data-centers]] - document - dossiers/2026-11-15-2.md
+- [[Empreinte environnementale]] - concept - dossiers/2026-11-15-2.md
+- [[Géants technologiques (Alphabet, Amazon, Microsoft, Meta)]] - concept - dossiers/2026-11-15-2.md
+- [[Investissements dans l’IA  jusqu’où ira l’euphorie mondiale avant le coup de frein]] - document - dossiers/2026-11-15-2.md
+- [[L’empreinte environnementale de l’IA pourrait être multipliée par 7 d’ici 2030]] - document - dossiers/2026-11-15-2.md
+- [[OPINION. « L'énergie pour les data centers de l'IA, atout stratégique ou mirage  »]] - document - dossiers/2026-11-15-2.md
+- [[Risque macroéconomique]] - concept - dossiers/2026-11-15-2.md
+- [[Un coup d'arrêt de l'IA aurait des répercussions bien au-delà des Etats-Unis]] - document - dossiers/2026-11-15-2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -33,16 +26,3 @@ members: 18
 TABLE source_file, type FROM #community/CoreWeave
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 2 edges to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_modèles IA et éthique]]
-- 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_Google]]
-
-## Top bridge nodes
-- [[CoreWeave]] - degree 10, connects to 2 communities
-- [[Veille France 2026-11-12  Marchés financiers et investissements IA]] - degree 6, connects to 2 communities
-- [[Veille Chine 2026-11-11  Marchés et investissements]] - degree 6, connects to 1 community
-- [[Naver]] - degree 2, connects to 1 community

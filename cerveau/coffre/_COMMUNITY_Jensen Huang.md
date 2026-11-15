@@ -1,0 +1,45 @@
+---
+type: community
+members: 11
+---
+
+# Jensen Huang
+
+**Members:** 11 nodes
+
+## Members
+- [[Alice Huang]] - concept - dossiers/2026-11-12-1.md
+- [[Gaspard de Monclin]] - concept - veilles/veille-ia-fr-2026-11-13-t4.md
+- [[Giuliano da Empoli]] - concept - veilles/veille-ia-fr-2026-11-13-t4.md
+- [[Guillaume Coqueret]] - concept - veilles/veille-ia-fr-2026-11-13-t4.md
+- [[Jensen Huang]] - concept - veilles/veille-ia-fr-2026-11-09-t5.md
+- [[Pékin]] - concept - dossiers/2026-11-12-1.md
+- [[Veille Chine 2026-11-12  Marché financier et investissements IA]] - document - veilles/veille-ia-cn-2026-11-12-t7.md
+- [[Veille France 2026-11-08]] - document - veilles/veille-ia-fr-2026-11-08-t5.md
+- [[Veille France 2026-11-13  Impact sociétal & Débats publics]] - document - veilles/veille-ia-fr-2026-11-13-t4.md
+- [[Veille France 2026-11-15  Recherche, outils et modèles IA]] - document - veilles/veille-ia-fr-2026-11-15-t4.md
+- [[Vincent Courboulay]] - concept - veilles/veille-ia-fr-2026-11-15-t4.md
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Jensen_Huang
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 7 edges to [[_COMMUNITY_Google]]
+- 2 edges to [[_COMMUNITY_OpenAI]]
+- 2 edges to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_profil individuel]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-13]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-12  Sécurité et gouvernance]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-15]]
+
+## Top bridge nodes
+- [[Jensen Huang]] - degree 16, connects to 7 communities
+- [[Veille France 2026-11-15  Recherche, outils et modèles IA]] - degree 6, connects to 4 communities
+- [[Veille France 2026-11-13  Impact sociétal & Débats publics]] - degree 5, connects to 1 community
+- [[Veille Chine 2026-11-12  Marché financier et investissements IA]] - degree 2, connects to 1 community

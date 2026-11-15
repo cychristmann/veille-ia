@@ -1,27 +1,25 @@
 ---
 type: community
-members: 14
+members: 12
 ---
 
 # Baidu et IA incarnée
 
-**Members:** 14 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[ANSSI]] - concept - dossiers/2026-11-14-1.md
-- [[Agence ministérielle pour l’intelligence artificielle de défense (AMIAD)]] - concept - dossiers/2026-11-14-1.md
-- [[Banque de France]] - concept - dossiers/2026-11-14-1.md
-- [[CERT-FR]] - concept - dossiers/2026-11-14-1.md
-- [[ENSTA]] - concept - dossiers/2026-11-14-1.md
-- [[International Center for AI in Defence (ICAID)]] - concept - dossiers/2026-11-14-1.md
-- [[Laboratoire dédié (LARIAD)]] - concept - dossiers/2026-11-14-1.md
-- [[Ministère des Armées]] - concept - dossiers/2026-11-14-1.md
-- [[Mistral AI]] - concept - veilles/veille-ia-fr-2026-11-11-t5.md
-- [[Veille France 2026-11-10  Sécurité, risques et éthique]] - document - veilles/veille-ia-fr-2026-11-10-t5.md
-- [[Veille France 2026-11-11  Autres articles]] - document - veilles/veille-ia-fr-2026-11-11-t5.md
-- [[boursorama.com]] - concept - dossiers/2026-11-14-1.md
-- [[lefigaro.fr]] - concept - dossiers/2026-11-14-1.md
-- [[lemagit.fr]] - concept - dossiers/2026-11-14-1.md
+- [[AI Hallucination Challenges]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[Baidu AI Models]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[Cisco AI Revenue Performance]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[DAI 2026“物理世界AI前沿安全”研讨会]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[Veille Chine 2026-11-13  Régulation, compétition et marché]] - document - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[Veille Chine 2026-11-14  Stratégie, gouvernance et recherche IA]] - document - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[上海市科学数据管理办法]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[吴清：深化人工智能与资本市场双向赋能研究]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[李彦宏：人工智能的下一幕是智能组织]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[第七届中国人工智能大赛]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[腾讯闭门会比喻被误读为裁员50%]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[让人工智能技术潜力更好转化为生产率增长]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,12 +27,3 @@ members: 14
 TABLE source_file, type FROM #community/Baidu_et_IA_incarnée
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_stratégie et technologie IA]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Nvidia]]
-
-## Top bridge nodes
-- [[Veille France 2026-11-10  Sécurité, risques et éthique]] - degree 3, connects to 2 communities
-- [[Veille France 2026-11-11  Autres articles]] - degree 2, connects to 1 community

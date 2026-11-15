@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-14-t2.md"
 type: "document"
-community: "infrastructure des centres données"
+community: "recherche académique en IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/infrastructure_des_centres_données
+  - community/recherche_académique_en_IA
 ---
 
 # Veille Chine 2026-11-14 : IA industrielle et infrastructure
@@ -15,4 +15,4 @@ tags:
 - [[浙江算力规模超198EFLOPS]] - `references` [EXTRACTED]
 - [[百度智能云战略合作]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/infrastructure_des_centres_données
+#graphify/document #graphify/EXTRACTED #community/recherche_académique_en_IA

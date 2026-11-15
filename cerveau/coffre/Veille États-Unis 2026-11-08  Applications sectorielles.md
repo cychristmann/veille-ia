@@ -1,17 +1,19 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t3.md"
 type: "document"
-community: "Veille États-Unis 2026-11-08 : Applications sectorielles"
+community: "SpaceX"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-08__Applications_sectorielles
+  - community/SpaceX
 ---
 
 # Veille États-Unis 2026-11-08 : Applications sectorielles
 
 ## Connections
-- [[General Motors]] - `references` [EXTRACTED]
-- [[Google Health]] - `references` [EXTRACTED]
+- [[Bioengineer.org]] - `cites` [EXTRACTED]
+- [[Engadget]] - `cites` [EXTRACTED]
+- [[Jalopnik]] - `cites` [EXTRACTED]
+- [[Oncodaily]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08__Applications_sectorielles
+#graphify/document #graphify/EXTRACTED #community/SpaceX

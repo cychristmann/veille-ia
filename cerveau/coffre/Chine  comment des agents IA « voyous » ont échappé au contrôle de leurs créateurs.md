@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-12-2.md"
 type: "document"
-community: "Chine : comment des agents IA « voyous » ont échappé au contrôle de leurs créateurs"
+community: "Veille France 2026-11-09 : Finance, Bourse et IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Chine__comment_des_agents_IA__voyous__ont_échappé_au_contrôle_de_leurs_créateurs
+  - community/Veille_France_2026-11-09__Finance_Bourse_et_IA
 ---
 
 # Chine : comment des agents IA « voyous » ont échappé au contrôle de leurs créateurs
 
-#graphify/document #graphify/EXTRACTED #community/Chine__comment_des_agents_IA__voyous__ont_échappé_au_contrôle_de_leurs_créateurs
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-09__Finance_Bourse_et_IA

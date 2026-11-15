@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-09-t3.md"
-type: "code"
-community: "Appel de Paris"
+source_file: "dossiers/2026-11-14-3.md"
+type: "concept"
+community: "OpenAI"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/Appel_de_Paris
+  - community/OpenAI
 ---
 
 # Dario Amodei
@@ -14,4 +14,4 @@ tags:
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Appel de Paris]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Appel_de_Paris
+#graphify/concept #graphify/EXTRACTED #community/OpenAI

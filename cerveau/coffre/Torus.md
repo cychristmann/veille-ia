@@ -1,16 +1,13 @@
 ---
 source_file: "feuilletons/f-0012.md"
 type: "concept"
-community: "Feuilleton : Torus lève 500 M$ pour un produit IA de data‑centre"
+community: "Veille États-Unis 2026-11-10 : Régulation, sécurité et éthique"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Feuilleton__Torus_lève_500_M_pour_un_produit_IA_de_datacentre
+  - community/Veille_États-Unis_2026-11-10__Régulation_sécurité_et_éthique
 ---
 
 # Torus
 
-## Connections
-- [[Feuilleton  Torus lève 500 M$ pour un produit IA de data‑centre]] - `references` [EXTRACTED]
-
-#graphify/concept #graphify/EXTRACTED #community/Feuilleton__Torus_lève_500_M_pour_un_produit_IA_de_datacentre
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-10__Régulation_sécurité_et_éthique

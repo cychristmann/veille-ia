@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t4.md"
 type: "concept"
-community: "stratégie et technologie IA"
+community: "OpenAI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/stratégie_et_technologie_IA
+  - community/OpenAI
 ---
 
 # Hugging Face
@@ -15,4 +15,4 @@ tags:
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/stratégie_et_technologie_IA
+#graphify/concept #graphify/EXTRACTED #community/OpenAI

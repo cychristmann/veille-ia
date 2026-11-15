@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t2.md"
 type: "code"
-community: "écosystème Anthropic"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/écosystème_Anthropic
+  - community/Gemini_4_Hydrogen
 ---
 
 # ChatGPT Enterprise
@@ -15,4 +15,4 @@ tags:
 - [[Amazon Bedrock]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/écosystème_Anthropic
+#graphify/code #graphify/EXTRACTED #community/Gemini_4_Hydrogen

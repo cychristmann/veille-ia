@@ -23,7 +23,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Google]]
 
 ## Top bridge nodes
 - [[Dossier Course à l'IA entre États‑Unis et Chine]] - degree 6, connects to 1 community

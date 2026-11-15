@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t1.md"
 type: "document"
-community: "sécurité et éthique IA"
+community: "Veille Outils & code 2026-11-12 : Sécurité et gouvernance"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/sécurité_et_éthique_IA
+  - community/Veille_Outils__code_2026-11-12__Sécurité_et_gouvernance
 ---
 
 # Veille France 2026-11-13
@@ -23,4 +23,4 @@ tags:
 - [[SpaceX]] - `references` [EXTRACTED]
 - [[xFusion]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/sécurité_et_éthique_IA
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12__Sécurité_et_gouvernance

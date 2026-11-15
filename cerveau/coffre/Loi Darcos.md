@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-10-t1.md"
 type: "concept"
-community: "Appel de Paris"
+community: "OpenAI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Appel_de_Paris
+  - community/OpenAI
 ---
 
 # Loi Darcos
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-10  Régulation et gouvernance]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Appel_de_Paris
+#graphify/concept #graphify/EXTRACTED #community/OpenAI

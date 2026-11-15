@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t3.md"
 type: "concept"
-community: "gouvernance et politiques IA"
+community: "Veille Outils & code 2026-11-12"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/gouvernance_et_politiques_IA
+  - community/Veille_Outils__code_2026-11-12
 ---
 
 # Rafael
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-11  Applications sectorielles de l'IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/gouvernance_et_politiques_IA
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12

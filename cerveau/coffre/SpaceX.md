@@ -20,6 +20,7 @@ tags:
 - [[Star Compute]] - `references` [EXTRACTED]
 - [[Starmind Project]] - `references` [EXTRACTED]
 - [[Starship]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-15  IA industrielle et technologique]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-12  Marchés financiers et investissements IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-13]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]

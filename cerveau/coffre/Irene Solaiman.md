@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-10-t2.md"
 type: "concept"
-community: "stratégie et technologie IA"
+community: "OpenAI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/stratégie_et_technologie_IA
+  - community/OpenAI
 ---
 
 # Irene Solaiman
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Hugging Face]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/stratégie_et_technologie_IA
+#graphify/concept #graphify/EXTRACTED #community/OpenAI

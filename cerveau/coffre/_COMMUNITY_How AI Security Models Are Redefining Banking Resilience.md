@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # How AI Security Models Are Redefining Banking Resilience
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[How AI Security Models Are Redefining Banking Resilience]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Brave]] - concept - veilles/veille-ia-us-2026-11-09-t6.md
+- [[NEAR AI]] - concept - veilles/veille-ia-us-2026-11-09-t6.md
 
 ## Live Query (requires Dataview plugin)
 

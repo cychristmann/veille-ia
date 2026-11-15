@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
-type: "code"
-community: "Microsoft"
+source_file: "veilles/veille-ia-fr-2026-11-14-t3.md"
+type: "concept"
+community: "Anthropic"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/Microsoft
+  - community/Anthropic
 ---
 
 # Claude
@@ -19,4 +19,4 @@ tags:
 - [[Veille France 2026-11-08  Applications concrètes et innovations IA]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-14]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Microsoft
+#graphify/concept #graphify/EXTRACTED #community/Anthropic

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-14-t3.md"
 type: "document"
-community: "écosystème Anthropic"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/écosystème_Anthropic
+  - community/Gemini_4_Hydrogen
 ---
 
 # Veille Outils & code 2026-11-14 : Plateformes et infrastructures IA
@@ -18,4 +18,4 @@ tags:
 - [[GitHub Copilot]] - `references` [EXTRACTED]
 - [[TPU Sync]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/écosystème_Anthropic
+#graphify/document #graphify/EXTRACTED #community/Gemini_4_Hydrogen

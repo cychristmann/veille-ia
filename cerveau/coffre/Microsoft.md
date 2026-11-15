@@ -21,5 +21,6 @@ tags:
 - [[Veille États-Unis 2026-11-10  Agents IA et plateformes]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-14  Incident FAA et Intelligence Artificielle]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-15  Autres articles]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Microsoft

@@ -1,17 +1,16 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-14-t5.md"
 type: "document"
-community: "Appel de Paris"
+community: "IA dans l'enseignement supérieur"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Appel_de_Paris
+  - community/IA_dans_lenseignement_supérieur
 ---
 
 # Veille France 2026-11-14 : Autres articles
 
 ## Connections
-- [[Impact de l'IA sur le système financier]] - `conceptually_related_to` [EXTRACTED]
-- [[Réserve fédérale (Fed)]] - `references` [EXTRACTED]
+- [[IA et système financier]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Appel_de_Paris
+#graphify/document #graphify/EXTRACTED #community/IA_dans_lenseignement_supérieur

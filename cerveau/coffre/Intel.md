@@ -1,11 +1,11 @@
 ---
-source_file: "dossiers/2026-11-13-1.md"
+source_file: "veilles/veille-ia-us-2026-11-11-t1.md"
 type: "concept"
-community: "CoreWeave"
+community: "Veille France 2026-11-12"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/CoreWeave
+  - community/Veille_France_2026-11-12
 ---
 
 # Intel
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[CoreWeave]] - `shares_data_with` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/CoreWeave
+#graphify/concept #graphify/INFERRED #community/Veille_France_2026-11-12

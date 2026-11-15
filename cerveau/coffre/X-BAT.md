@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0020.md"
-type: "concept"
-community: "gouvernance et politiques IA"
+type: "code"
+community: "Claude Code"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
-  - community/gouvernance_et_politiques_IA
+  - community/Claude_Code
 ---
 
 # X-BAT
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Shield AI]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/gouvernance_et_politiques_IA
+#graphify/code #graphify/EXTRACTED #community/Claude_Code

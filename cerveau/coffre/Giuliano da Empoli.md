@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t4.md"
 type: "concept"
-community: "OpenAI"
+community: "Jensen Huang"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/OpenAI
+  - community/Jensen_Huang
 ---
 
 # Giuliano da Empoli
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-13  Impact sociétal & Débats publics]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/OpenAI
+#graphify/concept #graphify/EXTRACTED #community/Jensen_Huang

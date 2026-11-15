@@ -11,6 +11,7 @@ tags:
 # Guoxing Aerospace
 
 ## Connections
+- [[Star Compute]] - `references` [EXTRACTED]
 - [[Star-Compute Project]] - `conceptually_related_to` [EXTRACTED]
 - [[Veille Chine 2026-11-13]] - `references` [EXTRACTED]
 

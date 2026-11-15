@@ -1,20 +1,19 @@
 ---
 type: community
-members: 9
+members: 8
 ---
 
 # SpaceX
 
-**Members:** 9 nodes
+**Members:** 8 nodes
 
 ## Members
 - [[AI computing campuses]] - code - veilles/veille-ia-us-2026-11-13-t1.md
-- [[China]] - concept - dossiers/2026-11-13-1.md
-- [[Elon Musk]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
+- [[China]] - concept - feuilletons/f-0001.md
+- [[Feuilleton Crise de direction chez Nvidia]] - document - feuilletons/f-0001.md
 - [[Orbital AI Infrastructure]] - concept - dossiers/2026-11-13-3.md
 - [[Projet Kessel]] - concept - veilles/veille-ia-fr-2026-11-12-t1.md
 - [[SpaceX]] - code - veilles/veille-ia-us-2026-11-13-t1.md
-- [[Star Compute]] - concept - feuilletons/f-0015.md
 - [[Starmind Project]] - concept - veilles/veille-ia-fr-2026-11-13-t1.md
 - [[Starship]] - concept - dossiers/2026-11-13-3.md
 
@@ -26,16 +25,19 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_CoreWeave]]
+- 6 edges to [[_COMMUNITY_Google]]
+- 2 edges to [[_COMMUNITY_Google_1]]
 - 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
-- 1 edge to [[_COMMUNITY_sécurité et éthique IA]]
+- 1 edge to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_IA grand public chinoise]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-13]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-12]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-12  Sécurité et gouvernance]]
+- 1 edge to [[_COMMUNITY_Jensen Huang]]
 
 ## Top bridge nodes
-- [[SpaceX]] - degree 12, connects to 5 communities
+- [[SpaceX]] - degree 13, connects to 8 communities
+- [[Feuilleton Crise de direction chez Nvidia]] - degree 3, connects to 2 communities
+- [[China]] - degree 4, connects to 1 community
 - [[Orbital AI Infrastructure]] - degree 3, connects to 1 community
 - [[Projet Kessel]] - degree 2, connects to 1 community
-- [[China]] - degree 2, connects to 1 community
-- [[Starmind Project]] - degree 2, connects to 1 community

@@ -1,18 +1,16 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-12-t3.md"
-type: "code"
-community: "gouvernance et politiques IA"
+source_file: "veilles/veille-ia-us-2026-11-11-t3.md"
+type: "concept"
+community: "Veille Outils & code 2026-11-12"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/gouvernance_et_politiques_IA
+  - community/Veille_Outils__code_2026-11-12
 ---
 
 # Helsing
 
 ## Connections
-- [[Palantir]] - `references` [INFERRED]
 - [[Veille États-Unis 2026-11-11  Applications sectorielles de l'IA]] - `references` [EXTRACTED]
-- [[Veille États-Unis 2026-11-12 T3]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/gouvernance_et_politiques_IA
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12

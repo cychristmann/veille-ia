@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-14-t1.md"
 type: "concept"
-community: "infrastructure technologique chinoise"
+community: "Veille France 2026-11-14 : Société, éducation et culture"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/infrastructure_technologique_chinoise
+  - community/Veille_France_2026-11-14__Société_éducation_et_culture
 ---
 
 # Gods Don't Give Gifts (Film)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-14  Société, éducation et culture]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/infrastructure_technologique_chinoise
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-14__Société_éducation_et_culture

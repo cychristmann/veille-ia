@@ -1,13 +1,16 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t7.md"
 type: "concept"
-community: "How AI Security Models Are Redefining Banking Resilience"
+community: "modèles IA et éthique"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/How_AI_Security_Models_Are_Redefining_Banking_Resilience
+  - community/modèles_IA_et_éthique
 ---
 
 # How AI Security Models Are Redefining Banking Resilience
 
-#graphify/concept #graphify/EXTRACTED #community/How_AI_Security_Models_Are_Redefining_Banking_Resilience
+## Connections
+- [[Veille États-Unis 2026-11-12]] - `cites` [EXTRACTED]
+
+#graphify/concept #graphify/EXTRACTED #community/modèles_IA_et_éthique

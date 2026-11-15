@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t2.md"
 type: "concept"
-community: "écosystème Anthropic"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/écosystème_Anthropic
+  - community/Gemini_4_Hydrogen
 ---
 
 # Claude Sonnet 5.5
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Gemini 4 Hydrogen]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/écosystème_Anthropic
+#graphify/concept #graphify/EXTRACTED #community/Gemini_4_Hydrogen

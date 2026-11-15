@@ -1,16 +1,18 @@
 ---
 type: community
-members: 3
+members: 5
 ---
 
 # recherche académique en IA
 
-**Members:** 3 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Opus 5.5]] - concept - veilles/veille-ia-cn-2026-11-11-t2.md
-- [[Shengquan Group]] - concept - veilles/veille-ia-cn-2026-11-11-t2.md
-- [[Veille Chine 2026-11-11  Technologie et infrastructure]] - document - veilles/veille-ia-cn-2026-11-11-t2.md
+- [[Veille Chine 2026-11-14  IA industrielle et infrastructure]] - document - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[天神之眼系统]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[比亚迪辅助驾驶车型保有量超 419 万辆]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[浙江算力规模超198EFLOPS]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[百度智能云战略合作]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
 
 ## Live Query (requires Dataview plugin)
 

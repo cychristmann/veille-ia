@@ -1,16 +1,16 @@
 ---
 source_file: "dossiers/2026-11-14-1.md"
 type: "concept"
-community: "Baidu et IA incarnée"
+community: "Veille France 2026-11-15"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/Baidu_et_IA_incarnée
+  - community/Veille_France_2026-11-15
 ---
 
 # CERT-FR
 
 ## Connections
-- [[International Center for AI in Defence (ICAID)]] - `references` [INFERRED]
+- [[ICAID]] - `references` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/Baidu_et_IA_incarnée
+#graphify/concept #graphify/INFERRED #community/Veille_France_2026-11-15

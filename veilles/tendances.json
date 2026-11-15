@@ -1,22 +1,22 @@
 {
-  "genere_a": "2026-11-14T07:21+01:00",
+  "genere_a": "2026-11-15T07:27+01:00",
   "periode": {
-    "du": "2026-11-08",
-    "au": "2026-11-14",
+    "du": "2026-11-09",
+    "au": "2026-11-15",
     "jours": 7
   },
-  "precedente_jours": 0,
+  "precedente_jours": 1,
   "regions": [
     "cn",
     "dev",
     "fr",
     "us"
   ],
-  "synthese": "La semaine a été marquée par une crise majeure chez Nvidia, dont le PDG a démissionné suite à un scandale de mœurs, entraînant une onde de choc sur les marchés financiers et exacerbant les tensions géopolitiques avec la Chine. Parallèlement, le secteur a connu une activité frénétique avec le lancement des nouveaux modèles Claude d'Anthropic, qui affiche des ambitions de valorisation record malgré les craintes de bulle spéculative. Les autorités et banques centrales alertent désormais sur les risques systémiques de l'IA pour la stabilité financière. Sur le plan technique, les agents autonomes deviennent une réalité concrète, avec des déploiements dans le paiement, la gestion du trafic aérien et le codage, bien que leur fiabilité pose des problèmes de sécurité croissants. Enfin, les enjeux environnementaux et les besoins en infrastructures massives restent au cœur des préoccupations industrielles jusqu'en 2028.",
+  "synthese": "La semaine a été marquée par une activité intense autour des introductions en bourse et des valorisations records, notamment pour Anthropic qui vise des montants très élevés malgré les craintes d'une bulle. Le secteur a également subi un choc majeur suite à la démission soudaine du dirigeant de Nvidia, Jensen Huang, provoquant des turbulences financières et des remises en question sur les marchés mondiaux. Parallèlement, les lancements de nouveaux modèles et agents autonomes se multiplient, à l'instar des modèles Fable 5.2 et Mythos 5.2 d'Anthropic ou des outils de codage et de paiement d'OpenAI. Sur le plan institutionnel et réglementaire, les gouvernements renforcent les discussions sur la sécurité, la protection des enfants et les risques systémiques financiers liés au boom de l'IA. Enfin, l'infrastructure matérielle et les data centers font face à des tensions persistantes sur les puces et des besoins énergétiques croissants.",
   "montants": [
     {
-      "nom": "Crise Nvidia",
-      "explication": "Le départ du PDG Jensen Huang, lié à une affaire d'espionnage et de vie privée, déstabilise l'entreprise leader du secteur. Cet événement fait chuter les actions et alimente les inquiétudes sur la disponibilité future des puces.",
+      "nom": "Crise de direction et turbulences chez Nvidia",
+      "explication": "Le départ soudain du PDG Jensen Huang, sur fond de révélations et de tensions sur les puces, a fait vaciller le secteur de l'intelligence artificielle et provoqué la chute des actions liées à l'IA. Cet événement relance les débats sur la fragilité du marché et les restrictions d'exportation vers la Chine.",
       "regions": [
         "fr",
         "us",
@@ -24,8 +24,17 @@
       ]
     },
     {
-      "nom": "Agents autonomes",
-      "explication": "De nouveaux outils capables de prendre des décisions et d'agir, comme dans le paiement ou le contrôle de systèmes, se multiplient. Leur intégration soulève des questions critiques sur leur sécurité et leur potentiel de dérapage.",
+      "nom": "Valorisations records et IPO d'Anthropic",
+      "explication": "Anthropic monopolise l'actualité avec le lancement de ses modèles Fable 5.2 et Mythos 5.2, ainsi que des projets d'introduction en bourse visant des valorisations colossales. Cette hyper-croissance suscite à la fois un engouement massif et des craintes d'éclatement de la bulle spéculative.",
+      "regions": [
+        "fr",
+        "us",
+        "cn"
+      ]
+    },
+    {
+      "nom": "Expansion des agents IA et outils de codage",
+      "explication": "Les géants technologiques et les plateformes de développement déploient massivement des agents autonomes capables d'interagir, de coder ou de gérer des paiements. Les retours soulignent toutefois des défis techniques majeurs, comme la dérive silencieuse des agents et les risques de sécurité.",
       "regions": [
         "fr",
         "us",
@@ -33,87 +42,84 @@
       ]
     },
     {
-      "nom": "Valorisation d'Anthropic",
-      "explication": "La startup enchaîne les records de trafic et prépare une introduction en bourse à des niveaux de valorisation astronomiques. Ce dossier devient le symbole des attentes des investisseurs et du risque de bulle.",
+      "nom": "Tensions d'infrastructure et pénuries de puces",
+      "explication": "Les acteurs industriels comme SMIC prévoient une pénurie de calcul IA durable jusqu'en 2028, accentuée par les restrictions géopolitiques et la demande explosive en data centers. Les investissements dans le hardware et les infrastructures énergétiques se poursuivent à marche forcée.",
       "regions": [
-        "fr",
         "us",
         "cn"
       ]
-    },
+    }
+  ],
+  "retombes": [
     {
-      "nom": "Risque systémique",
-      "explication": "La Fed et des observateurs financiers alertent sur l'impact de la fièvre IA sur la stabilité globale des marchés. Les valorisations jugées excessives menacent désormais l'équilibre économique.",
+      "nom": "Régulations étatiques locales de l'IA aux États-Unis",
+      "explication": "Les débats et décisions législatives au niveau des États américains, comme l'Ohio ou la Pennsylvanie, ont cédé la place à des crises sectorielles mondiales et à des annonces macroéconomiques de plus grande envergure.",
       "regions": [
-        "us",
-        "cn",
-        "fr"
+        "us"
       ]
     }
   ],
-  "retombes": [],
   "a_surveiller": [
-    "L'impact de la démission du PDG de Nvidia sur la supply chain mondiale des puces.",
-    "La progression de l'introduction en bourse d'Anthropic comme test de la confiance des marchés.",
-    "Les résultats des enquêtes sur le rôle potentiel de l'IA dans la panne aérienne de la FAA.",
-    "L'évolution des réglementations sur l'IA dans les domaines de la sécurité et des droits d'auteur.",
-    "La capacité de l'industrie à gérer les pénuries d'infrastructures de calcul annoncées jusqu'en 2028."
+    "L'évolution de l'introduction en bourse d'Anthropic et son impact psychologique sur Wall Street.",
+    "Les répercussions à long terme de la transition à la tête de Nvidia sur la chaîne d'approvisionnement en puces.",
+    "La fiabilité et la sécurité opérationnelle des agents IA déployés à grande échelle dans le code et les services.",
+    "Les nouvelles mesures réglementaires envisagées par les gouvernements face aux risques systémiques financiers et sécuritaires."
   ],
   "acteurs": [
     {
       "nom": "Anthropic",
-      "mentions": 90,
-      "mentions_precedentes": 0
+      "mentions": 102,
+      "mentions_precedentes": 5
     },
     {
       "nom": "Nvidia",
-      "mentions": 60,
-      "mentions_precedentes": 0
+      "mentions": 66,
+      "mentions_precedentes": 6
     },
     {
       "nom": "Google",
       "mentions": 41,
-      "mentions_precedentes": 0
+      "mentions_precedentes": 3
     },
     {
       "nom": "OpenAI",
-      "mentions": 27,
-      "mentions_precedentes": 0
+      "mentions": 31,
+      "mentions_precedentes": 2
     },
     {
       "nom": "Microsoft",
-      "mentions": 26,
-      "mentions_precedentes": 0
+      "mentions": 29,
+      "mentions_precedentes": 2
     },
     {
       "nom": "Amazon",
-      "mentions": 23,
-      "mentions_precedentes": 0
+      "mentions": 27,
+      "mentions_precedentes": 1
     },
     {
       "nom": "Meta",
-      "mentions": 17,
-      "mentions_precedentes": 0
+      "mentions": 15,
+      "mentions_precedentes": 3
     },
     {
       "nom": "Apple",
-      "mentions": 13,
-      "mentions_precedentes": 0
+      "mentions": 14,
+      "mentions_precedentes": 3
     },
     {
       "nom": "xAI",
-      "mentions": 10,
-      "mentions_precedentes": 0
-    },
-    {
-      "nom": "Alibaba",
-      "mentions": 5,
+      "mentions": 11,
       "mentions_precedentes": 0
     },
     {
       "nom": "DeepSeek",
-      "mentions": 4,
+      "mentions": 5,
       "mentions_precedentes": 0
+    },
+    {
+      "nom": "Alibaba",
+      "mentions": 4,
+      "mentions_precedentes": 1
     },
     {
       "nom": "ByteDance",

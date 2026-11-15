@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-14-t2.md"
 type: "concept"
-community: "écosystème Anthropic"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/écosystème_Anthropic
+  - community/Gemini_4_Hydrogen
 ---
 
 # NVIDIA NeMo Switchyard
@@ -13,5 +13,6 @@ tags:
 ## Connections
 - [[Amazon Bedrock]] - `conceptually_related_to` [EXTRACTED]
 - [[Veille Outils & code 2026-11-14]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-15]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/écosystème_Anthropic
+#graphify/concept #graphify/EXTRACTED #community/Gemini_4_Hydrogen

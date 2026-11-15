@@ -1,17 +1,16 @@
 ---
 source_file: "feuilletons/f-0022.md"
 type: "document"
-community: "Appel de Paris"
+community: "Veille Chine 2026-11-12 : Régulation, géopolitique et politique"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Appel_de_Paris
+  - community/Veille_Chine_2026-11-12__Régulation_géopolitique_et_politique
 ---
 
 # Feuilleton: Pression européenne pour une régulation coordonnée de l'IA
 
 ## Connections
-- [[Arthur Mensch]] - `references` [EXTRACTED]
-- [[Régulation européenne de l'IA]] - `references` [EXTRACTED]
+- [[Régulation européenne de l'IA]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Appel_de_Paris
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__Régulation_géopolitique_et_politique
