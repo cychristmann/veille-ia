@@ -531,6 +531,66 @@
   .stats { display: flex; flex-wrap: wrap; gap: 2px 16px; margin: 14px 0 0; font-size: .85rem; color: var(--texte-3); }
   .stats b { color: var(--texte-2); font-weight: 600; font-variant-numeric: tabular-nums; }
 
+  /* ---------- Statistiques ----------
+     Deux couleurs seulement, validées (contraste, daltonisme) dans les deux thèmes :
+     le bleu de l'app pour les données, l'ambre pour ce qui mérite l'attention. */
+  :root { --st-1: #1d4ed8; --st-2: #a86200; }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --st-1: #3987e5; --st-2: #c98500; } }
+  :root[data-theme="dark"] { --st-1: #3987e5; --st-2: #c98500; }
+  .st-filtres { display: flex; flex-wrap: wrap; gap: 8px; margin: 18px 0 0; }
+  .st-filtres button {
+    min-height: 40px; padding: 0 16px; border-radius: 999px; border: 1px solid var(--bordure); cursor: pointer;
+    background: var(--surface); color: var(--texte-2); font: inherit; font-size: .88rem; font-weight: 600;
+  }
+  .st-filtres button[aria-pressed="true"] { color: var(--fond); background: var(--texte); border-color: transparent; }
+  .st-tuiles { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; margin-top: 16px; }
+  .st-tuile { padding: 16px 18px; border-radius: 16px; background: var(--surface); border: 1px solid var(--bordure); }
+  .st-tuile .libelle { font-size: .84rem; color: var(--texte-3); }
+  .st-tuile .valeur { display: block; margin-top: 4px; font-size: 1.7rem; font-weight: 650; letter-spacing: -.02em; line-height: 1.1; }
+  .st-tuile .detail { display: block; margin-top: 4px; font-size: .8rem; color: var(--texte-3); }
+  .st-grille { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; margin-top: 14px; }
+  .st-carte { padding: 18px 20px 14px; border-radius: 18px; background: var(--surface); border: 1px solid var(--bordure); min-width: 0; }
+  .st-large { grid-column: 1 / -1; }
+  .st-carte h2 { margin: 0; font-size: 1.02rem; }
+  .st-sous { margin: 4px 0 10px; font-size: .84rem; color: var(--texte-3); max-width: 75ch; }
+  .st-legende { display: flex; flex-wrap: wrap; gap: 4px 16px; margin: 0 0 6px; font-size: .8rem; color: var(--texte-2); }
+  .st-legende span { display: inline-flex; align-items: center; gap: 6px; }
+  .st-cle { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
+  .st-cle-1 { background: var(--st-1); }
+  .st-cle-2 { background: var(--st-2); }
+  .st-graphe svg, .st-multiples svg { display: block; width: 100%; height: auto; overflow: visible; }
+  .st-multiples { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 6px 18px; }
+  .st-multiples h3 { margin: 6px 0 0; font-size: .85rem; font-weight: 600; color: var(--texte-2); }
+  .st-graphe .axe, .st-multiples .axe { font-size: 11px; fill: var(--texte-3); font-variant-numeric: tabular-nums; }
+  .st-graphe .valeur, .st-multiples .valeur { font-size: 11px; font-weight: 650; fill: var(--texte-2); font-variant-numeric: tabular-nums; }
+  .st-graphe .grille, .st-multiples .grille { stroke: var(--bordure); stroke-width: 1; }
+  .st-graphe .repere { stroke: var(--texte-3); stroke-width: 1; }
+  .marque { fill: var(--st-1); transition: opacity .15s ease; }
+  .marque.chaud { fill: var(--st-2); }
+  .cible { fill: transparent; cursor: default; outline: none; }
+  .cible:focus-visible { stroke: var(--accent); stroke-width: 2; }
+  svg:has(.cible:hover) .marque, svg:has(.cible:focus-visible) .marque { opacity: .45; }
+  svg .groupe:has(.cible:hover) .marque, svg .groupe:has(.cible:focus-visible) .marque { opacity: 1; }
+  .st-carte details { margin-top: 8px; font-size: .84rem; }
+  .st-carte details > summary { cursor: pointer; color: var(--accent); font-weight: 600; }
+  .st-table { width: 100%; border-collapse: collapse; margin-top: 6px; font-variant-numeric: tabular-nums; }
+  .st-table th, .st-table td { padding: 5px 8px; text-align: right; border-bottom: 1px solid var(--bordure); }
+  .st-table th:first-child, .st-table td:first-child { text-align: left; }
+  .st-table th { color: var(--texte-3); font-weight: 600; }
+  .st-infobulle {
+    position: fixed; z-index: 60; pointer-events: none; max-width: 240px; padding: 8px 11px; border-radius: 10px;
+    font-size: .82rem; line-height: 1.35; color: var(--texte); background: var(--surface);
+    border: 1px solid var(--bordure-forte); box-shadow: var(--ombre-2);
+  }
+  .st-infobulle strong { display: block; }
+  .st-vide { padding: 22px 0; font-size: .88rem; color: var(--texte-3); }
+  @media (max-width: 900px) {
+    .st-tuiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .st-grille { grid-template-columns: minmax(0, 1fr); }
+    .st-multiples { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .st-carte { padding: 16px 14px 12px; }
+  }
+
   /* ---------- Accordéon des rubriques ----------
      Un panneau par rubrique, un seul ouvert à la fois (attribut name des <details>).
      Fermé, chaque panneau montre un aperçu de son contenu et un compteur ; ouvert, son
@@ -859,6 +919,9 @@
     </button>
     <button class="lien-sources" id="ouvrir-tendances" type="button" aria-current="false">
       <svg class="icone" data-icone="tendance"></svg><span>Cette semaine</span>
+    </button>
+    <button class="lien-sources" id="ouvrir-stats" type="button" aria-current="false">
+      <svg class="icone" data-icone="graphique"></svg><span>Statistiques</span>
     </button>
     <button class="lien-sources" id="ouvrir-favoris" type="button" aria-current="false">
       <svg class="icone" data-icone="etoile"></svg><span>Favoris</span><span class="compte" id="compte-favoris" hidden></span>
@@ -1198,6 +1261,44 @@
         </form>
       </div>
 
+      <div id="vue-stats" hidden>
+        <header>
+          <p class="surtitre"><svg class="icone" data-icone="graphique"></svg>Tableau de bord</p>
+          <h1 class="titre-vue">Statistiques</h1>
+          <p class="intro-sources" id="st-periode"></p>
+        </header>
+        <div class="st-filtres" id="st-filtres" role="group" aria-label="Section"></div>
+        <div class="st-tuiles" id="st-tuiles"></div>
+        <div class="st-grille">
+          <section class="st-carte st-large" id="st-liens">
+            <h2>Articles avec un vrai lien</h2>
+            <p class="st-sous">Part des articles qui mènent directement au site du média, par jour et par section. Les autres passent par une redirection Google.</p>
+            <div class="st-multiples" id="st-liens-graphes"></div>
+          </section>
+          <section class="st-carte" id="st-notes">
+            <h2>Répartition des notes</h2>
+            <p class="st-sous" id="st-notes-sous"></p>
+            <div class="st-legende"><span><i class="st-cle st-cle-1"></i>moins de 8</span><span><i class="st-cle st-cle-2"></i>8 ou plus : à lire en priorité</span></div>
+            <div class="st-graphe" id="st-notes-graphe"></div>
+          </section>
+          <section class="st-carte" id="st-hauts">
+            <h2>Articles notés 8 ou plus, par jour</h2>
+            <p class="st-sous" id="st-hauts-sous"></p>
+            <div class="st-graphe" id="st-hauts-graphe"></div>
+          </section>
+          <section class="st-carte" id="st-medias">
+            <h2>Médias les plus présents</h2>
+            <p class="st-sous" id="st-medias-sous"></p>
+            <div class="st-graphe" id="st-medias-graphe"></div>
+          </section>
+          <section class="st-carte" id="st-quota">
+            <h2>Quota gratuit de Groq, par nuit</h2>
+            <p class="st-sous">Part des 200 000 tokens quotidiens utilisés par la veille et ses agents. Au-delà de 100 %, Gemini prend le relais.</p>
+            <div class="st-graphe" id="st-quota-graphe"></div>
+          </section>
+        </div>
+      </div>
+
       <div id="vue-feuilletons" hidden>
         <header>
           <p class="surtitre"><svg class="icone" data-icone="historique"></svg>Agent mémoire</p>
@@ -1291,6 +1392,7 @@ const ICONES = {
   tri: '<path d="m21 16-4 4-4-4"/><path d="M17 20V4"/><path d="m3 8 4-4 4 4"/><path d="M7 4v16"/>', // arrow-up-down
   retour: '<path d="m12 19-7-7 7-7"/><path d="M19 12H5"/>', // arrow-left
   haut: '<path d="m5 12 7-7 7 7"/><path d="M12 19V5"/>', // arrow-up
+  graphique: '<path d="M3 3v16a2 2 0 0 0 2 2h16"/><path d="M18 17V9"/><path d="M13 17V5"/><path d="M8 17v-3"/>', // chart-column
 };
 
 // Thème -> (icône, teinte). Le modèle choisit librement les noms : on reconnaît des mots-clés.
@@ -1896,6 +1998,7 @@ async function demarrer() {
   if (location.hash === "#sources") { afficherJours(); return montrerSources(); }
   if (location.hash === "#favoris") { afficherJours(); return montrerFavoris(); }
   if (location.hash === "#semaine") { afficherJours(); return montrerTendances(); }
+  if (location.hash === "#stats") { afficherJours(); return montrerStats(); }
   if (location.hash.startsWith("#feuilletons")) { afficherJours(); return montrerFeuilletons(location.hash.split("/")[1]); }
   if (location.hash === "#chat") { afficherJours(); return montrerChat(); }
   if (!jours.length) { afficherJours(); return montrerVide(); }
@@ -1936,8 +2039,8 @@ function toast(message, erreur = false) {
 }
 
 // ===== Vues : une seule visible à la fois =====
-const VUES = ["chargement", "vue", "vue-sources", "vue-favoris", "vue-recherche", "vue-tendances", "vue-feuilletons", "vue-chat", "pas-de-veille"];
-const BOUTONS_VUES = { "vue-sources": "ouvrir-sources", "vue-favoris": "ouvrir-favoris", "vue-tendances": "ouvrir-tendances", "vue-feuilletons": "ouvrir-feuilletons", "vue-chat": "ouvrir-chat" };
+const VUES = ["chargement", "vue", "vue-sources", "vue-favoris", "vue-recherche", "vue-tendances", "vue-stats", "vue-feuilletons", "vue-chat", "pas-de-veille"];
+const BOUTONS_VUES = { "vue-sources": "ouvrir-sources", "vue-favoris": "ouvrir-favoris", "vue-tendances": "ouvrir-tendances", "vue-stats": "ouvrir-stats", "vue-feuilletons": "ouvrir-feuilletons", "vue-chat": "ouvrir-chat" };
 function montrerVue(nom) {
   for (const v of VUES) $(v).hidden = v !== nom;
   for (const [v, b] of Object.entries(BOUTONS_VUES)) $(b).setAttribute("aria-current", String(v === nom));
@@ -2411,6 +2514,259 @@ new MutationObserver(prevoirMajVolets).observe($("vue"), { attributes: true, att
 new MutationObserver(majQuai).observe($("vue"), { attributes: true, attributeFilter: ["hidden"] });
 prevoirMajVolets();
 
+// ===== Statistiques : graphiques SVG faits main =====
+// Barres fines (24 px au plus), bout arrondi de 4 px côté donnée et carré côté base, grille
+// discrète, valeur écrite sur quelques barres seulement, infobulle au survol et au clavier,
+// et un tableau des données sous chaque graphique (le graphique ne passe jamais que par la couleur).
+const SVGNS = "http://www.w3.org/2000/svg";
+function svgEl(tag, attrs = {}, texte) {
+  const n = document.createElementNS(SVGNS, tag);
+  for (const [k, v] of Object.entries(attrs)) n.setAttribute(k, v);
+  if (texte != null) n.textContent = texte;
+  return n;
+}
+const infobulle = el("div", "st-infobulle");
+infobulle.hidden = true;
+infobulle.setAttribute("role", "status");
+document.body.append(infobulle);
+function montrerInfo(cible, titre, detail, x, y) {
+  infobulle.replaceChildren(el("strong", "", titre), document.createTextNode(detail));
+  infobulle.hidden = false;
+  const r = infobulle.getBoundingClientRect();
+  if (x == null) { const b = cible.getBoundingClientRect(); x = b.left + b.width / 2; y = b.top; }
+  infobulle.style.left = `${Math.min(Math.max(8, x - r.width / 2), innerWidth - r.width - 8)}px`;
+  infobulle.style.top = `${Math.max(8, y - r.height - 12)}px`;
+}
+function cacherInfo() { infobulle.hidden = true; }
+addEventListener("scroll", cacherInfo, { passive: true });
+// Barre verticale : base carrée, bout arrondi (rayon 4 px).
+function cheminColonne(x, y, l, h) {
+  const r = Math.min(4, l / 2, h);
+  return `M${x},${y + h}V${y + r}Q${x},${y} ${x + r},${y}H${x + l - r}Q${x + l},${y} ${x + l},${y + r}V${y + h}Z`;
+}
+// Barre horizontale : base carrée à gauche, bout arrondi à droite.
+function cheminBarre(x, y, l, h) {
+  const r = Math.min(4, h / 2, l);
+  return `M${x},${y}H${x + l - r}Q${x + l},${y} ${x + l},${y + r}V${y + h - r}Q${x + l},${y + h} ${x + l - r},${y + h}H${x}Z`;
+}
+function brancherCible(cible, titre, detail) {
+  cible.setAttribute("tabindex", "0");
+  cible.setAttribute("aria-label", `${titre} : ${detail}`);
+  cible.addEventListener("pointermove", (e) => montrerInfo(cible, titre, detail, e.clientX, e.clientY));
+  cible.addEventListener("pointerleave", cacherInfo);
+  cible.addEventListener("focus", () => montrerInfo(cible, titre, detail));
+  cible.addEventListener("blur", cacherInfo);
+}
+// Graphique en colonnes. points : [{ x, v, titre, detail, chaud, etiquette }]
+function colonnes(conteneur, points, { hauteur = 180, max, pourcent = false, repere } = {}) {
+  conteneur.replaceChildren();
+  if (!points.length) { conteneur.append(el("p", "st-vide", "Pas encore de données.")); return; }
+  // Largeur réelle du conteneur, sans minimum : sinon le texte serait réduit à l'affichage.
+  const L = Math.round(conteneur.getBoundingClientRect().width) || 320, H = hauteur;
+  const g = 30, d = 6, h = 16, b = 22;  // marges : gauche (axe), droite, haut, bas
+  const plafond = max ?? Math.max(...points.map((p) => p.v), 1);
+  const pas = pourcent ? (plafond > 100 ? 50 : 25) : graduation(plafond);
+  const haut = Math.max(Math.ceil(plafond / pas) * pas, pas);
+  const ech = (v) => h + (H - h - b) * (1 - v / haut);
+  const svg = svgEl("svg", { viewBox: `0 0 ${L} ${H}`, role: "img" });
+  for (let v = 0; v <= haut; v += pas) {
+    svg.append(svgEl("line", { class: "grille", x1: g, x2: L - d, y1: ech(v), y2: ech(v) }));
+    svg.append(svgEl("text", { class: "axe", x: g - 6, y: ech(v) + 4, "text-anchor": "end" }, pourcent ? `${v} %` : nombre(v)));
+  }
+  if (repere != null && repere <= haut) svg.append(svgEl("line", { class: "repere", x1: g, x2: L - d, y1: ech(repere), y2: ech(repere) }));
+  const bande = (L - g - d) / points.length;
+  const larg = Math.min(24, bande * 0.62);
+  const tousEtiquetes = points.length <= 10;
+  points.forEach((p, i) => {
+    const grp = svgEl("g", { class: "groupe" });
+    const x = g + i * bande + (bande - larg) / 2, y = ech(p.v), hh = ech(0) - y;
+    if (hh > 0) grp.append(svgEl("path", { class: "marque" + (p.chaud ? " chaud" : ""), d: cheminColonne(x, y, larg, hh) }));
+    if (p.etiquette !== false && (tousEtiquetes || p.etiquette)) {
+      grp.append(svgEl("text", { class: "valeur", x: x + larg / 2, y: y - 5, "text-anchor": "middle" }, pourcent ? `${Math.round(p.v)} %` : nombre(p.v)));
+    }
+    // Bandes étroites : seulement la première et la dernière date, pour éviter les chevauchements.
+    const tient = bande >= String(p.x).length * 6.5 + 6;
+    const assezLarge = tient || i === 0 || i === points.length - 1;
+    if (p.x && assezLarge) {
+      const ancre = tient ? "middle" : i === 0 ? "start" : "end";
+      const xt = ancre === "middle" ? x + larg / 2 : ancre === "start" ? x : x + larg;
+      grp.append(svgEl("text", { class: "axe", x: xt, y: H - 6, "text-anchor": ancre }, p.x));
+    }
+    // Zone de survol : toute la bande, plus large que la barre.
+    const cible = svgEl("rect", { class: "cible", x: g + i * bande, y: h, width: bande, height: H - h - b + 4 });
+    brancherCible(cible, p.titre, p.detail);
+    grp.append(cible);
+    svg.append(grp);
+  });
+  conteneur.append(svg);
+}
+// Graphique en barres horizontales, valeur au bout. points : [{ nom, v, detail }]
+function barres(conteneur, points) {
+  conteneur.replaceChildren();
+  if (!points.length) { conteneur.append(el("p", "st-vide", "Pas encore de données.")); return; }
+  const L = Math.round(conteneur.getBoundingClientRect().width) || 320, rang = 30, epais = 16;
+  const nomL = Math.min(150, L * 0.42), finL = 34;
+  const H = points.length * rang + 4, max = Math.max(...points.map((p) => p.v), 1);
+  const svg = svgEl("svg", { viewBox: `0 0 ${L} ${H}`, role: "img" });
+  points.forEach((p, i) => {
+    const grp = svgEl("g", { class: "groupe" });
+    const y = i * rang + (rang - epais) / 2, l = (L - nomL - finL) * (p.v / max);
+    const nom = p.nom.length > 22 ? p.nom.slice(0, 21) + "…" : p.nom;
+    grp.append(svgEl("text", { class: "axe", x: nomL - 8, y: y + epais - 4, "text-anchor": "end" }, nom));
+    grp.append(svgEl("path", { class: "marque", d: cheminBarre(nomL, y, Math.max(l, 2), epais) }));
+    grp.append(svgEl("text", { class: "valeur", x: nomL + l + 6, y: y + epais - 4 }, nombre(p.v)));
+    const cible = svgEl("rect", { class: "cible", x: 0, y: i * rang, width: L, height: rang });
+    brancherCible(cible, p.nom, p.detail);
+    grp.append(cible);
+    svg.append(grp);
+  });
+  conteneur.append(svg);
+}
+function graduation(max) {
+  const brut = max / 4, p = 10 ** Math.floor(Math.log10(brut));
+  return [1, 2, 5, 10].map((m) => m * p).find((s) => s >= brut) || p;
+}
+// Tableau des données, replié sous le graphique.
+function tableDonnees(carte, entetes, lignes) {
+  carte.querySelector("details")?.remove();
+  const details = el("details");
+  details.append(el("summary", "", "Voir les données"));
+  const table = el("table", "st-table");
+  table.append(ligneTable(entetes, true), ...lignes.map((l) => ligneTable(l)));
+  details.append(table);
+  carte.append(details);
+}
+
+let statsSection = "toutes";
+let statsDonnees = null;
+const jourCourt = (d) => fmt(dateLocale(d), { day: "numeric", month: "numeric" }).replace(/\/\d+$/, (m) => m);
+const jourLong = (d) => fmt(dateLocale(d), { weekday: "long", day: "numeric", month: "long" });
+const pct = (a, b) => (b ? Math.round((100 * a) / b) : 0);
+const estVraiLien = (a) => !!a.lien && !a.lien.includes("news.google.com");
+
+async function montrerStats() {
+  ouvrirVueAnnexe("vue-stats", "#stats");
+  if (!statsDonnees) {
+    $("st-periode").textContent = "Chargement…";
+    try {
+      if (!indexArticles) indexArticles = (await lireJSON(URLS.index)).articles || [];
+      const conso = await lireJSON(URLS.consommation).catch(() => ({ jours: [] }));
+      statsDonnees = { articles: indexArticles, conso: conso.jours || [] };
+    } catch (e) {
+      $("st-periode").textContent = "Données indisponibles : " + e.message;
+      return;
+    }
+  }
+  const sections = ["toutes", ...Object.keys(REGIONS)];
+  $("st-filtres").replaceChildren(...sections.map((s) => {
+    const b = el("button", "", s === "toutes" ? "Toutes les sections" : REGIONS[s].nom);
+    b.type = "button";
+    b.setAttribute("aria-pressed", String(s === statsSection));
+    b.addEventListener("click", () => { statsSection = s; montrerStatsContenu(); majFiltresStats(); });
+    return b;
+  }));
+  montrerStatsContenu();
+}
+function majFiltresStats() {
+  const sections = ["toutes", ...Object.keys(REGIONS)];
+  [...$("st-filtres").children].forEach((b, i) => b.setAttribute("aria-pressed", String(sections[i] === statsSection)));
+}
+function montrerStatsContenu() {
+  const { articles, conso } = statsDonnees;
+  const dates = [...new Set(articles.map((a) => a.date))].sort();
+  const semaine = dates.slice(-7);
+  const dernier = dates.at(-1);
+  const filtre = (a) => statsSection === "toutes" || a.region === statsSection;
+  const choisis = articles.filter(filtre);
+  const recents = choisis.filter((a) => semaine.includes(a.date));
+  const nomSection = statsSection === "toutes" ? "toutes sections" : REGIONS[statsSection].nom;
+  $("st-periode").textContent = `${nombre(articles.length)} articles collectés en ${dates.length} jours, du ${jourLong(dates[0])} au ${jourLong(dernier)}.`;
+
+  // Chiffres clés
+  const duJour = choisis.filter((a) => a.date === dernier);
+  const quota = conso.find((d) => d.date === dernier) || conso[0];
+  const tuile = (libelle, valeur, detail) => {
+    const d = el("div", "st-tuile");
+    d.append(el("span", "libelle", libelle), el("span", "valeur", valeur), el("span", "detail", detail));
+    return d;
+  };
+  $("st-tuiles").replaceChildren(
+    tuile("Articles du dernier jour", nombre(duJour.length), `${nomSection} · ${jourLong(dernier)}`),
+    tuile("Avec un vrai lien", `${pct(duJour.filter(estVraiLien).length, duJour.length)} %`, "le reste passe par Google"),
+    tuile("Notés 8 ou plus", nombre(duJour.filter((a) => (a.note || 0) >= 8).length), "à lire en priorité"),
+    tuile("Quota Groq utilisé", quota ? `${nombre(quota.part_quota_groq)} %` : "—", quota ? `nuit du ${jourLong(quota.date)}` : "compteur en place depuis le 14/11"),
+  );
+
+  // 1. Vrais liens : une petite grille par section (même échelle, 0 à 100 %)
+  const multiples = $("st-liens-graphes");
+  multiples.replaceChildren();
+  const lignesLiens = [];
+  for (const [code, r] of Object.entries(REGIONS)) {
+    if (statsSection !== "toutes" && statsSection !== code) continue;
+    const bloc = el("div");
+    bloc.append(el("h3", "", r.nom));
+    const zone = el("div");
+    bloc.append(zone);
+    multiples.append(bloc);
+    const points = dates.map((d) => {
+      const jour = articles.filter((a) => a.region === code && a.date === d);
+      if (!jour.length) return null;
+      const v = pct(jour.filter(estVraiLien).length, jour.length);
+      lignesLiens.push([`${r.nom} · ${jourCourt(d)}`, `${v} %`, nombre(jour.length)]);
+      return { x: jourCourt(d), v, titre: `${r.nom}, ${jourLong(d)}`, detail: `${v} % de vrais liens sur ${jour.length} articles`, etiquette: d === dernier };
+    }).filter(Boolean);
+    requestAnimationFrame(() => colonnes(zone, points, { hauteur: 150, max: 100, pourcent: true }));
+  }
+  tableDonnees($("st-liens"), ["Section · jour", "Vrais liens", "Articles"], lignesLiens);
+
+  // 2. Répartition des notes (7 derniers jours)
+  const parNote = Array.from({ length: 10 }, (_, i) => recents.filter((a) => a.note === i + 1).length);
+  const notes = recents.filter((a) => a.note).length;
+  $("st-notes-sous").textContent = `${nombre(notes)} articles notés sur les 7 derniers jours · ${nomSection}`;
+  colonnes($("st-notes-graphe"), parNote.map((v, i) => ({
+    x: String(i + 1), v, chaud: i + 1 >= 8, etiquette: v > 0,
+    titre: `Note ${i + 1} sur 10`, detail: `${v} articles (${pct(v, notes)} %)`,
+  })));
+  tableDonnees($("st-notes"), ["Note", "Articles", "Part"], parNote.map((v, i) => [`${i + 1}/10`, nombre(v), `${pct(v, notes)} %`]));
+
+  // 3. Articles notés 8 ou plus, par jour
+  const hauts = dates.map((d) => {
+    const jour = choisis.filter((a) => a.date === d);
+    return { d, v: jour.filter((a) => (a.note || 0) >= 8).length, n: jour.length };
+  });
+  $("st-hauts-sous").textContent = `Ce que l'agent noteur met en tête de la veille · ${nomSection}`;
+  colonnes($("st-hauts-graphe"), hauts.map((h) => ({
+    x: jourCourt(h.d), v: h.v, chaud: true, titre: jourLong(h.d), detail: `${h.v} articles notés 8 ou plus sur ${h.n}`,
+  })));
+  tableDonnees($("st-hauts"), ["Jour", "Notés 8 ou plus", "Articles"], hauts.map((h) => [jourLong(h.d), nombre(h.v), nombre(h.n)]));
+
+  // 4. Médias les plus présents (7 derniers jours)
+  const compte = new Map();
+  for (const a of recents) compte.set(a.source, (compte.get(a.source) || 0) + 1);
+  const top = [...compte.entries()].sort((a, b) => b[1] - a[1]).slice(0, 10);
+  $("st-medias-sous").textContent = `Les 10 premiers sur les 7 derniers jours, parmi ${nombre(compte.size)} médias · ${nomSection}`;
+  barres($("st-medias-graphe"), top.map(([nom, v]) => ({ nom, v, detail: `${v} articles (${pct(v, recents.length)} % de la période)` })));
+  tableDonnees($("st-medias"), ["Média", "Articles"], top.map(([nom, v]) => [nom, nombre(v)]));
+
+  // 5. Quota Groq par nuit (toutes sections : le quota est commun)
+  const nuits = [...conso].sort((a, b) => a.date.localeCompare(b.date)).slice(-14);
+  colonnes($("st-quota-graphe"), nuits.map((n) => ({
+    x: jourCourt(n.date), v: n.part_quota_groq, chaud: n.part_quota_groq >= 80, pourcent: true,
+    titre: `Nuit du ${jourLong(n.date)}`,
+    detail: `${nombre(n.part_quota_groq)} % du quota Groq · Gemini : ${nombre(totalTokens(n.fournisseurs?.gemini))} tokens`,
+  })), { max: Math.max(100, ...nuits.map((n) => n.part_quota_groq)), pourcent: true, repere: 100 });
+  tableDonnees($("st-quota"), ["Nuit", "Quota Groq", "Tokens Groq", "Tokens Gemini"], nuits.map((n) => [
+    jourLong(n.date), `${nombre(n.part_quota_groq)} %`, nombre(totalTokens(n.fournisseurs?.groq)), nombre(totalTokens(n.fournisseurs?.gemini)),
+  ]));
+}
+// Les graphiques suivent la largeur de l'écran.
+let statsRedim = null;
+addEventListener("resize", () => {
+  if ($("vue-stats").hidden || !statsDonnees) return;
+  clearTimeout(statsRedim);
+  statsRedim = setTimeout(montrerStatsContenu, 150);
+});
+
 // ===== État de la nuit (sante.py) =====
 let santeCache = null;
 async function chargerSante(date) {
@@ -2704,6 +3060,7 @@ $("nouvelle-conversation").addEventListener("click", () => { conversation = []; 
 
 $("ouvrir-favoris").addEventListener("click", montrerFavoris);
 $("ouvrir-tendances").addEventListener("click", montrerTendances);
+$("ouvrir-stats").addEventListener("click", montrerStats);
 $("actualiser-tendances").addEventListener("click", actualiserTendances);
 
 // ===== Thème clair / sombre (préférence gardée dans ce navigateur si possible) =====
