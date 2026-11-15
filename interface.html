@@ -531,28 +531,61 @@
   .stats { display: flex; flex-wrap: wrap; gap: 2px 16px; margin: 14px 0 0; font-size: .85rem; color: var(--texte-3); }
   .stats b { color: var(--texte-2); font-weight: 600; font-variant-numeric: tabular-nums; }
 
-  /* Raccourcis vers les rubriques de la page */
-  .sauts { display: flex; gap: 8px; margin: 16px 0 0; overflow-x: auto; scrollbar-width: none; padding-bottom: 2px; }
-  .sauts::-webkit-scrollbar { display: none; }
-  .sauts button {
-    flex: none; display: inline-flex; align-items: center; gap: 6px; min-height: 40px; padding: 0 14px;
-    border-radius: 999px; border: 1px solid var(--bordure); background: var(--surface); color: var(--texte-2);
-    font: inherit; font-size: .88rem; font-weight: 600; cursor: pointer;
+  /* ---------- Accordéon des rubriques ----------
+     Un panneau par rubrique, un seul ouvert à la fois (attribut name des <details>).
+     Fermé, chaque panneau montre un aperçu de son contenu et un compteur ; ouvert, son
+     en-tête reste collé en haut de l'écran pour le refermer d'un geste. */
+  :root { interpolate-size: allow-keywords; --h-volet: 64px; }
+  .accordeon { margin-top: 18px; border-bottom: 1px solid var(--bordure); }
+  .volet { border-top: 1px solid var(--bordure); }
+  .volet[hidden] { display: none; }
+  .volet > summary {
+    display: grid; grid-template-columns: auto minmax(0, 1fr) auto auto; align-items: center; gap: 14px;
+    min-height: var(--h-volet); padding: 10px 6px; cursor: pointer; list-style: none;
+    border-radius: 12px; transition: background-color .15s ease;
   }
-  .sauts button:hover { color: var(--accent); border-color: var(--bordure-forte); }
-  .sauts button.principal { color: var(--accent-texte); border-color: transparent; background: linear-gradient(135deg, var(--bleu-clair), var(--bleu-marine)); }
-  .sauts button svg.icone { width: 15px; height: 15px; }
-  /* Rubriques visées par un raccourci : ne pas glisser sous la barre de recherche collante. */
-  #top, #bloc-synthese, #analyses, #dossiers, #rubrique-videos, #zone-articles { scroll-margin-top: 12px; }
+  .volet > summary::-webkit-details-marker { display: none; }
+  .volet > summary:hover { background: var(--surface-2); }
+  .volet[open] > summary {
+    position: sticky; top: 0; z-index: 25; border-radius: 0;
+    margin: 0 -6px; padding-left: 12px; padding-right: 12px;
+    background: color-mix(in srgb, var(--fond) 90%, transparent);
+    backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+  }
+  .volet .tuile {
+    display: grid; place-items: center; width: 40px; height: 40px; border-radius: 12px; flex: none;
+    color: var(--accent); background: var(--accent-doux);
+    transition: color .2s ease, background-color .2s ease, transform .3s cubic-bezier(.2, .8, .2, 1);
+  }
+  .volet .tuile svg.icone { width: 19px; height: 19px; }
+  .volet[open] .tuile { color: var(--accent-texte); background: linear-gradient(135deg, var(--bleu-clair), var(--bleu-marine)); transform: scale(.9); }
+  /* L'accent chaud reste réservé aux priorités. */
+  #volet-top .tuile { color: var(--chaud); background: var(--chaud-fond); }
+  #volet-top[open] .tuile { color: var(--chaud-fond); background: var(--chaud); }
+  .volet-texte { display: grid; gap: 1px; min-width: 0; }
+  .volet-titre { font-family: "Segoe UI Variable Display", "Segoe UI", system-ui, sans-serif; font-size: 1.06rem; font-weight: 650; letter-spacing: -.01em; }
+  .volet .apercu { font-size: .84rem; color: var(--texte-3); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .volet[open] .apercu { display: none; }
+  .volet .compte {
+    min-width: 30px; padding: 2px 9px; border-radius: 999px; text-align: center; font-size: .78rem; font-weight: 700;
+    font-variant-numeric: tabular-nums; color: var(--texte-2); background: var(--surface-2);
+  }
+  .volet .compte:empty { display: none; }
+  .volet .fleche { width: 18px; height: 18px; color: var(--texte-3); transition: transform .3s cubic-bezier(.2, .8, .2, 1); }
+  .volet[open] .fleche { transform: rotate(90deg); }
+  .volet-corps { padding: 0 0 26px; }
+  /* Ouverture en douceur là où le navigateur le permet (sinon ouverture immédiate). */
+  .volet::details-content { block-size: 0; overflow-y: clip; transition: block-size .32s cubic-bezier(.2, .8, .2, 1), content-visibility .32s allow-discrete; }
+  .volet[open]::details-content { block-size: auto; }
+  /* Le titre est porté par l'en-tête du panneau : on ne le répète pas dedans. */
+  .volet-corps .tete-rubrique h2, .volet-corps .top > h2, .volet-corps .tete-synthese h2 { display: none; }
+  .volet-corps > * { margin-top: 0; }
+  .volet-corps .tete-rubrique { margin-bottom: 10px; }
+  /* Dans le panneau Articles, la barre de recherche se colle sous l'en-tête du panneau. */
+  .volet-corps .outils { top: var(--h-volet); margin-top: 0; }
 
-  /* Retour en haut, dans la zone du pouce */
-  .remonter {
-    position: fixed; right: 16px; bottom: 18px; z-index: 30; display: grid; place-items: center;
-    width: 48px; height: 48px; border-radius: 50%; cursor: pointer;
-    color: var(--texte); background: var(--surface); border: 1px solid var(--bordure-forte); box-shadow: var(--ombre-2);
-  }
-  .remonter[hidden] { display: none; }
-  .remonter svg.icone { width: 20px; height: 20px; }
+  /* Barre flottante du téléphone : passer d'une rubrique à l'autre sous le pouce. */
+  .quai { display: none; }
 
   .synthese {
     position: relative; margin-top: 18px; padding: 22px 26px; border-radius: 16px;
@@ -761,25 +794,29 @@
     .page { padding: 20px 16px 64px; }
     .outils { margin: 18px -16px 0; padding: 12px 16px 10px; }
     .puces { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; scrollbar-width: none; }
-    /* Lecture du matin sur téléphone : les priorités et les articles d'abord, les rubriques
-       de fond (synthèse, analyses, dossiers, vidéos, podcasts, consommation) ensuite. */
-    #vue:not([hidden]) { display: flex; flex-direction: column; }
-    #vue > * { order: 6; min-width: 0; }
-    #vue > .entete { order: 0; }
-    #vue > .note-langue, #vue > .alertes, #vue > .sante { order: 1; align-self: flex-start; }
-    #vue > .alertes { align-self: stretch; }
-    #vue > .stats { order: 2; }
-    #vue > .sauts { order: 3; margin-left: -16px; margin-right: -16px; padding-left: 16px; padding-right: 16px; }
-    #vue > .top { order: 4; }
-    #vue > .zone-articles { order: 5; }
-    #vue > .synthese { order: 7; }
-    #vue > .analyses { order: 8; }
-    #vue > .dossiers { order: 9; }
-    #vue > #rubrique-videos { order: 10; }
-    #vue > #rubrique-podcasts { order: 11; }
-    #vue > .consommation { order: 12; }
+    .page { padding-bottom: 104px; }  /* place pour la barre flottante */
+    .volet > summary { gap: 12px; }
+    /* Sur téléphone, l'aperçu tient sur deux lignes : assez pour décider d'ouvrir ou non. */
+    .volet .apercu { white-space: normal; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; line-height: 1.35; }
+    .volet[open] .apercu { display: none; }
+    .volet[open] > summary { margin: 0 -16px; padding-left: 16px; padding-right: 16px; }
+    .volet-corps .outils { margin: 0 -16px; }
+    .quai:not([hidden]) {
+      position: fixed; z-index: 34; left: 50%; bottom: calc(12px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%);
+      display: flex; gap: 2px; padding: 5px; max-width: calc(100vw - 16px); border-radius: 999px;
+      background: color-mix(in srgb, var(--surface) 92%, transparent); border: 1px solid var(--bordure-forte);
+      box-shadow: var(--ombre-2); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+    }
+    .quai button {
+      display: inline-flex; align-items: center; justify-content: center; gap: 6px; min-width: 44px; height: 44px; padding: 0 12px;
+      border: 0; border-radius: 999px; background: none; color: var(--texte-3); font: inherit; font-size: .84rem; font-weight: 650; cursor: pointer;
+      transition: background-color .2s ease, color .2s ease;
+    }
+    .quai button svg.icone { width: 19px; height: 19px; flex: none; }
+    .quai button span { display: none; white-space: nowrap; }
+    .quai button[aria-current="true"] { color: var(--accent-texte); background: linear-gradient(135deg, var(--bleu-clair), var(--bleu-marine)); padding: 0 14px; }
+    .quai button[aria-current="true"] span { display: inline; }
     /* Finitions à 360 px */
-    #vue > .synthese { margin-top: 30px; }                      /* respiration après la liste d'articles */
     .top h2 { flex-wrap: wrap; row-gap: 2px; }
     .top h2 small { flex-basis: 100%; margin-left: 28px; }      /* sous le titre, aligné sur son texte */
     .tete-theme h2 { font-size: 1.12rem; flex-wrap: wrap; row-gap: 0; }
@@ -842,7 +879,7 @@
     </div>
   </aside>
   <div class="voile" id="voile"></div>
-  <button class="remonter" id="remonter" type="button" hidden aria-label="Revenir en haut de la page" title="Revenir en haut"><svg class="icone" data-icone="haut"></svg></button>
+<nav class="quai" id="quai" aria-label="Rubriques de la page" hidden></nav>
 
   <div class="contenu">
     <div class="entete-mobile">
@@ -877,86 +914,29 @@
         </details>
 
         <p class="stats" id="stats"></p>
-        <nav class="sauts" id="sauts" aria-label="Aller à une rubrique de la page"></nav>
-
-        <div class="synthese" id="bloc-synthese">
-          <div class="tete-synthese">
-            <h2><svg class="icone" data-icone="etincelles"></svg>Synthèse du jour</h2>
-            <span class="verif" id="verif"></span>
-            <div class="actions-synthese">
-              <button class="bouton-discret" id="ecouter" type="button" aria-pressed="false" title="Lire la synthèse à voix haute">
-                <svg class="icone" data-icone="volume"></svg><span>Écouter</span>
-              </button>
-              <button class="bouton-discret" id="partager-synthese" type="button" title="Partager la synthèse du jour">
-                <svg class="icone" data-icone="partage"></svg><span>Partager</span>
-              </button>
-            </div>
-          </div>
-          <p id="synthese"></p>
-          <details class="corrections" id="corrections" hidden>
-            <summary id="titre-corrections"></summary>
-            <ul id="liste-corrections"></ul>
-          </details>
-        </div>
-
-        <section class="dossiers" id="dossiers" hidden>
-          <div class="tete-rubrique">
-            <h2><span class="icone-theme" style="--teinte: 218"><svg class="icone" data-icone="livre"></svg></span>Dossiers du jour</h2>
-            <small>enquêtes de l'agent rédacteur en chef · communs à toutes les sections</small>
-          </div>
-          <div id="liste-dossiers"></div>
-          <details class="journal-agent" id="journal-agent">
-            <summary id="titre-journal"></summary>
-            <ol id="lignes-journal"></ol>
-          </details>
-        </section>
-
-        <section class="analyses" id="analyses" hidden>
-          <div class="tete-rubrique">
-            <h2><span class="icone-theme" style="--teinte: 196"><svg class="icone" data-icone="boussole"></svg></span>Ce qui change</h2>
-            <small>lecture du graphe sur 7 jours par l'agent interprète · commun à toutes les sections</small>
-          </div>
-          <p class="avertissement">Analyses automatiques à partir des articles cités : à vérifier avant de les reprendre.</p>
-          <div id="liste-analyses"></div>
-        </section>
-
-        <section class="consommation" id="consommation" hidden>
-          <div class="tete-rubrique">
-            <h2><span class="icone-theme" style="--teinte: 208"><svg class="icone" data-icone="tendance"></svg></span>Consommation d'IA</h2>
-            <small>tokens utilisés ce jour-là par la veille et ses agents · offres gratuites</small>
-          </div>
-          <div class="conso-cartes" id="conso-cartes"></div>
-          <details>
-            <summary>Détail par étape</summary>
-            <table class="conso-table" id="conso-etapes"></table>
-          </details>
-          <details>
-            <summary>Les 7 derniers jours</summary>
-            <table class="conso-table" id="conso-historique"></table>
-          </details>
-        </section>
-
+        <div class="accordeon" id="accordeon">
+        <details class="volet" name="rubriques" id="volet-top" data-volet="top" data-cible="top" data-court="Priorités" data-icone="etincelles">
+          <summary>
+            <span class="tuile"><svg class="icone" data-icone="etincelles"></svg></span>
+            <span class="volet-texte"><span class="volet-titre" role="heading" aria-level="2">À lire en priorité</span><span class="apercu" id="apercu-top"></span></span>
+            <span class="compte" id="compte-top"></span>
+            <svg class="icone fleche" data-icone="chevron"></svg>
+          </summary>
+          <div class="volet-corps">
         <section class="top" id="top" hidden>
           <h2><svg class="icone" data-icone="etincelles"></svg>À lire en priorité<small id="top-note"></small></h2>
           <ol id="liste-top"></ol>
         </section>
-
-        <section class="rubrique" id="rubrique-videos" hidden>
-          <div class="tete-rubrique">
-            <h2><span class="icone-theme" style="--teinte: 205"><svg class="icone" data-icone="lecture"></svg></span>Vidéos à regarder</h2>
-            <small id="note-videos"></small>
           </div>
-          <div id="contenu-videos"></div>
-        </section>
-
-        <section class="rubrique" id="rubrique-podcasts" hidden>
-          <div class="tete-rubrique">
-            <h2><span class="icone-theme" style="--teinte: 224"><svg class="icone" data-icone="podcast"></svg></span>Podcasts à écouter</h2>
-            <small id="note-podcasts"></small>
-          </div>
-          <div id="contenu-podcasts"></div>
-        </section>
-
+        </details>
+        <details class="volet" name="rubriques" id="volet-articles" data-volet="articles" data-cible="zone-articles" data-court="Articles" data-icone="journal">
+          <summary>
+            <span class="tuile"><svg class="icone" data-icone="journal"></svg></span>
+            <span class="volet-texte"><span class="volet-titre" role="heading" aria-level="2">Articles</span><span class="apercu" id="apercu-articles"></span></span>
+            <span class="compte" id="compte-articles"></span>
+            <svg class="icone fleche" data-icone="chevron"></svg>
+          </summary>
+          <div class="volet-corps">
         <div class="zone-articles" id="zone-articles">
         <div class="outils" id="outils">
           <label class="recherche">
@@ -995,6 +975,136 @@
           <summary><svg class="icone chevron" data-icone="chevron"></svg><svg class="icone" data-icone="masque"></svg><span id="titre-ecartes"></span></summary>
           <p>L'IA a jugé que ces articles ne parlaient pas vraiment d'intelligence artificielle. Son tri n'est pas parfait : jette un œil.</p>
           <div class="grille" id="grille-ecartes"></div>
+        </details>
+        </div>
+          </div>
+        </details>
+        <details class="volet" name="rubriques" id="volet-synthese" data-volet="synthese" data-cible="bloc-synthese" data-court="Synthèse" data-icone="couches">
+          <summary>
+            <span class="tuile"><svg class="icone" data-icone="couches"></svg></span>
+            <span class="volet-texte"><span class="volet-titre" role="heading" aria-level="2">Synthèse du jour</span><span class="apercu" id="apercu-synthese"></span></span>
+            <span class="compte" id="compte-synthese"></span>
+            <svg class="icone fleche" data-icone="chevron"></svg>
+          </summary>
+          <div class="volet-corps">
+        <div class="synthese" id="bloc-synthese">
+          <div class="tete-synthese">
+            <h2><svg class="icone" data-icone="etincelles"></svg>Synthèse du jour</h2>
+            <span class="verif" id="verif"></span>
+            <div class="actions-synthese">
+              <button class="bouton-discret" id="ecouter" type="button" aria-pressed="false" title="Lire la synthèse à voix haute">
+                <svg class="icone" data-icone="volume"></svg><span>Écouter</span>
+              </button>
+              <button class="bouton-discret" id="partager-synthese" type="button" title="Partager la synthèse du jour">
+                <svg class="icone" data-icone="partage"></svg><span>Partager</span>
+              </button>
+            </div>
+          </div>
+          <p id="synthese"></p>
+          <details class="corrections" id="corrections" hidden>
+            <summary id="titre-corrections"></summary>
+            <ul id="liste-corrections"></ul>
+          </details>
+        </div>
+          </div>
+        </details>
+        <details class="volet" name="rubriques" id="volet-analyses" data-volet="analyses" data-cible="analyses" data-court="Analyses" data-icone="boussole">
+          <summary>
+            <span class="tuile"><svg class="icone" data-icone="boussole"></svg></span>
+            <span class="volet-texte"><span class="volet-titre" role="heading" aria-level="2">Ce qui change</span><span class="apercu" id="apercu-analyses"></span></span>
+            <span class="compte" id="compte-analyses"></span>
+            <svg class="icone fleche" data-icone="chevron"></svg>
+          </summary>
+          <div class="volet-corps">
+        <section class="analyses" id="analyses" hidden>
+          <div class="tete-rubrique">
+            <h2><span class="icone-theme" style="--teinte: 196"><svg class="icone" data-icone="boussole"></svg></span>Ce qui change</h2>
+            <small>lecture du graphe sur 7 jours par l'agent interprète · commun à toutes les sections</small>
+          </div>
+          <p class="avertissement">Analyses automatiques à partir des articles cités : à vérifier avant de les reprendre.</p>
+          <div id="liste-analyses"></div>
+        </section>
+          </div>
+        </details>
+        <details class="volet" name="rubriques" id="volet-dossiers" data-volet="dossiers" data-cible="dossiers" data-court="Dossiers" data-icone="livre">
+          <summary>
+            <span class="tuile"><svg class="icone" data-icone="livre"></svg></span>
+            <span class="volet-texte"><span class="volet-titre" role="heading" aria-level="2">Dossiers du jour</span><span class="apercu" id="apercu-dossiers"></span></span>
+            <span class="compte" id="compte-dossiers"></span>
+            <svg class="icone fleche" data-icone="chevron"></svg>
+          </summary>
+          <div class="volet-corps">
+        <section class="dossiers" id="dossiers" hidden>
+          <div class="tete-rubrique">
+            <h2><span class="icone-theme" style="--teinte: 218"><svg class="icone" data-icone="livre"></svg></span>Dossiers du jour</h2>
+            <small>enquêtes de l'agent rédacteur en chef · communs à toutes les sections</small>
+          </div>
+          <div id="liste-dossiers"></div>
+          <details class="journal-agent" id="journal-agent">
+            <summary id="titre-journal"></summary>
+            <ol id="lignes-journal"></ol>
+          </details>
+        </section>
+          </div>
+        </details>
+        <details class="volet" name="rubriques" id="volet-videos" data-volet="videos" data-cible="rubrique-videos" data-court="Vidéos" data-icone="lecture">
+          <summary>
+            <span class="tuile"><svg class="icone" data-icone="lecture"></svg></span>
+            <span class="volet-texte"><span class="volet-titre" role="heading" aria-level="2">Vidéos à regarder</span><span class="apercu" id="apercu-videos"></span></span>
+            <span class="compte" id="compte-videos"></span>
+            <svg class="icone fleche" data-icone="chevron"></svg>
+          </summary>
+          <div class="volet-corps">
+        <section class="rubrique" id="rubrique-videos" hidden>
+          <div class="tete-rubrique">
+            <h2><span class="icone-theme" style="--teinte: 205"><svg class="icone" data-icone="lecture"></svg></span>Vidéos à regarder</h2>
+            <small id="note-videos"></small>
+          </div>
+          <div id="contenu-videos"></div>
+        </section>
+          </div>
+        </details>
+        <details class="volet" name="rubriques" id="volet-podcasts" data-volet="podcasts" data-cible="rubrique-podcasts" data-icone="podcast">
+          <summary>
+            <span class="tuile"><svg class="icone" data-icone="podcast"></svg></span>
+            <span class="volet-texte"><span class="volet-titre" role="heading" aria-level="2">Podcasts à écouter</span><span class="apercu" id="apercu-podcasts"></span></span>
+            <span class="compte" id="compte-podcasts"></span>
+            <svg class="icone fleche" data-icone="chevron"></svg>
+          </summary>
+          <div class="volet-corps">
+        <section class="rubrique" id="rubrique-podcasts" hidden>
+          <div class="tete-rubrique">
+            <h2><span class="icone-theme" style="--teinte: 224"><svg class="icone" data-icone="podcast"></svg></span>Podcasts à écouter</h2>
+            <small id="note-podcasts"></small>
+          </div>
+          <div id="contenu-podcasts"></div>
+        </section>
+          </div>
+        </details>
+        <details class="volet" name="rubriques" id="volet-conso" data-volet="conso" data-cible="consommation" data-icone="tendance">
+          <summary>
+            <span class="tuile"><svg class="icone" data-icone="tendance"></svg></span>
+            <span class="volet-texte"><span class="volet-titre" role="heading" aria-level="2">Consommation d'IA</span><span class="apercu" id="apercu-conso"></span></span>
+            <span class="compte" id="compte-conso"></span>
+            <svg class="icone fleche" data-icone="chevron"></svg>
+          </summary>
+          <div class="volet-corps">
+        <section class="consommation" id="consommation" hidden>
+          <div class="tete-rubrique">
+            <h2><span class="icone-theme" style="--teinte: 208"><svg class="icone" data-icone="tendance"></svg></span>Consommation d'IA</h2>
+            <small>tokens utilisés ce jour-là par la veille et ses agents · offres gratuites</small>
+          </div>
+          <div class="conso-cartes" id="conso-cartes"></div>
+          <details>
+            <summary>Détail par étape</summary>
+            <table class="conso-table" id="conso-etapes"></table>
+          </details>
+          <details>
+            <summary>Les 7 derniers jours</summary>
+            <table class="conso-table" id="conso-historique"></table>
+          </details>
+        </section>
+          </div>
         </details>
         </div>
       </div>
@@ -2215,29 +2325,91 @@ async function chargerAnalyse(date) {
   section.hidden = false;
 }
 
-// ===== Raccourcis vers les rubriques, et retour en haut =====
-const SAUTS = [
-  ["zone-articles", "Articles", "journal", true],
-  ["bloc-synthese", "Synthèse", "etincelles"],
-  ["analyses", "Ce qui change", "boussole"],
-  ["dossiers", "Dossiers", "livre"],
-  ["rubrique-videos", "Vidéos", "lecture"],
-];
+// ===== Accordéon des rubriques et barre flottante =====
 const DOUX = !matchMedia("(prefers-reduced-motion: reduce)").matches;
-function majSauts() {
-  $("sauts").replaceChildren(...SAUTS.filter(([id]) => !$(id).hidden).map(([id, nom, ico, principal]) => {
-    const b = el("button", principal ? "principal" : "");
+const VOLETS = [...document.querySelectorAll(".volet")];
+let voletVoulu = "top";  // panneau ouvert d'une visite à l'autre
+try { voletVoulu = localStorage.getItem("veille-volet") ?? "top"; } catch {}
+
+function premierePhrase(texte) {
+  const t = (texte || "").trim();
+  const fin = t.search(/[.!?…](\s|$)/);
+  return fin > 20 ? t.slice(0, fin + 1) : t.slice(0, 140);
+}
+// Ce que montre un panneau fermé : [compteur, aperçu en une ligne].
+const APERCUS = {
+  top: () => { const l = $("liste-top").querySelectorAll("li"); return [l.length, l[0]?.querySelector(".texte > :first-child")?.textContent]; },
+  articles: () => {
+    if (!veille) return [null, ""];
+    const notes = (veille.themes || []).flatMap((th) => th.articles || []).map((x) => x.note || 0);
+    const hauts = notes.filter((n) => n >= 8).length;
+    return [veille.nombre_articles, hauts ? `dont ${hauts} noté${hauts > 1 ? "s" : ""} 8 ou plus` : "triés, filtrables, avec recherche"];
+  },
+  synthese: () => [null, premierePhrase($("synthese").textContent)],
+  analyses: () => { const c = $("liste-analyses").querySelectorAll(".analyse-carte"); return [c.length, c[0]?.querySelector("h3")?.textContent]; },
+  dossiers: () => { const c = $("liste-dossiers").querySelectorAll(".dossier"); return [c.length, c[0]?.querySelector("h3")?.textContent]; },
+  videos: () => { const b = $("contenu-videos").querySelector(".bandeau"); return [b?.children.length, $("note-videos").textContent]; },
+  podcasts: () => { const b = $("contenu-podcasts").querySelector(".bandeau"); return [b?.children.length, $("note-podcasts").textContent]; },
+  conso: () => {
+    const j = (consommationCache || []).find((d) => d.date === jourActif);
+    return j ? [`${nombre(j.part_quota_groq)} %`, "du quota gratuit Groq utilisé cette nuit-là"] : [null, ""];
+  },
+};
+function majQuai() {
+  const quai = $("quai");
+  const ouverts = VOLETS.filter((v) => !v.hidden && v.dataset.court);
+  quai.hidden = $("vue").hidden || ouverts.length < 2;
+  const etat = ouverts.map((v) => v.dataset.volet + (v.open ? "*" : "")).join(",");
+  if (quai.dataset.etat === etat) return;
+  quai.dataset.etat = etat;
+  quai.replaceChildren(...ouverts.map((v) => {
+    const b = el("button");
     b.type = "button";
-    b.append(icone(ico), el("span", "", nom));
-    b.addEventListener("click", () => $(id).scrollIntoView({ behavior: DOUX ? "smooth" : "auto", block: "start" }));
+    b.title = v.dataset.court;
+    b.setAttribute("aria-current", String(v.open));
+    b.append(icone(v.dataset.icone), el("span", "", v.dataset.court));
+    b.addEventListener("click", () => { v.open = true; montrerVolet(v); });
     return b;
   }));
 }
-// Les rubriques apparaissent au fil des chargements : on suit leur attribut « hidden ».
-new MutationObserver(majSauts).observe($("vue"), { attributes: true, attributeFilter: ["hidden"], subtree: true });
-majSauts();
-$("remonter").addEventListener("click", () => window.scrollTo({ top: 0, behavior: DOUX ? "smooth" : "auto" }));
-addEventListener("scroll", () => { $("remonter").hidden = scrollY < 900; }, { passive: true });
+function montrerVolet(v) {
+  // Après l'ouverture (les autres panneaux se sont refermés), on ramène l'en-tête en haut.
+  requestAnimationFrame(() => v.scrollIntoView({ behavior: DOUX ? "smooth" : "auto", block: "start" }));
+}
+let majPrevue = false;
+function majVolets() {
+  majPrevue = false;
+  for (const v of VOLETS) {
+    const cache = $(v.dataset.cible).hidden;
+    if (v.hidden !== cache) v.hidden = cache;
+    const [compte, apercu] = APERCUS[v.dataset.volet]();
+    // N'écrire que ce qui change : sinon l'observateur ci-dessous tournerait en boucle.
+    const ecrire = (id, texte) => { const n = $(id); if (n.textContent !== texte) n.textContent = texte; };
+    ecrire("compte-" + v.dataset.volet, compte || compte === 0 ? String(compte) : "");
+    ecrire("apercu-" + v.dataset.volet, (apercu || "").trim());
+  }
+  // Au chargement : rouvrir le panneau de la dernière visite, s'il existe ce jour-là.
+  if (voletVoulu && !VOLETS.some((v) => v.open && !v.hidden)) {
+    const v = VOLETS.find((x) => x.dataset.volet === voletVoulu && !x.hidden);
+    if (v) v.open = true;
+  }
+  majQuai();
+}
+function prevoirMajVolets() { if (!majPrevue) { majPrevue = true; requestAnimationFrame(majVolets); } }
+for (const v of VOLETS) {
+  v.addEventListener("toggle", () => {
+    if (v.open) voletVoulu = v.dataset.volet;
+    else if (voletVoulu === v.dataset.volet) voletVoulu = "";  // tout refermer est un choix
+    try { localStorage.setItem("veille-volet", voletVoulu); } catch {}
+    majQuai();
+  });
+  // Ouvrir un panneau situé sous un long panneau ouvert le ferait sortir de l'écran.
+  v.querySelector("summary").addEventListener("click", () => { if (!v.open) setTimeout(() => montrerVolet(v), 0); });
+}
+// Les rubriques se remplissent au fil des chargements : on suit leur contenu.
+new MutationObserver(prevoirMajVolets).observe($("vue"), { attributes: true, attributeFilter: ["hidden"], childList: true, subtree: true });
+new MutationObserver(majQuai).observe($("vue"), { attributes: true, attributeFilter: ["hidden"] });
+prevoirMajVolets();
 
 // ===== État de la nuit (sante.py) =====
 let santeCache = null;
