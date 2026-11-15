@@ -536,24 +536,28 @@
      Fermé, chaque panneau montre un aperçu de son contenu et un compteur ; ouvert, son
      en-tête reste collé en haut de l'écran pour le refermer d'un geste. */
   :root { interpolate-size: allow-keywords; --h-volet: 64px; }
-  .accordeon { margin-top: 18px; border-bottom: 1px solid var(--bordure); }
-  .volet { border-top: 1px solid var(--bordure); }
+  .accordeon { margin-top: 18px; display: grid; gap: 10px; }
   .volet[hidden] { display: none; }
   .volet > summary {
     display: grid; grid-template-columns: auto minmax(0, 1fr) auto auto; align-items: center; gap: 14px;
-    min-height: var(--h-volet); padding: 10px 6px; cursor: pointer; list-style: none;
-    border-radius: 12px; transition: background-color .15s ease;
+    min-height: var(--h-volet); padding: 10px 20px 10px 12px; cursor: pointer; list-style: none;
+    /* Forme de pilule : entièrement arrondie, comme un gros bouton. */
+    border-radius: 999px; background: var(--surface); border: 1px solid var(--bordure);
+    transition: background-color .2s ease, color .2s ease, border-color .2s ease, box-shadow .2s ease;
   }
   .volet > summary::-webkit-details-marker { display: none; }
-  .volet > summary:hover { background: var(--surface-2); }
+  .volet > summary:hover { background: var(--surface-2); border-color: var(--bordure-forte); }
+  /* Panneau ouvert : pilule claire sur fond sombre (et l'inverse en thème clair), qui
+     reste collée en haut de l'écran pendant le défilement. */
   .volet[open] > summary {
-    position: sticky; top: 0; z-index: 25; border-radius: 0;
-    margin: 0 -6px; padding-left: 12px; padding-right: 12px;
-    background: color-mix(in srgb, var(--fond) 90%, transparent);
-    backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+    position: sticky; top: 8px; z-index: 25;
+    color: var(--fond); background: var(--texte); border-color: transparent; box-shadow: var(--ombre-2);
   }
+  .volet[open] > summary:hover { background: var(--texte); }
+  .volet[open] .fleche { color: inherit; }
+  .volet[open] .compte { color: var(--texte); background: color-mix(in srgb, var(--fond) 82%, transparent); }
   .volet .tuile {
-    display: grid; place-items: center; width: 40px; height: 40px; border-radius: 12px; flex: none;
+    display: grid; place-items: center; width: 40px; height: 40px; border-radius: 50%; flex: none;
     color: var(--accent); background: var(--accent-doux);
     transition: color .2s ease, background-color .2s ease, transform .3s cubic-bezier(.2, .8, .2, 1);
   }
@@ -573,7 +577,7 @@
   .volet .compte:empty { display: none; }
   .volet .fleche { width: 18px; height: 18px; color: var(--texte-3); transition: transform .3s cubic-bezier(.2, .8, .2, 1); }
   .volet[open] .fleche { transform: rotate(90deg); }
-  .volet-corps { padding: 0 0 26px; }
+  .volet-corps { padding: 14px 0 18px; }
   /* Ouverture en douceur là où le navigateur le permet (sinon ouverture immédiate). */
   .volet::details-content { block-size: 0; overflow-y: clip; transition: block-size .32s cubic-bezier(.2, .8, .2, 1), content-visibility .32s allow-discrete; }
   .volet[open]::details-content { block-size: auto; }
@@ -582,7 +586,7 @@
   .volet-corps > * { margin-top: 0; }
   .volet-corps .tete-rubrique { margin-bottom: 10px; }
   /* Dans le panneau Articles, la barre de recherche se colle sous l'en-tête du panneau. */
-  .volet-corps .outils { top: var(--h-volet); margin-top: 0; }
+  .volet-corps .outils { top: calc(var(--h-volet) + 12px); margin-top: 0; }
 
   /* Barre flottante du téléphone : passer d'une rubrique à l'autre sous le pouce. */
   .quai { display: none; }
@@ -795,11 +799,7 @@
     .outils { margin: 18px -16px 0; padding: 12px 16px 10px; }
     .puces { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; scrollbar-width: none; }
     .page { padding-bottom: 104px; }  /* place pour la barre flottante */
-    .volet > summary { gap: 12px; }
-    /* Sur téléphone, l'aperçu tient sur deux lignes : assez pour décider d'ouvrir ou non. */
-    .volet .apercu { white-space: normal; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; line-height: 1.35; }
-    .volet[open] .apercu { display: none; }
-    .volet[open] > summary { margin: 0 -16px; padding-left: 16px; padding-right: 16px; }
+    .volet > summary { gap: 12px; padding-right: 16px; }
     .volet-corps .outils { margin: 0 -16px; }
     .quai:not([hidden]) {
       position: fixed; z-index: 34; left: 50%; bottom: calc(12px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%);
