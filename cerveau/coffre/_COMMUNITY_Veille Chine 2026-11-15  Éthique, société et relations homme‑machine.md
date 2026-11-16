@@ -1,18 +1,19 @@
 ---
 type: community
-members: 5
+members: 6
 ---
 
 # Veille Chine 2026-11-15 : Éthique, société et relations homme‑machine
 
-**Members:** 5 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Veille Chine 2026-11-15  Éthique, société et relations homme‑machine]] - document - veilles/veille-ia-cn-2026-11-15-t5.md
-- [[亚洲日报 (Asia Daily)]] - concept - veilles/veille-ia-cn-2026-11-15-t5.md
-- [[智源社区 (BAAI Community)]] - concept - veilles/veille-ia-cn-2026-11-15-t5.md
-- [[汽车之家 (Autohome)]] - concept - veilles/veille-ia-cn-2026-11-15-t5.md
-- [[网易新闻 (NetEase News)]] - concept - veilles/veille-ia-cn-2026-11-15-t5.md
+- [[GPT-4.1]] - concept - veilles/veille-ia-us-2026-11-15-t4.md
+- [[KAIST]] - concept - veilles/veille-ia-us-2026-11-15-t4.md
+- [[Llama 3.3]] - concept - veilles/veille-ia-us-2026-11-15-t4.md
+- [[Microsoft Research]] - concept - veilles/veille-ia-us-2026-11-15-t4.md
+- [[NIH]] - concept - veilles/veille-ia-us-2026-11-15-t4.md
+- [[Veille États-Unis 2026-11-15  Recherche et applications avancées de l'IA]] - document - veilles/veille-ia-us-2026-11-15-t4.md
 
 ## Live Query (requires Dataview plugin)
 

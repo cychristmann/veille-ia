@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Community Impact]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[Daily Herald]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[Federal News Network]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[Inside Global Tech]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[News 5 Cleveland WEWS]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[Veille États-Unis 2026-11-09  Régulation et politiques publiques]] - document - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Demis Hassabis]] - concept - dossiers/2026-11-12-3.md
+- [[Dossier Course à l'IA entre États‑Unis et Chine]] - document - dossiers/2026-11-12-3.md
+- [[Eric Schmidt]] - concept - dossiers/2026-11-12-3.md
+- [[Eric Schmidt says gap between China and US in AI is now negligible]] - document - dossiers/2026-11-12-3.md
+- [[Institute for Progress]] - concept - dossiers/2026-11-12-3.md
+- [[Nvidia, Chinese Espionage, and the AI Race Foreign Policy Issues to Watch]] - document - dossiers/2026-11-12-3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,3 +21,9 @@ members: 6
 TABLE source_file, type FROM #community/produits_IA_grand_public
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Nvidia]]
+
+## Top bridge nodes
+- [[Dossier Course à l'IA entre États‑Unis et Chine]] - degree 6, connects to 1 community

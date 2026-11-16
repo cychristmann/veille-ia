@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-14-t1.md"
 type: "concept"
-community: "Veille France 2026-11-14 : Société, éducation et culture"
+community: "recherche académique en IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-14__Société_éducation_et_culture
+  - community/recherche_académique_en_IA
 ---
 
 # Jean-Paul Charpin
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-14  Société, éducation et culture]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-14__Société_éducation_et_culture
+#graphify/concept #graphify/EXTRACTED #community/recherche_académique_en_IA

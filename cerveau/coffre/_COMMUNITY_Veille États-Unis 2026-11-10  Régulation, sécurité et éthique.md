@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille États-Unis 2026-11-10 : Régulation, sécurité et éthique
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Veille États-Unis 2026-11-10  Régulation, sécurité et éthique]] - document - veilles/veille-ia-us-2026-11-10-t5.md
+- [[Enterprise RAG Systems]] - concept - veilles/veille-ia-dev-2026-11-16-t5.md
+- [[Veille Outils & code 2026-11-16  Recherche, méthodologies et analyses d’agents IA]] - document - veilles/veille-ia-dev-2026-11-16-t5.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-13-t2.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-14 : Impact Social, Éthique et Travail"
+community: "DeepSeek V4.1 Pro"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-14__Impact_Social_Éthique_et_Travail
+  - community/DeepSeek_V41_Pro
 ---
 
 # DeepSeek V4.1 Pro
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Impact_Social_Éthique_et_Travail
+#graphify/concept #graphify/EXTRACTED #community/DeepSeek_V41_Pro

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-15-t1.md"
 type: "concept"
-community: "Apple"
+community: "Google"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Apple
+  - community/Google
 ---
 
 # Apple
@@ -19,5 +19,6 @@ tags:
 - [[Veille France 2026-11-11]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-15]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-15  Industrie & matériel]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-16]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Apple
+#graphify/concept #graphify/EXTRACTED #community/Google

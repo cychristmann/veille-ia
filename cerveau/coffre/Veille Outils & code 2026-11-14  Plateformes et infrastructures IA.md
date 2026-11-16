@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-14-t3.md"
 type: "document"
-community: "Gemini 4 Hydrogen"
+community: "Veille Outils & code 2026-11-12 : Déploiement et infrastructure IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Gemini_4_Hydrogen
+  - community/Veille_Outils__code_2026-11-12__Déploiement_et_infrastructure_IA
 ---
 
 # Veille Outils & code 2026-11-14 : Plateformes et infrastructures IA
@@ -18,4 +18,4 @@ tags:
 - [[GitHub Copilot]] - `references` [EXTRACTED]
 - [[TPU Sync]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Gemini_4_Hydrogen
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12__Déploiement_et_infrastructure_IA

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-14-t4.md"
 type: "concept"
-community: "AWS Budgets"
+community: "Blue J"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AWS_Budgets
+  - community/Blue_J
 ---
 
 # Sécurité et risques de l'IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-14  Sécurité, risques et fraudes]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AWS_Budgets
+#graphify/concept #graphify/EXTRACTED #community/Blue_J

@@ -34,9 +34,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Anthropic]]
+- 3 edges to [[_COMMUNITY_Nvidia]]
 - 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_Anthropic]]
 - 1 edge to [[_COMMUNITY_OpenAI]]
 
 ## Top bridge nodes

@@ -1,16 +1,18 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-11-t3.md"
-type: "concept"
-community: "Veille Outils & code 2026-11-12"
+source_file: "veilles/veille-ia-us-2026-11-12-t3.md"
+type: "code"
+community: "GPT-6 Astra"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-12
+  - community/GPT-6_Astra
 ---
 
 # Helsing
 
 ## Connections
+- [[Palantir]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-11  Applications sectorielles de l'IA]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-12 (Défense)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12
+#graphify/code #graphify/EXTRACTED #community/GPT-6_Astra

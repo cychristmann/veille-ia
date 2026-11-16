@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t3.md"
 type: "document"
-community: "Veille Outils & code 2026-11-12"
+community: "GPT-6 Astra"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-12
+  - community/GPT-6_Astra
 ---
 
 # Veille États-Unis 2026-11-11 : Applications sectorielles de l'IA
@@ -15,4 +15,4 @@ tags:
 - [[Helsing]] - `references` [EXTRACTED]
 - [[Rafael]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12
+#graphify/document #graphify/EXTRACTED #community/GPT-6_Astra

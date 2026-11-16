@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0020.md"
 type: "code"
-community: "Claude Code"
+community: "GPT-6 Astra"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Claude_Code
+  - community/GPT-6_Astra
 ---
 
 # X-BAT
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Shield AI]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Claude_Code
+#graphify/code #graphify/EXTRACTED #community/GPT-6_Astra

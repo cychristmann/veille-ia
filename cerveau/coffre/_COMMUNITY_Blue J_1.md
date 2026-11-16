@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Blue J
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Blue J]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
+- [[Deletion Tuning]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
+- [[New York University]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
 
 ## Live Query (requires Dataview plugin)
 

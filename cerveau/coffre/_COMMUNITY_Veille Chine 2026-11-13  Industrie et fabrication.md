@@ -1,16 +1,19 @@
 ---
 type: community
-members: 3
+members: 6
 ---
 
 # Veille Chine 2026-11-13 : Industrie et fabrication
 
-**Members:** 3 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[AI+Manufacturing]] - concept - veilles/veille-ia-cn-2026-11-13-t2.md
-- [[IA et création de contenus courts]] - concept - veilles/veille-ia-cn-2026-11-13-t2.md
-- [[Veille Chine 2026-11-13  Industrie et fabrication]] - document - veilles/veille-ia-cn-2026-11-13-t2.md
+- [[AI Short Dramas]] - concept - veilles/veille-ia-cn-2026-11-14-t3.md
+- [[SCMP Tech]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
+- [[Sanxingdui Future Past]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
+- [[Veille Chine 2026-11-14  Médias, création et divertissement IA]] - document - veilles/veille-ia-cn-2026-11-14-t3.md
+- [[Veille Chine 2026-11-15  Contenu et divertissement IA]] - document - veilles/veille-ia-cn-2026-11-15-t1.md
+- [[投资界]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
 
 ## Live Query (requires Dataview plugin)
 

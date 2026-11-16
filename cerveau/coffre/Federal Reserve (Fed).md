@@ -11,7 +11,9 @@ tags:
 # Federal Reserve (Fed)
 
 ## Connections
+- [[Artificial Intelligence]] - `conceptually_related_to` [EXTRACTED]
 - [[Dossier  IA  risque systémique pour la stabilité financière]] - `references` [EXTRACTED]
+- [[Feuilleton L'IA en tête des risques pour la stabilité financière]] - `references` [EXTRACTED]
 - [[Risque systémique de l'IA]] - `conceptually_related_to` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Dossier__IA__risque_systémique_pour_la_stabilité_financière

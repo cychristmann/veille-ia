@@ -56,10 +56,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Apple]]
-- 2 edges to [[_COMMUNITY_OpenAI]]
+- 2 edges to [[_COMMUNITY_Google]]
 - 1 edge to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_Emmanuel Macron]]
+- 1 edge to [[_COMMUNITY_OpenAI]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-15]] - degree 18, connects to 3 communities
+- [[Veille France 2026-11-15]] - degree 18, connects to 4 communities
 - [[ICAID]] - degree 13, connects to 1 community

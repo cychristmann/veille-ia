@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t1.md"
 type: "concept"
-community: "produits IA grand public"
+community: "Veille États-Unis 2026-11-09 : Régulation et politiques publiques"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/produits_IA_grand_public
+  - community/Veille_États-Unis_2026-11-09__Régulation_et_politiques_publiques
 ---
 
 # Community Impact
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-09  Régulation et politiques publiques]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/produits_IA_grand_public
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-09__Régulation_et_politiques_publiques

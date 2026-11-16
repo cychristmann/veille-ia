@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-14-t6.md"
 type: "document"
-community: "AI Ethics, Security and Regulation"
+community: "Veille Chine 2026-11-12 : Régulation, géopolitique et politique"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Ethics_Security_and_Regulation
+  - community/Veille_Chine_2026-11-12__Régulation_géopolitique_et_politique
 ---
 
 # Veille Chine 2026-11-14 : Outils, plateformes et applications IA
@@ -14,4 +14,4 @@ tags:
 - [[DeepSeek API]] - `references` [EXTRACTED]
 - [[Moomoo AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Ethics_Security_and_Regulation
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__Régulation_géopolitique_et_politique

@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-09-t2.md"
-type: "code"
-community: "OpenAI"
+source_file: "veilles/veille-ia-fr-2026-11-15-t3.md"
+type: "concept"
+community: "Emmanuel Macron"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/OpenAI
+  - community/Emmanuel_Macron
 ---
 
 # Emmanuel Macron
@@ -17,4 +17,4 @@ tags:
 - [[Veille France 2026-11-10  Régulation et gouvernance]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-15]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/OpenAI
+#graphify/concept #graphify/EXTRACTED #community/Emmanuel_Macron

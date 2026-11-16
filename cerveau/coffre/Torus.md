@@ -1,13 +1,16 @@
 ---
 source_file: "feuilletons/f-0012.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-10 : Régulation, sécurité et éthique"
+community: "Industrie de l'IA"
 tags:
   - graphify/concept
-  - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-10__Régulation_sécurité_et_éthique
+  - graphify/INFERRED
+  - community/Industrie_de_lIA
 ---
 
 # Torus
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-10__Régulation_sécurité_et_éthique
+## Connections
+- [[Industrie de l'IA]] - `conceptually_related_to` [INFERRED]
+
+#graphify/concept #graphify/INFERRED #community/Industrie_de_lIA

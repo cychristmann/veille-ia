@@ -1,14 +1,15 @@
 ---
 type: community
-members: 20
+members: 23
 ---
 
 # Microsoft
 
-**Members:** 20 nodes
+**Members:** 23 nodes
 
 ## Members
 - [[AI Impact on Finance and Markets]] - concept - veilles/veille-ia-cn-2026-11-14-t5.md
+- [[Amazon]] - code - veilles/veille-ia-us-2026-11-16-t1.md
 - [[Chey Tae-won]] - concept - veilles/veille-ia-us-2026-11-15-t7.md
 - [[Elon Musk]] - concept - veilles/veille-ia-us-2026-11-15-t7.md
 - [[Enterprise AI Agent Platform]] - code - veilles/veille-ia-us-2026-11-13-t1.md
@@ -23,11 +24,13 @@ members: 20
 - [[SK Group]] - concept - veilles/veille-ia-us-2026-11-15-t7.md
 - [[SMART AI System]] - concept - veilles/veille-ia-us-2026-11-14-t1.md
 - [[Shield AI X-BAT]] - concept - veilles/veille-ia-cn-2026-11-14-t7.md
+- [[Trump Administration]] - concept - veilles/veille-ia-us-2026-11-16-t1.md
 - [[Veille Chine 2026-11-14  Autres articles]] - document - veilles/veille-ia-cn-2026-11-14-t7.md
 - [[Veille Chine 2026-11-14  Finance, investissement et IA]] - document - veilles/veille-ia-cn-2026-11-14-t5.md
 - [[Veille États-Unis 2026-11-10  Agents IA et plateformes]] - document - veilles/veille-ia-us-2026-11-10-t3.md
 - [[Veille États-Unis 2026-11-14  Incident FAA et Intelligence Artificielle]] - document - veilles/veille-ia-us-2026-11-14-t1.md
 - [[Veille États-Unis 2026-11-15  Autres articles]] - document - veilles/veille-ia-us-2026-11-15-t7.md
+- [[Veille États-Unis 2026-11-16 (Gouvernance)]] - document - veilles/veille-ia-us-2026-11-16-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -39,13 +42,17 @@ SORT file.name ASC
 ## Connections to other communities
 - 2 edges to [[_COMMUNITY_Jensen Huang]]
 - 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
 - 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Apple]]
-- 1 edge to [[_COMMUNITY_Google_1]]
+- 1 edge to [[_COMMUNITY_Claude]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Meta]]
+- 1 edge to [[_COMMUNITY_OpenAI]]
 - 1 edge to [[_COMMUNITY_Veille France 2026-11-15]]
 
 ## Top bridge nodes
-- [[Microsoft]] - degree 11, connects to 3 communities
+- [[Microsoft]] - degree 12, connects to 3 communities
+- [[Trump Administration]] - degree 6, connects to 3 communities
 - [[IBM]] - degree 4, connects to 2 communities
 - [[Veille États-Unis 2026-11-15  Autres articles]] - degree 4, connects to 1 community
 - [[Elon Musk]] - degree 2, connects to 1 community

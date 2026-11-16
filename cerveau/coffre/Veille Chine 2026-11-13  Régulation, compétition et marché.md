@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-13-t4.md"
 type: "document"
-community: "Baidu et IA incarnée"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Baidu_et_IA_incarnée
+  - community/Gemini_4_Hydrogen
 ---
 
 # Veille Chine 2026-11-13 : Régulation, compétition et marché
@@ -17,4 +17,4 @@ tags:
 - [[上海市科学数据管理办法]] - `references` [EXTRACTED]
 - [[第七届中国人工智能大赛]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Baidu_et_IA_incarnée
+#graphify/document #graphify/EXTRACTED #community/Gemini_4_Hydrogen

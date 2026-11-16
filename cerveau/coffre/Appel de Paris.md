@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t3.md"
 type: "code"
-community: "OpenAI"
+community: "Emmanuel Macron"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/OpenAI
+  - community/Emmanuel_Macron
 ---
 
 # Appel de Paris
@@ -16,4 +16,4 @@ tags:
 - [[Emmanuel Macron]] - `references` [EXTRACTED]
 - [[Sam Altman]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/OpenAI
+#graphify/code #graphify/EXTRACTED #community/Emmanuel_Macron

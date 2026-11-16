@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0010.md"
 type: "concept"
-community: "Google"
+community: "Veille Outils & code 2026-11-15"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Google
+  - community/Veille_Outils__code_2026-11-15
 ---
 
 # Gemini 4 Carbon
@@ -17,4 +17,4 @@ tags:
 - [[MathArena]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-15]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Google
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-15

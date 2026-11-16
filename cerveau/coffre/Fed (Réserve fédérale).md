@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-14-t5.md"
 type: "concept"
-community: "IA dans l'enseignement supérieur"
+community: "université d'agriculture et sylviculture"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/IA_dans_lenseignement_supérieur
+  - community/université_dagriculture_et_sylviculture
 ---
 
 # Fed (Réserve fédérale)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[IA et système financier]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/IA_dans_lenseignement_supérieur
+#graphify/concept #graphify/EXTRACTED #community/université_dagriculture_et_sylviculture

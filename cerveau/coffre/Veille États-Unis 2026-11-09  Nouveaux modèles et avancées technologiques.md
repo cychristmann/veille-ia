@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t3.md"
 type: "document"
-community: "Google"
+community: "Meta"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Google
+  - community/Meta
 ---
 
 # Veille États-Unis 2026-11-09 : Nouveaux modèles et avancées technologiques
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Meta]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Google
+#graphify/document #graphify/EXTRACTED #community/Meta

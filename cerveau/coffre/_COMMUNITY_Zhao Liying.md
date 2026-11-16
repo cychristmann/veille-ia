@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Zhao Liying
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Veille Chine 2026-11-15  Éducation, formation et talents IA]] - document - veilles/veille-ia-cn-2026-11-15-t4.md
-- [[山东商务职业学院]] - concept - veilles/veille-ia-cn-2026-11-15-t4.md
-- [[广东“AI智能体”数字人才培训计划]] - concept - veilles/veille-ia-cn-2026-11-15-t4.md
+- [[Huawei Ascend]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[LongCat-2.5]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[Meituan]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[Terminal Bench]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
 
 ## Live Query (requires Dataview plugin)
 

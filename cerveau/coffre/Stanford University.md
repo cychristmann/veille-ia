@@ -1,16 +1,16 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t2.md"
-type: "concept"
-community: "Veille États-Unis 2026-11-12 : Régulation, politiques et protestations liées à l'IA"
+type: "code"
+community: "Veille États-Unis 2026-11-12 : IA dans l'éducation et la société"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-12__Régulation_politiques_et_protestations_liées_à_lIA
+  - community/Veille_États-Unis_2026-11-12__IA_dans_léducation_et_la_société
 ---
 
 # Stanford University
 
 ## Connections
-- [[Veille États-Unis 2026-11-12  Régulation, politiques et protestations liées à l'IA]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-12 (Régulation)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-12__Régulation_politiques_et_protestations_liées_à_lIA
+#graphify/code #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-12__IA_dans_léducation_et_la_société

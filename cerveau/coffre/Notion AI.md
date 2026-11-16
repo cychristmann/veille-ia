@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-10-t4.md"
 type: "concept"
-community: "Claude Code"
+community: "GPT-6 Astra"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Claude_Code
+  - community/GPT-6_Astra
 ---
 
 # Notion AI
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Notion]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Claude_Code
+#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra

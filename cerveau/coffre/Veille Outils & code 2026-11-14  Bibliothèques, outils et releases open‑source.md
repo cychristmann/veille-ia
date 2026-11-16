@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-14-t4.md"
 type: "document"
-community: "Veille États-Unis 2026-11-08 : Applications sectorielles"
+community: "复旦发展研究院"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-08__Applications_sectorielles
+  - community/复旦发展研究院
 ---
 
 # Veille Outils & code 2026-11-14 : Bibliothèques, outils et releases open‑source
@@ -14,4 +14,4 @@ tags:
 - [[XYBench]] - `references` [EXTRACTED]
 - [[agent-desktop]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08__Applications_sectorielles
+#graphify/document #graphify/EXTRACTED #community/复旦发展研究院

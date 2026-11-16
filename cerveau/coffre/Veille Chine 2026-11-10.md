@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "document"
-community: "Anthropic"
+community: "Claude"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Anthropic
+  - community/Claude
 ---
 
 # Veille Chine 2026-11-10
@@ -16,4 +16,4 @@ tags:
 - [[Microsoft]] - `references` [EXTRACTED]
 - [[Siemens]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Anthropic
+#graphify/document #graphify/EXTRACTED #community/Claude

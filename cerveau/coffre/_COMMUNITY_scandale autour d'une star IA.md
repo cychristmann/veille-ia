@@ -1,15 +1,17 @@
 ---
 type: community
-members: 2
+members: 4
 ---
 
 # scandale autour d'une star IA
 
-**Members:** 2 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[AWS Budgets]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
-- [[IAM]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
+- [[Elvis Presley Music Rights Owners]] - code - veilles/veille-ia-us-2026-11-08-t2.md
+- [[Eminem Music Rights Owners]] - code - veilles/veille-ia-us-2026-11-08-t2.md
+- [[Feuilleton Suno AI poursuivi]] - document - feuilletons/f-0002.md
+- [[Suno AI]] - code - veilles/veille-ia-us-2026-11-08-t2.md
 
 ## Live Query (requires Dataview plugin)
 

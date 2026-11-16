@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Wuhan University of Science and Technology
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Veille France 2026-11-09  Finance, Bourse et IA]] - document - veilles/veille-ia-fr-2026-11-09-t2.md
+- [[Veille Chine 2026-11-10  Régulation et gouvernance de l’IA]] - document - veilles/veille-ia-cn-2026-11-10-t3.md
+- [[复旦发展研究院]] - concept - veilles/veille-ia-cn-2026-11-10-t3.md
 
 ## Live Query (requires Dataview plugin)
 

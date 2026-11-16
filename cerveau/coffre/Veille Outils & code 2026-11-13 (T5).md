@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-13-t5.md"
 type: "document"
-community: "Claude Code"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Claude_Code
+  - community/Gemini_4_Hydrogen
 ---
 
 # Veille Outils & code 2026-11-13 (T5)
@@ -17,4 +17,4 @@ tags:
 - [[LiquidCodec]] - `references` [EXTRACTED]
 - [[llm-gemini]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Claude_Code
+#graphify/document #graphify/EXTRACTED #community/Gemini_4_Hydrogen

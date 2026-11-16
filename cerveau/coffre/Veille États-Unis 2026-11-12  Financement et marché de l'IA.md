@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t1.md"
 type: "document"
-community: "Google"
+community: "Nvidia"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Google
+  - community/Nvidia
 ---
 
 # Veille États-Unis 2026-11-12 : Financement et marché de l'IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Google
+#graphify/document #graphify/EXTRACTED #community/Nvidia

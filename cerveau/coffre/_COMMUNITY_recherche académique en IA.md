@@ -1,18 +1,19 @@
 ---
 type: community
-members: 5
+members: 6
 ---
 
 # recherche académique en IA
 
-**Members:** 5 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Veille Chine 2026-11-14  IA industrielle et infrastructure]] - document - veilles/veille-ia-cn-2026-11-14-t2.md
-- [[天神之眼系统]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
-- [[比亚迪辅助驾驶车型保有量超 419 万辆]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
-- [[浙江算力规模超198EFLOPS]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
-- [[百度智能云战略合作]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[Affaire Thélyson Orélien]] - concept - veilles/veille-ia-fr-2026-11-14-t1.md
+- [[EPFL]] - concept - veilles/veille-ia-fr-2026-11-14-t1.md
+- [[Gods Don't Give Gifts (Film)]] - concept - veilles/veille-ia-fr-2026-11-14-t1.md
+- [[Jean-Paul Charpin]] - concept - veilles/veille-ia-fr-2026-11-14-t1.md
+- [[Sarah El Haïry]] - concept - veilles/veille-ia-fr-2026-11-14-t1.md
+- [[Veille France 2026-11-14  Société, éducation et culture]] - document - veilles/veille-ia-fr-2026-11-14-t1.md
 
 ## Live Query (requires Dataview plugin)
 

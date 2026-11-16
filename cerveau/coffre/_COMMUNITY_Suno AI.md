@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[Elvis Presley Music Rights Owners]] - code - veilles/veille-ia-us-2026-11-08-t2.md
-- [[Eminem Music Rights Owners]] - code - veilles/veille-ia-us-2026-11-08-t2.md
-- [[Feuilleton Suno AI poursuivi]] - document - feuilletons/f-0002.md
-- [[Suno AI]] - code - veilles/veille-ia-us-2026-11-08-t2.md
+- [[SC Media]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
+- [[Veille États-Unis 2026-11-08  Perception publique et sociétale]] - document - veilles/veille-ia-us-2026-11-08-t5.md
+- [[tech-insider.org]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
+- [[vr.org]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
 
 ## Live Query (requires Dataview plugin)
 

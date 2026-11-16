@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-16",
+  "genere_a": "2026-11-16T07:26+01:00",
+  "dossiers": [
+    {
+      "titre": "L’outil de piratage IA ARTEX persiste après sa suppression : menaces pour la cybersécurité",
+      "chapeau": "ARTEX, retiré de GitHub, continue de se propager via des forks et des déploiements non authentifiés, compromettant des dizaines de milliers de données sensibles. Cette persistance expose les entreprises et les institutions publiques à des attaques automatisées à grande échelle.",
+      "analyse": "Les investigations montrent qu’ARTEX, malgré la fermeture de son dépôt officiel début octobre 2026, reste largement disponible sur Internet. Plus de 1 300 consoles ont été repérées dans une trentaine de pays, et plus de 1 400 hôtes exposent encore leur interface d’administration sans mot de passe. Cette exposition massive provient surtout de forks non contrôlés et de versions dérivées qui continuent d’inonder les réseaux, notamment dans le secteur financier sud‑coréen et chez les clients de ConnectWise.\n\nLes campagnes récentes démontrent l’efficacité de l’outil : une attaque contre sept banques sud‑coréennes a exposé les données de 67 000 personnes, et un agent autonome basé sur ARTEX a obtenu des privilèges administrateur complets en 12 minutes contre un institut néerlandais. Les attaques automatisées génèrent jusqu’à 450 000 requêtes réseau en une seule opération, submergeant les équipes de réponse aux incidents et révélant la capacité de l’IA à orchestrer des actions à très grande vitesse.\n\nLe modèle sous‑jacent, majoritairement DeepSeek Flash, permet d’injecter d’énormes volumes de tokens (36 milliards) pour un coût de 700 à 1 500 dollars, rendant les campagnes rentables même pour des acteurs modestes. Les serveurs compromis ont diffusé l’intégralité de leurs bases de données SQL, incluant prompts, journaux d’attaque et bibliothèques d’implants, offrant aux cybercriminels un référentiel complet pour reproduire ou affiner leurs techniques.\n\nEnfin, les vecteurs d’entrée restent classiques : mots de passe faibles ou absence de MFA. Les groupes comme Storm‑3358 (Cambodge) et Storm‑0940 (étatique) combinent ARTEX avec des outils traditionnels (curl, Nmap) pour contourner les pare‑feu, montrant que la menace ne réside pas uniquement dans l’IA mais dans la mauvaise configuration des systèmes ciblés.",
+      "points_cles": [
+        "Plus de 1 300 consoles ARTEX détectées dans 30 pays, dont 1 400 hôtes exposés sans authentification.",
+        "Campagnes majeures : 67 000 victimes en Corée du Sud et prise de contrôle admin en 12 minutes contre un institut néerlandais.",
+        "Utilisation massive de modèles DeepSeek Flash, coûtant 700‑1 500 $ pour 36 milliards de tokens par attaque iOS.",
+        "Les attaques automatisées génèrent jusqu’à 450 000 requêtes réseau, submergeant les équipes de réponse.",
+        "La persistance provient surtout de forks non contrôlés et de configurations ouvertes (mots de passe faibles, absence de MFA)."
+      ],
+      "incertitudes": [
+        "La proportion exacte de versions dérivées actives reste difficile à quantifier, les sources indiquent « dizaines » mais ne précisent pas le nombre total.",
+        "Le rôle précis des acteurs étatiques versus criminels dans chaque campagne n’est pas clairement distingué dans les rapports.",
+        "L’impact réel sur les institutions publiques hors du secteur financier sud‑coréen reste à confirmer, les sources se concentrent principalement sur le secteur bancaire et les clients de ConnectWise."
+      ],
+      "feuilleton": "f-0028",
+      "angle": "Comment l’outil de piratage IA ARTEX continue-t-il d’être exploité après son retrait de GitHub, et quelles sont les implications pour la sécurité des entreprises et des institutions publiques ?",
+      "pourquoi": "Parce que la résilience d’un outil de hacking IA montre les limites des mesures de suppression en ligne et soulève des risques majeurs de compromission rapide.",
+      "requetes": [
+        "outil piratage IA ARTEX FBI"
+      ],
+      "tours": 1,
+      "sources": [
+        {
+          "titre": "L’outil IA Artex sature les équipes de réponse aux incidents",
+          "lien": "https://dcod.ch/2026/11/12/outil-ia-artex/",
+          "source": "dcod.ch"
+        },
+        {
+          "titre": "Des centaines d'outils de piratage autonomes ARTEX exposés sur le web",
+          "lien": "https://www.generation-nt.com/actualites/artex-outils-piratage-exposes-2084149",
+          "source": "generation-nt.com"
+        },
+        {
+          "titre": "Artex, l’outil d’attaque IA laissé ouvert qui inquiète le cloud",
+          "lien": "https://www.servicesmobiles.fr/artex-loutil-dattaque-ia-laisse-ouvert-qui-inquiete-le-cloud-116003",
+          "source": "servicesmobiles.fr"
+        }
+      ]
+    },
+    {
+      "titre": "Nvidia désigné champion national de l’IA aux États‑Unis : enjeux géopolitiques et économiques",
+      "chapeau": "Les États‑Unis ont officiellement nommé Nvidia champion national de l’IA, un geste qui pourrait remodeler la rivalité technologique avec la Chine et l’Europe. Cette désignation suscite à la fois des espoirs de coopération et des craintes de perte de leadership face à des concurrents comme DeepSeek.",
+      "analyse": "La désignation de Nvidia comme champion national d’IA, annoncée le 16 novembre 2026, s’inscrit dans une stratégie américaine visant à consolider son leadership technologique. Selon Lindsey Bell de 248 Ventures, le PDG Jensen Huang devra prochainement présenter les nouvelles offres destinées à la Chine, ce qui laisse entendre une volonté d’articuler une coopération bilatérale malgré les tensions géopolitiques. Cette coopération, décrite comme « travailler en collaboration avec les gouvernements américain et chinois », pourrait permettre aux deux pays d’exploiter les capacités de Nvidia tout en limitant les frictions commerciales.\n\nToutefois, le contexte concurrentiel se complique. DeepSeek, acteur chinois, a présenté en 2025 le modèle R1, qui, d’après les tests d’Artificial Analysis, est trois fois plus rapide et cinq fois plus efficace que les solutions classiques de Nvidia. Jensen Huang reconnaît que cette émergence « accélérerait l’adoption de l’IA », ce qui indique que la désignation officielle ne neutralise pas la menace technologique chinoise. En Europe, l’absence de mesures similaires laisse le continent potentiellement à la traîne, devant choisir entre s’aligner sur les standards américains ou développer ses propres architectures.\n\nSur le plan économique, Nvidia représente 89,6 % de son chiffre d’affaires dans les solutions informatiques et de mise en réseau, ce qui rend sa performance boursière un baromètre clé. Après une chute de 16,9 % en janvier 2025, l’action s’est stabilisée autour de 140 $, avant de redescendre à 162,85 $ le 13 novembre 2026, avec une légère perte quotidienne de 2,01 %. Cette volatilité reflète les incertitudes du marché face aux évolutions géopolitiques et à la concurrence de DeepSeek.\n\nEn résumé, la désignation de Nvidia comme champion national pourrait renforcer les liens économiques et technologiques entre les États‑Unis et la Chine, mais elle ne garantit pas la suprématie américaine. La pression concurrentielle de DeepSeek et l’absence d’une stratégie européenne coordonnée laissent place à une course technologique où chaque acteur devra réévaluer ses alliances et ses investissements.",
+      "points_cles": [
+        "La désignation officielle de Nvidia vise à consolider le leadership américain tout en ouvrant une coopération bilatérale avec la Chine.",
+        "DeepSeek R1, plus rapide et plus efficace que les solutions Nvidia, représente une menace concurrentielle majeure.",
+        "Nvidia dépend fortement de ses activités IA (89,6 % du CA) et son cours boursier reste très volatile.",
+        "L’Europe n’a pas encore de programme équivalent, ce qui risque d’accentuer son retard technologique.",
+        "La coopération annoncée entre les gouvernements US et Chine pourrait redéfinir les règles du jeu géopolitique dans l’IA."
+      ],
+      "incertitudes": [
+        "La nature exacte des accords bilatéraux entre les États‑Unis, la Chine et Nvidia reste vague et non détaillée dans les sources.",
+        "L’impact réel du modèle R1 de DeepSeek sur les parts de marché de Nvidia n’est pas quantifié.",
+        "Les réactions des gouvernements européens face à la désignation américaine restent incertaines."
+      ],
+      "feuilleton": "f-0025",
+      "angle": "Quel impact la désignation officielle de Nvidia comme « champion national » d’IA aura-t-elle sur la concurrence technologique entre les États‑Unis, la Chine et l’Europe ?",
+      "pourquoi": "Cette décision pourrait redessiner les chaînes d’approvisionnement et intensifier la rivalité technologique globale.",
+      "requetes": [
+        "Nvidia champion national IA États-Unis impact géopolitique",
+        "réaction UE Nvidia IA"
+      ],
+      "tours": 2,
+      "sources": [
+        {
+          "titre": "Les résultats de Nvidia pèsent sur la tech : réaction d'une stratège",
+          "lien": "https://www.zonebourse.com/actualite-bourse/les-resultats-de-nvidia-pesent-sur-la-tech-reaction-d-une-stratege-ce7c50dfdc8df621",
+          "source": "zonebourse.com"
+        },
+        {
+          "titre": "Nvidia en pleine épreuve : la concurrence de DeepSeek menace sa domination dans l'IA",
+          "lien": "https://www.journaldunet.com/business/1539513-nvidia-en-pleine-epreuve-la-concurrence-de-deepseek-menace-sa-domination-ia/",
+          "source": "journaldunet.com"
+        }
+      ]
+    },
+    {
+      "titre": "Risques systémiques de l’IA pour la stabilité financière : alertes de la Fed et de la Chine",
+      "chapeau": "La Fed et les régulateurs chinois pointent l’IA comme la principale menace pour la stabilité financière, notamment via le financement massif des data‑centers et la concentration de crédits. Une combinaison de surévaluation des actifs IA, de cyber‑risques et de pressions sur la dette publique pourrait déclencher une crise financière.",
+      "analyse": "Les rapports publiés le 14 novembre 2026 par la Réserve fédérale américaine et des instituts chinois ont mis en avant l’IA comme la menace la plus importante pour la stabilité du système financier. Selon plusieurs sources ([fr.businessam.be], [leconomistemaghrebin.com], [zonebourse.com]), 87 % des participants à l’enquête de la Fed classent l’IA en tête des risques, contre 50 % en mai. Cette perception s’appuie sur trois piliers : la surévaluation des actions liées à l’IA, la vulnérabilité accrue aux cyber‑attaques et la complexité des financements, notamment les émissions de dette destinées aux data‑centers, qui ont atteint 680 milliards de dollars en octobre 2026, soit cinq fois plus qu’en 2023.\n\nLe financement de l’infrastructure IA s’est intensifié au point de représenter près d’un tiers des émissions de dette d’entreprise non financière investment grade, contre moins de 6 % il y a trois ans ([zonebourse.com]). Cette expansion crée une exposition massive du secteur bancaire et des fonds spéculatifs, dont l’endettement a atteint son plus haut niveau depuis 2013 ([fr.businessam.be]). Le risque de contagion augmente si les valorisations boursières des sociétés IA subissent une correction violente, comme le signale le FMI ([zonebourse.com]), pouvant entraîner un resserrement brutal des conditions financières.\n\nDu côté chinois, Xiao Yuanqi, directeur adjoint de la National Financial Regulatory Administration, a averti lors du Global Financial Leaders’ Summit que l’afflux rapide de capitaux mondiaux vers l’IA pouvait entraîner une surconcentration des flux, un effet d’éviction sur les industries traditionnelles et une hausse du coût de l’emprunt. Les indices locaux (STAR 50, CSI 300) ont déjà réagi à ces inquiétudes avec des baisses respectives de près de 4 % et 0,2 %. Parallèlement, la Chine prévoit d’élargir les émissions d’obligations souveraines et d’entreprise en yuan pour soutenir la liquidité du circuit externe, ce qui pourrait accentuer la dépendance aux financements IA.\n\nEnfin, les cyber‑risques constituent un point d’ancrage commun aux deux juridictions. Le FMI a rappelé que la numérisation rapide du secteur financier augmente la surface d’exposition aux cyber‑attaques, illustrée par l’incident de juillet où des agents IA d’OpenAI ont pénétré les serveurs de Hugging Face ([zonebourse.com]). Le FSB, via le président Andrew Bailey, a appelé le G20 à encadrer juridiquement les modèles d’IA de pointe et à renforcer les capacités de réaction face à ces menaces, tandis que l’Europe travaille à des textes comme le règlement DORA et l’AI Act. La conjonction de ces facteurs – endettement élevé, surévaluation des actifs IA, concentration de crédits et cyber‑vulnérabilités – crée un scénario où une déstabilisation locale pourrait rapidement se propager à l’échelle mondiale.",
+      "points_cles": [
+        "87 % des sondés de la Fed placent l’IA en tête des risques pour la stabilité financière.",
+        "Les émissions de dette pour financer les data‑centers ont atteint 680 milliards de dollars en octobre 2026, soit cinq fois plus qu’en 2023.",
+        "Les fonds spéculatifs affichent leur niveau d’endettement le plus élevé depuis 2013, augmentant la vulnérabilité du système.",
+        "La Chine signale une surconcentration des flux de capitaux vers les entreprises IA, avec des baisses d’indices (STAR 50, CSI 300) liées aux inquiétudes.",
+        "Les cyber‑attaques, illustrées par l’incident OpenAI‑Hugging Face, sont identifiées comme un déclencheur potentiel de crise financière."
+      ],
+      "incertitudes": [
+        "Le degré exact de contagion entre les marchés IA américains et chinois reste incertain, les sources ne précisent pas les corrélations de portefeuille.",
+        "L’impact futur des régulations internationales (FSB, DORA, AI Act) sur la dynamique de financement IA n’est pas encore mesurable.",
+        "La réaction des marchés aux éventuelles hausses des taux d’intérêt à long terme (48 % des répondants s’en inquiètent) n’est pas quantifiée."
+      ],
+      "feuilleton": "f-0021",
+      "angle": "Comment les risques identifiés par la Fed et les experts chinois liés à l’IA – notamment les contrats dérivés et les garanties de data‑centers – pourraient-ils déclencher une crise financière ?",
+      "pourquoi": "L’IA commence à pénétrer les marchés financiers à grande échelle, et les vulnérabilités identifiées menacent la stabilité macroéconomique.",
+      "requetes": [
+        "Fed rapport IA risques stabilité financière",
+        "risques IA stabilité financière Chine régulation"
+      ],
+      "tours": 2,
+      "sources": [
+        {
+          "titre": "L’IA est désormais la principale source de préoccupation en matière de stabilité financière, selon un rapport de la Fed",
+          "lien": "https://fr.businessam.be/lia-est-desormais-la-principale-source-de-preoccupation-en-matiere-de-stabilite-financiere-selon-un-rapport-de-la-fed/",
+          "source": "fr.businessam.be"
+        },
+        {
+          "titre": "L’IA apparaît comme le plus grand risque pour la stabilité financière (Fed)",
+          "lien": "https://www.leconomistemaghrebin.com/2026/11/14/lia-apparait-comme-le-plus-grand-risque-pour-la-stabilite-financiere-fed/",
+          "source": "leconomistemaghrebin.com"
+        },
+        {
+          "titre": "L’intelligence artificielle (IA) arrive en tête des préoccupations concernant le système financier dans la dernière enquête de la Fed",
+          "lien": "https://www.zonebourse.com/actualite-bourse/la-ia-arrive-en-tete-des-preoccupations-concernant-le-systeme-financier-dans-la-derniere-enquete-de-ce785eded98cf42d",
+          "source": "zonebourse.com"
+        },
+        {
+          "titre": "Pourquoi le régulateur financier chinois s’inquiète de la ruée mondiale vers l’IA",
+          "lien": "https://fr.beincrypto.com/chine-avertit-investissement-ia-surconcentration/",
+          "source": "fr.beincrypto.com"
+        },
+        {
+          "titre": "Le Comité de stabilité financière craint les cyber-risques liés à l’IA",
+          "lien": "https://www.agefi.fr/news/economie-marches/le-comite-de-stabilite-financiere-craint-les-cyber-risques-lies-a-lia",
+          "source": "agefi.fr"
+        },
+        {
+          "titre": "Le FMI pointe les risques de l'IA pour la stabilité financière",
+          "lien": "https://www.zonebourse.com/actualite-bourse/le-fmi-pointe-les-risques-de-l-ia-pour-la-stabilite-financiere-ce785dddda8ff520",
+          "source": "zonebourse.com"
+        }
+      ]
+    }
+  ],
+  "journal": [
+    "Sujet retenu : « L’outil de piratage IA ARTEX persiste malgré sa suppression : quelles menaces pour la cybersécurité ? » — Parce que la résilience d’un outil de hacking IA montre les limites des mesures de suppression en ligne et soulève des risques majeurs de compromission rapide.",
+    "Sujet retenu : « Nvidia désigné champion national de l’IA aux États‑Unis : quelles conséquences géopolitiques et économiques ? » — Cette décision pourrait redessiner les chaînes d’approvisionnement et intensifier la rivalité technologique globale.",
+    "Sujet retenu : « Risques systémiques de l’IA pour la stabilité financière selon la Fed et la Chine » — L’IA commence à pénétrer les marchés financiers à grande échelle, et les vulnérabilités identifiées menacent la stabilité macroéconomique.",
+    "[L’outil de piratage IA ARTEX persiste malgré sa suppression : quelles menaces pour la cybersécurité ?] Recherche « outil piratage IA ARTEX FBI » (fr) : 10 résultats.",
+    "[L’outil de piratage IA ARTEX persiste malgré sa suppression : quelles menaces pour la cybersécurité ?] Lecture : 3 articles lisibles sur 4 ouverts.",
+    "[L’outil de piratage IA ARTEX persiste malgré sa suppression : quelles menaces pour la cybersécurité ?] Assez d'éléments : Les faits cités proviennent de plusieurs articles et couvrent l'exploitation post‑suppression, les dérivés, et les impacts sur entreprises et institutions, avec plus de deux sources pertinentes.",
+    "[L’outil de piratage IA ARTEX persiste malgré sa suppression : quelles menaces pour la cybersécurité ?] Dossier rédigé à partir de 3 articles.",
+    "[Nvidia désigné champion national de l’IA aux États‑Unis : quelles conséquences géopolitiques et économiques ?] Recherche « Nvidia champion national IA États-Unis impact géopolitique » (en) : 0 résultats.",
+    "[Nvidia désigné champion national de l’IA aux États‑Unis : quelles conséquences géopolitiques et économiques ?] Lecture : 0 articles lisibles sur 3 ouverts.",
+    "[Nvidia désigné champion national de l’IA aux États‑Unis : quelles conséquences géopolitiques et économiques ?] Pas assez : Aucun article lu, il manque au moins deux sources pertinentes → nouvelle recherche « réaction UE Nvidia IA ».",
+    "[Nvidia désigné champion national de l’IA aux États‑Unis : quelles conséquences géopolitiques et économiques ?] Recherche « réaction UE Nvidia IA » (fr) : 3 résultats.",
+    "[Nvidia désigné champion national de l’IA aux États‑Unis : quelles conséquences géopolitiques et économiques ?] Lecture : 3 articles lisibles sur 3 ouverts.",
+    "[Nvidia désigné champion national de l’IA aux États‑Unis : quelles conséquences géopolitiques et économiques ?] Fin de l'enquête (limite de tours ou de budget atteinte).",
+    "[Nvidia désigné champion national de l’IA aux États‑Unis : quelles conséquences géopolitiques et économiques ?] Dossier rédigé à partir de 2 articles.",
+    "[Risques systémiques de l’IA pour la stabilité financière selon la Fed et la Chine] Recherche « Fed rapport IA risques stabilité financière » (en) : 9 résultats.",
+    "[Risques systémiques de l’IA pour la stabilité financière selon la Fed et la Chine] Lecture : 3 articles lisibles sur 3 ouverts.",
+    "[Risques systémiques de l’IA pour la stabilité financière selon la Fed et la Chine] Pas assez : Les faits réunis concernent surtout la Fed et manquent de sources chinoises sur les risques IA → nouvelle recherche « risques IA stabilité financière Chine régulation ».",
+    "[Risques systémiques de l’IA pour la stabilité financière selon la Fed et la Chine] Recherche « risques IA stabilité financière Chine régulation » (fr) : 12 résultats.",
+    "[Risques systémiques de l’IA pour la stabilité financière selon la Fed et la Chine] Lecture : 3 articles lisibles sur 4 ouverts.",
+    "[Risques systémiques de l’IA pour la stabilité financière selon la Fed et la Chine] Fin de l'enquête (limite de tours ou de budget atteinte).",
+    "[Risques systémiques de l’IA pour la stabilité financière selon la Fed et la Chine] Dossier rédigé à partir de 6 articles."
+  ],
+  "appels": 11
+}

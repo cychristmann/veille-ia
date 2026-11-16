@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # 复旦发展研究院
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Veille Chine 2026-11-10  Régulation et gouvernance de l’IA]] - document - veilles/veille-ia-cn-2026-11-10-t3.md
-- [[复旦发展研究院]] - concept - veilles/veille-ia-cn-2026-11-10-t3.md
+- [[Arnaques à l’IA]] - concept - veilles/veille-ia-fr-2026-11-16-t1.md
+- [[Cybersécurité et IA]] - concept - veilles/veille-ia-fr-2026-11-16-t1.md
+- [[Veille France 2026-11-16  Régulation, sécurité et gouvernance]] - document - veilles/veille-ia-fr-2026-11-16-t1.md
 
 ## Live Query (requires Dataview plugin)
 

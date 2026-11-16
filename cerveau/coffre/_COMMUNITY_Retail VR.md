@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Retail VR
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Retail VR]] - concept - veilles/veille-ia-fr-2026-11-13-t5.md
-- [[Veille France 2026-11-13  Autres articles]] - document - veilles/veille-ia-fr-2026-11-13-t5.md
+- [[Veille Chine 2026-11-15  Éducation, formation et talents IA]] - document - veilles/veille-ia-cn-2026-11-15-t4.md
+- [[山东商务职业学院]] - concept - veilles/veille-ia-cn-2026-11-15-t4.md
+- [[广东“AI智能体”数字人才培训计划]] - concept - veilles/veille-ia-cn-2026-11-15-t4.md
 
 ## Live Query (requires Dataview plugin)
 

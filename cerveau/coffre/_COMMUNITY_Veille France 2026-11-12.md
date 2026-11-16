@@ -1,11 +1,11 @@
 ---
 type: community
-members: 35
+members: 38
 ---
 
 # Veille France 2026-11-12
 
-**Members:** 35 nodes
+**Members:** 38 nodes
 
 ## Members
 - [[Alibaba AI]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
@@ -15,12 +15,13 @@ members: 35
 - [[Chinese Robotics Industry]] - concept - dossiers/2026-11-13-2.md
 - [[CoreWeave]] - concept - veilles/veille-ia-fr-2026-11-11-t1.md
 - [[Cortex]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Foxconn]] - code - veilles/veille-ia-us-2026-11-16-t2.md
 - [[Google AI Studio]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
 - [[Google Gemini CarPlay]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
 - [[Google Gemini Decisions]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
 - [[Guangdong Province]] - concept - veilles/veille-ia-cn-2026-11-11-t1.md
 - [[Harbor Claris]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Intel]] - concept - veilles/veille-ia-us-2026-11-11-t1.md
+- [[Intel]] - code - veilles/veille-ia-us-2026-11-16-t2.md
 - [[JioStar]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
 - [[Local LLM Server]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
 - [[MEL Conference]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
@@ -31,6 +32,7 @@ members: 35
 - [[Nanling Technology]] - concept - veilles/veille-ia-cn-2026-11-11-t1.md
 - [[Naver]] - concept - veilles/veille-ia-fr-2026-11-12-t1.md
 - [[Omnii Defense]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[SambaNova Systems]] - code - veilles/veille-ia-us-2026-11-16-t2.md
 - [[Sandisk]] - concept - veilles/veille-ia-us-2026-11-11-t1.md
 - [[Seagate]] - concept - veilles/veille-ia-us-2026-11-11-t1.md
 - [[Shanghai Film]] - concept - veilles/veille-ia-cn-2026-11-11-t1.md
@@ -42,6 +44,7 @@ members: 35
 - [[Veille France 2026-11-12  Marchés financiers et investissements IA]] - document - veilles/veille-ia-fr-2026-11-12-t1.md
 - [[Veille États-Unis 2026-11-11  Financement et Bourse de l'IA]] - document - veilles/veille-ia-us-2026-11-11-t1.md
 - [[Veille États-Unis 2026-11-13  Applications sectorielles de l’IA]] - document - veilles/veille-ia-us-2026-11-13-t3.md
+- [[Veille États-Unis 2026-11-16 (Industrie)]] - document - veilles/veille-ia-us-2026-11-16-t2.md
 - [[rLocalLLM]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
 
 ## Live Query (requires Dataview plugin)
@@ -52,10 +55,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Anthropic]]
+- 3 edges to [[_COMMUNITY_Nvidia]]
 - 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_Apple]]
+- 1 edge to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_Google]]
 
 ## Top bridge nodes
 - [[CoreWeave]] - degree 10, connects to 2 communities

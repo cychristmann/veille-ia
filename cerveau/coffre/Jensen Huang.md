@@ -13,7 +13,6 @@ tags:
 ## Connections
 - [[Alice Huang]] - `references` [EXTRACTED]
 - [[Dossier Scandale Nvidia]] - `references` [EXTRACTED]
-- [[Feuilleton Crise de direction chez Nvidia]] - `references` [EXTRACTED]
 - [[Nvidia]] - `conceptually_related_to` [EXTRACTED]
 - [[Nvidia]] - `conceptually_related_to` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]

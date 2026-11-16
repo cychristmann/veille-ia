@@ -16,6 +16,7 @@ tags:
 - [[John Langford]] - `references` [EXTRACTED]
 - [[Microsoft Ignite]] - `references` [EXTRACTED]
 - [[Microsoft Outlook Outage]] - `conceptually_related_to` [EXTRACTED]
+- [[Trump Administration]] - `conceptually_related_to` [EXTRACTED]
 - [[Veille Chine 2026-11-10]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Stratégies d'entreprises et investissements IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-10  Agents IA et plateformes]] - `references` [EXTRACTED]

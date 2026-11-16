@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-13-1.md"
 type: "concept"
-community: "Blue J"
+community: "Arm"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Blue_J
+  - community/Arm
 ---
 
 # Arm
 
-#graphify/concept #graphify/EXTRACTED #community/Blue_J
+#graphify/concept #graphify/EXTRACTED #community/Arm

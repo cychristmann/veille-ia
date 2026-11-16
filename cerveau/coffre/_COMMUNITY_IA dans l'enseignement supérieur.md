@@ -1,16 +1,18 @@
 ---
 type: community
-members: 3
+members: 5
 ---
 
 # IA dans l'enseignement supérieur
 
-**Members:** 3 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Fed (Réserve fédérale)]] - concept - veilles/veille-ia-fr-2026-11-14-t5.md
-- [[IA et système financier]] - concept - veilles/veille-ia-fr-2026-11-14-t5.md
-- [[Veille France 2026-11-14  Autres articles]] - document - veilles/veille-ia-fr-2026-11-14-t5.md
+- [[Veille Chine 2026-11-15  Éthique, société et relations homme‑machine]] - document - veilles/veille-ia-cn-2026-11-15-t5.md
+- [[亚洲日报 (Asia Daily)]] - concept - veilles/veille-ia-cn-2026-11-15-t5.md
+- [[智源社区 (BAAI Community)]] - concept - veilles/veille-ia-cn-2026-11-15-t5.md
+- [[汽车之家 (Autohome)]] - concept - veilles/veille-ia-cn-2026-11-15-t5.md
+- [[网易新闻 (NetEase News)]] - concept - veilles/veille-ia-cn-2026-11-15-t5.md
 
 ## Live Query (requires Dataview plugin)
 

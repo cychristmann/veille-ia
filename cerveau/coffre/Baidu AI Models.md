@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-13-t4.md"
 type: "concept"
-community: "Baidu et IA incarnée"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Baidu_et_IA_incarnée
+  - community/Gemini_4_Hydrogen
 ---
 
 # Baidu AI Models
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-13  Régulation, compétition et marché]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Baidu_et_IA_incarnée
+#graphify/concept #graphify/EXTRACTED #community/Gemini_4_Hydrogen

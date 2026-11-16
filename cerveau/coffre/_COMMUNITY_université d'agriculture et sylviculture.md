@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # université d'agriculture et sylviculture
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Feuilleton Centre international d’IA militaire français ouvert à Rennes]] - document - feuilletons/f-0023.md
-- [[IA militaire]] - concept - feuilletons/f-0023.md
+- [[Fed (Réserve fédérale)]] - concept - veilles/veille-ia-fr-2026-11-14-t5.md
+- [[IA et système financier]] - concept - veilles/veille-ia-fr-2026-11-14-t5.md
+- [[Veille France 2026-11-14  Autres articles]] - document - veilles/veille-ia-fr-2026-11-14-t5.md
 
 ## Live Query (requires Dataview plugin)
 

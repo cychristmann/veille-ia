@@ -23,6 +23,7 @@ tags:
 - [[Numerama]] - `cites` [EXTRACTED]
 - [[Quartz]] - `cites` [EXTRACTED]
 - [[Sam Altman]] - `references` [EXTRACTED]
+- [[Trump Administration]] - `conceptually_related_to` [EXTRACTED]
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-15  Politiques publiques et gouvernance de l’IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Régulation, politique et enjeux sociétaux]] - `references` [EXTRACTED]
@@ -30,6 +31,6 @@ tags:
 - [[Veille France 2026-11-11]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-11  Autres articles]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-11  Régulation, éthique et risques de l'IA]] - `references` [EXTRACTED]
-- [[Veille États-Unis 2026-11-11  Outils, plateformes et recherche IA]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-11]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/OpenAI

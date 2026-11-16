@@ -28,18 +28,17 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 7 edges to [[_COMMUNITY_Google]]
+- 7 edges to [[_COMMUNITY_Nvidia]]
 - 2 edges to [[_COMMUNITY_OpenAI]]
 - 2 edges to [[_COMMUNITY_Microsoft]]
-- 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_profil individuel]]
 - 1 edge to [[_COMMUNITY_Veille Chine 2026-11-13]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-12  Sécurité et gouvernance]]
+- 1 edge to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_Dossier Scandale Nvidia]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-13]]
 - 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-15]]
 
 ## Top bridge nodes
-- [[Jensen Huang]] - degree 16, connects to 7 communities
+- [[Jensen Huang]] - degree 15, connects to 6 communities
 - [[Veille France 2026-11-15  Recherche, outils et modèles IA]] - degree 6, connects to 4 communities
 - [[Veille France 2026-11-13  Impact sociétal & Débats publics]] - degree 5, connects to 1 community
 - [[Veille Chine 2026-11-12  Marché financier et investissements IA]] - degree 2, connects to 1 community

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t1.md"
 type: "concept"
-community: "Google"
+community: "Meta"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Google
+  - community/Meta
 ---
 
 # Zen 6 架构
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AMD 霄龙嵌入式 9006 系列 SP7]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Google
+#graphify/concept #graphify/EXTRACTED #community/Meta

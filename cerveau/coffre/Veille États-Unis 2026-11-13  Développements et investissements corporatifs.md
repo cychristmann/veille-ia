@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
 type: "document"
-community: "Google"
+community: "Meta"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Google
+  - community/Meta
 ---
 
 # Veille États-Unis 2026-11-13 : Développements et investissements corporatifs
@@ -21,4 +21,4 @@ tags:
 - [[Sino Biological]] - `references` [EXTRACTED]
 - [[SpaceX]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Google
+#graphify/document #graphify/EXTRACTED #community/Meta

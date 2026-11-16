@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
 type: "code"
-community: "Google"
+community: "Meta"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Google
+  - community/Meta
 ---
 
 # Digital Networks Act
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Cisco]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Google
+#graphify/code #graphify/EXTRACTED #community/Meta

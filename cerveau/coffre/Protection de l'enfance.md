@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-15-t3.md"
 type: "concept"
-community: "OpenAI"
+community: "Emmanuel Macron"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/OpenAI
+  - community/Emmanuel_Macron
 ---
 
 # Protection de l'enfance
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Emmanuel Macron]] - `references` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/OpenAI
+#graphify/concept #graphify/INFERRED #community/Emmanuel_Macron

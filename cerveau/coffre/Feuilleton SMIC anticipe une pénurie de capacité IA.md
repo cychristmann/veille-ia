@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0016.md"
 type: "document"
-community: "Google"
+community: "Nvidia"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Google
+  - community/Nvidia
 ---
 
 # Feuilleton: SMIC anticipe une pénurie de capacité IA
@@ -14,4 +14,4 @@ tags:
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[SMIC]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Google
+#graphify/document #graphify/EXTRACTED #community/Nvidia

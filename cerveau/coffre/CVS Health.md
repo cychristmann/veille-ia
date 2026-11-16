@@ -1,16 +1,17 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-11-t5.md"
-type: "concept"
-community: "Veille Outils & code 2026-11-12"
+source_file: "veilles/veille-ia-us-2026-11-14-t6.md"
+type: "code"
+community: "Veille Chine 2026-11-13"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-12
+  - community/Veille_Chine_2026-11-13
 ---
 
 # CVS Health
 
 ## Connections
-- [[Veille Chine 2026-11-11  Autres articles]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-11]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-14]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12
+#graphify/code #graphify/EXTRACTED #community/Veille_Chine_2026-11-13

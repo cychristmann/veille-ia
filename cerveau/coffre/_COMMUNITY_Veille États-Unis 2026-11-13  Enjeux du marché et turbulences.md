@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille États-Unis 2026-11-13 : Enjeux du marché et turbulences
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Veille États-Unis 2026-11-13  Enjeux du marché et turbulences]] - document - veilles/veille-ia-us-2026-11-13-t4.md
+- [[OpenAI Foundation]] - concept - veilles/veille-ia-us-2026-11-15-t5.md
+- [[Veille États-Unis 2026-11-15  Régulation, sécurité et éthique de l'IA]] - document - veilles/veille-ia-us-2026-11-15-t5.md
 
 ## Live Query (requires Dataview plugin)
 

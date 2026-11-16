@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-12-t1.md"
 type: "concept"
-community: "Claude Code"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/Claude_Code
+  - community/Gemini_4_Hydrogen
 ---
 
 # Agent Skills
@@ -16,4 +16,4 @@ tags:
 - [[Gemini 4 Hydrogen]] - `conceptually_related_to` [INFERRED]
 - [[Veille Outils & code 2026-11-12]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/INFERRED #community/Claude_Code
+#graphify/concept #graphify/INFERRED #community/Gemini_4_Hydrogen

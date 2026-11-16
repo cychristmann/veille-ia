@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-15-t5.md"
 type: "document"
-community: "Veille Chine 2026-11-15 : Éthique, société et relations homme‑machine"
+community: "IA dans l'enseignement supérieur"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-15__Éthique_société_et_relations_hommemachine
+  - community/IA_dans_lenseignement_supérieur
 ---
 
 # Veille Chine 2026-11-15 : Éthique, société et relations homme‑machine
@@ -16,4 +16,4 @@ tags:
 - [[汽车之家 (Autohome)]] - `references` [EXTRACTED]
 - [[网易新闻 (NetEase News)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-15__Éthique_société_et_relations_hommemachine
+#graphify/document #graphify/EXTRACTED #community/IA_dans_lenseignement_supérieur

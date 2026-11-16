@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-15-t1.md"
+source_file: "veilles/veille-ia-cn-2026-11-14-t3.md"
 type: "concept"
-community: "logiciels IA pour entreprises"
+community: "Veille Chine 2026-11-13 : Industrie et fabrication"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/logiciels_IA_pour_entreprises
+  - community/Veille_Chine_2026-11-13__Industrie_et_fabrication
 ---
 
 # AI Short Dramas
@@ -14,4 +14,4 @@ tags:
 - [[Veille Chine 2026-11-14  Médias, création et divertissement IA]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-15  Contenu et divertissement IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/logiciels_IA_pour_entreprises
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-13__Industrie_et_fabrication

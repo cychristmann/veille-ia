@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-15-t1.md"
 type: "document"
-community: "Google"
+community: "Nvidia"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Google
+  - community/Nvidia
 ---
 
 # Veille France 2026-11-15 : Industrie & matériel
@@ -16,4 +16,4 @@ tags:
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[SMIC]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Google
+#graphify/document #graphify/EXTRACTED #community/Nvidia

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-13-t6.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-12"
+community: "Claude Meetings"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-12
+  - community/Claude_Meetings
 ---
 
 # x402 protocol
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Brave Search API]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12
+#graphify/concept #graphify/EXTRACTED #community/Claude_Meetings

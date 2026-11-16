@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[AI Health Applications]] - concept - veilles/veille-ia-us-2026-11-14-t6.md
-- [[Veille États-Unis 2026-11-14  Santé, Culture et Société]] - document - veilles/veille-ia-us-2026-11-14-t6.md
+- [[Retail VR]] - concept - veilles/veille-ia-fr-2026-11-13-t5.md
+- [[Veille France 2026-11-13  Autres articles]] - document - veilles/veille-ia-fr-2026-11-13-t5.md
 
 ## Live Query (requires Dataview plugin)
 

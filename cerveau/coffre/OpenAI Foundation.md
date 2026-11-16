@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-15-t5.md"
 type: "concept"
-community: "DeepSeek V4.1 Pro"
+community: "Veille États-Unis 2026-11-13 : Enjeux du marché et turbulences"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/DeepSeek_V41_Pro
+  - community/Veille_États-Unis_2026-11-13__Enjeux_du_marché_et_turbulences
 ---
 
 # OpenAI Foundation
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-15  Régulation, sécurité et éthique de l'IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/DeepSeek_V41_Pro
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Enjeux_du_marché_et_turbulences

@@ -11,6 +11,6 @@ tags:
 # IRS
 
 ## Connections
-- [[Veille États-Unis 2026-11-09  Sécurité, éthique et fraude]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-09 (Sécurité)]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Nanjing_University_of_Aeronautics_and_Astronautics

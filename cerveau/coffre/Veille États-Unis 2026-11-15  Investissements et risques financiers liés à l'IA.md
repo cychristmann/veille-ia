@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-15-t2.md"
 type: "document"
-community: "Veille États-Unis 2026-11-15 : Investissements et risques financiers liés à l'IA"
+community: "How AI Security Models Are Redefining Banking Resilience"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-15__Investissements_et_risques_financiers_liés_à_lIA
+  - community/How_AI_Security_Models_Are_Redefining_Banking_Resilience
 ---
 
 # Veille États-Unis 2026-11-15 : Investissements et risques financiers liés à l'IA
@@ -14,4 +14,4 @@ tags:
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[Oaktree Capital]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-15__Investissements_et_risques_financiers_liés_à_lIA
+#graphify/document #graphify/EXTRACTED #community/How_AI_Security_Models_Are_Redefining_Banking_Resilience

@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[AI Ethics, Security and Regulation]] - concept - veilles/veille-ia-cn-2026-11-14-t4.md
-- [[Veille Chine 2026-11-14  Éthique, sécurité et réglementation IA]] - document - veilles/veille-ia-cn-2026-11-14-t4.md
+- [[Nubia]] - concept - veilles/veille-ia-fr-2026-11-12-t5.md
+- [[Veille France 2026-11-12  Produits grand public et IA générative]] - document - veilles/veille-ia-fr-2026-11-12-t5.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t2.md"
 type: "code"
-community: "Gemini 4 Hydrogen"
+community: "OpenAI"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Gemini_4_Hydrogen
+  - community/OpenAI
 ---
 
 # AWS
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[ChatGPT Enterprise]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Gemini_4_Hydrogen
+#graphify/code #graphify/EXTRACTED #community/OpenAI

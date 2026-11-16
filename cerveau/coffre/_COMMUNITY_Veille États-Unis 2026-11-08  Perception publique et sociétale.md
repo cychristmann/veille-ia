@@ -1,17 +1,18 @@
 ---
 type: community
-members: 4
+members: 5
 ---
 
 # Veille États-Unis 2026-11-08 : Perception publique et sociétale
 
-**Members:** 4 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[SC Media]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
-- [[Veille États-Unis 2026-11-08  Perception publique et sociétale]] - document - veilles/veille-ia-us-2026-11-08-t5.md
-- [[tech-insider.org]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
-- [[vr.org]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
+- [[Veille Chine 2026-11-16  Autres articles]] - document - veilles/veille-ia-cn-2026-11-16-t6.md
+- [[Veille Chine 2026-11-16  Culture, consommation et divertissement]] - document - veilles/veille-ia-cn-2026-11-16-t5.md
+- [[华为小艺AI]] - concept - veilles/veille-ia-cn-2026-11-16-t5.md
+- [[无界进化 (INFevo)]] - concept - veilles/veille-ia-cn-2026-11-16-t5.md
+- [[美联储金融稳定报告]] - document - veilles/veille-ia-cn-2026-11-16-t6.md
 
 ## Live Query (requires Dataview plugin)
 

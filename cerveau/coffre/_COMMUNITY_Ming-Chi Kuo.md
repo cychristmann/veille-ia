@@ -1,15 +1,17 @@
 ---
 type: community
-members: 2
+members: 4
 ---
 
 # Ming-Chi Kuo
 
-**Members:** 2 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Veille Chine 2026-11-12  Régulation, géopolitique et politique]] - document - veilles/veille-ia-cn-2026-11-12-t4.md
-- [[中信证券]] - concept - veilles/veille-ia-cn-2026-11-12-t4.md
+- [[Expo Cloud Simulators for AI Coding Agents]] - concept - veilles/veille-ia-dev-2026-11-12-t6.md
+- [[Granite 4.1]] - code - veilles/veille-ia-dev-2026-11-13-t5.md
+- [[LLMON]] - concept - veilles/veille-ia-dev-2026-11-12-t6.md
+- [[Veille Outils & code 2026-11-12  Outils et frameworks divers]] - document - veilles/veille-ia-dev-2026-11-12-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -17,3 +19,9 @@ members: 2
 TABLE source_file, type FROM #community/Ming-Chi_Kuo
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
+
+## Top bridge nodes
+- [[LLMON]] - degree 3, connects to 1 community

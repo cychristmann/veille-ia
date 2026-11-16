@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # 复旦发展研究院
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[IA dans l'enseignement supérieur]] - concept - veilles/veille-ia-cn-2026-11-13-t1.md
-- [[Veille Chine 2026-11-13  Éducation et formation]] - document - veilles/veille-ia-cn-2026-11-13-t1.md
+- [[Veille Outils & code 2026-11-14  Bibliothèques, outils et releases open‑source]] - document - veilles/veille-ia-dev-2026-11-14-t4.md
+- [[XYBench]] - concept - veilles/veille-ia-dev-2026-11-14-t4.md
+- [[agent-desktop]] - concept - veilles/veille-ia-dev-2026-11-14-t4.md
 
 ## Live Query (requires Dataview plugin)
 

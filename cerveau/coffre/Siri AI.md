@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-08-t1.md"
 type: "concept"
-community: "Apple"
+community: "Google"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Apple
+  - community/Google
 ---
 
 # Siri AI
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Apple]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Apple
+#graphify/concept #graphify/EXTRACTED #community/Google

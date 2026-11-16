@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Veille Chine 2026-11-12 : Régulation, géopolitique et politique
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Feuilleton Pression européenne pour une régulation coordonnée de l'IA]] - document - feuilletons/f-0022.md
-- [[Régulation européenne de l'IA]] - concept - feuilletons/f-0022.md
+- [[DeepSeek API]] - concept - veilles/veille-ia-cn-2026-11-14-t6.md
+- [[Moomoo AI]] - concept - veilles/veille-ia-cn-2026-11-14-t6.md
+- [[Veille Chine 2026-11-14  Outils, plateformes et applications IA]] - document - veilles/veille-ia-cn-2026-11-14-t6.md
 
 ## Live Query (requires Dataview plugin)
 

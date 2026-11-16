@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Helsing Clarity]] - concept - veilles/veille-ia-us-2026-11-12-t3.md
-- [[Shield AI Hivemind]] - concept - veilles/veille-ia-us-2026-11-12-t3.md
-- [[Veille États-Unis 2026-11-12  IA dans la défense et la sécurité]] - document - veilles/veille-ia-us-2026-11-12-t3.md
+- [[Brave]] - concept - veilles/veille-ia-us-2026-11-09-t6.md
+- [[NEAR AI]] - concept - veilles/veille-ia-us-2026-11-09-t6.md
+- [[Veille États-Unis 2026-11-09  Autres articles]] - document - veilles/veille-ia-us-2026-11-09-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,3 +18,9 @@ members: 3
 TABLE source_file, type FROM #community/table_rase_sur_les_récits
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Nvidia]]
+
+## Top bridge nodes
+- [[Veille États-Unis 2026-11-09  Autres articles]] - degree 3, connects to 1 community

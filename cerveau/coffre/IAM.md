@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-13-t3.md"
 type: "concept"
-community: "scandale autour d'une star IA"
+community: "Lumbra"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/scandale_autour_dune_star_IA
+  - community/Lumbra
 ---
 
 # IAM
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AWS Budgets]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/scandale_autour_dune_star_IA
+#graphify/concept #graphify/EXTRACTED #community/Lumbra

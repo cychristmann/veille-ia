@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
-type: "code"
-community: "Google"
+source_file: "veilles/veille-ia-cn-2026-11-13-t6.md"
+type: "concept"
+community: "Meta"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/Google
+  - community/Meta
 ---
 
 # Meta
@@ -21,4 +21,4 @@ tags:
 - [[Veille États-Unis 2026-11-09  Nouveaux modèles et avancées technologiques]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Google
+#graphify/concept #graphify/EXTRACTED #community/Meta

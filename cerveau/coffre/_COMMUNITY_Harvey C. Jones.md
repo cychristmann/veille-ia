@@ -19,7 +19,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
 
 ## Top bridge nodes
 - [[Harvey C. Jones]] - degree 2, connects to 1 community
