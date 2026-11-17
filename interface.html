@@ -349,6 +349,19 @@
   .sante li[data-statut="echec"] .pastille { background: #d9534f; }
   .sante li strong { flex: none; }
   .sante li span.detail { color: var(--texte-3); overflow-wrap: anywhere; }
+  /* Pilote automatique (pilote.py) : même gabarit que l'état de la nuit. */
+  .pilote { margin-top: 6px; }
+  .pilote > summary .pastille { background: var(--accent); }
+  .paris > summary .pastille { background: var(--chaud); }
+  .paris .corps li.gagne::marker { content: "✓  "; color: #3fb27f; }
+  .paris .corps li.perdu::marker { content: "✗  "; color: #d9534f; }
+  .paris .corps .proba { font-variant-numeric: tabular-nums; font-weight: 600; color: var(--texte); }
+  .paris .corps .discret { color: var(--texte-3); }
+  .pilote .corps { margin: 10px 0 0; padding: 12px 16px; border-radius: 14px; background: var(--surface); border: 1px solid var(--bordure); font-size: .9rem; }
+  .pilote .corps p { margin: 0 0 8px; line-height: 1.6; max-width: 85ch; overflow-wrap: anywhere; }
+  .pilote .corps h4 { margin: 12px 0 4px; font-size: .82rem; text-transform: uppercase; letter-spacing: .04em; color: var(--texte-3); }
+  .pilote .corps ul { margin: 0; padding: 0 0 0 18px; border: 0; background: none; list-style: disc; }
+  .pilote .corps li { display: list-item; padding: 2px 0; overflow-wrap: anywhere; }
 
   /* ---------- Consommation d'IA (tokens Groq / Gemini) ---------- */
   .consommation { margin-top: 18px; }
@@ -975,6 +988,14 @@
           <summary><span class="pastille"></span><span id="sante-resume"></span></summary>
           <ul id="sante-liste"></ul>
         </details>
+        <details class="sante pilote" id="pilote" hidden>
+          <summary><span class="pastille"></span><span id="pilote-resume"></span></summary>
+          <div class="corps" id="pilote-corps"></div>
+        </details>
+        <details class="sante pilote paris" id="paris" hidden>
+          <summary><span class="pastille"></span><span id="paris-resume"></span></summary>
+          <div class="corps" id="paris-corps"></div>
+        </details>
 
         <p class="stats" id="stats"></p>
         <div class="accordeon" id="accordeon">
@@ -1445,6 +1466,8 @@ const URLS = STATIQUE
       analyse: (d) => `donnees/analyse-${encodeURIComponent(d)}.json`,
       consommation: "donnees/consommation.json",
       sante: "donnees/sante.json",
+      pilote: "donnees/pilote.json",
+      paris: "donnees/paris.json",
     }
   : {
       jours: "/api/veilles",
@@ -1457,6 +1480,8 @@ const URLS = STATIQUE
       analyse: (d) => `/api/analyse?date=${encodeURIComponent(d)}`,
       consommation: "/api/consommation",
       sante: "/api/sante",
+      pilote: "/api/pilote",
+      paris: "/api/paris",
     };
 const SVG = "http://www.w3.org/2000/svg";
 function icone(nom) {
@@ -1689,6 +1714,8 @@ function afficherVeille() {
   chargerAnalyse(jourActif);
   chargerConsommation(jourActif);
   chargerSante(jourActif);
+  chargerPilote(jourActif);
+  chargerParis();
   afficherTop(veille.top);
   afficherRubrique("videos", veille.videos);
   afficherRubrique("podcasts", veille.podcasts);
@@ -2791,6 +2818,82 @@ async function chargerSante(date) {
     return li;
   }));
   bloc.hidden = false;
+}
+
+// ===== Pilote automatique (pilote.py) =====
+let piloteCache = null;
+const NOMS_SECTIONS = { fr: "France", us: "États-Unis", cn: "Chine", dev: "Outils & code" };
+async function chargerPilote(date) {
+  const bloc = $("pilote");
+  bloc.hidden = true;
+  try {
+    if (!piloteCache) piloteCache = (await lireJSON(URLS.pilote)).jours || [];
+  } catch { return; }
+  if (date !== jourActif) return;
+  const j = piloteCache.find((d) => d.date === date);
+  if (!j) return;
+  const n = j.actions.length;
+  bloc.open = false;
+  $("pilote-resume").textContent = n
+    ? `Pilote automatique : ${n} action${n > 1 ? "s" : ""} cette nuit`
+    : "Pilote automatique : rien à changer cette nuit";
+  const corps = [el("p", "", j.bilan)];
+  const liste = (titre, items) => {
+    if (!items.length) return;
+    const ul = el("ul");
+    ul.append(...items.map((x) => el("li", "", x)));
+    corps.push(el("h4", "", titre), ul);
+  };
+  const ou = (s) => NOMS_SECTIONS[s] || s;
+  const jm = (d) => `${d.slice(8, 10)}/${d.slice(5, 7)}`;
+  liste("Ce que le pilote a fait", j.actions.map((a) => `${a.libelle} : ${a.raison}${a.resultat ? ` → ${a.resultat}.` : ""}`));
+  liste("Envisagé mais refusé", j.refusees.map((r) => `${r.libelle} : ${r.raison}`));
+  liste("À surveiller", j.a_surveiller);
+  if (j.lecon) liste("Leçon retenue", [j.lecon]);
+  liste("Médias à l'essai", (j.en_essai || []).map((x) => `${x.source} (${ou(x.section)}), depuis le ${jm(x.depuis)}`));
+  liste("Sources en pause", j.en_pause.map((p) => `${p.source} (${ou(p.section)}), depuis le ${jm(p.depuis)} : ${p.motif}`));
+  $("pilote-corps").replaceChildren(...corps);
+  bloc.hidden = false;
+}
+
+// ===== Paris du pilote (paris.py) =====
+let parisCharges = false;
+async function chargerParis() {
+  if (parisCharges) return;
+  let d;
+  try { d = await lireJSON(URLS.paris); } catch { return; }
+  parisCharges = true;
+  const s = d.score || {};
+  if (!d.en_cours?.length && !d.tranches?.length) return;
+  $("paris-resume").textContent = s.tranches
+    ? `Paris du pilote : ${s.gagnes} gagnés sur ${s.tranches} · ${d.en_cours.length} en cours`
+    : `Paris du pilote : ${d.en_cours.length} en cours`;
+  const corps = [el("p", "", "Chaque nuit, le pilote parie sur l'actualité des jours suivants ; les veilles suivantes tranchent, sans discussion possible.")];
+  if (s.tranches) {
+    const ecart = s.confiance_moyenne - s.reussite;
+    corps.push(el("p", "", `Il annonce en moyenne ${s.confiance_moyenne} % de confiance et gagne ${s.reussite} % de ses paris : `
+      + (Math.abs(ecart) <= 8 ? "il se connaît bien." : ecart > 0 ? "il est trop sûr de lui, il doit apprendre à douter." : "il se sous-estime.")
+      + ` Score de calibration (Brier) : ${String(s.brier).replace(".", ",")}, où 0,25 vaut le hasard et 0 la perfection.`));
+  }
+  const jm = (x) => `${x.slice(8, 10)}/${x.slice(5, 7)}`;
+  const ligne = (p, classe, suite) => {
+    const li = el("li", classe);
+    li.append(el("span", "proba", `${Math.round(p.probabilite * 100)} % `), document.createTextNode(p.enonce),
+      el("span", "discret", suite));
+    if (p.raisonnement) li.title = p.raisonnement;
+    return li;
+  };
+  const bloc = (titre, items) => {
+    if (!items.length) return;
+    const ul = el("ul");
+    ul.append(...items);
+    corps.push(el("h4", "", titre), ul);
+  };
+  bloc("En cours", d.en_cours.map((p) => ligne(p, "", ` — verdict le ${jm(p.echeance)}`)));
+  bloc("Tranchés", d.tranches.slice(0, 10).map((p) => ligne(p, p.statut,
+    ` — observé : ${p.observe}${p.rejoue ? " (pari rejoué sur le passé)" : ""}`)));
+  $("paris-corps").replaceChildren(...corps);
+  $("paris").hidden = false;
 }
 
 // ===== Consommation d'IA (consommation.py) =====

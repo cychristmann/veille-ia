@@ -20,7 +20,7 @@ on:
     # Une modification de l'app (design, code) republie le site sans relancer la veille.
     # Les commits du robot ne touchent que veilles/ et cerveau/ : ils ne redéclenchent rien.
     branches: [main]
-    paths-ignore: ["veilles/**", "cerveau/**"]
+    paths-ignore: ["veilles/**", "cerveau/**", "pilote/**"]
 
 # Sécurité : les actions sont verrouillées sur l'empreinte exacte d'une version (et non
 # « @v4 », qui peut être déplacé). Pour mettre à jour, remplacer l'empreinte par celle
@@ -134,12 +134,24 @@ jobs:
         run: |
           echo '{"cerveau": "${{ steps.cerveau.outcome }}", "interprete": "${{ steps.interprete.outcome }}"}'             > "veilles/etapes-$(date +%F).json"
 
+      # Pilote automatique (mini AGI, étape 4) : la veille s'observe et se règle seule
+      # (pauses, relance d'une section ratée, recherche et essai de nouveaux médias ;
+      # garde-fous dans pilote.py), puis écrit son bilan.
+      - name: Pilote automatique (bilan et réglages)
+        if: steps.decision.outputs.lancer == 'true'
+        continue-on-error: true
+        timeout-minutes: 30  # relance d'une section et recherche de médias possibles
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # secours
+        run: uv run python pilote.py
+
       - name: Enregistrer la veille dans le dépôt
         if: steps.decision.outputs.lancer == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add veilles/ cerveau/
+          git add veilles/ cerveau/ pilote/ sources.json  # sources.json : essais du pilote
           git diff --cached --quiet || git commit -m "Veille du $(date +%F)"
           # Un commit (modification de l'app) a pu arriver pendant la veille : on s'y
           # rattache avant d'envoyer, sinon l'envoi serait refusé.

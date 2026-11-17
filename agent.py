@@ -247,6 +247,18 @@ def sources_ajoutees(code_region: str) -> dict[str, str]:
         return {}
 
 
+# Sources mises en pause par le pilote automatique (pilote.py) : ignorées à la collecte.
+FICHIER_PILOTE = Path(__file__).parent / "pilote" / "etat.json"
+
+
+def sources_en_pause(code_region: str) -> set[str]:
+    try:
+        etat = json.loads(FICHIER_PILOTE.read_text(encoding="utf-8"))
+        return set(etat.get("pauses", {}).get(code_region, {}))
+    except (OSError, json.JSONDecodeError):
+        return set()
+
+
 def flux_de(region: Region) -> dict[str, str]:
     """Flux des médias suivis : ceux du code, plus ceux ajoutés via sources.json."""
     return {**region.flux_medias, **sources_ajoutees(region.code)}
@@ -489,6 +501,7 @@ class EtatVeille(TypedDict, total=False):
     heures: int  # fenêtre de publication
     candidats: list[Article]
     sources_en_echec: list[str]
+    flux_lus: dict  # {média: [articles lus, articles récents et sur l'IA]} (pour le pilote)
     analyse: Analyse | None
     articles: list[Article]
     titres_traduits: int  # nombre de titres traduits (régions étrangères)
@@ -628,22 +641,25 @@ def collecter(etat: EtatVeille) -> dict:
     heures = max(etat["heures"], region.heures_min)
     limite = datetime.now(timezone.utc) - timedelta(hours=heures)
     jours = max(1, -(-etat["heures"] // 24))  # Google filtre par jours entiers
-    medias = flux_de(region)
+    pauses = sources_en_pause(region.code)
+    medias = {nom: url for nom, url in flux_de(region).items() if nom not in pauses}
     flux = {**medias, NOM_GOOGLE: _url_google_news(region, jours)}
 
-    articles, echecs = [], []
+    articles, echecs, lus = [], [], {}
     with ThreadPoolExecutor(max_workers=8) as pool:
         resultats = pool.map(lambda f: _essayer(*f), flux.items())
         for nom, trouves in zip(flux, resultats):
             if trouves is None:
                 echecs.append(nom)
                 continue
+            lus[nom] = [len(trouves), 0]
             for article in trouves:
                 if article.date < limite:
                     continue
                 if (nom != NOM_GOOGLE and nom not in region.toujours_ia
                         and not region.mots_ia.search(f"{article.titre} {article.resume}")):
                     continue
+                lus[nom][1] += 1
                 articles.append(article)
 
     # Les flux des médias passent en premier : à doublon égal, on garde leur vrai lien.
@@ -674,7 +690,7 @@ def collecter(etat: EtatVeille) -> dict:
     # La sélection est faite (flux directs + Google, comme toujours) : Bing ne sert qu'à
     # retrouver le vrai lien et un résumé des articles venus de Google.
     _retrouver_vrais_liens(candidats, region)
-    return {"candidats": candidats, "sources_en_echec": echecs, "heures": heures}
+    return {"candidats": candidats, "sources_en_echec": echecs, "flux_lus": lus, "heures": heures}
 
 
 # Google Actualités limite les requêtes trop rapprochées : il répond 429 (« Sorry… », page
@@ -964,6 +980,7 @@ def _json(etat: EtatVeille, groupes, ecartes, maintenant: datetime) -> str:
             }
         ),
         "sources_en_echec": etat["sources_en_echec"],
+        "flux_lus": etat.get("flux_lus", {}),
         "themes": [
             {"nom": nom, "resume": resume, "articles": [_article_json(a) for a in membres]}
             for nom, resume, membres in groupes

@@ -1,0 +1,112 @@
+{
+ "date": "2026-11-17",
+ "mode": "ia",
+ "bilan": "La veille France est parfaite avec 50 articles et 100 % de liens directs, même si Google Actualités est en panne mais n’impacte pas le résultat. La section Outils & code manque un article et a aussi une source en panne, mais les liens restent directs. Les sections États‑Unis et Chine ont un problème de liens directs, surtout la Chine. Le quota Groq a été largement dépassé, ce qui risque de bloquer les futures veilles. Aucun plan d’action n’a été proposé cette nuit.",
+ "a_surveiller": [
+  "Le pourcentage de liens directs aux États-Unis reste trop bas (64 %).",
+  "Le taux de liens directs pour la Chine est très faible (18 %).",
+  "Le quota Groq a été presque entièrement consommé (97,7 %) alors que l’objectif était de rester sous 80 %."
+ ],
+ "lecon": "",
+ "actions": [
+  {
+   "date": "2026-11-17",
+   "action": "decouvrir",
+   "section": "toutes",
+   "source": "nouveaux médias",
+   "motif": "première recherche",
+   "raison": "Découvrir de nouveaux médias permet d'augmenter le taux de liens directs et de réduire la dépendance aux sources en panne.",
+   "resultat": "mis à l'essai : NeoTeo (Outils & code), Quartz en Français (France)",
+   "libelle": "Recherche de nouveaux médias"
+  }
+ ],
+ "refusees": [],
+ "en_pause": [],
+ "en_essai": [
+  {
+   "section": "dev",
+   "source": "NeoTeo",
+   "depuis": "2026-11-17",
+   "raison": "30 % d'articles IA, forte spécialisation technique, apporte une valeur ajoutée importante."
+  },
+  {
+   "section": "fr",
+   "source": "Quartz en Français",
+   "depuis": "2026-11-17",
+   "raison": "10 % d'articles IA avec des sujets pertinents (cybersécurité, deepfakes) ; source fiable et spécialisée."
+  }
+ ],
+ "lecons": [
+  {
+   "date": "2026-11-17",
+   "texte": "Tester régulièrement de nouveaux médias aide à maintenir un haut pourcentage de liens directs et à diversifier les sources."
+  }
+ ],
+ "paris": {
+  "nouveaux": [],
+  "resolus": [],
+  "refus": [],
+  "score": {
+   "tranches": 13,
+   "gagnes": 6,
+   "reussite": 46,
+   "confiance_moyenne": 69,
+   "brier": 0.314,
+   "paliers": {
+    "50-64 %": {
+     "paris": 2,
+     "reussite": 50
+    },
+    "65-79 %": {
+     "paris": 11,
+     "reussite": 45
+    }
+   }
+  }
+ },
+ "indicateurs": {
+  "sections": {
+   "fr": {
+    "nom": "France",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 100,
+    "pannes": [
+     "Google Actualités"
+    ]
+   },
+   "us": {
+    "nom": "États-Unis",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 64,
+    "pannes": []
+   },
+   "cn": {
+    "nom": "Chine",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 18,
+    "pannes": []
+   },
+   "dev": {
+    "nom": "Outils & code",
+    "articles": 49,
+    "voulus": 50,
+    "liens_directs": 100,
+    "pannes": [
+     "Google Actualités"
+    ]
+   }
+  },
+  "quota_groq": 56,
+  "nuit": {
+   "statut": "attention",
+   "soucis": [
+    "Veille France : 50 articles, 0 sans lien direct · 1 source(s) en panne : Google Actualités",
+    "Veille Outils & code : 49 articles, 0 sans lien direct · 1 source(s) en panne : Google Actualités",
+    "Quota Groq : 97.7 % du quota gratuit quotidien utilisé."
+   ]
+  }
+ }
+}

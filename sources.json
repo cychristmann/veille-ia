@@ -11,7 +11,8 @@
       "Le Figaro (High-Tech)": "https://www.lefigaro.fr/rss/figaro_secteur_high-tech.xml",
       "BlogNT": "https://www.blog-nouvelles-technologies.fr/feed/",
       "Business AM": "https://fr.businessam.be/feed/",
-      "Le Revenu": "https://www.lerevenu.com/rss.xml"
+      "Le Revenu": "https://www.lerevenu.com/rss.xml",
+      "Quartz en Français": "https://fr.qz.com/feed"
     },
     "us": {
       "The Information": "https://www.theinformation.com/feed",
@@ -49,10 +50,83 @@
       "CASRAI": "https://casrai.org/feed.xml",
       "Design News": "https://www.designnews.com/rss.xml",
       "KDnuggets": "https://www.kdnuggets.com/comments/feed",
-      "01net": "https://www.01net.it/feed/"
+      "01net": "https://www.01net.it/feed/",
+      "NeoTeo": "https://www.neoteo.com/es/feed"
     }
   },
-  "propositions": [],
+  "propositions": [
+    {
+      "region": "us",
+      "nom": "NPR",
+      "site": "https://www.npr.org",
+      "domaine": "npr.org",
+      "apparitions": 6,
+      "flux": "https://feeds.npr.org/1002/rss.xml",
+      "articles_72h": 10,
+      "articles_ia_72h": 3,
+      "exemples": [
+        "Can Google win the AI race without killing its cash cow?",
+        "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
+        "She went to college to become a social worker. Now she's joined the skilled trades"
+      ],
+      "categorie": "média généraliste",
+      "raison": "Bonne fréquence d'articles IA (30 %) et couverture de qualité provenant d'un média reconnu.",
+      "trouvee_le": "2026-11-17T23:42+01:00"
+    },
+    {
+      "region": "dev",
+      "nom": "The Korea Times",
+      "site": "https://www.koreatimes.co.kr",
+      "domaine": "co.kr",
+      "apparitions": 10,
+      "flux": "https://feed.koreatimes.co.kr/k/allnews.xml",
+      "articles_72h": 24,
+      "articles_ia_72h": 3,
+      "exemples": [
+        "Growing distrust on AI glasses poses dilemma for device makers",
+        "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI",
+        "COP31 AI pledge fails to lure US Big Tech"
+      ],
+      "categorie": "média outils & code",
+      "raison": "Présence régulière d'articles IA (12,5 %) avec un focus technique pertinent.",
+      "trouvee_le": "2026-11-17T23:42+01:00"
+    },
+    {
+      "region": "dev",
+      "nom": "Business Insider",
+      "site": "https://www.businessinsider.com",
+      "domaine": "businessinsider.com",
+      "apparitions": 5,
+      "flux": "https://feeds.businessinsider.com/custom/all",
+      "articles_72h": 20,
+      "articles_ia_72h": 4,
+      "exemples": [
+        "LeBron James sues AI sports-betting analytics app over alleged bogus endorsement",
+        "Maybe all the outages are because of AI. Maybe not. We're in for a confusing time.",
+        "DOJ hasn't found evidence of Saudi espionage in case against OpenAI engineer, his lawyer says"
+      ],
+      "categorie": "média outils & code",
+      "raison": "20 % d'articles IA, couverture variée et fiable sur les enjeux technologiques.",
+      "trouvee_le": "2026-11-17T23:42+01:00"
+    },
+    {
+      "region": "dev",
+      "nom": "XDA",
+      "site": "https://www.xda-developers.com",
+      "domaine": "xda-developers.com",
+      "apparitions": 3,
+      "flux": "https://www.xda-developers.com/feed",
+      "articles_72h": 10,
+      "articles_ia_72h": 2,
+      "exemples": [
+        "Tasks in Gemini make Google's assistant handle all your chores for you",
+        "My 8GB GPU is now running a 27B model, and it's doing the work I used to pay ChatGPT for"
+      ],
+      "categorie": "média outils & code",
+      "raison": "20 % d'articles IA, focus pratique sur le développement et l'usage d'IA, source pertinente.",
+      "trouvee_le": "2026-11-17T23:42+01:00"
+    }
+  ],
   "refusees": [
     "fourweekmba.com",
     "tech-insider.org"

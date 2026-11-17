@@ -1,0 +1,385 @@
+{
+ "paris": [
+  {
+   "id": "2026-11-10-1",
+   "date": "2026-11-10",
+   "echeance": "2026-11-13",
+   "statut": "perdu",
+   "entite": "Anthropic",
+   "sections": [
+    "fr",
+    "us"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 25,
+   "horizon": 3,
+   "probabilite": 0.78,
+   "enonce": "Anthropic : au moins 25 articles (France et États-Unis) sur les 3 prochains jours",
+   "raisonnement": "Les deux derniers jours ont déjà totalisé 21+9=30 mentions, donc il est probable que le total reste au moins à 25 sur trois jours, mais une baisse soudaine est possible.",
+   "phrase_ia": "Dans les trois prochains jours, le nombre d'articles citant Anthropic en France et aux États‑Unis sera au moins de 25.",
+   "rejoue": true,
+   "observe": 10,
+   "resolu_le": "2026-11-13"
+  },
+  {
+   "id": "2026-11-10-2",
+   "date": "2026-11-10",
+   "echeance": "2026-11-12",
+   "statut": "gagne",
+   "entite": "Claude",
+   "sections": [
+    "fr",
+    "us",
+    "cn"
+   ],
+   "comparaison": "au_plus",
+   "seuil": 12,
+   "horizon": 2,
+   "probabilite": 0.66,
+   "enonce": "Claude : au plus 12 articles (France et États-Unis et Chine) sur les 2 prochains jours",
+   "raisonnement": "Les deux derniers jours totalisent 15+3+1=19 mentions, mais la tendance montre un recul après le pic, rendant un total sous 12 incertain mais plausible.",
+   "phrase_ia": "Dans les deux prochains jours, le nombre d'articles citant Claude sera au plus de 12.",
+   "rejoue": true,
+   "observe": 6,
+   "resolu_le": "2026-11-12"
+  },
+  {
+   "id": "2026-11-10-3",
+   "date": "2026-11-10",
+   "echeance": "2026-11-14",
+   "statut": "gagne",
+   "entite": "Nvidia",
+   "sections": [
+    "fr",
+    "us"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 18,
+   "horizon": 4,
+   "probabilite": 0.72,
+   "enonce": "Nvidia : au moins 18 articles (France et États-Unis) sur les 4 prochains jours",
+   "raisonnement": "Nvidia a maintenu une cadence stable (12+6+6=24 sur les trois derniers jours); même avec une légère baisse, 18 reste probable.",
+   "phrase_ia": "Sur les quatre prochains jours, au moins 18 articles mentionneront Nvidia en France et aux États‑Unis.",
+   "rejoue": true,
+   "observe": 34,
+   "resolu_le": "2026-11-14"
+  },
+  {
+   "id": "2026-11-11-1",
+   "date": "2026-11-11",
+   "echeance": "2026-11-14",
+   "statut": "perdu",
+   "entite": "Meta",
+   "sections": [
+    "us",
+    "dev"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 10,
+   "horizon": 3,
+   "probabilite": 0.68,
+   "enonce": "Meta : au moins 10 articles (États-Unis et Outils & code) sur les 3 prochains jours",
+   "raisonnement": "Meta a récemment lancé une mise à jour majeure de son modèle LLaMA, suscitant un intérêt croissant aux US et parmi les développeurs, mais le volume reste incertain.",
+   "phrase_ia": "Meta sera cité dans au moins 10 articles aux États‑Unis ou dans les sections Outils & code d'ici le 2026‑11‑14.",
+   "rejoue": true,
+   "observe": 3,
+   "resolu_le": "2026-11-14"
+  },
+  {
+   "id": "2026-11-11-2",
+   "date": "2026-11-11",
+   "echeance": "2026-11-15",
+   "statut": "gagne",
+   "entite": "Jensen Huang",
+   "sections": [
+    "cn",
+    "us"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 5,
+   "horizon": 4,
+   "probabilite": 0.73,
+   "enonce": "Jensen Huang : au moins 5 articles (Chine et États-Unis) sur les 4 prochains jours",
+   "raisonnement": "La visite prévue de Huang en Chine et les annonces de nouveaux GPU aux US devraient générer plusieurs mentions dans les médias spécialisés.",
+   "phrase_ia": "Jensen Huang sera cité dans au moins 5 articles en Chine ou aux États‑Unis d'ici le 2026‑11‑15.",
+   "rejoue": true,
+   "observe": 12,
+   "resolu_le": "2026-11-15"
+  },
+  {
+   "id": "2026-11-11-3",
+   "date": "2026-11-11",
+   "echeance": "2026-11-14",
+   "statut": "gagne",
+   "entite": "Claude Fable",
+   "sections": [
+    "fr",
+    "dev"
+   ],
+   "comparaison": "au_plus",
+   "seuil": 3,
+   "horizon": 3,
+   "probabilite": 0.58,
+   "enonce": "Claude Fable : au plus 3 articles (France et Outils & code) sur les 3 prochains jours",
+   "raisonnement": "Après un pic de curiosité, l'intérêt semble se stabiliser, et aucune mise à jour majeure n'est annoncée avant la fin de la semaine.",
+   "phrase_ia": "Claude Fable sera mentionnée dans au plus 3 articles en France ou dans les outils & code d'ici le 2026‑11‑14.",
+   "rejoue": true,
+   "observe": 0,
+   "resolu_le": "2026-11-14"
+  },
+  {
+   "id": "2026-11-12-1",
+   "date": "2026-11-12",
+   "echeance": "2026-11-15",
+   "statut": "perdu",
+   "entite": "OpenAI",
+   "sections": [
+    "us",
+    "dev"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 15,
+   "horizon": 3,
+   "probabilite": 0.71,
+   "enonce": "OpenAI : au moins 15 articles (États-Unis et Outils & code) sur les 3 prochains jours",
+   "raisonnement": "Après une hausse récente (6, 5, 4 articles) et le lancement d'une nouvelle API, la couverture devrait s'intensifier, mais la concurrence rend le seuil incertain.",
+   "phrase_ia": "OpenAI sera cité au moins 15 fois dans les sections États‑Unis et Outils & code d'ici le 15 novembre 2026.",
+   "rejoue": true,
+   "observe": 10,
+   "resolu_le": "2026-11-15"
+  },
+  {
+   "id": "2026-11-12-2",
+   "date": "2026-11-12",
+   "echeance": "2026-11-16",
+   "statut": "gagne",
+   "entite": "Claude Code",
+   "sections": [
+    "dev"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 10,
+   "horizon": 4,
+   "probabilite": 0.68,
+   "enonce": "Claude Code : au moins 10 articles (Outils & code) sur les 4 prochains jours",
+   "raisonnement": "Le lancement d'une version bêta très attendue et les premiers retours positifs devraient générer une couverture soutenue dans les médias techniques.",
+   "phrase_ia": "Claude Code sera cité au moins 10 fois dans la section Outils & code d'ici le 16 novembre 2026.",
+   "rejoue": true,
+   "observe": 38,
+   "resolu_le": "2026-11-16"
+  },
+  {
+   "id": "2026-11-12-3",
+   "date": "2026-11-12",
+   "echeance": "2026-11-15",
+   "statut": "perdu",
+   "entite": "China",
+   "sections": [
+    "cn"
+   ],
+   "comparaison": "au_plus",
+   "seuil": 3,
+   "horizon": 3,
+   "probabilite": 0.73,
+   "enonce": "China : au plus 3 articles (Chine) sur les 3 prochains jours",
+   "raisonnement": "Les restrictions récentes sur les publications étrangères et la focalisation sur les sujets internes réduiront le nombre d'articles mentionnant explicitement \"China\" à l'extérieur du contexte politique.",
+   "phrase_ia": "Le terme China sera cité au plus 3 fois dans la section Chine d'ici le 15 novembre 2026.",
+   "rejoue": true,
+   "observe": 5,
+   "resolu_le": "2026-11-15"
+  },
+  {
+   "id": "2026-11-13-1",
+   "date": "2026-11-13",
+   "echeance": "2026-11-16",
+   "statut": "perdu",
+   "entite": "Anthropic",
+   "sections": [
+    "fr",
+    "us"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 22,
+   "horizon": 3,
+   "probabilite": 0.68,
+   "enonce": "Anthropic : au moins 22 articles (France et États-Unis) sur les 3 prochains jours",
+   "raisonnement": "Après une hausse récente (13,16,8) la moyenne sur 3 jours est ~12, mais la tendance montre un rebond potentiel.",
+   "phrase_ia": "Anthropic sera cité dans au moins 22 articles en France et aux États-Unis sur les trois prochains jours.",
+   "rejoue": true,
+   "observe": 9,
+   "resolu_le": "2026-11-16"
+  },
+  {
+   "id": "2026-11-13-2",
+   "date": "2026-11-13",
+   "echeance": "2026-11-17",
+   "statut": "gagne",
+   "entite": "Google",
+   "sections": [
+    "cn"
+   ],
+   "comparaison": "au_plus",
+   "seuil": 1,
+   "horizon": 4,
+   "probabilite": 0.73,
+   "enonce": "Google : au plus 1 article (Chine) sur les 4 prochains jours",
+   "raisonnement": "Les mentions chinoises sont historiquement faibles (2,5,12,10) et la pression réglementaire suggère une baisse.",
+   "phrase_ia": "Google sera cité dans au plus 1 article en Chine sur les quatre prochains jours.",
+   "rejoue": true,
+   "observe": 1,
+   "resolu_le": "2026-11-17"
+  },
+  {
+   "id": "2026-11-13-3",
+   "date": "2026-11-13",
+   "echeance": "2026-11-18",
+   "statut": "en_cours",
+   "entite": "Microsoft",
+   "sections": [
+    "dev",
+    "us"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 9,
+   "horizon": 5,
+   "probabilite": 0.66,
+   "enonce": "Microsoft : au moins 9 articles (Outils & code et États-Unis) sur les 5 prochains jours",
+   "raisonnement": "Les dernières semaines montrent une hausse progressive (5,4,3) et les annonces de nouvelles intégrations IA renforcent la visibilité.",
+   "phrase_ia": "Microsoft sera cité dans au moins 9 articles d'outils & code et aux États-Unis sur les cinq prochains jours.",
+   "rejoue": true
+  },
+  {
+   "id": "2026-11-14-1",
+   "date": "2026-11-14",
+   "echeance": "2026-11-17",
+   "statut": "perdu",
+   "entite": "Nvidia",
+   "sections": [
+    "fr",
+    "us"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 28,
+   "horizon": 3,
+   "probabilite": 0.78,
+   "enonce": "Nvidia : au moins 28 articles (France et États-Unis) sur les 3 prochains jours",
+   "raisonnement": "Les volumes récents montrent une forte dynamique (34 articles sur 4 jours) et les annonces de nouveaux GPU maintiennent l'intérêt.",
+   "phrase_ia": "Nvidia aura au moins 28 articles (France et États‑Unis) sur les 3 prochains jours.",
+   "rejoue": true,
+   "observe": 24,
+   "resolu_le": "2026-11-17"
+  },
+  {
+   "id": "2026-11-15-1",
+   "date": "2026-11-15",
+   "echeance": "2026-11-17",
+   "statut": "perdu",
+   "entite": "CoreWeave",
+   "sections": [
+    "cn"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 5,
+   "horizon": 2,
+   "probabilite": 0.53,
+   "enonce": "CoreWeave : au moins 5 articles (Chine) sur les 2 prochains jours",
+   "raisonnement": "CoreWeave a connu un pic de 12 articles le troisième jour, montrant une volatilité qui rend 5 articles sur 2 jours plausible.",
+   "phrase_ia": "Il y aura au moins 5 articles sur CoreWeave (Chine) dans les deux prochains jours.",
+   "rejoue": true,
+   "observe": 0,
+   "resolu_le": "2026-11-17"
+  },
+  {
+   "id": "2026-11-16-1",
+   "date": "2026-11-16",
+   "echeance": "2026-11-19",
+   "statut": "en_cours",
+   "entite": "Claude",
+   "sections": [
+    "dev"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 50,
+   "horizon": 3,
+   "probabilite": 0.71,
+   "enonce": "Claude : au moins 50 articles (Outils & code) sur les 3 prochains jours",
+   "raisonnement": "La tendance montre une forte hausse récente (12, 12, 12) et la popularité des modèles de Claude Code booste les mentions.",
+   "phrase_ia": "Claude sera mentionné dans au moins 50 articles d'outils & code au cours des 3 prochains jours.",
+   "rejoue": true
+  },
+  {
+   "id": "2026-11-16-2",
+   "date": "2026-11-16",
+   "echeance": "2026-11-20",
+   "statut": "en_cours",
+   "entite": "Anthropic",
+   "sections": [
+    "fr",
+    "us"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 25,
+   "horizon": 4,
+   "probabilite": 0.73,
+   "enonce": "Anthropic : au moins 25 articles (France et États-Unis) sur les 4 prochains jours",
+   "raisonnement": "Les chiffres récents (20,12,7,9) indiquent une reprise, et le lancement de nouveaux modèles devrait augmenter les mentions.",
+   "phrase_ia": "Anthropic sera mentionné dans au moins 25 articles en France et aux États-Unis au cours des 4 prochains jours.",
+   "rejoue": true
+  },
+  {
+   "id": "2026-11-16-3",
+   "date": "2026-11-16",
+   "echeance": "2026-11-21",
+   "statut": "en_cours",
+   "entite": "GitHub Copilot",
+   "sections": [
+    "dev"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 12,
+   "horizon": 5,
+   "probabilite": 0.68,
+   "enonce": "GitHub Copilot : au moins 12 articles (Outils & code) sur les 5 prochains jours",
+   "raisonnement": "Les dernières valeurs (5,3,1) montrent une remontée progressive, et la saison des conférences développeurs augmente la visibilité.",
+   "phrase_ia": "GitHub Copilot sera mentionné dans au moins 12 articles d'outils & code au cours des 5 prochains jours.",
+   "rejoue": true
+  },
+  {
+   "id": "2026-11-17-1",
+   "date": "2026-11-17",
+   "echeance": "2026-11-21",
+   "statut": "en_cours",
+   "entite": "Nvidia",
+   "sections": [
+    "fr",
+    "us"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 40,
+   "horizon": 4,
+   "probabilite": 0.72,
+   "enonce": "Nvidia : au moins 40 articles (France et États-Unis) sur les 4 prochains jours",
+   "raisonnement": "Après une forte couverture récente, les annonces de nouveaux GPU et partenariats devraient relancer la presse.",
+   "phrase_ia": "Nvidia sera cité au moins 40 fois dans les sections France et États‑Unis sur les 4 prochains jours.",
+   "rejoue": false
+  },
+  {
+   "id": "2026-11-17-2",
+   "date": "2026-11-17",
+   "echeance": "2026-11-20",
+   "statut": "en_cours",
+   "entite": "Google",
+   "sections": [
+    "cn"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 4,
+   "horizon": 3,
+   "probabilite": 0.66,
+   "enonce": "Google : au moins 4 articles (Chine) sur les 3 prochains jours",
+   "raisonnement": "Google prépare un lancement de services IA en Chine, ce qui devrait générer une couverture accrue.",
+   "phrase_ia": "Google sera cité au moins 4 fois dans la section Chine sur les 3 prochains jours.",
+   "rejoue": false
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "pauses": {},
+ "historique": [
+  {
+   "date": "2026-11-17",
+   "action": "decouvrir",
+   "section": "toutes",
+   "source": "nouveaux médias",
+   "motif": "première recherche",
+   "raison": "Découvrir de nouveaux médias permet d'augmenter le taux de liens directs et de réduire la dépendance aux sources en panne.",
+   "resultat": "mis à l'essai : NeoTeo (Outils & code), Quartz en Français (France)"
+  }
+ ],
+ "essais": {
+  "dev": {
+   "NeoTeo": {
+    "depuis": "2026-11-17",
+    "domaine": "neoteo.com",
+    "raison": "30 % d'articles IA, forte spécialisation technique, apporte une valeur ajoutée importante."
+   }
+  },
+  "fr": {
+   "Quartz en Français": {
+    "depuis": "2026-11-17",
+    "domaine": "qz.com",
+    "raison": "10 % d'articles IA avec des sujets pertinents (cybersécurité, deepfakes) ; source fiable et spécialisée."
+   }
+  }
+ },
+ "lecons": [
+  {
+   "date": "2026-11-17",
+   "texte": "Tester régulièrement de nouveaux médias aide à maintenir un haut pourcentage de liens directs et à diversifier les sources."
+  }
+ ],
+ "derniere_decouverte": "2026-11-17"
+}
