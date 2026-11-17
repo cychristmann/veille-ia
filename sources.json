@@ -8,7 +8,10 @@
       "Mac4Ever": "https://www.mac4ever.com/flux/rss/content/all",
       "Servicesmobiles.fr": "https://www.servicesmobiles.fr/feed",
       "Le Monde Informatique": "https://www.lemondeinformatique.fr/rss.xml",
-      "Le Figaro (High-Tech)": "https://www.lefigaro.fr/rss/figaro_secteur_high-tech.xml"
+      "Le Figaro (High-Tech)": "https://www.lefigaro.fr/rss/figaro_secteur_high-tech.xml",
+      "BlogNT": "https://www.blog-nouvelles-technologies.fr/feed/",
+      "Business AM": "https://fr.businessam.be/feed/",
+      "Le Revenu": "https://www.lerevenu.com/rss.xml"
     },
     "us": {
       "The Information": "https://www.theinformation.com/feed",
@@ -26,15 +29,27 @@
       "Amazon Web Services (AWS)": "https://aws.amazon.com/rss",
       "Mashable": "https://mashable.com/feeds/rss/all",
       "Fortune": "https://fortune.com/feed",
-      "PYMNTS.com": "https://www.pymnts.com/feed/atom/"
+      "PYMNTS.com": "https://www.pymnts.com/feed/atom/",
+      "Startup Fortune": "https://startupfortune.com/feed/",
+      "Benzinga": "https://www.benzinga.com/feed",
+      "GeekWire": "https://www.geekwire.com/feed/",
+      "TechTarget": "https://www.techtarget.com/feeds/news/",
+      "Crypto Briefing": "https://cryptobriefing.com/feed/"
     },
-    "cn": {},
+    "cn": {
+      "InfoQ.cn": "https://www.infoq.cn/feed"
+    },
     "dev": {
       "HackerNoon": "https://hackernoon.com/feed",
       "Crypto Briefing": "https://cryptobriefing.com/feed/",
       "DevOps.com": "https://devops.com/feed.xml",
       "IT Brief Australia": "https://itbrief.com.au/feed",
-      "news.lavx.hu": "https://news.lavx.hu/api/rss"
+      "news.lavx.hu": "https://news.lavx.hu/api/rss",
+      "TOKENPOST": "https://www.tokenpost.com/rss",
+      "CASRAI": "https://casrai.org/feed.xml",
+      "Design News": "https://www.designnews.com/rss.xml",
+      "KDnuggets": "https://www.kdnuggets.com/comments/feed",
+      "01net": "https://www.01net.it/feed/"
     }
   },
   "propositions": [],
