@@ -13,10 +13,12 @@ tags:
 ## Connections
 - [[Alice Huang]] - `references` [EXTRACTED]
 - [[Dossier Scandale Nvidia]] - `references` [EXTRACTED]
+- [[Feuilleton  Crise de direction chez Nvidia et scandale des puces IA]] - `references` [EXTRACTED]
 - [[Nvidia]] - `conceptually_related_to` [EXTRACTED]
 - [[Nvidia]] - `conceptually_related_to` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
+- [[Trafic de puces IA vers la Chine]] - `conceptually_related_to` [EXTRACTED]
 - [[Veille Chine 2026-11-12  Marché financier et investissements IA]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-13]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08]] - `references` [EXTRACTED]

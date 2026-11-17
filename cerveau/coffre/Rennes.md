@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-15-3.md"
 type: "concept"
-community: "Veille France 2026-11-15"
+community: "Veille Outils & code 2026-11-13"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-15
+  - community/Veille_Outils__code_2026-11-13
 ---
 
 # Rennes
@@ -15,4 +15,4 @@ tags:
 - [[DGA]] - `conceptually_related_to` [EXTRACTED]
 - [[ICAID]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-15
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-13

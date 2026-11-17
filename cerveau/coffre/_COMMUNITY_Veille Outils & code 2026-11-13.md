@@ -1,20 +1,30 @@
 ---
 type: community
-members: 7
+members: 17
 ---
 
 # Veille Outils & code 2026-11-13
 
-**Members:** 7 nodes
+**Members:** 17 nodes
 
 ## Members
-- [[Cursor]] - concept - veilles/veille-ia-dev-2026-11-16-t2.md
-- [[Fireworks AI]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
-- [[Malicious Claude Code Extension]] - concept - veilles/veille-ia-dev-2026-11-15-t1.md
-- [[OpenBot 1.0]] - concept - veilles/veille-ia-dev-2026-11-13-t1.md
-- [[Veille Outils & code 2026-11-13]] - document - veilles/veille-ia-dev-2026-11-13-t1.md
-- [[Veille Outils & code 2026-11-15  Sécurité des outils IA]] - document - veilles/veille-ia-dev-2026-11-15-t1.md
-- [[os.neu]] - concept - veilles/veille-ia-dev-2026-11-13-t1.md
+- [[AMIAD]] - concept - dossiers/2026-11-15-3.md
+- [[ANSSI]] - concept - dossiers/2026-11-14-1.md
+- [[Agence ministérielle pour l’intelligence artificielle de défense (AMIAD)]] - concept - dossiers/2026-11-14-1.md
+- [[Banque de France]] - concept - dossiers/2026-11-14-1.md
+- [[CERT-FR]] - concept - dossiers/2026-11-14-1.md
+- [[Centre d’excellence cyber de Tallinn]] - concept - dossiers/2026-11-15-3.md
+- [[ComCyber]] - concept - dossiers/2026-11-15-3.md
+- [[DGA]] - concept - dossiers/2026-11-15-3.md
+- [[ENSTA]] - concept - dossiers/2026-11-14-1.md
+- [[ICAID]] - concept - veilles/veille-ia-fr-2026-11-15-t2.md
+- [[Laboratoire dédié (LARIAD)]] - concept - dossiers/2026-11-14-1.md
+- [[Ministère des Armées]] - concept - dossiers/2026-11-14-1.md
+- [[OTAN]] - concept - veilles/veille-ia-fr-2026-11-15-t2.md
+- [[Rennes]] - concept - dossiers/2026-11-15-3.md
+- [[boursorama.com]] - concept - dossiers/2026-11-14-1.md
+- [[lefigaro.fr]] - concept - dossiers/2026-11-14-1.md
+- [[lemagit.fr]] - concept - dossiers/2026-11-14-1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,15 +34,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-12  Déploiement et infrastructure IA]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-16]]
-- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
-- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
+- 2 edges to [[_COMMUNITY_Gemini 4 Hydrogen_1]]
+- 1 edge to [[_COMMUNITY_Appel de Paris]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-13]] - degree 7, connects to 4 communities
-- [[Cursor]] - degree 5, connects to 1 community
-- [[Fireworks AI]] - degree 3, connects to 1 community
-- [[Veille Outils & code 2026-11-15  Sécurité des outils IA]] - degree 2, connects to 1 community
+- [[ICAID]] - degree 13, connects to 2 communities
+- [[OTAN]] - degree 2, connects to 1 community

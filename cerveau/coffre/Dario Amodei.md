@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-14-3.md"
 type: "concept"
-community: "Emmanuel Macron"
+community: "Appel de Paris"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Emmanuel_Macron
+  - community/Appel_de_Paris
 ---
 
 # Dario Amodei
@@ -14,4 +14,4 @@ tags:
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Appel de Paris]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Emmanuel_Macron
+#graphify/concept #graphify/EXTRACTED #community/Appel_de_Paris

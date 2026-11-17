@@ -1,65 +1,13 @@
 {
-  "maj": "2026-11-16",
+  "maj": "2026-11-17",
   "feuilletons": [
-    {
-      "id": "f-0028",
-      "titre": "L’outil de piratage IA ARTEX survit après suppression sur GitHub",
-      "resume": "Un outil de piratage basé sur l’IA, ARTEX, continue d’être utilisé malgré son retrait de GitHub, le FBI signale des intrusions rapides atteignant des privilèges élevés.",
-      "statut": "actif",
-      "debut": "2026-11-16",
-      "derniere_activite": "2026-11-16",
-      "regions": [
-        "us"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-16",
-          "texte": "Signalement par le FBI d’un outil de piratage IA persistant après suppression (article 13).",
-          "articles": [
-            {
-              "titre": "Outil de piratage IA ARTEX survit à la suppression sur GitHub ; FBI : certaines intrusions atteignent les privilèges en quelques heures",
-              "source": "Tech Times",
-              "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOEFGSnlmaVNFY2RhRFY2WE5mNloxbHhta19GYnRLekpGUkFUNTBUZWxQLV9OWllYalhWWnBPalNWQ1Y0MGdyWFRBanUxZGdmQ2l1QUgxcWxkQ2VRREt1dW95cjNGZlVfWW5LcUZEaDlqenJfQXFPbk5hMUhNajdORWVkRElfZy1odlBoc2JkSlluYnpwUkp4c0h2eVIwVFZCeko1UlQ5T09VeWtHRXYxQ0VEREJsNXVOM09FNlVCVTJISjZUQWY2QUtjSDNrNUcyQTBmYVZRVVZjNTk3MjlhRXFZRHc?oc=5",
-              "region": "us",
-              "note": 9
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f-0027",
-      "titre": "Faire la guerre avec l’IA : le cas de l’Ukraine",
-      "resume": "Le Monde Pixels explore les dilemmes moraux et politiques de l’utilisation de l’intelligence artificielle dans le conflit ukrainien, soulevant des questions de responsabilité et de contrôle.",
-      "statut": "actif",
-      "debut": "2026-11-16",
-      "derniere_activite": "2026-11-16",
-      "regions": [
-        "fr"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-16",
-          "texte": "Analyse du recours à l’IA dans le conflit ukrainien et de ses implications éthiques (article 1).",
-          "articles": [
-            {
-              "titre": "Faire la guerre avec l’IA ? Pour l’Ukraine, un cas de conscience moral et politique",
-              "source": "Le Monde Pixels",
-              "lien": "https://www.lemonde.fr/international/article/2026/11/16/faire-la-guerre-avec-l-ia-pour-l-ukraine-un-cas-de-conscience-moral-et-politique_6811239_3210.html",
-              "region": "fr",
-              "note": 8
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "f-0026",
       "titre": "Alibaba dévoile le modèle de base Qwen4‑Max",
-      "resume": "Alibaba lance Qwen4‑Max, un grand modèle de 2,4 téra‑paramètres, accompagné de garde‑fous de cybersécurité stricts et disponible via AI Gateway.",
+      "resume": "Alibaba a publié Qwen4‑Max, un modèle de base de 2,4 téra‑paramètres avec 71 milliards de paramètres actifs et un contexte d’un million de tokens, renforçant sa position dans les LLM.",
       "statut": "actif",
       "debut": "2026-11-16",
-      "derniere_activite": "2026-11-16",
+      "derniere_activite": "2026-11-17",
       "regions": [
         "cn",
         "dev"
@@ -105,43 +53,162 @@
               "note": 6
             }
           ]
+        },
+        {
+          "date": "2026-11-17",
+          "texte": "Publication officielle de Qwen4‑Max par Alibaba avec ses spécifications techniques majeures.",
+          "articles": [
+            {
+              "titre": "Alibaba publie Qwen4‑Max : 2,4 T MoE, 71 B actifs, 1 M de contexte",
+              "source": "MarkTechPost",
+              "lien": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
+              "region": "dev",
+              "note": 9
+            }
+          ]
         }
       ]
     },
     {
-      "id": "f-0025",
-      "titre": "Les États‑Unis désignent Nvidia parmi les champions nationaux de l’IA",
-      "resume": "Le gouvernement américain envisage de classer Nvidia comme « champion national » de l’intelligence artificielle, renforçant son rôle stratégique et ses avantages concurrentiels.",
+      "id": "f-0022",
+      "titre": "Pression européenne pour une régulation coordonnée de l'IA",
+      "resume": "Les débats européens s’intensifient autour de l’AI Act, avec la publication de l’article 50 imposant des obligations d’affichage et le lancement d’une consultation sur l’évaluation des droits fondamentaux de l’IA.",
       "statut": "actif",
-      "debut": "2026-11-16",
-      "derniere_activite": "2026-11-16",
+      "debut": "2026-11-14",
+      "derniere_activite": "2026-11-17",
       "regions": [
         "fr",
         "us"
       ],
       "evenements": [
         {
-          "date": "2026-11-16",
-          "texte": "Annonces aux États‑Unis de désigner Nvidia comme champion national de l’IA (articles 4, 16, 15).",
+          "date": "2026-11-14",
+          "texte": "Déclarations publiques et débats législatifs sur la régulation de l'IA en Europe.",
           "articles": [
             {
-              "titre": "Les États-Unis prévoient de désigner Nvidia parmi les \"champions nationaux\" de l’IA",
-              "source": "Investing.com France",
-              "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFBLTnpvT2hDeExzc014Tm9PcWFXakc2S0Jsd2xHUDZxcUQ0VnhvWHljMlFHLTV2TVBHUG1wZ2wwN0hWTlROTGRQQW9hNVk1WFgtcmd4WEJBVXY0Rk9qeHhvbFZiWnN3TVJxSDVYTnJkSlRCM0lSTVZ4dkRxdFNVQzFqN01VRW1JcHljREkzdnVxbTlwZVhNdmlmTGFqdlhRTlhlR1FpNUJnd2lrdHZKNnU3ajItTlJmdks1b0JkX1JWdk1Zb0pXZWJoVktCTlIy?oc=5",
+              "titre": "IA : Arthur Mensch appelle les dirigeants européens à agir «dès maintenant» pour rester dans la course",
+              "source": "Maddyness",
+              "lien": "https://www.maddyness.com/2026/11/13/ia-arthur-mensch-appelle-les-dirigeants-europeens-a-agir-des-maintenant-pour-rester-dans-la-course/",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "IA : Les Européens au défi de s’entendre pour rester dans la course et mieux la réguler",
+              "source": "Le Monde Pixels",
+              "lien": "https://www.lemonde.fr/international/article/2026/11/13/ia-les-europeens-au-defi-de-s-entendre-pour-rester-dans-la-course-et-mieux-la-reguler_6809387_3210.html",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "«Je déteste l’idée que l’UE aurait perdu la course de l’IA»: à Dublin, l’intelligence artificielle s’invite pour la première fois à un sommet européen",
+              "source": "Le Temps",
+              "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNWW1taUswUzVnTHk5OHdwS0VRRHpud3J3WlhrcGVDUV9pa0UzUlUwb2ZJTms0SlpzYi13ZFVRQVNZdDBGUHFVOEl0bFQ2SXI5RVQzZ2pMeVdWR3dzS0pvSndfNkdoVVVVRy1xS3FqbFNhaThDU3E1eW54MVB3emVHc3ByM1VYTDBTdjJkTmRhakwtN1FLTEtoMjBGSEJlbF82V2tlQmZzMy01VDJpbzdVSWhxdUhBX2ZvUVdyQ2tyWVE5emxnZnZ6TG1MQk5fMzZSV3ZjbFYyMXZLMV9kN3BWRV95bnR6WU04Z1NMYVp0T3ZRdzdmLXV3bDN0VmtxaF9ZRGEtTHM1WWhfWFJWU3pj?oc=5",
+              "region": "fr",
+              "note": 8
+            }
+          ]
+        },
+        {
+          "date": "2026-11-17",
+          "texte": "Publication de l’article 50 du AI Act et ouverture d’une consultation européenne sur le modèle d’évaluation des droits fondamentaux.",
+          "articles": [
+            {
+              "titre": "AI Act article 50 : ce que vos chatbots et contenus IA doivent afficher depuis le 2 août",
+              "source": "JDN",
+              "lien": "https://www.journaldunet.com/intelligence-artificielle/1557993-ai-act-article-50-ce-que-vos-chatbots-et-contenus-ia-doivent-afficher-depuis-le-2-aout/",
               "region": "fr",
               "note": 7
             },
             {
-              "titre": "Les États‑Unis envisagent de nommer Nvidia parmi les « champions nationaux » de l’IA, selon le WSJ",
-              "source": "Investing.com",
-              "lien": "https://finance.yahoo.com/technology/ai/articles/u-plans-name-nvidia-among-053052700.html",
+              "titre": "L'UE ouvre une consultation sur le modèle d'évaluation des droits fondamentaux de l'IA Act",
+              "source": "CASRAI",
+              "lien": "https://casrai.org/news/eu-opens-ai-act-fundamental-rights-template-consultation-2026",
               "region": "us",
-              "note": 8
+              "note": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0019",
+      "titre": "OpenAI intègre les paiements IA dans ChatGPT avec Visa, Mastercard et Amex",
+      "resume": "OpenAI a déployé la fonction de paiement automatisé dans ChatGPT, incluant désormais un portefeuille numérique et une carte bancaire pour les agents IA, suscitant un vif intérêt pour la sécurité des transactions.",
+      "statut": "actif",
+      "debut": "2026-11-14",
+      "derniere_activite": "2026-11-17",
+      "regions": [
+        "fr"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-14",
+          "texte": "Lancement de la fonction de paiement IA dans ChatGPT, annoncée par OpenAI.",
+          "articles": [
+            {
+              "titre": "OpenAI lance les paiements par IA dans ChatGPT avec Visa, Mastercard et Amex",
+              "source": "TradingView",
+              "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rSzNTV1Z6ZGQtVWJmMUdNTTQtUG92ZklHbksyTUozSENwRnZGcF8ycXZ5d1ppRThXSTJKUXo0dXJIUTBtLW9sSm9NbUxfU2YyZTB2dnhRZGN0ZnRwdjY0NU9nX0tXSWxUS2I0NmlVNA?oc=5",
+              "region": "fr",
+              "note": 9
             },
             {
-              "titre": "La Maison-Blanche désignera deux douzaines d’entreprises IA comme « champions nationaux » dans le cadre d’une poussée à l’export",
-              "source": "BigGo Finance",
-              "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FbXBYVUU2YnJKYjhSUEVQTDJLM3BtcWpEWTBLaTY4Y19qaHNpVU9ldTlaR090SW85TG4taWlKMU8td3BDVVA1dXhudEhlSVA2ZGpLamVnOUhFMUZtejh2aW9reWthbjJHNXBzelNwVko1M3QtTmc?oc=5",
+              "titre": "ChatGPT peut désormais payer vos achats à votre place : comment OpenAI sécurise votre carte bancaire",
+              "source": "Clubic",
+              "lien": "https://www.clubic.com/actualite-639268-chatgpt-peut-desormais-payer-vos-achats-a-votre-place-comment-openai-securise-votre-carte-bancaire.html",
+              "region": "fr",
+              "note": 9
+            }
+          ]
+        },
+        {
+          "date": "2026-11-17",
+          "texte": "Lancement de ChatGPT Wallet, offrant une carte bancaire aux agents IA d’OpenAI.",
+          "articles": [
+            {
+              "titre": "Avec ChatGPT Wallet, OpenAI donne une carte bancaire à ses agents Dots",
+              "source": "Next",
+              "lien": "https://next.ink/267861/avec-chatgpt-wallet-openai-donne-une-carte-bancaire-a-ses-agents-dots/",
+              "region": "fr",
+              "note": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0012",
+      "titre": "Torus lève 500 M$ pour un produit IA de data‑centre",
+      "resume": "Torus a annoncé une levée de fonds de 500 millions de dollars destinée à développer Foundry, une infrastructure IA modulaire pour répondre à la demande croissante d’inférence en data‑centre.",
+      "statut": "actif",
+      "debut": "2026-11-11",
+      "derniere_activite": "2026-11-17",
+      "regions": [
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-11",
+          "texte": "Levée de fonds de 500 M$ par Torus pour un produit IA destiné aux data‑centres.",
+          "articles": [
+            {
+              "titre": "Torus lève 500 millions $ pour un produit de centre de données IA",
+              "source": "Investing.com France",
+              "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR3d6ZHhOMlVuZzZUUVpfTTI4VWIwejJIUGdlY0FPMFd4TURiTXRtMDRaeENXbXA2NVpDMXVkQWxwY2R6NjdBSHNjaHVDTF9YZ1NTT0VTQWtlVXJvVDFFZmhZdGo0eTd0TmlQcktTaExfdFZCekxsVUM3OWxiOXRfZ1dLQXJoNHZZVVdZd1FPSk5EUlFlOVRKTHpUdHZQR0lSdDU2S0JQUGFMUkVENTdKYVo5LWR5b1FtekNPeTNHX3N0Q00?oc=5",
+              "region": "fr",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-17",
+          "texte": "Levée de 500 M$ et lancement de l’infrastructure IA modulaire Foundry par Torus.",
+          "articles": [
+            {
+              "titre": "Torus lance Foundry, une infrastructure IA modulaire, pour répondre à la demande croissante d'inférence et lève 500 millions de dollars",
+              "source": "AI Insider",
+              "lien": "https://finance.yahoo.com/technology/ai/articles/torus-launches-modular-ai-infrastructure-130000569.html",
               "region": "us",
               "note": 8
             }
@@ -150,54 +217,100 @@
       ]
     },
     {
-      "id": "f-0021",
-      "titre": "L'IA en tête des risques pour la stabilité financière selon la Fed et des experts chinois",
-      "resume": "Le rapport de la Fed souligne les risques systémiques de l’IA, notamment les contrats de location à terme et les garanties pour les data‑centers, qui atteignent près de 3 000 milliards de dollars.",
+      "id": "f-0010",
+      "titre": "Gemini 4 Carbon remporte le MathArena et se diversifie",
+      "resume": "Google a confirmé la victoire de Gemini 4 Carbon au MathArena tout en annonçant Gemini 4 Hydrogen, qui optimise le routage des modèles, élargissant ainsi les capacités de la suite Gemini.",
       "statut": "actif",
-      "debut": "2026-11-14",
-      "derniere_activite": "2026-11-16",
+      "debut": "2026-11-11",
+      "derniere_activite": "2026-11-17",
       "regions": [
-        "cn",
+        "dev",
         "fr"
       ],
       "evenements": [
         {
-          "date": "2026-11-14",
-          "texte": "Publication de rapports de la Fed et d'instituts chinois soulignant les dangers systémiques de l'IA.",
+          "date": "2026-11-11",
+          "texte": "Mise à disposition publique de Gemini 4 Carbon par Google.",
           "articles": [
             {
-              "titre": "L’intelligence artificielle en tête des risques pour la stabilité financière selon la Fed, alors que les inquiétudes s’intensifient",
-              "source": "Zonebourse Suisse",
-              "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZHBzV2NoSFl2dEFUNXdTNmVzWnprazA0aXJRT3pTaGpDQzcxT1FNd21GQ2Z4X0taR01jbEtjcGlIeTVPOXpOVmNiZXNuQmJNNWFQVU01cEotSVl1RTM0VHJpZVV0RzJ2WmRqQnZyRTRVN09ESW5IWjUyaWVnVFQzbjJQVl8ySno4bGNQOFMzY201REdDN0N4VklYQ2UwNzlndTg2VDhKQm9sZllMamdQYzd3LUdxc2NkaW84U3FHUTMwUmxaemw2ajBVYVBpcGdpSmZiaEwzWUFUVVFld0dVdEhkWW5fenYxelA4REFXcw?oc=5",
+              "titre": "Google ouvre Gemini 4 Carbon au public : comment tester sa nouvelle IA la plus puissante ?",
+              "source": "Le Big Data",
+              "lien": "https://www.lebigdata.fr/google-ouvre-gemini-4-carbon-au-public-comment-tester-sa-nouvelle-ia-la-plus-puissante",
               "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "Feng Runhuan : L’IA risque d’amplifier les risques systémiques des marchés financiers",
-              "source": "财新",
-              "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10U1pFSVFfQTd2QldGY2pFVm1sTzFHal9lMXhZYkdVczItT2I3dzUzOHdyWVdXNGd2c08tcXVZVHNqaTZ2aGxhdWNPT24wS3lseUNlLTJWTWE2bjZ0ZDNYVg?oc=5",
-              "region": "cn",
-              "note": 8
-            },
-            {
-              "titre": "Rapport phare de la Fed : la « fièvre IA » fait grimper les valorisations d’actifs et pourrait menacer la stabilité financière",
-              "source": "财联社",
-              "lien": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tVzQzaEwyNGUyUmdiVEQyRjllTGxlWnJtbkZoaWpJVjFfLVdhRXhfbENxOHVnUFBtNFBBOXppT2p2VjRyeU85SA?oc=5",
-              "region": "cn",
               "note": 8
             }
           ]
         },
         {
-          "date": "2026-11-16",
-          "texte": "Publication d’un rapport de la Fed détaillant les risques financiers liés à l’IA (article 31).",
+          "date": "2026-11-12",
+          "texte": "Lancement de Gemini Decisions.",
           "articles": [
             {
-              "titre": "Rapport de stabilité financière de la Fed alerte sur les risques liés à l’IA : les contrats de location à terme et les garanties pour les data‑centres atteignent près de 3 000 milliards de dollars",
-              "source": "ThePaper.cn",
-              "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzV1gzQnhWUVowSko5ekVNMVhVTEVRT2hvR19DclFuRkdCUFJkWk10NWwzNkRYaXc0ck1yRmlxbEZYYWJEQXcxTnlVRlZqQWYxNWJsanZsVFVBTWZSLXE3RA?oc=5",
-              "region": "cn",
+              "titre": "Google lance Gemini Decisions pour 1 000 questions à la fois",
+              "source": "Brief IA",
+              "lien": "https://www.briefia.fr/article/google-lance-gemini-decisions-pour-1-000-questions-a-la-fois",
+              "region": "fr",
+              "note": 8
+            }
+          ]
+        },
+        {
+          "date": "2026-11-13",
+          "texte": "Google lance Gemini 4 Hydrogen, une mise à jour majeure accélérant le codage IA.",
+          "articles": [
+            {
+              "titre": "Gemini vient de lancer une importante mise à jour gratuite : voici tout ce qui change avec le modèle Gemini 4 Hydrogen",
+              "source": "Journal du Geek",
+              "lien": "https://www.journaldugeek.com/2026/11/13/gemini-vient-de-lancer-une-importante-mise-a-jour-gratuite-voici-tout-ce-qui-change-avec-le-modele-gemini-4-hydrogen/",
+              "region": "fr",
+              "note": 6
+            },
+            {
+              "titre": "Google lance Gemini 4 Hydrogen pour accélérer le codage IA",
+              "source": "WinBuzzer",
+              "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb29mU2YzU3pMakVHNUI4TklDNXdPOXE0WHpaeEc1TnR6LXJZWTljdFRHMWEzbGttTHFYN1hUNnZGRHRsTFJQdXNvdXVhaTE4a1A0S1J0cHlPOTNoZkYySndZNjQxa0ZPQ2pGWldKbGFVV2NnTUpYQ0plRzZWMmpZSnFGOURVR2JqeHdwTjBlck9zajNlVEI4WUJaWQ?oc=5",
+              "region": "dev",
               "note": 7
+            },
+            {
+              "titre": "Gemini 4 Hydrogen de Google surpasse le plus gros Argon seulement quatre semaines après son lancement",
+              "source": "The Decoder",
+              "lien": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
+              "region": "dev",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-15",
+          "texte": "Victoire de Gemini 4 Carbon au MathArena avec un coût élevé.",
+          "articles": [
+            {
+              "titre": "Gemini 4 Carbon remporte la couronne du MathArena mais coûte 15 fois plus que GPT‑6.1 Sol",
+              "source": "The Decoder",
+              "lien": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+              "region": "dev",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-17",
+          "texte": "Victoire de Gemini 4 Carbon au MathArena et lancement de Gemini 4 Hydrogen pour le routage des modèles.",
+          "articles": [
+            {
+              "titre": "Google Maps change radicalement : Gemini peut organiser vos vacances et prendre vos rendez-vous",
+              "source": "01net",
+              "lien": "https://www.01net.com/actualites/google-maps-change-radicalement-gemini-peut-organiser-vos-vacances-et-prendre-vos-rendez-vous.html",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Gemini 4 Hydrogen de Google transforme le choix du modèle en décision de routage",
+              "source": "DevOps.com",
+              "lien": "https://devops.com/googles-gemini-4-hydrogen-turns-model-choice-into-a-routing-decision",
+              "region": "dev",
+              "note": 8
             }
           ]
         }
@@ -206,10 +319,10 @@
     {
       "id": "f-0001",
       "titre": "Crise de direction chez Nvidia et scandale des puces IA",
-      "resume": "Le PDG de Nvidia, Jensen Huang, démissionne suite à des accusations de trafic massif de puces IA vers la Chine, aggravant la chute des actions et les enquêtes en cours.",
+      "resume": "Le départ de Jensen Huang est suivi d’une analyse détaillée des accusations de trafic massif de puces IA vers la Chine, alimentant les spéculations sur l’éclatement de la bulle IA.",
       "statut": "actif",
       "debut": "2026-11-08",
-      "derniere_activite": "2026-11-16",
+      "derniere_activite": "2026-11-17",
       "regions": [
         "cn",
         "fr",
@@ -432,6 +545,166 @@
               "note": 6
             }
           ]
+        },
+        {
+          "date": "2026-11-17",
+          "texte": "Analyse approfondie du scandale de trafic de puces IA et de ses répercussions sur la direction de Nvidia.",
+          "articles": [
+            {
+              "titre": "Comment suivre en direct lraffaire Jensen Huang : Nvidia, Washington, Trump et la Chine",
+              "source": "Frandroid",
+              "lien": "https://www.frandroid.com/marques/3324713_en-direct-affaire-jensen-huang-nvidia-washington-et-la-chine-toutes-les-dernieres-infos",
+              "region": "fr",
+              "note": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0028",
+      "titre": "L’outil de piratage IA ARTEX survit après suppression sur GitHub",
+      "resume": "Un outil de piratage basé sur l’IA, ARTEX, continue d’être utilisé malgré son retrait de GitHub, le FBI signale des intrusions rapides atteignant des privilèges élevés.",
+      "statut": "actif",
+      "debut": "2026-11-16",
+      "derniere_activite": "2026-11-16",
+      "regions": [
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-16",
+          "texte": "Signalement par le FBI d’un outil de piratage IA persistant après suppression (article 13).",
+          "articles": [
+            {
+              "titre": "Outil de piratage IA ARTEX survit à la suppression sur GitHub ; FBI : certaines intrusions atteignent les privilèges en quelques heures",
+              "source": "Tech Times",
+              "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOEFGSnlmaVNFY2RhRFY2WE5mNloxbHhta19GYnRLekpGUkFUNTBUZWxQLV9OWllYalhWWnBPalNWQ1Y0MGdyWFRBanUxZGdmQ2l1QUgxcWxkQ2VRREt1dW95cjNGZlVfWW5LcUZEaDlqenJfQXFPbk5hMUhNajdORWVkRElfZy1odlBoc2JkSlluYnpwUkp4c0h2eVIwVFZCeko1UlQ5T09VeWtHRXYxQ0VEREJsNXVOM09FNlVCVTJISjZUQWY2QUtjSDNrNUcyQTBmYVZRVVZjNTk3MjlhRXFZRHc?oc=5",
+              "region": "us",
+              "note": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0027",
+      "titre": "Faire la guerre avec l’IA : le cas de l’Ukraine",
+      "resume": "Le Monde Pixels explore les dilemmes moraux et politiques de l’utilisation de l’intelligence artificielle dans le conflit ukrainien, soulevant des questions de responsabilité et de contrôle.",
+      "statut": "actif",
+      "debut": "2026-11-16",
+      "derniere_activite": "2026-11-16",
+      "regions": [
+        "fr"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-16",
+          "texte": "Analyse du recours à l’IA dans le conflit ukrainien et de ses implications éthiques (article 1).",
+          "articles": [
+            {
+              "titre": "Faire la guerre avec l’IA ? Pour l’Ukraine, un cas de conscience moral et politique",
+              "source": "Le Monde Pixels",
+              "lien": "https://www.lemonde.fr/international/article/2026/11/16/faire-la-guerre-avec-l-ia-pour-l-ukraine-un-cas-de-conscience-moral-et-politique_6811239_3210.html",
+              "region": "fr",
+              "note": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0025",
+      "titre": "Les États‑Unis désignent Nvidia parmi les champions nationaux de l’IA",
+      "resume": "Le gouvernement américain envisage de classer Nvidia comme « champion national » de l’intelligence artificielle, renforçant son rôle stratégique et ses avantages concurrentiels.",
+      "statut": "actif",
+      "debut": "2026-11-16",
+      "derniere_activite": "2026-11-16",
+      "regions": [
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-16",
+          "texte": "Annonces aux États‑Unis de désigner Nvidia comme champion national de l’IA (articles 4, 16, 15).",
+          "articles": [
+            {
+              "titre": "Les États-Unis prévoient de désigner Nvidia parmi les \"champions nationaux\" de l’IA",
+              "source": "Investing.com France",
+              "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFBLTnpvT2hDeExzc014Tm9PcWFXakc2S0Jsd2xHUDZxcUQ0VnhvWHljMlFHLTV2TVBHUG1wZ2wwN0hWTlROTGRQQW9hNVk1WFgtcmd4WEJBVXY0Rk9qeHhvbFZiWnN3TVJxSDVYTnJkSlRCM0lSTVZ4dkRxdFNVQzFqN01VRW1JcHljREkzdnVxbTlwZVhNdmlmTGFqdlhRTlhlR1FpNUJnd2lrdHZKNnU3ajItTlJmdks1b0JkX1JWdk1Zb0pXZWJoVktCTlIy?oc=5",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Les États‑Unis envisagent de nommer Nvidia parmi les « champions nationaux » de l’IA, selon le WSJ",
+              "source": "Investing.com",
+              "lien": "https://finance.yahoo.com/technology/ai/articles/u-plans-name-nvidia-among-053052700.html",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "La Maison-Blanche désignera deux douzaines d’entreprises IA comme « champions nationaux » dans le cadre d’une poussée à l’export",
+              "source": "BigGo Finance",
+              "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FbXBYVUU2YnJKYjhSUEVQTDJLM3BtcWpEWTBLaTY4Y19qaHNpVU9ldTlaR090SW85TG4taWlKMU8td3BDVVA1dXhudEhlSVA2ZGpLamVnOUhFMUZtejh2aW9reWthbjJHNXBzelNwVko1M3QtTmc?oc=5",
+              "region": "us",
+              "note": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0021",
+      "titre": "L'IA en tête des risques pour la stabilité financière selon la Fed et des experts chinois",
+      "resume": "Le rapport de la Fed souligne les risques systémiques de l’IA, notamment les contrats de location à terme et les garanties pour les data‑centers, qui atteignent près de 3 000 milliards de dollars.",
+      "statut": "actif",
+      "debut": "2026-11-14",
+      "derniere_activite": "2026-11-16",
+      "regions": [
+        "cn",
+        "fr"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-14",
+          "texte": "Publication de rapports de la Fed et d'instituts chinois soulignant les dangers systémiques de l'IA.",
+          "articles": [
+            {
+              "titre": "L’intelligence artificielle en tête des risques pour la stabilité financière selon la Fed, alors que les inquiétudes s’intensifient",
+              "source": "Zonebourse Suisse",
+              "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZHBzV2NoSFl2dEFUNXdTNmVzWnprazA0aXJRT3pTaGpDQzcxT1FNd21GQ2Z4X0taR01jbEtjcGlIeTVPOXpOVmNiZXNuQmJNNWFQVU01cEotSVl1RTM0VHJpZVV0RzJ2WmRqQnZyRTRVN09ESW5IWjUyaWVnVFQzbjJQVl8ySno4bGNQOFMzY201REdDN0N4VklYQ2UwNzlndTg2VDhKQm9sZllMamdQYzd3LUdxc2NkaW84U3FHUTMwUmxaemw2ajBVYVBpcGdpSmZiaEwzWUFUVVFld0dVdEhkWW5fenYxelA4REFXcw?oc=5",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Feng Runhuan : L’IA risque d’amplifier les risques systémiques des marchés financiers",
+              "source": "财新",
+              "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10U1pFSVFfQTd2QldGY2pFVm1sTzFHal9lMXhZYkdVczItT2I3dzUzOHdyWVdXNGd2c08tcXVZVHNqaTZ2aGxhdWNPT24wS3lseUNlLTJWTWE2bjZ0ZDNYVg?oc=5",
+              "region": "cn",
+              "note": 8
+            },
+            {
+              "titre": "Rapport phare de la Fed : la « fièvre IA » fait grimper les valorisations d’actifs et pourrait menacer la stabilité financière",
+              "source": "财联社",
+              "lien": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4tVzQzaEwyNGUyUmdiVEQyRjllTGxlWnJtbkZoaWpJVjFfLVdhRXhfbENxOHVnUFBtNFBBOXppT2p2VjRyeU85SA?oc=5",
+              "region": "cn",
+              "note": 8
+            }
+          ]
+        },
+        {
+          "date": "2026-11-16",
+          "texte": "Publication d’un rapport de la Fed détaillant les risques financiers liés à l’IA (article 31).",
+          "articles": [
+            {
+              "titre": "Rapport de stabilité financière de la Fed alerte sur les risques liés à l’IA : les contrats de location à terme et les garanties pour les data‑centres atteignent près de 3 000 milliards de dollars",
+              "source": "ThePaper.cn",
+              "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzV1gzQnhWUVowSko5ekVNMVhVTEVRT2hvR19DclFuRkdCUFJkWk10NWwzNkRYaXc0ck1yRmlxbEZYYWJEQXcxTnlVRlZqQWYxNWJsanZsVFVBTWZSLXE3RA?oc=5",
+              "region": "cn",
+              "note": 7
+            }
+          ]
         }
       ]
     },
@@ -626,126 +899,6 @@
       ]
     },
     {
-      "id": "f-0010",
-      "titre": "Gemini 4 Carbon remporte le MathArena",
-      "resume": "Google dévoile Gemini 4 Carbon, qui bat les concurrents au MathArena mais coûte 15 fois plus cher que le modèle GPT‑6.1 Sol, renforçant la position de Gemini sur le marché des IA génératives.",
-      "statut": "actif",
-      "debut": "2026-11-11",
-      "derniere_activite": "2026-11-15",
-      "regions": [
-        "dev",
-        "fr"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-11",
-          "texte": "Mise à disposition publique de Gemini 4 Carbon par Google.",
-          "articles": [
-            {
-              "titre": "Google ouvre Gemini 4 Carbon au public : comment tester sa nouvelle IA la plus puissante ?",
-              "source": "Le Big Data",
-              "lien": "https://www.lebigdata.fr/google-ouvre-gemini-4-carbon-au-public-comment-tester-sa-nouvelle-ia-la-plus-puissante",
-              "region": "fr",
-              "note": 8
-            }
-          ]
-        },
-        {
-          "date": "2026-11-12",
-          "texte": "Lancement de Gemini Decisions.",
-          "articles": [
-            {
-              "titre": "Google lance Gemini Decisions pour 1 000 questions à la fois",
-              "source": "Brief IA",
-              "lien": "https://www.briefia.fr/article/google-lance-gemini-decisions-pour-1-000-questions-a-la-fois",
-              "region": "fr",
-              "note": 8
-            }
-          ]
-        },
-        {
-          "date": "2026-11-13",
-          "texte": "Google lance Gemini 4 Hydrogen, une mise à jour majeure accélérant le codage IA.",
-          "articles": [
-            {
-              "titre": "Gemini vient de lancer une importante mise à jour gratuite : voici tout ce qui change avec le modèle Gemini 4 Hydrogen",
-              "source": "Journal du Geek",
-              "lien": "https://www.journaldugeek.com/2026/11/13/gemini-vient-de-lancer-une-importante-mise-a-jour-gratuite-voici-tout-ce-qui-change-avec-le-modele-gemini-4-hydrogen/",
-              "region": "fr",
-              "note": 6
-            },
-            {
-              "titre": "Google lance Gemini 4 Hydrogen pour accélérer le codage IA",
-              "source": "WinBuzzer",
-              "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb29mU2YzU3pMakVHNUI4TklDNXdPOXE0WHpaeEc1TnR6LXJZWTljdFRHMWEzbGttTHFYN1hUNnZGRHRsTFJQdXNvdXVhaTE4a1A0S1J0cHlPOTNoZkYySndZNjQxa0ZPQ2pGWldKbGFVV2NnTUpYQ0plRzZWMmpZSnFGOURVR2JqeHdwTjBlck9zajNlVEI4WUJaWQ?oc=5",
-              "region": "dev",
-              "note": 7
-            },
-            {
-              "titre": "Gemini 4 Hydrogen de Google surpasse le plus gros Argon seulement quatre semaines après son lancement",
-              "source": "The Decoder",
-              "lien": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
-              "region": "dev",
-              "note": 7
-            }
-          ]
-        },
-        {
-          "date": "2026-11-15",
-          "texte": "Victoire de Gemini 4 Carbon au MathArena avec un coût élevé.",
-          "articles": [
-            {
-              "titre": "Gemini 4 Carbon remporte la couronne du MathArena mais coûte 15 fois plus que GPT‑6.1 Sol",
-              "source": "The Decoder",
-              "lien": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
-              "region": "dev",
-              "note": 7
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f-0022",
-      "titre": "Pression européenne pour une régulation coordonnée de l'IA",
-      "resume": "Arthur Mensch incite les dirigeants européens à agir immédiatement, alors que le Parlement européen débat d'une proposition de loi sur les droits d'auteur liés à l'IA et que les leaders européens cherchent à rester compétitifs tout en régulant le secteur.",
-      "statut": "actif",
-      "debut": "2026-11-14",
-      "derniere_activite": "2026-11-14",
-      "regions": [
-        "fr"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-14",
-          "texte": "Déclarations publiques et débats législatifs sur la régulation de l'IA en Europe.",
-          "articles": [
-            {
-              "titre": "IA : Arthur Mensch appelle les dirigeants européens à agir «dès maintenant» pour rester dans la course",
-              "source": "Maddyness",
-              "lien": "https://www.maddyness.com/2026/11/13/ia-arthur-mensch-appelle-les-dirigeants-europeens-a-agir-des-maintenant-pour-rester-dans-la-course/",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "IA : Les Européens au défi de s’entendre pour rester dans la course et mieux la réguler",
-              "source": "Le Monde Pixels",
-              "lien": "https://www.lemonde.fr/international/article/2026/11/13/ia-les-europeens-au-defi-de-s-entendre-pour-rester-dans-la-course-et-mieux-la-reguler_6809387_3210.html",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "«Je déteste l’idée que l’UE aurait perdu la course de l’IA»: à Dublin, l’intelligence artificielle s’invite pour la première fois à un sommet européen",
-              "source": "Le Temps",
-              "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNWW1taUswUzVnTHk5OHdwS0VRRHpud3J3WlhrcGVDUV9pa0UzUlUwb2ZJTms0SlpzYi13ZFVRQVNZdDBGUHFVOEl0bFQ2SXI5RVQzZ2pMeVdWR3dzS0pvSndfNkdoVVVVRy1xS3FqbFNhaThDU3E1eW54MVB3emVHc3ByM1VYTDBTdjJkTmRhakwtN1FLTEtoMjBGSEJlbF82V2tlQmZzMy01VDJpbzdVSWhxdUhBX2ZvUVdyQ2tyWVE5emxnZnZ6TG1MQk5fMzZSV3ZjbFYyMXZLMV9kN3BWRV95bnR6WU04Z1NMYVp0T3ZRdzdmLXV3bDN0VmtxaF9ZRGEtTHM1WWhfWFJWU3pj?oc=5",
-              "region": "fr",
-              "note": 8
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "f-0020",
       "titre": "Shield AI dévoile le prototype X‑BAT et délègue la navigation à GPT‑6 Astra",
       "resume": "Shield AI présente son drone à décollage vertical X‑BAT, tandis que la société confie la navigation sur des portails hérités à son modèle GPT‑6 Astra, marquant une intégration avancée de l'IA dans la robotique militaire.",
@@ -774,39 +927,6 @@
               "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU2I0U2oyTEZOYW0yT2xTbWIyaDR6UzVGUFkyeVFYTWFZQjAxSGQyVUpIWXZHSWJSbHVFQm1GWk5JNVpqclZWTmI1WEZDaGFhWFd5QU5XbWpZbnNHRy13MHhienB6NTFFUHBrczI0X1k1MTlsMmRZV0luczZUajZvaHU0ZDBNTzRRVDU3RGljM0VHUjls0gGUAUFVX3lxTFBTYjRTajJMRk5hbTJPbFNtYjJoNHpTNUZQWTJ5UVhNYVlCMDFIZDJVSkhZdkdJYlJsdUVCbUZaTkk1WmpyVlZOYjVYRkNoYWFYV3lBTldtalluc0dHLXcweGJ6cHo1MUVQcGtzMjRfWTUxOWwyZFlXSW5zNlRqNm9odTRkME1PNFFUNTdEaWMzRUdSOWw?oc=5",
               "region": "cn",
               "note": 7
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f-0019",
-      "titre": "OpenAI intègre les paiements IA dans ChatGPT avec Visa, Mastercard et Amex",
-      "resume": "OpenAI déploie une fonctionnalité de paiement automatisé dans ChatGPT, permettant aux utilisateurs d’effectuer des achats en ligne via les principales cartes bancaires. Cette avancée suscite un vif intérêt pour la sécurisation des transactions par IA.",
-      "statut": "actif",
-      "debut": "2026-11-14",
-      "derniere_activite": "2026-11-14",
-      "regions": [
-        "fr"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-14",
-          "texte": "Lancement de la fonction de paiement IA dans ChatGPT, annoncée par OpenAI.",
-          "articles": [
-            {
-              "titre": "OpenAI lance les paiements par IA dans ChatGPT avec Visa, Mastercard et Amex",
-              "source": "TradingView",
-              "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rSzNTV1Z6ZGQtVWJmMUdNTTQtUG92ZklHbksyTUozSENwRnZGcF8ycXZ5d1ppRThXSTJKUXo0dXJIUTBtLW9sSm9NbUxfU2YyZTB2dnhRZGN0ZnRwdjY0NU9nX0tXSWxUS2I0NmlVNA?oc=5",
-              "region": "fr",
-              "note": 9
-            },
-            {
-              "titre": "ChatGPT peut désormais payer vos achats à votre place : comment OpenAI sécurise votre carte bancaire",
-              "source": "Clubic",
-              "lien": "https://www.clubic.com/actualite-639268-chatgpt-peut-desormais-payer-vos-achats-a-votre-place-comment-openai-securise-votre-carte-bancaire.html",
-              "region": "fr",
-              "note": 9
             }
           ]
         }
@@ -1168,32 +1288,6 @@
               "lien": "https://www.briefia.fr/article/snowflake-lance-cortex-pour-centraliser-l-ia-generative-sur-ses-donnees",
               "region": "fr",
               "note": 9
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f-0012",
-      "titre": "Torus lève 500 M$ pour un produit IA de data‑centre",
-      "resume": "Torus annonce une levée de 500 millions de dollars destinée à développer un nouveau produit dédié aux centres de données IA.",
-      "statut": "actif",
-      "debut": "2026-11-11",
-      "derniere_activite": "2026-11-11",
-      "regions": [
-        "fr"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-11",
-          "texte": "Levée de fonds de 500 M$ par Torus pour un produit IA destiné aux data‑centres.",
-          "articles": [
-            {
-              "titre": "Torus lève 500 millions $ pour un produit de centre de données IA",
-              "source": "Investing.com France",
-              "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR3d6ZHhOMlVuZzZUUVpfTTI4VWIwejJIUGdlY0FPMFd4TURiTXRtMDRaeENXbXA2NVpDMXVkQWxwY2R6NjdBSHNjaHVDTF9YZ1NTT0VTQWtlVXJvVDFFZmhZdGo0eTd0TmlQcktTaExfdFZCekxsVUM3OWxiOXRfZ1dLQXJoNHZZVVdZd1FPSk5EUlFlOVRKTHpUdHZQR0lSdDU2S0JQUGFMUkVENTdKYVo5LWR5b1FtekNPeTNHX3N0Q00?oc=5",
-              "region": "fr",
-              "note": 7
             }
           ]
         }

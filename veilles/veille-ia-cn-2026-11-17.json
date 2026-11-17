@@ -1,0 +1,472 @@
+{
+  "region": "cn",
+  "genere_a": "2026-11-17T08:51:57.640867+01:00",
+  "heures": 24,
+  "nombre_demande": 50,
+  "nombre_articles": 10,
+  "synthese": "Les dernières heures ont vu plusieurs annonces majeures autour de l'intelligence artificielle en Chine. Des entreprises comme Doubao et Alibaba enrichissent leurs plateformes avec de nouveaux modèles IA, tandis qu'Apple renforce la conformité générative en Chine. Un incident de sécurité a exposé les données de centaines de milliers de conducteurs via Fireworks AI. Sur le plan matériel, Huawei et Marvell dévoilent des puces et des architectures destinées à soutenir les charges de travail IA. Enfin, le secteur fait face à des pressions réglementaires et financières, illustrées par les restrictions américaines sur les puces IA et la chute du profit de Baidu.",
+  "verification": {
+    "problemes": [
+      {
+        "passage": "les appels des PDG du G20 à harmoniser les garde‑fous de l'IA",
+        "raison": "Aucun titre ne mentionne les PDG du G20 ; le titre disponible parle des PDG d'Apec"
+      }
+    ],
+    "synthese_originale": "Les dernières heures ont vu plusieurs annonces majeures autour de l'intelligence artificielle en Chine. Des entreprises comme Doubao et Alibaba enrichissent leurs plateformes avec de nouveaux modèles IA, tandis qu'Apple renforce la conformité générative en Chine. Un incident de sécurité a exposé les données de centaines de milliers de conducteurs via Fireworks AI. Sur le plan matériel, Huawei et Marvell dévoilent des puces et des architectures destinées à soutenir les charges de travail IA. Enfin, le secteur fait face à des pressions réglementaires et financières, illustrées par les restrictions américaines sur les puces IA et la chute du profit de Baidu."
+  },
+  "sources_en_echec": [
+    "Google Actualités"
+  ],
+  "themes": [
+    {
+      "nom": "Déploiement et outils d'IA",
+      "resume": "Une série d'articles décrit le lancement ou l'amélioration d'outils et de modèles d'IA, notamment Garlic LLM, un anneau d'enregistrement IA, les exigences de conformité d'Apple, et les nouvelles plateformes de travail IA de Doubao et d'Alibaba.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Apple impose des déclarations de conformité IA sur l'App Store China, influence sur les développeurs",
+          "couverture": 1,
+          "titre": "Apple adds generative AI compliance filings to App Store Connect in China",
+          "source": "TechNode",
+          "lien": "https://technode.com/2026/11/17/apple-adds-generative-ai-compliance-filings-to-app-store-connect-in-china/",
+          "date": "2026-11-17T06:28:21+00:00",
+          "resume": "Apple has added a compliance page in App Store Connect where developers can submit declarations for apps distributed in mainland China that offer AI-generated or synthetic content or include features subject to a security assessment. Existing apps covered by the requirements have until January 31, 2",
+          "titre_fr": "Apple ajoute des dépôts de conformité en IA générative à App Store Connect en Chine"
+        },
+        {
+          "note": 6,
+          "motif": "QwenWork d'Alibaba intègre modèles tiers, élargit l'écosystème mais reste une évolution",
+          "couverture": 1,
+          "titre": "Alibaba's QwenWork Adds Third-Party Models From Kimi, GLM and DeepSeek",
+          "source": "Pandaily",
+          "lien": "https://pandaily.com/alibaba-qwenwork-third-party-model-selection-kimi-glm-deepseek",
+          "date": "2026-11-17T02:03:52+00:00",
+          "resume": "Alibaba's QwenWork expands model choice to Kimi, GLM, DeepSeek and other providers, with enterprise access controls by department, group or member.",
+          "titre_fr": "QwenWork d'Alibaba propose des modèles tiers de Kimi, GLM et DeepSeek"
+        },
+        {
+          "note": 5,
+          "motif": "Nouveau modèle local intéressant mais portée limitée à niche du jailbreak PS4",
+          "couverture": 1,
+          "titre": "每秒输出最高 43 词元：Garlic LLM 可让越狱 PS4 运行 9B 参数本地 AI 模型",
+          "source": "IT之家",
+          "lien": "https://www.ithome.com/1/028/266.htm",
+          "date": "2026-11-17T07:12:47+00:00",
+          "resume": "IT之家 11 月 17 日消息，科技媒体 Gigazine 今天（11 月 17 日）发布博文， 报道称开源项目 Garlic LLM 可以让越狱版 PlayStation 4 运行 90 亿参数的本地大语言模型，最高生成速度可达每秒 43 个词元（Token） ，且无需联网即可完成 AI 聊天与语音对话。 该项目由开发者 Leonardo Alegria 创建，技术实现上是绕过 PS4 原本面向游戏图形处理的驱动程序，直接向其 AMD GCN 架构 GPU 下达底层指令，把游戏主机变成一台可运行 AI 推理的“离线电脑”。 由于 PS4 并未提供非官方程序调用的通用 GPU 计算接口或机器",
+          "titre_fr": "Garlic LLM permet d'exécuter localement un modèle d'IA de 9 milliards de paramètres sur PS4 jailbreaké, avec un débit maximal de 43 tokens par seconde"
+        },
+        {
+          "note": 5,
+          "motif": "Création d'une start‑up IA par d'anciens dirigeants Meituan/Feishu, projet encore embryonnaire",
+          "couverture": 1,
+          "titre": "Former Meituan and Feishu executives reportedly team up to build an AI recording ring",
+          "source": "TechNode",
+          "lien": "https://technode.com/2026/11/17/former-meituan-and-feishu-executives-reportedly-team-up-to-build-an-ai-recording-ring/",
+          "date": "2026-11-17T06:28:31+00:00",
+          "resume": "Liu Yanxiang, who previously ran Meituan’s ticketing, vacation and transportation business, has left the company and teamed up with a former Feishu executive who led international operations to start Beijing-based Huling Technology, Sina Tech reported Tuesday. The startup has reportedly raised a see",
+          "titre_fr": "D'anciens cadres de Meituan et Feishu se seraient associés pour créer un anneau d'enregistrement IA"
+        },
+        {
+          "note": 4,
+          "motif": "Ajout de workbenches IA pour 21 scénarios, fonctionnalité marketing plutôt que rupture",
+          "couverture": 1,
+          "titre": "Doubao Work Adds AI Workbenches for 21 Professional Scenarios",
+          "source": "Pandaily",
+          "lien": "https://pandaily.com/doubao-work-industry-workbenches-professional-skills-tools-sharing",
+          "date": "2026-11-17T02:04:29+00:00",
+          "resume": "Doubao Work bundles skills and tools into workbenches for 21 professional scenarios, with custom configurations users can save and share.",
+          "titre_fr": "Doubao Work intègre des ateliers IA pour 21 scénarios professionnels"
+        }
+      ]
+    },
+    {
+      "nom": "Sécurité et fuites de données IA",
+      "resume": "Un incident de cybersécurité a touché le fournisseur tiers Fireworks AI, entraînant la fuite de données de près de 150 000 conducteurs Uber.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Incident de sécurité chez Fireworks AI, fuite de données de 150 000 conducteurs Uber",
+          "couverture": 1,
+          "titre": "第三方供应商 Fireworks AI 遭黑客入侵，近 15 万 Uber 司机驾照信息泄露",
+          "source": "IT之家",
+          "lien": "https://www.ithome.com/1/028/263.htm",
+          "date": "2026-11-17T07:05:37+00:00",
+          "resume": "IT之家 11 月 17 日消息，Uber 正在通知近 15 万名司机，在该公司一家技术供应商 10 月份发生的数据泄露事件中，他们的个人信息和驾照信息被盗取。 本周，Uber 向美国多个州的总检察长办公室提交了数据泄露通知，其中包括加利福尼亚州和艾奥瓦州。Uber 在通知中表示，公司于 10 月 9 日接到供应商告知，黑客已经入侵其系统并窃取内部访问凭证，随后利用这些凭证访问了 Uber 的数据。 此后，Uber 开始通知受影响司机，告知他们存储在该供应商处的个人信息可能已经泄露。遭窃取的数据包括司机姓名、家庭住址、出生日期以及驾驶执照号码。 TechCrunch 获悉，此次事件涉及的供应商",
+          "titre_fr": "Le fournisseur tiers Fireworks AI victime d'une intrusion de hackers, près de 150 000 informations de permis de conduire d'Uber chauffeurs divulguées"
+        }
+      ]
+    },
+    {
+      "nom": "Matériel et puces IA",
+      "resume": "Des annonces portent sur des avancées matérielles, comme le pool de mémoire optique multi‑rack de Marvell et Penguin, ainsi que le DPU d'affichage Kirin 9050 de Huawei intégrant l'IA‑HDR2020.",
+      "articles": [
+        {
+          "note": 6,
+          "motif": "Annonce du DPU Kirin 9050 avec AI‑HDR2020, avancée hardware mais impact sectoriel modéré",
+          "couverture": 1,
+          "titre": "Huawei Details Kirin 9050 Display DPU With AI-HDR2020 and Pixel-Level Control",
+          "source": "Pandaily",
+          "lien": "https://pandaily.com/huawei-kirin-9050-display-dpu-ai-hdr-pixel-control",
+          "date": "2026-11-17T06:59:24+00:00",
+          "resume": "Huawei says Kirin 9050's display DPU brings AI-HDR2020 to SDR video and adds pixel-level control. MyDrivers reports adaptation for 364 video apps.",
+          "titre_fr": "Huawei dévoile le Kirin 9050 Display DPU avec AI‑HDR2020 et contrôle au niveau du pixel"
+        }
+      ]
+    },
+    {
+      "nom": "Performance du marché et régulation",
+      "resume": "Performance du marché et régulation : Les titres évoquent les difficultés financières de Baidu, la réduction des exportations de puces IA par les États‑Unis, et les appels des PDG d'Apec à harmoniser les garde‑fous de l'IA.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Baisse de 46 % du bénéfice trimestriel de Baidu, reflète difficultés du secteur IA malgré investissements",
+          "couverture": 1,
+          "titre": "Baidu quarterly profit plunges 46% as ad slump overshadows AI growth",
+          "source": "SCMP Tech",
+          "lien": "https://www.scmp.com/tech/big-tech/article/3374604/baidu-quarterly-profit-plunges-46-ad-slump-overshadows-ai-growth",
+          "date": "2026-11-16T10:10:31+00:00",
+          "resume": "Baidu’s push into artificial intelligence failed to offset a downturn in its traditional search advertising business, dragging the Chinese tech giant’s third-quarter net profit down 46 per cent. Net profit came in at 1.4 billion yuan (US$208 million) for the September quarter, down from 2.6 billion ",
+          "titre_fr": "Le bénéfice trimestriel de Baidu chute de 46 % alors que la baisse de la publicité l'emporte sur la croissance de l'IA"
+        }
+      ]
+    },
+    {
+      "nom": "Autres articles",
+      "resume": "",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Fermeture de Sora par OpenAI, décision réglementaire majeure affectant l'IA vidéo",
+          "couverture": 1,
+          "titre": "OpenAI Shut Down Sora. Kuaishou Is Betting Bigger on Kling.",
+          "source": "TechNode",
+          "lien": "https://technode.com/2026/11/17/kuaishou-kling-sora-hong-kong-ipo/",
+          "date": "2026-11-17T07:09:43+00:00",
+          "resume": "Editor’s note: This article is republished from Jumpstart, a TechNode Group publication. In the summer of 2024, while most people were still waiting to try OpenAI’s Sora, a rival turned up across the Pacific. It came from Kuaishou, a Chinese short-video company better known at home than abroad. The ",
+          "titre_fr": "OpenAI ferme Sora. Kuaishou mise davantage sur Kling"
+        },
+        {
+          "note": 2,
+          "motif": "Événement promotionnel vague sans fait concret, peu pertinent pour la veille IA",
+          "couverture": 1,
+          "titre": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+          "source": "量子位",
+          "lien": "https://www.qbitai.com/2026/11/510526.html",
+          "date": "2026-11-16T08:45:17+00:00",
+          "resume": "12月1日，细数AI的未竟之问。",
+          "titre_fr": "Le gala de fin d'année 2026 de Jiazi Gravity s'apprête à débuter, le jeu infini de l'IA entre dans le « Second Chapitre » | Jiazi Gravity"
+        }
+      ]
+    }
+  ],
+  "ecartes": [
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "美财长贝森特：英伟达需要“大刀阔斧”的改革，应在外部寻找新任 CEO",
+      "source": "IT之家",
+      "lien": "https://www.ithome.com/1/028/267.htm",
+      "date": "2026-11-17T07:19:59+00:00",
+      "resume": "IT之家 11 月 17 日消息，美国财政部长斯科特 · 贝森特就英伟达新任 CEO 的人选问题发表意见，主张从公司外部寻找继任者。 贝森特在福克斯新闻《周日早间展望》节目采访中指出，英伟达董事会 应当考虑外部候选人 ，“他们需要进行一次 大刀阔斧的改革 ”。 贝森特还要求英伟达董事会在未来 10 天内，就公司遵守美方所称的“出口管制规定”情况作出说明，并强调：“英伟达是一家优秀的公司，黄仁勋也是一位杰出的创新者，但这并不意味着英伟达可以不履行‘合规义务’。” 据IT之家了解，英伟达上周发布的声明中称，新任 CEO 的遴选范围 将涵盖公司内外部人选 ，CFO 科莱特 · 克雷斯暂时接任 CEO",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Marvell、Penguin 共推业界首款多机架光学 I/O 内存池，提供 HBM 级带宽",
+      "source": "IT之家",
+      "lien": "https://www.ithome.com/1/028/261.htm",
+      "date": "2026-11-17T07:02:57+00:00",
+      "resume": "IT之家 11 月 17 日消息，Marvell、Penguin 双方当地时间昨日宣布面向 AI 内存需求达成战略合作，共同推出 DDR4 CXL 内存扩展卡 、业界首款多机架光学 I/O 内存池 MemoryAI Photonic Appliance。 这一解决方案使得 多个 XPU 能通过光学 I/O 在数米的距离上共享 HBM 级内存带宽 ，缓解 AI 计算面临的内存墙问题，提高系统的 DRAM 利用效率。 该系统基于 Marvell Photonic Fabric 平台，采用硅光子内存模块技术， 可扩展至 16TB DDR5 RDIMM 和 578GB HBM3E ， 总设备带宽达 5",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Huawei reveals the design of its first OSTA phone ahead of November 20 launch",
+      "source": "TechNode",
+      "lien": "https://technode.com/2026/11/17/huawei-reveals-the-design-of-its-first-osta-phone-ahead-of-november-20-launch/",
+      "date": "2026-11-17T06:28:53+00:00",
+      "resume": "Huawei’s new smartphone brand OSTA on Tuesday revealed the design of its first phone, the O1 Pro, ahead of its November 20 launch. The phone has an unusually wide body and a purple gradient finish, with a horizontal pill-shaped rear camera module. OSTA is positioning the O1 Pro as an AI phone runnin",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "US tightens AI chip export curbs to close China’s overseas data centre loophole",
+      "source": "SCMP Tech",
+      "lien": "https://www.scmp.com/tech/article/3374639/us-tightens-ai-chip-export-curbs-close-chinas-overseas-data-centre-loophole",
+      "date": "2026-11-16T15:46:42+00:00",
+      "resume": "The US Bureau of Industry and Security (BIS) has announced new restrictions on Chinese companies’ remote access to advanced US artificial intelligence chips through overseas data centres, targeting a major loophole that has long allowed Chinese developers to access computing power otherwise barred b",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Apec CEOs seek common AI safeguards as adoption accelerates: Deloitte",
+      "source": "SCMP Tech",
+      "lien": "https://www.scmp.com/tech/big-tech/article/3374612/apec-ceos-seek-common-ai-safeguards-adoption-accelerates-deloitte",
+      "date": "2026-11-16T12:00:10+00:00",
+      "resume": "As Beijing pushes for artificial intelligence cooperation with Washington ahead of this week’s Apec summit in Shenzhen, Deloitte’s Asia-Pacific CEO Robert Hillard is urging regional governments to agree on common AI rules and cybersecurity guard rails to boost trade. The call for cross-border alignm",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+      "source": "量子位",
+      "lien": "https://www.qbitai.com/2026/11/510542.html",
+      "date": "2026-11-16T10:57:31+00:00",
+      "resume": "具身智能的真正价值是“把人的经验、技能复刻出来”",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+      "source": "量子位",
+      "lien": "https://www.qbitai.com/2026/11/510496.html",
+      "date": "2026-11-16T08:02:07+00:00",
+      "resume": "在华为待了快10000天。",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+      "source": "量子位",
+      "lien": "https://www.qbitai.com/2026/11/510493.html",
+      "date": "2026-11-16T07:58:57+00:00",
+      "resume": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
+      "titre_fr": ""
+    }
+  ],
+  "top": [
+    {
+      "note": 8,
+      "motif": "Fermeture de Sora par OpenAI, décision réglementaire majeure affectant l'IA vidéo",
+      "couverture": 1,
+      "titre": "OpenAI Shut Down Sora. Kuaishou Is Betting Bigger on Kling.",
+      "source": "TechNode",
+      "lien": "https://technode.com/2026/11/17/kuaishou-kling-sora-hong-kong-ipo/",
+      "date": "2026-11-17T07:09:43+00:00",
+      "resume": "Editor’s note: This article is republished from Jumpstart, a TechNode Group publication. In the summer of 2024, while most people were still waiting to try OpenAI’s Sora, a rival turned up across the Pacific. It came from Kuaishou, a Chinese short-video company better known at home than abroad. The ",
+      "titre_fr": "OpenAI ferme Sora. Kuaishou mise davantage sur Kling"
+    },
+    {
+      "note": 8,
+      "motif": "Baisse de 46 % du bénéfice trimestriel de Baidu, reflète difficultés du secteur IA malgré investissements",
+      "couverture": 1,
+      "titre": "Baidu quarterly profit plunges 46% as ad slump overshadows AI growth",
+      "source": "SCMP Tech",
+      "lien": "https://www.scmp.com/tech/big-tech/article/3374604/baidu-quarterly-profit-plunges-46-ad-slump-overshadows-ai-growth",
+      "date": "2026-11-16T10:10:31+00:00",
+      "resume": "Baidu’s push into artificial intelligence failed to offset a downturn in its traditional search advertising business, dragging the Chinese tech giant’s third-quarter net profit down 46 per cent. Net profit came in at 1.4 billion yuan (US$208 million) for the September quarter, down from 2.6 billion ",
+      "titre_fr": "Le bénéfice trimestriel de Baidu chute de 46 % alors que la baisse de la publicité l'emporte sur la croissance de l'IA"
+    },
+    {
+      "note": 7,
+      "motif": "Incident de sécurité chez Fireworks AI, fuite de données de 150 000 conducteurs Uber",
+      "couverture": 1,
+      "titre": "第三方供应商 Fireworks AI 遭黑客入侵，近 15 万 Uber 司机驾照信息泄露",
+      "source": "IT之家",
+      "lien": "https://www.ithome.com/1/028/263.htm",
+      "date": "2026-11-17T07:05:37+00:00",
+      "resume": "IT之家 11 月 17 日消息，Uber 正在通知近 15 万名司机，在该公司一家技术供应商 10 月份发生的数据泄露事件中，他们的个人信息和驾照信息被盗取。 本周，Uber 向美国多个州的总检察长办公室提交了数据泄露通知，其中包括加利福尼亚州和艾奥瓦州。Uber 在通知中表示，公司于 10 月 9 日接到供应商告知，黑客已经入侵其系统并窃取内部访问凭证，随后利用这些凭证访问了 Uber 的数据。 此后，Uber 开始通知受影响司机，告知他们存储在该供应商处的个人信息可能已经泄露。遭窃取的数据包括司机姓名、家庭住址、出生日期以及驾驶执照号码。 TechCrunch 获悉，此次事件涉及的供应商",
+      "titre_fr": "Le fournisseur tiers Fireworks AI victime d'une intrusion de hackers, près de 150 000 informations de permis de conduire d'Uber chauffeurs divulguées"
+    },
+    {
+      "note": 7,
+      "motif": "Apple impose des déclarations de conformité IA sur l'App Store China, influence sur les développeurs",
+      "couverture": 1,
+      "titre": "Apple adds generative AI compliance filings to App Store Connect in China",
+      "source": "TechNode",
+      "lien": "https://technode.com/2026/11/17/apple-adds-generative-ai-compliance-filings-to-app-store-connect-in-china/",
+      "date": "2026-11-17T06:28:21+00:00",
+      "resume": "Apple has added a compliance page in App Store Connect where developers can submit declarations for apps distributed in mainland China that offer AI-generated or synthetic content or include features subject to a security assessment. Existing apps covered by the requirements have until January 31, 2",
+      "titre_fr": "Apple ajoute des dépôts de conformité en IA générative à App Store Connect en Chine"
+    }
+  ],
+  "articles_notes": 10,
+  "liens_google": 0,
+  "videos": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "大模型到底是怎么一步步思考的？",
+        "source": "果赖科普",
+        "lien": "https://www.youtube.com/watch?v=mTNRyaJqP8I",
+        "date": "2026-11-17T06:08:13Z",
+        "image": "https://i.ytimg.com/vi/mTNRyaJqP8I/mqdefault.jpg",
+        "extrait": "你对大模型敲下一句话，它的内部一步步发生了什么？切成词块、变成坐标、一层层加工、给所有可能的下一个词块打分、按概率 ...",
+        "description": "Explication du processus interne de réflexion d'un grand modèle, depuis la tokenisation jusqu'au calcul des probabilités du prochain token."
+      },
+      {
+        "titre": "阿里千问新旗舰 Qwen4-Max 正式发布！拉上 GPT、Claude 与 Kimi 全面实测，它到底值不值得切过去当主力？",
+        "source": "进化中的阿陈",
+        "lien": "https://www.youtube.com/watch?v=jBc668IQWcc",
+        "date": "2026-11-17T04:10:06Z",
+        "image": "https://i.ytimg.com/vi/jBc668IQWcc/mqdefault.jpg",
+        "extrait": "免費下載2026最強一站式AI生成神器Edimakor  https://reurl.cc/5XW2lV 黑五限時好康！ Edimakor 點數免費 ...",
+        "description": "Test complet du nouveau modèle phare Qwen4‑Max d'Alibaba, comparé à GPT, Claude et Kimi, pour évaluer s'il mérite d'être adopté comme modèle principal."
+      },
+      {
+        "titre": "强化学习太烧算力，大模型蒸馏为什么成了捷径？Anthropic为何严防",
+        "source": "TokenDun",
+        "lien": "https://www.youtube.com/watch?v=JJIvii7BPzg",
+        "date": "2026-11-17T03:35:05Z",
+        "image": "https://i.ytimg.com/vi/JJIvii7BPzg/mqdefault.jpg",
+        "extrait": "这种野生数据的思维链不如专门刷出来的完整，但有个大优势：全是一线用户的真实需求，记录了人怎么一步步解决实际问题.",
+        "description": "Analyse de la distillation de grands modèles comme solution à la consommation excessive de calcul en apprentissage par renforcement, avec un focus sur les pratiques d’Anthropic."
+      },
+      {
+        "titre": "阿里Qwen4-Max正式开放API，腾讯混元Hy4flash上线，加州总检察长起诉OpenAI 【AI日报 2026-11-17】",
+        "source": "AI天天酱",
+        "lien": "https://www.youtube.com/watch?v=Ba_-TS8OwcI",
+        "date": "2026-11-17T03:32:34Z",
+        "image": "https://i.ytimg.com/vi/Ba_-TS8OwcI/mqdefault.jpg",
+        "extrait": "1. 阿里2.4万亿参数旗舰模型Qwen4-Max正式上线，原生支持视觉与百万上下文，Work360单任务成本下降58%；2. 腾讯混元 ...",
+        "description": "Actualités IA du 17/11 2026 : lancement de l'API Qwen4‑Max d'Alibaba, mise en ligne de Tencent Hy4flash, et poursuites du procureur californien contre OpenAI."
+      },
+      {
+        "titre": "AI值得看｜d1.2：把具体判断做便宜、Claude Code：AI 写完代码，怎么验收？、LM Studio 远程智能体、VibePrevisBench、Grid Robotics",
+        "source": "NiceKate AI",
+        "lien": "https://www.youtube.com/watch?v=tjCgvPUHCoc",
+        "date": "2026-11-17T03:13:08Z",
+        "image": "https://i.ytimg.com/vi/tjCgvPUHCoc/mqdefault.jpg",
+        "extrait": "欢迎关注我的知识星球：https://t.zsxq.com/FF0He ​我会分享最新AI资讯、源代码、回答你的提问。",
+        "description": "Résumé de plusieurs nouveautés IA : outils de jugement économique, Claude Code pour la validation de code, LM Studio pour les agents distants, VibePrevisBench et Grid Robotics."
+      },
+      {
+        "titre": "GitLab发布智能体治理能力 | 科技早八点 S1040",
+        "source": "科技早八点",
+        "lien": "https://www.youtube.com/watch?v=_jgMz2Wq838",
+        "date": "2026-11-16T20:00:00Z",
+        "image": "https://i.ytimg.com/vi/_jgMz2Wq838/mqdefault.jpg",
+        "extrait": "完整视频: - 科技早八点，每天3分钟，一起掌握科技脉动！ 2026年11月16日GitLab发布智能体治理能力#shorts #科技早八点#AI ...",
+        "description": "Présentation de la nouvelle fonction de gouvernance des agents intelligents annoncée par GitLab."
+      },
+      {
+        "titre": "微软全球瘫痪36小时的致命真相：没有黑客，最强AI为何“见死不救”？",
+        "source": "明月三千里",
+        "lien": "https://www.youtube.com/watch?v=uFIpiJCYY-s",
+        "date": "2026-11-16T14:34:33Z",
+        "image": "https://i.ytimg.com/vi/uFIpiJCYY-s/mqdefault.jpg",
+        "extrait": "微软（Microsoft）单月刚用AI修补1094个安全漏洞，却被自家一次网络容量升级放倒，导致Outlook、Teams与Copilot全球瘫痪36 ...",
+        "description": "Analyse de la panne mondiale de 36 heures de Microsoft, montrant que malgré des correctifs AI, une mise à jour d’infrastructure a provoqué l’arrêt d’Outlook, Teams et Copilot."
+      },
+      {
+        "titre": "大模型贵几十倍，企业为什么反而越用越多？",
+        "source": "硅基脉搏",
+        "lien": "https://www.youtube.com/watch?v=TNdv2DjxLF8",
+        "date": "2026-11-16T13:00:29Z",
+        "image": "https://i.ytimg.com/vi/TNdv2DjxLF8/mqdefault.jpg",
+        "extrait": "同一家公司的大模型和小模型，价格能差40 到100 倍。按说企业该换成便宜的小模型，结果呢？ 完整视频：小模型时代真的来了吗 ...",
+        "description": "Discussion sur le coût très élevé des grands modèles comparé aux petits modèles et pourquoi les entreprises continuent de les utiliser massivement."
+      },
+      {
+        "titre": "大模型是怎么学会讲人话的？chatgpt为什么会一本正经的胡说八道？#锚点",
+        "source": "东方真实纪录",
+        "lien": "https://www.youtube.com/watch?v=K9qvL1gmmTU",
+        "date": "2026-11-16T13:00:07Z",
+        "image": "https://i.ytimg.com/vi/K9qvL1gmmTU/mqdefault.jpg",
+        "extrait": "锚点 #科技 一档科技观察类节目，以“科学家对话科学家”为核心模式，聚焦人工智能、量子信息等前沿科技领域，致力于构建科技 ...",
+        "description": "Exploration scientifique du mécanisme d’apprentissage des grands modèles qui leur permet de parler comme des humains et des raisons des hallucinations de ChatGPT."
+      },
+      {
+        "titre": "🚀ego lite深度实测！免重复登录、不弹调试提示、独立Space！让WorkBuddy和你同时用一个浏览器互不打扰！终于不用和Agent抢浏览器了！超越Codex浏览器",
+        "source": "AI超元域",
+        "lien": "https://www.youtube.com/watch?v=2RH73xU6O7M",
+        "date": "2026-11-16T12:51:12Z",
+        "image": "https://i.ytimg.com/vi/2RH73xU6O7M/mqdefault.jpg",
+        "extrait": "视频简介： ✓ 从Issues、PR 到社区热度：WorkBuddy 调用ego(lite)，完整演示开源项目研究流程   浏览器交给AI 查资料，我还能 ...",
+        "description": "Évaluation approfondie d’ego lite, un environnement de travail pour agents IA qui évite les conflits de navigateur et simplifie l’utilisation de WorkBuddy."
+      }
+    ]
+  },
+  "podcasts": {
+    "statut": "ok",
+    "fenetre_heures": 72,
+    "elements": [
+      {
+        "titre": "互联网企业应用开发智云懒蚂蚁科技智云寰球科技科技创新",
+        "source": "丁大帅带你了解人工智能智能家居和养老安全健康管理",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E4%BA%92%E8%81%94%E7%BD%91%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E6%99%BA%E4%BA%91%E6%87%92%E8%9A%82%E8%9A%81%E7%A7%91%E6%8A%80%E6%99%BA%E4%BA%91%E5%AF%B0%E7%90%83%E7%A7%91%E6%8A%80%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0/id1781851423?i=1000802421203&uo=4",
+        "date": "2026-11-17T07:06:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e4/a8/b3/e4a8b333-e8f9-f4b6-8830-841fc6cf7e18/mza_17547832149995413288.jpeg/160x160bb.jpg",
+        "duree_min": 14,
+        "extrait": "",
+        "description": "Discussion sur l'intelligence artificielle appliquée aux maisons intelligentes et à la gestion sécurisée de la santé et du bien‑être des personnes âgées."
+      },
+      {
+        "titre": "每日回顾 · 2026-11-17",
+        "source": "AI VFX PODCAST：AI领域要闻",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E6%AF%8F%E6%97%A5%E5%9B%9E%E9%A1%BE-2026-11-17/id6797152072?i=1000802410781&uo=4",
+        "date": "2026-11-17T06:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/48/dd/4448ddff-8510-7cd7-005f-fe40722dbfba/mza_7214941421400564526.jpg/160x160bb.jpg",
+        "duree_min": 18,
+        "extrait": "昨天信息流中最尖锐的信号来自地理维度：哈佛大学发布美国数据中心用电分布新地图的同一天，Geoffrey Hinton 表示北京比华盛顿更理解人工智能风险, , 突然间，基础设施叙事与地缘政治叙事",
+        "description": "Récapitulatif quotidien des actualités IA, incluant le nouveau tableau de consommation d’énergie des data‑centers aux États‑Unis et les remarques de Geoffrey Hinton sur la perception du risque IA à Pékin."
+      },
+      {
+        "titre": "【1117 | AI日报】腾讯发布超低价模型/阿里Qwen全球第14/苹果研究健康AI",
+        "source": "AI圈儿",
+        "lien": "https://podcasts.apple.com/cn/podcast/1117-ai%E6%97%A5%E6%8A%A5-%E8%85%BE%E8%AE%AF%E5%8F%91%E5%B8%83%E8%B6%85%E4%BD%8E%E4%BB%B7%E6%A8%A1%E5%9E%8B-%E9%98%BF%E9%87%8Cqwen%E5%85%A8%E7%90%83%E7%AC%AC14-%E8%8B%B9%E6%9E%9C%E7%A0%94%E7%A9%B6%E5%81%A5%E5%BA%B7ai/id1872685556?i=1000802366300&uo=4",
+        "date": "2026-11-16T23:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f7/64/b2/f764b2fd-f553-ec15-c419-3ec7fde5acd8/mza_18065723763115925921.png/160x160bb.jpg",
+        "duree_min": 21,
+        "extrait": "早安！ 你身边的AI资讯网站【AI圈】：aidailynews.com.cn 欢迎添加＋vx：KyroMa（管理员），加入听友群 今天是2026年11月17日，星期二 欢迎查收你的每日AI资讯速递！今日内容如下： ⏰【AI时间线】 2",
+        "description": "Bulletin quotidien AI 日报 présentant les dernières annonces de modèles à bas prix de Tencent, le modèle Qwen d’Alibaba et les avancées santé d’Apple."
+      },
+      {
+        "titre": "[人人能懂AI前沿] 从虚拟试错、左右互搏到算力的物理回归",
+        "source": "AI可可AI生活",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E4%BA%BA%E4%BA%BA%E8%83%BD%E6%87%82ai%E5%89%8D%E6%B2%BF-%E4%BB%8E%E8%99%9A%E6%8B%9F%E8%AF%95%E9%94%99-%E5%B7%A6%E5%8F%B3%E4%BA%92%E6%90%8F%E5%88%B0%E7%AE%97%E5%8A%9B%E7%9A%84%E7%89%A9%E7%90%86%E5%9B%9E%E5%BD%92/id1755963354?i=1000802364437&uo=4",
+        "date": "2026-11-16T22:37:29+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/9e/0f/039e0f99-c322-9c6d-360c-0db2728bd26b/mza_8520572596064985909.jpg/160x160bb.jpg",
+        "duree_min": 17,
+        "extrait": "今天我们将带你探索五篇极具启发的最新论文，看看AI如何通过在虚拟世界里练“推理”长出干实体活的灵巧双手，又是如何通过“左右互搏”治好盲目认错的“讨好型人格”。我们还会揭秘",
+        "description": "Analyse de cinq articles de recherche récents montrant comment l’IA s’entraîne dans des mondes virtuels pour développer des compétences physiques et comment le « left‑right competition » aide à corriger les biais de raisonnement."
+      },
+      {
+        "titre": "每周回顾 · 2026-11-16",
+        "source": "AI VFX PODCAST：AI领域要闻",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E6%AF%8F%E5%91%A8%E5%9B%9E%E9%A1%BE-2026-11-16/id6797152072?i=1000802252710&uo=4",
+        "date": "2026-11-16T06:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b2/9a/b1/b29ab1a4-6d10-b2ba-6f35-a49696c04dbe/mza_13432754639824391607.jpg/160x160bb.jpg",
+        "duree_min": 12,
+        "extrait": "本周，AI/VFX 领域不只是前进，而是全力冲刺，各大厂商接连发布的新工具与其说是更新，不如说是最后通牒。Google 推出了面向编程和智能体工作流的 Gemini 4 Hydrogen，阿里巴巴则预告了 Qwen4-Max,",
+        "description": "Revue hebdomadaire des nouveautés IA/VFX : lancement de Gemini 4 Hydrogen de Google pour les flux de travail de programmation et d’agents, et aperçu du futur modèle Qwen4‑Max d’Alibaba."
+      },
+      {
+        "titre": "[人人能懂AI前沿] 从动态算力调度、推测性蒸馏到机器人的复盘日记",
+        "source": "AI可可AI生活",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E4%BA%BA%E4%BA%BA%E8%83%BD%E6%87%82ai%E5%89%8D%E6%B2%BF-%E4%BB%8E%E5%8A%A8%E6%80%81%E7%AE%97%E5%8A%9B%E8%B0%83%E5%BA%A6-%E6%8E%A8%E6%B5%8B%E6%80%A7%E8%92%B8%E9%A6%8F%E5%88%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E5%A4%8D%E7%9B%98%E6%97%A5%E8%AE%B0/id1755963354?i=1000802138242&uo=4",
+        "date": "2026-11-15T22:28:24+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/9e/0f/039e0f99-c322-9c6d-360c-0db2728bd26b/mza_8520572596064985909.jpg/160x160bb.jpg",
+        "duree_min": 23,
+        "extrait": "今天我们将拆解五篇硬核又有趣的最新论文，看看AI如何在底层逻辑和物理世界中疯狂进化。我们将探讨如何用管理学思路打破AI算力调度的僵化流水线，以及为什么给AI系统减负、清理上下文",
+        "description": "Décryptage de cinq travaux pointus sur la planification dynamique de la puissance de calcul, la distillation spéculative et le journal de bord robotique, illustrant l’évolution rapide des fondements de l’IA."
+      },
+      {
+        "titre": "【周末特辑】11月第3周最火AI论文 | 让触觉跨传感器复用；让转写不再回改",
+        "source": "HuggingFace 每日AI论文速递",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E5%91%A8%E6%9C%AB%E7%89%B9%E8%BE%91-11%E6%9C%88%E7%AC%AC3%E5%91%A8%E6%9C%80%E7%81%ABai%E8%AE%BA%E6%96%87-%E8%AE%A9%E8%A7%A6%E8%A7%89%E8%B7%A8%E4%BC%A0%E6%84%9F%E5%99%A8%E5%A4%8D%E7%94%A8-%E8%AE%A9%E8%BD%AC%E5%86%99%E4%B8%8D%E5%86%8D%E5%9B%9E%E6%94%B9/id1759487002?i=1000801981621&uo=4",
+        "date": "2026-11-14T23:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fc/36/cf/fc36cf89-3e3a-c480-536b-7b131b78a8a3/mza_2002397294931190567.png/160x160bb.jpg",
+        "duree_min": 11,
+        "extrait": "⏱️ Highlights[00:29] 🖐️ Learning Heterogeneous Tactile Representation for General Dexterous Manipulation（学习用于通用灵巧操作的异构触觉表征）[02:26] 🎙️ Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real R",
+        "description": "Sélection des articles les plus marquants de la troisième semaine de novembre, dont l’apprentissage de représentations tactiles hétérogènes pour la manipulation dextrous et un modèle ASR à diffusion stable."
+      }
+    ]
+  }
+}

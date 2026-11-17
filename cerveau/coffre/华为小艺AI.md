@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-16-t5.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-08 : Perception publique et sociétale"
+community: "IA dans l'enseignement supérieur"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-08__Perception_publique_et_sociétale
+  - community/IA_dans_lenseignement_supérieur
 ---
 
 # 华为小艺AI
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-16  Culture, consommation et divertissement]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08__Perception_publique_et_sociétale
+#graphify/concept #graphify/EXTRACTED #community/IA_dans_lenseignement_supérieur

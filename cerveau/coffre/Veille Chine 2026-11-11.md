@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-11-t5.md"
 type: "document"
-community: "Veille Chine 2026-11-13"
+community: "Qwen4-Max"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-13
+  - community/Qwen4-Max
 ---
 
 # Veille Chine 2026-11-11
@@ -17,4 +17,4 @@ tags:
 - [[T-Head]] - `references` [EXTRACTED]
 - [[xAI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-13
+#graphify/document #graphify/EXTRACTED #community/Qwen4-Max

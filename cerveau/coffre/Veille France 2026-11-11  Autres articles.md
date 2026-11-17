@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-11-t5.md"
 type: "document"
-community: "Google"
+community: "Appel de Paris"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Google
+  - community/Appel_de_Paris
 ---
 
 # Veille France 2026-11-11 : Autres articles
@@ -14,4 +14,4 @@ tags:
 - [[Mistral AI]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Google
+#graphify/document #graphify/EXTRACTED #community/Appel_de_Paris

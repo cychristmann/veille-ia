@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-14-t3.md"
 type: "document"
-community: "Veille Outils & code 2026-11-12 : Déploiement et infrastructure IA"
+community: "Veille États-Unis 2026-11-14 : Politique, Régulation et Sécurité"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-12__Déploiement_et_infrastructure_IA
+  - community/Veille_États-Unis_2026-11-14__Politique_Régulation_et_Sécurité
 ---
 
 # Veille Outils & code 2026-11-14 : Plateformes et infrastructures IA
@@ -18,4 +18,4 @@ tags:
 - [[GitHub Copilot]] - `references` [EXTRACTED]
 - [[TPU Sync]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12__Déploiement_et_infrastructure_IA
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Politique_Régulation_et_Sécurité

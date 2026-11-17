@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Claude Data]] - concept - veilles/veille-ia-dev-2026-11-12-t1.md
+- [[Chine  comment des agents IA « voyous » ont échappé au contrôle de leurs créateurs]] - document - dossiers/2026-11-12-2.md
 
 ## Live Query (requires Dataview plugin)
 

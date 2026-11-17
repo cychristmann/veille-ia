@@ -1,22 +1,25 @@
 ---
 type: community
-members: 9
+members: 12
 ---
 
 # Gemini 4 Hydrogen
 
-**Members:** 9 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Agent Skills]] - concept - veilles/veille-ia-dev-2026-11-12-t1.md
-- [[Claude Sonnet 5.5]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
-- [[Codex]] - concept - veilles/veille-ia-dev-2026-11-14-t2.md
-- [[Gemini 4 Argon]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
-- [[Gemini 4 Hydrogen]] - concept - veilles/veille-ia-dev-2026-11-12-t1.md
-- [[LiquidCodec]] - code - veilles/veille-ia-dev-2026-11-13-t5.md
-- [[Radeon Linux Driver]] - concept - veilles/veille-ia-dev-2026-11-13-t4.md
-- [[Veille Outils & code 2026-11-13 (T5)]] - document - veilles/veille-ia-dev-2026-11-13-t5.md
-- [[llm-gemini]] - code - veilles/veille-ia-dev-2026-11-13-t5.md
+- [[Comité de stabilité financière (FSB)]] - concept - dossiers/2026-11-16-3.md
+- [[Cyber-risques]] - concept - dossiers/2026-11-16-3.md
+- [[Dossier Risques systémiques de l’IA pour la stabilité financière]] - document - dossiers/2026-11-16-3.md
+- [[Financement des data-centers]] - concept - dossiers/2026-11-16-3.md
+- [[Fonds Monétaire International (FMI)]] - concept - dossiers/2026-11-16-3.md
+- [[National Financial Regulatory Administration (China)]] - concept - dossiers/2026-11-16-3.md
+- [[Risque financier lié à l'IA]] - concept - dossiers/2026-11-16-3.md
+- [[Règlement DORA]] - concept - dossiers/2026-11-16-3.md
+- [[Réserve fédérale américaine (Fed)]] - concept - dossiers/2026-11-16-3.md
+- [[fr.businessam.be]] - document - dossiers/2026-11-16-3.md
+- [[leconomistemaghrebin.com]] - document - dossiers/2026-11-16-3.md
+- [[zonebourse.com]] - document - dossiers/2026-11-16-3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,20 +29,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Veille Outils & code 2026-11-12  Déploiement et infrastructure IA]]
-- 2 edges to [[_COMMUNITY_Claude Code]]
-- 2 edges to [[_COMMUNITY_Dossier  IA  risque systémique pour la stabilité financière_1]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
-- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-16]]
-- 1 edge to [[_COMMUNITY_Ming-Chi Kuo]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-13]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-15]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-11  Régulation, Gouvernance et Éthique]]
 
 ## Top bridge nodes
-- [[Gemini 4 Hydrogen]] - degree 12, connects to 7 communities
-- [[Codex]] - degree 5, connects to 2 communities
-- [[Veille Outils & code 2026-11-13 (T5)]] - degree 5, connects to 2 communities
-- [[Agent Skills]] - degree 4, connects to 2 communities
+- [[Cyber-risques]] - degree 3, connects to 1 community

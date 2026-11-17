@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Gemma 4]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
-- [[Nimble]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
-- [[Ollama]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
+- [[Artifact AI]] - concept - veilles/veille-ia-us-2026-11-10-t7.md
+- [[Veille États-Unis 2026-11-10  Autres articles]] - document - veilles/veille-ia-us-2026-11-10-t7.md
+- [[Venture Global]] - concept - veilles/veille-ia-us-2026-11-10-t7.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,3 +18,9 @@ members: 3
 TABLE source_file, type FROM #community/Nimble
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Anthropic_1]]
+
+## Top bridge nodes
+- [[Veille États-Unis 2026-11-10  Autres articles]] - degree 3, connects to 1 community

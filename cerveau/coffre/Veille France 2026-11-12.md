@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-12-t2.md"
 type: "document"
-community: "Veille France 2026-11-12"
+community: "Anthropic"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-12
+  - community/Anthropic
 ---
 
 # Veille France 2026-11-12
@@ -14,8 +14,8 @@ tags:
 - [[Alibaba AI]] - `references` [EXTRACTED]
 - [[Bitcoin Miners AI]] - `references` [EXTRACTED]
 - [[Cortex]] - `references` [EXTRACTED]
+- [[Gemini Decisions]] - `references` [EXTRACTED]
 - [[Google Gemini CarPlay]] - `references` [EXTRACTED]
-- [[Google Gemini Decisions]] - `references` [EXTRACTED]
 - [[Harbor Claris]] - `references` [EXTRACTED]
 - [[JioStar]] - `references` [EXTRACTED]
 - [[Local LLM Server]] - `references` [EXTRACTED]
@@ -26,4 +26,4 @@ tags:
 - [[Omnii Defense]] - `references` [EXTRACTED]
 - [[United Airlines]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-12
+#graphify/document #graphify/EXTRACTED #community/Anthropic

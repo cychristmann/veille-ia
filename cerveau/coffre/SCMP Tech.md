@@ -1,16 +1,17 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-15-t1.md"
+source_file: "veilles/veille-ia-cn-2026-11-17-t4.md"
 type: "concept"
-community: "Veille Chine 2026-11-13 : Industrie et fabrication"
+community: "Veille Chine 2026-11-13"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-13__Industrie_et_fabrication
+  - community/Veille_Chine_2026-11-13
 ---
 
 # SCMP Tech
 
 ## Connections
 - [[Sanxingdui Future Past]] - `cites` [EXTRACTED]
+- [[Veille Chine 2026-11-17  Performance du marché et régulation]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-13__Industrie_et_fabrication
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-13

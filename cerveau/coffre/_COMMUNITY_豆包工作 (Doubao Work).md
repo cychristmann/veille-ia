@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[AI麦可 (AI Maike)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
-- [[Veille Chine 2026-11-16  Applications sectorielles]] - document - veilles/veille-ia-cn-2026-11-16-t3.md
-- [[豆包工作 (Doubao Work)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
-- [[豆包工作台 (Doubao Workbench)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
+- [[Huawei Ascend]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[LongCat-2.5]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[Meituan]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[Terminal Bench]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
 
 ## Live Query (requires Dataview plugin)
 

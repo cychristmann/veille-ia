@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t3.md"
 type: "concept"
-community: "Veille France 2026-11-13"
+community: "Veille Outils & code 2026-11-16"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-13
+  - community/Veille_Outils__code_2026-11-16
 ---
 
 # Centre de défense IA à Rennes
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-13]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-13
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-16

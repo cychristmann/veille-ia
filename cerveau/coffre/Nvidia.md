@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-12-t1.md"
+source_file: "dossiers/2026-11-16-2.md"
 type: "concept"
 community: "Nvidia"
 tags:
@@ -20,16 +20,19 @@ tags:
 - [[Colette Kress]] - `references` [EXTRACTED]
 - [[CoreWeave]] - `conceptually_related_to` [INFERRED]
 - [[DeepSeek]] - `conceptually_related_to` [INFERRED]
+- [[Dell]] - `conceptually_related_to` [EXTRACTED]
+- [[Donald Trump]] - `references` [EXTRACTED]
 - [[Dossier  Nvidia désigné champion national de l’IA aux États‑Unis]] - `references` [EXTRACTED]
 - [[Dossier Course à l'IA entre États‑Unis et Chine]] - `references` [EXTRACTED]
 - [[Dossier Scandale Nvidia]] - `references` [EXTRACTED]
+- [[Feuilleton  Crise de direction chez Nvidia et scandale des puces IA]] - `references` [EXTRACTED]
 - [[Feuilleton SMIC anticipe une pénurie de capacité IA]] - `references` [EXTRACTED]
 - [[Feuilleton Scandale qui renverse la star de l’IA]] - `references` [EXTRACTED]
 - [[Harvey C. Jones]] - `references` [EXTRACTED]
 - [[Huawei]] - `conceptually_related_to` [INFERRED]
 - [[Huawei]] - `references` [EXTRACTED]
 - [[Hugging Face]] - `references` [EXTRACTED]
-- [[Industrie de l'IA]] - `conceptually_related_to` [INFERRED]
+- [[IA Bubble]] - `conceptually_related_to` [INFERRED]
 - [[Jensen Huang]] - `conceptually_related_to` [EXTRACTED]
 - [[Jensen Huang]] - `conceptually_related_to` [EXTRACTED]
 - [[Jensen Huang]] - `references` [EXTRACTED]
@@ -46,6 +49,7 @@ tags:
 - [[Tim Teter]] - `references` [EXTRACTED]
 - [[Trump Administration]] - `conceptually_related_to` [EXTRACTED]
 - [[Trump's AI task force]] - `references` [INFERRED]
+- [[U.S. Commerce Department]] - `references` [EXTRACTED]
 - [[US Government]] - `conceptually_related_to` [EXTRACTED]
 - [[US Restrictions on AI Chips]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-12  Marché financier et investissements IA]] - `references` [EXTRACTED]
@@ -64,6 +68,7 @@ tags:
 - [[Veille France 2026-11-15  Industrie & matériel]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-15  Recherche, outils et modèles IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-16  Économie, marchés et financements]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-17]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-09 (Sécurité)]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-09  Autres articles]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-09  Déploiements et stratégies d’entreprise]] - `references` [EXTRACTED]
@@ -73,5 +78,6 @@ tags:
 - [[Veille États-Unis 2026-11-14  Économie, Marchés et Investissements]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-15  Impact culturel et médiatique de l'IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-15  Investissements et risques financiers liés à l'IA]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-17  Marchés et finance]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Nvidia

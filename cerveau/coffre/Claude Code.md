@@ -1,9 +1,9 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-12-t1.md"
-type: "concept"
+source_file: "veilles/veille-ia-dev-2026-11-13-t5.md"
+type: "code"
 community: "Claude Code"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
   - community/Claude_Code
 ---
@@ -19,6 +19,7 @@ tags:
 - [[L'Opinion.fr]] - `references` [EXTRACTED]
 - [[Obsidian]] - `shares_data_with` [INFERRED]
 - [[Tencent]] - `references` [EXTRACTED]
+- [[Tokendoctor]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-12]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-13]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-13 (T5)]] - `references` [EXTRACTED]
@@ -29,4 +30,4 @@ tags:
 - [[Veille Outils & code 2026-11-15  Sécurité des outils IA]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-16]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Claude_Code
+#graphify/code #graphify/EXTRACTED #community/Claude_Code

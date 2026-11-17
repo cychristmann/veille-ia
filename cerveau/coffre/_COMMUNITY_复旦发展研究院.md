@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # 复旦发展研究院
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Veille Outils & code 2026-11-14  Bibliothèques, outils et releases open‑source]] - document - veilles/veille-ia-dev-2026-11-14-t4.md
-- [[XYBench]] - concept - veilles/veille-ia-dev-2026-11-14-t4.md
-- [[agent-desktop]] - concept - veilles/veille-ia-dev-2026-11-14-t4.md
+- [[AI Fraud and Academic Misconduct]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
+- [[AI Market Dynamics]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
+- [[AI Regulation and Ethics]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
+- [[Veille Chine 2026-11-16]] - document - veilles/veille-ia-cn-2026-11-16-t4.md
 
 ## Live Query (requires Dataview plugin)
 

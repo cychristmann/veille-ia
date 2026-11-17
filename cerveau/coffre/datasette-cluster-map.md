@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-15-t4.md"
 type: "concept"
-community: "Charta Health"
+community: "datasette-cluster-map"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Charta_Health
+  - community/datasette-cluster-map
 ---
 
 # datasette-cluster-map
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[datasette-leaflet]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Charta_Health
+#graphify/concept #graphify/EXTRACTED #community/datasette-cluster-map

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t3.md"
 type: "document"
-community: "GPT-6 Astra"
+community: "Meta"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Meta
 ---
 
 # Veille États-Unis 2026-11-12 (Défense)
@@ -14,4 +14,4 @@ tags:
 - [[Helsing]] - `references` [EXTRACTED]
 - [[Shield AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/document #graphify/EXTRACTED #community/Meta

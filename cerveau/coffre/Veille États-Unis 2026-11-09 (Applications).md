@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t4.md"
 type: "document"
-community: "veille états-unis thème 6"
+community: "Education Week AI Coverage"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/veille_états-unis_thème_6
+  - community/Education_Week_AI_Coverage
 ---
 
 # Veille États-Unis 2026-11-09 (Applications)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Elvis Presley]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/veille_états-unis_thème_6
+#graphify/document #graphify/EXTRACTED #community/Education_Week_AI_Coverage

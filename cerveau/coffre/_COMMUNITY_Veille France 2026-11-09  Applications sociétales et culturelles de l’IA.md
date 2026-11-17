@@ -1,20 +1,23 @@
 ---
 type: community
-members: 7
+members: 10
 ---
 
 # Veille France 2026-11-09 : Applications sociétales et culturelles de l’IA
 
-**Members:** 7 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[CERN]] - concept - veilles/veille-ia-fr-2026-11-09-t4.md
-- [[Goldman Sachs]] - concept - veilles/veille-ia-fr-2026-11-09-t4.md
-- [[Nolej]] - concept - veilles/veille-ia-fr-2026-11-09-t4.md
-- [[Siri]] - concept - veilles/veille-ia-fr-2026-11-09-t4.md
-- [[Take Two]] - concept - veilles/veille-ia-fr-2026-11-09-t4.md
-- [[Veille Chine 2026-11-10  Investissements, valorisations et marchés]] - document - veilles/veille-ia-cn-2026-11-10-t4.md
-- [[Veille France 2026-11-09  Applications sociétales et culturelles de l’IA]] - document - veilles/veille-ia-fr-2026-11-09-t4.md
+- [[Andrew Bailey]] - concept - dossiers/2026-11-14-2.md
+- [[Artificial Intelligence]] - concept - feuilletons/f-0021.md
+- [[Autorités chinoises]] - concept - dossiers/2026-11-14-2.md
+- [[Banque Centrale Européenne (BCE)]] - concept - dossiers/2026-11-14-2.md
+- [[Dossier  IA  risque systémique pour la stabilité financière]] - document - dossiers/2026-11-14-2.md
+- [[Federal Reserve (Fed)]] - concept - dossiers/2026-11-14-2.md
+- [[Feng Runhuan]] - concept - feuilletons/f-0021.md
+- [[Feuilleton L'IA en tête des risques pour la stabilité financière]] - document - feuilletons/f-0021.md
+- [[Financial Stability Board (FSB)]] - concept - dossiers/2026-11-14-2.md
+- [[Risque systémique de l'IA]] - concept - dossiers/2026-11-14-2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,11 +25,3 @@ members: 7
 TABLE source_file, type FROM #community/Veille_France_2026-11-09__Applications_sociétales_et_culturelles_de_lIA
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 2 edges to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Google]]
-
-## Top bridge nodes
-- [[Goldman Sachs]] - degree 4, connects to 2 communities
-- [[Veille Chine 2026-11-10  Investissements, valorisations et marchés]] - degree 2, connects to 1 community

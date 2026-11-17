@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-13-2.md"
 type: "concept"
-community: "Veille France 2026-11-12"
+community: "Veille France 2026-11-12 : Marchés financiers et investissements IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-12
+  - community/Veille_France_2026-11-12__Marchés_financiers_et_investissements_IA
 ---
 
 # Chinese Robotics Industry
@@ -14,4 +14,4 @@ tags:
 - [[Barclays Research]] - `cites` [EXTRACTED]
 - [[Morgan Stanley]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-12
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-12__Marchés_financiers_et_investissements_IA

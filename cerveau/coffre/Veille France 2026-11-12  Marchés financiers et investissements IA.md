@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-12-t1.md"
 type: "document"
-community: "Veille France 2026-11-12"
+community: "Veille France 2026-11-12 : Marchés financiers et investissements IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-12
+  - community/Veille_France_2026-11-12__Marchés_financiers_et_investissements_IA
 ---
 
 # Veille France 2026-11-12 : Marchés financiers et investissements IA
@@ -18,4 +18,4 @@ tags:
 - [[SpaceX]] - `references` [EXTRACTED]
 - [[UBS]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-12
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-12__Marchés_financiers_et_investissements_IA

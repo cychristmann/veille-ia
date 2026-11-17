@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-15-2.md"
 type: "document"
-community: "CoreWeave"
+community: "SpaceX"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/CoreWeave
+  - community/SpaceX
 ---
 
 # OPINION. « L'énergie pour les data centers de l'IA, atout stratégique ou mirage ? »
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Dossier  Effondrement du boom IA et crise des data-centers]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/CoreWeave
+#graphify/document #graphify/EXTRACTED #community/SpaceX

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-10-t1.md"
 type: "concept"
-community: "veille états-unis thème 7"
+community: "Crise de direction chez Nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/veille_états-unis_thème_7
+  - community/Crise_de_direction_chez_Nvidia
 ---
 
 # Qantas
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Accenture]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/veille_états-unis_thème_7
+#graphify/concept #graphify/EXTRACTED #community/Crise_de_direction_chez_Nvidia

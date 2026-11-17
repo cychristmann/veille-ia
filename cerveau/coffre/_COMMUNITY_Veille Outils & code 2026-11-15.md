@@ -1,27 +1,25 @@
 ---
 type: community
-members: 14
+members: 12
 ---
 
 # Veille Outils & code 2026-11-15
 
-**Members:** 14 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Claude Fable]] - code - veilles/veille-ia-dev-2026-11-15-t3.md
-- [[CoReMem]] - concept - veilles/veille-ia-dev-2026-11-15-t3.md
-- [[Datasette Agent]] - concept - veilles/veille-ia-fr-2026-11-15-t4.md
-- [[DeepSeek V3]] - concept - veilles/veille-ia-dev-2026-11-15-t2.md
-- [[DuckLake]] - concept - veilles/veille-ia-dev-2026-11-15-t2.md
-- [[GPT-6.1 Sol]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
-- [[Gemini 4 Carbon]] - concept - feuilletons/f-0010.md
-- [[Google Modern Web Guidance 1.0]] - document - veilles/veille-ia-dev-2026-11-15-t3.md
-- [[MathArena]] - concept - feuilletons/f-0010.md
-- [[OpenFold3]] - concept - veilles/veille-ia-dev-2026-11-15-t2.md
-- [[Veille Outils & code 2026-11-15]] - document - veilles/veille-ia-dev-2026-11-15-t2.md
-- [[Vercel UI SDK]] - code - veilles/veille-ia-dev-2026-11-15-t3.md
-- [[datasette-llm]] - concept - veilles/veille-ia-fr-2026-11-15-t4.md
-- [[datasette-vega]] - code - veilles/veille-ia-dev-2026-11-15-t3.md
+- [[Akron Beacon Journal]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
+- [[Bay Security]] - concept - feuilletons/f-0004.md
+- [[Bloomberg Technology]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
+- [[Fortune]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
+- [[GovInfoSecurity]] - concept - feuilletons/f-0004.md
+- [[KTVN]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
+- [[Movieguide]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
+- [[Reuters]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
+- [[The Korea Herald]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
+- [[Veille États-Unis 2026-11-17  Autres articles]] - document - veilles/veille-ia-us-2026-11-17-t5.md
+- [[Zonebourse]] - concept - feuilletons/f-0004.md
+- [[shattered.io]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -31,15 +29,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Veille Outils & code 2026-11-16]]
-- 1 edge to [[_COMMUNITY_Arm]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
-- 1 edge to [[_COMMUNITY_Jensen Huang]]
-- 1 edge to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
+- 1 edge to [[_COMMUNITY_OpenAI]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-15]] - degree 15, connects to 4 communities
-- [[Gemini 4 Carbon]] - degree 5, connects to 2 communities
-- [[datasette-llm]] - degree 3, connects to 1 community
+- [[Veille États-Unis 2026-11-17  Autres articles]] - degree 9, connects to 1 community

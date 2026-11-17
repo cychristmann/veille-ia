@@ -1,15 +1,20 @@
 ---
 type: community
-members: 2
+members: 7
 ---
 
 # Veille États-Unis 2026-11-11 : Régulation, Gouvernance et Éthique
 
-**Members:** 2 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Greg Morrisett]] - concept - veilles/veille-ia-us-2026-11-11-t2.md
-- [[Veille États-Unis 2026-11-11  Régulation, Gouvernance et Éthique]] - document - veilles/veille-ia-us-2026-11-11-t2.md
+- [[AI Act]] - concept - dossiers/2026-11-16-3.md
+- [[Article 27]] - concept - dossiers/2026-11-17-1.md
+- [[Article 50]] - concept - dossiers/2026-11-17-1.md
+- [[Consultation publique]] - concept - dossiers/2026-11-17-1.md
+- [[European Union]] - concept - veilles/veille-ia-us-2026-11-17-t1.md
+- [[JDN]] - concept - dossiers/2026-11-17-1.md
+- [[Journaldunet]] - concept - dossiers/2026-11-17-1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,7 +24,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
+- 1 edge to [[_COMMUNITY_Appel de Paris]]
 
 ## Top bridge nodes
-- [[Veille États-Unis 2026-11-11  Régulation, Gouvernance et Éthique]] - degree 2, connects to 1 community
+- [[AI Act]] - degree 7, connects to 2 communities

@@ -1,9 +1,9 @@
 ---
 source_file: "feuilletons/f-0019.md"
-type: "code"
+type: "concept"
 community: "OpenAI"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
   - community/OpenAI
 ---
@@ -11,6 +11,6 @@ tags:
 # Amex
 
 ## Connections
-- [[ChatGPT]] - `references` [EXTRACTED]
+- [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/OpenAI
+#graphify/concept #graphify/EXTRACTED #community/OpenAI

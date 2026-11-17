@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # université d'agriculture et sylviculture
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Fed (Réserve fédérale)]] - concept - veilles/veille-ia-fr-2026-11-14-t5.md
-- [[IA et système financier]] - concept - veilles/veille-ia-fr-2026-11-14-t5.md
-- [[Veille France 2026-11-14  Autres articles]] - document - veilles/veille-ia-fr-2026-11-14-t5.md
+- [[AI Agents (Commercial Context)]] - concept - veilles/veille-ia-us-2026-11-12-t6.md
+- [[AI Agents (Social Context)]] - concept - veilles/veille-ia-us-2026-11-12-t2.md
+- [[Veille États-Unis 2026-11-12  Applications industrielles et commerciales de l'IA]] - document - veilles/veille-ia-us-2026-11-12-t6.md
+- [[Veille États-Unis 2026-11-12  Régulation, politiques et protestations liées à l'IA]] - document - veilles/veille-ia-us-2026-11-12-t2.md
 
 ## Live Query (requires Dataview plugin)
 

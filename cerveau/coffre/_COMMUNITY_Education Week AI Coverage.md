@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Education Week AI Coverage
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Education Week AI Coverage]] - concept - veilles/veille-ia-us-2026-11-16-t3.md
+- [[Elvis Presley]] - concept - veilles/veille-ia-us-2026-11-09-t4.md
+- [[Veille États-Unis 2026-11-09 (Applications)]] - document - veilles/veille-ia-us-2026-11-09-t4.md
 
 ## Live Query (requires Dataview plugin)
 

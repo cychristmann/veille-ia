@@ -14,5 +14,6 @@ tags:
 - [[ChatGPT Enterprise]] - `references` [EXTRACTED]
 - [[NVIDIA NeMo Switchyard]] - `conceptually_related_to` [EXTRACTED]
 - [[Veille Outils & code 2026-11-13]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-17]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-14

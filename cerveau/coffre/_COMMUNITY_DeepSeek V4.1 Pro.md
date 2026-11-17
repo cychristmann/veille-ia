@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # DeepSeek V4.1 Pro
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Bland]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
-- [[Tofu-1]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[Ming-Chi Kuo]] - concept - dossiers/2026-11-13-1.md
 
 ## Live Query (requires Dataview plugin)
 

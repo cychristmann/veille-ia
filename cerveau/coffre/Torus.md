@@ -1,16 +1,17 @@
 ---
 source_file: "feuilletons/f-0012.md"
 type: "concept"
-community: "Industrie de l'IA"
+community: "Microsoft"
 tags:
   - graphify/concept
-  - graphify/INFERRED
-  - community/Industrie_de_lIA
+  - graphify/EXTRACTED
+  - community/Microsoft
 ---
 
 # Torus
 
 ## Connections
-- [[Industrie de l'IA]] - `conceptually_related_to` [INFERRED]
+- [[Foundry]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-17  Marchés et finance]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/INFERRED #community/Industrie_de_lIA
+#graphify/concept #graphify/EXTRACTED #community/Microsoft

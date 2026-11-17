@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Arm
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Arm]] - concept - dossiers/2026-11-13-1.md
+- [[Deletion Tuning]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
+- [[New York University]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
 
 ## Live Query (requires Dataview plugin)
 

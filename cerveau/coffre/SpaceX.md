@@ -13,6 +13,7 @@ tags:
 ## Connections
 - [[AI computing campuses]] - `references` [EXTRACTED]
 - [[Anthropic]] - `references` [EXTRACTED]
+- [[Cursor]] - `references` [EXTRACTED]
 - [[Elon Musk]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[Orbital AI Infrastructure]] - `references` [EXTRACTED]

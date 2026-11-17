@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-15-t1.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-13"
+community: "Cursor"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-13
+  - community/Cursor
 ---
 
 # Malicious Claude Code Extension
@@ -14,4 +14,4 @@ tags:
 - [[Cursor]] - `references` [EXTRACTED]
 - [[Fireworks AI]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-13
+#graphify/concept #graphify/EXTRACTED #community/Cursor

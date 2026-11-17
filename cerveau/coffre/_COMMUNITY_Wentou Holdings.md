@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Wentou Holdings]] - concept - veilles/veille-ia-cn-2026-11-11-t4.md
+- [[Blue J]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
 
 ## Live Query (requires Dataview plugin)
 

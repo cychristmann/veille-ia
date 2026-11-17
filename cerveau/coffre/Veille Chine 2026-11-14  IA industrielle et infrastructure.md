@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-14-t2.md"
 type: "document"
-community: "Veille États-Unis 2026-11-08 : Applications sectorielles"
+community: "Veille Chine 2026-11-14 : IA industrielle et infrastructure"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-08__Applications_sectorielles
+  - community/Veille_Chine_2026-11-14__IA_industrielle_et_infrastructure
 ---
 
 # Veille Chine 2026-11-14 : IA industrielle et infrastructure
@@ -15,4 +15,4 @@ tags:
 - [[浙江算力规模超198EFLOPS]] - `references` [EXTRACTED]
 - [[百度智能云战略合作]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08__Applications_sectorielles
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-14__IA_industrielle_et_infrastructure

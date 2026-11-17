@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-12-t4.md"
-type: "concept"
-community: "Veille Outils & code 2026-11-13"
+source_file: "veilles/veille-ia-cn-2026-11-17-t2.md"
+type: "code"
+community: "Cursor"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-13
+  - community/Cursor
 ---
 
 # Fireworks AI
@@ -14,5 +14,7 @@ tags:
 - [[Cursor]] - `references` [EXTRACTED]
 - [[Malicious Claude Code Extension]] - `references` [EXTRACTED]
 - [[Notion]] - `shares_data_with` [INFERRED]
+- [[Uber]] - `shares_data_with` [EXTRACTED]
+- [[Veille Chine 2026-11-17  Sécurité et fuites de données IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-13
+#graphify/code #graphify/EXTRACTED #community/Cursor

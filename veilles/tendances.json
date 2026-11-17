@@ -1,110 +1,97 @@
 {
-  "genere_a": "2026-11-16T07:26+01:00",
+  "genere_a": "2026-11-17T08:58+01:00",
   "periode": {
-    "du": "2026-11-10",
-    "au": "2026-11-16",
+    "du": "2026-11-11",
+    "au": "2026-11-17",
     "jours": 7
   },
-  "precedente_jours": 2,
+  "precedente_jours": 3,
   "regions": [
     "cn",
     "dev",
     "fr",
     "us"
   ],
-  "synthese": "La semaine a été marquée par d'importants bouleversements financiers et de gouvernance, notamment la démission de Jensen Huang de la tête de Nvidia et la forte volatilité des actions liées à l'IA. Les introductions en bourse et les valorisations record d'acteurs majeurs comme Anthropic ont continué de dominer l'actualité économique et boursière. Sur le plan technique, les annonces de nouveaux modèles de grande taille, tels que Qwen4-Max d'Alibaba, et l'essor des agents de codage ont rythmé les publications. Les gouvernements et régulateurs intensifient leurs efforts pour encadrer l'usage de l'IA, entre projets d'interdiction pour les enfants et désignations de champions nationaux. Enfin, l'adoption de l'IA se poursuit à grande échelle dans les entreprises, la santé, l'éducation et la défense.",
+  "synthese": "La semaine a été marquée par une agitation intense sur les marchés financiers et des turbulations de gouvernance, notamment autour du départ du dirigeant de Nvidia et des valorisations records ou réévaluées d'Anthropic et d'OpenAI. Les infrastructures de calcul et la course aux puces restent sous tension, avec des prévisions de pénurie de SMIC jusqu'en 2028 et l'annonce de projets de campus de calcul massifs par SpaceX. Parallèlement, l'écosystème s'est structuré autour des agents autonomes et de nouvelles versions de modèles puissants comme Qwen4-Max et Gemini 4. Les gouvernements et régulateurs ont accentué la pression, entre projets de désignation de champions nationaux aux États-Unis et enquêtes ou poursuites judiciaires. Enfin, la sécurité et la cybersécurité ont émergé comme des sujets critiques en raison de l'utilisation d'agents par des hackers pour transformer des correctifs en exploits.",
   "montants": [
     {
       "nom": "Crise et gouvernance chez Nvidia",
-      "explication": "Le départ de Jensen Huang et les révélations sur un trafic de puces vers la Chine ont provoqué de fortes turbulences sur les marchés financiers. Cette situation met sous tension la chaîne d'approvisionnement mondiale en puces et pèse sur l'ensemble du secteur de l'intelligence artificielle.",
+      "explication": "Le départ choc de Jensen Huang secoue l'industrie mondiale de l'IA et ravive les débats sur les restrictions d'exportation de puces vers la Chine. Cette situation fragilise le marché boursier et perturbe l'ensemble de la chaîne d'approvisionnement matérielle.",
       "regions": [
-        "us",
         "fr",
+        "us",
         "cn"
       ]
     },
     {
-      "nom": "IPO et valorisations record d'Anthropic",
-      "explication": "Anthropic monopolise l'attention avec des projets d'introduction en bourse visant des valorisations historiques de l'ordre de 1,3 à 1,4 billion de dollars. Ces montants colossaux ravivent les débats sur l'existence potentielle d'une bulle financière liée à l'IA.",
-      "regions": [
-        "us",
-        "fr",
-        "cn"
-      ]
-    },
-    {
-      "nom": "Expansion des agents de codage et nouveaux modèles",
-      "explication": "Les outils de développement assistés par IA, comme Claude Code ou les agents de Google et DeepSeek, gagnent en complexité et en autonomie malgré des défis de contexte et de sécurité. Parallèlement, des modèles phares comme Qwen4-Max repoussent les limites des performances.",
+      "nom": "Essor des agents IA autonomes",
+      "explication": "Le déploiement et la gestion des agents autonomes s'accélèrent avec de nouvelles fonctionnalités multi-agents et des outils de routage comme NeMo Switchyard. Cependant, leur autonomie croissante soulève des défis majeurs de sécurité, de dérive silencieuse et de détournement par des acteurs malveillants.",
       "regions": [
         "dev",
-        "us",
-        "cn"
+        "fr",
+        "us"
       ]
     },
     {
-      "nom": "Régulation gouvernementale et champions nationaux",
-      "explication": "Les autorités étatiques renforcent leur emprise sur le secteur, qu'il s'agisse de projets d'interdiction chez les enfants en France ou de la volonté de l'administration américaine de désigner des entreprises clés comme champions nationaux de l'IA.",
+      "nom": "Infrastructures et pénuries de calcul",
+      "explication": "Les tensions sur les puces et l'augmentation massive des besoins énergétiques poussent les acteurs à planifier de nouveaux data-centres et campus géants, tandis que SMIC prévoit une pénurie de calcul persistante jusqu'en 2028. Des initiatives comme le projet de SpaceX illustrent cette course effrénée aux infrastructures.",
+      "regions": [
+        "cn",
+        "us",
+        "fr"
+      ]
+    },
+    {
+      "nom": "Pressions réglementaires et judiciaires",
+      "explication": "Les autorités étatiques intensifient le contrôle du secteur à travers des projets de désignation de champions nationaux de l'IA aux États-Unis et des actions en justice ciblées. En parallèle, l'Europe consulte sur les droits fondamentaux de l'IA Act tandis que la Californie poursuit OpenAI.",
       "regions": [
         "us",
         "fr"
       ]
     }
   ],
-  "retombes": [
-    {
-      "nom": "Pannes et incidents de transport aérien",
-      "explication": "Les interrogations initiales et les dénis des fournisseurs concernant un lien entre le déploiement d'une IA de gestion du trafic aérien et un arrêt au sol national ont rapidement disparu des gros titres.",
-      "regions": [
-        "us"
-      ]
-    }
-  ],
+  "retombes": [],
   "a_surveiller": [
-    "L'évolution des enquêtes et la suite de la transition de direction chez Nvidia suite au départ de Jensen Huang.",
-    "Le déroulement et le succès effectif de l'introduction en bourse d'Anthropic sur les marchés financiers.",
-    "La concrétisation des projets de désignation des « champions nationaux » de l'IA par l'administration américaine.",
-    "L'impact des nouvelles réglementations gouvernementales concernant l'accès des mineurs et l'encadrement des agents autonomes."
+    "L'évolution de la situation de Nvidia et ses répercussions sur le marché des puces et des actions IA.",
+    "Les retombées des projets d'introduction en bourse et des valorisations d'Anthropic et d'OpenAI.",
+    "La concrétisation des désignations de « champions nationaux » de l'IA par l'administration américaine.",
+    "La sécurité et la fiabilité des agents IA autonomes face aux risques croissants de détournement et de cyberattaques."
   ],
   "acteurs": [
     {
       "nom": "Anthropic",
-      "mentions": 105,
-      "mentions_precedentes": 20
+      "mentions": 96,
+      "mentions_precedentes": 38
     },
     {
       "nom": "Nvidia",
-      "mentions": 71,
-      "mentions_precedentes": 13
+      "mentions": 73,
+      "mentions_precedentes": 18
     },
     {
       "nom": "Google",
-      "mentions": 41,
-      "mentions_precedentes": 7
+      "mentions": 46,
+      "mentions_precedentes": 9
     },
     {
       "nom": "OpenAI",
-      "mentions": 34,
-      "mentions_precedentes": 4
+      "mentions": 38,
+      "mentions_precedentes": 10
     },
     {
       "nom": "Microsoft",
       "mentions": 32,
-      "mentions_precedentes": 2
+      "mentions_precedentes": 6
     },
     {
       "nom": "Amazon",
-      "mentions": 26,
-      "mentions_precedentes": 4
+      "mentions": 32,
+      "mentions_precedentes": 5
     },
     {
       "nom": "Apple",
-      "mentions": 15,
-      "mentions_precedentes": 7
-    },
-    {
-      "nom": "Meta",
-      "mentions": 11,
-      "mentions_precedentes": 7
+      "mentions": 16,
+      "mentions_precedentes": 10
     },
     {
       "nom": "xAI",
@@ -114,32 +101,37 @@
     {
       "nom": "Alibaba",
       "mentions": 10,
-      "mentions_precedentes": 1
+      "mentions_precedentes": 3
+    },
+    {
+      "nom": "Meta",
+      "mentions": 9,
+      "mentions_precedentes": 9
     },
     {
       "nom": "DeepSeek",
-      "mentions": 5,
+      "mentions": 6,
       "mentions_precedentes": 0
     },
     {
       "nom": "ByteDance",
+      "mentions": 5,
+      "mentions_precedentes": 0
+    },
+    {
+      "nom": "Union européenne",
       "mentions": 4,
       "mentions_precedentes": 0
     },
     {
       "nom": "Mistral",
-      "mentions": 2,
-      "mentions_precedentes": 0
-    },
-    {
-      "nom": "Union européenne",
-      "mentions": 2,
-      "mentions_precedentes": 0
+      "mentions": 1,
+      "mentions_precedentes": 1
     },
     {
       "nom": "Hugging Face",
       "mentions": 1,
-      "mentions_precedentes": 0
+      "mentions_precedentes": 1
     }
   ]
 }

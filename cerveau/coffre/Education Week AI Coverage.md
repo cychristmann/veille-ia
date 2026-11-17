@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-16-t3.md"
 type: "concept"
-community: "Education Week AI Coverage"
+community: "Veille France 2026-11-09 : Régulation, sécurité et enjeux géopolitiques"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Education_Week_AI_Coverage
+  - community/Veille_France_2026-11-09__Régulation_sécurité_et_enjeux_géopolitiques
 ---
 
 # Education Week AI Coverage
 
-#graphify/concept #graphify/EXTRACTED #community/Education_Week_AI_Coverage
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-09__Régulation_sécurité_et_enjeux_géopolitiques

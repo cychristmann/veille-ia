@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-15-t2.md"
 type: "concept"
-community: "Blue J"
+community: "Arm"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Blue_J
+  - community/Arm
 ---
 
 # Deletion Tuning
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[New York University]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Blue_J
+#graphify/concept #graphify/EXTRACTED #community/Arm

@@ -25,17 +25,16 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Anthropic]]
+- 2 edges to [[_COMMUNITY_Claude Code]]
+- 2 edges to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière]]
 - 1 edge to [[_COMMUNITY_OpenAI]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-13]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-15]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-13_1]]
+- 1 edge to [[_COMMUNITY_ARTEX]]
 - 1 edge to [[_COMMUNITY_Claude]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-16]]
-- 1 edge to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
+- 1 edge to [[_COMMUNITY_Anthropic_1]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-14]] - degree 10, connects to 4 communities
-- [[Amazon Bedrock]] - degree 3, connects to 2 communities
+- [[Veille Outils & code 2026-11-14]] - degree 10, connects to 3 communities
+- [[Amazon Bedrock]] - degree 4, connects to 3 communities
 - [[NVIDIA NeMo Switchyard]] - degree 3, connects to 1 community
 - [[Claude API]] - degree 2, connects to 1 community

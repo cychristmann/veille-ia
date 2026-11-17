@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-16-t1.md"
 type: "concept"
-community: "DeepSeek V4.1 Pro"
+community: "Bland"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/DeepSeek_V41_Pro
+  - community/Bland
 ---
 
 # Bland
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Tofu-1]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/DeepSeek_V41_Pro
+#graphify/concept #graphify/EXTRACTED #community/Bland

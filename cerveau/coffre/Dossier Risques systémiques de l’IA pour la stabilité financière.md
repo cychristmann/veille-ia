@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-16-3.md"
 type: "document"
-community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+  - community/Gemini_4_Hydrogen
 ---
 
 # Dossier: Risques systémiques de l’IA pour la stabilité financière
@@ -19,4 +19,4 @@ tags:
 - [[leconomistemaghrebin.com]] - `cites` [EXTRACTED]
 - [[zonebourse.com]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+#graphify/document #graphify/EXTRACTED #community/Gemini_4_Hydrogen

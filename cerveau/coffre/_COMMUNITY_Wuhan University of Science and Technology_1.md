@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Wuhan University of Science and Technology]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Lumbra]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
 
 ## Live Query (requires Dataview plugin)
 

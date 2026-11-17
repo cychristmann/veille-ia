@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0002.md"
 type: "document"
-community: "scandale autour d'une star IA"
+community: "Suno AI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/scandale_autour_dune_star_IA
+  - community/Suno_AI
 ---
 
 # Feuilleton: Suno AI poursuivi
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Suno AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/scandale_autour_dune_star_IA
+#graphify/document #graphify/EXTRACTED #community/Suno_AI

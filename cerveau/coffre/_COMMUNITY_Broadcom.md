@@ -19,7 +19,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_Anthropic_1]]
 
 ## Top bridge nodes
 - [[Broadcom]] - degree 2, connects to 1 community

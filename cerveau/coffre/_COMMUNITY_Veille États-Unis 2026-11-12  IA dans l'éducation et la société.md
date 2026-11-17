@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Stanford University]] - code - veilles/veille-ia-us-2026-11-12-t2.md
-- [[Veille États-Unis 2026-11-12 (Régulation)]] - document - veilles/veille-ia-us-2026-11-12-t2.md
+- [[Oku Dating Platform]] - concept - veilles/veille-ia-dev-2026-11-16-t6.md
+- [[Veille Outils & code 2026-11-16  Autres articles]] - document - veilles/veille-ia-dev-2026-11-16-t6.md
 
 ## Live Query (requires Dataview plugin)
 

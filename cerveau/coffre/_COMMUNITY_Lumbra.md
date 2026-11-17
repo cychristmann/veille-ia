@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Lumbra
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[AWS Budgets]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
-- [[IAM]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
+- [[Claude Data]] - concept - veilles/veille-ia-dev-2026-11-12-t1.md
 
 ## Live Query (requires Dataview plugin)
 

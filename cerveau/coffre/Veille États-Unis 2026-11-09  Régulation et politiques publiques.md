@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t1.md"
 type: "document"
-community: "Veille États-Unis 2026-11-09 : Régulation et politiques publiques"
+community: "Veille Chine 2026-11-15 : Éthique, société et relations homme‑machine"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-09__Régulation_et_politiques_publiques
+  - community/Veille_Chine_2026-11-15__Éthique_société_et_relations_hommemachine
 ---
 
 # Veille États-Unis 2026-11-09 : Régulation et politiques publiques
@@ -17,4 +17,4 @@ tags:
 - [[Inside Global Tech]] - `cites` [EXTRACTED]
 - [[News 5 Cleveland WEWS]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-09__Régulation_et_politiques_publiques
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-15__Éthique_société_et_relations_hommemachine

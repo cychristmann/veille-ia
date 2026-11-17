@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t3.md"
 type: "document"
-community: "SpaceX"
+community: "Veille États-Unis 2026-11-12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/SpaceX
+  - community/Veille_États-Unis_2026-11-12
 ---
 
 # Veille États-Unis 2026-11-08 : Applications sectorielles
@@ -16,4 +16,4 @@ tags:
 - [[Jalopnik]] - `cites` [EXTRACTED]
 - [[Oncodaily]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/SpaceX
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-12

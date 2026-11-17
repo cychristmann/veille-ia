@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0007.md"
 type: "concept"
-community: "Veille Chine 2026-11-13"
+community: "Qwen4-Max"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-13
+  - community/Qwen4-Max
 ---
 
 # Yahoo Finance France
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Infineon]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-13
+#graphify/concept #graphify/EXTRACTED #community/Qwen4-Max

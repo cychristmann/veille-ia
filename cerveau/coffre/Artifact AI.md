@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-10-t7.md"
 type: "concept"
-community: "AWS Budgets"
+community: "Nimble"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AWS_Budgets
+  - community/Nimble
 ---
 
 # Artifact AI
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-10  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AWS_Budgets
+#graphify/concept #graphify/EXTRACTED #community/Nimble

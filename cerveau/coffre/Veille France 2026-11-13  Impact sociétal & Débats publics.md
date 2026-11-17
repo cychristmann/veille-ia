@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t4.md"
 type: "document"
-community: "Jensen Huang"
+community: "Veille France 2026-11-13 : Impact sociétal & Débats publics"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Jensen_Huang
+  - community/Veille_France_2026-11-13__Impact_sociétal__Débats_publics
 ---
 
 # Veille France 2026-11-13 : Impact sociétal & Débats publics
@@ -17,4 +17,4 @@ tags:
 - [[Jensen Huang]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Jensen_Huang
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-13__Impact_sociétal__Débats_publics

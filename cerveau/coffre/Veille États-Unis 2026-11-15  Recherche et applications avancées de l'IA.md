@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-15-t4.md"
 type: "document"
-community: "Veille Chine 2026-11-15 : Éthique, société et relations homme‑machine"
+community: "Dossier: Scandale Nvidia"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-15__Éthique_société_et_relations_hommemachine
+  - community/Dossier_Scandale_Nvidia
 ---
 
 # Veille États-Unis 2026-11-15 : Recherche et applications avancées de l'IA
@@ -15,4 +15,4 @@ tags:
 - [[Microsoft Research]] - `references` [EXTRACTED]
 - [[NIH]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-15__Éthique_société_et_relations_hommemachine
+#graphify/document #graphify/EXTRACTED #community/Dossier_Scandale_Nvidia

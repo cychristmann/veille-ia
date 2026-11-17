@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-13-t3.md"
 type: "document"
-community: "Veille France 2026-11-12"
+community: "Anthropic"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-12
+  - community/Anthropic
 ---
 
 # Veille États-Unis 2026-11-13 : Applications sectorielles de l’IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[United Airlines]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-12
+#graphify/document #graphify/EXTRACTED #community/Anthropic

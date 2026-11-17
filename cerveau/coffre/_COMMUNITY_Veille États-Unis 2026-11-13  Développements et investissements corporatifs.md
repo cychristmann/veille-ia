@@ -38,7 +38,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-14  Politique, Régulation et Sécurité]]
 
 ## Top bridge nodes
 - [[Veille France 2026-11-13  Applications & Outils IA]] - degree 10, connects to 1 community

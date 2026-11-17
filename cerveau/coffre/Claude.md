@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-14-t3.md"
+source_file: "veilles/veille-ia-dev-2026-11-14-t1.md"
 type: "concept"
 community: "Claude"
 tags:
@@ -16,6 +16,7 @@ tags:
 - [[Anthropic]] - `conceptually_related_to` [INFERRED]
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Cognizant]] - `references` [EXTRACTED]
+- [[Hy4 flash]] - `conceptually_related_to` [EXTRACTED]
 - [[Veille France 2026-11-08  Applications concrètes et innovations IA]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-14]] - `references` [EXTRACTED]
 

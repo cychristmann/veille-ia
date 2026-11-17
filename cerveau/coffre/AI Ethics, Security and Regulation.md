@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-14-t4.md"
 type: "concept"
-community: "GPT-6.1 Sol"
+community: "Veille États-Unis 2026-11-11 : Éducation et formation à l'IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/GPT-61_Sol
+  - community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA
 ---
 
 # AI Ethics, Security and Regulation
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-14  Éthique, sécurité et réglementation IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/GPT-61_Sol
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA

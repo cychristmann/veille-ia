@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t4.md"
 type: "concept"
-community: "veille états-unis thème 6"
+community: "Education Week AI Coverage"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/veille_états-unis_thème_6
+  - community/Education_Week_AI_Coverage
 ---
 
 # Elvis Presley
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-09 (Applications)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/veille_états-unis_thème_6
+#graphify/concept #graphify/EXTRACTED #community/Education_Week_AI_Coverage

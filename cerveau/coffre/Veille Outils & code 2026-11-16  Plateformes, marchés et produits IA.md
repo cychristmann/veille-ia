@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-16-t4.md"
 type: "document"
-community: "Veille France 2026-11-09 : Régulation, sécurité et enjeux géopolitiques"
+community: "veille états-unis thème 7"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-09__Régulation_sécurité_et_enjeux_géopolitiques
+  - community/veille_états-unis_thème_7
 ---
 
 # Veille Outils & code 2026-11-16 : Plateformes, marchés et produits IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Kindo]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-09__Régulation_sécurité_et_enjeux_géopolitiques
+#graphify/document #graphify/EXTRACTED #community/veille_états-unis_thème_7

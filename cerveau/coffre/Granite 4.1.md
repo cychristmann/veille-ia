@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-13-t5.md"
 type: "code"
-community: "Ming-Chi Kuo"
+community: "LLMON"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Ming-Chi_Kuo
+  - community/LLMON
 ---
 
 # Granite 4.1
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[LLMON]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Ming-Chi_Kuo
+#graphify/code #graphify/EXTRACTED #community/LLMON

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-16-t1.md"
 type: "concept"
-community: "Veille Chine 2026-11-13"
+community: "Claude"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-13
+  - community/Claude
 ---
 
 # MotrixSim1.0
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-16  Modèles et fondations]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-13
+#graphify/concept #graphify/EXTRACTED #community/Claude

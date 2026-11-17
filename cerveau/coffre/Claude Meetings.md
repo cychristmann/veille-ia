@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-13-t6.md"
-type: "code"
-community: "Claude Meetings"
+source_file: "veilles/veille-ia-dev-2026-11-12-t1.md"
+type: "concept"
+community: "Veille Outils & code 2026-11-12"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/Claude_Meetings
+  - community/Veille_Outils__code_2026-11-12
 ---
 
 # Claude Meetings
@@ -16,4 +16,4 @@ tags:
 - [[Veille Outils & code 2026-11-13 (T6)]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-16]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Claude_Meetings
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12

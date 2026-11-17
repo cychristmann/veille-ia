@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t3.md"
 type: "document"
-community: "Wuhan University of Science and Technology"
+community: "veille états-unis thème 6"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Wuhan_University_of_Science_and_Technology
+  - community/veille_états-unis_thème_6
 ---
 
 # Veille Chine 2026-11-10 : Régulation et gouvernance de l’IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[复旦发展研究院]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Wuhan_University_of_Science_and_Technology
+#graphify/document #graphify/EXTRACTED #community/veille_états-unis_thème_6

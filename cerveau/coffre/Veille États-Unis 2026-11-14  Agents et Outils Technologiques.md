@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-14-t3.md"
 type: "document"
-community: "Claude Meetings"
+community: "Veille Outils & code 2026-11-12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Claude_Meetings
+  - community/Veille_Outils__code_2026-11-12
 ---
 
 # Veille États-Unis 2026-11-14 : Agents et Outils Technologiques
@@ -16,4 +16,4 @@ tags:
 - [[Grok]] - `references` [EXTRACTED]
 - [[Perplexity]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Claude_Meetings
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12

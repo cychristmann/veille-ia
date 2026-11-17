@@ -13,6 +13,8 @@ tags:
 ## Connections
 - [[AWS]] - `references` [EXTRACTED]
 - [[Amazon Bedrock]] - `references` [EXTRACTED]
+- [[LVMH]] - `references` [EXTRACTED]
+- [[OpenAI]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/OpenAI

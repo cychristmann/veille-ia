@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-16-3.md"
 type: "concept"
-community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+  - community/Gemini_4_Hydrogen
 ---
 
 # Cyber-risques
@@ -15,4 +15,4 @@ tags:
 - [[Risque financier lié à l'IA]] - `conceptually_related_to` [INFERRED]
 - [[Règlement DORA]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+#graphify/concept #graphify/EXTRACTED #community/Gemini_4_Hydrogen

@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-13-t6.md"
+source_file: "veilles/veille-ia-us-2026-11-09-t3.md"
 type: "concept"
 community: "Meta"
 tags:
@@ -17,6 +17,7 @@ tags:
 - [[Muse AI assistant]] - `references` [EXTRACTED]
 - [[Muse Ember]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-13]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-17]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-08]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-09  Nouveaux modèles et avancées technologiques]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]

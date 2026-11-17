@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-14-t3.md"
 type: "document"
-community: "Veille Chine 2026-11-13 : Industrie et fabrication"
+community: "Veille Chine 2026-11-13"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-13__Industrie_et_fabrication
+  - community/Veille_Chine_2026-11-13
 ---
 
 # Veille Chine 2026-11-14 : Médias, création et divertissement IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AI Short Dramas]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-13__Industrie_et_fabrication
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-13

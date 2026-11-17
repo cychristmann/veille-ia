@@ -12,7 +12,6 @@ tags:
 
 ## Connections
 - [[Digital Networks Act]] - `references` [EXTRACTED]
-- [[Veille États-Unis 2026-11-12 (Industrie)]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Meta

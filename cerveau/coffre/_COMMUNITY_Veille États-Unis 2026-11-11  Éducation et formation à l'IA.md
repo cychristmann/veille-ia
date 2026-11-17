@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille États-Unis 2026-11-11 : Éducation et formation à l'IA
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Veille États-Unis 2026-11-11  Éducation et formation à l'IA]] - document - veilles/veille-ia-us-2026-11-11-t5.md
+- [[AI Ethics, Security and Regulation]] - concept - veilles/veille-ia-cn-2026-11-14-t4.md
+- [[Veille Chine 2026-11-14  Éthique, sécurité et réglementation IA]] - document - veilles/veille-ia-cn-2026-11-14-t4.md
 
 ## Live Query (requires Dataview plugin)
 

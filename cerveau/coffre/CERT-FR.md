@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-14-1.md"
 type: "concept"
-community: "Veille France 2026-11-15"
+community: "Veille Outils & code 2026-11-13"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/Veille_France_2026-11-15
+  - community/Veille_Outils__code_2026-11-13
 ---
 
 # CERT-FR
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[ICAID]] - `references` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/Veille_France_2026-11-15
+#graphify/concept #graphify/INFERRED #community/Veille_Outils__code_2026-11-13

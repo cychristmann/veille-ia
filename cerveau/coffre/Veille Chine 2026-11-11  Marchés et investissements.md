@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-11-t1.md"
 type: "document"
-community: "Veille France 2026-11-12"
+community: "Google"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-12
+  - community/Google
 ---
 
 # Veille Chine 2026-11-11 : Marchés et investissements
@@ -18,4 +18,4 @@ tags:
 - [[Nanling Technology]] - `references` [EXTRACTED]
 - [[Shanghai Film]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-12
+#graphify/document #graphify/EXTRACTED #community/Google

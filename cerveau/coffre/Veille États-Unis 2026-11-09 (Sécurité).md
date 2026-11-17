@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t5.md"
 type: "document"
-community: "Nanjing University of Aeronautics and Astronautics"
+community: "Blue J"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Nanjing_University_of_Aeronautics_and_Astronautics
+  - community/Blue_J
 ---
 
 # Veille États-Unis 2026-11-09 (Sécurité)
@@ -14,4 +14,4 @@ tags:
 - [[IRS]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Nanjing_University_of_Aeronautics_and_Astronautics
+#graphify/document #graphify/EXTRACTED #community/Blue_J

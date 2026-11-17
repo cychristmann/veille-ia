@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-16-t5.md"
+source_file: "veilles/veille-ia-us-2026-11-17-t4.md"
 type: "concept"
-community: "Jensen Huang"
+community: "Veille États-Unis 2026-11-12"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Jensen_Huang
+  - community/Veille_États-Unis_2026-11-12
 ---
 
 # CASRAI
@@ -14,5 +14,6 @@ tags:
 - [[EDPB]] - `references` [EXTRACTED]
 - [[SoftBank]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-16]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-17  Applications sectorielles de l'IA]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Jensen_Huang
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-12

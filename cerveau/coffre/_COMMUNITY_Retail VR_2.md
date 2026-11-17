@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Retail VR
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[AI Ethics in Education]] - concept - veilles/veille-ia-us-2026-11-15-t1.md
-- [[Han Won-seok]] - concept - veilles/veille-ia-us-2026-11-15-t1.md
-- [[Veille États-Unis 2026-11-15  Scandale de triche à l'IA]] - document - veilles/veille-ia-us-2026-11-15-t1.md
+- [[Dianli ETF Jingshun (159158)]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
+- [[JinJing XinNeng (01783)]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
+- [[Shengmei Semiconductor]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
+- [[Veille Chine 2026-11-16  Infrastructure et puissance de calcul]] - document - veilles/veille-ia-cn-2026-11-16-t2.md
 
 ## Live Query (requires Dataview plugin)
 

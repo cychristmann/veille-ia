@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Enterprise RAG Systems]] - concept - veilles/veille-ia-dev-2026-11-16-t5.md
-- [[Veille Outils & code 2026-11-16  Recherche, méthodologies et analyses d’agents IA]] - document - veilles/veille-ia-dev-2026-11-16-t5.md
+- [[Deploying AI into Workplaces What Leaders Need to Know]] - document - veilles/veille-ia-us-2026-11-16-t3.md
+- [[Veille États-Unis 2026-11-16  Éducation, formation et environnement professionnel]] - document - veilles/veille-ia-us-2026-11-16-t3.md
 
 ## Live Query (requires Dataview plugin)
 

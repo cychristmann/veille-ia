@@ -1,17 +1,16 @@
 ---
 type: community
-members: 4
+members: 3
 ---
 
 # scandale autour d'une star IA
 
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Elvis Presley Music Rights Owners]] - code - veilles/veille-ia-us-2026-11-08-t2.md
-- [[Eminem Music Rights Owners]] - code - veilles/veille-ia-us-2026-11-08-t2.md
-- [[Feuilleton Suno AI poursuivi]] - document - feuilletons/f-0002.md
-- [[Suno AI]] - code - veilles/veille-ia-us-2026-11-08-t2.md
+- [[Arnaques à l’IA]] - concept - veilles/veille-ia-fr-2026-11-16-t1.md
+- [[Cybersécurité et IA]] - concept - veilles/veille-ia-fr-2026-11-16-t1.md
+- [[Veille France 2026-11-16  Régulation, sécurité et gouvernance]] - document - veilles/veille-ia-fr-2026-11-16-t1.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0027.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-14 : Impact Social, Éthique et Travail"
+community: "Le Monde Pixels"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-14__Impact_Social_Éthique_et_Travail
+  - community/Le_Monde_Pixels
 ---
 
 # Le Monde Pixels
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Ukraine Conflict]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Impact_Social_Éthique_et_Travail
+#graphify/concept #graphify/EXTRACTED #community/Le_Monde_Pixels

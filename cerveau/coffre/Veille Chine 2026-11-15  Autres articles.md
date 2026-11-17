@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-15-t7.md"
 type: "document"
-community: "IA grand public chinoise"
+community: "Veille Chine 2026-11-15 : Autres articles"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/IA_grand_public_chinoise
+  - community/Veille_Chine_2026-11-15__Autres_articles
 ---
 
 # Veille Chine 2026-11-15 : Autres articles
@@ -16,4 +16,4 @@ tags:
 - [[Suno]] - `references` [EXTRACTED]
 - [[Xiaopeng G9]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/IA_grand_public_chinoise
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-15__Autres_articles

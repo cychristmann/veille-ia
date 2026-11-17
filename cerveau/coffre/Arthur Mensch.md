@@ -1,17 +1,18 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-09-t3.md"
-type: "code"
-community: "Emmanuel Macron"
+source_file: "dossiers/2026-11-17-1.md"
+type: "concept"
+community: "Appel de Paris"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/Emmanuel_Macron
+  - community/Appel_de_Paris
 ---
 
 # Arthur Mensch
 
 ## Connections
+- [[AI Act]] - `references` [EXTRACTED]
 - [[Appel de Paris]] - `references` [EXTRACTED]
-- [[Feuilleton Pression européenne pour une régulation coordonnée de l'IA]] - `references` [EXTRACTED]
+- [[Mistral AI]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Emmanuel_Macron
+#graphify/concept #graphify/EXTRACTED #community/Appel_de_Paris

@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[GPT-4.1]] - concept - veilles/veille-ia-us-2026-11-15-t4.md
-- [[KAIST]] - concept - veilles/veille-ia-us-2026-11-15-t4.md
-- [[Llama 3.3]] - concept - veilles/veille-ia-us-2026-11-15-t4.md
-- [[Microsoft Research]] - concept - veilles/veille-ia-us-2026-11-15-t4.md
-- [[NIH]] - concept - veilles/veille-ia-us-2026-11-15-t4.md
-- [[Veille États-Unis 2026-11-15  Recherche et applications avancées de l'IA]] - document - veilles/veille-ia-us-2026-11-15-t4.md
+- [[Community Impact]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Daily Herald]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Federal News Network]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Inside Global Tech]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[News 5 Cleveland WEWS]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Veille États-Unis 2026-11-09  Régulation et politiques publiques]] - document - veilles/veille-ia-us-2026-11-09-t1.md
 
 ## Live Query (requires Dataview plugin)
 

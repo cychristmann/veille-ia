@@ -1,9 +1,9 @@
 ---
 source_file: "feuilletons/f-0019.md"
-type: "code"
+type: "concept"
 community: "OpenAI"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
   - community/OpenAI
 ---
@@ -11,6 +11,8 @@ tags:
 # Mastercard
 
 ## Connections
-- [[ChatGPT]] - `references` [EXTRACTED]
+- [[Agent Pay]] - `references` [EXTRACTED]
+- [[OpenAI]] - `references` [EXTRACTED]
+- [[Verifiable Intent]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/OpenAI
+#graphify/concept #graphify/EXTRACTED #community/OpenAI

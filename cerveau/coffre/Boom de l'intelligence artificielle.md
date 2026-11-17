@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-15-2.md"
 type: "concept"
-community: "CoreWeave"
+community: "SpaceX"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/CoreWeave
+  - community/SpaceX
 ---
 
 # Boom de l'intelligence artificielle
@@ -15,4 +15,4 @@ tags:
 - [[Dossier  Effondrement du boom IA et crise des data-centers]] - `references` [EXTRACTED]
 - [[Risque macroéconomique]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/CoreWeave
+#graphify/concept #graphify/EXTRACTED #community/SpaceX

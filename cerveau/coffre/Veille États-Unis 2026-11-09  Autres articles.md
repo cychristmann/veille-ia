@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t6.md"
 type: "document"
-community: "table rase sur les récits"
+community: "Zhao Liying"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/table_rase_sur_les_récits
+  - community/Zhao_Liying
 ---
 
 # Veille États-Unis 2026-11-09 : Autres articles
@@ -15,4 +15,4 @@ tags:
 - [[NEAR AI]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/table_rase_sur_les_récits
+#graphify/document #graphify/EXTRACTED #community/Zhao_Liying

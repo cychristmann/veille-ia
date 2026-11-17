@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-12-t4.md"
-type: "concept"
-community: "GPT-6 Astra"
+source_file: "feuilletons/f-0020.md"
+type: "code"
+community: "Meta"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Meta
 ---
 
 # GPT-6 Astra
@@ -18,4 +18,4 @@ tags:
 - [[Veille France 2026-11-12  Régulation, éthique et impacts sociétaux]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-12  Coût, tokenomics et optimisation]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/code #graphify/EXTRACTED #community/Meta

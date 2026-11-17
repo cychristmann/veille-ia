@@ -1,17 +1,16 @@
 ---
 type: community
-members: 4
+members: 3
 ---
 
 # Ming-Chi Kuo
 
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Expo Cloud Simulators for AI Coding Agents]] - concept - veilles/veille-ia-dev-2026-11-12-t6.md
-- [[Granite 4.1]] - code - veilles/veille-ia-dev-2026-11-13-t5.md
-- [[LLMON]] - concept - veilles/veille-ia-dev-2026-11-12-t6.md
-- [[Veille Outils & code 2026-11-12  Outils et frameworks divers]] - document - veilles/veille-ia-dev-2026-11-12-t6.md
+- [[GitGuardian Good Samaritan Program]] - concept - veilles/veille-ia-dev-2026-11-17-t4.md
+- [[State of AI Impact on Software Security and Cybersecurity 2026]] - document - veilles/veille-ia-dev-2026-11-17-t4.md
+- [[Veille Outils & code 2026-11-17 (T4)]] - document - veilles/veille-ia-dev-2026-11-17-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,9 +18,3 @@ members: 4
 TABLE source_file, type FROM #community/Ming-Chi_Kuo
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
-
-## Top bridge nodes
-- [[LLMON]] - degree 3, connects to 1 community
