@@ -22,6 +22,7 @@ import html
 import json
 import os
 import re
+import time
 import xml.etree.ElementTree as ET
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
@@ -676,11 +677,26 @@ def collecter(etat: EtatVeille) -> dict:
     return {"candidats": candidats, "sources_en_echec": echecs, "heures": heures}
 
 
+# Google Actualités limite les requêtes trop rapprochées : il répond 429 (« Sorry… », page
+# anti-robot), surtout depuis les machines partagées de GitHub. Le 17/11/2026, la Chine n'a
+# eu que 10 articles sur 50 pour cette raison. Après une pause, il répond de nouveau.
+ATTENTES_GOOGLE = (30, 90)  # secondes avant le 2e puis le 3e essai
+
+
 def _essayer(nom: str, url: str) -> list[Article] | None:
-    try:
-        return _lire_flux(nom, url)
-    except (httpx.HTTPError, ET.ParseError):
-        return None  # un flux en panne ne doit pas bloquer toute la veille
+    attentes = list(ATTENTES_GOOGLE) if nom == NOM_GOOGLE else []
+    while True:
+        try:
+            return _lire_flux(nom, url)
+        except httpx.HTTPStatusError as exc:
+            if exc.response.status_code in (429, 503) and attentes:
+                pause = attentes.pop(0)
+                print(f"{nom} : refus temporaire ({exc.response.status_code}), nouvel essai dans {pause} s.")
+                time.sleep(pause)
+                continue
+            return None
+        except (httpx.HTTPError, ET.ParseError):
+            return None  # un flux en panne ne doit pas bloquer toute la veille
 
 
 # --- Analyse par le modèle -----------------------------------------------------------
