@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Qwen3.8
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Arm]] - concept - dossiers/2026-11-13-1.md
+- [[Retail VR]] - concept - veilles/veille-ia-fr-2026-11-13-t5.md
+- [[Veille France 2026-11-13  Autres articles]] - document - veilles/veille-ia-fr-2026-11-13-t5.md
 
 ## Live Query (requires Dataview plugin)
 

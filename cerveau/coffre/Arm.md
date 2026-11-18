@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-13-1.md"
 type: "concept"
-community: "Qwen3.8"
+community: "Edelbyte"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Qwen38
+  - community/Edelbyte
 ---
 
 # Arm
 
-#graphify/concept #graphify/EXTRACTED #community/Qwen38
+#graphify/concept #graphify/EXTRACTED #community/Edelbyte

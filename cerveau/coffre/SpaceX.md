@@ -11,17 +11,21 @@ tags:
 # SpaceX
 
 ## Connections
+- [[AI Market Trends]] - `conceptually_related_to` [INFERRED]
 - [[AI computing campuses]] - `references` [EXTRACTED]
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Cursor]] - `references` [EXTRACTED]
 - [[Elon Musk]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
+- [[Open Secure AI Alliance]] - `references` [EXTRACTED]
 - [[Orbital AI Infrastructure]] - `references` [EXTRACTED]
 - [[Projet Kessel]] - `conceptually_related_to` [EXTRACTED]
+- [[SpaceXAI]] - `references` [EXTRACTED]
 - [[Star Compute]] - `references` [EXTRACTED]
 - [[Starmind Project]] - `references` [EXTRACTED]
 - [[Starship]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-17  Marché, financement et régulation]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-12  Marchés financiers et investissements IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-13]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-14-t5.md"
 type: "concept"
-community: "IA et système financier"
+community: "LLMON"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/IA_et_système_financier
+  - community/LLMON
 ---
 
 # Fed (Réserve fédérale)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[IA et système financier]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/IA_et_système_financier
+#graphify/concept #graphify/EXTRACTED #community/LLMON

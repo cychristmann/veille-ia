@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0001.md"
 type: "document"
-community: "Jensen Huang"
+community: "Débats à Saint-Tropez"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Jensen_Huang
+  - community/Débats_à_Saint-Tropez
 ---
 
 # Feuilleton : Crise de direction chez Nvidia et scandale des puces IA
@@ -14,4 +14,4 @@ tags:
 - [[Jensen Huang]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Jensen_Huang
+#graphify/document #graphify/EXTRACTED #community/Débats_à_Saint-Tropez

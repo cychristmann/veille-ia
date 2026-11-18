@@ -11,9 +11,10 @@ tags:
 # Baidu
 
 ## Connections
+- [[AI Market Trends]] - `conceptually_related_to` [INFERRED]
 - [[Apollo Go (萝卜快跑)]] - `references` [EXTRACTED]
 - [[Robin Li]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-13]] - `references` [EXTRACTED]
-- [[Veille Chine 2026-11-17  Performance du marché et régulation]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-17  Marché, financement et régulation]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-13

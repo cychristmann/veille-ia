@@ -1,15 +1,17 @@
 ---
 type: community
-members: 2
+members: 4
 ---
 
 # AWS Budgets
 
-**Members:** 2 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[AWS Budgets]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
-- [[IAM]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
+- [[HarmonyOS 7]] - code - veilles/veille-ia-cn-2026-11-17-t4.md
+- [[Huawei Mate 90]] - code - veilles/veille-ia-cn-2026-11-17-t4.md
+- [[OSTA O1 Pro]] - code - veilles/veille-ia-cn-2026-11-17-t4.md
+- [[Veille Chine 2026-11-17 (T4)]] - document - veilles/veille-ia-cn-2026-11-17-t4.md
 
 ## Live Query (requires Dataview plugin)
 

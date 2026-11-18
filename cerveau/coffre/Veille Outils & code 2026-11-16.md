@@ -13,9 +13,9 @@ tags:
 ## Connections
 - [[Claude Code]] - `references` [EXTRACTED]
 - [[Claude Meetings]] - `references` [EXTRACTED]
+- [[Copilot]] - `references` [EXTRACTED]
 - [[Cursor]] - `references` [EXTRACTED]
 - [[Geni-Code]] - `references` [EXTRACTED]
-- [[GitHub Copilot]] - `references` [EXTRACTED]
 - [[GraphRAG]] - `references` [EXTRACTED]
 - [[Nota]] - `references` [EXTRACTED]
 - [[OpenAI Daybreak]] - `references` [EXTRACTED]

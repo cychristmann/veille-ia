@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Trust3 AI
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[DeepSeek V4.1 Pro]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
+- [[RELEX]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
+- [[Vusion]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-13 : Enjeux du marché et turbulences
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Synapse Medicine]] - concept - veilles/veille-ia-fr-2026-11-12-t3.md
-- [[Veille France 2026-11-12  Applications IA en santé et société]] - document - veilles/veille-ia-fr-2026-11-12-t3.md
+- [[Veille États-Unis 2026-11-13  Enjeux du marché et turbulences]] - document - veilles/veille-ia-us-2026-11-13-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -17,9 +16,3 @@ members: 2
 TABLE source_file, type FROM #community/Veille_États-Unis_2026-11-13__Enjeux_du_marché_et_turbulences
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Anthropic_1]]
-
-## Top bridge nodes
-- [[Veille France 2026-11-12  Applications IA en santé et société]] - degree 2, connects to 1 community

@@ -1,16 +1,15 @@
 ---
 type: community
-members: 3
+members: 2
 ---
 
 # Retail VR
 
-**Members:** 3 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Gemma 4]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
-- [[Nimble]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
-- [[Ollama]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
+- [[Crise des data-centers IA]] - concept - feuilletons/f-0024.md
+- [[Feuilleton Effondrement du boom IA et crise des data-centers]] - document - feuilletons/f-0024.md
 
 ## Live Query (requires Dataview plugin)
 

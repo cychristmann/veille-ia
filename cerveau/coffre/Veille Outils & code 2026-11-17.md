@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-17-t2.md"
 type: "document"
-community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
+community: "OpenAI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+  - community/OpenAI
 ---
 
 # Veille Outils & code 2026-11-17
@@ -13,9 +13,9 @@ tags:
 ## Connections
 - [[Amazon Bedrock]] - `references` [EXTRACTED]
 - [[ByteVoice]] - `references` [EXTRACTED]
+- [[Copilot]] - `references` [EXTRACTED]
 - [[Cuttlefish]] - `references` [EXTRACTED]
 - [[Duco]] - `references` [EXTRACTED]
-- [[GitHub Copilot]] - `references` [EXTRACTED]
 - [[Hugging Face]] - `references` [EXTRACTED]
 - [[Meta]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
@@ -28,4 +28,4 @@ tags:
 - [[Vercel]] - `references` [EXTRACTED]
 - [[datasette-maplibre]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+#graphify/document #graphify/EXTRACTED #community/OpenAI

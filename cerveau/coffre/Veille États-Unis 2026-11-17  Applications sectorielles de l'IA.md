@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-17-t4.md"
 type: "document"
-community: "Veille États-Unis 2026-11-12"
+community: "Veille États-Unis 2026-11-18"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-12
+  - community/Veille_États-Unis_2026-11-18
 ---
 
 # Veille États-Unis 2026-11-17 : Applications sectorielles de l'IA
@@ -19,4 +19,4 @@ tags:
 - [[The Guardian (IA)]] - `cites` [EXTRACTED]
 - [[The Japan Times]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-12
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-18

@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Veille Chine 2026-11-15  Éducation, formation et talents IA]] - document - veilles/veille-ia-cn-2026-11-15-t4.md
-- [[山东商务职业学院]] - concept - veilles/veille-ia-cn-2026-11-15-t4.md
-- [[广东“AI智能体”数字人才培训计划]] - concept - veilles/veille-ia-cn-2026-11-15-t4.md
+- [[AI Ethics in Education]] - concept - veilles/veille-ia-us-2026-11-15-t1.md
+- [[Han Won-seok]] - concept - veilles/veille-ia-us-2026-11-15-t1.md
+- [[Veille États-Unis 2026-11-15  Scandale de triche à l'IA]] - document - veilles/veille-ia-us-2026-11-15-t1.md
 
 ## Live Query (requires Dataview plugin)
 

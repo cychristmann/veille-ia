@@ -1,5 +1,5 @@
 ---
-source_file: "dossiers/2026-11-16-2.md"
+source_file: "veilles/veille-ia-cn-2026-11-12-t3.md"
 type: "concept"
 community: "Veille Chine 2026-11-12 : IA dans le commerce et le divertissement"
 tags:

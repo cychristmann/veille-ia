@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0023.md"
 type: "concept"
-community: "Arm"
+community: "Military AI Center (Rennes)"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Arm
+  - community/Military_AI_Center_Rennes
 ---
 
 # French Government
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Military AI Center (Rennes)]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Arm
+#graphify/concept #graphify/EXTRACTED #community/Military_AI_Center_Rennes

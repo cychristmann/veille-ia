@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Feuilleton: Les États‑Unis désignent Nvidia parmi les champions nationaux de l’IA
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Feuilleton Les États‑Unis désignent Nvidia parmi les champions nationaux de l’IA]] - document - feuilletons/f-0025.md
+- [[OVHcloud]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
+- [[Olala]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
 
 ## Live Query (requires Dataview plugin)
 

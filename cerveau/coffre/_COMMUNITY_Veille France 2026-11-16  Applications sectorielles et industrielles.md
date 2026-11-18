@@ -1,18 +1,19 @@
 ---
 type: community
-members: 5
+members: 6
 ---
 
 # Veille France 2026-11-16 : Applications sectorielles et industrielles
 
-**Members:** 5 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Veille Chine 2026-11-15  Éthique, société et relations homme‑machine]] - document - veilles/veille-ia-cn-2026-11-15-t5.md
-- [[亚洲日报 (Asia Daily)]] - concept - veilles/veille-ia-cn-2026-11-15-t5.md
-- [[智源社区 (BAAI Community)]] - concept - veilles/veille-ia-cn-2026-11-15-t5.md
-- [[汽车之家 (Autohome)]] - concept - veilles/veille-ia-cn-2026-11-15-t5.md
-- [[网易新闻 (NetEase News)]] - concept - veilles/veille-ia-cn-2026-11-15-t5.md
+- [[AI Short Dramas]] - concept - veilles/veille-ia-cn-2026-11-14-t3.md
+- [[SCMP Tech]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
+- [[Sanxingdui Future Past]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
+- [[Veille Chine 2026-11-14  Médias, création et divertissement IA]] - document - veilles/veille-ia-cn-2026-11-14-t3.md
+- [[Veille Chine 2026-11-15  Contenu et divertissement IA]] - document - veilles/veille-ia-cn-2026-11-15-t1.md
+- [[投资界]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
 
 ## Live Query (requires Dataview plugin)
 

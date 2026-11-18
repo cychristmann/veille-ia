@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t5.md"
 type: "concept"
-community: "Retail VR"
+community: "Qwen3.8"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Retail_VR
+  - community/Qwen38
 ---
 
 # Retail VR
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-13  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Retail_VR
+#graphify/concept #graphify/EXTRACTED #community/Qwen38

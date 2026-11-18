@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t4.md"
 type: "code"
-community: "Meta"
+community: "Alibaba"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Meta
+  - community/Alibaba
 ---
 
 # Signal
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Google DeepMind]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Meta
+#graphify/code #graphify/EXTRACTED #community/Alibaba

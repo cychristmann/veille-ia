@@ -233,7 +233,7 @@
    "id": "2026-11-13-3",
    "date": "2026-11-13",
    "echeance": "2026-11-18",
-   "statut": "en_cours",
+   "statut": "gagne",
    "entite": "Microsoft",
    "sections": [
     "dev",
@@ -246,7 +246,9 @@
    "enonce": "Microsoft : au moins 9 articles (Outils & code et États-Unis) sur les 5 prochains jours",
    "raisonnement": "Les dernières semaines montrent une hausse progressive (5,4,3) et les annonces de nouvelles intégrations IA renforcent la visibilité.",
    "phrase_ia": "Microsoft sera cité dans au moins 9 articles d'outils & code et aux États-Unis sur les cinq prochains jours.",
-   "rejoue": true
+   "rejoue": true,
+   "observe": 17,
+   "resolu_le": "2026-11-18"
   },
   {
    "id": "2026-11-14-1",
@@ -379,6 +381,42 @@
    "enonce": "Google : au moins 4 articles (Chine) sur les 3 prochains jours",
    "raisonnement": "Google prépare un lancement de services IA en Chine, ce qui devrait générer une couverture accrue.",
    "phrase_ia": "Google sera cité au moins 4 fois dans la section Chine sur les 3 prochains jours.",
+   "rejoue": false
+  },
+  {
+   "id": "2026-11-18-1",
+   "date": "2026-11-18",
+   "echeance": "2026-11-21",
+   "statut": "en_cours",
+   "entite": "Agents IA",
+   "sections": [
+    "cn"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 12,
+   "horizon": 3,
+   "probabilite": 0.62,
+   "enonce": "Agents IA : au moins 12 articles (Chine) sur les 3 prochains jours",
+   "raisonnement": "Le gouvernement chinois intensifie les projets d’agents autonomes, ce qui devrait augmenter la couverture médiatique.",
+   "phrase_ia": "Les Agents IA seront mentionnés dans au moins 12 articles (Chine) au cours des trois prochains jours.",
+   "rejoue": false
+  },
+  {
+   "id": "2026-11-18-2",
+   "date": "2026-11-18",
+   "echeance": "2026-11-23",
+   "statut": "en_cours",
+   "entite": "GitHub",
+   "sections": [
+    "dev"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 20,
+   "horizon": 5,
+   "probabilite": 0.66,
+   "enonce": "GitHub : au moins 20 articles (Outils & code) sur les 5 prochains jours",
+   "raisonnement": "Le déploiement de nouvelles fonctionnalités de Copilot et des actions GitHub génère un pic d'intérêt parmi les développeurs.",
+   "phrase_ia": "GitHub sera cité dans au moins 20 articles (Outils & code) pendant les cinq prochains jours.",
    "rejoue": false
   }
  ]

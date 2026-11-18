@@ -1,0 +1,984 @@
+{
+  "region": "fr",
+  "genere_a": "2026-11-18T08:14:59.951071+01:00",
+  "heures": 24,
+  "nombre_demande": 50,
+  "nombre_articles": 50,
+  "synthese": "Les dernières heures sont marquées par une avalanche d’annonces de nouveaux modèles et services IA, avec OpenAI, Microsoft, OVHcloud et d’autres qui promettent des performances supérieures à moindre coût. Parallèlement, les questions de régulation et de gouvernance s’intensifient : la Californie poursuit OpenAI, la SEC enquête sur Nvidia et des collaborations cherchent à encadrer les agents IA. La sécurité reste un sujet crucial, l’IA étant à la fois arme et bouclier face aux cyber‑menaces, tandis que son impact sociétal se confirme, du marché du travail aux attentes des consommateurs, en passant par la santé et le tourisme. Enfin, les acteurs institutionnels français et internationaux renforcent leurs programmes et conférences dédiés à l’IA, consolidant son rôle stratégique dans l’économie et la recherche.",
+  "verification": {
+    "problemes": [],
+    "synthese_originale": "Les dernières heures sont marquées par une avalanche d’annonces de nouveaux modèles et services IA, avec OpenAI, Microsoft, OVHcloud et d’autres qui promettent des performances supérieures à moindre coût. Parallèlement, les questions de régulation et de gouvernance s’intensifient : la Californie poursuit OpenAI, la SEC enquête sur Nvidia et des collaborations cherchent à encadrer les agents IA. La sécurité reste un sujet crucial, l’IA étant à la fois arme et bouclier face aux cyber‑menaces, tandis que son impact sociétal se confirme, du marché du travail aux attentes des consommateurs, en passant par la santé et le tourisme. Enfin, les acteurs institutionnels français et internationaux renforcent leurs programmes et conférences dédiés à l’IA, consolidant son rôle stratégique dans l’économie et la recherche."
+  },
+  "sources_en_echec": [],
+  "flux_lus": {
+    "ActuIA": [
+      15,
+      5
+    ],
+    "Le Big Data": [
+      10,
+      6
+    ],
+    "Blog du Modérateur": [
+      30,
+      1
+    ],
+    "Siècle Digital": [
+      20,
+      4
+    ],
+    "Numerama": [
+      15,
+      0
+    ],
+    "Frandroid": [
+      15,
+      5
+    ],
+    "Journal du Geek": [
+      30,
+      3
+    ],
+    "01net": [
+      30,
+      6
+    ],
+    "Les Numériques": [
+      40,
+      0
+    ],
+    "ZDNet": [
+      50,
+      6
+    ],
+    "Clubic": [
+      50,
+      10
+    ],
+    "Presse-citron": [
+      30,
+      4
+    ],
+    "Next": [
+      50,
+      4
+    ],
+    "Korben": [
+      14,
+      0
+    ],
+    "Maddyness": [
+      10,
+      5
+    ],
+    "FrenchWeb": [
+      30,
+      1
+    ],
+    "JDN": [
+      60,
+      8
+    ],
+    "Le Monde Pixels": [
+      20,
+      2
+    ],
+    "Brief IA": [
+      50,
+      41
+    ],
+    "La Crème Du Gaming": [
+      50,
+      8
+    ],
+    "Martin Cid Magazine": [
+      10,
+      0
+    ],
+    "Foro3D": [
+      200,
+      11
+    ],
+    "Mac4Ever": [
+      30,
+      1
+    ],
+    "Servicesmobiles.fr": [
+      20,
+      5
+    ],
+    "Le Monde Informatique": [
+      47,
+      0
+    ],
+    "Le Figaro (High-Tech)": [
+      20,
+      2
+    ],
+    "BlogNT": [
+      10,
+      2
+    ],
+    "Business AM": [
+      100,
+      5
+    ],
+    "Le Revenu": [
+      50,
+      8
+    ],
+    "Quartz en Français": [
+      50,
+      5
+    ],
+    "Google Actualités": [
+      100,
+      100
+    ]
+  },
+  "themes": [
+    {
+      "nom": "Lancements de modèles et plateformes IA",
+      "resume": "De nombreux acteurs annoncent de nouveaux modèles IA ou des services associés, souvent en mettant en avant des performances accrues ou des coûts réduits. OpenAI dévoile GPT‑6.2 Astra et Sol, Microsoft propose sept IA moins chères, et OVHcloud lance Olala pour les entreprises. D’autres entreprises comme Genesis AI, JD de John Deere ou H Company rendent leurs agents accessibles via le cloud souverain.",
+      "articles": [
+        {
+          "note": 9,
+          "motif": "Annonce majeure de Microsoft, impact sectoriel important",
+          "couverture": 2,
+          "titre": "Ignite 2026 : Microsoft veut faire de Copilot le « système d’exploitation du travail », où humains et agents IA collaborent",
+          "source": "ZDNet",
+          "lien": "https://www.zdnet.fr/actualites/ignite-2026-microsoft-veut-faire-de-copilot-le-systeme-dexploitation-du-travail-ou-humains-et-agents-ia-collaborent-508078.htm#xtor=RSS-1",
+          "date": "2026-11-18T08:11:11+00:00",
+          "resume": "Microsoft fait de Copilot un espace où employés et agents IA travaillent ensemble, relié aux données et aux logiciels de l’entreprise. Il y ajoute des outils pour sécuriser et mesurer le coût des agents, ainsi que de nouvelles machines virtuelles Azure Cobalt 200.",
+          "titre_fr": ""
+        },
+        {
+          "note": 8,
+          "motif": "OpenAI dévoile nouvelle version, forte portée mais source peu connue",
+          "couverture": 1,
+          "titre": "☕️ Avec GPT-6.2 Sol et Astra, OpenAI promet de la qualité et des économies",
+          "source": "Next",
+          "lien": "https://next.ink/brief-article/avec-gpt-6-2-sol-et-astra-openai-promet-de-la-qualite-et-des-economies/",
+          "date": "2026-11-18T07:08:00+00:00",
+          "resume": "OpenAI a dévoilé sa nouvelle famille de modèles GPT-6.2, avec les variantes Astra (le modèle frontière) et Sol (le modèle des travaux du quotidien). Commençons par celui-ci, puisque c’est la mouture qui servira à une majorité d’utilisateurs : l’entreprise le présente comme le modèle offrant le meill",
+          "titre_fr": ""
+        },
+        {
+          "note": 8,
+          "motif": "Google détecte première cyberattaque IA end‑to‑end, événement majeur",
+          "couverture": 1,
+          "titre": "Google détecte la première cyberattaque menée de bout en bout par une IA",
+          "source": "Génération NT",
+          "lien": "https://www.generation-nt.com/actualites/attaque-ia-autonome-hackers-2084608",
+          "date": "2026-11-18T05:30:01+00:00",
+          "resume": "Google et son unité Mandiant ont documenté la première intrusion informatique entièrement automatisée sans opérateur humain, imputée à des profils russophones. À l'aide d'un dispositif multi-agents no ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 8,
+          "motif": "Nvidia bénéfices IA record, influence marché technologique",
+          "couverture": 1,
+          "titre": "Nvidia : 65 milliards de dollars de bénéfices en trois mois, l'IA rapporte gros mais Wall Street doute encore",
+          "source": "FranceTransactions.com",
+          "lien": "https://www.francetransactions.com/actus/news-bourse/marches/nvidia-65-milliards-de-dollars-de-benefices-en-trois-mois-l-ia-rapporte-gros.html",
+          "date": "2026-11-18T05:24:37+00:00",
+          "resume": "Des résultats financiers historiques : Nvidia a réalisé 115,8 milliards de dollars de chiffre d’affaires au troisième trimestre fiscal 2027, en hausse de 103 %, et 65,3 milliards de dollars de ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 7,
+          "motif": "Microsoft lance IA moins chère, impact produit mais détail limité",
+          "couverture": 1,
+          "titre": "Microsoft sort sept IA moins chères pour des performances proches des grands modèles",
+          "source": "lebigdata.fr",
+          "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVUtWT01CWHM5Zm9nX21QYTFEcEJSODhMcnV3TnhidkVDLWFyb0V1M3FVdXZOQkJESVB6ZHEyR3lQdEFIbVRaR3B3WVpxSXp2Q0pDSjcyNlpZbVctT1RCdHY2a3ozUnVrdnNnZDZBdkNwckFjVmJ4al9XZG9kXzlrZGRhN20xUmo1NnJ4RTl5Tmp6YTREeWpRRmI5XzFsRVVucEFLUWdXay1ITUtRc1E?oc=5",
+          "date": "2026-11-18T07:07:31+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 7,
+          "motif": "OVHcloud propose IA propre, enjeu souveraineté Europe",
+          "couverture": 1,
+          "titre": "Avec son modèle Olala mini 7A1B, OVHcloud veut remonter dans la chaîne de valeur de l’IA, de l’hébergement à la fourniture de modèles",
+          "source": "L'Usine Digitale",
+          "lien": "https://www.usine-digitale.fr/informatique/cloud/ovh/avec-son-modele-olala-mini-7a1b-ovhcloud-veut-remonter-dans-la-chaine-de-valeur-de-lia-de-lhebergement-a-la-fourniture-de-modeles.FQF2TN7NMJGKZGWBSH4M2ISVAQ.html",
+          "date": "2026-11-18T06:20:26+00:00",
+          "resume": "L’hébergeur roubaisien dévoile Olala, sa première famille de grands modèles de langage. Avec une première version compacte de 7 milliards de paramètres, entraînée sur des supercalculateurs européens, ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 7,
+          "motif": "OVHcloud dévoile IA entreprise, renforce écosystème européen",
+          "couverture": 1,
+          "titre": "OVHcloud dévoile Olala, sa première IA pour les entreprises",
+          "source": "www.mntd.fr",
+          "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORlRHQ2NyUExWR1FURGJia3djYlI0Y0hLWC1LMF9RZVpHdFNEM0lGdDBNYlV5T19TSjJORkE5WXZjbXVlTWw3RVA1UGxmRkJsNXRRbi1LeWJJMmtLQlhSbEFJc0FmaTFtRG9rTEVIZ21QRkNacDZaZmlXOXZlcEJpZzgxN1dYUQ?oc=5",
+          "date": "2026-11-18T05:56:12+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Blog promotionnel du même sujet que #3, moins fiable",
+          "couverture": 1,
+          "titre": "OpenAI dévoile GPT-6.2 Astra et Sol : des modèles plus performants et moins coûteux",
+          "source": "BlogNT",
+          "lien": "https://www.blog-nouvelles-technologies.fr/394070/openai-gpt-6-2-astra-sol-modeles-ia/",
+          "date": "2026-11-18T07:00:00+00:00",
+          "resume": "OpenAI présente deux nouveaux modèles d’intelligence artificielle : GPT-6.2 Astra et GPT-6.2 Sol. Cette nouvelle génération arrive près de deux mois après l’annulation du lancement de GPT-6.1 Astra, à la suite de tests internes ayant révélé plusieurs problèmes de sécurité. L’entreprise promet des pr",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "ABB optimise data‑centers IA, impact infrastructure",
+          "couverture": 1,
+          "titre": "ABB optimise l’alimentation électrique des data centers dédiés à l’IA",
+          "source": "Electroniques",
+          "lien": "https://www.electroniques.biz/data-centers-ia/abb-optimise-lalimentation-electrique-des-data-centers-dedies-a-lia/",
+          "date": "2026-11-18T06:30:39+00:00",
+          "resume": "ABB a lancé le HiPerGuard 34,5 kV, une nouvelle version de son système d’alimentation sans interruption haute tension destinée aux data centers dédiés à ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Restrictions US sur IA chinoise, impact géopolitique",
+          "couverture": 1,
+          "titre": "Les valeurs chinoises de l’intelligence artificielle et les hyperscalers pâtissent des signes d’un durcissement des restrictions technologiques américaines",
+          "source": "Zonebourse Suisse",
+          "lien": "https://www.zonebourse.com/actualite-bourse/les-valeurs-chinoises-de-la-intelligence-artificielle-et-les-hyperscalers-patissent-des-signes-da--ce785edcde80f127",
+          "date": "2026-11-18T05:18:23+00:00",
+          "resume": "Les marchés d’actions chinois et hongkongais ont reculé, les investisseurs continuant de se délester des exportateurs chinois de matériel d’intelligence artificielle et des géants du cloud, sur fond..",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Redite du même article, peu d'originalité",
+          "couverture": 1,
+          "titre": "GPT-6.2 Astra et Sol : OpenAI dévoile ses nouveaux modèles IA",
+          "source": "BlogNT",
+          "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVm1fdlFsRGhlTTNJZFJ0cUNhSmtmX3pyNHgxa1VZQmIyRWIzaEUzVkxxU21qNURkcnFXbXdja0RTczBxM01LQ1Rwd0gwSWpYYmJxQTYyY2tQTmt0VTZWSGk5WWNlenBndTBUcjNtdl96MXZ5STZHQjA2b2lkdVFtOFBmSmFwOVduc1JyNFVsQQ?oc=5",
+          "date": "2026-11-18T07:00:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Projet robotique novateur, mais peu d'impact immédiat",
+          "couverture": 1,
+          "titre": "Robotique : Genesis AI veut donner un corps à l’IA !",
+          "source": "BFM",
+          "lien": "https://www.msn.com/fr-fr/actualite/other/robotique-genesis-ai-veut-donner-un-corps-%C3%A0-l-ia/vi-AA2hFSks",
+          "date": "2026-11-18T06:40:24+00:00",
+          "resume": "La start-up franco-américaine Genesis AI ambitionne de développer des humanoïdes capables de tout faire. Un « ChatGPT sorti de l’écran », incarné par des robots à la dextérité bluffante, dignes d’un f ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "IA souveraine française, intérêt national mais peu d'impact global",
+          "couverture": 1,
+          "titre": "Trajectoire : RWIP, l'IA souveraine, vérifiable et autonome - 18/11",
+          "source": "BFM",
+          "lien": "https://www.msn.com/fr-fr/actualite/other/trajectoire-rwip-lia-souveraine-v%C3%A9rifiable-et-autonome-1811/vi-AA2hFr8b",
+          "date": "2026-11-18T06:33:32+00:00",
+          "resume": "BFM BUSINESS PARTENAIRE - Ce mercredi 18 novembre, Jean-Charles Wiplier, fondateur de DATAW.AI, s'est penché sur RWIP, une solution d'intelligence artificielle capable de produire une documentation co ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Produit IA grand public, intérêt consommateur",
+          "couverture": 1,
+          "titre": "Sorti en août 2026, ce Google Pixel 11 Pro boosté à l’IA voit déjà son prix dégringoler sur ce site ce mercredi 18 novembre 2026",
+          "source": "Le Parisien",
+          "lien": "https://www.leparisien.fr/guide-shopping/high-tech/smartphones/sorti-en-aout-2026-ce-google-pixel-11-pro-booste-a-lia-voit-deja-son-prix-degringoler-sur-ce-site-ce-mercredi-18-novembre-2026-18-11-2026-AW6EPTTJENDJ3HRKXX5AMCMUZQ.php",
+          "date": "2026-11-18T06:25:00+00:00",
+          "resume": "Besoin d’un smartphone performant avec des capacités IA poussées ? Le Google Pixel 11 Pro affiche une baisse de prix remarquable sur Back Ma ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "John Deere lance assistant IA, impact agro‑tech",
+          "couverture": 1,
+          "titre": "John Deere lance JD, un assistant basé sur l’IA",
+          "source": "Gazon Sport Pro H24",
+          "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JWnIxUF96X0tEVUVqYUJHRjljNzVaZjFGWW1kemNiOU1zUGViQWFRNkJQU3VCU1FFSVJrX3RxWVhVSVMzQlE0ODhTcGZrd01tNXhKRGxVN3ZkcV8yODJqcmJxTTVzZ0l5dEg4ekwwTnZLUnNVNGxF?oc=5",
+          "date": "2026-11-18T06:00:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Statistiques d'usage IA en France, intérêt marketing",
+          "couverture": 1,
+          "titre": "Plus de 3 Français sur 4 utilisent désormais l’IA générative selon Havas Market",
+          "source": "www.mntd.fr",
+          "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY2FqclJZWkxkS0hYVFBwVWpFa2pFVmtqWXYzLVFERnpldlhHczNlSklOcU91RjZWc1pYN1ZOdTRxZ0VTYjBFNDJ4ZFNQMkZzSUpOWEVvbmdEclpEZnFVZXM4WVdPTGZTQURKMHRfbEROcUdYU0xadlhVUHQ4cTZCNy1TM0ExTlppLW9rd0VWQ3hLbGJNSGQ0T0ZPdHh3MDNk?oc=5",
+          "date": "2026-11-18T05:56:07+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Logiciel généalogie IA, niche mais innovation produit",
+          "couverture": 1,
+          "titre": "« Une petite frustration qui est née en moi » : à 29 ans, il lance Odystoria, un logiciel de généalogie boosté avec l’IA",
+          "source": "Ouest-France",
+          "lien": "https://www.ouest-france.fr/high-tech/intelligence-artificielle/une-petite-frustration-qui-est-nee-en-moi-a-29-ans-il-lance-odystoria-un-logiciel-de-genealogie-booste-avec-lia-b7741c90-e1cf-11f1-b029-43a761592972",
+          "date": "2026-11-18T05:45:05+00:00",
+          "resume": "[Courrier de l'Ouest] Ingénieur de formation et docteur en intelligence artificielle, William Mocaër, installé à Beausse (Mauges-sur-Loire), commercialise Odystoria, un nouveau logiciel de généalogie ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Interview sur robotique IA, contenu promotionnel",
+          "couverture": 1,
+          "titre": "Culture IA : Genesis AI veut défier les géants de la robotique, par Anthony Morel - 18/11",
+          "source": "Orange Actualités",
+          "lien": "https://www.bfmtv.com/economie/replay-emissions/culture-geek/culture-ia-genesis-ai-veut-defier-les-geants-de-la-robotique-18-11_EN-202611180157.html",
+          "date": "2026-11-18T05:40:00+00:00",
+          "resume": "Ce mercredi 18 novembre, le défi lancé aux géants de la robotique par Genesis AI, une start-up franco-américaine spécialisée dans les robots humanoïdes et la prochaine révolution de l'IA a été abordé ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 2,
+          "motif": "Fonctionnalité triviale de Gemini, peu pertinent",
+          "couverture": 1,
+          "titre": "Gemini gardera vos chats temporaires deux mois au lieu de 72 h",
+          "source": "Clubic",
+          "lien": "https://www.clubic.com/actualite-639763-gemini-gardera-vos-chats-temporaires-deux-mois-au-lieu-de-72-h.html",
+          "date": "2026-11-18T06:30:00+00:00",
+          "resume": "Google conservera environ deux mois vos discussions temporaires avec Gemini, et celles que vous avez avec l’historique désactivé, contre 72 heures jusqu’ici. Avec cette mise à jour, l’entreprise vous laisse aussi garder votre historique sans que vos conversations servent à entraîner ses modèles d’IA",
+          "titre_fr": ""
+        }
+      ]
+    },
+    {
+      "nom": "Régulation, enjeux juridiques et gouvernance",
+      "resume": "Plusieurs titres portent sur les aspects légaux et de gouvernance autour de l’IA : la Californie poursuit OpenAI, la SEC ouvre une enquête sur Nvidia, et des alliances comme OpenAI‑Meta‑startup cherchent à contrôler les agents IA. Des consultations publiques et des études (ex. « Consultation sur le modèle d’évaluation des droits en IA ») illustrent les débats réglementaires.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Poursuite légale contre OpenAI, incident majeur",
+          "couverture": 1,
+          "titre": "La Californie poursuit OpenAI après des piratages menés par ses agents d’IA",
+          "source": "InformatiqueNews",
+          "lien": "https://www.informatiquenews.fr/openai-ses-californie-poursuit-agents-ia-251771",
+          "date": "2026-11-18T06:30:00+00:00",
+          "resume": "La Californie attaque OpenAI pour la perte de contrôle de ses agents : qui répond des actions d'une IA autonome ?",
+          "titre_fr": ""
+        },
+        {
+          "note": 8,
+          "motif": "IPO d'Anthropic, conséquences pour marché européen",
+          "couverture": 2,
+          "titre": "Anthropic entre en bourse, des effets possibles pour l'Europe",
+          "source": "Brief IA",
+          "lien": "https://www.briefia.fr/article/anthropic-entre-en-bourse-des-effets-possibles-pour-l-europe",
+          "date": "2026-11-18T06:04:53+00:00",
+          "resume": "Anthropic, créée par d'anciens salariés d'OpenAI, entre en bourse avec une valorisation de 1 400 milliards de dollars. L'Union européenne a récemment renforcé sa réglementation sur l'IA. Des startups européennes pourraient envisager une cotation si l'opération réussit.",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Déploiement IA cyberdéfense bancaire, importance secteur finance",
+          "couverture": 1,
+          "titre": "Commonwealth Bank of Australia déploie cinq agents d’intelligence artificielle pour se défendre contre les cybermenaces",
+          "source": "Zonebourse Suisse",
+          "lien": "https://www.zonebourse.com/actualite-bourse/commonwealth-bank-of-australia-deploie-cinq-agents-da-intelligence-artificielle-pour-se-defendre-co-ce785edcd188ff24",
+          "date": "2026-11-18T06:05:20+00:00",
+          "resume": "Commonwealth Bank of Australia a indiqué mercredi qu’elle répondait aux cybermenaces alimentées par l’intelligence artificielle en utilisant cinq agents IA spécialisés dans la défense au sein de son..",
+          "titre_fr": ""
+        },
+        {
+          "note": 3,
+          "motif": "Consultation juridique IA, peu d'information concrète",
+          "couverture": 1,
+          "titre": "Consultation sur le modèle d’évaluation des droits en IA",
+          "source": "NeoTeo",
+          "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWFppV0VVQk5nTHcwbm5ZUVAyYU5IaTJXUnkxU1pYU0VXX2lRS085VXhQSmhkeExmTzc4R0poaTZ0TlUtYUo4Q09SSF9oa29FakdUSFQ0TTFyaFhDWUh0QUpYV0dMN0ZIMEhzVWNJbkpRTUxQX2Z3UVQ0OTlWejYzTGxmUUF6bFJ4TnR2WXVCU0F5Sm9hek5JNjFXR1E5ME43?oc=5",
+          "date": "2026-11-18T05:56:29+00:00",
+          "resume": "",
+          "titre_fr": ""
+        }
+      ]
+    },
+    {
+      "nom": "Sécurité et cyber‑menaces IA",
+      "resume": "L’IA est à la fois perçue comme un vecteur de menace et comme un outil de défense. Le commandant de la cyber‑défense alerte sur les superpouvoirs des attaquants, Google signale une cyberattaque menée entièrement par une IA, et des banques déploient des agents IA contre les cybermenaces. D’autres articles évoquent la transformation de correctifs en attaques par un agent IA.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Google signale nouvelle menace IA, pertinence sécurité",
+          "couverture": 1,
+          "titre": "Google repère un agent IA qui transforme seul des correctifs en attaques",
+          "source": "Solutions-Numeriques",
+          "lien": "https://www.solutions-numeriques.com/google-repere-un-agent-ia-qui-transforme-seul-des-correctifs-en-attaques/",
+          "date": "2026-11-18T06:40:04+00:00",
+          "resume": "Dans son dernier AI Threat Tracker, publié le 16 novembre, le Google Threat Intelligence Group décrit une chaîne d’exploitation pilotée par l’IA, de bout en bout, sans aucune intervention humaine. Des ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 7,
+          "motif": "Amazon investit énergie verte IA, impact environnemental",
+          "couverture": 1,
+          "titre": "Pour \"réduire l'empreinte carbone\" de ses projets en IA, Amazon va investir 7 milliards de dollars en Inde dans les énergies renouvelables",
+          "source": "BFM",
+          "lien": "https://www.msn.com/fr-fr/technologie/entreprises-technologiques/pour-r%C3%A9duire-l-empreinte-carbone-de-ses-projets-en-ia-amazon-va-investir-7-milliards-de-dollars-en-inde-dans-les-%C3%A9nergies-renouvelables/ar-AA2hFWBI",
+          "date": "2026-11-18T05:35:08+00:00",
+          "resume": "\"Cet investissement supplémentaire de 7 milliards reflète notre engagement à long terme, et permettra de renforcer notre capacité de production en matière d'énergies éolienne et solaire\", a expliqué u ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Avertissement sur cybermenaces IA, sujet d'actualité mais vague",
+          "couverture": 1,
+          "titre": "« L’IA donne des superpouvoirs aux cyber attaquants et on doit s’y adapter », prévient le commandant de la cyberdéfense",
+          "source": "Ouest-France",
+          "lien": "https://www.ouest-france.fr/societe/cyberattaque/lia-donne-des-superpouvoirs-aux-cyber-attaquants-et-on-doit-sy-adapter-previent-le-commandant-de-la-cyberdefense-0b8b6b36-e274-11f1-a3b1-0c6de532ce7d",
+          "date": "2026-11-18T07:00:25+00:00",
+          "resume": "Rennes accueille cette semaine l’European cyber week. 10 000 participants et une vingtaine de pays représentés. Et au cœur des discussions, l’incontournable intelligence artificielle. Cette ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Défense de Mistral, contexte politique mais peu de nouveauté",
+          "couverture": 1,
+          "titre": "Le spécialiste français de l'IA Mistral se défend d'être \"un projet personnel de Macron\" mais reconnaît un soutien présidentiel \"très utile\"",
+          "source": "BFM",
+          "lien": "https://www.msn.com/fr-fr/actualite/other/le-sp%C3%A9cialiste-fran%C3%A7ais-de-l-ia-mistral-se-d%C3%A9fend-d-%C3%AAtre-un-projet-personnel-de-macron-mais-reconna%C3%AEt-un-soutien-pr%C3%A9sidentiel-tr%C3%A8s-utile/ar-AA2hFRBC",
+          "date": "2026-11-18T05:29:17+00:00",
+          "resume": "\"Il se trouve que nous avons créé une entreprise qui a grandi assez vite en France\", a répondu Arthur Mensch, patron de Mistral, lorsque son entreprise a été qualifiée de \"projet de personnel de Macro ...",
+          "titre_fr": ""
+        }
+      ]
+    },
+    {
+      "nom": "Impact sociétal, marché du travail et adoption",
+      "resume": "L’IA bouleverse le marché du travail, modifie les attentes des consommateurs et influence la confiance du public. Des études montrent que 33 % des jeunes tiennent compagnie à l’IA, que les Français utilisent massivement l’IA générative, et que les voyageurs préfèrent encore le contact humain. Des secteurs comme le commerce, la santé (détection de cancers) et le tourisme intègrent l’IA pour gagner en compétitivité.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "IA transforme pratique juridique, impact professionnel notable",
+          "couverture": 1,
+          "titre": "« J'ai décidé de ne pas renouveler mon collaborateur » : comment l'IA téléporte les avocats dans un nouveau monde",
+          "source": "Les Echos",
+          "lien": "https://www.lesechos.fr/travailler-mieux/travailler-avec-lia/jai-decide-de-ne-pas-renouveler-mon-collaborateur-comment-lia-teleporte-les-avocats-dans-un-nouveau-monde-2263172",
+          "date": "2026-11-18T05:55:08+00:00",
+          "resume": "L'IA, MON METIER ET MOI - « Les Echos » lancent une nouvelle série sur l'impact de l'IA sur les métiers. Le premier épisode concerne les avocats. Claude et ChatGPT, désormais omniprésents chez les pro ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 7,
+          "motif": "Rapport WEF sur IA en médecine, enjeux éthiques majeurs",
+          "couverture": 1,
+          "titre": "L’intégrité de l’information à l'ère de l'IA : Ce que le rapport du WEF change pour la médecine et la science",
+          "source": "Rédaction Médicale et Scientifique",
+          "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONFc1ODBiMldGTDFKMGhsMVE1TGJFSURIREZJb0pSVk9zekZSMjRLS3NUUGN0WjByWFVHUFBkVXhUU3R0amtiTnlwYmwzSUtPYW1BRmRrMWZlNG1wVEpMV051Yk84bWZoa05Ha3pwNlpaWl90RzlIYm5ZOGJyVTZKdFRRTzhmVWVJTnp2dHJQREo2aERETUxXQXRPNnlqa1cxWlVuQmJRdmtxaWZ2NW9xdWF5VG5ONnViWjJUY0xFeDc1SE45Y29RUFdUTGdJWE5WaEFUR1Q1bFFhX0hZ?oc=5",
+          "date": "2026-11-18T05:00:02+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Mistral défend souveraineté IA, débat politique majeur",
+          "couverture": 1,
+          "titre": "IA : le fleuron français Mistral se défend d’être « un projet personnel de Macron » devant le gotha de la Silicon Valley",
+          "source": "Sud Ouest",
+          "lien": "https://www.sudouest.fr/sciences-et-technologie/intelligence-artificielle/ia-le-fleuron-francais-mistral-ai-se-defend-d-etre-un-projet-personnel-de-macron-devant-le-gotha-de-la-silicon-valley-31572044.php",
+          "date": "2026-11-18T05:42:51+00:00",
+          "resume": "Devant les géants de la tech américaine, Arthur Mensch a réfuté tout lien de dépendance politique avec le président français et s’est dit confiant pour l’avenir de sa start-up ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Impact éducatif local, peu lié à avancées technologiques",
+          "couverture": 1,
+          "titre": "En Corée du Sud, l’examen crucial du “suneung” bousculé par l’IA et les stimulants",
+          "source": "Courrier international",
+          "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR3Zvelozcmt6TEpBVjdIU0ZabjVoTm9WaHFINzlsRS0zSUNSY0sxcW9WUjRuZGFiekF4QkE1blJ5MTM2ZTBZWThQQnFiSi1ZYlJXeWwzRFlyaEpyREFKbVNKRU01Y3V5azljRkN1aHJXOWEybUpseW8xLVhUdjJMOVlHaFhwVnZ3YVdoQVROLXVHOVdKMWhCd01yZnNvOEtUU2xtYTRMMVJ3T0N5MzNPM0YxNk9FUXItOExkMF9raW1veVQ4cWU3UVlsejNsdW1pU2JCVXZ3YVhSQQ?oc=5",
+          "date": "2026-11-18T07:00:12+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Analyse générale du marché du travail, peu de nouveauté",
+          "couverture": 1,
+          "titre": "L’IA bouleverse le marché du travail",
+          "source": "RMC",
+          "lien": "https://www.msn.com/fr-fr/finance/g%C3%A9n%C3%A9ral/l-ia-bouleverse-le-march%C3%A9-du-travail/vi-AA2hFtLN",
+          "date": "2026-11-18T06:25:43+00:00",
+          "resume": "L’IA bouleverse le marché du travail, des milliers d’offres d’emploi disparaissent Axelle Arquié, économiste et cofondatrice de l’Observatoire des emplois menacés et émergents, nous explique ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Statistique d'usage IA, intéressante mais peu d'analyse",
+          "couverture": 1,
+          "titre": "L'IA tient compagnie à 33 % des jeunes selon Gallup",
+          "source": "Brief IA",
+          "lien": "https://www.briefia.fr/article/l-ia-tient-compagnie-a-33-des-jeunes-selon-gallup",
+          "date": "2026-11-18T06:08:46+00:00",
+          "resume": "Selon Gallup et le Digital Wellness Lab, 33 % des jeunes interrogés s'appuient sur l'IA pour leur compagnie. Cette proportion atteint 50 % chez les utilisateurs quotidiens d'IA et 42 % chez ceux n'ayant que des amis en ligne. L'enquête porte sur 15 925 personnes de 15 à 22 ans dans 16 pays.",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "IA appliquée à niche industrielle, peu de portée",
+          "couverture": 1,
+          "titre": "Reconditionneur de sextoys, Rejouis affine sa stratégie industrielle et commerciale en s’appuyant sur l’IA",
+          "source": "Ouest-France",
+          "lien": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQTjNSbG9PWTNqSzRVeThGN1ZnRV82d284ejhHRmRUMENHVGRWYmowb2dqYVFuQXYwcUU4MFJ4MnFneWhfM0dmQlB2dFp0SnRwcjQ1bDhrM29sRldVaXAzczRUVG9HbVRzLXluQkpxUWk0WjYybzZSUXh1R09vTURseHBpbmtUazBjTlpLYVd3MmdOMVJwMEduV09kZUVGNlJ0N3NxT0NwMXFWRFpXVDVlNjdSZW5RTUprbG9KdEl1OTFQTG13SE5YVjdKMVNxazFqbWRBNjdKS19RTlZOZWItSkdrMUxBQnJnOEJjb0RoMjFJN0UxcjBqcl9YQUs1SndtbTJuTV9RNmFqUkJPNUR6OUtlUlRJNHlZT3J5bHhLd2RXUTJDZ3k0cTFWcw?oc=5",
+          "date": "2026-11-18T05:30:11+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Étude IA commerce, données intéressantes mais promotionnelles",
+          "couverture": 1,
+          "titre": "EDITO | Etude IA commerce agentique, IA générative & comportement des consommateurs",
+          "source": "Fevad",
+          "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb1Y3VWFVc2cxVFJLdlRwWUptRzVvdWRfdF9Qa2FMYUR6TWtGTW1raFY5S3g4V202c0dkX1VrRU9yc3hPcjN1ZWQxTWZ1Q2xKYUJIYWN0bVR5UUV1MS1Vb0ZjWjlQMWxzUmRzR3BwVHVtNGF2S211Nlp6c0hoTUZqbVlNQWpTRHZfYVZOai1COHd5WmtWc044SHpHaDVXMll4eDU4?oc=5",
+          "date": "2026-11-18T05:15:23+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 3,
+          "motif": "Opinion tourisme IA, peu d'impact concret",
+          "couverture": 1,
+          "titre": "IA dans le tourisme : les voyageurs souhaitent des contacts humains",
+          "source": "Zonebourse Suisse",
+          "lien": "https://www.zonebourse.com/actualite-bourse/ia-dans-le-tourisme-les-voyageurs-souhaitent-des-contacts-humains-ce785edcde80f22d",
+          "date": "2026-11-18T05:17:27+00:00",
+          "resume": "LEIPZIG - Selon une étude réalisée pour le compte de l’Association allemande du tourisme , l’intelligence artificielle prend une place de plus en plus importante dans le secteur du voyage, mais ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 3,
+          "motif": "Article local sur startups IA, anecdote régionale",
+          "couverture": 1,
+          "titre": "Des pépites azuréennes excellent avec l'IA",
+          "source": "l'Essentiel media",
+          "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY2RqSTd6TUdfX28yaUkzM1ppckRMM2NxWEdwdEdhVGlhTE1hZmYtdkxqaVpnTHFmbWoxRXpjbDdJLWFpeGlMZmNUSjJZdjF3UDFCUDR6MlowRVNXY1dLUDVrRld6YkwwSGtlaHl0aGJtOXN5SXc5S1dYeERUb3BtS19QTHl5VmtQMXVlZWFVWktndTBfa1VMMmRJdHV4VnJDU0NF?oc=5",
+          "date": "2026-11-18T05:10:56+00:00",
+          "resume": "",
+          "titre_fr": ""
+        }
+      ]
+    },
+    {
+      "nom": "Initiatives institutionnelles et recherche",
+      "resume": "Des institutions françaises et internationales placent l’IA au cœur de leurs stratégies : le French Tech Day de Bordeaux, la conférence Tecsol sur les IA et les renouvelables, le congrès international sur le sport et l’IA, ainsi que des projets souverains comme le CHU de Montpellier qui déploie son IA propre. Des universités et écoles de management intègrent l’IA dans leurs programmes.",
+      "articles": [
+        {
+          "note": 5,
+          "motif": "Cas local d’un CHU, pertinence sectorielle restreinte",
+          "couverture": 1,
+          "titre": "\"Il était essentiel de développer notre propre technologie\" : le CHU de Montpellier se dote d’une IA souveraine",
+          "source": "Midi Libre",
+          "lien": "https://www.midilibre.fr/2026/11/18/il-etait-essentiel-de-developper-notre-propre-technologie-le-chu-de-montpellier-se-dote-dune-ia-souveraine-13644535.php",
+          "date": "2026-11-18T07:01:00+00:00",
+          "resume": "Le Pr David Morquin, en charge de l’intelligence artificielle au CHU, revient sur le projet développé de façon totalement indépendante dans l’établissement. Il participera à un forum ce jeudi 19 novem ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 3,
+          "motif": "Événement local French Tech, peu d'impact technologique",
+          "couverture": 1,
+          "titre": "La French Tech Bordeaux place l’intelligence artificielle au cœur de son French Tech Day",
+          "source": "Le Journal des Entreprises",
+          "lien": "https://www.lejournaldesentreprises.com/breve/la-french-tech-bordeaux-place-lintelligence-artificielle-au-coeur-de-son-french-tech-day-2148538",
+          "date": "2026-11-18T06:16:25+00:00",
+          "resume": "La French Tech Bordeaux, qui comptait plus de 650 sociétés adhérentes en décembre 2025, organise le jeudi 19 novembre son French Tech Day au Palais de la Bourse.",
+          "titre_fr": ""
+        }
+      ]
+    },
+    {
+      "nom": "Autres articles",
+      "resume": "",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "H Company sur cloud souverain européen, enjeu souveraineté IA",
+          "couverture": 2,
+          "titre": "H Company rend ses agents d'IA disponibles sur le cloud souverain européen d'AWS",
+          "source": "ActuIA",
+          "lien": "https://www.actuia.com/actualite/h-company-rend-ses-agents-dia-disponibles-sur-le-cloud-souverain-europeen-daws/",
+          "date": "2026-11-18T07:00:00+00:00",
+          "resume": "H Company rend sa plateforme d'agents d'IA disponible sur l'AWS European Sovereign Cloud. L'inférence des clients européens qui le demandent tourne dans l'Union, sur des instances gérées par Nvidia ; l'entraînement des modèles reste sur l'infrastructure mondiale d'AWS. Les contenus et métadonnées de",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Opinion de Musk sur modèle économique, peu de données concrètes",
+          "couverture": 2,
+          "titre": "ZD Tech : Elon Musk l'admet, le modèle économique de l'IA Grok est mort",
+          "source": "ZDNet",
+          "lien": "https://www.zdnet.fr/actualites/zd-tech-elon-musk-ladmet-le-modele-economique-de-lia-grok-est-mort-507402.htm#xtor=RSS-1",
+          "date": "2026-11-18T08:11:03+00:00",
+          "resume": "Malgré ses 800 000 utilisateurs payants, Elon Musk reconnaît que son intelligence artificielle Grok coûte plus cher qu'elle ne rapporte. L'intégration de la plateforme Cursor aggrave ce gouffre financier, signant la fin des abonnements illimités pour les entreprises.",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Start‑up IA santé en expansion, impact médical",
+          "couverture": 1,
+          "titre": "Intelligence artificielle : la start-up Huvy en pleine phase d’expansion nationale pour détecter les cancers de la peau",
+          "source": "Sud Ouest",
+          "lien": "https://www.sudouest.fr/charente-maritime/royan/intelligence-artificielle-la-start-up-huvy-en-pleine-phase-d-expansion-nationale-pour-detecter-les-cancers-de-la-peau-31147619.php",
+          "date": "2026-11-18T06:30:00+00:00",
+          "resume": "La start-up de Vaux-sur-Mer a mis au point un dispositif qui permet, en combinant intelligence artificielle et imagerie, de détecter rapidement les risques de cancer de la peau ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "SpaceX développe IA pour data‑centers, secteur spatial",
+          "couverture": 1,
+          "titre": "SpaceX développe son propre système d’IA pour les data centers terrestres et spatiaux",
+          "source": "Electroniques",
+          "lien": "https://www.electroniques.biz/data-centers-ia/spacex-developpe-son-propre-systeme-dia-pour-les-data-centers-terrestres-et-spatiaux/",
+          "date": "2026-11-18T06:15:24+00:00",
+          "resume": "Selon l’institut de recherche SemiAnalysis, SpaceXAI développe actuellement une architecture informatique baptisée Kessel, inspirée de la plateforme Vera ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Alliance OpenAI/Meta, potentiel impact stratégique",
+          "couverture": 1,
+          "titre": "OpenAI et Meta s’allient à une startup pour contrôler les agents",
+          "source": "Brief IA",
+          "lien": "https://www.briefia.fr/article/openai-et-meta-s-allient-a-une-startup-pour-controler-les-agents",
+          "date": "2026-11-18T06:06:49+00:00",
+          "resume": "OpenAI et Meta ont annoncé un partenariat avec une startup dont le nom reste confidentiel. La startup développe des outils pour détecter les comportements non conformes et les biais des agents d’IA. Un investissement initial de plusieurs millions de dollars est évoqué par des sources proches du proj",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Analyse économique Canva, perspective business intéressante",
+          "couverture": 1,
+          "titre": "Comment l’IA fragilise le modèle économique de Canva",
+          "source": "Cafétech",
+          "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fanNvaF9yQndvb3VYdy1XRDFCTVNsekVKTGZPVDB5YkhLQjRCY3JBYUZGV3FBWENwNVUxTHhFRV8xaVVZZlAzOURvTE9vemZuRWVwU0xTdFQwRnNWQ2k3QzlaM0lUek9TX1dxMF9VczQ?oc=5",
+          "date": "2026-11-18T06:30:47+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Partenariat Orange‑Mistral cybersécurité, intérêt sectoriel",
+          "couverture": 1,
+          "titre": "« Soumis à aucune autorisation ou volonté politique » : pourquoi Orange s’allie à Mistral pour doper sa cybersécurité à l’IA",
+          "source": "Le Télégramme",
+          "lien": "https://www.letelegramme.fr/economie/toute-l-actualite/soumis-a-aucune-autorisation-ou-volonte-politique-pourquoi-orange-sallie-a-mistral-pour-doper-sa-cybersecurite-a-lia-7161270.php",
+          "date": "2026-11-18T05:32:02+00:00",
+          "resume": "Orange s’allie à Mistral pour intégrer l’intelligence artificielle (IA) générative développée par la pépite française dans son offre de services de cybersécurité. De quoi accélérer la détection et la ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Partenariat retail IA, intérêt limité pour suivi IA global",
+          "couverture": 1,
+          "titre": "Vusion et RELEX renforcent leur partenariat autour de l’IA en magasin",
+          "source": "ABC Bourse",
+          "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZnNtZ3hiYS1sYkdlZ2lfcXdpZjBLVHBvX3lEM3NfNlRKam9XNV9sR1ZrUEVNODVneGtET2UwZU9WdXEzczl2a1pmS3R1clZXbWtSSlV0Y0Q1dHdTcVZYcThZUlBqaUUwQjBrU1BOZ2RJcmxidzFQV3NSTm9raENTZG9pWFRiLWM0M2RxdVgyZlp3QnAtQnVlR25jSzFadG9hMkNDSEo1a2tXQ1FRS0E?oc=5",
+          "date": "2026-11-18T06:45:03+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Conseils de sécurité IA, contenu pratique mais basique",
+          "couverture": 1,
+          "titre": "Piratage de comptes à l’ère de l’IA : ces petits réflexes qui peuvent vous éviter de gros ennuis",
+          "source": "Clubic",
+          "lien": "https://www.clubic.com/actualite-638299-piratage-de-comptes-a-l-ere-de-l-ia-ces-petits-reflexes-qui-peuvent-vous-eviter-de-gros-ennuis.html",
+          "date": "2026-11-18T06:00:00+00:00",
+          "resume": "Messagerie, réseaux sociaux, comptes bancaires… Les pirates disposent de nombreuses techniques pour s’emparer de vos accès. Voici comment leur mettre des bâtons dans les roues !",
+          "titre_fr": ""
+        },
+        {
+          "note": 3,
+          "motif": "Manifeste contre IA générative jeux, opinion sectorielle",
+          "couverture": 1,
+          "titre": "Six syndicats européens s'allient pour publier un manifeste commun contre l’IA générative dans le jeu vidéo",
+          "source": "Gamekult",
+          "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcDVZWW9VSWU3elRDVGNQczY2bEY5ZkJNRjZzQWo2NHRhRmk2THNWTDdLYUNVeEMtTkNtOUtzWFpkbUhkWkIxRk5CSklEeVdXTmgxbzdLY2VXeTJmSFE1VHI4N3NqT2lPUzZQRGJsVVlnX05OUlZQNFpvX0pOT1R0LWtnVnRSTzRwaTRUaERZQ2phMW1SWURYUHZ1dDRDQjlpUXZQUVN0Sk5fMElZa2pBUkp2T29WVENfZDlIWFlQRFNETzhRWFFmeVhFSXUtcjRNZkEzelpvSUo5X085bHQ1VkVrTU80ekxkWHk5Zmpxbw?oc=5",
+          "date": "2026-11-18T06:34:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 3,
+          "motif": "Tourisme IA local, anecdote régionale",
+          "couverture": 1,
+          "titre": "Périgord noir : les professionnels invités à s’approprier l’intelligence artificielle pour détenir les clefs du tourisme de demain",
+          "source": "Sud Ouest",
+          "lien": "https://www.sudouest.fr/tourisme/dordogne/tourisme-a-sarlat/perigord-noir-les-professionnels-invites-a-s-approprier-l-intelligence-artificielle-pour-detenir-les-clefs-du-tourisme-de-demain-31562743.php",
+          "date": "2026-11-18T06:15:00+00:00",
+          "resume": "Responsables de sites ou d’activités, hébergeurs, restaurateurs sont invités à rencontrer experts de l’e-tourisme et acteurs du territoire jeudi 3 décembre pour adapter leurs pratiques afin de continu ...",
+          "titre_fr": ""
+        }
+      ]
+    }
+  ],
+  "ecartes": [
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Nvidia dans la tourmente : Jensen Huang veut (bien) revenir, la SEC ouvre une enquête !",
+      "source": "Mac4Ever",
+      "lien": "https://www.mac4ever.com/ia/199094-nvidia-dans-la-tourmente-jensen-huang-veut-bien-revenir-la-sec-ouvre-une-enquete",
+      "date": "2026-11-18T07:19:00+01:00",
+      "resume": "Moins d’une semaine après sa démission, Jensen Huang se dit prêt à reprendre la direction de Nvidia si le conseil d'administration le lui demandait. Mais la situation du géant des puces pour l’intelligence artificielle se complique, car la SEC aurait ouvert une enquête sur les informations communiqu",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Proton lance Lumo Desktop sur Linux, Windows et macOS avec support MCP",
+      "source": "GoodTechInfo",
+      "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdUNPR1RGVWVpZjJrMkZKcEZxT1piekkxZi1HNzBjalVzLWhDTmp3VFc1aEhqSDZqeDlSbTE5TDVMekViSDNMTEp1RXNMdVU4bnltRDdXSlEtRi10Sm5fNEJlVHl4T1ZCdkNWaHAxVllaYkE0aUNqMVhTRnVURVZId3dPZw?oc=5",
+      "date": "2026-11-18T05:37:06+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Le Cambridge Dictionary désigne «human» comme mot de l’année",
+      "source": "L’actualité",
+      "lien": "https://www.msn.com/fr-ca/technologie/intelligence-artificielle/le-cambridge-dictionary-d%C3%A9signe-human-comme-mot-de-l-ann%C3%A9e/ar-AA2hFpEo",
+      "date": "2026-11-18T03:39:23+00:00",
+      "resume": "Les craintes liées à l’intelligence artificielle ont incité le Cambridge Dictionary à remonter jusqu’au XVe siècle pour trouver le mot qui reflète le mieux l’air du temps culturel de 2026.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Intelligence artificielle - L’ultime invention humaine ?",
+      "source": "Arte.tv",
+      "lien": "https://tv-programme.com/intelligence-artificielle-l-ultime-invention-humaine-documentaire",
+      "date": "2026-11-18T02:18:12+00:00",
+      "resume": "Intelligence artificielle : L'ultime invention humaine ? - L'intelligence artificielle progresse à une vitesse vertigineuse, suscitant autant d'enthousiasme que d'inquiétudes. Comment garder le contrô ...",
+      "titre_fr": ""
+    }
+  ],
+  "top": [
+    {
+      "note": 9,
+      "motif": "Annonce majeure de Microsoft, impact sectoriel important",
+      "couverture": 2,
+      "titre": "Ignite 2026 : Microsoft veut faire de Copilot le « système d’exploitation du travail », où humains et agents IA collaborent",
+      "source": "ZDNet",
+      "lien": "https://www.zdnet.fr/actualites/ignite-2026-microsoft-veut-faire-de-copilot-le-systeme-dexploitation-du-travail-ou-humains-et-agents-ia-collaborent-508078.htm#xtor=RSS-1",
+      "date": "2026-11-18T08:11:11+00:00",
+      "resume": "Microsoft fait de Copilot un espace où employés et agents IA travaillent ensemble, relié aux données et aux logiciels de l’entreprise. Il y ajoute des outils pour sécuriser et mesurer le coût des agents, ainsi que de nouvelles machines virtuelles Azure Cobalt 200.",
+      "titre_fr": ""
+    },
+    {
+      "note": 8,
+      "motif": "OpenAI dévoile nouvelle version, forte portée mais source peu connue",
+      "couverture": 1,
+      "titre": "☕️ Avec GPT-6.2 Sol et Astra, OpenAI promet de la qualité et des économies",
+      "source": "Next",
+      "lien": "https://next.ink/brief-article/avec-gpt-6-2-sol-et-astra-openai-promet-de-la-qualite-et-des-economies/",
+      "date": "2026-11-18T07:08:00+00:00",
+      "resume": "OpenAI a dévoilé sa nouvelle famille de modèles GPT-6.2, avec les variantes Astra (le modèle frontière) et Sol (le modèle des travaux du quotidien). Commençons par celui-ci, puisque c’est la mouture qui servira à une majorité d’utilisateurs : l’entreprise le présente comme le modèle offrant le meill",
+      "titre_fr": ""
+    },
+    {
+      "note": 8,
+      "motif": "Poursuite légale contre OpenAI, incident majeur",
+      "couverture": 1,
+      "titre": "La Californie poursuit OpenAI après des piratages menés par ses agents d’IA",
+      "source": "InformatiqueNews",
+      "lien": "https://www.informatiquenews.fr/openai-ses-californie-poursuit-agents-ia-251771",
+      "date": "2026-11-18T06:30:00+00:00",
+      "resume": "La Californie attaque OpenAI pour la perte de contrôle de ses agents : qui répond des actions d'une IA autonome ?",
+      "titre_fr": ""
+    },
+    {
+      "note": 8,
+      "motif": "IPO d'Anthropic, conséquences pour marché européen",
+      "couverture": 2,
+      "titre": "Anthropic entre en bourse, des effets possibles pour l'Europe",
+      "source": "Brief IA",
+      "lien": "https://www.briefia.fr/article/anthropic-entre-en-bourse-des-effets-possibles-pour-l-europe",
+      "date": "2026-11-18T06:04:53+00:00",
+      "resume": "Anthropic, créée par d'anciens salariés d'OpenAI, entre en bourse avec une valorisation de 1 400 milliards de dollars. L'Union européenne a récemment renforcé sa réglementation sur l'IA. Des startups européennes pourraient envisager une cotation si l'opération réussit.",
+      "titre_fr": ""
+    },
+    {
+      "note": 8,
+      "motif": "Google détecte première cyberattaque IA end‑to‑end, événement majeur",
+      "couverture": 1,
+      "titre": "Google détecte la première cyberattaque menée de bout en bout par une IA",
+      "source": "Génération NT",
+      "lien": "https://www.generation-nt.com/actualites/attaque-ia-autonome-hackers-2084608",
+      "date": "2026-11-18T05:30:01+00:00",
+      "resume": "Google et son unité Mandiant ont documenté la première intrusion informatique entièrement automatisée sans opérateur humain, imputée à des profils russophones. À l'aide d'un dispositif multi-agents no ...",
+      "titre_fr": ""
+    }
+  ],
+  "articles_notes": 50,
+  "liens_google": 14,
+  "videos": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "En Inde, ils se filment pour former l'IA qui pourrait les remplacer｜TF1 INFO",
+        "source": "TF1 INFO",
+        "lien": "https://www.youtube.com/watch?v=lvYxzVjNVKU",
+        "date": "2026-11-18T07:00:08Z",
+        "image": "https://i.ytimg.com/vi/lvYxzVjNVKU/mqdefault.jpg",
+        "extrait": "En Inde, les employés ont tous adopté un nouvel accessoire, une caméra vissée sur la tête. En réalité, ils se filment en train de ...",
+        "description": "En Inde, les employés portent des caméras fixées sur la tête pour se filmer et ainsi fournir des données d’entraînement à une IA qui pourrait les remplacer."
+      },
+      {
+        "titre": "Rennes au cœur de l’intelligence artificielle militaire 🤖",
+        "source": "TVR - Chaîne de télé bretonne",
+        "lien": "https://www.youtube.com/watch?v=u7kiUxucSXs",
+        "date": "2026-11-18T06:00:33Z",
+        "image": "https://i.ytimg.com/vi/u7kiUxucSXs/mqdefault.jpg",
+        "extrait": "La 11e édition de l'European Cyber Week réunit plus de 8 000 participants à Rennes autour des enjeux de cybersécurité, ...",
+        "description": "Rennes accueille la 11e édition de l'European Cyber Week, où l’on débat des enjeux de l’intelligence artificielle militaire et de la cybersécurité."
+      },
+      {
+        "titre": "Et si l’IA n’était PAS intelligente ? La grande illusion (1/6)",
+        "source": "François-Marie Portes",
+        "lien": "https://www.youtube.com/watch?v=CSF9VhlfCAw",
+        "date": "2026-11-18T05:00:02Z",
+        "image": "https://i.ytimg.com/vi/CSF9VhlfCAw/mqdefault.jpg",
+        "extrait": "L'intelligence artificielle est partout. Mais avons-nous seulement compris ce qu'elle est ?** ChatGPT, Claude, les images ...",
+        "description": "François‑Marie Portes interroge la nature de l’intelligence artificielle et propose une réflexion critique sur le mythe d’une IA réellement « intelligente »."
+      },
+      {
+        "titre": "Les centres de données veulent prendre de l'expansion au Québec",
+        "source": "Radio-Canada Info",
+        "lien": "https://www.youtube.com/watch?v=E71kjwdA-Ac",
+        "date": "2026-11-18T00:04:28Z",
+        "image": "https://i.ytimg.com/vi/E71kjwdA-Ac/mqdefault.jpg",
+        "extrait": "Avec le développement de l'intelligence artificielle, les centres de données veulent prendre de l'expansion au Québec.",
+        "description": "Radio‑Canada explique comment le développement de l’IA pousse les centres de données à envisager une forte expansion au Québec."
+      },
+      {
+        "titre": "Intelligence artificielle - L’ultime invention humaine ? | ARTE",
+        "source": "ARTE",
+        "lien": "https://www.youtube.com/watch?v=U13RJUCAcxI",
+        "date": "2026-11-17T20:00:35Z",
+        "image": "https://i.ytimg.com/vi/U13RJUCAcxI/mqdefault.jpg",
+        "extrait": "Disponible jusqu'au 17/11/2027 L'intelligence artificielle progresse à une vitesse vertigineuse, suscitant autant d'enthousiasme ...",
+        "description": "ARTE propose un documentaire qui examine si l’intelligence artificielle constitue la « ultime invention humaine » et analyse ses impacts sociétaux."
+      },
+      {
+        "titre": "Cette IA pirate toute seule, et elle visait des sites français",
+        "source": "MondIA",
+        "lien": "https://www.youtube.com/watch?v=PRn1jE6yQ5s",
+        "date": "2026-11-17T18:21:41Z",
+        "image": "https://i.ytimg.com/vi/PRn1jE6yQ5s/mqdefault.jpg",
+        "extrait": "Google a trouvé une IA qui pirate toute seule. Elle compare un logiciel avant et après sa mise à jour, trouve la faille réparée, écrit ...",
+        "description": "MondIA décrit une IA capable de pirater automatiquement des sites français en identifiant et exploitant des failles après mise à jour."
+      },
+      {
+        "titre": "Le conseil d'OpenAI : « L'IA sera la cause de mort n°1 »",
+        "source": "Parlons IA & Tech",
+        "lien": "https://www.youtube.com/watch?v=ypmjst1oY4s",
+        "date": "2026-11-17T15:30:34Z",
+        "image": "https://i.ytimg.com/vi/ypmjst1oY4s/mqdefault.jpg",
+        "extrait": "Paul Christiano, membre du conseil d'OpenAI, l'a dit devant tout le public des Hinton Lectures : un accident d'IA sera la cause de ...",
+        "description": "Parlons IA & Tech rapporte la déclaration d’un membre du conseil d’OpenAI selon laquelle l’IA pourrait devenir la première cause de mortalité mondiale."
+      },
+      {
+        "titre": "L'IA surhumaine n'est pas une fatalité.",
+        "source": "Le Futurologue",
+        "lien": "https://www.youtube.com/watch?v=94qN_pXF0iI",
+        "date": "2026-11-17T14:45:53Z",
+        "image": "https://i.ytimg.com/vi/94qN_pXF0iI/mqdefault.jpg",
+        "extrait": "",
+        "description": "Le Futurologue argue que l’IA surhumaine n’est pas inéluctable et explore des scénarios pour éviter une domination technologique."
+      },
+      {
+        "titre": "Intelligence artificielle: comment protéger l’emploi des jeunes ?",
+        "source": "syndicatCFTC",
+        "lien": "https://www.youtube.com/watch?v=ZTVlwZLJ8xg",
+        "date": "2026-11-17T14:22:23Z",
+        "image": "https://i.ytimg.com/vi/ZTVlwZLJ8xg/mqdefault.jpg",
+        "extrait": "Les embauches en CDI des 21-29 ans ont chuté de plus de 28 % dans les métiers les plus exposés à l'IA. Il faut agir, mais ...",
+        "description": "SyndicatCFTC analyse la baisse de l’emploi des jeunes dans les métiers exposés à l’IA et propose des mesures de protection."
+      },
+      {
+        "titre": "Comment faire de l’argent à l’ère de l’intelligence artificielle ?",
+        "source": "Yannis Haismann",
+        "lien": "https://www.youtube.com/watch?v=hTgJlXfDsOc",
+        "date": "2026-11-17T15:21:11Z",
+        "image": "https://i.ytimg.com/vi/hTgJlXfDsOc/mqdefault.jpg",
+        "extrait": "Tous les business en ligne se cassent la gueule, et l'IA n'y est pas pour rien. 🛠️ Les skills qui ont monté cette vidéo de A à Z (kit ...",
+        "description": "Yannis Haismann donne des conseils pour monétiser ses compétences à l’ère de l’intelligence artificielle, en présentant les business models qui fonctionnent."
+      }
+    ]
+  },
+  "podcasts": {
+    "statut": "ok",
+    "fenetre_heures": 72,
+    "elements": [
+      {
+        "titre": "Capsule 167 — Comment créer des rituels d'innovation IA dans votre organisation : les formats qui fonctionnent vraiment",
+        "source": "Le Brief IA",
+        "lien": "https://podcasts.apple.com/fr/podcast/capsule-167-comment-cr%C3%A9er-des-rituels-dinnovation-ia/id1827674786?i=1000802642899&uo=4",
+        "date": "2026-11-18T06:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/79/c2/7279c243-8a89-2d21-bdda-3d94a4d62796/mza_17158553724733680146.jpg/160x160bb.jpg",
+        "duree_min": 4,
+        "extrait": "L'innovation IA se concentre toujours dans les mêmes équipes. Les mêmes personnes. Parce que vous n'avez pas de dispositifs structurés pour la faire émerger partout. Dans cette capsule Brief IA vous explique les quatre rituels d'innovation qui fonc",
+        "description": "Comment créer des rituels d'innovation IA dans votre organisation : les formats qui fonctionnent vraiment, en expliquant le manque de dispositifs structurés et les quatre leviers à activer."
+      },
+      {
+        "titre": "Capsule 166 — L'IA et le leadership : comment les dirigeants doivent montrer l'exemple et pourquoi c'est non négociable",
+        "source": "Le Brief IA",
+        "lien": "https://podcasts.apple.com/fr/podcast/capsule-166-lia-et-le-leadership-comment-les-dirigeants/id1827674786?i=1000802416140&uo=4",
+        "date": "2026-11-17T06:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/79/c2/7279c243-8a89-2d21-bdda-3d94a4d62796/mza_17158553724733680146.jpg/160x160bb.jpg",
+        "duree_min": 4,
+        "extrait": "Vous demandez à vos équipes d'adopter l'IA. Mais est-ce que vous l'utilisez vous-même ? Dans cette capsule Brief IA vous explique pourquoi le leadership par l'exemple est le levier le plus puissant de votre transformation — et quatre actions concr",
+        "description": "L'IA et le leadership : pourquoi les dirigeants doivent montrer l'exemple et comment le leadership par l'exemple devient le levier le plus puissant de la transformation IA."
+      },
+      {
+        "titre": "Chip Security Act : la géolocalisation des puces IA change-t-elle la donne pour l'Europe ?",
+        "source": "PIA Intelligence Artificielle & Innovation - Actu Tech Cybersécurité",
+        "lien": "https://podcasts.apple.com/fr/podcast/chip-security-act-la-g%C3%A9olocalisation-des-puces-ia-change/id6796750632?i=1000802408113&uo=4",
+        "date": "2026-11-17T05:29:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5c/d1/92/5cd1922a-e843-2e9e-7a88-b909cec82fc3/mza_16463329031503462581.jpg/160x160bb.jpg",
+        "duree_min": 10,
+        "extrait": "🎙️Dans cet épisode de PIA — Intelligence Artificielle & Innovation, nous décryptons le Chip Security Act, ce projet de loi introduit au Sénat américain en mai 2025 qui impose au Département du Commerce d'exiger des mécanismes de sécurit",
+        "description": "Décryptage du Chip Security Act, le projet de loi américain qui impose la géolocalisation des puces IA et ses implications pour l'Europe."
+      },
+      {
+        "titre": "Pourquoi Copilot hallucine dans Microsoft Fabric : couches Medallion, modèle sémantique et instructions pour une IA fiable (Doublage IA)",
+        "source": "M365.FM – Podcast Microsoft 365, Copilot & IA en français",
+        "lien": "https://podcasts.apple.com/fr/podcast/pourquoi-copilot-hallucine-dans-microsoft-fabric-couches/id6833394593?i=1000802419160&uo=4",
+        "date": "2026-11-17T06:53:48+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/18/99/571899d6-268e-6fbf-2990-7fad4528a46f/mza_9786858209033714245.jpg/160x160bb.jpg",
+        "duree_min": 24,
+        "extrait": "Copilot dans Microsoft Fabric n’est pas confus, il est obéissant : jointures en double, sémantique absente et couches Medallion inachevées se transforment en analyses sûres d’elles mais inventées. Cet épisode montre où votre modèle de donné",
+        "description": "Analyse des hallucinations de Copilot dans Microsoft Fabric : problèmes de jointures en double, sémantique absente et couches Medallion inachevées qui génèrent des analyses fiables mais inventées."
+      },
+      {
+        "titre": "Gouvernance Fabric sans audits manuels : GPT-5 dans Microsoft 365 Copilot relie Purview, Power BI et Fabric (Doublage IA)",
+        "source": "M365.FM – Podcast Microsoft 365, Copilot & IA en français",
+        "lien": "https://podcasts.apple.com/fr/podcast/gouvernance-fabric-sans-audits-manuels-gpt-5-dans-microsoft/id6833394593?i=1000802415606&uo=4",
+        "date": "2026-11-17T06:18:07+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/95/9f/c2/959fc25a-53cc-6356-0fbb-46f738fbaaf8/mza_3925476607147332922.jpg/160x160bb.jpg",
+        "duree_min": 22,
+        "extrait": "Les audits manuels de Fabric, ce sont des week-ends passés à rapprocher des tableurs : jeux de données Power BI, espaces de travail Fabric et classifications Purview ne parlent pas la même langue. Cet épisode montre comment GPT-5, grâce au raisonn",
+        "description": "Gouvernance du Fabric sans audits manuels : comment GPT‑5 relie Purview, Power BI et Fabric pour automatiser la gouvernance des données dans Microsoft 365 Copilot."
+      }
+    ]
+  }
+}

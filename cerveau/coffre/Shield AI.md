@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0020.md"
 type: "code"
-community: "Meta"
+community: "Alibaba"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Meta
+  - community/Alibaba
 ---
 
 # Shield AI
@@ -16,4 +16,4 @@ tags:
 - [[Veille États-Unis 2026-11-12 (Défense)]] - `references` [EXTRACTED]
 - [[X-BAT]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Meta
+#graphify/code #graphify/EXTRACTED #community/Alibaba

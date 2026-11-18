@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-11-t4.md"
-type: "code"
-community: "Meta"
+source_file: "veilles/veille-ia-us-2026-11-11-t3.md"
+type: "concept"
+community: "Alibaba"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/Meta
+  - community/Alibaba
 ---
 
 # Google DeepMind
@@ -15,4 +15,4 @@ tags:
 - [[Veille États-Unis 2026-11-11]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-11  Applications sectorielles de l'IA]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Meta
+#graphify/concept #graphify/EXTRACTED #community/Alibaba

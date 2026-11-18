@@ -1,17 +1,18 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-11-t5.md"
 type: "concept"
-community: "Qwen4-Max"
+community: "Microsoft"
 tags:
   - graphify/concept
-  - graphify/EXTRACTED
-  - community/Qwen4-Max
+  - graphify/INFERRED
+  - community/Microsoft
 ---
 
 # xAI
 
 ## Connections
-- [[Grok AI]] - `conceptually_related_to` [INFERRED]
+- [[Elon Musk]] - `conceptually_related_to` [INFERRED]
+- [[Grok (xAI)]] - `conceptually_related_to` [INFERRED]
 - [[Veille Chine 2026-11-11]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Qwen4-Max
+#graphify/concept #graphify/INFERRED #community/Microsoft

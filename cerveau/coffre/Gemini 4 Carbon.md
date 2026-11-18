@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t2.md"
 type: "concept"
-community: "Google"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Google
+  - community/Gemini_4_Hydrogen
 ---
 
 # Gemini 4 Carbon
@@ -17,4 +17,4 @@ tags:
 - [[MathArena]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-15]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Google
+#graphify/concept #graphify/EXTRACTED #community/Gemini_4_Hydrogen

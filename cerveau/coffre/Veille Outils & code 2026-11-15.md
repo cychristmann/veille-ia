@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-15-t2.md"
 type: "document"
-community: "ARTEX"
+community: "Veille Outils & code 2026-11-15"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/ARTEX
+  - community/Veille_Outils__code_2026-11-15
 ---
 
 # Veille Outils & code 2026-11-15
@@ -14,10 +14,10 @@ tags:
 - [[Claude Code]] - `references` [EXTRACTED]
 - [[Claude Fable]] - `references` [EXTRACTED]
 - [[CoReMem]] - `references` [EXTRACTED]
+- [[Copilot]] - `references` [EXTRACTED]
 - [[DeepSeek V3]] - `references` [EXTRACTED]
 - [[DuckLake]] - `references` [EXTRACTED]
 - [[Gemini 4 Carbon]] - `references` [EXTRACTED]
-- [[GitHub Copilot]] - `references` [EXTRACTED]
 - [[Google Modern Web Guidance 1.0]] - `references` [EXTRACTED]
 - [[NVIDIA NeMo Switchyard]] - `references` [EXTRACTED]
 - [[OpenFold3]] - `references` [EXTRACTED]
@@ -27,4 +27,4 @@ tags:
 - [[datasette-vega]] - `references` [EXTRACTED]
 - [[dspy-wsp]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/ARTEX
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-15

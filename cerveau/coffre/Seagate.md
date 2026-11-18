@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t1.md"
 type: "concept"
-community: "Google"
+community: "CoreWeave"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/Google
+  - community/CoreWeave
 ---
 
 # Seagate
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[CoreWeave]] - `shares_data_with` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/Google
+#graphify/concept #graphify/INFERRED #community/CoreWeave

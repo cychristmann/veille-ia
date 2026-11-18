@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0020.md"
 type: "code"
-community: "Meta"
+community: "Alibaba"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Meta
+  - community/Alibaba
 ---
 
 # X-BAT
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Shield AI]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Meta
+#graphify/code #graphify/EXTRACTED #community/Alibaba

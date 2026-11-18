@@ -29,5 +29,8 @@ tags:
 - [[Veille Outils & code 2026-11-15 (T5)]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-15  Sécurité des outils IA]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-16]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-18]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-18  Analyse de performance, coûts et gouvernance]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - `references` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Claude_Code

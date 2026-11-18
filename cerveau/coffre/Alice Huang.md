@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-12-1.md"
 type: "concept"
-community: "Jensen Huang"
+community: "Débats à Saint-Tropez"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Jensen_Huang
+  - community/Débats_à_Saint-Tropez
 ---
 
 # Alice Huang
@@ -14,4 +14,4 @@ tags:
 - [[Jensen Huang]] - `references` [EXTRACTED]
 - [[Pékin]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Jensen_Huang
+#graphify/concept #graphify/EXTRACTED #community/Débats_à_Saint-Tropez

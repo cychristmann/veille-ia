@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t6.md"
 type: "document"
-community: "Veille États-Unis 2026-11-12"
+community: "Veille États-Unis 2026-11-18"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-12
+  - community/Veille_États-Unis_2026-11-18
 ---
 
 # Veille États-Unis 2026-11-08 : Autres articles
@@ -17,4 +17,4 @@ tags:
 - [[IT Brief Asia]] - `cites` [EXTRACTED]
 - [[The Verge]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-12
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-18

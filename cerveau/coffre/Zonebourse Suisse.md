@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0008.md"
 type: "concept"
-community: "Qwen4-Max"
+community: "Alibaba"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Qwen4-Max
+  - community/Alibaba
 ---
 
 # Zonebourse Suisse
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[T-Head]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Qwen4-Max
+#graphify/concept #graphify/EXTRACTED #community/Alibaba

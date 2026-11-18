@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-17-1.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-11 : Régulation, Gouvernance et Éthique"
+community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-11__Régulation_Gouvernance_et_Éthique
+  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
 ---
 
 # Article 50
@@ -15,4 +15,4 @@ tags:
 - [[AI Act]] - `references` [EXTRACTED]
 - [[JDN]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-11__Régulation_Gouvernance_et_Éthique
+#graphify/concept #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-16-t6.md"
 type: "document"
-community: "Google"
+community: "Veille Chine 2026-11-13 : Applications et services IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Google
+  - community/Veille_Chine_2026-11-13__Applications_et_services_IA
 ---
 
 # Veille France 2026-11-16
@@ -20,4 +20,4 @@ tags:
 - [[SambaNova associe les GPU Intel au SN50]] - `references` [EXTRACTED]
 - [[Wotton Kearney déploie l’IA juridique Harvey]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Google
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-13__Applications_et_services_IA

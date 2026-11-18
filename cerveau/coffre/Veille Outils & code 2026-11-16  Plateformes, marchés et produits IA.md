@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-16-t4.md"
 type: "document"
-community: "veille états-unis thème 7"
+community: "Nanjing University of Aeronautics and Astronautics"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/veille_états-unis_thème_7
+  - community/Nanjing_University_of_Aeronautics_and_Astronautics
 ---
 
 # Veille Outils & code 2026-11-16 : Plateformes, marchés et produits IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Kindo]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/veille_états-unis_thème_7
+#graphify/document #graphify/EXTRACTED #community/Nanjing_University_of_Aeronautics_and_Astronautics

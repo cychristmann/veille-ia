@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-15-t4.md"
 type: "concept"
-community: "Dossier: Scandale Nvidia"
+community: "Veille États-Unis 2026-11-18"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Dossier_Scandale_Nvidia
+  - community/Veille_États-Unis_2026-11-18
 ---
 
 # NIH
@@ -15,4 +15,4 @@ tags:
 - [[Llama 3.3]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-15  Recherche et applications avancées de l'IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Dossier_Scandale_Nvidia
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-18

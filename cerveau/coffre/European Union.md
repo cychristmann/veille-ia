@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-17-t1.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-11 : Régulation, Gouvernance et Éthique"
+community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/Veille_États-Unis_2026-11-11__Régulation_Gouvernance_et_Éthique
+  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
 ---
 
 # European Union
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AI Act]] - `references` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/Veille_États-Unis_2026-11-11__Régulation_Gouvernance_et_Éthique
+#graphify/concept #graphify/INFERRED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière

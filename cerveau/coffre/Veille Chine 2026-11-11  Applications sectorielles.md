@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-11-t3.md"
 type: "document"
-community: "Veille États-Unis 2026-11-13 : Développements et investissements corporatifs"
+community: "Meta"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+  - community/Meta
 ---
 
 # Veille Chine 2026-11-11 : Applications sectorielles
@@ -16,4 +16,4 @@ tags:
 - [[Google DeepMind Hurricane Model]] - `references` [EXTRACTED]
 - [[MiniMax Model]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+#graphify/document #graphify/EXTRACTED #community/Meta

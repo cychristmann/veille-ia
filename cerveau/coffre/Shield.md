@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-14-t2.md"
 type: "concept"
-community: "Meta"
+community: "Copilot"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Meta
+  - community/Copilot
 ---
 
 # Shield
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[GPT-6 Astra]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Meta
+#graphify/concept #graphify/EXTRACTED #community/Copilot

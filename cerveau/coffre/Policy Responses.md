@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-17-3.md"
 type: "concept"
-community: "Military AI Center (Rennes)"
+community: "AI Automation"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Military_AI_Center_Rennes
+  - community/AI_Automation
 ---
 
 # Policy Responses
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AI Automation]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Military_AI_Center_Rennes
+#graphify/concept #graphify/EXTRACTED #community/AI_Automation

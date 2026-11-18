@@ -1,5 +1,5 @@
 ---
-source_file: "dossiers/2026-11-16-2.md"
+source_file: "veilles/veille-ia-fr-2026-11-12-t1.md"
 type: "concept"
 community: "Nvidia"
 tags:
@@ -28,6 +28,7 @@ tags:
 - [[Feuilleton  Crise de direction chez Nvidia et scandale des puces IA]] - `references` [EXTRACTED]
 - [[Feuilleton SMIC anticipe une pénurie de capacité IA]] - `references` [EXTRACTED]
 - [[Feuilleton Scandale qui renverse la star de l’IA]] - `references` [EXTRACTED]
+- [[H Company]] - `references` [EXTRACTED]
 - [[Harvey C. Jones]] - `references` [EXTRACTED]
 - [[Huawei]] - `conceptually_related_to` [INFERRED]
 - [[Huawei]] - `references` [EXTRACTED]
@@ -42,6 +43,7 @@ tags:
 - [[MetaX]] - `references` [INFERRED]
 - [[Moore Threads]] - `references` [INFERRED]
 - [[NDAA]] - `references` [EXTRACTED]
+- [[Open Secure AI Alliance]] - `references` [EXTRACTED]
 - [[Projet Kessel]] - `references` [EXTRACTED]
 - [[SMIC]] - `conceptually_related_to` [INFERRED]
 - [[SpaceX]] - `references` [EXTRACTED]
@@ -55,6 +57,7 @@ tags:
 - [[Veille Chine 2026-11-12  Marché financier et investissements IA]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-13]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-17]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Environnement et empreinte carbone de l'IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Stratégies d'entreprises et investissements IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-09  Autres articles]] - `references` [EXTRACTED]
@@ -79,5 +82,6 @@ tags:
 - [[Veille États-Unis 2026-11-15  Impact culturel et médiatique de l'IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-15  Investissements et risques financiers liés à l'IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-17  Marchés et finance]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-18]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Nvidia

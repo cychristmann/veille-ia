@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t4.md"
 type: "document"
-community: "Veille France 2026-11-13 : Impact sociétal & Débats publics"
+community: "Débats à Saint-Tropez"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-13__Impact_sociétal__Débats_publics
+  - community/Débats_à_Saint-Tropez
 ---
 
 # Veille France 2026-11-13 : Impact sociétal & Débats publics
@@ -17,4 +17,4 @@ tags:
 - [[Jensen Huang]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-13__Impact_sociétal__Débats_publics
+#graphify/document #graphify/EXTRACTED #community/Débats_à_Saint-Tropez

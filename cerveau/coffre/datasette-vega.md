@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-15-t3.md"
 type: "code"
-community: "ARTEX"
+community: "Veille Outils & code 2026-11-15"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/ARTEX
+  - community/Veille_Outils__code_2026-11-15
 ---
 
 # datasette-vega
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Outils & code 2026-11-15]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/ARTEX
+#graphify/code #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-15

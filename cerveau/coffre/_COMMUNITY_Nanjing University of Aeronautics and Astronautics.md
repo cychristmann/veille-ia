@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Nanjing University of Aeronautics and Astronautics
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Beijing University of Posts and Telecommunications]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Kindo]] - concept - veilles/veille-ia-dev-2026-11-16-t4.md
+- [[Veille Outils & code 2026-11-16  Plateformes, marchés et produits IA]] - document - veilles/veille-ia-dev-2026-11-16-t4.md
 
 ## Live Query (requires Dataview plugin)
 

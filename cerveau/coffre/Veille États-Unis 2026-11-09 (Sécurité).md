@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t5.md"
 type: "document"
-community: "Blue J"
+community: "Nvidia"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Blue_J
+  - community/Nvidia
 ---
 
 # Veille États-Unis 2026-11-09 (Sécurité)
@@ -14,4 +14,4 @@ tags:
 - [[IRS]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Blue_J
+#graphify/document #graphify/EXTRACTED #community/Nvidia

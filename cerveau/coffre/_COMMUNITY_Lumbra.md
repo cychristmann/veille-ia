@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Lumbra
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Claude Data]] - concept - veilles/veille-ia-dev-2026-11-12-t1.md
+- [[Veille Chine 2026-11-18  Recherche et modèles]] - document - veilles/veille-ia-cn-2026-11-18-t5.md
+- [[三星电机与英伟达从基板到MLCC扩大AI零部件同盟]] - document - veilles/veille-ia-cn-2026-11-18-t5.md
 
 ## Live Query (requires Dataview plugin)
 

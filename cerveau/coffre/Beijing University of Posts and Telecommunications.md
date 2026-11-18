@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "code"
-community: "Nanjing University of Aeronautics and Astronautics"
+community: "Wentou Holdings"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Nanjing_University_of_Aeronautics_and_Astronautics
+  - community/Wentou_Holdings
 ---
 
 # Beijing University of Posts and Telecommunications
 
-#graphify/code #graphify/EXTRACTED #community/Nanjing_University_of_Aeronautics_and_Astronautics
+#graphify/code #graphify/EXTRACTED #community/Wentou_Holdings

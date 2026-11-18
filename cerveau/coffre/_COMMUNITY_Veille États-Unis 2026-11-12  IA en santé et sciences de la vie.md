@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille France 2026-11-09  Régulation, sécurité et enjeux géopolitiques]] - document - veilles/veille-ia-fr-2026-11-09-t3.md
+- [[248 Ventures]] - concept - dossiers/2026-11-16-2.md
 
 ## Live Query (requires Dataview plugin)
 

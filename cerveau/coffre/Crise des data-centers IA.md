@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0024.md"
 type: "concept"
-community: "Crise des data-centers IA"
+community: "Retail VR"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Crise_des_data-centers_IA
+  - community/Retail_VR
 ---
 
 # Crise des data-centers IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Feuilleton Effondrement du boom IA et crise des data-centers]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Crise_des_data-centers_IA
+#graphify/concept #graphify/EXTRACTED #community/Retail_VR

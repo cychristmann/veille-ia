@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-14-t3.md"
 type: "document"
-community: "Veille France 2026-11-14 : Régulation, politiques publiques et géopolitique"
+community: "Veille États-Unis 2026-11-13 : Enjeux du marché et turbulences"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-14__Régulation_politiques_publiques_et_géopolitique
+  - community/Veille_États-Unis_2026-11-13__Enjeux_du_marché_et_turbulences
 ---
 
 # Veille France 2026-11-14 : Régulation, politiques publiques et géopolitique
@@ -14,4 +14,4 @@ tags:
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Régulation de l'IA]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-14__Régulation_politiques_publiques_et_géopolitique
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Enjeux_du_marché_et_turbulences

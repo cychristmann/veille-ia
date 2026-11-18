@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Edge0-145B
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[ConnectWise]] - concept - dossiers/2026-11-16-1.md
+- [[DATAW.AI]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
+- [[RWIP]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
 
 ## Live Query (requires Dataview plugin)
 

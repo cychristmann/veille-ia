@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-12-t3.md"
-type: "code"
-community: "Meta"
+source_file: "veilles/veille-ia-us-2026-11-08-t4.md"
+type: "concept"
+community: "Alibaba"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/Meta
+  - community/Alibaba
 ---
 
 # Palantir
@@ -14,4 +14,4 @@ tags:
 - [[Helsing]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-08]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Meta
+#graphify/concept #graphify/EXTRACTED #community/Alibaba

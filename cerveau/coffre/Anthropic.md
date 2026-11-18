@@ -1,18 +1,19 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t1.md"
 type: "code"
-community: "Anthropic"
+community: "Veille États-Unis 2026-11-12"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Anthropic
+  - community/Veille_États-Unis_2026-11-12
 ---
 
 # Anthropic
 
 ## Connections
+- [[AI Cyberattack]] - `conceptually_related_to` [EXTRACTED]
+- [[AI Market Trends]] - `conceptually_related_to` [INFERRED]
 - [[Anthropic IPO]] - `references` [EXTRACTED]
-- [[Autonomous AI Agents]] - `conceptually_related_to` [INFERRED]
 - [[Broadcom]] - `references` [EXTRACTED]
 - [[Claude]] - `conceptually_related_to` [INFERRED]
 - [[Claude]] - `references` [EXTRACTED]
@@ -26,7 +27,6 @@ tags:
 - [[Donald Trump]] - `references` [EXTRACTED]
 - [[Fable 5.2]] - `references` [EXTRACTED]
 - [[Fable 5.2 & Mythos 5.2]] - `references` [EXTRACTED]
-- [[Feuilleton Anthropic IPO and AI Safety]] - `references` [EXTRACTED]
 - [[Feuilleton Scandale qui renverse la star de l’IA]] - `references` [EXTRACTED]
 - [[Goldman Sachs]] - `conceptually_related_to` [INFERRED]
 - [[Introduction en bourse d'Anthropic]] - `conceptually_related_to` [INFERRED]
@@ -45,6 +45,8 @@ tags:
 - [[Veille Chine 2026-11-12  Anthropic et concurrence]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-13]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-17]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-17  Marché, financement et régulation]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Applications concrètes et innovations IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Environnement et empreinte carbone de l'IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Régulation, politique et enjeux sociétaux]] - `references` [EXTRACTED]
@@ -60,9 +62,11 @@ tags:
 - [[Veille France 2026-11-15  Recherche, outils et modèles IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-16  Économie, marchés et financements]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-17]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-18  Régulation, enjeux juridiques et gouvernance]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-09  Déploiements et stratégies d’entreprise]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-10  Autres articles]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-11  Régulation, Gouvernance et Éthique]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-14  Économie, Marchés et Investissements]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-18 (T1)]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Anthropic
+#graphify/code #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-12

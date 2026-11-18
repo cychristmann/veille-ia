@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille États-Unis 2026-11-14  Autres articles]] - document - veilles/veille-ia-us-2026-11-14-t7.md
+- [[Feuilleton Les États‑Unis désignent Nvidia parmi les champions nationaux de l’IA]] - document - feuilletons/f-0025.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t1.md"
 type: "document"
-community: "Google"
+community: "CoreWeave"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Google
+  - community/CoreWeave
 ---
 
 # Veille États-Unis 2026-11-11 : Financement et Bourse de l'IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[CoreWeave]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Google
+#graphify/document #graphify/EXTRACTED #community/CoreWeave

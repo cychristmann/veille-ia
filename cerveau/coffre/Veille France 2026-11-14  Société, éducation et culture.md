@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-14-t1.md"
 type: "document"
-community: "Veille Chine 2026-11-12 : IA dans le commerce et le divertissement"
+community: "Veille France 2026-11-14 : Société, éducation et culture"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-12__IA_dans_le_commerce_et_le_divertissement
+  - community/Veille_France_2026-11-14__Société_éducation_et_culture
 ---
 
 # Veille France 2026-11-14 : Société, éducation et culture
@@ -17,4 +17,4 @@ tags:
 - [[Jean-Paul Charpin]] - `references` [EXTRACTED]
 - [[Sarah El Haïry]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__IA_dans_le_commerce_et_le_divertissement
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-14__Société_éducation_et_culture

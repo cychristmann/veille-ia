@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[LLM 0.37.3]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
-- [[SQLite]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[CVS Health]] - code - veilles/veille-ia-us-2026-11-14-t6.md
+- [[Veille États-Unis 2026-11-14]] - document - veilles/veille-ia-us-2026-11-14-t6.md
 
 ## Live Query (requires Dataview plugin)
 

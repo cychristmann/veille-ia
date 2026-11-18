@@ -3,21 +3,23 @@
 > Chaque nuit, le pilote parie sur l'actualité des jours suivants ; les veilles
 > suivantes tranchent. Note réécrite chaque nuit.
 
-**6 gagnés sur 13** (46 %), pour une confiance moyenne de 69 %. Score de Brier : 0.314 (0,25 = hasard, 0 = parfait).
+**7 gagnés sur 14** (50 %), pour une confiance moyenne de 69 %. Score de Brier : 0.3 (0,25 = hasard, 0 = parfait).
 
 ## En cours
 
-- Microsoft : au moins 9 articles (Outils & code et États-Unis) sur les 5 prochains jours — 66 %, échéance 2026-11-18 · [[Microsoft]]
 - Claude : au moins 50 articles (Outils & code) sur les 3 prochains jours — 71 %, échéance 2026-11-19 · [[Claude]]
 - Anthropic : au moins 25 articles (France et États-Unis) sur les 4 prochains jours — 73 %, échéance 2026-11-20 · [[Anthropic]]
 - GitHub Copilot : au moins 12 articles (Outils & code) sur les 5 prochains jours — 68 %, échéance 2026-11-21 · [[GitHub Copilot]]
 - Nvidia : au moins 40 articles (France et États-Unis) sur les 4 prochains jours — 72 %, échéance 2026-11-21 · [[Nvidia]]
 - Google : au moins 4 articles (Chine) sur les 3 prochains jours — 66 %, échéance 2026-11-20 · [[Google]]
+- Agents IA : au moins 12 articles (Chine) sur les 3 prochains jours — 62 %, échéance 2026-11-21 · [[Agents IA]]
+- GitHub : au moins 20 articles (Outils & code) sur les 5 prochains jours — 66 %, échéance 2026-11-23 · [[GitHub]]
 
 ## Tranchés
 
 - ❌ CoreWeave : au moins 5 articles (Chine) sur les 2 prochains jours (53 %) → 0 article(s) · [[CoreWeave]]
 - ❌ Nvidia : au moins 28 articles (France et États-Unis) sur les 3 prochains jours (78 %) → 24 article(s) · [[Nvidia]]
+- ✅ Microsoft : au moins 9 articles (Outils & code et États-Unis) sur les 5 prochains jours (66 %) → 17 article(s) · [[Microsoft]]
 - ✅ Google : au plus 1 article (Chine) sur les 4 prochains jours (73 %) → 1 article(s) · [[Google]]
 - ❌ Anthropic : au moins 22 articles (France et États-Unis) sur les 3 prochains jours (68 %) → 9 article(s) · [[Anthropic]]
 - ❌ China : au plus 3 articles (Chine) sur les 3 prochains jours (73 %) → 5 article(s) · [[China]]

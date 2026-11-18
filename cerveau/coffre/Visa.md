@@ -1,16 +1,17 @@
 ---
 source_file: "feuilletons/f-0019.md"
 type: "concept"
-community: "OpenAI"
+community: "JPMorgan"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/OpenAI
+  - community/JPMorgan
 ---
 
 # Visa
 
 ## Connections
 - [[OpenAI]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-18 (T2)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/OpenAI
+#graphify/concept #graphify/EXTRACTED #community/JPMorgan

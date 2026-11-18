@@ -13,5 +13,6 @@ tags:
 ## Connections
 - [[ChatGPT Enterprise]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-18]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/OpenAI

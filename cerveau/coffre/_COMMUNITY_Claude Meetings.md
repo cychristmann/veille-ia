@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[01net.com]] - concept - dossiers/2026-11-17-3.md
-- [[Dossier L’impact de l’automatisation par l’IA]] - document - dossiers/2026-11-17-3.md
-- [[OCDE]] - concept - dossiers/2026-11-17-3.md
-- [[PwC]] - concept - dossiers/2026-11-17-3.md
-- [[journaldunet.com]] - concept - dossiers/2026-11-17-3.md
-- [[latribune.fr]] - concept - dossiers/2026-11-17-3.md
+- [[Community Impact]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Daily Herald]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Federal News Network]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Inside Global Tech]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[News 5 Cleveland WEWS]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Veille États-Unis 2026-11-09  Régulation et politiques publiques]] - document - veilles/veille-ia-us-2026-11-09-t1.md
 
 ## Live Query (requires Dataview plugin)
 

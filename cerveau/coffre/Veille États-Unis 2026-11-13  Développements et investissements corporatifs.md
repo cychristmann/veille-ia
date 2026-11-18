@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
 type: "document"
-community: "Meta"
+community: "Veille Chine 2026-11-13"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Meta
+  - community/Veille_Chine_2026-11-13
 ---
 
 # Veille États-Unis 2026-11-13 : Développements et investissements corporatifs
@@ -21,4 +21,4 @@ tags:
 - [[Sino Biological]] - `references` [EXTRACTED]
 - [[SpaceX]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Meta
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-13

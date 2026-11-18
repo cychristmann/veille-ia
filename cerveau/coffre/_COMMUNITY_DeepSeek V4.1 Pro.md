@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # DeepSeek V4.1 Pro
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Ming-Chi Kuo]] - concept - dossiers/2026-11-13-1.md
+- [[ABB]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
+- [[HiPerGuard 34,5 kV]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
 
 ## Live Query (requires Dataview plugin)
 

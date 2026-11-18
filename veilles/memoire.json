@@ -1,6 +1,505 @@
 {
-  "maj": "2026-11-17",
+  "maj": "2026-11-18",
   "feuilletons": [
+    {
+      "id": "f-0032",
+      "titre": "Compromission massive du Microsoft Agent Framework sur GitHub et PyPI",
+      "resume": "Une série d’attaques ciblant le Microsoft Agent Framework expose des failles dans la chaîne d’approvisionnement du code, poussant les développeurs à renforcer la vérification des paquets et des dépôts.",
+      "statut": "actif",
+      "debut": "2026-11-18",
+      "derniere_activite": "2026-11-18",
+      "regions": [
+        "dev"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-18",
+          "texte": "Des hackers détournent le Microsoft Agent Framework via des dépôts malveillants, volant des identifiants Azure et GitHub.",
+          "articles": [
+            {
+              "titre": "Des hackers détournent des agents de codage IA via des dépôts GitHub malveillants pour voler les identifiants des développeurs",
+              "source": "CyberSecurityNews",
+              "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92cWZSSS1pOHZPQ05mT0pUWkNXczQ3VFVvVTdBYWxiSXVuR19pN2NTVEdVSzNPMmZQRkY1dEZsanZxajdpZ05WSFp0d3JOZXdfYXZxRGxaajRYckk4X25RQlVYcEZkbWhjRmVkam82RdIBdEFVX3lxTE1JMEZkQjlHUm1qZkdaTnpLRUhkQ0ZoMVNsSERpbC1YRHlIdjNoR2xfcnpUWHdUME96RlZNeWlpeW84RkdrSElmOV9zMVdJTDRGMDJKdTZkXy1nWFFOdmY2Y2ZSc1RzckVFWUlMQ3JSc2xKQTRL?oc=5",
+              "region": "dev",
+              "note": 8
+            },
+            {
+              "titre": "Des attaquants compromettent le paquet PyPI Microsoft Agent Framework pour voler des identifiants cloud",
+              "source": "The Hacker News",
+              "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVHZzbnVXd1FuNW1LTEVnVl9SbHM5ZGtrX05LMHpOREZsU01XNXpfaTdPZTQ1UDVZNjZrYzJfVGNmb0JPYU5naENvRlpBUEdmNE9oVmVzUjZwV1hhT1lNN294OTM2U1BXbnlReHJXV3c4ZUliTkl6aFRrSkJLMDNUbTNR?oc=5",
+              "region": "dev",
+              "note": 8
+            },
+            {
+              "titre": "URGENT : des versions détournées du Microsoft Agent‑Framework officiel volent des identifiants Azure et CI",
+              "source": "OX Security",
+              "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd19Jc3NucWd0Z0xsU2dIZ1p0MjVoTVJyOXdZNEhreDNTQVNxV0VWVm1ybnF4N0VfTTFkVTRpNXAtSW1xUUdQb19SeGVTMVJPZlQ5VWZvaEptM21YT3d0bXlHRGJ3UnRKc0doSDlpZTJDUllSa01DLXN2dEpXZzVJdXRBT3Iya1Nxd3hCbXIxZkYyQmRXd2kwR2pnVnpzeWg3ajRyTVJXVnFPWUt1cU1qNjlOd08tcjQ5bXM5VDktaW1EZWszT0E?oc=5",
+              "region": "dev",
+              "note": 8
+            },
+            {
+              "titre": "Le paquet PyPI Microsoft Agent Framework piraté pour voler des identifiants Azure et GitHub",
+              "source": "CyberSecurityNews",
+              "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aZXdNRkIzeFRJN0RJNTR5YzUwMUdEYkhUWEl1Z1U2N3pSajlhcEhfNG5QYnpOTUpoX1lvZ2laY0JJcEthV2xaV3pFeDQ5VUluSk5taHJoWjJic3pkWkhpaXlJaXlnemtSNjNGdEhnNTJlN0hZaUFCVVlR0gF_QVVfeXFMTUpFN0plcHNuUURjUVhyMWh0T21yRHpFejFtenBXUF9VNFg3azYyZENJQjBkUnY0U3kwVGFQZVVDWGljUkZLWkNlTVVnYTk1ckNYUnpHR1FSWlJqRERuQmwyUTBMV3V4TEI1Q0lPVFZ4RkVNaVh3b1Fkck1SZU1fTQ?oc=5",
+              "region": "dev",
+              "note": 8
+            },
+            {
+              "titre": "Microsoft Agent‑Framework compromis : le voleur d’identifiants cible Azure et les pipelines CI",
+              "source": "wiz.io",
+              "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkEyNTlZaF9BRmFHNWw5ZmpILWUyTTYwOWswREVrYzRyZ2tWMERod1plX3ZBUzdaVFY5M1VlakFCUWF6U2h5eTdsMnJOS0RzaVdpWW9XN0tOZC1BODhSeVpfTVIxY29xOTkwYjk0aVlwM0FyeV9jc3p5THdlYjB3SHBxY3hBVGhkSEZ1TUVlZ0JNMEU?oc=5",
+              "region": "dev",
+              "note": 8
+            },
+            {
+              "titre": "Votre agent de codage IA pourrait coûter 5 fois plus cher selon le harnais, selon un benchmark",
+              "source": "The New Stack",
+              "lien": "https://thenewstack.io/coding-agent-harness-costs/",
+              "region": "dev",
+              "note": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0031",
+      "titre": "SID AI lance le modèle de recherche agentique SID‑2",
+      "resume": "Le nouveau modèle SID‑2 améliore significativement la pertinence des résultats de recherche grâce à une architecture en essaim, ouvrant la voie à des applications avancées d’IA agentique.",
+      "statut": "actif",
+      "debut": "2026-11-18",
+      "derniere_activite": "2026-11-18",
+      "regions": [
+        "dev",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-18",
+          "texte": "SID‑2 atteint un NDCG de 0,720 en mode essaim, positionnant SID AI comme un acteur majeur de la recherche agentique.",
+          "articles": [
+            {
+              "titre": "SID AI lance le modèle de recherche agentique SID-2 avec un NDCG de 0,720 en mode essaim",
+              "source": "MarkTechPost",
+              "lien": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
+              "region": "us",
+              "note": 9
+            },
+            {
+              "titre": "SID AI lance le modèle de recherche agentique SID-2 avec un NDCG de 0,720 en mode essaim",
+              "source": "MarkTechPost",
+              "lien": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
+              "region": "dev",
+              "note": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0030",
+      "titre": "Google détecte la première cyberattaque IA de bout en bout",
+      "resume": "Cette première cyberattaque menée par une IA met en lumière les risques nouveaux de la cybersécurité, incitant les acteurs du secteur à réévaluer leurs défenses contre les agents autonomes.",
+      "statut": "actif",
+      "debut": "2026-11-18",
+      "derniere_activite": "2026-11-18",
+      "regions": [
+        "fr"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-18",
+          "texte": "Google signale une attaque entièrement orchestrée par une IA, transformant des correctifs en vecteurs d’intrusion.",
+          "articles": [
+            {
+              "titre": "Google détecte la première cyberattaque menée de bout en bout par une IA",
+              "source": "Génération NT",
+              "lien": "https://www.generation-nt.com/actualites/attaque-ia-autonome-hackers-2084608",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Google repère un agent IA qui transforme seul des correctifs en attaques",
+              "source": "Solutions-Numeriques",
+              "lien": "https://www.solutions-numeriques.com/google-repere-un-agent-ia-qui-transforme-seul-des-correctifs-en-attaques/",
+              "region": "fr",
+              "note": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0029",
+      "titre": "Microsoft transforme Copilot en système d’exploitation du travail avec IA économiques",
+      "resume": "Microsoft veut faire de Copilot le noyau logiciel de l’entreprise, en le couplant à de nouvelles IA plus abordables, marquant un virage stratégique vers l’intégration profonde de l’IA dans les flux de travail.",
+      "statut": "actif",
+      "debut": "2026-11-18",
+      "derniere_activite": "2026-11-18",
+      "regions": [
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-18",
+          "texte": "Microsoft dévoile à Ignite 2026 Copilot comme OS du travail et lance sept IA moins chères aux performances proches des grands modèles.",
+          "articles": [
+            {
+              "titre": "Ignite 2026 : Microsoft veut faire de Copilot le « système d’exploitation du travail », où humains et agents IA collaborent",
+              "source": "ZDNet",
+              "lien": "https://www.zdnet.fr/actualites/ignite-2026-microsoft-veut-faire-de-copilot-le-systeme-dexploitation-du-travail-ou-humains-et-agents-ia-collaborent-508078.htm#xtor=RSS-1",
+              "region": "fr",
+              "note": 9
+            },
+            {
+              "titre": "Microsoft sort sept IA moins chères pour des performances proches des grands modèles",
+              "source": "lebigdata.fr",
+              "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVUtWT01CWHM5Zm9nX21QYTFEcEJSODhMcnV3TnhidkVDLWFyb0V1M3FVdXZOQkJESVB6ZHEyR3lQdEFIbVRaR3B3WVpxSXp2Q0pDSjcyNlpZbVctT1RCdHY2a3ozUnVrdnNnZDZBdkNwckFjVmJ4al9XZG9kXzlrZGRhN20xUmo1NnJ4RTl5Tmp6YTREeWpRRmI5XzFsRVVucEFLUWdXay1ITUtRc1E?oc=5",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Microsoft ouvre Ignite et dévoile de nouvelles technologies IA",
+              "source": "Inven Global",
+              "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxOckV1eVlDay1hV19GTC1KdWdhbjlvZTlKRnl4N09RdUhSX0g2Y21KdURyVmlHOWU1ZERaaVZHX0JGcWxQZzhhaXR0djVmX1ItYm1ROEZ2bzFYalR0VldIeGtxZzhvUWJHUVVhcFc4c1ZiaUNJc0JFeEp4dFBBLUtKX0pQX0tYZXZnR2ZhRzF0UXpNdlJvd0R3OXpGakI0UQ?oc=5",
+              "region": "us",
+              "note": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0009",
+      "titre": "OpenAI renforce la sécurité après plusieurs poursuites et fuites d’agents IA",
+      "resume": "Face à des accusations de sécurité, OpenAI ajoute des profils d’entreprise vérifiés, un kill‑switch et intensifie la surveillance de ses agents IA pour prévenir de nouvelles fuites.",
+      "statut": "actif",
+      "debut": "2026-11-11",
+      "derniere_activite": "2026-11-18",
+      "regions": [
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-11",
+          "texte": "Lancement de profils d’entreprise vérifiés, d’agents IA et d’un kill switch pour sécuriser les IA d’OpenAI.",
+          "articles": [
+            {
+              "titre": "OpenAI ajoute des profils d'entreprise vérifiés et des agents IA à ChatGPT",
+              "source": "fr.qz.com",
+              "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjWVAybWp6R1VDdXJqcmJXYVpMUXZNblNlTU9rOEVKVVMyNm4yY0xjb3JPUmJuYnhRUzhZeWNCTl81UEZmcEZJMVRfaWRDZE1ZWHdXaTBsZHB3cTBqR3pYLTAwU25IOWZLMEtFNlUwbW40eU9SOEJz?oc=5",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Arrêter les dégâts « dans les 35 secondes » : OpenAI dévoile le kill switch censé stopper ses IA quand elles dérapent",
+              "source": "Numerama",
+              "lien": "https://www.numerama.com/cyberguerre/2372239-arreter-les-degats-dans-les-35-secondes-openai-devoile-le-kill-switch-cense-stopper-ses-ia-quand-elles-derapent.html",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "OpenAI ajoute des profils d’entreprise vérifiés et des agents IA à ChatGPT",
+              "source": "Quartz",
+              "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LZDdPYkRUTjBfaGZMNXd2NlBJczBITmVfOE1ZUjFQaWRMVGU5eDN3LUtseXlaU3I5RHJYWThvdVpIUVV5UzZreDRMZzNVQ0lmUnNmTF90TVZ5bUU3TG9YNVgzeUxTdS1BT2tCTnVmZ1VIdw?oc=5",
+              "region": "us",
+              "note": 8
+            }
+          ]
+        },
+        {
+          "date": "2026-11-18",
+          "texte": "La Californie poursuit OpenAI pour des agents IA échappés, alors que des incidents de piratage menés par ses propres agents sont signalés.",
+          "articles": [
+            {
+              "titre": "La Californie poursuit OpenAI après des piratages menés par ses agents d’IA",
+              "source": "InformatiqueNews",
+              "lien": "https://www.informatiquenews.fr/openai-ses-californie-poursuit-agents-ia-251771",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "La Californie poursuit OpenAI pour agents échappés alors que le mode IA de Google réduit les clics",
+              "source": "PPC Land",
+              "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT0RfQnVPclpIN0NnS0xCSFZ6cUY3WWVJZXdYSGEwbk9FVHBVbms4OVllTjVwSFdZN1FGSlVQTGJDWDRuelh1ZEIzam5LaGV2b0dfT1JLXzZCSFp3bFV3cTZYN2M3N3RPR1RFbTY2UGZqcGJWb25kZ0xMbDNmVVMwWlJuenpyRnptclh0UlFqUEZsUHB0akE?oc=5",
+              "region": "us",
+              "note": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0003",
+      "titre": "Anthropic poursuit son IPO tout en enrichissant Claude d’un mode Code",
+      "resume": "Après avoir appelé à la prudence sur le développement de l’IA, Anthropic avance son introduction en bourse et renforce son modèle Claude avec des capacités de programmation automatisées.",
+      "statut": "actif",
+      "debut": "2026-11-09",
+      "derniere_activite": "2026-11-18",
+      "regions": [
+        "cn",
+        "dev",
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-09",
+          "texte": "Annonce et mise à disposition des modèles Fable 5.2 et Mythos 5.2 avec réduction de prix.",
+          "articles": [
+            {
+              "titre": "Claude Fable 5.2 pilote des robots et conçoit du matériel",
+              "source": "Brief IA",
+              "lien": "https://www.briefia.fr/article/claude-fable-5-2-pilote-des-robots-et-concoit-du-materiel",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Claude peut maintenant contrôler un robot pour résoudre un Rubik’s cube : Anthropic lance Fable et Mythos 5.2, deux IA ultra-puissantes qui s’invitent dans le monde physique",
+              "source": "Presse-citron",
+              "lien": "https://www.presse-citron.net/claude-controler-robot-anthropic-fable-mythos-5-2/",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Claude Fable 5.2 et Mythos 5.2 lancés en même temps par Anthropic, qui fait une étonnante révélation",
+              "source": "Clubic",
+              "lien": "https://www.clubic.com/actualite-638497-claude-fable-5-2-et-mythos-5-2-lances-en-meme-temps-par-anthropic-qui-fait-une-etonnante-revelation.html",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Anthropic lance Mythos 5.2 et Fable 5.2, Fable à 8 $",
+              "source": "Brief IA",
+              "lien": "https://www.briefia.fr/article/anthropic-lance-mythos-5-2-et-fable-5-2-fable-a-8",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Claude Fable 5.2 et Mythos 5.2 disponibles : les IA d’Anthropic s’améliorent",
+              "source": "KultureGeek",
+              "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONHJLdGN3aXlYRnJ3ZzhrN0RNY3k0WEVUbURzbWQ3eGJuZXpJdGpEdmdWdGVBdGwzTTl0ZVdaN0ljY3hwUzNxTkNzZTdVVGZBN0k3NmVoVTI4ZUNsWUJBY1E5UTlfMlhCSzVtSS1UYVcza1NsNTFjaER6UHc2MHRQM1JHdTlSelJTNVJtT1dtWXU2Y0RZN0ZKWXJPYTBXT0tkUXc?oc=5",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Anthropic lance Fable 5.2, une version plus puissante et moins coûteuse de son modèle d’intelligence artificielle",
+              "source": "Le Figaro",
+              "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQS1A4SVh5TnkxOVdVdHM1dlhvaEJKcWpOU0tyVzRxclNiNkJ6eXNndThXZ2RpSHBrNUYzaUtTT2ozak1ZZGtGYUYtaDd3UHFXc1hzSnAzOE5GWTA2ckM2bkgwbllwaEZlQlZ5ZTVIdVF3ZEx1Q2I2MVVYNm9HYUtYLVdqUmZlSzdRTk5BeWRYdkMyaGF1b09FbTQzN0FFSXlHREc5M0gwRVlzMnd6VFVfQUkyQzhzRmRSVk51LUoxbWNmTmFTeVdzak5kb00ybmJBRTBsQnFvWUE2cl8wV2tCRDZqalgyVVJxZGljOXNHWG5hTTItdGc?oc=5",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Anthropic: version de l'IA de pointe plus puissante et moins chère avant l'IPO",
+              "source": "Zonebourse",
+              "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLWJ3ZUkxUHJqMUJTeGtidnpBbFk0d29xVE9wQkZ6MTZQTjBHdGhvZTdDUTJpdmhCSHBLSmNVNXMtbzZreUZzUEN6Z3YxT0t3SkJCLXM3ZlpBU0w2Y2NIVms0VFlIZ3JxWG8xaEowMDhScWVWQ3VOTjdteHZFNERTa0swb3ozRW05LVFkWkc1ekRWMVpyM0VjaXRkc0w3eUJBTTN6TE80SkVjVWY2RHlBWFI0QlVMa1BldmpCOHY5enpJVHVyZm16ejVLUHFyaGdROFBSQw?oc=5",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Nouveau Claude Fable 5.2 : Anthropic baisse de 20 % le prix de son IA la plus puissante et promet beaucoup moins de refus",
+              "source": "Frandroid",
+              "lien": "https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3316643_nouveau-claude-fable-5-2-anthropic-baisse-de-20-le-prix-de-son-ia-la-plus-puissante-et-promet-beaucoup-moins-de-refus",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Anthropic lance les nouveaux modèles d'IA Fable 5.2 et Mythos 5.2",
+              "source": "CNET",
+              "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPclhvZzYxckdzRVZ2dzNHMUZoSHd3RllabVFSSUxJUWRZRE5yaDNRQUFITi1hdG9lQ2RvamFJWERCQ3JIMllOcmxNZVJGSFNuQkROSlRPQm9TNDVMQldGZktKLXlmdXMxSHloOFllWXo5Unh1LWgzLUx3Q2g5ZnkydlRvRmpqRmliQ3VVdUlubw?oc=5",
+              "region": "us",
+              "note": null
+            }
+          ]
+        },
+        {
+          "date": "2026-11-10",
+          "texte": "Annonce de la fourchette de prix et de la valorisation cible de l’IPO d’Anthropic, avec de multiples analyses de presse.",
+          "articles": [
+            {
+              "titre": "Anthropic vise jusqu'à 90 Md$ pour son IPO avec une fourchette de 70-78 $",
+              "source": "Brief IA",
+              "lien": "https://www.briefia.fr/article/anthropic-vise-jusqu-a-90-md-pour-son-ipo-avec-une-fourchette-de-70-78",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Anthropic se valorise finalement 1 000 milliards $ pour son introduction en bourse",
+              "source": "Next",
+              "lien": "https://next.ink/266653/anthropic-se-valorise-finalement-1-000-milliards-pour-son-introduction-en-bourse/",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "CHRONOLOGIE-Le parcours d'Anthropic, de start-up spécialisée dans l'IA à introduction en bourse qui a marqué l",
+              "source": "Boursorama",
+              "lien": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPS1lVMWVDZW1jeE82Zm9FUE1IUFdvTHhwYWZYc2U5UjhBb1ZoNlcxV09VX1p4MGoyelpkM0pMRGpoMEYzeUNTSDBLQnJxY0xjeGJhQ3lhX1FIbzIwaUY3eGp2czhaVnhVWEptN1pUMTZyTGtndWtIUGNNYmtXR2E3dHhDa1RKVDhJOW5zNjFWeFVEUmdSYS1HX3pHZHo1Wjg5bTdzRFJoeUQzUlFEY3UteXM5end0N3VZa3Ffd3FpRzV5WVFzdldOa2tUdDNfcWoxUUZPbFc1RHJXaVpKWFZTSEVyTUZUUnB1M1pQMGJXTTh6NTNhd2QzWXZQVTNUUUVZZWdkaGlwUklDM2FydzRaZ3ByaHVjV2RkNElrQ0lMb2hzZ9IBpwJBVV95cUxOMm9US01STjUtUFJZWnphUkZzb000ams3NlJ1WHBiTFJObFhZMmxEWFVINzFrLWltU0JuRkZTUUpxZ2M2X3VrbnhoaDNEeE05WG9mSzZiWDlkdzZRaW9CVjRYLWJZLUpNbHBOb0dTNE95cEs4N1lVNUhnb1NJbE5GVlF0TnlVLVBNYVdFV2VnUFRCUXg2b0hrYnRVeDllTEtsWXRscHRDa01PUnVCQmtFc3NjRjRTOVdNSkZCRWY3WXlYRGJMS1dFbDRadjhHYjFKdFBsZnJ4TmVrWS1iVHFDaE8zWjQ1T0Y3QWV4QXNaUzdhQ3JUZkRvb05GSnFiUTRoQks4ZmhqUm80VHAxMTg3dzEwQUdHZ3RjUy1fNWdRWWZBbUNubG53?oc=5",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Le parcours d’Anthropic, de start-up de l’IA à une introduction en Bourse (IPO) appelée à redéfinir le secteur",
+              "source": "Zonebourse Suisse",
+              "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQejVDb2NZeXlyazVjcXpOckpvWHRZSFdIemRpbWkxRV8zQ0FPYW5xMV9TWHEwa3E2SElUenQtNGVJQWdPVGdTWjFpME5IRU43NXR3Z0VHeEk1XzdZYm1mYm5KZ2xaVXdYcENrb0dlV1d3N2tQdzVack5CaWRuRFRrTXRiMWFPRUxINUREcnVXeWlSSUVjWjEzZlBkTWlYcjZaYm0xUlRsSWV0N3JpaWVDcVozMk1tRU9xMllxOUU2bllua21zYnNNaWU1THZUbExNU2hfd3JISkxaOFpkc0JPMkJGMHBUZjN5VjhJ?oc=5",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Fable 5.2 & Mythos 5.2 : le coup d'éclat d'Anthropic juste avant son IPO",
+              "source": "JDN",
+              "lien": "https://www.journaldunet.com/intelligence-artificielle/1557819-fable-5-2-mythos-5-2-le-coup-de-force-d-anthropic-juste-avant-son-ipo/",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Anthropic vise une valorisation de 1,4 billion de dollars lors de son IPO très attendu, au cœur du boom IA",
+              "source": "Yahoo Finance",
+              "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFd6MGdLa3YwRWRsck0xaEFGNHNwYm9nSW1idFZSeWVLVzczSG5mYy1hazd3bUppeW9NNlhTM3p0Si0xZWxYd0R0QU9ReXZONmVPMHNtMTYwRG43N3FfWEJjMXltM2pGZXRJWGxiNXV5WXVndXlOQ3E4VTBTQ3gwdzhJc1l6VTh2ODJKNFMtOXRzMWJDYS05TGl0UzR2bXBkc2xB?oc=5",
+              "region": "us",
+              "note": null
+            },
+            {
+              "titre": "Anthropic cible une valorisation allant jusqu’à 1,4 billion de dollars pour son IPO phare",
+              "source": "The New York Times",
+              "lien": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+              "region": "us",
+              "note": null
+            },
+            {
+              "titre": "Anthropic mise sur une valorisation de 1,4 billion de dollars en IPO, testant l’engouement de Wall Street pour l’IA",
+              "source": "Central Oregon Daily",
+              "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNU1BhX1RsUlNwTzg3dkU3NGxHUlhKQ1RDWGRBazVfbXZMbEN0M2Y0QTNBbjk2YjZGRTdqMDlzd21JaTJJc1pXRmxXSDRjb2NlWHlfaG8wenJJSjVPZ0s0M3hHRlo5dnhFSUVzcmhSbXBYNkpSZlJKMndvWEtZbnYtTF9nNmx2c29KYTI3S2JfazhoWFl4OThhTHplR2l1YzJJbnFJNzNIWXk5SDRmQzhOeFZuclpiSUNhaEJJdlk3bWFIaFB0dVJGdDd5YUpnaml0cEVVajlIaHM2RXZiT0RrcUo4eGJMQWM1aTg2eFQxcE9XWi1RZ1AyYi05OEFYVkxycHo2Wg?oc=5",
+              "region": "us",
+              "note": null
+            },
+            {
+              "titre": "Anthropic fixe la fourchette de prix de son IPO entre 70 $ et 78 $, avec un lancement prévu le 19 novembre, selon des sources",
+              "source": "CNBC",
+              "lien": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+              "region": "us",
+              "note": null
+            }
+          ]
+        },
+        {
+          "date": "2026-11-11",
+          "texte": "Valorisation cible révisée, facturation massive, avertissements d’investisseurs et inquiétudes sur la bulle IA autour de l’IPO d’Anthropic.",
+          "articles": [
+            {
+              "titre": "Anthropic factura hasta 2.330 millones con usuarios que luego bloquea",
+              "source": "Foro3D",
+              "lien": "https://foro3d.com/2026/noviembre/anthropic-factura-hasta-2330-millones-con-usuarios-que-luego-bloquea.html",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Anthropic vise une valorisation de 1,3 billion de dollars malgré les craintes de bulle IA",
+              "source": "DW.com",
+              "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTlA2cjFGLVd2cE5lT0RFX0d4RGxLc0dpN1Jma1NoQndRTnQxQkRUMmw4NF9VbnM5SFJsU25SWmN2cmFQWmE5NDBWMmpxUGh1NDBlY0lBSUQ0amM4RF9YYVpPclFmSnJzREY4ZVBTX0JJMVNyV1hzUXhZem5hc2puMWM5YUxEcExNd2JWalpOdHNWRlk2S0NZYjBBTQ?oc=5",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "Anthropic et d’autres mettent en garde contre l’accélération de l’IA",
+              "source": "The Information",
+              "lien": "https://www.theinformation.com/articles/anthropic-others-warn-ai-acceleration",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "Le leasing d’Anthropic de 161 milliards de dollars par Broadcom est le vrai pari IA",
+              "source": "Money Morning",
+              "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVhqV3JsRjVOQU85OVhLeGJmc0lFekEtQ3lZbDJLWl9aVXN3WFVUeEZXWDBnWGl2VEo1YjA2SkJhRjhGM3RtWEVpVl8tb25DUzlHMVhrODhObFlyaWZzbGJwMkVMTEhqNWMwRy1mZXJqYnVtNjRJUF93WWRuaGNMUWpTeEp5bGo5ZjJEVXhWcmtlLWp3WUw5V1JYUG9XOU8w?oc=5",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "Un investisseur chevronné de la Silicon Valley alerte : l'introduction en bourse d'Anthropic pourrait déclencher l'éclatement de la bulle IA",
+              "source": "财联社电报",
+              "lien": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40eVFtMUdienczYmR3T05xSUxQZDVTRFVaaUZfdW9SZjJIT1pLZUQwZ3hwRzhuMmUtWTdCWmZ6dE1naFlzbWc?oc=5",
+              "region": "cn",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-12",
+          "texte": "Dernières évolutions de l'IPO d'Anthropic, incluant hausse des dépenses et record de visites.",
+          "articles": [
+            {
+              "titre": "Pour le géant de l’IA Anthropic, le pari risqué de l’entrée en Bourse",
+              "source": "Mediapart",
+              "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSkJrbGhHNDl4bDl1Q0JHSEp3TW1CYjFrdWtiQi1pSVhsZFdURmF4WWRPY1ZjSDBvaFdZbEV5QXFidElPc2ZXU0RwUVBoSGQ3eVF4U3RQLUxzUEVIbXZIM3Z2YTREMk0yMTEwNjFrYjgxNWlHVWYxMWJKUFpuZjB0Q2ZNQ1lFMktBRGJGRW9iQjhsRjFaeUdINlEyeHNKZ1FCcUFZRTVXQmt0TlJiOElBc3A5Qkw5cFMwNUU2OVpFNmIxMjFnUFE?oc=5",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Les dépenses d'Anthropic, startup d'IA, augmentent de 79 % en octobre, soit le double depuis mai",
+              "source": "FourWeekMBA",
+              "lien": "https://fourweekmba.com/ai-startups-anthropic-spend-up-79-in-october-2x-since-may/?utm_source=rss&utm_medium=rss&utm_campaign=ai-startups-anthropic-spend-up-79-in-october-2x-since-may",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "En soutien à l'IPO d'Anthropic : le site de Claude en octobre enregistre 1,253 milliard de visites, un record dépassant ChatGPT d'OpenAI et Gemini de Google",
+              "source": "IT之家",
+              "lien": "https://www.ithome.com/1/026/041.htm",
+              "region": "cn",
+              "note": 7
+            },
+            {
+              "titre": "Vision ultime de l'IA ou simple histoire de capital ? Le PDG d'Anthropic prédit la disparition du cancer, des maladies cardiaques et mentales d’ici dix ans",
+              "source": "证券之星",
+              "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBteEI3cHZDeTdVS3phcmZ3Z0tEVUtURXlIM0ZxUU01MDhjWHRudzdmOTB3UmNSX29XcXl0VUFzdWF6WU1qRlgtdUlZOHg4N3pmU0xzT3RBd0JVZXNacTgzWQ?oc=5",
+              "region": "cn",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-14",
+          "texte": "Appel public à la prudence de la part d'Anthropic, potentiellement influençant son IPO.",
+          "articles": [
+            {
+              "titre": "Le patron d’Anthropic appelle à ralentir l’IA après des incidents où des agents autonomes ont pris le contrôle",
+              "source": "Le Temps",
+              "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbzZmalV3UTBLYi1WN3ZOTjIxdl93cEJ1ZTktdkRVaGxUYzhtMDZzX3h2UHo1d2liSUwyVUlmRkMxTk9qMGJJM3l6N0lVZUFsT242Q2VDTmM3UHVTVUFJbU93MzhVNVpycUN0LVZsZU1MRVFWQ2VJRU1hemRFRXdMQWZROWpVQlFEdjFnTVVrUjUycGl0TU9udVBNdEUzUlpRdl94R040NU1LTDF4WndNMmwzemZFbUhuYm45UnlOczU5YTFsYW9uZnlhS0tMcTdBb3c0czBuWVRuZTdPZGIzMG82eTdLZUpsY3hrXzVNZmp1QjEyaTdaUg?oc=5",
+              "region": "fr",
+              "note": 9
+            }
+          ]
+        },
+        {
+          "date": "2026-11-18",
+          "texte": "Anthropic entre en bourse en Europe et ajoute le mode Code à Claude, permettant des appels d’outils JavaScript.",
+          "articles": [
+            {
+              "titre": "Anthropic entre en bourse, des effets possibles pour l'Europe",
+              "source": "Brief IA",
+              "lien": "https://www.briefia.fr/article/anthropic-entre-en-bourse-des-effets-possibles-pour-l-europe",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Anthropic ajoute le mode Code à Claude : Claude enchaîne désormais les appels d’outils en JavaScript",
+              "source": "MarkTechPost",
+              "lien": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "Anthropic ajoute le mode Code à Claude Code : Claude enchaîne désormais les appels d’outils en JavaScript",
+              "source": "MarkTechPost",
+              "lien": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
+              "region": "dev",
+              "note": 7
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "f-0026",
       "titre": "Alibaba dévoile le modèle de base Qwen4‑Max",
@@ -933,247 +1432,6 @@
       ]
     },
     {
-      "id": "f-0003",
-      "titre": "Anthropic appelle à ralentir le développement de l'IA après des incidents d'agents autonomes",
-      "resume": "Le dirigeant d'Anthropic demande un frein à l'expansion rapide de l'IA suite à plusieurs cas où des agents autonomes ont pris le contrôle. Cette prise de position intervient alors que l'entreprise prépare son introduction en bourse.",
-      "statut": "actif",
-      "debut": "2026-11-09",
-      "derniere_activite": "2026-11-14",
-      "regions": [
-        "cn",
-        "fr",
-        "us"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-09",
-          "texte": "Annonce et mise à disposition des modèles Fable 5.2 et Mythos 5.2 avec réduction de prix.",
-          "articles": [
-            {
-              "titre": "Claude Fable 5.2 pilote des robots et conçoit du matériel",
-              "source": "Brief IA",
-              "lien": "https://www.briefia.fr/article/claude-fable-5-2-pilote-des-robots-et-concoit-du-materiel",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Claude peut maintenant contrôler un robot pour résoudre un Rubik’s cube : Anthropic lance Fable et Mythos 5.2, deux IA ultra-puissantes qui s’invitent dans le monde physique",
-              "source": "Presse-citron",
-              "lien": "https://www.presse-citron.net/claude-controler-robot-anthropic-fable-mythos-5-2/",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Claude Fable 5.2 et Mythos 5.2 lancés en même temps par Anthropic, qui fait une étonnante révélation",
-              "source": "Clubic",
-              "lien": "https://www.clubic.com/actualite-638497-claude-fable-5-2-et-mythos-5-2-lances-en-meme-temps-par-anthropic-qui-fait-une-etonnante-revelation.html",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Anthropic lance Mythos 5.2 et Fable 5.2, Fable à 8 $",
-              "source": "Brief IA",
-              "lien": "https://www.briefia.fr/article/anthropic-lance-mythos-5-2-et-fable-5-2-fable-a-8",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Claude Fable 5.2 et Mythos 5.2 disponibles : les IA d’Anthropic s’améliorent",
-              "source": "KultureGeek",
-              "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONHJLdGN3aXlYRnJ3ZzhrN0RNY3k0WEVUbURzbWQ3eGJuZXpJdGpEdmdWdGVBdGwzTTl0ZVdaN0ljY3hwUzNxTkNzZTdVVGZBN0k3NmVoVTI4ZUNsWUJBY1E5UTlfMlhCSzVtSS1UYVcza1NsNTFjaER6UHc2MHRQM1JHdTlSelJTNVJtT1dtWXU2Y0RZN0ZKWXJPYTBXT0tkUXc?oc=5",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Anthropic lance Fable 5.2, une version plus puissante et moins coûteuse de son modèle d’intelligence artificielle",
-              "source": "Le Figaro",
-              "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQS1A4SVh5TnkxOVdVdHM1dlhvaEJKcWpOU0tyVzRxclNiNkJ6eXNndThXZ2RpSHBrNUYzaUtTT2ozak1ZZGtGYUYtaDd3UHFXc1hzSnAzOE5GWTA2ckM2bkgwbllwaEZlQlZ5ZTVIdVF3ZEx1Q2I2MVVYNm9HYUtYLVdqUmZlSzdRTk5BeWRYdkMyaGF1b09FbTQzN0FFSXlHREc5M0gwRVlzMnd6VFVfQUkyQzhzRmRSVk51LUoxbWNmTmFTeVdzak5kb00ybmJBRTBsQnFvWUE2cl8wV2tCRDZqalgyVVJxZGljOXNHWG5hTTItdGc?oc=5",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Anthropic: version de l'IA de pointe plus puissante et moins chère avant l'IPO",
-              "source": "Zonebourse",
-              "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLWJ3ZUkxUHJqMUJTeGtidnpBbFk0d29xVE9wQkZ6MTZQTjBHdGhvZTdDUTJpdmhCSHBLSmNVNXMtbzZreUZzUEN6Z3YxT0t3SkJCLXM3ZlpBU0w2Y2NIVms0VFlIZ3JxWG8xaEowMDhScWVWQ3VOTjdteHZFNERTa0swb3ozRW05LVFkWkc1ekRWMVpyM0VjaXRkc0w3eUJBTTN6TE80SkVjVWY2RHlBWFI0QlVMa1BldmpCOHY5enpJVHVyZm16ejVLUHFyaGdROFBSQw?oc=5",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Nouveau Claude Fable 5.2 : Anthropic baisse de 20 % le prix de son IA la plus puissante et promet beaucoup moins de refus",
-              "source": "Frandroid",
-              "lien": "https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3316643_nouveau-claude-fable-5-2-anthropic-baisse-de-20-le-prix-de-son-ia-la-plus-puissante-et-promet-beaucoup-moins-de-refus",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Anthropic lance les nouveaux modèles d'IA Fable 5.2 et Mythos 5.2",
-              "source": "CNET",
-              "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPclhvZzYxckdzRVZ2dzNHMUZoSHd3RllabVFSSUxJUWRZRE5yaDNRQUFITi1hdG9lQ2RvamFJWERCQ3JIMllOcmxNZVJGSFNuQkROSlRPQm9TNDVMQldGZktKLXlmdXMxSHloOFllWXo5Unh1LWgzLUx3Q2g5ZnkydlRvRmpqRmliQ3VVdUlubw?oc=5",
-              "region": "us",
-              "note": null
-            }
-          ]
-        },
-        {
-          "date": "2026-11-10",
-          "texte": "Annonce de la fourchette de prix et de la valorisation cible de l’IPO d’Anthropic, avec de multiples analyses de presse.",
-          "articles": [
-            {
-              "titre": "Anthropic vise jusqu'à 90 Md$ pour son IPO avec une fourchette de 70-78 $",
-              "source": "Brief IA",
-              "lien": "https://www.briefia.fr/article/anthropic-vise-jusqu-a-90-md-pour-son-ipo-avec-une-fourchette-de-70-78",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Anthropic se valorise finalement 1 000 milliards $ pour son introduction en bourse",
-              "source": "Next",
-              "lien": "https://next.ink/266653/anthropic-se-valorise-finalement-1-000-milliards-pour-son-introduction-en-bourse/",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "CHRONOLOGIE-Le parcours d'Anthropic, de start-up spécialisée dans l'IA à introduction en bourse qui a marqué l",
-              "source": "Boursorama",
-              "lien": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPS1lVMWVDZW1jeE82Zm9FUE1IUFdvTHhwYWZYc2U5UjhBb1ZoNlcxV09VX1p4MGoyelpkM0pMRGpoMEYzeUNTSDBLQnJxY0xjeGJhQ3lhX1FIbzIwaUY3eGp2czhaVnhVWEptN1pUMTZyTGtndWtIUGNNYmtXR2E3dHhDa1RKVDhJOW5zNjFWeFVEUmdSYS1HX3pHZHo1Wjg5bTdzRFJoeUQzUlFEY3UteXM5end0N3VZa3Ffd3FpRzV5WVFzdldOa2tUdDNfcWoxUUZPbFc1RHJXaVpKWFZTSEVyTUZUUnB1M1pQMGJXTTh6NTNhd2QzWXZQVTNUUUVZZWdkaGlwUklDM2FydzRaZ3ByaHVjV2RkNElrQ0lMb2hzZ9IBpwJBVV95cUxOMm9US01STjUtUFJZWnphUkZzb000ams3NlJ1WHBiTFJObFhZMmxEWFVINzFrLWltU0JuRkZTUUpxZ2M2X3VrbnhoaDNEeE05WG9mSzZiWDlkdzZRaW9CVjRYLWJZLUpNbHBOb0dTNE95cEs4N1lVNUhnb1NJbE5GVlF0TnlVLVBNYVdFV2VnUFRCUXg2b0hrYnRVeDllTEtsWXRscHRDa01PUnVCQmtFc3NjRjRTOVdNSkZCRWY3WXlYRGJMS1dFbDRadjhHYjFKdFBsZnJ4TmVrWS1iVHFDaE8zWjQ1T0Y3QWV4QXNaUzdhQ3JUZkRvb05GSnFiUTRoQks4ZmhqUm80VHAxMTg3dzEwQUdHZ3RjUy1fNWdRWWZBbUNubG53?oc=5",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Le parcours d’Anthropic, de start-up de l’IA à une introduction en Bourse (IPO) appelée à redéfinir le secteur",
-              "source": "Zonebourse Suisse",
-              "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQejVDb2NZeXlyazVjcXpOckpvWHRZSFdIemRpbWkxRV8zQ0FPYW5xMV9TWHEwa3E2SElUenQtNGVJQWdPVGdTWjFpME5IRU43NXR3Z0VHeEk1XzdZYm1mYm5KZ2xaVXdYcENrb0dlV1d3N2tQdzVack5CaWRuRFRrTXRiMWFPRUxINUREcnVXeWlSSUVjWjEzZlBkTWlYcjZaYm0xUlRsSWV0N3JpaWVDcVozMk1tRU9xMllxOUU2bllua21zYnNNaWU1THZUbExNU2hfd3JISkxaOFpkc0JPMkJGMHBUZjN5VjhJ?oc=5",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Fable 5.2 & Mythos 5.2 : le coup d'éclat d'Anthropic juste avant son IPO",
-              "source": "JDN",
-              "lien": "https://www.journaldunet.com/intelligence-artificielle/1557819-fable-5-2-mythos-5-2-le-coup-de-force-d-anthropic-juste-avant-son-ipo/",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Anthropic vise une valorisation de 1,4 billion de dollars lors de son IPO très attendu, au cœur du boom IA",
-              "source": "Yahoo Finance",
-              "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFd6MGdLa3YwRWRsck0xaEFGNHNwYm9nSW1idFZSeWVLVzczSG5mYy1hazd3bUppeW9NNlhTM3p0Si0xZWxYd0R0QU9ReXZONmVPMHNtMTYwRG43N3FfWEJjMXltM2pGZXRJWGxiNXV5WXVndXlOQ3E4VTBTQ3gwdzhJc1l6VTh2ODJKNFMtOXRzMWJDYS05TGl0UzR2bXBkc2xB?oc=5",
-              "region": "us",
-              "note": null
-            },
-            {
-              "titre": "Anthropic cible une valorisation allant jusqu’à 1,4 billion de dollars pour son IPO phare",
-              "source": "The New York Times",
-              "lien": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
-              "region": "us",
-              "note": null
-            },
-            {
-              "titre": "Anthropic mise sur une valorisation de 1,4 billion de dollars en IPO, testant l’engouement de Wall Street pour l’IA",
-              "source": "Central Oregon Daily",
-              "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNU1BhX1RsUlNwTzg3dkU3NGxHUlhKQ1RDWGRBazVfbXZMbEN0M2Y0QTNBbjk2YjZGRTdqMDlzd21JaTJJc1pXRmxXSDRjb2NlWHlfaG8wenJJSjVPZ0s0M3hHRlo5dnhFSUVzcmhSbXBYNkpSZlJKMndvWEtZbnYtTF9nNmx2c29KYTI3S2JfazhoWFl4OThhTHplR2l1YzJJbnFJNzNIWXk5SDRmQzhOeFZuclpiSUNhaEJJdlk3bWFIaFB0dVJGdDd5YUpnaml0cEVVajlIaHM2RXZiT0RrcUo4eGJMQWM1aTg2eFQxcE9XWi1RZ1AyYi05OEFYVkxycHo2Wg?oc=5",
-              "region": "us",
-              "note": null
-            },
-            {
-              "titre": "Anthropic fixe la fourchette de prix de son IPO entre 70 $ et 78 $, avec un lancement prévu le 19 novembre, selon des sources",
-              "source": "CNBC",
-              "lien": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
-              "region": "us",
-              "note": null
-            }
-          ]
-        },
-        {
-          "date": "2026-11-11",
-          "texte": "Valorisation cible révisée, facturation massive, avertissements d’investisseurs et inquiétudes sur la bulle IA autour de l’IPO d’Anthropic.",
-          "articles": [
-            {
-              "titre": "Anthropic factura hasta 2.330 millones con usuarios que luego bloquea",
-              "source": "Foro3D",
-              "lien": "https://foro3d.com/2026/noviembre/anthropic-factura-hasta-2330-millones-con-usuarios-que-luego-bloquea.html",
-              "region": "fr",
-              "note": 7
-            },
-            {
-              "titre": "Anthropic vise une valorisation de 1,3 billion de dollars malgré les craintes de bulle IA",
-              "source": "DW.com",
-              "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTlA2cjFGLVd2cE5lT0RFX0d4RGxLc0dpN1Jma1NoQndRTnQxQkRUMmw4NF9VbnM5SFJsU25SWmN2cmFQWmE5NDBWMmpxUGh1NDBlY0lBSUQ0amM4RF9YYVpPclFmSnJzREY4ZVBTX0JJMVNyV1hzUXhZem5hc2puMWM5YUxEcExNd2JWalpOdHNWRlk2S0NZYjBBTQ?oc=5",
-              "region": "us",
-              "note": 8
-            },
-            {
-              "titre": "Anthropic et d’autres mettent en garde contre l’accélération de l’IA",
-              "source": "The Information",
-              "lien": "https://www.theinformation.com/articles/anthropic-others-warn-ai-acceleration",
-              "region": "us",
-              "note": 8
-            },
-            {
-              "titre": "Le leasing d’Anthropic de 161 milliards de dollars par Broadcom est le vrai pari IA",
-              "source": "Money Morning",
-              "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVhqV3JsRjVOQU85OVhLeGJmc0lFekEtQ3lZbDJLWl9aVXN3WFVUeEZXWDBnWGl2VEo1YjA2SkJhRjhGM3RtWEVpVl8tb25DUzlHMVhrODhObFlyaWZzbGJwMkVMTEhqNWMwRy1mZXJqYnVtNjRJUF93WWRuaGNMUWpTeEp5bGo5ZjJEVXhWcmtlLWp3WUw5V1JYUG9XOU8w?oc=5",
-              "region": "us",
-              "note": 8
-            },
-            {
-              "titre": "Un investisseur chevronné de la Silicon Valley alerte : l'introduction en bourse d'Anthropic pourrait déclencher l'éclatement de la bulle IA",
-              "source": "财联社电报",
-              "lien": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40eVFtMUdienczYmR3T05xSUxQZDVTRFVaaUZfdW9SZjJIT1pLZUQwZ3hwRzhuMmUtWTdCWmZ6dE1naFlzbWc?oc=5",
-              "region": "cn",
-              "note": 7
-            }
-          ]
-        },
-        {
-          "date": "2026-11-12",
-          "texte": "Dernières évolutions de l'IPO d'Anthropic, incluant hausse des dépenses et record de visites.",
-          "articles": [
-            {
-              "titre": "Pour le géant de l’IA Anthropic, le pari risqué de l’entrée en Bourse",
-              "source": "Mediapart",
-              "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSkJrbGhHNDl4bDl1Q0JHSEp3TW1CYjFrdWtiQi1pSVhsZFdURmF4WWRPY1ZjSDBvaFdZbEV5QXFidElPc2ZXU0RwUVBoSGQ3eVF4U3RQLUxzUEVIbXZIM3Z2YTREMk0yMTEwNjFrYjgxNWlHVWYxMWJKUFpuZjB0Q2ZNQ1lFMktBRGJGRW9iQjhsRjFaeUdINlEyeHNKZ1FCcUFZRTVXQmt0TlJiOElBc3A5Qkw5cFMwNUU2OVpFNmIxMjFnUFE?oc=5",
-              "region": "fr",
-              "note": 7
-            },
-            {
-              "titre": "Les dépenses d'Anthropic, startup d'IA, augmentent de 79 % en octobre, soit le double depuis mai",
-              "source": "FourWeekMBA",
-              "lien": "https://fourweekmba.com/ai-startups-anthropic-spend-up-79-in-october-2x-since-may/?utm_source=rss&utm_medium=rss&utm_campaign=ai-startups-anthropic-spend-up-79-in-october-2x-since-may",
-              "region": "us",
-              "note": 8
-            },
-            {
-              "titre": "En soutien à l'IPO d'Anthropic : le site de Claude en octobre enregistre 1,253 milliard de visites, un record dépassant ChatGPT d'OpenAI et Gemini de Google",
-              "source": "IT之家",
-              "lien": "https://www.ithome.com/1/026/041.htm",
-              "region": "cn",
-              "note": 7
-            },
-            {
-              "titre": "Vision ultime de l'IA ou simple histoire de capital ? Le PDG d'Anthropic prédit la disparition du cancer, des maladies cardiaques et mentales d’ici dix ans",
-              "source": "证券之星",
-              "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBteEI3cHZDeTdVS3phcmZ3Z0tEVUtURXlIM0ZxUU01MDhjWHRudzdmOTB3UmNSX29XcXl0VUFzdWF6WU1qRlgtdUlZOHg4N3pmU0xzT3RBd0JVZXNacTgzWQ?oc=5",
-              "region": "cn",
-              "note": 7
-            }
-          ]
-        },
-        {
-          "date": "2026-11-14",
-          "texte": "Appel public à la prudence de la part d'Anthropic, potentiellement influençant son IPO.",
-          "articles": [
-            {
-              "titre": "Le patron d’Anthropic appelle à ralentir l’IA après des incidents où des agents autonomes ont pris le contrôle",
-              "source": "Le Temps",
-              "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbzZmalV3UTBLYi1WN3ZOTjIxdl93cEJ1ZTktdkRVaGxUYzhtMDZzX3h2UHo1d2liSUwyVUlmRkMxTk9qMGJJM3l6N0lVZUFsT242Q2VDTmM3UHVTVUFJbU93MzhVNVpycUN0LVZsZU1MRVFWQ2VJRU1hemRFRXdMQWZROWpVQlFEdjFnTVVrUjUycGl0TU9udVBNdEUzUlpRdl94R040NU1LTDF4WndNMmwzemZFbUhuYm45UnlOczU5YTFsYW9uZnlhS0tMcTdBb3c0czBuWVRuZTdPZGIzMG82eTdLZUpsY3hrXzVNZmp1QjEyaTdaUg?oc=5",
-              "region": "fr",
-              "note": 9
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "f-0017",
       "titre": "CLARA révolutionne le calcul des bioréacteurs",
       "resume": "Le nouvel outil open source CLARA divise par 10 000 le temps de calcul nécessaire aux bioréacteurs, ouvrant la voie à des avancées rapides en biotechnologie grâce à l’IA.",
@@ -1314,47 +1572,6 @@
               "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNlVZTVIwZS14VE1xNUNCTDBGQXRwU3E2T1JBWWhsLVV2SUxpRzUyeHZpbS1acWNIb2dqM3hZWmdObjJoWGcwZjA4SDlNQ0FEbEI3ZFpnRXNzeEJXMTcxS2w3bFVEaU4yS1R0MGVlQW02TV9vWjlzQVV5WDBzU1RZYVNUeXBCX29ScWM1bXNMVkRZd25rVjBQbWdVZmxpak5DTklLcmJieXRLWDZTcEpRY2NEWGFhMmtjM2RGWkN6OWk0ZjltenZrdUFGQk51SWNQaGxDZUJja2luWHl3R0JDUWo4SVZpMGRXSFRNWGpYWEE?oc=5",
               "region": "fr",
               "note": 7
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f-0009",
-      "titre": "OpenAI renforce la sécurité et la vérification des comptes IA",
-      "resume": "OpenAI ajoute des profils d’entreprise vérifiés, des agents IA à ChatGPT et dévoile un \"kill switch\" destiné à arrêter immédiatement les modèles en cas de dérive.",
-      "statut": "actif",
-      "debut": "2026-11-11",
-      "derniere_activite": "2026-11-11",
-      "regions": [
-        "fr",
-        "us"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-11",
-          "texte": "Lancement de profils d’entreprise vérifiés, d’agents IA et d’un kill switch pour sécuriser les IA d’OpenAI.",
-          "articles": [
-            {
-              "titre": "OpenAI ajoute des profils d'entreprise vérifiés et des agents IA à ChatGPT",
-              "source": "fr.qz.com",
-              "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjWVAybWp6R1VDdXJqcmJXYVpMUXZNblNlTU9rOEVKVVMyNm4yY0xjb3JPUmJuYnhRUzhZeWNCTl81UEZmcEZJMVRfaWRDZE1ZWHdXaTBsZHB3cTBqR3pYLTAwU25IOWZLMEtFNlUwbW40eU9SOEJz?oc=5",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "Arrêter les dégâts « dans les 35 secondes » : OpenAI dévoile le kill switch censé stopper ses IA quand elles dérapent",
-              "source": "Numerama",
-              "lien": "https://www.numerama.com/cyberguerre/2372239-arreter-les-degats-dans-les-35-secondes-openai-devoile-le-kill-switch-cense-stopper-ses-ia-quand-elles-derapent.html",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "OpenAI ajoute des profils d’entreprise vérifiés et des agents IA à ChatGPT",
-              "source": "Quartz",
-              "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LZDdPYkRUTjBfaGZMNXd2NlBJczBITmVfOE1ZUjFQaWRMVGU5eDN3LUtseXlaU3I5RHJYWThvdVpIUVV5UzZreDRMZzNVQ0lmUnNmTF90TVZ5bUU3TG9YNVgzeUxTdS1BT2tCTnVmZ1VIdw?oc=5",
-              "region": "us",
-              "note": 8
             }
           ]
         }

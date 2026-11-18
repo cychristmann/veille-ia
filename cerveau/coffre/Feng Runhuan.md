@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0021.md"
 type: "concept"
-community: "Veille France 2026-11-09 : Applications sociétales et culturelles de l’IA"
+community: "Claude"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-09__Applications_sociétales_et_culturelles_de_lIA
+  - community/Claude
 ---
 
 # Feng Runhuan
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Feuilleton L'IA en tête des risques pour la stabilité financière]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-09__Applications_sociétales_et_culturelles_de_lIA
+#graphify/concept #graphify/EXTRACTED #community/Claude

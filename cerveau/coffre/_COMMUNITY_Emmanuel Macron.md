@@ -1,20 +1,25 @@
 ---
 type: community
-members: 7
+members: 12
 ---
 
 # Emmanuel Macron
 
-**Members:** 7 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Australia AI Regulator]] - concept - feuilletons/f-0005.md
-- [[Emmanuel Macron]] - code - veilles/veille-ia-fr-2026-11-09-t2.md
-- [[Loi Darcos]] - concept - veilles/veille-ia-fr-2026-11-10-t1.md
-- [[Presse-citron]] - concept - feuilletons/f-0006.md
-- [[Protection de l'enfance]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[RFI]] - concept - feuilletons/f-0005.md
-- [[Veille France 2026-11-10  Régulation et gouvernance]] - document - veilles/veille-ia-fr-2026-11-10-t1.md
+- [[Akron Beacon Journal]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
+- [[Bay Security]] - concept - feuilletons/f-0004.md
+- [[Bloomberg Technology]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
+- [[Fortune]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
+- [[GovInfoSecurity]] - concept - feuilletons/f-0004.md
+- [[KTVN]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
+- [[Movieguide]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
+- [[Reuters]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
+- [[The Korea Herald]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
+- [[Veille États-Unis 2026-11-17  Autres articles]] - document - veilles/veille-ia-us-2026-11-17-t5.md
+- [[Zonebourse]] - concept - feuilletons/f-0004.md
+- [[shattered.io]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,8 +29,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen_1]]
-- 1 edge to [[_COMMUNITY_Appel de Paris]]
+- 1 edge to [[_COMMUNITY_OpenAI_1]]
 
 ## Top bridge nodes
-- [[Emmanuel Macron]] - degree 5, connects to 2 communities
+- [[Veille États-Unis 2026-11-17  Autres articles]] - degree 9, connects to 1 community

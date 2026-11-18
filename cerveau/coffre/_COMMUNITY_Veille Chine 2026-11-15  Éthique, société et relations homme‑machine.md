@@ -1,19 +1,20 @@
 ---
 type: community
-members: 6
+members: 7
 ---
 
 # Veille Chine 2026-11-15 : Éthique, société et relations homme‑machine
 
-**Members:** 6 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Community Impact]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[Daily Herald]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[Federal News Network]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[Inside Global Tech]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[News 5 Cleveland WEWS]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[Veille États-Unis 2026-11-09  Régulation et politiques publiques]] - document - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Moomoo]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
+- [[Veille Chine 2026-11-15  Finances, valorisation et marché de l’IA]] - document - veilles/veille-ia-cn-2026-11-15-t3.md
+- [[中青在线 (China Youth Online)]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
+- [[富途牛牛 (Futu Niuniu)]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
+- [[招商证券 (China Merchants Securities)]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
+- [[新浪财经 (Sina Finance)]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
+- [[高毅资产 (High-Flyer Asset Management)]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
 
 ## Live Query (requires Dataview plugin)
 

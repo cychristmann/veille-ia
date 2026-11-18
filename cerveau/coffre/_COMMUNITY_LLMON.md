@@ -1,17 +1,16 @@
 ---
 type: community
-members: 4
+members: 3
 ---
 
 # LLMON
 
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Expo Cloud Simulators for AI Coding Agents]] - concept - veilles/veille-ia-dev-2026-11-12-t6.md
-- [[Granite 4.1]] - code - veilles/veille-ia-dev-2026-11-13-t5.md
-- [[LLMON]] - code - veilles/veille-ia-dev-2026-11-13-t5.md
-- [[Veille Outils & code 2026-11-12  Outils et frameworks divers]] - document - veilles/veille-ia-dev-2026-11-12-t6.md
+- [[Fed (Réserve fédérale)]] - concept - veilles/veille-ia-fr-2026-11-14-t5.md
+- [[IA et système financier]] - concept - veilles/veille-ia-fr-2026-11-14-t5.md
+- [[Veille France 2026-11-14  Autres articles]] - document - veilles/veille-ia-fr-2026-11-14-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,9 +18,3 @@ members: 4
 TABLE source_file, type FROM #community/LLMON
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Claude Code]]
-
-## Top bridge nodes
-- [[LLMON]] - degree 3, connects to 1 community

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-10-t2.md"
 type: "concept"
-community: "Meta"
+community: "Veille Chine 2026-11-13"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Meta
+  - community/Veille_Chine_2026-11-13
 ---
 
 # Indiana University
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Meta]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Meta
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-13

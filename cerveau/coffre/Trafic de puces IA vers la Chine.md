@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0001.md"
 type: "concept"
-community: "Jensen Huang"
+community: "Débats à Saint-Tropez"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Jensen_Huang
+  - community/Débats_à_Saint-Tropez
 ---
 
 # Trafic de puces IA vers la Chine
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Jensen Huang]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Jensen_Huang
+#graphify/concept #graphify/EXTRACTED #community/Débats_à_Saint-Tropez

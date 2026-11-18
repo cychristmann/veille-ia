@@ -11,7 +11,7 @@ members: 6
 - [[Barclays Research]] - concept - dossiers/2026-11-13-2.md
 - [[Chinese Robotics Industry]] - concept - dossiers/2026-11-13-2.md
 - [[Morgan Stanley]] - concept - veilles/veille-ia-fr-2026-11-12-t1.md
-- [[Naver]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Naver]] - concept - veilles/veille-ia-fr-2026-11-12-t1.md
 - [[UBS]] - concept - veilles/veille-ia-fr-2026-11-12-t1.md
 - [[Veille France 2026-11-12  Marchés financiers et investissements IA]] - document - veilles/veille-ia-fr-2026-11-12-t1.md
 
@@ -24,9 +24,9 @@ SORT file.name ASC
 
 ## Connections to other communities
 - 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière_1]]
+- 1 edge to [[_COMMUNITY_CoreWeave]]
 - 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_Google]]
 
 ## Top bridge nodes
 - [[Veille France 2026-11-12  Marchés financiers et investissements IA]] - degree 6, connects to 3 communities

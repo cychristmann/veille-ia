@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-10-t6.md"
 type: "document"
-community: "Claude"
+community: "Tencent"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Claude
+  - community/Tencent
 ---
 
 # Veille États-Unis 2026-11-10 : Marché, concurrence et tendances
@@ -14,4 +14,4 @@ tags:
 - [[Sanmina]] - `references` [EXTRACTED]
 - [[Tencent]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Claude
+#graphify/document #graphify/EXTRACTED #community/Tencent

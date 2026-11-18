@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0013.md"
 type: "concept"
-community: "Anthropic"
+community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Anthropic
+  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
 ---
 
 # Snowflake
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Cortex]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Anthropic
+#graphify/concept #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière

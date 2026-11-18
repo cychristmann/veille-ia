@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-17-t3.md"
+source_file: "veilles/veille-ia-fr-2026-11-17-t1.md"
 type: "document"
-community: "Jensen Huang"
+community: "Veille Outils & code 2026-11-15"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Jensen_Huang
+  - community/Veille_Outils__code_2026-11-15
 ---
 
 # Veille France 2026-11-17
@@ -35,4 +35,4 @@ tags:
 - [[Samsung One UI 9.5]] - `references` [EXTRACTED]
 - [[Tencent]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Jensen_Huang
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-15

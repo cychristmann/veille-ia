@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-10-t4.md"
 type: "document"
-community: "Qwen4-Max"
+community: "Alibaba"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Qwen4-Max
+  - community/Alibaba
 ---
 
 # Veille États-Unis 2026-11-10 : Infrastructure et data‑centers
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Infineon]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Qwen4-Max
+#graphify/document #graphify/EXTRACTED #community/Alibaba

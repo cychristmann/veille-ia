@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-17-t1.md"
 type: "concept"
-community: "Nubia"
+community: "Uber Legal Redlining Agent"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Nubia
+  - community/Uber_Legal_Redlining_Agent
 ---
 
 # Uber Legal Redlining Agent
@@ -15,4 +15,4 @@ tags:
 - [[OpenSearch]] - `references` [EXTRACTED]
 - [[Redis]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Nubia
+#graphify/concept #graphify/EXTRACTED #community/Uber_Legal_Redlining_Agent

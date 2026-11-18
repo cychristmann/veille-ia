@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille États-Unis 2026-11-10 : Régulation, sécurité et éthique
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Qwen3.8]] - concept - veilles/veille-ia-dev-2026-11-15-t2.md
+- [[AWS Budgets]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
+- [[IAM]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-10-t7.md"
 type: "concept"
-community: "Nimble"
+community: "Suno AI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Nimble
+  - community/Suno_AI
 ---
 
 # Artifact AI
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-10  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Nimble
+#graphify/concept #graphify/EXTRACTED #community/Suno_AI

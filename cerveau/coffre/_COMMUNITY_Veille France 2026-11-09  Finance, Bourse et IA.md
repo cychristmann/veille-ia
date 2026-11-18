@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[248 Ventures]] - concept - dossiers/2026-11-16-2.md
+- [[Veille France 2026-11-09  Finance, Bourse et IA]] - document - veilles/veille-ia-fr-2026-11-09-t2.md
 
 ## Live Query (requires Dataview plugin)
 

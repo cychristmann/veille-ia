@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille États-Unis 2026-11-14  Impact Social, Éthique et Travail]] - document - veilles/veille-ia-us-2026-11-14-t4.md
+- [[Feuilleton Centre international d’IA militaire français ouvert à Rennes]] - document - feuilletons/f-0023.md
 
 ## Live Query (requires Dataview plugin)
 

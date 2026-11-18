@@ -12,6 +12,5 @@ tags:
 
 ## Connections
 - [[Doubao]] - `references` [EXTRACTED]
-- [[QwenWork]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__IA_dans_le_commerce_et_le_divertissement

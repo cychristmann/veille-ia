@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-10-t1.md"
 type: "concept"
-community: "Wentou Holdings"
+community: "Blue J"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Wentou_Holdings
+  - community/Blue_J
 ---
 
 # Blue J
 
-#graphify/concept #graphify/EXTRACTED #community/Wentou_Holdings
+#graphify/concept #graphify/EXTRACTED #community/Blue_J

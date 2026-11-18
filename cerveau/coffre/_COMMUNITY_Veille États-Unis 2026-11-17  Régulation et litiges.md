@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille États-Unis 2026-11-17  Régulation et litiges]] - document - veilles/veille-ia-us-2026-11-17-t1.md
+- [[Louis Perez]] - code - veilles/veille-ia-fr-2026-11-09-t3.md
 
 ## Live Query (requires Dataview plugin)
 

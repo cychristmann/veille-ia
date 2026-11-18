@@ -1,16 +1,24 @@
 ---
 type: community
-members: 3
+members: 11
 ---
 
 # Dossier : Nvidia désigné champion national de l’IA aux États‑Unis
 
-**Members:** 3 nodes
+**Members:** 11 nodes
 
 ## Members
-- [[Dossier  Nvidia désigné champion national de l’IA aux États‑Unis]] - document - dossiers/2026-11-16-2.md
-- [[Les résultats de Nvidia pèsent sur la tech  réaction d'une stratège]] - document - dossiers/2026-11-16-2.md
-- [[Nvidia en pleine épreuve  la concurrence de DeepSeek menace sa domination dans l'IA]] - document - dossiers/2026-11-16-2.md
+- [[Après l’euphorie, la course à l’IA se heurte déjà aux limites de son modèle économique]] - document - dossiers/2026-11-15-2.md
+- [[Boom de l'intelligence artificielle]] - concept - dossiers/2026-11-15-2.md
+- [[Data-centers]] - concept - dossiers/2026-11-15-2.md
+- [[Dossier  Effondrement du boom IA et crise des data-centers]] - document - dossiers/2026-11-15-2.md
+- [[Empreinte environnementale]] - concept - dossiers/2026-11-15-2.md
+- [[Géants technologiques (Alphabet, Amazon, Microsoft, Meta)]] - concept - dossiers/2026-11-15-2.md
+- [[Investissements dans l’IA  jusqu’où ira l’euphorie mondiale avant le coup de frein]] - document - dossiers/2026-11-15-2.md
+- [[L’empreinte environnementale de l’IA pourrait être multipliée par 7 d’ici 2030]] - document - dossiers/2026-11-15-2.md
+- [[OPINION. « L'énergie pour les data centers de l'IA, atout stratégique ou mirage  »]] - document - dossiers/2026-11-15-2.md
+- [[Risque macroéconomique]] - concept - dossiers/2026-11-15-2.md
+- [[Un coup d'arrêt de l'IA aurait des répercussions bien au-delà des Etats-Unis]] - document - dossiers/2026-11-15-2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,9 +26,3 @@ members: 3
 TABLE source_file, type FROM #community/Dossier__Nvidia_désigné_champion_national_de_lIA_aux_ÉtatsUnis
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia]]
-
-## Top bridge nodes
-- [[Dossier  Nvidia désigné champion national de l’IA aux États‑Unis]] - degree 3, connects to 1 community

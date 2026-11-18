@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Veille Chine 2026-11-12  Régulation, géopolitique et politique]] - document - veilles/veille-ia-cn-2026-11-12-t4.md
-- [[中信证券]] - concept - veilles/veille-ia-cn-2026-11-12-t4.md
+- [[Enterprise RAG Systems]] - concept - veilles/veille-ia-dev-2026-11-16-t5.md
+- [[Veille Outils & code 2026-11-16  Recherche, méthodologies et analyses d’agents IA]] - document - veilles/veille-ia-dev-2026-11-16-t5.md
 
 ## Live Query (requires Dataview plugin)
 

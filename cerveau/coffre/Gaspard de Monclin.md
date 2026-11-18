@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t4.md"
 type: "concept"
-community: "Veille France 2026-11-13 : Impact sociétal & Débats publics"
+community: "Débats à Saint-Tropez"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-13__Impact_sociétal__Débats_publics
+  - community/Débats_à_Saint-Tropez
 ---
 
 # Gaspard de Monclin
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-13  Impact sociétal & Débats publics]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-13__Impact_sociétal__Débats_publics
+#graphify/concept #graphify/EXTRACTED #community/Débats_à_Saint-Tropez

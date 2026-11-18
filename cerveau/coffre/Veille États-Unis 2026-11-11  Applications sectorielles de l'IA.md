@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t3.md"
 type: "document"
-community: "Meta"
+community: "Alibaba"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Meta
+  - community/Alibaba
 ---
 
 # Veille États-Unis 2026-11-11 : Applications sectorielles de l'IA
@@ -15,4 +15,4 @@ tags:
 - [[Helsing]] - `references` [EXTRACTED]
 - [[Rafael]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Meta
+#graphify/document #graphify/EXTRACTED #community/Alibaba

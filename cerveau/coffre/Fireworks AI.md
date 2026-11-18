@@ -1,9 +1,9 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-17-t2.md"
-type: "code"
+source_file: "veilles/veille-ia-fr-2026-11-12-t4.md"
+type: "concept"
 community: "Cursor"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
   - community/Cursor
 ---
@@ -14,7 +14,5 @@ tags:
 - [[Cursor]] - `references` [EXTRACTED]
 - [[Malicious Claude Code Extension]] - `references` [EXTRACTED]
 - [[Notion]] - `shares_data_with` [INFERRED]
-- [[Uber]] - `shares_data_with` [EXTRACTED]
-- [[Veille Chine 2026-11-17  Sécurité et fuites de données IA]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Cursor
+#graphify/concept #graphify/EXTRACTED #community/Cursor

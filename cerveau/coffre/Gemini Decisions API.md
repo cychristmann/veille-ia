@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-12-t2.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-14 : Politique, Régulation et Sécurité"
+community: "Veille Outils & code 2026-11-12 : Déploiement et infrastructure IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-14__Politique_Régulation_et_Sécurité
+  - community/Veille_Outils__code_2026-11-12__Déploiement_et_infrastructure_IA
 ---
 
 # Gemini Decisions API
@@ -14,4 +14,4 @@ tags:
 - [[Veille Outils & code 2026-11-12  Déploiement et infrastructure IA]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-12  Nouveaux modèles et performances]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Politique_Régulation_et_Sécurité
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12__Déploiement_et_infrastructure_IA

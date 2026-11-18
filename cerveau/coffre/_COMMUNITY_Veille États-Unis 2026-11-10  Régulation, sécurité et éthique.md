@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Veille États-Unis 2026-11-10 : Régulation, sécurité et éthique
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Deploying AI into Workplaces What Leaders Need to Know]] - document - veilles/veille-ia-us-2026-11-16-t3.md
-- [[Veille États-Unis 2026-11-16  Éducation, formation et environnement professionnel]] - document - veilles/veille-ia-us-2026-11-16-t3.md
+- [[Gemma 4]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
+- [[Nimble]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
+- [[Ollama]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
 
 ## Live Query (requires Dataview plugin)
 

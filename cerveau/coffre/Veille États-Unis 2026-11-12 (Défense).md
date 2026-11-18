@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t3.md"
 type: "document"
-community: "Meta"
+community: "Alibaba"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Meta
+  - community/Alibaba
 ---
 
 # Veille États-Unis 2026-11-12 (Défense)
@@ -14,4 +14,4 @@ tags:
 - [[Helsing]] - `references` [EXTRACTED]
 - [[Shield AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Meta
+#graphify/document #graphify/EXTRACTED #community/Alibaba

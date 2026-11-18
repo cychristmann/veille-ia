@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-12-2.md"
 type: "concept"
-community: "Claude"
+community: "Tencent"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Claude
+  - community/Tencent
 ---
 
 # IA-native Strategy
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Tencent]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Claude
+#graphify/concept #graphify/EXTRACTED #community/Tencent

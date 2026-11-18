@@ -1,22 +1,24 @@
 ---
 type: community
-members: 9
+members: 11
 ---
 
 # Veille Outils & code 2026-11-16
 
-**Members:** 9 nodes
+**Members:** 11 nodes
 
 ## Members
-- [[Centre de défense IA à Rennes]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Enquête Malaisie sur filiale MegaspeedNvidia]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Mission Capgemini sur les risques cyber de l'IA]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Modèle économique IA d'Apple]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Politiques IA aux États-Unis]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Régulation IA en Australie]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Sommet inédit de l'UE sur l'IA]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Veille France 2026-11-13]] - document - veilles/veille-ia-fr-2026-11-13-t1.md
-- [[xFusion]] - concept - veilles/veille-ia-fr-2026-11-13-t1.md
+- [[Amplitude Wave]] - code - veilles/veille-ia-dev-2026-11-13-t6.md
+- [[Brave Search API]] - code - veilles/veille-ia-dev-2026-11-13-t6.md
+- [[Claude Meetings]] - concept - veilles/veille-ia-dev-2026-11-12-t1.md
+- [[Geni-Code]] - concept - veilles/veille-ia-dev-2026-11-16-t2.md
+- [[GraphRAG]] - concept - veilles/veille-ia-dev-2026-11-16-t2.md
+- [[Nota]] - concept - veilles/veille-ia-dev-2026-11-16-t2.md
+- [[OpenAI Daybreak]] - concept - veilles/veille-ia-dev-2026-11-16-t2.md
+- [[Veille Outils & code 2026-11-13 (T6)]] - document - veilles/veille-ia-dev-2026-11-13-t6.md
+- [[Veille Outils & code 2026-11-16]] - document - veilles/veille-ia-dev-2026-11-16-t2.md
+- [[dspy-wsp]] - concept - veilles/veille-ia-dev-2026-11-16-t2.md
+- [[x402 protocol]] - concept - veilles/veille-ia-dev-2026-11-13-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,9 +28,17 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Jensen Huang]]
-- 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_SpaceX]]
+- 2 edges to [[_COMMUNITY_Copilot]]
+- 2 edges to [[_COMMUNITY_Cursor]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-12]]
+- 1 edge to [[_COMMUNITY_OpenAI_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-15]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-12]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-13]] - degree 11, connects to 3 communities
+- [[Veille Outils & code 2026-11-16]] - degree 10, connects to 3 communities
+- [[Claude Meetings]] - degree 4, connects to 2 communities
+- [[Veille Outils & code 2026-11-13 (T6)]] - degree 4, connects to 1 community
+- [[Amplitude Wave]] - degree 2, connects to 1 community
+- [[dspy-wsp]] - degree 2, connects to 1 community

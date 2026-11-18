@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-12-t2.md"
+source_file: "veilles/veille-ia-fr-2026-11-12-t1.md"
 type: "concept"
 community: "Veille France 2026-11-12 : Marchés financiers et investissements IA"
 tags:

@@ -1,9 +1,9 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-09-t2.md"
-type: "code"
+source_file: "veilles/veille-ia-fr-2026-11-17-t2.md"
+type: "concept"
 community: "OpenAI"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
   - community/OpenAI
 ---
@@ -17,4 +17,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/OpenAI
+#graphify/concept #graphify/EXTRACTED #community/OpenAI

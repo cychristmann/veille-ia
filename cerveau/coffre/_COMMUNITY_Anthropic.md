@@ -1,30 +1,35 @@
 ---
 type: community
-members: 17
+members: 22
 ---
 
 # Anthropic
 
-**Members:** 17 nodes
+**Members:** 22 nodes
 
 ## Members
-- [[Alibaba AI]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Bitcoin Miners AI]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Cortex]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Gemini Decisions]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Google AI Studio]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Google Gemini CarPlay]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Harbor Claris]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[JioStar]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Local LLM Server]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[MEL Conference]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[NAS AI Server]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Omnii Defense]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Snowflake]] - concept - feuilletons/f-0013.md
-- [[United Airlines]] - concept - veilles/veille-ia-us-2026-11-13-t3.md
-- [[Veille France 2026-11-12]] - document - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Veille États-Unis 2026-11-13  Applications sectorielles de l’IA]] - document - veilles/veille-ia-us-2026-11-13-t3.md
-- [[rLocalLLM]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Agent Name Service]] - concept - veilles/veille-ia-cn-2026-11-10-t5.md
+- [[Apple HomeView]] - concept - veilles/veille-ia-cn-2026-11-15-t7.md
+- [[Ascend 950DT Chip]] - concept - veilles/veille-ia-cn-2026-11-18-t1.md
+- [[Cadence]] - concept - veilles/veille-ia-us-2026-11-15-t3.md
+- [[China Telecom]] - concept - veilles/veille-ia-cn-2026-11-18-t1.md
+- [[Guangdong Tianyima Information Industry Co., Ltd.]] - concept - veilles/veille-ia-cn-2026-11-18-t1.md
+- [[HarmonyOS]] - concept - veilles/veille-ia-cn-2026-11-15-t7.md
+- [[Huawei]] - concept - veilles/veille-ia-cn-2026-11-18-t1.md
+- [[Linux Foundation]] - concept - veilles/veille-ia-cn-2026-11-10-t5.md
+- [[Robo.ai]] - concept - veilles/veille-ia-cn-2026-11-18-t3.md
+- [[SK Hynix]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
+- [[Samsung]] - concept - veilles/veille-ia-us-2026-11-15-t3.md
+- [[Shanghai Universities]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
+- [[Veille Chine 2026-11-10  Écosystèmes, plateformes et outils IA]] - document - veilles/veille-ia-cn-2026-11-10-t5.md
+- [[Veille Chine 2026-11-15  Autres articles]] - document - veilles/veille-ia-cn-2026-11-15-t7.md
+- [[Veille Chine 2026-11-15  IA industrielle et technologique]] - document - veilles/veille-ia-cn-2026-11-15-t2.md
+- [[Veille Chine 2026-11-18  Applications sectorielles]] - document - veilles/veille-ia-cn-2026-11-18-t3.md
+- [[Veille Chine 2026-11-18  Infrastructure et matériel]] - document - veilles/veille-ia-cn-2026-11-18-t1.md
+- [[Veille États-Unis 2026-11-15  Matériel et robotique IA]] - document - veilles/veille-ia-us-2026-11-15-t3.md
+- [[WEIBUILD]] - concept - veilles/veille-ia-us-2026-11-15-t3.md
+- [[Xiaopeng G9]] - concept - veilles/veille-ia-cn-2026-11-15-t7.md
+- [[中能拾贝]] - concept - veilles/veille-ia-cn-2026-11-18-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -34,10 +39,15 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-12  Marchés financiers et investissements IA]]
+- 3 edges to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-13]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-12]]
+- 1 edge to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_OpenAI_1]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-12]] - degree 14, connects to 2 communities
-- [[Gemini Decisions]] - degree 3, connects to 1 community
+- [[Veille Chine 2026-11-15  IA industrielle et technologique]] - degree 8, connects to 4 communities
+- [[Huawei]] - degree 8, connects to 1 community
+- [[Veille Chine 2026-11-18  Infrastructure et matériel]] - degree 5, connects to 1 community
+- [[Veille Chine 2026-11-15  Autres articles]] - degree 4, connects to 1 community

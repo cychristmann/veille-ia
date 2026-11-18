@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-16-t6.md"
 type: "document"
-community: "IA dans l'enseignement supérieur"
+community: "无界进化 (INFevo)"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/IA_dans_lenseignement_supérieur
+  - community/无界进化_INFevo
 ---
 
 # Veille Chine 2026-11-16 : Autres articles
@@ -14,4 +14,4 @@ tags:
 - [[无界进化 (INFevo)]] - `references` [EXTRACTED]
 - [[美联储金融稳定报告]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/IA_dans_lenseignement_supérieur
+#graphify/document #graphify/EXTRACTED #community/无界进化_INFevo

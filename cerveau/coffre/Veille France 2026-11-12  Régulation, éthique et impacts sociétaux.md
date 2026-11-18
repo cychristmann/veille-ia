@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-12-t4.md"
 type: "document"
-community: "Meta"
+community: "Copilot"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Meta
+  - community/Copilot
 ---
 
 # Veille France 2026-11-12 : Régulation, éthique et impacts sociétaux
@@ -17,4 +17,4 @@ tags:
 - [[ORONI]] - `references` [EXTRACTED]
 - [[Yann Le Cun]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Meta
+#graphify/document #graphify/EXTRACTED #community/Copilot

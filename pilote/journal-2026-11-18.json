@@ -1,0 +1,131 @@
+{
+ "date": "2026-11-18",
+ "mode": "ia",
+ "bilan": "Cette nuit, la veille a atteint les objectifs de quantité d'articles pour la France, les États‑Unis et la Chine, mais le nombre d'articles dans Outils & code est resté en dessous du quota (41 sur 50). Le pourcentage de liens directs est satisfaisant pour la France (72 %) mais reste insuffisant aux États‑Unis (56 %) et très limité en Chine (18 %). Deux sources sont en panne, ce qui a empêché d’atteindre le nombre d’articles prévu pour Outils & code. Le quota Groq est encore largement disponible (60 % utilisé). Globalement, la veille fonctionne, mais il faut améliorer la disponibilité des sources et augmenter les liens directs.",
+ "a_surveiller": [
+  "Le taux de liens directs reste faible pour les États-Unis (56 %) et très bas pour la Chine (18 %), ce qui limite l’accès rapide aux sources.",
+  "Les sources en panne (Cisco Blogs et Design News) réduisent le nombre d’articles disponibles et la couverture complète.",
+  "Le quota Groq est sous-utilisé (60 %), il est possible d’augmenter la capacité sans dépasser la limite."
+ ],
+ "lecon": "",
+ "actions": [],
+ "refusees": [],
+ "en_pause": [],
+ "en_essai": [
+  {
+   "section": "dev",
+   "source": "NeoTeo",
+   "depuis": "2026-11-17",
+   "raison": "30 % d'articles IA, forte spécialisation technique, apporte une valeur ajoutée importante."
+  },
+  {
+   "section": "fr",
+   "source": "Quartz en Français",
+   "depuis": "2026-11-17",
+   "raison": "10 % d'articles IA avec des sujets pertinents (cybersécurité, deepfakes) ; source fiable et spécialisée."
+  }
+ ],
+ "lecons": [
+  {
+   "date": "2026-11-17",
+   "texte": "Tester régulièrement de nouveaux médias aide à maintenir un haut pourcentage de liens directs et à diversifier les sources."
+  }
+ ],
+ "paris": {
+  "nouveaux": [
+   {
+    "enonce": "Agents IA : au moins 12 articles (Chine) sur les 3 prochains jours",
+    "probabilite": 0.62,
+    "echeance": "2026-11-21",
+    "statut": "en_cours",
+    "observe": null,
+    "raisonnement": "Le gouvernement chinois intensifie les projets d’agents autonomes, ce qui devrait augmenter la couverture médiatique."
+   },
+   {
+    "enonce": "GitHub : au moins 20 articles (Outils & code) sur les 5 prochains jours",
+    "probabilite": 0.66,
+    "echeance": "2026-11-23",
+    "statut": "en_cours",
+    "observe": null,
+    "raisonnement": "Le déploiement de nouvelles fonctionnalités de Copilot et des actions GitHub génère un pic d'intérêt parmi les développeurs."
+   }
+  ],
+  "resolus": [
+   {
+    "enonce": "Microsoft : au moins 9 articles (Outils & code et États-Unis) sur les 5 prochains jours",
+    "probabilite": 0.66,
+    "echeance": "2026-11-18",
+    "statut": "gagne",
+    "observe": 17,
+    "raisonnement": "Les dernières semaines montrent une hausse progressive (5,4,3) et les annonces de nouvelles intégrations IA renforcent la visibilité."
+   }
+  ],
+  "refus": [
+   "« Claude publiera au plus 30 articles (Outils & code) dans les deux prochains jours. » : déjà un pari en cours sur Claude",
+   "« Nvidia comptera au moins 45 articles (France et États‑Unis) au cours des quatre prochains jours. » : déjà un pari en cours sur Nvidia",
+   "« Google apparaîtra dans au plus 2 articles (Chine) au cours des trois prochains jours. » : déjà un pari en cours sur Google",
+   "« Anthropic sera mentionnée dans au moins 28 articles (France et États‑Unis) pendant les quatre prochains jours. » : déjà un pari en cours sur Anthropic"
+  ],
+  "score": {
+   "tranches": 14,
+   "gagnes": 7,
+   "reussite": 50,
+   "confiance_moyenne": 69,
+   "brier": 0.3,
+   "paliers": {
+    "50-64 %": {
+     "paris": 2,
+     "reussite": 50
+    },
+    "65-79 %": {
+     "paris": 12,
+     "reussite": 50
+    }
+   }
+  }
+ },
+ "indicateurs": {
+  "sections": {
+   "fr": {
+    "nom": "France",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 72,
+    "pannes": []
+   },
+   "us": {
+    "nom": "États-Unis",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 56,
+    "pannes": [
+     "Cisco Blogs"
+    ]
+   },
+   "cn": {
+    "nom": "Chine",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 18,
+    "pannes": []
+   },
+   "dev": {
+    "nom": "Outils & code",
+    "articles": 41,
+    "voulus": 50,
+    "liens_directs": 56,
+    "pannes": [
+     "Design News"
+    ]
+   }
+  },
+  "quota_groq": 60,
+  "nuit": {
+   "statut": "attention",
+   "soucis": [
+    "Veille États-Unis : 50 articles, 22 sans lien direct · 1 source(s) en panne : Cisco Blogs",
+    "Veille Outils & code : 41 articles, 18 sans lien direct · 1 source(s) en panne : Design News"
+   ]
+  }
+ }
+}

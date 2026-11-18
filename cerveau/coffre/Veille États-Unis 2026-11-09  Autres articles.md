@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t6.md"
 type: "document"
-community: "Zhao Liying"
+community: "Nubia"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Zhao_Liying
+  - community/Nubia
 ---
 
 # Veille États-Unis 2026-11-09 : Autres articles
@@ -15,4 +15,4 @@ tags:
 - [[NEAR AI]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Zhao_Liying
+#graphify/document #graphify/EXTRACTED #community/Nubia

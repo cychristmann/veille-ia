@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Coding Agent Security for AppSec Leaders]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
-- [[Does AI Coding Make Secrets Sprawl Worse in CICD Pipelines]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
-- [[Hackers Target AI Coding Tools to Steal Credentials]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
-- [[Kiji Inspector]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
-- [[Stolen Claude API keys can turn Claude Code into a remote-controlled implant]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
-- [[Veille Outils & code 2026-11-12  Sécurité et gouvernance]] - document - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[01net.com]] - concept - dossiers/2026-11-17-3.md
+- [[Dossier L’impact de l’automatisation par l’IA]] - document - dossiers/2026-11-17-3.md
+- [[OCDE]] - concept - dossiers/2026-11-17-3.md
+- [[PwC]] - concept - dossiers/2026-11-17-3.md
+- [[journaldunet.com]] - concept - dossiers/2026-11-17-3.md
+- [[latribune.fr]] - concept - dossiers/2026-11-17-3.md
 
 ## Live Query (requires Dataview plugin)
 

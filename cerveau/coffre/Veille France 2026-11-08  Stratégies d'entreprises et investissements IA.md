@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-08-t1.md"
 type: "document"
-community: "Google"
+community: "Apple"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Google
+  - community/Apple
 ---
 
 # Veille France 2026-11-08 : Stratégies d'entreprises et investissements IA
@@ -16,4 +16,4 @@ tags:
 - [[Microsoft]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Google
+#graphify/document #graphify/EXTRACTED #community/Apple

@@ -1,16 +1,17 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-10-t3.md"
+source_file: "veilles/veille-ia-fr-2026-11-18-t3.md"
 type: "concept"
-community: "Veille France 2026-11-10"
+community: "OpenAI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-10
+  - community/OpenAI
 ---
 
 # Cybersécurité
 
 ## Connections
+- [[Agents IA]] - `conceptually_related_to` [INFERRED]
 - [[Veille France 2026-11-10]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-10
+#graphify/concept #graphify/EXTRACTED #community/OpenAI

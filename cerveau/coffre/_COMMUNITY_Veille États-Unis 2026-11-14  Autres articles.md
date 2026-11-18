@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[MoEngage Merlin AI]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
-- [[Model Context Protocol (MCP)]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[datasette-cluster-map]] - concept - veilles/veille-ia-dev-2026-11-15-t4.md
+- [[datasette-leaflet]] - concept - veilles/veille-ia-dev-2026-11-15-t4.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-12-t4.md"
+source_file: "veilles/veille-ia-fr-2026-11-10-t4.md"
 type: "concept"
-community: "Meta"
+community: "Copilot"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Meta
+  - community/Copilot
 ---
 
 # Notion
@@ -16,4 +16,4 @@ tags:
 - [[Veille France 2026-11-10  Nouveaux modèles et produits IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-12  Régulation, éthique et impacts sociétaux]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Meta
+#graphify/concept #graphify/EXTRACTED #community/Copilot

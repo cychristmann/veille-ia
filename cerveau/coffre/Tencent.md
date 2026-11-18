@@ -1,11 +1,11 @@
 ---
-source_file: "feuilletons/f-0014.md"
+source_file: "veilles/veille-ia-cn-2026-11-15-t6.md"
 type: "concept"
-community: "Claude"
+community: "Tencent"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Claude
+  - community/Tencent
 ---
 
 # Tencent
@@ -18,4 +18,4 @@ tags:
 - [[Veille France 2026-11-17]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-10  Marché, concurrence et tendances]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Claude
+#graphify/concept #graphify/EXTRACTED #community/Tencent

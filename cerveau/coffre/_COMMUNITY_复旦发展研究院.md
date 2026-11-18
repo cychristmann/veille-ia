@@ -1,17 +1,15 @@
 ---
 type: community
-members: 4
+members: 2
 ---
 
 # 复旦发展研究院
 
-**Members:** 4 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[AI Fraud and Academic Misconduct]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
-- [[AI Market Dynamics]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
-- [[AI Regulation and Ethics]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
-- [[Veille Chine 2026-11-16]] - document - veilles/veille-ia-cn-2026-11-16-t4.md
+- [[Veille Chine 2026-11-10  Régulation et gouvernance de l’IA]] - document - veilles/veille-ia-cn-2026-11-10-t3.md
+- [[复旦发展研究院]] - concept - veilles/veille-ia-cn-2026-11-10-t3.md
 
 ## Live Query (requires Dataview plugin)
 

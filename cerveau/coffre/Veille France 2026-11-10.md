@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-10-t6.md"
+source_file: "veilles/veille-ia-fr-2026-11-10-t3.md"
 type: "document"
-community: "Veille France 2026-11-10"
+community: "OpenAI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-10
+  - community/OpenAI
 ---
 
 # Veille France 2026-11-10
@@ -20,4 +20,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Orange]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-10
+#graphify/document #graphify/EXTRACTED #community/OpenAI
