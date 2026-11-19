@@ -35,6 +35,7 @@ from agent import (
     FICHIER_SOURCES,
     HTTP_HEADERS,
     REGIONS,
+    REGIONS_PERMANENTES,
     _lire_flux,
     _modele,
     flux_de,
@@ -61,14 +62,14 @@ VERROU_FICHIER = threading.Lock()  # l'interface peut écrire depuis plusieurs r
 
 
 def charger() -> dict:
-    vide = {"ajoutees": {code: {} for code in REGIONS}, "propositions": [], "refusees": []}
+    vide = {"ajoutees": {code: {} for code in REGIONS_PERMANENTES}, "propositions": [], "refusees": []}
     try:
         donnees = json.loads(FICHIER_SOURCES.read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError):
         return vide
     for cle, valeur in vide.items():
         donnees.setdefault(cle, valeur)
-    for code in REGIONS:
+    for code in REGIONS_PERMANENTES:
         donnees["ajoutees"].setdefault(code, {})
     return donnees
 
@@ -215,7 +216,8 @@ def reperer(etat: EtatDecouverte) -> dict:
     donnees = charger()
     deja_connus = set(donnees["refusees"]) | {p["domaine"] for p in donnees["propositions"]}
     candidats = []
-    for code, region in REGIONS.items():
+    for code in REGIONS_PERMANENTES:  # pas la rubrique éphémère du pilote
+        region = REGIONS[code]
         connus = deja_connus | {_domaine(url) for url in flux_de(region).values()}
         compteur, sites = Counter(), {}
         for requete in [region.requete_google, *REQUETES_EN_PLUS[code]]:

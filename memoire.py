@@ -22,7 +22,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 from pydantic import BaseModel, Field
 
-from agent import DOSSIER_RAPPORTS, REGIONS, _modele
+from agent import DOSSIER_RAPPORTS, REGIONS, REGIONS_PERMANENTES, _modele
 
 FICHIER_MEMOIRE = DOSSIER_RAPPORTS / "memoire.json"
 ARTICLES_PAR_REGION = 12  # meilleurs articles de chaque région soumis à l'agent
@@ -49,7 +49,7 @@ def sauvegarder_memoire(memoire: dict) -> None:
 def articles_du_jour(jour: str, par_region: int = ARTICLES_PAR_REGION) -> list[dict]:
     """Les meilleurs articles (par note) de chaque région pour ce jour."""
     retenus = []
-    for code in REGIONS:
+    for code in REGIONS_PERMANENTES:  # la rubrique éphémère reste à part
         fichier = DOSSIER_RAPPORTS / f"veille-ia-{code}-{jour}.json"
         if not fichier.is_file():
             continue

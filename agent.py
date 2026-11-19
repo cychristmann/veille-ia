@@ -26,7 +26,7 @@ import time
 import xml.etree.ElementTree as ET
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
@@ -251,12 +251,71 @@ def sources_ajoutees(code_region: str) -> dict[str, str]:
 FICHIER_PILOTE = Path(__file__).parent / "pilote" / "etat.json"
 
 
+def reglages_pilote(code_region: str) -> dict:
+    """Réglages d'une section en cours d'expérience ou adoptés par le pilote (pilote.py) :
+    heures_min, part_google, marge. Vide si le pilote n'a rien changé."""
+    try:
+        etat = json.loads(FICHIER_PILOTE.read_text(encoding="utf-8"))
+        return dict(etat.get("reglages", {}).get(code_region, {}))
+    except (OSError, json.JSONDecodeError):
+        return {}
+
+
 def sources_en_pause(code_region: str) -> set[str]:
     try:
         etat = json.loads(FICHIER_PILOTE.read_text(encoding="utf-8"))
         return set(etat.get("pauses", {}).get(code_region, {}))
     except (OSError, json.JSONDecodeError):
         return set()
+
+
+# --- Section éphémère -----------------------------------------------------------------
+# Le pilote (pilote.py) peut ouvrir seul une rubrique consacrée à un sujet en éruption
+# (« sujet du moment »), la faire suivre chaque nuit, puis la fermer quand le sujet
+# retombe. Tant qu'elle est ouverte, elle figure dans REGIONS : la veille de nuit, l'app et
+# les autres agents la traitent comme une section ordinaire (plus courte).
+CODE_EPHEMERE = "sujet"
+REGIONS_PERMANENTES = ("fr", "us", "cn", "dev")  # les sections hors rubrique éphémère
+NOMBRE_EPHEMERE = 25  # articles de la section éphémère (moitié d'une section ordinaire)
+
+
+def section_ephemere() -> "Region | None":
+    """La section éphémère ouverte par le pilote, ou None."""
+    try:
+        s = json.loads(FICHIER_PILOTE.read_text(encoding="utf-8")).get("section_ephemere")
+    except (OSError, json.JSONDecodeError):
+        return None
+    if not s or not s.get("termes"):
+        return None
+    termes = sorted(s["termes"], key=len, reverse=True)
+    return Region(
+        code=CODE_EPHEMERE,
+        nom=f"sujet du moment : {s['entite']}",
+        langue="internationaux (anglais, français, chinois)",
+        requete_google=" OR ".join(f'"{x}"' for x in termes[:4]),
+        parametres_google="hl=en-US&gl=US&ceid=US:en",
+        # Tous les médias suivis, filtrés sur le sujet (le filtre « mots_ia » sert ici à ça).
+        flux_medias={**FLUX_FR, **FLUX_US, **FLUX_CN, **FLUX_DEV},
+        mots_ia=re.compile("|".join(r"(?<!\w)" + re.escape(x) + r"(?!\w)" for x in termes), re.IGNORECASE),
+        hors_sujet=f"qui ne parlent pas vraiment de {s['entite']} (simple mention en passant)",
+        orientation=(f"Cette rubrique a été ouverte par le pilote automatique parce que "
+                     f"{s['entite']} fait soudain l'actualité. Valorise les articles qui apportent "
+                     f"du nouveau ou expliquent les enjeux ; note bas les redites.\n\n"),
+        marche_bing="en-US",
+        heures_min=48,
+    )
+
+
+def recharger_section_ephemere() -> None:
+    """Met REGIONS à jour après une ouverture ou une fermeture par le pilote."""
+    s = section_ephemere()
+    if s:
+        REGIONS[CODE_EPHEMERE] = s
+    else:
+        REGIONS.pop(CODE_EPHEMERE, None)
+
+
+recharger_section_ephemere()
 
 
 def flux_de(region: Region) -> dict[str, str]:
@@ -644,7 +703,9 @@ def _retrouver_vrais_liens(candidats: list[Article], region: Region) -> int:
 
 
 def collecter(etat: EtatVeille) -> dict:
-    region = REGIONS[etat["region"]]
+    reglages = reglages_pilote(etat["region"])
+    region = replace(REGIONS[etat["region"]],
+                     **{k: reglages[k] for k in ("heures_min", "part_google") if k in reglages})
     heures = max(etat["heures"], region.heures_min)
     limite = datetime.now(timezone.utc) - timedelta(hours=heures)
     jours = max(1, -(-etat["heures"] // 24))  # Google filtre par jours entiers
@@ -685,7 +746,7 @@ def collecter(etat: EtatVeille) -> dict:
         candidats.append(article)
 
     candidats.sort(key=lambda a: a.date, reverse=True)  # du plus récent au plus ancien
-    maximum = int(etat["nombre"] * MARGE_CANDIDATS)
+    maximum = int(etat["nombre"] * reglages.get("marge", MARGE_CANDIDATS))
     if region.part_google < 1:
         # Section thématique : Google Actualités ramène beaucoup d'actualité générale ; on
         # plafonne sa part pour laisser la priorité aux sources spécialisées.
@@ -1053,6 +1114,7 @@ def _json(etat: EtatVeille, groupes, ecartes, maintenant: datetime) -> str:
         ),
         "sources_en_echec": etat["sources_en_echec"],
         "flux_lus": etat.get("flux_lus", {}),
+        "titre_section": REGIONS[etat["region"]].nom,
         "themes": [
             {"nom": nom, "resume": resume, "articles": [_article_json(a) for a in membres]}
             for nom, resume, membres in groupes
@@ -1114,7 +1176,8 @@ def build_graph():
 def lancer_veilles(regions: list[str], nombre: int = 50, heures: int = 24) -> list[EtatVeille]:
     """Lance la veille de chaque région, l'une après l'autre."""
     graphe = build_graph()
-    return [graphe.invoke({"region": r, "nombre": nombre, "heures": heures}) for r in regions]
+    return [graphe.invoke({"region": r, "nombre": NOMBRE_EPHEMERE if r == CODE_EPHEMERE else nombre,
+                           "heures": heures}) for r in regions]
 
 
 def main() -> None:

@@ -17,6 +17,14 @@ la veille. Il tourne seul, sans validation humaine :
   * une fois par semaine, cherche de nouveaux médias (sources.py) et en met à l'essai ;
   * au bout de DUREE_ESSAI nuits, garde les médias à l'essai qui apportent des articles
     retenus et retire les autres.
+- expérimenter : comme un scientifique, il change UN réglage d'une section (fenêtre de
+  collecte, part de Google Actualités, nombre de candidats) pendant DUREE_EXPERIENCE
+  nuits, puis compare un score mesuré (articles, notes, liens directs) aux nuits d'avant :
+  il garde le réglage s'il fait mieux, sinon il revient en arrière.
+- rubriques éphémères : il repère seul un sujet en éruption (une entité soudain citée
+  plusieurs fois plus que d'habitude), ouvre une rubrique qui lui est consacrée (sa propre
+  recherche, tous les médias filtrés sur ce sujet), la fait suivre chaque nuit, puis la
+  ferme quand le sujet retombe ou au bout de DUREE_MAX_SECTION jours.
 - parier : tranche ses paris échus et parie sur l'actualité des jours suivants (paris.py) ;
   il tient ses comptes et apprend à se calibrer.
 - journaliser : pilote/journal-DATE.json (affiché dans l'app) et une note Obsidian.
@@ -38,7 +46,7 @@ Lancement : uv run python pilote.py [AAAA-MM-JJ]
 import json
 import re
 import sys
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 from typing import TypedDict
 
@@ -66,6 +74,24 @@ MAX_ESSAIS = 2  # nouveaux médias mis à l'essai après chaque recherche
 DUREE_ESSAI = 7  # nuits d'essai avant de garder ou retirer un média
 ESSAI_MIN_RETENUS = 2  # articles retenus pendant l'essai pour garder le média
 MAX_LECONS = 10  # leçons gardées en mémoire
+PLAFONDS["experimenter"] = 1  # une nouvelle expérience par nuit au plus
+DUREE_EXPERIENCE = 3  # nuits mesurées avant de conclure
+PLAFONDS["ouvrir_section"] = 1
+FACTEUR_ERUPTION = 3  # un sujet « en éruption » est cité 3 fois plus que d'habitude…
+MIN_ERUPTION = 12  # … dans au moins 12 articles sur les 2 derniers jours
+DUREE_MAX_SECTION = 7  # jours au plus pour une rubrique éphémère
+RETOMBEE = 0.35  # fermeture quand le sujet tombe sous 35 % de son pic
+MEMOIRE_SECTIONS = 14  # jours avant de rouvrir une rubrique sur le même sujet
+GAIN_MIN = 3.0  # points de score gagnés (le score varie d’environ 5 points d’un jour à l’autre) pour garder un réglage (sinon retour arrière)
+MEMOIRE_EXPERIENCES = 14  # jours pendant lesquels on ne retente pas un réglage rejeté
+# Réglages que le pilote peut essayer, et leurs valeurs permises (bornes imposées par le code).
+VALEURS = {
+    "heures_min": [24, 36, 48, 72],  # fenêtre de collecte, en heures
+    "part_google": [0.35, 0.5, 0.65, 0.8, 1.0],  # part maximale de Google Actualités
+    "marge": [1.5, 1.8, 2.1],  # candidats soumis à l'IA, en multiple du nombre voulu
+}
+NOMS_REGLAGES = {"heures_min": "fenêtre de collecte (heures)", "part_google": "part de Google Actualités",
+                 "marge": "candidats soumis à l'IA (× 50)"}
 SECTIONS = {"fr": "France", "us": "États-Unis", "cn": "Chine", "dev": "Outils & code"}
 
 
@@ -81,7 +107,9 @@ def _lire(chemin: Path):
 
 def charger_etat() -> dict:
     etat = _lire(ETAT) or {}
-    for cle, vide in (("pauses", {}), ("essais", {}), ("historique", []), ("lecons", [])):
+    for cle, vide in (("pauses", {}), ("essais", {}), ("historique", []), ("lecons", []),
+                      ("reglages", {}), ("experiences", {}), ("experiences_passees", []),
+                      ("sections_passees", [])):
         etat.setdefault(cle, vide)
     return etat
 
@@ -92,6 +120,9 @@ def _sauver(etat: dict) -> None:
     etat["essais"] = {k: v for k, v in etat["essais"].items() if v}
     etat["historique"] = etat["historique"][-200:]
     etat["lecons"] = etat["lecons"][-MAX_LECONS:]
+    etat["reglages"] = {k: v for k, v in etat["reglages"].items() if v}
+    etat["experiences_passees"] = etat["experiences_passees"][-40:]
+    etat["sections_passees"] = etat["sections_passees"][-30:]
     ETAT.write_text(json.dumps(etat, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
@@ -200,6 +231,101 @@ def _retester(code: str, nom: str) -> tuple[bool, str]:
     return True, f"répond de nouveau : {len(utiles)} articles sur l'IA sur {len(articles)}"
 
 
+def score_section(code: str, jour: str) -> float | None:
+    """Score d'une section une nuit, sur 100 : articles (35), note moyenne (35), liens
+    directs (15) et nouveauté (15 : articles absents de la veille précédente — sans elle,
+    élargir la fenêtre ferait monter le score en recyclant l'actualité d'hier)."""
+    v = _lire(VEILLES / f"veille-ia-{code}-{jour}.json")
+    if not v or not v.get("nombre_articles"):
+        return None
+    n, voulus = v["nombre_articles"], v.get("nombre_demande", 50)
+    articles = [a for t in v.get("themes", []) for a in t["articles"]]
+    notes = [a["note"] for a in articles if a.get("note")]
+    moyenne = sum(notes) / len(notes) if notes else 0
+    directs = 1 - v.get("liens_google", 0) / n
+    veille = _lire(VEILLES / f"veille-ia-{code}-{(date.fromisoformat(jour) - timedelta(days=1)).isoformat()}.json")
+    deja = {x for t in (veille or {}).get("themes", []) for a in t["articles"]
+            for x in (a.get("lien"), (a.get("titre") or "").casefold()) if x}
+    nouveaute = sum(a.get("lien") not in deja and (a.get("titre") or "").casefold() not in deja
+                    for a in articles) / len(articles) if articles else 0
+    return round(35 * min(1, n / voulus) + 3.5 * moyenne + 15 * directs + 15 * nouveaute, 1)
+
+
+def _scores(code: str, jours: list[str]) -> list[float]:
+    return [s for j in jours if (s := score_section(code, j)) is not None]
+
+
+def valeur_actuelle(code: str, param: str, etat: dict):
+    from agent import MARGE_CANDIDATS, REGIONS
+
+    if param in etat["reglages"].get(code, {}):
+        return etat["reglages"][code][param]
+    if param == "marge":
+        return MARGE_CANDIDATS
+    defaut = getattr(REGIONS[code], param)
+    return max(24, defaut) if param == "heures_min" else defaut
+
+
+def _experiences_possibles(code: str, jour: str, etat: dict) -> list[dict]:
+    """Les réglages voisins (un cran au-dessus ou au-dessous) non rejetés récemment."""
+    base = _scores(code, [(date.fromisoformat(jour) - timedelta(days=i)).isoformat() for i in range(3)])
+    if len(base) < 2:
+        return []
+    moyenne = round(sum(base) / len(base), 1)
+    rejetes = {(x["section"], x["param"], x["apres"]) for x in etat["experiences_passees"]
+               if x["verdict"] == "annule" and _ecart_jours(x["fin"], jour) < MEMOIRE_EXPERIENCES}
+    possibles = []
+    for param, valeurs in VALEURS.items():
+        actuelle = valeur_actuelle(code, param, etat)
+        i = min(range(len(valeurs)), key=lambda k: abs(valeurs[k] - actuelle))
+        for j in (i - 1, i + 1):
+            if 0 <= j < len(valeurs) and valeurs[j] != actuelle and (code, param, valeurs[j]) not in rejetes:
+                possibles.append({"param": param, "avant": actuelle, "apres": valeurs[j], "base": moyenne})
+    return possibles
+
+
+def _jours_avant(jour: str, debut: int, fin: int) -> list[str]:
+    """Les jours jour-debut … jour-(fin-1)."""
+    return [(date.fromisoformat(jour) - timedelta(days=i)).isoformat() for i in range(debut, fin)]
+
+
+def _mentions(entite: str, jours: list[str]) -> tuple[int, int]:
+    """(articles des 4 sections qui citent l'entité, jours de veille disponibles)."""
+    import paris
+    return paris.compter(entite, list(SECTIONS), jours)
+
+
+def _eruptions(jour: str, etat: dict) -> list[dict]:
+    """Entités soudain beaucoup plus citées que d'habitude, de la plus forte à la plus faible."""
+    import paris
+
+    recents = {x["entite"] for x in etat["sections_passees"]
+               if _ecart_jours(x.get("fin", x["depuis"]), jour) < MEMOIRE_SECTIONS}
+    trouvees = []
+    for nom in paris.entites():
+        if nom in recents:
+            continue
+        recent, _ = _mentions(nom, _jours_avant(jour, 0, 2))
+        if recent < MIN_ERUPTION:
+            continue
+        avant, dispo = _mentions(nom, _jours_avant(jour, 2, 7))
+        habitude = avant / dispo if dispo else 0
+        ratio = (recent / 2) / max(habitude, 1)
+        if ratio >= FACTEUR_ERUPTION:
+            trouvees.append({"entite": nom, "recent": recent, "habitude": round(habitude, 1),
+                             "ratio": round(ratio, 1)})
+    return sorted(trouvees, key=lambda x: -x["ratio"])
+
+
+def _termes(entite: str) -> list[str]:
+    """Le nom de l'entité et ses variantes (graphe fusionné), pour la recherche et le filtre."""
+    g = _lire(RACINE / "cerveau" / "graphify-out" / "graph.json") or {"nodes": []}
+    for n in g["nodes"]:
+        if n.get("label") == entite:
+            return [x for x in dict.fromkeys([entite, *n.get("variantes", [])]) if len(x) >= 3]
+    return [entite]
+
+
 class EtatPilote(TypedDict, total=False):
     jour: str
     indicateurs: dict
@@ -277,7 +403,46 @@ def observer(e: EtatPilote) -> dict:
                            "motif": "première recherche" if not derniere else
                            f"dernière recherche il y a {_ecart_jours(derniere, jour)} jours"})
 
-    # 6. Médias défaillants : en panne, muets ou hors sujet (ceux à l'essai sont jugés à
+    # 5 bis. Rubrique éphémère : fermer celle qui retombe ; sinon, ouvrir sur un sujet en
+    #        éruption (nuit en cours seulement, s'il reste du quota).
+    s = etat.get("section_ephemere")
+    if s:
+        recent, _ = _mentions(s["entite"], _jours_avant(jour, 0, 2))
+        age = _ecart_jours(s["depuis"], jour)
+        if age >= DUREE_MAX_SECTION or (age >= 2 and recent < RETOMBEE * s["pic"]):
+            candidates.append({"type": "fermer_section", "section": "sujet", "source": s["entite"],
+                               "imposee": True,
+                               "motif": f"ouverte depuis {age} jours" if age >= DUREE_MAX_SECTION else
+                               f"le sujet retombe : {recent} articles en 2 jours, contre {s['pic']} à l'ouverture"})
+    elif jour == _aujourd_hui() and (indicateurs.get("quota_groq") or 0) <= QUOTA_MAX_RELANCE:
+        for x in _eruptions(jour, etat)[:3]:
+            candidates.append({"type": "ouvrir_section", "section": "sujet", "source": x["entite"],
+                               "motif": f"{x['recent']} articles en 2 jours, {x['ratio']} fois plus que "
+                                        f"d'habitude ({x['habitude']} par jour)", **x})
+
+    # 6. Expériences : conclure celles qui ont assez de nuits mesurées (verdict mesuré,
+    #    imposé), puis proposer des réglages à essayer dans les sections libres.
+    for code, x in etat["experiences"].items():
+        jours = [j for j in _jours_veille(code, jour) if j > x["depuis"]]
+        apres = _scores(code, jours)
+        if len(apres) >= DUREE_EXPERIENCE:
+            moyenne = round(sum(apres) / len(apres), 1)
+            garder = moyenne >= x["base"] + GAIN_MIN
+            candidates.append({
+                "type": "garder_reglage" if garder else "annuler_reglage", "section": code,
+                "source": f"{NOMS_REGLAGES[x['param']]} {x['avant']} → {x['apres']}",
+                "motif": f"score {moyenne}/100 sur {len(apres)} nuits, contre {x['base']} avant "
+                         f"({'+' if moyenne >= x['base'] else ''}{round(moyenne - x['base'], 1)})",
+                "imposee": True, "score_apres": moyenne})
+    for code in SECTIONS:
+        if code in etat["experiences"]:
+            continue
+        for x in _experiences_possibles(code, jour, etat):
+            candidates.append({"type": "experimenter", "section": code,
+                               "source": f"{NOMS_REGLAGES[x['param']]} {x['avant']} → {x['apres']}",
+                               "motif": f"score actuel {x['base']}/100", **x})
+
+    # 7. Médias défaillants : en panne, muets ou hors sujet (ceux à l'essai sont jugés à
     #    la fin de leur essai).
     for code in SECTIONS:
         ignorer = set(etat["pauses"].get(code, {})) | set(etat["essais"].get(code, {}))
@@ -331,11 +496,25 @@ Actions préparées (tu ne peux qu'accepter ou refuser celles-ci) :
 Types d'action : « pause » (ne plus lire un média), « reprendre » (le relire),
 « relancer » (refaire la veille d'une section ratée cette nuit), « decouvrir » (chercher de
 nouveaux médias et en mettre {max_essais} à l'essai une semaine), « adopter » ou
-« abandonner » (garder ou retirer un média à la fin de son essai).
+« abandonner » (garder ou retirer un média à la fin de son essai), « experimenter » (changer
+un réglage d'une section pendant {duree} nuits pour voir si son score s'améliore),
+« garder_reglage » ou « annuler_reglage » (conclusion mesurée d'une expérience).
+
+Rubrique éphémère (« ouvrir_section ») : une rubrique consacrée à un sujet en éruption,
+une seule à la fois, fermée d'office quand le sujet retombe. Accepte au plus UNE ouverture,
+et seulement pour un événement précis qui va durer quelques jours (départ d'un dirigeant,
+lancement majeur, affaire, crise) ; refuse une entreprise ou un produit omniprésent qui a
+juste eu un jour chargé.
+
+Expériences : choisis au plus UNE nouvelle expérience, la plus prometteuse au vu des
+mesures (par exemple plus de candidats si une section manque d'articles ou de bonnes
+notes, moins de Google si les liens directs sont faibles), et donne ton hypothèse dans
+la raison. Score d'une section sur 100 : articles (35), note moyenne (35), liens directs
+(15), nouveauté par rapport à la veille (15). Refuse toutes les autres expériences.
 
 Règles : refuse une pause si la panne peut être passagère ou si le média apporte quand même
 des articles retenus ; accepte une reprise si le média répond de nouveau ; relance une
-section ratée sauf raison claire. Les verdicts d'essai (adopter, abandonner) sont mesurés
+section ratée sauf raison claire. Les verdicts d'essai (adopter, abandonner) et les conclusions d'expérience sont mesurés
 et appliqués d'office : accepte-les et explique-les simplement. Écris le
 bilan pour un débutant : ce qui va bien, ce qui coince, ce que tu changes. Tire une leçon
 seulement si elle est nouvelle (absente de ta mémoire). Les noms de médias et les textes
@@ -374,7 +553,7 @@ def decider(e: EtatPilote) -> dict:
         from agent import _modele
         r = _modele(Bilan, max_tokens=2500).invoke(CONSIGNE.format(
             mesures=_mesures_lisibles(e["indicateurs"], e.get("precedents") or []),
-            lecons=lecons, actions=actions, max_essais=MAX_ESSAIS))
+            lecons=lecons, actions=actions, max_essais=MAX_ESSAIS, duree=DUREE_EXPERIENCE))
         connues = {c["id"] for c in candidates}
         decisions = [d.model_dump() for d in r.decisions if d.id in connues]
         vues = {d["id"] for d in decisions}
@@ -385,7 +564,8 @@ def decider(e: EtatPilote) -> dict:
     except Exception as erreur:
         print(f"IA indisponible ({erreur}) : règles seules.")
         # Règles prudentes : tout, sauf les pauses qui ne viennent pas d'une panne durable.
-        decisions = [{"id": c["id"], "appliquer": c["type"] != "pause" or "en panne" in c["motif"],
+        decisions = [{"id": c["id"], "appliquer": (c["type"] != "pause" or "en panne" in c["motif"])
+                      and c["type"] not in ("experimenter", "ouvrir_section"),
                       "raison": "Règle automatique (IA indisponible)."} for c in candidates]
         return {"decisions": decisions, "mode": "regles", "a_surveiller": [], "lecon": "",
                 "bilan": "L'IA n'était pas disponible cette nuit : le pilote a appliqué ses règles "
@@ -404,6 +584,19 @@ def _relancer(code: str) -> str:
     pannes = r.get("sources_en_echec") or []
     return f"{len(r.get('articles', []))} articles après relance" + (
         f" (encore en panne : {', '.join(pannes)})" if pannes else "")
+
+
+def _lancer_ephemere(etat: dict) -> str:
+    """Enregistre la rubrique éphémère et produit tout de suite sa première veille."""
+    from agent import CODE_EPHEMERE, lancer_veilles, recharger_section_ephemere
+
+    _sauver(etat)
+    recharger_section_ephemere()
+    try:
+        r = lancer_veilles([CODE_EPHEMERE])[0]
+        return f"rubrique ouverte : {len(r.get('articles', []))} articles dès cette nuit"
+    except Exception as erreur:  # la veille de la nuit suivante la remplira
+        return f"rubrique ouverte, première veille impossible ({type(erreur).__name__})"
 
 
 def _decouvrir(etat: dict, jour: str) -> str:
@@ -449,7 +642,9 @@ def agir(e: EtatPilote) -> dict:
             d["appliquer"], d["raison"] = True, "Verdict mesuré de l'essai, appliqué d'office."
     # Reprises et fins d'essai d'abord (elles libèrent de la place), la relance en dernier
     # (elle profite des pauses décidées juste avant).
-    rang = {"reprendre": 0, "abandonner": 1, "adopter": 2, "pause": 3, "decouvrir": 4, "relancer": 5}
+    rang = {"reprendre": 0, "abandonner": 1, "adopter": 2, "garder_reglage": 3, "annuler_reglage": 3,
+            "fermer_section": 3, "pause": 4, "experimenter": 5, "decouvrir": 6, "ouvrir_section": 7,
+            "relancer": 8}
     ordre = sorted((d for d in e["decisions"] if d["appliquer"]), key=lambda d: rang[par_id[d["id"]]["type"]])
     for d in ordre:
         c = par_id[d["id"]]
@@ -473,6 +668,40 @@ def agir(e: EtatPilote) -> dict:
                     import sources
                     sources.decider(essai["domaine"], "retirer")
                 resultat = "gardé dans la veille" if c["type"] == "adopter" else "retiré de la veille"
+            elif c["type"] == "ouvrir_section":
+                if etat.get("section_ephemere"):
+                    d["appliquer"], d["raison"] = False, "Une rubrique éphémère est déjà ouverte."
+                    continue
+                etat["section_ephemere"] = {"entite": c["source"], "termes": _termes(c["source"]),
+                                            "depuis": jour, "pic": c["recent"], "motif": c["motif"],
+                                            "raison": d["raison"]}
+                resultat = _lancer_ephemere(etat)
+            elif c["type"] == "fermer_section":
+                s = etat.pop("section_ephemere", None)
+                if s:
+                    etat["sections_passees"].append({**s, "fin": jour, "motif_fin": c["motif"]})
+                _sauver(etat)
+                from agent import recharger_section_ephemere
+                recharger_section_ephemere()
+                resultat = "rubrique fermée (ses veilles restent dans l'historique)"
+            elif c["type"] == "experimenter":
+                if c["section"] in etat["experiences"]:
+                    d["appliquer"], d["raison"] = False, "Une expérience est déjà en cours dans cette section."
+                    continue
+                etat["reglages"].setdefault(c["section"], {})[c["param"]] = c["apres"]
+                etat["experiences"][c["section"]] = {
+                    "param": c["param"], "avant": c["avant"], "apres": c["apres"], "base": c["base"],
+                    "depuis": jour, "hypothese": d["raison"]}
+                resultat = f"essai pendant {DUREE_EXPERIENCE} nuits"
+            elif c["type"] in ("garder_reglage", "annuler_reglage"):
+                x = etat["experiences"].pop(c["section"], None)
+                if x:
+                    if c["type"] == "annuler_reglage":
+                        etat["reglages"].setdefault(c["section"], {})[x["param"]] = x["avant"]
+                    etat["experiences_passees"].append({
+                        **x, "section": c["section"], "fin": jour, "score_apres": c["score_apres"],
+                        "verdict": "garde" if c["type"] == "garder_reglage" else "annule"})
+                resultat = "réglage gardé" if c["type"] == "garder_reglage" else "retour au réglage d'avant"
             elif c["type"] == "relancer":
                 _sauver(etat)  # la veille relancée doit voir les pauses de cette nuit
                 resultat = _relancer(c["section"])
@@ -516,7 +745,12 @@ def _libelle(action: str, source: str, section: str) -> str:
     return {"pause": f"Mise en pause de {source} ({ou})", "reprendre": f"Reprise de {source} ({ou})",
             "relancer": f"Relance de la {source}", "decouvrir": "Recherche de nouveaux médias",
             "adopter": f"{source} ({ou}) gardé après son essai",
-            "abandonner": f"{source} ({ou}) retiré après son essai"}[action]
+            "abandonner": f"{source} ({ou}) retiré après son essai",
+            "experimenter": f"Expérience {ou} : {source}",
+            "ouvrir_section": f"Nouvelle rubrique « {source} »",
+            "fermer_section": f"Rubrique « {source} » fermée",
+            "garder_reglage": f"Expérience réussie {ou} : {source}",
+            "annuler_reglage": f"Expérience sans effet {ou} : {source}, retour arrière"}[action]
 
 
 def journaliser(e: EtatPilote) -> dict:
@@ -528,7 +762,9 @@ def journaliser(e: EtatPilote) -> dict:
                for a in etat["historique"] if a["date"] == jour]
     refusees = [{**{k: par_id[d["id"]][k] for k in ("type", "section", "source", "motif")},
                  "libelle": _libelle(par_id[d["id"]]["type"], par_id[d["id"]]["source"], par_id[d["id"]]["section"]),
-                 "raison": d["raison"]} for d in e["decisions"] if not d["appliquer"]]
+                 "raison": d["raison"]} for d in e["decisions"]
+                if not d["appliquer"] and par_id[d["id"]]["type"] != "experimenter"]
+    # Les expériences non choisies (une dizaine chaque nuit) encombreraient le journal.
     en_pause = [{"section": code, "source": nom, **p}
                 for code, ps in etat["pauses"].items() for nom, p in ps.items()]
     en_essai = [{"section": code, "source": nom, "depuis": x["depuis"], "raison": x.get("raison", "")}
@@ -537,6 +773,10 @@ def journaliser(e: EtatPilote) -> dict:
                "lecon": e.get("lecon", ""), "actions": actions, "refusees": refusees,
                "en_pause": en_pause, "en_essai": en_essai, "lecons": etat["lecons"],
                "paris": e.get("paris", {}),
+               "section_ephemere": etat.get("section_ephemere"),
+               "experiences": [{"section": code, "libelle": f"{NOMS_REGLAGES[x['param']]} {x['avant']} → {x['apres']}",
+                                "depuis": x["depuis"], "base": x["base"], "hypothese": x.get("hypothese", "")}
+                               for code, x in etat["experiences"].items()],
                "indicateurs": e["indicateurs"]}
     (PILOTE / f"journal-{jour}.json").write_text(json.dumps(journal, ensure_ascii=False, indent=1),
                                                   encoding="utf-8")

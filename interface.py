@@ -44,7 +44,7 @@ import pilote
 import sante
 import sources
 import tendances
-from agent import DOSSIER_RAPPORTS, REGIONS, lancer_veilles
+from agent import DOSSIER_RAPPORTS, REGIONS, REGIONS_PERMANENTES, lancer_veilles
 
 PAGE = Path(__file__).parent / "interface.html"
 NOMBRE_ARTICLES = 50
@@ -64,11 +64,11 @@ def etat_sources() -> dict:
     """Ce que la page affiche : sources intégrées, ajoutées, et propositions en attente."""
     donnees = sources.charger()
     return {
-        "integrees": {code: sorted(r.flux_medias) for code, r in REGIONS.items()},
+        "integrees": {code: sorted(REGIONS[code].flux_medias) for code in REGIONS_PERMANENTES},
         "ajoutees": {
             code: [{"nom": nom, "flux": url, "domaine": sources._domaine(url)}
                    for nom, url in donnees["ajoutees"].get(code, {}).items()]
-            for code in REGIONS
+            for code in REGIONS_PERMANENTES
         },
         "propositions": donnees["propositions"],
         "nombre_refusees": len(donnees["refusees"]),
@@ -84,7 +84,8 @@ def _fichiers_veille() -> list[tuple[str, str, Path]]:
     trouves = []
     for fichier in DOSSIER_RAPPORTS.glob("veille-ia-*.json"):
         m = NOM_FICHIER.fullmatch(fichier.name)
-        if m and m["region"] in REGIONS:
+        # « sujet » : section éphémère du pilote, gardée dans l'historique après sa fermeture.
+        if m and (m["region"] in REGIONS or m["region"] == "sujet"):
             trouves.append((m["date"], m["region"], fichier))
     return sorted(trouves, reverse=True)
 
@@ -101,6 +102,7 @@ def liste_veilles() -> list[dict]:
             "genere_a": donnees.get("genere_a"),
             "nombre_articles": donnees.get("nombre_articles", 0),
             "nombre_themes": len(donnees.get("themes", [])),
+            "titre": donnees.get("titre_section"),
         }
     return list(jours.values())
 
@@ -153,7 +155,7 @@ def lire_tendances() -> dict | None:
 
 def lire_veille(region: str, date: str | None = None) -> dict | None:
     """Veille d'une région un jour donné, ou sa plus récente si date est None."""
-    if region not in REGIONS:
+    if region not in REGIONS and region != "sujet":
         return None
     if date is None:
         fichiers = [f for _, r, f in _fichiers_veille() if r == region]

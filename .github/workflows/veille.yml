@@ -38,7 +38,7 @@ concurrency:
 jobs:
   veille:
     runs-on: ubuntu-latest
-    timeout-minutes: 50 # veille + mémoire + enquêtes du rédacteur : ~20 min avec les pauses Groq
+    timeout-minutes: 75 # veille + mémoire + enquêtes du rédacteur (~20 min) + cerveau + pilote (relance, rubrique éphémère)
     environment:
       name: github-pages
       url: ${{ steps.publication.outputs.page_url || steps.publication2.outputs.page_url }}

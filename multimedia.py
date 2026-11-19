@@ -167,6 +167,8 @@ def _recherche_youtube(cle: str, requete: str, region: str, depuis: datetime) ->
 
 
 def chercher_videos(etat: EtatVeille) -> dict:
+    if etat["region"] not in LANGUE_YOUTUBE:  # section éphémère du pilote : pas de vidéos
+        return {"videos": None}
     cle = os.environ.get("YOUTUBE_API_KEY")
     if not cle:
         return {"videos": {"statut": "sans_cle", "elements": [],
@@ -223,6 +225,8 @@ def _episodes(identifiants: list[str], pays: str) -> list[dict]:
 
 
 def chercher_podcasts(etat: EtatVeille) -> dict:
+    if etat["region"] not in PAYS_PODCASTS:  # section éphémère du pilote : pas de podcasts
+        return {"podcasts": None}
     region, pays = etat["region"], PAYS_PODCASTS[etat["region"]]
     try:
         emissions = {}

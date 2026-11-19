@@ -1539,7 +1539,13 @@ const REGIONS = {
   fr: { code: "FR", nom: "France", sous: "Presse francophone", teinte: 224, adjectif: "francophone", medias: "médias francophones" },
   us: { code: "US", nom: "États-Unis", sous: "Presse américaine", teinte: 202, adjectif: "américaine", medias: "médias américains" },
   cn: { code: "CN", nom: "Chine", sous: "Presse chinoise", teinte: 213, adjectif: "chinoise", medias: "médias chinois" },
+  // Rubrique éphémère ouverte par le pilote sur un sujet en éruption (pilote.py) : son
+  // onglet n'apparaît que les jours où elle existe, avec le nom du sujet.
+  sujet: { code: "⚡", nom: "Sujet du moment", sous: "Rubrique ouverte par le pilote", teinte: 32, adjectif: "du sujet du moment", medias: "médias suivis, filtrés sur le sujet" },
 };
+
+// Les quatre sections permanentes (sans la rubrique éphémère), pour les stats et les sources.
+const CODES_FIXES = ["dev", "fr", "us", "cn"];
 
 // ===== État =====
 let jours = [];          // liste des jours : [{date, regions: {fr: {...}, us: {...}}}]
@@ -1976,6 +1982,7 @@ function afficherRegions() {
   conteneur.replaceChildren();
   for (const [code, r] of Object.entries(REGIONS)) {
     const info = jour?.regions[code];
+    if (code === "sujet" && !info) continue;
     const b = el("button", "region");
     b.type = "button";
     b.setAttribute("role", "tab");
@@ -1984,7 +1991,8 @@ function afficherRegions() {
     const pastille = el("span", "code-region", r.code);
     pastille.style.setProperty("--teinte", r.teinte);
     const textes = el("span");
-    textes.append(el("strong", "", r.nom), el("small", "", info ? `${info.nombre_articles} articles` : "pas de veille ce jour"));
+    const nom = code === "sujet" && info?.titre ? info.titre.replace(/^sujet du moment : /, "") : r.nom;
+    textes.append(el("strong", "", nom), el("small", "", info ? `${code === "sujet" ? "sujet du moment · " : ""}${info.nombre_articles} articles` : "pas de veille ce jour"));
     b.append(pastille, textes);
     b.addEventListener("click", () => choisirJour(jourActif, code));
     conteneur.append(b);
@@ -2684,7 +2692,7 @@ async function montrerStats() {
       return;
     }
   }
-  const sections = ["toutes", ...Object.keys(REGIONS)];
+  const sections = ["toutes", ...CODES_FIXES];
   $("st-filtres").replaceChildren(...sections.map((s) => {
     const b = el("button", "", s === "toutes" ? "Toutes les sections" : REGIONS[s].nom);
     b.type = "button";
@@ -2695,7 +2703,7 @@ async function montrerStats() {
   montrerStatsContenu();
 }
 function majFiltresStats() {
-  const sections = ["toutes", ...Object.keys(REGIONS)];
+  const sections = ["toutes", ...CODES_FIXES];
   [...$("st-filtres").children].forEach((b, i) => b.setAttribute("aria-pressed", String(sections[i] === statsSection)));
 }
 function montrerStatsContenu() {
@@ -2729,6 +2737,7 @@ function montrerStatsContenu() {
   multiples.replaceChildren();
   const lignesLiens = [];
   for (const [code, r] of Object.entries(REGIONS)) {
+    if (!CODES_FIXES.includes(code)) continue;
     if (statsSection !== "toutes" && statsSection !== code) continue;
     const bloc = el("div");
     bloc.append(el("h3", "", r.nom));
@@ -2850,6 +2859,8 @@ async function chargerPilote(date) {
   liste("Envisagé mais refusé", j.refusees.map((r) => `${r.libelle} : ${r.raison}`));
   liste("À surveiller", j.a_surveiller);
   if (j.lecon) liste("Leçon retenue", [j.lecon]);
+  if (j.section_ephemere) liste("Rubrique éphémère ouverte", [`« ${j.section_ephemere.entite} » depuis le ${jm(j.section_ephemere.depuis)} : ${j.section_ephemere.motif}. Elle se fermera seule quand le sujet retombera.`]);
+  liste("Expériences en cours", (j.experiences || []).map((x) => `${ou(x.section)} : ${x.libelle}, depuis le ${jm(x.depuis)} (score de départ ${String(x.base).replace(".", ",")}/100)${x.hypothese ? ` — hypothèse : ${x.hypothese}` : ""}`));
   liste("Médias à l'essai", (j.en_essai || []).map((x) => `${x.source} (${ou(x.section)}), depuis le ${jm(x.depuis)}`));
   liste("Sources en pause", j.en_pause.map((p) => `${p.source} (${ou(p.section)}), depuis le ${jm(p.depuis)} : ${p.motif}`));
   $("pilote-corps").replaceChildren(...corps);
@@ -2874,6 +2885,7 @@ async function chargerParis() {
     corps.push(el("p", "", `Il annonce en moyenne ${s.confiance_moyenne} % de confiance et gagne ${s.reussite} % de ses paris : `
       + (Math.abs(ecart) <= 8 ? "il se connaît bien." : ecart > 0 ? "il est trop sûr de lui, il doit apprendre à douter." : "il se sous-estime.")
       + ` Score de calibration (Brier) : ${String(s.brier).replace(".", ",")}, où 0,25 vaut le hasard et 0 la perfection.`));
+    if (s.correction < 1) corps.push(el("p", "", `Correction automatique : ses nouvelles probabilités sont rapprochées de 50 % (facteur ${String(s.correction).replace(".", ",")}), calculé à partir de ses résultats passés.`));
   }
   const jm = (x) => `${x.slice(8, 10)}/${x.slice(5, 7)}`;
   const ligne = (p, classe, suite) => {
@@ -3253,6 +3265,7 @@ function afficherSources() {
   const listes = $("listes-sources");
   listes.replaceChildren();
   for (const [code, r] of Object.entries(REGIONS)) {
+    if (!CODES_FIXES.includes(code)) continue;
     const bloc = el("div", "liste-source");
     const h3 = el("h3");
     const pastille = el("span", "code-region", r.code);

@@ -152,6 +152,30 @@ def resoudre(donnees: dict, jusqu_a: str) -> list[dict]:
     return resolus
 
 
+MIN_POUR_CORRIGER = 8  # paris tranchés avant de corriger la confiance
+K_MIN = 0.3  # correction maximale : 80 % annoncés deviennent 59 %
+
+
+def facteur_confiance(donnees: dict) -> float:
+    """Correction automatique de l'excès (ou du manque) de confiance.
+
+    La probabilité annoncée par l'IA est ramenée vers 50 % : p' = 0,5 + k × (p − 0,5).
+    k est choisi pour minimiser le score de Brier des paris déjà tranchés (k = 1 : aucune
+    correction ; k = 0 : l'IA ne sait rien, tout vaut 50 %). C'est le code qui apprend, à
+    partir des résultats, sans dépendre de la bonne volonté de l'IA.
+    """
+    tranches = [p for p in donnees["paris"] if p["statut"] in ("gagne", "perdu")]
+    if len(tranches) < MIN_POUR_CORRIGER:
+        return 1.0
+
+    def brier(k: float) -> float:
+        return sum((0.5 + k * (p.get("probabilite_ia", p["probabilite"]) - 0.5) - (p["statut"] == "gagne")) ** 2
+                   for p in tranches) / len(tranches)
+
+    # Plancher K_MIN : à 0, tous les paris vaudraient 50 % et le jeu n'aurait plus de sens.
+    return min((k / 20 for k in range(round(K_MIN * 20), 21)), key=lambda k: (round(brier(k), 6), -k))
+
+
 def score(donnees: dict) -> dict:
     """Réussite et calibration (score de Brier) des paris tranchés."""
     tranches = [p for p in donnees["paris"] if p["statut"] in ("gagne", "perdu")]
@@ -166,6 +190,7 @@ def score(donnees: dict) -> dict:
             paliers[f"{round(bas * 100)}-{round(haut * 100) - 1} %"] = {
                 "paris": len(ps), "reussite": round(100 * sum(p["statut"] == "gagne" for p in ps) / len(ps))}
     return {"tranches": len(tranches), "gagnes": gagnes, "reussite": round(100 * gagnes / len(tranches)),
+            "correction": facteur_confiance(donnees),
             "confiance_moyenne": round(100 * sum(p["probabilite"] for p in tranches) / len(tranches)),
             "brier": round(brier, 3), "paliers": paliers}
 
@@ -223,6 +248,9 @@ def _bilan_lisible(donnees: dict) -> str:
               f"{p['enonce']} → observé : {p['observe']}" for p in derniers]
     lignes.append(f"Bilan : {s['gagnes']}/{s['tranches']} gagnés ({s['reussite']} %) pour une confiance "
                   f"moyenne de {s['confiance_moyenne']} % ; Brier {s['brier']} (0,25 = hasard).")
+    if s["correction"] < 1:
+        lignes.append(f"Ta confiance est corrigée automatiquement (facteur {s['correction']}) : "
+                      "tes probabilités sont rapprochées de 50 % car tu te surestimes.")
     lignes += [f"Paris annoncés à {k} : {v['reussite']} % gagnés ({v['paris']} paris)."
                for k, v in s["paliers"].items()]
     return "\n".join(lignes)
@@ -265,7 +293,9 @@ def parier(donnees: dict, jour: str) -> tuple[list[dict], list[str]]:
     place = min(NOUVEAUX_PARIS, MAX_EN_COURS - len(en_cours))
     if place <= 0 or any(p["date"] == jour for p in donnees["paris"]):
         return [], []
-    series = tendances(jour)
+    occupees = {p["entite"] for p in en_cours}
+    # Les entités déjà pariées ne sont pas montrées : l'IA reproposait sans cesse les mêmes.
+    series = [s for s in tendances(jour) if s["entite"] not in occupees]
     if not series:
         return [], ["pas assez de données pour parier"]
     texte = "\n".join(f"- {s['entite']} : {s['par_jour']} — "
@@ -276,7 +306,7 @@ def parier(donnees: dict, jour: str) -> tuple[list[dict], list[str]]:
         bilan=_bilan_lisible(donnees),
         en_cours="\n".join(f"- {p['enonce']} (échéance {p['echeance']})" for p in en_cours) or "(aucun)"))
     nouveaux, refus = [], []
-    occupees = {p["entite"] for p in en_cours}
+    k = facteur_confiance(donnees)
     for p in r.paris:
         p.sections = [c for c in dict.fromkeys(p.sections) if c in SECTIONS]
         if p.entite not in entites() or not p.sections:
@@ -297,7 +327,8 @@ def parier(donnees: dict, jour: str) -> tuple[list[dict], list[str]]:
                 "enonce": _enonce(p), "phrase_ia": p.enonce,
                 # Pari fait après coup, en rejouant le passé (test honnête mais à distinguer).
                 "rejoue": jour < date.today().isoformat(),
-                "probabilite": round(min(0.95, max(0.5, p.probabilite)), 2)})
+                "probabilite_ia": round(min(0.95, max(0.5, p.probabilite)), 2),
+                "probabilite": round(0.5 + k * (min(0.95, max(0.5, p.probabilite)) - 0.5), 2)})
         if len(nouveaux) >= place:
             break
     donnees["paris"] += nouveaux
