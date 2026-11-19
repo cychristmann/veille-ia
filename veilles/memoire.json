@@ -1,127 +1,25 @@
 {
-  "maj": "2026-11-18",
+  "maj": "2026-11-19",
   "feuilletons": [
     {
-      "id": "f-0032",
-      "titre": "Compromission massive du Microsoft Agent Framework sur GitHub et PyPI",
-      "resume": "Une série d’attaques ciblant le Microsoft Agent Framework expose des failles dans la chaîne d’approvisionnement du code, poussant les développeurs à renforcer la vérification des paquets et des dépôts.",
+      "id": "f-0034",
+      "titre": "Alliance européenne pour le développement d'une IA souveraine de bout en bout",
+      "resume": "Plusieurs acteurs technologiques européens unissent leurs forces pour structurer une filière d'intelligence artificielle indépendante et souveraine couvrant l'ensemble de la chaîne technique.",
       "statut": "actif",
-      "debut": "2026-11-18",
-      "derniere_activite": "2026-11-18",
-      "regions": [
-        "dev"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-18",
-          "texte": "Des hackers détournent le Microsoft Agent Framework via des dépôts malveillants, volant des identifiants Azure et GitHub.",
-          "articles": [
-            {
-              "titre": "Des hackers détournent des agents de codage IA via des dépôts GitHub malveillants pour voler les identifiants des développeurs",
-              "source": "CyberSecurityNews",
-              "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92cWZSSS1pOHZPQ05mT0pUWkNXczQ3VFVvVTdBYWxiSXVuR19pN2NTVEdVSzNPMmZQRkY1dEZsanZxajdpZ05WSFp0d3JOZXdfYXZxRGxaajRYckk4X25RQlVYcEZkbWhjRmVkam82RdIBdEFVX3lxTE1JMEZkQjlHUm1qZkdaTnpLRUhkQ0ZoMVNsSERpbC1YRHlIdjNoR2xfcnpUWHdUME96RlZNeWlpeW84RkdrSElmOV9zMVdJTDRGMDJKdTZkXy1nWFFOdmY2Y2ZSc1RzckVFWUlMQ3JSc2xKQTRL?oc=5",
-              "region": "dev",
-              "note": 8
-            },
-            {
-              "titre": "Des attaquants compromettent le paquet PyPI Microsoft Agent Framework pour voler des identifiants cloud",
-              "source": "The Hacker News",
-              "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVHZzbnVXd1FuNW1LTEVnVl9SbHM5ZGtrX05LMHpOREZsU01XNXpfaTdPZTQ1UDVZNjZrYzJfVGNmb0JPYU5naENvRlpBUEdmNE9oVmVzUjZwV1hhT1lNN294OTM2U1BXbnlReHJXV3c4ZUliTkl6aFRrSkJLMDNUbTNR?oc=5",
-              "region": "dev",
-              "note": 8
-            },
-            {
-              "titre": "URGENT : des versions détournées du Microsoft Agent‑Framework officiel volent des identifiants Azure et CI",
-              "source": "OX Security",
-              "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd19Jc3NucWd0Z0xsU2dIZ1p0MjVoTVJyOXdZNEhreDNTQVNxV0VWVm1ybnF4N0VfTTFkVTRpNXAtSW1xUUdQb19SeGVTMVJPZlQ5VWZvaEptM21YT3d0bXlHRGJ3UnRKc0doSDlpZTJDUllSa01DLXN2dEpXZzVJdXRBT3Iya1Nxd3hCbXIxZkYyQmRXd2kwR2pnVnpzeWg3ajRyTVJXVnFPWUt1cU1qNjlOd08tcjQ5bXM5VDktaW1EZWszT0E?oc=5",
-              "region": "dev",
-              "note": 8
-            },
-            {
-              "titre": "Le paquet PyPI Microsoft Agent Framework piraté pour voler des identifiants Azure et GitHub",
-              "source": "CyberSecurityNews",
-              "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aZXdNRkIzeFRJN0RJNTR5YzUwMUdEYkhUWEl1Z1U2N3pSajlhcEhfNG5QYnpOTUpoX1lvZ2laY0JJcEthV2xaV3pFeDQ5VUluSk5taHJoWjJic3pkWkhpaXlJaXlnemtSNjNGdEhnNTJlN0hZaUFCVVlR0gF_QVVfeXFMTUpFN0plcHNuUURjUVhyMWh0T21yRHpFejFtenBXUF9VNFg3azYyZENJQjBkUnY0U3kwVGFQZVVDWGljUkZLWkNlTVVnYTk1ckNYUnpHR1FSWlJqRERuQmwyUTBMV3V4TEI1Q0lPVFZ4RkVNaVh3b1Fkck1SZU1fTQ?oc=5",
-              "region": "dev",
-              "note": 8
-            },
-            {
-              "titre": "Microsoft Agent‑Framework compromis : le voleur d’identifiants cible Azure et les pipelines CI",
-              "source": "wiz.io",
-              "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkEyNTlZaF9BRmFHNWw5ZmpILWUyTTYwOWswREVrYzRyZ2tWMERod1plX3ZBUzdaVFY5M1VlakFCUWF6U2h5eTdsMnJOS0RzaVdpWW9XN0tOZC1BODhSeVpfTVIxY29xOTkwYjk0aVlwM0FyeV9jc3p5THdlYjB3SHBxY3hBVGhkSEZ1TUVlZ0JNMEU?oc=5",
-              "region": "dev",
-              "note": 8
-            },
-            {
-              "titre": "Votre agent de codage IA pourrait coûter 5 fois plus cher selon le harnais, selon un benchmark",
-              "source": "The New Stack",
-              "lien": "https://thenewstack.io/coding-agent-harness-costs/",
-              "region": "dev",
-              "note": 8
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f-0031",
-      "titre": "SID AI lance le modèle de recherche agentique SID‑2",
-      "resume": "Le nouveau modèle SID‑2 améliore significativement la pertinence des résultats de recherche grâce à une architecture en essaim, ouvrant la voie à des applications avancées d’IA agentique.",
-      "statut": "actif",
-      "debut": "2026-11-18",
-      "derniere_activite": "2026-11-18",
-      "regions": [
-        "dev",
-        "us"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-18",
-          "texte": "SID‑2 atteint un NDCG de 0,720 en mode essaim, positionnant SID AI comme un acteur majeur de la recherche agentique.",
-          "articles": [
-            {
-              "titre": "SID AI lance le modèle de recherche agentique SID-2 avec un NDCG de 0,720 en mode essaim",
-              "source": "MarkTechPost",
-              "lien": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
-              "region": "us",
-              "note": 9
-            },
-            {
-              "titre": "SID AI lance le modèle de recherche agentique SID-2 avec un NDCG de 0,720 en mode essaim",
-              "source": "MarkTechPost",
-              "lien": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
-              "region": "dev",
-              "note": 7
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f-0030",
-      "titre": "Google détecte la première cyberattaque IA de bout en bout",
-      "resume": "Cette première cyberattaque menée par une IA met en lumière les risques nouveaux de la cybersécurité, incitant les acteurs du secteur à réévaluer leurs défenses contre les agents autonomes.",
-      "statut": "actif",
-      "debut": "2026-11-18",
-      "derniere_activite": "2026-11-18",
+      "debut": "2026-11-19",
+      "derniere_activite": "2026-11-19",
       "regions": [
         "fr"
       ],
       "evenements": [
         {
-          "date": "2026-11-18",
-          "texte": "Google signale une attaque entièrement orchestrée par une IA, transformant des correctifs en vecteurs d’intrusion.",
+          "date": "2026-11-19",
+          "texte": "Qwant, Shadow, EUSP et OVHcloud s'associent pour bâtir une infrastructure d'IA européenne de bout en bout.",
           "articles": [
             {
-              "titre": "Google détecte la première cyberattaque menée de bout en bout par une IA",
-              "source": "Génération NT",
-              "lien": "https://www.generation-nt.com/actualites/attaque-ia-autonome-hackers-2084608",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "Google repère un agent IA qui transforme seul des correctifs en attaques",
-              "source": "Solutions-Numeriques",
-              "lien": "https://www.solutions-numeriques.com/google-repere-un-agent-ia-qui-transforme-seul-des-correctifs-en-attaques/",
+              "titre": "Qwant, Shadow, EUSP et OVHcloud unissent leurs forces pour bâtir une IA européenne de bout en bout",
+              "source": "Clubic",
+              "lien": "https://www.clubic.com/actualite-639874-qwant-shadow-eusp-et-ovhcloud-unissent-leurs-forces-pour-batir-une-ia-europeenne-de-bout-en-bout.html",
               "region": "fr",
               "note": 7
             }
@@ -130,41 +28,176 @@
       ]
     },
     {
-      "id": "f-0029",
-      "titre": "Microsoft transforme Copilot en système d’exploitation du travail avec IA économiques",
-      "resume": "Microsoft veut faire de Copilot le noyau logiciel de l’entreprise, en le couplant à de nouvelles IA plus abordables, marquant un virage stratégique vers l’intégration profonde de l’IA dans les flux de travail.",
+      "id": "f-0033",
+      "titre": "Lenovo affiche une forte croissance portée par les serveurs IA",
+      "resume": "Lenovo enregistre des résultats financiers record portés par l'explosion de la demande en serveurs et infrastructures liés à l'intelligence artificielle, malgré un ralentissement sur le marché traditionnel des PC.",
       "statut": "actif",
-      "debut": "2026-11-18",
-      "derniere_activite": "2026-11-18",
+      "debut": "2026-11-19",
+      "derniere_activite": "2026-11-19",
       "regions": [
+        "cn",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-19",
+          "texte": "Lenovo annonce une hausse spectaculaire de son chiffre d'affaires et de ses commandes de serveurs grâce au marché de l'IA.",
+          "articles": [
+            {
+              "titre": "Lenovo affiche une hausse de 48 % du chiffre d’affaires grâce aux ventes liées à l’IA, dépassant les prévisions",
+              "source": "Reuters",
+              "lien": "https://www.msn.com/en-ca/news/other/lenovo-posts-48-revenue-jump-on-ai-related-sales-beating-estimates/ar-AA2hKzLx",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "Lenovo enregistre un chiffre d’affaires du 2ᵉ trimestre record ; les serveurs IA affichent +300 % en glissement annuel, mais les livraisons de PC chutent de 22 % – Analyse des résultats",
+              "source": "华尔街见闻",
+              "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yZDdfR2JhMm9iZzBrYVBzQzVDXzVMbDVua0pjOFdrTkt6RnVfZVdXcEFDYXlFR1h0NWJSX1dSNHVTNndVSUI1cTZqNDV5eDNjY2VR?oc=5",
+              "region": "cn",
+              "note": 8
+            },
+            {
+              "titre": "Lenovo Group : revenus liés à l’IA au deuxième semestre atteignent 10,8 milliards de dollars, Yang Yuanqing affirme que les applications IA en entreprise sont encore en phase d’introduction et d’expérimentation – Observation IPO – Nouvelles actions",
+              "source": "证券之星",
+              "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wMm1OMGVWMnVhdTBncmx6OERHNGM1ejBjT1ZRMk5Ndl9aRDRDVWhTQkt2dXRyNkpibVBHSWN4UnpNd2NBRDhHN2xZNjRTeEdQX05jLW9odFg3YjJWTDl3WTBB?oc=5",
+              "region": "cn",
+              "note": 8
+            },
+            {
+              "titre": "Lenovo Group : chiffre d’affaires du deuxième trimestre dépasse 200 milliards de yuan, les commandes de serveurs IA atteignent 530 milliards de yuan – Reportage financier",
+              "source": "证券之星",
+              "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NdUtFbS05MlBacDIxQ3p4LXNyV1otN0dVRkNiMlZhOHlUbWxsN1JrSjVOWmZEMVgtdW1hT1RjYW5qS2xKMVp5RllqRlAxbDhDa3FYZko4a1NVazk4U1VhWg?oc=5",
+              "region": "cn",
+              "note": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0010",
+      "titre": "Google DeepMind lance Gemini 4 Neon et élargit la suite Gemini",
+      "resume": "Google continue d'étendre les capacités de sa suite Gemini avec de nouvelles versions optimisées pour le codage et le routage, confirmant sa position de leader dans l'IA agentique et le calcul haute performance.",
+      "statut": "actif",
+      "debut": "2026-11-11",
+      "derniere_activite": "2026-11-19",
+      "regions": [
+        "dev",
         "fr",
         "us"
       ],
       "evenements": [
         {
-          "date": "2026-11-18",
-          "texte": "Microsoft dévoile à Ignite 2026 Copilot comme OS du travail et lance sept IA moins chères aux performances proches des grands modèles.",
+          "date": "2026-11-11",
+          "texte": "Mise à disposition publique de Gemini 4 Carbon par Google.",
           "articles": [
             {
-              "titre": "Ignite 2026 : Microsoft veut faire de Copilot le « système d’exploitation du travail », où humains et agents IA collaborent",
-              "source": "ZDNet",
-              "lien": "https://www.zdnet.fr/actualites/ignite-2026-microsoft-veut-faire-de-copilot-le-systeme-dexploitation-du-travail-ou-humains-et-agents-ia-collaborent-508078.htm#xtor=RSS-1",
+              "titre": "Google ouvre Gemini 4 Carbon au public : comment tester sa nouvelle IA la plus puissante ?",
+              "source": "Le Big Data",
+              "lien": "https://www.lebigdata.fr/google-ouvre-gemini-4-carbon-au-public-comment-tester-sa-nouvelle-ia-la-plus-puissante",
               "region": "fr",
-              "note": 9
+              "note": 8
+            }
+          ]
+        },
+        {
+          "date": "2026-11-12",
+          "texte": "Lancement de Gemini Decisions.",
+          "articles": [
+            {
+              "titre": "Google lance Gemini Decisions pour 1 000 questions à la fois",
+              "source": "Brief IA",
+              "lien": "https://www.briefia.fr/article/google-lance-gemini-decisions-pour-1-000-questions-a-la-fois",
+              "region": "fr",
+              "note": 8
+            }
+          ]
+        },
+        {
+          "date": "2026-11-13",
+          "texte": "Google lance Gemini 4 Hydrogen, une mise à jour majeure accélérant le codage IA.",
+          "articles": [
+            {
+              "titre": "Gemini vient de lancer une importante mise à jour gratuite : voici tout ce qui change avec le modèle Gemini 4 Hydrogen",
+              "source": "Journal du Geek",
+              "lien": "https://www.journaldugeek.com/2026/11/13/gemini-vient-de-lancer-une-importante-mise-a-jour-gratuite-voici-tout-ce-qui-change-avec-le-modele-gemini-4-hydrogen/",
+              "region": "fr",
+              "note": 6
             },
             {
-              "titre": "Microsoft sort sept IA moins chères pour des performances proches des grands modèles",
-              "source": "lebigdata.fr",
-              "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVUtWT01CWHM5Zm9nX21QYTFEcEJSODhMcnV3TnhidkVDLWFyb0V1M3FVdXZOQkJESVB6ZHEyR3lQdEFIbVRaR3B3WVpxSXp2Q0pDSjcyNlpZbVctT1RCdHY2a3ozUnVrdnNnZDZBdkNwckFjVmJ4al9XZG9kXzlrZGRhN20xUmo1NnJ4RTl5Tmp6YTREeWpRRmI5XzFsRVVucEFLUWdXay1ITUtRc1E?oc=5",
+              "titre": "Google lance Gemini 4 Hydrogen pour accélérer le codage IA",
+              "source": "WinBuzzer",
+              "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb29mU2YzU3pMakVHNUI4TklDNXdPOXE0WHpaeEc1TnR6LXJZWTljdFRHMWEzbGttTHFYN1hUNnZGRHRsTFJQdXNvdXVhaTE4a1A0S1J0cHlPOTNoZkYySndZNjQxa0ZPQ2pGWldKbGFVV2NnTUpYQ0plRzZWMmpZSnFGOURVR2JqeHdwTjBlck9zajNlVEI4WUJaWQ?oc=5",
+              "region": "dev",
+              "note": 7
+            },
+            {
+              "titre": "Gemini 4 Hydrogen de Google surpasse le plus gros Argon seulement quatre semaines après son lancement",
+              "source": "The Decoder",
+              "lien": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
+              "region": "dev",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-15",
+          "texte": "Victoire de Gemini 4 Carbon au MathArena avec un coût élevé.",
+          "articles": [
+            {
+              "titre": "Gemini 4 Carbon remporte la couronne du MathArena mais coûte 15 fois plus que GPT‑6.1 Sol",
+              "source": "The Decoder",
+              "lien": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+              "region": "dev",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-17",
+          "texte": "Victoire de Gemini 4 Carbon au MathArena et lancement de Gemini 4 Hydrogen pour le routage des modèles.",
+          "articles": [
+            {
+              "titre": "Google Maps change radicalement : Gemini peut organiser vos vacances et prendre vos rendez-vous",
+              "source": "01net",
+              "lien": "https://www.01net.com/actualites/google-maps-change-radicalement-gemini-peut-organiser-vos-vacances-et-prendre-vos-rendez-vous.html",
               "region": "fr",
               "note": 7
             },
             {
-              "titre": "Microsoft ouvre Ignite et dévoile de nouvelles technologies IA",
-              "source": "Inven Global",
-              "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxOckV1eVlDay1hV19GTC1KdWdhbjlvZTlKRnl4N09RdUhSX0g2Y21KdURyVmlHOWU1ZERaaVZHX0JGcWxQZzhhaXR0djVmX1ItYm1ROEZ2bzFYalR0VldIeGtxZzhvUWJHUVVhcFc4c1ZiaUNJc0JFeEp4dFBBLUtKX0pQX0tYZXZnR2ZhRzF0UXpNdlJvd0R3OXpGakI0UQ?oc=5",
+              "titre": "Gemini 4 Hydrogen de Google transforme le choix du modèle en décision de routage",
+              "source": "DevOps.com",
+              "lien": "https://devops.com/googles-gemini-4-hydrogen-turns-model-choice-into-a-routing-decision",
+              "region": "dev",
+              "note": 8
+            }
+          ]
+        },
+        {
+          "date": "2026-11-19",
+          "texte": "Google DeepMind lance Gemini 4 Neon doté d'un million de tokens de contexte et se positionne en tête du classement AA Coding Agent.",
+          "articles": [
+            {
+              "titre": "Google DeepMind lance Gemini 4 Neon : 1 M de contexte, n° 1 du classement AA Coding Agent",
+              "source": "MarkTechPost",
+              "lien": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
               "region": "us",
               "note": 8
+            },
+            {
+              "titre": "Google DeepMind publie Gemini 4 Neon : 1 M de contexte, #1 du classement AA Coding Agent",
+              "source": "MarkTechPost",
+              "lien": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
+              "region": "dev",
+              "note": 8
+            },
+            {
+              "titre": "Gemini 4 Neon de Google triple son score de codage sans modifier le modèle",
+              "source": "The New Stack",
+              "lien": "https://thenewstack.io/gemini-neon-antigravity-harness/",
+              "region": "dev",
+              "note": 7
             }
           ]
         }
@@ -172,12 +205,13 @@
     },
     {
       "id": "f-0009",
-      "titre": "OpenAI renforce la sécurité après plusieurs poursuites et fuites d’agents IA",
-      "resume": "Face à des accusations de sécurité, OpenAI ajoute des profils d’entreprise vérifiés, un kill‑switch et intensifie la surveillance de ses agents IA pour prévenir de nouvelles fuites.",
+      "titre": "OpenAI visé par une enquête pénale après l'intrusion d'agents IA dans un système bancaire",
+      "resume": "OpenAI fait face à de nouvelles pressions judiciaires alors qu'une enquête pénale est ouverte suite à l'implication d'agents IA dans une intrusion au sein d'un système bancaire.",
       "statut": "actif",
       "debut": "2026-11-11",
-      "derniere_activite": "2026-11-18",
+      "derniere_activite": "2026-11-19",
       "regions": [
+        "cn",
         "fr",
         "us"
       ],
@@ -228,16 +262,36 @@
               "note": 7
             }
           ]
+        },
+        {
+          "date": "2026-11-19",
+          "texte": "Une enquête pénale est ouverte aux États-Unis concernant OpenAI après des intrusions d'agents IA dans le secteur bancaire.",
+          "articles": [
+            {
+              "titre": "OpenAI sous enquête pénale pour intrusion d’agents IA dans un système bancaire",
+              "source": "凤凰网科技",
+              "lien": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01VHhrUVd2MkFWbk5mSmdSSHJFYkwyZGpMWTY0Nm9PN1hLcElzcGVRWFU1aXVRc3NuU2lacGFQbkJwQ0Zlek4yT0Q3eWY?oc=5",
+              "region": "cn",
+              "note": 9
+            },
+            {
+              "titre": "Enquête pénale aux États‑Unis (Arizona) sur OpenAI et d’autres entreprises IA suite à l’intrusion d’agents IA dans le système bancaire",
+              "source": "IT之家",
+              "lien": "https://www.ithome.com/1/029/331.htm",
+              "region": "cn",
+              "note": 9
+            }
+          ]
         }
       ]
     },
     {
       "id": "f-0003",
-      "titre": "Anthropic poursuit son IPO tout en enrichissant Claude d’un mode Code",
-      "resume": "Après avoir appelé à la prudence sur le développement de l’IA, Anthropic avance son introduction en bourse et renforce son modèle Claude avec des capacités de programmation automatisées.",
+      "titre": "Anthropic réalise une introduction en bourse historique",
+      "resume": "Après ses appels à la prudence, Anthropic concrétise son introduction en bourse avec une levée de fonds record de plusieurs dizaines de milliards de dollars, marquant un tournant historique pour l'industrie de l'IA au Nasdaq.",
       "statut": "actif",
       "debut": "2026-11-09",
-      "derniere_activite": "2026-11-18",
+      "derniere_activite": "2026-11-19",
       "regions": [
         "cn",
         "dev",
@@ -497,6 +551,272 @@
               "note": 7
             }
           ]
+        },
+        {
+          "date": "2026-11-19",
+          "texte": "Anthropic réussit la plus grosse introduction en bourse de l'histoire en levant entre 81 et 107 milliards de dollars au Nasdaq.",
+          "articles": [
+            {
+              "titre": "Anthropic lève 81,3 milliards de dollars en Bourse, la plus grosse introduction de l’histoire",
+              "source": "ZDNet",
+              "lien": "https://www.zdnet.fr/actualites/anthropic-leve-813-milliards-de-dollars-en-bourse-la-plus-grosse-introduction-de-lhistoire-508163.htm#xtor=RSS-1",
+              "region": "fr",
+              "note": 10
+            },
+            {
+              "titre": "Véritable test pour le secteur de l'IA, Anthropic, créateur de l'IA Claude, entre en bourse avec une valorisation astronomique",
+              "source": "franceinfo",
+              "lien": "https://news.google.com/rss/articles/CBMingJBVV95cUxQWDZaWDJxZDZzQTY2ajU5VHY3OUNUbXNnQllZRmkwQ3ZVak5MMmNmOTh3YnF5anV5SHQ0UFgzYVlRY3RyOWdHQXNzQlM0TUhORmtRSjh2RnBJYVpkM1N0THFYMElfWjVTaXNLNXFCX2NmYjI4ektGRl83VGlLMV9zM1dhaGozRDhoQVN4S053NldmRUpSUDllTFBkYzJlQkRONWo2cmdkM3JEMWlGZ0l3bFZReDdLQTJCZV9sSmd0akRYcWRCRjc2TGd2Q1A2WFEyXzlEa0QzU3Y4ODBZb1gyVWFSVjRQZTZhTUJhN0ZDZW1uT1cyV0RwY0ZUc2huRTZWbXg1eTlLM19HaVlicnhLY0lzRXNJcE5tRHZLWVdR?oc=5",
+              "region": "fr",
+              "note": 9
+            },
+            {
+              "titre": "Anthropic va lever 68,5 milliards de dollars pour son entrée en Bourse",
+              "source": "Stratégies",
+              "lien": "https://www.strategies.fr/actualites/culture-tech/LQ6939104C/anthropic-va-lever-685-milliards-de-dollars-pour-son-entree-en-bourse.html",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Anthropic devrait lever au minimum 79,4 milliards de dollars",
+              "source": "JDN",
+              "lien": "https://www.journaldunet.com/intelligence-artificielle/1558225-anthropic-s-apprete-a-lever-au-minimum-79-4-milliards-de-dollars/",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "ANTHROPIC signe la plus grosse IPO de l’histoire. Combien lui coûte la croissance de CLAUDE ?",
+              "source": "FrenchWeb",
+              "lien": "https://www.frenchweb.fr/anthropic-signe-la-plus-grosse-ipo-de-l-histoire-combien-lui-coute-la-croissance-de-claude/900000057?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "IA : Anthropic lève près de 80 milliards de dollars en Bourse et bat le record de SpaceX",
+              "source": "La Croix",
+              "lien": "https://www.la-croix.com/economie/ia-anthropic-leve-pres-de-80-milliards-de-dollars-en-bourse-et-bat-le-record-de-spacex-20261119",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Anthropic, créateur de l'agent IA Claude, entre en bourse ce jeudi",
+              "source": "Radio France",
+              "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUndtY093TG55dXN5bFA3blBaYTZSLTBKYnpTR05yUExKTy1WV3lGOC1pRlRFS1lMWFRvRVloTEMzUHQ4eGZFSjNOalVCSGRCb2lEQ1EtUEo5UUphVU0xekxJSnZZYi1ZY2NCanZtOUJESXJwc0lFUnc0dnN2MWMzdnJPLTYyOUl3d1ExcjNScWhIbTZHRFJMYU1iaTR2bkRUWV9aeHE5ZEFSTmdOWVpDblRR?oc=5",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Jour J pour l'une des plus grosses introductions en Bourse de l'histoire : avec Anthropic, l’IA débarque en fanfare au Nasdaq",
+              "source": "Challenges",
+              "lien": "https://www.challenges.fr/entreprise/tech-numerique/jour-j-pour-lune-des-plus-grosses-introductions-en-bourse-de-lhistoire-avec-anthropic-lia-debarque-en-fanfare-au-nasdaq_647055",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Intelligence artificielle : Anthropic s’apprête à pulvériser un record pour son entrée en Bourse",
+              "source": "20 Minutes",
+              "lien": "https://www.msn.com/fr-fr/actualite/other/intelligence-artificielle-anthropic-s-appr%C3%AAte-%C3%A0-pulv%C3%A9riser-un-record-pour-son-entr%C3%A9e-en-bourse/ar-AA2hKMbS",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Anthropic fixe le prix de son IPO à 83 dollars, un gage de pérennité pour les entreprises",
+              "source": "Le Big Data",
+              "lien": "https://www.lebigdata.fr/anthropic-prix-ipo-83-dollars",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Anthropic lève 107,3 milliards de dollars lors de son introduction Watershed IA",
+              "source": "Bloomberg Technology",
+              "lien": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-raises-107-3-billion-in-watershed-ai-debut-video",
+              "region": "us",
+              "note": 9
+            },
+            {
+              "titre": "L’IPO record d’Anthropic de 81,3 milliards de dollars arme les géants américains de l’IA pour une guerre des prix avec leurs rivaux chinois",
+              "source": "SCMP Tech",
+              "lien": "https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals",
+              "region": "cn",
+              "note": 9
+            },
+            {
+              "titre": "IPO d’Anthropic atteint 107,3 milliards de dollars – record – le marché secondaire indique une hausse à l’ouverture de plus de 20 %",
+              "source": "IT之家",
+              "lien": "https://www.ithome.com/1/029/290.htm",
+              "region": "cn",
+              "note": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0032",
+      "titre": "Compromission massive du Microsoft Agent Framework sur GitHub et PyPI",
+      "resume": "Une série d’attaques ciblant le Microsoft Agent Framework expose des failles dans la chaîne d’approvisionnement du code, poussant les développeurs à renforcer la vérification des paquets et des dépôts.",
+      "statut": "actif",
+      "debut": "2026-11-18",
+      "derniere_activite": "2026-11-18",
+      "regions": [
+        "dev"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-18",
+          "texte": "Des hackers détournent le Microsoft Agent Framework via des dépôts malveillants, volant des identifiants Azure et GitHub.",
+          "articles": [
+            {
+              "titre": "Des hackers détournent des agents de codage IA via des dépôts GitHub malveillants pour voler les identifiants des développeurs",
+              "source": "CyberSecurityNews",
+              "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92cWZSSS1pOHZPQ05mT0pUWkNXczQ3VFVvVTdBYWxiSXVuR19pN2NTVEdVSzNPMmZQRkY1dEZsanZxajdpZ05WSFp0d3JOZXdfYXZxRGxaajRYckk4X25RQlVYcEZkbWhjRmVkam82RdIBdEFVX3lxTE1JMEZkQjlHUm1qZkdaTnpLRUhkQ0ZoMVNsSERpbC1YRHlIdjNoR2xfcnpUWHdUME96RlZNeWlpeW84RkdrSElmOV9zMVdJTDRGMDJKdTZkXy1nWFFOdmY2Y2ZSc1RzckVFWUlMQ3JSc2xKQTRL?oc=5",
+              "region": "dev",
+              "note": 8
+            },
+            {
+              "titre": "Des attaquants compromettent le paquet PyPI Microsoft Agent Framework pour voler des identifiants cloud",
+              "source": "The Hacker News",
+              "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVHZzbnVXd1FuNW1LTEVnVl9SbHM5ZGtrX05LMHpOREZsU01XNXpfaTdPZTQ1UDVZNjZrYzJfVGNmb0JPYU5naENvRlpBUEdmNE9oVmVzUjZwV1hhT1lNN294OTM2U1BXbnlReHJXV3c4ZUliTkl6aFRrSkJLMDNUbTNR?oc=5",
+              "region": "dev",
+              "note": 8
+            },
+            {
+              "titre": "URGENT : des versions détournées du Microsoft Agent‑Framework officiel volent des identifiants Azure et CI",
+              "source": "OX Security",
+              "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd19Jc3NucWd0Z0xsU2dIZ1p0MjVoTVJyOXdZNEhreDNTQVNxV0VWVm1ybnF4N0VfTTFkVTRpNXAtSW1xUUdQb19SeGVTMVJPZlQ5VWZvaEptM21YT3d0bXlHRGJ3UnRKc0doSDlpZTJDUllSa01DLXN2dEpXZzVJdXRBT3Iya1Nxd3hCbXIxZkYyQmRXd2kwR2pnVnpzeWg3ajRyTVJXVnFPWUt1cU1qNjlOd08tcjQ5bXM5VDktaW1EZWszT0E?oc=5",
+              "region": "dev",
+              "note": 8
+            },
+            {
+              "titre": "Le paquet PyPI Microsoft Agent Framework piraté pour voler des identifiants Azure et GitHub",
+              "source": "CyberSecurityNews",
+              "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aZXdNRkIzeFRJN0RJNTR5YzUwMUdEYkhUWEl1Z1U2N3pSajlhcEhfNG5QYnpOTUpoX1lvZ2laY0JJcEthV2xaV3pFeDQ5VUluSk5taHJoWjJic3pkWkhpaXlJaXlnemtSNjNGdEhnNTJlN0hZaUFCVVlR0gF_QVVfeXFMTUpFN0plcHNuUURjUVhyMWh0T21yRHpFejFtenBXUF9VNFg3azYyZENJQjBkUnY0U3kwVGFQZVVDWGljUkZLWkNlTVVnYTk1ckNYUnpHR1FSWlJqRERuQmwyUTBMV3V4TEI1Q0lPVFZ4RkVNaVh3b1Fkck1SZU1fTQ?oc=5",
+              "region": "dev",
+              "note": 8
+            },
+            {
+              "titre": "Microsoft Agent‑Framework compromis : le voleur d’identifiants cible Azure et les pipelines CI",
+              "source": "wiz.io",
+              "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTkEyNTlZaF9BRmFHNWw5ZmpILWUyTTYwOWswREVrYzRyZ2tWMERod1plX3ZBUzdaVFY5M1VlakFCUWF6U2h5eTdsMnJOS0RzaVdpWW9XN0tOZC1BODhSeVpfTVIxY29xOTkwYjk0aVlwM0FyeV9jc3p5THdlYjB3SHBxY3hBVGhkSEZ1TUVlZ0JNMEU?oc=5",
+              "region": "dev",
+              "note": 8
+            },
+            {
+              "titre": "Votre agent de codage IA pourrait coûter 5 fois plus cher selon le harnais, selon un benchmark",
+              "source": "The New Stack",
+              "lien": "https://thenewstack.io/coding-agent-harness-costs/",
+              "region": "dev",
+              "note": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0031",
+      "titre": "SID AI lance le modèle de recherche agentique SID‑2",
+      "resume": "Le nouveau modèle SID‑2 améliore significativement la pertinence des résultats de recherche grâce à une architecture en essaim, ouvrant la voie à des applications avancées d’IA agentique.",
+      "statut": "actif",
+      "debut": "2026-11-18",
+      "derniere_activite": "2026-11-18",
+      "regions": [
+        "dev",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-18",
+          "texte": "SID‑2 atteint un NDCG de 0,720 en mode essaim, positionnant SID AI comme un acteur majeur de la recherche agentique.",
+          "articles": [
+            {
+              "titre": "SID AI lance le modèle de recherche agentique SID-2 avec un NDCG de 0,720 en mode essaim",
+              "source": "MarkTechPost",
+              "lien": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
+              "region": "us",
+              "note": 9
+            },
+            {
+              "titre": "SID AI lance le modèle de recherche agentique SID-2 avec un NDCG de 0,720 en mode essaim",
+              "source": "MarkTechPost",
+              "lien": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
+              "region": "dev",
+              "note": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0030",
+      "titre": "Google détecte la première cyberattaque IA de bout en bout",
+      "resume": "Cette première cyberattaque menée par une IA met en lumière les risques nouveaux de la cybersécurité, incitant les acteurs du secteur à réévaluer leurs défenses contre les agents autonomes.",
+      "statut": "actif",
+      "debut": "2026-11-18",
+      "derniere_activite": "2026-11-18",
+      "regions": [
+        "fr"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-18",
+          "texte": "Google signale une attaque entièrement orchestrée par une IA, transformant des correctifs en vecteurs d’intrusion.",
+          "articles": [
+            {
+              "titre": "Google détecte la première cyberattaque menée de bout en bout par une IA",
+              "source": "Génération NT",
+              "lien": "https://www.generation-nt.com/actualites/attaque-ia-autonome-hackers-2084608",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Google repère un agent IA qui transforme seul des correctifs en attaques",
+              "source": "Solutions-Numeriques",
+              "lien": "https://www.solutions-numeriques.com/google-repere-un-agent-ia-qui-transforme-seul-des-correctifs-en-attaques/",
+              "region": "fr",
+              "note": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0029",
+      "titre": "Microsoft transforme Copilot en système d’exploitation du travail avec IA économiques",
+      "resume": "Microsoft veut faire de Copilot le noyau logiciel de l’entreprise, en le couplant à de nouvelles IA plus abordables, marquant un virage stratégique vers l’intégration profonde de l’IA dans les flux de travail.",
+      "statut": "actif",
+      "debut": "2026-11-18",
+      "derniere_activite": "2026-11-18",
+      "regions": [
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-18",
+          "texte": "Microsoft dévoile à Ignite 2026 Copilot comme OS du travail et lance sept IA moins chères aux performances proches des grands modèles.",
+          "articles": [
+            {
+              "titre": "Ignite 2026 : Microsoft veut faire de Copilot le « système d’exploitation du travail », où humains et agents IA collaborent",
+              "source": "ZDNet",
+              "lien": "https://www.zdnet.fr/actualites/ignite-2026-microsoft-veut-faire-de-copilot-le-systeme-dexploitation-du-travail-ou-humains-et-agents-ia-collaborent-508078.htm#xtor=RSS-1",
+              "region": "fr",
+              "note": 9
+            },
+            {
+              "titre": "Microsoft sort sept IA moins chères pour des performances proches des grands modèles",
+              "source": "lebigdata.fr",
+              "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVUtWT01CWHM5Zm9nX21QYTFEcEJSODhMcnV3TnhidkVDLWFyb0V1M3FVdXZOQkJESVB6ZHEyR3lQdEFIbVRaR3B3WVpxSXp2Q0pDSjcyNlpZbVctT1RCdHY2a3ozUnVrdnNnZDZBdkNwckFjVmJ4al9XZG9kXzlrZGRhN20xUmo1NnJ4RTl5Tmp6YTREeWpRRmI5XzFsRVVucEFLUWdXay1ITUtRc1E?oc=5",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Microsoft ouvre Ignite et dévoile de nouvelles technologies IA",
+              "source": "Inven Global",
+              "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxOckV1eVlDay1hV19GTC1KdWdhbjlvZTlKRnl4N09RdUhSX0g2Y21KdURyVmlHOWU1ZERaaVZHX0JGcWxQZzhhaXR0djVmX1ItYm1ROEZ2bzFYalR0VldIeGtxZzhvUWJHUVVhcFc4c1ZiaUNJc0JFeEp4dFBBLUtKX0pQX0tYZXZnR2ZhRzF0UXpNdlJvd0R3OXpGakI0UQ?oc=5",
+              "region": "us",
+              "note": 8
+            }
+          ]
         }
       ]
     },
@@ -709,106 +1029,6 @@
               "source": "AI Insider",
               "lien": "https://finance.yahoo.com/technology/ai/articles/torus-launches-modular-ai-infrastructure-130000569.html",
               "region": "us",
-              "note": 8
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f-0010",
-      "titre": "Gemini 4 Carbon remporte le MathArena et se diversifie",
-      "resume": "Google a confirmé la victoire de Gemini 4 Carbon au MathArena tout en annonçant Gemini 4 Hydrogen, qui optimise le routage des modèles, élargissant ainsi les capacités de la suite Gemini.",
-      "statut": "actif",
-      "debut": "2026-11-11",
-      "derniere_activite": "2026-11-17",
-      "regions": [
-        "dev",
-        "fr"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-11",
-          "texte": "Mise à disposition publique de Gemini 4 Carbon par Google.",
-          "articles": [
-            {
-              "titre": "Google ouvre Gemini 4 Carbon au public : comment tester sa nouvelle IA la plus puissante ?",
-              "source": "Le Big Data",
-              "lien": "https://www.lebigdata.fr/google-ouvre-gemini-4-carbon-au-public-comment-tester-sa-nouvelle-ia-la-plus-puissante",
-              "region": "fr",
-              "note": 8
-            }
-          ]
-        },
-        {
-          "date": "2026-11-12",
-          "texte": "Lancement de Gemini Decisions.",
-          "articles": [
-            {
-              "titre": "Google lance Gemini Decisions pour 1 000 questions à la fois",
-              "source": "Brief IA",
-              "lien": "https://www.briefia.fr/article/google-lance-gemini-decisions-pour-1-000-questions-a-la-fois",
-              "region": "fr",
-              "note": 8
-            }
-          ]
-        },
-        {
-          "date": "2026-11-13",
-          "texte": "Google lance Gemini 4 Hydrogen, une mise à jour majeure accélérant le codage IA.",
-          "articles": [
-            {
-              "titre": "Gemini vient de lancer une importante mise à jour gratuite : voici tout ce qui change avec le modèle Gemini 4 Hydrogen",
-              "source": "Journal du Geek",
-              "lien": "https://www.journaldugeek.com/2026/11/13/gemini-vient-de-lancer-une-importante-mise-a-jour-gratuite-voici-tout-ce-qui-change-avec-le-modele-gemini-4-hydrogen/",
-              "region": "fr",
-              "note": 6
-            },
-            {
-              "titre": "Google lance Gemini 4 Hydrogen pour accélérer le codage IA",
-              "source": "WinBuzzer",
-              "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb29mU2YzU3pMakVHNUI4TklDNXdPOXE0WHpaeEc1TnR6LXJZWTljdFRHMWEzbGttTHFYN1hUNnZGRHRsTFJQdXNvdXVhaTE4a1A0S1J0cHlPOTNoZkYySndZNjQxa0ZPQ2pGWldKbGFVV2NnTUpYQ0plRzZWMmpZSnFGOURVR2JqeHdwTjBlck9zajNlVEI4WUJaWQ?oc=5",
-              "region": "dev",
-              "note": 7
-            },
-            {
-              "titre": "Gemini 4 Hydrogen de Google surpasse le plus gros Argon seulement quatre semaines après son lancement",
-              "source": "The Decoder",
-              "lien": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
-              "region": "dev",
-              "note": 7
-            }
-          ]
-        },
-        {
-          "date": "2026-11-15",
-          "texte": "Victoire de Gemini 4 Carbon au MathArena avec un coût élevé.",
-          "articles": [
-            {
-              "titre": "Gemini 4 Carbon remporte la couronne du MathArena mais coûte 15 fois plus que GPT‑6.1 Sol",
-              "source": "The Decoder",
-              "lien": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
-              "region": "dev",
-              "note": 7
-            }
-          ]
-        },
-        {
-          "date": "2026-11-17",
-          "texte": "Victoire de Gemini 4 Carbon au MathArena et lancement de Gemini 4 Hydrogen pour le routage des modèles.",
-          "articles": [
-            {
-              "titre": "Google Maps change radicalement : Gemini peut organiser vos vacances et prendre vos rendez-vous",
-              "source": "01net",
-              "lien": "https://www.01net.com/actualites/google-maps-change-radicalement-gemini-peut-organiser-vos-vacances-et-prendre-vos-rendez-vous.html",
-              "region": "fr",
-              "note": 7
-            },
-            {
-              "titre": "Gemini 4 Hydrogen de Google transforme le choix du modèle en décision de routage",
-              "source": "DevOps.com",
-              "lien": "https://devops.com/googles-gemini-4-hydrogen-turns-model-choice-into-a-routing-decision",
-              "region": "dev",
               "note": 8
             }
           ]

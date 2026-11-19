@@ -1,20 +1,21 @@
 ---
-source_file: "feuilletons/f-0026.md"
+source_file: "veilles/veille-ia-cn-2026-11-19-t2.md"
 type: "concept"
-community: "Alibaba"
+community: "Tencent"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Alibaba
+  - community/Tencent
 ---
 
 # Alibaba
 
 ## Connections
 - [[Feuilleton Alibaba Qwen4-Max]] - `references` [EXTRACTED]
-- [[Qwen 5]] - `references` [EXTRACTED]
+- [[Qwen]] - `references` [EXTRACTED]
 - [[Qwen4-Max]] - `references` [EXTRACTED]
 - [[T-Head]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-13]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-19  Marché, Financement & Valorisation IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Alibaba
+#graphify/concept #graphify/EXTRACTED #community/Tencent

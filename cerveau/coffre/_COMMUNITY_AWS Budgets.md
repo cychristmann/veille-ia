@@ -1,17 +1,18 @@
 ---
 type: community
-members: 4
+members: 5
 ---
 
 # AWS Budgets
 
-**Members:** 4 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[HarmonyOS 7]] - code - veilles/veille-ia-cn-2026-11-17-t4.md
-- [[Huawei Mate 90]] - code - veilles/veille-ia-cn-2026-11-17-t4.md
-- [[OSTA O1 Pro]] - code - veilles/veille-ia-cn-2026-11-17-t4.md
-- [[Veille Chine 2026-11-17 (T4)]] - document - veilles/veille-ia-cn-2026-11-17-t4.md
+- [[IT之家]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
+- [[Veille Chine 2026-11-12  Anthropic et concurrence]] - document - veilles/veille-ia-cn-2026-11-12-t2.md
+- [[中国新闻网]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
+- [[华尔街见闻]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
+- [[证券之星]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,3 +20,9 @@ members: 4
 TABLE source_file, type FROM #community/AWS_Budgets
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Anthropic]]
+
+## Top bridge nodes
+- [[Veille Chine 2026-11-12  Anthropic et concurrence]] - degree 5, connects to 1 community

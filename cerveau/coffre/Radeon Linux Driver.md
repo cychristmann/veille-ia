@@ -1,16 +1,16 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-13-t4.md"
 type: "concept"
-community: "Claude Code"
+community: "OpenAI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Claude_Code
+  - community/OpenAI
 ---
 
 # Radeon Linux Driver
 
 ## Connections
-- [[Codex]] - `references` [EXTRACTED]
+- [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Claude_Code
+#graphify/concept #graphify/EXTRACTED #community/OpenAI

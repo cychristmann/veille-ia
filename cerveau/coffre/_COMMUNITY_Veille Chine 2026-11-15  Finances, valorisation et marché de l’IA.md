@@ -1,16 +1,20 @@
 ---
 type: community
-members: 3
+members: 7
 ---
 
 # Veille Chine 2026-11-15 : Finances, valorisation et marché de l’IA
 
-**Members:** 3 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Dossier  Nvidia désigné champion national de l’IA aux États‑Unis]] - document - dossiers/2026-11-16-2.md
-- [[Les résultats de Nvidia pèsent sur la tech  réaction d'une stratège]] - document - dossiers/2026-11-16-2.md
-- [[Nvidia en pleine épreuve  la concurrence de DeepSeek menace sa domination dans l'IA]] - document - dossiers/2026-11-16-2.md
+- [[Moomoo]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
+- [[Veille Chine 2026-11-15  Finances, valorisation et marché de l’IA]] - document - veilles/veille-ia-cn-2026-11-15-t3.md
+- [[中青在线 (China Youth Online)]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
+- [[富途牛牛 (Futu Niuniu)]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
+- [[招商证券 (China Merchants Securities)]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
+- [[新浪财经 (Sina Finance)]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
+- [[高毅资产 (High-Flyer Asset Management)]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,9 +22,3 @@ members: 3
 TABLE source_file, type FROM #community/Veille_Chine_2026-11-15__Finances_valorisation_et_marché_de_lIA
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia]]
-
-## Top bridge nodes
-- [[Dossier  Nvidia désigné champion national de l’IA aux États‑Unis]] - degree 3, connects to 1 community

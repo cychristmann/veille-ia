@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Feuilleton: Centre international d’IA militaire français ouvert à Rennes
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Le Monde Pixels]] - concept - feuilletons/f-0027.md
-- [[Ukraine Conflict]] - concept - feuilletons/f-0027.md
+- [[Feuilleton Centre international d’IA militaire français ouvert à Rennes]] - document - feuilletons/f-0023.md
 
 ## Live Query (requires Dataview plugin)
 

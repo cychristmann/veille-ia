@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-11-t2.md"
+source_file: "veilles/veille-ia-fr-2026-11-11-t1.md"
 type: "document"
 community: "Apple"
 tags:

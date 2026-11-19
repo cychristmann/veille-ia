@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t1.md"
 type: "document"
-community: "Claude Meetings"
+community: "Veille États-Unis 2026-11-09 : Régulation et politiques publiques"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Claude_Meetings
+  - community/Veille_États-Unis_2026-11-09__Régulation_et_politiques_publiques
 ---
 
 # Veille États-Unis 2026-11-09 : Régulation et politiques publiques
@@ -17,4 +17,4 @@ tags:
 - [[Inside Global Tech]] - `cites` [EXTRACTED]
 - [[News 5 Cleveland WEWS]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Claude_Meetings
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-09__Régulation_et_politiques_publiques

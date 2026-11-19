@@ -8,17 +8,17 @@ members: 11
 **Members:** 11 nodes
 
 ## Members
-- [[Claude Fable]] - code - veilles/veille-ia-dev-2026-11-15-t3.md
-- [[CoReMem]] - concept - veilles/veille-ia-dev-2026-11-15-t3.md
-- [[Datasette Agent]] - concept - veilles/veille-ia-fr-2026-11-15-t4.md
-- [[DeepSeek V3]] - concept - veilles/veille-ia-dev-2026-11-15-t2.md
-- [[DuckLake]] - concept - veilles/veille-ia-dev-2026-11-15-t2.md
-- [[Google Modern Web Guidance 1.0]] - document - veilles/veille-ia-dev-2026-11-15-t3.md
-- [[OpenFold3]] - concept - veilles/veille-ia-dev-2026-11-15-t2.md
-- [[Veille Outils & code 2026-11-15]] - document - veilles/veille-ia-dev-2026-11-15-t2.md
-- [[Vercel UI SDK]] - code - veilles/veille-ia-dev-2026-11-15-t3.md
-- [[datasette-llm]] - concept - veilles/veille-ia-fr-2026-11-15-t4.md
-- [[datasette-vega]] - code - veilles/veille-ia-dev-2026-11-15-t3.md
+- [[Amazon SageMaker HyperPod Inference]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Codex CLI]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Hitachi Vantara VSP One]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Impartner MCP]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[JustSolve AI Mastery]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Microsoft AI coding model]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Octopus Deploy]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Perplexity Computer]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Replit Missions]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Veille Outils & code 2026-11-18]] - document - veilles/veille-ia-dev-2026-11-18-t1.md
+- [[Vibe Coding]] - concept - veilles/veille-ia-dev-2026-11-16-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -28,14 +28,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
-- 1 edge to [[_COMMUNITY_Fable 5.2]]
-- 1 edge to [[_COMMUNITY_Débats à Saint-Tropez]]
-- 1 edge to [[_COMMUNITY_Copilot]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-16]]
-- 1 edge to [[_COMMUNITY_Claude Code]]
+- 2 edges to [[_COMMUNITY_Copilot]]
+- 1 edge to [[_COMMUNITY_JPMorgan]]
+- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
 - 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-13]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-15]] - degree 15, connects to 6 communities
-- [[datasette-llm]] - degree 3, connects to 1 community
+- [[Veille Outils & code 2026-11-18]] - degree 16, connects to 5 communities
+- [[Vibe Coding]] - degree 3, connects to 1 community

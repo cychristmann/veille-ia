@@ -1,16 +1,21 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-18-t1.md"
+source_file: "feuilletons/f-0034.md"
 type: "concept"
-community: "Feuilleton: Les États‑Unis désignent Nvidia parmi les champions nationaux de l’IA"
+community: "Alibaba"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Feuilleton_Les_ÉtatsUnis_désignent_Nvidia_parmi_les_champions_nationaux_de_lIA
+  - community/Alibaba
 ---
 
 # OVHcloud
 
 ## Connections
+- [[Feuilleton Alliance européenne pour le développement d'une IA souveraine de bout en bout]] - `references` [EXTRACTED]
+- [[OVHai LLM]] - `references` [EXTRACTED]
 - [[Olala]] - `references` [EXTRACTED]
+- [[Qwant]] - `shares_data_with` [INFERRED]
+- [[Shadow]] - `shares_data_with` [INFERRED]
+- [[Veille France 2026-11-19  Régulation, souveraineté et enjeux sociétaux]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Feuilleton_Les_ÉtatsUnis_désignent_Nvidia_parmi_les_champions_nationaux_de_lIA
+#graphify/concept #graphify/EXTRACTED #community/Alibaba

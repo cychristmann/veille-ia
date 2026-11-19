@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-17-t5.md"
 type: "code"
-community: "Alibaba"
+community: "AMD"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Alibaba
+  - community/AMD
 ---
 
 # Li Feifei
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AMD]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Alibaba
+#graphify/code #graphify/EXTRACTED #community/AMD

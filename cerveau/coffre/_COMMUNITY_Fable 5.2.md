@@ -1,19 +1,23 @@
 ---
 type: community
-members: 6
+members: 10
 ---
 
 # Fable 5.2
 
-**Members:** 6 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[Fable 5.2]] - concept - veilles/veille-ia-dev-2026-11-18-t1.md
-- [[Opus 5.5]] - concept - veilles/veille-ia-cn-2026-11-11-t2.md
-- [[Shengquan Group]] - concept - veilles/veille-ia-cn-2026-11-11-t2.md
-- [[Veille Chine 2026-11-11  Technologie et infrastructure]] - document - veilles/veille-ia-cn-2026-11-11-t2.md
-- [[datasette]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
-- [[datasette-maplibre]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Ant Group Lingbo Embodied AI]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
+- [[Boursorama]] - concept - dossiers/2026-11-19-1.md
+- [[Dr. Hendrik Leber]] - concept - dossiers/2026-11-19-1.md
+- [[IPO]] - concept - feuilletons/f-0003.md
+- [[Lenovo AI Servers]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
+- [[Nasdaq]] - concept - feuilletons/f-0003.md
+- [[Qwen AI Hardware]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
+- [[SEC]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
+- [[Veille Chine 2026-11-19  Autres articles]] - document - veilles/veille-ia-cn-2026-11-19-t6.md
+- [[Wired]] - concept - dossiers/2026-11-19-1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,12 +27,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Veille États-Unis 2026-11-12]]
-- 1 edge to [[_COMMUNITY_OpenAI_1]]
-- 1 edge to [[_COMMUNITY_Copilot]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-15]]
+- 3 edges to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-19  Infrastructure et Technologie IA]]
 
 ## Top bridge nodes
-- [[Fable 5.2]] - degree 4, connects to 2 communities
-- [[Opus 5.5]] - degree 4, connects to 2 communities
-- [[datasette-maplibre]] - degree 2, connects to 1 community
+- [[IPO]] - degree 9, connects to 2 communities
+- [[SEC]] - degree 2, connects to 1 community

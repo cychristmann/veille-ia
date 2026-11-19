@@ -24,9 +24,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Veille États-Unis 2026-11-12]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-09  Autres articles]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-15_1]]
+- 2 edges to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
 - 1 edge to [[_COMMUNITY_JPMorgan]]
 
 ## Top bridge nodes

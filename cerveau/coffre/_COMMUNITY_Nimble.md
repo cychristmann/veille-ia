@@ -1,17 +1,16 @@
 ---
 type: community
-members: 4
+members: 3
 ---
 
 # Nimble
 
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[AI Fraud and Academic Misconduct]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
-- [[AI Market Dynamics]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
-- [[AI Regulation and Ethics]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
-- [[Veille Chine 2026-11-16]] - document - veilles/veille-ia-cn-2026-11-16-t4.md
+- [[Gemma 4]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
+- [[Nimble]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
+- [[Ollama]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille États-Unis 2026-11-12 : IA en santé et sciences de la vie
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[248 Ventures]] - concept - dossiers/2026-11-16-2.md
+- [[RELEX]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
+- [[Vusion]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-10-t7.md"
 type: "document"
-community: "Suno AI"
+community: "Veille États-Unis 2026-11-10 : Autres articles"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Suno_AI
+  - community/Veille_États-Unis_2026-11-10__Autres_articles
 ---
 
 # Veille États-Unis 2026-11-10 : Autres articles
@@ -15,4 +15,4 @@ tags:
 - [[Artifact AI]] - `references` [EXTRACTED]
 - [[Venture Global]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Suno_AI
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-10__Autres_articles

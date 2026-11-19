@@ -1,19 +1,16 @@
 ---
 type: community
-members: 6
+members: 3
 ---
 
 # Veille Outils & code 2026-11-12 : Sécurité et gouvernance
 
-**Members:** 6 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[01net.com]] - concept - dossiers/2026-11-17-3.md
-- [[Dossier L’impact de l’automatisation par l’IA]] - document - dossiers/2026-11-17-3.md
-- [[OCDE]] - concept - dossiers/2026-11-17-3.md
-- [[PwC]] - concept - dossiers/2026-11-17-3.md
-- [[journaldunet.com]] - concept - dossiers/2026-11-17-3.md
-- [[latribune.fr]] - concept - dossiers/2026-11-17-3.md
+- [[Dossier  Nvidia désigné champion national de l’IA aux États‑Unis]] - document - dossiers/2026-11-16-2.md
+- [[Les résultats de Nvidia pèsent sur la tech  réaction d'une stratège]] - document - dossiers/2026-11-16-2.md
+- [[Nvidia en pleine épreuve  la concurrence de DeepSeek menace sa domination dans l'IA]] - document - dossiers/2026-11-16-2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,3 +18,9 @@ members: 6
 TABLE source_file, type FROM #community/Veille_Outils__code_2026-11-12__Sécurité_et_gouvernance
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Nvidia]]
+
+## Top bridge nodes
+- [[Dossier  Nvidia désigné champion national de l’IA aux États‑Unis]] - degree 3, connects to 1 community

@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[CVS Health]] - code - veilles/veille-ia-us-2026-11-14-t6.md
-- [[Veille États-Unis 2026-11-14]] - document - veilles/veille-ia-us-2026-11-14-t6.md
+- [[Accenture]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
+- [[Qantas]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
 
 ## Live Query (requires Dataview plugin)
 

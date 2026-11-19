@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Veille Chine 2026-11-14 : Outils, plateformes et applications IA
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[DeepSeek API]] - concept - veilles/veille-ia-cn-2026-11-14-t6.md
-- [[Moomoo AI]] - concept - veilles/veille-ia-cn-2026-11-14-t6.md
-- [[Veille Chine 2026-11-14  Outils, plateformes et applications IA]] - document - veilles/veille-ia-cn-2026-11-14-t6.md
+- [[SC Media]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
+- [[Veille États-Unis 2026-11-08  Perception publique et sociétale]] - document - veilles/veille-ia-us-2026-11-08-t5.md
+- [[tech-insider.org]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
+- [[vr.org]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
 
 ## Live Query (requires Dataview plugin)
 

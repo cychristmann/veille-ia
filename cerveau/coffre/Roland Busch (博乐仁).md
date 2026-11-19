@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "code"
-community: "Dossier: Course à l'IA entre États‑Unis et Chine"
+community: "Claude"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Dossier_Course_à_lIA_entre_ÉtatsUnis_et_Chine
+  - community/Claude
 ---
 
 # Roland Busch (博乐仁)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Siemens]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Dossier_Course_à_lIA_entre_ÉtatsUnis_et_Chine
+#graphify/code #graphify/EXTRACTED #community/Claude

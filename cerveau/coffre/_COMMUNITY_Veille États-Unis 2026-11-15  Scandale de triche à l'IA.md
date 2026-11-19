@@ -1,17 +1,19 @@
 ---
 type: community
-members: 4
+members: 6
 ---
 
 # Veille États-Unis 2026-11-15 : Scandale de triche à l'IA
 
-**Members:** 4 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Huawei Ascend]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
-- [[LongCat-2.5]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
-- [[Meituan]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
-- [[Terminal Bench]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[AI Short Dramas]] - concept - veilles/veille-ia-cn-2026-11-14-t3.md
+- [[SCMP Tech]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
+- [[Sanxingdui Future Past]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
+- [[Veille Chine 2026-11-14  Médias, création et divertissement IA]] - document - veilles/veille-ia-cn-2026-11-14-t3.md
+- [[Veille Chine 2026-11-15  Contenu et divertissement IA]] - document - veilles/veille-ia-cn-2026-11-15-t1.md
+- [[投资界]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-13-t1.md"
 type: "document"
-community: "veille états-unis thème 7"
+community: "IA dans l'enseignement supérieur"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/veille_états-unis_thème_7
+  - community/IA_dans_lenseignement_supérieur
 ---
 
 # Veille Chine 2026-11-13 : Éducation et formation
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[IA dans l'enseignement supérieur]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/veille_états-unis_thème_7
+#graphify/document #graphify/EXTRACTED #community/IA_dans_lenseignement_supérieur

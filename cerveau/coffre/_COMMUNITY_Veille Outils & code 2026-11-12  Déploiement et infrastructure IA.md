@@ -1,36 +1,26 @@
 ---
 type: community
-members: 23
+members: 13
 ---
 
 # Veille Outils & code 2026-11-12 : Déploiement et infrastructure IA
 
-**Members:** 23 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[AWS Emulator]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
-- [[AWS Trainium]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
-- [[Amazon Bedrock AgentCore]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
-- [[Amazon SageMaker Canvas]] - concept - veilles/veille-ia-dev-2026-11-14-t3.md
-- [[Amazon SageMaker Pipelines]] - concept - veilles/veille-ia-dev-2026-11-15-t4.md
-- [[Antigravity]] - concept - veilles/veille-ia-dev-2026-11-14-t3.md
-- [[Azure Logic Apps CLI]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
-- [[Cursor Claude Code Extension Incident]] - concept - veilles/veille-ia-dev-2026-11-16-t3.md
-- [[Duco]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
-- [[FireworksAI Hack]] - concept - veilles/veille-ia-dev-2026-11-16-t3.md
-- [[Gemini Decisions API]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
-- [[Google Chubby]] - concept - veilles/veille-ia-dev-2026-11-16-t3.md
-- [[Qwen3.8 Model]] - concept - veilles/veille-ia-dev-2026-11-16-t3.md
-- [[SGLang-Neuron]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
-- [[SWARM]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
-- [[Smithy API Models]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
-- [[TPU Sync]] - concept - veilles/veille-ia-dev-2026-11-14-t3.md
-- [[Uber's Secure AI Framework]] - concept - veilles/veille-ia-dev-2026-11-16-t3.md
-- [[Veille Outils & code 2026-11-12  Déploiement et infrastructure IA]] - document - veilles/veille-ia-dev-2026-11-12-t2.md
-- [[Veille Outils & code 2026-11-12  Nouveaux modèles et performances]] - document - veilles/veille-ia-dev-2026-11-12-t5.md
-- [[Veille Outils & code 2026-11-14  Plateformes et infrastructures IA]] - document - veilles/veille-ia-dev-2026-11-14-t3.md
-- [[Veille Outils & code 2026-11-15 (T4)]] - document - veilles/veille-ia-dev-2026-11-15-t4.md
-- [[Veille Outils & code 2026-11-16  Sécurité, gouvernance et cadres pour IA autonome]] - document - veilles/veille-ia-dev-2026-11-16-t3.md
+- [[Alice Huang]] - concept - dossiers/2026-11-12-1.md
+- [[Feuilleton  Crise de direction chez Nvidia et scandale des puces IA]] - document - feuilletons/f-0001.md
+- [[Gaspard de Monclin]] - concept - veilles/veille-ia-fr-2026-11-13-t4.md
+- [[Giuliano da Empoli]] - concept - veilles/veille-ia-fr-2026-11-13-t4.md
+- [[Guillaume Coqueret]] - concept - veilles/veille-ia-fr-2026-11-13-t4.md
+- [[Jensen Huang]] - concept - veilles/veille-ia-fr-2026-11-09-t5.md
+- [[Pékin]] - concept - dossiers/2026-11-12-1.md
+- [[Trafic de puces IA vers la Chine]] - concept - feuilletons/f-0001.md
+- [[Veille Chine 2026-11-12  Marché financier et investissements IA]] - document - veilles/veille-ia-cn-2026-11-12-t7.md
+- [[Veille France 2026-11-08]] - document - veilles/veille-ia-fr-2026-11-08-t5.md
+- [[Veille France 2026-11-13  Impact sociétal & Débats publics]] - document - veilles/veille-ia-fr-2026-11-13-t4.md
+- [[Veille France 2026-11-15  Recherche, outils et modèles IA]] - document - veilles/veille-ia-fr-2026-11-15-t4.md
+- [[Vincent Courboulay]] - concept - veilles/veille-ia-fr-2026-11-15-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -40,13 +30,19 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Gemini 4 Hydrogen]]
-- 2 edges to [[_COMMUNITY_Copilot]]
-- 1 edge to [[_COMMUNITY_OpenAI_1]]
+- 8 edges to [[_COMMUNITY_Nvidia]]
+- 2 edges to [[_COMMUNITY_Microsoft]]
+- 2 edges to [[_COMMUNITY_OpenAI]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-13]]
+- 1 edge to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_复旦发展研究院_1]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-09  Applications sociétales et culturelles de l’IA]]
+- 1 edge to [[_COMMUNITY_Dossier Course à l'IA entre États‑Unis et Chine]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-15_1]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-14  Plateformes et infrastructures IA]] - degree 6, connects to 2 communities
-- [[Amazon Bedrock AgentCore]] - degree 5, connects to 1 community
-- [[AWS Emulator]] - degree 5, connects to 1 community
-- [[Antigravity]] - degree 2, connects to 1 community
-- [[Duco]] - degree 2, connects to 1 community
+- [[Jensen Huang]] - degree 18, connects to 7 communities
+- [[Veille France 2026-11-15  Recherche, outils et modèles IA]] - degree 6, connects to 4 communities
+- [[Veille France 2026-11-13  Impact sociétal & Débats publics]] - degree 5, connects to 1 community
+- [[Feuilleton  Crise de direction chez Nvidia et scandale des puces IA]] - degree 2, connects to 1 community
+- [[Veille Chine 2026-11-12  Marché financier et investissements IA]] - degree 2, connects to 1 community

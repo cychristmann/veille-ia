@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[Elvis Presley Music Rights Owners]] - code - veilles/veille-ia-us-2026-11-08-t2.md
-- [[Eminem Music Rights Owners]] - code - veilles/veille-ia-us-2026-11-08-t2.md
-- [[Feuilleton Suno AI poursuivi]] - document - feuilletons/f-0002.md
-- [[Suno AI]] - code - veilles/veille-ia-us-2026-11-08-t2.md
+- [[AI Fraud and Academic Misconduct]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
+- [[AI Market Dynamics]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
+- [[AI Regulation and Ethics]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
+- [[Veille Chine 2026-11-16]] - document - veilles/veille-ia-cn-2026-11-16-t4.md
 
 ## Live Query (requires Dataview plugin)
 

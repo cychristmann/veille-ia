@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-10-t3.md"
+source_file: "veilles/veille-ia-fr-2026-11-10-t6.md"
 type: "document"
 community: "OpenAI"
 tags:

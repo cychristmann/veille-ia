@@ -1,0 +1,16 @@
+---
+source_file: "veilles/veille-ia-us-2026-11-19-t6.md"
+type: "concept"
+community: "Nvidia"
+tags:
+  - graphify/concept
+  - graphify/EXTRACTED
+  - community/Nvidia
+---
+
+# Counterpoint Research
+
+## Connections
+- [[Veille États-Unis 2026-11-19]] - `cites` [EXTRACTED]
+
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

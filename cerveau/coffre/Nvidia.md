@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-12-t1.md"
+source_file: "veilles/veille-ia-fr-2026-11-18-t6.md"
 type: "concept"
 community: "Nvidia"
 tags:
@@ -83,5 +83,6 @@ tags:
 - [[Veille États-Unis 2026-11-15  Investissements et risques financiers liés à l'IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-17  Marchés et finance]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-18]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-19  Infrastructure et matériel]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Nvidia

@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-17-t5.md"
+source_file: "feuilletons/f-0004.md"
 type: "concept"
-community: "Emmanuel Macron"
+community: "Nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Emmanuel_Macron
+  - community/Nvidia
 ---
 
 # Reuters
@@ -14,4 +14,4 @@ tags:
 - [[Bay Security]] - `cites` [EXTRACTED]
 - [[Veille États-Unis 2026-11-17  Autres articles]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Emmanuel_Macron
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

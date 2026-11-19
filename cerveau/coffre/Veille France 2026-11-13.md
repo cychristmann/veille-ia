@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t1.md"
 type: "document"
-community: "Veille France 2026-11-13"
+community: "Dossier: Course à l'IA entre États‑Unis et Chine"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-13
+  - community/Dossier_Course_à_lIA_entre_ÉtatsUnis_et_Chine
 ---
 
 # Veille France 2026-11-13
@@ -23,4 +23,4 @@ tags:
 - [[SpaceX]] - `references` [EXTRACTED]
 - [[xFusion]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-13
+#graphify/document #graphify/EXTRACTED #community/Dossier_Course_à_lIA_entre_ÉtatsUnis_et_Chine

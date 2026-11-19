@@ -1,9 +1,9 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-13-t5.md"
-type: "code"
+source_file: "veilles/veille-ia-cn-2026-11-19-t2.md"
+type: "concept"
 community: "Claude Code"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
   - community/Claude_Code
 ---
@@ -16,8 +16,11 @@ tags:
 - [[Anthropic]] - `conceptually_related_to` [INFERRED]
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Chasseurs d'essaim]] - `references` [EXTRACTED]
+- [[Claude]] - `conceptually_related_to` [EXTRACTED]
 - [[L'Opinion.fr]] - `references` [EXTRACTED]
 - [[Obsidian]] - `shares_data_with` [INFERRED]
+- [[Snapchat Easy Lens CLI]] - `conceptually_related_to` [EXTRACTED]
+- [[Snapchat Lenses]] - `conceptually_related_to` [EXTRACTED]
 - [[Tencent]] - `references` [EXTRACTED]
 - [[Tokendoctor]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-12]] - `references` [EXTRACTED]
@@ -32,5 +35,6 @@ tags:
 - [[Veille Outils & code 2026-11-18]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-18  Analyse de performance, coûts et gouvernance]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-19]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Claude_Code
+#graphify/concept #graphify/EXTRACTED #community/Claude_Code

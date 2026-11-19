@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t1.md"
 type: "concept"
-community: "Alibaba"
+community: "AMD"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Alibaba
+  - community/AMD
 ---
 
 # T-Head
@@ -16,4 +16,4 @@ tags:
 - [[Veille France 2026-11-10  Financement, marchés et IPO]] - `references` [EXTRACTED]
 - [[Zonebourse Suisse]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Alibaba
+#graphify/concept #graphify/EXTRACTED #community/AMD

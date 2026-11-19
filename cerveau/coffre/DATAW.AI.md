@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t1.md"
 type: "concept"
-community: "Edge0-145B"
+community: "Veille États-Unis 2026-11-15 : Régulation, sécurité et éthique de l'IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Edge0-145B
+  - community/Veille_États-Unis_2026-11-15__Régulation_sécurité_et_éthique_de_lIA
 ---
 
 # DATAW.AI
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[RWIP]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Edge0-145B
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-15__Régulation_sécurité_et_éthique_de_lIA

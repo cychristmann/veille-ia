@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-17-t5.md"
 type: "document"
-community: "Alibaba"
+community: "AMD"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Alibaba
+  - community/AMD
 ---
 
 # Veille Chine 2026-11-17 (T5)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AMD]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Alibaba
+#graphify/document #graphify/EXTRACTED #community/AMD

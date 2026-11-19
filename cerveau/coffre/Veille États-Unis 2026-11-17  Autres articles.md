@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-17-t5.md"
 type: "document"
-community: "Emmanuel Macron"
+community: "Nvidia"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Emmanuel_Macron
+  - community/Nvidia
 ---
 
 # Veille États-Unis 2026-11-17 : Autres articles
@@ -21,4 +21,4 @@ tags:
 - [[The Korea Herald]] - `cites` [EXTRACTED]
 - [[shattered.io]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Emmanuel_Macron
+#graphify/document #graphify/EXTRACTED #community/Nvidia

@@ -1,0 +1,149 @@
+{
+ "date": "2026-11-19",
+ "mode": "ia",
+ "bilan": "Cette nuit, la veille France et États‑Unies a atteint les 50 articles attendus, mais le pourcentage de liens directs reste moyen (74 % et 58 %). La section Chine a maintenu son faible taux de liens directs (18 %). La section Outils & code est en dessous de l'objectif avec 34 articles et 12 liens manquants, en partie à cause de la panne de Design News. Le quota Groq est bien sous la limite (59 %). Il faut donc relancer la section Outils & code et arrêter KDnuggets qui ne fournit plus de contenu pertinent.",
+ "a_surveiller": [
+  "Section Outils & code : seulement 34 articles sur 50, 12 sans lien direct.",
+  "Source en panne : Design News, ce qui réduit le nombre d'articles disponibles.",
+  "Quota Groq utilisé reste bas (59 %), il faut surveiller qu'il ne chute pas trop."
+ ],
+ "lecon": "",
+ "actions": [
+  {
+   "date": "2026-11-19",
+   "action": "pause",
+   "section": "dev",
+   "source": "KDnuggets",
+   "motif": "hors sujet : 5 articles écartés, aucun retenu en 7 nuits",
+   "raison": "Mettre en pause KDnuggets car il est hors sujet depuis 7 nuits et ne fournit aucun article retenu.",
+   "resultat": "",
+   "libelle": "Mise en pause de KDnuggets (Outils & code)"
+  },
+  {
+   "date": "2026-11-19",
+   "action": "relancer",
+   "section": "dev",
+   "source": "section Outils & code",
+   "motif": "seulement 34 articles sur 50 (en panne : Design News)",
+   "raison": "Relancer la section Outils & code pour atteindre les 50 articles attendus et compenser la perte de Design News.",
+   "resultat": "36 articles après relance (encore en panne : Design News)",
+   "libelle": "Relance de la section Outils & code"
+  }
+ ],
+ "refusees": [],
+ "en_pause": [
+  {
+   "section": "dev",
+   "source": "KDnuggets",
+   "depuis": "2026-11-19",
+   "motif": "hors sujet : 5 articles écartés, aucun retenu en 7 nuits"
+  }
+ ],
+ "en_essai": [
+  {
+   "section": "dev",
+   "source": "NeoTeo",
+   "depuis": "2026-11-17",
+   "raison": "30 % d'articles IA, forte spécialisation technique, apporte une valeur ajoutée importante."
+  },
+  {
+   "section": "fr",
+   "source": "Quartz en Français",
+   "depuis": "2026-11-17",
+   "raison": "10 % d'articles IA avec des sujets pertinents (cybersécurité, deepfakes) ; source fiable et spécialisée."
+  }
+ ],
+ "lecons": [
+  {
+   "date": "2026-11-17",
+   "texte": "Tester régulièrement de nouveaux médias aide à maintenir un haut pourcentage de liens directs et à diversifier les sources."
+  }
+ ],
+ "paris": {
+  "nouveaux": [
+   {
+    "enonce": "Claude : au moins 30 articles (Outils & code) sur les 3 prochains jours",
+    "probabilite": 0.71,
+    "echeance": "2026-11-22",
+    "statut": "en_cours",
+    "observe": null,
+    "raisonnement": "Claude a montré une forte hausse récente (38 articles en 4 jours) et les outils continuent d'être très couverts."
+   }
+  ],
+  "resolus": [
+   {
+    "enonce": "Claude : au moins 50 articles (Outils & code) sur les 3 prochains jours",
+    "probabilite": 0.71,
+    "echeance": "2026-11-19",
+    "statut": "perdu",
+    "observe": 20,
+    "raisonnement": "La tendance montre une forte hausse récente (12, 12, 12) et la popularité des modèles de Claude Code booste les mentions."
+   }
+  ],
+  "refus": [
+   "« Google sera cité dans au plus 2 articles Chine sur les 2 prochains jours. » : déjà un pari en cours sur Google",
+   "« Agents IA sera cité dans au moins 20 articles États‑Unis sur les 4 prochains jours. » : déjà un pari en cours sur Agents IA",
+   "« Nvidia sera cité dans au plus 35 articles France et États‑Unis combinés sur les 5 prochains jours. » : déjà un pari en cours sur Nvidia",
+   "« GitHub sera cité dans au moins 25 articles Outils & code sur les 3 prochains jours. » : déjà un pari en cours sur GitHub",
+   "« Anthropic sera cité dans au plus 10 articles France et États‑Unis sur les 2 prochains jours. » : déjà un pari en cours sur Anthropic"
+  ],
+  "score": {
+   "tranches": 15,
+   "gagnes": 7,
+   "reussite": 47,
+   "confiance_moyenne": 69,
+   "brier": 0.313,
+   "paliers": {
+    "50-64 %": {
+     "paris": 2,
+     "reussite": 50
+    },
+    "65-79 %": {
+     "paris": 13,
+     "reussite": 46
+    }
+   }
+  }
+ },
+ "indicateurs": {
+  "sections": {
+   "fr": {
+    "nom": "France",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 74,
+    "pannes": []
+   },
+   "us": {
+    "nom": "États-Unis",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 58,
+    "pannes": []
+   },
+   "cn": {
+    "nom": "Chine",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 18,
+    "pannes": []
+   },
+   "dev": {
+    "nom": "Outils & code",
+    "articles": 34,
+    "voulus": 50,
+    "liens_directs": 65,
+    "pannes": [
+     "Design News"
+    ]
+   }
+  },
+  "quota_groq": 59,
+  "nuit": {
+   "statut": "attention",
+   "soucis": [
+    "Veille Outils & code : 34 articles, 12 sans lien direct · seulement 34 articles sur 50 ; 1 source(s) en panne : Design News"
+   ]
+  }
+ }
+}

@@ -1,31 +1,29 @@
 ---
 type: community
-members: 18
+members: 16
 ---
 
 # Veille France 2026-11-09 : Applications sociétales et culturelles de l’IA
 
-**Members:** 18 nodes
+**Members:** 16 nodes
 
 ## Members
-- [[Amazon]] - concept - veilles/veille-ia-fr-2026-11-18-t3.md
-- [[Coca-Cola Europacific Partners]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
-- [[Digital Wellness Lab]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
-- [[Employment Hero]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
-- [[Fabrex]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
-- [[Gallup]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
-- [[Mistral AI]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
-- [[NEO AI]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
-- [[Rejouis]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
-- [[Rex (AI Agent)]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
-- [[Trump Administration]] - concept - veilles/veille-ia-us-2026-11-16-t1.md
-- [[VMFS USA]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
-- [[Veille France 2026-11-10  Sécurité, risques et éthique]] - document - veilles/veille-ia-fr-2026-11-10-t5.md
-- [[Veille France 2026-11-11  Autres articles]] - document - veilles/veille-ia-fr-2026-11-11-t5.md
-- [[Veille France 2026-11-18 (T4)]] - document - veilles/veille-ia-fr-2026-11-18-t4.md
-- [[Veille France 2026-11-18  Sécurité et cyber‑menaces IA]] - document - veilles/veille-ia-fr-2026-11-18-t3.md
-- [[Veille États-Unis 2026-11-16 (Gouvernance)]] - document - veilles/veille-ia-us-2026-11-16-t1.md
-- [[Veille États-Unis 2026-11-18  IA appliquée aux secteurs spécifiques]] - document - veilles/veille-ia-us-2026-11-18-t4.md
+- [[Arduino]] - concept - veilles/veille-ia-us-2026-11-14-t3.md
+- [[Chey Tae-won]] - concept - veilles/veille-ia-us-2026-11-15-t7.md
+- [[Databricks]] - concept - veilles/veille-ia-us-2026-11-14-t3.md
+- [[Elon Musk]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
+- [[Grok]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
+- [[Grok (xAI)]] - concept - veilles/veille-ia-cn-2026-11-11-t5.md
+- [[John Mulaney]] - concept - veilles/veille-ia-us-2026-11-15-t7.md
+- [[Kiro]] - code - veilles/veille-ia-dev-2026-11-13-t6.md
+- [[Mark Zuckerberg]] - concept - veilles/veille-ia-us-2026-11-15-t7.md
+- [[Perplexity]] - concept - veilles/veille-ia-us-2026-11-14-t3.md
+- [[Pingtouge (T-Head)]] - concept - veilles/veille-ia-cn-2026-11-11-t5.md
+- [[SK Group]] - concept - veilles/veille-ia-us-2026-11-15-t7.md
+- [[Veille Chine 2026-11-11]] - document - veilles/veille-ia-cn-2026-11-11-t5.md
+- [[Veille États-Unis 2026-11-14  Agents et Outils Technologiques]] - document - veilles/veille-ia-us-2026-11-14-t3.md
+- [[Veille États-Unis 2026-11-15  Autres articles]] - document - veilles/veille-ia-us-2026-11-15-t7.md
+- [[xAI]] - concept - veilles/veille-ia-cn-2026-11-11-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -35,18 +33,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Nvidia]]
-- 2 edges to [[_COMMUNITY_OpenAI_1]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-12]]
-- 1 edge to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière]]
-- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-12  Déploiement et infrastructure IA]]
+- 1 edge to [[_COMMUNITY_Cursor]]
 - 1 edge to [[_COMMUNITY_Microsoft]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-09  Applications sociétales et culturelles de l’IA_1]]
-- 1 edge to [[_COMMUNITY_Apple]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-15  Finances, valorisation et marché de l’IA_1]]
 
 ## Top bridge nodes
-- [[Trump Administration]] - degree 6, connects to 4 communities
-- [[Mistral AI]] - degree 6, connects to 2 communities
-- [[Veille France 2026-11-10  Sécurité, risques et éthique]] - degree 3, connects to 2 communities
-- [[Veille France 2026-11-18  Sécurité et cyber‑menaces IA]] - degree 3, connects to 1 community
-- [[Veille France 2026-11-11  Autres articles]] - degree 2, connects to 1 community
+- [[Veille États-Unis 2026-11-15  Autres articles]] - degree 4, connects to 2 communities
+- [[Elon Musk]] - degree 5, connects to 1 community
+- [[Grok]] - degree 4, connects to 1 community
+- [[Kiro]] - degree 2, connects to 1 community

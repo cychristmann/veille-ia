@@ -25,16 +25,17 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_OpenAI_1]]
-- 2 edges to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-12]]
+- 2 edges to [[_COMMUNITY_OpenAI]]
+- 1 edge to [[_COMMUNITY_Anthropic]]
 - 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-15]]
-- 1 edge to [[_COMMUNITY_Claude_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-17]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-15_1]]
+- 1 edge to [[_COMMUNITY_Claude]]
 - 1 edge to [[_COMMUNITY_Copilot]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-14]] - degree 10, connects to 3 communities
-- [[Amazon Bedrock]] - degree 4, connects to 2 communities
+- [[Veille Outils & code 2026-11-14]] - degree 10, connects to 4 communities
+- [[Amazon Bedrock]] - degree 4, connects to 3 communities
 - [[NVIDIA NeMo Switchyard]] - degree 3, connects to 1 community
 - [[Claude API]] - degree 2, connects to 1 community

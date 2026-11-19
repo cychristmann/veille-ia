@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t1.md"
 type: "concept"
-community: "Claude Meetings"
+community: "Veille États-Unis 2026-11-09 : Régulation et politiques publiques"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Claude_Meetings
+  - community/Veille_États-Unis_2026-11-09__Régulation_et_politiques_publiques
 ---
 
 # Community Impact
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-09  Régulation et politiques publiques]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Claude_Meetings
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-09__Régulation_et_politiques_publiques

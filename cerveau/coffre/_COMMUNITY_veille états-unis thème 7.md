@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # veille états-unis thème 7
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[IA dans l'enseignement supérieur]] - concept - veilles/veille-ia-cn-2026-11-13-t1.md
-- [[Veille Chine 2026-11-13  Éducation et formation]] - document - veilles/veille-ia-cn-2026-11-13-t1.md
+- [[Academic Misconduct]] - concept - veilles/veille-ia-cn-2026-11-19-t4.md
+- [[Central South University]] - concept - veilles/veille-ia-cn-2026-11-19-t4.md
+- [[Veille Chine 2026-11-19  Recherche et Éthique]] - document - veilles/veille-ia-cn-2026-11-19-t4.md
 
 ## Live Query (requires Dataview plugin)
 

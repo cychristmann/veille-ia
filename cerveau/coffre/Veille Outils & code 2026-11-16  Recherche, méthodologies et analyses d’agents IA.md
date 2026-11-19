@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-16-t5.md"
 type: "document"
-community: "Veille Chine 2026-11-12 : Régulation, géopolitique et politique"
+community: "Oku Dating Platform"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-12__Régulation_géopolitique_et_politique
+  - community/Oku_Dating_Platform
 ---
 
 # Veille Outils & code 2026-11-16 : Recherche, méthodologies et analyses d’agents IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Enterprise RAG Systems]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__Régulation_géopolitique_et_politique
+#graphify/document #graphify/EXTRACTED #community/Oku_Dating_Platform

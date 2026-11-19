@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-15-t4.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-14 : Autres articles"
+community: "Claude Data"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-14__Autres_articles
+  - community/Claude_Data
 ---
 
 # datasette-cluster-map
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[datasette-leaflet]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Autres_articles
+#graphify/concept #graphify/EXTRACTED #community/Claude_Data

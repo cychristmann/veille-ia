@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-12-3.md"
 type: "document"
-community: "Dossier: Course à l'IA entre États‑Unis et Chine"
+community: "Veille Chine 2026-11-12 : IA dans le commerce et le divertissement"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Dossier_Course_à_lIA_entre_ÉtatsUnis_et_Chine
+  - community/Veille_Chine_2026-11-12__IA_dans_le_commerce_et_le_divertissement
 ---
 
 # Dossier: Course à l'IA entre États‑Unis et Chine
@@ -18,4 +18,4 @@ tags:
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[Nvidia, Chinese Espionage, and the AI Race Foreign Policy Issues to Watch]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Dossier_Course_à_lIA_entre_ÉtatsUnis_et_Chine
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__IA_dans_le_commerce_et_le_divertissement

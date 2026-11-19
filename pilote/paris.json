@@ -295,7 +295,7 @@
    "id": "2026-11-16-1",
    "date": "2026-11-16",
    "echeance": "2026-11-19",
-   "statut": "en_cours",
+   "statut": "perdu",
    "entite": "Claude",
    "sections": [
     "dev"
@@ -307,7 +307,9 @@
    "enonce": "Claude : au moins 50 articles (Outils & code) sur les 3 prochains jours",
    "raisonnement": "La tendance montre une forte hausse récente (12, 12, 12) et la popularité des modèles de Claude Code booste les mentions.",
    "phrase_ia": "Claude sera mentionné dans au moins 50 articles d'outils & code au cours des 3 prochains jours.",
-   "rejoue": true
+   "rejoue": true,
+   "observe": 20,
+   "resolu_le": "2026-11-19"
   },
   {
    "id": "2026-11-16-2",
@@ -417,6 +419,24 @@
    "enonce": "GitHub : au moins 20 articles (Outils & code) sur les 5 prochains jours",
    "raisonnement": "Le déploiement de nouvelles fonctionnalités de Copilot et des actions GitHub génère un pic d'intérêt parmi les développeurs.",
    "phrase_ia": "GitHub sera cité dans au moins 20 articles (Outils & code) pendant les cinq prochains jours.",
+   "rejoue": false
+  },
+  {
+   "id": "2026-11-19-1",
+   "date": "2026-11-19",
+   "echeance": "2026-11-22",
+   "statut": "en_cours",
+   "entite": "Claude",
+   "sections": [
+    "dev"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 30,
+   "horizon": 3,
+   "probabilite": 0.71,
+   "enonce": "Claude : au moins 30 articles (Outils & code) sur les 3 prochains jours",
+   "raisonnement": "Claude a montré une forte hausse récente (38 articles en 4 jours) et les outils continuent d'être très couverts.",
+   "phrase_ia": "Claude sera cité dans au moins 30 articles Outils & code sur les 3 prochains jours.",
    "rejoue": false
   }
  ]

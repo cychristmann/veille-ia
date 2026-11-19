@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t1.md"
 type: "concept"
-community: "Feuilleton: Centre international d’IA militaire français ouvert à Rennes"
+community: "Wuhan University of Science and Technology"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Feuilleton_Centre_international_dIA_militaire_français_ouvert_à_Rennes
+  - community/Wuhan_University_of_Science_and_Technology
 ---
 
 # William Mocaër
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Odystoria]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Feuilleton_Centre_international_dIA_militaire_français_ouvert_à_Rennes
+#graphify/concept #graphify/EXTRACTED #community/Wuhan_University_of_Science_and_Technology

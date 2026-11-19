@@ -1,19 +1,17 @@
 ---
 type: community
-members: 6
+members: 4
 ---
 
 # Veille France 2026-11-16 : Applications sectorielles et industrielles
 
-**Members:** 6 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[AI Short Dramas]] - concept - veilles/veille-ia-cn-2026-11-14-t3.md
-- [[SCMP Tech]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
-- [[Sanxingdui Future Past]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
-- [[Veille Chine 2026-11-14  Médias, création et divertissement IA]] - document - veilles/veille-ia-cn-2026-11-14-t3.md
-- [[Veille Chine 2026-11-15  Contenu et divertissement IA]] - document - veilles/veille-ia-cn-2026-11-15-t1.md
-- [[投资界]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
+- [[IA dans le commerce et la consommation]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
+- [[IA dans le recrutement]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
+- [[Souveraineté numérique et IA]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
+- [[Veille France 2026-11-16  Applications sectorielles et industrielles]] - document - veilles/veille-ia-fr-2026-11-16-t3.md
 
 ## Live Query (requires Dataview plugin)
 

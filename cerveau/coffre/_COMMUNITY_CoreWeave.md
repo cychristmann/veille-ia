@@ -32,9 +32,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
+- 1 edge to [[_COMMUNITY_Anthropic]]
 - 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-12]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-12  Marchés financiers et investissements IA]]
+- 1 edge to [[_COMMUNITY_SpaceX]]
 - 1 edge to [[_COMMUNITY_Apple]]
 
 ## Top bridge nodes

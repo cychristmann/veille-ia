@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-17-t4.md"
 type: "concept"
-community: "Bland"
+community: "Veille Outils & code 2026-11-17 (T4)"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Bland
+  - community/Veille_Outils__code_2026-11-17_T4
 ---
 
 # GitGuardian Good Samaritan Program
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Outils & code 2026-11-17 (T4)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Bland
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-17_T4

@@ -11,7 +11,6 @@ tags:
 # Gemini Decisions
 
 ## Connections
-- [[Google]] - `references` [EXTRACTED]
 - [[Google AI Studio]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-12]] - `references` [EXTRACTED]
 

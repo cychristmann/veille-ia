@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-14-t6.md"
 type: "concept"
-community: "Veille Chine 2026-11-14 : Outils, plateformes et applications IA"
+community: "Veille Chine 2026-11-19 : Infrastructure et Technologie IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-14__Outils_plateformes_et_applications_IA
+  - community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA
 ---
 
 # Moomoo AI
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-14  Outils, plateformes et applications IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-14__Outils_plateformes_et_applications_IA
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA

@@ -1,5 +1,5 @@
 ---
-source_file: "feuilletons/f-0009.md"
+source_file: "veilles/veille-ia-cn-2026-11-15-t6.md"
 type: "concept"
 community: "OpenAI"
 tags:

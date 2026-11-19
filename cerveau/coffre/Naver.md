@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-12-t1.md"
+source_file: "veilles/veille-ia-fr-2026-11-12-t2.md"
 type: "concept"
-community: "Veille France 2026-11-12 : Marchés financiers et investissements IA"
+community: "SpaceX"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-12__Marchés_financiers_et_investissements_IA
+  - community/SpaceX
 ---
 
 # Naver
@@ -14,4 +14,4 @@ tags:
 - [[Veille France 2026-11-12]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-12  Marchés financiers et investissements IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-12__Marchés_financiers_et_investissements_IA
+#graphify/concept #graphify/EXTRACTED #community/SpaceX

@@ -1,16 +1,17 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-10-t4.md"
+source_file: "feuilletons/f-0003.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-12"
+community: "Claude"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-12
+  - community/Claude
 ---
 
 # Mythos 5.2
 
 ## Connections
 - [[Anthropic]] - `references` [EXTRACTED]
+- [[Claude]] - `conceptually_related_to` [INFERRED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-12
+#graphify/concept #graphify/EXTRACTED #community/Claude

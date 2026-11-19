@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-16-t6.md"
 type: "concept"
-community: "Veille Chine 2026-11-13 : Applications et services IA"
+community: "Apple"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-13__Applications_et_services_IA
+  - community/Apple
 ---
 
 # Gemini 4 Hydrogène
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-16]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-13__Applications_et_services_IA
+#graphify/concept #graphify/EXTRACTED #community/Apple

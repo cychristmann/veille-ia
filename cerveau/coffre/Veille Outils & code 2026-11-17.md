@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-17-t2.md"
 type: "document"
-community: "OpenAI"
+community: "Veille Outils & code 2026-11-17"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/OpenAI
+  - community/Veille_Outils__code_2026-11-17
 ---
 
 # Veille Outils & code 2026-11-17
@@ -28,4 +28,4 @@ tags:
 - [[Vercel]] - `references` [EXTRACTED]
 - [[datasette-maplibre]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/OpenAI
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-17

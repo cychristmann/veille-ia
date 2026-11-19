@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Le Monde Pixels
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Deploying AI into Workplaces What Leaders Need to Know]] - document - veilles/veille-ia-us-2026-11-16-t3.md
-- [[Veille États-Unis 2026-11-16  Éducation, formation et environnement professionnel]] - document - veilles/veille-ia-us-2026-11-16-t3.md
+- [[Arnaques à l’IA]] - concept - veilles/veille-ia-fr-2026-11-16-t1.md
+- [[Cybersécurité et IA]] - concept - veilles/veille-ia-fr-2026-11-16-t1.md
+- [[Veille France 2026-11-16  Régulation, sécurité et gouvernance]] - document - veilles/veille-ia-fr-2026-11-16-t1.md
 
 ## Live Query (requires Dataview plugin)
 

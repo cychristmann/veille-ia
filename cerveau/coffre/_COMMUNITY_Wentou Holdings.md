@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Wentou Holdings
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Brevis Arca AI]] - concept - veilles/veille-ia-dev-2026-11-18-t1.md
+- [[MoEngage Merlin AI]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[Model Context Protocol (MCP)]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
 
 ## Live Query (requires Dataview plugin)
 

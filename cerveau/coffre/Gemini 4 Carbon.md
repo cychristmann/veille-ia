@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-13-t2.md"
+source_file: "feuilletons/f-0010.md"
 type: "concept"
 community: "Gemini 4 Hydrogen"
 tags:
@@ -14,6 +14,7 @@ tags:
 - [[GPT-6.1 Sol]] - `references` [EXTRACTED]
 - [[Gemini 4 Hydrogen]] - `references` [EXTRACTED]
 - [[Google]] - `references` [EXTRACTED]
+- [[Google DeepMind]] - `references` [EXTRACTED]
 - [[MathArena]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-15]] - `references` [EXTRACTED]
 

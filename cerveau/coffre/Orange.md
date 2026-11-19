@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-10-t6.md"
 type: "concept"
-community: "Veille Chine 2026-11-12 : IA dans le commerce et le divertissement"
+community: "OpenAI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-12__IA_dans_le_commerce_et_le_divertissement
+  - community/OpenAI
 ---
 
 # Orange
@@ -14,4 +14,4 @@ tags:
 - [[Mistral]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-10]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__IA_dans_le_commerce_et_le_divertissement
+#graphify/concept #graphify/EXTRACTED #community/OpenAI

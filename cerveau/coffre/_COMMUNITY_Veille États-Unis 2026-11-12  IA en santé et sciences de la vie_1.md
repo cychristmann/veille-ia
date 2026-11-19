@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Accenture]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
-- [[Qantas]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
+- [[Reva.AI]] - concept - veilles/veille-ia-dev-2026-11-19-t5.md
+- [[Veille Outils & code 2026-11-19 (T5)]] - document - veilles/veille-ia-dev-2026-11-19-t5.md
 
 ## Live Query (requires Dataview plugin)
 

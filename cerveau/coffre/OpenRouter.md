@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-17-t4.md"
+source_file: "veilles/veille-ia-dev-2026-11-17-t5.md"
 type: "concept"
-community: "OpenAI"
+community: "Veille Outils & code 2026-11-17"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/OpenAI
+  - community/Veille_Outils__code_2026-11-17
 ---
 
 # OpenRouter
@@ -15,4 +15,4 @@ tags:
 - [[Veille France 2026-11-17]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-17]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/OpenAI
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-17

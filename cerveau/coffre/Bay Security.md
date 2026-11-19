@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0004.md"
 type: "concept"
-community: "Emmanuel Macron"
+community: "Nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Emmanuel_Macron
+  - community/Nvidia
 ---
 
 # Bay Security
@@ -15,4 +15,4 @@ tags:
 - [[Reuters]] - `cites` [EXTRACTED]
 - [[Zonebourse]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Emmanuel_Macron
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

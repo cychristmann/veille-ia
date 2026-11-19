@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t5.md"
 type: "concept"
-community: "Débats à Saint-Tropez"
+community: "Veille Outils & code 2026-11-12 : Déploiement et infrastructure IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Débats_à_Saint-Tropez
+  - community/Veille_Outils__code_2026-11-12__Déploiement_et_infrastructure_IA
 ---
 
 # Jensen Huang
@@ -30,4 +30,4 @@ tags:
 - [[Veille États-Unis 2026-11-15  Autres articles]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-15  Impact culturel et médiatique de l'IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Débats_à_Saint-Tropez
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12__Déploiement_et_infrastructure_IA

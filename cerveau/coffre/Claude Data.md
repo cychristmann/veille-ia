@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-12-t1.md"
 type: "concept"
-community: "Wuhan University of Science and Technology"
+community: "Veille États-Unis 2026-11-14 : Impact Social, Éthique et Travail"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Wuhan_University_of_Science_and_Technology
+  - community/Veille_États-Unis_2026-11-14__Impact_Social_Éthique_et_Travail
 ---
 
 # Claude Data
 
-#graphify/concept #graphify/EXTRACTED #community/Wuhan_University_of_Science_and_Technology
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Impact_Social_Éthique_et_Travail

@@ -1,5 +1,12 @@
 {
- "pauses": {},
+ "pauses": {
+  "dev": {
+   "KDnuggets": {
+    "depuis": "2026-11-19",
+    "motif": "hors sujet : 5 articles écartés, aucun retenu en 7 nuits"
+   }
+  }
+ },
  "historique": [
   {
    "date": "2026-11-17",
@@ -9,6 +16,24 @@
    "motif": "première recherche",
    "raison": "Découvrir de nouveaux médias permet d'augmenter le taux de liens directs et de réduire la dépendance aux sources en panne.",
    "resultat": "mis à l'essai : NeoTeo (Outils & code), Quartz en Français (France)"
+  },
+  {
+   "date": "2026-11-19",
+   "action": "pause",
+   "section": "dev",
+   "source": "KDnuggets",
+   "motif": "hors sujet : 5 articles écartés, aucun retenu en 7 nuits",
+   "raison": "Mettre en pause KDnuggets car il est hors sujet depuis 7 nuits et ne fournit aucun article retenu.",
+   "resultat": ""
+  },
+  {
+   "date": "2026-11-19",
+   "action": "relancer",
+   "section": "dev",
+   "source": "section Outils & code",
+   "motif": "seulement 34 articles sur 50 (en panne : Design News)",
+   "raison": "Relancer la section Outils & code pour atteindre les 50 articles attendus et compenser la perte de Design News.",
+   "resultat": "36 articles après relance (encore en panne : Design News)"
   }
  ],
  "essais": {

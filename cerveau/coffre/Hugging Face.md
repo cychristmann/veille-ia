@@ -1,11 +1,11 @@
 ---
-source_file: "dossiers/2026-11-18-2.md"
+source_file: "dossiers/2026-11-19-2.md"
 type: "concept"
-community: "OpenAI"
+community: "Veille Outils & code 2026-11-17"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/OpenAI
+  - community/Veille_Outils__code_2026-11-17
 ---
 
 # Hugging Face
@@ -19,4 +19,4 @@ tags:
 - [[OpenRouter]] - `conceptually_related_to` [EXTRACTED]
 - [[Veille Outils & code 2026-11-17]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/OpenAI
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-17

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t1.md"
 type: "concept"
-community: "Alibaba"
+community: "AMD"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Alibaba
+  - community/AMD
 ---
 
 # AMD
@@ -17,4 +17,4 @@ tags:
 - [[Veille Chine 2026-11-17 (T5)]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-08]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Alibaba
+#graphify/concept #graphify/EXTRACTED #community/AMD

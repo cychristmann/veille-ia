@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0008.md"
 type: "concept"
-community: "Alibaba"
+community: "AMD"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Alibaba
+  - community/AMD
 ---
 
 # Zonebourse Suisse
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[T-Head]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Alibaba
+#graphify/concept #graphify/EXTRACTED #community/AMD

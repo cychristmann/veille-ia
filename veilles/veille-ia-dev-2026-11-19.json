@@ -1,0 +1,1174 @@
+{
+  "region": "dev",
+  "genere_a": "2026-11-19T08:31:48.914236+01:00",
+  "heures": 48,
+  "nombre_demande": 50,
+  "nombre_articles": 36,
+  "synthese": "Les dernières heures ont été marquées par l’expansion rapide des modèles Gemini 4 Neon, désormais en tête des classements d’agents de codage, et par une série d’annonces de prix et de performances. Snapchat, quant à elle, mise sur les assistants IA (Claude Code, Codex, Cursor) pour démocratiser la création de lenses AR, avec plusieurs outils et CLI dédiés. Sur le plan technique, la communauté développe des architectures de mémoire persistante et des frameworks cloud‑edge pour rendre les agents plus rapides et plus scalables, tandis que la sécurité des agents fait l’objet d’efforts concrets via du monitoring spécialisé et des correctifs de vulnérabilités. L’ensemble montre une convergence entre avancées de modèles, outils de productivité et exigences de fiabilité.",
+  "verification": {
+    "problemes": [],
+    "synthese_originale": "Les dernières heures ont été marquées par l’expansion rapide des modèles Gemini 4 Neon, désormais en tête des classements d’agents de codage, et par une série d’annonces de prix et de performances. Snapchat, quant à elle, mise sur les assistants IA (Claude Code, Codex, Cursor) pour démocratiser la création de lenses AR, avec plusieurs outils et CLI dédiés. Sur le plan technique, la communauté développe des architectures de mémoire persistante et des frameworks cloud‑edge pour rendre les agents plus rapides et plus scalables, tandis que la sécurité des agents fait l’objet d’efforts concrets via du monitoring spécialisé et des correctifs de vulnérabilités. L’ensemble montre une convergence entre avancées de modèles, outils de productivité et exigences de fiabilité."
+  },
+  "sources_en_echec": [
+    "Design News"
+  ],
+  "flux_lus": {
+    "GitHub Changelog": [
+      10,
+      9
+    ],
+    "GitHub Blog": [
+      10,
+      2
+    ],
+    "Simon Willison": [
+      30,
+      7
+    ],
+    "Hugging Face": [
+      913,
+      5
+    ],
+    "Latent Space": [
+      20,
+      4
+    ],
+    "The New Stack": [
+      26,
+      15
+    ],
+    "InfoQ": [
+      15,
+      7
+    ],
+    "InfoWorld": [
+      20,
+      6
+    ],
+    "Hacker News": [
+      20,
+      8
+    ],
+    "dev.to": [
+      12,
+      12
+    ],
+    "OpenAI": [
+      1413,
+      9
+    ],
+    "MarkTechPost": [
+      10,
+      10
+    ],
+    "The Decoder": [
+      10,
+      10
+    ],
+    "Product Hunt": [
+      50,
+      14
+    ],
+    "Vercel": [
+      100,
+      2
+    ],
+    "JetBrains AI": [
+      12,
+      0
+    ],
+    "Cursor": [
+      50,
+      0
+    ],
+    "Ollama": [
+      64,
+      0
+    ],
+    "AWS Machine Learning": [
+      20,
+      20
+    ],
+    "Towards Data Science": [
+      20,
+      6
+    ],
+    "Korben": [
+      18,
+      2
+    ],
+    "Blog du Modérateur": [
+      30,
+      9
+    ],
+    "HackerNoon": [
+      20,
+      11
+    ],
+    "Crypto Briefing": [
+      30,
+      17
+    ],
+    "DevOps.com": [
+      50,
+      5
+    ],
+    "IT Brief Australia": [
+      10,
+      5
+    ],
+    "news.lavx.hu": [
+      50,
+      17
+    ],
+    "TOKENPOST": [
+      50,
+      11
+    ],
+    "CASRAI": [
+      50,
+      6
+    ],
+    "01net": [
+      30,
+      9
+    ],
+    "NeoTeo": [
+      50,
+      14
+    ],
+    "Google Actualités": [
+      82,
+      82
+    ]
+  },
+  "themes": [
+    {
+      "nom": "Gemini & grands modèles",
+      "resume": "Une vague de publications autour de Gemini 4 Neon montre son positionnement comme leader des agents de codage, avec des annonces de versions, de prix, et de performances record. Des outils dérivés (llm‑gemini) et d’autres modèles (GPT‑6.2) illustrent l’évolution rapide des grands modèles pour le code.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Gemini 4 Neon 1M contexte, top du classement codage IA",
+          "couverture": 2,
+          "titre": "Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index",
+          "source": "MarkTechPost",
+          "lien": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
+          "date": "2026-11-19T06:52:26+00:00",
+          "resume": "Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens. It scores 61 on the AA Intelligence Index and ranks #1 on AA’s Coding Agent Index. The post Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index appeared first on MarkTechPost .",
+          "titre_fr": "Google DeepMind publie Gemini 4 Neon : 1 M de contexte, #1 du classement des agents de codage AA"
+        },
+        {
+          "note": 7,
+          "motif": "Gemini 4 Neon triple score codage, indicateur de performance",
+          "couverture": 1,
+          "titre": "Google’s Gemini 4 Neon tripled its coding score without changing the model",
+          "source": "The New Stack",
+          "lien": "https://thenewstack.io/gemini-neon-antigravity-harness/",
+          "date": "2026-11-19T00:45:11+00:00",
+          "resume": "Google’s new Gemini 4 Neon resolved 12.8% of the SWE-sweep coding benchmark using the mini-SWE harness, but that score jumped The post Google’s Gemini 4 Neon tripled its coding score without changing the model appeared first on The New Stack .",
+          "titre_fr": "Gemini 4 Neon de Google triple son score de codage sans modifier le modèle"
+        },
+        {
+          "note": 5,
+          "motif": "Annonce modèle Gemini 4 Neon, mais peu de détails techniques",
+          "couverture": 1,
+          "titre": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+          "source": "Latent Space",
+          "lien": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+          "date": "2026-11-19T07:07:43+00:00",
+          "resume": "November 18, 2026 — Google’s middle tier scores 61 on the Intelligence Index. Plus, Anthropic prices its IPO at $83.",
+          "titre_fr": "[AINews] Gemini 4 Neon : concurrent d’Opus/Sol de GDM"
+        },
+        {
+          "note": 5,
+          "motif": "Tarification Gemini 4 Neon, info pratique mais peu d'innovation",
+          "couverture": 1,
+          "titre": "Google Launches Gemini 4 Neon, Pricing It at $3 per Million Input Tokens",
+          "source": "CASRAI",
+          "lien": "https://casrai.org/news/gemini-4-neon-launch-pricing-science-benchmarks-2026",
+          "date": "2026-11-19T01:58:04+00:00",
+          "resume": "Google released Gemini 4 Neon on 18 November at $3 per million input tokens, with Google-reported results on science and math benchmarks.",
+          "titre_fr": "Google lance Gemini 4 Neon, tarifé à 3 $ par million de jetons d’entrée"
+        },
+        {
+          "note": 5,
+          "motif": "Publication gemini‑llm 0.38, mise à jour bibliothèque",
+          "couverture": 1,
+          "titre": "llm-gemini 0.38",
+          "source": "Simon Willison",
+          "lien": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+          "date": "2026-11-18T23:59:20+00:00",
+          "resume": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon and Carbon were the same price , and Hyd",
+          "titre_fr": "llm‑gemini 0.38"
+        },
+        {
+          "note": 4,
+          "motif": "Amélioration Gemini Live pour Home, peu de portée technique",
+          "couverture": 1,
+          "titre": "Google anunció una próxima mejora de Gemini Live para Google Home",
+          "source": "NeoTeo",
+          "lien": "https://www.neoteo.com/es/google-anuncio-una-proxima-mejora-de-gemini-live-para-google-home",
+          "date": "2026-11-19T05:50:18+00:00",
+          "resume": "Google anuncia para Google Home una mejora futura de Gemini Live, con interrupciones naturales y controles domésticos durante la sesión; exige Google Home Premium.",
+          "titre_fr": "Google annonce une prochaine amélioration de Gemini Live pour Google Home"
+        },
+        {
+          "note": 2,
+          "motif": "Rumeur de GPT‑6.2, manque de preuves",
+          "couverture": 1,
+          "titre": "OpenAI’s GPT-6.2 Astra and Sol arrive with noticeably different personalities",
+          "source": "Crypto Briefing",
+          "lien": "https://cryptobriefing.com/gpt-6-2-astra-sol-personality-changes/",
+          "date": "2026-11-19T02:10:39+00:00",
+          "resume": "The shift towards shorter, more confident responses in GPT-6.2 models may reduce user guidance, impacting decision-making and reliability. The post OpenAI’s GPT-6.2 Astra and Sol arrive with noticeably different personalities appeared first on Crypto Briefing .",
+          "titre_fr": "GPT‑6.2 Astra et Sol d’OpenAI arrivent avec des personnalités nettement différentes"
+        }
+      ]
+    },
+    {
+      "nom": "Assistants de codage pour la création d’AR",
+      "resume": "Snapchat déploie massivement des assistants IA (Claude Code, Codex, Cursor) permettant de concevoir, publier et automatiser des lenses AR. Plusieurs articles détaillent les CLI, les SDK et les intégrations qui ouvrent la création d’effets AR aux développeurs.",
+      "articles": [
+        {
+          "note": 5,
+          "motif": "CLI Lens avec Claude/Codex, outil concret pour créateurs AR",
+          "couverture": 1,
+          "titre": "Snapchat launches Easy Lens CLI for AR creation with Claude Code, Codex and Cursor",
+          "source": "Business Upturn",
+          "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPajdXMjZZX0pLcTMzaFhMY05mQzJjYUo3U2lUTldMMjJQRVRrbkFDTzZLbG5lSC03MktVbEkzSkRSVnpKYk45b3kyR1ZLWW52R0EwZU0zOW4zX3Nlc2xVQWFfZXNjbDRmOVdIVDJFLUE2SHQtUEpxMU4zRjJUN3NGTkR1V3Y5eGtUWl9kU1BIa0xJY29JV0M5eG9QS3JkR0hXRW82ODR6RTJqRnU3TVY4Ykw5NzN6d3ZGdnkzeQ?oc=5",
+          "date": "2026-11-19T05:32:22+00:00",
+          "resume": "",
+          "titre_fr": "Snapchat lance Easy Lens CLI pour la création AR avec Claude Code, Codex et Cursor"
+        },
+        {
+          "note": 5,
+          "motif": "Mise à jour similaire à 11, redondante",
+          "couverture": 1,
+          "titre": "Snapchat now lets developers create AR Lenses using Claude Code",
+          "source": "NewsBytes",
+          "lien": "https://www.newsbytesapp.com/news/science/snapchat-adds-support-for-claude-code-cursor-to-build-ar-lenses/story",
+          "date": "2026-11-19T05:12:17+00:00",
+          "resume": "Snapchat now allows developers to create AR Lenses using AI coding assistants like Claude Code, enhancing the platform's interactive and immersive camera experiences.",
+          "titre_fr": "Snapchat permet désormais aux développeurs de créer des Lens AR avec Claude Code"
+        },
+        {
+          "note": 5,
+          "motif": "Annonce outils AI pour Lens, utile mais déjà couvert",
+          "couverture": 1,
+          "titre": "Snapchat Lets AI Coding Assistants Build and Publish Lenses",
+          "source": "WeRSM",
+          "lien": "https://wersm.com/snapchat-ai-coding-assistants-build-publish-lenses/",
+          "date": "2026-11-19T00:29:45+00:00",
+          "resume": "Snapchat's Easy Lens CLI lets developers use Claude Code, Codex, and Cursor to build, test, and publish AR Lenses without writing code.",
+          "titre_fr": "Snapchat permet aux assistants IA de codage de créer et publier des Lens"
+        },
+        {
+          "note": 5,
+          "motif": "Répétition de fonction Lens AI, peu de nouveauté",
+          "couverture": 1,
+          "titre": "Snapchat Lets Developers Build AR Lenses With AI Coding Tools",
+          "source": "Innovation Village",
+          "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNmdGSG5zbWJmSTM1VTBUTDZodkZWb3V1X19FZE1pUkF3VkZUejRQa0RhNEttSVNORXpJWTFMYXVEOVp1R25OYW9ad0xZQVhNbDNadTdVMEpyYmFYWmpWVzIwWnU3cDhIRWM3SS14M2VLRnVBSjk2TTVvX0Vya1VqYkpxUUozOGZZZ3ZtekpQbmduQnhENi1DSg?oc=5",
+          "date": "2026-11-18T20:40:42+00:00",
+          "resume": "",
+          "titre_fr": "Snapchat permet aux développeurs de créer des Lens AR avec des outils de codage IA"
+        },
+        {
+          "note": 4,
+          "motif": "Redite des capacités Lens, peu de nouveauté",
+          "couverture": 1,
+          "titre": "Claude Code, Codex and Cursor can build and publish Snapchat Lenses",
+          "source": "Cryptopolitan",
+          "lien": "https://www.cryptopolitan.com/claude-code-codex-cursor-snapchat-lenses/",
+          "date": "2026-11-19T01:52:22+00:00",
+          "resume": "Snap's free Easy Lens CLI lets Claude Code, Codex and Cursor build, test and publish Snapchat Lenses from a plain-language prompt.",
+          "titre_fr": "Claude Code, Codex et Cursor peuvent créer et publier des Lens Snapchat"
+        },
+        {
+          "note": 4,
+          "motif": "Annonce similaire à 33, redondante",
+          "couverture": 1,
+          "titre": "Snapchat Opens Lens Building to Claude Code, Cursor, Codex",
+          "source": "FourWeekMBA",
+          "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUF1bEI0NXlCZlBHOXRPZ0V4OEF2Z2hOVjJEYVk4dmtvZ1pHdUVvdDltcWo3OWhvU0FWeE5VN0pUblBEYWJjdGo2REF0c1FOQ0JzcVB6LVA4cFZKRnNOX3pZd24tN3I1aDJBZ1hFWjROR05SYTZnTFlpS1VRcktHTlpnTmJVOG8tWFdLeA?oc=5",
+          "date": "2026-11-18T20:26:36+00:00",
+          "resume": "",
+          "titre_fr": "Snapchat ouvre la création de Lens à Claude Code, Cursor et Codex"
+        },
+        {
+          "note": 4,
+          "motif": "Redite du même sujet, aucune info nouvelle",
+          "couverture": 1,
+          "titre": "Snapchat lets developers build AR Lenses with AI coding assistants",
+          "source": "Mezha.net",
+          "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdG9mNVFkREFqVWVPWXhBX1VfZEptcTQ5OWQ4MWcwRGoxYS1lcDE3M0dKZVc4UW1UcDhqcER5QjIzaXJQcUJQZ2lFRDRsdXh2ZFBjU0ltYzU5ZnhPLXBsWk9QMV9YLUpNQXFSTDdzakdJTmY5NlhQZWJ1cktwdzJQRmNPd0E4MmkyV05Z?oc=5",
+          "date": "2026-11-18T20:12:58+00:00",
+          "resume": "",
+          "titre_fr": "Snapchat laisse les développeurs créer des Lens AR avec des assistants de codage IA"
+        },
+        {
+          "note": 4,
+          "motif": "Extension Lens AI, peu de valeur ajoutée",
+          "couverture": 1,
+          "titre": "Snapchat expands AR Lens creation with AI coding assistants",
+          "source": "Traders Union",
+          "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNGZVYnlMRUJnUjVKd0tvTTFlb19ETVBnWTNhWWhmTlI0a3ZYaUtUTVh0eWNDTk1IS2prdktmOFl1enlYVHFXZlZzQjU4RHpzZVNNZGtqYU0zLTh6TmJjRlFnTl9ZT1Bjblo1eVpOX1lmLXNtVlZnbE0tNllVOENxdTdsdlo3WHFlRUlwZQ?oc=5",
+          "date": "2026-11-18T20:11:27+00:00",
+          "resume": "",
+          "titre_fr": "Snapchat élargit la création de Lens AR avec des assistants de codage IA"
+        }
+      ]
+    },
+    {
+      "nom": "Infrastructure et mémoire des agents IA",
+      "resume": "Des travaux sur la mémoire persistante, les couches d’agent et les frameworks cloud‑edge visent à réduire la latence et à améliorer la scalabilité des agents multi‑étapes. Des projets comme SQLite FTS5, LibSQL, ou les agents navigateur GitHub Copilot illustrent ces avancées.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Copilot transformé en agent navigateur, impact large",
+          "couverture": 1,
+          "titre": "Microsoft Turns GitHub Copilot Into an AI Browser Agent for Chrome and Edge",
+          "source": "Windows Report",
+          "lien": "https://www.msn.com/en-xl/news/other/microsoft-turns-github-copilot-into-an-ai-browser-agent-for-chrome-and-edge/ar-AA2hKqiD",
+          "date": "2026-11-19T06:27:08+00:00",
+          "resume": "GitHub Copilot can now browse websites, click buttons, and fill out forms automatically in Chrome and Edge. Here's how the new feature works.",
+          "titre_fr": "Microsoft transforme GitHub Copilot en agent IA navigateur pour Chrome et Edge"
+        },
+        {
+          "note": 7,
+          "motif": "Scalabilité agents IA à 4000 devs, preuve d'adoption industrielle",
+          "couverture": 1,
+          "titre": "Ubisoft scales AI coding agents to 4,000+ developers with Unity Gateway",
+          "source": "Databricks",
+          "lien": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IMFhmQjA1NVNuOVFMd0dDRWFmMWUwOTI4dGROejkzUTFDamlvZXgxa2xsVmI2ZTlTS0pZMl9EbzFLNlBPV19LaVFsalFfVmczLWhzenUyeG9QdlhnWGFGMTRBOEc4SGV6SVE?oc=5",
+          "date": "2026-11-19T04:09:04+00:00",
+          "resume": "",
+          "titre_fr": "Ubisoft déploie des agents de codage IA pour plus de 4 000 développeurs via Unity Gateway"
+        },
+        {
+          "note": 7,
+          "motif": "FFT sur SageMaker Serverless, nouvelle capacité de fine‑tuning",
+          "couverture": 1,
+          "titre": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
+          "source": "AWS Machine Learning",
+          "lien": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
+          "date": "2026-11-19T00:15:58+00:00",
+          "resume": "Amazon SageMaker AI Serverless Model Customization now supports Full Fine-Tuning (FFT). This post explores when FFT outperforms LoRA across key benchmarks, examines the spectral properties of model weight matrices behind the quality gap, shares practical hyperparameter tuning guidelines, and shows h",
+          "titre_fr": "Full Fine‑Tuning (FFT) sur SageMaker : personnalisation de modèles AI serverless"
+        },
+        {
+          "note": 6,
+          "motif": "Intégration SQLite/LibSQL pour agents, implémentable rapidement",
+          "couverture": 1,
+          "titre": "Persistent Vectorized Agent Memory: SQLite FTS5 to Cloud LibSQL",
+          "source": "dev.to",
+          "lien": "https://dev.to/nindhita/persistent-vectorized-agent-memory-sqlite-fts5-to-cloud-libsql-4j8c",
+          "date": "2026-11-19T07:22:11+00:00",
+          "resume": "Persistent Vectorized Agent Memory: SQLite FTS5 to Cloud LibSQL Sebagian besar implementasi memory agent saat ini cacat arsitektur: mengorbankan durabilitas demi kecepatan prototyping. Menggunakan Pinecone atau Milvus terpusat untuk agent otonom yang mengeksekusi on-chain swaps adalah anti-pattern. ",
+          "titre_fr": "Mémoire d’agent vectorisée persistante : SQLite FTS5 vers Cloud LibSQL"
+        },
+        {
+          "note": 6,
+          "motif": "Framework cloud‑edge réduisant latence, utile pour déploiements",
+          "couverture": 1,
+          "titre": "Cloud-Edge Agent Framework Cuts Latency by 57.8 Percent in Multi-Step Tasks",
+          "source": "Bioengineer.org",
+          "lien": "https://bioengineer.org/cloud-edge-agent-framework-cuts-latency-by-57-8-percent-in-multi-step-tasks/",
+          "date": "2026-11-19T06:37:32+00:00",
+          "resume": "A collaborative cloud-edge agent framework called CE-Agent reduces average end-to-end latency by 57.8 percent while maintaining high task success rates through dynamic offloading and model ...",
+          "titre_fr": "Le cadre d’agents Cloud‑Edge réduit la latence de 57,8 % dans les tâches à étapes multiples"
+        },
+        {
+          "note": 6,
+          "motif": "Intégration Neo4j pour historique code, utile aux agents",
+          "couverture": 1,
+          "titre": "Your Coding Agent Can Read the Code. Give It the History with Relate by Neo4j",
+          "source": "Neo4j",
+          "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPejY2T19pQXpPanpmY25XSTl6UnJ3aGhyQThDSmlOYUExVW5JRlpFR0tORExfcVZCd3FnTy1fbXRPR21kVlM4R2R1N3JsR0hVeWR5V2xWUjk3a0t5TVFmaHFaeEliQzNiUkNaOE9uLXB4ckc3T2hyU2duaDBYUUZBM0lVbDFsR2k1SWs3MzRzR2czc3ZnSVNPekxnRk1nWVJZd2NqbFJvNVVTWERPT2s0?oc=5",
+          "date": "2026-11-18T21:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Votre agent de codage peut lire le code. Donnez‑lui l’historique avec Relate de Neo4j"
+        },
+        {
+          "note": 5,
+          "motif": "Nouvelle approche mémoire agent, utile pour développeurs",
+          "couverture": 1,
+          "titre": "Choosing an Agent Memory Layer: Test Cancelled Lookups",
+          "source": "dev.to",
+          "lien": "https://dev.to/plur9/choosing-an-agent-memory-layer-test-cancelled-lookups-901",
+          "date": "2026-11-19T07:25:06+00:00",
+          "resume": "Written by Data, PLUR's AI agent. This is a proposed acceptance exercise, not a vendor comparison or a report of measured results. When choosing an open-source memory layer for an LLM agent, include a cancelled-lookup test: start a memory request for one task, cancel that task, and begin another bef",
+          "titre_fr": "Choisir une couche de mémoire d’agent : annulation des recherches testées"
+        },
+        {
+          "note": 5,
+          "motif": "Outil sécurité coding agents, niche mais pertinent",
+          "couverture": 1,
+          "titre": "Reva.AI launches security tool for coding agents",
+          "source": "SecurityBrief Asia",
+          "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3FHb0JoMHUwR1VldGNGaTlacXFOUTlYQXBRYXBpLUFJUjhZd3Z3Z2JiQ2wxM1dfdmx3aklTWTZJYjBHN0ZFcXVuSXVMWjNlcjlBbWxFczBDSWVMaG13Rm5QcWdZZkc4Sk1IU3lLSzdzU1M1NjNlVER0THhXQlZ1NWx3d255QWh4?oc=5",
+          "date": "2026-11-19T03:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Reva.AI lance un outil de sécurité pour les agents de codage"
+        },
+        {
+          "note": 5,
+          "motif": "MAI models Microsoft, ciblent coût, pertinence modérée",
+          "couverture": 1,
+          "titre": "Microsoft’s new MAI models target cheaper AI coding and security",
+          "source": "DNE Africa",
+          "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xM05SRlY5cXN3aVpSc0xWajZlSnJ6ZjJxUnJqYnMzQnR5LTF5OFdBR1lqUnpQbm1wcTFiNEp5aFVGcmNFNDdsMWd0aUFDUEt5eFQwYVJLdktabUhJdGJKYjBDUGw0WWVORWdlcHBvWQ?oc=5",
+          "date": "2026-11-18T23:25:00+00:00",
+          "resume": "",
+          "titre_fr": "Les nouveaux modèles MAI de Microsoft visent un codage IA et une sécurité moins coûteux"
+        },
+        {
+          "note": 5,
+          "motif": "Recovery workload SageMaker, améliore fiabilité infra",
+          "couverture": 1,
+          "titre": "Introducing workload recovery and expanded infrastructure checks on Amazon SageMaker HyperPod",
+          "source": "AWS Machine Learning",
+          "lien": "https://aws.amazon.com/blogs/machine-learning/introducing-workload-recovery-and-expanded-infrastructure-checks-on-amazon-sagemaker-hyperpod/",
+          "date": "2026-11-18T23:03:29+00:00",
+          "resume": "Large training jobs can stall or compute wrong results even when every node looks healthy. Amazon SageMaker HyperPod now adds workload recovery and expanded infrastructure checks that catch these failures sooner and raise the goodput of your training workloads.",
+          "titre_fr": "Introduction de la récupération de charge de travail et de contrôles d’infrastructure élargis sur Amazon SageMaker HyperPod"
+        },
+        {
+          "note": 5,
+          "motif": "Nouveaux modèles Microsoft pour coût, impact limité",
+          "couverture": 1,
+          "titre": "Microsoft Introduces New Models to Cut the Cost of AI Coding and Cybersecurity",
+          "source": "PYMNTS.com",
+          "lien": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-introduces-new-models-to-cut-the-cost-of-ai-coding-and-cybersecurity/",
+          "date": "2026-11-18T20:43:29+00:00",
+          "resume": "Microsoft has introduced a frontier cyber defense model, an everyday enterprise coding model and five other new artificial intelligence (AI) models, ...",
+          "titre_fr": "Microsoft introduit de nouveaux modèles pour réduire le coût du codage IA et de la cybersécurité"
+        },
+        {
+          "note": 4,
+          "motif": "Article technique très spécialisé, impact limité",
+          "couverture": 1,
+          "titre": "Nano Banana 3.0 Deep Dive: Multi-Reference 4K Editing Architecture & Credit Economics",
+          "source": "dev.to",
+          "lien": "https://dev.to/kling4ai-production/nano-banana-30-deep-dive-multi-reference-4k-editing-architecture-credit-economics-403g",
+          "date": "2026-11-19T07:25:34+00:00",
+          "resume": "TLDR Analyze the Nano Banana 3.0 workspace ( nanobananasi.com ), comparing Google's Nano Banana 2.1 baseline ( 1,152 Elo , $33.60/1k images) against Seedream 5.5 and GPT Image 2.6 for multi-reference 4K editing. Multi-Reference Relighting and 4K Synthesis in One Unified Studio On the live Artificial",
+          "titre_fr": "Plongée approfondie dans Nano Banana 3.0 : architecture d’édition 4K multi-référence et économie du crédit"
+        },
+        {
+          "note": 4,
+          "motif": "Comparaison d'outils d'automatisation, peu d'innovation",
+          "couverture": 1,
+          "titre": "One workflow, three meters: what Zapier, Make and n8n actually count",
+          "source": "dev.to",
+          "lien": "https://dev.to/saasradarai/one-workflow-three-meters-what-zapier-make-and-n8n-actually-count-2lhd",
+          "date": "2026-11-19T07:23:39+00:00",
+          "resume": "Three automation platforms, one six-step flow, and three different things being counted. Every figure below was read from the vendor's own pricing page and logged in our catalogue on 19 November 2026. A pricing page answers the wrong question. It tells you what a month costs, and the money that actu",
+          "titre_fr": "Un workflow, trois métriques : ce que comptent réellement Zapier, Make et n8n"
+        },
+        {
+          "note": 4,
+          "motif": "Story curiosité, peu d'applicabilité",
+          "couverture": 1,
+          "titre": "Tracking Down A Mystery Beep By Giving A Coding Agent A Few Ears",
+          "source": "Hackaday",
+          "lien": "https://hackaday.com/2026/11/18/tracking-down-a-mystery-beep-by-giving-a-coding-agent-a-few-ears/",
+          "date": "2026-11-19T00:00:00+00:00",
+          "resume": "Simon Willison] recently used a coding agent in an unusual way. A software system temporarily used the microphones on devices scattered around the room to triangulate the source of a mysterious, ...",
+          "titre_fr": "Résoudre un bourdonnement mystérieux en donnant quelques oreilles à un agent de codage"
+        }
+      ]
+    },
+    {
+      "nom": "Sécurité, monitoring et outils de support pour agents IA",
+      "resume": "Des solutions de monitoring (ALIVE), des correctifs de sécurité (paquets Python contaminés) et des outils d’audit (Reva.AI, Exa, Full Fine‑Tuning) sont présentés pour sécuriser les agents de codage et garantir leur fiabilité en production.",
+      "articles": [
+        {
+          "note": 6,
+          "motif": "Technique d'inversion LLM, intérêt pour sécurité et recherche",
+          "couverture": 1,
+          "titre": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+          "source": "Hacker News",
+          "lien": "https://arxiv.org/abs/2607.29378",
+          "date": "2026-11-19T01:27:02+00:00",
+          "resume": "Article URL: https://arxiv.org/abs/2607.29378 Comments URL: https://news.ycombinator.com/item?id=50554908 Points: 43 # Comments: 7",
+          "titre_fr": "Inversion de LLM basée sur la prédiction du token précédent pour la reconstruction de prompts"
+        },
+        {
+          "note": 6,
+          "motif": "Exa booste embeddings, améliore traitement massive de données",
+          "couverture": 1,
+          "titre": "Exa boosts embedding throughput by 50% to index billions of documents on AWS AI chips",
+          "source": "AWS Machine Learning",
+          "lien": "https://aws.amazon.com/blogs/machine-learning/exa-boosts-embedding-throughput-by-50-to-index-billions-of-documents-on-aws-ai-chips/",
+          "date": "2026-11-18T23:58:22+00:00",
+          "resume": "Exa's neural search engine is backed by an in-house vector database, so the unit economics of embedding tens of billions of web documents drive the business. This post shares how Exa optimized embedding inference on AWS Neuron hardware (Inferentia2 and Trainium2) with custom NKI kernels, reaching a ",
+          "titre_fr": "Exa augmente le débit d’embedings de 50 % pour indexer des milliards de documents sur les puces AI d’AWS"
+        },
+        {
+          "note": 5,
+          "motif": "Ajout monitoring vidéo AI, pertinence opérationnelle",
+          "couverture": 1,
+          "titre": "ALIVE Adds Monitoring and Feedback to Streaming Video AI",
+          "source": "TOKENPOST",
+          "lien": "https://www.tokenpost.com/news/technology/61172",
+          "date": "2026-11-19T07:09:03+00:00",
+          "resume": "The model was trained in two stages and evaluated on FSI-Bench, a measure of feedback-seeking and task completion.",
+          "titre_fr": "ALIVE ajoute surveillance et retour d’information à la vidéo IA en streaming"
+        },
+        {
+          "note": 4,
+          "motif": "Patch Claude Code, correctifs mineurs",
+          "couverture": 1,
+          "titre": "Claude Code v2.1.327 Adds Checks and Recovery Fixes",
+          "source": "remio",
+          "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcEdQTHJZeUFxQXRhMkhxZy1FMGVRdDdtMkc5a0xTY0xEVUh2R01zV2ZoWF9rc0VUSnRRM0pwREZlcnA4WnlpbTRTc0hDYmxLU2FoN1BwWkhMRk50RXc3bGlCaVI0bGdEM3FKekl0ODJ5ejFLX2R6bGJRVE5iZnZQZVpnQQ?oc=5",
+          "date": "2026-11-18T22:14:56+00:00",
+          "resume": "",
+          "titre_fr": "Claude Code v2.1.327 ajoute des vérifications et des correctifs de récupération"
+        }
+      ]
+    },
+    {
+      "nom": "Autres articles",
+      "resume": "",
+      "articles": [
+        {
+          "note": 5,
+          "motif": "Capteur fatigue IA pour flottes, application concrète",
+          "couverture": 1,
+          "titre": "Teletrac Navman launches AI fatigue sensor for fleets",
+          "source": "IT Brief Australia",
+          "lien": "https://itbrief.com.au/story/teletrac-navman-launches-ai-fatigue-sensor-for-fleets",
+          "date": "2026-11-19T14:49:00+13:00",
+          "resume": "Fleet managers in Australia and New Zealand can now get earlier warnings of drowsiness, with alerts triggered before visible signs worsen.",
+          "titre_fr": "Teletrac Navman lance un capteur de fatigue IA pour les flottes"
+        },
+        {
+          "note": 4,
+          "motif": "Plateforme BI générative on‑prem, niche entreprise",
+          "couverture": 1,
+          "titre": "Phison AI Data Platform offre alle aziende una BI generativa autonoma e on-premise",
+          "source": "01net",
+          "lien": "https://www.01net.it/phison-ai-data-platform-offre-alle-aziende-una-bi-generativa-autonoma-e-on-premise/",
+          "date": "2026-11-19T01:27:00+00:00",
+          "resume": "Il sistema pronto per l'uso unisce inferenza AI privata ad alte prestazioni, business intelligence generativa e archiviazione aziendale persistente per garantire la resilienza operativa CHICAGO--(BUSINESS WIRE)--Supercomputing 2026 (SC26) – Phison Ele... L'articolo Phison AI Data Platform offre alle",
+          "titre_fr": "Phison AI Data Platform propose aux entreprises une BI générative autonome et on‑premise"
+        },
+        {
+          "note": 3,
+          "motif": "Focus régional, peu d'intérêt global",
+          "couverture": 1,
+          "titre": "Vibe Coding, AI Agents and Intelligent Apps: Why Noida Is India's Next AI Hub",
+          "source": "https://www.indiagazette.com/",
+          "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdmhFdkNRRWJ1eC1RNDd0aFVrZXFXVVUyckdYaUtkTllUZWFXemZCNnUyRk11eGZXQkN3cUFvLWZLTHA1V29BaGpsRXFfbjdYblFBb0djUmlSTndrb0tjUzhhajc3VUN0ak9yaFZSc0pUSzA0OGFkenhaTlZfTzJpVF9MenVUNW9wcW1lODgySjhwQmNxNVEwbkpHcU1vOVZubUtDZGlsVlhqYm44cnkzZVQtcG5yMk1J?oc=5",
+          "date": "2026-11-19T02:37:00+00:00",
+          "resume": "",
+          "titre_fr": "Vibe Coding, agents IA et applications intelligentes : pourquoi Noida deviendra le prochain hub IA de l’Inde"
+        }
+      ]
+    }
+  ],
+  "ecartes": [
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Hackers hijack Microsoft's Python AI framework to spread malware",
+      "source": "NewsBytes",
+      "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONW1EQmk2TEFhTUpzWFJ5LVp4N213V0pweHlkLW5lckdOa3ZoVjRRRkVHc2ljYkZCb3ZDOGN1MWFQTUx5QWxBcEVhbUJ3SXM1NnBVcUZsdy00ODJFemRtN3NmWTZKOVN1WGVuQnpQaHlRcFFGS2Q0Z3Iwa2h6dndrT05UX2JNZXVYTnF2dVlqX2VPVjhvcC16QXZ0ZkNEaHZJU0FZR2JZTGt2Q0FJLWFuelRB?oc=5",
+      "date": "2026-11-19T07:21:19+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Arizona Opens Criminal Investigation Into OpenAI and Other AI Firms",
+      "source": "TOKENPOST",
+      "lien": "https://www.tokenpost.com/news/regulation/61177",
+      "date": "2026-11-19T07:18:35+00:00",
+      "resume": "Attorney General Kris Mayes said the inquiry concerns allegations that rogue AI agents entered multiple bank systems.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Les Français sont-ils prêts à payer le prix de la souveraineté numérique ?",
+      "source": "Blog du Modérateur",
+      "lien": "https://www.blogdumoderateur.com/francais-payer-prix-souverainete-numerique/",
+      "date": "2026-11-19T07:00:53+00:00",
+      "resume": "Selon une enquête menée par Ipsos bva auprès de 1 000 Français pour Entreprises & Médias, 77 % jugent nécessaire de renforcer la souveraineté du pays sur les outils d'IA. Mais pas au détriment du prix ou de la performance.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Trump tells APEC in Shenzhen the US opposes ‘globalist regulation’ of AI",
+      "source": "CASRAI",
+      "lien": "https://casrai.org/news/trump-apec-shenzhen-opposes-globalist-ai-regulation-2026",
+      "date": "2026-11-19T06:54:17+00:00",
+      "resume": "Trump told the APEC summit in Shenzhen on 19 November that the US opposes any ‘globalist regulation’ of AI, as new chip-access rules take shape.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "DeepSeek Operating Company Adds Hangzhou Chengyan as Shareholder",
+      "source": "TOKENPOST",
+      "lien": "https://www.tokenpost.com/news/business/61161",
+      "date": "2026-11-19T06:46:47+00:00",
+      "resume": "The company’s registered capital rose about 21.1% to 19.918707 million yuan. Hangzhou Chengyan added 31 partners, and its registered contributions rose to 3.438979 billion yuan.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "AI chip demand seen holding up despite Nvidia’s China export restrictions",
+      "source": "TOKENPOST",
+      "lien": "https://www.tokenpost.com/news/investing/61159",
+      "date": "2026-11-19T06:40:18+00:00",
+      "resume": "Ed Yardeni said global data center construction could sustain AI chip demand despite restrictions on Nvidia’s China exports. He also pointed to resilience in the U.S. economy and stock market.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Tencent ante las restricciones de EE. UU. a los chips de IA",
+      "source": "NeoTeo",
+      "lien": "https://www.neoteo.com/es/tencent-ante-las-restricciones-de-ee-uu-a-los-chips-de-ia",
+      "date": "2026-11-19T06:35:13+00:00",
+      "resume": "La norma de EE. UU. entra en vigor el 19 de noviembre de 2026 y fija controles por capacidad y destino. Tencent prevé efectos distintos en nube y modelos.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "OpenAI anunció cuatro evaluaciones externas de seguridad",
+      "source": "NeoTeo",
+      "lien": "https://www.neoteo.com/es/openai-anuncio-cuatro-evaluaciones-externas-de-seguridad",
+      "date": "2026-11-19T06:22:12+00:00",
+      "resume": "OpenAI anunció cuatro evaluaciones externas: quién participa, qué examina cada grupo y qué reglas fijan el acceso, las conversaciones y la publicación.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Anthropic options set to begin on Nasdaq Monday amid strong demand expectations",
+      "source": "Crypto Briefing",
+      "lien": "https://cryptobriefing.com/anthropic-options-set-to-begin-on-nasdaq-monday-amid-strong-demand-expectations/",
+      "date": "2026-11-19T06:17:30+00:00",
+      "resume": "Anthropic's options debut on Nasdaq signals robust investor confidence, potentially boosting AI sector investments and market valuations. The post Anthropic options set to begin on Nasdaq Monday amid strong demand expectations appeared first on Crypto Briefing .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Visibilité dans ChatGPT : que valent les premières statistiques d’OpenAI ?",
+      "source": "Blog du Modérateur",
+      "lien": "https://www.blogdumoderateur.com/visibilite-chatgpt-que-valents-premieres-statistiques-openai/",
+      "date": "2026-11-19T06:00:22+00:00",
+      "resume": "OpenAI ouvre enfin aux entreprises leurs chiffres de visibilité dans ChatGPT. Mais quand les IA envoient si peu de trafic, quel intérêt présentent ces données pour les marques ?",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Ubuntu - Les futurs correctifs seront écrits par une IA",
+      "source": "Korben",
+      "lien": "https://korben.info/canonical-surge-agents-correctifs-ubuntu.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "date": "2026-11-19T06:56:20+01:00",
+      "resume": "Canonical lance Surge, des agents IA qui écrivent des correctifs de sécurité pour les paquets Ubuntu, que son équipe qualifie ensuite pour tout le monde. L'archive Edge permet de les recevoir avant cette qualification via Ubuntu Pro : voici ce que ça change, comment l'activer et comment en sortir.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Cómo se propaga una respuesta falsa entre agentes de IA",
+      "source": "NeoTeo",
+      "lien": "https://www.neoteo.com/es/como-se-propaga-una-respuesta-falsa-entre-agentes-de-ia",
+      "date": "2026-11-19T05:50:11+00:00",
+      "resume": "Una investigación con tareas ficticias midió cómo se propagan respuestas falsas entre agentes y qué ocurrió al dar al agregador la fuente original.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "AI Coding Boom | First the layoffs, then the rehires",
+      "source": "Deccan Herald",
+      "lien": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWFdMZjVlb3hSR3FLdndvY0tIRnFIX2dzdks0ZG9SMTUzNk9pQ0h2d2tmOWJDcElmWVdBQ01OQVlLS3lFVnFNdDFOMmJGVnFpbmpVRUpIZVpMVWhxaE9RWHE3bkRqQXpVeEJkcnk5c2tOX0tPYXBRNTdTREYxLW5va2xmeGctcWl3a2dJS1laZnEtbjVkekc5enNR0gGnAUFVX3lxTE91bzV2NWlWMVZfZmQzLXpYMXh2V1VidWdscU1ta0JDR3JwUmVvZndyNXRRN0lEUVJJbkYtdUoycDZTZkF1bGVXLXd0Uk1hclJfQTN5dVdmNGdPaXQ0YnpETFU3Wl96LUFTQkZGN3pwZ1piZ1VFNVNRQVdrWUlfQ0pkODZadDdEWkVJcFc5UVJGbkVjMjFaT1VyNm5oZHdXckZJNHdLdGJn?oc=5",
+      "date": "2026-11-19T05:29:16+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "OpenAI details uneven gains from coding agents in internal AI research",
+      "source": "news.lavx.hu",
+      "lien": "https://news.lavx.hu/article/openai-details-uneven-gains-from-coding-agents-in-internal-ai-research",
+      "date": "2026-11-19T05:01:35+00:00",
+      "resume": "Internal measurements from OpenAI show coding agents completing more multi-hour research tasks, but success rates vary by task and researchers still guide the work.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Gemini 4 Neon Tops the Coding Agent Index at 58.64",
+      "source": "OrcaRouter",
+      "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41aUVfMjlqcTJacjBnZXlxZWozQ1J0SDdiSU1PaHJvenlQZUYzQ28yWDlMd291U0lsLUtOb1dQSW5nak5TbTEtUjdZV084Q053SkVBcDJPTVhYd2JLdzh3MWE2VF9ZRTBsYUozVkg2Nmg?oc=5",
+      "date": "2026-11-19T04:52:55+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Two poisoned releases of Microsoft’s Agent Framework Python package - what happened?",
+      "source": "iTWire",
+      "lien": "https://itwire.com/business-it-news/security/two-poisoned-releases-of-microsoft-s-agent-framework-python-package-what-happened",
+      "date": "2026-11-19T04:45:55+00:00",
+      "resume": "Two malicious releases reached the legitimate Python package listing. Their removal stops fresh downloads from that source, but affected development and build ...",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Arizona investigates OpenAI for alleged rogue AI bank infiltration",
+      "source": "Crypto Briefing",
+      "lien": "https://cryptobriefing.com/arizona-investigates-openai-for-alleged-rogue-ai-bank-infiltration/",
+      "date": "2026-11-19T04:36:50+00:00",
+      "resume": "The investigation highlights growing regulatory scrutiny on AI's role in banking, potentially impacting OpenAI's financial stability and operations. The post Arizona investigates OpenAI for alleged rogue AI bank infiltration appeared first on Crypto Briefing .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "F5 issues emergency patches for AI-uncovered NGINX flaws",
+      "source": "news.lavx.hu",
+      "lien": "https://news.lavx.hu/article/f5-issues-emergency-patches-for-ai-uncovered-nginx-flaws",
+      "date": "2026-11-19T04:30:52+00:00",
+      "resume": "F5 released fixes for 10 vulnerabilities in open source NGINX, including two critical remote code execution bugs. The flaws affect systems behind about 225 million websites and create data protection risks for organizations that handle personal information.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Andy Bell urges web teams to invest in skills after AI disruption",
+      "source": "news.lavx.hu",
+      "lien": "https://news.lavx.hu/article/andy-bell-urges-web-teams-to-invest-in-skills-after-ai-disruption",
+      "date": "2026-11-19T04:22:51+00:00",
+      "resume": "In a Nov. 18 post on CSS-Tricks, Andy Bell examined how AI tools reshaped development work and urged companies and developers to protect skills, review mandates, and support independent web education.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Tencent president says US GPU ban will slow AI work in China",
+      "source": "news.lavx.hu",
+      "lien": "https://news.lavx.hu/article/tencent-president-says-us-gpu-ban-will-slow-ai-work-in-china",
+      "date": "2026-11-19T04:02:21+00:00",
+      "resume": "Martin Lau, president of Tencent, said a new US restriction on remote access to graphics processing units will delay model training in China and push companies toward domestic chips. Tencent reported strong cloud growth and described limits on its high-end GPU services.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Trump says he discussed AI with Xi Jinping, mentioned Jensen Huang only briefly",
+      "source": "Crypto Briefing",
+      "lien": "https://cryptobriefing.com/trump-xi-ai-talks-jensen-huang/",
+      "date": "2026-11-19T03:45:15+00:00",
+      "resume": "Trump's AI-focused talks with Xi highlight the strategic importance of AI in US-China relations, overshadowing individual controversies. The post Trump says he discussed AI with Xi Jinping, mentioned Jensen Huang only briefly appeared first on Crypto Briefing .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Palo Alto Networks names Asia-Pacific & Japan winners",
+      "source": "IT Brief Australia",
+      "lien": "https://itbrief.com.au/story/palo-alto-networks-names-asia-pacific-japan-winners",
+      "date": "2026-11-19T16:31:11+13:00",
+      "resume": "Pressure on cyber defenders is rising across Asia-Pacific as Palo Alto Networks spotlights partners helping customers respond faster to AI-driven threats.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence",
+      "source": "MarkTechPost",
+      "lien": "https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/",
+      "date": "2026-11-19T03:23:50+00:00",
+      "resume": "Nutrient Data Extraction API parses PDFs, scans and Office files into JSON matching your schema. Fields carry page, region and match-label citations, and Studio lets teams test before writing code. The post Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confiden",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Sellforte expands into APAC with Exact AI partnership",
+      "source": "IT Brief Australia",
+      "lien": "https://itbrief.com.au/story/sellforte-expands-into-apac-with-exact-ai-partnership",
+      "date": "2026-11-19T16:19:00+13:00",
+      "resume": "The Finnish software group's first APAC customer is a specialty fashion retailer, as Exact AI will handle rollout and support across the region.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Why Groundcover’s CEO says agents are the power users of observability",
+      "source": "The New Stack",
+      "lien": "https://thenewstack.io/groundcover-coding-agents-observability/",
+      "date": "2026-11-19T03:15:24+00:00",
+      "resume": "An AI coding agent can write a patch in minutes. Ask it whether that patch slows down the API endpoint The post Why Groundcover’s CEO says agents are the power users of observability appeared first on The New Stack .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Discord Rewrites Desktop and Mobile Clients in Rust Using Zed's GPU-Accelerated Rendering Framework",
+      "source": "InfoQ",
+      "lien": "https://www.infoq.com/news/2026/11/discord-rust-rewrite-gpui-zed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "date": "2026-11-19T03:12:00+00:00",
+      "resume": "Discord’s CTO Stanislav Vishnevskiy recently announced rewriting its desktop and mobile clients in Rust, moving away from Electron and React Native. The project eliminates layers of abstraction to directly leverage the device’s GPU, native mobile views, and a Rust core shared across platforms. Early",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Anthropic surpasses OpenAI in both revenue and profitability amid 'Claude Code' surge : Global : JKN",
+      "source": "재경일보",
+      "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CYkhVMDRMZTlpZnFySTR4RUhrMFBIOXFKNGZ2eTYzbzRaZFdpWGgyc2tMdjY2emhwbVR3TVRJeGVGdzVkU0kwaTRYWWpyQXg3RDY4NDhWMEQ3LVZZSHIyYXVn?oc=5",
+      "date": "2026-11-19T03:00:09+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Riassunto: Il 72% delle organizzazioni ha posticipato, ridotto o sospeso i progetti di AI e Edge a causa di dubbi sulla resilienza",
+      "source": "01net",
+      "lien": "https://www.01net.it/riassunto-il-72-delle-organizzazioni-ha-posticipato-ridotto-o-sospeso-i-progetti-di-ai-e-edge-a-causa-di-dubbi-sulla-resilienza/",
+      "date": "2026-11-19T02:53:00+00:00",
+      "resume": "Le organizzazioni con resilienza di rete integrata segnalano costi di interruzione inferiori di 6 milioni di dollari, secondo i risultati di uno studio condotto da OpengearSANDY, Utah--(BUSINESS WIRE)--Quasi tre organizzazioni su quattro (il 72%) ha p... L'articolo Riassunto: Il 72% delle organizzaz",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Alteryx study finds AI lacks business context at firms",
+      "source": "IT Brief Australia",
+      "lien": "https://itbrief.com.au/story/alteryx-study-finds-ai-lacks-business-context-at-firms",
+      "date": "2026-11-19T15:45:00+13:00",
+      "resume": "More than half of organisations struggle to feed internal rules and processes into AI, limiting the relevance of outputs despite rising spending plans.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Workato Named One of the Fastest-Growing Companies in North America on the 2026 Deloitte Technology Fast 500™",
+      "source": "01net",
+      "lien": "https://www.01net.it/workato-named-one-of-the-fastest-growing-companies-in-north-america-on-the-2026-deloitte-technology-fast-500/",
+      "date": "2026-11-19T02:00:00+00:00",
+      "resume": "Attributes 162% Revenue Growth to Growing Enterprise Demand for AI Orchestration and AutomationPALO ALTO, Calif.--(BUSINESS WIRE)--Workato®, the leading Control and Execution Platform for Enterprise AI, announced it was named to the Deloitte Technology... L'articolo Workato Named One of the Fastest-",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "GAO Finds ChatGPT, Claude, Gemini and Grok Produced Viable Attack Plans in Covert Tests",
+      "source": "CASRAI",
+      "lien": "https://casrai.org/news/gao-ai-chatbots-covert-tests-attack-plans-hassan-hearings",
+      "date": "2026-11-19T01:07:57+00:00",
+      "resume": "GAO says all four leading chatbots gave usable attack plans in under 12 hours of covert testing; Sen. Hassan plans a January hearing.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "AEye Embeds AI Across Engineering to Support Product Development and Production Readiness",
+      "source": "01net",
+      "lien": "https://www.01net.it/aeye-embeds-ai-across-engineering-to-support-product-development-and-production-readiness/",
+      "date": "2026-11-19T01:00:00+00:00",
+      "resume": "More Than 90% Employee Adoption Reinforces Capital-Light Operating ModelPLEASANTON, Calif.--(BUSINESS WIRE)--AEye, Inc. (Nasdaq: LIDR), a global leader in software-defined, high-performance lidar solutions, today provided an update on the integration o... L'articolo AEye Embeds AI Across Engineering",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "source": "Hacker News",
+      "lien": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "date": "2026-11-19T00:29:45+00:00",
+      "resume": "Article URL: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/ Comments URL: https://news.ycombinator.com/item?id=50554374 Points: 209 # Comments: 67",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "OpenAI’s Heaviest Coding-Agent Users Reach $23,000 a Day",
+      "source": "www.tokenpost.com",
+      "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XSkt2SGktZ2RfNDlhVGtMR2tTV3k2RVNYN2NDRHM0VzhaOXN3RVFiYlhDa013c0kwWUh5cXRscjR1V3pnMWNnTUVZdXd0V3BJbkR6R09ZdXBnYjA?oc=5",
+      "date": "2026-11-19T00:16:00+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "NIH Grant Funds AI-Generated Pediatric Head Imaging Database",
+      "source": "CASRAI",
+      "lien": "https://casrai.org/news/3-1-million-nih-grant-funds-ai-generated-pediatric-head-imaging-database",
+      "date": "2026-11-19T00:15:00+00:00",
+      "resume": "A $3.1 million NIH grant enables a UChicago-led project to build a synthetic pediatric head imaging database, overcoming research data privacy barriers.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Wait for pull request events with GitHub CLI",
+      "source": "GitHub Changelog",
+      "lien": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+      "date": "2026-11-19T00:00:13+00:00",
+      "resume": "GitHub CLI now supports GitHub Event Streams. With gh v2.105.0, you and your agents can wait for a pull request to change with a single command instead of polling it… The post Wait for pull request events with GitHub CLI appeared first on The GitHub Blog .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Anthropic prices initial public offering",
+      "source": "Hacker News",
+      "lien": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "date": "2026-11-18T23:30:09+00:00",
+      "resume": "Article URL: https://www.anthropic.com/news/anthropic-prices-initial-public-offering Comments URL: https://news.ycombinator.com/item?id=50553843 Points: 150 # Comments: 138",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "AI Coding Shifts Cognitive Load and Hits Developer Productivity",
+      "source": "Communications of the ACM",
+      "lien": "https://cacm.acm.org/news/ai-coding-shifts-cognitive-load-and-hits-developer-productivity/",
+      "date": "2026-11-18T22:52:46+00:00",
+      "resume": "As AI-assisted coding tools and agentic AI write more code, and developers spend more time reviewing code, developers are grappling with a shifting cognitive load. That’s because they must build ...",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "AI Coding Tools Shift Developer Hiring Toward Senior Talent",
+      "source": "Mexico Business News",
+      "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMnhSR0plMnNaYjJmOXJTNlhxZFFmVTdFa21FWERoVzZNaGNGZjZ0U1ZjM05xWGlkTWNtNXk1Yk5GQ09HX0JsNFVQem9fdmFGMTFOa01KNUExRG5SdXZEZDBUSHZreW1oSEJnN2pnVTZzeXMzN0xOeEJrWVhMaG9TTkd5MzEzZm13TmhpRExTUW16bXUyLU9ZSklnSVVCUjZE?oc=5",
+      "date": "2026-11-18T21:41:05+00:00",
+      "resume": "",
+      "titre_fr": ""
+    }
+  ],
+  "top": [
+    {
+      "note": 8,
+      "motif": "Gemini 4 Neon 1M contexte, top du classement codage IA",
+      "couverture": 2,
+      "titre": "Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index",
+      "source": "MarkTechPost",
+      "lien": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
+      "date": "2026-11-19T06:52:26+00:00",
+      "resume": "Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens. It scores 61 on the AA Intelligence Index and ranks #1 on AA’s Coding Agent Index. The post Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index appeared first on MarkTechPost .",
+      "titre_fr": "Google DeepMind publie Gemini 4 Neon : 1 M de contexte, #1 du classement des agents de codage AA"
+    },
+    {
+      "note": 7,
+      "motif": "Copilot transformé en agent navigateur, impact large",
+      "couverture": 1,
+      "titre": "Microsoft Turns GitHub Copilot Into an AI Browser Agent for Chrome and Edge",
+      "source": "Windows Report",
+      "lien": "https://www.msn.com/en-xl/news/other/microsoft-turns-github-copilot-into-an-ai-browser-agent-for-chrome-and-edge/ar-AA2hKqiD",
+      "date": "2026-11-19T06:27:08+00:00",
+      "resume": "GitHub Copilot can now browse websites, click buttons, and fill out forms automatically in Chrome and Edge. Here's how the new feature works.",
+      "titre_fr": "Microsoft transforme GitHub Copilot en agent IA navigateur pour Chrome et Edge"
+    },
+    {
+      "note": 7,
+      "motif": "Scalabilité agents IA à 4000 devs, preuve d'adoption industrielle",
+      "couverture": 1,
+      "titre": "Ubisoft scales AI coding agents to 4,000+ developers with Unity Gateway",
+      "source": "Databricks",
+      "lien": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IMFhmQjA1NVNuOVFMd0dDRWFmMWUwOTI4dGROejkzUTFDamlvZXgxa2xsVmI2ZTlTS0pZMl9EbzFLNlBPV19LaVFsalFfVmczLWhzenUyeG9QdlhnWGFGMTRBOEc4SGV6SVE?oc=5",
+      "date": "2026-11-19T04:09:04+00:00",
+      "resume": "",
+      "titre_fr": "Ubisoft déploie des agents de codage IA pour plus de 4 000 développeurs via Unity Gateway"
+    },
+    {
+      "note": 7,
+      "motif": "Gemini 4 Neon triple score codage, indicateur de performance",
+      "couverture": 1,
+      "titre": "Google’s Gemini 4 Neon tripled its coding score without changing the model",
+      "source": "The New Stack",
+      "lien": "https://thenewstack.io/gemini-neon-antigravity-harness/",
+      "date": "2026-11-19T00:45:11+00:00",
+      "resume": "Google’s new Gemini 4 Neon resolved 12.8% of the SWE-sweep coding benchmark using the mini-SWE harness, but that score jumped The post Google’s Gemini 4 Neon tripled its coding score without changing the model appeared first on The New Stack .",
+      "titre_fr": "Gemini 4 Neon de Google triple son score de codage sans modifier le modèle"
+    },
+    {
+      "note": 7,
+      "motif": "FFT sur SageMaker Serverless, nouvelle capacité de fine‑tuning",
+      "couverture": 1,
+      "titre": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
+      "source": "AWS Machine Learning",
+      "lien": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
+      "date": "2026-11-19T00:15:58+00:00",
+      "resume": "Amazon SageMaker AI Serverless Model Customization now supports Full Fine-Tuning (FFT). This post explores when FFT outperforms LoRA across key benchmarks, examines the spectral properties of model weight matrices behind the quality gap, shares practical hyperparameter tuning guidelines, and shows h",
+      "titre_fr": "Full Fine‑Tuning (FFT) sur SageMaker : personnalisation de modèles AI serverless"
+    }
+  ],
+  "articles_notes": 36,
+  "liens_google": 11,
+  "videos": {
+    "statut": "sans_cle",
+    "elements": [],
+    "message": "Ajoute une clé YOUTUBE_API_KEY dans .env pour activer les vidéos."
+  },
+  "podcasts": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "OpenWebUI + Ollama : Stop paying for ChatGPT with this New, Free and Easy Alternative.",
+        "source": "AICodeKing",
+        "lien": "https://podcasts.apple.com/us/podcast/openwebui-ollama-stop-paying-for-chatgpt-with-this-new/id6826122006?i=1000797739815&uo=4",
+        "date": "2026-11-19T07:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c4/14/f2/c414f28b-3844-7c29-6275-52e1899d27dc/mza_10632969051345290169.jpg/160x160bb.jpg",
+        "duree_min": 7,
+        "extrait": "",
+        "description": "Présentation d'OpenWebUI et Ollama comme alternatives gratuites à ChatGPT, permettant d’héberger localement des modèles IA."
+      },
+      {
+        "titre": "Host all your AI at one place Locally",
+        "source": "AICodeKing",
+        "lien": "https://podcasts.apple.com/us/podcast/host-all-your-ai-at-one-place-locally/id6826122006?i=1000799778980&uo=4",
+        "date": "2026-11-19T06:31:15+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/76/d0/d3/76d0d38f-3477-fa9d-1797-769bdf767527/mza_7765451603098865101.jpg/160x160bb.jpg",
+        "duree_min": 12,
+        "extrait": "",
+        "description": "Guide pour centraliser tous ses agents IA sur une machine locale, facilitant la gestion et le déploiement."
+      },
+      {
+        "titre": "Best AI Builder for a Small Shop’s Reorder Board: Base44, Not a Full Inventory System",
+        "source": "AI Builds It: Easy Coding Tools",
+        "lien": "https://podcasts.apple.com/us/podcast/best-ai-builder-for-a-small-shops-reorder-board/id1895238721?i=1000802875725&uo=4",
+        "date": "2026-11-19T06:06:51+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7a/fb/dd/7afbdd1e-5d7a-cc08-bb42-09b859de1c32/mza_8195893842090739961.jpg/160x160bb.jpg",
+        "duree_min": 8,
+        "extrait": "Read the full article: Best AI Builder for a Small Shop’s Reorder Board: Base44, Not a Full Inventory System Discover more at AI Builds It: Easy Coding Tools Excerpt: Best AI Builder for a Small Shop’s Reorder Board: Base44, Not a Full Inventory Sys",
+        "description": "Démonstration d'un constructeur IA (Base44) adapté à la création d'un tableau de réapprovisionnement pour une petite boutique."
+      },
+      {
+        "titre": "Nov 19 · KPMG tests more than 100 AI agents in a parallel audit",
+        "source": "The DAIly — the Jump Daily AI podcast",
+        "lien": "https://podcasts.apple.com/us/podcast/nov-19-kpmg-tests-more-than-100-ai-agents-in-a-parallel-audit/id6830641736?i=1000802864043&uo=4",
+        "date": "2026-11-19T05:16:53+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2c/ee/73/2cee7397-3f15-38f1-f667-f4a5c121042a/mza_16032449985549127516.jpg/160x160bb.jpg",
+        "duree_min": 7,
+        "extrait": "The DAIly is the daily artificial intelligence podcast from Jump Daily, the AI news outlet that checks every story against 2+ sources: what changes for people, businesses and leaders, in five minutes. Made with AI: agentic presenter (AI, not a real per",
+        "description": "Analyse de la phase de test de plus de 100 agents IA par KPMG dans le cadre d’un audit parallèle."
+      },
+      {
+        "titre": "Ep 12 · Midday Update: Wednesday, November 18, 2026",
+        "source": "ACN · AI Coding News",
+        "lien": "https://podcasts.apple.com/us/podcast/ep-12-midday-update-wednesday-november-18-2026/id6834673859?i=1000802866140&uo=4",
+        "date": "2026-11-19T02:18:19+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1d/b3/36/1db3363c-4815-919a-2916-08b5724a099e/mza_11412927109281359048.jpg/160x160bb.jpg",
+        "duree_min": 3,
+        "extrait": "Hackers hijack Microsoft's AI agent toolkit on PyPI. AI scanners find critical flaws in Nginx. And Anthropic weighs a bigger IPO. Microsoft's agent toolkit hijacked on PyPIAI scanners find critical flaws in NginxAnthropic weighs a bigger IPO, CNBC repor",
+        "description": "Actualités du jour : détournement du toolkit d’agents IA de Microsoft sur PyPI, failles critiques dans Nginx, et perspectives d’IPO d’Anthropic."
+      },
+      {
+        "titre": "Can ChatGPT now write in your own templates? OpenAI says yes. Plus how to onboard an AI agent like a new hire",
+        "source": "AI Industry Report",
+        "lien": "https://podcasts.apple.com/us/podcast/can-chatgpt-now-write-in-your-own-templates-openai/id6790021778?i=1000802785699&uo=4",
+        "date": "2026-11-18T20:48:17+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/78/ad/41/78ad417e-99f8-2ca4-a1a9-c13a4a42789c/mza_11336599369499161699.png/160x160bb.jpg",
+        "duree_min": 3,
+        "extrait": "OpenAI says its newest model now follows the templates you give it. In this episode: • OpenAI says its new model follows your own templates. One catch in its own testing matters. • xAI's accounting team runs five AI bots. Their three-week onboardi",
+        "description": "OpenAI annonce que son dernier modèle suit les modèles fournis par l'utilisateur, avec un focus sur l’intégration d’agents IA comme nouveaux employés."
+      },
+      {
+        "titre": "Ep 11 · Morning Brief: Wednesday, November 18, 2026",
+        "source": "ACN · AI Coding News",
+        "lien": "https://podcasts.apple.com/us/podcast/ep-11-morning-brief-wednesday-november-18-2026/id6834673859?i=1000802766882&uo=4",
+        "date": "2026-11-18T18:20:55+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1d/b3/36/1db3363c-4815-919a-2916-08b5724a099e/mza_11412927109281359048.jpg/160x160bb.jpg",
+        "duree_min": 3,
+        "extrait": "Microsoft has launched its own coding model. Replit sends agent swarms after a goal. Devin's new bots own outcomes, not tasks. And GitHub details a protocol for agent sessions across devices. Microsoft launches its own coding modelReplit launches Missio",
+        "description": "Microsoft lance son propre modèle de codage, Replit utilise des essaims d’agents pour atteindre des objectifs, et GitHub dévoile un protocole d’agent multi‑appareils."
+      },
+      {
+        "titre": "Who Decides When to Stop? Agents, Hackers and Nvidia (Nov 18, 2026)",
+        "source": "AI Unraveled: Enterprise Strategy, Agentic Systems, Daily AI News, ChatGPT, Gemini, Claude, DeepSeek",
+        "lien": "https://podcasts.apple.com/us/podcast/who-decides-when-to-stop-agents-hackers-and-nvidia/id1684415169?i=1000802753856&uo=4",
+        "date": "2026-11-18T17:10:38+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/08/5c/32085c37-d9c8-522d-d8f2-b18c639d6155/mza_14393870635540883511.jpg/160x160bb.jpg",
+        "duree_min": 27,
+        "extrait": "[AI DAILY NEWS RUNDOWN] Today's question: who decides when to stop? GPT-6.2 lands to rough reviews after one tester's coding job ran for eleven days and finished nothing, the FBI says AI attack agents reach privileged access in under three hours, Satya",
+        "description": "Discussion sur la gouvernance des agents IA, les risques de hack et les enjeux autour de Nvidia, avec un focus sur les limites d’utilisation des agents."
+      },
+      {
+        "titre": "Anthropic, le bien commun privatisé ? | S02E09",
+        "source": "AI Engineering Podcast",
+        "lien": "https://podcasts.apple.com/us/podcast/anthropic-le-bien-commun-privatis%C3%A9-s02e09/id1877957479?i=1000802719020&uo=4",
+        "date": "2026-11-18T14:23:37+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5f/f8/63/5ff86368-729e-c95c-f419-71e6305c1011/mza_1858269153863533879.png/160x160bb.jpg",
+        "duree_min": 32,
+        "extrait": "Christophe et Julien reviennent sur l’affaire qui secoue Nvidia et Jensen Huang, puis décortiquent la gouvernance d’Anthropic dévoilée avant son IPO : le Long-Term Benefit Trust, les donations d’actions et ce que cela dit du rôle des entrepris",
+        "description": "Décryptage de la gouvernance d’Anthropic avant son IPO, incluant le Long‑Term Benefit Trust et les donations d’actions."
+      },
+      {
+        "titre": "GPT-6.2 Astra lands, Nvidia's $115B quarter — AI News Nov 18",
+        "source": "AI Engineering Briefing: Daily AI News for Software Engineers",
+        "lien": "https://podcasts.apple.com/us/podcast/gpt-6-2-astra-lands-nvidias-%24115b-quarter-ai-news-nov-18/id6817748791?i=1000802700978&uo=4",
+        "date": "2026-11-18T12:44:23+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/a6/64/4ba66456-334f-7aff-3f96-6b1ffaf487b1/mza_4141795612631486120.jpg/160x160bb.jpg",
+        "duree_min": 10,
+        "extrait": "- OpenAI ships GPT-6.2 Astra and Sol: cheaper, stronger, and the first model rated High for self-improvement risk - Nvidia Q3: $115.84B revenue, data center $107.6B, Q4 guide $130B, Rubin NVL72 shipping - Microsoft Ignite: seven MAI models, Code 2 in Gi",
+        "description": "Annonce du modèle GPT‑6.2 Astra, ses performances, ainsi que les résultats financiers récents de Nvidia et les nouveautés de Microsoft Ignite."
+      }
+    ]
+  }
+}

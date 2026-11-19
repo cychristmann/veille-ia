@@ -1,18 +1,15 @@
 ---
 type: community
-members: 5
+members: 2
 ---
 
 # Zhao Liying
 
-**Members:** 5 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Veille Chine 2026-11-15  Éthique, société et relations homme‑machine]] - document - veilles/veille-ia-cn-2026-11-15-t5.md
-- [[亚洲日报 (Asia Daily)]] - concept - veilles/veille-ia-cn-2026-11-15-t5.md
-- [[智源社区 (BAAI Community)]] - concept - veilles/veille-ia-cn-2026-11-15-t5.md
-- [[汽车之家 (Autohome)]] - concept - veilles/veille-ia-cn-2026-11-15-t5.md
-- [[网易新闻 (NetEase News)]] - concept - veilles/veille-ia-cn-2026-11-15-t5.md
+- [[Deploying AI into Workplaces What Leaders Need to Know]] - document - veilles/veille-ia-us-2026-11-16-t3.md
+- [[Veille États-Unis 2026-11-16  Éducation, formation et environnement professionnel]] - document - veilles/veille-ia-us-2026-11-16-t3.md
 
 ## Live Query (requires Dataview plugin)
 

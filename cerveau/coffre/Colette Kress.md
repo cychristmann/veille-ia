@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-15-1.md"
 type: "concept"
-community: "Veille Chine 2026-11-12 : Anthropic et concurrence"
+community: "复旦发展研究院"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-12__Anthropic_et_concurrence
+  - community/复旦发展研究院
 ---
 
 # Colette Kress
@@ -14,4 +14,4 @@ tags:
 - [[Dossier Scandale Nvidia]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__Anthropic_et_concurrence
+#graphify/concept #graphify/EXTRACTED #community/复旦发展研究院

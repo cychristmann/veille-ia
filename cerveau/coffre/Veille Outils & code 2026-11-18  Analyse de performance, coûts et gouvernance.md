@@ -12,6 +12,6 @@ tags:
 
 ## Connections
 - [[Claude Code]] - `references` [EXTRACTED]
-- [[Codex]] - `references` [EXTRACTED]
+- [[OpenAI]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Claude_Code

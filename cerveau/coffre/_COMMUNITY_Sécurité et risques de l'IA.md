@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Sécurité et risques de l'IA
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Veille Chine 2026-11-15  Éducation, formation et talents IA]] - document - veilles/veille-ia-cn-2026-11-15-t4.md
-- [[山东商务职业学院]] - concept - veilles/veille-ia-cn-2026-11-15-t4.md
-- [[广东“AI智能体”数字人才培训计划]] - concept - veilles/veille-ia-cn-2026-11-15-t4.md
+- [[Elvis Presley Music Rights Owners]] - code - veilles/veille-ia-us-2026-11-08-t2.md
+- [[Eminem Music Rights Owners]] - code - veilles/veille-ia-us-2026-11-08-t2.md
+- [[Feuilleton Suno AI poursuivi]] - document - feuilletons/f-0002.md
+- [[Suno AI]] - code - veilles/veille-ia-us-2026-11-08-t2.md
 
 ## Live Query (requires Dataview plugin)
 

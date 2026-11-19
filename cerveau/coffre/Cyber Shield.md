@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-18-2.md"
 type: "concept"
-community: "Wuhan University of Science and Technology"
+community: "Qwen3.8"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Wuhan_University_of_Science_and_Technology
+  - community/Qwen38
 ---
 
 # Cyber Shield
 
-#graphify/concept #graphify/EXTRACTED #community/Wuhan_University_of_Science_and_Technology
+#graphify/concept #graphify/EXTRACTED #community/Qwen38

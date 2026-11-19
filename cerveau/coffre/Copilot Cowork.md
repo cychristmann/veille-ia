@@ -1,16 +1,16 @@
 ---
 source_file: "dossiers/2026-11-18-1.md"
 type: "concept"
-community: "Copilot"
+community: "Microsoft"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Copilot
+  - community/Microsoft
 ---
 
 # Copilot Cowork
 
 ## Connections
-- [[Copilot]] - `conceptually_related_to` [EXTRACTED]
+- [[Microsoft]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Copilot
+#graphify/concept #graphify/EXTRACTED #community/Microsoft

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-17-t4.md"
 type: "document"
-community: "AWS Budgets"
+community: "Opus 5.5"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AWS_Budgets
+  - community/Opus_55
 ---
 
 # Veille Chine 2026-11-17 (T4)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Huawei Mate 90]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AWS_Budgets
+#graphify/document #graphify/EXTRACTED #community/Opus_55

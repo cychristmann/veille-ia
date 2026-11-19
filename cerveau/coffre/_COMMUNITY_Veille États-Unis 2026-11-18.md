@@ -64,7 +64,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_OpenAI_1]]
+- 2 edges to [[_COMMUNITY_OpenAI]]
 - 1 edge to [[_COMMUNITY_Nvidia]]
 - 1 edge to [[_COMMUNITY_Microsoft]]
 

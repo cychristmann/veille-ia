@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-08-t3.md"
 type: "document"
-community: "OpenAI"
+community: "Anthropic"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/OpenAI
+  - community/Anthropic
 ---
 
 # Veille France 2026-11-08 : Régulation, politique et enjeux sociétaux
@@ -14,4 +14,4 @@ tags:
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/OpenAI
+#graphify/document #graphify/EXTRACTED #community/Anthropic

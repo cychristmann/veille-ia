@@ -1,17 +1,16 @@
 ---
 type: community
-members: 4
+members: 3
 ---
 
 # Military AI Center (Rennes)
 
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[AI麦可 (AI Maike)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
-- [[Veille Chine 2026-11-16  Applications sectorielles]] - document - veilles/veille-ia-cn-2026-11-16-t3.md
-- [[豆包工作 (Doubao Work)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
-- [[豆包工作台 (Doubao Workbench)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
+- [[AI Agents]] - concept - veilles/veille-ia-us-2026-11-12-t2.md
+- [[Veille États-Unis 2026-11-12  Applications industrielles et commerciales de l'IA]] - document - veilles/veille-ia-us-2026-11-12-t6.md
+- [[Veille États-Unis 2026-11-12  Régulation, politiques et protestations liées à l'IA]] - document - veilles/veille-ia-us-2026-11-12-t2.md
 
 ## Live Query (requires Dataview plugin)
 

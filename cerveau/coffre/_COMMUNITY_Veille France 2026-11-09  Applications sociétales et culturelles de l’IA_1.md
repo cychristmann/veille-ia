@@ -56,11 +56,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
+- 2 edges to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière_1]]
 - 1 edge to [[_COMMUNITY_Microsoft]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-09  Applications sociétales et culturelles de l’IA]]
 - 1 edge to [[_COMMUNITY_Apple]]
-- 1 edge to [[_COMMUNITY_OpenAI_1]]
-- 1 edge to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière]]
+- 1 edge to [[_COMMUNITY_OpenAI]]
 
 ## Top bridge nodes
 - [[Veille France 2026-11-15]] - degree 18, connects to 4 communities

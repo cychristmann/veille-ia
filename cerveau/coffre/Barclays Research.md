@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-13-2.md"
 type: "concept"
-community: "Veille France 2026-11-12 : Marchés financiers et investissements IA"
+community: "Veille Chine 2026-11-19 : Régulation & Gouvernance IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-12__Marchés_financiers_et_investissements_IA
+  - community/Veille_Chine_2026-11-19__Régulation__Gouvernance_IA
 ---
 
 # Barclays Research
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Chinese Robotics Industry]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-12__Marchés_financiers_et_investissements_IA
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-19__Régulation__Gouvernance_IA

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t4.md"
 type: "document"
-community: "Veille France 2026-11-09 : Applications sociétales et culturelles de l’IA"
+community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-09__Applications_sociétales_et_culturelles_de_lIA
+  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
 ---
 
 # Veille France 2026-11-18 (T4)
@@ -15,4 +15,4 @@ tags:
 - [[Mistral AI]] - `references` [EXTRACTED]
 - [[Rejouis]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-09__Applications_sociétales_et_culturelles_de_lIA
+#graphify/document #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière

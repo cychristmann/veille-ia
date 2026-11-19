@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-14-t6.md"
 type: "code"
-community: "Veille États-Unis 2026-11-14 : Impact Social, Éthique et Travail"
+community: "Nanjing University of Aeronautics and Astronautics"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-14__Impact_Social_Éthique_et_Travail
+  - community/Nanjing_University_of_Aeronautics_and_Astronautics
 ---
 
 # CVS Health
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-14]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Impact_Social_Éthique_et_Travail
+#graphify/code #graphify/EXTRACTED #community/Nanjing_University_of_Aeronautics_and_Astronautics

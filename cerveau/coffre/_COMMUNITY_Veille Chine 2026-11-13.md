@@ -1,42 +1,34 @@
 ---
 type: community
-members: 42
+members: 33
 ---
 
 # Veille Chine 2026-11-13
 
-**Members:** 42 nodes
+**Members:** 33 nodes
 
 ## Members
-- [[4RISE]] - code - veilles/veille-ia-us-2026-11-13-t1.md
 - [[ADA Space]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
 - [[AI Market Trends]] - concept - veilles/veille-ia-cn-2026-11-17-t3.md
-- [[AI Memory Tools]] - code - veilles/veille-ia-us-2026-11-13-t1.md
 - [[Anshi China]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
 - [[Apollo Go (萝卜快跑)]] - concept - veilles/veille-ia-cn-2026-11-12-t1.md
 - [[Baidu]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
 - [[Baidu Maps]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
 - [[Baidu World 2026]] - concept - veilles/veille-ia-cn-2026-11-12-t1.md
 - [[ChangXin Memory Technologies (长鑫科技)]] - concept - veilles/veille-ia-cn-2026-11-17-t3.md
-- [[Cisco]] - code - veilles/veille-ia-us-2026-11-08-t1.md
-- [[Digital Networks Act]] - code - veilles/veille-ia-us-2026-11-13-t1.md
 - [[Embodied AI (具身智能)]] - concept - veilles/veille-ia-cn-2026-11-12-t1.md
 - [[GreatWall Robotics]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
 - [[Guoxing Aerospace]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
 - [[Indiana University]] - concept - veilles/veille-ia-us-2026-11-10-t2.md
 - [[Intelligent Organization (智能组织)]] - concept - veilles/veille-ia-cn-2026-11-12-t1.md
 - [[MEOMURU]] - code - veilles/veille-ia-fr-2026-11-15-t6.md
-- [[Meta]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
-- [[Muse]] - concept - veilles/veille-ia-fr-2026-11-14-t2.md
+- [[Meta]] - concept - dossiers/2026-11-18-2.md
 - [[Muse AI Agent]] - concept - veilles/veille-ia-us-2026-11-09-t3.md
 - [[Muse AI assistant]] - concept - veilles/veille-ia-us-2026-11-08-t4.md
 - [[Muse Ember]] - code - veilles/veille-ia-us-2026-11-13-t1.md
 - [[Omdia]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
-- [[Penguin Solutions]] - code - veilles/veille-ia-us-2026-11-13-t1.md
 - [[RISC-V]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
 - [[Robin Li]] - concept - veilles/veille-ia-cn-2026-11-12-t1.md
-- [[Salesforce]] - code - veilles/veille-ia-us-2026-11-13-t1.md
-- [[Sino Biological]] - code - veilles/veille-ia-us-2026-11-13-t1.md
 - [[Star Compute]] - concept - feuilletons/f-0015.md
 - [[Star-Compute Project]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
 - [[Suno]] - code - veilles/veille-ia-fr-2026-11-15-t6.md
@@ -47,7 +39,6 @@ members: 42
 - [[Veille Chine 2026-11-13]] - document - veilles/veille-ia-cn-2026-11-13-t6.md
 - [[Veille Chine 2026-11-17  Marché, financement et régulation]] - document - veilles/veille-ia-cn-2026-11-17-t3.md
 - [[Veille États-Unis 2026-11-09  Nouveaux modèles et avancées technologiques]] - document - veilles/veille-ia-us-2026-11-09-t3.md
-- [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - document - veilles/veille-ia-us-2026-11-13-t1.md
 - [[Zhang Qiuming]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
 - [[Zhipu]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
 
@@ -59,20 +50,22 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_SpaceX]]
-- 3 edges to [[_COMMUNITY_OpenAI_1]]
-- 3 edges to [[_COMMUNITY_Nvidia]]
-- 3 edges to [[_COMMUNITY_Veille États-Unis 2026-11-12]]
-- 2 edges to [[_COMMUNITY_Alibaba]]
-- 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-12  IA dans le commerce et le divertissement]]
-- 1 edge to [[_COMMUNITY_Débats à Saint-Tropez]]
+- 3 edges to [[_COMMUNITY_Anthropic]]
+- 3 edges to [[_COMMUNITY_SpaceX]]
+- 2 edges to [[_COMMUNITY_Veille Outils & code 2026-11-17]]
+- 2 edges to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Anthropic_1]]
+- 1 edge to [[_COMMUNITY_OpenAI]]
+- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
+- 1 edge to [[_COMMUNITY_AMD]]
 - 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_Tencent]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-12  Déploiement et infrastructure IA]]
 
 ## Top bridge nodes
 - [[Veille Chine 2026-11-13]] - degree 17, connects to 5 communities
-- [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - degree 9, connects to 4 communities
-- [[Meta]] - degree 14, connects to 2 communities
+- [[Meta]] - degree 14, connects to 5 communities
 - [[Veille Chine 2026-11-17  Marché, financement et régulation]] - degree 7, connects to 2 communities
 - [[AI Market Trends]] - degree 6, connects to 2 communities
+- [[Suno]] - degree 4, connects to 1 community

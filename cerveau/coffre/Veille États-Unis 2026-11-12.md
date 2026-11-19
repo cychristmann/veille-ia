@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t7.md"
 type: "document"
-community: "OpenAI"
+community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/OpenAI
+  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
 ---
 
 # Veille États-Unis 2026-11-12
@@ -27,4 +27,4 @@ tags:
 - [[PODCAST Anthropic heads for the ultimate AI benchmark]] - `cites` [EXTRACTED]
 - [[US and China are failing the same AI race, only differently]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/OpenAI
+#graphify/document #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière

@@ -1,0 +1,1023 @@
+{
+  "region": "us",
+  "genere_a": "2026-11-19T08:19:01.479815+01:00",
+  "heures": 24,
+  "nombre_demande": 50,
+  "nombre_articles": 50,
+  "synthese": "La veille du jour montre un secteur de l'intelligence artificielle en pleine effervescence financière, avec d'importantes levées de fonds et plusieurs introductions en bourse. Parallèlement, la régulation fait l'objet de vifs débats, notamment aux États‑Unis où le président Trump s'oppose à toute contrainte globale. L'IA se déploie largement dans la santé, l'agriculture, le commerce et l'éducation, tandis que les besoins en infrastructure se traduisent par une multiplication des datacentres et des puces spécialisées. Enfin, les enjeux éthiques et de sécurité restent au cœur des préoccupations, entre craintes de bulles spéculatives et risques d'abus technologique.",
+  "verification": {
+    "problemes": [],
+    "synthese_originale": "La veille du jour montre un secteur de l'intelligence artificielle en pleine effervescence financière, avec d'importantes levées de fonds et plusieurs introductions en bourse. Parallèlement, la régulation fait l'objet de vifs débats, notamment aux États‑Unis où le président Trump s'oppose à toute contrainte globale. L'IA se déploie largement dans la santé, l'agriculture, le commerce et l'éducation, tandis que les besoins en infrastructure se traduisent par une multiplication des datacentres et des puces spécialisées. Enfin, les enjeux éthiques et de sécurité restent au cœur des préoccupations, entre craintes de bulles spéculatives et risques d'abus technologique."
+  },
+  "sources_en_echec": [],
+  "flux_lus": {
+    "TechCrunch": [
+      20,
+      12
+    ],
+    "The Verge": [
+      10,
+      8
+    ],
+    "Wired": [
+      10,
+      4
+    ],
+    "Ars Technica": [
+      20,
+      1
+    ],
+    "MIT Technology Review": [
+      10,
+      2
+    ],
+    "ZDNET": [
+      25,
+      4
+    ],
+    "Engadget": [
+      20,
+      1
+    ],
+    "CNBC": [
+      30,
+      9
+    ],
+    "The New York Times": [
+      41,
+      3
+    ],
+    "The Information": [
+      20,
+      10
+    ],
+    "Cisco Blogs": [
+      9,
+      2
+    ],
+    "24/7 Wall St.": [
+      100,
+      8
+    ],
+    "SC Media": [
+      10,
+      0
+    ],
+    "SiliconANGLE": [
+      30,
+      22
+    ],
+    "The Guardian (IA)": [
+      20,
+      8
+    ],
+    "The Decoder": [
+      10,
+      8
+    ],
+    "MarkTechPost": [
+      10,
+      1
+    ],
+    "Bloomberg Technology": [
+      20,
+      13
+    ],
+    "The Wall Street Journal (Tech)": [
+      40,
+      11
+    ],
+    "CASRAI": [
+      50,
+      6
+    ],
+    "markets.businessinsider.com": [
+      20,
+      3
+    ],
+    "Amazon Web Services (AWS)": [
+      100,
+      5
+    ],
+    "Mashable": [
+      100,
+      1
+    ],
+    "Fortune": [
+      10,
+      4
+    ],
+    "PYMNTS.com": [
+      10,
+      6
+    ],
+    "Startup Fortune": [
+      10,
+      3
+    ],
+    "Benzinga": [
+      25,
+      9
+    ],
+    "GeekWire": [
+      35,
+      2
+    ],
+    "TechTarget": [
+      10,
+      9
+    ],
+    "Crypto Briefing": [
+      30,
+      17
+    ],
+    "Google Actualités": [
+      100,
+      100
+    ]
+  },
+  "themes": [
+    {
+      "nom": "Financement et mouvements de marché",
+      "resume": "De nombreux titres annoncent des levées de fonds, des introductions en bourse et des acquisitions majeures dans le secteur de l'IA, notamment les IPO d'Anthropic, les investissements de Dreamteam, les acquisitions de Palo Alto et les paris de grandes firmes comme Coatue et Amazon.",
+      "articles": [
+        {
+          "note": 9,
+          "motif": "Levée de 107,3 Md$ d'Anthropic, événement capital du secteur IA",
+          "couverture": 1,
+          "titre": "Anthropic Raises $107.3 Billion in Watershed AI Debut",
+          "source": "Bloomberg Technology",
+          "lien": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-raises-107-3-billion-in-watershed-ai-debut-video",
+          "date": "2026-11-19T06:39:26+00:00",
+          "resume": "Anthropic and its seven co-founders raised a record $107.3 billion in an upsized IPO and private placement, becoming the first frontier AI lab to tap public markets for the development of thinking machines. The debut marks a watershed moment for both AI and global financial markets that have become ",
+          "titre_fr": "Anthropic lève 107,3 milliards de dollars lors de son introduction Watershed IA"
+        },
+        {
+          "note": 8,
+          "motif": "Partenariat innovant sur des modèles IA de biologie du cancer, impact fort",
+          "couverture": 1,
+          "titre": "Noetik partners with Memorial Sloan Kettering on AI cancer-biology world models",
+          "source": "Dealroom",
+          "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWG9xQmNHVmJvMjhMYmZTblZrNFEyWVNOOGNZeWFRcWFrM0RrT2xUeWl4enlWWFhuN1ZnbkREZnRXenFvWVh0bXVNejNkbzBWS0hYM2FhM2ZqUnNyLU5oT2JtcE44eEhFVFNiNjI0RFNwd2lOWG5JMVB2dThvMldPNERnQjNqdWlBa1pkZDZ3QjRHWUo3aTI0aHhfY05EMTdnS3BzMFo5NzhOTTBPZUpZOGFJSQ?oc=5",
+          "date": "2026-11-19T07:13:30+00:00",
+          "resume": "",
+          "titre_fr": "Noetik s’associe à Memorial Sloan Kettering pour des modèles mondiaux d’IA en biologie du cancer"
+        },
+        {
+          "note": 8,
+          "motif": "Sortie Gemini 4 Neon, avancée technique majeure",
+          "couverture": 1,
+          "titre": "Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index",
+          "source": "MarkTechPost",
+          "lien": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
+          "date": "2026-11-19T06:52:26+00:00",
+          "resume": "Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens. It scores 61 on the AA Intelligence Index and ranks #1 on AA’s Coding Agent Index. The post Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index appeared first on MarkTechPost .",
+          "titre_fr": "Google DeepMind lance Gemini 4 Neon : 1 M de contexte, n° 1 du classement AA Coding Agent"
+        },
+        {
+          "note": 8,
+          "motif": "Lenovo +48 % CA IA, indicateur fort de demande",
+          "couverture": 1,
+          "titre": "Lenovo posts 48% revenue jump on AI-related sales, beating estimates",
+          "source": "Reuters",
+          "lien": "https://www.msn.com/en-ca/news/other/lenovo-posts-48-revenue-jump-on-ai-related-sales-beating-estimates/ar-AA2hKzLx",
+          "date": "2026-11-19T05:47:00+00:00",
+          "resume": "By Che Pan and Eduardo Baptista BEIJING, Nov 19 (Reuters) - China's Lenovo reported a 48% jump in second-quarter revenue, beating analyst estimates, on strong growth in AI-related sales such as ...",
+          "titre_fr": "Lenovo affiche une hausse de 48 % du chiffre d’affaires grâce aux ventes liées à l’IA, dépassant les prévisions"
+        },
+        {
+          "note": 7,
+          "motif": "Anticorps anti-obésité conçu par IA, avancée biotech notable",
+          "couverture": 1,
+          "titre": "Harbour BioMed files China IND for AI-designed obesity antibody LET003",
+          "source": "Dealroom",
+          "lien": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX1RuaTh1R1JOUHRSMF9UMzFsZ19pRVFoQjhDSDRaZkE3QWVldlBiZ2UtY1FCU2QxeVZsN0tsZnJYRHRlMm5hZ2JIb0ZmNk94RGViNXJzSllXT2pHVE40aWRIRjBoLTBIZTFtTDZ4Y3ZLUGNVNUMwaXJSd0lBanFWYS1sRXBPWTk0cHNWSlhNb1RVMjE2SGU4S0wxNTZBMzhKUGZfS0lSdw?oc=5",
+          "date": "2026-11-19T07:13:30+00:00",
+          "resume": "",
+          "titre_fr": "Harbour BioMed dépose un IND en Chine pour l’anticorps anti-obésité conçu par IA LET003"
+        },
+        {
+          "note": 6,
+          "motif": "Levée de fonds importante pour un CRM natif IA, impact secteur",
+          "couverture": 1,
+          "titre": "Dreamteam Raises $53M to Challenge Salesforce and HubSpot With AI-Native CRM",
+          "source": "AI Insider",
+          "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWFc2ZVdHbF9UVEViWG5sdEZXaEdoRXFwd3BZWmFHdGtCeGlxa3dHLVRMVXpOck5QM19wOVRaMm9IdmxRLXd5XzQzZXAzdHZOZjQ0Z1BrejlZUTBnSXo3S0Z6TU14aHd4aEFvU1RHREJCcGRqbVVxZE1LaElWam9pZjJsX2JOcUZFTHFpcXlJUHlCMElDd0EwTEJoaEgybGEzTWRHMEN4TkJmOXJvOVFhX28wZw?oc=5",
+          "date": "2026-11-19T07:03:19+00:00",
+          "resume": "",
+          "titre_fr": "Dreamteam lève 53 M$ pour concurrencer Salesforce et HubSpot avec un CRM natif IA"
+        },
+        {
+          "note": 5,
+          "motif": "Options Anthropic, suivi de marché mais pas transformation",
+          "couverture": 1,
+          "titre": "Anthropic options set to begin on Nasdaq Monday amid strong demand expectations",
+          "source": "Crypto Briefing",
+          "lien": "https://cryptobriefing.com/anthropic-options-set-to-begin-on-nasdaq-monday-amid-strong-demand-expectations/",
+          "date": "2026-11-19T06:17:30+00:00",
+          "resume": "Anthropic's options debut on Nasdaq signals robust investor confidence, potentially boosting AI sector investments and market valuations. The post Anthropic options set to begin on Nasdaq Monday amid strong demand expectations appeared first on Crypto Briefing .",
+          "titre_fr": "Les options Anthropic débuteront lundi à la Bourse de Nasdaq, face à de fortes attentes de demande"
+        },
+        {
+          "note": 5,
+          "motif": "Stratégie IPO Anthropic, information notable",
+          "couverture": 1,
+          "titre": "In Going Public, Anthropic Seeks to Dominate the AI Race",
+          "source": "The Dispatch",
+          "lien": "https://thedispatch.com/article/anthropic-ipo-ai-race-amodei/",
+          "date": "2026-11-19T06:04:41+00:00",
+          "resume": "The AI developer intends to fund its massive computing needs without ceding key decisions to its shareholders.",
+          "titre_fr": "En entrant en bourse, Anthropic veut dominer la course à l’IA"
+        },
+        {
+          "note": 5,
+          "motif": "Prix IPO Anthropic, donnée de marché",
+          "couverture": 1,
+          "titre": "Anthropic IPO Priced Above Range as AI Sentiment Weakens",
+          "source": "FOREX.com",
+          "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkVVcjQ5ZG1Wd2VZRFk2RzFSZmMxRVVNZFdIS3hNNkxVZWFHdFBkS1FVNy1WTVMtaWRUMUFfYjNKWmt2NW5Kcm9TRFlWVWl0OEpsZ2NIQmJCcm1kTzhYbzBqdm9nUUh2WmRYaTh1bFVaRkx2dkNVLUsyUWwxVDl6NVFIM2xqTHM1VFdZZzhIT2E4MUp0RzNPVk85Z3NMcl80X1HSAa4BQVVfeXFMT3BjWHo4aHV2cVVoZ19MamtrZXJKbi0wRWV4WWVkWURaWnZRazBMVlhsa19zOXVUVW44WGRmRkF0NHVQMl9sckxZLWhjNHV4ZGNQelNMbjIzYXp2SVVzbEhxbW5zdk9yT3dLRVBaNWQ5SFpvWDg1T3Izay1uVzhpOFY0RVBjOW40TFVRdlB5eHkyLXhTclUtSlVmZnI0cktoZmszVTNvM0JzTlJqa0Jn?oc=5",
+          "date": "2026-11-19T05:58:36+00:00",
+          "resume": "",
+          "titre_fr": "L’IPO d’Anthropic prixé au-dessus de la fourchette alors que le sentiment IA s’affaiblit"
+        }
+      ]
+    },
+    {
+      "nom": "Régulation et politique",
+      "resume": "Les débats autour de la régulation de l'IA sont très présents, avec les prises de position de Trump contre une régulation globale, les avertissements de la Banque centrale et de BlackRock, ainsi que les initiatives législatives aux États‑Unis et en Asie.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Avertissement BlackRock sur régulation IA, influence financière",
+          "couverture": 1,
+          "titre": "BlackRock CEO warns tighter US AI regulations risk recession",
+          "source": "Nikkei Asia",
+          "lien": "https://asia.nikkei.com/editor-s-picks/interview/blackrock-ceo-warns-tighter-us-ai-regulations-risk-recession",
+          "date": "2026-11-19T06:06:00+00:00",
+          "resume": "TOKYO -- Larry Fink, the CEO of U.S. asset management giant BlackRock, said Thursday that tighter artificial intelligence regulations in the U.S. \"may even put the U.S. economy into a recession\" and ...",
+          "titre_fr": "Le PDG de BlackRock avertit que des régulations IA plus strictes aux États‑Unis risquent de provoquer une récession"
+        },
+        {
+          "note": 7,
+          "motif": "Watchdog coréen demande rapports IA, régulation financière",
+          "couverture": 2,
+          "titre": "South Korean Watchdog Asks Financial Firms to Report AI Exposure",
+          "source": "Bloomberg.com",
+          "lien": "https://www.bloomberg.com/news/articles/2026-11-19/south-korean-watchdog-asks-financial-firms-to-report-ai-exposure",
+          "date": "2026-11-19T05:22:00+00:00",
+          "resume": "South Korea’s financial watchdog has asked major domestic firms to disclose their exposure to the artificial intelligence industry as worries grow over a sector that’s spurred massive investments and ...",
+          "titre_fr": "Le régulateur sud‑coréen demande aux établissements financiers de déclarer leur exposition à l’IA"
+        },
+        {
+          "note": 6,
+          "motif": "Fed s'inquiète d'un effondrement IA, impact macro",
+          "couverture": 1,
+          "titre": "Worried about an AI bust? So is the Federal Reserve.",
+          "source": "The Washington Post",
+          "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0t0NWstc3N2V0F2RE9fWlJDYVNTY3lINGFtUHhsQUE1cDU2SkdYc3E0M3hvNlpuMXlRQmxjdFdwVzMtbGQ4bXg3QjdzWU9sYmVNangtcmFxV1NvQWQ2TG5xRV9WVl9XTGpubUd2dHh3MUNsRlBDXzduNXVTOENfa0tTdmtrOWpWT2g0ZV9mYVV5ckpzNXJxaFBHRkxvQ2U5YjhiZVBqZHRBeVFQM2JnMQ?oc=5",
+          "date": "2026-11-19T06:03:24+00:00",
+          "resume": "",
+          "titre_fr": "Inquiétude d’une bulle IA ? La Réserve fédérale partage la même crainte"
+        },
+        {
+          "note": 4,
+          "motif": "Opinion sur datacenters UK, peu de nouveauté",
+          "couverture": 1,
+          "titre": "Ram through datacentres no one wants and hope the AI bubble never bursts: that’s the UK’s growth plan | George Monbiot",
+          "source": "The Guardian (IA)",
+          "lien": "https://www.theguardian.com/commentisfree/2026/nov/19/uk-growth-plan-datacentres-ai-bubble-big-tech",
+          "date": "2026-11-19T06:00:19+00:00",
+          "resume": "The government doesn’t know what they are going to be used for, but that’s beside the point. Their real purpose is to sustain the share price of big tech It should have the status of an economic law: the sectors a government does most to promote in the name of growth are the sectors most likely to t",
+          "titre_fr": "Frapper les data‑centres que personne ne veut et espérer que la bulle IA n’éclate jamais : le plan de croissance du Royaume‑Uni – George Monbiot"
+        },
+        {
+          "note": 3,
+          "motif": "Déclaration politique, peu centrée sur un fait IA concret",
+          "couverture": 1,
+          "titre": "Trump Argues Against Global Regulation of AI",
+          "source": "Bloomberg Technology",
+          "lien": "https://www.bloomberg.com/news/videos/2026-11-19/trump-argues-against-global-regulation-of-ai-video",
+          "date": "2026-11-19T07:03:30+00:00",
+          "resume": "“Americans invented super intelligence.” President Donald Trump has warned that any “robust” regulation of AI, or super intelligence as he terms it, would “stifle” development — even as the US imposes new restrictions on access to advanced AI technology. (Source: Bloomberg)",
+          "titre_fr": "Trump s’oppose à une régulation mondiale de l’IA"
+        },
+        {
+          "note": 3,
+          "motif": "Déclaration politique, peu de nouveauté IA",
+          "couverture": 1,
+          "titre": "Trump tells APEC in Shenzhen the US opposes ‘globalist regulation’ of AI",
+          "source": "CASRAI",
+          "lien": "https://casrai.org/news/trump-apec-shenzhen-opposes-globalist-ai-regulation-2026",
+          "date": "2026-11-19T06:54:17+00:00",
+          "resume": "Trump told the APEC summit in Shenzhen on 19 November that the US opposes any ‘globalist regulation’ of AI, as new chip-access rules take shape.",
+          "titre_fr": "Trump déclare à l’APEC de Shenzhen que les États‑Unis s’opposent à la « régulation globaliste » de l’IA"
+        }
+      ]
+    },
+    {
+      "nom": "Applications sectorielles",
+      "resume": "L'IA est appliquée à la santé (cancer, obesity, prescription), à l'agriculture, au commerce de détail, au bien‑être et à l'éducation, montrant son intégration croissante dans des domaines variés.",
+      "articles": [
+        {
+          "note": 6,
+          "motif": "Levée de fonds d'une startup cybersécurité IA, pertinence sectorielle",
+          "couverture": 1,
+          "titre": "Israeli cybersecurity startup Vero raises $11M to secure enterprise AI",
+          "source": "Ynetnews",
+          "lien": "https://www.ynetnews.com/business/article/sjhlifnamg",
+          "date": "2026-11-19T06:27:52+00:00",
+          "resume": "Founded by two Unit 8200 veterans, Vero Security develops technology to monitor AI tools, enforce security policies and prevent unauthorized actions by autonomous agents; funding round led by TLV Part ...",
+          "titre_fr": "La startup israélienne de cybersécurité Vero lève 11 M$ pour sécuriser l’IA en entreprise"
+        },
+        {
+          "note": 6,
+          "motif": "IA améliore efficacité agricole en Chine, impact environnemental",
+          "couverture": 1,
+          "titre": "Artificial Intelligence Enhances Agricultural Ecological Efficiency in Chinese Provinces",
+          "source": "Bioengineer.org",
+          "lien": "https://bioengineer.org/artificial-intelligence-enhances-agricultural-ecological-efficiency-in-chinese-provinces/",
+          "date": "2026-11-19T06:17:32+00:00",
+          "resume": "A study of Chinese provinces indicates that artificial intelligence improves agricultural ecological efficiency through enhanced precision management, green finance development, and industrial ...",
+          "titre_fr": "L’intelligence artificielle améliore l’efficacité écologique agricole dans les provinces chinoises"
+        },
+        {
+          "note": 6,
+          "motif": "Pilot d'IA pour prescriptions, innovation médicale",
+          "couverture": 1,
+          "titre": "Utah lets AI renew—and in one pilot write—prescriptions, but federal FDA oversight remains unanswered",
+          "source": "Medical Daily",
+          "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRmVqbVBvLWlqdElzY1BPNG9LUHhxSU9Ub01BeDRibzRadmZDN2huYTh0eGd1RURZVjhxYktIOEUtek02UGRaSEdoRFhpY1hkV3dUOVZxbFdGcVRhSUxkbkRPbU1QT0FlTk9MWHFGU0VSdC1MYVQyVW5jSnlnd2RjXzlyUUNZQzlU?oc=5",
+          "date": "2026-11-19T05:54:44+00:00",
+          "resume": "",
+          "titre_fr": "L’Utah autorise l’IA à renouveler – et dans un projet pilote à rédiger – des ordonnances, mais la surveillance de la FDA reste incertaine"
+        },
+        {
+          "note": 5,
+          "motif": "Lancement produit bien-être multimodal IA, intérêt sectoriel",
+          "couverture": 1,
+          "titre": "Aurix Network Unveils Multimodal AI Wellness Vision, Beginning with EYEMOTION AI",
+          "source": "The Arizona Republic",
+          "lien": "https://www.desmoinesregister.com/press-release/story/155768/aurix-network-unveils-multimodal-ai-wellness-vision-beginning-with-eyemotion-ai/",
+          "date": "2026-11-19T06:57:09+00:00",
+          "resume": "Aurix Network plans to expand beyond eye-region analysis to gait, movement, skin-related signals, and other inputs for ...",
+          "titre_fr": "Aurix Network dévoile une vision bien‑être multimodale IA, à commencer par EYEMOTION IA"
+        },
+        {
+          "note": 5,
+          "motif": "Synthèse pour investisseurs, pertinence moyenne",
+          "couverture": 1,
+          "titre": "Tempus AI: 3 Key Takeaways for Long-Term Investors",
+          "source": "Yahoo Finance",
+          "lien": "https://www.fool.com/earnings/takeaways/2026/11/19/tempus-ai-3-key-takeaways-for-long-term-investors/",
+          "date": "2026-11-19T06:55:00+00:00",
+          "resume": "Positive adjusted EBITDA signals the diagnostic platform has crossed a profitability threshold where test volume growth flows directly to earnings.",
+          "titre_fr": "Tempus IA : 3 points clés pour les investisseurs à long terme"
+        },
+        {
+          "note": 5,
+          "motif": "Débat IA dans l'hôtellerie, intérêt sectoriel",
+          "couverture": 1,
+          "titre": "Hospitality executives debate AI's impact on distribution",
+          "source": "PhocusWire",
+          "lien": "https://www.phocuswire.com/news/distribution/hospitality-executives-debate-ai-impact-distribution-phocuswright-conference-2026",
+          "date": "2026-11-19T06:03:31+00:00",
+          "resume": "Leaders from Hilton, Airbnb and Highgate Hotels explore how AI could affect direct bookings, the role of loyalty and the new economics of hotel distribution.",
+          "titre_fr": "Les dirigeants de l’hôtellerie débattent de l’impact de l’IA sur la distribution"
+        },
+        {
+          "note": 5,
+          "motif": "Relaunch plateforme créateur IA, intérêt niche",
+          "couverture": 1,
+          "titre": "Áslaug Magnúsdóttir Relaunches Tinker Tailor as AI Creator Platform",
+          "source": "The Business of Fashion",
+          "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcGp4M01PeG9qV1ljTHVBdG9GUUlVT21UVVUtdWd2a2d2YzdoRzlxN0RDdDVBaDNVX3BOcWVHTDRXNC1qUktoSFJIQ0NqRTBTMDVPMDZwblNBZThwV2hBOTRyQUl6bTlrbU5CeXhLdUpOWldQWXhadkJYZGNOOExiVDBjQQ?oc=5",
+          "date": "2026-11-19T05:30:00+00:00",
+          "resume": "",
+          "titre_fr": "Áslaug Magnúsdóttir relance Tinker Tailor comme plateforme créatrice IA"
+        },
+        {
+          "note": 4,
+          "motif": "Attitudes jeunes Japonais envers IA compagnon, sociologique",
+          "couverture": 1,
+          "titre": "Young people in Japan more inclined to have AI companion but skeptical of quality",
+          "source": "The Japan Times",
+          "lien": "https://www.japantimes.co.jp/news/2026/11/19/japan/society/ai-companionship-japan-young-people/",
+          "date": "2026-11-19T05:11:00+00:00",
+          "resume": "More young people in Japan are turning to AI as a social companion despite not viewing it as “high quality,” a new study has found.",
+          "titre_fr": "Les jeunes au Japon sont plus enclins à avoir un compagnon IA mais restent sceptiques quant à sa qualité"
+        },
+        {
+          "note": 3,
+          "motif": "Article éducatif local, peu lié à une avancée IA",
+          "couverture": 1,
+          "titre": "Old-school teaching still matters in the age of AI",
+          "source": "The Alpena News",
+          "lien": "https://www.thealpenanews.com/opinion/editorials-and-columns/2026/11/old-school-teaching-still-matters-in-the-age-of-ai/",
+          "date": "2026-11-19T06:35:45+00:00",
+          "resume": "As the 2026 fall semester nears its end, I, like many college professors across the country, am preparing students for their last week of classes after Thanksgiving. I don’t have a final exam in my ...",
+          "titre_fr": "L’enseignement traditionnel reste essentiel à l’ère de l’IA"
+        }
+      ]
+    },
+    {
+      "nom": "Infrastructure et matériel",
+      "resume": "Le besoin en puissance de calcul se traduit par des développements de datacentres, de puces AI, d'extensions de chaîne d'approvisionnement et d'outils de sécurité du code, soulignant la course à l'infrastructure AI.",
+      "articles": [
+        {
+          "note": 9,
+          "motif": "Corée du Sud atteint 1 t $ d'export IA chips, impact macroéconomique",
+          "couverture": 1,
+          "titre": "South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom",
+          "source": "Reuters",
+          "lien": "https://www.msn.com/en-us/news/other/south-korea-becomes-fourth-country-globally-to-hit-1-trillion-exports-on-ai-chip-boom/ar-AA2hKfY3",
+          "date": "2026-11-19T06:29:00+00:00",
+          "resume": "SEOUL, Nov 19 (Reuters) - South Korea's exports so far for this year have exceeded $1 trillion, driven by a global AI chip boom, making it the fourth country in the world to reach the milestone after ...",
+          "titre_fr": "La Corée du Sud devient le quatrième pays à atteindre 1 billion de dollars d’exportations grâce au boom des puces IA"
+        },
+        {
+          "note": 7,
+          "motif": "NVIDIA renforce chaîne d'approvisionnement IA, enjeu infrastructure majeur",
+          "couverture": 1,
+          "titre": "NVIDIA expands supply chain capacity for AI infrastructure",
+          "source": "Engineering.com",
+          "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTGZCTzJtWHBqMkZidXQ4b2tUdXR0UDFJZV8tTWlrc2Exc0RkX1RlallvZkZWbGVxQm1LTlBFamlFQmo3d2xnczNmaXkyeGRUV0hzVWYwbE1qNlZSVWZ5Rzh6WnFPcFFTUW4wNHI5MmJiaWRTN1hob0dfRjNQRWg4MWxaNnhUTU9DODA4RmlTVW0?oc=5",
+          "date": "2026-11-19T07:02:09+00:00",
+          "resume": "",
+          "titre_fr": "NVIDIA augmente la capacité de sa chaîne d’approvisionnement pour l’infrastructure IA"
+        },
+        {
+          "note": 7,
+          "motif": "Nouvelle plateforme de sécurité code IA, impact sécurité",
+          "couverture": 1,
+          "titre": "Semgrep Introduces Agentic AppSec Platform to Accelerate AI-Driven Code Security",
+          "source": "Cybersecurity Insiders",
+          "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOGFPLUR3RmtvR0R4cl84STBnTVN0NWUyYkQ1algzbGNqeXRtM0JPLVk4WmJSb1VUcUJWRE94WXlLa19vdTNMRF84cTJ5dmpoZ1BPdFlCRHBoZVB5MktIcEExMk5EUnhSTmdBeFB4Tzh1U04zSTQ4X2hyLTlrZ2N6aF9yUGt3YjkyU3dwMDRTd2NtWlI5Sk5ZdjVjUzA1ZEhHN2ZYeko3UGdPR1hrLVJ3alZMRDBfN0w2SnhpTw?oc=5",
+          "date": "2026-11-19T06:45:45+00:00",
+          "resume": "",
+          "titre_fr": "Semgrep introduit une plateforme AppSec agentique pour accélérer la sécurité du code pilotée par IA"
+        },
+        {
+          "note": 7,
+          "motif": "Cisco introduit red‑team IA, avancée sécurité",
+          "couverture": 1,
+          "titre": "Cisco introduces frontier AI red teaming and agent observability",
+          "source": "FutureCIO",
+          "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWFBaQ1BjQU9iTmRpelRZdWViMXVBYjRaSFJ3TDNYQk1GcDNvV2NuYUpkVVdQVE90SFVFdllFUWdhSmZmT2hyMURDRUphWVFfTV9GdXBQOXU1eTU4MU9FUm1FRDBYMEtDMUFFYUJZWEhqMEo2aWZaQTM0eWxDUy1pWGktdkRrdUNZOThWZ0lUTFhFdw?oc=5",
+          "date": "2026-11-19T06:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Cisco lance le red‑team frontière IA et l’observabilité des agents"
+        },
+        {
+          "note": 6,
+          "motif": "Acquisition IA de 4,5 Md$, potentiellement majeure pour Palo Alto",
+          "couverture": 1,
+          "titre": "Palo Alto CEO says $4.5 billion AI acquisition could become bigger than cybersecurity business",
+          "source": "CTech",
+          "lien": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zZzdGeXpoR2syOWNUeDZYUEQ2RU5iSUZYaEpBTHo0X05mQkQyekY3Q0MxaUR6V2M1anhreElPLVc4M1JCUzdvVUtSYzFBRUJucDBuQVN5Nk1LaXVfQUlfTGhoaDJnbkU?oc=5",
+          "date": "2026-11-19T07:04:00+00:00",
+          "resume": "",
+          "titre_fr": "Le PDG de Palo Alto estime que l’acquisition d’IA de 4,5 milliards de dollars pourrait dépasser le secteur de la cybersécurité"
+        },
+        {
+          "note": 5,
+          "motif": "Question d'infrastructure, pertinence modérée pour le secteur IA",
+          "couverture": 1,
+          "titre": "Are DC data centers the solution to AI scale?",
+          "source": "EDN - Voice of the Engineer",
+          "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4TTBraVdkYUQ5Q2xVVTlqRFFleHM4VXpmRVZqY1Z3cGxfbUVXbHZkcXdZZmI5YmlZTHVBQ0t0ZUZGM1psWGpZLV9MR1dkNEJ2dnpjcHI2MnFQcWptQzNFWWxEUENadFMyRkx0YmRHSnJ3SWM?oc=5",
+          "date": "2026-11-19T07:05:46+00:00",
+          "resume": "",
+          "titre_fr": "Les data‑centres de Washington sont-ils la solution à l’échelle de l’IA ?"
+        },
+        {
+          "note": 5,
+          "motif": "Classement Gemini 4, intérêt mais pas rupture",
+          "couverture": 1,
+          "titre": "Gemini 4 Neon: Google Takes Third Place in A.I. Rankings at a Discount",
+          "source": "www.trendingtopics.eu",
+          "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYXVZc0VkUEtWVkE3NXVJTGJIS0FQdDNBdW5qTEMxcGpJajVOaGVFNjh3LXVLNHNLcFVaY09fUkhJS3oySUxZRV9uMEE4QkFMMzJnQU4yM1RWbFU4RVJ0WHZHNnpYdkxEbThTMFVBdzBaMmF1blQxOHVraUN1dk9FNg?oc=5",
+          "date": "2026-11-19T06:28:01+00:00",
+          "resume": "",
+          "titre_fr": "Gemini 4 Neon : Google se classe troisième aux classements IA avec une remise"
+        }
+      ]
+    },
+    {
+      "nom": "Éthique, sécurité et impact sociétal",
+      "resume": "Des préoccupations émergent concernant les bulles spéculatives, la sécurité des modèles, les usages malveillants et les effets sur l'emploi, avec des analyses critiques et des appels à la prudence.",
+      "articles": [
+        {
+          "note": 6,
+          "motif": "IA accélère cybercriminalité, alerte UNODC",
+          "couverture": 1,
+          "titre": "AI Reshapes Cybercrime Faster Than Governments Can Respond, UNODC Expert Says",
+          "source": "The Astana Times",
+          "lien": "https://astanatimes.com/2026/11/ai-reshapes-cybercrime-faster-than-governments-can-respond-unodc-expert-says/",
+          "date": "2026-11-19T05:42:34+00:00",
+          "resume": "Artificial intelligence is making sophisticated cybercrime more accessible, allowing individuals with limited technical skills to carry out attacks once associated with large criminal organizations, ...",
+          "titre_fr": "L’IA transforme la cybercriminalité plus rapidement que les gouvernements ne peuvent réagir, selon un expert de l’UNODC"
+        },
+        {
+          "note": 5,
+          "motif": "Litiges et protestations contre IA en Chine, contexte géopolitique",
+          "couverture": 1,
+          "titre": "AI giants face lawsuits and protests as China bets big",
+          "source": "CoinGeek",
+          "lien": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZUNLMHRRYWc4ODBkdGxDWGRIbzItdlJRYmZEcjhRUzd5b1puaE14TXVzdTZyNkNZOWNNcGR1Rjc3cEYzLUp3SGs2ZXpsemxNWjM5Znp3cWg2VWwwU2JBWXB2bHBLN0w0RnRHNGFqYnBzX3BweGw1Q0dzcXA2S3ozR2xR?oc=5",
+          "date": "2026-11-19T06:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Les géants de l’IA font face à des poursuites et des protestations alors que la Chine mise gros"
+        },
+        {
+          "note": 5,
+          "motif": "Regrets post‑boom IA, réflexion sociétale",
+          "couverture": 1,
+          "titre": "The world embraced the AI boom. Now many are having regrets.",
+          "source": "The Washington Post",
+          "lien": "https://www.msn.com/en-us/money/general/the-world-embraced-the-ai-boom-now-many-are-having-regrets/ar-AA2hGSkk",
+          "date": "2026-11-19T05:31:50+00:00",
+          "resume": "Concerns are growing that immense investment in artificial intelligence won't pay off — just as the Claude developer is poised to go public.",
+          "titre_fr": "Le monde a embrassé le boom IA. Aujourd’hui, beaucoup le regrettent."
+        },
+        {
+          "note": 4,
+          "motif": "Impact culturel de l'IA sur documentaire, plus réflexion que fait",
+          "couverture": 1,
+          "titre": "What Happens When Documentary Makers Sell Their Footage to AI Aggregators?",
+          "source": "Variety",
+          "lien": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRDBLQ2NGbTRnZEJYaDVfbGRnamdDSnlhVXlpdUlENFhtWEFfRi0wNUhEbm8zTlVOSTFBNWlYak1tcUlFR3NFbHpVemFPeGc1eHlOekdzcUxYbFpDY1FUbjNlVVFkb0RzTUFuRXBuRE00TS1qMEhzNzhDTkNHWUNaejA4RHN5MVJfN00yOWxBb0ZSSTNReTBGamZXUGRvUQ?oc=5",
+          "date": "2026-11-19T06:05:00+00:00",
+          "resume": "",
+          "titre_fr": "Que se passe-t‑il quand les réalisateurs vendent leurs images aux agrégateurs d’IA ?"
+        },
+        {
+          "note": 4,
+          "motif": "Politique IA scolaire, anecdote locale",
+          "couverture": 1,
+          "titre": "AISD Writes AI Policy Into the Books",
+          "source": "The Austin Chronicle",
+          "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQSmZnZ1ktSVE3UEc4ZHFXX21PNjEwTWF4b1RrZTBKYjFrVDBVazlybWVHbUw1aGtQd3luaFlwLXZOUDB0YlJKRGlDdzZ0Mm5qanlRQkcyVzF2WVJJVnN5aEhLbXhmeWtRZndVdENoa21NNWMxXzNmMnNOVVozT3c?oc=5",
+          "date": "2026-11-19T06:00:00+00:00",
+          "resume": "",
+          "titre_fr": "AISD inscrit la politique IA dans les statuts"
+        },
+        {
+          "note": 4,
+          "motif": "Procès étudiant, cas isolé d'erreur IA",
+          "couverture": 1,
+          "titre": "Baltimore students sue over AI that allegedly mistook Doritos bag for gun",
+          "source": "Yahoo",
+          "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYWI3cW45ZlhQdXZaMlgzcTE0LUJ4RnpMQ1huZ1NpbDBEQS04STJrZ3U3MGpNRlVEcHpUT3JGdnpTZG5QUW40WDRzY2VITlRVS3ZMaGVNbFdJX3NnWWh1NU51Z0Z0bDRneWNnWlhVd1hoWDdnM0lpblVDeENMdFdwcllOQzV2Qy1SWk5QOQ?oc=5",
+          "date": "2026-11-19T06:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Des élèves de Baltimore poursuivent en justice une IA qui aurait confondu un sac de Doritos avec une arme"
+        },
+        {
+          "note": 4,
+          "motif": "Utilisation IA pour livre enfant, anecdote personnelle",
+          "couverture": 1,
+          "titre": "How I Used AI to Make My Grandson a Children’s Book for Less Than $200",
+          "source": "WSJ",
+          "lien": "https://www.msn.com/en-us/news/other/how-i-used-ai-to-make-my-grandson-a-children-s-book-for-less-than-200/ar-AA2hr9cm",
+          "date": "2026-11-19T05:31:59+00:00",
+          "resume": "I made up the story, and artificial intelligence illustrated it based on images from my grandson’s life. The result: a beautiful 32-page book I’m sure he’ll love.",
+          "titre_fr": "Comment j’ai utilisé l’IA pour créer un livre pour enfants pour mon petit‑fils à moins de 200 $"
+        },
+        {
+          "note": 3,
+          "motif": "Analyse de bulle IA, plus spéculation que fait concret",
+          "couverture": 1,
+          "titre": "AI Bubble Monitor: Does the Collapse of the AI Bubble Lead to a Recession?",
+          "source": "CounterPunch",
+          "lien": "https://www.counterpunch.org/2026/11/19/ai-bubble-monitor-does-the-collapse-of-the-ai-bubble-lead-to-a-recession/",
+          "date": "2026-11-19T06:57:47+00:00",
+          "resume": "The fallout from Nvidia CEO Jensen Huang’s affairs is continuing. While the stories of circular financing were ...",
+          "titre_fr": "Moniteur de bulle IA : l’effondrement de la bulle IA entraîne‑t‑il une récession ?"
+        }
+      ]
+    },
+    {
+      "nom": "Autres articles",
+      "resume": "",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Prévision forte de Edge AI en retail, portée industrielle",
+          "couverture": 1,
+          "titre": "Nearly Half of In-Store Retail Devices to Ship with Edge AI by 2032 as Edge AI Revenue in Retail Surges 6x",
+          "source": "Counterpoint Research",
+          "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQclo1RGxFckd4NFBXaWgtaVBPOVVXQlA0TzIwRlRUbHp6bmROelVCcGVaU054ZUllT2FGblFxYUdIS1BESDRZZHY1MDJVQ2JTdkdTQlp1SU9za3dDV3BXN2NJRUdYWFRfSDJjdnh0RUgwcmRWWEJSMHFyUVhrNnFOMGVwdzZSRXBERl9ScjhhQjAzTmZtaXU5NjdWM05KcFBvcmtkc0VQcG15ME5ZU2xvX1NB?oc=5",
+          "date": "2026-11-19T06:38:26+00:00",
+          "resume": "",
+          "titre_fr": "Près de la moitié des appareils de vente au détail seront livrés avec de l’IA Edge d’ici 2032, les revenus de l’IA Edge dans le commerce de détail explosent 6 fois"
+        },
+        {
+          "note": 6,
+          "motif": "Analyse coût IA, pertinence pour décideurs",
+          "couverture": 1,
+          "titre": "4 places where cutting AI costs is a mistake",
+          "source": "Fast Company",
+          "lien": "https://www.fastcompany.com/91642888/4-places-where-cutting-ai-costs-is-a-mistake",
+          "date": "2026-11-19T06:05:59+00:00",
+          "resume": "Sticking to a budget is prudent, but not when it comes at the expense of the quality and quantity of work your employees produce.",
+          "titre_fr": "4 raisons pour lesquelles réduire les coûts de l’IA est une erreur"
+        },
+        {
+          "note": 6,
+          "motif": "Cibles protéiques IA‑validées, avancée biotech",
+          "couverture": 1,
+          "titre": "Sino Biological introduces AI-trusted and qualified target protein collections for AI-driven discovery",
+          "source": "News-Medical",
+          "lien": "https://www.news-medical.net/news/20261119/Sino-Biological-introduces-AI-trusted-and-qualified-target-protein-collections-for-AI-driven-discovery.aspx",
+          "date": "2026-11-19T05:44:00+00:00",
+          "resume": "As AI accelerates recombinant protein and antibody discovery for therapeutic and diagnostic development, access to well-characterized target proteins is essential for evaluating AI-designed molecules.",
+          "titre_fr": "Sino Biological lance des collections de protéines cibles certifiées IA pour la découverte pilotée par IA"
+        },
+        {
+          "note": 6,
+          "motif": "CEO Replit parle risques IA, perspective industrie",
+          "couverture": 1,
+          "titre": "Replit’s CEO on its stunning turnaround, ‘AI psychosis,’ and the risk Silicon Valley is ignoring",
+          "source": "Fast Company",
+          "lien": "https://www.fastcompany.com/91645039/replits-ceo-on-its-stunning-turnaround-ai-psychosis-and-the-risk-silicon-valley-is-ignoring",
+          "date": "2026-11-19T05:19:13+00:00",
+          "resume": "After years of stagnation, Replit is now valued at $9 billion. CEO Amjad Masad explains what changed—and why he believes cybersecurity is a bigger threat than AI extinction.",
+          "titre_fr": "Le PDG de Replit sur son redressement spectaculaire, la « psychose IA », et le risque que la Silicon Valley ignore"
+        },
+        {
+          "note": 5,
+          "motif": "Epic défend accès IA à ses dossiers, enjeu concurrentiel",
+          "couverture": 1,
+          "titre": "Epic Systems defends competitive practices, promises to let AI access its records",
+          "source": "STAT",
+          "lien": "https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/",
+          "date": "2026-11-19T05:39:59+00:00",
+          "resume": "Executives from Epic, the largest electronics health records vendor, defended its competitive practices during a panel discussion at HLTH.",
+          "titre_fr": "Epic Systems défend ses pratiques concurrentielles et promet d’ouvrir l’accès de l’IA à ses dossiers"
+        },
+        {
+          "note": 5,
+          "motif": "Analyse bénéfices Nokia du gigafactory IA, info sectorielle",
+          "couverture": 1,
+          "titre": "What Is Nokia Oyj (HLSE:NOKIA) Gaining From The AI Gigafactory Northern Push?",
+          "source": "Yahoo Finance",
+          "lien": "https://finance.yahoo.com/technology/ai/articles/nokia-oyj-hlse-nokia-gaining-051748791.html",
+          "date": "2026-11-19T05:17:00+00:00",
+          "resume": "Nokia Oyj (HLSE:NOKIA) has joined Telia and other regional groups to form the AI Gigafactory Northern consortium in Northern Europe. The consortium aims to build distributed AI infrastructure that ...",
+          "titre_fr": "Qu’est‑ce que Nokia Oyj (HLSE:NOKIA) gagne avec la poussée nordique de la gigafactory IA ?"
+        },
+        {
+          "note": 5,
+          "motif": "Plateforme ResearchMonkey IA, offre intéressante",
+          "couverture": 1,
+          "titre": "ResearchMonkey AI Puts More Than 40 Research Tools and Several AI Models Under One Subscription",
+          "source": "markets.businessinsider.com",
+          "lien": "https://markets.businessinsider.com/news/stocks/researchmonkey-ai-puts-more-than-40-research-tools-and-several-ai-models-under-one-subscription-1036781327",
+          "date": "2026-11-19T05:16:25+00:00",
+          "resume": "Students, Academics and Business Analysts Can Summarize, Search and Write From a Single Account, With Paid Plans From $9.99 a ...",
+          "titre_fr": "ResearchMonkey IA regroupe plus de 40 outils de recherche et plusieurs modèles IA sous un même abonnement"
+        },
+        {
+          "note": 4,
+          "motif": "Débat d'experts, plus d'opinion que de fait concret",
+          "couverture": 1,
+          "titre": "Levin, AI experts weigh perils and promise of emerging tech",
+          "source": "The Stanford Daily",
+          "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWjlpdnBMbnlEMk9hS0dQejhPbGJjZXdXOU53b2ZoSW1KYmduWWJWQlFBZGpiODRObENrRE1Hd0N2WFE5V0NuQVFrX2tKMkZITW1fSndvOUo4MlFZR1JmT1V4dDV6WkVoTVkzQnJZX0VndlNEYzBKNWtQN1lFMzRFUjE0cUVBXy1PWU5NYUpiNzkwZVlHNEJsMTdtUTc?oc=5",
+          "date": "2026-11-19T07:11:39+00:00",
+          "resume": "",
+          "titre_fr": "Levin et des experts en IA évaluent les dangers et les promesses des technologies émergentes"
+        },
+        {
+          "note": 3,
+          "motif": "Article sur examen, peu d'enjeux IA",
+          "couverture": 1,
+          "titre": "Suneung was built for a world before AI",
+          "source": "The Korea Herald",
+          "lien": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uU2oxY2U5MlJkWnEyUkxqRjI4WlBOX0dsWVRCTE5KLXBqUmdtQW9FZUpvamsybm13U1V1VEpSbVRTQkt1YUxlUmdmNEthbXdxcU9yQV9WTQ?oc=5",
+          "date": "2026-11-19T06:26:36+00:00",
+          "resume": "",
+          "titre_fr": "Le Suneung était conçu pour un monde d’avant l’IA"
+        },
+        {
+          "note": 3,
+          "motif": "Sondage sur effectif IA, opinion plutôt que fait",
+          "couverture": 1,
+          "titre": "Only 5% of leaders expect AI to hike headcount over the next two years",
+          "source": "Human Resources Director",
+          "lien": "https://www.hcamag.com/au/news/general/only-5-of-leaders-expect-ai-to-hike-headcount-over-the-next-two-years/598012",
+          "date": "2026-11-19T06:04:13+00:00",
+          "resume": "New data from The Conference Board found that just five per cent of 775 international leaders surveyed believe AI will increase overall headcount over the next two years. More than a third (39%) of ...",
+          "titre_fr": "Seulement 5 % des dirigeants s’attendent à ce que l’IA augmente les effectifs dans les deux prochaines années"
+        },
+        {
+          "note": 2,
+          "motif": "Contenu promotionnel, source douteuse",
+          "couverture": 1,
+          "titre": "Even Anthropic doesn’t trust AI to calculate your VAT",
+          "source": "vatcalc.com",
+          "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbzV3eUVQOE1DdkNlLVNNYmlsMHpybG9UdUhVNWstejU0M0FpWi11WEVfY0JkVDFTNjZUY1ZNa2xUXzJaWWdHNjVZWWV5cDNvRENsYzhLVEptUWVTZUhOQmk3aDZKMVRRUGpKN29BbGRQeV9WRWhtblhsbmJ4Q3h3Z09KQXM0eWNNMlZjLQ?oc=5",
+          "date": "2026-11-19T07:00:30+00:00",
+          "resume": "",
+          "titre_fr": "Même Anthropic ne fait pas confiance à l’IA pour calculer votre TVA"
+        }
+      ]
+    }
+  ],
+  "ecartes": [
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "OPINION: For a well-prepared workforce, schools must rethink the kinds of skills that will be useful in a changing economy",
+      "source": "The Hechinger Report",
+      "lien": "https://hechingerreport.org/workforce-preparation-changing-economy/",
+      "date": "2026-11-19T06:00:00+00:00",
+      "resume": "Yet as AI-supported tasks and outputs become increasingly commonplace in virtually every workplace, the conversation is shifting. It’s becoming clear that the best way for today’s K-12 students to “AI ...",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+      "source": "The Guardian (IA)",
+      "lien": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+      "date": "2026-11-19T05:00:18+00:00",
+      "resume": "Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas The world’s datacentres will create 70% more carbon emissions within the next four years as the US and China turn to fossil fuels to power their AI growth agendas, according to the world’s ener",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Coatue Builds $1.8 Billion Salesforce Stake, Its Biggest New Bet, as the Stock Sinks 17%",
+      "source": "24/7 Wall St.",
+      "lien": "https://247wallst.com/investing/2026/11/18/coatue-builds-1-8-billion-salesforce-stake-its-biggest-new-bet-as-the-stock-sinks-17/",
+      "date": "2026-11-19T02:47:06+00:00",
+      "resume": "Coatue's 13F shows a new 8,032,477-share Salesforce stake worth $1.84 billion on September 30, the largest new position in its $54.50 billion portfolio. The stock has fallen 17% since, including a 9.5% drop on November 17, its worst day since May 2024, as software stocks sold off before Anthropic's ",
+      "titre_fr": ""
+    }
+  ],
+  "top": [
+    {
+      "note": 9,
+      "motif": "Levée de 107,3 Md$ d'Anthropic, événement capital du secteur IA",
+      "couverture": 1,
+      "titre": "Anthropic Raises $107.3 Billion in Watershed AI Debut",
+      "source": "Bloomberg Technology",
+      "lien": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-raises-107-3-billion-in-watershed-ai-debut-video",
+      "date": "2026-11-19T06:39:26+00:00",
+      "resume": "Anthropic and its seven co-founders raised a record $107.3 billion in an upsized IPO and private placement, becoming the first frontier AI lab to tap public markets for the development of thinking machines. The debut marks a watershed moment for both AI and global financial markets that have become ",
+      "titre_fr": "Anthropic lève 107,3 milliards de dollars lors de son introduction Watershed IA"
+    },
+    {
+      "note": 9,
+      "motif": "Corée du Sud atteint 1 t $ d'export IA chips, impact macroéconomique",
+      "couverture": 1,
+      "titre": "South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom",
+      "source": "Reuters",
+      "lien": "https://www.msn.com/en-us/news/other/south-korea-becomes-fourth-country-globally-to-hit-1-trillion-exports-on-ai-chip-boom/ar-AA2hKfY3",
+      "date": "2026-11-19T06:29:00+00:00",
+      "resume": "SEOUL, Nov 19 (Reuters) - South Korea's exports so far for this year have exceeded $1 trillion, driven by a global AI chip boom, making it the fourth country in the world to reach the milestone after ...",
+      "titre_fr": "La Corée du Sud devient le quatrième pays à atteindre 1 billion de dollars d’exportations grâce au boom des puces IA"
+    },
+    {
+      "note": 8,
+      "motif": "Partenariat innovant sur des modèles IA de biologie du cancer, impact fort",
+      "couverture": 1,
+      "titre": "Noetik partners with Memorial Sloan Kettering on AI cancer-biology world models",
+      "source": "Dealroom",
+      "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWG9xQmNHVmJvMjhMYmZTblZrNFEyWVNOOGNZeWFRcWFrM0RrT2xUeWl4enlWWFhuN1ZnbkREZnRXenFvWVh0bXVNejNkbzBWS0hYM2FhM2ZqUnNyLU5oT2JtcE44eEhFVFNiNjI0RFNwd2lOWG5JMVB2dThvMldPNERnQjNqdWlBa1pkZDZ3QjRHWUo3aTI0aHhfY05EMTdnS3BzMFo5NzhOTTBPZUpZOGFJSQ?oc=5",
+      "date": "2026-11-19T07:13:30+00:00",
+      "resume": "",
+      "titre_fr": "Noetik s’associe à Memorial Sloan Kettering pour des modèles mondiaux d’IA en biologie du cancer"
+    },
+    {
+      "note": 8,
+      "motif": "Sortie Gemini 4 Neon, avancée technique majeure",
+      "couverture": 1,
+      "titre": "Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index",
+      "source": "MarkTechPost",
+      "lien": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
+      "date": "2026-11-19T06:52:26+00:00",
+      "resume": "Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens. It scores 61 on the AA Intelligence Index and ranks #1 on AA’s Coding Agent Index. The post Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index appeared first on MarkTechPost .",
+      "titre_fr": "Google DeepMind lance Gemini 4 Neon : 1 M de contexte, n° 1 du classement AA Coding Agent"
+    },
+    {
+      "note": 8,
+      "motif": "Lenovo +48 % CA IA, indicateur fort de demande",
+      "couverture": 1,
+      "titre": "Lenovo posts 48% revenue jump on AI-related sales, beating estimates",
+      "source": "Reuters",
+      "lien": "https://www.msn.com/en-ca/news/other/lenovo-posts-48-revenue-jump-on-ai-related-sales-beating-estimates/ar-AA2hKzLx",
+      "date": "2026-11-19T05:47:00+00:00",
+      "resume": "By Che Pan and Eduardo Baptista BEIJING, Nov 19 (Reuters) - China's Lenovo reported a 48% jump in second-quarter revenue, beating analyst estimates, on strong growth in AI-related sales such as ...",
+      "titre_fr": "Lenovo affiche une hausse de 48 % du chiffre d’affaires grâce aux ventes liées à l’IA, dépassant les prévisions"
+    }
+  ],
+  "articles_notes": 50,
+  "liens_google": 21,
+  "videos": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "Anthropic IPO Euphoria Won't Last? David Roche Warns AI Bubble Could Burst | David Roche | ET Now",
+        "source": "ET Now",
+        "lien": "https://www.youtube.com/watch?v=kQanz5SOx04",
+        "date": "2026-11-19T03:30:09Z",
+        "image": "https://i.ytimg.com/vi/kQanz5SOx04/mqdefault.jpg",
+        "extrait": "Get 90 days of ET Now Pro, absolutely free. Activate your trial here: https://onelink.to/j47577 Anthropic's blockbuster IPO may fuel ...",
+        "description": "Analyse de l'IPO d'Anthropic et mise en garde contre une possible bulle de l'IA."
+      },
+      {
+        "titre": "Anthropic’s record-breaking IPO puts investor confidence in AI to the test",
+        "source": "Al Jazeera English",
+        "lien": "https://www.youtube.com/watch?v=KRXhtrAGDUg",
+        "date": "2026-11-19T02:50:16Z",
+        "image": "https://i.ytimg.com/vi/KRXhtrAGDUg/mqdefault.jpg",
+        "extrait": "AI firm Anthropic, maker of Claude, sets an $83 share price for a blockbuster IPO that could raise over $50bn despite heavy losses ...",
+        "description": "Reportage sur le record d'IPO d'Anthropic et son impact sur la confiance des investisseurs dans l'IA."
+      },
+      {
+        "titre": "What is Anthropic really worth? The $1.6 trillion AI IPO test",
+        "source": "CGTN America",
+        "lien": "https://www.youtube.com/watch?v=APBsgoYeff8",
+        "date": "2026-11-19T01:00:33Z",
+        "image": "https://i.ytimg.com/vi/APBsgoYeff8/mqdefault.jpg",
+        "extrait": "Anthropic is preparing for a potentially record-breaking Nasdaq IPO, with a valuation approaching $1.5 trillion. But as the AI giant ...",
+        "description": "Évaluation de la valeur réelle d'Anthropic à l'approche d'une IPO potentiellement historique."
+      },
+      {
+        "titre": "Gemini 4 Neon Is Google’s Most Powerful AI Model! BEATS Opus 5.5 & GPT-6.2 (Fully Tested)",
+        "source": "WorldofAI",
+        "lien": "https://www.youtube.com/watch?v=R0rXSJmymTc",
+        "date": "2026-11-18T23:59:15Z",
+        "image": "https://i.ytimg.com/vi/R0rXSJmymTc/mqdefault.jpg",
+        "extrait": "Your whole AI workflow in one place, from $10/month: Mammouth → https://mammouth.ai Google has officially released Gemini 4 ...",
+        "description": "Test complet du nouveau modèle Gemini 4 de Google, comparé aux modèles Opus 5.5 et GPT‑6.2."
+      },
+      {
+        "titre": "Meet GPT-6.2 Astra and Sol: OpenAI's Latest AI Models",
+        "source": "Kernel Cast",
+        "lien": "https://www.youtube.com/watch?v=fJSG5hKAzUg",
+        "date": "2026-11-18T19:30:01Z",
+        "image": "https://i.ytimg.com/vi/fJSG5hKAzUg/mqdefault.jpg",
+        "extrait": "OpenAI has launched two new AI models: GPT-6.2 Astra and GPT-6.2 Sol But what's the difference, and which one should you ...",
+        "description": "Présentation des nouveaux modèles GPT‑6.2 Astra et Sol d'OpenAI et leurs différences."
+      },
+      {
+        "titre": "Three things to know about Anthropic's IPO",
+        "source": "The Economist",
+        "lien": "https://www.youtube.com/watch?v=EMeA5LaKNh0",
+        "date": "2026-11-18T18:08:59Z",
+        "image": "https://i.ytimg.com/vi/EMeA5LaKNh0/mqdefault.jpg",
+        "extrait": "AI company Anthropic's IPO is one of the biggest in history. It's growing rapidly and its chatbot, Claude, is a leader for coding tasks ...",
+        "description": "Synthèse de trois points clés à connaître sur l'IPO d'Anthropic et son importance dans le secteur IA."
+      },
+      {
+        "titre": "Lisa Su: Anthropic Got Its Model Running on AMD in One Weekend",
+        "source": "iConnections",
+        "lien": "https://www.youtube.com/watch?v=IR45gTHw3pw",
+        "date": "2026-11-18T18:01:06Z",
+        "image": "https://i.ytimg.com/vi/IR45gTHw3pw/mqdefault.jpg",
+        "extrait": "AMD Chair and CEO Lisa Su on how one Anthropic engineer used Claude to get its model up and running on AMD over a ...",
+        "description": "Interview de Lisa Su sur la mise en place du modèle d'Anthropic sur les GPU AMD en un week‑end."
+      },
+      {
+        "titre": "CYBER WARNING: AI attacks could look like 'ROUTINE' failures",
+        "source": "Fox News",
+        "lien": "https://www.youtube.com/watch?v=n8dgLh0ZBj8",
+        "date": "2026-11-18T18:00:04Z",
+        "image": "https://i.ytimg.com/vi/n8dgLh0ZBj8/mqdefault.jpg",
+        "extrait": "Cybersecurity expert and former FBI operative Eric O'Neill joins 'Fox & Friends' to discuss the nationwide tech outages affecting ...",
+        "description": "Avertissement sur des cyber‑attaques potentielles liées à l'IA qui pourraient se manifester comme des pannes routinières."
+      },
+      {
+        "titre": "The AI Deal That Could Crush OpenAI and Anthropic's Valuations #ai #podcast",
+        "source": "The MAD Podcast with Matt Turck",
+        "lien": "https://www.youtube.com/watch?v=wUztfYS_Fhg",
+        "date": "2026-11-18T17:00:40Z",
+        "image": "https://i.ytimg.com/vi/wUztfYS_Fhg/mqdefault.jpg",
+        "extrait": "Ryan Greenblatt on the episode of the MAD Podcast.",
+        "description": "Discussion du podcast MAD sur une transaction qui pourrait faire baisser les valorisations d'OpenAI et d'Anthropic."
+      },
+      {
+        "titre": "Why the Anthropic IPO Could Matter for the Entire AI Supply Chain",
+        "source": "Galaxy",
+        "lien": "https://www.youtube.com/watch?v=dnhzkOIxhhE",
+        "date": "2026-11-18T17:00:24Z",
+        "image": "https://i.ytimg.com/vi/dnhzkOIxhhE/mqdefault.jpg",
+        "extrait": "Beimnet Abebe of Galaxy Trading on why the Anthropic IPO matters for the AI trade. 🎙️Full Galaxy Brains episode out now.",
+        "description": "Analyse de l'impact de l'IPO d'Anthropic sur l'ensemble de la chaîne d'approvisionnement de l'IA."
+      }
+    ]
+  },
+  "podcasts": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "Grok goes rogue, AI hunts keys, toolmakers' burden",
+        "source": "BrokeIt - Daily AI News",
+        "lien": "https://podcasts.apple.com/us/podcast/grok-goes-rogue-ai-hunts-keys-toolmakers-burden/id6791701583?i=1000802869878&uo=4",
+        "date": "2026-11-19T08:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0d/f2/fb/0df2fb16-91b5-b6c7-2ce4-82c09dfe0b18/mza_15979446727675092343.png/160x160bb.jpg",
+        "duree_min": 7,
+        "extrait": "AI Agents Are Now Hunting Your AI App's API Keys — Attacker-controlled AI agents are now actively scanning internet-exposed AI applications like LiteLLM and Dify to steal API keys for their own use. thehackernews.com The Toolmakers' Burden — OpenAI'",
+        "description": "Les agents d'IA malveillants scrutent les applications exposées sur internet pour voler des clés API et les réutiliser."
+      },
+      {
+        "titre": "Nvidia Says Move On, Huang Stays Out",
+        "source": "Will AI Kill Us? | Daily AI News.",
+        "lien": "https://podcasts.apple.com/us/podcast/nvidia-says-move-on-huang-stays-out/id6814083513?i=1000802875637&uo=4",
+        "date": "2026-11-19T07:04:43+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b7/5e/03/b75e03b7-08bd-b3eb-281d-643a80de5afc/mza_14608303104408848323.jpg/160x160bb.jpg",
+        "duree_min": 6,
+        "extrait": "Nvidia's interim CEO held her first all-hands since Jensen Huang's resignation, telling staff to move forward, while the board chair reaffirmed Huang won't be coming back. We look at what this leadership story actually tells us about AI infrastructure s",
+        "description": "Nvidia fait face à une transition de direction avec le départ de Jensen Huang et la prise en main de son CEO intérimaire, soulevant des questions sur l'avenir de l'entreprise."
+      },
+      {
+        "titre": "AI News — November 19, 2026: Anthropic Prices at $83 Above Range, Google Neon Drops Same Day",
+        "source": "ai0.news — Daily AI News",
+        "lien": "https://podcasts.apple.com/us/podcast/ai-news-november-19-2026-anthropic-prices-at-%2483-above/id1894308348?i=1000802875529&uo=4",
+        "date": "2026-11-19T07:00:07+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/12/42/8b/12428bde-fc7f-9994-05f1-9648d1d9de5a/mza_12911909025965045186.png/160x160bb.jpg",
+        "duree_min": 5,
+        "extrait": "Anthropic priced its record $1.5T IPO at $83 per share as Google launched Gemini 4 Neon to rival Claude Opus 5.5 and Microsoft claimed 96% frontier AI performance at 5% the cost.",
+        "description": "Anthropic fixe le prix de son IPO à 83 $ l'action tandis que Google lance Gemini 4 Neon pour concurrencer Claude Opus 5.5, et Microsoft annonce une performance de pointe à 96 % pour 5 % du coût."
+      },
+      {
+        "titre": "Isomorphic's $5B raise, LeCun's AI doubts, and chatbots pushing fake shops - AIskimIQ Daily Brief - 2026-11-19",
+        "source": "AIskimIQ — Daily AI News Brief",
+        "lien": "https://podcasts.apple.com/us/podcast/isomorphics-%245b-raise-lecuns-ai-doubts-and-chatbots/id1892679825?i=1000802869995&uo=4",
+        "date": "2026-11-19T06:10:40+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/b4/b6/52b4b6ba-51ab-28e0-7ed7-f886bdae3544/mza_14638392413648219659.jpg/160x160bb.jpg",
+        "duree_min": 8,
+        "extrait": "Isomorphic Labs raised $5 billion in a Series C round, while Yann LeCun argued that AI that memorized the internet isn't truly intelligent and called recent AI-driven cyberattacks a brief transitional phase. Security concerns also grew, as ChatGPT and G",
+        "description": "Isomorphic Labs lève 5 milliards de dollars, Yann LeCun remet en cause l'intelligence des IA qui ne font que mémoriser le web et commente les cyber‑attaques récentes comme une phase transitoire."
+      },
+      {
+        "titre": "Oregon Sues OpenAI for Two Billion. AI Mode Gets Temporary Threads. Banks Shift AI Liability. Data Centers Drive Emissions Rise.",
+        "source": "AI News Daily - Your Daily AI Briefing in 5 Minutes",
+        "lien": "https://podcasts.apple.com/us/podcast/oregon-sues-openai-for-two-billion-ai-mode-gets-temporary/id1792810626?i=1000802853087&uo=4",
+        "date": "2026-11-19T04:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/98/79/87/987987b2-89a1-a3a0-1715-735f343eb38b/mza_11377502211998301814.jpg/160x160bb.jpg",
+        "duree_min": 5,
+        "extrait": "The AI news for November 19th, 2026 Here are the details of the day's selected top stories: Oregon Sues OpenAI for $2.035 Billion Over Harm to Children Source: https://dailyai.com/2026/11/oregon-sues-openai-for-2-035-billion-over-chatgpt-child-safety/",
+        "description": "L'Oregon poursuit OpenAI pour 2,035 milliards de dollars à cause de préjudices causés aux enfants, tandis que des nouveautés comme les fils temporaires d'AI Mode et les émissions de CO₂ des data‑centers sont abordées."
+      },
+      {
+        "titre": "The AI Trust Deficit and Infrastructure Vulnerability",
+        "source": "The AI Podcast with Fexingo: Artificial Intelligence, Machine Learning, and Modern AI Models",
+        "lien": "https://podcasts.apple.com/us/podcast/the-ai-trust-deficit-and-infrastructure-vulnerability/id1896798905?i=1000802850130&uo=4",
+        "date": "2026-11-19T03:27:18+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0c/62/28/0c622800-17b6-901a-7ada-0799bc1382c1/mza_2648742803634348767.png/160x160bb.jpg",
+        "duree_min": 8,
+        "extrait": "Microsoft CEO Satya Nadella recently flagged that critical infrastructure remains largely unpatchable against modern AI-driven cyberattacks. With Nvidia and other chip stocks tumbling over the last week, we explore how the race for faster inference is c",
+        "description": "Satya Nadella alerte sur la vulnérabilité des infrastructures critiques face aux cyber‑attaques alimentées par l'IA, alors que les actions Nvidia et d'autres puces chutent."
+      },
+      {
+        "titre": "AI Robotics and the Bitter Lesson: What to Watch in 2027",
+        "source": "AI News & Strategy Daily with Nate B. Jones",
+        "lien": "https://podcasts.apple.com/us/podcast/ai-robotics-and-the-bitter-lesson-what-to-watch-in-2027/id1877109372?i=1000802842163&uo=4",
+        "date": "2026-11-19T01:57:26+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/36/41/0336416c-82aa-ffd9-3f28-017d1f805fab/mza_9644797144455674303.jpeg/160x160bb.jpg",
+        "duree_min": 12,
+        "extrait": "What's really happening when a coding agent starts operating a robot? A general AI coding agent ran a real robot through 24 of 25 trials with no extra robot training. The common story is that better robots need ever more specialized robotics models, but",
+        "description": "Un agent de codage IA contrôle un robot réel sur 24 essais sur 25, illustrant les avancées et les défis de l'intégration robotique IA pour 2027."
+      },
+      {
+        "titre": "I Like Money Bro - Global Chip Games",
+        "source": "Intelligent Machines (Audio)",
+        "lien": "https://podcasts.apple.com/us/podcast/i-like-money-bro-global-chip-games/id326120877?i=1000802851170&uo=4",
+        "date": "2026-11-19T03:24:39+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/73/e8/dd/73e8ddb8-45d8-4e36-b085-3bc682eebc3a/mza_10049294359728907591.jpg/160x160bb.jpg",
+        "duree_min": 161,
+        "extrait": "Bestselling author Daniel Suarez joins the conversation to reveal how his near-future thrillers keep predicting real-world tech—offering a striking perspective on AI, drone warfare, and the line between caution and optimism in innovation. 'Bring Bac",
+        "description": "L'auteur Daniel Suarez discute de la façon dont ses thrillers anticipent les technologies réelles, notamment l'IA, la guerre par drones et les dilemmes éthiques associés."
+      },
+      {
+        "titre": "Nvidia Slumps, Anthropic IPO Looms and Markets Test Key Levels",
+        "source": "Closing Bell",
+        "lien": "https://podcasts.apple.com/us/podcast/nvidia-slumps-anthropic-ipo-looms-and-markets-test/id1612281974?i=1000802847615&uo=4",
+        "date": "2026-11-19T03:08:56+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/59/c8/8159c83b-ac6f-8ea9-3a95-b5b80278c60a/mza_13196264999670080110.jpg/160x160bb.jpg",
+        "duree_min": 44,
+        "extrait": "November 18, 2026; 4pm: Mike Santoli breaks down a mixed market session as Nvidia extends its slide, the Dow drops sharply, and investors focus on Fed risk, AI valuations, cyber demand, housing weakness, and the pending Anthropic IPO. Guests discuss whe",
+        "description": "Analyse du marché où Nvidia poursuit sa chute, l'IPO d'Anthropic se profile, et les investisseurs scrutent les risques liés à la Fed, aux valorisations IA et à la faiblesse du logement."
+      },
+      {
+        "titre": "[11/19 00:00 UTC] Google releases Gemini 4 Neon / Anthropic prices its IPO…",
+        "source": "AI News Flash",
+        "lien": "https://podcasts.apple.com/us/podcast/11-19-00-00-utc-google-releases-gemini-4-neon-anthropic/id1873892136?i=1000802822757&uo=4",
+        "date": "2026-11-19T00:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/1f/b6/b91fb627-f6de-9e77-e614-ef36393402d6/mza_13059665318982617720.png/160x160bb.jpg",
+        "duree_min": 3,
+        "extrait": "AI News Flash for November 19, 2026 at 00:00 UTC. Topics: 1. Google releases Gemini 4 Neon https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ https://artificialanalysis.ai/articles/gemini-4-neon-int",
+        "description": "Google dévoile Gemini 4 Neon et Anthropic annonce les prix de son IPO, marquant deux mouvements majeurs dans le paysage concurrentiel des grands modèles de langage."
+      }
+    ]
+  }
+}

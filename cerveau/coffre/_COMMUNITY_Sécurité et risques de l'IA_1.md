@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Sécurité et risques de l'IA
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Sécurité et risques de l'IA]] - concept - veilles/veille-ia-fr-2026-11-14-t4.md
-- [[Veille France 2026-11-14  Sécurité, risques et fraudes]] - document - veilles/veille-ia-fr-2026-11-14-t4.md
+- [[Fed (Réserve fédérale)]] - concept - veilles/veille-ia-fr-2026-11-14-t5.md
+- [[IA et système financier]] - concept - veilles/veille-ia-fr-2026-11-14-t5.md
+- [[Veille France 2026-11-14  Autres articles]] - document - veilles/veille-ia-fr-2026-11-14-t5.md
 
 ## Live Query (requires Dataview plugin)
 

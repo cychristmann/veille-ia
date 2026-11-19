@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t1.md"
 type: "concept"
-community: "DeepSeek V4.1 Pro"
+community: "ABB"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/DeepSeek_V41_Pro
+  - community/ABB
 ---
 
 # HiPerGuard 34,5 kV
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[ABB]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/DeepSeek_V41_Pro
+#graphify/concept #graphify/EXTRACTED #community/ABB

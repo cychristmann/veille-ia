@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0026.md"
 type: "document"
-community: "Alibaba"
+community: "Tencent"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Alibaba
+  - community/Tencent
 ---
 
 # Feuilleton: Alibaba Qwen4-Max
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Alibaba]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Alibaba
+#graphify/document #graphify/EXTRACTED #community/Tencent

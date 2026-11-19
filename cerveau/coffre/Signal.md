@@ -1,16 +1,17 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-11-t4.md"
-type: "code"
-community: "Alibaba"
+source_file: "veilles/veille-ia-fr-2026-11-19-t4.md"
+type: "concept"
+community: "Gemini 4 Hydrogen"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/Alibaba
+  - community/Gemini_4_Hydrogen
 ---
 
 # Signal
 
 ## Connections
 - [[Google DeepMind]] - `references` [EXTRACTED]
+- [[Muse]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Alibaba
+#graphify/concept #graphify/EXTRACTED #community/Gemini_4_Hydrogen

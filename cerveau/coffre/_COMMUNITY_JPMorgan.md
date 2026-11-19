@@ -16,7 +16,7 @@ members: 16
 - [[Kling AI]] - concept - veilles/veille-ia-cn-2026-11-18-t2.md
 - [[MarkTechPost]] - concept - feuilletons/f-0031.md
 - [[Pedestal AI]] - concept - veilles/veille-ia-cn-2026-11-18-t2.md
-- [[SID AI]] - concept - veilles/veille-ia-us-2026-11-18-t1.md
+- [[SID AI]] - concept - feuilletons/f-0031.md
 - [[SID-2]] - concept - feuilletons/f-0031.md
 - [[SID-2 Agentic Search Model]] - concept - veilles/veille-ia-dev-2026-11-18-t1.md
 - [[Veille Chine 2026-11-18  Financement et marché]] - document - veilles/veille-ia-cn-2026-11-18-t2.md
@@ -33,11 +33,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-12]]
+- 1 edge to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_OpenAI]]
 - 1 edge to [[_COMMUNITY_Goldman Sachs]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-15]]
 - 1 edge to [[_COMMUNITY_Microsoft]]
-- 1 edge to [[_COMMUNITY_Copilot]]
-- 1 edge to [[_COMMUNITY_OpenAI_1]]
 
 ## Top bridge nodes
 - [[Veille États-Unis 2026-11-18 (T1)]] - degree 4, connects to 2 communities

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t1.md"
 type: "concept"
-community: "Alibaba"
+community: "AMD"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Alibaba
+  - community/AMD
 ---
 
 # Zen 6 架构
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AMD 霄龙嵌入式 9006 系列 SP7]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Alibaba
+#graphify/concept #graphify/EXTRACTED #community/AMD

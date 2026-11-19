@@ -1,15 +1,18 @@
 ---
 type: community
-members: 2
+members: 5
 ---
 
 # Nubia
 
-**Members:** 2 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[AI Ethics, Security and Regulation]] - concept - veilles/veille-ia-cn-2026-11-14-t4.md
-- [[Veille Chine 2026-11-14  Éthique, sécurité et réglementation IA]] - document - veilles/veille-ia-cn-2026-11-14-t4.md
+- [[Dossier  Alliance européenne pour une IA souveraine]] - document - dossiers/2026-11-19-3.md
+- [[IA souveraine  pourquoi l’Europe doit accélérer]] - document - dossiers/2026-11-19-3.md
+- [[Nokia et Telia lancent un consortium]] - document - dossiers/2026-11-19-3.md
+- [[Nokia projette une gigafactory]] - document - dossiers/2026-11-19-3.md
+- [[OVHcloud  infrastructure IA]] - document - dossiers/2026-11-19-3.md
 
 ## Live Query (requires Dataview plugin)
 

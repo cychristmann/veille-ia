@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Edge0-145B
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Edge0-145B]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
+- [[Veille Chine 2026-11-12  Contenus et médias IA]] - document - veilles/veille-ia-cn-2026-11-12-t5.md
+- [[Zhao Liying]] - concept - veilles/veille-ia-cn-2026-11-12-t5.md
 
 ## Live Query (requires Dataview plugin)
 

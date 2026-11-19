@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-17-t2.md"
 type: "concept"
-community: "Fable 5.2"
+community: "GPT-6 Astra"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Fable_52
+  - community/GPT-6_Astra
 ---
 
 # datasette
@@ -14,4 +14,4 @@ tags:
 - [[Fable 5.2]] - `references` [EXTRACTED]
 - [[datasette-maplibre]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Fable_52
+#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra

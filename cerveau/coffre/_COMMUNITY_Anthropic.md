@@ -1,35 +1,31 @@
 ---
 type: community
-members: 22
+members: 18
 ---
 
 # Anthropic
 
-**Members:** 22 nodes
+**Members:** 18 nodes
 
 ## Members
-- [[Agent Name Service]] - concept - veilles/veille-ia-cn-2026-11-10-t5.md
-- [[Apple HomeView]] - concept - veilles/veille-ia-cn-2026-11-15-t7.md
-- [[Ascend 950DT Chip]] - concept - veilles/veille-ia-cn-2026-11-18-t1.md
-- [[Cadence]] - concept - veilles/veille-ia-us-2026-11-15-t3.md
-- [[China Telecom]] - concept - veilles/veille-ia-cn-2026-11-18-t1.md
-- [[Guangdong Tianyima Information Industry Co., Ltd.]] - concept - veilles/veille-ia-cn-2026-11-18-t1.md
-- [[HarmonyOS]] - concept - veilles/veille-ia-cn-2026-11-15-t7.md
-- [[Huawei]] - concept - veilles/veille-ia-cn-2026-11-18-t1.md
-- [[Linux Foundation]] - concept - veilles/veille-ia-cn-2026-11-10-t5.md
-- [[Robo.ai]] - concept - veilles/veille-ia-cn-2026-11-18-t3.md
-- [[SK Hynix]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
-- [[Samsung]] - concept - veilles/veille-ia-us-2026-11-15-t3.md
-- [[Shanghai Universities]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
-- [[Veille Chine 2026-11-10  Écosystèmes, plateformes et outils IA]] - document - veilles/veille-ia-cn-2026-11-10-t5.md
-- [[Veille Chine 2026-11-15  Autres articles]] - document - veilles/veille-ia-cn-2026-11-15-t7.md
-- [[Veille Chine 2026-11-15  IA industrielle et technologique]] - document - veilles/veille-ia-cn-2026-11-15-t2.md
-- [[Veille Chine 2026-11-18  Applications sectorielles]] - document - veilles/veille-ia-cn-2026-11-18-t3.md
-- [[Veille Chine 2026-11-18  Infrastructure et matériel]] - document - veilles/veille-ia-cn-2026-11-18-t1.md
-- [[Veille États-Unis 2026-11-15  Matériel et robotique IA]] - document - veilles/veille-ia-us-2026-11-15-t3.md
-- [[WEIBUILD]] - concept - veilles/veille-ia-us-2026-11-15-t3.md
-- [[Xiaopeng G9]] - concept - veilles/veille-ia-cn-2026-11-15-t7.md
-- [[中能拾贝]] - concept - veilles/veille-ia-cn-2026-11-18-t3.md
+- [[Anthropic]] - concept - feuilletons/f-0003.md
+- [[Broadcom]] - concept - veilles/veille-ia-us-2026-11-11-t6.md
+- [[Claude Sheet]] - concept - veilles/veille-ia-fr-2026-11-11-t2.md
+- [[Claude Whiteboards]] - concept - veilles/veille-ia-dev-2026-11-12-t1.md
+- [[Fable 5.2 & Mythos 5.2]] - concept - veilles/veille-ia-fr-2026-11-10-t2.md
+- [[Greg Morrisett]] - concept - veilles/veille-ia-us-2026-11-11-t2.md
+- [[Jacob Coxon]] - concept - dossiers/2026-11-14-3.md
+- [[Régulation de l'IA]] - concept - veilles/veille-ia-fr-2026-11-14-t3.md
+- [[Synapse Medicine]] - concept - veilles/veille-ia-fr-2026-11-12-t3.md
+- [[Veille France 2026-11-08  Environnement et empreinte carbone de l'IA]] - document - veilles/veille-ia-fr-2026-11-08-t2.md
+- [[Veille France 2026-11-08  Régulation, politique et enjeux sociétaux]] - document - veilles/veille-ia-fr-2026-11-08-t3.md
+- [[Veille France 2026-11-09]] - document - veilles/veille-ia-fr-2026-11-09-t1.md
+- [[Veille France 2026-11-11  Recherche, modèles et hardware IA]] - document - veilles/veille-ia-fr-2026-11-11-t3.md
+- [[Veille France 2026-11-12  Applications IA en santé et société]] - document - veilles/veille-ia-fr-2026-11-12-t3.md
+- [[Veille France 2026-11-14  Régulation, politiques publiques et géopolitique]] - document - veilles/veille-ia-fr-2026-11-14-t3.md
+- [[Veille États-Unis 2026-11-09  Déploiements et stratégies d’entreprise]] - document - veilles/veille-ia-us-2026-11-09-t2.md
+- [[Veille États-Unis 2026-11-11  Autres articles]] - document - veilles/veille-ia-us-2026-11-11-t6.md
+- [[Veille États-Unis 2026-11-11  Régulation, Gouvernance et Éthique]] - document - veilles/veille-ia-us-2026-11-11-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -39,15 +35,37 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-13]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-12]]
-- 1 edge to [[_COMMUNITY_Microsoft]]
+- 6 edges to [[_COMMUNITY_OpenAI]]
+- 5 edges to [[_COMMUNITY_Nvidia]]
+- 4 edges to [[_COMMUNITY_Claude]]
+- 3 edges to [[_COMMUNITY_Veille Chine 2026-11-13]]
+- 3 edges to [[_COMMUNITY_Fable 5.2]]
+- 2 edges to [[_COMMUNITY_Tencent]]
+- 2 edges to [[_COMMUNITY_GPT-6 Astra]]
+- 2 edges to [[_COMMUNITY_Claude Code]]
+- 2 edges to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière_1]]
+- 2 edges to [[_COMMUNITY_Microsoft]]
+- 2 edges to [[_COMMUNITY_Google]]
+- 2 edges to [[_COMMUNITY_Goldman Sachs]]
+- 2 edges to [[_COMMUNITY_Veille France 2026-11-17]]
+- 2 edges to [[_COMMUNITY_Gemini 4 Hydrogen]]
 - 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_OpenAI_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-17]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-09  Autres articles]]
+- 1 edge to [[_COMMUNITY_CoreWeave]]
+- 1 edge to [[_COMMUNITY_AWS Budgets]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-15  IA industrielle et technologique]]
+- 1 edge to [[_COMMUNITY_AMD]]
+- 1 edge to [[_COMMUNITY_Cursor]]
+- 1 edge to [[_COMMUNITY_Apple]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-12  Déploiement et infrastructure IA]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-10  Autres articles]]
+- 1 edge to [[_COMMUNITY_JPMorgan]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-15  Finances, valorisation et marché de l’IA_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
 
 ## Top bridge nodes
-- [[Veille Chine 2026-11-15  IA industrielle et technologique]] - degree 8, connects to 4 communities
-- [[Huawei]] - degree 8, connects to 1 community
-- [[Veille Chine 2026-11-18  Infrastructure et matériel]] - degree 5, connects to 1 community
-- [[Veille Chine 2026-11-15  Autres articles]] - degree 4, connects to 1 community
+- [[Anthropic]] - degree 63, connects to 28 communities
+- [[Veille États-Unis 2026-11-09  Déploiements et stratégies d’entreprise]] - degree 2, connects to 1 community
+- [[Veille France 2026-11-08  Environnement et empreinte carbone de l'IA]] - degree 2, connects to 1 community
+- [[Veille France 2026-11-08  Régulation, politique et enjeux sociétaux]] - degree 2, connects to 1 community

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-13-t5.md"
 type: "document"
-community: "Veille Chine 2026-11-12 : IA dans le commerce et le divertissement"
+community: "Veille Chine 2026-11-12 : Anthropic et concurrence"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-12__IA_dans_le_commerce_et_le_divertissement
+  - community/Veille_Chine_2026-11-12__Anthropic_et_concurrence
 ---
 
 # Veille Chine 2026-11-13 : Applications et services IA
@@ -17,4 +17,4 @@ tags:
 - [[Orphan AI Agents Management]] - `references` [EXTRACTED]
 - [[PPIO OpenDesign]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__IA_dans_le_commerce_et_le_divertissement
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__Anthropic_et_concurrence

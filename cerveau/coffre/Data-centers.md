@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-15-2.md"
 type: "concept"
-community: "Dossier : Nvidia désigné champion national de l’IA aux États‑Unis"
+community: "Veille États-Unis 2026-11-14 : Politique, Régulation et Sécurité"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Dossier__Nvidia_désigné_champion_national_de_lIA_aux_ÉtatsUnis
+  - community/Veille_États-Unis_2026-11-14__Politique_Régulation_et_Sécurité
 ---
 
 # Data-centers
@@ -15,4 +15,4 @@ tags:
 - [[Empreinte environnementale]] - `conceptually_related_to` [EXTRACTED]
 - [[Géants technologiques (Alphabet, Amazon, Microsoft, Meta)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Dossier__Nvidia_désigné_champion_national_de_lIA_aux_ÉtatsUnis
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Politique_Régulation_et_Sécurité

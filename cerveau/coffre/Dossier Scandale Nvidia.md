@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-15-1.md"
 type: "document"
-community: "Veille Chine 2026-11-12 : Anthropic et concurrence"
+community: "复旦发展研究院"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-12__Anthropic_et_concurrence
+  - community/复旦发展研究院
 ---
 
 # Dossier: Scandale Nvidia
@@ -19,4 +19,4 @@ tags:
 - [[Les investisseurs craignent que le secteur de l'IA ne perde les largesses de Nvidia après le départ de Huang]] - `cites` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__Anthropic_et_concurrence
+#graphify/document #graphify/EXTRACTED #community/复旦发展研究院

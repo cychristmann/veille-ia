@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Deletion Tuning]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
-- [[New York University]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
+- [[Le Monde Pixels]] - concept - feuilletons/f-0027.md
+- [[Ukraine Conflict]] - concept - feuilletons/f-0027.md
 
 ## Live Query (requires Dataview plugin)
 

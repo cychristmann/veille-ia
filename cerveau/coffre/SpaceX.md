@@ -13,7 +13,7 @@ tags:
 ## Connections
 - [[AI Market Trends]] - `conceptually_related_to` [INFERRED]
 - [[AI computing campuses]] - `references` [EXTRACTED]
-- [[Anthropic]] - `references` [EXTRACTED]
+- [[Anthropic]] - `conceptually_related_to` [EXTRACTED]
 - [[Cursor]] - `references` [EXTRACTED]
 - [[Elon Musk]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
