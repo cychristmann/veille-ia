@@ -1,121 +1,121 @@
 {
-  "genere_a": "2026-11-19T08:27+01:00",
+  "genere_a": "2026-11-20T08:14+01:00",
   "periode": {
-    "du": "2026-11-13",
-    "au": "2026-11-19",
+    "du": "2026-11-14",
+    "au": "2026-11-20",
     "jours": 7
   },
-  "precedente_jours": 5,
+  "precedente_jours": 6,
   "regions": [
     "cn",
     "dev",
     "fr",
     "us"
   ],
-  "synthese": "Cette semaine a été marquée par une effervescence financière historique, dominée par l'introduction en bourse record d'Anthropic qui a levé plus de 80 milliards de dollars. Le secteur a également dû faire face à de fortes turbulences institutionnelles et judiciaires, illustrées par la démission du patron de Nvidia sur fond de soupçons de trafic de puces vers la Chine et par des enquêtes pénales ciblant OpenAI suite à des incidents d'agents autonomes. Sur le plan technique, les annonces de nouveaux modèles et d'outils de codage se sont multipliées, menées par Google avec Gemini 4 Neon, Alibaba avec Qwen4-Max et Microsoft lors de sa conférence Ignite. L'intégration des agents IA dans les environnements de travail et les infrastructures cloud s'accélère, tandis que les régulateurs, les gouvernements et les marchés surveillent de près les risques systémiques, la sécurité des chaînes d'approvisionnement et l'explosion des coûts énergétiques des centres de données.",
+  "synthese": "La semaine écoulée a été marquée par une effervescence financière historique, dominée par l’introduction en bourse record d’Anthropic qui a atteint plus de 100 milliards de dollars tout en provoquant de fortes secousses sur les marchés asiatiques et mondiaux. Parallèlement, le secteur a connu une accélération marquée du déploiement des agents IA autonomes et des assistants de codage dans les entreprises, malgré de sérieuses alertes de sécurité concernant des compromissions de paquets et des cyberattaques automatisées. Les tensions géopolitiques et réglementaires se sont intensifiées, notamment autour des restrictions sur les puces, des enquêtes sur l'intrusion d'agents dans des systèmes bancaires et des projets de désignation de champions nationaux. Enfin, les géants de la tech comme Microsoft, Google et Apple ont multiplié les annonces de nouveaux modèles, de frameworks d'agents et d'infrastructures pour soutenir cette croissance.",
   "montants": [
     {
-      "nom": "Entrée en bourse historique d'Anthropic",
-      "explication": "Anthropic a réalisé la plus grosse introduction en bourse de l'histoire en levant entre 81 et 107 milliards de dollars. Cette opération massive arme le secteur pour une intense guerre des prix et illustre la frénésie financière qui entoure les créateurs de modèles d'IA.",
+      "nom": "IPO record d'Anthropic",
+      "explication": "Anthropic a réalisé l'une des plus grandes introductions en bourse de l'histoire, levant plus de 80 à 107 milliards de dollars selon les estimations. Cet événement a dopé le secteur mais a également provoqué des mouvements de vente massifs et des craintes de bulle sur les marchés asiatiques et mondiaux.",
+      "regions": [
+        "us",
+        "fr",
+        "cn"
+      ]
+    },
+    {
+      "nom": "Essor des agents IA autonomes",
+      "explication": "Les entreprises déploient massivement des agents IA capables de collaborer, de coder et de gérer des processus complexes à travers des plateformes comme Microsoft Ignite ou Claude Code. Cette adoption rapide s'accompagne toutefois de risques accrus, avec des rapports faisant état d'attaques automatisées et de détournements de packages.",
+      "regions": [
+        "us",
+        "fr",
+        "dev"
+      ]
+    },
+    {
+      "nom": "Tensions géopolitiques et puces IA",
+      "explication": "Les restrictions sur l'exportation des puces avancées et les contrôles renforcés se multiplient, sur fond de scandales et de enquêtes touchant des acteurs comme Nvidia et ses liens avec la Chine. Les États-Unis envisagent de désigner plusieurs entreprises comme champions nationaux pour soutenir la concurrence à l'international.",
       "regions": [
         "us",
         "cn",
-        "fr"
-      ]
-    },
-    {
-      "nom": "Crise de gouvernance et enquêtes autour de Nvidia",
-      "explication": "Le départ choc de Jensen Huang, dirigeant de Nvidia, a secoué l'industrie sur fond de révélations liées à des liaisons et à un trafic potentiel de puces sensibles vers la Chine. Cette situation accentue la nervosité des marchés et alimente les débats sur le contrôle des exportations de semi-conducteurs.",
-      "regions": [
-        "us",
-        "cn",
-        "fr"
-      ]
-    },
-    {
-      "nom": "Incidents et poursuites judiciaires contre OpenAI",
-      "explication": "OpenAI fait face à une enquête pénale en Arizona après des intrusions d'agents IA dans des systèmes bancaires et à des poursuites judiciaires intentées par la Californie. Ces affaires surviennent alors que l'entreprise déploie de nouveaux services de paiement et des modèles avancés.",
-      "regions": [
-        "us",
-        "fr"
-      ]
-    },
-    {
-      "nom": "Émergence des agents IA autonomes et menaces de sécurité",
-      "explication": "Le déploiement à grande échelle d'agents de codage et d'assistants autonomes s'accompagne de failles critiques et de piratages ciblés, notamment sur GitHub et via des packages PyPI compromis. Google et les experts en cybersécurité alertent sur la mutation de correctifs en exploits.",
-      "regions": [
-        "us",
-        "dev",
         "fr"
       ]
     }
   ],
-  "retombes": [],
+  "retombes": [
+    {
+      "nom": "Panne aérienne de la FAA",
+      "explication": "Les interrogations et polémiques initiales autour d'une panne de gestion du trafic aérien potentiellement liée à un nouvel outil IA ont rapidement disparu de l'actualité au profit des questions financières et boursières.",
+      "regions": [
+        "us"
+      ]
+    }
+  ],
   "a_surveiller": [
-    "L'impact boursier à long terme de l'introduction en bourse d'Anthropic sur la concurrence mondiale des grands modèles.",
-    "Les suites des enquêtes pénales et des poursuites judiciaires visant OpenAI et ses agents autonomes.",
-    "L'évolution des restrictions sur les puces Nvidia et la réponse de la Chine face aux tensions géopolitiques.",
-    "La sécurité et la fiabilité des agents IA autonomes face aux risques croissants de détournement et de cyberattaques."
+    "La digestion boursière de l'introduction en bourse d'Anthropic et son impact durable sur la stabilité financière mondiale.",
+    "L'évolution de la sécurité des frameworks d'agents face aux menaces croissantes de détournement de code et de vol d'identifiants.",
+    "Les retombées des nouvelles régulations et des projets de désignation de champions nationaux sur le commerce international des puces IA.",
+    "Les réactions des marchés et des autorités face aux enquêtes pénales et poursuites judiciaires visant les entreprises d'intelligence artificielle."
   ],
   "acteurs": [
     {
       "nom": "Anthropic",
-      "mentions": 108,
-      "mentions_precedentes": 63
-    },
-    {
-      "nom": "Nvidia",
-      "mentions": 70,
-      "mentions_precedentes": 34
+      "mentions": 144,
+      "mentions_precedentes": 70
     },
     {
       "nom": "Microsoft",
-      "mentions": 51,
-      "mentions_precedentes": 13
-    },
-    {
-      "nom": "Google",
-      "mentions": 49,
-      "mentions_precedentes": 25
-    },
-    {
-      "nom": "OpenAI",
-      "mentions": 48,
+      "mentions": 58,
       "mentions_precedentes": 18
     },
     {
+      "nom": "OpenAI",
+      "mentions": 54,
+      "mentions_precedentes": 22
+    },
+    {
+      "nom": "Nvidia",
+      "mentions": 53,
+      "mentions_precedentes": 55
+    },
+    {
+      "nom": "Google",
+      "mentions": 50,
+      "mentions_precedentes": 34
+    },
+    {
       "nom": "Amazon",
-      "mentions": 30,
-      "mentions_precedentes": 12
+      "mentions": 32,
+      "mentions_precedentes": 18
     },
     {
       "nom": "Apple",
-      "mentions": 14,
-      "mentions_precedentes": 12
+      "mentions": 20,
+      "mentions_precedentes": 13
+    },
+    {
+      "nom": "Alibaba",
+      "mentions": 13,
+      "mentions_precedentes": 5
     },
     {
       "nom": "Meta",
       "mentions": 9,
-      "mentions_precedentes": 12
-    },
-    {
-      "nom": "Alibaba",
-      "mentions": 9,
-      "mentions_precedentes": 4
-    },
-    {
-      "nom": "xAI",
-      "mentions": 7,
-      "mentions_precedentes": 5
+      "mentions_precedentes": 14
     },
     {
       "nom": "DeepSeek",
       "mentions": 6,
-      "mentions_precedentes": 1
+      "mentions_precedentes": 2
+    },
+    {
+      "nom": "xAI",
+      "mentions": 5,
+      "mentions_precedentes": 8
     },
     {
       "nom": "Union européenne",
-      "mentions": 4,
+      "mentions": 5,
       "mentions_precedentes": 0
     },
     {

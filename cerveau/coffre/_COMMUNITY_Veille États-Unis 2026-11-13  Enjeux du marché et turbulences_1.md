@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Unity Gateway]] - concept - veilles/veille-ia-dev-2026-11-19-t1.md
+- [[Veille États-Unis 2026-11-13  Enjeux du marché et turbulences]] - document - veilles/veille-ia-us-2026-11-13-t4.md
 
 ## Live Query (requires Dataview plugin)
 

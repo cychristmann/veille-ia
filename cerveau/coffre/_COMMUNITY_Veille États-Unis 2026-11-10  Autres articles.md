@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Veille États-Unis 2026-11-10 : Autres articles
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Artifact AI]] - concept - veilles/veille-ia-us-2026-11-10-t7.md
-- [[Veille États-Unis 2026-11-10  Autres articles]] - document - veilles/veille-ia-us-2026-11-10-t7.md
-- [[Venture Global]] - concept - veilles/veille-ia-us-2026-11-10-t7.md
+- [[CHU de Montpellier]] - concept - veilles/veille-ia-fr-2026-11-18-t5.md
+- [[David Morquin]] - concept - veilles/veille-ia-fr-2026-11-18-t5.md
+- [[French Tech Bordeaux]] - concept - veilles/veille-ia-fr-2026-11-18-t5.md
+- [[Veille France 2026-11-18 (T5)]] - document - veilles/veille-ia-fr-2026-11-18-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,9 +19,3 @@ members: 3
 TABLE source_file, type FROM #community/Veille_États-Unis_2026-11-10__Autres_articles
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Anthropic]]
-
-## Top bridge nodes
-- [[Veille États-Unis 2026-11-10  Autres articles]] - degree 3, connects to 1 community

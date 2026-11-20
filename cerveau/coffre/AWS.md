@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t6.md"
 type: "concept"
-community: "OpenAI"
+community: "ChatGPT Enterprise"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/OpenAI
+  - community/ChatGPT_Enterprise
 ---
 
 # AWS
@@ -14,4 +14,4 @@ tags:
 - [[ChatGPT Enterprise]] - `references` [EXTRACTED]
 - [[H Company]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/OpenAI
+#graphify/concept #graphify/EXTRACTED #community/ChatGPT_Enterprise

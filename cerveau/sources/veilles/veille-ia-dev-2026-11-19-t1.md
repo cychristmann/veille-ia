@@ -1,32 +1,34 @@
-# Veille Outils & code 2026-11-19 : Modèles de génération et agents de codage
+# Veille Outils & code 2026-11-19 : Agents et plateformes IA
 
 Région : Outils & code · Date : 2026-11-19
 
-Les annonces de nouveaux modèles (Gemini 4 Neon, GPT‑6.2) et les améliorations d’agents de codage (Claude Code, Codex, Cursor) sont mises en avant, ainsi que les classements et performances de ces agents.
+Une série d’annonces portent sur de nouveaux agents ou plateformes capables d’interagir avec des données d’entreprise, de générer du texte ou du code, ou d’offrir des services spécialisés comme la synthèse vocale ou la gestion de documents.
 
-- **Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index** (MarkTechPost, note 8/10)
-  Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens. It scores 61 on the AA Intelligence Index and ranks #1 on AA’s Coding Agent Index. The post Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index appeared first on MarkTechPost .
-- **Ubisoft scales AI coding agents to 4,000+ developers with Unity Gateway** (Databricks, note 8/10)
-- **Google’s Gemini 4 Neon tripled its coding score without changing the model** (The New Stack, note 7/10)
-  Google’s new Gemini 4 Neon resolved 12.8% of the SWE-sweep coding benchmark using the mini-SWE harness, but that score jumped The post Google’s Gemini 4 Neon tripled its coding score without changing the model appeared first on The New Stack .
-- **AI Coding Shifts Cognitive Load and Hits Developer Productivity** (Communications of the ACM, note 7/10)
-  As AI-assisted coding tools and agentic AI write more code, and developers spend more time reviewing code, developers are grappling with a shifting cognitive load. That’s because they must build ...
-- **Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction** (Hacker News, note 6/10)
-  Article URL: https://arxiv.org/abs/2607.29378 Comments URL: https://news.ycombinator.com/item?id=50554908 Points: 43 # Comments: 7
-- **Microsoft’s new MAI models target cheaper AI coding and security** (DNE Africa, note 6/10)
-- **Microsoft Introduces New Models to Cut the Cost of AI Coding and Cybersecurity** (PYMNTS.com, note 6/10)
-  Microsoft has introduced a frontier cyber defense model, an everyday enterprise coding model and five other new artificial intelligence (AI) models, ...
-- **OpenAI details uneven gains from coding agents in internal AI research** (news.lavx.hu, note 5/10)
-  Internal measurements from OpenAI show coding agents completing more multi-hour research tasks, but success rates vary by task and researchers still guide the work.
-- **[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender** (Latent Space, note 4/10)
-  November 18, 2026 — Google’s middle tier scores 61 on the Intelligence Index. Plus, Anthropic prices its IPO at $83.
-- **Google anunció una próxima mejora de Gemini Live para Google Home** (NeoTeo, note 4/10)
-  Google anuncia para Google Home una mejora futura de Gemini Live, con interrupciones naturales y controles domésticos durante la sesión; exige Google Home Premium.
-- **Gemini 4 Neon Tops the Coding Agent Index at 58.64** (OrcaRouter, note 4/10)
-- **Google Launches Gemini 4 Neon, Pricing It at $3 per Million Input Tokens** (CASRAI, note 4/10)
-  Google released Gemini 4 Neon on 18 November at $3 per million input tokens, with Google-reported results on science and math benchmarks.
-- **Gemini 4 Neon looks like an Opus 5.5 competitor** (Hacker News, note 4/10)
-  Article URL: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/ Comments URL: https://news.ycombinator.com/item?id=50554374 Points: 209 # Comments: 67
-- **Claude Code v2.1.327 Adds Checks and Recovery Fixes** (remio, note 4/10)
-- **OpenAI’s GPT-6.2 Astra and Sol arrive with noticeably different personalities** (Crypto Briefing, note 3/10)
-  The shift towards shorter, more confident responses in GPT-6.2 models may reduce user guidance, impacting decision-making and reliability. The post OpenAI’s GPT-6.2 Astra and Sol arrive with noticeably different personalities appeared first on Crypto Briefing .
+- **Amazon Bedrock AgentCore harness adds Strands harness defaults, built-in tools, and lifecycle hooks** (AWS Machine Learning, note 7/10)
+  Amazon Bedrock AgentCore harness now runs on the open-source Strands harness, bringing a recommended model, task-oriented defaults, automatic prompt caching, proactive context management, and new built-in tools. It also adds lifecycle hooks so you can run deterministic allow or deny checks at define
+- **Amazon Polly launches voice cloning: A unique voice for your brand** (AWS Machine Learning, note 7/10)
+  Voice cloning in Amazon Polly is now generally available. Give Amazon Polly a few minutes of recordings from a consenting speaker, and it builds a custom voice that reads new text in that speaker's voice. Cloned voices run on the Amazon Polly generative engine and support seven languages.
+- **13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade** (MarkTechPost, note 6/10)
+  We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out. The post 13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore,
+- **Gemini 4 Neon: Google DeepMind’s Frontier Coding Agent** (AI Magazine, note 6/10)
+- **Anthropic Adds Code Mode To Claude Code For Chained JavaScript Tool Calls** (Dataconomy, note 6/10)
+- **Moxie Launches AI Scribe to Capture What Traditional AI Charting Tools Leave Behind** (01net, note 5/10)
+  BROOKLYN, N.Y.--(BUSINESS WIRE)--Moxie, the EMR, marketing agency, compliance infrastructure, growth consultancy, and fractional back-office team behind hundreds of the fastest-growing aesthetic practices, today launched Moxie AI Scribe: an ambient AI ... L'articolo Moxie Launches AI Scribe to Captu
+- **Perplexity Launches Orchestrator API for Failover and Model Routing** (MarkTechPost, note 5/10)
+  Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each request to a described route. The post Perplexity Launches Orchestrator API for Failo
+- **How to Run Claude Code and Other Coding Agents in the Cloud 24/7** (Towards Data Science, note 5/10)
+  Two setups: flip Claude Code's cloud environment on for the quick path, or rent a server for full control. The post How to Run Claude Code and Other Coding Agents in the Cloud 24/7 appeared first on Towards Data Science .
+- **How to Oversee AI Agents at Scale With a Three-Tier Architecture** (Towards Data Science, note 5/10)
+  Separate runtime oversight from human review: an autonomous supervisor handles reversible fixes, while humans approve high-impact changes. The post How to Oversee AI Agents at Scale With a Three-Tier Architecture appeared first on Towards Data Science .
+- **Gemini CLI vs Claude Code: $3/$15 vs $8/$40 Tokens** (shattered.io, note 4/10)
+- **Small Language Models, Not Giant LLMs, Should Power the Next Generation of AI Agents** (HackerNoon, note 4/10)
+  NVIDIA lays out why small language models, not giant LLMs, are the economical future of agentic AI, plus how to migrate agents to them.
+- **Unsiloed AI raises $7.5M to turn enterprise documents into agent-ready data** (dev.to, note 3/10)
+  📅 November 18, 2026 • TechCrunch / SiliconANGLE Unsiloed AI raised a $7.5M seed round led by Felicis , with Y Combinator, Orange Collective, Uncorrelated Ventures and angels Aarthi Ramamurthy and Beth Turner participating. The San Francisco company, founded by IIT Kharagpur classmates Aman Mishra (C
+- **Claude Code, the Complete 2026 Guide From Installation to Advanced Use** (Pasquale Pillitteri, note 3/10)
+- **Joveo launches Tandem AI recruiting agent for hiring** (IT Brief Australia, note 3/10)
+  The free tool could let smaller hiring teams automate sourcing, screening and interviews from a single chat interface in under five minutes.
+- **OpenAI permite solicitar Astra for Law 6.2 a clientes Enterprise** (NeoTeo, note 2/10)
+  OpenAI anunció Astra for Law 6.2 el 17 de noviembre de 2026. ChatGPT Enterprise puede solicitar acceso; LAB-AA dio crédito completo al 20,8 % de las tareas.
+- **Pretxt raises USD $5 million to supervise AI agents** (IT Brief Australia, note 2/10)
+  The seed round will help Pretxt bring runtime oversight to AI agents, a move it says could cut policy breaches before customers or systems are affected.

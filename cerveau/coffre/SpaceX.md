@@ -16,6 +16,7 @@ tags:
 - [[Anthropic]] - `conceptually_related_to` [EXTRACTED]
 - [[Cursor]] - `references` [EXTRACTED]
 - [[Elon Musk]] - `references` [EXTRACTED]
+- [[Feuilleton SpaceX AI Infrastructure]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[Open Secure AI Alliance]] - `references` [EXTRACTED]
 - [[Orbital AI Infrastructure]] - `references` [EXTRACTED]
@@ -26,8 +27,10 @@ tags:
 - [[Starship]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-17  Marché, financement et régulation]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-20  Éducation & Médias]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-12  Marchés financiers et investissements IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-13]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-20  Marché et finance de l'IA]] - `references` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/SpaceX

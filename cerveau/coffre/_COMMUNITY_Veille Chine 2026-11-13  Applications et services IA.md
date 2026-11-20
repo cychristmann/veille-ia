@@ -1,20 +1,19 @@
 ---
 type: community
-members: 7
+members: 6
 ---
 
 # Veille Chine 2026-11-13 : Applications et services IA
 
-**Members:** 7 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Bulle spéculative de l'IA]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Dollar IA (ROI)]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Déploiement de l'IA à l'échelle]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Gains de productivité de l'IA]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Recrutement en IA]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Startups IA azuréennes]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Veille France 2026-11-19  Marché, productivité et perspectives économiques]] - document - veilles/veille-ia-fr-2026-11-19-t5.md
+- [[CPython Memory Vulnerability]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
+- [[JD.com Double-11 AI Sales]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
+- [[OpenAI Codex Acquisition]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
+- [[Orphan AI Agents Management]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
+- [[PPIO OpenDesign]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
+- [[Veille Chine 2026-11-13  Applications et services IA]] - document - veilles/veille-ia-cn-2026-11-13-t5.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-14-t2.md"
 type: "document"
-community: "Veille Outils & code 2026-11-14"
+community: "Veille Outils & code 2026-11-15"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-14
+  - community/Veille_Outils__code_2026-11-15
 ---
 
 # Veille Outils & code 2026-11-14
@@ -22,4 +22,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Perplexity Decider v1.3]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-14
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-15

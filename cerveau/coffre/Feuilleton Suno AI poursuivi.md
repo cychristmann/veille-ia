@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0002.md"
 type: "document"
-community: "Sécurité et risques de l'IA"
+community: "复旦发展研究院"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Sécurité_et_risques_de_lIA
+  - community/复旦发展研究院
 ---
 
 # Feuilleton: Suno AI poursuivi
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Suno AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Sécurité_et_risques_de_lIA
+#graphify/document #graphify/EXTRACTED #community/复旦发展研究院

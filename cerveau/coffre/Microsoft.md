@@ -1,16 +1,17 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-18-t1.md"
-type: "concept"
-community: "Microsoft"
+source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
+type: "code"
+community: "Dossier: Course à l'IA entre États‑Unis et Chine"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
-  - community/Microsoft
+  - community/Dossier_Course_à_lIA_entre_ÉtatsUnis_et_Chine
 ---
 
 # Microsoft
 
 ## Connections
+- [[AI Transparency Initiative]] - `references` [EXTRACTED]
 - [[Anthropic]] - `conceptually_related_to` [EXTRACTED]
 - [[Azure Cobalt 200]] - `references` [EXTRACTED]
 - [[Copilot]] - `references` [EXTRACTED]
@@ -36,6 +37,7 @@ tags:
 - [[Veille Chine 2026-11-18  Infrastructure et matériel]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Stratégies d'entreprises et investissements IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-17]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-20  Régulation, souveraineté et enjeux géopolitiques]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-10  Agents IA et plateformes]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-14  Incident FAA et Intelligence Artificielle]] - `references` [EXTRACTED]
@@ -45,4 +47,4 @@ tags:
 - [[Windows 11 Copilot]] - `references` [INFERRED]
 - [[Windows Server 2028]] - `references` [INFERRED]
 
-#graphify/concept #graphify/EXTRACTED #community/Microsoft
+#graphify/code #graphify/EXTRACTED #community/Dossier_Course_à_lIA_entre_ÉtatsUnis_et_Chine

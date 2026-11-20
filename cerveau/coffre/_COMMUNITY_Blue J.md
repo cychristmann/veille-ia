@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Le Monde Pixels]] - concept - feuilletons/f-0027.md
-- [[Ukraine Conflict]] - concept - feuilletons/f-0027.md
+- [[OpenAI Foundation]] - concept - veilles/veille-ia-us-2026-11-15-t5.md
+- [[Veille États-Unis 2026-11-15  Régulation, sécurité et éthique de l'IA]] - document - veilles/veille-ia-us-2026-11-15-t5.md
 
 ## Live Query (requires Dataview plugin)
 

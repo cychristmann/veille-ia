@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-15-t5.md"
 type: "concept"
-community: "Université Tsinghua"
+community: "Blue J"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Université_Tsinghua
+  - community/Blue_J
 ---
 
 # OpenAI Foundation
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-15  Régulation, sécurité et éthique de l'IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Université_Tsinghua
+#graphify/concept #graphify/EXTRACTED #community/Blue_J

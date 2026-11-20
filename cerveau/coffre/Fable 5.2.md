@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-18-t1.md"
+source_file: "feuilletons/f-0003.md"
 type: "concept"
-community: "GPT-6 Astra"
+community: "Fable 5.2"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Fable_52
 ---
 
 # Fable 5.2
@@ -17,4 +17,4 @@ tags:
 - [[Opus 5.5]] - `conceptually_related_to` [EXTRACTED]
 - [[datasette]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/concept #graphify/EXTRACTED #community/Fable_52

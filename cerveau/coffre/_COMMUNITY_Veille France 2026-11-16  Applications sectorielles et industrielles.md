@@ -1,17 +1,18 @@
 ---
 type: community
-members: 4
+members: 5
 ---
 
 # Veille France 2026-11-16 : Applications sectorielles et industrielles
 
-**Members:** 4 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[IA dans le commerce et la consommation]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
-- [[IA dans le recrutement]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
-- [[Souveraineté numérique et IA]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
-- [[Veille France 2026-11-16  Applications sectorielles et industrielles]] - document - veilles/veille-ia-fr-2026-11-16-t3.md
+- [[Veille Chine 2026-11-14  IA industrielle et infrastructure]] - document - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[天神之眼系统]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[比亚迪辅助驾驶车型保有量超 419 万辆]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[浙江算力规模超198EFLOPS]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[百度智能云战略合作]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
 
 ## Live Query (requires Dataview plugin)
 

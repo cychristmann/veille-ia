@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0032.md"
 type: "document"
-community: "Veille Chine 2026-11-14 : IA industrielle et infrastructure"
+community: "AMD"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-14__IA_industrielle_et_infrastructure
+  - community/AMD
 ---
 
 # Feuilleton: Compromission massive du Microsoft Agent Framework
@@ -18,4 +18,4 @@ tags:
 - [[The New Stack]] - `cites` [EXTRACTED]
 - [[wiz.io]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-14__IA_industrielle_et_infrastructure
+#graphify/document #graphify/EXTRACTED #community/AMD

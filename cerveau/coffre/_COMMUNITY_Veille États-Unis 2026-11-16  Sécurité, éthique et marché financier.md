@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Veille États-Unis 2026-11-16 : Sécurité, éthique et marché financier
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[ARTEX AI Hacking Tool]] - concept - veilles/veille-ia-us-2026-11-16-t4.md
-- [[FBI AI Threat Reports]] - concept - veilles/veille-ia-us-2026-11-16-t4.md
-- [[Veille États-Unis 2026-11-16  Sécurité, éthique et marché financier]] - document - veilles/veille-ia-us-2026-11-16-t4.md
+- [[MoEngage Merlin AI]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[Model Context Protocol (MCP)]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[Shoply AI]] - concept - veilles/veille-ia-dev-2026-11-20-t5.md
+- [[Veille IA Dev 2026-11-20 T5]] - document - veilles/veille-ia-dev-2026-11-20-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,3 +19,11 @@ members: 3
 TABLE source_file, type FROM #community/Veille_États-Unis_2026-11-16__Sécurité_éthique_et_marché_financier
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Copilot]]
+- 1 edge to [[_COMMUNITY_Claude]]
+
+## Top bridge nodes
+- [[Model Context Protocol (MCP)]] - degree 3, connects to 1 community
+- [[Veille IA Dev 2026-11-20 T5]] - degree 3, connects to 1 community

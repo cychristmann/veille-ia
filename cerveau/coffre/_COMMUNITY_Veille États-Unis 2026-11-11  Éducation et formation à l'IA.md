@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-11 : Éducation et formation à l'IA
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[AWS Budgets]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
-- [[IAM]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
+- [[Veille États-Unis 2026-11-11  Éducation et formation à l'IA]] - document - veilles/veille-ia-us-2026-11-11-t5.md
 
 ## Live Query (requires Dataview plugin)
 

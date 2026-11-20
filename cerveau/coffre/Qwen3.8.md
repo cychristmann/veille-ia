@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-15-t2.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-17 : Régulation et litiges"
+community: "Veille États-Unis 2026-11-11 : Éducation et formation à l'IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-17__Régulation_et_litiges
+  - community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA
 ---
 
 # Qwen3.8
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-17__Régulation_et_litiges
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA

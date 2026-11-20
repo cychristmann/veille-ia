@@ -1,24 +1,31 @@
 ---
 type: community
-members: 11
+members: 18
 ---
 
 # Veille Outils & code 2026-11-15
 
-**Members:** 11 nodes
+**Members:** 18 nodes
 
 ## Members
-- [[Amazon SageMaker HyperPod Inference]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Codex CLI]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Hitachi Vantara VSP One]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Impartner MCP]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[JustSolve AI Mastery]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Microsoft AI coding model]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Octopus Deploy]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Perplexity Computer]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Replit Missions]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Veille Outils & code 2026-11-18]] - document - veilles/veille-ia-dev-2026-11-18-t1.md
-- [[Vibe Coding]] - concept - veilles/veille-ia-dev-2026-11-16-t2.md
+- [[Amazon]] - concept - veilles/veille-ia-fr-2026-11-18-t3.md
+- [[Coca-Cola Europacific Partners]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
+- [[Digital Wellness Lab]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
+- [[Employment Hero]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
+- [[Fabrex]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
+- [[Gallup]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
+- [[Mistral AI]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
+- [[NEO AI]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
+- [[Rejouis]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
+- [[Rex (AI Agent)]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
+- [[Trump Administration]] - concept - veilles/veille-ia-us-2026-11-16-t1.md
+- [[VMFS USA]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
+- [[Veille France 2026-11-10  Sécurité, risques et éthique]] - document - veilles/veille-ia-fr-2026-11-10-t5.md
+- [[Veille France 2026-11-11  Autres articles]] - document - veilles/veille-ia-fr-2026-11-11-t5.md
+- [[Veille France 2026-11-18 (T4)]] - document - veilles/veille-ia-fr-2026-11-18-t4.md
+- [[Veille France 2026-11-18  Sécurité et cyber‑menaces IA]] - document - veilles/veille-ia-fr-2026-11-18-t3.md
+- [[Veille États-Unis 2026-11-16 (Gouvernance)]] - document - veilles/veille-ia-us-2026-11-16-t1.md
+- [[Veille États-Unis 2026-11-18  IA appliquée aux secteurs spécifiques]] - document - veilles/veille-ia-us-2026-11-18-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -28,13 +35,18 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Copilot]]
-- 1 edge to [[_COMMUNITY_JPMorgan]]
-- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
-- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
-- 1 edge to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-13]]
+- 2 edges to [[_COMMUNITY_Nvidia_1]]
+- 2 edges to [[_COMMUNITY_Meta]]
+- 1 edge to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Anthropic_1]]
+- 1 edge to [[_COMMUNITY_Dossier Course à l'IA entre États‑Unis et Chine]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-09  Applications sociétales et culturelles de l’IA]]
+- 1 edge to [[_COMMUNITY_Apple]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-18]] - degree 16, connects to 5 communities
-- [[Vibe Coding]] - degree 3, connects to 1 community
+- [[Trump Administration]] - degree 6, connects to 4 communities
+- [[Mistral AI]] - degree 6, connects to 2 communities
+- [[Veille France 2026-11-10  Sécurité, risques et éthique]] - degree 3, connects to 2 communities
+- [[Veille France 2026-11-18  Sécurité et cyber‑menaces IA]] - degree 3, connects to 1 community
+- [[Veille France 2026-11-11  Autres articles]] - degree 2, connects to 1 community

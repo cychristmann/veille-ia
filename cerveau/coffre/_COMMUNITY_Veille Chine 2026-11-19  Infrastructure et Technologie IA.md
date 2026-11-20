@@ -1,19 +1,25 @@
 ---
 type: community
-members: 6
+members: 12
 ---
 
 # Veille Chine 2026-11-19 : Infrastructure et Technologie IA
 
-**Members:** 6 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[DeepSeek API]] - concept - veilles/veille-ia-cn-2026-11-14-t6.md
-- [[Moomoo AI]] - concept - veilles/veille-ia-cn-2026-11-14-t6.md
-- [[SenseTime Raccoon (商汤小浣熊)]] - concept - veilles/veille-ia-cn-2026-11-19-t5.md
-- [[Tencent Hy4 Flash Model]] - concept - veilles/veille-ia-cn-2026-11-19-t5.md
-- [[Veille Chine 2026-11-14  Outils, plateformes et applications IA]] - document - veilles/veille-ia-cn-2026-11-14-t6.md
-- [[Veille Chine 2026-11-19  Infrastructure et Technologie IA]] - document - veilles/veille-ia-cn-2026-11-19-t5.md
+- [[CoreWeave]] - concept - veilles/veille-ia-fr-2026-11-11-t1.md
+- [[Foxconn]] - code - veilles/veille-ia-us-2026-11-16-t2.md
+- [[Fractile]] - concept - veilles/veille-ia-fr-2026-11-11-t1.md
+- [[Intel]] - code - veilles/veille-ia-us-2026-11-16-t2.md
+- [[Marvell]] - concept - veilles/veille-ia-us-2026-11-11-t1.md
+- [[Micron]] - concept - veilles/veille-ia-us-2026-11-11-t1.md
+- [[SambaNova Systems]] - code - veilles/veille-ia-us-2026-11-16-t2.md
+- [[Sandisk]] - concept - veilles/veille-ia-us-2026-11-11-t1.md
+- [[Seagate]] - concept - veilles/veille-ia-us-2026-11-11-t1.md
+- [[Veille France 2026-11-11]] - document - veilles/veille-ia-fr-2026-11-11-t1.md
+- [[Veille États-Unis 2026-11-11  Financement et Bourse de l'IA]] - document - veilles/veille-ia-us-2026-11-11-t1.md
+- [[Veille États-Unis 2026-11-16 (Industrie)]] - document - veilles/veille-ia-us-2026-11-16-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,7 +29,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Fable 5.2]]
+- 2 edges to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-11  Marchés et investissements]]
+- 1 edge to [[_COMMUNITY_Apple]]
+- 1 edge to [[_COMMUNITY_Meta]]
+- 1 edge to [[_COMMUNITY_Anthropic_1]]
 
 ## Top bridge nodes
-- [[Tencent Hy4 Flash Model]] - degree 2, connects to 1 community
+- [[Veille France 2026-11-11]] - degree 7, connects to 5 communities
+- [[CoreWeave]] - degree 10, connects to 3 communities

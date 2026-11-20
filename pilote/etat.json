@@ -34,6 +34,15 @@
    "motif": "seulement 34 articles sur 50 (en panne : Design News)",
    "raison": "Relancer la section Outils & code pour atteindre les 50 articles attendus et compenser la perte de Design News.",
    "resultat": "36 articles après relance (encore en panne : Design News)"
+  },
+  {
+   "date": "2026-11-20",
+   "action": "experimenter",
+   "section": "cn",
+   "source": "part de Google Actualités 1.0 → 0.8",
+   "motif": "score actuel 70.6/100",
+   "raison": "Réduire la part de Google Actualités de 1.0 à 0.8 pour la Chine devrait augmenter le taux de liens directs, qui est très bas.",
+   "resultat": "essai pendant 3 nuits"
   }
  ],
  "essais": {
@@ -56,7 +65,28 @@
   {
    "date": "2026-11-17",
    "texte": "Tester régulièrement de nouveaux médias aide à maintenir un haut pourcentage de liens directs et à diversifier les sources."
+  },
+  {
+   "date": "2026-11-20",
+   "texte": "Pour les sections où les liens directs sont très faibles, réduire la dépendance à Google Actualités et chercher davantage de sources directes améliore la qualité des références."
   }
  ],
- "derniere_decouverte": "2026-11-17"
+ "derniere_decouverte": "2026-11-17",
+ "reglages": {
+  "cn": {
+   "part_google": 0.8
+  }
+ },
+ "experiences": {
+  "cn": {
+   "param": "part_google",
+   "avant": 1.0,
+   "apres": 0.8,
+   "base": 70.6,
+   "depuis": "2026-11-20",
+   "hypothese": "Réduire la part de Google Actualités de 1.0 à 0.8 pour la Chine devrait augmenter le taux de liens directs, qui est très bas."
+  }
+ },
+ "experiences_passees": [],
+ "sections_passees": []
 }

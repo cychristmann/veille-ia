@@ -8,14 +8,14 @@ members: 8
 **Members:** 8 nodes
 
 ## Members
-- [[CyberSecurityNews]] - concept - feuilletons/f-0032.md
-- [[Feuilleton Compromission massive du Microsoft Agent Framework]] - document - feuilletons/f-0032.md
-- [[Microsoft Agent Framework]] - concept - veilles/veille-ia-dev-2026-11-18-t3.md
-- [[OX Security]] - concept - feuilletons/f-0032.md
-- [[The Hacker News]] - concept - feuilletons/f-0032.md
-- [[The New Stack]] - concept - feuilletons/f-0032.md
-- [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - document - veilles/veille-ia-dev-2026-11-18-t3.md
-- [[wiz.io]] - concept - feuilletons/f-0032.md
+- [[Faire la guerre avec l’IA  Pour l’Ukraine, un cas de conscience moral et politique]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
+- [[Gemini 4 Hydrogène]] - concept - veilles/veille-ia-fr-2026-11-16-t6.md
+- [[Kitesurf  Cloudflare libère le code source de son navigateur pour agents IA]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
+- [[La IA generativa divide a los desarrolladores]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
+- [[OT Montlouis-Vouvray chatbot sans IA]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
+- [[SambaNova associe les GPU Intel au SN50]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
+- [[Veille France 2026-11-16]] - document - veilles/veille-ia-fr-2026-11-16-t6.md
+- [[Wotton Kearney déploie l’IA juridique Harvey]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,9 +25,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_OpenAI]]
-- 1 edge to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_Cursor]]
+- 1 edge to [[_COMMUNITY_Apple]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - degree 4, connects to 3 communities
+- [[Veille France 2026-11-16]] - degree 8, connects to 1 community

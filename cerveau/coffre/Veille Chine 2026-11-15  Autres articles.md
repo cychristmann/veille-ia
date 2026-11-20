@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-15-t7.md"
 type: "document"
-community: "Anthropic"
+community: "Nvidia"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Anthropic
+  - community/Nvidia
 ---
 
 # Veille Chine 2026-11-15 : Autres articles
@@ -16,4 +16,4 @@ tags:
 - [[Suno]] - `references` [EXTRACTED]
 - [[Xiaopeng G9]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Anthropic
+#graphify/document #graphify/EXTRACTED #community/Nvidia

@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0031.md"
 type: "concept"
-community: "JPMorgan"
+community: "CoreWeave"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/JPMorgan
+  - community/CoreWeave
 ---
 
 # MarkTechPost
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Feuilleton SID AI lance le modèle de recherche agentique SID-2]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/JPMorgan
+#graphify/concept #graphify/EXTRACTED #community/CoreWeave

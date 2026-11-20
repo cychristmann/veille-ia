@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-17-t2.md"
-type: "concept"
-community: "OpenAI"
+source_file: "veilles/veille-ia-fr-2026-11-09-t2.md"
+type: "code"
+community: "ChatGPT Enterprise"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
-  - community/OpenAI
+  - community/ChatGPT_Enterprise
 ---
 
 # ChatGPT Enterprise
@@ -17,4 +17,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/OpenAI
+#graphify/code #graphify/EXTRACTED #community/ChatGPT_Enterprise

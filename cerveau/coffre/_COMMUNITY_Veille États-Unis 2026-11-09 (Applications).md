@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Elvis Presley]] - concept - veilles/veille-ia-us-2026-11-09-t4.md
-- [[Veille États-Unis 2026-11-09 (Applications)]] - document - veilles/veille-ia-us-2026-11-09-t4.md
+- [[Oku Dating Platform]] - concept - veilles/veille-ia-dev-2026-11-16-t6.md
+- [[Veille Outils & code 2026-11-16  Autres articles]] - document - veilles/veille-ia-dev-2026-11-16-t6.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,19 +1,21 @@
 ---
 type: community
-members: 6
+members: 8
 ---
 
 # Veille Chine 2026-11-12 : IA dans le commerce et le divertissement
 
-**Members:** 6 nodes
+**Members:** 8 nodes
 
 ## Members
-- [[Demis Hassabis]] - concept - dossiers/2026-11-12-3.md
-- [[Dossier Course à l'IA entre États‑Unis et Chine]] - document - dossiers/2026-11-12-3.md
-- [[Eric Schmidt]] - concept - dossiers/2026-11-12-3.md
-- [[Eric Schmidt says gap between China and US in AI is now negligible]] - document - dossiers/2026-11-12-3.md
-- [[Institute for Progress]] - concept - dossiers/2026-11-12-3.md
-- [[Nvidia, Chinese Espionage, and the AI Race Foreign Policy Issues to Watch]] - document - dossiers/2026-11-12-3.md
+- [[AI Didn’t Take Our Jobs. It Turned Them Into Checking]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
+- [[Commentary Joe Brewer The wisdom AI can’t replace]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
+- [[Dario Amodei Pledges Human Control of AI at Anthropic’s $83 IPO]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
+- [[From Film Sets to Animated Dramas How AI Is Reshaping Film Production]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
+- [[Raleigh woman says company's AI agent confused her over rent. Now she's evicted.]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
+- [[Veille États-Unis 2026-11-20  Impact sociétal et culturel]] - document - veilles/veille-ia-us-2026-11-20-t5.md
+- [[Why I’m Not Losing Sleep Over the AI Apocalypse]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
+- [[You tell AI everything. But who else is listening]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,9 +23,3 @@ members: 6
 TABLE source_file, type FROM #community/Veille_Chine_2026-11-12__IA_dans_le_commerce_et_le_divertissement
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia]]
-
-## Top bridge nodes
-- [[Dossier Course à l'IA entre États‑Unis et Chine]] - degree 6, connects to 1 community

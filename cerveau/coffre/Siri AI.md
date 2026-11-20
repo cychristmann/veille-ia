@@ -12,5 +12,6 @@ tags:
 
 ## Connections
 - [[Apple]] - `references` [EXTRACTED]
+- [[Apple AI Agent]] - `conceptually_related_to` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Apple

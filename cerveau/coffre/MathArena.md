@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0010.md"
 type: "concept"
-community: "Gemini 4 Hydrogen"
+community: "Feuilleton: Compromission massive du Microsoft Agent Framework"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Gemini_4_Hydrogen
+  - community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
 ---
 
 # MathArena
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Gemini 4 Carbon]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Gemini_4_Hydrogen
+#graphify/concept #graphify/EXTRACTED #community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework

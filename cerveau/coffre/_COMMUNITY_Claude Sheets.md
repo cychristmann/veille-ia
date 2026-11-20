@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Claude Sheets
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Beijing University of Posts and Telecommunications]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[LLM 0.37.3]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[SQLite]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
 
 ## Live Query (requires Dataview plugin)
 

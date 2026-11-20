@@ -12,6 +12,7 @@ tags:
 
 ## Connections
 - [[Google AI Studio]] - `references` [EXTRACTED]
+- [[Google DeepMind]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-12]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-14-t1.md"
 type: "document"
-community: "Veille Chine 2026-11-12 : Anthropic et concurrence"
+community: "Veille France 2026-11-14 : Société, éducation et culture"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-12__Anthropic_et_concurrence
+  - community/Veille_France_2026-11-14__Société_éducation_et_culture
 ---
 
 # Veille France 2026-11-14 : Société, éducation et culture
@@ -17,4 +17,4 @@ tags:
 - [[Jean-Paul Charpin]] - `references` [EXTRACTED]
 - [[Sarah El Haïry]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__Anthropic_et_concurrence
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-14__Société_éducation_et_culture

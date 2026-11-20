@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-19-t6.md"
 type: "document"
-community: "OpenAI"
+community: "Veille États-Unis 2026-11-15 : Scandale de triche à l'IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/OpenAI
+  - community/Veille_États-Unis_2026-11-15__Scandale_de_triche_à_lIA
 ---
 
 # Veille France 2026-11-19 : Autres articles
@@ -17,4 +17,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Réglementation de l'IA]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/OpenAI
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-15__Scandale_de_triche_à_lIA

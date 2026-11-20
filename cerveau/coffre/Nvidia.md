@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-18-t6.md"
+source_file: "veilles/veille-ia-fr-2026-11-12-t1.md"
 type: "concept"
 community: "Nvidia"
 tags:
@@ -14,8 +14,10 @@ tags:
 - [[AI Overwatch Act]] - `references` [EXTRACTED]
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Baird]] - `references` [EXTRACTED]
+- [[Blackwell]] - `references` [EXTRACTED]
 - [[Cambricon]] - `references` [INFERRED]
 - [[China]] - `references` [EXTRACTED]
+- [[Chine]] - `references` [EXTRACTED]
 - [[Chip Security Act]] - `references` [EXTRACTED]
 - [[Colette Kress]] - `references` [EXTRACTED]
 - [[CoreWeave]] - `conceptually_related_to` [INFERRED]
@@ -25,15 +27,16 @@ tags:
 - [[Dossier  Nvidia désigné champion national de l’IA aux États‑Unis]] - `references` [EXTRACTED]
 - [[Dossier Course à l'IA entre États‑Unis et Chine]] - `references` [EXTRACTED]
 - [[Dossier Scandale Nvidia]] - `references` [EXTRACTED]
-- [[Feuilleton  Crise de direction chez Nvidia et scandale des puces IA]] - `references` [EXTRACTED]
+- [[Feuilleton  Scandale Nvidia]] - `references` [EXTRACTED]
 - [[Feuilleton SMIC anticipe une pénurie de capacité IA]] - `references` [EXTRACTED]
 - [[Feuilleton Scandale qui renverse la star de l’IA]] - `references` [EXTRACTED]
 - [[H Company]] - `references` [EXTRACTED]
 - [[Harvey C. Jones]] - `references` [EXTRACTED]
+- [[Hopper (H200)]] - `references` [EXTRACTED]
 - [[Huawei]] - `conceptually_related_to` [INFERRED]
 - [[Huawei]] - `references` [EXTRACTED]
 - [[Hugging Face]] - `references` [EXTRACTED]
-- [[IA Bubble]] - `conceptually_related_to` [INFERRED]
+- [[Inception (AI Startup)]] - `conceptually_related_to` [EXTRACTED]
 - [[Jensen Huang]] - `conceptually_related_to` [EXTRACTED]
 - [[Jensen Huang]] - `conceptually_related_to` [EXTRACTED]
 - [[Jensen Huang]] - `references` [EXTRACTED]
@@ -45,6 +48,7 @@ tags:
 - [[NDAA]] - `references` [EXTRACTED]
 - [[Open Secure AI Alliance]] - `references` [EXTRACTED]
 - [[Projet Kessel]] - `references` [EXTRACTED]
+- [[Rubin]] - `references` [EXTRACTED]
 - [[SMIC]] - `conceptually_related_to` [INFERRED]
 - [[SpaceX]] - `references` [EXTRACTED]
 - [[Starmind Project]] - `shares_data_with` [INFERRED]
@@ -58,6 +62,7 @@ tags:
 - [[Veille Chine 2026-11-13]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-17]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-20  Éducation & Médias]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Environnement et empreinte carbone de l'IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Stratégies d'entreprises et investissements IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-09  Autres articles]] - `references` [EXTRACTED]
@@ -84,5 +89,7 @@ tags:
 - [[Veille États-Unis 2026-11-17  Marchés et finance]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-18]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-19  Infrastructure et matériel]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-20  Marché et finance de l'IA]] - `references` [EXTRACTED]
+- [[États-Unis]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Nvidia

@@ -1,15 +1,17 @@
 ---
 type: community
-members: 2
+members: 4
 ---
 
 # 复旦发展研究院
 
-**Members:** 2 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Sécurité et risques de l'IA]] - concept - veilles/veille-ia-fr-2026-11-14-t4.md
-- [[Veille France 2026-11-14  Sécurité, risques et fraudes]] - document - veilles/veille-ia-fr-2026-11-14-t4.md
+- [[Elvis Presley Music Rights Owners]] - code - veilles/veille-ia-us-2026-11-08-t2.md
+- [[Eminem Music Rights Owners]] - code - veilles/veille-ia-us-2026-11-08-t2.md
+- [[Feuilleton Suno AI poursuivi]] - document - feuilletons/f-0002.md
+- [[Suno AI]] - code - veilles/veille-ia-us-2026-11-08-t2.md
 
 ## Live Query (requires Dataview plugin)
 

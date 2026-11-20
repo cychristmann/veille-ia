@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-12-t4.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-12 : Sécurité et gouvernance"
+community: "复旦发展研究院"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-12__Sécurité_et_gouvernance
+  - community/复旦发展研究院
 ---
 
 # Stolen Claude API keys can turn Claude Code into a remote-controlled implant
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Outils & code 2026-11-12  Sécurité et gouvernance]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12__Sécurité_et_gouvernance
+#graphify/concept #graphify/EXTRACTED #community/复旦发展研究院

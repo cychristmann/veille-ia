@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-16-t1.md"
 type: "concept"
-community: "Le Monde Pixels"
+community: "Veille France 2026-11-16 : Régulation, sécurité et gouvernance"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Le_Monde_Pixels
+  - community/Veille_France_2026-11-16__Régulation_sécurité_et_gouvernance
 ---
 
 # Cybersécurité et IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-16  Régulation, sécurité et gouvernance]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Le_Monde_Pixels
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-16__Régulation_sécurité_et_gouvernance

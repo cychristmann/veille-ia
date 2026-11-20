@@ -1,18 +1,19 @@
 ---
 type: community
-members: 5
+members: 6
 ---
 
 # Veille France 2026-11-15 : Réflexion et éthique
 
-**Members:** 5 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Crimson Desert]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
-- [[Pascal Haté]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
-- [[Pearl Abyss]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
-- [[SMARTANCE]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
-- [[Veille France 2026-11-15  Réflexion et éthique]] - document - veilles/veille-ia-fr-2026-11-15-t5.md
+- [[Alibaba Domestic Computing Power Strategy]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
+- [[Grab AI Code Security Strategy]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
+- [[Linger Project (Open Source)]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
+- [[OpenAI Chip Redesign Breakthroughs]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
+- [[SpaceX AI Chip Debt Financing Conflict]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
+- [[Veille Chine 2026-11-20]] - document - veilles/veille-ia-cn-2026-11-20-t7.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t5.md"
 type: "concept"
-community: "Veille Chine 2026-11-14 : Outils, plateformes et applications IA"
+community: "Veille États-Unis 2026-11-08 : Perception publique et sociétale"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-14__Outils_plateformes_et_applications_IA
+  - community/Veille_États-Unis_2026-11-08__Perception_publique_et_sociétale
 ---
 
 # vr.org
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-08  Perception publique et sociétale]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-14__Outils_plateformes_et_applications_IA
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08__Perception_publique_et_sociétale

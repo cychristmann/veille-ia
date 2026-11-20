@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-17-t3.md"
 type: "concept"
-community: "OpenAI"
+community: "ChatGPT Wallet"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/OpenAI
+  - community/ChatGPT_Wallet
 ---
 
 # ChatGPT Wallet
@@ -19,4 +19,4 @@ tags:
 - [[Veille Outils & code 2026-11-17 (T3)]] - `references` [EXTRACTED]
 - [[Verifiable Intent]] - `conceptually_related_to` [INFERRED]
 
-#graphify/concept #graphify/EXTRACTED #community/OpenAI
+#graphify/concept #graphify/EXTRACTED #community/ChatGPT_Wallet

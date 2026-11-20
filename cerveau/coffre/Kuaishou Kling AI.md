@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-17-t2.md"
 type: "concept"
-community: "Microsoft"
+community: "Veille Chine 2026-11-17"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Microsoft
+  - community/Veille_Chine_2026-11-17
 ---
 
 # Kuaishou Kling AI
@@ -14,4 +14,4 @@ tags:
 - [[Kling Image 4.0]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-17]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Microsoft
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-17

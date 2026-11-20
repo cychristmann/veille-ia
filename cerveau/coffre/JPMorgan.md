@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-18-t1.md"
 type: "concept"
-community: "JPMorgan"
+community: "CoreWeave"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/JPMorgan
+  - community/CoreWeave
 ---
 
 # JPMorgan
@@ -16,4 +16,4 @@ tags:
 - [[Veille États-Unis 2026-11-18 (T1)]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-18 (T2)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/JPMorgan
+#graphify/concept #graphify/EXTRACTED #community/CoreWeave

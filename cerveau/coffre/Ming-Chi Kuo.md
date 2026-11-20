@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-13-1.md"
 type: "concept"
-community: "Veille France 2026-11-09 : Régulation, sécurité et enjeux géopolitiques"
+community: "Veille États-Unis 2026-11-13 : Autres articles"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-09__Régulation_sécurité_et_enjeux_géopolitiques
+  - community/Veille_États-Unis_2026-11-13__Autres_articles
 ---
 
 # Ming-Chi Kuo
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-09__Régulation_sécurité_et_enjeux_géopolitiques
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Autres_articles

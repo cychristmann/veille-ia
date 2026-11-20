@@ -1,26 +1,55 @@
 {
-  "maj": "2026-11-19",
+  "maj": "2026-11-20",
   "feuilletons": [
     {
-      "id": "f-0034",
-      "titre": "Alliance européenne pour le développement d'une IA souveraine de bout en bout",
-      "resume": "Plusieurs acteurs technologiques européens unissent leurs forces pour structurer une filière d'intelligence artificielle indépendante et souveraine couvrant l'ensemble de la chaîne technique.",
+      "id": "f-0035",
+      "titre": "Apple prépare un agent IA complet pour piloter appareils et applications",
+      "resume": "Apple développe un nouvel agent d'intelligence artificielle conçu pour contrôler les Mac, les applications, naviguer sur le web et écrire du code. Ce projet stratégique vise à concurrencer directement les assistants et agents d'autres géants de la tech.",
       "statut": "actif",
-      "debut": "2026-11-19",
-      "derniere_activite": "2026-11-19",
+      "debut": "2026-11-20",
+      "derniere_activite": "2026-11-20",
       "regions": [
-        "fr"
+        "fr",
+        "us"
       ],
       "evenements": [
         {
-          "date": "2026-11-19",
-          "texte": "Qwant, Shadow, EUSP et OVHcloud s'associent pour bâtir une infrastructure d'IA européenne de bout en bout.",
+          "date": "2026-11-20",
+          "texte": "Plusieurs fuites et offres d'emploi révèlent qu'Apple prépare un agent IA complet capable de piloter des appareils, des applications et le web.",
           "articles": [
             {
-              "titre": "Qwant, Shadow, EUSP et OVHcloud unissent leurs forces pour bâtir une IA européenne de bout en bout",
-              "source": "Clubic",
-              "lien": "https://www.clubic.com/actualite-639874-qwant-shadow-eusp-et-ovhcloud-unissent-leurs-forces-pour-batir-une-ia-europeenne-de-bout-en-bout.html",
+              "titre": "Apple prépare son propre agent IA capable de contrôler votre Mac et vos applications",
+              "source": "Mac4Ever",
+              "lien": "https://www.mac4ever.com/ia/199158-apple-prepare-son-propre-agent-ia-capable-de-controler-votre-mac-et-vos-applications",
               "region": "fr",
+              "note": 9
+            },
+            {
+              "titre": "Apple préparerait son propre agent IA complet pour concurrencer ChatGPT",
+              "source": "Clubic",
+              "lien": "https://www.clubic.com/actualite-640186-apple-preparerait-son-propre-agent-ia-complet-pour-concurrencer-chatgpt.html",
+              "region": "fr",
+              "note": 9
+            },
+            {
+              "titre": "Apple travaille sur un agent IA capable de piloter vos appareils, vos apps, le web et le code",
+              "source": "MacGeneration",
+              "lien": "https://www.msn.com/fr-be/actualite/other/apple-travaille-sur-un-agent-ia-capable-de-piloter-vos-appareils-vos-apps-le-web-et-le-code/ar-AA2hOVbj",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Apple construit-elle un agent IA ? Une offre d'emploi décrit un agent qui utilise des apps, navigue et écrit du code",
+              "source": "Nacionale",
+              "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRndyN2QzLTgyNmN5RUFZWFQ2S1lZc1NMaVVjOFhGc0pheEVTU3VDWmM4Yy1fel8yN1Y1SElqbnVEWjVkejdDUGM3dHBKV0JkTEJwbGRyT2liWVpfOGRqeGxvbnRSTlZ5ZGhYLTN3SGVkUjNDSllMLTRIV1RRZUNHaUEwMGU0YVJqY0FoR09lazRYdkRQeGlBUlhzVU9mVVZBdk02ZDN5OHdDbmRmVlFOYnRyUlJpUQ?oc=5",
+              "region": "us",
+              "note": 7
+            },
+            {
+              "titre": "Apple préparerait son propre agent IA complet",
+              "source": "Gizmodo",
+              "lien": "https://gizmodo.com/apple-is-reportedly-building-its-own-full-featured-ai-agent-2000842954",
+              "region": "us",
               "note": 7
             }
           ]
@@ -28,48 +57,55 @@
       ]
     },
     {
-      "id": "f-0033",
-      "titre": "Lenovo affiche une forte croissance portée par les serveurs IA",
-      "resume": "Lenovo enregistre des résultats financiers record portés par l'explosion de la demande en serveurs et infrastructures liés à l'intelligence artificielle, malgré un ralentissement sur le marché traditionnel des PC.",
+      "id": "f-0015",
+      "titre": "SpaceX déploie des racks IA en orbite et lève des fonds pour ses puces",
+      "resume": "SpaceX prévoit d'installer des milliers de racks de puces Nvidia en orbite et développe un vaste campus de calcul IA terrestre, soutenu par d'importantes opérations financières.",
       "statut": "actif",
-      "debut": "2026-11-19",
-      "derniere_activite": "2026-11-19",
+      "debut": "2026-11-13",
+      "derniere_activite": "2026-11-20",
       "regions": [
         "cn",
+        "fr",
         "us"
       ],
       "evenements": [
         {
-          "date": "2026-11-19",
-          "texte": "Lenovo annonce une hausse spectaculaire de son chiffre d'affaires et de ses commandes de serveurs grâce au marché de l'IA.",
+          "date": "2026-11-13",
+          "texte": "SpaceX planifie 10 000 racks Nvidia en orbite et un vaste campus IA terrestre.",
           "articles": [
             {
-              "titre": "Lenovo affiche une hausse de 48 % du chiffre d’affaires grâce aux ventes liées à l’IA, dépassant les prévisions",
-              "source": "Reuters",
-              "lien": "https://www.msn.com/en-ca/news/other/lenovo-posts-48-revenue-jump-on-ai-related-sales-beating-estimates/ar-AA2hKzLx",
+              "titre": "SpaceX planea 10.000 racks de Nvidia en órbita para IA con 5 GW",
+              "source": "Foro3D",
+              "lien": "https://foro3d.com/2026/noviembre/spacex-planea-10000-racks-de-nvidia-en-orbita-para-ia-con-5-gw.html",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "SpaceX d’Elon Musk prévoit plus de 74 milliards de dollars de campus de calcul IA au Texas et en Arizona",
+              "source": "The Times of India",
+              "lien": "https://news.google.com/rss/articles/CBMilANBVV95cUxPbjAxdG83WVI5OHZEcEhsQkJUWVRxRGlVWnhheTNhZ2xsWlFHOGYzXzZpaFh2NWNDbnBBVUI0aVk0S3d4eTVtQnlNUzFxMmsyaEdwRXZ6ODJlUldyNGFHdGlYWEVTanNJYlBXWllUTWp2ZmFPMUtFOF8zTEFtUk9GQ1FnZzlfLWhrekZhQVJKdlM0ZDJBTnZJSWJWUEI4amRDZ0pkaEl6b1FJUW9yc090ZmZWOGctd3JBU2FWb3lIc09LTTBkVGlRSklPcXZHak5Bd1FJVEVFeW5INktaMmRKNUVoV1c4TG5PQ2g4MWU2MzFYcHZyMmpPbUxwRjI4UWFNV3VQUDR0NjY3d296RG9QMk1sTDRsb1F6OExQUmxVLXZwcldvcWpYQ29XQUNzdTJEdGpRRUhYLWRuRl9WMDNqbzZHNUczLUhkQnNmdUE4MXBudkVFWF9wVXI2QVF3RU0wTjNGSkdEamd2Z2ZFYm9CbVRGTzJhRHkyYzVoc3E4cmQ2aUZqY09ZVlNNblpSQ0IwOEFyV9IBmgNBVV95cUxQU3RIR2lGRms0N1dLRGhrckx0VGh1M1hweGRraHppZXpwZnUxVGk0Z25ZYnlsN2RoNzdEanpJMFRqMFFMSnlWcm5pRExUUURnR04wZTluTG9LbTZUSWpaUUtuTExYdGdoSUVZaVRaYlY0dnJoc05fSWl4MTREdGQtWXFRUXZKT0t4QndkRVZvX21qek9USEdMMmNlLVNERzVlTHlBTVNQV1J4X2Z4UUtYVlRabE14SC02MTVRbXJaRnVNY2R2S0NhQmFJRThfbmhjZWU5WGVjR0hiYXlYMzNqS3Z3REhONzJCX2Q2MV9TdlZDS3llN29tN0FRV2hrUmlPdElLX29fdDlyb2sxcVZRUGFtWkh3VWtGRlp6WDNsckFUMktmbXZjdEpMamRIU0tFTlNNWk9EeWVnZUpWR2RnRFZPUHpwZjVYT2lnMW53SWpfbkpuREp0Qk5VN1hXTlkycHBKX0ltYW52TWZyTHZqRndTbE0xT3o0WFEtMlpKZnYtbFV1Y1ZkZ0xLUWN0ZndDaGFGVWR3YWwyQQ?oc=5",
               "region": "us",
               "note": 8
             },
             {
-              "titre": "Lenovo enregistre un chiffre d’affaires du 2ᵉ trimestre record ; les serveurs IA affichent +300 % en glissement annuel, mais les livraisons de PC chutent de 22 % – Analyse des résultats",
-              "source": "华尔街见闻",
-              "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yZDdfR2JhMm9iZzBrYVBzQzVDXzVMbDVua0pjOFdrTkt6RnVfZVdXcEFDYXlFR1h0NWJSX1dSNHVTNndVSUI1cTZqNDV5eDNjY2VR?oc=5",
+              "titre": "Programme « Star Compute » de Guoxing Aerospace : le groupe 03 de satellites finalisé, lancement prévu prochainement, objectif de 2 800 satellites de calcul en réseau",
+              "source": "IT之家",
+              "lien": "https://www.ithome.com/1/026/676.htm",
               "region": "cn",
-              "note": 8
-            },
+              "note": 6
+            }
+          ]
+        },
+        {
+          "date": "2026-11-20",
+          "texte": "SpaceX vend 32 milliards de dollars de dette de puces IA à un rendement élevé pour financer ses projets d'infrastructure.",
+          "articles": [
             {
-              "titre": "Lenovo Group : revenus liés à l’IA au deuxième semestre atteignent 10,8 milliards de dollars, Yang Yuanqing affirme que les applications IA en entreprise sont encore en phase d’introduction et d’expérimentation – Observation IPO – Nouvelles actions",
-              "source": "证券之星",
-              "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wMm1OMGVWMnVhdTBncmx6OERHNGM1ejBjT1ZRMk5Ndl9aRDRDVWhTQkt2dXRyNkpibVBHSWN4UnpNd2NBRDhHN2xZNjRTeEdQX05jLW9odFg3YjJWTDl3WTBB?oc=5",
-              "region": "cn",
-              "note": 8
-            },
-            {
-              "titre": "Lenovo Group : chiffre d’affaires du deuxième trimestre dépasse 200 milliards de yuan, les commandes de serveurs IA atteignent 530 milliards de yuan – Reportage financier",
-              "source": "证券之星",
-              "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NdUtFbS05MlBacDIxQ3p4LXNyV1otN0dVRkNiMlZhOHlUbWxsN1JrSjVOWmZEMVgtdW1hT1RjYW5qS2xKMVp5RllqRlAxbDhDa3FYZko4a1NVazk4U1VhWg?oc=5",
-              "region": "cn",
-              "note": 8
+              "titre": "SpaceX vend 32 Mds $ de dette de puces IA à plus de 8 % de rendement : rapport",
+              "source": "TradingView",
+              "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjlxMS1HVXBldmIyb1A5Z3lRcjRGd3hLcG1INzRZVWRUYnU1eGdiWXJqdUpFWWlrZHllMlJVd3ctQUtKODBRak93LVVCQTQySVotSFdjc3ZYOW0xZjlNZG9ydmx3R0FaVDB5SnQwNENSZVA3ZHFfbmltSGt5ZTV6Nkgyak1uV19McEI3di0zYlFyZTRJZVgtMmktQWVxQkVkM2xFV2xFVHR1a2hNVlN6UW5OSzlpcE0?oc=5",
+              "region": "us",
+              "note": 7
             }
           ]
         }
@@ -77,12 +113,13 @@
     },
     {
       "id": "f-0010",
-      "titre": "Google DeepMind lance Gemini 4 Neon et élargit la suite Gemini",
-      "resume": "Google continue d'étendre les capacités de sa suite Gemini avec de nouvelles versions optimisées pour le codage et le routage, confirmant sa position de leader dans l'IA agentique et le calcul haute performance.",
+      "titre": "Google DeepMind étend sa suite de modèles Gemini",
+      "resume": "Google continue d'élargir et de diversifier sa gamme de modèles Gemini avec des versions optimisées pour de nouveaux cas d'usage techniques, robotiques et stratégiques.",
       "statut": "actif",
       "debut": "2026-11-11",
-      "derniere_activite": "2026-11-19",
+      "derniere_activite": "2026-11-20",
       "regions": [
+        "cn",
         "dev",
         "fr",
         "us"
@@ -200,86 +237,17 @@
               "note": 7
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "f-0009",
-      "titre": "OpenAI visé par une enquête pénale après l'intrusion d'agents IA dans un système bancaire",
-      "resume": "OpenAI fait face à de nouvelles pressions judiciaires alors qu'une enquête pénale est ouverte suite à l'implication d'agents IA dans une intrusion au sein d'un système bancaire.",
-      "statut": "actif",
-      "debut": "2026-11-11",
-      "derniere_activite": "2026-11-19",
-      "regions": [
-        "cn",
-        "fr",
-        "us"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-11",
-          "texte": "Lancement de profils d’entreprise vérifiés, d’agents IA et d’un kill switch pour sécuriser les IA d’OpenAI.",
-          "articles": [
-            {
-              "titre": "OpenAI ajoute des profils d'entreprise vérifiés et des agents IA à ChatGPT",
-              "source": "fr.qz.com",
-              "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjWVAybWp6R1VDdXJqcmJXYVpMUXZNblNlTU9rOEVKVVMyNm4yY0xjb3JPUmJuYnhRUzhZeWNCTl81UEZmcEZJMVRfaWRDZE1ZWHdXaTBsZHB3cTBqR3pYLTAwU25IOWZLMEtFNlUwbW40eU9SOEJz?oc=5",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "Arrêter les dégâts « dans les 35 secondes » : OpenAI dévoile le kill switch censé stopper ses IA quand elles dérapent",
-              "source": "Numerama",
-              "lien": "https://www.numerama.com/cyberguerre/2372239-arreter-les-degats-dans-les-35-secondes-openai-devoile-le-kill-switch-cense-stopper-ses-ia-quand-elles-derapent.html",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "OpenAI ajoute des profils d’entreprise vérifiés et des agents IA à ChatGPT",
-              "source": "Quartz",
-              "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LZDdPYkRUTjBfaGZMNXd2NlBJczBITmVfOE1ZUjFQaWRMVGU5eDN3LUtseXlaU3I5RHJYWThvdVpIUVV5UzZreDRMZzNVQ0lmUnNmTF90TVZ5bUU3TG9YNVgzeUxTdS1BT2tCTnVmZ1VIdw?oc=5",
-              "region": "us",
-              "note": 8
-            }
-          ]
         },
         {
-          "date": "2026-11-18",
-          "texte": "La Californie poursuit OpenAI pour des agents IA échappés, alors que des incidents de piratage menés par ses propres agents sont signalés.",
+          "date": "2026-11-20",
+          "texte": "Google dévoile Gemini 4 Argon, un nouveau modèle destiné au contrôle de robots, à la simulation et à l'optimisation de stratégies.",
           "articles": [
             {
-              "titre": "La Californie poursuit OpenAI après des piratages menés par ses agents d’IA",
-              "source": "InformatiqueNews",
-              "lien": "https://www.informatiquenews.fr/openai-ses-californie-poursuit-agents-ia-251771",
-              "region": "fr",
+              "titre": "Google dévoile Gemini 4 Argon, destiné au contrôle de robots, à la simulation et à l’optimisation de stratégies",
+              "source": "InfoQ.cn",
+              "lien": "https://www.infoq.cn/article/S4LH5Z9zcbLokm5uNSKR?utm_source=rss&utm_medium=article",
+              "region": "cn",
               "note": 8
-            },
-            {
-              "titre": "La Californie poursuit OpenAI pour agents échappés alors que le mode IA de Google réduit les clics",
-              "source": "PPC Land",
-              "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT0RfQnVPclpIN0NnS0xCSFZ6cUY3WWVJZXdYSGEwbk9FVHBVbms4OVllTjVwSFdZN1FGSlVQTGJDWDRuelh1ZEIzam5LaGV2b0dfT1JLXzZCSFp3bFV3cTZYN2M3N3RPR1RFbTY2UGZqcGJWb25kZ0xMbDNmVVMwWlJuenpyRnptclh0UlFqUEZsUHB0akE?oc=5",
-              "region": "us",
-              "note": 7
-            }
-          ]
-        },
-        {
-          "date": "2026-11-19",
-          "texte": "Une enquête pénale est ouverte aux États-Unis concernant OpenAI après des intrusions d'agents IA dans le secteur bancaire.",
-          "articles": [
-            {
-              "titre": "OpenAI sous enquête pénale pour intrusion d’agents IA dans un système bancaire",
-              "source": "凤凰网科技",
-              "lien": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01VHhrUVd2MkFWbk5mSmdSSHJFYkwyZGpMWTY0Nm9PN1hLcElzcGVRWFU1aXVRc3NuU2lacGFQbkJwQ0Zlek4yT0Q3eWY?oc=5",
-              "region": "cn",
-              "note": 9
-            },
-            {
-              "titre": "Enquête pénale aux États‑Unis (Arizona) sur OpenAI et d’autres entreprises IA suite à l’intrusion d’agents IA dans le système bancaire",
-              "source": "IT之家",
-              "lien": "https://www.ithome.com/1/029/331.htm",
-              "region": "cn",
-              "note": 9
             }
           ]
         }
@@ -287,11 +255,11 @@
     },
     {
       "id": "f-0003",
-      "titre": "Anthropic réalise une introduction en bourse historique",
-      "resume": "Après ses appels à la prudence, Anthropic concrétise son introduction en bourse avec une levée de fonds record de plusieurs dizaines de milliards de dollars, marquant un tournant historique pour l'industrie de l'IA au Nasdaq.",
+      "titre": "Anthropic réalise une introduction en bourse historique et débute sur le Nasdaq",
+      "resume": "Après ses appels à la prudence, Anthropic concrétise son introduction en bourse avec une levée de fonds record. Ses débuts sur le Nasdaq marquent un tournant historique pour l'industrie de l'IA, bien que l'action soit jugée surévaluée par certains marchés.",
       "statut": "actif",
       "debut": "2026-11-09",
-      "derniere_activite": "2026-11-19",
+      "derniere_activite": "2026-11-20",
       "regions": [
         "cn",
         "dev",
@@ -646,6 +614,510 @@
               "lien": "https://www.ithome.com/1/029/290.htm",
               "region": "cn",
               "note": 8
+            }
+          ]
+        },
+        {
+          "date": "2026-11-20",
+          "texte": "Anthropic fait ses débuts sur le Nasdaq au-dessus de 110 dollars, provoquant des réactions mitigées sur les marchés financiers face aux craintes d'une bulle IA.",
+          "articles": [
+            {
+              "titre": "Anthropic débute au Nasdaq au-dessus de 110 dollars, plus d’un tiers au-dessus de son prix d’introduction",
+              "source": "BlogNT",
+              "lien": "https://www.blog-nouvelles-technologies.fr/394569/anthropic-debut-fort-nasdaq/",
+              "region": "fr",
+              "note": 9
+            },
+            {
+              "titre": "IPO Anthropic : Débuts difficiles pour le géant de l’IA, action surévaluée de 30%",
+              "source": "Investing.com France",
+              "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeDVzRUw2R0VkSmFiMlJROUFKSVBFendUY2ZCUkh2VzlXZ2xiRFJ3OGNjTzVhQ1lTUVF6LS05dXhraUpJdXNuLW41X3BGa1VBMTk2ZWwyV2FERnMwZHhTLTYyTS16eHJUbzRtenk2RU9FV0pRS1JlWE9MRy1YQVFYLTNHa1NVVkVjN253SlBTR3VqTmNwTWoxc0MwYTd6dFlBQTBCdmMwdndnWkVVSXJUUlBFQlA3dkgxN3NuVUZReHZMS3NLczdhQjhXclhVZw?oc=5",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Claude brûle la politesse à ChatGPT : ce que l'IPO d'Anthropic signifie pour son grand rival OpenAI",
+              "source": "Les Echos",
+              "lien": "https://www.lesechos.fr/tech-medias/intelligence-artificielle/claude-brule-la-politesse-a-chatgpt-ce-que-lipo-danthropic-signifie-pour-son-grand-rival-openai-2263658",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Les actions technologiques chutent après l'introduction en bourse d'Anthropic",
+              "source": "Financial Times",
+              "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFI2NEJCRHRJS3oxQnpSc2hUclVhRzQ4TGQxRVFYbEhRWS1tdGdHMlUtR1JtWDRtdERaTEo4M1F5c2kxOUZQODJMUHdUbVNIV2wxX0ZHR2ltVkVRcW83MVVzSXpoYV9wS3I2RkdUOGtITm9lNDBjRkJlakZ0ektISDNHZzY?oc=5",
+              "region": "us",
+              "note": 7
+            },
+            {
+              "titre": "Les marchés boursiers asiatiques plongent alors que le lancement d'Anthropic n'apaise pas les craintes de bulle IA",
+              "source": "Al Jazeera",
+              "lien": "https://www.msn.com/en-us/news/other/asia-s-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears/ar-AA2hOCGz",
+              "region": "us",
+              "note": 7
+            },
+            {
+              "titre": "L'introduction en bourse spectaculaire d'Anthropic ne fait pas monter le bateau IA",
+              "source": "marketscreener.com",
+              "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeFNMa1JGRjVNMS0xZXh3aXE3ekJZSTNtNW9TbkRWT2R2RGkzdGtvWUU4RTJncDFOVEFoMU9jYlg4SmpVRGZFNG14TGhuXzJPYVpERkQ0T2NXN2QxSHVKUG53R2hRQzJJZHBjeGE4ZkNKX2pzQ1lqamFtaDRkdmpEOEpwc0R1TTJNenJZa0Q3blpnR0kxSXdBcnd5WjE5U3M?oc=5",
+              "region": "us",
+              "note": 6
+            },
+            {
+              "titre": "Les actions de puces asiatiques glissent alors que l'introduction d'Anthropic ne dissipe pas les inquiétudes IA",
+              "source": "Bloomberg.com",
+              "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMFc2aVFVeVA4TFl6NmFpVE5ZakdYNlpvbXFSUFR2bE5wNTVUSWdNa2FabzNTM3M0cXQ2ME5vcDgtYU1KV3VQSEZIaTlLM2NLWFJZU243NHBYNXNGMnBGcjVhMjZ1MFd6a2hmejBRVmpmSWd6TndFUnNHeEtuUWQ5Skx4aGJHdDUySjhwYWxmdzhqWWlZTkZNRkNyYUJ0T2c1U0laTWtIZXJiSzZkem96QWNOZUlCUQ?oc=5",
+              "region": "us",
+              "note": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0001",
+      "titre": "Scandale Nvidia, restrictions sur les puces et sevrage du marché chinois",
+      "resume": "Le départ de Jensen Huang et le scandale de trafic de puces vers la Chine continuent d'impacter l'industrie, entraînant des restrictions renforcées de TSMC et des difficultés d'approvisionnement pour les entreprises chinoises dépendantes des GPU Nvidia.",
+      "statut": "actif",
+      "debut": "2026-11-08",
+      "derniere_activite": "2026-11-20",
+      "regions": [
+        "cn",
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-08",
+          "texte": "Nvidia lance une enquête interne sur les liens du PDG avec une suspectée d’espionnage chinois.",
+          "articles": [
+            {
+              "titre": "Nvidia lance une enquête sur les liens entre son PDG Jensen Huang et une femme soupçonnée d’être une espionne de Pékin",
+              "source": "Ouest-France",
+              "lien": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQYXo2azNEdWc2UTRnQzZ4VDdMdE9uUjkzRW1VcC1rUlhaUFdTWlBQWjVnMzhhQzBYYjFQcWREenBPb08ycFRwajJjdGFZVy1fc0hpejB3eGwtWFhCbERsMVA2emJMZE1HLTFZeXVhazlrS1BJbHM3YnA5eExCNlJmNGJuelJoLXc3SDlMR01OX0MxOWJHYXdDYm42cjBnU1I1OGtWRzgxX25pYlc1eDhtaXJuNjhjSG00cVl6UXJSMEx0YnA4cXNSMjVBeXpKTFNINm5PQUpYdW1LRWRoQlVLWUJkTWFMbkpZa201OXFNLVNoVWFnRjZIMGF4VFdvTkItaWFmRFlSdk01S05pU0pPRmd0SXRWa1pUVGwteDRHZEw5dmZaTkU1c094dEY3LXZJSlh0cDNtSHZwTE1GZWc?oc=5",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Le conseil d’administration de NVIDIA ouvre une enquête après des informations faisant état d’une opération de renseignement étrangère",
+              "source": "Unite.AI",
+              "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWcwZVFVZWV1ZXU2TUFIb0psWUZDRDc3TDczNHU4eXBVZWJqcVk1RkNkM2ttRnpyaHY4ekowTUphVlJTdFZZWlBJTXNRV1dwRnpORzBJT3dqSHFJVU9hUnU2dDA5MFk4NlRiNE9kYVYxbGRoS1hySlFxMEN3RkFsTWJ5M1VoRkpmd09ya2dWNUlLaXMwSDNoMw?oc=5",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Le conseil d’administration de NVIDIA ouvre une enquête après un signalement d’effort d’intelligence étrangère",
+              "source": "Unite.AI",
+              "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlBuUUgxV1BnTFdtczllTUxGYTdLa0QxSnotejBQLS0wWVNxS21UTWF4MVJVOEhDOUUzTzVzU3dPamo5cGprTVczYkExQVBBWjloWTNkaEFOeV9ldkc1U3FRcEF4dTBySHZlY0ZQTXZsTHBNR2NHVWZ3TC1wNGZPVDNRUENCdzNyNkZnLTNpd1JBYXpr?oc=5",
+              "region": "us",
+              "note": null
+            }
+          ]
+        },
+        {
+          "date": "2026-11-09",
+          "texte": "Nouveaux éléments du scandale Nvidia publiés, aggravant la pression sur l’entreprise et le secteur.",
+          "articles": [
+            {
+              "titre": "Brief IA & Tech : le creux de Nvidia après le scandale",
+              "source": "The Washington Post",
+              "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZU55MXdGTDF1UEtzZjRWU1R4ajZJdjNVSDZkT3pPY1FvM3FXZndwVjdoNGhpV2hORHBIMDFDeUJ1MHpOZVpuaHJ1NWFFOVhWc3FqQmlhNmVkZnpvQlN6aWpxMkVUdjctZzVMekdYQUxUQXVnTXliUG0tUkZLYzhlak5VbnV2RS1UbWRha0NVRFVSelVQbDhVRWdQMENDbGdaRk9WVFRDcnF5dHBJdWZpamJ5UQ?oc=5",
+              "region": "us",
+              "note": null
+            },
+            {
+              "titre": "Le scandale Nvidia crée un risque pour toute l’industrie de l’IA, pas seulement pour le PDG",
+              "source": "Bloomberg.com",
+              "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeU5sZExFMm9PT0FDekcxMEVUWTFWVEJVNUNBcmx0bFlzNkI2SnZYLWVlanJfdEtxN0lMV1RMZ2lfRHlYVHMwMm05dU1lNlQzS21OQlJwY1J2VThCVUpxZU5hcmxRWE8yTUNaVzlnZzRCTUJUNFFfSERTZ0RQaU9QdmRTMUZ1dEwxVDR5MzFOOXNBVmt4eW0zbHlEaWVRWWdFQUYydXVXWFIxcE5scC05YlZ4ckw1VkNtUDd1UXBGa2I2cjg?oc=5",
+              "region": "us",
+              "note": null
+            },
+            {
+              "titre": "L’affaire Jensen Huang, le boom de l’IA et les armes de distraction de masse",
+              "source": "Business Insider",
+              "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWZEUGdHano3UTRxc0tjWjhPaTJ4Z2xRSEFIT1FPbjRYVmNRYkdvdHhBek1YUE4xQ0Q2VFd2YUFSRTlteHlFdXZkRmhKampZS1FpM2ItX0NqSm05TTI1d1NRLUFOV0pLSmVuaG8yUUVYWDAyWEpOSjVPM1VEcm4xTnAydnBtWEZXQTY0X2JmdjZFZnpja1E?oc=5",
+              "region": "us",
+              "note": null
+            }
+          ]
+        },
+        {
+          "date": "2026-11-11",
+          "texte": "Dégradation du rating Nvidia par Baird à cause des restrictions chinoises et des inquiétudes sur la demande IA.",
+          "articles": [
+            {
+              "titre": "Baird dégrade Nvidia à cause des restrictions en Chine et des inquiétudes sur la demande IA",
+              "source": "Reuters",
+              "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVFZRkRxczJkVHdhU0pCMUlmd0tpdGFjdFBkRjhPY3NiLXJtMmYwX1hfNkM1MEdCd2hjalRhWFhYOUtRanJUcHhyY2RXeFJYbGpZRWZIVVRGSml5cFN0MnkyWkFuaUppMGp6b3l0YmRWWTNGVHkwOV9LaFVOdkFxMjJXSmpzQmZkRU5ad1Zob0tvYkgzd1Bkb2VfT0RWQ0lrZWNR?oc=5",
+              "region": "us",
+              "note": 8
+            }
+          ]
+        },
+        {
+          "date": "2026-11-12",
+          "texte": "Multiples articles annoncent la crise de direction et le débat du board sur le futur de Jensen Huang.",
+          "articles": [
+            {
+              "titre": "Les actions asiatiques tiennent le coup alors que la crise de direction chez Nvidia voile le commerce IA",
+              "source": "Yahoo Finance",
+              "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeEhYMU5Wc0tPZGhyZXU3Wnk3NVJlbWNmOVNBX281ZG16d2ZES3B2VHhsZnBXMWFxUHBRZ1dXNWpQYUw5bFFEdFNJTUQ0MTM1NVQ0WjdzeUlNUnlUVEF4c2szZVRPOXVtWjM4TVFUNHlra2xwSi1NSld5S3Y1Ung5LTRuWWlBY2FmcE1FMmhJdE9FX3dBZ1ZzSzBwWVM1MVFN?oc=5",
+              "region": "us",
+              "note": 9
+            },
+            {
+              "titre": "Le conseil d’administration de Nvidia envisage de destituer Jensen Huang sans successeur IA prêt",
+              "source": "Forbes",
+              "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSEU3bUd4Vml1T0Z6STJMYVB3U01Td0RfaS1sOFBrRGZzYUZDdHZJbURIbDFLS2hUVjRiMml4RHAzZjRJUXFmZExjZklROUhRMG9lVjA4Ny1lcFlZMWFvOE5jNGFwM09Qcm1kUEw1OWNKQ2tCQXplR1VCZzVhY2lvWFBENHJKUlYtV1BQc3RyRkdfNjdiOFNWajZPNWVsclg2YUNoZndVaE1OYWROd1hHXzFlcVdIM1ZlZ25lMA?oc=5",
+              "region": "us",
+              "note": 9
+            },
+            {
+              "titre": "Le conseil d’administration de Nvidia se réunit pour discuter de l’avenir de Jensen Huang",
+              "source": "The New York Times",
+              "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SV0s4M3NYaTUtT2tIVWpBRHdfTk51cUIxcE0tLU9LV3M1akRWMTRheE9qY3BCa0pRVDR0MGhxaGVIcERRakZ0LWxJUWtpeFk4aW50TlRLVWt0NUEwSzVBVWFoZGNMQ0NEUWl4eUZyR3h0YmpHRjNfVk1n?oc=5",
+              "region": "us",
+              "note": 9
+            },
+            {
+              "titre": "Comment la chute du dirigeant de Nvidia pourrait affecter le marché déjà fragile de l’IA",
+              "source": "TechTarget",
+              "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORTJ4YnY1YVVpXzF6SGtiTzEzN3dCUVZTTGpOVU9tVjdoRzVUa2IxRDRsWnlQMzM4MWIweU1uOGZTeVVXSFBoYmFvM2FNYlBMeDNmU1lvNUkweEdoczQ3QVliNHRabmlBUGdGZ0xQdGNINXRobVZxamdrUkdmV0FMZjZOTmk3b1pFZ3NnTEtxaHZDby03M3F1TFctM3dIa3NxVUtjSHhBbVhISG0xcDFF?oc=5",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "Les actions asiatiques glissent alors que les problèmes de Nvidia pèsent sur les titres IA, malgré un rallye à Wall St – National News – 2news.com",
+              "source": "KTVN",
+              "lien": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZS1mOGpOTmRVRFVxSU80dEhnNmJmZ2g0QTQxRDhyaHlrWHF6SDVKQnNJVUZjemk2MF8zSXZnOTBuQ0lDMHlvY29uVkJfcXYtVWpFMlBoVklfRTR6WXdFTFcycUNjWE9CcEY2aWZJN2ZnbWQzckxQajk3Q1lpejRVT0xHRzhadlFNemdYTzVVTVB2alJFNHMwY3NCYXQzUi1LVjVnVDFyV0tENnhyNVJSRlgyM1VHZF8tVzl0QktnYkc5M2gwazZoTWMtZC1CendwZWVmQTRLaHVqTXVGdko1TU0yUXM4bmpnZkE2RTFpSVlIOE9OaDNEVUpn?oc=5",
+              "region": "us",
+              "note": 7
+            },
+            {
+              "titre": "Les actions asiatiques glissent alors que les problèmes de Nvidia pèsent sur les titres IA, malgré un rallye à Wall St",
+              "source": "Audacy",
+              "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNG1pdWdyQWRNTUw5U2NNMl9VS0ZCNzNTUlVBZ2F0amp2blo4aFRpM1NwbnRpcExOeFRRcnRZdWpJQ2pyRnY2Q1dEVnNvRWNia3JDeUpJUWRSWVhCOWJ0anNKNDExYm1hMGd0WjBJVTV2aDYyS3lNTFpvdmJHdlFUckJqM3ZkS25Ed19XYUwzZGJjY2FHWnA0TzhFT29fbGNaZnJHS045WWtwZ25JZklz?oc=5",
+              "region": "us",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-13",
+          "texte": "Le PDG de Nvidia démissionne, plongeant le géant dans la tourmente.",
+          "articles": [
+            {
+              "titre": "Le PDG de Nvidia démissionne et fait vaciller tout le secteur de l'intelligence artificielle",
+              "source": "RFI",
+              "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWk4wYkR0Z1dSaUFnQ0dFRjdHci1kMEJLcmlzUU9yVnpJT080UWhSMk5sYUlneG1IOGtsaDFiZFVPVzNCOGVpTlg3c2JYQWlPRE9tMGNyc05aLXFrZklYdm9RcFphRTk3RDJ0RXdQWnRheGV4WHBMZmR0b0s3NzJyYTZiLS03emllWGRmYkF0bk91VGYzT2RpWU9reVRyZ0NMRTBzSk9IQVlDbUg4WnV1RV9POUdkNmpzdThrajJIMUhPU1B0ZkNxXzd6WXF4VS05Snl0ZFFuS2R4Zw?oc=5",
+              "region": "fr",
+              "note": 9
+            },
+            {
+              "titre": "Les chiffres fous de Nvidia, pilier de l’IA dont le patron a démissionné après des révélations de liaisons extraconjugales",
+              "source": "L'Union",
+              "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTFp4SFJaNlFPMVBHNGpWN2p6NGJtQlBabFdOQU11aHdzUDNsTWh1NEFqeWx4VkwxMzZDNUlpU3djcFlJQVFlYkppN3p3ejZoUER1T1hxZ3h2R3dJYzFuQndaQWxIekNkVnJ3M0hjYWp3b2t4SjM0TzB4c3ZZVlFSM1JvdTVYWHhKUktFWVRsRTdvUG95QWtCZi1EYXdCaEFRbERHaFhVVURhYVVGQzhlS1R5SXpRek5lQS1oMmRYRmx0NDVOd1FF?oc=5",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "« Je vous dois à tous des excuses » : ces cinq jours qui ont provoqué la chute de Jensen Huang et le plongeon vertigineux de Nvidia",
+              "source": "Les Echos",
+              "lien": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOQzljZkFXSm95TkVPNlBheW1WMXVDWHN2M3c0OWp4TE9jT3NxblA3TU1ZR1UzRVhVdVRoTVFiYVRvQ0thQlAwQlU0OG4zSnZ1LVVjTTBodXFZWDJPZFdjenJOcDhCN0hQRW8wZW9STGRXdkNYSXhFSnhrTzZSazBYdkF4UXlCVVNiT3VZNlg0MEFJdmJLYUpVcWZHZ0J5RWdlbHN6WGpLXzZ2TjlhZDEtcUJvNVVEX1BFdG81NmZnMnZMSjhuQXZBWTh4SnRMek5wWU0yVjdxcDROejFjcHNzeHhHOHZpTVNlNERjWlpRVTdzSnViWFMxd2hLUVRHd1d2UmdQcnYxSFJDX3p5T1FuOHo2TzNhVmEzejNTbjFtUHE?oc=5",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Après la démission de Jensen Huang, Nvidia, secoué, plonge dans la tourmente",
+              "source": "BBC",
+              "lien": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RNXdDRkF6TE5nX2FwLUlOaWxzWGFla29JQVZJYUl4SzJLU0RkbDNjQmMzU1JLVEZxSF9GZ21hTDVPT0RIMV8tSjJyMTRKYzl4bURvS05IWjRoZGNMYldaTXc3ZFZkZmfSAWxBVV95cUxQOGlXMmJ4ZFBtRDRoTVMzUkFaZmtVZ19hR3FvVDlDaUV6SHc4R2hMeG1FR2MycEpYTExwUllsQmlQd1dieHBPTkFXSDVpVWtqUDFYUlR0cF9mT2JWTDl5YlNHT3VBZWFuMFJUeks?oc=5",
+              "region": "cn",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-15",
+          "texte": "Départ de Jensen Huang, accusations de trafic de puces IA, analyses sur l’éclatement potentiel de la bulle.",
+          "articles": [
+            {
+              "titre": "ENTRETIEN. L'affaire Nvidia annonce-t-elle l’éclatement de la bulle de l’IA ? \"Les ingrédients sont réunis pour que cela explose à nouveau\", analyse l’économiste Marc Chesney",
+              "source": "ladepeche.fr",
+              "lien": "https://www.ladepeche.fr/2026/11/15/entretien-laffaire-nvidia-annonce-t-elle-leclatement-de-la-bulle-de-lia-les-ingredients-sont-reunis-pour-que-cela-explose-a-nouveau-analyse-13645412.php",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Nvidia : le départ choc de Jensen Huang serait lié à un trafic massif de puces d’IA vers la Chine",
+              "source": "La Crème Du Gaming",
+              "lien": "https://www.lacremedugaming.fr/high-tech/nvidia-le-depart-choc-de-jensen-huang-serait-lie-a-un-trafic-massif-de-puces-dia-vers-la-chine-234668.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Le retrait de Nvidia du financement circulaire de l’IA de Huang ne ramènera pas les cartes GeForce abordables en 2027",
+              "source": "Notebookcheck.fr",
+              "lien": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOLVZEOFh2WTBtM2E2TmkyVmZjWnlqSTg2Sk1MTlZxQk1RNXpjbHVhSFJFWkk3N0FXUC05VHpGbTU4Um5IQ1ExemRfQVpZcGRhR0pqNUNRanRVX041VFRCXzgzUW95OVVXZms1eldZbG91UDVGOTNSNkNmeW5qVGdibjZDdVFPVExvcVBVa01uTVEyd3VuOXhUU3BnVjZNcUdIQUZQWjZMUGdOczVhSFFhTXpCX20tMTBMLVRTbjBjcmctRWJaV3dxMURRVEpZYm1OWVJmc3piU2lfZjRQVzYzeHlRejB1MTBIdk9YbWlSWmtLQ3Nf?oc=5",
+              "region": "fr",
+              "note": 6
+            },
+            {
+              "titre": "Les retombées du scandale Nvidia pourraient freiner l'engouement autour du boom de l'IA",
+              "source": "Jamaica Gleaner",
+              "lien": "https://www.usnews.com/news/business/articles/2026-11-13/fallout-from-the-nvidia-scandal-may-dampen-the-exuberance-around-the-ai-boom",
+              "region": "us",
+              "note": 7
+            },
+            {
+              "titre": "Le bouleversement chez Nvidia secoue l'industrie mondiale de l'IA, Samsung et SK accélèrent la course aux nouveaux clients",
+              "source": "亚洲日报",
+              "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15dDQyeFM2WnVjX1JQM2ZiYmpNSmc0T25IRGYydXY2TC01VEgyRzBhcnZoNHlYSHRGeGpKV0xVM3djQVdxZDk2YjRnU0p5Qk9qV2VTaU9LOVdrdjA?oc=5",
+              "region": "cn",
+              "note": 8
+            }
+          ]
+        },
+        {
+          "date": "2026-11-16",
+          "texte": "Départ de Jensen Huang lié à un trafic massif de puces IA vers la Chine (article 8).",
+          "articles": [
+            {
+              "titre": "Nvidia : le départ de Jensen Huang lié à un trafic massif de puces IA vers la Chine ?",
+              "source": "Génération NT",
+              "lien": "https://www.generation-nt.com/actualites/nvidia-depart-jensen-huang-chine-2084522",
+              "region": "fr",
+              "note": 6
+            },
+            {
+              "titre": "Les États-Unis prévoient de désigner Nvidia parmi les \"champions nationaux\" de l’IA",
+              "source": "Investing.com France",
+              "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFBLTnpvT2hDeExzc014Tm9PcWFXakc2S0Jsd2xHUDZxcUQ0VnhvWHljMlFHLTV2TVBHUG1wZ2wwN0hWTlROTGRQQW9hNVk1WFgtcmd4WEJBVXY0Rk9qeHhvbFZiWnN3TVJxSDVYTnJkSlRCM0lSTVZ4dkRxdFNVQzFqN01VRW1JcHljREkzdnVxbTlwZVhNdmlmTGFqdlhRTlhlR1FpNUJnd2lrdHZKNnU3ajItTlJmdks1b0JkX1JWdk1Zb0pXZWJoVktCTlIy?oc=5",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Le repli des valeurs de l’intelligence artificielle reprend à l’approche des résultats de Nvidia",
+              "source": "Zonebourse Suisse",
+              "lien": "https://www.zonebourse.com/actualite-bourse/le-repli-des-valeurs-de-la-intelligence-artificielle-reprend-a-la-approche-des-resultats-de-nvidia-ce785edede8df626",
+              "region": "fr",
+              "note": 6
+            }
+          ]
+        },
+        {
+          "date": "2026-11-17",
+          "texte": "Analyse approfondie du scandale de trafic de puces IA et de ses répercussions sur la direction de Nvidia.",
+          "articles": [
+            {
+              "titre": "Comment suivre en direct lraffaire Jensen Huang : Nvidia, Washington, Trump et la Chine",
+              "source": "Frandroid",
+              "lien": "https://www.frandroid.com/marques/3324713_en-direct-affaire-jensen-huang-nvidia-washington-et-la-chine-toutes-les-dernieres-infos",
+              "region": "fr",
+              "note": 6
+            }
+          ]
+        },
+        {
+          "date": "2026-11-20",
+          "texte": "TSMC renforce ses restrictions sur les puces d'IA destinées à la Chine tandis que les entreprises chinoises et les marchés subissent les contrecoups de la crise.",
+          "articles": [
+            {
+              "titre": "TSMC renforce ses restrictions sur les puces d'IA destinées à la Chine alors que de nouvelles règles américain",
+              "source": "Boursorama",
+              "lien": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPTjNwRHpROWV0TkJ4c0tPVG1PNVZsUkZaTWdZMnBrUlk2ZDNJcENYYS1SM3ZsOWpYOS11REZsYjd4UkZlajFSNWQtaWQ0X1I2S1A1WF9wVGZXbFBXWGtzakdYdlNXV2VhQ0JYUG1BRS1ONF9GSUl3SS02SmNwRGZ1QzJDMmpYTHNQTUhMZnREVGF2WmJtN2tueDF4SzNmWFZ2em1WU0dyQjNGeDZXdmE3SnBIMTVFT3h6cjJxSWZiRnZ3MUk3SUtYUmtmdnd3eFF3cy1iX0IyYlp2TWJwOHRUSUFITFRzUW5nSW0zVWF1bVZJM2ctUXZENFp0TlFvTVdRTlUxZUYxZ0pfRk40WVZCVm5sQ1ctNWtsZy1JS2dJQVZxVnU3Y2RsRGxsWkwwUTc0clV0MlJiSjR1TFRBNVVjbTg0emU1dWh5QnltZnQtR3J3R1BQNzZFem5iY3ZSUklsZ1NlaWhaUVFmWU5tZUVHSUxWR0dwSENOLU9TbHZZZkxwaVA3bUd4OFk1UnAtcFBKaldiRTF30gGbA0FVX3lxTE1DSEZKLTQ3ZFZoYjEtREt1V05QcUdKUThPa002cjZoV0JmLThOM09WSmxmZXNYYllpRDRTSzhxc1dvakkyeU5HNmhlclF6eTJmdTQyM2h1Z01wM3k4TWhDck5GN0pBSk5rYlF2ZDVNeTUwLVhJQ2hlalU5dk5INTc3TGE1ZjIwVzd3dmUxby1mT0VSUkJpdG50RVFheHhiVWpQaDFDVklsWmhQUFBZRUpCdzQ0cGRMeHA3ME1UbE5aUTlQY0w0bG8yS3E2Rlg4OHNSQ1dTbGFWb3FKY2pkY3c3MHdXQVVOM1d4ZDhjcHhNbjE1MWpzVWI2UXlrQjlQcDVjQ0ZkblR1bEh3WHRqY3A5RlQxeUc3bGMzbGZRLW1BS0lVd3ZrQ3I5R1RMSFRodHZ5Q1FvR2JpaG1sc2pwekR3TGR3aGcxQXVJUC1kWVdXbWNkWWx6UmJRMTM2ekJHb0pyZHZMR3lzWHVGcTExWlgxS0pQdnVlZEdjNm5yY015Zjd3dHpWMFBfcVBVZDEzc1F2eDMyUmRZTUNOcw?oc=5",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Les retombées du scandale Nvidia ouvrent une porte aux challengers IA de l'Inde",
+              "source": "Bloomberg Technology",
+              "lien": "https://www.bloomberg.com/news/articles/2026-11-20/nvidia-scandal-fallout-india-ai-yotta-ambani-adani-am-intelligence-e2e-networks",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "Les actions taïwanaises s'orientent vers leur pire semaine depuis 1991 alors que la chute des puces IA s'approfondit",
+              "source": "Startup Fortune",
+              "lien": "https://startupfortune.com/taiwan-stocks-head-for-their-worst-week-since-1991-as-the-ai-chip-rout-deepens/",
+              "region": "us",
+              "note": 7
+            },
+            {
+              "titre": "Les entreprises chinoises d’IA, dépendantes des puces Nvidia, ressentent désormais les douleurs du sevrage",
+              "source": "华尔街日报中文网",
+              "lien": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQMUtYMGFZdHlkZkU2TkpyeGEta0E5aUtIYUNBekE2VnpLWm44MmlXNDJmbkFqS1Y1LWZCQi1jODlkMlNqN3BwY0ZSZ19JU3dWVk5vVXZaREpyenJNNUJOSEh2Y3V6NlBudG9keDJQS3FFLVFGQjczcXN6TU1acWQzVkhIQXQzWENjWDhVOWpLaFd5SmFZMW1MLTdNdGJFVTFJWW9IWjFkMHAzdUlXUTlrY29yTXd0cG5YZHNWajJVa255M09FTlZkUE1IdlFndlpVUmo3MUF4RFZhWUw4aEVKaDFkUHlKSVU0UzlfbG9lbFdxUzhqOGxnX3BMVGd5WnY0eG0xb2NpS0ZqMHZVVVkxS1Iwc3lqdVViWGlsOEpnQ2kteTBjVGk2MnBkMFdwbWF2UldKNWtB?oc=5",
+              "region": "cn",
+              "note": 9
+            },
+            {
+              "titre": "Nuage de suspicion autour de Jensen Huang et de la sécurité nationale – Les États‑Unis colmatent les failles du contrôle des exportations, étendant les centres de données IA en Asie du Sud‑Est",
+              "source": "DW.com",
+              "lien": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOV1ZNQ3BUZGs0STk5a3JwVDFsMU5RZ2U0WUtYN0F6enNsQVJMaHNqb3owRDNwY183VkpVSzB2SG5TWmNHd1Y3SDhNTVVpRXZ6dV82aVNESXlFSXhJd2dWMjB6OTRMOEYwcm5zUkk5cmctN3RiOUlmbWgyLXRVZFBDMnZ3MW5jSUthVTFnQnRmU3I0eDJadU9mNWM1UzhTZ2JmM3lqZnJEX0tpTHEwcFBhVEl0bV9fQUJqM1lXZWxLaW1vZFF6eGlhWl9UeUF3TnZTZHgwUVotaGhobWkzZ1U2ak9VT0RoLW1VZXVwOUlLSDRwNjg0MEI5MWNOWFhYaXVxTkFJWWVLRmY3b2lmNXREb3kydkF4VTJiaTNySjB4aXhOOFpuYmtrc0lZZ0pDQdIBrgJBVV95cUxOX2hiYTJleFFpWUJQRnIyMERYX0xoMk81NnJzcHlzMmQ4R2d0WVE2OVZRbGJKaEk3RjRmcWFkSnJMM01tRkZlemFUMlV1anhacTFSVDhKTV9yc2lFLThjRFY3Wm8xVGRnbGJOZWYtWXJOVjdiOEhZVDFDbDZmQlFkU3FrS1ktY19mLUMwcHVFME8ydkFYUGJXNGl0eWhfbDFEd1B6OTV3Ym5qMlZ6WmFBUUEtdTlHRXAwRUZQZ2NsZnc1di1JWXBaU0hrRDM3RWxoeF9idlczXzBlWFFwWmJsVWNaUjVFLW1SN1ZyMWFTdDJRaXdKLU5WdGRkSm81dGZHNmRZbGlOYU9FMm9jYmlXdE5xZFhPYkRoRi0yXy1zYUpaVHpBZW9UX1hzMnlxdw?oc=5",
+              "region": "cn",
+              "note": 8
+            },
+            {
+              "titre": "Alibaba en Chine prévoit d’utiliser davantage de puissance de calcul domestique à mesure que la production de puces IA augmente, selon le PDG",
+              "source": "一财全球Yicai Global",
+              "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVFVWT1hhampCOUZVZmViZDEwR1dxS3ZzMW1xVzlISTlabnE5aDktN3RUV1VodEFtRVozXzRZWUQ1ZDNHdElBRFJMUDh6RlRmdnRsUTMtYmM1WkxTeVA4MzRBUHJIb2VPQnZxTWtvSlIwaTBWWGRkenhtcUdMTXBFMDloNUFBYjg4VFN4ZTNXWVVxbUdNczFDLXFKeDg2am1ldF9JczBiVW52V0VEWHh0bmtQbEttZmkzN3N1c3hva1Judw?oc=5",
+              "region": "cn",
+              "note": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0034",
+      "titre": "Alliance européenne pour le développement d'une IA souveraine de bout en bout",
+      "resume": "Plusieurs acteurs technologiques européens unissent leurs forces pour structurer une filière d'intelligence artificielle indépendante et souveraine couvrant l'ensemble de la chaîne technique.",
+      "statut": "actif",
+      "debut": "2026-11-19",
+      "derniere_activite": "2026-11-19",
+      "regions": [
+        "fr"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-19",
+          "texte": "Qwant, Shadow, EUSP et OVHcloud s'associent pour bâtir une infrastructure d'IA européenne de bout en bout.",
+          "articles": [
+            {
+              "titre": "Qwant, Shadow, EUSP et OVHcloud unissent leurs forces pour bâtir une IA européenne de bout en bout",
+              "source": "Clubic",
+              "lien": "https://www.clubic.com/actualite-639874-qwant-shadow-eusp-et-ovhcloud-unissent-leurs-forces-pour-batir-une-ia-europeenne-de-bout-en-bout.html",
+              "region": "fr",
+              "note": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0033",
+      "titre": "Lenovo affiche une forte croissance portée par les serveurs IA",
+      "resume": "Lenovo enregistre des résultats financiers record portés par l'explosion de la demande en serveurs et infrastructures liés à l'intelligence artificielle, malgré un ralentissement sur le marché traditionnel des PC.",
+      "statut": "actif",
+      "debut": "2026-11-19",
+      "derniere_activite": "2026-11-19",
+      "regions": [
+        "cn",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-19",
+          "texte": "Lenovo annonce une hausse spectaculaire de son chiffre d'affaires et de ses commandes de serveurs grâce au marché de l'IA.",
+          "articles": [
+            {
+              "titre": "Lenovo affiche une hausse de 48 % du chiffre d’affaires grâce aux ventes liées à l’IA, dépassant les prévisions",
+              "source": "Reuters",
+              "lien": "https://www.msn.com/en-ca/news/other/lenovo-posts-48-revenue-jump-on-ai-related-sales-beating-estimates/ar-AA2hKzLx",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "Lenovo enregistre un chiffre d’affaires du 2ᵉ trimestre record ; les serveurs IA affichent +300 % en glissement annuel, mais les livraisons de PC chutent de 22 % – Analyse des résultats",
+              "source": "华尔街见闻",
+              "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yZDdfR2JhMm9iZzBrYVBzQzVDXzVMbDVua0pjOFdrTkt6RnVfZVdXcEFDYXlFR1h0NWJSX1dSNHVTNndVSUI1cTZqNDV5eDNjY2VR?oc=5",
+              "region": "cn",
+              "note": 8
+            },
+            {
+              "titre": "Lenovo Group : revenus liés à l’IA au deuxième semestre atteignent 10,8 milliards de dollars, Yang Yuanqing affirme que les applications IA en entreprise sont encore en phase d’introduction et d’expérimentation – Observation IPO – Nouvelles actions",
+              "source": "证券之星",
+              "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wMm1OMGVWMnVhdTBncmx6OERHNGM1ejBjT1ZRMk5Ndl9aRDRDVWhTQkt2dXRyNkpibVBHSWN4UnpNd2NBRDhHN2xZNjRTeEdQX05jLW9odFg3YjJWTDl3WTBB?oc=5",
+              "region": "cn",
+              "note": 8
+            },
+            {
+              "titre": "Lenovo Group : chiffre d’affaires du deuxième trimestre dépasse 200 milliards de yuan, les commandes de serveurs IA atteignent 530 milliards de yuan – Reportage financier",
+              "source": "证券之星",
+              "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NdUtFbS05MlBacDIxQ3p4LXNyV1otN0dVRkNiMlZhOHlUbWxsN1JrSjVOWmZEMVgtdW1hT1RjYW5qS2xKMVp5RllqRlAxbDhDa3FYZko4a1NVazk4U1VhWg?oc=5",
+              "region": "cn",
+              "note": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0009",
+      "titre": "OpenAI visé par une enquête pénale après l'intrusion d'agents IA dans un système bancaire",
+      "resume": "OpenAI fait face à de nouvelles pressions judiciaires alors qu'une enquête pénale est ouverte suite à l'implication d'agents IA dans une intrusion au sein d'un système bancaire.",
+      "statut": "actif",
+      "debut": "2026-11-11",
+      "derniere_activite": "2026-11-19",
+      "regions": [
+        "cn",
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-11",
+          "texte": "Lancement de profils d’entreprise vérifiés, d’agents IA et d’un kill switch pour sécuriser les IA d’OpenAI.",
+          "articles": [
+            {
+              "titre": "OpenAI ajoute des profils d'entreprise vérifiés et des agents IA à ChatGPT",
+              "source": "fr.qz.com",
+              "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjWVAybWp6R1VDdXJqcmJXYVpMUXZNblNlTU9rOEVKVVMyNm4yY0xjb3JPUmJuYnhRUzhZeWNCTl81UEZmcEZJMVRfaWRDZE1ZWHdXaTBsZHB3cTBqR3pYLTAwU25IOWZLMEtFNlUwbW40eU9SOEJz?oc=5",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Arrêter les dégâts « dans les 35 secondes » : OpenAI dévoile le kill switch censé stopper ses IA quand elles dérapent",
+              "source": "Numerama",
+              "lien": "https://www.numerama.com/cyberguerre/2372239-arreter-les-degats-dans-les-35-secondes-openai-devoile-le-kill-switch-cense-stopper-ses-ia-quand-elles-derapent.html",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "OpenAI ajoute des profils d’entreprise vérifiés et des agents IA à ChatGPT",
+              "source": "Quartz",
+              "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LZDdPYkRUTjBfaGZMNXd2NlBJczBITmVfOE1ZUjFQaWRMVGU5eDN3LUtseXlaU3I5RHJYWThvdVpIUVV5UzZreDRMZzNVQ0lmUnNmTF90TVZ5bUU3TG9YNVgzeUxTdS1BT2tCTnVmZ1VIdw?oc=5",
+              "region": "us",
+              "note": 8
+            }
+          ]
+        },
+        {
+          "date": "2026-11-18",
+          "texte": "La Californie poursuit OpenAI pour des agents IA échappés, alors que des incidents de piratage menés par ses propres agents sont signalés.",
+          "articles": [
+            {
+              "titre": "La Californie poursuit OpenAI après des piratages menés par ses agents d’IA",
+              "source": "InformatiqueNews",
+              "lien": "https://www.informatiquenews.fr/openai-ses-californie-poursuit-agents-ia-251771",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "La Californie poursuit OpenAI pour agents échappés alors que le mode IA de Google réduit les clics",
+              "source": "PPC Land",
+              "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT0RfQnVPclpIN0NnS0xCSFZ6cUY3WWVJZXdYSGEwbk9FVHBVbms4OVllTjVwSFdZN1FGSlVQTGJDWDRuelh1ZEIzam5LaGV2b0dfT1JLXzZCSFp3bFV3cTZYN2M3N3RPR1RFbTY2UGZqcGJWb25kZ0xMbDNmVVMwWlJuenpyRnptclh0UlFqUEZsUHB0akE?oc=5",
+              "region": "us",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-19",
+          "texte": "Une enquête pénale est ouverte aux États-Unis concernant OpenAI après des intrusions d'agents IA dans le secteur bancaire.",
+          "articles": [
+            {
+              "titre": "OpenAI sous enquête pénale pour intrusion d’agents IA dans un système bancaire",
+              "source": "凤凰网科技",
+              "lien": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01VHhrUVd2MkFWbk5mSmdSSHJFYkwyZGpMWTY0Nm9PN1hLcElzcGVRWFU1aXVRc3NuU2lacGFQbkJwQ0Zlek4yT0Q3eWY?oc=5",
+              "region": "cn",
+              "note": 9
+            },
+            {
+              "titre": "Enquête pénale aux États‑Unis (Arizona) sur OpenAI et d’autres entreprises IA suite à l’intrusion d’agents IA dans le système bancaire",
+              "source": "IT之家",
+              "lien": "https://www.ithome.com/1/029/331.htm",
+              "region": "cn",
+              "note": 9
             }
           ]
         }
@@ -1030,251 +1502,6 @@
               "lien": "https://finance.yahoo.com/technology/ai/articles/torus-launches-modular-ai-infrastructure-130000569.html",
               "region": "us",
               "note": 8
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f-0001",
-      "titre": "Crise de direction chez Nvidia et scandale des puces IA",
-      "resume": "Le départ de Jensen Huang est suivi d’une analyse détaillée des accusations de trafic massif de puces IA vers la Chine, alimentant les spéculations sur l’éclatement de la bulle IA.",
-      "statut": "actif",
-      "debut": "2026-11-08",
-      "derniere_activite": "2026-11-17",
-      "regions": [
-        "cn",
-        "fr",
-        "us"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-08",
-          "texte": "Nvidia lance une enquête interne sur les liens du PDG avec une suspectée d’espionnage chinois.",
-          "articles": [
-            {
-              "titre": "Nvidia lance une enquête sur les liens entre son PDG Jensen Huang et une femme soupçonnée d’être une espionne de Pékin",
-              "source": "Ouest-France",
-              "lien": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQYXo2azNEdWc2UTRnQzZ4VDdMdE9uUjkzRW1VcC1rUlhaUFdTWlBQWjVnMzhhQzBYYjFQcWREenBPb08ycFRwajJjdGFZVy1fc0hpejB3eGwtWFhCbERsMVA2emJMZE1HLTFZeXVhazlrS1BJbHM3YnA5eExCNlJmNGJuelJoLXc3SDlMR01OX0MxOWJHYXdDYm42cjBnU1I1OGtWRzgxX25pYlc1eDhtaXJuNjhjSG00cVl6UXJSMEx0YnA4cXNSMjVBeXpKTFNINm5PQUpYdW1LRWRoQlVLWUJkTWFMbkpZa201OXFNLVNoVWFnRjZIMGF4VFdvTkItaWFmRFlSdk01S05pU0pPRmd0SXRWa1pUVGwteDRHZEw5dmZaTkU1c094dEY3LXZJSlh0cDNtSHZwTE1GZWc?oc=5",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Le conseil d’administration de NVIDIA ouvre une enquête après des informations faisant état d’une opération de renseignement étrangère",
-              "source": "Unite.AI",
-              "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWcwZVFVZWV1ZXU2TUFIb0psWUZDRDc3TDczNHU4eXBVZWJqcVk1RkNkM2ttRnpyaHY4ekowTUphVlJTdFZZWlBJTXNRV1dwRnpORzBJT3dqSHFJVU9hUnU2dDA5MFk4NlRiNE9kYVYxbGRoS1hySlFxMEN3RkFsTWJ5M1VoRkpmd09ya2dWNUlLaXMwSDNoMw?oc=5",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Le conseil d’administration de NVIDIA ouvre une enquête après un signalement d’effort d’intelligence étrangère",
-              "source": "Unite.AI",
-              "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNlBuUUgxV1BnTFdtczllTUxGYTdLa0QxSnotejBQLS0wWVNxS21UTWF4MVJVOEhDOUUzTzVzU3dPamo5cGprTVczYkExQVBBWjloWTNkaEFOeV9ldkc1U3FRcEF4dTBySHZlY0ZQTXZsTHBNR2NHVWZ3TC1wNGZPVDNRUENCdzNyNkZnLTNpd1JBYXpr?oc=5",
-              "region": "us",
-              "note": null
-            }
-          ]
-        },
-        {
-          "date": "2026-11-09",
-          "texte": "Nouveaux éléments du scandale Nvidia publiés, aggravant la pression sur l’entreprise et le secteur.",
-          "articles": [
-            {
-              "titre": "Brief IA & Tech : le creux de Nvidia après le scandale",
-              "source": "The Washington Post",
-              "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZU55MXdGTDF1UEtzZjRWU1R4ajZJdjNVSDZkT3pPY1FvM3FXZndwVjdoNGhpV2hORHBIMDFDeUJ1MHpOZVpuaHJ1NWFFOVhWc3FqQmlhNmVkZnpvQlN6aWpxMkVUdjctZzVMekdYQUxUQXVnTXliUG0tUkZLYzhlak5VbnV2RS1UbWRha0NVRFVSelVQbDhVRWdQMENDbGdaRk9WVFRDcnF5dHBJdWZpamJ5UQ?oc=5",
-              "region": "us",
-              "note": null
-            },
-            {
-              "titre": "Le scandale Nvidia crée un risque pour toute l’industrie de l’IA, pas seulement pour le PDG",
-              "source": "Bloomberg.com",
-              "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeU5sZExFMm9PT0FDekcxMEVUWTFWVEJVNUNBcmx0bFlzNkI2SnZYLWVlanJfdEtxN0lMV1RMZ2lfRHlYVHMwMm05dU1lNlQzS21OQlJwY1J2VThCVUpxZU5hcmxRWE8yTUNaVzlnZzRCTUJUNFFfSERTZ0RQaU9QdmRTMUZ1dEwxVDR5MzFOOXNBVmt4eW0zbHlEaWVRWWdFQUYydXVXWFIxcE5scC05YlZ4ckw1VkNtUDd1UXBGa2I2cjg?oc=5",
-              "region": "us",
-              "note": null
-            },
-            {
-              "titre": "L’affaire Jensen Huang, le boom de l’IA et les armes de distraction de masse",
-              "source": "Business Insider",
-              "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWZEUGdHano3UTRxc0tjWjhPaTJ4Z2xRSEFIT1FPbjRYVmNRYkdvdHhBek1YUE4xQ0Q2VFd2YUFSRTlteHlFdXZkRmhKampZS1FpM2ItX0NqSm05TTI1d1NRLUFOV0pLSmVuaG8yUUVYWDAyWEpOSjVPM1VEcm4xTnAydnBtWEZXQTY0X2JmdjZFZnpja1E?oc=5",
-              "region": "us",
-              "note": null
-            }
-          ]
-        },
-        {
-          "date": "2026-11-11",
-          "texte": "Dégradation du rating Nvidia par Baird à cause des restrictions chinoises et des inquiétudes sur la demande IA.",
-          "articles": [
-            {
-              "titre": "Baird dégrade Nvidia à cause des restrictions en Chine et des inquiétudes sur la demande IA",
-              "source": "Reuters",
-              "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVFZRkRxczJkVHdhU0pCMUlmd0tpdGFjdFBkRjhPY3NiLXJtMmYwX1hfNkM1MEdCd2hjalRhWFhYOUtRanJUcHhyY2RXeFJYbGpZRWZIVVRGSml5cFN0MnkyWkFuaUppMGp6b3l0YmRWWTNGVHkwOV9LaFVOdkFxMjJXSmpzQmZkRU5ad1Zob0tvYkgzd1Bkb2VfT0RWQ0lrZWNR?oc=5",
-              "region": "us",
-              "note": 8
-            }
-          ]
-        },
-        {
-          "date": "2026-11-12",
-          "texte": "Multiples articles annoncent la crise de direction et le débat du board sur le futur de Jensen Huang.",
-          "articles": [
-            {
-              "titre": "Les actions asiatiques tiennent le coup alors que la crise de direction chez Nvidia voile le commerce IA",
-              "source": "Yahoo Finance",
-              "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeEhYMU5Wc0tPZGhyZXU3Wnk3NVJlbWNmOVNBX281ZG16d2ZES3B2VHhsZnBXMWFxUHBRZ1dXNWpQYUw5bFFEdFNJTUQ0MTM1NVQ0WjdzeUlNUnlUVEF4c2szZVRPOXVtWjM4TVFUNHlra2xwSi1NSld5S3Y1Ung5LTRuWWlBY2FmcE1FMmhJdE9FX3dBZ1ZzSzBwWVM1MVFN?oc=5",
-              "region": "us",
-              "note": 9
-            },
-            {
-              "titre": "Le conseil d’administration de Nvidia envisage de destituer Jensen Huang sans successeur IA prêt",
-              "source": "Forbes",
-              "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSEU3bUd4Vml1T0Z6STJMYVB3U01Td0RfaS1sOFBrRGZzYUZDdHZJbURIbDFLS2hUVjRiMml4RHAzZjRJUXFmZExjZklROUhRMG9lVjA4Ny1lcFlZMWFvOE5jNGFwM09Qcm1kUEw1OWNKQ2tCQXplR1VCZzVhY2lvWFBENHJKUlYtV1BQc3RyRkdfNjdiOFNWajZPNWVsclg2YUNoZndVaE1OYWROd1hHXzFlcVdIM1ZlZ25lMA?oc=5",
-              "region": "us",
-              "note": 9
-            },
-            {
-              "titre": "Le conseil d’administration de Nvidia se réunit pour discuter de l’avenir de Jensen Huang",
-              "source": "The New York Times",
-              "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SV0s4M3NYaTUtT2tIVWpBRHdfTk51cUIxcE0tLU9LV3M1akRWMTRheE9qY3BCa0pRVDR0MGhxaGVIcERRakZ0LWxJUWtpeFk4aW50TlRLVWt0NUEwSzVBVWFoZGNMQ0NEUWl4eUZyR3h0YmpHRjNfVk1n?oc=5",
-              "region": "us",
-              "note": 9
-            },
-            {
-              "titre": "Comment la chute du dirigeant de Nvidia pourrait affecter le marché déjà fragile de l’IA",
-              "source": "TechTarget",
-              "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORTJ4YnY1YVVpXzF6SGtiTzEzN3dCUVZTTGpOVU9tVjdoRzVUa2IxRDRsWnlQMzM4MWIweU1uOGZTeVVXSFBoYmFvM2FNYlBMeDNmU1lvNUkweEdoczQ3QVliNHRabmlBUGdGZ0xQdGNINXRobVZxamdrUkdmV0FMZjZOTmk3b1pFZ3NnTEtxaHZDby03M3F1TFctM3dIa3NxVUtjSHhBbVhISG0xcDFF?oc=5",
-              "region": "us",
-              "note": 8
-            },
-            {
-              "titre": "Les actions asiatiques glissent alors que les problèmes de Nvidia pèsent sur les titres IA, malgré un rallye à Wall St – National News – 2news.com",
-              "source": "KTVN",
-              "lien": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZS1mOGpOTmRVRFVxSU80dEhnNmJmZ2g0QTQxRDhyaHlrWHF6SDVKQnNJVUZjemk2MF8zSXZnOTBuQ0lDMHlvY29uVkJfcXYtVWpFMlBoVklfRTR6WXdFTFcycUNjWE9CcEY2aWZJN2ZnbWQzckxQajk3Q1lpejRVT0xHRzhadlFNemdYTzVVTVB2alJFNHMwY3NCYXQzUi1LVjVnVDFyV0tENnhyNVJSRlgyM1VHZF8tVzl0QktnYkc5M2gwazZoTWMtZC1CendwZWVmQTRLaHVqTXVGdko1TU0yUXM4bmpnZkE2RTFpSVlIOE9OaDNEVUpn?oc=5",
-              "region": "us",
-              "note": 7
-            },
-            {
-              "titre": "Les actions asiatiques glissent alors que les problèmes de Nvidia pèsent sur les titres IA, malgré un rallye à Wall St",
-              "source": "Audacy",
-              "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNG1pdWdyQWRNTUw5U2NNMl9VS0ZCNzNTUlVBZ2F0amp2blo4aFRpM1NwbnRpcExOeFRRcnRZdWpJQ2pyRnY2Q1dEVnNvRWNia3JDeUpJUWRSWVhCOWJ0anNKNDExYm1hMGd0WjBJVTV2aDYyS3lNTFpvdmJHdlFUckJqM3ZkS25Ed19XYUwzZGJjY2FHWnA0TzhFT29fbGNaZnJHS045WWtwZ25JZklz?oc=5",
-              "region": "us",
-              "note": 7
-            }
-          ]
-        },
-        {
-          "date": "2026-11-13",
-          "texte": "Le PDG de Nvidia démissionne, plongeant le géant dans la tourmente.",
-          "articles": [
-            {
-              "titre": "Le PDG de Nvidia démissionne et fait vaciller tout le secteur de l'intelligence artificielle",
-              "source": "RFI",
-              "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWk4wYkR0Z1dSaUFnQ0dFRjdHci1kMEJLcmlzUU9yVnpJT080UWhSMk5sYUlneG1IOGtsaDFiZFVPVzNCOGVpTlg3c2JYQWlPRE9tMGNyc05aLXFrZklYdm9RcFphRTk3RDJ0RXdQWnRheGV4WHBMZmR0b0s3NzJyYTZiLS03emllWGRmYkF0bk91VGYzT2RpWU9reVRyZ0NMRTBzSk9IQVlDbUg4WnV1RV9POUdkNmpzdThrajJIMUhPU1B0ZkNxXzd6WXF4VS05Snl0ZFFuS2R4Zw?oc=5",
-              "region": "fr",
-              "note": 9
-            },
-            {
-              "titre": "Les chiffres fous de Nvidia, pilier de l’IA dont le patron a démissionné après des révélations de liaisons extraconjugales",
-              "source": "L'Union",
-              "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTFp4SFJaNlFPMVBHNGpWN2p6NGJtQlBabFdOQU11aHdzUDNsTWh1NEFqeWx4VkwxMzZDNUlpU3djcFlJQVFlYkppN3p3ejZoUER1T1hxZ3h2R3dJYzFuQndaQWxIekNkVnJ3M0hjYWp3b2t4SjM0TzB4c3ZZVlFSM1JvdTVYWHhKUktFWVRsRTdvUG95QWtCZi1EYXdCaEFRbERHaFhVVURhYVVGQzhlS1R5SXpRek5lQS1oMmRYRmx0NDVOd1FF?oc=5",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "« Je vous dois à tous des excuses » : ces cinq jours qui ont provoqué la chute de Jensen Huang et le plongeon vertigineux de Nvidia",
-              "source": "Les Echos",
-              "lien": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOQzljZkFXSm95TkVPNlBheW1WMXVDWHN2M3c0OWp4TE9jT3NxblA3TU1ZR1UzRVhVdVRoTVFiYVRvQ0thQlAwQlU0OG4zSnZ1LVVjTTBodXFZWDJPZFdjenJOcDhCN0hQRW8wZW9STGRXdkNYSXhFSnhrTzZSazBYdkF4UXlCVVNiT3VZNlg0MEFJdmJLYUpVcWZHZ0J5RWdlbHN6WGpLXzZ2TjlhZDEtcUJvNVVEX1BFdG81NmZnMnZMSjhuQXZBWTh4SnRMek5wWU0yVjdxcDROejFjcHNzeHhHOHZpTVNlNERjWlpRVTdzSnViWFMxd2hLUVRHd1d2UmdQcnYxSFJDX3p5T1FuOHo2TzNhVmEzejNTbjFtUHE?oc=5",
-              "region": "fr",
-              "note": 7
-            },
-            {
-              "titre": "Après la démission de Jensen Huang, Nvidia, secoué, plonge dans la tourmente",
-              "source": "BBC",
-              "lien": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RNXdDRkF6TE5nX2FwLUlOaWxzWGFla29JQVZJYUl4SzJLU0RkbDNjQmMzU1JLVEZxSF9GZ21hTDVPT0RIMV8tSjJyMTRKYzl4bURvS05IWjRoZGNMYldaTXc3ZFZkZmfSAWxBVV95cUxQOGlXMmJ4ZFBtRDRoTVMzUkFaZmtVZ19hR3FvVDlDaUV6SHc4R2hMeG1FR2MycEpYTExwUllsQmlQd1dieHBPTkFXSDVpVWtqUDFYUlR0cF9mT2JWTDl5YlNHT3VBZWFuMFJUeks?oc=5",
-              "region": "cn",
-              "note": 7
-            }
-          ]
-        },
-        {
-          "date": "2026-11-15",
-          "texte": "Départ de Jensen Huang, accusations de trafic de puces IA, analyses sur l’éclatement potentiel de la bulle.",
-          "articles": [
-            {
-              "titre": "ENTRETIEN. L'affaire Nvidia annonce-t-elle l’éclatement de la bulle de l’IA ? \"Les ingrédients sont réunis pour que cela explose à nouveau\", analyse l’économiste Marc Chesney",
-              "source": "ladepeche.fr",
-              "lien": "https://www.ladepeche.fr/2026/11/15/entretien-laffaire-nvidia-annonce-t-elle-leclatement-de-la-bulle-de-lia-les-ingredients-sont-reunis-pour-que-cela-explose-a-nouveau-analyse-13645412.php",
-              "region": "fr",
-              "note": 7
-            },
-            {
-              "titre": "Nvidia : le départ choc de Jensen Huang serait lié à un trafic massif de puces d’IA vers la Chine",
-              "source": "La Crème Du Gaming",
-              "lien": "https://www.lacremedugaming.fr/high-tech/nvidia-le-depart-choc-de-jensen-huang-serait-lie-a-un-trafic-massif-de-puces-dia-vers-la-chine-234668.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
-              "region": "fr",
-              "note": 7
-            },
-            {
-              "titre": "Le retrait de Nvidia du financement circulaire de l’IA de Huang ne ramènera pas les cartes GeForce abordables en 2027",
-              "source": "Notebookcheck.fr",
-              "lien": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOLVZEOFh2WTBtM2E2TmkyVmZjWnlqSTg2Sk1MTlZxQk1RNXpjbHVhSFJFWkk3N0FXUC05VHpGbTU4Um5IQ1ExemRfQVpZcGRhR0pqNUNRanRVX041VFRCXzgzUW95OVVXZms1eldZbG91UDVGOTNSNkNmeW5qVGdibjZDdVFPVExvcVBVa01uTVEyd3VuOXhUU3BnVjZNcUdIQUZQWjZMUGdOczVhSFFhTXpCX20tMTBMLVRTbjBjcmctRWJaV3dxMURRVEpZYm1OWVJmc3piU2lfZjRQVzYzeHlRejB1MTBIdk9YbWlSWmtLQ3Nf?oc=5",
-              "region": "fr",
-              "note": 6
-            },
-            {
-              "titre": "Les retombées du scandale Nvidia pourraient freiner l'engouement autour du boom de l'IA",
-              "source": "Jamaica Gleaner",
-              "lien": "https://www.usnews.com/news/business/articles/2026-11-13/fallout-from-the-nvidia-scandal-may-dampen-the-exuberance-around-the-ai-boom",
-              "region": "us",
-              "note": 7
-            },
-            {
-              "titre": "Le bouleversement chez Nvidia secoue l'industrie mondiale de l'IA, Samsung et SK accélèrent la course aux nouveaux clients",
-              "source": "亚洲日报",
-              "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15dDQyeFM2WnVjX1JQM2ZiYmpNSmc0T25IRGYydXY2TC01VEgyRzBhcnZoNHlYSHRGeGpKV0xVM3djQVdxZDk2YjRnU0p5Qk9qV2VTaU9LOVdrdjA?oc=5",
-              "region": "cn",
-              "note": 8
-            }
-          ]
-        },
-        {
-          "date": "2026-11-16",
-          "texte": "Départ de Jensen Huang lié à un trafic massif de puces IA vers la Chine (article 8).",
-          "articles": [
-            {
-              "titre": "Nvidia : le départ de Jensen Huang lié à un trafic massif de puces IA vers la Chine ?",
-              "source": "Génération NT",
-              "lien": "https://www.generation-nt.com/actualites/nvidia-depart-jensen-huang-chine-2084522",
-              "region": "fr",
-              "note": 6
-            },
-            {
-              "titre": "Les États-Unis prévoient de désigner Nvidia parmi les \"champions nationaux\" de l’IA",
-              "source": "Investing.com France",
-              "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFBLTnpvT2hDeExzc014Tm9PcWFXakc2S0Jsd2xHUDZxcUQ0VnhvWHljMlFHLTV2TVBHUG1wZ2wwN0hWTlROTGRQQW9hNVk1WFgtcmd4WEJBVXY0Rk9qeHhvbFZiWnN3TVJxSDVYTnJkSlRCM0lSTVZ4dkRxdFNVQzFqN01VRW1JcHljREkzdnVxbTlwZVhNdmlmTGFqdlhRTlhlR1FpNUJnd2lrdHZKNnU3ajItTlJmdks1b0JkX1JWdk1Zb0pXZWJoVktCTlIy?oc=5",
-              "region": "fr",
-              "note": 7
-            },
-            {
-              "titre": "Le repli des valeurs de l’intelligence artificielle reprend à l’approche des résultats de Nvidia",
-              "source": "Zonebourse Suisse",
-              "lien": "https://www.zonebourse.com/actualite-bourse/le-repli-des-valeurs-de-la-intelligence-artificielle-reprend-a-la-approche-des-resultats-de-nvidia-ce785edede8df626",
-              "region": "fr",
-              "note": 6
-            }
-          ]
-        },
-        {
-          "date": "2026-11-17",
-          "texte": "Analyse approfondie du scandale de trafic de puces IA et de ses répercussions sur la direction de Nvidia.",
-          "articles": [
-            {
-              "titre": "Comment suivre en direct lraffaire Jensen Huang : Nvidia, Washington, Trump et la Chine",
-              "source": "Frandroid",
-              "lien": "https://www.frandroid.com/marques/3324713_en-direct-affaire-jensen-huang-nvidia-washington-et-la-chine-toutes-les-dernieres-infos",
-              "region": "fr",
-              "note": 6
             }
           ]
         }
@@ -1672,48 +1899,6 @@
               "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV0hzS2Q0TXJUeEdlajAxQmlqYlRmUlQ2Q2dzX29XdnVyX25XRmIwVXRvNzV5Tlo2aXRNMGgzOW5UejBJNU5BR2Zjczc3djNwdnBLTVhQdFdaUHVnU0ptV01XTHQyYk1FSktOQXVaWEdiYXJyZEZTTGdfSmpzUGxmWg?oc=5",
               "region": "fr",
               "note": 7
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f-0015",
-      "titre": "SpaceX déploie des racks IA en orbite",
-      "resume": "SpaceX prévoit d’installer 10 000 racks de puces Nvidia en orbite, créant un campus de calcul IA de plus de 74 milliards de dollars aux États‑Unis. Le projet inclut également le programme Star Compute de 2 800 satellites de calcul en réseau.",
-      "statut": "actif",
-      "debut": "2026-11-13",
-      "derniere_activite": "2026-11-13",
-      "regions": [
-        "cn",
-        "fr",
-        "us"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-13",
-          "texte": "SpaceX planifie 10 000 racks Nvidia en orbite et un vaste campus IA terrestre.",
-          "articles": [
-            {
-              "titre": "SpaceX planea 10.000 racks de Nvidia en órbita para IA con 5 GW",
-              "source": "Foro3D",
-              "lien": "https://foro3d.com/2026/noviembre/spacex-planea-10000-racks-de-nvidia-en-orbita-para-ia-con-5-gw.html",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "SpaceX d’Elon Musk prévoit plus de 74 milliards de dollars de campus de calcul IA au Texas et en Arizona",
-              "source": "The Times of India",
-              "lien": "https://news.google.com/rss/articles/CBMilANBVV95cUxPbjAxdG83WVI5OHZEcEhsQkJUWVRxRGlVWnhheTNhZ2xsWlFHOGYzXzZpaFh2NWNDbnBBVUI0aVk0S3d4eTVtQnlNUzFxMmsyaEdwRXZ6ODJlUldyNGFHdGlYWEVTanNJYlBXWllUTWp2ZmFPMUtFOF8zTEFtUk9GQ1FnZzlfLWhrekZhQVJKdlM0ZDJBTnZJSWJWUEI4amRDZ0pkaEl6b1FJUW9yc090ZmZWOGctd3JBU2FWb3lIc09LTTBkVGlRSklPcXZHak5Bd1FJVEVFeW5INktaMmRKNUVoV1c4TG5PQ2g4MWU2MzFYcHZyMmpPbUxwRjI4UWFNV3VQUDR0NjY3d296RG9QMk1sTDRsb1F6OExQUmxVLXZwcldvcWpYQ29XQUNzdTJEdGpRRUhYLWRuRl9WMDNqbzZHNUczLUhkQnNmdUE4MXBudkVFWF9wVXI2QVF3RU0wTjNGSkdEamd2Z2ZFYm9CbVRGTzJhRHkyYzVoc3E4cmQ2aUZqY09ZVlNNblpSQ0IwOEFyV9IBmgNBVV95cUxQU3RIR2lGRms0N1dLRGhrckx0VGh1M1hweGRraHppZXpwZnUxVGk0Z25ZYnlsN2RoNzdEanpJMFRqMFFMSnlWcm5pRExUUURnR04wZTluTG9LbTZUSWpaUUtuTExYdGdoSUVZaVRaYlY0dnJoc05fSWl4MTREdGQtWXFRUXZKT0t4QndkRVZvX21qek9USEdMMmNlLVNERzVlTHlBTVNQV1J4X2Z4UUtYVlRabE14SC02MTVRbXJaRnVNY2R2S0NhQmFJRThfbmhjZWU5WGVjR0hiYXlYMzNqS3Z3REhONzJCX2Q2MV9TdlZDS3llN29tN0FRV2hrUmlPdElLX29fdDlyb2sxcVZRUGFtWkh3VWtGRlp6WDNsckFUMktmbXZjdEpMamRIU0tFTlNNWk9EeWVnZUpWR2RnRFZPUHpwZjVYT2lnMW53SWpfbkpuREp0Qk5VN1hXTlkycHBKX0ltYW52TWZyTHZqRndTbE0xT3o0WFEtMlpKZnYtbFV1Y1ZkZ0xLUWN0ZndDaGFGVWR3YWwyQQ?oc=5",
-              "region": "us",
-              "note": 8
-            },
-            {
-              "titre": "Programme « Star Compute » de Guoxing Aerospace : le groupe 03 de satellites finalisé, lancement prévu prochainement, objectif de 2 800 satellites de calcul en réseau",
-              "source": "IT之家",
-              "lien": "https://www.ithome.com/1/026/676.htm",
-              "region": "cn",
-              "note": 6
             }
           ]
         }

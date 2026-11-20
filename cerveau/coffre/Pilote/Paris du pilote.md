@@ -3,20 +3,23 @@
 > Chaque nuit, le pilote parie sur l'actualité des jours suivants ; les veilles
 > suivantes tranchent. Note réécrite chaque nuit.
 
-**7 gagnés sur 15** (47 %), pour une confiance moyenne de 69 %. Score de Brier : 0.313 (0,25 = hasard, 0 = parfait).
+**8 gagnés sur 17** (47 %), pour une confiance moyenne de 69 %. Score de Brier : 0.306 (0,25 = hasard, 0 = parfait).
 
 ## En cours
 
-- Anthropic : au moins 25 articles (France et États-Unis) sur les 4 prochains jours — 73 %, échéance 2026-11-20 · [[Anthropic]]
 - GitHub Copilot : au moins 12 articles (Outils & code) sur les 5 prochains jours — 68 %, échéance 2026-11-21 · [[GitHub Copilot]]
 - Nvidia : au moins 40 articles (France et États-Unis) sur les 4 prochains jours — 72 %, échéance 2026-11-21 · [[Nvidia]]
-- Google : au moins 4 articles (Chine) sur les 3 prochains jours — 66 %, échéance 2026-11-20 · [[Google]]
 - Agents IA : au moins 12 articles (Chine) sur les 3 prochains jours — 62 %, échéance 2026-11-21 · [[Agents IA]]
 - GitHub : au moins 20 articles (Outils & code) sur les 5 prochains jours — 66 %, échéance 2026-11-23 · [[GitHub]]
 - Claude : au moins 30 articles (Outils & code) sur les 3 prochains jours — 71 %, échéance 2026-11-22 · [[Claude]]
+- Anthropic : au moins 28 articles (France et États-Unis) sur les 3 prochains jours — 54 %, échéance 2026-11-23 · [[Anthropic]]
+- Claude Code : au plus 10 articles (Outils & code) sur les 2 prochains jours — 56 %, échéance 2026-11-22 · [[Claude Code]]
+- AI Agents : au moins 14 articles (Chine) sur les 3 prochains jours — 52 %, échéance 2026-11-23 · [[AI Agents]]
 
 ## Tranchés
 
+- ❌ Google : au moins 4 articles (Chine) sur les 3 prochains jours (66 %) → 3 article(s) · [[Google]]
+- ✅ Anthropic : au moins 25 articles (France et États-Unis) sur les 4 prochains jours (73 %) → 50 article(s) · [[Anthropic]]
 - ❌ Claude : au moins 50 articles (Outils & code) sur les 3 prochains jours (71 %) → 20 article(s) · [[Claude]]
 - ❌ CoreWeave : au moins 5 articles (Chine) sur les 2 prochains jours (53 %) → 0 article(s) · [[CoreWeave]]
 - ❌ Nvidia : au moins 28 articles (France et États-Unis) sur les 3 prochains jours (78 %) → 24 article(s) · [[Nvidia]]

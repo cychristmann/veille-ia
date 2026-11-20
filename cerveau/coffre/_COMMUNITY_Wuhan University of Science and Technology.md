@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Wuhan University of Science and Technology
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Odystoria]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
-- [[William Mocaër]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
+- [[Industrie de l'IA]] - concept - feuilletons/f-0001.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Veille Chine 2026-11-12  Régulation, géopolitique et politique]] - document - veilles/veille-ia-cn-2026-11-12-t4.md
-- [[中信证券]] - concept - veilles/veille-ia-cn-2026-11-12-t4.md
+- [[AI ‘Handoverism’. Who Wants to Hand AI the Keys AI-RTZ 1276]] - concept - veilles/veille-ia-us-2026-11-20-t6.md
+- [[Veille États-Unis 2026-11-20  Autres articles]] - document - veilles/veille-ia-us-2026-11-20-t6.md
 
 ## Live Query (requires Dataview plugin)
 

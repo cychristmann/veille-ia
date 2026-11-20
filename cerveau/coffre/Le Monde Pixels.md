@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0027.md"
 type: "concept"
-community: "Blue J"
+community: "Edelbyte"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Blue_J
+  - community/Edelbyte
 ---
 
 # Le Monde Pixels
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Ukraine Conflict]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Blue_J
+#graphify/concept #graphify/EXTRACTED #community/Edelbyte

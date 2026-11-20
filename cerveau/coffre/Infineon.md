@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-10-t4.md"
+source_file: "veilles/veille-ia-fr-2026-11-10-t2.md"
 type: "concept"
 community: "AMD"
 tags:

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-18-t2.md"
 type: "document"
-community: "JPMorgan"
+community: "CoreWeave"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/JPMorgan
+  - community/CoreWeave
 ---
 
 # Veille Chine 2026-11-18 : Financement et marché
@@ -16,4 +16,4 @@ tags:
 - [[Pedestal AI]] - `references` [EXTRACTED]
 - [[识渊科技]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/JPMorgan
+#graphify/document #graphify/EXTRACTED #community/CoreWeave

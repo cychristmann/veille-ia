@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Edge0-145B]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
+- [[Feuilleton Anthropic IPO]] - document - feuilletons/f-0003.md
 
 ## Live Query (requires Dataview plugin)
 

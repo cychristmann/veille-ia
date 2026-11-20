@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t5.md"
 type: "document"
-community: "Anthropic"
+community: "Nvidia"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Anthropic
+  - community/Nvidia
 ---
 
 # Veille Chine 2026-11-10 : Écosystèmes, plateformes et outils IA
@@ -14,4 +14,4 @@ tags:
 - [[Huawei]] - `references` [EXTRACTED]
 - [[Linux Foundation]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Anthropic
+#graphify/document #graphify/EXTRACTED #community/Nvidia

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-13-t4.md"
 type: "document"
-community: "Feuilleton: Compromission massive du Microsoft Agent Framework"
+community: "Google"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
+  - community/Google
 ---
 
 # Veille Chine 2026-11-13 : Régulation, compétition et marché
@@ -17,4 +17,4 @@ tags:
 - [[上海市科学数据管理办法]] - `references` [EXTRACTED]
 - [[第七届中国人工智能大赛]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
+#graphify/document #graphify/EXTRACTED #community/Google

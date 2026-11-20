@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t5.md"
 type: "concept"
-community: "Anthropic"
+community: "Nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Anthropic
+  - community/Nvidia
 ---
 
 # Agent Name Service
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Linux Foundation]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Anthropic
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

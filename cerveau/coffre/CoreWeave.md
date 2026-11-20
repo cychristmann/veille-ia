@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-11-t1.md"
 type: "concept"
-community: "CoreWeave"
+community: "Veille Chine 2026-11-19 : Infrastructure et Technologie IA"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/CoreWeave
+  - community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA
 ---
 
 # CoreWeave
@@ -22,4 +22,4 @@ tags:
 - [[Veille France 2026-11-12  Marchés financiers et investissements IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-11  Financement et Bourse de l'IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/INFERRED #community/CoreWeave
+#graphify/concept #graphify/INFERRED #community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA

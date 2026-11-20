@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-14-t5.md"
 type: "document"
-community: "Sécurité et risques de l'IA"
+community: "Le Monde Pixels"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Sécurité_et_risques_de_lIA
+  - community/Le_Monde_Pixels
 ---
 
 # Veille France 2026-11-14 : Autres articles
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[IA et système financier]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Sécurité_et_risques_de_lIA
+#graphify/document #graphify/EXTRACTED #community/Le_Monde_Pixels

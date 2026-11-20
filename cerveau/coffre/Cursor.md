@@ -14,13 +14,14 @@ tags:
 - [[Fireworks]] - `references` [EXTRACTED]
 - [[Fireworks AI]] - `references` [EXTRACTED]
 - [[Grok]] - `references` [EXTRACTED]
+- [[IDrive AI Agents Backup]] - `shares_data_with` [INFERRED]
 - [[Malicious Claude Code Extension]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
-- [[Snapchat Easy Lens CLI]] - `conceptually_related_to` [EXTRACTED]
 - [[SpaceX]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-13]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-15  Sécurité des outils IA]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-16]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-19  Autres articles]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Cursor

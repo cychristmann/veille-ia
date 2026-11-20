@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t4.md"
 type: "document"
-community: "veille états-unis thème 7"
+community: "IA dans l'enseignement supérieur"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/veille_états-unis_thème_7
+  - community/IA_dans_lenseignement_supérieur
 ---
 
 # Veille Chine 2026-11-19 : Recherche et Éthique
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Central South University]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/veille_états-unis_thème_7
+#graphify/document #graphify/EXTRACTED #community/IA_dans_lenseignement_supérieur

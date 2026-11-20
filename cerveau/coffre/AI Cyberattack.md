@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-18-2.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-17"
+community: "AI Cyberattack"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-17
+  - community/AI_Cyberattack
 ---
 
 # AI Cyberattack
@@ -19,4 +19,4 @@ tags:
 - [[NCSC]] - `conceptually_related_to` [EXTRACTED]
 - [[OpenAI]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-17
+#graphify/concept #graphify/EXTRACTED #community/AI_Cyberattack

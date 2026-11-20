@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-19-3.md"
 type: "concept"
-community: "Lumbra"
+community: "InvestAI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Lumbra
+  - community/InvestAI
 ---
 
 # InvestAI
 
-#graphify/concept #graphify/EXTRACTED #community/Lumbra
+#graphify/concept #graphify/EXTRACTED #community/InvestAI

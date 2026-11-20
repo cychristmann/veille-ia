@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-17-t3.md"
 type: "document"
-community: "Tencent"
+community: "ChatGPT Wallet"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Tencent
+  - community/ChatGPT_Wallet
 ---
 
 # Veille Outils & code 2026-11-17 (T3)
@@ -13,8 +13,8 @@ tags:
 ## Connections
 - [[Agent Arena]] - `references` [EXTRACTED]
 - [[ChatGPT Wallet]] - `references` [EXTRACTED]
-- [[Mythos]] - `references` [EXTRACTED]
+- [[Claude]] - `references` [EXTRACTED]
 - [[Qwen4-Max]] - `references` [EXTRACTED]
-- [[Vera Rubin]] - `references` [EXTRACTED]
+- [[Rubin]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Tencent
+#graphify/document #graphify/EXTRACTED #community/ChatGPT_Wallet

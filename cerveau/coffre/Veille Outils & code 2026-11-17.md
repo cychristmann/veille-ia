@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-17-t2.md"
 type: "document"
-community: "Veille Outils & code 2026-11-17"
+community: "GPT-6 Astra"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-17
+  - community/GPT-6_Astra
 ---
 
 # Veille Outils & code 2026-11-17
@@ -28,4 +28,4 @@ tags:
 - [[Vercel]] - `references` [EXTRACTED]
 - [[datasette-maplibre]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-17
+#graphify/document #graphify/EXTRACTED #community/GPT-6_Astra

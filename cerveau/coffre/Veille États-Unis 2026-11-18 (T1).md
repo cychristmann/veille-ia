@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-18-t1.md"
 type: "document"
-community: "JPMorgan"
+community: "CoreWeave"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/JPMorgan
+  - community/CoreWeave
 ---
 
 # Veille États-Unis 2026-11-18 (T1)
@@ -16,4 +16,4 @@ tags:
 - [[Microsoft]] - `references` [EXTRACTED]
 - [[SID AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/JPMorgan
+#graphify/document #graphify/EXTRACTED #community/CoreWeave

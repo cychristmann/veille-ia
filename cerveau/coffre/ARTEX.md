@@ -1,5 +1,5 @@
 ---
-source_file: "feuilletons/f-0028.md"
+source_file: "veilles/veille-ia-dev-2026-11-15-t5.md"
 type: "concept"
 community: "ARTEX"
 tags:

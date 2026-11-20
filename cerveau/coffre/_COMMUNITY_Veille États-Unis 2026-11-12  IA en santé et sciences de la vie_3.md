@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille États-Unis 2026-11-12  IA en santé et sciences de la vie]] - document - veilles/veille-ia-us-2026-11-12-t5.md
+- [[Arm]] - concept - dossiers/2026-11-13-1.md
 
 ## Live Query (requires Dataview plugin)
 

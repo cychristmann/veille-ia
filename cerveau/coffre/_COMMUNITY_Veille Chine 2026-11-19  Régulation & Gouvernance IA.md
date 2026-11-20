@@ -27,8 +27,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_OpenAI]]
 - 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_Meta]]
 
 ## Top bridge nodes
 - [[Veille Chine 2026-11-19  Régulation & Gouvernance IA]] - degree 6, connects to 1 community

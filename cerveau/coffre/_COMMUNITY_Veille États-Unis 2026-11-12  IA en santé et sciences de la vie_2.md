@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille États-Unis 2026-11-12 : IA en santé et sciences de la vie
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Telia]] - concept - dossiers/2026-11-19-3.md
+- [[Kindo]] - concept - veilles/veille-ia-dev-2026-11-16-t4.md
+- [[Veille Outils & code 2026-11-16  Plateformes, marchés et produits IA]] - document - veilles/veille-ia-dev-2026-11-16-t4.md
 
 ## Live Query (requires Dataview plugin)
 

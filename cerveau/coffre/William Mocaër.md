@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t1.md"
 type: "concept"
-community: "Wuhan University of Science and Technology"
+community: "Qwen3.8"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Wuhan_University_of_Science_and_Technology
+  - community/Qwen38
 ---
 
 # William Mocaër
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Odystoria]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Wuhan_University_of_Science_and_Technology
+#graphify/concept #graphify/EXTRACTED #community/Qwen38

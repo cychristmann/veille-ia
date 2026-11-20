@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-19-t1.md"
 type: "concept"
-community: "Gemini 4 Hydrogen"
+community: "Tencent"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Gemini_4_Hydrogen
+  - community/Tencent
 ---
 
 # Memorial Sloan Kettering
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Noetik]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Gemini_4_Hydrogen
+#graphify/concept #graphify/EXTRACTED #community/Tencent

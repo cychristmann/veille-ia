@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille France 2026-11-09  Régulation, sécurité et enjeux géopolitiques]] - document - veilles/veille-ia-fr-2026-11-09-t3.md
+- [[Feuilleton Centre international d’IA militaire français ouvert à Rennes]] - document - feuilletons/f-0023.md
 
 ## Live Query (requires Dataview plugin)
 

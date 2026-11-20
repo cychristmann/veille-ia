@@ -11,7 +11,7 @@ members: 47
 - [[Bangkok Post]] - concept - veilles/veille-ia-us-2026-11-08-t6.md
 - [[Bioengineer.org]] - concept - veilles/veille-ia-us-2026-11-08-t3.md
 - [[Bloomberg.com]] - concept - veilles/veille-ia-us-2026-11-16-t5.md
-- [[CASRAI]] - concept - veilles/veille-ia-us-2026-11-17-t4.md
+- [[CASRAI]] - concept - veilles/veille-ia-us-2026-11-18-t3.md
 - [[CNBC]] - concept - veilles/veille-ia-us-2026-11-16-t5.md
 - [[China Securities Regulatory Commission]] - concept - veilles/veille-ia-us-2026-11-18-t3.md
 - [[CloudBackend AB]] - concept - veilles/veille-ia-us-2026-11-18-t6.md
@@ -64,9 +64,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_OpenAI]]
-- 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_Dossier Course à l'IA entre États‑Unis et Chine]]
+- 1 edge to [[_COMMUNITY_ChatGPT Enterprise]]
+- 1 edge to [[_COMMUNITY_Meta]]
 
 ## Top bridge nodes
 - [[Veille États-Unis 2026-11-18]] - degree 11, connects to 2 communities

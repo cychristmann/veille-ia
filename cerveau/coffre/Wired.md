@@ -1,16 +1,16 @@
 ---
 source_file: "dossiers/2026-11-19-1.md"
 type: "concept"
-community: "Fable 5.2"
+community: "Anthropic"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Fable_52
+  - community/Anthropic
 ---
 
 # Wired
 
 ## Connections
-- [[IPO]] - `references` [EXTRACTED]
+- [[Anthropic IPO]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Fable_52
+#graphify/concept #graphify/EXTRACTED #community/Anthropic

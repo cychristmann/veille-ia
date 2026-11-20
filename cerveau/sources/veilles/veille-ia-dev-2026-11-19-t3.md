@@ -1,18 +1,18 @@
-# Veille Outils & code 2026-11-19 : Création de contenu AR/vidéo avec IA
+# Veille Outils & code 2026-11-19 : Infrastructure et optimisation IA
 
 Région : Outils & code · Date : 2026-11-19
 
-Des solutions permettant de générer des publicités vidéo ou des lentilles AR à partir d’une seule image, grâce à des assistants de codage IA comme Claude Code, Codex ou Cursor, sont détaillées.
+Des initiatives se concentrent sur l’optimisation des coûts, l’usage de données synthétiques ou l’intégration de capacités IA directement sur les postes de travail, afin d’améliorer l’efficacité des déploiements IA à grande échelle.
 
-- **Snapchat launches Easy Lens CLI for AR creation with Claude Code, Codex and Cursor** (Business Upturn, note 6/10)
-- **Snapchat now lets developers create AR Lenses using Claude Code** (NewsBytes, note 5/10)
-  Snapchat now allows developers to create AR Lenses using AI coding assistants like Claude Code, enhancing the platform's interactive and immersive camera experiences.
-- **ALIVE Adds Monitoring and Feedback to Streaming Video AI** (TOKENPOST, note 4/10)
-  The model was trained in two stages and evaluated on FSI-Bench, a measure of feedback-seeking and task completion.
-- **Snapchat Lets AI Coding Assistants Build and Publish Lenses** (WeRSM, note 4/10)
-  Snapchat's Easy Lens CLI lets developers use Claude Code, Codex, and Cursor to build, test, and publish AR Lenses without writing code.
-- **Snapchat Lets Developers Build AR Lenses With AI Coding Tools** (Innovation Village, note 4/10)
-- **Snapchat Opens Lens Building to Claude Code, Cursor, Codex** (FourWeekMBA, note 4/10)
-- **Snapchat lets developers build AR Lenses with AI coding assistants** (Mezha.net, note 3/10)
-- **Snapchat expands AR Lens creation with AI coding assistants** (Traders Union, note 3/10)
-- **Snapchat Adds AI Coding Assistant Support to Lens Creation** (www.tokenpost.com, note 3/10)
+- **Optimize AI economics on Amazon Bedrock with Accenture’s sequenced approach** (AWS Machine Learning, note 6/10)
+  As enterprises scale AI on Amazon Bedrock, token spend can grow even as per-token prices fall. This post walks through six composable optimization levers, shows how Accenture applied them across four client engagements, and recommends a sequence for cutting AI token spend on your own workloads.
+- **Microsoft adds knowledge graphs, retrieval model to Foundry IQ for better AI grounding** (InfoWorld, note 5/10)
+  Microsoft is enhancing its Foundry IQ knowledge retrieval service with knowledge graphs, a specialized retrieval model and automatic infrastructure provisioning, seeking to make it easier for developers to build AI agents that can access, understand and reason over enterprise data. Grounding AI agen
+- **How OpenAI’s Performance Factory keeps ChatGPT fast** (OpenAI, note 5/10)
+  Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.
+- **Liquid AI's d1.2 and d1.2-ultra are now available on AI Gateway** (Vercel, note 5/10)
+- **DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency** (Hugging Face, note 5/10)
+- **Google brings computer use to Gemini on Mac** (news.lavx.hu, note 4/10)
+  Google's Gemini desktop app for macOS can now perform tasks on a user's behalf across local files, native apps and the web. The feature arrives after rivals already shipped similar agent tools and is limited to paid subscribers in the US.
+- **New Research Explores Synthetic Data’s Potential to Strengthen Insurance Risk Intelligence** (01net, note 3/10)
+  AI Council research with SAS identifies 16 potential applications and selects catastrophe exposure intelligence as the first pilotMALVERN, Pa.--(BUSINESS WIRE)--Understanding complex risks such as exposure to natural catastrophes, claims litigation and... L'articolo New Research Explores Synthetic D

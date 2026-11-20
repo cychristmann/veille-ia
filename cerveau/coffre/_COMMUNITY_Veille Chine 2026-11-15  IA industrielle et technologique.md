@@ -10,7 +10,7 @@ members: 7
 ## Members
 - [[Cadence]] - concept - veilles/veille-ia-us-2026-11-15-t3.md
 - [[SK Hynix]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
-- [[Samsung]] - concept - veilles/veille-ia-us-2026-11-15-t3.md
+- [[Samsung]] - concept - dossiers/2026-11-20-3.md
 - [[Shanghai Universities]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - document - veilles/veille-ia-cn-2026-11-15-t2.md
 - [[Veille États-Unis 2026-11-15  Matériel et robotique IA]] - document - veilles/veille-ia-us-2026-11-15-t3.md
@@ -24,11 +24,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_OpenAI]]
-- 1 edge to [[_COMMUNITY_Nvidia]]
+- 2 edges to [[_COMMUNITY_Anthropic_1]]
 - 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_Anthropic_1]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_Meta]]
 
 ## Top bridge nodes
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - degree 8, connects to 5 communities
+- [[Samsung]] - degree 3, connects to 1 community

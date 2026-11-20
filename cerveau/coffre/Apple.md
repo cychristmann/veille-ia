@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-16-t6.md"
+source_file: "veilles/veille-ia-fr-2026-11-15-t1.md"
 type: "concept"
 community: "Apple"
 tags:
@@ -11,6 +11,8 @@ tags:
 # Apple
 
 ## Connections
+- [[Apple AI Agent]] - `references` [EXTRACTED]
+- [[Feuilleton Apple AI Agent]] - `references` [EXTRACTED]
 - [[Harbor]] - `references` [EXTRACTED]
 - [[Logic Pro]] - `references` [EXTRACTED]
 - [[Siri AI]] - `references` [EXTRACTED]
@@ -20,6 +22,7 @@ tags:
 - [[Veille France 2026-11-15]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-15  Industrie & matériel]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-16]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-20]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-17  Développements technologiques et infrastructure]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Apple

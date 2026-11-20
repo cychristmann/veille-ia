@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t2.md"
 type: "document"
-community: "AWS Budgets"
+community: "Veille États-Unis 2026-11-09 : Autres articles"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AWS_Budgets
+  - community/Veille_États-Unis_2026-11-09__Autres_articles
 ---
 
 # Veille Chine 2026-11-12 : Anthropic et concurrence
@@ -17,4 +17,4 @@ tags:
 - [[华尔街见闻]] - `cites` [EXTRACTED]
 - [[证券之星]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AWS_Budgets
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-09__Autres_articles

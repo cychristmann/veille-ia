@@ -12,13 +12,13 @@ members: 25
 - [[AMD 霄龙嵌入式 9006 系列 SP7]] - concept - veilles/veille-ia-cn-2026-11-10-t1.md
 - [[Anduril]] - code - veilles/veille-ia-us-2026-11-12-t3.md
 - [[Bay (start-up)]] - concept - veilles/veille-ia-fr-2026-11-10-t2.md
-- [[Helsing]] - concept - veilles/veille-ia-us-2026-11-11-t3.md
-- [[Infineon]] - concept - veilles/veille-ia-us-2026-11-10-t4.md
+- [[Helsing]] - code - veilles/veille-ia-us-2026-11-12-t3.md
+- [[Infineon]] - concept - veilles/veille-ia-fr-2026-11-10-t2.md
 - [[JL280NJL380NJL681N]] - concept - veilles/veille-ia-cn-2026-11-10-t1.md
 - [[Li Feifei]] - code - veilles/veille-ia-cn-2026-11-17-t5.md
-- [[Palantir]] - concept - veilles/veille-ia-us-2026-11-08-t4.md
+- [[Palantir]] - code - veilles/veille-ia-us-2026-11-12-t3.md
 - [[Rafael]] - concept - veilles/veille-ia-us-2026-11-11-t3.md
-- [[Shield AI]] - code - feuilletons/f-0020.md
+- [[Shield AI]] - code - veilles/veille-ia-us-2026-11-12-t3.md
 - [[T-Head]] - concept - veilles/veille-ia-cn-2026-11-10-t1.md
 - [[Veille Chine 2026-11-10  AI芯片与算力]] - document - veilles/veille-ia-cn-2026-11-10-t1.md
 - [[Veille Chine 2026-11-17 (T5)]] - document - veilles/veille-ia-cn-2026-11-17-t5.md
@@ -43,11 +43,11 @@ SORT file.name ASC
 
 ## Connections to other communities
 - 1 edge to [[_COMMUNITY_Veille Chine 2026-11-13]]
-- 1 edge to [[_COMMUNITY_Tencent]]
-- 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
 - 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
+- 1 edge to [[_COMMUNITY_Tencent]]
+- 1 edge to [[_COMMUNITY_GPT-6 Astra_1]]
+- 1 edge to [[_COMMUNITY_Anthropic_1]]
+- 1 edge to [[_COMMUNITY_Feuilleton Compromission massive du Microsoft Agent Framework]]
 
 ## Top bridge nodes
 - [[Veille États-Unis 2026-11-08]] - degree 5, connects to 2 communities

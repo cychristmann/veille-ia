@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t2.md"
 type: "code"
-community: "Sécurité et risques de l'IA"
+community: "复旦发展研究院"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Sécurité_et_risques_de_lIA
+  - community/复旦发展研究院
 ---
 
 # Suno AI
@@ -15,4 +15,4 @@ tags:
 - [[Eminem Music Rights Owners]] - `references` [EXTRACTED]
 - [[Feuilleton Suno AI poursuivi]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Sécurité_et_risques_de_lIA
+#graphify/code #graphify/EXTRACTED #community/复旦发展研究院

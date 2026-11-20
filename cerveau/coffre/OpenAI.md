@@ -1,11 +1,11 @@
 ---
-source_file: "feuilletons/f-0009.md"
+source_file: "veilles/veille-ia-dev-2026-11-14-t2.md"
 type: "concept"
-community: "OpenAI"
+community: "Meta"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/OpenAI
+  - community/Meta
 ---
 
 # OpenAI
@@ -16,16 +16,17 @@ tags:
 - [[Agents IA]] - `conceptually_related_to` [EXTRACTED]
 - [[Amex]] - `references` [EXTRACTED]
 - [[Amplitude Wave]] - `references` [EXTRACTED]
-- [[Anthropic]] - `conceptually_related_to` [INFERRED]
+- [[Anthropic]] - `conceptually_related_to` [EXTRACTED]
 - [[Apollo Research]] - `references` [EXTRACTED]
+- [[Apple AI Agent]] - `conceptually_related_to` [EXTRACTED]
 - [[Arizona Attorney General]] - `cites` [EXTRACTED]
+- [[Business Hub]] - `references` [EXTRACTED]
 - [[California]] - `references` [EXTRACTED]
 - [[ChatGPT]] - `references` [EXTRACTED]
 - [[ChatGPT Enterprise]] - `references` [EXTRACTED]
 - [[ChatGPT Enterprise]] - `references` [EXTRACTED]
 - [[ChatGPT Wallet]] - `references` [INFERRED]
 - [[Commerce Partner Playbook]] - `references` [EXTRACTED]
-- [[Control Room (OpenAI)]] - `references` [EXTRACTED]
 - [[Cursor]] - `references` [EXTRACTED]
 - [[Donald Trump]] - `references` [EXTRACTED]
 - [[Feuilleton OpenAI Legal Issues]] - `references` [EXTRACTED]
@@ -40,6 +41,7 @@ tags:
 - [[Meta]] - `references` [EXTRACTED]
 - [[Mubadala]] - `references` [EXTRACTED]
 - [[OpenAI Agents]] - `references` [EXTRACTED]
+- [[Perplexity Orchestrator API]] - `references` [EXTRACTED]
 - [[Radeon Linux Driver]] - `references` [EXTRACTED]
 - [[Rob Bonta (California Attorney General)]] - `references` [EXTRACTED]
 - [[RubyGems]] - `references` [EXTRACTED]
@@ -56,6 +58,8 @@ tags:
 - [[Veille France 2026-11-11  Régulation, éthique et risques de l'IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-18  Régulation, enjeux juridiques et gouvernance]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-19  Autres articles]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-20]] - `references` [EXTRACTED]
+- [[Veille IA Dev 2026-11-20 T3]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-14]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-17]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-18  Analyse de performance, coûts et gouvernance]] - `references` [EXTRACTED]
@@ -66,4 +70,4 @@ tags:
 - [[Visa]] - `references` [EXTRACTED]
 - [[Wikimedia Foundation]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/OpenAI
+#graphify/concept #graphify/EXTRACTED #community/Meta

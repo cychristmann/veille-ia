@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-19-3.md"
 type: "document"
-community: "Nubia"
+community: "Dossier : Alliance européenne pour une IA souveraine"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Nubia
+  - community/Dossier__Alliance_européenne_pour_une_IA_souveraine
 ---
 
 # Dossier : Alliance européenne pour une IA souveraine
@@ -16,4 +16,4 @@ tags:
 - [[Nokia projette une gigafactory]] - `cites` [EXTRACTED]
 - [[OVHcloud  infrastructure IA]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Nubia
+#graphify/document #graphify/EXTRACTED #community/Dossier__Alliance_européenne_pour_une_IA_souveraine

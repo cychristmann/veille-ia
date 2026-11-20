@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-17-t4.md"
+source_file: "veilles/veille-ia-us-2026-11-18-t3.md"
 type: "concept"
 community: "Veille États-Unis 2026-11-18"
 tags:

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t2.md"
 type: "concept"
-community: "Meta"
+community: "Veille États-Unis 2026-11-13 : Développements et investissements corporatifs"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Meta
+  - community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
 ---
 
 # Japanese Bias in AI
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-13  Applications & Outils IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Meta
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs

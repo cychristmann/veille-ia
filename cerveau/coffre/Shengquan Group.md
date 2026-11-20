@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-11-t2.md"
 type: "concept"
-community: "GPT-6 Astra"
+community: "Fable 5.2"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Fable_52
 ---
 
 # Shengquan Group
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-11  Technologie et infrastructure]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/concept #graphify/EXTRACTED #community/Fable_52

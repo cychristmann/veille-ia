@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Chine  comment des agents IA « voyous » ont échappé au contrôle de leurs créateurs]] - document - dossiers/2026-11-12-2.md
+- [[Education Week AI Coverage]] - concept - veilles/veille-ia-us-2026-11-16-t3.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0029.md"
 type: "document"
-community: "Microsoft"
+community: "Dossier: Course à l'IA entre États‑Unis et Chine"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Microsoft
+  - community/Dossier_Course_à_lIA_entre_ÉtatsUnis_et_Chine
 ---
 
 # Feuilleton: Microsoft Copilot
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Microsoft]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Microsoft
+#graphify/document #graphify/EXTRACTED #community/Dossier_Course_à_lIA_entre_ÉtatsUnis_et_Chine

@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Trust3 AI]] - code - veilles/veille-ia-us-2026-11-11-t4.md
+- [[Claude Sheets]] - concept - veilles/veille-ia-dev-2026-11-12-t1.md
 
 ## Live Query (requires Dataview plugin)
 

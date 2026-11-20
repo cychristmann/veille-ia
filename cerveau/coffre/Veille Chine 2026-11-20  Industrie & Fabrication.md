@@ -1,0 +1,17 @@
+---
+source_file: "veilles/veille-ia-cn-2026-11-20-t1.md"
+type: "document"
+community: "Tencent"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Tencent
+---
+
+# Veille Chine 2026-11-20 : Industrie & Fabrication
+
+## Connections
+- [[AI Infrastructure & Compute]] - `conceptually_related_to` [EXTRACTED]
+- [[Alibaba]] - `references` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Tencent

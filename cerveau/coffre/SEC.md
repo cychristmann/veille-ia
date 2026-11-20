@@ -1,17 +1,17 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-12-t2.md"
+source_file: "dossiers/2026-11-19-1.md"
 type: "concept"
-community: "Fable 5.2"
+community: "Anthropic"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Fable_52
+  - community/Anthropic
 ---
 
 # SEC
 
 ## Connections
 - [[Anthropic]] - `references` [EXTRACTED]
-- [[IPO]] - `references` [EXTRACTED]
+- [[Anthropic IPO]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Fable_52
+#graphify/concept #graphify/EXTRACTED #community/Anthropic

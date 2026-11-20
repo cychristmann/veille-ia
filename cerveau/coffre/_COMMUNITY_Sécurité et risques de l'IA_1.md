@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Sécurité et risques de l'IA
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Fed (Réserve fédérale)]] - concept - veilles/veille-ia-fr-2026-11-14-t5.md
-- [[IA et système financier]] - concept - veilles/veille-ia-fr-2026-11-14-t5.md
-- [[Veille France 2026-11-14  Autres articles]] - document - veilles/veille-ia-fr-2026-11-14-t5.md
+- [[Dianli ETF Jingshun (159158)]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
+- [[JinJing XinNeng (01783)]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
+- [[Shengmei Semiconductor]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
+- [[Veille Chine 2026-11-16  Infrastructure et puissance de calcul]] - document - veilles/veille-ia-cn-2026-11-16-t2.md
 
 ## Live Query (requires Dataview plugin)
 

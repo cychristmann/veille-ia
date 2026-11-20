@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-19-t1.md"
 type: "document"
-community: "Gemini 4 Hydrogen"
+community: "Tencent"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Gemini_4_Hydrogen
+  - community/Tencent
 ---
 
 # Veille États-Unis 2026-11-19 : Financement et mouvements de marché
@@ -18,4 +18,4 @@ tags:
 - [[Lenovo]] - `references` [EXTRACTED]
 - [[Noetik]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Gemini_4_Hydrogen
+#graphify/document #graphify/EXTRACTED #community/Tencent

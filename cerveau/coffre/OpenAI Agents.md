@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0009.md"
 type: "concept"
-community: "OpenAI"
+community: "Meta"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/OpenAI
+  - community/Meta
 ---
 
 # OpenAI Agents
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/OpenAI
+#graphify/concept #graphify/EXTRACTED #community/Meta

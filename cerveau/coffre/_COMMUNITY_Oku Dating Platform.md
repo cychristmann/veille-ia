@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Enterprise RAG Systems]] - concept - veilles/veille-ia-dev-2026-11-16-t5.md
-- [[Veille Outils & code 2026-11-16  Recherche, méthodologies et analyses d’agents IA]] - document - veilles/veille-ia-dev-2026-11-16-t5.md
+- [[Craig Federighi]] - concept - dossiers/2026-11-20-1.md
+- [[John Ternus]] - concept - dossiers/2026-11-20-1.md
 
 ## Live Query (requires Dataview plugin)
 

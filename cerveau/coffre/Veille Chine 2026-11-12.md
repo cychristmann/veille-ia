@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t8.md"
 type: "document"
-community: "Veille Chine 2026-11-12"
+community: "Veille États-Unis 2026-11-12 : IA dans l'éducation et la société"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-12
+  - community/Veille_États-Unis_2026-11-12__IA_dans_léducation_et_la_société
 ---
 
 # Veille Chine 2026-11-12
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-12
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-12__IA_dans_léducation_et_la_société

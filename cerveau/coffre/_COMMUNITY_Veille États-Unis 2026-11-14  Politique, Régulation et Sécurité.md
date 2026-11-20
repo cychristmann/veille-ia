@@ -1,24 +1,23 @@
 ---
 type: community
-members: 11
+members: 10
 ---
 
 # Veille États-Unis 2026-11-14 : Politique, Régulation et Sécurité
 
-**Members:** 11 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[Après l’euphorie, la course à l’IA se heurte déjà aux limites de son modèle économique]] - document - dossiers/2026-11-15-2.md
-- [[Boom de l'intelligence artificielle]] - concept - dossiers/2026-11-15-2.md
-- [[Data-centers]] - concept - dossiers/2026-11-15-2.md
-- [[Dossier  Effondrement du boom IA et crise des data-centers]] - document - dossiers/2026-11-15-2.md
-- [[Empreinte environnementale]] - concept - dossiers/2026-11-15-2.md
-- [[Géants technologiques (Alphabet, Amazon, Microsoft, Meta)]] - concept - dossiers/2026-11-15-2.md
-- [[Investissements dans l’IA  jusqu’où ira l’euphorie mondiale avant le coup de frein]] - document - dossiers/2026-11-15-2.md
-- [[L’empreinte environnementale de l’IA pourrait être multipliée par 7 d’ici 2030]] - document - dossiers/2026-11-15-2.md
-- [[OPINION. « L'énergie pour les data centers de l'IA, atout stratégique ou mirage  »]] - document - dossiers/2026-11-15-2.md
-- [[Risque macroéconomique]] - concept - dossiers/2026-11-15-2.md
-- [[Un coup d'arrêt de l'IA aurait des répercussions bien au-delà des Etats-Unis]] - document - dossiers/2026-11-15-2.md
+- [[Agents IA]] - concept - veilles/veille-ia-fr-2026-11-18-t2.md
+- [[Commonwealth Bank of Australia]] - concept - veilles/veille-ia-fr-2026-11-18-t2.md
+- [[Cybersécurité]] - concept - veilles/veille-ia-fr-2026-11-18-t3.md
+- [[Emploi et Licenciements]] - concept - veilles/veille-ia-fr-2026-11-10-t3.md
+- [[IA et RH]] - concept - veilles/veille-ia-fr-2026-11-10-t3.md
+- [[Mistral]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
+- [[Open Weights Models]] - concept - veilles/veille-ia-fr-2026-11-14-t2.md
+- [[Orange]] - concept - veilles/veille-ia-fr-2026-11-10-t6.md
+- [[Veille France 2026-11-10]] - document - veilles/veille-ia-fr-2026-11-10-t6.md
+- [[Veille France 2026-11-18  Régulation, enjeux juridiques et gouvernance]] - document - veilles/veille-ia-fr-2026-11-18-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,3 +25,17 @@ members: 11
 TABLE source_file, type FROM #community/Veille_États-Unis_2026-11-14__Politique_Régulation_et_Sécurité
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 3 edges to [[_COMMUNITY_Meta]]
+- 2 edges to [[_COMMUNITY_Anthropic_1]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-13]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_Jensen Huang]]
+- 1 edge to [[_COMMUNITY_Google]]
+
+## Top bridge nodes
+- [[Veille France 2026-11-10]] - degree 8, connects to 4 communities
+- [[Agents IA]] - degree 4, connects to 2 communities
+- [[Veille France 2026-11-18  Régulation, enjeux juridiques et gouvernance]] - degree 3, connects to 2 communities
+- [[Open Weights Models]] - degree 2, connects to 1 community

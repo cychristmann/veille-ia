@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-19-t2.md"
+source_file: "veilles/veille-ia-cn-2026-11-20-t1.md"
 type: "concept"
 community: "Tencent"
 tags:
@@ -17,5 +17,8 @@ tags:
 - [[T-Head]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-13]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-19  Marché, Financement & Valorisation IA]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-20  Industrie & Fabrication]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-20  Santé & Biotechnologie]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-20]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Tencent

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-11-t4.md"
 type: "concept"
-community: "OpenAI"
+community: "Meta"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/OpenAI
+  - community/Meta
 ---
 
 # Geoffrey Hinton
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-11  Régulation, éthique et risques de l'IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/OpenAI
+#graphify/concept #graphify/EXTRACTED #community/Meta

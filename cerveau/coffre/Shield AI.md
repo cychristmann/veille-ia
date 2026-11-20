@@ -1,5 +1,5 @@
 ---
-source_file: "feuilletons/f-0020.md"
+source_file: "veilles/veille-ia-us-2026-11-12-t3.md"
 type: "code"
 community: "AMD"
 tags:

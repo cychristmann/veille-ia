@@ -1,23 +1,19 @@
 ---
 type: community
-members: 10
+members: 6
 ---
 
 # Fable 5.2
 
-**Members:** 10 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Ant Group Lingbo Embodied AI]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
-- [[Boursorama]] - concept - dossiers/2026-11-19-1.md
-- [[Dr. Hendrik Leber]] - concept - dossiers/2026-11-19-1.md
-- [[IPO]] - concept - feuilletons/f-0003.md
-- [[Lenovo AI Servers]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
-- [[Nasdaq]] - concept - feuilletons/f-0003.md
-- [[Qwen AI Hardware]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
-- [[SEC]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
-- [[Veille Chine 2026-11-19  Autres articles]] - document - veilles/veille-ia-cn-2026-11-19-t6.md
-- [[Wired]] - concept - dossiers/2026-11-19-1.md
+- [[Fable 5.2]] - concept - feuilletons/f-0003.md
+- [[Opus 5.5]] - concept - veilles/veille-ia-cn-2026-11-11-t2.md
+- [[Shengquan Group]] - concept - veilles/veille-ia-cn-2026-11-11-t2.md
+- [[Veille Chine 2026-11-11  Technologie et infrastructure]] - document - veilles/veille-ia-cn-2026-11-11-t2.md
+- [[datasette]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[datasette-maplibre]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -27,9 +23,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-19  Infrastructure et Technologie IA]]
+- 2 edges to [[_COMMUNITY_Anthropic_1]]
+- 1 edge to [[_COMMUNITY_GPT-6 Astra_1]]
+- 1 edge to [[_COMMUNITY_Claude]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-15_1]]
+- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
 
 ## Top bridge nodes
-- [[IPO]] - degree 9, connects to 2 communities
-- [[SEC]] - degree 2, connects to 1 community
+- [[Fable 5.2]] - degree 5, connects to 3 communities
+- [[Opus 5.5]] - degree 4, connects to 2 communities
+- [[datasette-maplibre]] - degree 2, connects to 1 community

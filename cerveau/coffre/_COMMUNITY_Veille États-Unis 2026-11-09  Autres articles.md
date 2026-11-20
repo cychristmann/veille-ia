@@ -1,16 +1,18 @@
 ---
 type: community
-members: 3
+members: 5
 ---
 
 # Veille États-Unis 2026-11-09 : Autres articles
 
-**Members:** 3 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Brave]] - concept - veilles/veille-ia-us-2026-11-09-t6.md
-- [[NEAR AI]] - concept - veilles/veille-ia-us-2026-11-09-t6.md
-- [[Veille États-Unis 2026-11-09  Autres articles]] - document - veilles/veille-ia-us-2026-11-09-t6.md
+- [[IT之家]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
+- [[Veille Chine 2026-11-12  Anthropic et concurrence]] - document - veilles/veille-ia-cn-2026-11-12-t2.md
+- [[中国新闻网]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
+- [[华尔街见闻]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
+- [[证券之星]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Anthropic_1]]
 
 ## Top bridge nodes
-- [[Veille États-Unis 2026-11-09  Autres articles]] - degree 3, connects to 1 community
+- [[Veille Chine 2026-11-12  Anthropic et concurrence]] - degree 5, connects to 1 community

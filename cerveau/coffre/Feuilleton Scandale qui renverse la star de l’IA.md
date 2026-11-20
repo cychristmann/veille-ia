@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0018.md"
 type: "document"
-community: "OpenAI"
+community: "Meta"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/OpenAI
+  - community/Meta
 ---
 
 # Feuilleton: Scandale qui renverse la star de l’IA
@@ -15,4 +15,4 @@ tags:
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/OpenAI
+#graphify/document #graphify/EXTRACTED #community/Meta

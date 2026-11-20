@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Qwen3.8
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Cyber Shield]] - concept - dossiers/2026-11-18-2.md
+- [[Odystoria]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
+- [[William Mocaër]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
 
 ## Live Query (requires Dataview plugin)
 

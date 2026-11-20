@@ -1,26 +1,29 @@
 ---
 type: community
-members: 13
+members: 16
 ---
 
 # Alibaba
 
-**Members:** 13 nodes
+**Members:** 16 nodes
 
 ## Members
-- [[AI Gigafactory Northern]] - concept - dossiers/2026-11-19-3.md
-- [[Blade]] - concept - dossiers/2026-11-19-3.md
-- [[EUSP]] - concept - feuilletons/f-0034.md
-- [[EuroHPC JU]] - concept - dossiers/2026-11-19-3.md
-- [[Feuilleton Alliance européenne pour le développement d'une IA souveraine de bout en bout]] - document - feuilletons/f-0034.md
-- [[OVHai LLM]] - concept - dossiers/2026-11-19-3.md
-- [[OVHcloud]] - concept - feuilletons/f-0034.md
-- [[Olala]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
-- [[Olala mini]] - concept - veilles/veille-ia-fr-2026-11-19-t3.md
-- [[Qwant]] - concept - feuilletons/f-0034.md
-- [[Shadow]] - concept - feuilletons/f-0034.md
-- [[Staan]] - concept - dossiers/2026-11-19-3.md
-- [[Veille France 2026-11-19  Régulation, souveraineté et enjeux sociétaux]] - document - veilles/veille-ia-fr-2026-11-19-t3.md
+- [[18 Jobs ‘A Recession Can’t Kill & Artificial Intelligence Can’t Take’]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[A Layman Thinks About AI]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[AI roadmap for ecology foundation models, Nov 2026]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Barzilay and Collins Win the 2026 Pritzker Prize for AI in Science Research Excellence]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[CEO Talks Rémy Baume on Using Customer Insights and AI to Drive Growth at Printemps]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Future of AI brain models sparks debate]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[How AI Security Models Are Redefining Banking Resilience]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Human Performance and AI in Sports Analytics Minor Combines Practical Skills with Data Analysis]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Japan's Atlas raises $626K for relationship-building AI]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[LightSite AI Reports Gaps in Website Answers to AI Agent Requests]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Meta Expands Instagram AI Age Checks Worldwide]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Meta's AI Bot Won’t Revolutionize Your Finances]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Microsoft's $5,899 AI Laptop Is Here, and You Should Absolutely Not Buy It]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[PODCAST Anthropic heads for the ultimate AI benchmark]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[US and China are failing the same AI race, only differently]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Veille États-Unis 2026-11-12]] - document - veilles/veille-ia-us-2026-11-12-t7.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -28,9 +31,3 @@ members: 13
 TABLE source_file, type FROM #community/Alibaba
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
-
-## Top bridge nodes
-- [[Olala mini]] - degree 2, connects to 1 community

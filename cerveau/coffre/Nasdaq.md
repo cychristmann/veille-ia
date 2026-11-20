@@ -1,16 +1,17 @@
 ---
 source_file: "feuilletons/f-0003.md"
 type: "concept"
-community: "Fable 5.2"
+community: "Anthropic"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Fable_52
+  - community/Anthropic
 ---
 
 # Nasdaq
 
 ## Connections
-- [[IPO]] - `references` [EXTRACTED]
+- [[Anthropic]] - `references` [EXTRACTED]
+- [[Anthropic IPO]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Fable_52
+#graphify/concept #graphify/EXTRACTED #community/Anthropic

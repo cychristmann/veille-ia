@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-16-t5.md"
 type: "concept"
-community: "Oku Dating Platform"
+community: "Veille États-Unis 2026-11-12 : IA en santé et sciences de la vie"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Oku_Dating_Platform
+  - community/Veille_États-Unis_2026-11-12__IA_en_santé_et_sciences_de_la_vie
 ---
 
 # Enterprise RAG Systems
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Outils & code 2026-11-16  Recherche, méthodologies et analyses d’agents IA]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Oku_Dating_Platform
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-12__IA_en_santé_et_sciences_de_la_vie

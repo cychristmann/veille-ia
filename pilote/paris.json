@@ -315,7 +315,7 @@
    "id": "2026-11-16-2",
    "date": "2026-11-16",
    "echeance": "2026-11-20",
-   "statut": "en_cours",
+   "statut": "gagne",
    "entite": "Anthropic",
    "sections": [
     "fr",
@@ -328,7 +328,9 @@
    "enonce": "Anthropic : au moins 25 articles (France et États-Unis) sur les 4 prochains jours",
    "raisonnement": "Les chiffres récents (20,12,7,9) indiquent une reprise, et le lancement de nouveaux modèles devrait augmenter les mentions.",
    "phrase_ia": "Anthropic sera mentionné dans au moins 25 articles en France et aux États-Unis au cours des 4 prochains jours.",
-   "rejoue": true
+   "rejoue": true,
+   "observe": 50,
+   "resolu_le": "2026-11-20"
   },
   {
    "id": "2026-11-16-3",
@@ -371,7 +373,7 @@
    "id": "2026-11-17-2",
    "date": "2026-11-17",
    "echeance": "2026-11-20",
-   "statut": "en_cours",
+   "statut": "perdu",
    "entite": "Google",
    "sections": [
     "cn"
@@ -383,7 +385,9 @@
    "enonce": "Google : au moins 4 articles (Chine) sur les 3 prochains jours",
    "raisonnement": "Google prépare un lancement de services IA en Chine, ce qui devrait générer une couverture accrue.",
    "phrase_ia": "Google sera cité au moins 4 fois dans la section Chine sur les 3 prochains jours.",
-   "rejoue": false
+   "rejoue": false,
+   "observe": 3,
+   "resolu_le": "2026-11-20"
   },
   {
    "id": "2026-11-18-1",
@@ -438,6 +442,64 @@
    "raisonnement": "Claude a montré une forte hausse récente (38 articles en 4 jours) et les outils continuent d'être très couverts.",
    "phrase_ia": "Claude sera cité dans au moins 30 articles Outils & code sur les 3 prochains jours.",
    "rejoue": false
+  },
+  {
+   "id": "2026-11-20-1",
+   "date": "2026-11-20",
+   "echeance": "2026-11-23",
+   "statut": "en_cours",
+   "entite": "Anthropic",
+   "sections": [
+    "fr",
+    "us"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 28,
+   "horizon": 3,
+   "probabilite": 0.54,
+   "enonce": "Anthropic : au moins 28 articles (France et États-Unis) sur les 3 prochains jours",
+   "raisonnement": "Les 7‑dernier jours montrent une moyenne de 20 articles/jour en France+US, mais la tendance a baissé récemment ; 28 sur 3 jours reste plausible mais incertaine.",
+   "phrase_ia": "Anthropic sera cité dans au moins 28 articles (France et États-Unis) sur les trois prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.62
+  },
+  {
+   "id": "2026-11-20-2",
+   "date": "2026-11-20",
+   "echeance": "2026-11-22",
+   "statut": "en_cours",
+   "entite": "Claude Code",
+   "sections": [
+    "dev"
+   ],
+   "comparaison": "au_plus",
+   "seuil": 10,
+   "horizon": 2,
+   "probabilite": 0.56,
+   "enonce": "Claude Code : au plus 10 articles (Outils & code) sur les 2 prochains jours",
+   "raisonnement": "Le nombre quotidien d'articles dev pour Claude Code a oscillé entre 8 et 12, mais aucune poussée récente ; une petite baisse sous 10 est raisonnable.",
+   "phrase_ia": "Claude Code sera cité dans au plus 10 articles (Outils & code) au cours des deux prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.71
+  },
+  {
+   "id": "2026-11-20-3",
+   "date": "2026-11-20",
+   "echeance": "2026-11-23",
+   "statut": "en_cours",
+   "entite": "AI Agents",
+   "sections": [
+    "cn"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 14,
+   "horizon": 3,
+   "probabilite": 0.52,
+   "enonce": "AI Agents : au moins 14 articles (Chine) sur les 3 prochains jours",
+   "raisonnement": "En Chine, AI Agents a connu une hausse récente (8,3,8,12,4,8,7) avec 12 articles le jour le plus récent, suggérant un pic possible autour de 14.",
+   "phrase_ia": "AI Agents sera mentionné dans au moins 14 articles (Chine) sur les trois prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.58
   }
  ]
 }

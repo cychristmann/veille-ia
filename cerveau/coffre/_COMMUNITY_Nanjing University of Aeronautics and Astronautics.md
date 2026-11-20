@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Nanjing University of Aeronautics and Astronautics
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[CVS Health]] - code - veilles/veille-ia-us-2026-11-14-t6.md
-- [[Veille États-Unis 2026-11-14]] - document - veilles/veille-ia-us-2026-11-14-t6.md
+- [[Nanjing University of Aeronautics and Astronautics]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
 
 ## Live Query (requires Dataview plugin)
 

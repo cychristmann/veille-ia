@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-17-t1.md"
 type: "concept"
-community: "Gemini 4 Hydrogen"
+community: "Feuilleton: Compromission massive du Microsoft Agent Framework"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Gemini_4_Hydrogen
+  - community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
 ---
 
 # Gemini 4 Hydrogen
@@ -25,4 +25,4 @@ tags:
 - [[Veille Outils & code 2026-11-14  Plateformes et infrastructures IA]] - `references` [EXTRACTED]
 - [[llm-gemini]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Gemini_4_Hydrogen
+#graphify/concept #graphify/EXTRACTED #community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-13-t2.md"
 type: "document"
-community: "Nvidia"
+community: "Trump's AI task force"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Nvidia
+  - community/Trumps_AI_task_force
 ---
 
 # Veille États-Unis 2026-11-13 : Régulation et politiques publiques
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Trump's AI task force]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Nvidia
+#graphify/document #graphify/EXTRACTED #community/Trumps_AI_task_force

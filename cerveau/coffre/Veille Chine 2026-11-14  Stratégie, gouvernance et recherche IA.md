@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-14-t1.md"
 type: "document"
-community: "Feuilleton: Compromission massive du Microsoft Agent Framework"
+community: "Google"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
+  - community/Google
 ---
 
 # Veille Chine 2026-11-14 : Stratégie, gouvernance et recherche IA
@@ -18,4 +18,4 @@ tags:
 - [[腾讯闭门会比喻被误读为裁员50%]] - `references` [EXTRACTED]
 - [[让人工智能技术潜力更好转化为生产率增长]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
+#graphify/document #graphify/EXTRACTED #community/Google

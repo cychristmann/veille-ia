@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-18-t3.md"
 type: "concept"
-community: "Anthropic"
+community: "Nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Anthropic
+  - community/Nvidia
 ---
 
 # Robo.ai
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-18  Applications sectorielles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Anthropic
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

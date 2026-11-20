@@ -1,9 +1,9 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-18-t1.md"
-type: "concept"
+source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
+type: "code"
 community: "Google"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
   - community/Google
 ---
@@ -22,6 +22,7 @@ tags:
 - [[Google AI Plus]] - `references` [INFERRED]
 - [[Mandiant]] - `references` [EXTRACTED]
 - [[Orbital AI Infrastructure]] - `references` [EXTRACTED]
+- [[Perplexity Orchestrator API]] - `references` [EXTRACTED]
 - [[Pixel 11 Pro]] - `references` [EXTRACTED]
 - [[TPU]] - `references` [EXTRACTED]
 - [[TPU 8i Max]] - `references` [EXTRACTED]
@@ -31,10 +32,11 @@ tags:
 - [[Veille France 2026-11-09  Autres articles]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-11]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-18  Sécurité et cyber‑menaces IA]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-20]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-08]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-14  Économie, Marchés et Investissements]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-17  Développements technologiques et infrastructure]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-18  Enjeux sociétaux et perception du public]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Google
+#graphify/code #graphify/EXTRACTED #community/Google

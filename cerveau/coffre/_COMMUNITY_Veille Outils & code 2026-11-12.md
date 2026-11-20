@@ -27,10 +27,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
+- 2 edges to [[_COMMUNITY_Feuilleton Compromission massive du Microsoft Agent Framework]]
 - 1 edge to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-13 (T5)]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-15  Finances, valorisation et marché de l’IA_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-12]] - degree 13, connects to 4 communities
+- [[Veille Outils & code 2026-11-12]] - degree 13, connects to 3 communities

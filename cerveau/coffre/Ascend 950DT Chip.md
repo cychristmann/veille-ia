@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-18-t1.md"
 type: "concept"
-community: "Anthropic"
+community: "Nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Anthropic
+  - community/Nvidia
 ---
 
 # Ascend 950DT Chip
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-18  Infrastructure et matériel]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Anthropic
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

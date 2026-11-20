@@ -1,0 +1,197 @@
+{
+ "date": "2026-11-20",
+ "mode": "ia",
+ "bilan": "Cette nuit, toutes les sections ont atteint les 50 articles attendus. Les pourcentages de liens directs sont corrects pour la France (58 %) et les États‑Unis (52 %), mais très faibles pour la Chine (12 %). La section Outils & code a bien maintenu 72 % de liens directs, malgré la panne de Design News. Le quota Groq utilisé est de 62 %, bien en dessous du seuil critique. Aucun problème majeur n’a empêché le déroulement des étapes de la veille.",
+ "a_surveiller": [
+  "Le pourcentage de liens directs très bas pour la section Chine (12 %).",
+  "Le quota Groq qui reste sous 80 % mais doit être surveillé pour éviter une surcharge.",
+  "La source Design News qui est en panne depuis trois nuits."
+ ],
+ "lecon": "Pour les sections où les liens directs sont très faibles, réduire la dépendance à Google Actualités et chercher davantage de sources directes améliore la qualité des références.",
+ "actions": [
+  {
+   "date": "2026-11-20",
+   "action": "experimenter",
+   "section": "cn",
+   "source": "part de Google Actualités 1.0 → 0.8",
+   "motif": "score actuel 70.6/100",
+   "raison": "Réduire la part de Google Actualités de 1.0 à 0.8 pour la Chine devrait augmenter le taux de liens directs, qui est très bas.",
+   "resultat": "essai pendant 3 nuits",
+   "libelle": "Expérience Chine : part de Google Actualités 1.0 → 0.8"
+  }
+ ],
+ "refusees": [
+  {
+   "type": "ouvrir_section",
+   "section": "sujet",
+   "source": "Gemini",
+   "motif": "18 articles en 2 jours, 3.8 fois plus que d'habitude (2.4 par jour)",
+   "libelle": "Nouvelle rubrique « Gemini »",
+   "raison": "L'ouverture de la rubrique « Gemini » n’est pas liée à un événement majeur de plusieurs jours."
+  },
+  {
+   "type": "ouvrir_section",
+   "section": "sujet",
+   "source": "Anthropic",
+   "motif": "55 articles en 2 jours, 3.4 fois plus que d'habitude (8.2 par jour)",
+   "libelle": "Nouvelle rubrique « Anthropic »",
+   "raison": "L'ouverture de la rubrique « Anthropic » n’est pas justifiée par un événement exceptionnel."
+  },
+  {
+   "type": "pause",
+   "section": "dev",
+   "source": "Design News",
+   "motif": "en panne 3 nuits d'affilée",
+   "libelle": "Mise en pause de Design News (Outils & code)",
+   "raison": "La pause de Design News doit rester tant que la source reste en panne."
+  }
+ ],
+ "en_pause": [
+  {
+   "section": "dev",
+   "source": "KDnuggets",
+   "depuis": "2026-11-19",
+   "motif": "hors sujet : 5 articles écartés, aucun retenu en 7 nuits"
+  }
+ ],
+ "en_essai": [
+  {
+   "section": "dev",
+   "source": "NeoTeo",
+   "depuis": "2026-11-17",
+   "raison": "30 % d'articles IA, forte spécialisation technique, apporte une valeur ajoutée importante."
+  },
+  {
+   "section": "fr",
+   "source": "Quartz en Français",
+   "depuis": "2026-11-17",
+   "raison": "10 % d'articles IA avec des sujets pertinents (cybersécurité, deepfakes) ; source fiable et spécialisée."
+  }
+ ],
+ "lecons": [
+  {
+   "date": "2026-11-17",
+   "texte": "Tester régulièrement de nouveaux médias aide à maintenir un haut pourcentage de liens directs et à diversifier les sources."
+  },
+  {
+   "date": "2026-11-20",
+   "texte": "Pour les sections où les liens directs sont très faibles, réduire la dépendance à Google Actualités et chercher davantage de sources directes améliore la qualité des références."
+  }
+ ],
+ "paris": {
+  "nouveaux": [
+   {
+    "enonce": "Anthropic : au moins 28 articles (France et États-Unis) sur les 3 prochains jours",
+    "probabilite": 0.54,
+    "echeance": "2026-11-23",
+    "statut": "en_cours",
+    "observe": null,
+    "raisonnement": "Les 7‑dernier jours montrent une moyenne de 20 articles/jour en France+US, mais la tendance a baissé récemment ; 28 sur 3 jours reste plausible mais incertaine."
+   },
+   {
+    "enonce": "Claude Code : au plus 10 articles (Outils & code) sur les 2 prochains jours",
+    "probabilite": 0.56,
+    "echeance": "2026-11-22",
+    "statut": "en_cours",
+    "observe": null,
+    "raisonnement": "Le nombre quotidien d'articles dev pour Claude Code a oscillé entre 8 et 12, mais aucune poussée récente ; une petite baisse sous 10 est raisonnable."
+   },
+   {
+    "enonce": "AI Agents : au moins 14 articles (Chine) sur les 3 prochains jours",
+    "probabilite": 0.52,
+    "echeance": "2026-11-23",
+    "statut": "en_cours",
+    "observe": null,
+    "raisonnement": "En Chine, AI Agents a connu une hausse récente (8,3,8,12,4,8,7) avec 12 articles le jour le plus récent, suggérant un pic possible autour de 14."
+   }
+  ],
+  "resolus": [
+   {
+    "enonce": "Anthropic : au moins 25 articles (France et États-Unis) sur les 4 prochains jours",
+    "probabilite": 0.73,
+    "echeance": "2026-11-20",
+    "statut": "gagne",
+    "observe": 50,
+    "raisonnement": "Les chiffres récents (20,12,7,9) indiquent une reprise, et le lancement de nouveaux modèles devrait augmenter les mentions."
+   },
+   {
+    "enonce": "Google : au moins 4 articles (Chine) sur les 3 prochains jours",
+    "probabilite": 0.66,
+    "echeance": "2026-11-20",
+    "statut": "perdu",
+    "observe": 3,
+    "raisonnement": "Google prépare un lancement de services IA en Chine, ce qui devrait générer une couverture accrue."
+   }
+  ],
+  "refus": [],
+  "score": {
+   "tranches": 17,
+   "gagnes": 8,
+   "reussite": 47,
+   "correction": 0.3,
+   "confiance_moyenne": 69,
+   "brier": 0.306,
+   "paliers": {
+    "50-64 %": {
+     "paris": 2,
+     "reussite": 50
+    },
+    "65-79 %": {
+     "paris": 15,
+     "reussite": 47
+    }
+   }
+  }
+ },
+ "section_ephemere": null,
+ "experiences": [
+  {
+   "section": "cn",
+   "libelle": "part de Google Actualités 1.0 → 0.8",
+   "depuis": "2026-11-20",
+   "base": 70.6,
+   "hypothese": "Réduire la part de Google Actualités de 1.0 à 0.8 pour la Chine devrait augmenter le taux de liens directs, qui est très bas."
+  }
+ ],
+ "indicateurs": {
+  "sections": {
+   "fr": {
+    "nom": "France",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 58,
+    "pannes": []
+   },
+   "us": {
+    "nom": "États-Unis",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 52,
+    "pannes": []
+   },
+   "cn": {
+    "nom": "Chine",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 12,
+    "pannes": []
+   },
+   "dev": {
+    "nom": "Outils & code",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 72,
+    "pannes": [
+     "Design News"
+    ]
+   }
+  },
+  "quota_groq": 62,
+  "nuit": {
+   "statut": "attention",
+   "soucis": [
+    "Veille Outils & code : 50 articles, 14 sans lien direct · 1 source(s) en panne : Design News"
+   ]
+  }
+ }
+}

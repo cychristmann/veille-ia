@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0021.md"
 type: "concept"
-community: "Veille France 2026-11-09 : Autres articles"
+community: "Federal Reserve"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-09__Autres_articles
+  - community/Federal_Reserve
 ---
 
 # Artificial Intelligence
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Federal Reserve]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-09__Autres_articles
+#graphify/concept #graphify/EXTRACTED #community/Federal_Reserve

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t5.md"
 type: "document"
-community: "Google"
+community: "CoreWeave"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Google
+  - community/CoreWeave
 ---
 
 # Veille France 2026-11-09 : Autres articles
@@ -18,4 +18,4 @@ tags:
 - [[Google]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Google
+#graphify/document #graphify/EXTRACTED #community/CoreWeave

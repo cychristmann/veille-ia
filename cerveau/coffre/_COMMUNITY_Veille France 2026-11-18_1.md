@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Education Week AI Coverage]] - concept - veilles/veille-ia-us-2026-11-16-t3.md
+- [[Veille France 2026-11-18]] - document - veilles/veille-ia-fr-2026-11-18-t6.md
 
 ## Live Query (requires Dataview plugin)
 

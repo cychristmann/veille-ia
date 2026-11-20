@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-12-t2.md"
 type: "document"
-community: "Gemini 4 Hydrogen"
+community: "Veille Outils & code 2026-11-13"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Gemini_4_Hydrogen
+  - community/Veille_Outils__code_2026-11-13
 ---
 
 # Veille Outils & code 2026-11-12 : Déploiement et infrastructure IA
@@ -18,4 +18,4 @@ tags:
 - [[SGLang-Neuron]] - `references` [EXTRACTED]
 - [[TPU Sync]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Gemini_4_Hydrogen
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-13

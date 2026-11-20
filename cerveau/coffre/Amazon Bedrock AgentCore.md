@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-12-t2.md"
 type: "concept"
-community: "Gemini 4 Hydrogen"
+community: "Veille Outils & code 2026-11-20"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Gemini_4_Hydrogen
+  - community/Veille_Outils__code_2026-11-20
 ---
 
 # Amazon Bedrock AgentCore
@@ -13,8 +13,10 @@ tags:
 ## Connections
 - [[Duco]] - `references` [EXTRACTED]
 - [[SWARM]] - `references` [EXTRACTED]
+- [[Strands harness]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-12  Déploiement et infrastructure IA]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-14  Plateformes et infrastructures IA]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-18]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-20]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Gemini_4_Hydrogen
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-20

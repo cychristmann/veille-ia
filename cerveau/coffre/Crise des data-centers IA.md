@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0024.md"
 type: "concept"
-community: "Feuilleton: Centre international d’IA militaire français ouvert à Rennes"
+community: "Crise des data-centers IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Feuilleton_Centre_international_dIA_militaire_français_ouvert_à_Rennes
+  - community/Crise_des_data-centers_IA
 ---
 
 # Crise des data-centers IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Feuilleton Effondrement du boom IA et crise des data-centers]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Feuilleton_Centre_international_dIA_militaire_français_ouvert_à_Rennes
+#graphify/concept #graphify/EXTRACTED #community/Crise_des_data-centers_IA

@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0031.md"
 type: "concept"
-community: "JPMorgan"
+community: "CoreWeave"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/JPMorgan
+  - community/CoreWeave
 ---
 
 # SID AI
@@ -15,4 +15,4 @@ tags:
 - [[SID-2 Agentic Search Model]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-18 (T1)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/JPMorgan
+#graphify/concept #graphify/EXTRACTED #community/CoreWeave

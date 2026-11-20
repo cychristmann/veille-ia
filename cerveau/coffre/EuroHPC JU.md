@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-19-3.md"
 type: "concept"
-community: "Alibaba"
+community: "Veille France 2026-11-17"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Alibaba
+  - community/Veille_France_2026-11-17
 ---
 
 # EuroHPC JU
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AI Gigafactory Northern]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Alibaba
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-17

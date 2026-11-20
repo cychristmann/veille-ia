@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-19-t6.md"
 type: "document"
-community: "Nvidia"
+community: "Veille Chine 2026-11-19 : Régulation & Gouvernance IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Nvidia
+  - community/Veille_Chine_2026-11-19__Régulation__Gouvernance_IA
 ---
 
 # Veille États-Unis 2026-11-19
@@ -22,4 +22,4 @@ tags:
 - [[markets.businessinsider.com]] - `cites` [EXTRACTED]
 - [[vatcalc.com]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Nvidia
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-19__Régulation__Gouvernance_IA

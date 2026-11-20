@@ -1,20 +1,19 @@
 ---
 type: community
-members: 7
+members: 6
 ---
 
 # Apple
 
-**Members:** 7 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[BioMap]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[Jilin Province]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[SeedRealtime 1.0]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[Veille Chine 2026-11-19  Applications industrielles]] - document - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[Volcano Engine]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[Yuewen]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[ZTE]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
+- [[Demis Hassabis]] - concept - dossiers/2026-11-12-3.md
+- [[Dossier Course à l'IA entre États‑Unis et Chine]] - document - dossiers/2026-11-12-3.md
+- [[Eric Schmidt]] - concept - dossiers/2026-11-12-3.md
+- [[Eric Schmidt says gap between China and US in AI is now negligible]] - document - dossiers/2026-11-12-3.md
+- [[Institute for Progress]] - concept - dossiers/2026-11-12-3.md
+- [[Nvidia, Chinese Espionage, and the AI Race Foreign Policy Issues to Watch]] - document - dossiers/2026-11-12-3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,3 +21,9 @@ members: 7
 TABLE source_file, type FROM #community/Apple
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
+
+## Top bridge nodes
+- [[Dossier Course à l'IA entre États‑Unis et Chine]] - degree 6, connects to 1 community

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t3.md"
 type: "document"
-community: "Apple"
+community: "ARTEX"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Apple
+  - community/ARTEX
 ---
 
 # Veille Chine 2026-11-19 : Applications industrielles
@@ -15,4 +15,4 @@ tags:
 - [[SeedRealtime 1.0]] - `references` [EXTRACTED]
 - [[Yuewen]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Apple
+#graphify/document #graphify/EXTRACTED #community/ARTEX

@@ -1,9 +1,9 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-08-t4.md"
-type: "concept"
+source_file: "veilles/veille-ia-us-2026-11-12-t3.md"
+type: "code"
 community: "AMD"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
   - community/AMD
 ---
@@ -14,4 +14,4 @@ tags:
 - [[Helsing]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-08]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AMD
+#graphify/code #graphify/EXTRACTED #community/AMD

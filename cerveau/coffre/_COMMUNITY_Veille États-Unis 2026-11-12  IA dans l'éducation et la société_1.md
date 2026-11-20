@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille États-Unis 2026-11-12 : IA dans l'éducation et la société
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Skeleton]] - concept - dossiers/2026-11-19-3.md
+- [[Allspring Global Investments]] - concept - dossiers/2026-11-20-2.md
+- [[Gary Tan]] - concept - dossiers/2026-11-20-2.md
 
 ## Live Query (requires Dataview plugin)
 
