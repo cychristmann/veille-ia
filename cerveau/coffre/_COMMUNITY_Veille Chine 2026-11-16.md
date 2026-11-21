@@ -1,17 +1,16 @@
 ---
 type: community
-members: 4
+members: 3
 ---
 
 # Veille Chine 2026-11-16
 
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[AI Fraud and Academic Misconduct]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
-- [[AI Market Dynamics]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
-- [[AI Regulation and Ethics]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
-- [[Veille Chine 2026-11-16]] - document - veilles/veille-ia-cn-2026-11-16-t4.md
+- [[Brave]] - concept - veilles/veille-ia-us-2026-11-09-t6.md
+- [[NEAR AI]] - concept - veilles/veille-ia-us-2026-11-09-t6.md
+- [[Veille États-Unis 2026-11-09  Autres articles]] - document - veilles/veille-ia-us-2026-11-09-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,3 +18,9 @@ members: 4
 TABLE source_file, type FROM #community/Veille_Chine_2026-11-16
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
+
+## Top bridge nodes
+- [[Veille États-Unis 2026-11-09  Autres articles]] - degree 3, connects to 1 community

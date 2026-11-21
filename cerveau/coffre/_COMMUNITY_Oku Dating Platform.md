@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Craig Federighi]] - concept - dossiers/2026-11-20-1.md
-- [[John Ternus]] - concept - dossiers/2026-11-20-1.md
+- [[IA dans l'enseignement supérieur]] - concept - veilles/veille-ia-cn-2026-11-13-t1.md
+- [[Veille Chine 2026-11-13  Éducation et formation]] - document - veilles/veille-ia-cn-2026-11-13-t1.md
 
 ## Live Query (requires Dataview plugin)
 

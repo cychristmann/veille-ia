@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-10-t7.md"
 type: "document"
-community: "veille états-unis thème 7"
+community: "Veille États-Unis 2026-11-18"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/veille_états-unis_thème_7
+  - community/Veille_États-Unis_2026-11-18
 ---
 
 # Veille États-Unis 2026-11-10 : Autres articles
@@ -15,4 +15,4 @@ tags:
 - [[Artifact AI]] - `references` [EXTRACTED]
 - [[Venture Global]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/veille_états-unis_thème_7
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-18

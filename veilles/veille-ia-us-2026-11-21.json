@@ -1,0 +1,1041 @@
+{
+  "region": "us",
+  "genere_a": "2026-11-21T08:00:08.694675+01:00",
+  "heures": 24,
+  "nombre_demande": 50,
+  "nombre_articles": 50,
+  "synthese": "Les dernières heures ont été marquées par une avalanche d'actualités autour de l'IA, depuis les turbulences liées à l'introduction en bourse d'Anthropic et les revendications de preuves du problème de Riemann, jusqu'aux interventions politiques visant à restreindre les modèles chinois et à sécuriser les puces. Les géants technologiques continuent d'investir massivement dans les agents IA, les data‑centres et les modèles LLM, tandis que les marchés boursiers réagissent avec volatilité face aux attentes et aux craintes. Parallèlement, l'IA se répand dans la santé (détection de séismes, tri du cancer de la peau, examens d'anesthésie) et dans la vie quotidienne, suscitant débats éthiques, critiques culturelles et appels à la régulation. Enfin, plusieurs articles soulignent les risques de cybersécurité et les enjeux de gouvernance liés à l'usage croissant des agents IA dans les entreprises et les services publics.",
+  "verification": {
+    "problemes": [],
+    "synthese_originale": "Les dernières heures ont été marquées par une avalanche d'actualités autour de l'IA, depuis les turbulences liées à l'introduction en bourse d'Anthropic et les revendications de preuves du problème de Riemann, jusqu'aux interventions politiques visant à restreindre les modèles chinois et à sécuriser les puces. Les géants technologiques continuent d'investir massivement dans les agents IA, les data‑centres et les modèles LLM, tandis que les marchés boursiers réagissent avec volatilité face aux attentes et aux craintes. Parallèlement, l'IA se répand dans la santé (détection de séismes, tri du cancer de la peau, examens d'anesthésie) et dans la vie quotidienne, suscitant débats éthiques, critiques culturelles et appels à la régulation. Enfin, plusieurs articles soulignent les risques de cybersécurité et les enjeux de gouvernance liés à l'usage croissant des agents IA dans les entreprises et les services publics."
+  },
+  "sources_en_echec": [],
+  "flux_lus": {
+    "TechCrunch": [
+      20,
+      3
+    ],
+    "The Verge": [
+      10,
+      3
+    ],
+    "Wired": [
+      10,
+      2
+    ],
+    "Ars Technica": [
+      20,
+      3
+    ],
+    "MIT Technology Review": [
+      10,
+      1
+    ],
+    "ZDNET": [
+      25,
+      1
+    ],
+    "Engadget": [
+      20,
+      6
+    ],
+    "CNBC": [
+      30,
+      9
+    ],
+    "The New York Times": [
+      41,
+      3
+    ],
+    "The Information": [
+      20,
+      6
+    ],
+    "Cisco Blogs": [
+      9,
+      0
+    ],
+    "24/7 Wall St.": [
+      100,
+      27
+    ],
+    "SC Media": [
+      10,
+      3
+    ],
+    "SiliconANGLE": [
+      30,
+      9
+    ],
+    "The Guardian (IA)": [
+      20,
+      7
+    ],
+    "The Decoder": [
+      10,
+      8
+    ],
+    "MarkTechPost": [
+      10,
+      1
+    ],
+    "Bloomberg Technology": [
+      20,
+      12
+    ],
+    "The Wall Street Journal (Tech)": [
+      40,
+      10
+    ],
+    "CASRAI": [
+      50,
+      8
+    ],
+    "markets.businessinsider.com": [
+      20,
+      3
+    ],
+    "Amazon Web Services (AWS)": [
+      100,
+      10
+    ],
+    "Mashable": [
+      100,
+      9
+    ],
+    "Fortune": [
+      10,
+      3
+    ],
+    "PYMNTS.com": [
+      10,
+      4
+    ],
+    "Startup Fortune": [
+      10,
+      5
+    ],
+    "Benzinga": [
+      25,
+      9
+    ],
+    "GeekWire": [
+      35,
+      2
+    ],
+    "TechTarget": [
+      10,
+      9
+    ],
+    "Crypto Briefing": [
+      30,
+      13
+    ],
+    "Google Actualités": [
+      100,
+      100
+    ]
+  },
+  "titre_section": "américaine",
+  "themes": [
+    {
+      "nom": "Anthropic & Riemann",
+      "resume": "Une série d'articles traitent de l'IPO d'Anthropic, des controverses financières qui l'entourent et des revendications de mathématiciens affirmant que l'IA a permis de résoudre le problème de l'Hypothèse de Riemann, illustrant la fascination pour les performances de l'IA en mathématiques.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Travailleur Anthropic résout problème mathématique majeur avec IA",
+          "couverture": 1,
+          "titre": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+          "source": "AP News",
+          "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZl83aFlGaHFEUVczbnRQYTJCbmhiWUFic2RBN0JLeVJrUy1GOG5TZDRtSzVDQ3JzT1otb3dqZlQ0X1JXc0I3Wm1CMzB2Ul9MZGlGbFVvOHEyVlo4V1NxUU5sQ0FoMTNkTUJkaXlCSFYwcE5rZGtyb2hwTkNYcVNJcGtMSzdqRFlQejUzTjFuei1PX2ZPcU5ZRw?oc=5",
+          "date": "2026-11-21T04:55:00+00:00",
+          "resume": "",
+          "titre_fr": "Un employé d'Anthropic affirme avoir résolu le Saint‑Graël des problèmes mathématiques grâce à l'IA"
+        },
+        {
+          "note": 8,
+          "motif": "Réclamation résolution problème de Riemann par Anthropic, grande nouveauté",
+          "couverture": 1,
+          "titre": "Anthropic Researcher Claims to Solve Riemann Problem With Claude",
+          "source": "Bloomberg Technology",
+          "lien": "https://www.bloomberg.com/news/articles/2026-11-21/anthropic-researcher-claims-to-solve-riemann-problem-with-claude",
+          "date": "2026-11-21T00:17:14+00:00",
+          "resume": "On the heels of Anthropic PBC’s record-breaking initial public offering, a researcher at the company said he believes he used its artificial intelligence software to solve a famous number theory problem that has plagued mathematicians for more than 150 years.",
+          "titre_fr": "Chercheur d'Anthropic affirme avoir résolu le problème de Riemann avec Claude"
+        },
+        {
+          "note": 7,
+          "motif": "Annonce IPO d'Anthropic, impact sur le marché financier",
+          "couverture": 1,
+          "titre": "Anthropic's post-IPO slide shows hype not enough to ease AI investor fears",
+          "source": "www.thenationalnews.com",
+          "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZjlJbTZQUmcydnE5dFI4N2t0Wm9tcDhUZjVSMW9ZWVNyd3hXTldnUjN6QkdMcEVKOUZnWVVrbFV5ZEtWb09GVmp0YmZROEV5YlUxWGs4OUhlemR6RHVsS0Y0WDNnajdTU1FMcmtNY0ZxdHMyUm1vci1KQzlibUVvLXJHaDBGZzVlXzIzNHJUZmtqbVNPTzcyZnhXT1VUMlgzeXVUVU4xQWVTc2R3Y2dCT0l5UlhsQXA2RE1DUzhsdnBSeWg1VThkaUoxWEViMmM?oc=5",
+          "date": "2026-11-21T06:56:19+00:00",
+          "resume": "",
+          "titre_fr": "La chute post-IPO d'Anthropic montre que le battage médiatique ne suffit pas à apaiser les craintes des investisseurs en IA"
+        },
+        {
+          "note": 6,
+          "motif": "Ark Invest achète actions Anthropic, mouvement d'investissement",
+          "couverture": 1,
+          "titre": "Ark Invest acquires 705,982 shares of Anthropic as Cathie Wood leans into AI",
+          "source": "Crypto Briefing",
+          "lien": "https://cryptobriefing.com/ark-invest-buys-anthropic-shares/",
+          "date": "2026-11-21T01:34:53+00:00",
+          "resume": "Ark Invest's AI focus signals a strategic shift in tech investment, potentially influencing market perceptions and investor priorities in AI sectors. The post Ark Invest acquires 705,982 shares of Anthropic as Cathie Wood leans into AI appeared first on Crypto Briefing .",
+          "titre_fr": "Ark Invest acquiert 705 982 actions d'Anthropic alors que Cathie Wood mise sur l'IA"
+        },
+        {
+          "note": 5,
+          "motif": "Newsletter sectorielle, informations diverses",
+          "couverture": 1,
+          "titre": "AI: Anthropic’s IPO Aloft, Nvidia Reigns On, TSMC Steps In & More. AI-RTZ #1277",
+          "source": "AI: Reset to Zero",
+          "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOWHVWV1VmNHpXWGQ5eUlLZUFlVmgtcDl2N1lIQkZLZEllUWhLRlV4bS1qUFFLT0ljT1lNNlVlVVV1Q0lEY0s0UHgtYmFDeFBlM093UFhtUlBrXzduRFhBLUd1eExGZ1NoaE1ySVpNU1BaR2dfeGpmLWhXbnI4NGc?oc=5",
+          "date": "2026-11-21T06:02:36+00:00",
+          "resume": "",
+          "titre_fr": "IA : IPO d'Anthropic en plein essor, Nvidia toujours en tête, TSMC intervient et plus encore – AI‑RTZ #1277"
+        },
+        {
+          "note": 5,
+          "motif": "Évaluation METR TH2, IA temps de recherche, intérêt académique",
+          "couverture": 1,
+          "titre": "METR TH2 Evaluation Finds AI Time Horizons Doubling While Research Judgment Lags",
+          "source": "CASRAI",
+          "lien": "https://casrai.org/news/metr-th2-ai-time-horizons-research-judgment-evaluation-2026",
+          "date": "2026-11-21T01:15:54+00:00",
+          "resume": "METR’s TH2 evaluation finds frontier AI time horizons doubling every 110 days on verifiable tasks, while open-ended research judgment continues to lag.",
+          "titre_fr": "L'évaluation METR TH2 révèle que les horizons temporels de l'IA doublent tandis que le jugement de recherche reste en retard"
+        },
+        {
+          "note": 5,
+          "motif": "Blocage messages privés par AI, question de confidentialité",
+          "couverture": 1,
+          "titre": "Signal blocks AI agents from accessing private messages",
+          "source": "SC Media",
+          "lien": "https://www.scworld.com/brief/signal-blocks-ai-agents-from-accessing-private-messages",
+          "date": "2026-11-20T19:51:08-05:00",
+          "resume": "Signal has implemented new restrictions to prevent artificial intelligence agents from accessing private user messages, as first reported by The Register.",
+          "titre_fr": "Signal bloque les agents IA d'accéder aux messages privés"
+        },
+        {
+          "note": 4,
+          "motif": "Guide migration LLM, contenu pratique",
+          "couverture": 1,
+          "titre": "Build an LLM model deprecation migration plan before the cutoff week",
+          "source": "Startup Fortune",
+          "lien": "https://startupfortune.com/build-an-llm-model-deprecation-migration-plan-before-the-cutoff-week/",
+          "date": "2026-11-21T00:56:10+00:00",
+          "resume": "An LLM model deprecation migration plan fits in one runbook: pinned snapshot IDs, a 150 to 300 case golden set, a week of shadow traffic, a cost check on real token counts, and a rollback flag kept live for two weeks after cutover.",
+          "titre_fr": "Élaborez un plan de migration de dépréciation des modèles LLM avant la semaine de clôture"
+        }
+      ]
+    },
+    {
+      "nom": "Régulation & Géopolitique",
+      "resume": "Les législateurs américains et les régulateurs internationaux intensifient leurs efforts pour contrôler les modèles d'IA chinois, les exportations de puces et l'implantation des data‑centres IA, reflétant la dimension stratégique de la technologie.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Proposition de bannir modèles chinois, décision réglementaire majeure",
+          "couverture": 1,
+          "titre": "US lawmakers urge ban on Chinese AI models in federal systems",
+          "source": "Anadolu Ajansı",
+          "lien": "https://www.aa.com.tr/en/americas/us-lawmakers-urge-ban-on-chinese-ai-models-in-federal-systems/4132677",
+          "date": "2026-11-21T06:32:04+00:00",
+          "resume": "Congressional report calls for removing Chinese-developed AI from critical infrastructure, expanding US alternatives | Anadolu ...",
+          "titre_fr": "Des législateurs américains demandent l'interdiction des modèles d'IA chinois dans les systèmes fédéraux"
+        },
+        {
+          "note": 7,
+          "motif": "Cyber‑menace AI déjà présente, alerte sécurité globale",
+          "couverture": 1,
+          "titre": "The AI cyber threat is already here",
+          "source": "Financial Times",
+          "lien": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1",
+          "date": "2026-11-21T05:04:45+00:00",
+          "resume": "For cyber security experts, though, the threat now posed by AI is not self-inflicted network outages or Amodei’s prediction of an all-powerful autonomous agent — or indeed an extinction-level event ...",
+          "titre_fr": "La menace cyber IA est déjà là"
+        },
+        {
+          "note": 6,
+          "motif": "Comités US flaggent modèles chinois, sujet politique important",
+          "couverture": 2,
+          "titre": "House Committees Flag Chinese Open-Weight AI Models as Cursor Weighs Phasing Out Kimi K2.5",
+          "source": "CASRAI",
+          "lien": "https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026",
+          "date": "2026-11-21T06:09:17+00:00",
+          "resume": "A House investigation urges banning Chinese open-weight AI models from federal systems as coding tool Cursor weighs phasing out Moonshot AI’s Kimi K2.5.",
+          "titre_fr": "Les commissions de la Chambre pointent les modèles d'IA chinois à poids libre alors que Cursor envisage de supprimer Kimi K2.5"
+        },
+        {
+          "note": 6,
+          "motif": "Cursor évoque phase‑out modèles chinois, impact politique",
+          "couverture": 2,
+          "titre": "SpaceX-owned Cursor tells Congress it may phase out Chinese AI models",
+          "source": "Startup Fortune",
+          "lien": "https://startupfortune.com/spacex-owned-cursor-tells-congress-it-may-phase-out-chinese-ai-models/",
+          "date": "2026-11-21T05:03:00+00:00",
+          "resume": "Cursor's Composer 2 coding model is built on Moonshot AI's Kimi K2.5, so a phase-out would reach its core product. House committees say US open-weight options still miss the price and performance the market demands, and DeepSeek drew 58% of Vercel gateway tokens on 6.6% of spend.",
+          "titre_fr": "Cursor, filiale de SpaceX, indique au Congrès qu'il pourrait supprimer les modèles d'IA chinois"
+        },
+        {
+          "note": 5,
+          "motif": "Avertissement régulateur sur lunettes IA, sécurité produit",
+          "couverture": 1,
+          "titre": "Dutch regulator warns against using AI-powered smart glasses",
+          "source": "SC Media",
+          "lien": "https://www.scworld.com/brief/dutch-regulator-warns-against-using-ai-powered-smart-glasses",
+          "date": "2026-11-20T19:43:46-05:00",
+          "resume": "The Dutch Data Protection Authority has issued a formal warning advising consumers against purchasing AI-powered smart glasses due to significant safety and privacy concerns, according to a recent report by The Register.",
+          "titre_fr": "Le régulateur néerlandais met en garde contre l'usage de lunettes intelligentes alimentées par l'IA"
+        },
+        {
+          "note": 5,
+          "motif": "IA pour âge osseux pédiatrique, pertinence médicale",
+          "couverture": 1,
+          "titre": "Pediatric Bone Age Artificial Intelligence Matches Atlases Overall but Shows Individual Variability",
+          "source": "Bioengineer.org",
+          "lien": "https://bioengineer.org/pediatric-bone-age-artificial-intelligence-matches-atlases-overall-but-shows-individual-variability/",
+          "date": "2026-11-21T05:07:16+00:00",
+          "resume": "A retrospective evaluation of 376 pediatric patients found that artificial intelligence bone age estimates achieve high population-level agreement with traditional reference atlases but exhibit ...",
+          "titre_fr": "L'IA d'estimation de l'âge osseux pédiatrique égale les atlas globaux mais montre une variabilité individuelle"
+        },
+        {
+          "note": 4,
+          "motif": "Déclaration politique, IA en arrière‑plan",
+          "couverture": 1,
+          "titre": "Trump defends Putin relationship, warns AI data centres must stay in US",
+          "source": "Al Jazeera",
+          "lien": "https://www.yahoo.com/news/politics/articles/trump-defends-putin-relationship-warns-210507189.html",
+          "date": "2026-11-21T00:44:51+00:00",
+          "resume": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
+          "titre_fr": "Trump défend sa relation avec Poutine et avertit que les centres de données IA doivent rester aux États‑Unis"
+        }
+      ]
+    },
+    {
+      "nom": "Investissements et marché de l'IA",
+      "resume": "De multiples annonces montrent des dépenses massives dans l'IA (DoorDash, Google, Oracle, Amazon), des mouvements d'investisseurs vers les actions IA et des inquiétudes sur la valorisation qui entraînent des corrections boursières.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Annonce financement massif OpenAI par Oracle, investissement clé",
+          "couverture": 1,
+          "titre": "Oracle says its $300 billion OpenAI buildout is fully funded after a $20 billion raise",
+          "source": "Startup Fortune",
+          "lien": "https://startupfortune.com/oracle-says-its-300-billion-openai-buildout-is-fully-funded-after-a-20-billion-raise/",
+          "date": "2026-11-21T04:24:38+00:00",
+          "resume": "Oracle completed a roughly $20 billion raise in November, half stock and half debt, to back 4.5 gigawatts of OpenAI capacity. Its free cash flow is still deeply negative, and a further $40 billion raise is expected in 2027.",
+          "titre_fr": "Oracle affirme que son programme OpenAI de 300 milliards de dollars est entièrement financé après une levée de 20 milliards"
+        },
+        {
+          "note": 7,
+          "motif": "Confirmation financement deal OpenAI d'Oracle, même importance",
+          "couverture": 1,
+          "titre": "Oracle’s $300B OpenAI infrastructure deal fully funded after capital raise",
+          "source": "Crypto Briefing",
+          "lien": "https://cryptobriefing.com/oracles-300b-openai-infrastructure-deal-fully-funded-after-capital-raise/",
+          "date": "2026-11-21T04:03:09+00:00",
+          "resume": "Oracle's funding deal with OpenAI enhances financial stability, potentially altering market dynamics and reducing bankruptcy concerns. The post Oracle’s $300B OpenAI infrastructure deal fully funded after capital raise appeared first on Crypto Briefing .",
+          "titre_fr": "Le contrat d'infrastructure OpenAI de 300 milliards d'Oracle entièrement financé après la levée de capitaux"
+        },
+        {
+          "note": 7,
+          "motif": "Portrait d'équipe Anthropic, influence culturelle interne",
+          "couverture": 2,
+          "titre": "The Brother-Sister Duo Who Want to Keep Anthropic Weird",
+          "source": "The Wall Street Journal (Tech)",
+          "lien": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?mod=rss_Technology",
+          "date": "2026-11-21T02:00:00+00:00",
+          "resume": "Dario and Daniela Amodei were on top of the biggest IPO ever Thursday–and a market rout one day later. It’s the latest unusual development for a company that is anything but normal.",
+          "titre_fr": "Le duo frère‑soeur qui veut garder Anthropic hors du commun"
+        },
+        {
+          "note": 6,
+          "motif": "Multiplication des dépenses AI chez DoorDash, impact économique",
+          "couverture": 1,
+          "titre": "DoorDash CEO Says AI Spending Jumped 20-Fold, With More Growth Ahead",
+          "source": "Yahoo Finance",
+          "lien": "https://finance.yahoo.com/technology/ai/articles/doordash-ceo-says-ai-spending-061206678.html",
+          "date": "2026-11-21T06:12:00+00:00",
+          "resume": "CEO Tony Xu said the company’s artificial intelligence spending rose 20-fold this year before leveling off, but he expects it to grow again as the delivery platform develops more sophisticated tools ...",
+          "titre_fr": "Le PDG de DoorDash indique que les dépenses en IA ont explosé 20 fois, avec encore plus de croissance à l'horizon"
+        },
+        {
+          "note": 6,
+          "motif": "Modification produit Google, intégration Gemini chat",
+          "couverture": 1,
+          "titre": "Google drops the Search button from its desktop homepage and adds a Gemini chat sidebar",
+          "source": "Startup Fortune",
+          "lien": "https://startupfortune.com/google-drops-the-search-button-from-its-desktop-homepage-and-adds-a-gemini-chat-sidebar/",
+          "date": "2026-11-21T05:44:44+00:00",
+          "resume": "Google's redesigned desktop homepage now carries a sidebar of Gemini chats and three AI shortcuts: Create images, Ask about files and Brainstorm. Robby Stein, Google's VP of Search, announced the global rollout on November 19, and Enter still runs a normal search.",
+          "titre_fr": "Google supprime le bouton de recherche de sa page d'accueil desktop et ajoute une barre latérale de chat Gemini"
+        },
+        {
+          "note": 6,
+          "motif": "Mise à jour centres de données AI, pertinence infrastructure",
+          "couverture": 1,
+          "titre": "All the latest updates on AI data centers",
+          "source": "The Verge",
+          "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb0UxRGMyQ3VLZ1hCY2U3dVVzZnYyX1FZSGJ6OElGOFZ3amc1NnY2Z3Fhb2NIcUp4UFNQNTBQZ3RPa2RiaGEtYWROcHpadFpCV244Nng2VDZuOTBMZDNwdHR3ajl4RXhSSEFjSUZQMVlFd25GSXNZWHZxaVpJYXN0VFJSYUtwcWpOc1huZENJSTRjTlJtTUN3RXh4WFgxRkhOZnBLNVFwSHc?oc=5",
+          "date": "2026-11-21T03:48:03+00:00",
+          "resume": "",
+          "titre_fr": "Toutes les dernières actualités sur les centres de données IA"
+        },
+        {
+          "note": 5,
+          "motif": "Sélection actions IA par investisseur, intérêt financier",
+          "couverture": 1,
+          "titre": "Follow the Smart Money: 4 AI Stocks Billionaire Dan Loeb Just Bought",
+          "source": "Yahoo Finance",
+          "lien": "https://www.msn.com/en-us/money/top-stocks/follow-the-smart-money-4-ai-stocks-billionaire-dan-loeb-just-bought/ar-AA2hTYrN",
+          "date": "2026-11-21T05:20:00+00:00",
+          "resume": "Hedge fund manager Dan Loeb was buying shares of Nvidia, Space Exploration Technologies, Microsoft, and Meta Platforms in Q3 2026.",
+          "titre_fr": "Suivez l'argent intelligent : les 4 actions IA récemment achetées par le milliardaire Dan Loeb"
+        },
+        {
+          "note": 5,
+          "motif": "Analyse partenariat Microsoft, pertinence pour investisseurs",
+          "couverture": 1,
+          "titre": "Did Microsoft AI Partnership Just Shift Danaher's (DHR) Investment Narrative?",
+          "source": "Yahoo Finance",
+          "lien": "https://finance.yahoo.com/technology/ai/articles/did-microsoft-ai-partnership-just-051538591.html",
+          "date": "2026-11-21T05:15:00+00:00",
+          "resume": "Danaher announced a partnership with Microsoft to build AI assisted, cloud based scientific instruments and lab software, with early tools such as MetaXpress Acquire AI Assistant already moving toward ...",
+          "titre_fr": "Le partenariat IA de Microsoft a-t-il modifié le récit d'investissement de Danaher (DHR) ?"
+        },
+        {
+          "note": 3,
+          "motif": "Histoire humaine, anecdote sans impact IA majeur",
+          "couverture": 1,
+          "titre": "A Utility Hires Back Its 63-Year-Old Retiree for $67,500 to Install the AI Sensors That Replace His Inspection Job. Social Security Withholds $20,970 of His Benefits",
+          "source": "24/7 Wall St.",
+          "lien": "https://247wallst.com/personal-finance/social-security/2026/11/20/a-utility-hires-back-its-63-year-old-retiree-for-67500-to-install-the-ai-sensors-that-replace-his-inspection-job-social-security-withholds-20970-of-his-benefits/",
+          "date": "2026-11-21T02:03:15+00:00",
+          "resume": "A utility wants its retired pole inspector back for one year to install the sensors that replace him. Before he signs, a Social Security rule could quietly swallow most of his checks, and the fine print gets stranger from there.",
+          "titre_fr": "Une compagnie d'utilité réemploie son retraité de 63 ans pour 67 500 $ afin d’installer les capteurs IA qui remplacent son travail d’inspection. La Sécurité sociale retient 20 970 $ de ses prestations"
+        }
+      ]
+    },
+    {
+      "nom": "Applications santé & sciences",
+      "resume": "L'IA est mise en avant dans divers domaines médicaux et scientifiques : détection de séismes via smartphone, tri du cancer de la peau, examens d'anesthésie, âge osseux pédiatrique, et économies d'énergie grâce à l'IA dans le secteur énergétique texan.",
+      "articles": [
+        {
+          "note": 5,
+          "motif": "Application smartphone, intérêt technique mais portée limitée",
+          "couverture": 1,
+          "titre": "Smartphone Edge Artificial Intelligence Detects Earthquakes but Faces Bandwidth Tradeoffs",
+          "source": "Bioengineer.org",
+          "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQelJnRU52TmJ3V1Rob3ppU0VZOFcwN2M1ZHg4Q2NnQ3RrX0p0SGcxME9PYTk3azB0TkxWZjRJYVFqQWRTZGVYckVqSDRubTBpZ29UQTFvS1FBU0xzdzBXVWNLLTRDeDlSYWp3R0hER0dCY2pwZ0RqOUFhZ09ZamVFR29HaWVxQVdNWmVDM3lOUG5ndFI4dmNacDlxUjhHSzFaZkx2ejQzUUh1cnFrZjExVmtLWjg?oc=5",
+          "date": "2026-11-21T06:52:06+00:00",
+          "resume": "",
+          "titre_fr": "L'intelligence artificielle intégrée aux smartphones détecte les tremblements de terre mais doit composer avec des compromis de bande passante"
+        },
+        {
+          "note": 5,
+          "motif": "Triage cancer IA, pertinence médicale mais dépend de contexte",
+          "couverture": 1,
+          "titre": "AI Skin Cancer Triage May Be Cost-Effective Depending on Doctor Accuracy",
+          "source": "Bioengineer.org",
+          "lien": "https://bioengineer.org/ai-skin-cancer-triage-may-be-cost-effective-depending-on-doctor-accuracy/",
+          "date": "2026-11-21T05:57:06+00:00",
+          "resume": "A health economic modeling study suggests that deploying the AI device DERM to triage suspected skin lesions in primary care could be cost-effective, though results depend heavily on assumptions ...",
+          "titre_fr": "Le triage du cancer de la peau par IA pourrait être rentable selon la précision des médecins"
+        },
+        {
+          "note": 5,
+          "motif": "Modèles IA égalant précision examen, intérêt spécialisé",
+          "couverture": 1,
+          "titre": "Three AI Models Match Accuracy on European Anaesthesiology Board Exam Questions",
+          "source": "Bioengineer.org",
+          "lien": "https://bioengineer.org/three-ai-models-match-accuracy-on-european-anaesthesiology-board-exam-questions/",
+          "date": "2026-11-21T05:42:03+00:00",
+          "resume": "Three major large language models demonstrated statistically equivalent accuracy on European anaesthesiology board examination practice items while textbook answer keys frequently proved contested.",
+          "titre_fr": "Trois modèles d'IA atteignent la même précision que les questions du conseil européen d'anesthésie"
+        },
+        {
+          "note": 5,
+          "motif": "Transformation énergie au Texas, impact sectoriel",
+          "couverture": 1,
+          "titre": "AI transforms energy operations in Texas",
+          "source": "Qazinform",
+          "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CUk9kQUdwOVk3R0xzbU9jOHFQWVIzandRbDlkTGY3U2Z2TmFVVFp0aXl1dDlFMDlzNDdrcGgyWGtUdmlWMjd2cHBkU1dPMHhCcGl1WklMQmFVQ29rSFp3UW45dzVSa3hxanU0Q2QwbVBCZ2Nhc0lHRUJ6NFpjOW_SAX9BVV95cUxQZHo5enAxNXEyenVDQzFlVmFSTWFiOVMwRzNYeU9sc0VLZmFOTVlNZlRKck4tUXBPLXVsWHdQdm1BRlp4cmVIcXRJWVZuRVhSVWFqYzVMZ2owVlE0b29DQnVqcVFObGYwdzhkcGJjblkzRGxHN2dZOTRfeFBxM09R?oc=5",
+          "date": "2026-11-21T05:34:29+00:00",
+          "resume": "",
+          "titre_fr": "L'IA transforme les opérations énergétiques au Texas"
+        },
+        {
+          "note": 3,
+          "motif": "Commentaire film, AI en arrière‑plan",
+          "couverture": 1,
+          "titre": "David Fincher Says He’s No ‘Luddite’ When It Comes to AI Amid ‘Cliff Booth’ Criticism",
+          "source": "TheWrap",
+          "lien": "https://www.msn.com/en-us/news/other/david-fincher-says-hes-no-luddite-when-it-comes-to-ai-amid-cliff-booth-criticism/ar-AA2hUaOS",
+          "date": "2026-11-21T05:04:31+00:00",
+          "resume": "David Fincher said he was open to using AI technology amid claims that the technology was incorporated into his latest film, \"The Further Mis-Adventures of Cliff Booth.\" Fincher directed the sequel to ...",
+          "titre_fr": "David Fincher affirme ne pas être un « luddite » face à l'IA malgré les critiques sur « Cliff Booth »"
+        }
+      ]
+    },
+    {
+      "nom": "Infrastructure et data‑centres IA",
+      "resume": "Des articles détaillent l'expansion des data‑centres dédiés à l'IA, les exigences de vitesse, les nouveaux puces d'inférence et les enjeux de localisation des serveurs, soulignant l'importance croissante de l'infrastructure physique pour soutenir l'IA.",
+      "articles": [
+        {
+          "note": 6,
+          "motif": "Politique australienne sur agents IA, portée nationale",
+          "couverture": 1,
+          "titre": "Australia Vows to Manage AI Agent Shoppers, Surveillance Pricing",
+          "source": "Bloomberg.com",
+          "lien": "https://www.straitstimes.com/asia/australianz/australia-vows-to-manage-ai-agent-shoppers-surveillance-pricing",
+          "date": "2026-11-21T05:37:00+00:00",
+          "resume": "AI agents are increasingly being designed to shop and manage money on behalf of users. Read more at straitstimes.com.",
+          "titre_fr": "L'Australie s'engage à réguler les agents IA acheteurs et la tarification de la surveillance"
+        },
+        {
+          "note": 6,
+          "motif": "Dell et Microsoft ciblent IA inference, impact enterprise",
+          "couverture": 1,
+          "titre": "Dell, Microsoft target enterprise AI inference with Nvidia HGX B300",
+          "source": "TechTarget",
+          "lien": "https://www.techtarget.com/news/dell-microsoft-target-enterprise-ai-inference-with-nvidia-hgx-b300/875421/",
+          "date": "2026-11-20T19:37:21-05:00",
+          "resume": "Dell and Microsoft are extending private cloud infrastructure to support local AI inference, but uncertain enterprise demand complicates the economics of owning GPUs.",
+          "titre_fr": "Dell et Microsoft ciblent l'inférence IA d'entreprise avec le Nvidia HGX B300"
+        },
+        {
+          "note": 4,
+          "motif": "Annonce centre de données, intérêt local",
+          "couverture": 1,
+          "titre": "Ulsan AI Data Centre: Lee Says Speed Is Vital",
+          "source": "shattered.io",
+          "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0IxaXBYaDRMN2RCVmh1Tk9uWm9PaFlibFhoQzgza0VtRDNOU0UxQ0xhVjd3UG45T2NjbTRQTTNvYUxqWFBhNXZBV19uWE5OMnNHTjgwN0hFeWZoRHdVTHhLSDVXNHo1VjFVUlhmUjdSZi1EUFVoZjl1SW43MGhZZU9Mc0JNQlZw?oc=5",
+          "date": "2026-11-21T06:29:22+00:00",
+          "resume": "",
+          "titre_fr": "Centre de données IA d'Ulsan : Lee affirme que la vitesse est vitale"
+        }
+      ]
+    },
+    {
+      "nom": "Impact sociétal, éthique et culture",
+      "resume": "L'IA suscite des débats culturels (critique de David Fincher), des inquiétudes chez les jeunes, des cas d'abus (génération d'images inappropriées) et des recommandations de bonnes pratiques, montrant les enjeux éthiques et sociaux de son adoption.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Réclamation de résolution d'un mystère mathématique via IA",
+          "couverture": 1,
+          "titre": "Using AI, mathematician claims to have solved one of math’s great mysteries",
+          "source": "The Washington Post",
+          "lien": "https://www.msn.com/en-us/news/other/using-ai-mathematician-claims-to-have-solved-one-of-maths-great-mysteries/ar-AA2hRSLN",
+          "date": "2026-11-21T06:13:41+00:00",
+          "resume": "AI may have cracked the Riemann hypothesis, one of math's most cherished mysteries. For mathematicians, the breakthrough brings both wonder and loss.",
+          "titre_fr": "À l'aide de l'IA, un mathématicien prétend avoir résolu l'un des grands mystères des mathématiques"
+        },
+        {
+          "note": 6,
+          "motif": "Correction boursière liée à l'AI, impact marché",
+          "couverture": 1,
+          "titre": "U.S. stocks slump into correction territory amid tech and AI worries",
+          "source": "The Washington Post",
+          "lien": "https://www.msn.com/en-us/news/other/us-stocks-slump-into-correction-territory-amid-tech-and-ai-worries/ar-AA2hSKES",
+          "date": "2026-11-21T06:07:31+00:00",
+          "resume": "Markets on Friday posted their worst week since worries about President Donald Trump's tariffs caused a global sell-off in April 2025.",
+          "titre_fr": "Les actions américaines plongent en correction sous le poids des inquiétudes technologiques et IA"
+        },
+        {
+          "note": 4,
+          "motif": "Discussion élèves, point de vue local",
+          "couverture": 1,
+          "titre": "Denver middle schoolers discuss AI's impact on their future: 'We need to be cautious'",
+          "source": "Denver7",
+          "lien": "https://www.yahoo.com/news/videos/denver-middle-schoolers-discuss-ais-050120917.html",
+          "date": "2026-11-21T04:50:55+00:00",
+          "resume": "It’s not just adults who are thinking about what the future will look like as artificial intelligence’s influence continues to grow. Kids are thinking about it, too.",
+          "titre_fr": "Des collégiens de Denver débattent de l'impact de l'IA sur leur avenir : « Nous devons rester prudents »"
+        },
+        {
+          "note": 4,
+          "motif": "Cas d'éviction lié IA, anecdote locale",
+          "couverture": 1,
+          "titre": "'It's ridiculous': Raleigh eviction after AI bot’s promise reinvigorates push for protections",
+          "source": "WRAL",
+          "lien": "https://www.msn.com/en-us/technology/artificial-intelligence/it-s-ridiculous-raleigh-eviction-after-ai-bot-s-promise-reinvigorates-push-for-protections/ar-AA2hT3P5",
+          "date": "2026-11-21T00:18:26+00:00",
+          "resume": "A North Carolina state lawmaker says a Raleigh woman's fight against her eviction hinges on two key points.",
+          "titre_fr": "« C’est ridicule » : éviction à Raleigh après la promesse d’un bot IA, relance le débat sur la protection"
+        },
+        {
+          "note": 3,
+          "motif": "Opinion générale, peu de nouveauté concrète",
+          "couverture": 1,
+          "titre": "We gave AI the green light and now there is no stopping it",
+          "source": "The Alpena News",
+          "lien": "https://www.thealpenanews.com/opinion/editorials-and-columns/2026/11/we-gave-ai-the-green-light-and-now-there-is-no-stopping-it/",
+          "date": "2026-11-21T06:36:03+00:00",
+          "resume": "There are few things I am afraid of outside of heights, sharks, and an angry woman. But, these days, I have become terrified of AI and what it potentially could do to our way of life and the human ...",
+          "titre_fr": "Nous avons donné le feu vert à l'IA et désormais rien ne peut l'arrêter"
+        },
+        {
+          "note": 3,
+          "motif": "Critique film, mention AI superficielle",
+          "couverture": 1,
+          "titre": "Critics accuse David Fincher’s Cliff Booth film of AI use ahead of release",
+          "source": "Superpower Daily",
+          "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU1NQNHhpdjJCRlU3TTFQcWRWQUpRa3FkT3ZnRnpLX2xMeFVINFZQakdyUEFPQlQteHlCNWhfclFQUnFTT0pqUzJQOHVyRU5SNVZTaFFjSmRzMWRnQUQxUExJYWh2Nk9HYnpvazJGb3ppTHBkcmtCcy10b19lN3pMMm1FZ1JNbm1DQUxRX0dzOFpEZzZXRTItZldPQlNBSE55U0JXbFZvay1yWE15?oc=5",
+          "date": "2026-11-21T06:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Des critiques accusent le film de David Fincher sur Cliff Booth d'utiliser l'IA avant sa sortie"
+        }
+      ]
+    },
+    {
+      "nom": "Autres articles",
+      "resume": "",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Exploitation d'une faille AI, incident de cybersécurité notable",
+          "couverture": 1,
+          "titre": "Amazon Reports Autonomous AI Agents Exploited MONAI Label Zero-Day on University Server",
+          "source": "CASRAI",
+          "lien": "https://casrai.org/news/amazon-cairn-ai-agents-monai-label-zero-day-university-server-2026",
+          "date": "2026-11-21T06:03:46+00:00",
+          "resume": "Autonomous AI agents using the Cairn framework discovered and exploited a zero-day flaw in MONAI Label to gain root access to a university server.",
+          "titre_fr": "Amazon signale que des agents IA autonomes ont exploité une faille zéro‑day MONAI sur le serveur d'une université"
+        },
+        {
+          "note": 7,
+          "motif": "Débat éthique sur robotique, forte résonance sociétale",
+          "couverture": 2,
+          "titre": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete?",
+          "source": "The Guardian (IA)",
+          "lien": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
+          "date": "2026-11-21T06:00:52+00:00",
+          "resume": "The one thing stopping AI taking over the world – or at least everyone’s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that Just outside Luton, in an Amazon warehouse the size of four football pitches, yellow sh",
+          "titre_fr": "« La fin de l'humanité » : la quête de mains robotiques nous rendra‑t‑elle obsolètes ?"
+        },
+        {
+          "note": 7,
+          "motif": "Annonce preuve hypothèse de Riemann via IA, grande nouveauté",
+          "couverture": 1,
+          "titre": "Anthropic Mathematician Releases 175,000-File Lean Archive Claiming Riemann Hypothesis Proof",
+          "source": "CASRAI",
+          "lien": "https://casrai.org/news/anthropic-levent-alpoge-claude-lean-riemann-hypothesis-claim-2026",
+          "date": "2026-11-21T05:59:58+00:00",
+          "resume": "Anthropic mathematician Levent Alpöge released a 175,187-file Lean archive claiming a proof of the Riemann Hypothesis developed alongside Claude.",
+          "titre_fr": "Mathématicien d'Anthropic publie une archive allégée de 175 000 fichiers affirmant prouver l'hypothèse de Riemann"
+        },
+        {
+          "note": 7,
+          "motif": "Analyse course US‑Chine IA, enjeu géopolitique majeur",
+          "couverture": 1,
+          "titre": "Al Jazeera explains: The US-China AI race is entering a new phase",
+          "source": "Al Jazeera",
+          "lien": "https://www.aljazeera.com/video/newsfeed/2026/11/21/al-jazeera-explains-the-us-china-ai-race-is-entering-a-new-phase",
+          "date": "2026-11-21T05:11:42+00:00",
+          "resume": "A lot is happening in the world of artificial intelligence, from US President Donald Trump warning US companies against building data centres overseas to tighter export rules on advanced American AI ...",
+          "titre_fr": "Al Jazeera explique : la course IA USA‑Chine entre dans une nouvelle phase"
+        },
+        {
+          "note": 5,
+          "motif": "Argument RH sur formation AI, intéressant mais secondaire",
+          "couverture": 1,
+          "titre": "Your best people are training your AI. Pay them for it",
+          "source": "Fast Company",
+          "lien": "https://www.fastcompany.com/91642816/your-best-people-are-training-your-ai-pay-them-for-it",
+          "date": "2026-11-21T06:08:19+00:00",
+          "resume": "The best AI agents capture expertise that used to live inside your strongest employees. Companies need a compensation model that rewards people accordingly.",
+          "titre_fr": "Vos meilleurs talents forment votre IA : rémunérez‑les"
+        },
+        {
+          "note": 5,
+          "motif": "Risque crédit lié à vente AI, pertinence financière",
+          "couverture": 1,
+          "titre": "AI Selloff Raises Credit Risk in Tech",
+          "source": "Briefs Finance",
+          "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUHROS3lyUGRkNXpXVm11ZWtldldpZ3o2WEJ4ZzkzYllTb1dUdmNvd0g5a2MybnRrRUJVYW5hOGtxWDFpS2h5TlU3dEtDQjVGRHN6REc2dk5JYXNwOUpSX25kZU1yYnNUSlZlQi1fcllsY0h1c1FWM1Z0MGxtT3dtSkd5bjVtdHdzQ284WlVoLUlPZw?oc=5",
+          "date": "2026-11-21T04:55:24+00:00",
+          "resume": "",
+          "titre_fr": "La vente massive d'IA augmente le risque de crédit dans le secteur technologique"
+        },
+        {
+          "note": 5,
+          "motif": "Télécoms adoptent agents IA, tendance sectorielle",
+          "couverture": 1,
+          "titre": "Telecoms Turn to AI Agents as Meta's Muse Targets Consumers",
+          "source": "Briefs Finance",
+          "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa3FsVlBmTEk5SXBUNVVkVW5sYjJkeXE4ZWgwcFg1eFpMT0o1SHVLSktROXJpRnVLY3RKLW1IdXlHM1R6VHk2UjBtaXZrM0xQRFJudXhjWWttNnJEVkpkdUs3c2VRR0pJa1YxRU92OU5hMmtVd3ZQYVhWU3k4MEVqbk5PTlRfRkttdWp4RFl1UV8?oc=5",
+          "date": "2026-11-21T04:55:14+00:00",
+          "resume": "",
+          "titre_fr": "Les télécoms se tournent vers les agents IA alors que Muse de Meta cible les consommateurs"
+        },
+        {
+          "note": 5,
+          "motif": "Panique marché AI, impact sur actifs divers",
+          "couverture": 1,
+          "titre": "Fear Erupts, AI Stocks Tank, But So Do Gold, Silver, Cryptos, Nearly Everything But Treasuries",
+          "source": "Seeking Alpha",
+          "lien": "https://seekingalpha.com/article/4970784-fear-erupts-ai-stocks-tank-so-do-gold-silver-cryptos-nearly-everything-treasuries",
+          "date": "2026-11-21T04:50:00+00:00",
+          "resume": "But the semiconductor stocks had been plunging off their highs for months, interrupted by big bounces. The Cboe Volatility Index – the so-called fear gauge – jumped to 40.03 intraday on Friday, and ...",
+          "titre_fr": "La peur explose, les actions IA s'effondrent, mais l’or, l’argent, les cryptos et presque tout le reste chutent également, à l'exception des bons du Trésor"
+        },
+        {
+          "note": 4,
+          "motif": "Vision AI pour le fitness, sujet de niche promotionnel",
+          "couverture": 1,
+          "titre": "At Its 2026 Summit, Playlist Unveils an AI-Driven Vision for the Fitness and Wellness Economy",
+          "source": "The Hype Magazine",
+          "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU1VUN0VxaVU2QkVFaUNkOGVydnAxYlpoSlNtbnZzNGQwZnBydzZ6ZGt5MUxmdlR1a2FySWg5SzYwX0l1Tl8xZ1F3QUZ2dXoycHM3VmpEY0NFY29JRkpkMDFHZThINE5IZGtlcTBJYXdqNHYtU0xUMi1sMzB1amotekhBdGFlSWthUFE?oc=5",
+          "date": "2026-11-21T06:50:19+00:00",
+          "resume": "",
+          "titre_fr": "Lors de son sommet 2026, Playlist dévoile une vision IA‑driven de l'économie du fitness et du bien‑être"
+        },
+        {
+          "note": 4,
+          "motif": "Analyse sociétale, plus anecdote que fait concret",
+          "couverture": 1,
+          "titre": "Love, Loneliness and Algorithms: How AI Is Entering Our Personal Lives",
+          "source": "The Astana Times",
+          "lien": "https://astanatimes.com/2026/11/love-loneliness-and-algorithms-how-ai-is-entering-our-personal-lives/",
+          "date": "2026-11-21T05:35:57+00:00",
+          "resume": "From analyzing text messages and preparing users for difficult conversations to offering emotional reassurance, AI tools are becoming part of people’s private lives. It can act as a dating coach, help ...",
+          "titre_fr": "Amour, solitude et algorithmes : comment l'IA s'immisce dans notre vie personnelle"
+        },
+        {
+          "note": 4,
+          "motif": "Prix services IA, contenu promotionnel",
+          "couverture": 1,
+          "titre": "AI Customer Service Agent Cost: 13 of 25 Vendors Priced",
+          "source": "Everything-PR",
+          "lien": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TSjNNTU51UzdMdHhidFRuckZUeUJEOHFCOVJCdmdYLVR2b18xSHk0dkZfSjU2M2RMeDNBOWMzb1BZMm1kWm1zZzlNdUlqZVBTQmFPRFhwUUZIbjJpNFJvcnZXeWZKbUE?oc=5",
+          "date": "2026-11-21T05:34:20+00:00",
+          "resume": "",
+          "titre_fr": "Coût d'un agent service client IA : 13 fournisseurs sur 25 ont communiqué leurs tarifs"
+        },
+        {
+          "note": 4,
+          "motif": "Vérification disponibilité IA, information promotionnelle",
+          "couverture": 1,
+          "titre": "AI Launch Availability: 16 of 30 Access Promises Verified",
+          "source": "Everything-PR",
+          "lien": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tSG4yYUZucWdfUlNfQ1lRckZtd1BkMGtlZkJwdkhNUUpUamhCeHV1NWF3MjltZFRVMXZIaGRnZlkyXzlqLU9keVl0RDRnWVVtVWZTT19uN2kzd0VXN1puVVBZajc?oc=5",
+          "date": "2026-11-21T04:51:34+00:00",
+          "resume": "",
+          "titre_fr": "Disponibilité du lancement IA : 16 promesses d'accès sur 30 ont été vérifiées"
+        }
+      ]
+    }
+  ],
+  "ecartes": [
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Bitcoin developers fix 'medium' bug that could have delayed transactions",
+      "source": "CoinDesk",
+      "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX0lrTkM1WlVfcXVJVDB3VlUwMlh3cWVKNGJ5S0JTUWVqRmNtWVhhT3VfTG91X2xWWEFMWXlVT2o3SFFiNWpvNjFwLXBldGlJVkdJRFc2R3dzNWJwSEpxY0c3NXNBLVFTYkVnMnViLVk1Ny1SQjhlNUF2M2hDWDRUNGxweXJhT1czZmpFNFlFVDRLejJEMmpwOXhYbnRyU0JFcGdWM1JpczJfWGdyRGJjNkxrSnpwcjVnMURVcm0xQU5LUQ?oc=5",
+      "date": "2026-11-21T06:16:42+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "SonicWall urges retirement of generation 6 firewalls due to security risks",
+      "source": "SC Media",
+      "lien": "https://www.scworld.com/brief/sonicwall-urges-retirement-of-generation-6-firewalls-due-to-security-risks",
+      "date": "2026-11-20T19:48:11-05:00",
+      "resume": "In a report by The Hacker News, SonicWall has issued an urgent advisory for customers to immediately retire and replace all Generation 6 firewalls. The company warns that these unsupported devices are increasingly vulnerable to automated and AI-assisted cyberattacks.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Paysafe Enlists Altimetrik to Boost System Reliability",
+      "source": "PYMNTS.com",
+      "lien": "https://www.pymnts.com/partnerships/2026/paysafe-enlists-altimetrik-to-boost-system-reliability/",
+      "date": "2026-11-21T00:24:07+00:00",
+      "resume": "Global payments platform Paysafe has tapped Altimetrik, an artificial intelligence (AI) engineering company, to modernize and scale its technology, the companies said in a Wednesday (Nov. 18) press release. Altimetrik will work across Paysafe’s platforms and product engineering, data and AI, and AI-",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Three insights you may have missed from theCUBE’s coverage of the Dell Technologies New York Symposium",
+      "source": "SiliconANGLE",
+      "lien": "https://siliconangle.com/2026/11/20/three-insights-missed-thecubes-coverage-dell-technologies-new-york-symposium-dellnewyorksymposium/",
+      "date": "2026-11-21T00:21:22+00:00",
+      "resume": "AI operational readiness requires more than selecting the right servers, storage and computing capacity. Those considerations are particularly consequential for financial institutions, where reliability, regulatory obligations and the need to demonstrate returns on technology investments shape deplo",
+      "titre_fr": ""
+    }
+  ],
+  "top": [
+    {
+      "note": 8,
+      "motif": "Proposition de bannir modèles chinois, décision réglementaire majeure",
+      "couverture": 1,
+      "titre": "US lawmakers urge ban on Chinese AI models in federal systems",
+      "source": "Anadolu Ajansı",
+      "lien": "https://www.aa.com.tr/en/americas/us-lawmakers-urge-ban-on-chinese-ai-models-in-federal-systems/4132677",
+      "date": "2026-11-21T06:32:04+00:00",
+      "resume": "Congressional report calls for removing Chinese-developed AI from critical infrastructure, expanding US alternatives | Anadolu ...",
+      "titre_fr": "Des législateurs américains demandent l'interdiction des modèles d'IA chinois dans les systèmes fédéraux"
+    },
+    {
+      "note": 8,
+      "motif": "Réclamation de résolution d'un mystère mathématique via IA",
+      "couverture": 1,
+      "titre": "Using AI, mathematician claims to have solved one of math’s great mysteries",
+      "source": "The Washington Post",
+      "lien": "https://www.msn.com/en-us/news/other/using-ai-mathematician-claims-to-have-solved-one-of-maths-great-mysteries/ar-AA2hRSLN",
+      "date": "2026-11-21T06:13:41+00:00",
+      "resume": "AI may have cracked the Riemann hypothesis, one of math's most cherished mysteries. For mathematicians, the breakthrough brings both wonder and loss.",
+      "titre_fr": "À l'aide de l'IA, un mathématicien prétend avoir résolu l'un des grands mystères des mathématiques"
+    },
+    {
+      "note": 8,
+      "motif": "Travailleur Anthropic résout problème mathématique majeur avec IA",
+      "couverture": 1,
+      "titre": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+      "source": "AP News",
+      "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZl83aFlGaHFEUVczbnRQYTJCbmhiWUFic2RBN0JLeVJrUy1GOG5TZDRtSzVDQ3JzT1otb3dqZlQ0X1JXc0I3Wm1CMzB2Ul9MZGlGbFVvOHEyVlo4V1NxUU5sQ0FoMTNkTUJkaXlCSFYwcE5rZGtyb2hwTkNYcVNJcGtMSzdqRFlQejUzTjFuei1PX2ZPcU5ZRw?oc=5",
+      "date": "2026-11-21T04:55:00+00:00",
+      "resume": "",
+      "titre_fr": "Un employé d'Anthropic affirme avoir résolu le Saint‑Graël des problèmes mathématiques grâce à l'IA"
+    },
+    {
+      "note": 8,
+      "motif": "Réclamation résolution problème de Riemann par Anthropic, grande nouveauté",
+      "couverture": 1,
+      "titre": "Anthropic Researcher Claims to Solve Riemann Problem With Claude",
+      "source": "Bloomberg Technology",
+      "lien": "https://www.bloomberg.com/news/articles/2026-11-21/anthropic-researcher-claims-to-solve-riemann-problem-with-claude",
+      "date": "2026-11-21T00:17:14+00:00",
+      "resume": "On the heels of Anthropic PBC’s record-breaking initial public offering, a researcher at the company said he believes he used its artificial intelligence software to solve a famous number theory problem that has plagued mathematicians for more than 150 years.",
+      "titre_fr": "Chercheur d'Anthropic affirme avoir résolu le problème de Riemann avec Claude"
+    },
+    {
+      "note": 7,
+      "motif": "Annonce IPO d'Anthropic, impact sur le marché financier",
+      "couverture": 1,
+      "titre": "Anthropic's post-IPO slide shows hype not enough to ease AI investor fears",
+      "source": "www.thenationalnews.com",
+      "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZjlJbTZQUmcydnE5dFI4N2t0Wm9tcDhUZjVSMW9ZWVNyd3hXTldnUjN6QkdMcEVKOUZnWVVrbFV5ZEtWb09GVmp0YmZROEV5YlUxWGs4OUhlemR6RHVsS0Y0WDNnajdTU1FMcmtNY0ZxdHMyUm1vci1KQzlibUVvLXJHaDBGZzVlXzIzNHJUZmtqbVNPTzcyZnhXT1VUMlgzeXVUVU4xQWVTc2R3Y2dCT0l5UlhsQXA2RE1DUzhsdnBSeWg1VThkaUoxWEViMmM?oc=5",
+      "date": "2026-11-21T06:56:19+00:00",
+      "resume": "",
+      "titre_fr": "La chute post-IPO d'Anthropic montre que le battage médiatique ne suffit pas à apaiser les craintes des investisseurs en IA"
+    }
+  ],
+  "articles_notes": 50,
+  "liens_google": 13,
+  "videos": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "Claude JUST solved the Riemann Hypothesis...",
+        "source": "Wes Roth",
+        "lien": "https://www.youtube.com/watch?v=xjX3jESpZqs",
+        "date": "2026-11-21T02:24:48Z",
+        "image": "https://i.ytimg.com/vi/xjX3jESpZqs/mqdefault.jpg",
+        "extrait": "Anthropic researcher Levent Alpöge just claimed that he and Claude discovered a proof of the 167-year-old Riemann Hypothesis, ...",
+        "description": "Claude aurait résolu l'hypothèse de Riemann, une avancée majeure annoncée par le chercheur d'Anthropic Levent Alpöge."
+      },
+      {
+        "titre": "Claude Proves Riemann Hypothesis?",
+        "source": "Into AI by Dr. Ashish Bamania",
+        "lien": "https://www.youtube.com/watch?v=2BbNv2VwBl8",
+        "date": "2026-11-20T18:18:45Z",
+        "image": "https://i.ytimg.com/vi/2BbNv2VwBl8/mqdefault.jpg",
+        "extrait": "Master AI engineering like never before. Subscribe to: https://intoai.pub Did Claude, an AI model, just help prove the most famous ...",
+        "description": "Analyse de la prétendue preuve de l'hypothèse de Riemann grâce à Claude, l'IA d'Anthropic, et discussion sur la véracité de cette affirmation."
+      },
+      {
+        "titre": "MATHPOCALYPSE: Riemann Hypothesis \"solved\" by Claude AI and Anthropic mathematician",
+        "source": "Scientific American",
+        "lien": "https://www.youtube.com/watch?v=bKJo5-BY-QY",
+        "date": "2026-11-20T17:10:54Z",
+        "image": "https://i.ytimg.com/vi/bKJo5-BY-QY/mqdefault.jpg",
+        "extrait": "Anthropic mathematician Levent Alpöge claimed on Friday to have solved the most famous problem in all of mathematics—a proof ...",
+        "description": "Scientific American couvre la prétendue résolution du problème de Riemann par Claude AI et le mathématicien d'Anthropic, soulignant l'impact potentiel sur les mathématiques."
+      },
+      {
+        "titre": "Google Gemini Neon is the best AI model ever",
+        "source": "Alex Finn",
+        "lien": "https://www.youtube.com/watch?v=QmOVQ-xOwXw",
+        "date": "2026-11-20T20:38:24Z",
+        "image": "https://i.ytimg.com/vi/QmOVQ-xOwXw/mqdefault.jpg",
+        "extrait": "Google Gemini 4 Neon is the greatest AI model ever. Here's how to use it Get instant access to the Gemini bootcamp: ...",
+        "description": "Présentation de Google Gemini 4 Neon comme le meilleur modèle d'IA à ce jour, avec un guide d'utilisation et un bootcamp dédié."
+      },
+      {
+        "titre": "How AI is Affecting Your Brain ?",
+        "source": "Dr. Yokesh Arul",
+        "lien": "https://www.youtube.com/watch?v=ca7vxcccpqI",
+        "date": "2026-11-21T06:30:39Z",
+        "image": "https://i.ytimg.com/vi/ca7vxcccpqI/mqdefault.jpg",
+        "extrait": "Is AI More Dangerous Than You Think? | ChatGPT Addiction, Brain Health & Critical Thinking | Dr. Yokesh Arul Is ChatGPT ...",
+        "description": "Le Dr Yokesh Arul explore les effets de l'IA sur le cerveau humain, la dépendance à ChatGPT et les implications pour la santé mentale et la pensée critique."
+      },
+      {
+        "titre": "Anthropic AI IPO CRASHING - AI Bubble Popping",
+        "source": "Eli the Computer Guy",
+        "lien": "https://www.youtube.com/watch?v=g7gOAkU_eAg",
+        "date": "2026-11-21T01:00:27Z",
+        "image": "https://i.ytimg.com/vi/g7gOAkU_eAg/mqdefault.jpg",
+        "extrait": "Free In Person Tech Eduction in Baltimore MD - https://www.meetup.com/eli-the-computer-guy/ Spotify ...",
+        "description": "Eli the Computer Guy discute de la chute du cours d'Anthropic après son IPO, évoquant un possible éclatement de la bulle IA."
+      },
+      {
+        "titre": "ANTHROPIC VALUE PLUNGES AFTER IPO, MARKETS IN CORRECTION TERRITORY, HUGE AI SELLOFF",
+        "source": "Vaush",
+        "lien": "https://www.youtube.com/watch?v=jn2JgFIaxxw",
+        "date": "2026-11-20T22:00:06Z",
+        "image": "https://i.ytimg.com/vi/jn2JgFIaxxw/mqdefault.jpg",
+        "extrait": "Website & Livestream Chat - https://www.vaush.gg/ ⭐️ 2nd Channel - https://www.youtube.com/c/thevaushpit Twitter ...",
+        "description": "Vaush analyse la chute de la valeur d'Anthropic après son IPO, le marché en correction et la vente massive d'actions IA."
+      },
+      {
+        "titre": "MARKET FALLS, ANTHROPIC DOWN, AI BUBBLE POP?",
+        "source": "Breaking Points",
+        "lien": "https://www.youtube.com/watch?v=P0R2K4-6Wgo",
+        "date": "2026-11-20T19:30:05Z",
+        "image": "https://i.ytimg.com/vi/P0R2K4-6Wgo/mqdefault.jpg",
+        "extrait": "The Friday crew is joined by Gary Marcus to breakdown the AI market tumbling. Gary Marcus: https://x.com/GaryMarcus ...",
+        "description": "Breaking Points récapitule la chute du marché IA avec Gary Marcus, qui décortique les raisons du repli des actions liées à l'IA."
+      },
+      {
+        "titre": "What If Artificial Intelligence Governed Countries",
+        "source": "Galactic Time",
+        "lien": "https://www.youtube.com/watch?v=ho8DFjWhHng",
+        "date": "2026-11-20T19:17:00Z",
+        "image": "https://i.ytimg.com/vi/ho8DFjWhHng/mqdefault.jpg",
+        "extrait": "geography #map #maps #history #learning #learn #geographystory #geographyfacts.",
+        "description": "Galactic Time explore un scénario hypothétique où l'intelligence artificielle gouvernerait les pays, en examinant les implications géopolitiques."
+      },
+      {
+        "titre": "NVIDIA Just Turned Your Home PCs Into One AI Cluster for FREE!",
+        "source": "Agile Singh",
+        "lien": "https://www.youtube.com/watch?v=XOmtQjvCiqM",
+        "date": "2026-11-20T15:41:13Z",
+        "image": "https://i.ytimg.com/vi/XOmtQjvCiqM/mqdefault.jpg",
+        "extrait": "NVIDIA PAIR lets you connect your gaming PC, spare laptop, and Mac into one local AI cluster. Distribute AI workloads across ...",
+        "description": "Agile Singh montre comment NVIDIA transforme les PC domestiques en un cluster IA gratuit grâce à la plateforme PAIR."
+      }
+    ]
+  },
+  "podcasts": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "2m canaries, AI safety gap, Meta's fractional gains",
+        "source": "BrokeIt - Daily AI News",
+        "lien": "https://podcasts.apple.com/us/podcast/2m-canaries-ai-safety-gap-metas-fractional-gains/id6791701583?i=1000803247675&uo=4",
+        "date": "2026-11-21T08:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0d/f2/fb/0df2fb16-91b5-b6c7-2ce4-82c09dfe0b18/mza_15979446727675092343.png/160x160bb.jpg",
+        "duree_min": 7,
+        "extrait": "CISOs Expect Autonomous SOC Agents, But The Safety Rails Aren't Built — A new survey shows CISOs expect to adopt autonomous AI agents in their security operations centers within a year, but the risk of compromised agents remains the key blocker. theha",
+        "description": "Discussion sur les attentes des RSSI à adopter des agents IA autonomes dans les SOC et les lacunes de sécurité associées."
+      },
+      {
+        "titre": "Microsoft launches always-on AI agent as LeCun warns of disaster - AIskimIQ Daily Brief - 2026-11-21",
+        "source": "AIskimIQ — Daily AI News Brief",
+        "lien": "https://podcasts.apple.com/us/podcast/microsoft-launches-always-on-ai-agent-as-lecun-warns/id1892679825?i=1000803247686&uo=4",
+        "date": "2026-11-21T06:08:49+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/b4/b6/52b4b6ba-51ab-28e0-7ed7-f886bdae3544/mza_14638392413648219659.jpg/160x160bb.jpg",
+        "duree_min": 8,
+        "extrait": "Microsoft is rolling out Autopilot, an always-on personal AI agent, and unveiled Copilot Workspaces and a Salesforce partnership at Ignite 2026. Meanwhile, Yann LeCun argues that autonomous agents built on LLMs are a recipe for disaster, and Anthropic's",
+        "description": "Microsoft lance l'agent IA toujours actif « Autopilot » et LeCun met en garde contre les risques des agents autonomes basés sur les LLM."
+      },
+      {
+        "titre": "[11/21 06:00 UTC] US-China leaders' AI safety measures, details unpublished…",
+        "source": "AI News Flash",
+        "lien": "https://podcasts.apple.com/us/podcast/11-21-06-00-utc-us-china-leaders-ai-safety-measures/id1873892136?i=1000803249822&uo=4",
+        "date": "2026-11-21T06:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/1f/b6/b91fb627-f6de-9e77-e614-ef36393402d6/mza_13059665318982617720.png/160x160bb.jpg",
+        "duree_min": 2,
+        "extrait": "AI News Flash for November 21, 2026 at 06:00 UTC. Topics: 1. US-China leaders' AI safety measures, details unpublished https://news.yahoo.co.jp/articles/eaa23e92f4ef2554f63d85e3f93e921776615683 https://www.cnbc.com/2026/11/20/treasury-secretary-s",
+        "description": "Mesures de sécurité IA entre les dirigeants américains et chinois, avec des détails non publiés."
+      },
+      {
+        "titre": "[11/21 03:00 UTC] AI agents found an unknown vulnerability on their own and took over a unive…",
+        "source": "AI News Flash",
+        "lien": "https://podcasts.apple.com/us/podcast/11-21-03-00-utc-ai-agents-found-an-unknown/id1873892136?i=1000803235315&uo=4",
+        "date": "2026-11-21T03:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b9/1f/b6/b91fb627-f6de-9e77-e614-ef36393402d6/mza_13059665318982617720.png/160x160bb.jpg",
+        "duree_min": 3,
+        "extrait": "AI News Flash for November 21, 2026 at 03:00 UTC. Topics: 1. AI agents found an unknown vulnerability on their own and took over a university server https://aws.amazon.com/blogs/security/chinese-nexus-actors-cairn-ai-agents-found-a-zero-day-on-their",
+        "description": "Des agents IA découvrent une vulnérabilité inconnue et prennent le contrôle d'un serveur universitaire."
+      },
+      {
+        "titre": "Interview #108 Spencer Insolia, Founding Managing Director, US, Duvo",
+        "source": "The Artificial Intelligence Podcast",
+        "lien": "https://podcasts.apple.com/us/podcast/interview-108-spencer-insolia-founding-managing-director/id1558470439?i=1000803230478&uo=4",
+        "date": "2026-11-21T02:12:11+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/72/87/407287aa-90ce-c751-7e7a-3c3fd336cff9/mza_1516572892311804237.jpg/160x160bb.jpg",
+        "duree_min": 24,
+        "extrait": "Spencer Insolia, Founding Managing Director (US) at Duvo, breaks down why so many enterprise AI agents stall in pilot: they are built on the process diagram from headquarters instead of how the work actually gets done. He explains why demos only show th",
+        "description": "Interview de Spencer Insolia (Duvo) sur les raisons pour lesquelles les agents IA d'entreprise échouent souvent en phase pilote."
+      },
+      {
+        "titre": "North Korea Tricked Binance's AI Into Stealing $6.3B",
+        "source": "They Might Be Self-Aware: AI News & Culture",
+        "lien": "https://podcasts.apple.com/us/podcast/north-korea-tricked-binances-ai-into-stealing-%246-3b/id1730993297?i=1000803227221&uo=4",
+        "date": "2026-11-21T01:46:22+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bf/12/5c/bf125c89-f061-cb8f-3977-905901c6e095/mza_16400238452224219089.jpg/160x160bb.jpg",
+        "duree_min": 26,
+        "extrait": "Binance lost $6.3 billion after a fake job interview prompt-injected an engineer's AI coding agent. The FBI blames North Korea, which denies it. Hunter Powers and Daniel Bishop walk through it. A Binance engineer met the fake CEO of a company that did n",
+        "description": "Analyse d'une attaque où l'IA de Binance a été détournée par une injection de prompt provenant de Corée du Nord, entraînant la perte de 6,3 milliards de dollars."
+      },
+      {
+        "titre": "AI Chips Bound for China and Signal's Block on Phone AI",
+        "source": "Daily AI News from Seoul",
+        "lien": "https://podcasts.apple.com/us/podcast/ai-chips-bound-for-china-and-signals-block-on-phone-ai/id1896911525?i=1000803227807&uo=4",
+        "date": "2026-11-21T01:35:40+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/68/fa/1a/68fa1ab2-a9ca-36bd-68dc-4cb4cd7a8465/mza_16254319392793726921.jpg/160x160bb.jpg",
+        "duree_min": 21,
+        "extrait": "We examine U.S. House records on licenses for about 880,000 Nvidia and AMD AI chips sold to Chinese buyers, Google's Gemini 4 Neon evaluation results, and Signal's default screen-capture block against operating-system AI. Produced and provided by lawyer",
+        "description": "Examen des licences américaines pour 880 000 puces IA Nvidia/AMD vendues à la Chine, des résultats de Gemini 4 Neon et du blocage des captures d'écran par Signal contre l'IA du téléphone."
+      },
+      {
+        "titre": "How AI Honey Traps Are Rewiring Enterprise Security",
+        "source": "The AI Podcast with Fexingo: Artificial Intelligence, Machine Learning, and Modern AI Models",
+        "lien": "https://podcasts.apple.com/us/podcast/how-ai-honey-traps-are-rewiring-enterprise-security/id1896798905?i=1000803221466&uo=4",
+        "date": "2026-11-21T00:45:44+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/dd/83/eb/dd83eb6a-948c-322a-63ee-eace526361f5/mza_17531266291523839147.png/160x160bb.jpg",
+        "duree_min": 9,
+        "extrait": "Lucas and Luna dissect the emerging threat of 'honey traps' in enterprise AI, where malicious actors poison training data to hijack corporate models. With semiconductor stocks like Nvidia and AMD sliding over fifteen percent this week, the focus shifts",
+        "description": "Exploration des « honey traps » IA qui empoisonnent les jeux de données d’entreprise pour détourner les modèles d’apprentissage."
+      },
+      {
+        "titre": "Anthropic’s Moment of Truth, Jensen in Limbo, Apple’s AI Agent",
+        "source": "Big Technology Podcast",
+        "lien": "https://podcasts.apple.com/us/podcast/anthropics-moment-of-truth-jensen-in-limbo-apples-ai-agent/id1522960417?i=1000803210298&uo=4",
+        "date": "2026-11-20T23:02:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c3/30/67/c330676b-2402-432b-0505-12490dc3ccc1/mza_4262545472677654397.jpeg/160x160bb.jpg",
+        "duree_min": 64,
+        "extrait": "Ranjan Roy from Margins is back for our weekly discussion of the latest tech news. We cover: 1) Did Anthropic's IPO fail or succeed? 2) Anthropic raised $93 billion! 3) Do we finally have an answer about the AI business? 4) Did Anthropic just take the l",
+        "description": "Débat sur l'IPO d'Anthropic, ses levées de fonds, et la perspective d'un agent IA d'Apple dans le contexte du marché technologique."
+      },
+      {
+        "titre": "How Will US AI Export Controls Tackle China Remote Access? - AI News Today (Afternoon), Nov 20",
+        "source": "Tech Deep Dive - AI News Today",
+        "lien": "https://podcasts.apple.com/us/podcast/how-will-us-ai-export-controls-tackle-china-remote/id6808481448?i=1000803198108&uo=4",
+        "date": "2026-11-20T21:22:55+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ae/01/e6/ae01e632-213b-637b-8ce2-384aefbf7778/mza_6028503127469735653.jpg/160x160bb.jpg",
+        "duree_min": 10,
+        "extrait": "How Will US AI Export Controls Tackle China Remote Access? Plus the day's other big stories in AI, semiconductors and tech, in a fast deep dive from Tech Deep Dive. New editions every morning, midday and afternoon.",
+        "description": "Analyse des contrôles à l'exportation d'IA des États‑Unis visant à empêcher la Chine d'accéder à distance aux technologies IA."
+      }
+    ]
+  }
+}

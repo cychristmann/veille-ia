@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Edelbyte
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Le Monde Pixels]] - concept - feuilletons/f-0027.md
-- [[Ukraine Conflict]] - concept - feuilletons/f-0027.md
+- [[248 Ventures]] - concept - dossiers/2026-11-16-2.md
 
 ## Live Query (requires Dataview plugin)
 

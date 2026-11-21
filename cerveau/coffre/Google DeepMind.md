@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t4.md"
 type: "code"
-community: "Feuilleton: Compromission massive du Microsoft Agent Framework"
+community: "Veille Chine 2026-11-19 : Infrastructure et Technologie IA"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
+  - community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA
 ---
 
 # Google DeepMind
@@ -22,4 +22,4 @@ tags:
 - [[Veille États-Unis 2026-11-11  Applications sectorielles de l'IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-19  Financement et mouvements de marché]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
+#graphify/code #graphify/EXTRACTED #community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA

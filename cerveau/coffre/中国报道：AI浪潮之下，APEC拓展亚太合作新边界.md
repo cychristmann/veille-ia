@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-18-t7.md"
 type: "document"
-community: "Cursor"
+community: "Veille Outils & code 2026-11-18"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Cursor
+  - community/Veille_Outils__code_2026-11-18
 ---
 
 # 中国报道：AI浪潮之下，APEC拓展亚太合作新边界
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-18  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Cursor
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-18

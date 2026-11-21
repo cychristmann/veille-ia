@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-17-t5.md"
 type: "code"
-community: "Veille Chine 2026-11-19 : Régulation & Gouvernance IA"
+community: "Veille Outils & code 2026-11-15"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-19__Régulation__Gouvernance_IA
+  - community/Veille_Outils__code_2026-11-15
 ---
 
 # Li Dongsheng
@@ -14,4 +14,4 @@ tags:
 - [[APEC]] - `references` [EXTRACTED]
 - [[TCL]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Veille_Chine_2026-11-19__Régulation__Gouvernance_IA
+#graphify/code #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-15

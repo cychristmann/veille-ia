@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Veille États-Unis 2026-11-15 : Investissements et risques financiers liés à l'IA
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Oaktree Capital]] - concept - veilles/veille-ia-us-2026-11-15-t2.md
-- [[Veille États-Unis 2026-11-15  Investissements et risques financiers liés à l'IA]] - document - veilles/veille-ia-us-2026-11-15-t2.md
+- [[Academic Misconduct]] - concept - veilles/veille-ia-cn-2026-11-19-t4.md
+- [[Central South University]] - concept - veilles/veille-ia-cn-2026-11-19-t4.md
+- [[Veille Chine 2026-11-19  Recherche et Éthique]] - document - veilles/veille-ia-cn-2026-11-19-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -17,9 +18,3 @@ members: 2
 TABLE source_file, type FROM #community/Veille_États-Unis_2026-11-15__Investissements_et_risques_financiers_liés_à_lIA
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia_1]]
-
-## Top bridge nodes
-- [[Veille États-Unis 2026-11-15  Investissements et risques financiers liés à l'IA]] - degree 2, connects to 1 community

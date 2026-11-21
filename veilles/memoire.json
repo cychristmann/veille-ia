@@ -1,6 +1,276 @@
 {
-  "maj": "2026-11-20",
+  "maj": "2026-11-21",
   "feuilletons": [
+    {
+      "id": "f-0039",
+      "titre": "Microsoft impulsa standards ouverts de transparence pour agents IA",
+      "resume": "Microsoft lance une initiative visant à établir des standards ouverts de transparence afin de rendre les comportements des agents IA plus explicables et auditables, encourageant l'adoption de pratiques responsables dans l'industrie.",
+      "statut": "actif",
+      "debut": "2026-11-21",
+      "derniere_activite": "2026-11-21",
+      "regions": [
+        "fr"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-21",
+          "texte": "Lancement par Microsoft d'un projet de standards ouverts de transparence pour les agents IA.",
+          "articles": [
+            {
+              "titre": "Microsoft impulsa estándares abiertos de transparencia para agentes de IA",
+              "source": "Foro3D",
+              "lien": "https://foro3d.com/2026/noviembre/microsoft-impulsa-estandares-abiertos-de-transparencia-para-agentes-de.html",
+              "region": "fr",
+              "note": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0038",
+      "titre": "Un processeur entièrement conçu par l'IA, 4,6 fois plus efficace",
+      "resume": "AMD et Intel annoncent qu'un processeur, entièrement conçu par une IA, aurait atteint une efficacité 4,6 fois supérieure aux conceptions traditionnelles, marquant une première majeure dans la conception matérielle assistée par IA.",
+      "statut": "actif",
+      "debut": "2026-11-21",
+      "derniere_activite": "2026-11-21",
+      "regions": [
+        "fr"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-21",
+          "texte": "Annonce d'un processeur révolutionnaire conçu par l'IA, avec des performances revendiquées nettement supérieures.",
+          "articles": [
+            {
+              "titre": "AMD et Intel, faites place : l’IA a conçu un processeur entièrement nouveau — et affirme qu’il est 4,6 fois plus efficace",
+              "source": "Notebookcheck.fr",
+              "lien": "https://www.notebookcheck.biz/AMD-et-Intel-faites-place-l-IA-a-concu-un-processeur-entierement-nouveau-et-affirme-qu-il-est-4-6-fois-plus-efficace.1455788.0.html",
+              "region": "fr",
+              "note": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0037",
+      "titre": "Appel à interdire les modèles d'IA chinois dans les systèmes fédéraux américains",
+      "resume": "Des législateurs américains demandent une interdiction des modèles d'intelligence artificielle développés en Chine au sein des systèmes fédéraux, invoquant des risques de sécurité nationale. La proposition alimente le débat sur la souveraineté technologique.",
+      "statut": "actif",
+      "debut": "2026-11-21",
+      "derniere_activite": "2026-11-21",
+      "regions": [
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-21",
+          "texte": "Publication de deux articles signalant la demande d'interdiction des IA chinoises dans les infrastructures fédérales américaines.",
+          "articles": [
+            {
+              "titre": "Des élus américains appellent à interdire les modèles d’IA chinois dans les systèmes fédéraux",
+              "source": "Anadolu Ajansı",
+              "lien": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRHV2NXkwTFcybE10SkIzdGx0bFlKS0gwUU1VZ25KOHBBLWg0eEhELThFSnk1MF9SZ01mSDdWSjdvSHNQYlk4VGUySk9LMFd2bzJpRDJKLXdBcFZKYjhYdXVNVHdGdUhUcU9HbW8tUlZVWlVUaW5FeldwRl9xcExwbWVIbUFFWUo5S3lHeERSbnNwQlRHYzRLaW4wb3Z6NENEMmdFdzJwb255RDlYbU40S1dtaFlicjV1eW9fZTBYUzlCSkVna3MwQ1ZUU1lHLW91UFNTT0VQVnBidTlSaml0NVpwMUNwaENEdEpRTUI3TTlFOVJXa0o3em1GN3cwdG5i?oc=5",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Des législateurs américains demandent l'interdiction des modèles d'IA chinois dans les systèmes fédéraux",
+              "source": "Anadolu Ajansı",
+              "lien": "https://www.aa.com.tr/en/americas/us-lawmakers-urge-ban-on-chinese-ai-models-in-federal-systems/4132677",
+              "region": "us",
+              "note": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0036",
+      "titre": "Résolution de l'hypothèse de Riemann grâce à l'IA d'Anthropic",
+      "resume": "Un mathématicien, aidé par le modèle Claude d'Anthropic, affirme avoir résolu l'hypothèse de Riemann, l'un des problèmes les plus célèbres des mathématiques. Plusieurs médias français et américains rapportent la même avancée, déclenchant un débat scientifique majeur.",
+      "statut": "actif",
+      "debut": "2026-11-21",
+      "derniere_activite": "2026-11-21",
+      "regions": [
+        "dev",
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-21",
+          "texte": "Publication de plusieurs articles annonçant la résolution de l'hypothèse de Riemann avec l'aide de l'IA d'Anthropic.",
+          "articles": [
+            {
+              "titre": "L’IA pourrait avoir résolu le problème le plus célèbre des mathématiques : l’hypothèse de Riemann",
+              "source": "Courrier international",
+              "lien": "https://www.courrierinternational.com/article/sciences-l-ia-pourrait-avoir-resolu-le-probleme-le-plus-celebres-des-mathematiques-l-hypothese-de-riemann_288984",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Un mathématicien annonce la résolution d'un des plus célèbres problèmes du monde avec l'aide de l'IA",
+              "source": "France 24",
+              "lien": "https://www.france24.com/fr/info-en-continu/20261120-un-math%C3%A9maticien-annonce-la-r%C3%A9solution-d-un-des-plus-c%C3%A9l%C3%A8bres-probl%C3%A8mes-du-monde-avec-l-aide-de-l-ia",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Grâce à l’IA, un chercheur affirme avoir résolu l’un des problèmes mathématiques les plus importants du monde",
+              "source": "Libération",
+              "lien": "https://www.msn.com/fr-fr/actualite/other/gr%C3%A2ce-%C3%A0-l-ia-un-chercheur-affirme-avoir-r%C3%A9solu-l-un-des-probl%C3%A8mes-math%C3%A9matiques-les-plus-importants-du-monde/ar-AA2hSbRy",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Un mystère mathématique vieux de 167 ans enfin résolu ? L'IA Claude pourrait avoir réalisé un exploit historique",
+              "source": "RTL",
+              "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPek5BNU00aG5aY1NqUVRwSWF4eXpzNFQ4YnYzeHhKSHFXMGVPZEdtbFZCQmJZdzA5VUpWQ1J5YnJhRkF3ZHg2WTU2NENoU1JqbUZyZUZVTGZaYUlac1RfeFRnY3FPeVZWLXIyNUtwS1NIZkN4RVdxMzloOXhvRmIyZ3U0QXA4MktoZVM5NzJVRjdOWEJvQnVRWmFabWdoRWE3OW5NTVlqZXNnMmFQYVJXaDVtcnpFanp0d1Jqc0ltU1FDZzhYV2l4RTZBTUVkdjI5cnhpRkdJcWF1RzltMjFkTTQ3MGROeDZyWUtibXFuZjQ?oc=5",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Un employé d'Anthropic affirme avoir résolu le Saint‑Graël des problèmes mathématiques grâce à l'IA",
+              "source": "AP News",
+              "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZl83aFlGaHFEUVczbnRQYTJCbmhiWUFic2RBN0JLeVJrUy1GOG5TZDRtSzVDQ3JzT1otb3dqZlQ0X1JXc0I3Wm1CMzB2Ul9MZGlGbFVvOHEyVlo4V1NxUU5sQ0FoMTNkTUJkaXlCSFYwcE5rZGtyb2hwTkNYcVNJcGtMSzdqRFlQejUzTjFuei1PX2ZPcU5ZRw?oc=5",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "Chercheur d'Anthropic affirme avoir résolu le problème de Riemann avec Claude",
+              "source": "Bloomberg Technology",
+              "lien": "https://www.bloomberg.com/news/articles/2026-11-21/anthropic-researcher-claims-to-solve-riemann-problem-with-claude",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "À l'aide de l'IA, un mathématicien prétend avoir résolu l'un des grands mystères des mathématiques",
+              "source": "The Washington Post",
+              "lien": "https://www.msn.com/en-us/news/other/using-ai-mathematician-claims-to-have-solved-one-of-maths-great-mysteries/ar-AA2hRSLN",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "Un mathématicien d’Anthropic affirme que Claude a aidé à produire une preuve de l’hypothèse de Riemann",
+              "source": "news.lavx.hu",
+              "lien": "https://news.lavx.hu/article/anthropic-mathematician-claims-claude-helped-produce-proof-of-riemann-hypothesis",
+              "region": "dev",
+              "note": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0030",
+      "titre": "Cybercriminels automatisent leurs attaques grâce à l'IA",
+      "resume": "Des enquêtes révèlent que les cybercriminels intensifient l'automatisation de leurs attaques en s'appuyant sur des agents IA, augmentant la fréquence et la sophistication des intrusions. Cette évolution rappelle la première cyberattaque IA détectée précédemment.",
+      "statut": "actif",
+      "debut": "2026-11-18",
+      "derniere_activite": "2026-11-21",
+      "regions": [
+        "fr"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-18",
+          "texte": "Google signale une attaque entièrement orchestrée par une IA, transformant des correctifs en vecteurs d’intrusion.",
+          "articles": [
+            {
+              "titre": "Google détecte la première cyberattaque menée de bout en bout par une IA",
+              "source": "Génération NT",
+              "lien": "https://www.generation-nt.com/actualites/attaque-ia-autonome-hackers-2084608",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Google repère un agent IA qui transforme seul des correctifs en attaques",
+              "source": "Solutions-Numeriques",
+              "lien": "https://www.solutions-numeriques.com/google-repere-un-agent-ia-qui-transforme-seul-des-correctifs-en-attaques/",
+              "region": "fr",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "texte": "Signalement d'une montée en puissance des attaques automatisées par IA, élargissant le phénomène de cyberattaque IA.",
+          "articles": [
+            {
+              "titre": "\"Des campagnes d'attaques de plus en plus automatisées\" : comment les cybercriminels ont placé l'intelligence artificielle au cœur de leurs opérations",
+              "source": "franceinfo",
+              "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-campagnes-d-attaques-de-plus-en-plus-automatisees-comment-les-cybercriminels-ont-place-l-intelligence-artificielle-au-c-ur-de-leurs-operations_8292092.html",
+              "region": "fr",
+              "note": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0018",
+      "titre": "Wall Street en déroute après la chute des sociétés liées à l'IA",
+      "resume": "Les marchés américains connaissent une forte volatilité suite à la chute des actions des entreprises liées à l'intelligence artificielle, aggravée par le scandale autour de Nvidia. La situation renforce les inquiétudes sur la surévaluation du secteur IA.",
+      "statut": "actif",
+      "debut": "2026-11-13",
+      "derniere_activite": "2026-11-21",
+      "regions": [
+        "cn",
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-13",
+          "texte": "Un scandale majeur renverse la star de l’IA, selon Reuters.",
+          "articles": [
+            {
+              "titre": "Morning Bid : un scandale renverse la star de l’IA",
+              "source": "Reuters",
+              "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GOFRsaDEtWVBzYU96UkZKNEM5cWJ1cWF6bVZmM2JQeVR5bWkyU0Vxald4ZlVVN0RqTzZrNlN3TXU2MHdqQV9ISllvaklNUWxibU9zamZqUHQ5blppNnRveUEzODBLUnI0bG5YVkx1eDI0M0JiWnd1R3pSMk5OSWs?oc=5",
+              "region": "us",
+              "note": 8
+            }
+          ]
+        },
+        {
+          "date": "2026-11-15",
+          "texte": "Déclenchement d’un scandale majeur touchant Nvidia, impact sur les valorisations du secteur IA.",
+          "articles": [
+            {
+              "titre": "Les retombées du scandale Nvidia pourraient freiner l'engouement autour du boom de l'IA",
+              "source": "Jamaica Gleaner",
+              "lien": "https://www.usnews.com/news/business/articles/2026-11-13/fallout-from-the-nvidia-scandal-may-dampen-the-exuberance-around-the-ai-boom",
+              "region": "us",
+              "note": 7
+            },
+            {
+              "titre": "Les valorisations d'OpenAI et Anthropic s'ajustent, la valeur des startups de l'IA confrontée à une réévaluation",
+              "source": "手机新浪网",
+              "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JWjM0c2hnWm5NUUdfZXdRVnZmYnlYUGxwTS1UUFN1ZnRFN3pzYWh4TjFYNWFJeVVQcFM1elVxYXpxdmFnbHdBc3FObUFsM1RJelNYcUIwSHpzcjhvZnVpdVl6ZDZfc2lQMzVKME1RUmgwZ1JjaDV3NXc0UEdfcFk?oc=5",
+              "region": "cn",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "texte": "Baisse importante des cours boursiers des entreprises IA, notamment après le scandale Nvidia.",
+          "articles": [
+            {
+              "titre": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+              "source": "Le Monde.fr",
+              "lien": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+              "region": "fr",
+              "note": 7
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "f-0035",
       "titre": "Apple prépare un agent IA complet pour piloter appareils et applications",
@@ -1219,39 +1489,6 @@
       ]
     },
     {
-      "id": "f-0030",
-      "titre": "Google détecte la première cyberattaque IA de bout en bout",
-      "resume": "Cette première cyberattaque menée par une IA met en lumière les risques nouveaux de la cybersécurité, incitant les acteurs du secteur à réévaluer leurs défenses contre les agents autonomes.",
-      "statut": "actif",
-      "debut": "2026-11-18",
-      "derniere_activite": "2026-11-18",
-      "regions": [
-        "fr"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-18",
-          "texte": "Google signale une attaque entièrement orchestrée par une IA, transformant des correctifs en vecteurs d’intrusion.",
-          "articles": [
-            {
-              "titre": "Google détecte la première cyberattaque menée de bout en bout par une IA",
-              "source": "Génération NT",
-              "lien": "https://www.generation-nt.com/actualites/attaque-ia-autonome-hackers-2084608",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "Google repère un agent IA qui transforme seul des correctifs en attaques",
-              "source": "Solutions-Numeriques",
-              "lien": "https://www.solutions-numeriques.com/google-repere-un-agent-ia-qui-transforme-seul-des-correctifs-en-attaques/",
-              "region": "fr",
-              "note": 7
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "f-0029",
       "titre": "Microsoft transforme Copilot en système d’exploitation du travail avec IA économiques",
       "resume": "Microsoft veut faire de Copilot le noyau logiciel de l’entreprise, en le couplant à de nouvelles IA plus abordables, marquant un virage stratégique vers l’intégration profonde de l’IA dans les flux de travail.",
@@ -1744,53 +1981,6 @@
               "lien": "https://www.lavoixdefrance.fr/lotan-a-gele-la-creation-de-nouveaux-centres-dexcellence-mais-la-france-a-decide-de-lancer-le-sien-dans-lintelligence-artificielle-militaire-21427/",
               "region": "fr",
               "note": 6
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f-0018",
-      "titre": "Scandale qui renverse la star de l’IA",
-      "resume": "Le scandale autour de Nvidia, alimenté par des révélations sur des flux de puces vers la Chine, provoque une réévaluation massive des valorisations et des stratégies des acteurs IA.",
-      "statut": "actif",
-      "debut": "2026-11-13",
-      "derniere_activite": "2026-11-15",
-      "regions": [
-        "cn",
-        "us"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-13",
-          "texte": "Un scandale majeur renverse la star de l’IA, selon Reuters.",
-          "articles": [
-            {
-              "titre": "Morning Bid : un scandale renverse la star de l’IA",
-              "source": "Reuters",
-              "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GOFRsaDEtWVBzYU96UkZKNEM5cWJ1cWF6bVZmM2JQeVR5bWkyU0Vxald4ZlVVN0RqTzZrNlN3TXU2MHdqQV9ISllvaklNUWxibU9zamZqUHQ5blppNnRveUEzODBLUnI0bG5YVkx1eDI0M0JiWnd1R3pSMk5OSWs?oc=5",
-              "region": "us",
-              "note": 8
-            }
-          ]
-        },
-        {
-          "date": "2026-11-15",
-          "texte": "Déclenchement d’un scandale majeur touchant Nvidia, impact sur les valorisations du secteur IA.",
-          "articles": [
-            {
-              "titre": "Les retombées du scandale Nvidia pourraient freiner l'engouement autour du boom de l'IA",
-              "source": "Jamaica Gleaner",
-              "lien": "https://www.usnews.com/news/business/articles/2026-11-13/fallout-from-the-nvidia-scandal-may-dampen-the-exuberance-around-the-ai-boom",
-              "region": "us",
-              "note": 7
-            },
-            {
-              "titre": "Les valorisations d'OpenAI et Anthropic s'ajustent, la valeur des startups de l'IA confrontée à une réévaluation",
-              "source": "手机新浪网",
-              "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JWjM0c2hnWm5NUUdfZXdRVnZmYnlYUGxwTS1UUFN1ZnRFN3pzYWh4TjFYNWFJeVVQcFM1elVxYXpxdmFnbHdBc3FObUFsM1RJelNYcUIwSHpzcjhvZnVpdVl6ZDZfc2lQMzVKME1RUmgwZ1JjaDV3NXc0UEdfcFk?oc=5",
-              "region": "cn",
-              "note": 7
             }
           ]
         }

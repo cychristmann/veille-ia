@@ -1,28 +1,26 @@
 ---
 type: community
-members: 15
+members: 13
 ---
 
 # Nvidia
 
-**Members:** 15 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[Agent Name Service]] - concept - veilles/veille-ia-cn-2026-11-10-t5.md
-- [[Apple HomeView]] - concept - veilles/veille-ia-cn-2026-11-15-t7.md
-- [[Ascend 950DT Chip]] - concept - veilles/veille-ia-cn-2026-11-18-t1.md
-- [[China Telecom]] - concept - veilles/veille-ia-cn-2026-11-18-t1.md
-- [[Guangdong Tianyima Information Industry Co., Ltd.]] - concept - veilles/veille-ia-cn-2026-11-18-t1.md
-- [[HarmonyOS]] - concept - veilles/veille-ia-cn-2026-11-15-t7.md
-- [[Huawei]] - concept - veilles/veille-ia-cn-2026-11-18-t1.md
-- [[Linux Foundation]] - concept - veilles/veille-ia-cn-2026-11-10-t5.md
-- [[Robo.ai]] - concept - veilles/veille-ia-cn-2026-11-18-t3.md
-- [[Veille Chine 2026-11-10  Écosystèmes, plateformes et outils IA]] - document - veilles/veille-ia-cn-2026-11-10-t5.md
-- [[Veille Chine 2026-11-15  Autres articles]] - document - veilles/veille-ia-cn-2026-11-15-t7.md
-- [[Veille Chine 2026-11-18  Applications sectorielles]] - document - veilles/veille-ia-cn-2026-11-18-t3.md
-- [[Veille Chine 2026-11-18  Infrastructure et matériel]] - document - veilles/veille-ia-cn-2026-11-18-t1.md
-- [[Xiaopeng G9]] - concept - veilles/veille-ia-cn-2026-11-15-t7.md
-- [[中能拾贝]] - concept - veilles/veille-ia-cn-2026-11-18-t3.md
+- [[Ant Group Lingbo Embodied AI]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
+- [[Anthropic IPO]] - concept - feuilletons/f-0003.md
+- [[Boursorama]] - concept - dossiers/2026-11-19-1.md
+- [[Cryptoast]] - concept - dossiers/2026-11-20-3.md
+- [[Dr. Hendrik Leber]] - concept - dossiers/2026-11-19-1.md
+- [[France 24]] - concept - dossiers/2026-11-20-3.md
+- [[Lenovo AI Servers]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
+- [[Moneyvox]] - concept - dossiers/2026-11-20-3.md
+- [[Nasdaq]] - concept - feuilletons/f-0003.md
+- [[Qwen AI Hardware]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
+- [[SEC]] - concept - dossiers/2026-11-19-1.md
+- [[Veille Chine 2026-11-19  Autres articles]] - document - veilles/veille-ia-cn-2026-11-19-t6.md
+- [[Wired]] - concept - dossiers/2026-11-19-1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -32,12 +30,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Nvidia_1]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-13]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-15  IA industrielle et technologique]]
-- 1 edge to [[_COMMUNITY_Dossier Course à l'IA entre États‑Unis et Chine]]
+- 3 edges to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-15]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-19  Infrastructure et Technologie IA_2]]
 
 ## Top bridge nodes
-- [[Huawei]] - degree 8, connects to 2 communities
-- [[Veille Chine 2026-11-18  Infrastructure et matériel]] - degree 5, connects to 1 community
-- [[Veille Chine 2026-11-15  Autres articles]] - degree 4, connects to 1 community
+- [[Anthropic IPO]] - degree 12, connects to 3 communities
+- [[Nasdaq]] - degree 2, connects to 1 community
+- [[SEC]] - degree 2, connects to 1 community

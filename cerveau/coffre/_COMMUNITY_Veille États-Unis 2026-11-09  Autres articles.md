@@ -8,11 +8,11 @@ members: 5
 **Members:** 5 nodes
 
 ## Members
-- [[IT之家]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
-- [[Veille Chine 2026-11-12  Anthropic et concurrence]] - document - veilles/veille-ia-cn-2026-11-12-t2.md
-- [[中国新闻网]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
-- [[华尔街见闻]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
-- [[证券之星]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
+- [[Dossier  Alliance européenne pour une IA souveraine]] - document - dossiers/2026-11-19-3.md
+- [[IA souveraine  pourquoi l’Europe doit accélérer]] - document - dossiers/2026-11-19-3.md
+- [[Nokia et Telia lancent un consortium]] - document - dossiers/2026-11-19-3.md
+- [[Nokia projette une gigafactory]] - document - dossiers/2026-11-19-3.md
+- [[OVHcloud  infrastructure IA]] - document - dossiers/2026-11-19-3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,9 +20,3 @@ members: 5
 TABLE source_file, type FROM #community/Veille_États-Unis_2026-11-09__Autres_articles
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Anthropic_1]]
-
-## Top bridge nodes
-- [[Veille Chine 2026-11-12  Anthropic et concurrence]] - degree 5, connects to 1 community

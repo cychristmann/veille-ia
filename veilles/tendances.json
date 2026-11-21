@@ -1,126 +1,129 @@
 {
-  "genere_a": "2026-11-20T08:14+01:00",
+  "genere_a": "2026-11-21T08:11+01:00",
   "periode": {
-    "du": "2026-11-14",
-    "au": "2026-11-20",
+    "du": "2026-11-15",
+    "au": "2026-11-21",
     "jours": 7
   },
-  "precedente_jours": 6,
+  "precedente_jours": 7,
   "regions": [
     "cn",
     "dev",
     "fr",
     "us"
   ],
-  "synthese": "La semaine écoulée a été marquée par une effervescence financière historique, dominée par l’introduction en bourse record d’Anthropic qui a atteint plus de 100 milliards de dollars tout en provoquant de fortes secousses sur les marchés asiatiques et mondiaux. Parallèlement, le secteur a connu une accélération marquée du déploiement des agents IA autonomes et des assistants de codage dans les entreprises, malgré de sérieuses alertes de sécurité concernant des compromissions de paquets et des cyberattaques automatisées. Les tensions géopolitiques et réglementaires se sont intensifiées, notamment autour des restrictions sur les puces, des enquêtes sur l'intrusion d'agents dans des systèmes bancaires et des projets de désignation de champions nationaux. Enfin, les géants de la tech comme Microsoft, Google et Apple ont multiplié les annonces de nouveaux modèles, de frameworks d'agents et d'infrastructures pour soutenir cette croissance.",
+  "synthese": "La semaine a été marquée par l'introduction en bourse historique d'Anthropic, qui a levé des montants records et provoqué une forte volatilité ainsi que des craintes de bulle sur les marchés financiers mondiaux. Le domaine des agents autonomes et des assistants de codage a connu une expansion rapide, illustrée par de nouvelles annonces de Microsoft, Apple et Google, tout en soulevant des défis critiques en matière de cybersécurité et de détournement de paquets. Les infrastructures de calcul et les puces d'IA ont subi de fortes pressions, alimentées par les restrictions géopolitiques, les enquêtes et les mouvements boursiers autour de Nvidia. Enfin, sur le plan scientifique, l'utilisation de l'IA a fait l'objet d'annonces retentissantes concernant la résolution potentielle de l'hypothèse de Riemann.",
   "montants": [
     {
-      "nom": "IPO record d'Anthropic",
-      "explication": "Anthropic a réalisé l'une des plus grandes introductions en bourse de l'histoire, levant plus de 80 à 107 milliards de dollars selon les estimations. Cet événement a dopé le secteur mais a également provoqué des mouvements de vente massifs et des craintes de bulle sur les marchés asiatiques et mondiaux.",
+      "nom": "IPO et essor boursier d'Anthropic",
+      "explication": "Anthropic a réalisé l'une des plus grandes introductions en bourse de l'histoire, levant des dizaines de milliards de dollars. Cet événement a secoué les marchés mondiaux et ravivé les débats sur la valorisation excessive et la bulle de l'IA.",
       "regions": [
         "us",
         "fr",
-        "cn"
-      ]
-    },
-    {
-      "nom": "Essor des agents IA autonomes",
-      "explication": "Les entreprises déploient massivement des agents IA capables de collaborer, de coder et de gérer des processus complexes à travers des plateformes comme Microsoft Ignite ou Claude Code. Cette adoption rapide s'accompagne toutefois de risques accrus, avec des rapports faisant état d'attaques automatisées et de détournements de packages.",
-      "regions": [
-        "us",
-        "fr",
+        "cn",
         "dev"
       ]
     },
     {
-      "nom": "Tensions géopolitiques et puces IA",
-      "explication": "Les restrictions sur l'exportation des puces avancées et les contrôles renforcés se multiplient, sur fond de scandales et de enquêtes touchant des acteurs comme Nvidia et ses liens avec la Chine. Les États-Unis envisagent de désigner plusieurs entreprises comme champions nationaux pour soutenir la concurrence à l'international.",
+      "nom": "Agents IA autonomes et assistants de codage",
+      "explication": "Les grands acteurs comme Microsoft, Apple, Google et Amazon déploient massivement des agents capables de contrôler des applications et d'écrire du code. Cette adoption s'accompagne d'incidents de sécurité majeurs, notamment des détournements de paquets PyPI et de dépôts GitHub.",
+      "regions": [
+        "us",
+        "fr",
+        "cn",
+        "dev"
+      ]
+    },
+    {
+      "nom": "Tensions sur les puces et infrastructures IA",
+      "explication": "Les restrictions américaines sur les exportations de semi-conducteurs et les turbulences financières de Nvidia pèsent lourdement sur l'industrie. Les marchés asiatiques et mondiaux subissent de fortes corrections en raison des coûts croissants du calcul.",
       "regions": [
         "us",
         "cn",
         "fr"
       ]
-    }
-  ],
-  "retombes": [
+    },
     {
-      "nom": "Panne aérienne de la FAA",
-      "explication": "Les interrogations et polémiques initiales autour d'une panne de gestion du trafic aérien potentiellement liée à un nouvel outil IA ont rapidement disparu de l'actualité au profit des questions financières et boursières.",
+      "nom": "Percées scientifiques assistées par l'IA",
+      "explication": "Des chercheurs ont annoncé des avancées spectaculaires, affirmant que l'IA a permis de produire une preuve pour l'hypothèse de Riemann et de progresser en biologie et en conception de processeurs.",
       "regions": [
-        "us"
+        "us",
+        "fr",
+        "dev"
       ]
     }
   ],
+  "retombes": [],
   "a_surveiller": [
-    "La digestion boursière de l'introduction en bourse d'Anthropic et son impact durable sur la stabilité financière mondiale.",
-    "L'évolution de la sécurité des frameworks d'agents face aux menaces croissantes de détournement de code et de vol d'identifiants.",
-    "Les retombées des nouvelles régulations et des projets de désignation de champions nationaux sur le commerce international des puces IA.",
-    "Les réactions des marchés et des autorités face aux enquêtes pénales et poursuites judiciaires visant les entreprises d'intelligence artificielle."
+    "L'évolution de la valorisation boursière d'Anthropic et son impact durable sur le financement du secteur de l'IA.",
+    "La mise en place des nouveaux cadres de sécurité et de gouvernance pour contrer les cyberattaques menées par des agents autonomes.",
+    "Les répercussions des restrictions politiques et géopolitiques sur l'accès aux puces et aux modèles d'IA entre les États-Unis et la Chine.",
+    "La concrétisation des projets d'agents IA complets annoncés par des géants comme Apple et Microsoft pour le grand public et l'entreprise."
   ],
   "acteurs": [
     {
       "nom": "Anthropic",
-      "mentions": 144,
-      "mentions_precedentes": 70
+      "mentions": 142,
+      "mentions_precedentes": 90
     },
     {
       "nom": "Microsoft",
       "mentions": 58,
-      "mentions_precedentes": 18
-    },
-    {
-      "nom": "OpenAI",
-      "mentions": 54,
-      "mentions_precedentes": 22
+      "mentions_precedentes": 26
     },
     {
       "nom": "Nvidia",
+      "mentions": 57,
+      "mentions_precedentes": 60
+    },
+    {
+      "nom": "OpenAI",
       "mentions": 53,
-      "mentions_precedentes": 55
+      "mentions_precedentes": 27
     },
     {
       "nom": "Google",
-      "mentions": 50,
-      "mentions_precedentes": 34
+      "mentions": 48,
+      "mentions_precedentes": 41
     },
     {
       "nom": "Amazon",
-      "mentions": 32,
-      "mentions_precedentes": 18
+      "mentions": 33,
+      "mentions_precedentes": 23
     },
     {
       "nom": "Apple",
-      "mentions": 20,
+      "mentions": 22,
       "mentions_precedentes": 13
     },
     {
       "nom": "Alibaba",
-      "mentions": 13,
+      "mentions": 14,
       "mentions_precedentes": 5
     },
     {
       "nom": "Meta",
       "mentions": 9,
-      "mentions_precedentes": 14
-    },
-    {
-      "nom": "DeepSeek",
-      "mentions": 6,
-      "mentions_precedentes": 2
+      "mentions_precedentes": 17
     },
     {
       "nom": "xAI",
+      "mentions": 6,
+      "mentions_precedentes": 10
+    },
+    {
+      "nom": "DeepSeek",
       "mentions": 5,
-      "mentions_precedentes": 8
+      "mentions_precedentes": 4
     },
     {
       "nom": "Union européenne",
       "mentions": 5,
-      "mentions_precedentes": 0
+      "mentions_precedentes": 1
     },
     {
       "nom": "Mistral",
-      "mentions": 3,
+      "mentions": 4,
       "mentions_precedentes": 2
     },
     {

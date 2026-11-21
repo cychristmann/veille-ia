@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-10-t6.md"
+source_file: "veilles/veille-ia-fr-2026-11-10-t3.md"
 type: "document"
-community: "Veille États-Unis 2026-11-14 : Politique, Régulation et Sécurité"
+community: "DeepSeek"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-14__Politique_Régulation_et_Sécurité
+  - community/DeepSeek
 ---
 
 # Veille France 2026-11-10
@@ -20,4 +20,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Orange]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Politique_Régulation_et_Sécurité
+#graphify/document #graphify/EXTRACTED #community/DeepSeek

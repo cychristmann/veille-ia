@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0029.md"
 type: "concept"
-community: "Copilot"
+community: "Elon Musk"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Copilot
+  - community/Elon_Musk
 ---
 
 # Ignite 2026
@@ -14,4 +14,4 @@ tags:
 - [[Copilot]] - `references` [EXTRACTED]
 - [[Microsoft]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Copilot
+#graphify/concept #graphify/EXTRACTED #community/Elon_Musk

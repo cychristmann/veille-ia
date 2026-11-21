@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-11-t5.md"
 type: "concept"
-community: "Elon Musk"
+community: "Alibaba"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Elon_Musk
+  - community/Alibaba
 ---
 
 # Pingtouge (T-Head)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-11]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Elon_Musk
+#graphify/concept #graphify/EXTRACTED #community/Alibaba

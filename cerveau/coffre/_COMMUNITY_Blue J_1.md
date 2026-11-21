@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Sciences et Avenir]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
+- [[Arm]] - concept - dossiers/2026-11-13-1.md
 
 ## Live Query (requires Dataview plugin)
 

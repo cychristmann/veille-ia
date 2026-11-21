@@ -1,26 +1,34 @@
 ---
 type: community
-members: 13
+members: 21
 ---
 
 # Anthropic
 
-**Members:** 13 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[Ant Group Lingbo Embodied AI]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
-- [[Anthropic IPO]] - concept - feuilletons/f-0003.md
-- [[Boursorama]] - concept - dossiers/2026-11-19-1.md
-- [[Cryptoast]] - concept - dossiers/2026-11-20-3.md
-- [[Dr. Hendrik Leber]] - concept - dossiers/2026-11-19-1.md
-- [[France 24]] - concept - dossiers/2026-11-20-3.md
-- [[Lenovo AI Servers]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
-- [[Moneyvox]] - concept - dossiers/2026-11-20-3.md
-- [[Nasdaq]] - concept - feuilletons/f-0003.md
-- [[Qwen AI Hardware]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
-- [[SEC]] - concept - dossiers/2026-11-19-1.md
-- [[Veille Chine 2026-11-19  Autres articles]] - document - veilles/veille-ia-cn-2026-11-19-t6.md
-- [[Wired]] - concept - dossiers/2026-11-19-1.md
+- [[Adobe MAX 2026]] - concept - veilles/veille-ia-cn-2026-11-11-t3.md
+- [[CAA]] - concept - veilles/veille-ia-fr-2026-11-11-t2.md
+- [[CLARA]] - code - feuilletons/f-0017.md
+- [[Daft Punk]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[DeepL Aure]] - concept - veilles/veille-ia-cn-2026-11-11-t3.md
+- [[ECHO]] - concept - veilles/veille-ia-fr-2026-11-11-t2.md
+- [[Feuilleton CLARA révolutionne le calcul des bioréacteurs]] - document - feuilletons/f-0017.md
+- [[GTA VI]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Google DeepMind Hurricane Model]] - concept - veilles/veille-ia-cn-2026-11-11-t3.md
+- [[Japanese Bias in AI]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Kick]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Krea]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[LEGO]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[MiniMax Model]] - concept - veilles/veille-ia-cn-2026-11-11-t3.md
+- [[Mozart AI]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Ogilvy]] - concept - veilles/veille-ia-fr-2026-11-11-t2.md
+- [[Palo]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Project Screen Test]] - concept - veilles/veille-ia-cn-2026-11-11-t3.md
+- [[Project Sight Span]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Veille Chine 2026-11-11  Applications sectorielles]] - document - veilles/veille-ia-cn-2026-11-11-t3.md
+- [[Veille France 2026-11-13  Applications & Outils IA]] - document - veilles/veille-ia-fr-2026-11-13-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -30,11 +38,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Anthropic_1]]
-- 1 edge to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-19  Infrastructure et Technologie IA_1]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-11  Marchés et investissements]]
 
 ## Top bridge nodes
-- [[Anthropic IPO]] - degree 12, connects to 3 communities
-- [[Nasdaq]] - degree 2, connects to 1 community
-- [[SEC]] - degree 2, connects to 1 community
+- [[Veille France 2026-11-13  Applications & Outils IA]] - degree 10, connects to 1 community

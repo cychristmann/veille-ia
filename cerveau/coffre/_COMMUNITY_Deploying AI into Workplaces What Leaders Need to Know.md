@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Deploying AI into Workplaces: What Leaders Need to Know
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Deploying AI into Workplaces What Leaders Need to Know]] - document - veilles/veille-ia-us-2026-11-16-t3.md
-- [[Veille États-Unis 2026-11-16  Éducation, formation et environnement professionnel]] - document - veilles/veille-ia-us-2026-11-16-t3.md
+- [[Amazon SageMaker HyperPod]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[Global Inference Gateway]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[Slurm]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
 
 ## Live Query (requires Dataview plugin)
 

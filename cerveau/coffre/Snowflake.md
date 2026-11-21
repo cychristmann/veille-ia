@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0013.md"
 type: "concept"
-community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
+community: "Veille Chine 2026-11-19 : Infrastructure et Technologie IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+  - community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA
 ---
 
 # Snowflake
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Cortex]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA

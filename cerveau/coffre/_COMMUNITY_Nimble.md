@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Nimble
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[ARTEX AI Hacking Tool]] - concept - veilles/veille-ia-us-2026-11-16-t4.md
-- [[FBI AI Threat Reports]] - concept - veilles/veille-ia-us-2026-11-16-t4.md
-- [[Veille États-Unis 2026-11-16  Sécurité, éthique et marché financier]] - document - veilles/veille-ia-us-2026-11-16-t4.md
+- [[SC Media]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
+- [[Veille États-Unis 2026-11-08  Perception publique et sociétale]] - document - veilles/veille-ia-us-2026-11-08-t5.md
+- [[tech-insider.org]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
+- [[vr.org]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
 
 ## Live Query (requires Dataview plugin)
 

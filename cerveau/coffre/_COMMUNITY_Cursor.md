@@ -8,17 +8,17 @@ members: 11
 **Members:** 11 nodes
 
 ## Members
-- [[Arduino]] - concept - veilles/veille-ia-us-2026-11-14-t3.md
-- [[Cursor]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
-- [[Databricks]] - concept - veilles/veille-ia-us-2026-11-14-t3.md
-- [[Fireworks]] - concept - veilles/veille-ia-dev-2026-11-18-t3.md
-- [[Fireworks AI]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
-- [[Grok]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
-- [[Kiro]] - code - veilles/veille-ia-dev-2026-11-13-t6.md
-- [[Malicious Claude Code Extension]] - concept - veilles/veille-ia-dev-2026-11-15-t1.md
-- [[Perplexity]] - concept - veilles/veille-ia-us-2026-11-14-t3.md
-- [[Veille Outils & code 2026-11-15  Sécurité des outils IA]] - document - veilles/veille-ia-dev-2026-11-15-t1.md
-- [[Veille États-Unis 2026-11-14  Agents et Outils Technologiques]] - document - veilles/veille-ia-us-2026-11-14-t3.md
+- [[Après l’euphorie, la course à l’IA se heurte déjà aux limites de son modèle économique]] - document - dossiers/2026-11-15-2.md
+- [[Boom de l'intelligence artificielle]] - concept - dossiers/2026-11-15-2.md
+- [[Data-centers]] - concept - dossiers/2026-11-15-2.md
+- [[Dossier  Effondrement du boom IA et crise des data-centers]] - document - dossiers/2026-11-15-2.md
+- [[Empreinte environnementale]] - concept - dossiers/2026-11-15-2.md
+- [[Géants technologiques (Alphabet, Amazon, Microsoft, Meta)]] - concept - dossiers/2026-11-15-2.md
+- [[Investissements dans l’IA  jusqu’où ira l’euphorie mondiale avant le coup de frein]] - document - dossiers/2026-11-15-2.md
+- [[L’empreinte environnementale de l’IA pourrait être multipliée par 7 d’ici 2030]] - document - dossiers/2026-11-15-2.md
+- [[OPINION. « L'énergie pour les data centers de l'IA, atout stratégique ou mirage  »]] - document - dossiers/2026-11-15-2.md
+- [[Risque macroéconomique]] - concept - dossiers/2026-11-15-2.md
+- [[Un coup d'arrêt de l'IA aurait des répercussions bien au-delà des Etats-Unis]] - document - dossiers/2026-11-15-2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,20 +26,3 @@ members: 11
 TABLE source_file, type FROM #community/Cursor
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 3 edges to [[_COMMUNITY_Claude Code]]
-- 2 edges to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
-- 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_Elon Musk]]
-- 1 edge to [[_COMMUNITY_Meta]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-13]]
-- 1 edge to [[_COMMUNITY_AMD_1]]
-- 1 edge to [[_COMMUNITY_GPT-6 Astra_1]]
-
-## Top bridge nodes
-- [[Cursor]] - degree 12, connects to 6 communities
-- [[Grok]] - degree 4, connects to 1 community
-- [[Fireworks AI]] - degree 3, connects to 1 community
-- [[Veille Outils & code 2026-11-15  Sécurité des outils IA]] - degree 2, connects to 1 community
-- [[Kiro]] - degree 2, connects to 1 community

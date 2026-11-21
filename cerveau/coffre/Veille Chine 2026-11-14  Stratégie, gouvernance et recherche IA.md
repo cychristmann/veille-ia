@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-14-t1.md"
 type: "document"
-community: "Google"
+community: "Veille Outils & code 2026-11-15"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Google
+  - community/Veille_Outils__code_2026-11-15
 ---
 
 # Veille Chine 2026-11-14 : Stratégie, gouvernance et recherche IA
@@ -18,4 +18,4 @@ tags:
 - [[腾讯闭门会比喻被误读为裁员50%]] - `references` [EXTRACTED]
 - [[让人工智能技术潜力更好转化为生产率增长]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Google
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-15

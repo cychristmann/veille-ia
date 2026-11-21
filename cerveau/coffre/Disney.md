@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t5.md"
 type: "concept"
-community: "CoreWeave"
+community: "Goldman Sachs"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/CoreWeave
+  - community/Goldman_Sachs
 ---
 
 # Disney
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-09  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/CoreWeave
+#graphify/concept #graphify/EXTRACTED #community/Goldman_Sachs

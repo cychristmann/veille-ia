@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-15-t2.md"
 type: "concept"
-community: "Deletion Tuning"
+community: "Charta Health"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Deletion_Tuning
+  - community/Charta_Health
 ---
 
 # New York University
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Deletion Tuning]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Deletion_Tuning
+#graphify/concept #graphify/EXTRACTED #community/Charta_Health

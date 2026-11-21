@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-19-t2.md"
 type: "document"
-community: "Copilot"
+community: "Elon Musk"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Copilot
+  - community/Elon_Musk
 ---
 
 # Veille Outils & code 2026-11-19
@@ -15,4 +15,4 @@ tags:
 - [[Copilot]] - `references` [EXTRACTED]
 - [[Gemini 4 Neon]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Copilot
+#graphify/document #graphify/EXTRACTED #community/Elon_Musk

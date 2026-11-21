@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-19-t1.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-19 : Éthique, sécurité et impact sociétal"
+community: "Veille États-Unis 2026-11-13 : Autres articles"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-19__Éthique_sécurité_et_impact_sociétal
+  - community/Veille_États-Unis_2026-11-13__Autres_articles
 ---
 
 # Pretxt
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-19__Éthique_sécurité_et_impact_sociétal
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Autres_articles

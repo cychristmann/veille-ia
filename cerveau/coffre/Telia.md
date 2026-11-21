@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-19-3.md"
 type: "concept"
-community: "Charta Health"
+community: "Telia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Charta_Health
+  - community/Telia
 ---
 
 # Telia
 
-#graphify/concept #graphify/EXTRACTED #community/Charta_Health
+#graphify/concept #graphify/EXTRACTED #community/Telia

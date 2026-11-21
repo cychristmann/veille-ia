@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t1.md"
 type: "code"
-community: "Anthropic"
+community: "Veille États-Unis 2026-11-18"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Anthropic
+  - community/Veille_États-Unis_2026-11-18
 ---
 
 # Anthropic
@@ -25,20 +25,22 @@ tags:
 - [[Claude Sheet]] - `references` [EXTRACTED]
 - [[Claude Whiteboards]] - `references` [EXTRACTED]
 - [[Dario Amodei]] - `conceptually_related_to` [EXTRACTED]
-- [[Dario Amodei]] - `references` [EXTRACTED]
 - [[Donald Trump]] - `references` [EXTRACTED]
 - [[Fable 5.2]] - `references` [EXTRACTED]
 - [[Fable 5.2 & Mythos 5.2]] - `references` [EXTRACTED]
-- [[Feuilleton Scandale qui renverse la star de l’IA]] - `references` [EXTRACTED]
+- [[Fermat's Last Theorem]] - `references` [EXTRACTED]
+- [[Feuilleton f-0036]] - `references` [EXTRACTED]
 - [[Goldman Sachs]] - `conceptually_related_to` [INFERRED]
 - [[Jacob Coxon]] - `references` [EXTRACTED]
+- [[Levent Alpöge]] - `conceptually_related_to` [EXTRACTED]
+- [[Levent Alpöge]] - `references` [EXTRACTED]
 - [[Microsoft]] - `conceptually_related_to` [EXTRACTED]
 - [[Mubadala]] - `references` [EXTRACTED]
 - [[Mythos]] - `references` [EXTRACTED]
 - [[Mythos 5.2]] - `references` [EXTRACTED]
 - [[Nasdaq]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
-- [[OpenAI]] - `conceptually_related_to` [EXTRACTED]
+- [[OpenAI]] - `conceptually_related_to` [INFERRED]
 - [[Opus 5.5]] - `references` [EXTRACTED]
 - [[Perplexity Orchestrator API]] - `references` [EXTRACTED]
 - [[SEC]] - `references` [EXTRACTED]
@@ -54,6 +56,7 @@ tags:
 - [[Veille Chine 2026-11-17  Marché, financement et régulation]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-19  Marché, Financement & Valorisation IA]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-20  Recherche, Modèles & Technologie]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-21]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Applications concrètes et innovations IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Environnement et empreinte carbone de l'IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Régulation, politique et enjeux sociétaux]] - `references` [EXTRACTED]
@@ -73,6 +76,9 @@ tags:
 - [[Veille France 2026-11-19]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-19  Autres articles]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-20  IPO et dynamique du marché de l'IA]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-21  Applications industrielles & produits]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-21  Autres articles]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-21  Marchés & finance]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-09  Déploiements et stratégies d’entreprise]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-10  Autres articles]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-11  Régulation, Gouvernance et Éthique]] - `references` [EXTRACTED]
@@ -80,5 +86,6 @@ tags:
 - [[Veille États-Unis 2026-11-18 (T1)]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-19  Financement et mouvements de marché]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-20  Marché et finance de l'IA]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-21  Anthropic & Riemann]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Anthropic
+#graphify/code #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-18

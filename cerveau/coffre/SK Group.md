@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-15-t7.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-15 : Autres articles"
+community: "Alibaba"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-15__Autres_articles
+  - community/Alibaba
 ---
 
 # SK Group
@@ -14,4 +14,4 @@ tags:
 - [[Chey Tae-won]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-15  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-15__Autres_articles
+#graphify/concept #graphify/EXTRACTED #community/Alibaba

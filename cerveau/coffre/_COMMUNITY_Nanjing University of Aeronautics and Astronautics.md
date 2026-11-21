@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Nanjing University of Aeronautics and Astronautics]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Cyber Shield]] - concept - dossiers/2026-11-18-2.md
 
 ## Live Query (requires Dataview plugin)
 

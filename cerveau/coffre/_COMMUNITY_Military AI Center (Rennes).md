@@ -1,17 +1,16 @@
 ---
 type: community
-members: 4
+members: 3
 ---
 
 # Military AI Center (Rennes)
 
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[IBM Z Atlas]] - concept - veilles/veille-ia-fr-2026-11-19-t2.md
-- [[Sanofi]] - concept - veilles/veille-ia-fr-2026-11-19-t2.md
-- [[Soitec]] - concept - veilles/veille-ia-fr-2026-11-19-t2.md
-- [[Veille France 2026-11-19  Applications sectorielles de l'IA]] - document - veilles/veille-ia-fr-2026-11-19-t2.md
+- [[French Government]] - concept - feuilletons/f-0023.md
+- [[Military AI Center (Rennes)]] - concept - feuilletons/f-0023.md
+- [[NATO]] - concept - feuilletons/f-0023.md
 
 ## Live Query (requires Dataview plugin)
 

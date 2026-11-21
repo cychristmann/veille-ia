@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-18-t3.md"
 type: "document"
-community: "AMD"
+community: "Feuilleton: Compromission massive du Microsoft Agent Framework"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AMD
+  - community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
 ---
 
 # Veille Outils & code 2026-11-18 : Sécurité des agents et frameworks IA
@@ -16,4 +16,4 @@ tags:
 - [[Microsoft Agent Framework]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AMD
+#graphify/document #graphify/EXTRACTED #community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework

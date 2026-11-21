@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Veille Outils & code 2026-11-17 (T4)
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[AI Ethics in Education]] - concept - veilles/veille-ia-us-2026-11-15-t1.md
-- [[Han Won-seok]] - concept - veilles/veille-ia-us-2026-11-15-t1.md
-- [[Veille États-Unis 2026-11-15  Scandale de triche à l'IA]] - document - veilles/veille-ia-us-2026-11-15-t1.md
+- [[AI麦可 (AI Maike)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
+- [[Veille Chine 2026-11-16  Applications sectorielles]] - document - veilles/veille-ia-cn-2026-11-16-t3.md
+- [[豆包工作 (Doubao Work)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
+- [[豆包工作台 (Doubao Workbench)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
 
 ## Live Query (requires Dataview plugin)
 

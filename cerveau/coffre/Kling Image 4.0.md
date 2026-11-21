@@ -11,6 +11,6 @@ tags:
 # Kling Image 4.0
 
 ## Connections
-- [[Kuaishou Kling AI]] - `references` [EXTRACTED]
+- [[Kling AI]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-17

@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille États-Unis 2026-11-12 : IA en santé et sciences de la vie
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[DeepSeek V4.1 Pro]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
+- [[AI in Health and Wellness]] - concept - veilles/veille-ia-us-2026-11-20-t2.md
+- [[Veille États-Unis 2026-11-20  Applications santé et bien‑être]] - document - veilles/veille-ia-us-2026-11-20-t2.md
 
 ## Live Query (requires Dataview plugin)
 

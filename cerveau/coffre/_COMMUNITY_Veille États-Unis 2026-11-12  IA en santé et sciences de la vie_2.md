@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-12 : IA en santé et sciences de la vie
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Kindo]] - concept - veilles/veille-ia-dev-2026-11-16-t4.md
-- [[Veille Outils & code 2026-11-16  Plateformes, marchés et produits IA]] - document - veilles/veille-ia-dev-2026-11-16-t4.md
+- [[Industrie de l'IA]] - concept - feuilletons/f-0001.md
 
 ## Live Query (requires Dataview plugin)
 

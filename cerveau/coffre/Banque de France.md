@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-14-1.md"
 type: "concept"
-community: "Veille France 2026-11-09 : Applications sociétales et culturelles de l’IA"
+community: "Veille France 2026-11-15"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-09__Applications_sociétales_et_culturelles_de_lIA
+  - community/Veille_France_2026-11-15
 ---
 
 # Banque de France
@@ -14,4 +14,4 @@ tags:
 - [[ICAID]] - `conceptually_related_to` [INFERRED]
 - [[lefigaro.fr]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-09__Applications_sociétales_et_culturelles_de_lIA
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-15

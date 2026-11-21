@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0032.md"
 type: "document"
-community: "AMD"
+community: "Feuilleton: Compromission massive du Microsoft Agent Framework"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AMD
+  - community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
 ---
 
 # Feuilleton: Compromission massive du Microsoft Agent Framework
@@ -18,4 +18,4 @@ tags:
 - [[The New Stack]] - `cites` [EXTRACTED]
 - [[wiz.io]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AMD
+#graphify/document #graphify/EXTRACTED #community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework

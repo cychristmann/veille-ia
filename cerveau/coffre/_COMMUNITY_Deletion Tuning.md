@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Deletion Tuning]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
-- [[New York University]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
+- [[Veille Chine 2026-11-10  Régulation et gouvernance de l’IA]] - document - veilles/veille-ia-cn-2026-11-10-t3.md
+- [[复旦发展研究院]] - concept - veilles/veille-ia-cn-2026-11-10-t3.md
 
 ## Live Query (requires Dataview plugin)
 

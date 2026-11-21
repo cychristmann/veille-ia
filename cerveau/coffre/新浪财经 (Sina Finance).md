@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-15-t3.md"
 type: "concept"
-community: "Veille Chine 2026-11-12 : Anthropic et concurrence"
+community: "Claude"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-12__Anthropic_et_concurrence
+  - community/Claude
 ---
 
 # 新浪财经 (Sina Finance)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-15  Finances, valorisation et marché de l’IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__Anthropic_et_concurrence
+#graphify/concept #graphify/EXTRACTED #community/Claude

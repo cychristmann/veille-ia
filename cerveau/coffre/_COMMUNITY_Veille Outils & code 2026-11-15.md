@@ -1,31 +1,23 @@
 ---
 type: community
-members: 18
+members: 10
 ---
 
 # Veille Outils & code 2026-11-15
 
-**Members:** 18 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[Amazon]] - concept - veilles/veille-ia-fr-2026-11-18-t3.md
-- [[Coca-Cola Europacific Partners]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
-- [[Digital Wellness Lab]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
-- [[Employment Hero]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
-- [[Fabrex]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
-- [[Gallup]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
-- [[Mistral AI]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
-- [[NEO AI]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
-- [[Rejouis]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
-- [[Rex (AI Agent)]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
-- [[Trump Administration]] - concept - veilles/veille-ia-us-2026-11-16-t1.md
-- [[VMFS USA]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
-- [[Veille France 2026-11-10  Sécurité, risques et éthique]] - document - veilles/veille-ia-fr-2026-11-10-t5.md
-- [[Veille France 2026-11-11  Autres articles]] - document - veilles/veille-ia-fr-2026-11-11-t5.md
-- [[Veille France 2026-11-18 (T4)]] - document - veilles/veille-ia-fr-2026-11-18-t4.md
-- [[Veille France 2026-11-18  Sécurité et cyber‑menaces IA]] - document - veilles/veille-ia-fr-2026-11-18-t3.md
-- [[Veille États-Unis 2026-11-16 (Gouvernance)]] - document - veilles/veille-ia-us-2026-11-16-t1.md
-- [[Veille États-Unis 2026-11-18  IA appliquée aux secteurs spécifiques]] - document - veilles/veille-ia-us-2026-11-18-t4.md
+- [[APEC]] - concept - veilles/veille-ia-cn-2026-11-17-t5.md
+- [[Barclays Research]] - concept - dossiers/2026-11-13-2.md
+- [[Chinese Robotics Industry]] - concept - dossiers/2026-11-13-2.md
+- [[Fitch Ratings (惠誉)]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
+- [[Korean Financial Supervisory Service (韩国金融监督院)]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
+- [[Li Dongsheng]] - code - veilles/veille-ia-cn-2026-11-17-t5.md
+- [[Morgan Stanley]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
+- [[Sinch]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
+- [[TCL]] - code - veilles/veille-ia-cn-2026-11-17-t5.md
+- [[Veille Chine 2026-11-19  Régulation & Gouvernance IA]] - document - veilles/veille-ia-cn-2026-11-19-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -35,18 +27,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Nvidia_1]]
-- 2 edges to [[_COMMUNITY_Meta]]
-- 1 edge to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Anthropic_1]]
-- 1 edge to [[_COMMUNITY_Dossier Course à l'IA entre États‑Unis et Chine]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-09  Applications sociétales et culturelles de l’IA]]
-- 1 edge to [[_COMMUNITY_Apple]]
+- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets_1]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs_1]]
 
 ## Top bridge nodes
-- [[Trump Administration]] - degree 6, connects to 4 communities
-- [[Mistral AI]] - degree 6, connects to 2 communities
-- [[Veille France 2026-11-10  Sécurité, risques et éthique]] - degree 3, connects to 2 communities
-- [[Veille France 2026-11-18  Sécurité et cyber‑menaces IA]] - degree 3, connects to 1 community
-- [[Veille France 2026-11-11  Autres articles]] - degree 2, connects to 1 community
+- [[Veille Chine 2026-11-19  Régulation & Gouvernance IA]] - degree 6, connects to 1 community
+- [[Morgan Stanley]] - degree 3, connects to 1 community

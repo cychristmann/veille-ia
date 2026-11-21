@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Veille France 2026-11-20 : Régulation, souveraineté et enjeux géopolitiques
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Schneider Electric]] - concept - veilles/veille-ia-fr-2026-11-20-t3.md
-- [[Veille France 2026-11-20  Régulation, souveraineté et enjeux géopolitiques]] - document - veilles/veille-ia-fr-2026-11-20-t3.md
+- [[Infrastructure IA (Cloud, Supercalculateurs, Centres de données)]] - concept - veilles/veille-ia-fr-2026-11-20-t5.md
+- [[Surveillance et interprétabilité des modèles d'IA]] - concept - veilles/veille-ia-fr-2026-11-20-t5.md
+- [[Veille France 2026-11-20  Infrastructure, technologie et performance]] - document - veilles/veille-ia-fr-2026-11-20-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -17,10 +18,3 @@ members: 2
 TABLE source_file, type FROM #community/Veille_France_2026-11-20__Régulation_souveraineté_et_enjeux_géopolitiques
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Dossier Course à l'IA entre États‑Unis et Chine]]
-- 1 edge to [[_COMMUNITY_Jensen Huang]]
-
-## Top bridge nodes
-- [[Veille France 2026-11-20  Régulation, souveraineté et enjeux géopolitiques]] - degree 3, connects to 2 communities

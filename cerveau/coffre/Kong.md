@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-19-t1.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-17 : Régulation et litiges"
+community: "Veille États-Unis 2026-11-13 : Enjeux du marché et turbulences"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-17__Régulation_et_litiges
+  - community/Veille_États-Unis_2026-11-13__Enjeux_du_marché_et_turbulences
 ---
 
 # Kong
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-17__Régulation_et_litiges
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Enjeux_du_marché_et_turbulences

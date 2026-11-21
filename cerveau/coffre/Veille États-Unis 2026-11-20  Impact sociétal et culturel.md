@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-20-t5.md"
 type: "document"
-community: "Veille Chine 2026-11-12 : IA dans le commerce et le divertissement"
+community: "Veille IA Dev 2026-11-20 T3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-12__IA_dans_le_commerce_et_le_divertissement
+  - community/Veille_IA_Dev_2026-11-20_T3
 ---
 
 # Veille États-Unis 2026-11-20 : Impact sociétal et culturel
@@ -19,4 +19,4 @@ tags:
 - [[Why I’m Not Losing Sleep Over the AI Apocalypse]] - `references` [EXTRACTED]
 - [[You tell AI everything. But who else is listening]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__IA_dans_le_commerce_et_le_divertissement
+#graphify/document #graphify/EXTRACTED #community/Veille_IA_Dev_2026-11-20_T3

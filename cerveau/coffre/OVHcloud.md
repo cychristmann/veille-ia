@@ -18,5 +18,6 @@ tags:
 - [[Shadow]] - `shares_data_with` [INFERRED]
 - [[Veille France 2026-11-19  Régulation, souveraineté et enjeux sociétaux]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-20]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-21  Applications industrielles & produits]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-17

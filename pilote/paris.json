@@ -336,7 +336,7 @@
    "id": "2026-11-16-3",
    "date": "2026-11-16",
    "echeance": "2026-11-21",
-   "statut": "en_cours",
+   "statut": "annule",
    "entite": "GitHub Copilot",
    "sections": [
     "dev"
@@ -348,13 +348,15 @@
    "enonce": "GitHub Copilot : au moins 12 articles (Outils & code) sur les 5 prochains jours",
    "raisonnement": "Les dernières valeurs (5,3,1) montrent une remontée progressive, et la saison des conférences développeurs augmente la visibilité.",
    "phrase_ia": "GitHub Copilot sera mentionné dans au moins 12 articles d'outils & code au cours des 5 prochains jours.",
-   "rejoue": true
+   "rejoue": true,
+   "resolu_le": "2026-11-21",
+   "observe": null
   },
   {
    "id": "2026-11-17-1",
    "date": "2026-11-17",
    "echeance": "2026-11-21",
-   "statut": "en_cours",
+   "statut": "perdu",
    "entite": "Nvidia",
    "sections": [
     "fr",
@@ -367,7 +369,9 @@
    "enonce": "Nvidia : au moins 40 articles (France et États-Unis) sur les 4 prochains jours",
    "raisonnement": "Après une forte couverture récente, les annonces de nouveaux GPU et partenariats devraient relancer la presse.",
    "phrase_ia": "Nvidia sera cité au moins 40 fois dans les sections France et États‑Unis sur les 4 prochains jours.",
-   "rejoue": false
+   "rejoue": false,
+   "observe": 17,
+   "resolu_le": "2026-11-21"
   },
   {
    "id": "2026-11-17-2",
@@ -393,7 +397,7 @@
    "id": "2026-11-18-1",
    "date": "2026-11-18",
    "echeance": "2026-11-21",
-   "statut": "en_cours",
+   "statut": "perdu",
    "entite": "Agents IA",
    "sections": [
     "cn"
@@ -405,7 +409,9 @@
    "enonce": "Agents IA : au moins 12 articles (Chine) sur les 3 prochains jours",
    "raisonnement": "Le gouvernement chinois intensifie les projets d’agents autonomes, ce qui devrait augmenter la couverture médiatique.",
    "phrase_ia": "Les Agents IA seront mentionnés dans au moins 12 articles (Chine) au cours des trois prochains jours.",
-   "rejoue": false
+   "rejoue": false,
+   "observe": 3,
+   "resolu_le": "2026-11-21"
   },
   {
    "id": "2026-11-18-2",
@@ -500,6 +506,65 @@
    "phrase_ia": "AI Agents sera mentionné dans au moins 14 articles (Chine) sur les trois prochains jours.",
    "rejoue": false,
    "probabilite_ia": 0.58
+  },
+  {
+   "id": "2026-11-21-1",
+   "date": "2026-11-21",
+   "echeance": "2026-11-25",
+   "statut": "en_cours",
+   "entite": "Gemini",
+   "sections": [
+    "dev"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 20,
+   "horizon": 4,
+   "probabilite": 0.54,
+   "enonce": "Gemini : au moins 20 articles (Outils & code) sur les 4 prochains jours",
+   "raisonnement": "Après une forte hausse récente (14 articles hier) la tendance semble soutenue, mais la moyenne reste autour de 6‑7, rendant 20 plausible.",
+   "phrase_ia": "Gemini sera mentionné dans au moins 20 articles Outils & code sur les 4 prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.62
+  },
+  {
+   "id": "2026-11-21-2",
+   "date": "2026-11-21",
+   "echeance": "2026-11-26",
+   "statut": "en_cours",
+   "entite": "Amazon",
+   "sections": [
+    "us",
+    "dev"
+   ],
+   "comparaison": "au_plus",
+   "seuil": 6,
+   "horizon": 5,
+   "probabilite": 0.56,
+   "enonce": "Amazon : au plus 6 articles (États-Unis et Outils & code) sur les 5 prochains jours",
+   "raisonnement": "Les totaux US et dev sont historiquement faibles (5‑7) et la récente dynamique est stable, donc dépasser 6 reste improbable.",
+   "phrase_ia": "Amazon sera cité dans au plus 6 articles États‑Unis et Outils & code sur les 5 prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.71
+  },
+  {
+   "id": "2026-11-21-3",
+   "date": "2026-11-21",
+   "echeance": "2026-11-24",
+   "statut": "en_cours",
+   "entite": "Jensen Huang",
+   "sections": [
+    "fr",
+    "us"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 5,
+   "horizon": 3,
+   "probabilite": 0.53,
+   "enonce": "Jensen Huang : au moins 5 articles (France et États-Unis) sur les 3 prochains jours",
+   "raisonnement": "Après une hausse ponctuelle (7 articles il y a 6 jours) les mentions restent autour de 2‑3, mais un petit pic de 5 est plausible.",
+   "phrase_ia": "Jensen Huang sera mentionné dans au moins 5 articles France et États‑Unis sur les 3 prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.59
   }
  ]
 }

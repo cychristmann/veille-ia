@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-18-2.md"
 type: "concept"
-community: "AI Cyberattack"
+community: "Meta"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AI_Cyberattack
+  - community/Meta
 ---
 
 # AI Cyberattack
@@ -19,4 +19,4 @@ tags:
 - [[NCSC]] - `conceptually_related_to` [EXTRACTED]
 - [[OpenAI]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AI_Cyberattack
+#graphify/concept #graphify/EXTRACTED #community/Meta

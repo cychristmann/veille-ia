@@ -8,11 +8,11 @@ members: 5
 **Members:** 5 nodes
 
 ## Members
-- [[Crimson Desert]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
-- [[Pascal Haté]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
-- [[Pearl Abyss]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
-- [[SMARTANCE]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
-- [[Veille France 2026-11-15  Réflexion et éthique]] - document - veilles/veille-ia-fr-2026-11-15-t5.md
+- [[Andrew Garbarino]] - concept - dossiers/2026-11-21-2.md
+- [[Dossier Vers une interdiction des modèles d’IA chinois dans les systèmes fédéraux américains]] - document - dossiers/2026-11-21-2.md
+- [[John Moolenaar]] - concept - dossiers/2026-11-21-2.md
+- [[aa.com.tr]] - document - dossiers/2026-11-21-2.md
+- [[coinacademy.fr]] - document - dossiers/2026-11-21-2.md
 
 ## Live Query (requires Dataview plugin)
 

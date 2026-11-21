@@ -1,16 +1,17 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-15-t1.md"
+source_file: "veilles/veille-ia-fr-2026-11-21-t3.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-17 (T4)"
+community: "Claude"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-17_T4
+  - community/Claude
 ---
 
 # Han Won-seok
 
 ## Connections
+- [[Claude]] - `references` [INFERRED]
 - [[Veille États-Unis 2026-11-15  Scandale de triche à l'IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-17_T4
+#graphify/concept #graphify/EXTRACTED #community/Claude

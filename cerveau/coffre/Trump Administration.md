@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-16-t1.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-15"
+community: "Veille États-Unis 2026-11-18"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-15
+  - community/Veille_États-Unis_2026-11-18
 ---
 
 # Trump Administration
@@ -18,4 +18,4 @@ tags:
 - [[OpenAI]] - `conceptually_related_to` [EXTRACTED]
 - [[Veille États-Unis 2026-11-16 (Gouvernance)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-15
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-18

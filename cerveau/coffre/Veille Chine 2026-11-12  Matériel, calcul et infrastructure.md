@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t6.md"
 type: "document"
-community: "Veille Chine 2026-11-13"
+community: "Robin Li"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-13
+  - community/Robin_Li
 ---
 
 # Veille Chine 2026-11-12 : Matériel, calcul et infrastructure
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Robin Li]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-13
+#graphify/document #graphify/EXTRACTED #community/Robin_Li

@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-18-2.md"
 type: "concept"
-community: "Trust3 AI"
+community: "Nanjing University of Aeronautics and Astronautics"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Trust3_AI
+  - community/Nanjing_University_of_Aeronautics_and_Astronautics
 ---
 
 # Cyber Shield
 
-#graphify/concept #graphify/EXTRACTED #community/Trust3_AI
+#graphify/concept #graphify/EXTRACTED #community/Nanjing_University_of_Aeronautics_and_Astronautics

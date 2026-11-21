@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t2.md"
 type: "concept"
-community: "AI Automation"
+community: "AI Agents"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AI_Automation
+  - community/AI_Agents
 ---
 
 # AI Agents
@@ -14,4 +14,4 @@ tags:
 - [[Veille États-Unis 2026-11-12  Applications industrielles et commerciales de l'IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-12  Régulation, politiques et protestations liées à l'IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AI_Automation
+#graphify/concept #graphify/EXTRACTED #community/AI_Agents

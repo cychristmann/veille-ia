@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[MoEngage Merlin AI]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
-- [[Model Context Protocol (MCP)]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
-- [[Shoply AI]] - concept - veilles/veille-ia-dev-2026-11-20-t5.md
-- [[Veille IA Dev 2026-11-20 T5]] - document - veilles/veille-ia-dev-2026-11-20-t5.md
+- [[IA dans le commerce et la consommation]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
+- [[IA dans le recrutement]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
+- [[Souveraineté numérique et IA]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
+- [[Veille France 2026-11-16  Applications sectorielles et industrielles]] - document - veilles/veille-ia-fr-2026-11-16-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,11 +19,3 @@ members: 4
 TABLE source_file, type FROM #community/Veille_États-Unis_2026-11-16__Sécurité_éthique_et_marché_financier
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Copilot]]
-- 1 edge to [[_COMMUNITY_Claude]]
-
-## Top bridge nodes
-- [[Model Context Protocol (MCP)]] - degree 3, connects to 1 community
-- [[Veille IA Dev 2026-11-20 T5]] - degree 3, connects to 1 community

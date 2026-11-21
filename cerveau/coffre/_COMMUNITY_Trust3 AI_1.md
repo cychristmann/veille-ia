@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[datasette-cluster-map]] - concept - veilles/veille-ia-dev-2026-11-15-t4.md
-- [[datasette-leaflet]] - concept - veilles/veille-ia-dev-2026-11-15-t4.md
+- [[AWS Budgets]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
+- [[IAM]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
 
 ## Live Query (requires Dataview plugin)
 

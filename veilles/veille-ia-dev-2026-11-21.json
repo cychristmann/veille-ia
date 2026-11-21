@@ -1,0 +1,1799 @@
+{
+  "region": "dev",
+  "genere_a": "2026-11-21T08:06:39.487506+01:00",
+  "heures": 48,
+  "nombre_demande": 50,
+  "nombre_articles": 50,
+  "synthese": "Cette veille montre une dynamique forte autour des agents IA et des frameworks qui les supportent, avec plusieurs nouvelles releases et extensions open‑source. Le secteur du codage assisté par IA continue d’évoluer grâce à de nouveaux modèles, des alternatives à Claude et des outils spécialisés comme Mastra ou TestSprite. Les grands fournisseurs cloud enrichissent leurs plateformes (AWS, Google, SageMaker) pour faciliter le déploiement et l’orchestration d’agents, tandis que les questions de sécurité restent centrales, illustrées par des rapports d’exploitation et de nouvelles protections contre la collecte de données par les agents.",
+  "verification": {
+    "problemes": [],
+    "synthese_originale": "Cette veille montre une dynamique forte autour des agents IA et des frameworks qui les supportent, avec plusieurs nouvelles releases et extensions open‑source. Le secteur du codage assisté par IA continue d’évoluer grâce à de nouveaux modèles, des alternatives à Claude et des outils spécialisés comme Mastra ou TestSprite. Les grands fournisseurs cloud enrichissent leurs plateformes (AWS, Google, SageMaker) pour faciliter le déploiement et l’orchestration d’agents, tandis que les questions de sécurité restent centrales, illustrées par des rapports d’exploitation et de nouvelles protections contre la collecte de données par les agents."
+  },
+  "sources_en_echec": [
+    "Design News"
+  ],
+  "flux_lus": {
+    "GitHub Changelog": [
+      10,
+      0
+    ],
+    "GitHub Blog": [
+      10,
+      0
+    ],
+    "Simon Willison": [
+      30,
+      4
+    ],
+    "Hugging Face": [
+      915,
+      2
+    ],
+    "Latent Space": [
+      20,
+      5
+    ],
+    "The New Stack": [
+      26,
+      12
+    ],
+    "InfoQ": [
+      15,
+      6
+    ],
+    "InfoWorld": [
+      20,
+      4
+    ],
+    "Hacker News": [
+      20,
+      4
+    ],
+    "dev.to": [
+      12,
+      12
+    ],
+    "OpenAI": [
+      1421,
+      4
+    ],
+    "MarkTechPost": [
+      10,
+      7
+    ],
+    "The Decoder": [
+      10,
+      10
+    ],
+    "Product Hunt": [
+      50,
+      9
+    ],
+    "Vercel": [
+      100,
+      0
+    ],
+    "JetBrains AI": [
+      12,
+      0
+    ],
+    "Cursor": [
+      50,
+      0
+    ],
+    "Ollama": [
+      64,
+      0
+    ],
+    "AWS Machine Learning": [
+      20,
+      20
+    ],
+    "Towards Data Science": [
+      20,
+      4
+    ],
+    "Korben": [
+      22,
+      3
+    ],
+    "Blog du Modérateur": [
+      30,
+      2
+    ],
+    "HackerNoon": [
+      20,
+      13
+    ],
+    "Crypto Briefing": [
+      30,
+      13
+    ],
+    "DevOps.com": [
+      50,
+      5
+    ],
+    "IT Brief Australia": [
+      10,
+      4
+    ],
+    "news.lavx.hu": [
+      50,
+      16
+    ],
+    "TOKENPOST": [
+      50,
+      6
+    ],
+    "CASRAI": [
+      50,
+      9
+    ],
+    "01net": [
+      30,
+      4
+    ],
+    "NeoTeo": [
+      50,
+      17
+    ],
+    "Google Actualités": [
+      36,
+      36
+    ]
+  },
+  "titre_section": "outils & code",
+  "themes": [
+    {
+      "nom": "Agents IA et frameworks",
+      "resume": "Une série d’annonces autour d’agents IA autonomes et de cadres de développement, depuis les agents de paiement jusqu’aux frameworks open‑source et aux outils d’observabilité.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Mise à jour AWS agents collaboratifs, impact sur workflows",
+          "couverture": 1,
+          "titre": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+          "source": "AWS Machine Learning",
+          "lien": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+          "date": "2026-11-21T01:06:42+00:00",
+          "resume": "AWS Quick is the AI workspace built only for work. Today we're releasing updates that help your team get more done: build and run business-process flows in chat, triage your day in the updated web app, get more complete answers from multiple agents at once, and connect new data sources like Meta ads",
+          "titre_fr": "Nouveautés d’AWS Quick : flux plus performants, interface web mise à jour et agents collaboratifs"
+        },
+        {
+          "note": 7,
+          "motif": "Framework Mastra TypeScript, orchestration agents",
+          "couverture": 1,
+          "titre": "Mastra – TypeScript AI Agent Framework, Workflow Orchestration & Observability",
+          "source": "Quasa.io",
+          "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTGZscFM2ekhsU1JqSnoyalV3dWVkc011TFRVZEo4dlhOWFJkNlJsU2x0OHBTUk5HM1h4TU5ycjNhcTBOdzhZNzJOUW9yRkdaNTN4SnVwRlVwTlVFcmZ5cWRkUU40ckNwYkl2RlhJWnZkb1pyY0dFcm5IM0FIbENNTjd5SE5Od1RhOWJpX3A5MHc5b2pyY1diaS1rU2I?oc=5",
+          "date": "2026-11-20T15:58:32+00:00",
+          "resume": "",
+          "titre_fr": "Mastra – Framework d’agents IA TypeScript, orchestration de workflows et observabilité"
+        },
+        {
+          "note": 7,
+          "motif": "Preuves mathématiques GPU, impact recherche IA",
+          "couverture": 1,
+          "titre": "CertiK and Columbia University Bring Math Proofs to the GPU Code Behind Every Large AI Model",
+          "source": "HackerNoon",
+          "lien": "https://hackernoon.com/certik-and-columbia-university-bring-math-proofs-to-the-gpu-code-behind-every-large-ai-model?source=rss",
+          "date": "2026-11-20T14:53:35+00:00",
+          "resume": "CertiK and Columbia's TensorLean uses machine-checked proofs to verify 100+ production AI kernels from DeepSeek and FlashAttention, finding 25 bugs.",
+          "titre_fr": "CertiK et l’Université Columbia apportent les preuves mathématiques sur GPU au code de chaque grand modèle IA"
+        },
+        {
+          "note": 7,
+          "motif": "Don donation agent substrate, renforce sécurité AI",
+          "couverture": 1,
+          "titre": "Google Donates Agent Substrate and gVisor to the CNCF to Secure AI Agents at Scale",
+          "source": "InfoQ",
+          "lien": "https://www.infoq.com/news/2026/11/google-substrate-gvisor-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+          "date": "2026-11-20T12:00:00+00:00",
+          "resume": "Google has announced it is donating Agent Substrate and gVisor to the Cloud Native Computing Foundation (CNCF), placing two important components of its AI agent infrastructure under vendor-neutral open-source governance. By Craig Risi",
+          "titre_fr": "Google fait don d’Agent Substrate et de gVisor à la CNCF pour sécuriser les agents IA à grande échelle"
+        },
+        {
+          "note": 7,
+          "motif": "Émulateur local AWS gratuit, créé par agents",
+          "couverture": 1,
+          "titre": "AWS Releases a Free Local Emulator of AWS Built Entirely by Agents",
+          "source": "InfoQ",
+          "lien": "https://www.infoq.com/news/2026/11/aws-emulator-local-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+          "date": "2026-11-20T06:53:00+00:00",
+          "resume": "AWS has released AWS Emulator, a free, CC0-licensed local stand-in for more than 200 of its services, generated from its public API models and aimed at the test loops of coding agents. AWS says agents wrote and maintain all of the code and publishes per-release fidelity scores. The docs say it does ",
+          "titre_fr": "AWS propose un émulateur local gratuit d’AWS entièrement créé par des agents"
+        },
+        {
+          "note": 6,
+          "motif": "Framework Microsoft publié, adoption rapide attendue",
+          "couverture": 1,
+          "titre": "Microsoft’s Agent Framework Hit on PyPI: 2 Releases, 33 Min",
+          "source": "shattered.io",
+          "lien": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMUtCUWxvUW9lV3gwQjRmQUR0ZUlVWVRLVmZNaFRKekNicGgxdDh3X1dBWTlwejJudFFEWjFGSGRnNndOSmZVUnF1Z29XeHN5VW9iZDY2TG8tUUEzcU5Kc0t3VE1wOC1LOFRzendXbTBFVV9aZEY5eUVhQXpqNEFCeFdaZ1NHMGYtYjgwYVBjQTE?oc=5",
+          "date": "2026-11-21T04:28:35+00:00",
+          "resume": "",
+          "titre_fr": "Le framework d’agents de Microsoft arrive sur PyPI : 2 versions en 33 minutes"
+        },
+        {
+          "note": 6,
+          "motif": "Cache KV distribué, réduit coût et latence LLM auto‑hostés",
+          "couverture": 1,
+          "titre": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+          "source": "AWS Machine Learning",
+          "lien": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
+          "date": "2026-11-21T00:14:26+00:00",
+          "resume": "Self-hosting LLMs on GPUs means paying to recompute the same context on every turn. Distributed KV caching with Amazon ElastiCache can cut inference cost by up to 40% and time to first token by up to 80%. This post walks through the distributed KV caching skill in the Agent Toolkit for AWS, which ev",
+          "titre_fr": "Réduisez le coût et la latence des LLM auto‑hébergés grâce à la compétence d’agent de cache KV distribué"
+        },
+        {
+          "note": 6,
+          "motif": "Sandbox Eclipse pour agents de code, sécurité",
+          "couverture": 1,
+          "titre": "AI coding agents need a safe place to work; Eclipse is building the sandbox to give it to them",
+          "source": "InfoWorld",
+          "lien": "https://www.infoworld.com/article/4251051/ai-coding-agents-need-a-safe-place-to-work-eclipse-is-building-the-sandbox-to-give-it-to-them.html",
+          "date": "2026-11-20T00:19:13+00:00",
+          "resume": "AI coding tools are moving beyond copilots that make suggestions to independent, autonomous agents that execute terminal commands, write and modify software, run tests, and install dependencies. This means they need the freedom to move around on their own, but that is inherently dangerous; agents wi",
+          "titre_fr": "Les agents de codage IA ont besoin d’un environnement sûr ; Eclipse construit le bac à sable qui leur est destiné"
+        },
+        {
+          "note": 6,
+          "motif": "Architecture 3‑tiers pour supervision agents à grande échelle",
+          "couverture": 1,
+          "titre": "How to Oversee AI Agents at Scale With a Three-Tier Architecture",
+          "source": "Towards Data Science",
+          "lien": "https://towardsdatascience.com/how-to-oversee-ai-agents-at-scale-with-a-three-tier-architecture/",
+          "date": "2026-11-19T13:30:00+00:00",
+          "resume": "Separate runtime oversight from human review: an autonomous supervisor handles reversible fixes, while humans approve high-impact changes. The post How to Oversee AI Agents at Scale With a Three-Tier Architecture appeared first on Towards Data Science .",
+          "titre_fr": "Comment superviser les agents IA à grande échelle avec une architecture à trois niveaux"
+        },
+        {
+          "note": 5,
+          "motif": "Nouvel outil de paiement IA, intéressant mais impact limité",
+          "couverture": 1,
+          "titre": "AI Agent Payments: What Agentic Commerce Means for Merchants",
+          "source": "dev.to",
+          "lien": "https://dev.to/mecanik-dev/ai-agent-payments-what-agentic-commerce-means-for-merchants-37j3",
+          "date": "2026-11-21T07:00:00+00:00",
+          "resume": "AI agent payments have produced four competing specifications, two industry foundations and an enormous amount of coverage in about a year. What they have not yet produced, for the overwhelming majority of merchants, is revenue. The gap between the noise and the numbers is the useful part to underst",
+          "titre_fr": "Paiements par agents IA : ce que le commerce agentique implique pour les commerçants"
+        },
+        {
+          "note": 5,
+          "motif": "Agent codant pour DOS, curiosité historique",
+          "couverture": 1,
+          "titre": "ClawDOS – An AI coding agent for DOS",
+          "source": "Hacker News",
+          "lien": "http://ricapar.net/ClawDOS/",
+          "date": "2026-11-21T05:38:01+00:00",
+          "resume": "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 12 # Comments: 2",
+          "titre_fr": "ClawDOS – Un agent de codage IA pour DOS"
+        },
+        {
+          "note": 5,
+          "motif": "Alternative open‑source à Devin, intéressant pour devs",
+          "couverture": 1,
+          "titre": "Show HN: OpenComputer – an open source alternative to Devin",
+          "source": "Hacker News",
+          "lien": "https://github.com/diggerhq/opencomputer",
+          "date": "2026-11-20T20:19:56+00:00",
+          "resume": "Hi HN! Utpal here, I'm one of the founders of OpenComputer. OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure). We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]). First commit lands in 24s;",
+          "titre_fr": "Show HN : OpenComputer – une alternative open source à Devin"
+        },
+        {
+          "note": 5,
+          "motif": "Agent de test indépendant, usage niche",
+          "couverture": 1,
+          "titre": "TestSprite 4.0 Launches an Independent Testing Agent to Verify What Teams and Their Coding Agents Ship",
+          "source": "Digital Journal",
+          "lien": "https://finance.yahoo.com/technology/ai/articles/testsprite-4-0-launches-independent-130000049.html",
+          "date": "2026-11-20T14:49:16+00:00",
+          "resume": "The New Agent Checks Every Change Against What the App Should Do, and Scores 94% on TestSprite's Internal Bug-Finding Benchmark, Against 86% for Claude Code and CodexSEATTLE, WA / ACCESS Newswire / / ...",
+          "titre_fr": "TestSprite 4.0 lance un agent de test indépendant pour vérifier les livrables des équipes et leurs agents de codage"
+        },
+        {
+          "note": 5,
+          "motif": "IA piratage open source, risque sécurité",
+          "couverture": 1,
+          "titre": "ARTEX, l'IA de piratage open source qui a figé la Commission européenne",
+          "source": "Korben",
+          "lien": "https://korben.info/artex-lia-de-piratage-open-source-qui-a-fige-la-commission-europeenne.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+          "date": "2026-11-20T15:50:58+01:00",
+          "resume": "La Commission européenne a reconnu le 19 novembre une campagne de piratage débutée le 22 octobre, qui a paralysé Sysper et MyPMO pendant plus de dix jours. Le CERT-EU pointe ARTEX, un outil open source chinois d'agents IA détourné, déjà lié à des attaques contre ConnectWise et des firmes sud-coréenn",
+          "titre_fr": "ARTEX, l’IA de piratage open source qui a paralysé la Commission européenne"
+        },
+        {
+          "note": 4,
+          "motif": "Raccourcis IA Search, fonctionnalité mineure",
+          "couverture": 1,
+          "titre": "Google Adds AI Tool Shortcuts and Conversation Sidebar to Search",
+          "source": "TOKENPOST",
+          "lien": "https://www.tokenpost.com/news/technology/62355",
+          "date": "2026-11-20T22:04:15+00:00",
+          "resume": "The desktop redesign keeps “I’m Feeling Lucky” but removes the Google Search button. Signed-in users can access recent AI Mode conversations from the homepage and results page.",
+          "titre_fr": "Google ajoute des raccourcis d’outils IA et une barre latérale de conversation à la recherche"
+        },
+        {
+          "note": 4,
+          "motif": "Intégration navigateur, peu d'impact",
+          "couverture": 1,
+          "titre": "Perplexity Brings Computer AI Tasks to Four Major Browsers",
+          "source": "TOKENPOST",
+          "lien": "https://www.tokenpost.com/news/technology/62349",
+          "date": "2026-11-20T22:00:05+00:00",
+          "resume": "The extension supports Chrome, Edge, Brave and Arc, where users can start workflows across tabs and logged-in sites.",
+          "titre_fr": "Perplexity apporte les tâches d’IA informatique aux quatre navigateurs majeurs"
+        },
+        {
+          "note": 3,
+          "motif": "Produit Product Hunt, peu d'information technique",
+          "couverture": 1,
+          "titre": "Tamekoshi",
+          "source": "Product Hunt",
+          "lien": "https://www.producthunt.com/products/tamekoshi",
+          "date": "2026-11-19T03:38:06-08:00",
+          "resume": "A Tamagotchi-style AI companion that does real work Discussion | Link",
+          "titre_fr": "Tamekoshi"
+        }
+      ]
+    },
+    {
+      "nom": "Modèles et outils de codage IA",
+      "resume": "Nouveaux modèles de génération de code, alternatives à Claude et à GPT, ainsi que des extensions et plateformes dédiées au codage assisté par l’IA.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Gemini exécute apps Mac, avancée d’assistance",
+          "couverture": 1,
+          "titre": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
+          "source": "The Decoder",
+          "lien": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
+          "date": "2026-11-20T18:50:31+00:00",
+          "resume": "Google is bringing \"Computer Use\" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live preview while users keep working. The article Google's Gemini can now run Mac apps and finish desktop chores in the background while you ke",
+          "titre_fr": "Gemini de Google peut désormais exécuter des applications Mac et accomplir des tâches de bureau en arrière‑plan pendant que vous travaillez"
+        },
+        {
+          "note": 7,
+          "motif": "Modèle DaisyRose‑27B agentic, entraînement RL uniquement",
+          "couverture": 1,
+          "titre": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only",
+          "source": "MarkTechPost",
+          "lien": "https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/",
+          "date": "2026-11-20T17:42:29+00:00",
+          "resume": "RadixArk released DaisyRose-27B, an Apache 2.0 agentic coding model post-trained from Qwen3.8-27B with reinforcement learning only. It more than doubles Terminal Bench 4.1 pass@1 to 12.0 and runs on a single GPU. The post RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforc",
+          "titre_fr": "RadixArk déploie DaisyRose-27B, modèle de codage agentique 27 B entraîné uniquement par apprentissage par renforcement"
+        },
+        {
+          "note": 6,
+          "motif": "Comparatif d'alternatives, utile pour choisir un agent",
+          "couverture": 1,
+          "titre": "Character.ai alternatives in 2026: 16 tools, 14 free, and the $10 line that decides it",
+          "source": "dev.to",
+          "lien": "https://dev.to/saasradarai/characterai-alternatives-in-2026-16-tools-14-free-and-the-10-line-that-decides-it-5o5",
+          "date": "2026-11-21T06:49:24+00:00",
+          "resume": "You paid ten dollars to keep talking to one character, and then every \"alternatives\" list you opened answered a different question. They lined up ChatGPT, Claude and Gemini at twenty dollars a month, put a five-star badge next to each one, and never mentioned that the thing you actually liked — a pe",
+          "titre_fr": "Alternatives à Character.ai en 2026 : 16 outils, 14 gratuits, et la ligne à 10 $ qui fait la différence"
+        },
+        {
+          "note": 6,
+          "motif": "Gemini 4 Neon, coûts codage réduits",
+          "couverture": 1,
+          "titre": "Google Gemini 4 Neon Launches With Lower AI Coding Costs",
+          "source": "eWeek",
+          "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxcjRIUkZpZTVVWDF2M2dfbzNnOE94TzhVN3JQemxLUW8zbm9IVjc2WTNwbzdwSGlJZDRCeTR4a0tsMXBBb0xjdWNXWHN2OGg3VWU2QlBQNFRTQW02bzVBaVdQQ1FJc3hxT2JBVjhrcUhkdw?oc=5",
+          "date": "2026-11-20T18:29:18+00:00",
+          "resume": "",
+          "titre_fr": "Lancement de Gemini 4 Neon avec des coûts de codage IA réduits"
+        },
+        {
+          "note": 6,
+          "motif": "Compilateur GPU Meta TLX, améliore performance hardware",
+          "couverture": 1,
+          "titre": "Meta TLX, a Native GPU Compiler Extension Supporting Advanced Hardware Capabilities",
+          "source": "InfoQ",
+          "lien": "https://www.infoq.com/news/2026/11/meta-triton-tlx-gpu-compiler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+          "date": "2026-11-20T18:00:00+00:00",
+          "resume": "Meta developed Triton Low-Level Extensions (TLX), designed to bridge the gap between high-level GPU programming abstractions and the low-level execution control required to fully exploit modern GPU architectures. By Sergio De Simone",
+          "titre_fr": "Meta TLX, extension de compilateur GPU native supportant les capacités matérielles avancées"
+        },
+        {
+          "note": 6,
+          "motif": "WiCi Infer streaming 800B sur laptop, prouesse technique",
+          "couverture": 1,
+          "titre": "WiCi Infer Runs 800B-Parameter AI Models on a Laptop by Streaming Them From the SSD",
+          "source": "HackerNoon",
+          "lien": "https://hackernoon.com/wici-infer-runs-800b-parameter-ai-models-on-a-laptop-by-streaming-them-from-the-ssd?source=rss",
+          "date": "2026-11-20T16:00:52+00:00",
+          "resume": "WiCi Infer is a free desktop app that runs 800B-parameter AI models on Macs and PCs by streaming weights from the SSD. Here is how it works and how fast it is.",
+          "titre_fr": "WiCi Infer exécute des modèles IA de 800 M de paramètres sur un ordinateur portable en les diffusant depuis le SSD"
+        },
+        {
+          "note": 6,
+          "motif": "Nemotron‑Labs‑Sigma diffusion LM, nouveautés modèles",
+          "couverture": 1,
+          "titre": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
+          "source": "MarkTechPost",
+          "lien": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
+          "date": "2026-11-20T14:44:52+00:00",
+          "resume": "NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding. The post NVIDIA AI Releases Nemotron-Labs-Sigma, ",
+          "titre_fr": "NVIDIA AI publie Nemotron‑Labs‑Sigma, modèle de diffusion continue avec 14 checkpoints à 3 B/8 B"
+        },
+        {
+          "note": 6,
+          "motif": "Harness adapters, optimisation coût/modèle",
+          "couverture": 1,
+          "titre": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "source": "Hugging Face",
+          "lien": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "date": "2026-11-20T00:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Présentation des adaptateurs harness : adaptez votre modèle préféré à votre harness pour améliorer performance et coût"
+        },
+        {
+          "note": 6,
+          "motif": "Mémoire auto‑améliorante FAIR, avancée continue learning",
+          "couverture": 1,
+          "titre": "Meta FAIR Self-Improving Memory Hits 56.0 on Continual Learning Bench",
+          "source": "MarkTechPost",
+          "lien": "https://www.marktechpost.com/2026/11/19/meta-fair-self-improving-memory-harness-distillation/",
+          "date": "2026-11-19T21:46:22+00:00",
+          "resume": "Meta FAIR’s Self-Improving Memory lets Kimi-K2.6 write its own LOAD and OFFLOAD memory prompts, then distills them into its weights. Optimized prompts score 56.0 versus 44.6 for the best hand-written harness on Continual Learning Bench. The post Meta FAIR Self-Improving Memory Hits 56.0 on Continual",
+          "titre_fr": "Meta FAIR Self‑Improving Memory atteint 56,0 sur le benchmark d’apprentissage continu"
+        },
+        {
+          "note": 6,
+          "motif": "Guide déploiement Claude Code cloud 24/7",
+          "couverture": 1,
+          "titre": "How to Run Claude Code and Other Coding Agents in the Cloud 24/7",
+          "source": "Towards Data Science",
+          "lien": "https://towardsdatascience.com/how-to-run-claude-code-and-other-coding-agents-in-the-cloud-247/",
+          "date": "2026-11-19T15:00:00+00:00",
+          "resume": "Two setups: flip Claude Code's cloud environment on for the quick path, or rent a server for full control. The post How to Run Claude Code and Other Coding Agents in the Cloud 24/7 appeared first on Towards Data Science .",
+          "titre_fr": "Comment exécuter Claude Code et d’autres agents de codage dans le cloud 24 h/24"
+        },
+        {
+          "note": 5,
+          "motif": "Guide pratique CTO, bon retour d'expérience",
+          "couverture": 1,
+          "titre": "Coding With AI One Year: CTO Playbook (2026)",
+          "source": "explainx.ai",
+          "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZnRtai1xaU5nVG9pcGFiRGhqamhOTjBXamFvZ05PRWo4LWw3Mkd0c2FkTkVyYXdDdDhqVkFnYlRfdG9oR29ZU1FWazU1RXVaMHpWZWw1NDBHYUhiRjl6WDZyYU1qUF9QdDE0UmJfZmZhOEJjNVFycjhsdXlYQlV5ZHFzX21HMzRpUkRKclpwZjZtUUpIMGVpWERZZmRxU0pt?oc=5",
+          "date": "2026-11-21T00:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Coding With AI – Un an : le guide du CTO (2026)"
+        },
+        {
+          "note": 5,
+          "motif": "Mise à jour Claude Code, fonctions mineures",
+          "couverture": 1,
+          "titre": "Claude Code 2.1.330 Adds Enterprise Sign-In and Charts",
+          "source": "Meteora Web",
+          "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXlpbTBQTms5VlJnYmhhYWJPemlkY2p5UTNjZ1Q3OFNib1Q2WUwyYmt2RFZOZUN6ME1KeXcyaWF0dEEzaFpjX3NBWnREVmxIQnF0bHJsM2gySExUSUpwcjR2Vm81Q2tvV09KS3AzTGt4MXF6XzZ0b1I0SFlyLV9BWWx3WXppZTgyMjlsR2FrYllPQUtpUm5sQw?oc=5",
+          "date": "2026-11-20T23:04:44+00:00",
+          "resume": "",
+          "titre_fr": "Claude Code 2.1.330 ajoute la connexion d’entreprise et les graphiques"
+        },
+        {
+          "note": 5,
+          "motif": "API IA ouverte, intéressant pour devs",
+          "couverture": 1,
+          "titre": "Picsart Opens the AI Behind Its Platform to Developers & Businesses",
+          "source": "01net",
+          "lien": "https://www.01net.it/picsart-opens-the-ai-behind-its-platform-to-developers-businesses/",
+          "date": "2026-11-20T22:54:00+00:00",
+          "resume": "With Picsart Platform, developers can build their own video, audio, image features using 250+ models from 30+ providers, alongside Picsart's own editing models, through one API, CLI or MCP server. Key Takeaways One bundle, four ways to build: the API... L'articolo Picsart Opens the AI Behind Its Pla",
+          "titre_fr": "Picsart ouvre l’IA de sa plateforme aux développeurs et aux entreprises"
+        },
+        {
+          "note": 5,
+          "motif": "Premières critiques GPT‑6.2, intérêt précoce",
+          "couverture": 1,
+          "titre": "GPT-6.2 Astra y Sol: qué dicen las primeras críticas",
+          "source": "NeoTeo",
+          "lien": "https://www.neoteo.com/es/gpt-62-astra-y-sol-que-dicen-las-primeras-criticas",
+          "date": "2026-11-20T16:20:16+00:00",
+          "resume": "Primeras evaluaciones de GPT-6.2 Astra y Sol: críticas, retest con mejora parcial, una limitación descrita por OpenAI y demos de tareas concretas.",
+          "titre_fr": "GPT‑6.2 Astra y Sol : que disent les premières critiques"
+        },
+        {
+          "note": 5,
+          "motif": "Alternatives Claude Code, guide comparatif",
+          "couverture": 1,
+          "titre": "Claude Code Alternatives in 2026: 9 Options and the Plan You Already Pay For",
+          "source": "Fello AI",
+          "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YRi1zbjRteEQ2cV9USklzRFp3bWV3bmZJZTdWYlkxTng4Mk1meVdNZHZWbDhRNHNxZUtwdGUwZV83MmJiYXNCdjA1YmEyakhQUmtEOHFjdDQ?oc=5",
+          "date": "2026-11-20T09:31:59+00:00",
+          "resume": "",
+          "titre_fr": "Alternatives à Claude Code en 2026 : 9 options et le plan que vous payez déjà"
+        },
+        {
+          "note": 4,
+          "motif": "Tutoriel d'installation, peu de nouveauté",
+          "couverture": 1,
+          "titre": "Poki iPhone Agent: Install With Claude Code (2026)",
+          "source": "explainx.ai",
+          "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSlAtQ2xhNWhyekxjUmNHSGJnNGI2ZWo4RXlSaXBKdEVhNnA2STBHVktDbGhPRFFkLV8xY1Q5MTFUaTA4VWRHd0VRbXZkZzN5c3oyRnJXQ21sNVN0eWtCNHREZzlKTUtpSXZXMktmcWZQSjVnd3FpZlRENXB5Q1dVWXVxd1Y1Smx1bFpJ?oc=5",
+          "date": "2026-11-21T00:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Agent iPhone Poki : installation avec Claude Code (2026)"
+        },
+        {
+          "note": 4,
+          "motif": "Projet Cursor AI, peu de détails",
+          "couverture": 1,
+          "titre": "SpaceX's Cursor AI Platform Considers Cutting Chinese Models Ami",
+          "source": "GuruFocus",
+          "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZjRTQTVQSEhLNmlic3FCeTBGVjVWRGVEdUdka0JVemVoUTI3NGpIRElJd2Q3LXFtNk00dE9lOEtndVNYV2ZzZGF3U0FOQjF6OFNVZXhFYjB1TzNCY21oa0Nvc28wVy1wVm1oYThJeTU2bzlpYVgzNTVKZDlYN1o5dzAxczhQUHg5U3lib19HcTdmZVRBWkIyN2RFWWRybnVhalN2LVpyeVRmeUdzNHctRW03ZTQxWHhXc1BQYzM0d3hmZ2RwR0l2UjdnTE92S3AzSmxyUXIwLXFPZHc?oc=5",
+          "date": "2026-11-20T16:07:39+00:00",
+          "resume": "",
+          "titre_fr": "La plateforme Cursor AI de SpaceX envisage de supprimer les modèles chinois Ami"
+        },
+        {
+          "note": 4,
+          "motif": "Outil de repost, peu lié au coding",
+          "couverture": 1,
+          "titre": "Archie, l’outil français qui transforme vos contenus oubliés en posts sur les réseaux sociaux",
+          "source": "Blog du Modérateur",
+          "lien": "https://www.blogdumoderateur.com/archie-outil-francais-transforme-contenus-oublies-posts-reseaux-sociaux/",
+          "date": "2026-11-20T08:37:19+00:00",
+          "resume": "Dévoilé fin octobre par Agorapulse, Archie est un outil dopé à l'IA, capable de créer des publications percutantes à partir d'un webinaire, d'un rapport interne ou d'un livre blanc. Des contenus « riches en idées originales », mais encore inexploités.",
+          "titre_fr": "Archie, l’outil français qui transforme vos contenus oubliés en publications sur les réseaux sociaux"
+        },
+        {
+          "note": 3,
+          "motif": "Démo UI, peu d'impact concret",
+          "couverture": 1,
+          "titre": "The keyboard test I’d give an AI-generated popover",
+          "source": "dev.to",
+          "lien": "https://dev.to/rupakdhiman/the-keyboard-test-id-give-an-ai-generated-popover-dlf",
+          "date": "2026-11-21T06:58:54+00:00",
+          "resume": "https://rupakdhiman.me/the-keyboard-test-id-give-an-ai-generated-popover/",
+          "titre_fr": "Le test clavier que je soumettrais à un pop‑over généré par IA"
+        }
+      ]
+    },
+    {
+      "nom": "Plateformes et intégrations IA",
+      "resume": "Mises à jour de services cloud, marketplaces et protocoles facilitant l’intégration d’agents et de modèles IA dans les flux de travail d’entreprise.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Claude aurait aidé preuve Riemann, avancée majeure",
+          "couverture": 1,
+          "titre": "Anthropic mathematician claims Claude helped produce proof of Riemann hypothesis",
+          "source": "news.lavx.hu",
+          "lien": "https://news.lavx.hu/article/anthropic-mathematician-claims-claude-helped-produce-proof-of-riemann-hypothesis",
+          "date": "2026-11-21T04:10:02+00:00",
+          "resume": "Levent Alpöge, a mathematician at Anthropic, wrote that he worked with the company's Claude model to produce a proof of the Riemann hypothesis. Mathematicians have not confirmed the result.",
+          "titre_fr": "Un mathématicien d’Anthropic affirme que Claude a aidé à produire une preuve de l’hypothèse de Riemann"
+        },
+        {
+          "note": 8,
+          "motif": "Protocole MCP, standardise connexion modèles‑outils",
+          "couverture": 1,
+          "titre": "Model Context Protocol (MCP): 7 Ways it Connects AI Models with External Tools",
+          "source": "Analytics Insight",
+          "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUWdNU3ZubDZhLXpER21zaFJ6bzdtRkdORU5BbmFLYkQ5VkIybTFUeTk4ZVlWbXJMSFFyancyaFBDcFFiM0c2RFU5UjFNU2xCWWZRbkpWdjdzRGlTdWVCSE9CNHVPaUFKT0NDMXlGTEphVk9ITGNCQXRHdDVWV25YTnVIQU1YaXc1NXNJWWJtbVJ6eFh4a1U1Y0t3a2pyRnM5a3hfRi1qcVA0LXdHSENmWlk4U0pxZVRLeE8xZjk5dUg4Z9IBwgFBVV95cUxPUWdNU3ZubDZhLXpER21zaFJ6bzdtRkdORU5BbmFLYkQ5VkIybTFUeTk4ZVlWbXJMSFFyancyaFBDcFFiM0c2RFU5UjFNU2xCWWZRbkpWdjdzRGlTdWVCSE9CNHVPaUFKT0NDMXlGTEphVk9ITGNCQXRHdDVWV25YTnVIQU1YaXc1NXNJWWJtbVJ6eFh4a1U1Y0t3a2pyRnM5a3hfRi1qcVA0LXdHSENmWlk4U0pxZVRLeE8xZjk5dUg4Zw?oc=5",
+          "date": "2026-11-20T16:53:12+00:00",
+          "resume": "",
+          "titre_fr": "Model Context Protocol (MCP) : 7 façons de connecter les modèles IA à des outils externes"
+        },
+        {
+          "note": 7,
+          "motif": "Gateway inference globale SageMaker, simplifie déploiement multi‑région",
+          "couverture": 1,
+          "titre": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+          "source": "AWS Machine Learning",
+          "lien": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+          "date": "2026-11-20T22:35:24+00:00",
+          "resume": "Amazon SageMaker HyperPod introduces the Global Inference Gateway, one managed endpoint that routes inference requests across your HyperPod clusters in one Region or across Regions. It picks the best cluster, fails over automatically, and authenticates every request with SigV4 and IAM over AWS Priva",
+          "titre_fr": "Amazon SageMaker HyperPod Global Inference Gateway : un point d’accès unique entre régions et clusters"
+        },
+        {
+          "note": 6,
+          "motif": "Extensions observabilité SageMaker, utile pour ops",
+          "couverture": 1,
+          "titre": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+          "source": "AWS Machine Learning",
+          "lien": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+          "date": "2026-11-20T23:07:03+00:00",
+          "resume": "Amazon SageMaker HyperPod now offers managed cluster extensions for observability and user management, bringing declarative, API- and console-driven configuration to the software running on Slurm cluster nodes. This post explains how the extensions work and follows a platform team through a quarter ",
+          "titre_fr": "Extensions de cluster gérées pour l’observabilité et la gestion des utilisateurs dans Amazon SageMaker HyperPod Slurm"
+        },
+        {
+          "note": 6,
+          "motif": "DGX Spark desk‑side, accélère recherche",
+          "couverture": 1,
+          "titre": "Nvidia launches desk-side DGX Spark cluster for researchers",
+          "source": "IT Brief Australia",
+          "lien": "https://itbrief.com.au/story/nvidia-launches-desk-side-dgx-spark-cluster-for-researchers",
+          "date": "2026-11-21T05:00:00+13:00",
+          "resume": "Researchers could cut queue times with a four-node desk cluster that lets them test AI and simulation workloads locally before scaling up.",
+          "titre_fr": "Nvidia lance le cluster de bureau DGX Spark pour les chercheurs"
+        },
+        {
+          "note": 5,
+          "motif": "Fonction d'achat agentique, améliore expérience AWS",
+          "couverture": 1,
+          "titre": "AWS Marketplace adds agentic buying while Amazon blocks retail shopping bots",
+          "source": "news.lavx.hu",
+          "lien": "https://news.lavx.hu/article/aws-marketplace-adds-agentic-buying-while-amazon-blocks-retail-shopping-bots",
+          "date": "2026-11-21T04:02:35+00:00",
+          "resume": "Amazon is restricting AI shopping agents on its retail site while AWS Marketplace adds x402 payments, data listings and agent tools for software purchases.",
+          "titre_fr": "AWS Marketplace intègre l’achat agentique tandis qu’Amazon bloque les bots d’achat en ligne"
+        },
+        {
+          "note": 5,
+          "motif": "Ajout IA search à Teams, améliore productivité",
+          "couverture": 1,
+          "titre": "Legora adds Teams intake & AI search to Microsoft 365",
+          "source": "IT Brief Australia",
+          "lien": "https://itbrief.com.au/story/legora-adds-teams-intake-ai-search-to-microsoft-365",
+          "date": "2026-11-20T19:59:14+13:00",
+          "resume": "Legal teams can now keep requests and search results inside Microsoft 365, cutting the time spent chasing context across chats, inboxes and meetings.",
+          "titre_fr": "Legora ajoute la prise en charge de Teams et la recherche IA à Microsoft 365"
+        },
+        {
+          "note": 5,
+          "motif": "Inkling 2 Mini, performance locale",
+          "couverture": 1,
+          "titre": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "source": "Hugging Face",
+          "lien": "https://huggingface.co/blog/inkling2mini",
+          "date": "2026-11-20T00:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Bienvenue à Inkling 2 Mini, des performances de pointe pour votre configuration locale"
+        },
+        {
+          "note": 5,
+          "motif": "Observability workspace, collaboration agents",
+          "couverture": 1,
+          "titre": "groundcover Adds Observability Workspace to Foster Collaboration With AI Agents",
+          "source": "DevOps.com",
+          "lien": "https://devops.com/groundcover-adds-observability-workspace-to-foster-collaboration-with-ai-agents",
+          "date": "2026-11-19T15:57:38+00:00",
+          "resume": "groundcover has expanded its observability platform with Agent Investigations, a collaborative workspace where AI agents and DevOps engineers can investigate incidents together. By combining hypothesis testing, production telemetry and evidence-backed conclusions, the platform aims to eliminate frag",
+          "titre_fr": "groundcover ajoute un espace de travail d’observabilité pour favoriser la collaboration avec les agents IA"
+        },
+        {
+          "note": 5,
+          "motif": "Ajout graphes de connaissances à Foundry IQ",
+          "couverture": 1,
+          "titre": "Microsoft adds knowledge graphs, retrieval model to Foundry IQ for better AI grounding",
+          "source": "InfoWorld",
+          "lien": "https://www.infoworld.com/article/4250726/microsoft-adds-knowledge-graphs-retrieval-model-to-foundry-iq-for-better-ai-grounding.html",
+          "date": "2026-11-19T12:56:43+00:00",
+          "resume": "Microsoft is enhancing its Foundry IQ knowledge retrieval service with knowledge graphs, a specialized retrieval model and automatic infrastructure provisioning, seeking to make it easier for developers to build AI agents that can access, understand and reason over enterprise data. Grounding AI agen",
+          "titre_fr": "Microsoft ajoute des graphes de connaissances et un modèle de récupération à Foundry IQ pour un meilleur ancrage IA"
+        },
+        {
+          "note": 4,
+          "motif": "Intégration ZoomInfo, plus business que IA",
+          "couverture": 1,
+          "titre": "Qualified Upgrades Its ZoomInfo Integration to the GTM.AI API, Bringing Verified Company and Contact Data to Piper",
+          "source": "01net",
+          "lien": "https://www.01net.it/qualified-upgrades-its-zoominfo-integration-to-the-gtm-ai-api-bringing-verified-company-and-contact-data-to-piper/",
+          "date": "2026-11-20T17:40:00+00:00",
+          "resume": "VANCOUVER, Wash.--(BUSINESS WIRE)--ZoomInfo (NASDAQ: GTM), the all-in-one AI GTM platform, today announced that Qualified from Salesforce has upgraded its ZoomInfo integration to the ZoomInfo GTM.AI API. Qualified now enriches website visitor profiles ... L'articolo Qualified Upgrades Its ZoomInfo I",
+          "titre_fr": "Qualified améliore son intégration ZoomInfo via l’API GTM.AI, apportant des données d’entreprise et de contacts vérifiées à Piper"
+        },
+        {
+          "note": 3,
+          "motif": "Statistiques merges, peu de valeur technique",
+          "couverture": 1,
+          "titre": "For Good AI Merges 4,211 Pull Requests in Three Months",
+          "source": "Wisevoter",
+          "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmRQd0xVQWw1U090YnlsU0FoWk1rY0dfQWxSRFF1d3VqNFBxYlhaNHp5WDdOYVh6TU5NRjE2MnlXZ2xpSlptaGRkRnpqODRPLVZkZ3JFR04wN3N1TlFKZkNLWm02S1gtX2dqS0VWSGpzd1VXV1FyUUEweS1BRnAtVkdRNng?oc=5",
+          "date": "2026-11-20T17:02:36+00:00",
+          "resume": "",
+          "titre_fr": "For Good AI fusionne 4 211 pull requests en trois mois"
+        },
+        {
+          "note": 3,
+          "motif": "Produit Product Hunt, peu d'information technique",
+          "couverture": 1,
+          "titre": "Rox",
+          "source": "Product Hunt",
+          "lien": "https://www.producthunt.com/products/rox-2",
+          "date": "2026-11-19T04:00:00-08:00",
+          "resume": "Your AI companion for living with chronic illness Discussion | Link",
+          "titre_fr": "Rox"
+        }
+      ]
+    },
+    {
+      "nom": "Autres articles",
+      "resume": "",
+      "articles": [
+        {
+          "note": 6,
+          "motif": "Nouveaux modèles Bison‑1 / Groundhog‑1, pertinents pour décision",
+          "couverture": 1,
+          "titre": "Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index",
+          "source": "MarkTechPost",
+          "lien": "https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/",
+          "date": "2026-11-21T04:01:04+00:00",
+          "resume": "Baseten released bison-1 and groundhog-1, open-weight decision models built on Gemma 4. bison-1 scores 76 on the AA Decision Index v2.1, and both models support 128k context and image input. The post Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index appeared first on MarkTechPos",
+          "titre_fr": "Baseten lance Bison-1 et Groundhog-1, en tête du Decision Model Index"
+        }
+      ]
+    }
+  ],
+  "ecartes": [
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Is AI a bubble? Yes and no, and the difference matters to you",
+      "source": "dev.to",
+      "lien": "https://dev.to/saifuddin/is-ai-a-bubble-yes-and-no-and-the-difference-matters-to-you-3f6a",
+      "date": "2026-11-21T07:00:00+00:00",
+      "resume": "Everyone is asking whether AI is a bubble. Investors ask it about stocks. Founders ask it about funding. Students ask it about careers. They are asking three different questions with the same word, and that is why the debate goes in circles. Let me separate them. Question 1: Is the money a bubble? T",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "House Committees Flag Chinese Open-Weight AI Models as Cursor Weighs Phasing Out Kimi K2.5",
+      "source": "CASRAI",
+      "lien": "https://casrai.org/news/house-committees-cursor-chinese-open-weight-ai-models-report-2026",
+      "date": "2026-11-21T06:09:17+00:00",
+      "resume": "A House investigation urges banning Chinese open-weight AI models from federal systems as coding tool Cursor weighs phasing out Moonshot AI’s Kimi K2.5.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Amazon Reports Autonomous AI Agents Exploited MONAI Label Zero-Day on University Server",
+      "source": "CASRAI",
+      "lien": "https://casrai.org/news/amazon-cairn-ai-agents-monai-label-zero-day-university-server-2026",
+      "date": "2026-11-21T06:03:46+00:00",
+      "resume": "Autonomous AI agents using the Cairn framework discovered and exploited a zero-day flaw in MONAI Label to gain root access to a university server.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Anthropic Mathematician Releases 175,000-File Lean Archive Claiming Riemann Hypothesis Proof",
+      "source": "CASRAI",
+      "lien": "https://casrai.org/news/anthropic-levent-alpoge-claude-lean-riemann-hypothesis-claim-2026",
+      "date": "2026-11-21T05:59:58+00:00",
+      "resume": "Anthropic mathematician Levent Alpöge released a 175,187-file Lean archive claiming a proof of the Riemann Hypothesis developed alongside Claude.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "[AINews] Riemann Hypothesis proved...twice independently",
+      "source": "Latent Space",
+      "lien": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+      "date": "2026-11-21T05:02:13+00:00",
+      "resume": "November 20 2026 —",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Phison outlines enterprise SSDs for on-drive AI and mixed pSLC-QLC storage",
+      "source": "news.lavx.hu",
+      "lien": "https://news.lavx.hu/article/phison-outlines-enterprise-ssds-for-on-drive-ai-and-mixed-pslc-qlc-storage",
+      "date": "2026-11-21T04:49:45+00:00",
+      "resume": "Phison presented two enterprise SSD designs at Supercomputer 2026. One design adds a neural processing unit and 64GB of memory for on-drive AI workloads, and the other combines pSLC endurance with QLC capacity behind one controller.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "SonicWall Urges Customers to Replace Unsupported Gen 6 Firewalls",
+      "source": "news.lavx.hu",
+      "lien": "https://news.lavx.hu/article/sonicwall-urges-customers-to-replace-unsupported-gen-6-firewalls",
+      "date": "2026-11-21T04:31:41+00:00",
+      "resume": "SonicWall told customers to retire Generation 6 firewalls that no longer receive security patches, warning that AI-driven attacks put unsupported edge devices at risk.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Oracle’s $300B OpenAI infrastructure deal fully funded after capital raise",
+      "source": "Crypto Briefing",
+      "lien": "https://cryptobriefing.com/oracles-300b-openai-infrastructure-deal-fully-funded-after-capital-raise/",
+      "date": "2026-11-21T04:03:09+00:00",
+      "resume": "Oracle's funding deal with OpenAI enhances financial stability, potentially altering market dynamics and reducing bankruptcy concerns. The post Oracle’s $300B OpenAI infrastructure deal fully funded after capital raise appeared first on Crypto Briefing .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Anthropic IPO stokes AI trade as gold and Bitcoin hedge rising debt",
+      "source": "TOKENPOST",
+      "lien": "https://www.tokenpost.com/news/investing/62376",
+      "date": "2026-11-21T04:00:26+00:00",
+      "resume": "Anthropic’s IPO is reigniting the AI trade, while GraniteShares CEO Will Rhind says gold and Bitcoin remain potential hedges against rising government debt and currency debasement.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Ark Invest acquires 705,982 shares of Anthropic as Cathie Wood leans into AI",
+      "source": "Crypto Briefing",
+      "lien": "https://cryptobriefing.com/ark-invest-buys-anthropic-shares/",
+      "date": "2026-11-21T01:34:53+00:00",
+      "resume": "Ark Invest's AI focus signals a strategic shift in tech investment, potentially influencing market perceptions and investor priorities in AI sectors. The post Ark Invest acquires 705,982 shares of Anthropic as Cathie Wood leans into AI appeared first on Crypto Briefing .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "METR TH2 Evaluation Finds AI Time Horizons Doubling While Research Judgment Lags",
+      "source": "CASRAI",
+      "lien": "https://casrai.org/news/metr-th2-ai-time-horizons-research-judgment-evaluation-2026",
+      "date": "2026-11-21T01:15:54+00:00",
+      "resume": "METR’s TH2 evaluation finds frontier AI time horizons doubling every 110 days on verifiable tasks, while open-ended research judgment continues to lag.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "ViTAA Medical e The Society for Vascular Surgery annunciano la sigla di un accordo strategico",
+      "source": "01net",
+      "lien": "https://www.01net.it/vitaa-medical-e-the-society-for-vascular-surgery-annunciano-la-sigla-di-un-accordo-strategico/",
+      "date": "2026-11-20T23:47:00+00:00",
+      "resume": "ViTAA Medical diventerà partner IA di riferimento della SVS, promuovendo la formazione sull’IA e la sua adozione responsabile per l’assistenza vascolareNEW YORK--(BUSINESS WIRE)--ViTAA Medical Solutions Inc. (ViTAA) oggi ha annunciato la sigla di una ... L'articolo ViTAA Medical e The Society for Va",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Republicans warn Anthropic’s IPO could create ‘200 George Soroses’",
+      "source": "Crypto Briefing",
+      "lien": "https://cryptobriefing.com/republicans-warn-anthropic-ipo-political-donors/",
+      "date": "2026-11-20T22:50:22+00:00",
+      "resume": "Anthropic's IPO could significantly influence political funding dynamics, potentially impacting AI regulation and future election outcomes. The post Republicans warn Anthropic’s IPO could create ‘200 George Soroses’ appeared first on Crypto Briefing .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "AI coding platform Cognition embarks on new $2B funding round: report",
+      "source": "TradingView",
+      "lien": "https://www.msn.com/en-us/news/other/ai-coding-platform-cognition-embarks-on-new-2b-funding-round-report/ar-AA2hT5xl",
+      "date": "2026-11-20T22:21:39+00:00",
+      "resume": "Cognition AI, which offers an AI-powered coding and engineering platform, has entered talks for a new $2B funding round, which would elevate the startup to a $75B valuation, according to Bloomberg.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "source": "Hacker News",
+      "lien": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+      "date": "2026-11-20T22:18:20+00:00",
+      "resume": "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models Comments URL: https://news.ycombinator.com/item?id=50583117 Points: 33 # Comments: 12",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "OpenAI’s GPT-Rosalind agents tear through a 7.7 million cell brain atlas in 32 minutes",
+      "source": "Crypto Briefing",
+      "lien": "https://cryptobriefing.com/openai-gpt-rosalind-neurodegenerative-disease-research/",
+      "date": "2026-11-20T22:17:24+00:00",
+      "resume": "AI-driven analysis accelerates neurodegenerative research, enhancing drug discovery and understanding of complex genetic interactions. The post OpenAI’s GPT-Rosalind agents tear through a 7.7 million cell brain atlas in 32 minutes appeared first on Crypto Briefing .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Pelican AI Reports $2.7 Million in Q3 Revenue, $0.02 Loss Per Share",
+      "source": "TOKENPOST",
+      "lien": "https://www.tokenpost.com/news/business/62357",
+      "date": "2026-11-20T22:10:05+00:00",
+      "resume": "Revenue rose 17.4% year over year, while adjusted EBITDA was $630,000, down from $1.19 million in the third quarter of 2025.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Analysis: Not Enough to Rely on One AI Model to Discover Code Vulnerabilities",
+      "source": "DevOps.com",
+      "lien": "https://devops.com/analysis-not-enough-to-rely-on-one-ai-model-to-discover-code-vulnerabilities",
+      "date": "2026-11-20T21:51:11+00:00",
+      "resume": "An analysis published this week of vulnerabilities discovered in open-source code using three different artificial intelligence (AI) models found that all three identified the same issue in only one instance out of 121 distinct findings. Conducted by Echo, a provider of hardened software artifacts a",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+      "source": "Latent Space",
+      "lien": "https://latent.space/p/formal-verification/",
+      "date": "2026-11-20T21:18:41+00:00",
+      "resume": "Proving software correct with math has traditionally required specialist work. Now AI and Lean are helping automate the process.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Riassunto: Visa amplia Agentic Ready per contribuire a far crescere a livello globale il commercio affidabile basato sull’IA",
+      "source": "01net",
+      "lien": "https://www.01net.it/riassunto-visa-amplia-agentic-ready-per-contribuire-a-far-crescere-a-livello-globale-il-commercio-affidabile-basato-sullia/",
+      "date": "2026-11-20T21:00:00+00:00",
+      "resume": "Adyen, Antom, Billtrust, Checkout.com, Fiserv, Global Payments, J.P. Morgan Payments, PayPal e Stripe, insieme a oltre 140 partecipanti iniziali, aderiscono al programma Agentic Ready per l’ecosistema dell’accettazione. Esercenti, fornitori B2B, forni... L'articolo Riassunto: Visa amplia Agentic Rea",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
+      "source": "The Decoder",
+      "lien": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
+      "date": "2026-11-20T20:31:50+00:00",
+      "resume": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol. In adaptive red-teaming tests, the success rate for extracting protected reasoning fell from 54 percent to 0.2 percent. The company is also suspending thousands to tens of thous",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+      "source": "The Decoder",
+      "lien": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
+      "date": "2026-11-20T19:50:27+00:00",
+      "resume": "Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The app calls it an \"existential threat\" to privacy, but admits its protections remain incomplete, including on macOS. Apple, Google, and Microsoft should ",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Cursor Reports Malicious Claude Code Extension Breach",
+      "source": "Wisevoter",
+      "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMWgwOFg5c2lnRzJ1c2pOb2NicENkMV9QSWF4OUx3UTZHTzZzSnlqUjh2TnY2aEt3OUNVY3ptV3Bna2lWWWtHZ0x0YWI3YU9ySmFVU2YzWXJiaG14UEZPUFB2a1BLZFpIZHNGRWkxZnBWVlZQNnE2d1lUNVJXR21IbHZUeDdnLW5yUkkxMA?oc=5",
+      "date": "2026-11-20T19:44:25+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "“We are not querying like humans anymore”: OpenSearch’s Bianca Lewis on why AI agent mistakes look like successes",
+      "source": "The New Stack",
+      "lien": "https://thenewstack.io/opensearch-ai-agent-observability/",
+      "date": "2026-11-20T19:37:08+00:00",
+      "resume": "This situation is more common than one might think: An AI agent calls the wrong API, gets a perfectly good The post “We are not querying like humans anymore”: OpenSearch’s Bianca Lewis on why AI agent mistakes look like successes appeared first on The New Stack .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Quoting Ravi Vakil",
+      "source": "Simon Willison",
+      "lien": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "date": "2026-11-20T19:21:49+00:00",
+      "resume": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford fo",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "The Next Frontier in AI-Enabled Coding: Scaling Development",
+      "source": "Communications of the ACM",
+      "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQWJoS0dWZkFwandlNHhEd0tkdWZDZ2F2bUxPbXRTZFlCTklsSnBYOHNHTDF4RTgyNWhXT1dwTTFCVjc0WnNxQ0x0Z2t2ZFBmdXo0cWpCc0k4OExXZGxQTVNWaU1DYTlwYXU3QUhnZjFnNloxeTBpVTc3Smk5M1ZlbE5OVDNoR0Rwd0MxdS1B?oc=5",
+      "date": "2026-11-20T18:52:46+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Vibecoding an inference chip",
+      "source": "Hacker News",
+      "lien": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "date": "2026-11-20T18:15:16+00:00",
+      "resume": "Article URL: https://ankitg.me/blog/vibecoding-inference-chip/ Comments URL: https://news.ycombinator.com/item?id=50579297 Points: 136 # Comments: 54",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Your AI agent’s “memory problem” may be something else",
+      "source": "The New Stack",
+      "lien": "https://thenewstack.io/ai-agent-memory-boundaries/",
+      "date": "2026-11-20T17:00:00+00:00",
+      "resume": "An agent may need additional context to continue when a user returns the next day. A workflow may resume from The post Your AI agent’s “memory problem” may be something else appeared first on The New Stack .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Anthropic says Claude writes and reviews 90% of its team’s code. The catch is how it checks the work.",
+      "source": "The New Stack",
+      "lien": "https://thenewstack.io/anthropic-claude-code-verification/",
+      "date": "2026-11-20T16:41:28+00:00",
+      "resume": "Anthropic says Claude writes and reviews roughly 90% of the code produced by the team building Claude Code, and the The post Anthropic says Claude writes and reviews 90% of its team’s code. The catch is how it checks the work. appeared first on The New Stack .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Quoting Levent Alpöge",
+      "source": "Simon Willison",
+      "lien": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "date": "2026-11-20T16:30:48+00:00",
+      "resume": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the argum",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "El comité de EE. UU. divulga datos sobre licencias de chips de IA para China",
+      "source": "NeoTeo",
+      "lien": "https://www.neoteo.com/es/el-comite-de-ee-uu-divulga-datos-sobre-licencias-de-chips-de-ia-para-china",
+      "date": "2026-11-20T16:05:21+00:00",
+      "resume": "El comité de Exteriores de la Cámara divulgó licencias de chips de IA para China: 3,4 millones solicitados y más de 879.000 aprobados hasta mayo de 2026.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "The HackerNoon Newsletter: Creating the Intelligent Being; the AI Alien (11/20/2026)",
+      "source": "HackerNoon",
+      "lien": "https://hackernoon.com/11-20-2026-newsletter?source=rss",
+      "date": "2026-11-20T16:02:49+00:00",
+      "resume": "11/20/2026: Top 5 stories on the HackerNoon homepage!",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Irish-founded Hoplite raises $5.5m to put swarms of AI coding agents in the cloud",
+      "source": "Think Business",
+      "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV05kX3FLUjFvNjlpU1U0WDlLUjJLSzhFUGJnV2c3SU1la3VEcUpkQzNvdl9JemozMEZZWjJ0N1o0eGRjeXZhSGNCUjN6ZHctUWE3WUVGV2JndFIzVEJDdzcwX0tVcTJxbmtMSzB0d2dMNm5mMW9mWEw4dE9ib2NpWQ?oc=5",
+      "date": "2026-11-20T15:16:36+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "SpaceX's AI-coding platform Cursor considers phasing out use of Chinese models: report",
+      "source": "TradingView",
+      "lien": "https://seekingalpha.com/news/4675181-spacexs-ai-coding-platform-cursor-considers-phasing-out-use-of-chinese-models-report",
+      "date": "2026-11-20T15:08:23+00:00",
+      "resume": "Cursor may phase out PRC-developed open-weight AI models over geopolitical risk, a House report says; Composer 2 used Moonshot’s Kimi K2.5.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Collison brothers lead $5.5M seed in AI coding startup Hoplite",
+      "source": "Dealroom",
+      "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOazdCMnF4LUF5M2JMeFBhMHROUG9OS0wySFdDWkFEZ1Y3QXZ2RzNITVNZWEYxbGViNEVSV1ZFSFloWEFSc3VZeTY5VWF3WnBLVTVQWjNDLXdzTkhIVURIcVBfRWVLeUlwVFpVVjNWcEtzcWNILTUxZGsyMEh2T0VocEtXS2w1MEFtRDZpMWJvOUUtTnQ0dWNSZk9Nbw?oc=5",
+      "date": "2026-11-20T13:53:01+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Meta Buys Conductor as Cloud Shuts Nov. 20 [2026]",
+      "source": "shattered.io",
+      "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYi01dHFVZmVRRDhQclJ6WjhPWkhPN0p3WUx3dVR5YVptLURmQVJiMFZSQ240eVlTYmppNGFwUkFNNmlRX1Z4b0xZa2xiZkFjSHQ0N3ZGdi1fLXVaRGtJR2ZnZHNrdGh6Nk42QjFnUHZQaENPUDU1Vm9pMGdydXd3dEJxd1UzQ2h4Ynpoazd0SGgwcWc?oc=5",
+      "date": "2026-11-20T13:21:14+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "The guy who coined vibe coding never trusts a single AI, and you can copy his setup for free",
+      "source": "MakeUseOf",
+      "lien": "https://www.msn.com/en-us/technology/software/the-guy-who-coined-vibe-coding-never-trusts-a-single-ai-and-you-can-copy-his-setup-for-free/ar-AA2hSQVP",
+      "date": "2026-11-20T11:30:17+00:00",
+      "resume": "He built a panel of four AIs that argue before giving you one answer. Steal his setup, free.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "ChatGPT and Claude Send Conversation History with Telemetry Off",
+      "source": "Geeky Gadgets",
+      "lien": "https://www.geeky-gadgets.com/claude-code-3/",
+      "date": "2026-11-20T11:22:26+00:00",
+      "resume": "AI coding agents send more than telemetry data to external servers. Analyze a 29.2 MB Claude Code session to set up reliable network-level firewalls.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "AI Coding Tools Raise New Security Concerns for Enterprises",
+      "source": "CIOL",
+      "lien": "https://www.ciol.com/generative-ai/ai-coding-tools-raise-new-security-concerns-for-enterprises-12826726",
+      "date": "2026-11-20T10:48:59+00:00",
+      "resume": "CleanStart's 2026 report finds that only 20% of tested AI-generated software dependency recommendations were valid and free of known vulnerabilities.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Moving from vibe coding to impact: the AI Implementation Track",
+      "source": "IO+",
+      "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMEhkQkxwM29ESHpsZmVwM2RKYWNVY3A2LXVIU2pDTW9rcDNiQmVEMWZHLTJfWE9UUU1zeGhxZk9SaTNhZVEwdVI2azBxQmtxaXZNMEhPb2hOMWE0ZDUwWTFKVDF6MmlNWDBsNVdIdnJzdllEWGVHaHhXbHJRYmNMOV90OGFxazBiYlQ3WEtpYkcwZw?oc=5",
+      "date": "2026-11-20T10:37:35+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Vibe coding has lowered the barrier to software development. What next?| The New Times",
+      "source": "The New Times",
+      "lien": "https://www.msn.com/en-xl/africa/top-stories/vibe-coding-has-lowered-the-barrier-to-software-development-what-next/ar-AA2hR1AD",
+      "date": "2026-11-20T10:14:39+00:00",
+      "resume": "Social media is full of videos promising that almost anyone can now build an app with artificial intelligence, publish it on an app store, and start making money from downloads. The process often ...",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Claude Code fueled Anthropic's IPO. Now the company needs to figure out what comes next.",
+      "source": "Business Insider",
+      "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV2pRQUN2T29QcDU5Q2hOc0trRVFIWUt5MmlqMHdJb0dDX1JMbVdVaEFwWWt4bmhTWENCNWNrVVVGZ3VVb1dpMG9uN0NhZEZwNTVudEJYZ1Y4dlN0dV9YbEFkSjhlME5Oc1ZfNEdtMGVrYXhRVDFERFFzdWYycEZUZXc5TnFkajg4MlR3eFhSNFdnandxSWVQMzVqZXM0UzQzZFlz?oc=5",
+      "date": "2026-11-20T10:00:00+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Fish with a sniper rifle takes aim at Tim Sweeney's hopes and dreams, as genAI-free meme game tops Epic Games' vibe-coding megajam",
+      "source": "Rock Paper Shotgun",
+      "lien": "https://www.rockpapershotgun.com/fish-with-a-sniper-rifle-takes-aim-at-tim-sweeneys-hopes-and-dreams-as-genai-free-meme-game-tops-epic-games-vibe-coding-megajam",
+      "date": "2026-11-20T09:35:20+00:00",
+      "resume": "An Epic Games genAI gamejam has had its popularity charts topped by an AI-free game about a fish with a sniper rifle.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "CloudBackend raises €6.6 million to turn vibe-coding projects into compliant SaaS businesses",
+      "source": "Dataconomy",
+      "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQejhRZGpnQ2VVLTNvekU0cmtNNXl5emp0VjVmRHE1QTBhRFhhZmVvaU52cXptTFBiMWxMX3d1RzN4NkU5QTNOMUNtYko3X0lPRnBYbVVadFJkckVRUjFhMUlCcy1ZQ0Fzdm9NeXdkWFFmenktM2k3RHNEZkIxQ0tDcVZ6eW4?oc=5",
+      "date": "2026-11-20T09:14:02+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
+      "source": "The Decoder",
+      "lien": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
+      "date": "2026-11-20T15:56:03+00:00",
+      "resume": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry are feeling the shift most, with more than 90% of Chinese micro-dramas now produced using AI. Former central bank adviser Cai Fang warns th",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Las ganancias estimadas de quienes compraron acciones de Anthropic a FTX",
+      "source": "NeoTeo",
+      "lien": "https://www.neoteo.com/es/las-ganancias-estimadas-de-quienes-compraron-acciones-de-anthropic-a-ftx",
+      "date": "2026-11-20T15:46:11+00:00",
+      "resume": "Anthropic cerró a 97,17 dólares en su debut. Forbes estimó el valor de varios compradores de acciones de FTX bajo el supuesto de que conservaran sus títulos.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "The TechBeat: 10 Billion-Dollar Startup Ideas Generated by Gemini 4 Argon (11/20/2026)",
+      "source": "HackerNoon",
+      "lien": "https://hackernoon.com/11-20-2026-techbeat?source=rss",
+      "date": "2026-11-20T15:01:04+00:00",
+      "resume": "11/20/2026: Trending stories on Hackernoon today!",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores",
+      "source": "Towards Data Science",
+      "lien": "https://towardsdatascience.com/clairic-hit-98-accuracy-on-728-of-questions-via-confidence-scores/",
+      "date": "2026-11-20T15:00:00+00:00",
+      "resume": "With a 0.9 confidence cutoff, Cloudflare's System One model handles the easy cases and routes the rest to a bigger, slower LLM like Luna. The post Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores appeared first on Towards Data Science .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Alibaba entrenaba Qwen con chips T-Head, según informes",
+      "source": "NeoTeo",
+      "lien": "https://www.neoteo.com/es/alibaba-entrenaba-qwen-con-chips-t-head-segun-informes",
+      "date": "2026-11-20T14:51:23+00:00",
+      "resume": "Alibaba entrenaba su Qwen insignia de próxima generación con chips T-Head, según informes; Eddie Wu también habló de inferencia y planes de suministro.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Five Guardrails That Limit the Damage an AI Agent Can Do",
+      "source": "Towards Data Science",
+      "lien": "https://towardsdatascience.com/five-guardrails-that-limit-the-damage-an-ai-agent-can-do/",
+      "date": "2026-11-20T12:00:00+00:00",
+      "resume": "AI Agents for Beginners, Part three: strict Pydantic arguments, a tool allowlist, read-only SQLite, a step cap, and confirmed writes, all verified by five pytest tests in 0.68s. The post Five Guardrails That Limit the Damage an AI Agent Can Do appeared first on Towards Data Science .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Signal bloque les captures pour tenir Gemini et Siri à distance",
+      "source": "Korben",
+      "lien": "https://korben.info/signal-bloque-captures-ecran-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "date": "2026-11-20T11:36:02+01:00",
+      "resume": "Signal bloque les captures d'écran sur iOS 27 et active sa protection sur Android quand un assistant IA lit l'écran. Ce n'est pas une faille, la parade a des trous, et Signal réclame aux éditeurs d'OS un vrai droit de refus pour les applis.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Combatting adversarial distillation",
+      "source": "OpenAI",
+      "lien": "https://openai.com/index/combatting-adversarial-distillation",
+      "date": "2026-11-20T10:00:00+00:00",
+      "resume": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Vertiv launches PowerNexus MV UPS for data centres",
+      "source": "IT Brief Australia",
+      "lien": "https://itbrief.com.au/story/vertiv-launches-powernexus-mv-ups-for-data-centres",
+      "date": "2026-11-20T22:30:00+13:00",
+      "resume": "The outdoor-rated unit is meant to ease grid pressure and free up indoor space as AI data centres strain power and capacity planning.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "QCon San Francisco 2026: The Future of Apache Iceberg",
+      "source": "InfoQ",
+      "lien": "https://www.infoq.com/news/2026/11/iceberg-v4-metadata/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "date": "2026-11-20T09:17:00+00:00",
+      "resume": "Apache Iceberg V4 proposes a redesign of table metadata to improve scalability and support more frequent writes, alongside new capabilities for data management and schema evolution. Daniel Weeks, co-creator of Apache Iceberg and member of technical staff at Databricks, presented a session at QCon Sa",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Black Friday pCloud - Plans à vie, Photos AI, Docs et NAS #sponso",
+      "source": "Korben",
+      "lien": "https://korben.info/pcloud-black-friday-2026.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "date": "2026-11-20T10:09:51+01:00",
+      "resume": "Du 13 au 28 novembre, pCloud met ses plans de stockage à vie en promo et pousse trois fonctions : Photos AI, Docs et la sauvegarde de NAS. Ce que chacune demande, et ce que « à vie » veut dire dans ses CGU.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Agentic AI repeats same old enterprise adoption cycle",
+      "source": "InfoWorld",
+      "lien": "https://www.infoworld.com/article/4249734/agentic-ai-repeats-same-old-enterprise-adoption-cycle.html",
+      "date": "2026-11-20T09:00:00+00:00",
+      "resume": "The pitch sounded perfect. A large regional distributor needed to build a new sales transaction management system. The goal was straightforward: automate parts of order intake, discount approvals, exception handling, customer communications, and inventory checks. It was not a trivial system, but it ",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "En entreprise, la fidélité aux modèles d’IA ne dure que quelques semaines",
+      "source": "Blog du Modérateur",
+      "lien": "https://www.blogdumoderateur.com/entreprise-fidelite-modeles-ia/",
+      "date": "2026-11-20T08:56:51+00:00",
+      "resume": "L’index de Databricks, nourri par l’usage de plus de 10 000 entreprises, met en évidence des bascules rapides d’un modèle d'IA à l’autre, au rythme des sorties.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Study finds AI will run more warehouse decisions by 2028",
+      "source": "IT Brief Australia",
+      "lien": "https://itbrief.com.au/story/study-finds-ai-will-run-more-warehouse-decisions-by-2028",
+      "date": "2026-11-20T21:06:00+13:00",
+      "resume": "Most warehouse operators expect AI to take on far more decisions by 2028, with 57% forecasting autonomous action in over a quarter of tasks.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
+      "source": "Latent Space",
+      "lien": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
+      "date": "2026-11-20T07:12:24+00:00",
+      "resume": "November 19, 2026 — ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "greatai Review",
+      "source": "Product Hunt",
+      "lien": "https://www.producthunt.com/products/greatai-review",
+      "date": "2026-11-19T20:56:45-08:00",
+      "resume": "Free AI + human code review for open source & nonprofits Discussion | Link",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Token fraud is here and it’s BAD (YouTube)",
+      "source": "Simon Willison",
+      "lien": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "date": "2026-11-20T02:49:57+00:00",
+      "resume": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying ",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Does your AI agent need an LLM to decide what to do next?",
+      "source": "The New Stack",
+      "lien": "https://thenewstack.io/aws-decider-models-agents/",
+      "date": "2026-11-20T01:37:32+00:00",
+      "resume": "Say “good morning” to an AI agent, and it might search its long-term memory before saying hello back. Somewhere in The post Does your AI agent need an LLM to decide what to do next? appeared first on The New Stack .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "source": "OpenAI",
+      "lien": "https://openai.com/business/customer-stories/hebbia",
+      "date": "2026-11-20T00:00:00+00:00",
+      "resume": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Can AI help scientists identify promising drug candidates?",
+      "source": "OpenAI",
+      "lien": "https://openai.com/index/introducing-medchembench",
+      "date": "2026-11-20T00:00:00+00:00",
+      "resume": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+      "source": "Latent Space",
+      "lien": "https://latent.space/p/linear-scaling/",
+      "date": "2026-11-19T23:58:21+00:00",
+      "resume": ">50% of tickets written by agents, the AI budgets behind $100M-in-months ARR, and selling without SDRs or FDEs",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "PostgreSQL 19 Released",
+      "source": "Simon Willison",
+      "lien": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "date": "2026-11-19T20:43:57+00:00",
+      "resume": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "UndoGuard",
+      "source": "Product Hunt",
+      "lien": "https://www.producthunt.com/products/undoguard",
+      "date": "2026-11-19T11:15:42-08:00",
+      "resume": "The Ctrl+Z button for autonomous AI agents Discussion | Link",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "GenAI in Software Development: Does It Really Cut Costs?",
+      "source": "DevOps.com",
+      "lien": "https://devops.com/genai-in-software-development-does-it-really-cut-costs",
+      "date": "2026-11-19T11:54:13+00:00",
+      "resume": "Generative AI can accelerate coding, testing and documentation, but faster development doesn’t necessarily translate into lower costs. Licensing fees, security reviews, rework and governance can quickly erode productivity gains. For enterprise engineering leaders, the real test is whether AI deliver",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Beyond Green Pipelines: Designing Stateful Governance for CI/CD",
+      "source": "DevOps.com",
+      "lien": "https://devops.com/beyond-green-pipelines-designing-stateful-governance-for-ci-cd",
+      "date": "2026-11-19T11:45:29+00:00",
+      "resume": "As AI agents accelerate software development, traditional CI/CD pipelines face mounting pressure to keep pace. But adding runners and speeding up tests won’t solve every problem. A governance-driven approach that retains validation results, reassesses them when conditions change and enforces release",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "CROO Skill Launches, Letting Claude Code and Codex Users Directly Call on 4,000 AI Agents",
+      "source": "BigGo Finance",
+      "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hWkI1NVFSZ24yVVN5MGVmN0NnMm5ZOFBMUDEtdUo2R3k3UWlWN00wNVlZZ211bENfbkV2UXZ3TDU5SF96TW1BNU16SFM2cXpxUzV1WFV2LXJWN3RwelNGc1pFVmh6S2RqY09TdEZSUEgzeFBMSlE?oc=5",
+      "date": "2026-11-20T08:55:00+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "AI trading bot built in just 48 hours! How a 19-year-old student used Claude Code to turn $68 into a claimed $750,000",
+      "source": "Education Times",
+      "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZHJpZ0pOeS0tQTJjY0t2amFlLWdfRWE5Qm5WOFA4TlBTZGtMampodEwxVXhKZmdRZ2IxdDd6anh5M2c2SGNRUjVWYlEwNUVXdWhPbEFrdksyUDQxSC04Q1J5TDdPX3ZVcXpNQndLRHJuTGUtUzZnRjl3U3ZDZjM5WUdmdVd6R2dyNy1Sa3g4MEtfMnJmMmdmOS1IRmM3c2doUmdqeVJMdGM5R21ScXltNExSOGEzNTN3QjFRdnhaTERSdkRhazNMb3pSTzR6enI1WjFoSzNtbjJGQWRiVjMyOXVqdXhNd2V4OXppNnptUWtuWC1EVjl2WEJRblhyb05NQURWUmJ0RGdOaUU?oc=5",
+      "date": "2026-11-20T08:34:00+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "CROO Launches CROO Skill, Opening Its AI Agent Network to Claude Code and Codex Users By Chainwire",
+      "source": "Investing.com",
+      "lien": "https://markets.businessinsider.com/news/currencies/croo-launches-croo-skill-opening-its-ai-agent-network-to-claude-code-and-codex-users-1036786948",
+      "date": "2026-11-20T08:18:33+00:00",
+      "resume": "Santa Clara, California, November 20th, 2026, ChainwireCROO, a decentralized commerce network for AI agents, announced the ...",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "AI coding adoption nears saturation while developer trust lags",
+      "source": "https://streamlinefeed.co.ke/",
+      "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUXZNb3doZGJ6dFpxRTktX0pqSksyTHRkWGNSMlFhMmx4N0d3UkpySEVZbnRNVlB6R01DQmhQTnFfMS1IOV92VURSNzRpN2dPeUlTSnVneEZfTGFodU1oTkJOV3VNWGFMd01QbXAxSHhKRFRQZDRLVS1sY1lxSkpob2hOZm1QU2hMX3Q4ai1ZUzh0eEQ1YmxGbktQdHc?oc=5",
+      "date": "2026-11-20T07:50:25+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "AI coding tool rollouts skip maturity stages, yield uneven results",
+      "source": "TechGig",
+      "lien": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUjZQbnAxTXNla282UUlydHU0MHZYUDRvbndwVzh0S0JXNEhKWDNKd1hpRFNoWE5MMjM0NGM5Yjd0MHVEUk5kNzhvMDFaNjEyQjNHejloMjJEcWhDWDVmS2JuaGVRMk5lNjJmbkdadkxob0RDamxoeXR4TGdENXVDSnBKU2NtemlXY2x5TG5qcHl5YU5WY1Y2MDZKX0hmUGN5Z1BvcXZ3?oc=5",
+      "date": "2026-11-20T07:08:06+00:00",
+      "resume": "",
+      "titre_fr": ""
+    }
+  ],
+  "top": [
+    {
+      "note": 8,
+      "motif": "Claude aurait aidé preuve Riemann, avancée majeure",
+      "couverture": 1,
+      "titre": "Anthropic mathematician claims Claude helped produce proof of Riemann hypothesis",
+      "source": "news.lavx.hu",
+      "lien": "https://news.lavx.hu/article/anthropic-mathematician-claims-claude-helped-produce-proof-of-riemann-hypothesis",
+      "date": "2026-11-21T04:10:02+00:00",
+      "resume": "Levent Alpöge, a mathematician at Anthropic, wrote that he worked with the company's Claude model to produce a proof of the Riemann hypothesis. Mathematicians have not confirmed the result.",
+      "titre_fr": "Un mathématicien d’Anthropic affirme que Claude a aidé à produire une preuve de l’hypothèse de Riemann"
+    },
+    {
+      "note": 8,
+      "motif": "Protocole MCP, standardise connexion modèles‑outils",
+      "couverture": 1,
+      "titre": "Model Context Protocol (MCP): 7 Ways it Connects AI Models with External Tools",
+      "source": "Analytics Insight",
+      "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUWdNU3ZubDZhLXpER21zaFJ6bzdtRkdORU5BbmFLYkQ5VkIybTFUeTk4ZVlWbXJMSFFyancyaFBDcFFiM0c2RFU5UjFNU2xCWWZRbkpWdjdzRGlTdWVCSE9CNHVPaUFKT0NDMXlGTEphVk9ITGNCQXRHdDVWV25YTnVIQU1YaXc1NXNJWWJtbVJ6eFh4a1U1Y0t3a2pyRnM5a3hfRi1qcVA0LXdHSENmWlk4U0pxZVRLeE8xZjk5dUg4Z9IBwgFBVV95cUxPUWdNU3ZubDZhLXpER21zaFJ6bzdtRkdORU5BbmFLYkQ5VkIybTFUeTk4ZVlWbXJMSFFyancyaFBDcFFiM0c2RFU5UjFNU2xCWWZRbkpWdjdzRGlTdWVCSE9CNHVPaUFKT0NDMXlGTEphVk9ITGNCQXRHdDVWV25YTnVIQU1YaXc1NXNJWWJtbVJ6eFh4a1U1Y0t3a2pyRnM5a3hfRi1qcVA0LXdHSENmWlk4U0pxZVRLeE8xZjk5dUg4Zw?oc=5",
+      "date": "2026-11-20T16:53:12+00:00",
+      "resume": "",
+      "titre_fr": "Model Context Protocol (MCP) : 7 façons de connecter les modèles IA à des outils externes"
+    },
+    {
+      "note": 7,
+      "motif": "Mise à jour AWS agents collaboratifs, impact sur workflows",
+      "couverture": 1,
+      "titre": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+      "source": "AWS Machine Learning",
+      "lien": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+      "date": "2026-11-21T01:06:42+00:00",
+      "resume": "AWS Quick is the AI workspace built only for work. Today we're releasing updates that help your team get more done: build and run business-process flows in chat, triage your day in the updated web app, get more complete answers from multiple agents at once, and connect new data sources like Meta ads",
+      "titre_fr": "Nouveautés d’AWS Quick : flux plus performants, interface web mise à jour et agents collaboratifs"
+    },
+    {
+      "note": 7,
+      "motif": "Gateway inference globale SageMaker, simplifie déploiement multi‑région",
+      "couverture": 1,
+      "titre": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+      "source": "AWS Machine Learning",
+      "lien": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+      "date": "2026-11-20T22:35:24+00:00",
+      "resume": "Amazon SageMaker HyperPod introduces the Global Inference Gateway, one managed endpoint that routes inference requests across your HyperPod clusters in one Region or across Regions. It picks the best cluster, fails over automatically, and authenticates every request with SigV4 and IAM over AWS Priva",
+      "titre_fr": "Amazon SageMaker HyperPod Global Inference Gateway : un point d’accès unique entre régions et clusters"
+    },
+    {
+      "note": 7,
+      "motif": "Gemini exécute apps Mac, avancée d’assistance",
+      "couverture": 1,
+      "titre": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
+      "source": "The Decoder",
+      "lien": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
+      "date": "2026-11-20T18:50:31+00:00",
+      "resume": "Google is bringing \"Computer Use\" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live preview while users keep working. The article Google's Gemini can now run Mac apps and finish desktop chores in the background while you ke",
+      "titre_fr": "Gemini de Google peut désormais exécuter des applications Mac et accomplir des tâches de bureau en arrière‑plan pendant que vous travaillez"
+    }
+  ],
+  "articles_notes": 50,
+  "liens_google": 10,
+  "videos": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "MCP Explained: How AI Agents Connect to Tools, APIs & Data",
+        "source": "Awais Mirza",
+        "lien": "https://www.youtube.com/watch?v=72gy-VunHRQ",
+        "date": "2026-11-21T07:00:27Z",
+        "image": "https://i.ytimg.com/vi/72gy-VunHRQ/mqdefault.jpg",
+        "extrait": "What happens between the moment an AI coding agent asks for an issue and the moment it gets an answer? This whiteboard ...",
+        "description": "Explication du fonctionnement interne des agents IA lorsqu’ils interagissent avec des outils, APIs et données, illustrée par un tableau blanc."
+      },
+      {
+        "titre": "Claude Code plugins optimize AI coding #AI #ClaudeAI #AITools",
+        "source": "Rayan Miller | AI & Tech ",
+        "lien": "https://www.youtube.com/watch?v=pFiyxZbPQME",
+        "date": "2026-11-21T03:02:33Z",
+        "image": "https://i.ytimg.com/vi/pFiyxZbPQME/mqdefault.jpg",
+        "extrait": "Claude Code plugins can help manage token limits and streamline AI-assisted development. Ponytail is designed to reduce ...",
+        "description": "Présentation des plugins Claude Code qui optimisent la gestion des limites de tokens et simplifient le développement assisté par IA."
+      },
+      {
+        "titre": "Your AI coding agent keeps stopping? 3 Claude Code rules",
+        "source": "roupen odabashian",
+        "lien": "https://www.youtube.com/watch?v=4bVfLYb5ITc",
+        "date": "2026-11-20T23:28:23Z",
+        "image": "https://i.ytimg.com/vi/4bVfLYb5ITc/mqdefault.jpg",
+        "extrait": "Your AI coding agent stops after every step because you gave it a task, not a job. These are the three rules I use in Claude Code ...",
+        "description": "Trois règles essentielles pour éviter que votre agent de codage Claude ne s’arrête à chaque étape, en le transformant d’une simple tâche en un vrai travail continu."
+      },
+      {
+        "titre": "What is MCP? 🚀 The hidden layer behind modern AI agents",
+        "source": "Shahnawaz Khan",
+        "lien": "https://www.youtube.com/watch?v=mVbhQsrMl4k",
+        "date": "2026-11-20T22:02:05Z",
+        "image": "https://i.ytimg.com/vi/mVbhQsrMl4k/mqdefault.jpg",
+        "extrait": "What is MCP? The hidden layer behind modern AI agents Every AI project reinvents tool schemas, context passing, memory, ...",
+        "description": "Description du Model Context Protocol (MCP) comme couche cachée qui structure la communication entre les agents IA modernes et leurs outils."
+      },
+      {
+        "titre": "AI Agents Explained Without the Hype (and How to Build One That Works)",
+        "source": "Paydirt Lab",
+        "lien": "https://www.youtube.com/watch?v=XphJqVKGglo",
+        "date": "2026-11-20T20:01:49Z",
+        "image": "https://i.ytimg.com/vi/XphJqVKGglo/mqdefault.jpg",
+        "extrait": "Every app now calls itself an \"agent.\" Underneath, it's a simple recipe: a model, some tools, a loop, and a harness that keeps it ...",
+        "description": "Décryptage des agents IA sans le battage médiatique, avec un guide pratique pour en construire un qui fonctionne réellement."
+      },
+      {
+        "titre": "Claude Code: Build Your First AI Agent in 13 Minutes (No Coding)",
+        "source": "Ned S | AI Engineer",
+        "lien": "https://www.youtube.com/watch?v=d7UfMaDFfcQ",
+        "date": "2026-11-20T19:51:12Z",
+        "image": "https://i.ytimg.com/vi/d7UfMaDFfcQ/mqdefault.jpg",
+        "extrait": "Build your first AI agent with Claude Code, level by level, without writing code. I built a content creator agent for a small cooking ...",
+        "description": "Tutoriel pas à pas pour créer son premier agent IA avec Claude Code en 13 minutes, sans écrire de code."
+      },
+      {
+        "titre": "Design a Coding Agent like Copilot & Claude Code | AI System Design",
+        "source": "The Production Engineer",
+        "lien": "https://www.youtube.com/watch?v=TnTkxpQ0QcI",
+        "date": "2026-11-20T19:36:25Z",
+        "image": "https://i.ytimg.com/vi/TnTkxpQ0QcI/mqdefault.jpg",
+        "extrait": "Design a coding agent like GitHub Copilot, Claude Code or Cursor: a full AI system design interview answer. AI agent architecture ...",
+        "description": "Conception détaillée d’un agent de codage comparable à GitHub Copilot ou Claude Code, présentée comme une réponse à une interview de design système IA."
+      },
+      {
+        "titre": "Claude Code Builds a 3D V8 Engine You Can Take Apart! 🤯",
+        "source": "Khosruzzamanai",
+        "lien": "https://www.youtube.com/watch?v=Jx3QgLLZrdM",
+        "date": "2026-11-20T18:51:08Z",
+        "image": "https://i.ytimg.com/vi/Jx3QgLLZrdM/mqdefault.jpg",
+        "extrait": "One prompt. A fully interactive 3D V8 engine! ⚙️ Watch Claude Code turn a simple idea into a 3D engine you can explore and ...",
+        "description": "Démonstration où Claude Code génère un moteur V8 3D complet et interactif à partir d’une simple invite."
+      },
+      {
+        "titre": "MCP Explained: What It Actually Changes for Your AI Agent",
+        "source": "AJAY SHARMA AI",
+        "lien": "https://www.youtube.com/watch?v=9pRSkWR2CTQ",
+        "date": "2026-11-20T16:00:22Z",
+        "image": "https://i.ytimg.com/vi/9pRSkWR2CTQ/mqdefault.jpg",
+        "extrait": "MCP explained in one question: what does it actually change for your AI agent? For the model, nothing. I ran the same support ...",
+        "description": "Analyse de ce que le MCP change réellement pour un agent IA : aucune modification du modèle, mais un impact sur la façon dont les outils sont intégrés."
+      },
+      {
+        "titre": "MCP Explained: Why AI Agents Need Model Context Protocol",
+        "source": "AIARCHITECTLAB",
+        "lien": "https://www.youtube.com/watch?v=AIzRroKETlY",
+        "date": "2026-11-20T15:03:50Z",
+        "image": "https://i.ytimg.com/vi/AIzRroKETlY/mqdefault.jpg",
+        "extrait": "What is MCP (Model Context Protocol), and why does it matter for AI agents?** Imagine connecting 4 AI agents to 5 different tools.",
+        "description": "Explication du pourquoi le Model Context Protocol est crucial pour les agents IA, illustrant la connexion de multiples agents à divers outils."
+      }
+    ]
+  },
+  "podcasts": {
+    "statut": "ok",
+    "fenetre_heures": 72,
+    "elements": [
+      {
+        "titre": "Ep 20 · Midday Update: Friday, November 20, 2026",
+        "source": "ACN · AI Coding News",
+        "lien": "https://podcasts.apple.com/us/podcast/ep-20-midday-update-friday-november-20-2026/id6834673859?i=1000803233487&uo=4",
+        "date": "2026-11-21T02:43:27+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1d/b3/36/1db3363c-4815-919a-2916-08b5724a099e/mza_11412927109281359048.jpg/160x160bb.jpg",
+        "duree_min": 3,
+        "extrait": "AI models still lag at judgment calls. AI agents find a zero-day on their own. And Claude now writes ninety percent of its team's code. METR: AI models still lag at judgmentAI agents found a zero-day on their ownAnthropic: Claude writes 90% of its team'",
+        "description": "Discussion sur les limites des modèles d'IA pour les jugements, la découverte d’une faille zero‑day par des agents IA et l'annonce que Claude écrit 90 % du code de son équipe."
+      },
+      {
+        "titre": "They Tried To Pay Me To Promote This Dumpster Fire",
+        "source": "Nick Saraev: Claude, Codex & AI Agents",
+        "lien": "https://podcasts.apple.com/us/podcast/they-tried-to-pay-me-to-promote-this-dumpster-fire/id6813881534?i=1000803232435&uo=4",
+        "date": "2026-11-21T02:30:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/92/ca/0a92ca86-1a93-218b-17a0-cb7ecf5ee6c2/mza_13524816244427486222.jpg/160x160bb.jpg",
+        "duree_min": 12,
+        "extrait": "🔥 Join Maker School and get customer #1 guaranteed: https://skool.com/makerschool/about📚 Watch my NEW 2026 Claude Code course: https://www.youtube.com/watch?v=QoQBzR1NIqI🎙️ Listen to my silly podcast: www.youtube.com/@stackedpodUploaded",
+        "description": "Analyse humoristique et technique des performances de Claude, Codex et des agents IA, incluant une démonstration de code et un podcast personnel de Nick Saraev."
+      },
+      {
+        "titre": "Ox Alpha DESIGNER: THIS SHOULD NOT BE FREE!!",
+        "source": "AICodeKing",
+        "lien": "https://podcasts.apple.com/us/podcast/ox-alpha-designer-this-should-not-be-free/id6826122006?i=1000800539639&uo=4",
+        "date": "2026-11-21T00:17:30+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/c0/fd/abc0fd5f-2eb6-aad5-d2ed-4502e35f237c/mza_12893471823733536680.jpg/160x160bb.jpg",
+        "duree_min": 13,
+        "extrait": "",
+        "description": "Présentation d’« Ox Alpha DESIGNER », un outil d’IA génératif destiné à la conception, avec un focus sur ses capacités avancées et son positionnement tarifaire."
+      },
+      {
+        "titre": "Mistral's Codestral (22B): The BEST Opensource CODING LLM is here! (Beats Llama 3, GPT-4O and Claude)",
+        "source": "AICodeKing",
+        "lien": "https://podcasts.apple.com/us/podcast/mistrals-codestral-22b-the-best-opensource-coding-llm/id6826122006?i=1000800515929&uo=4",
+        "date": "2026-11-20T23:48:45+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8c/47/66/8c4766ae-df1b-be3d-758c-9cdf7176b7c4/mza_15382474493887084071.jpg/160x160bb.jpg",
+        "duree_min": 12,
+        "extrait": "",
+        "description": "Mistral dévoile Codestral (22 B), un LLM open‑source spécialisé dans le codage, prétendu supérieur à Llama 3, GPT‑4O et Claude."
+      },
+      {
+        "titre": "Build AI Factories, Not One-Off Automations | EP 146",
+        "source": "AI Agents Podcast",
+        "lien": "https://podcasts.apple.com/us/podcast/build-ai-factories-not-one-off-automations-ep-146/id1783076120?i=1000803147216&uo=4",
+        "date": "2026-11-20T15:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f5/9a/ca/f59aca7c-b017-5c46-1dea-3289b7c36a25/mza_1957516471191143403.jpg/160x160bb.jpg",
+        "duree_min": 50,
+        "extrait": "What changes when you stop automating individual tasks and start building systems that handle an entire workflow? Aytekin Tank and Demetri Panici discuss AI factories: connected agents, human review, measurement, and the work of improving the system it",
+        "description": "Épisode sur la construction d’« AI Factories », c’est‑à‑dire des systèmes d’agents connectés qui automatisent des flux de travail complets plutôt que des tâches isolées."
+      },
+      {
+        "titre": "Your Canva and HubSpot can now open inside Claude, Anthropic says. Plus Microsoft puts your Bing ads next to AI answers",
+        "source": "AI Industry Report",
+        "lien": "https://podcasts.apple.com/us/podcast/your-canva-and-hubspot-can-now-open-inside-claude/id6790021778?i=1000803127461&uo=4",
+        "date": "2026-11-20T13:27:34+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7e/91/e3/7e91e3b3-0520-9786-59d9-2827e1d4de53/mza_14952691971367866489.png/160x160bb.jpg",
+        "duree_min": 4,
+        "extrait": "Microsoft says your Bing ads can now show up right next to its AI answers, with nothing new to switch on. In this episode: • Microsoft confirms your Bing ads can now appear beside AI answers, and there is nothing new to switch on. • Your Canva, Hu",
+        "description": "Annonce que Claude (Anthropic) peut maintenant être intégré dans Canva et HubSpot, et que les publicités Bing seront affichées à côté des réponses d’IA de Microsoft."
+      },
+      {
+        "titre": "Daily AI briefing · Nov 20, 2026",
+        "source": "Jadid for Engineers: Daily AI Briefing",
+        "lien": "https://podcasts.apple.com/us/podcast/daily-ai-briefing-nov-20-2026/id6828679411?i=1000803131718&uo=4",
+        "date": "2026-11-20T13:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f6/b1/e2/f6b1e261-6134-ec0c-78e0-e25895697cb2/mza_936660052426036487.png/160x160bb.jpg",
+        "duree_min": 7,
+        "extrait": "Computer-use agents are reaching real desktops faster than anyone can show they stay inside the task. Google put Gemini in control of Macs and Apple is hiring to build its own, while OpenAI documented a training agent that wrote an email-copying script",
+        "description": "Briefing quotidien montrant que les agents d’usage informatique atteignent rapidement les postes de travail, avec Gemini sur Mac et les dernières avancées d’OpenAI."
+      },
+      {
+        "titre": "Anthropic up 17% at debut, Gemini on Mac — AI News Nov 20",
+        "source": "AI Engineering Briefing: Daily AI News for Software Engineers",
+        "lien": "https://podcasts.apple.com/us/podcast/anthropic-up-17-at-debut-gemini-on-mac-ai-news-nov-20/id6817748791?i=1000803138586&uo=4",
+        "date": "2026-11-20T11:51:41+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/a6/64/4ba66456-334f-7aff-3f96-6b1ffaf487b1/mza_4141795612631486120.jpg/160x160bb.jpg",
+        "duree_min": 10,
+        "extrait": "- Anthropic's first day as a public company: opened at $111.50, closed at $97.17, up 17% on the biggest IPO ever, plus the Senate's new AI disclosure bill - Gemini for Mac can now click, type and fill forms across your apps, and Apple is reportedly buil",
+        "description": "Résumé des nouvelles IA du 20 novembre : IPO d’Anthropic, Gemini disponible sur Mac pour interagir avec les interfaces, et le nouveau projet de loi de divulgation IA du Sénat."
+      },
+      {
+        "titre": "Deterministic Tool Authorization: Replacing Prompt Guardrails with OPA & Cedar | The Agentic Stack",
+        "source": "The Agentic Stack | VekktorAI",
+        "lien": "https://podcasts.apple.com/us/podcast/deterministic-tool-authorization-replacing-prompt-guardrails/id6806104050?i=1000802957989&uo=4",
+        "date": "2026-11-19T16:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f2/46/82/f24682e7-6fd1-0820-8015-34f4fd4f2160/mza_11372861070482983340.jpg/160x160bb.jpg",
+        "duree_min": 8,
+        "extrait": "In this episode, Alice and Mouli unpack the security, latency, and auditability flaws of relying on system prompt constraints and secondary LLM-as-a-Judge guardrails to authorize agentic tool execution. They examine how indirect prompt injection easily",
+        "description": "Analyse de la sécurisation des outils d’agents IA en remplaçant les garde‑fous de prompts par des politiques OPA et Cedar, avec focus sur latence et auditabilité."
+      },
+      {
+        "titre": "Anthropic goes public, Gemini 4 Neon lands — AI News Nov 19",
+        "source": "AI Engineering Briefing: Daily AI News for Software Engineers",
+        "lien": "https://podcasts.apple.com/us/podcast/anthropic-goes-public-gemini-4-neon-lands-ai-news-nov-19/id6817748791?i=1000802915476&uo=4",
+        "date": "2026-11-19T11:39:15+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/a6/64/4ba66456-334f-7aff-3f96-6b1ffaf487b1/mza_4141795612631486120.jpg/160x160bb.jpg",
+        "duree_min": 12,
+        "extrait": "- Anthropic goes public: $83 a share, 980M shares, $81.3B raised, the biggest US IPO on record, trading today as ANT — Amazon and Google own about 28% combined - Gemini 4 Neon lands: Google's new mid-tier coding model, 1M-token context, $3/$15 per mil",
+        "description": "Mise à jour du 19 novembre sur l’introduction en bourse d’Anthropic et le lancement de Gemini 4 Neon, le nouveau modèle de codage de Google, avec chiffres clés et impact sur le marché."
+      }
+    ]
+  }
+}

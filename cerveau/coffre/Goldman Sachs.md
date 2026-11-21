@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t4.md"
 type: "concept"
-community: "CoreWeave"
+community: "Goldman Sachs"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/CoreWeave
+  - community/Goldman_Sachs
 ---
 
 # Goldman Sachs
@@ -18,4 +18,4 @@ tags:
 - [[Veille France 2026-11-17]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-18 (T2)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/CoreWeave
+#graphify/concept #graphify/EXTRACTED #community/Goldman_Sachs

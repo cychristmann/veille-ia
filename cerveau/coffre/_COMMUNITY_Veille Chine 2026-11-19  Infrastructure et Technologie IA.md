@@ -1,25 +1,29 @@
 ---
 type: community
-members: 12
+members: 16
 ---
 
 # Veille Chine 2026-11-19 : Infrastructure et Technologie IA
 
-**Members:** 12 nodes
+**Members:** 16 nodes
 
 ## Members
-- [[CoreWeave]] - concept - veilles/veille-ia-fr-2026-11-11-t1.md
-- [[Foxconn]] - code - veilles/veille-ia-us-2026-11-16-t2.md
-- [[Fractile]] - concept - veilles/veille-ia-fr-2026-11-11-t1.md
-- [[Intel]] - code - veilles/veille-ia-us-2026-11-16-t2.md
-- [[Marvell]] - concept - veilles/veille-ia-us-2026-11-11-t1.md
-- [[Micron]] - concept - veilles/veille-ia-us-2026-11-11-t1.md
-- [[SambaNova Systems]] - code - veilles/veille-ia-us-2026-11-16-t2.md
-- [[Sandisk]] - concept - veilles/veille-ia-us-2026-11-11-t1.md
-- [[Seagate]] - concept - veilles/veille-ia-us-2026-11-11-t1.md
-- [[Veille France 2026-11-11]] - document - veilles/veille-ia-fr-2026-11-11-t1.md
-- [[Veille États-Unis 2026-11-11  Financement et Bourse de l'IA]] - document - veilles/veille-ia-us-2026-11-11-t1.md
-- [[Veille États-Unis 2026-11-16 (Industrie)]] - document - veilles/veille-ia-us-2026-11-16-t2.md
+- [[18 Jobs ‘A Recession Can’t Kill & Artificial Intelligence Can’t Take’]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[A Layman Thinks About AI]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[AI roadmap for ecology foundation models, Nov 2026]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Barzilay and Collins Win the 2026 Pritzker Prize for AI in Science Research Excellence]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[CEO Talks Rémy Baume on Using Customer Insights and AI to Drive Growth at Printemps]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Future of AI brain models sparks debate]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[How AI Security Models Are Redefining Banking Resilience]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Human Performance and AI in Sports Analytics Minor Combines Practical Skills with Data Analysis]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Japan's Atlas raises $626K for relationship-building AI]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[LightSite AI Reports Gaps in Website Answers to AI Agent Requests]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Meta Expands Instagram AI Age Checks Worldwide]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Meta's AI Bot Won’t Revolutionize Your Finances]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Microsoft's $5,899 AI Laptop Is Here, and You Should Absolutely Not Buy It]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[PODCAST Anthropic heads for the ultimate AI benchmark]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[US and China are failing the same AI race, only differently]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Veille États-Unis 2026-11-12]] - document - veilles/veille-ia-us-2026-11-12-t7.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -27,16 +31,3 @@ members: 12
 TABLE source_file, type FROM #community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 2 edges to [[_COMMUNITY_Nvidia_1]]
-- 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-11  Marchés et investissements]]
-- 1 edge to [[_COMMUNITY_Apple]]
-- 1 edge to [[_COMMUNITY_Meta]]
-- 1 edge to [[_COMMUNITY_Anthropic_1]]
-
-## Top bridge nodes
-- [[Veille France 2026-11-11]] - degree 7, connects to 5 communities
-- [[CoreWeave]] - degree 10, connects to 3 communities

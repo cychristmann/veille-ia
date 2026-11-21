@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-17-t2.md"
 type: "document"
-community: "GPT-6 Astra"
+community: "ChatGPT Wallet"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/ChatGPT_Wallet
 ---
 
 # Veille Outils & code 2026-11-17
@@ -28,4 +28,4 @@ tags:
 - [[Vercel]] - `references` [EXTRACTED]
 - [[datasette-maplibre]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/document #graphify/EXTRACTED #community/ChatGPT_Wallet

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-20-t3.md"
 type: "document"
-community: "Veille États-Unis 2026-11-20 : Gouvernance, sécurité et régulation"
+community: "Veille Outils & code 2026-11-17 (T4)"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-20__Gouvernance_sécurité_et_régulation
+  - community/Veille_Outils__code_2026-11-17_T4
 ---
 
 # Veille États-Unis 2026-11-20 : Gouvernance, sécurité et régulation
@@ -14,4 +14,4 @@ tags:
 - [[AI Governance and Security]] - `conceptually_related_to` [EXTRACTED]
 - [[Trahan AI Safety Framework]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-20__Gouvernance_sécurité_et_régulation
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-17_T4

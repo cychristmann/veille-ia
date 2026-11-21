@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0010.md"
 type: "concept"
-community: "Feuilleton: Compromission massive du Microsoft Agent Framework"
+community: "Veille Chine 2026-11-19 : Infrastructure et Technologie IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
+  - community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA
 ---
 
 # MathArena
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Gemini 4 Carbon]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-15-t2.md"
 type: "document"
-community: "Veille France 2026-11-09 : Applications sociétales et culturelles de l’IA"
+community: "Veille France 2026-11-15"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-09__Applications_sociétales_et_culturelles_de_lIA
+  - community/Veille_France_2026-11-15
 ---
 
 # Veille France 2026-11-15
@@ -30,4 +30,4 @@ tags:
 - [[This Is Unreal (Spectacle)]] - `references` [EXTRACTED]
 - [[Universités britanniques]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-09__Applications_sociétales_et_culturelles_de_lIA
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-15

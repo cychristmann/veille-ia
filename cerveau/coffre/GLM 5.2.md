@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-18-2.md"
 type: "concept"
-community: "GPT-6 Astra"
+community: "ChatGPT Wallet"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/ChatGPT_Wallet
 ---
 
 # GLM 5.2
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Hugging Face]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/concept #graphify/EXTRACTED #community/ChatGPT_Wallet

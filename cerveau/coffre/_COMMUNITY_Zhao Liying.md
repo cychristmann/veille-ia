@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Veille Chine 2026-11-12  Contenus et médias IA]] - document - veilles/veille-ia-cn-2026-11-12-t5.md
-- [[Zhao Liying]] - concept - veilles/veille-ia-cn-2026-11-12-t5.md
+- [[Sécurité et risques de l'IA]] - concept - veilles/veille-ia-fr-2026-11-14-t4.md
+- [[Veille France 2026-11-14  Sécurité, risques et fraudes]] - document - veilles/veille-ia-fr-2026-11-14-t4.md
 
 ## Live Query (requires Dataview plugin)
 

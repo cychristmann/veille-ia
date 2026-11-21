@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t4.md"
 type: "document"
-community: "CoreWeave"
+community: "Goldman Sachs"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/CoreWeave
+  - community/Goldman_Sachs
 ---
 
 # Veille France 2026-11-09 : Applications sociétales et culturelles de l’IA
@@ -17,4 +17,4 @@ tags:
 - [[Siri]] - `references` [EXTRACTED]
 - [[Take Two]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/CoreWeave
+#graphify/document #graphify/EXTRACTED #community/Goldman_Sachs

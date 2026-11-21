@@ -1,17 +1,16 @@
 ---
 type: community
-members: 4
+members: 3
 ---
 
 # Veille France 2026-11-16 : Régulation, sécurité et gouvernance
 
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[AI麦可 (AI Maike)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
-- [[Veille Chine 2026-11-16  Applications sectorielles]] - document - veilles/veille-ia-cn-2026-11-16-t3.md
-- [[豆包工作 (Doubao Work)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
-- [[豆包工作台 (Doubao Workbench)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
+- [[AI Automation]] - concept - dossiers/2026-11-17-3.md
+- [[Job Market]] - concept - dossiers/2026-11-17-3.md
+- [[Policy Responses]] - concept - dossiers/2026-11-17-3.md
 
 ## Live Query (requires Dataview plugin)
 

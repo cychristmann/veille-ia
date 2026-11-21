@@ -1,20 +1,25 @@
 ---
 type: community
-members: 7
+members: 12
 ---
 
 # Veille Outils & code 2026-11-15
 
-**Members:** 7 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Bulle spéculative de l'IA]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Dollar IA (ROI)]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Déploiement de l'IA à l'échelle]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Gains de productivité de l'IA]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Recrutement en IA]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Startups IA azuréennes]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Veille France 2026-11-19  Marché, productivité et perspectives économiques]] - document - veilles/veille-ia-fr-2026-11-19-t5.md
+- [[AI Hallucination Challenges]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[Baidu AI Models]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[Cisco AI Revenue Performance]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[DAI 2026“物理世界AI前沿安全”研讨会]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[Veille Chine 2026-11-13  Régulation, compétition et marché]] - document - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[Veille Chine 2026-11-14  Stratégie, gouvernance et recherche IA]] - document - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[上海市科学数据管理办法]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[吴清：深化人工智能与资本市场双向赋能研究]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[李彦宏：人工智能的下一幕是智能组织]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[第七届中国人工智能大赛]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[腾讯闭门会比喻被误读为裁员50%]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[让人工智能技术潜力更好转化为生产率增长]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
 
 ## Live Query (requires Dataview plugin)
 

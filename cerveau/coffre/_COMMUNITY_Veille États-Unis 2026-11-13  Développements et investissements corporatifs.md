@@ -1,19 +1,28 @@
 ---
 type: community
-members: 6
+members: 15
 ---
 
 # Veille États-Unis 2026-11-13 : Développements et investissements corporatifs
 
-**Members:** 6 nodes
+**Members:** 15 nodes
 
 ## Members
 - [[4RISE]] - code - veilles/veille-ia-us-2026-11-13-t1.md
 - [[AI Memory Tools]] - code - veilles/veille-ia-us-2026-11-13-t1.md
+- [[Aurix Network]] - concept - veilles/veille-ia-us-2026-11-19-t3.md
+- [[Cisco]] - code - veilles/veille-ia-us-2026-11-13-t1.md
+- [[Digital Networks Act]] - code - veilles/veille-ia-us-2026-11-13-t1.md
+- [[Palo Alto Networks]] - concept - veilles/veille-ia-us-2026-11-19-t4.md
 - [[Penguin Solutions]] - code - veilles/veille-ia-us-2026-11-13-t1.md
 - [[Salesforce]] - code - veilles/veille-ia-us-2026-11-13-t1.md
+- [[Semgrep]] - concept - veilles/veille-ia-us-2026-11-19-t4.md
 - [[Sino Biological]] - code - veilles/veille-ia-us-2026-11-13-t1.md
+- [[Tempus AI]] - concept - veilles/veille-ia-us-2026-11-19-t3.md
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - document - veilles/veille-ia-us-2026-11-13-t1.md
+- [[Veille États-Unis 2026-11-19  Applications sectorielles]] - document - veilles/veille-ia-us-2026-11-19-t3.md
+- [[Veille États-Unis 2026-11-19  Infrastructure et matériel]] - document - veilles/veille-ia-us-2026-11-19-t4.md
+- [[Vero Security]] - concept - veilles/veille-ia-us-2026-11-19-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,12 +32,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-13]]
-- 1 edge to [[_COMMUNITY_Nvidia_1]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-15  Finances, valorisation et marché de l’IA]]
+- 2 edges to [[_COMMUNITY_Nvidia_1]]
 - 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Dossier Course à l'IA entre États‑Unis et Chine]]
+- 1 edge to [[_COMMUNITY_Meta]]
+- 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_Elon Musk]]
 
 ## Top bridge nodes
-- [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - degree 9, connects to 6 communities
+- [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - degree 9, connects to 5 communities
+- [[Veille États-Unis 2026-11-19  Infrastructure et matériel]] - degree 5, connects to 2 communities

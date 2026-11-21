@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0032.md"
 type: "concept"
-community: "AMD"
+community: "Feuilleton: Compromission massive du Microsoft Agent Framework"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AMD
+  - community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
 ---
 
 # The New Stack
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Feuilleton Compromission massive du Microsoft Agent Framework]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AMD
+#graphify/concept #graphify/EXTRACTED #community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework

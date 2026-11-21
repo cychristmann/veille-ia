@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-14-t1.md"
 type: "document"
-community: "Veille États-Unis 2026-11-14 : Incident FAA et Intelligence Artificielle"
+community: "Crise des data-centers IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-14__Incident_FAA_et_Intelligence_Artificielle
+  - community/Crise_des_data-centers_IA
 ---
 
 # Veille États-Unis 2026-11-14 : Incident FAA et Intelligence Artificielle
@@ -15,4 +15,4 @@ tags:
 - [[Microsoft]] - `references` [EXTRACTED]
 - [[SMART AI System]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Incident_FAA_et_Intelligence_Artificielle
+#graphify/document #graphify/EXTRACTED #community/Crise_des_data-centers_IA

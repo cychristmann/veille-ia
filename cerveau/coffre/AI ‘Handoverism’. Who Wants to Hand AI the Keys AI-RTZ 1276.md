@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-20-t6.md"
 type: "concept"
-community: "Charta Health"
+community: "Veille États-Unis 2026-11-20 : Autres articles"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Charta_Health
+  - community/Veille_États-Unis_2026-11-20__Autres_articles
 ---
 
 # AI: ‘Handoverism’. Who Wants to Hand AI the Keys? AI-RTZ #1276
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-20  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Charta_Health
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-20__Autres_articles

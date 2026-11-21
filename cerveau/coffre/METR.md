@@ -1,16 +1,17 @@
 ---
-source_file: "dossiers/2026-11-19-2.md"
+source_file: "veilles/veille-ia-us-2026-11-21-t1.md"
 type: "concept"
-community: "Meta"
+community: "GPT-6 Astra"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Meta
+  - community/GPT-6_Astra
 ---
 
 # METR
 
 ## Connections
 - [[OpenAI]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-21  Anthropic & Riemann]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Meta
+#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra

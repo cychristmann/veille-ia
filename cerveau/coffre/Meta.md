@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
 type: "code"
-community: "Veille Chine 2026-11-13"
+community: "Meta"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-13
+  - community/Meta
 ---
 
 # Meta
@@ -29,4 +29,4 @@ tags:
 - [[Veille États-Unis 2026-11-09  Nouveaux modèles et avancées technologiques]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Veille_Chine_2026-11-13
+#graphify/code #graphify/EXTRACTED #community/Meta

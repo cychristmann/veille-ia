@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-16-t3.md"
 type: "document"
-community: "Veille France 2026-11-16 : Applications sectorielles et industrielles"
+community: "Veille États-Unis 2026-11-16 : Sécurité, éthique et marché financier"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-16__Applications_sectorielles_et_industrielles
+  - community/Veille_États-Unis_2026-11-16__Sécurité_éthique_et_marché_financier
 ---
 
 # Veille France 2026-11-16 : Applications sectorielles et industrielles
@@ -15,4 +15,4 @@ tags:
 - [[IA dans le recrutement]] - `conceptually_related_to` [EXTRACTED]
 - [[Souveraineté numérique et IA]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-16__Applications_sectorielles_et_industrielles
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-16__Sécurité_éthique_et_marché_financier

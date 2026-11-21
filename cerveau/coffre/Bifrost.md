@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-19-t1.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-14 : Autres articles"
+community: "Veille États-Unis 2026-11-12 : IA en santé et sciences de la vie"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-14__Autres_articles
+  - community/Veille_États-Unis_2026-11-12__IA_en_santé_et_sciences_de_la_vie
 ---
 
 # Bifrost
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Autres_articles
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-12__IA_en_santé_et_sciences_de_la_vie

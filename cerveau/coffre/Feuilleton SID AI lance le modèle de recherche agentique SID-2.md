@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0031.md"
 type: "document"
-community: "CoreWeave"
+community: "Veille Chine 2026-11-17"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/CoreWeave
+  - community/Veille_Chine_2026-11-17
 ---
 
 # Feuilleton: SID AI lance le modèle de recherche agentique SID-2
@@ -14,4 +14,4 @@ tags:
 - [[MarkTechPost]] - `cites` [EXTRACTED]
 - [[SID-2]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/CoreWeave
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-17

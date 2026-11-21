@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-17-t6.md"
+source_file: "veilles/veille-ia-cn-2026-11-17-t2.md"
 type: "document"
 community: "Veille Chine 2026-11-17"
 tags:
@@ -16,7 +16,7 @@ tags:
 - [[Google Cloud]] - `references` [EXTRACTED]
 - [[Industrial AI]] - `references` [EXTRACTED]
 - [[Jensen Huang]] - `references` [EXTRACTED]
-- [[Kuaishou Kling AI]] - `references` [EXTRACTED]
+- [[Kling AI]] - `references` [EXTRACTED]
 - [[Microsoft]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]

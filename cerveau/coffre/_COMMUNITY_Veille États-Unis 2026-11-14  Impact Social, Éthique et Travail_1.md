@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[ConnectWise]] - concept - dossiers/2026-11-16-1.md
+- [[Feuilleton Centre international d’IA militaire français ouvert à Rennes]] - document - feuilletons/f-0023.md
 
 ## Live Query (requires Dataview plugin)
 

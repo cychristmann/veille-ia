@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t3.md"
 type: "document"
-community: "复旦发展研究院"
+community: "Deletion Tuning"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/复旦发展研究院
+  - community/Deletion_Tuning
 ---
 
 # Veille Chine 2026-11-10 : Régulation et gouvernance de l’IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[复旦发展研究院]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/复旦发展研究院
+#graphify/document #graphify/EXTRACTED #community/Deletion_Tuning

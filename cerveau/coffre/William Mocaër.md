@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t1.md"
 type: "concept"
-community: "Qwen3.8"
+community: "Blue J"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Qwen38
+  - community/Blue_J
 ---
 
 # William Mocaër
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Odystoria]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Qwen38
+#graphify/concept #graphify/EXTRACTED #community/Blue_J

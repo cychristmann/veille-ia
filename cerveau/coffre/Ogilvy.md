@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-11-t2.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-13 : Développements et investissements corporatifs"
+community: "Anthropic"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+  - community/Anthropic
 ---
 
 # Ogilvy
@@ -15,4 +15,4 @@ tags:
 - [[LEGO]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-13  Applications & Outils IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+#graphify/concept #graphify/EXTRACTED #community/Anthropic

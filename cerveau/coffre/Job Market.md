@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-17-3.md"
 type: "concept"
-community: "Veille Chine 2026-11-15 : Éducation, formation et talents IA"
+community: "Veille France 2026-11-16 : Régulation, sécurité et gouvernance"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-15__Éducation_formation_et_talents_IA
+  - community/Veille_France_2026-11-16__Régulation_sécurité_et_gouvernance
 ---
 
 # Job Market
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AI Automation]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-15__Éducation_formation_et_talents_IA
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-16__Régulation_sécurité_et_gouvernance

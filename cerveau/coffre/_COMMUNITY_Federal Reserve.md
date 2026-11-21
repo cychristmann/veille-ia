@@ -33,8 +33,8 @@ SORT file.name ASC
 
 ## Connections to other communities
 - 1 edge to [[_COMMUNITY_Nvidia_1]]
-- 1 edge to [[_COMMUNITY_Meta]]
-- 1 edge to [[_COMMUNITY_Anthropic_1]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs_1]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
 
 ## Top bridge nodes
 - [[Donald Trump]] - degree 4, connects to 3 communities

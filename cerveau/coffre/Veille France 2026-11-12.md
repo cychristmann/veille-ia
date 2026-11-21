@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-12-t2.md"
 type: "document"
-community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
+community: "Veille Chine 2026-11-19 : Infrastructure et Technologie IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+  - community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA
 ---
 
 # Veille France 2026-11-12
@@ -26,4 +26,4 @@ tags:
 - [[Omnii Defense]] - `references` [EXTRACTED]
 - [[United Airlines]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA

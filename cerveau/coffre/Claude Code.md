@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t2.md"
 type: "concept"
-community: "Claude Code"
+community: "Veille Chine 2026-11-19 : Régulation & Gouvernance IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Claude_Code
+  - community/Veille_Chine_2026-11-19__Régulation__Gouvernance_IA
 ---
 
 # Claude Code
@@ -22,6 +22,7 @@ tags:
 - [[L'Opinion.fr]] - `references` [EXTRACTED]
 - [[Obsidian]] - `shares_data_with` [INFERRED]
 - [[Tencent]] - `references` [EXTRACTED]
+- [[TestSprite 4.0]] - `conceptually_related_to` [EXTRACTED]
 - [[Tokendoctor]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-12]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-13]] - `references` [EXTRACTED]
@@ -39,6 +40,7 @@ tags:
 - [[Veille Outils & code 2026-11-19  Autres articles]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-19  Sécurité et défense des agents IA]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-20]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-21]] - `references` [EXTRACTED]
 - [[n8n]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Claude_Code
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-19__Régulation__Gouvernance_IA

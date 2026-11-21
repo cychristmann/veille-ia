@@ -4,6 +4,20 @@
    "KDnuggets": {
     "depuis": "2026-11-19",
     "motif": "hors sujet : 5 articles écartés, aucun retenu en 7 nuits"
+   },
+   "JetBrains AI": {
+    "depuis": "2026-11-21",
+    "motif": "muet : aucun article récent sur l'IA en 4 nuits (48 articles lus)"
+   },
+   "Cursor": {
+    "depuis": "2026-11-21",
+    "motif": "muet : aucun article récent sur l'IA en 4 nuits (200 articles lus)"
+   }
+  },
+  "cn": {
+   "新浪科技": {
+    "depuis": "2026-11-21",
+    "motif": "muet : aucun article récent sur l'IA en 4 nuits (60 articles lus)"
    }
   }
  },
@@ -43,6 +57,42 @@
    "motif": "score actuel 70.6/100",
    "raison": "Réduire la part de Google Actualités de 1.0 à 0.8 pour la Chine devrait augmenter le taux de liens directs, qui est très bas.",
    "resultat": "essai pendant 3 nuits"
+  },
+  {
+   "date": "2026-11-21",
+   "action": "pause",
+   "section": "cn",
+   "source": "新浪科技",
+   "motif": "muet : aucun article récent sur l'IA en 4 nuits (60 articles lus)",
+   "raison": "Le média « 新浪科技 » est muet depuis 4 nuits, il n'apporte aucun article pertinent.",
+   "resultat": ""
+  },
+  {
+   "date": "2026-11-21",
+   "action": "pause",
+   "section": "dev",
+   "source": "JetBrains AI",
+   "motif": "muet : aucun article récent sur l'IA en 4 nuits (48 articles lus)",
+   "raison": "« JetBrains AI » ne publie plus d'articles IA récents, la pause permet de libérer du temps.",
+   "resultat": ""
+  },
+  {
+   "date": "2026-11-21",
+   "action": "pause",
+   "section": "dev",
+   "source": "Cursor",
+   "motif": "muet : aucun article récent sur l'IA en 4 nuits (200 articles lus)",
+   "raison": "« Cursor » est inactif depuis 4 nuits, il n'est plus utile pour la veille.",
+   "resultat": ""
+  },
+  {
+   "date": "2026-11-21",
+   "action": "experimenter",
+   "section": "dev",
+   "source": "part de Google Actualités 0.35 → 0.5",
+   "motif": "score actuel 77.8/100",
+   "raison": "Tester une augmentation de la part de Google Actualités (0.35→0.5) pour Outils & code afin de vérifier son impact sur le taux de liens directs.",
+   "resultat": "essai pendant 3 nuits"
   }
  ],
  "essais": {
@@ -69,12 +119,19 @@
   {
    "date": "2026-11-20",
    "texte": "Pour les sections où les liens directs sont très faibles, réduire la dépendance à Google Actualités et chercher davantage de sources directes améliore la qualité des références."
+  },
+  {
+   "date": "2026-11-21",
+   "texte": "Pour les sections où les liens directs sont très faibles, comme la Chine, il faut diversifier rapidement les sources et réduire la dépendance aux agrégateurs afin d'augmenter la proportion de liens directs."
   }
  ],
  "derniere_decouverte": "2026-11-17",
  "reglages": {
   "cn": {
    "part_google": 0.8
+  },
+  "dev": {
+   "part_google": 0.5
   }
  },
  "experiences": {
@@ -85,6 +142,14 @@
    "base": 70.6,
    "depuis": "2026-11-20",
    "hypothese": "Réduire la part de Google Actualités de 1.0 à 0.8 pour la Chine devrait augmenter le taux de liens directs, qui est très bas."
+  },
+  "dev": {
+   "param": "part_google",
+   "avant": 0.35,
+   "apres": 0.5,
+   "base": 77.8,
+   "depuis": "2026-11-21",
+   "hypothese": "Tester une augmentation de la part de Google Actualités (0.35→0.5) pour Outils & code afin de vérifier son impact sur le taux de liens directs."
   }
  },
  "experiences_passees": [],

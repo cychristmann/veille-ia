@@ -1,9 +1,9 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-09-t3.md"
-type: "code"
+source_file: "dossiers/2026-11-20-3.md"
+type: "concept"
 community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
   - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
 ---
@@ -12,7 +12,6 @@ tags:
 
 ## Connections
 - [[Anthropic]] - `conceptually_related_to` [EXTRACTED]
-- [[Anthropic]] - `references` [EXTRACTED]
 - [[Appel de Paris]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+#graphify/concept #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière

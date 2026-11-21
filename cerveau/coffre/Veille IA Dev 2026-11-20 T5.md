@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-20-t5.md"
 type: "document"
-community: "Veille États-Unis 2026-11-16 : Sécurité, éthique et marché financier"
+community: "Model Context Protocol (MCP)"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-16__Sécurité_éthique_et_marché_financier
+  - community/Model_Context_Protocol_MCP
 ---
 
 # Veille IA Dev 2026-11-20 T5
@@ -15,4 +15,4 @@ tags:
 - [[Model Context Protocol (MCP)]] - `references` [EXTRACTED]
 - [[Shoply AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-16__Sécurité_éthique_et_marché_financier
+#graphify/document #graphify/EXTRACTED #community/Model_Context_Protocol_MCP

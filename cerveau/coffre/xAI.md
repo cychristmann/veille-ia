@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-11-t5.md"
+source_file: "veilles/veille-ia-dev-2026-11-19-t1.md"
 type: "concept"
-community: "Elon Musk"
+community: "Alibaba"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Elon_Musk
+  - community/Alibaba
 ---
 
 # xAI
@@ -16,4 +16,4 @@ tags:
 - [[Perplexity Orchestrator API]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-11]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Elon_Musk
+#graphify/concept #graphify/EXTRACTED #community/Alibaba

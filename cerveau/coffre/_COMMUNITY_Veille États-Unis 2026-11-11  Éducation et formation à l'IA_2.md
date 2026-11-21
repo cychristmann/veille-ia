@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille États-Unis 2026-11-11 : Éducation et formation à l'IA
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Qwen3.8]] - concept - veilles/veille-ia-dev-2026-11-15-t2.md
+- [[Agent Investigations]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[groundcover]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
 
 ## Live Query (requires Dataview plugin)
 

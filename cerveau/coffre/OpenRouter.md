@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-17-t4.md"
+source_file: "veilles/veille-ia-dev-2026-11-17-t5.md"
 type: "concept"
-community: "GPT-6 Astra"
+community: "ChatGPT Wallet"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/ChatGPT_Wallet
 ---
 
 # OpenRouter
@@ -15,4 +15,4 @@ tags:
 - [[Veille France 2026-11-17]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-17]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/concept #graphify/EXTRACTED #community/ChatGPT_Wallet

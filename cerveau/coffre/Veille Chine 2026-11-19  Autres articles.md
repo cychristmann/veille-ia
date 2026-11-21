@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t6.md"
 type: "document"
-community: "Anthropic"
+community: "Nvidia"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Anthropic
+  - community/Nvidia
 ---
 
 # Veille Chine 2026-11-19 : Autres articles
@@ -16,4 +16,4 @@ tags:
 - [[Lenovo AI Servers]] - `references` [EXTRACTED]
 - [[Qwen AI Hardware]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Anthropic
+#graphify/document #graphify/EXTRACTED #community/Nvidia

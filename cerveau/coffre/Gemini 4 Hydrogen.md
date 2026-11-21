@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-17-t1.md"
-type: "concept"
-community: "Feuilleton: Compromission massive du Microsoft Agent Framework"
+source_file: "veilles/veille-ia-dev-2026-11-13-t5.md"
+type: "code"
+community: "Veille Chine 2026-11-11 : Marchés et investissements"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
-  - community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
+  - community/Veille_Chine_2026-11-11__Marchés_et_investissements
 ---
 
 # Gemini 4 Hydrogen
@@ -25,4 +25,4 @@ tags:
 - [[Veille Outils & code 2026-11-14  Plateformes et infrastructures IA]] - `references` [EXTRACTED]
 - [[llm-gemini]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
+#graphify/code #graphify/EXTRACTED #community/Veille_Chine_2026-11-11__Marchés_et_investissements

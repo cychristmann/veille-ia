@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t4.md"
 type: "document"
-community: "CoreWeave"
+community: "Goldman Sachs"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/CoreWeave
+  - community/Goldman_Sachs
 ---
 
 # Veille Chine 2026-11-10 : Investissements, valorisations et marchés
@@ -14,4 +14,4 @@ tags:
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Goldman Sachs]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/CoreWeave
+#graphify/document #graphify/EXTRACTED #community/Goldman_Sachs

@@ -1,21 +1,20 @@
 ---
 type: community
-members: 8
+members: 7
 ---
 
 # AMD
 
-**Members:** 8 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[CyberSecurityNews]] - concept - feuilletons/f-0032.md
-- [[Feuilleton Compromission massive du Microsoft Agent Framework]] - document - feuilletons/f-0032.md
-- [[Microsoft Agent Framework]] - concept - veilles/veille-ia-dev-2026-11-20-t1.md
-- [[OX Security]] - concept - feuilletons/f-0032.md
-- [[The Hacker News]] - concept - feuilletons/f-0032.md
-- [[The New Stack]] - concept - feuilletons/f-0032.md
-- [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - document - veilles/veille-ia-dev-2026-11-18-t3.md
-- [[wiz.io]] - concept - feuilletons/f-0032.md
+- [[Jacek Rozenek]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
+- [[Notion]] - concept - veilles/veille-ia-fr-2026-11-10-t4.md
+- [[Notion AI]] - concept - veilles/veille-ia-fr-2026-11-10-t4.md
+- [[ORONI]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
+- [[Veille France 2026-11-10  Nouveaux modèles et produits IA]] - document - veilles/veille-ia-fr-2026-11-10-t4.md
+- [[Veille France 2026-11-12  Régulation, éthique et impacts sociétaux]] - document - veilles/veille-ia-fr-2026-11-12-t4.md
+- [[Yann Le Cun]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,11 +24,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_Meta]]
-- 1 edge to [[_COMMUNITY_Cursor]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20]]
+- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
+- 1 edge to [[_COMMUNITY_Cursor_2]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - degree 4, connects to 3 communities
-- [[Microsoft Agent Framework]] - degree 3, connects to 1 community
+- [[Veille France 2026-11-12  Régulation, éthique et impacts sociétaux]] - degree 5, connects to 1 community
+- [[Notion]] - degree 4, connects to 1 community
+- [[Veille France 2026-11-10  Nouveaux modèles et produits IA]] - degree 2, connects to 1 community

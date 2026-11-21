@@ -23,11 +23,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Anthropic_1]]
-- 1 edge to [[_COMMUNITY_GPT-6 Astra_1]]
+- 2 edges to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
+- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
 - 1 edge to [[_COMMUNITY_Claude]]
 - 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-15_1]]
-- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
+- 1 edge to [[_COMMUNITY_ChatGPT Wallet]]
 
 ## Top bridge nodes
 - [[Fable 5.2]] - degree 5, connects to 3 communities

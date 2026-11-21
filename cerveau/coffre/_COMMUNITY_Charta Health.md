@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[AI ‘Handoverism’. Who Wants to Hand AI the Keys AI-RTZ 1276]] - concept - veilles/veille-ia-us-2026-11-20-t6.md
-- [[Veille États-Unis 2026-11-20  Autres articles]] - document - veilles/veille-ia-us-2026-11-20-t6.md
+- [[Deletion Tuning]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
+- [[New York University]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
 
 ## Live Query (requires Dataview plugin)
 

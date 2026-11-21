@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "code"
-community: "Nanjing University of Aeronautics and Astronautics"
+community: "Veille France 2026-11-09 : Finance, Bourse et IA"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Nanjing_University_of_Aeronautics_and_Astronautics
+  - community/Veille_France_2026-11-09__Finance_Bourse_et_IA
 ---
 
 # Nanjing University of Aeronautics and Astronautics
 
-#graphify/code #graphify/EXTRACTED #community/Nanjing_University_of_Aeronautics_and_Astronautics
+#graphify/code #graphify/EXTRACTED #community/Veille_France_2026-11-09__Finance_Bourse_et_IA

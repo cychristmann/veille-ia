@@ -1,5 +1,5 @@
 ---
-source_file: "feuilletons/f-0033.md"
+source_file: "veilles/veille-ia-cn-2026-11-19-t2.md"
 type: "concept"
 community: "Tencent"
 tags:

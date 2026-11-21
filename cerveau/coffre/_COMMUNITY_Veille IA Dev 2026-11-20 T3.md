@@ -25,7 +25,7 @@ SORT file.name ASC
 
 ## Connections to other communities
 - 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Meta]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs_1]]
 - 1 edge to [[_COMMUNITY_Apple]]
 
 ## Top bridge nodes

@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Veille États-Unis 2026-11-20 : Gouvernance, sécurité et régulation
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[AI Governance and Security]] - concept - veilles/veille-ia-us-2026-11-20-t3.md
-- [[Trahan AI Safety Framework]] - concept - veilles/veille-ia-us-2026-11-20-t3.md
-- [[Veille États-Unis 2026-11-20  Gouvernance, sécurité et régulation]] - document - veilles/veille-ia-us-2026-11-20-t3.md
+- [[AI Fraud and Academic Misconduct]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
+- [[AI Market Dynamics]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
+- [[AI Regulation and Ethics]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
+- [[Veille Chine 2026-11-16]] - document - veilles/veille-ia-cn-2026-11-16-t4.md
 
 ## Live Query (requires Dataview plugin)
 

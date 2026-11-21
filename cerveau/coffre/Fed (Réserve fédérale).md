@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-14-t5.md"
 type: "concept"
-community: "Le Monde Pixels"
+community: "IA et système financier"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Le_Monde_Pixels
+  - community/IA_et_système_financier
 ---
 
 # Fed (Réserve fédérale)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[IA et système financier]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Le_Monde_Pixels
+#graphify/concept #graphify/EXTRACTED #community/IA_et_système_financier

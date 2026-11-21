@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t2.md"
 type: "document"
-community: "Veille États-Unis 2026-11-09 : Autres articles"
+community: "Veille France 2026-11-16 : Applications sectorielles et industrielles"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-09__Autres_articles
+  - community/Veille_France_2026-11-16__Applications_sectorielles_et_industrielles
 ---
 
 # Veille Chine 2026-11-12 : Anthropic et concurrence
@@ -17,4 +17,4 @@ tags:
 - [[华尔街见闻]] - `cites` [EXTRACTED]
 - [[证券之星]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-09__Autres_articles
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-16__Applications_sectorielles_et_industrielles

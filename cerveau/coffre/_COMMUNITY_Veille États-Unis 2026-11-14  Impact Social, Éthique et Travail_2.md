@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Arcade]] - concept - veilles/veille-ia-dev-2026-11-19-t1.md
+- [[Veille États-Unis 2026-11-14  Impact Social, Éthique et Travail]] - document - veilles/veille-ia-us-2026-11-14-t4.md
 
 ## Live Query (requires Dataview plugin)
 

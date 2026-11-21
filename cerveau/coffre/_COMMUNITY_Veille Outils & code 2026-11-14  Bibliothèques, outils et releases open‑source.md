@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Veille Outils & code 2026-11-14 : Bibliothèques, outils et releases open‑source
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Veille Outils & code 2026-11-14  Bibliothèques, outils et releases open‑source]] - document - veilles/veille-ia-dev-2026-11-14-t4.md
-- [[XYBench]] - concept - veilles/veille-ia-dev-2026-11-14-t4.md
-- [[agent-desktop]] - concept - veilles/veille-ia-dev-2026-11-14-t4.md
+- [[Huawei Ascend]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[LongCat-2.5]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[Meituan]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[Terminal Bench]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t3.md"
 type: "concept"
-community: "ARTEX"
+community: "Veille Outils & code 2026-11-20"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ARTEX
+  - community/Veille_Outils__code_2026-11-20
 ---
 
 # SeedRealtime 1.0
@@ -16,4 +16,4 @@ tags:
 - [[Volcano Engine]] - `references` [EXTRACTED]
 - [[ZTE]] - `conceptually_related_to` [INFERRED]
 
-#graphify/concept #graphify/EXTRACTED #community/ARTEX
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-20

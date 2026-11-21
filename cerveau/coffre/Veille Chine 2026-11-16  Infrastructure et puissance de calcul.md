@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-16-t2.md"
 type: "document"
-community: "Sécurité et risques de l'IA"
+community: "Le Monde Pixels"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Sécurité_et_risques_de_lIA
+  - community/Le_Monde_Pixels
 ---
 
 # Veille Chine 2026-11-16 : Infrastructure et puissance de calcul
@@ -15,4 +15,4 @@ tags:
 - [[JinJing XinNeng (01783)]] - `references` [EXTRACTED]
 - [[Shengmei Semiconductor]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Sécurité_et_risques_de_lIA
+#graphify/document #graphify/EXTRACTED #community/Le_Monde_Pixels

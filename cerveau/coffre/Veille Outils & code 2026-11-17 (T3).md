@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-17-t3.md"
 type: "document"
-community: "ChatGPT Wallet"
+community: "Tencent"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/ChatGPT_Wallet
+  - community/Tencent
 ---
 
 # Veille Outils & code 2026-11-17 (T3)
@@ -17,4 +17,4 @@ tags:
 - [[Qwen4-Max]] - `references` [EXTRACTED]
 - [[Rubin]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/ChatGPT_Wallet
+#graphify/document #graphify/EXTRACTED #community/Tencent

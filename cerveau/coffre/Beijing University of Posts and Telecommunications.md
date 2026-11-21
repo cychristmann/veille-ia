@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "code"
-community: "Edelbyte"
+community: "InvestAI"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Edelbyte
+  - community/InvestAI
 ---
 
 # Beijing University of Posts and Telecommunications
 
-#graphify/code #graphify/EXTRACTED #community/Edelbyte
+#graphify/code #graphify/EXTRACTED #community/InvestAI

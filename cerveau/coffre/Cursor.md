@@ -15,7 +15,9 @@ tags:
 - [[Fireworks AI]] - `references` [EXTRACTED]
 - [[Grok]] - `references` [EXTRACTED]
 - [[IDrive AI Agents Backup]] - `shares_data_with` [INFERRED]
+- [[Kimi K2.5]] - `references` [EXTRACTED]
 - [[Malicious Claude Code Extension]] - `references` [EXTRACTED]
+- [[Moonshot AI]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[SpaceX]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-13]] - `references` [EXTRACTED]
@@ -23,5 +25,6 @@ tags:
 - [[Veille Outils & code 2026-11-16]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-19  Autres articles]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-21  Régulation & Géopolitique]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Cursor

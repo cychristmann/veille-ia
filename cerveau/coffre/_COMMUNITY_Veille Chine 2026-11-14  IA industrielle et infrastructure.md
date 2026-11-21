@@ -1,21 +1,18 @@
 ---
 type: community
-members: 8
+members: 5
 ---
 
 # Veille Chine 2026-11-14 : IA industrielle et infrastructure
 
-**Members:** 8 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Faire la guerre avec l’IA  Pour l’Ukraine, un cas de conscience moral et politique]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
-- [[Gemini 4 Hydrogène]] - concept - veilles/veille-ia-fr-2026-11-16-t6.md
-- [[Kitesurf  Cloudflare libère le code source de son navigateur pour agents IA]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
-- [[La IA generativa divide a los desarrolladores]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
-- [[OT Montlouis-Vouvray chatbot sans IA]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
-- [[SambaNova associe les GPU Intel au SN50]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
-- [[Veille France 2026-11-16]] - document - veilles/veille-ia-fr-2026-11-16-t6.md
-- [[Wotton Kearney déploie l’IA juridique Harvey]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
+- [[Veille Chine 2026-11-14  IA industrielle et infrastructure]] - document - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[天神之眼系统]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[比亚迪辅助驾驶车型保有量超 419 万辆]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[浙江算力规模超198EFLOPS]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[百度智能云战略合作]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +20,3 @@ members: 8
 TABLE source_file, type FROM #community/Veille_Chine_2026-11-14__IA_industrielle_et_infrastructure
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Apple]]
-
-## Top bridge nodes
-- [[Veille France 2026-11-16]] - degree 8, connects to 1 community

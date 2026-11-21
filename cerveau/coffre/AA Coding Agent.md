@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0010.md"
 type: "concept"
-community: "Copilot"
+community: "Elon Musk"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Copilot
+  - community/Elon_Musk
 ---
 
 # AA Coding Agent
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Gemini 4 Neon]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Copilot
+#graphify/concept #graphify/EXTRACTED #community/Elon_Musk

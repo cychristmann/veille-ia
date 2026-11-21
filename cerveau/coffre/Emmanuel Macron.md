@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t2.md"
 type: "code"
-community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
+community: "Veille France 2026-11-15"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+  - community/Veille_France_2026-11-15
 ---
 
 # Emmanuel Macron
@@ -17,4 +17,4 @@ tags:
 - [[Veille France 2026-11-10  Régulation et gouvernance]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-15]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+#graphify/code #graphify/EXTRACTED #community/Veille_France_2026-11-15

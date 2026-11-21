@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t2.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-09 : Autres articles"
+community: "Veille France 2026-11-16 : Applications sectorielles et industrielles"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-09__Autres_articles
+  - community/Veille_France_2026-11-16__Applications_sectorielles_et_industrielles
 ---
 
 # IT之家
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-12  Anthropic et concurrence]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-09__Autres_articles
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-16__Applications_sectorielles_et_industrielles

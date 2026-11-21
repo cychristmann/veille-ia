@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Federal Aviation Administration (FAA)]] - concept - veilles/veille-ia-us-2026-11-14-t1.md
-- [[SMART AI System]] - concept - veilles/veille-ia-us-2026-11-14-t1.md
-- [[Veille États-Unis 2026-11-14  Incident FAA et Intelligence Artificielle]] - document - veilles/veille-ia-us-2026-11-14-t1.md
+- [[Veille Chine 2026-11-15  Éducation, formation et talents IA]] - document - veilles/veille-ia-cn-2026-11-15-t4.md
+- [[山东商务职业学院]] - concept - veilles/veille-ia-cn-2026-11-15-t4.md
+- [[广东“AI智能体”数字人才培训计划]] - concept - veilles/veille-ia-cn-2026-11-15-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,9 +18,3 @@ members: 3
 TABLE source_file, type FROM #community/Veille_États-Unis_2026-11-14__Incident_FAA_et_Intelligence_Artificielle
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Dossier Course à l'IA entre États‑Unis et Chine]]
-
-## Top bridge nodes
-- [[Veille États-Unis 2026-11-14  Incident FAA et Intelligence Artificielle]] - degree 3, connects to 1 community

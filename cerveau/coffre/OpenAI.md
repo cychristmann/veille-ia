@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-14-t2.md"
 type: "concept"
-community: "Meta"
+community: "Veille États-Unis 2026-11-13 : Développements et investissements corporatifs"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Meta
+  - community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
 ---
 
 # OpenAI
@@ -16,7 +16,7 @@ tags:
 - [[Agents IA]] - `conceptually_related_to` [EXTRACTED]
 - [[Amex]] - `references` [EXTRACTED]
 - [[Amplitude Wave]] - `references` [EXTRACTED]
-- [[Anthropic]] - `conceptually_related_to` [EXTRACTED]
+- [[Anthropic]] - `conceptually_related_to` [INFERRED]
 - [[Apollo Research]] - `references` [EXTRACTED]
 - [[Apple AI Agent]] - `conceptually_related_to` [EXTRACTED]
 - [[Arizona Attorney General]] - `cites` [EXTRACTED]
@@ -30,7 +30,6 @@ tags:
 - [[Cursor]] - `references` [EXTRACTED]
 - [[Donald Trump]] - `references` [EXTRACTED]
 - [[Feuilleton OpenAI Legal Issues]] - `references` [EXTRACTED]
-- [[Feuilleton Scandale qui renverse la star de l’IA]] - `references` [EXTRACTED]
 - [[GPT-6 Astra]] - `references` [EXTRACTED]
 - [[GPT-6.2 Sol]] - `references` [EXTRACTED]
 - [[Hugging Face]] - `references` [EXTRACTED]
@@ -39,8 +38,12 @@ tags:
 - [[METR]] - `references` [EXTRACTED]
 - [[Mastercard]] - `references` [EXTRACTED]
 - [[Meta]] - `references` [EXTRACTED]
+- [[Microsoft]] - `references` [EXTRACTED]
 - [[Mubadala]] - `references` [EXTRACTED]
+- [[Navier-Stokes Problem]] - `references` [EXTRACTED]
+- [[Nvidia]] - `references` [INFERRED]
 - [[OpenAI Agents]] - `references` [EXTRACTED]
+- [[Oracle]] - `references` [EXTRACTED]
 - [[Perplexity Orchestrator API]] - `references` [EXTRACTED]
 - [[Radeon Linux Driver]] - `references` [EXTRACTED]
 - [[Rob Bonta (California Attorney General)]] - `references` [EXTRACTED]
@@ -70,4 +73,4 @@ tags:
 - [[Visa]] - `references` [EXTRACTED]
 - [[Wikimedia Foundation]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Meta
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs

@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0002.md"
 type: "document"
-community: "复旦发展研究院"
+community: "AI Ethics, Security and Regulation"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/复旦发展研究院
+  - community/AI_Ethics_Security_and_Regulation
 ---
 
 # Feuilleton: Suno AI poursuivi
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Suno AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/复旦发展研究院
+#graphify/document #graphify/EXTRACTED #community/AI_Ethics_Security_and_Regulation

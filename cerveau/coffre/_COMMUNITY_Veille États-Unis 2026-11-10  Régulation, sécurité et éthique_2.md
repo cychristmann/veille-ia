@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-10 : Régulation, sécurité et éthique
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Sécurité et risques de l'IA]] - concept - veilles/veille-ia-fr-2026-11-14-t4.md
-- [[Veille France 2026-11-14  Sécurité, risques et fraudes]] - document - veilles/veille-ia-fr-2026-11-14-t4.md
+- [[ConnectWise]] - concept - dossiers/2026-11-16-1.md
 
 ## Live Query (requires Dataview plugin)
 

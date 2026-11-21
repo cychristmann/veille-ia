@@ -1,17 +1,18 @@
 ---
 type: community
-members: 4
+members: 5
 ---
 
 # Veille France 2026-11-16 : Applications sectorielles et industrielles
 
-**Members:** 4 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[IA dans le commerce et la consommation]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
-- [[IA dans le recrutement]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
-- [[Souveraineté numérique et IA]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
-- [[Veille France 2026-11-16  Applications sectorielles et industrielles]] - document - veilles/veille-ia-fr-2026-11-16-t3.md
+- [[IT之家]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
+- [[Veille Chine 2026-11-12  Anthropic et concurrence]] - document - veilles/veille-ia-cn-2026-11-12-t2.md
+- [[中国新闻网]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
+- [[华尔街见闻]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
+- [[证券之星]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,3 +20,9 @@ members: 4
 TABLE source_file, type FROM #community/Veille_France_2026-11-16__Applications_sectorielles_et_industrielles
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
+
+## Top bridge nodes
+- [[Veille Chine 2026-11-12  Anthropic et concurrence]] - degree 5, connects to 1 community

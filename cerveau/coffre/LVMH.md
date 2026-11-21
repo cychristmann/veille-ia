@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-18-t6.md"
 type: "concept"
-community: "ChatGPT Enterprise"
+community: "Veille Outils & code 2026-11-14"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ChatGPT_Enterprise
+  - community/Veille_Outils__code_2026-11-14
 ---
 
 # LVMH
@@ -15,4 +15,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-18]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/ChatGPT_Enterprise
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-14

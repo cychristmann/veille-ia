@@ -13,5 +13,6 @@ tags:
 ## Connections
 - [[Google DeepMind]] - `references` [EXTRACTED]
 - [[Muse]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-21  Anthropic & Riemann]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra

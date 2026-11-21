@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-15-t5.md"
 type: "document"
-community: "Veille Chine 2026-11-15 : Éthique, société et relations homme‑machine"
+community: "无界进化 (INFevo)"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-15__Éthique_société_et_relations_hommemachine
+  - community/无界进化_INFevo
 ---
 
 # Veille France 2026-11-15 : Réflexion et éthique
@@ -16,4 +16,4 @@ tags:
 - [[Pearl Abyss]] - `references` [EXTRACTED]
 - [[SMARTANCE]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-15__Éthique_société_et_relations_hommemachine
+#graphify/document #graphify/EXTRACTED #community/无界进化_INFevo

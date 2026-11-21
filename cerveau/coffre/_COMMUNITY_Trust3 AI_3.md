@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Trust3 AI]] - code - veilles/veille-ia-us-2026-11-11-t4.md
+- [[Le Monde Informatique]] - document - dossiers/2026-11-20-2.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,22 +1,21 @@
 ---
 type: community
-members: 9
+members: 8
 ---
 
 # Veille Chine 2026-11-15 : Finances, valorisation et marché de l’IA
 
-**Members:** 9 nodes
+**Members:** 8 nodes
 
 ## Members
-- [[Aurix Network]] - concept - veilles/veille-ia-us-2026-11-19-t3.md
-- [[Cisco]] - code - veilles/veille-ia-us-2026-11-13-t1.md
-- [[Digital Networks Act]] - code - veilles/veille-ia-us-2026-11-13-t1.md
-- [[Palo Alto Networks]] - concept - veilles/veille-ia-us-2026-11-19-t4.md
-- [[Semgrep]] - concept - veilles/veille-ia-us-2026-11-19-t4.md
-- [[Tempus AI]] - concept - veilles/veille-ia-us-2026-11-19-t3.md
-- [[Veille États-Unis 2026-11-19  Applications sectorielles]] - document - veilles/veille-ia-us-2026-11-19-t3.md
-- [[Veille États-Unis 2026-11-19  Infrastructure et matériel]] - document - veilles/veille-ia-us-2026-11-19-t4.md
-- [[Vero Security]] - concept - veilles/veille-ia-us-2026-11-19-t3.md
+- [[AI Market Trends]] - concept - veilles/veille-ia-cn-2026-11-17-t3.md
+- [[Apollo Go (萝卜快跑)]] - concept - veilles/veille-ia-cn-2026-11-12-t1.md
+- [[Baidu]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
+- [[ChangXin Memory Technologies (长鑫科技)]] - concept - veilles/veille-ia-cn-2026-11-17-t3.md
+- [[MEOMURU]] - code - veilles/veille-ia-fr-2026-11-15-t6.md
+- [[Suno]] - code - veilles/veille-ia-fr-2026-11-15-t6.md
+- [[University of Science and Technology of China (中国科大)]] - concept - veilles/veille-ia-cn-2026-11-17-t3.md
+- [[Veille Chine 2026-11-17  Marché, financement et régulation]] - document - veilles/veille-ia-cn-2026-11-17-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,10 +25,15 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
-- 1 edge to [[_COMMUNITY_Nvidia_1]]
-- 1 edge to [[_COMMUNITY_Copilot]]
+- 2 edges to [[_COMMUNITY_Meta]]
+- 2 edges to [[_COMMUNITY_SpaceX]]
+- 2 edges to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
+- 1 edge to [[_COMMUNITY_Robin Li]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-13]]
+- 1 edge to [[_COMMUNITY_Anthropic_1]]
 
 ## Top bridge nodes
-- [[Veille États-Unis 2026-11-19  Infrastructure et matériel]] - degree 5, connects to 2 communities
-- [[Cisco]] - degree 3, connects to 1 community
+- [[Veille Chine 2026-11-17  Marché, financement et régulation]] - degree 7, connects to 3 communities
+- [[AI Market Trends]] - degree 6, connects to 3 communities
+- [[Baidu]] - degree 5, connects to 2 communities
+- [[Suno]] - degree 4, connects to 1 community

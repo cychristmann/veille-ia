@@ -1,15 +1,17 @@
 ---
 type: community
-members: 2
+members: 4
 ---
 
 # AI Ethics, Security and Regulation
 
-**Members:** 2 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[AI Ethics, Security and Regulation]] - concept - veilles/veille-ia-cn-2026-11-14-t4.md
-- [[Veille Chine 2026-11-14  Éthique, sécurité et réglementation IA]] - document - veilles/veille-ia-cn-2026-11-14-t4.md
+- [[Elvis Presley Music Rights Owners]] - code - veilles/veille-ia-us-2026-11-08-t2.md
+- [[Eminem Music Rights Owners]] - code - veilles/veille-ia-us-2026-11-08-t2.md
+- [[Feuilleton Suno AI poursuivi]] - document - feuilletons/f-0002.md
+- [[Suno AI]] - code - veilles/veille-ia-us-2026-11-08-t2.md
 
 ## Live Query (requires Dataview plugin)
 

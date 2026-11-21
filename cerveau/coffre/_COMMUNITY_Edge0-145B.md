@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Edge0-145B
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Feuilleton Anthropic IPO]] - document - feuilletons/f-0003.md
+- [[Kindo]] - concept - veilles/veille-ia-dev-2026-11-16-t4.md
+- [[Veille Outils & code 2026-11-16  Plateformes, marchés et produits IA]] - document - veilles/veille-ia-dev-2026-11-16-t4.md
 
 ## Live Query (requires Dataview plugin)
 

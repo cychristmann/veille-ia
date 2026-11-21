@@ -20,7 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Dossier Course à l'IA entre États‑Unis et Chine]]
+- 1 edge to [[_COMMUNITY_Microsoft]]
 
 ## Top bridge nodes
 - [[John Langford]] - degree 2, connects to 1 community
