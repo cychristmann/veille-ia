@@ -1,29 +1,22 @@
 ---
 type: community
-members: 16
+members: 9
 ---
 
 # Veille Chine 2026-11-11 : Marchés et investissements
 
-**Members:** 16 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[AWS Trainium]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
-- [[Amazon Bedrock AgentCore]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
-- [[Antigravity]] - concept - veilles/veille-ia-dev-2026-11-14-t3.md
-- [[Azure Logic Apps CLI]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
-- [[Claude Sonnet 5.5]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
-- [[Duco]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
-- [[Gemini 4 Hydrogen]] - code - veilles/veille-ia-dev-2026-11-13-t5.md
-- [[Gemini Decisions API]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
-- [[Google Antigravity Orchestrator]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
-- [[SGLang-Neuron]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
-- [[SWARM]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
-- [[Strands harness]] - concept - veilles/veille-ia-dev-2026-11-19-t1.md
-- [[TPU Sync]] - concept - veilles/veille-ia-dev-2026-11-14-t3.md
-- [[Veille Outils & code 2026-11-12  Déploiement et infrastructure IA]] - document - veilles/veille-ia-dev-2026-11-12-t2.md
-- [[Veille Outils & code 2026-11-12  Nouveaux modèles et performances]] - document - veilles/veille-ia-dev-2026-11-12-t5.md
-- [[Veille Outils & code 2026-11-14  Plateformes et infrastructures IA]] - document - veilles/veille-ia-dev-2026-11-14-t3.md
+- [[ByteVoice]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Cuttlefish]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Puffin]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[StateWeave]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Superpowers]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Swarm Skills]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Tokendoctor]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[VS Code]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Veille Outils & code 2026-11-17]] - document - veilles/veille-ia-dev-2026-11-17-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -33,20 +26,18 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Veille Chine 2026-11-19  Infrastructure et Technologie IA_1]]
-- 3 edges to [[_COMMUNITY_AWS Emulator]]
-- 2 edges to [[_COMMUNITY_Elon Musk]]
-- 1 edge to [[_COMMUNITY_Trump's AI task force]]
-- 1 edge to [[_COMMUNITY_ChatGPT Wallet]]
+- 2 edges to [[_COMMUNITY_Copilot]]
+- 1 edge to [[_COMMUNITY_Meta]]
 - 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-19  Régulation & Gouvernance IA]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-13 (T5)]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-12]]
+- 1 edge to [[_COMMUNITY_Tencent]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_Amazon Bedrock]]
+- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
+- 1 edge to [[_COMMUNITY_Amazon Bedrock AgentCore]]
+- 1 edge to [[_COMMUNITY_Hugging Face]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-22]]
 
 ## Top bridge nodes
-- [[Gemini 4 Hydrogen]] - degree 13, connects to 7 communities
-- [[Amazon Bedrock AgentCore]] - degree 7, connects to 2 communities
-- [[Veille Outils & code 2026-11-14  Plateformes et infrastructures IA]] - degree 6, connects to 2 communities
-- [[Veille Outils & code 2026-11-12  Déploiement et infrastructure IA]] - degree 6, connects to 1 community
-- [[Duco]] - degree 2, connects to 1 community
+- [[Veille Outils & code 2026-11-17]] - degree 16, connects to 9 communities
+- [[Tokendoctor]] - degree 2, connects to 1 community
+- [[VS Code]] - degree 2, connects to 1 community

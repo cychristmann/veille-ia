@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-16-t1.md"
 type: "document"
-community: "Veille France 2026-11-16 : Régulation, sécurité et gouvernance"
+community: "Crise des data-centers IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-16__Régulation_sécurité_et_gouvernance
+  - community/Crise_des_data-centers_IA
 ---
 
 # Veille France 2026-11-16 : Régulation, sécurité et gouvernance
@@ -14,4 +14,4 @@ tags:
 - [[Arnaques à l’IA]] - `references` [EXTRACTED]
 - [[Cybersécurité et IA]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-16__Régulation_sécurité_et_gouvernance
+#graphify/document #graphify/EXTRACTED #community/Crise_des_data-centers_IA

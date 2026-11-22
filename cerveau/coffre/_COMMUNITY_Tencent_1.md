@@ -1,19 +1,21 @@
 ---
 type: community
-members: 6
+members: 8
 ---
 
 # Tencent
 
-**Members:** 6 nodes
+**Members:** 8 nodes
 
 ## Members
-- [[Veille Chine 2026-11-21  Applications sectorielles de l’IA]] - document - veilles/veille-ia-cn-2026-11-21-t3.md
-- [[华为OSTA星芒 O1 Pro]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
-- [[托普云农发布智能（AI）虫情测报灯9.0]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
-- [[物理AI浪潮下，在手订单充足的8家公司]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
-- [[程子芮：AI推动金融科技从数字化到数智化]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
-- [[香港人工智能与生命科学伦理研究院]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[AI Agents]] - concept - veilles/veille-ia-us-2026-11-12-t2.md
+- [[Agent Substrate]] - concept - veilles/veille-ia-dev-2026-11-22-t5.md
+- [[Formal Verification]] - concept - veilles/veille-ia-dev-2026-11-22-t5.md
+- [[TensorLean]] - concept - veilles/veille-ia-dev-2026-11-22-t5.md
+- [[Veille Outils & code 2026-11-22 (t5)]] - document - veilles/veille-ia-dev-2026-11-22-t5.md
+- [[Veille États-Unis 2026-11-12  Applications industrielles et commerciales de l'IA]] - document - veilles/veille-ia-us-2026-11-12-t6.md
+- [[Veille États-Unis 2026-11-12  Régulation, politiques et protestations liées à l'IA]] - document - veilles/veille-ia-us-2026-11-12-t2.md
+- [[gVisor]] - concept - veilles/veille-ia-dev-2026-11-22-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,3 +23,14 @@ members: 6
 TABLE source_file, type FROM #community/Tencent
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 3 edges to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
+- 1 edge to [[_COMMUNITY_ARTEX_1]]
+- 1 edge to [[_COMMUNITY_Veille IA Dev 2026-11-20 T3]]
+
+## Top bridge nodes
+- [[AI Agents]] - degree 7, connects to 2 communities
+- [[Agent Substrate]] - degree 3, connects to 1 community
+- [[gVisor]] - degree 3, connects to 1 community
+- [[TensorLean]] - degree 2, connects to 1 community

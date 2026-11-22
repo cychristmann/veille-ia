@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Industrie de l'IA]] - concept - feuilletons/f-0001.md
+- [[Feuilleton Les États‑Unis désignent Nvidia parmi les champions nationaux de l’IA]] - document - feuilletons/f-0025.md
 
 ## Live Query (requires Dataview plugin)
 

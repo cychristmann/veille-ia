@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-13-t1.md"
 type: "document"
-community: "AWS Emulator"
+community: "Cursor"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AWS_Emulator
+  - community/Cursor
 ---
 
 # Veille Outils & code 2026-11-13
@@ -19,4 +19,4 @@ tags:
 - [[OpenBot 1.0]] - `references` [EXTRACTED]
 - [[os.neu]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AWS_Emulator
+#graphify/document #graphify/EXTRACTED #community/Cursor

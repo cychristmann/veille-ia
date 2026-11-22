@@ -1,36 +1,21 @@
 ---
 type: community
-members: 23
+members: 8
 ---
 
 # Veille Chine 2026-11-17
 
-**Members:** 23 nodes
+**Members:** 8 nodes
 
 ## Members
 - [[AI 新业态纳税]] - concept - veilles/veille-ia-cn-2026-11-17-t6.md
-- [[Applied Materials]] - concept - veilles/veille-ia-us-2026-11-18-t2.md
-- [[Feuilleton SID AI lance le modèle de recherche agentique SID-2]] - document - feuilletons/f-0031.md
 - [[Google Cloud]] - concept - veilles/veille-ia-cn-2026-11-17-t2.md
-- [[Hyundai Card]] - concept - veilles/veille-ia-us-2026-11-18-t1.md
 - [[Industrial AI]] - concept - veilles/veille-ia-cn-2026-11-17-t1.md
-- [[JPMorgan]] - concept - veilles/veille-ia-us-2026-11-18-t1.md
-- [[Kinexys]] - concept - veilles/veille-ia-cn-2026-11-18-t2.md
 - [[Kling AI]] - concept - veilles/veille-ia-cn-2026-11-17-t2.md
 - [[Kling Image 4.0]] - concept - veilles/veille-ia-cn-2026-11-17-t2.md
-- [[MarkTechPost]] - concept - feuilletons/f-0031.md
-- [[Pedestal AI]] - concept - veilles/veille-ia-cn-2026-11-18-t2.md
 - [[SAP]] - concept - veilles/veille-ia-cn-2026-11-17-t2.md
-- [[SID AI]] - concept - feuilletons/f-0031.md
-- [[SID-2]] - concept - feuilletons/f-0031.md
-- [[SID-2 Agentic Search Model]] - concept - veilles/veille-ia-dev-2026-11-18-t1.md
-- [[Veille Chine 2026-11-17]] - document - veilles/veille-ia-cn-2026-11-17-t2.md
-- [[Veille Chine 2026-11-18  Financement et marché]] - document - veilles/veille-ia-cn-2026-11-18-t2.md
-- [[Veille États-Unis 2026-11-18 (T1)]] - document - veilles/veille-ia-us-2026-11-18-t1.md
-- [[Veille États-Unis 2026-11-18 (T2)]] - document - veilles/veille-ia-us-2026-11-18-t2.md
-- [[Visa]] - concept - veilles/veille-ia-us-2026-11-18-t2.md
+- [[Veille Chine 2026-11-17]] - document - veilles/veille-ia-cn-2026-11-17-t6.md
 - [[苹果手机 AI 功能]] - concept - veilles/veille-ia-cn-2026-11-17-t6.md
-- [[识渊科技]] - concept - veilles/veille-ia-cn-2026-11-18-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -40,17 +25,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
-- 2 edges to [[_COMMUNITY_Microsoft]]
-- 2 edges to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs_1]]
-- 1 edge to [[_COMMUNITY_Nvidia_1]]
-- 1 edge to [[_COMMUNITY_Goldman Sachs]]
-- 1 edge to [[_COMMUNITY_Trump's AI task force]]
-- 1 edge to [[_COMMUNITY_Jensen Huang]]
+- 1 edge to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_Nvidia_2]]
+- 1 edge to [[_COMMUNITY_Feuilleton Compromission massive du Microsoft Agent Framework]]
+- 1 edge to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
+- 1 edge to [[_COMMUNITY_JPMorgan]]
 
 ## Top bridge nodes
 - [[Veille Chine 2026-11-17]] - degree 11, connects to 5 communities
-- [[Veille États-Unis 2026-11-18 (T1)]] - degree 4, connects to 2 communities
-- [[Veille États-Unis 2026-11-18 (T2)]] - degree 4, connects to 1 community
-- [[SID-2 Agentic Search Model]] - degree 2, connects to 1 community
-- [[Visa]] - degree 2, connects to 1 community
+- [[Kling AI]] - degree 3, connects to 1 community

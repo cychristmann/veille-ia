@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-14 : Autres articles
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Elvis Presley]] - concept - veilles/veille-ia-us-2026-11-09-t4.md
-- [[Veille États-Unis 2026-11-09 (Applications)]] - document - veilles/veille-ia-us-2026-11-09-t4.md
+- [[Veille Outils & code 2026-11-21  Autres articles]] - document - veilles/veille-ia-dev-2026-11-21-t4.md
 
 ## Live Query (requires Dataview plugin)
 

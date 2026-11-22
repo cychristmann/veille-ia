@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0037.md"
 type: "concept"
-community: "ARTEX"
+community: "États-Unis"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ARTEX
+  - community/États-Unis
 ---
 
 # Modèles IA Chinois
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[États-Unis]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/ARTEX
+#graphify/concept #graphify/EXTRACTED #community/États-Unis

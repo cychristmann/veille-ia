@@ -1,24 +1,18 @@
 ---
 type: community
-members: 11
+members: 5
 ---
 
 # Veille Outils & code 2026-11-15
 
-**Members:** 11 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Claude Fable]] - code - veilles/veille-ia-dev-2026-11-15-t3.md
-- [[CoReMem]] - concept - veilles/veille-ia-dev-2026-11-15-t3.md
-- [[Datasette Agent]] - concept - veilles/veille-ia-fr-2026-11-15-t4.md
-- [[DeepSeek V3]] - concept - veilles/veille-ia-dev-2026-11-15-t2.md
-- [[DuckLake]] - concept - veilles/veille-ia-dev-2026-11-15-t2.md
-- [[Google Modern Web Guidance 1.0]] - document - veilles/veille-ia-dev-2026-11-15-t3.md
-- [[OpenFold3]] - concept - veilles/veille-ia-dev-2026-11-15-t2.md
-- [[Veille Outils & code 2026-11-15]] - document - veilles/veille-ia-dev-2026-11-15-t2.md
-- [[Vercel UI SDK]] - code - veilles/veille-ia-dev-2026-11-15-t3.md
-- [[datasette-llm]] - concept - veilles/veille-ia-fr-2026-11-15-t4.md
-- [[datasette-vega]] - code - veilles/veille-ia-dev-2026-11-15-t3.md
+- [[Agent Pay]] - concept - dossiers/2026-11-17-2.md
+- [[ChatGPT Pro]] - concept - dossiers/2026-11-17-2.md
+- [[ChatGPT Wallet]] - concept - veilles/veille-ia-dev-2026-11-17-t3.md
+- [[Mastercard]] - concept - feuilletons/f-0019.md
+- [[Verifiable Intent]] - concept - dossiers/2026-11-17-2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -28,14 +22,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-19  Régulation & Gouvernance IA]]
-- 1 edge to [[_COMMUNITY_Fable 5.2]]
-- 1 edge to [[_COMMUNITY_Elon Musk]]
-- 1 edge to [[_COMMUNITY_Jensen Huang]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-19  Infrastructure et Technologie IA_1]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-14  Société, éducation et culture]]
+- 2 edges to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs_1]]
+- 1 edge to [[_COMMUNITY_Tencent]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-19  Infrastructure et optimisation IA_1]]
+- 1 edge to [[_COMMUNITY_AI Transparency Initiative]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-15]] - degree 15, connects to 6 communities
-- [[datasette-llm]] - degree 3, connects to 1 community
+- [[ChatGPT Wallet]] - degree 7, connects to 4 communities
+- [[Mastercard]] - degree 4, connects to 2 communities

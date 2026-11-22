@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t2.md"
 type: "concept"
-community: "Veille Chine 2026-11-19 : Régulation & Gouvernance IA"
+community: "Nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-19__Régulation__Gouvernance_IA
+  - community/Nvidia
 ---
 
 # Claude Code
@@ -16,7 +16,6 @@ tags:
 - [[Anthropic]] - `conceptually_related_to` [INFERRED]
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Chasseurs d'essaim]] - `references` [EXTRACTED]
-- [[Claude]] - `references` [EXTRACTED]
 - [[Eclipse Enclave]] - `references` [EXTRACTED]
 - [[IDrive AI Agents Backup]] - `shares_data_with` [INFERRED]
 - [[L'Opinion.fr]] - `references` [EXTRACTED]
@@ -43,4 +42,4 @@ tags:
 - [[Veille Outils & code 2026-11-21]] - `references` [EXTRACTED]
 - [[n8n]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-19__Régulation__Gouvernance_IA
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

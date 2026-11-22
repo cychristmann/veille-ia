@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-19-3.md"
 type: "document"
-community: "Veille États-Unis 2026-11-09 : Autres articles"
+community: "Veille Outils & code 2026-11-19 : Infrastructure et optimisation IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-09__Autres_articles
+  - community/Veille_Outils__code_2026-11-19__Infrastructure_et_optimisation_IA
 ---
 
 # Nokia projette une gigafactory
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Dossier  Alliance européenne pour une IA souveraine]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-09__Autres_articles
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-19__Infrastructure_et_optimisation_IA

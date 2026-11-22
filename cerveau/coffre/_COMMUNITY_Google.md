@@ -12,7 +12,7 @@ members: 15
 - [[Bouygues Telecom]] - concept - veilles/veille-ia-fr-2026-11-17-t2.md
 - [[Dossier Google détecte la première cyberattaque IA de bout en bout]] - document - dossiers/2026-11-18-2.md
 - [[Feuilleton f-0030]] - document - feuilletons/f-0030.md
-- [[Google]] - code - veilles/veille-ia-us-2026-11-13-t1.md
+- [[Google]] - concept - veilles/veille-ia-us-2026-11-22-t4.md
 - [[Google AI Plus]] - concept - veilles/veille-ia-fr-2026-11-17-t2.md
 - [[IA Cyberattaque]] - concept - feuilletons/f-0030.md
 - [[Mandiant]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
@@ -32,22 +32,25 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
+- 2 edges to [[_COMMUNITY_Apple_1]]
 - 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs_1]]
-- 1 edge to [[_COMMUNITY_Meta]]
-- 1 edge to [[_COMMUNITY_Claude]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20]]
-- 1 edge to [[_COMMUNITY_Apple]]
-- 1 edge to [[_COMMUNITY_Goldman Sachs]]
-- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets_1]]
-- 1 edge to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière]]
-- 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-19  Infrastructure et Technologie IA_1]]
-- 1 edge to [[_COMMUNITY_Veille IA Dev 2026-11-20 T3]]
-- 1 edge to [[_COMMUNITY_DeepSeek]]
-- 1 edge to [[_COMMUNITY_IBM]]
+- 1 edge to [[_COMMUNITY_Copilot]]
+- 1 edge to [[_COMMUNITY_Hugging Face]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-09  Autres articles]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-22]]
+- 1 edge to [[_COMMUNITY_IBM_1]]
+- 1 edge to [[_COMMUNITY_Adobe Creative Cloud]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20_1]]
+- 1 edge to [[_COMMUNITY_Elon Musk]]
 - 1 edge to [[_COMMUNITY_Veille France 2026-11-20_1]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-08]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-22  Applications grand public]]
+- 1 edge to [[_COMMUNITY_DeepSeek]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-22  Applications et outils IA]]
+- 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_Veille IA Dev 2026-11-20 T3]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-20_2]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-08_1]]
 
 ## Top bridge nodes
-- [[Google]] - degree 28, connects to 16 communities
+- [[Google]] - degree 32, connects to 19 communities

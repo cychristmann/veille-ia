@@ -1,19 +1,20 @@
 ---
 type: community
-members: 6
+members: 7
 ---
 
 # ARTEX
 
-**Members:** 6 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Community Impact]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[Daily Herald]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[Federal News Network]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[Inside Global Tech]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[News 5 Cleveland WEWS]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[Veille États-Unis 2026-11-09  Régulation et politiques publiques]] - document - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Bulle spéculative de l'IA]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
+- [[Dollar IA (ROI)]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
+- [[Déploiement de l'IA à l'échelle]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
+- [[Gains de productivité de l'IA]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
+- [[Recrutement en IA]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
+- [[Startups IA azuréennes]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
+- [[Veille France 2026-11-19  Marché, productivité et perspectives économiques]] - document - veilles/veille-ia-fr-2026-11-19-t5.md
 
 ## Live Query (requires Dataview plugin)
 

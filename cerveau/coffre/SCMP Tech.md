@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-15-t1.md"
 type: "concept"
-community: "Veille Chine 2026-11-15 : Contenu et divertissement IA"
+community: "AI Short Dramas"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-15__Contenu_et_divertissement_IA
+  - community/AI_Short_Dramas
 ---
 
 # SCMP Tech
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Sanxingdui Future Past]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-15__Contenu_et_divertissement_IA
+#graphify/concept #graphify/EXTRACTED #community/AI_Short_Dramas

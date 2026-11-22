@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t1.md"
 type: "document"
-community: "AI Impact on Finance and Markets"
+community: "Elon Musk"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Impact_on_Finance_and_Markets
+  - community/Elon_Musk
 ---
 
 # Veille États-Unis 2026-11-11 : Financement et Bourse de l'IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[CoreWeave]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Impact_on_Finance_and_Markets
+#graphify/document #graphify/EXTRACTED #community/Elon_Musk

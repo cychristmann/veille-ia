@@ -1,21 +1,20 @@
 ---
 type: community
-members: 8
+members: 7
 ---
 
 # Veille Chine 2026-11-15 : Finances, valorisation et marché de l’IA
 
-**Members:** 8 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[AI Market Trends]] - concept - veilles/veille-ia-cn-2026-11-17-t3.md
-- [[Apollo Go (萝卜快跑)]] - concept - veilles/veille-ia-cn-2026-11-12-t1.md
-- [[Baidu]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
-- [[ChangXin Memory Technologies (长鑫科技)]] - concept - veilles/veille-ia-cn-2026-11-17-t3.md
-- [[MEOMURU]] - code - veilles/veille-ia-fr-2026-11-15-t6.md
-- [[Suno]] - code - veilles/veille-ia-fr-2026-11-15-t6.md
-- [[University of Science and Technology of China (中国科大)]] - concept - veilles/veille-ia-cn-2026-11-17-t3.md
-- [[Veille Chine 2026-11-17  Marché, financement et régulation]] - document - veilles/veille-ia-cn-2026-11-17-t3.md
+- [[Arduino]] - concept - veilles/veille-ia-us-2026-11-14-t3.md
+- [[Arista Networks]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
+- [[Brian Armstrong]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
+- [[Databricks]] - concept - veilles/veille-ia-us-2026-11-14-t3.md
+- [[Perplexity]] - concept - veilles/veille-ia-us-2026-11-14-t3.md
+- [[Veille États-Unis 2026-11-14  Agents et Outils Technologiques]] - document - veilles/veille-ia-us-2026-11-14-t3.md
+- [[Veille États-Unis 2026-11-22  Marché, investissements et actions IA]] - document - veilles/veille-ia-us-2026-11-22-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,15 +24,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Meta]]
-- 2 edges to [[_COMMUNITY_SpaceX]]
-- 2 edges to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
-- 1 edge to [[_COMMUNITY_Robin Li]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-13]]
-- 1 edge to [[_COMMUNITY_Anthropic_1]]
+- 1 edge to [[_COMMUNITY_Meta]]
+- 1 edge to [[_COMMUNITY_Feuilleton Compromission massive du Microsoft Agent Framework]]
+- 1 edge to [[_COMMUNITY_AWS Emulator]]
+- 1 edge to [[_COMMUNITY_Claude Meetings]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
 
 ## Top bridge nodes
-- [[Veille Chine 2026-11-17  Marché, financement et régulation]] - degree 7, connects to 3 communities
-- [[AI Market Trends]] - degree 6, connects to 3 communities
-- [[Baidu]] - degree 5, connects to 2 communities
-- [[Suno]] - degree 4, connects to 1 community
+- [[Veille États-Unis 2026-11-22  Marché, investissements et actions IA]] - degree 6, connects to 3 communities
+- [[Veille États-Unis 2026-11-14  Agents et Outils Technologiques]] - degree 4, connects to 1 community
+- [[Perplexity]] - degree 2, connects to 1 community

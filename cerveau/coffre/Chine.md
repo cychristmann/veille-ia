@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0001.md"
 type: "concept"
-community: "Jensen Huang"
+community: "Feuilleton: Compromission massive du Microsoft Agent Framework"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Jensen_Huang
+  - community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
 ---
 
 # Chine
@@ -15,4 +15,4 @@ tags:
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[TSMC]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Jensen_Huang
+#graphify/concept #graphify/EXTRACTED #community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework

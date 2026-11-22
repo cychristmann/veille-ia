@@ -22,5 +22,6 @@ tags:
 - [[Veille France 2026-11-19]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-12  Coût, tokenomics et optimisation]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-18]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-22 (t4)]] - `cites` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra

@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-12-t1.md"
 type: "concept"
-community: "Lumbra"
+community: "Blue J"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Lumbra
+  - community/Blue_J
 ---
 
 # Claude Sheets
 
-#graphify/concept #graphify/EXTRACTED #community/Lumbra
+#graphify/concept #graphify/EXTRACTED #community/Blue_J

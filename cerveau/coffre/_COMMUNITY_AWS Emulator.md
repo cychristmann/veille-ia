@@ -1,21 +1,18 @@
 ---
 type: community
-members: 8
+members: 5
 ---
 
 # AWS Emulator
 
-**Members:** 8 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[AWS Emulator]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
-- [[Amazon SageMaker Canvas]] - concept - veilles/veille-ia-dev-2026-11-14-t3.md
-- [[Amazon SageMaker Pipelines]] - concept - veilles/veille-ia-dev-2026-11-15-t4.md
-- [[OpenBot 1.0]] - concept - veilles/veille-ia-dev-2026-11-13-t1.md
-- [[Smithy API Models]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
-- [[Veille Outils & code 2026-11-13]] - document - veilles/veille-ia-dev-2026-11-13-t1.md
-- [[Veille Outils & code 2026-11-15 (T4)]] - document - veilles/veille-ia-dev-2026-11-15-t4.md
-- [[os.neu]] - concept - veilles/veille-ia-dev-2026-11-13-t1.md
+- [[Alphabet]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
+- [[Broadcom]] - concept - veilles/veille-ia-us-2026-11-11-t6.md
+- [[David Tepper]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
+- [[Micron]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
+- [[Veille États-Unis 2026-11-11  Autres articles]] - document - veilles/veille-ia-us-2026-11-11-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,15 +22,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Veille Chine 2026-11-11  Marchés et investissements]]
-- 2 edges to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-19  Régulation & Gouvernance IA]]
-- 1 edge to [[_COMMUNITY_Cursor_2]]
-- 1 edge to [[_COMMUNITY_Tencent]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20]]
+- 1 edge to [[_COMMUNITY_AMD]]
+- 1 edge to [[_COMMUNITY_Nvidia_2]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-15  Finances, valorisation et marché de l’IA]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
+- 1 edge to [[_COMMUNITY_Elon Musk]]
 
 ## Top bridge nodes
-- [[AWS Emulator]] - degree 8, connects to 4 communities
-- [[Veille Outils & code 2026-11-13]] - degree 7, connects to 4 communities
-- [[Amazon SageMaker Canvas]] - degree 3, connects to 1 community
+- [[David Tepper]] - degree 6, connects to 3 communities
+- [[Broadcom]] - degree 3, connects to 1 community
+- [[Micron]] - degree 2, connects to 1 community

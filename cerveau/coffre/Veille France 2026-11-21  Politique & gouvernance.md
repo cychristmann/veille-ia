@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-21-t1.md"
 type: "document"
-community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
+community: "AI Transparency Initiative"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+  - community/AI_Transparency_Initiative
 ---
 
 # Veille France 2026-11-21 : Politique & gouvernance
@@ -15,4 +15,4 @@ tags:
 - [[Dinan (Municipality)]] - `references` [EXTRACTED]
 - [[Mistral AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+#graphify/document #graphify/EXTRACTED #community/AI_Transparency_Initiative

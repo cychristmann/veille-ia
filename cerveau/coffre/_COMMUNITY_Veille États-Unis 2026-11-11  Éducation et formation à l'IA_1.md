@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille États-Unis 2026-11-11 : Éducation et formation à l'IA
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Veille États-Unis 2026-11-11  Éducation et formation à l'IA]] - document - veilles/veille-ia-us-2026-11-11-t5.md
+- [[LEO Technologies]] - concept - veilles/veille-ia-us-2026-11-22-t4.md
+- [[Verus]] - concept - veilles/veille-ia-us-2026-11-22-t4.md
 
 ## Live Query (requires Dataview plugin)
 

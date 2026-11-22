@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-14-2.md"
 type: "concept"
-community: "Federal Reserve"
+community: "Veille Chine 2026-11-13"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Federal_Reserve
+  - community/Veille_Chine_2026-11-13
 ---
 
 # Autorités chinoises
@@ -14,4 +14,4 @@ tags:
 - [[Dossier  IA  risque systémique pour la stabilité financière]] - `references` [EXTRACTED]
 - [[Risque systémique de l'IA]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Federal_Reserve
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-13

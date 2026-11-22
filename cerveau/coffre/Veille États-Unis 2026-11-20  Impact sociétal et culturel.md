@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-20-t5.md"
 type: "document"
-community: "Veille IA Dev 2026-11-20 T3"
+community: "ChatGPT Wallet"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_IA_Dev_2026-11-20_T3
+  - community/ChatGPT_Wallet
 ---
 
 # Veille États-Unis 2026-11-20 : Impact sociétal et culturel
@@ -19,4 +19,4 @@ tags:
 - [[Why I’m Not Losing Sleep Over the AI Apocalypse]] - `references` [EXTRACTED]
 - [[You tell AI everything. But who else is listening]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_IA_Dev_2026-11-20_T3
+#graphify/document #graphify/EXTRACTED #community/ChatGPT_Wallet

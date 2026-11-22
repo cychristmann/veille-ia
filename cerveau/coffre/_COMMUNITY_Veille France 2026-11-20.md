@@ -1,19 +1,20 @@
 ---
 type: community
-members: 6
+members: 7
 ---
 
 # Veille France 2026-11-20
 
-**Members:** 6 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Coding Agent Security for AppSec Leaders]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
-- [[Does AI Coding Make Secrets Sprawl Worse in CICD Pipelines]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
-- [[Hackers Target AI Coding Tools to Steal Credentials]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
-- [[Kiji Inspector]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
-- [[Stolen Claude API keys can turn Claude Code into a remote-controlled implant]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
-- [[Veille Outils & code 2026-11-12  Sécurité et gouvernance]] - document - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Baseten]] - concept - veilles/veille-ia-dev-2026-11-22-t6.md
+- [[Bison-1]] - concept - veilles/veille-ia-dev-2026-11-22-t6.md
+- [[Gemma 4]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
+- [[Groundhog-1]] - concept - veilles/veille-ia-dev-2026-11-22-t6.md
+- [[Inkling 2 Mini]] - concept - veilles/veille-ia-dev-2026-11-22-t3.md
+- [[Nimble]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
+- [[Ollama]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,3 +22,10 @@ members: 6
 TABLE source_file, type FROM #community/Veille_France_2026-11-20
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-22]]
+- 1 edge to [[_COMMUNITY_Hugging Face]]
+
+## Top bridge nodes
+- [[Inkling 2 Mini]] - degree 3, connects to 2 communities

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-14-t5.md"
 type: "concept"
-community: "Elon Musk"
+community: "Copilot"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Elon_Musk
+  - community/Copilot
 ---
 
 # Copilot
@@ -30,4 +30,4 @@ tags:
 - [[Veille Outils & code 2026-11-19]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-20]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Elon_Musk
+#graphify/concept #graphify/EXTRACTED #community/Copilot

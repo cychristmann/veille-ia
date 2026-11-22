@@ -1,11 +1,11 @@
 ---
-source_file: "dossiers/2026-11-21-3.md"
-type: "code"
-community: "GPT-6 Astra"
+source_file: "dossiers/2026-11-22-1.md"
+type: "concept"
+community: "Riemann Hypothesis"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Riemann_Hypothesis
 ---
 
 # Andrew Sutherland
@@ -14,4 +14,4 @@ tags:
 - [[Lean 4]] - `references` [EXTRACTED]
 - [[MIT]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/concept #graphify/EXTRACTED #community/Riemann_Hypothesis

@@ -1,28 +1,25 @@
 ---
 type: community
-members: 15
+members: 12
 ---
 
 # Claude
 
-**Members:** 15 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Amazon AI Trap for Hackers]] - concept - veilles/veille-ia-fr-2026-11-17-t4.md
-- [[Amazon Alexa (Shopping)]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
-- [[Apple Connected Glasses]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
-- [[Apple Mac AI Agents]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
-- [[Box]] - concept - veilles/veille-ia-fr-2026-11-17-t1.md
-- [[Cyberattaque Crédit Mutuel Arkéa]] - concept - veilles/veille-ia-fr-2026-11-17-t4.md
-- [[Cécile Pierrot]] - concept - veilles/veille-ia-fr-2026-11-17-t4.md
-- [[DORA 2025 Report]] - concept - veilles/veille-ia-fr-2026-11-17-t4.md
-- [[Google Maps (Gemini integration)]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
-- [[Google Project Zero]] - concept - veilles/veille-ia-fr-2026-11-17-t4.md
-- [[Instinct (AI Agent)]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
-- [[Monsieur Cuisine Connect]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
-- [[Mubadala]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
-- [[Samsung One UI 9.5]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
-- [[Veille France 2026-11-17]] - document - veilles/veille-ia-fr-2026-11-17-t1.md
+- [[AI Hallucination Challenges]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[Baidu AI Models]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[Cisco AI Revenue Performance]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[DAI 2026“物理世界AI前沿安全”研讨会]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[Veille Chine 2026-11-13  Régulation, compétition et marché]] - document - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[Veille Chine 2026-11-14  Stratégie, gouvernance et recherche IA]] - document - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[上海市科学数据管理办法]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[吴清：深化人工智能与资本市场双向赋能研究]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[李彦宏：人工智能的下一幕是智能组织]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[第七届中国人工智能大赛]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[腾讯闭门会比喻被误读为裁员50%]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[让人工智能技术潜力更好转化为生产率增长]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -30,18 +27,3 @@ members: 15
 TABLE source_file, type FROM #community/Claude
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 2 edges to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
-- 2 edges to [[_COMMUNITY_Microsoft]]
-- 1 edge to [[_COMMUNITY_Nvidia_1]]
-- 1 edge to [[_COMMUNITY_Goldman Sachs]]
-- 1 edge to [[_COMMUNITY_Tencent]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs_1]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
-- 1 edge to [[_COMMUNITY_IBM]]
-- 1 edge to [[_COMMUNITY_ChatGPT Wallet]]
-
-## Top bridge nodes
-- [[Veille France 2026-11-17]] - degree 23, connects to 8 communities
-- [[Mubadala]] - degree 3, connects to 2 communities

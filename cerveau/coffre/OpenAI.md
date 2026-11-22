@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-14-t2.md"
-type: "concept"
-community: "Veille États-Unis 2026-11-13 : Développements et investissements corporatifs"
+source_file: "veilles/veille-ia-us-2026-11-21-t3.md"
+type: "code"
+community: "Anthropic"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+  - community/Anthropic
 ---
 
 # OpenAI
@@ -73,4 +73,4 @@ tags:
 - [[Visa]] - `references` [EXTRACTED]
 - [[Wikimedia Foundation]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+#graphify/code #graphify/EXTRACTED #community/Anthropic

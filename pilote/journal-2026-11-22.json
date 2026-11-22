@@ -1,0 +1,272 @@
+{
+ "date": "2026-11-22",
+ "mode": "ia",
+ "bilan": "La veille a atteint les objectifs de quantité d'articles pour toutes les sections, mais la qualité des liens directs reste très basse pour la Chine et moyenne pour les États‑Unis. Une source clé est en panne, ce qui explique le manque de liens directs en Chine. Le quota Groq est bien en dessous de la limite, donc on peut encore ajouter ou tester des médias. Les expériences précédentes ont montré qu'une réduction de la part de Google Actualités améliore le taux de liens directs.",
+ "a_surveiller": [
+  "Liens directs très faibles pour la Chine (8 %).",
+  "Source \"量子位\" en panne, ce qui réduit le nombre d'articles fiables.",
+  "Quota Groq encore sous-utilisé (57 %), il reste de la marge pour tester de nouvelles sources."
+ ],
+ "lecon": "Diversifier rapidement les sources chinoises et remplacer les médias en panne permet d'augmenter le taux de liens directs, ce qui améliore la qualité globale de la veille.",
+ "actions": [
+  {
+   "date": "2026-11-22",
+   "action": "pause",
+   "section": "dev",
+   "source": "Design News",
+   "motif": "en panne 5 nuits d'affilée",
+   "raison": "Design News est en panne depuis 5 nuits, il faut le mettre en pause pour éviter de compter des articles manquants.",
+   "resultat": "",
+   "libelle": "Mise en pause de Design News (Outils & code)"
+  },
+  {
+   "date": "2026-11-22",
+   "action": "experimenter",
+   "section": "us",
+   "source": "part de Google Actualités 1.0 → 0.8",
+   "motif": "score actuel 77.3/100",
+   "raison": "Réduire la part de Google Actualités à 0.8 pour les États‑Unis devrait augmenter le pourcentage de liens directs, ce qui est le point le plus faible après la Chine.",
+   "resultat": "essai pendant 3 nuits",
+   "libelle": "Expérience États-Unis : part de Google Actualités 1.0 → 0.8"
+  }
+ ],
+ "refusees": [
+  {
+   "type": "reprendre",
+   "section": "dev",
+   "source": "JetBrains AI",
+   "motif": "annulation : la section n'a eu que 43 articles sur 50 depuis la pause",
+   "libelle": "Reprise de JetBrains AI (Outils & code)",
+   "raison": "La section Outils & code n'atteint pas le quota d'articles, donc reprendre \"JetBrains AI\" ne résout pas le problème de quantité."
+  },
+  {
+   "type": "reprendre",
+   "section": "dev",
+   "source": "Cursor",
+   "motif": "annulation : la section n'a eu que 43 articles sur 50 depuis la pause",
+   "libelle": "Reprise de Cursor (Outils & code)",
+   "raison": "Même raison que pour A1 : la section reste en dessous de 50 articles."
+  },
+  {
+   "type": "ouvrir_section",
+   "section": "sujet",
+   "source": "Hypothèse de Riemann",
+   "motif": "17 articles en 2 jours, 8.5 fois plus que d'habitude (0.0 par jour)",
+   "libelle": "Nouvelle rubrique « Hypothèse de Riemann »",
+   "raison": "L'ouverture de la rubrique \"Hypothèse de Riemann\" n'est pas liée à un événement majeur de plusieurs jours."
+  },
+  {
+   "type": "ouvrir_section",
+   "section": "sujet",
+   "source": "Meta",
+   "motif": "13 articles en 2 jours, 4.6 fois plus que d'habitude (1.4 par jour)",
+   "libelle": "Nouvelle rubrique « Meta »",
+   "raison": "L'ouverture de la rubrique \"Meta\" ne correspond pas à un sujet d'actualité soutenu sur plusieurs jours."
+  },
+  {
+   "type": "pause",
+   "section": "dev",
+   "source": "Ollama",
+   "motif": "muet : aucun article récent sur l'IA en 5 nuits (319 articles lus)",
+   "libelle": "Mise en pause de Ollama (Outils & code)",
+   "raison": "Ollama n'est pas en panne et fournit des articles utiles, donc on ne le met pas en pause."
+  }
+ ],
+ "en_pause": [
+  {
+   "section": "dev",
+   "source": "KDnuggets",
+   "depuis": "2026-11-19",
+   "motif": "hors sujet : 5 articles écartés, aucun retenu en 7 nuits"
+  },
+  {
+   "section": "dev",
+   "source": "JetBrains AI",
+   "depuis": "2026-11-21",
+   "motif": "muet : aucun article récent sur l'IA en 4 nuits (48 articles lus)"
+  },
+  {
+   "section": "dev",
+   "source": "Cursor",
+   "depuis": "2026-11-21",
+   "motif": "muet : aucun article récent sur l'IA en 4 nuits (200 articles lus)"
+  },
+  {
+   "section": "dev",
+   "source": "Design News",
+   "depuis": "2026-11-22",
+   "motif": "en panne 5 nuits d'affilée"
+  },
+  {
+   "section": "cn",
+   "source": "新浪科技",
+   "depuis": "2026-11-21",
+   "motif": "muet : aucun article récent sur l'IA en 4 nuits (60 articles lus)"
+  }
+ ],
+ "en_essai": [
+  {
+   "section": "dev",
+   "source": "NeoTeo",
+   "depuis": "2026-11-17",
+   "raison": "30 % d'articles IA, forte spécialisation technique, apporte une valeur ajoutée importante."
+  },
+  {
+   "section": "fr",
+   "source": "Quartz en Français",
+   "depuis": "2026-11-17",
+   "raison": "10 % d'articles IA avec des sujets pertinents (cybersécurité, deepfakes) ; source fiable et spécialisée."
+  }
+ ],
+ "lecons": [
+  {
+   "date": "2026-11-17",
+   "texte": "Tester régulièrement de nouveaux médias aide à maintenir un haut pourcentage de liens directs et à diversifier les sources."
+  },
+  {
+   "date": "2026-11-20",
+   "texte": "Pour les sections où les liens directs sont très faibles, réduire la dépendance à Google Actualités et chercher davantage de sources directes améliore la qualité des références."
+  },
+  {
+   "date": "2026-11-21",
+   "texte": "Pour les sections où les liens directs sont très faibles, comme la Chine, il faut diversifier rapidement les sources et réduire la dépendance aux agrégateurs afin d'augmenter la proportion de liens directs."
+  },
+  {
+   "date": "2026-11-22",
+   "texte": "Diversifier rapidement les sources chinoises et remplacer les médias en panne permet d'augmenter le taux de liens directs, ce qui améliore la qualité globale de la veille."
+  }
+ ],
+ "paris": {
+  "nouveaux": [
+   {
+    "enonce": "Claude : au plus 12 articles (Outils & code) sur les 2 prochains jours",
+    "probabilite": 0.52,
+    "echeance": "2026-11-24",
+    "statut": "en_cours",
+    "observe": null,
+    "raisonnement": "Les 7‑jours précédents montrent 65 articles dev, soit ≈9,3/jour ; une baisse légère est plausible."
+   },
+   {
+    "enonce": "Nvidia : au moins 22 articles (États-Unis et France) sur les 3 prochains jours",
+    "probabilite": 0.55,
+    "echeance": "2026-11-25",
+    "statut": "en_cours",
+    "observe": null,
+    "raisonnement": "Les totaux récents (fr+us) sont 37 sur 7 j, soit ≈5,3/jour ; une hausse soutenue autour de 7‑8/jour rend 22 plausible."
+   },
+   {
+    "enonce": "Agents IA : au moins 9 articles (Chine) sur les 4 prochains jours",
+    "probabilite": 0.53,
+    "echeance": "2026-11-26",
+    "statut": "en_cours",
+    "observe": null,
+    "raisonnement": "En Chine, les 7 j précédents comptent 6+14+6 = 26 articles, moyenne ≈3,7/jour ; une légère hausse vers 4‑5/jour donne 9 sur 4 j."
+   }
+  ],
+  "resolus": [
+   {
+    "enonce": "Claude : au moins 30 articles (Outils & code) sur les 3 prochains jours",
+    "probabilite": 0.71,
+    "echeance": "2026-11-22",
+    "statut": "perdu",
+    "observe": 23,
+    "raisonnement": "Claude a montré une forte hausse récente (38 articles en 4 jours) et les outils continuent d'être très couverts."
+   },
+   {
+    "enonce": "Claude Code : au plus 10 articles (Outils & code) sur les 2 prochains jours",
+    "probabilite": 0.56,
+    "echeance": "2026-11-22",
+    "statut": "gagne",
+    "observe": 6,
+    "raisonnement": "Le nombre quotidien d'articles dev pour Claude Code a oscillé entre 8 et 12, mais aucune poussée récente ; une petite baisse sous 10 est raisonnable."
+   }
+  ],
+  "refus": [],
+  "score": {
+   "tranches": 21,
+   "gagnes": 9,
+   "reussite": 43,
+   "correction": 0.3,
+   "confiance_moyenne": 68,
+   "brier": 0.324,
+   "paliers": {
+    "50-64 %": {
+     "paris": 4,
+     "reussite": 50
+    },
+    "65-79 %": {
+     "paris": 17,
+     "reussite": 41
+    }
+   }
+  }
+ },
+ "section_ephemere": null,
+ "experiences": [
+  {
+   "section": "cn",
+   "libelle": "part de Google Actualités 1.0 → 0.8",
+   "depuis": "2026-11-20",
+   "base": 70.6,
+   "hypothese": "Réduire la part de Google Actualités de 1.0 à 0.8 pour la Chine devrait augmenter le taux de liens directs, qui est très bas."
+  },
+  {
+   "section": "dev",
+   "libelle": "part de Google Actualités 0.35 → 0.5",
+   "depuis": "2026-11-21",
+   "base": 77.8,
+   "hypothese": "Tester une augmentation de la part de Google Actualités (0.35→0.5) pour Outils & code afin de vérifier son impact sur le taux de liens directs."
+  },
+  {
+   "section": "us",
+   "libelle": "part de Google Actualités 1.0 → 0.8",
+   "depuis": "2026-11-22",
+   "base": 77.3,
+   "hypothese": "Réduire la part de Google Actualités à 0.8 pour les États‑Unis devrait augmenter le pourcentage de liens directs, ce qui est le point le plus faible après la Chine."
+  }
+ ],
+ "indicateurs": {
+  "sections": {
+   "fr": {
+    "nom": "France",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 72,
+    "pannes": []
+   },
+   "us": {
+    "nom": "États-Unis",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 56,
+    "pannes": []
+   },
+   "cn": {
+    "nom": "Chine",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 8,
+    "pannes": [
+     "量子位"
+    ]
+   },
+   "dev": {
+    "nom": "Outils & code",
+    "articles": 43,
+    "voulus": 50,
+    "liens_directs": 84,
+    "pannes": [
+     "Design News"
+    ]
+   }
+  },
+  "quota_groq": 57,
+  "nuit": {
+   "statut": "attention",
+   "soucis": [
+    "Veille Chine : 50 articles, 46 sans lien direct · 1 source(s) en panne : 量子位",
+    "Veille Outils & code : 43 articles, 7 sans lien direct · 1 source(s) en panne : Design News"
+   ]
+  }
+ }
+}

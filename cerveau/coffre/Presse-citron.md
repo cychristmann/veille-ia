@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0006.md"
 type: "concept"
-community: "Veille France 2026-11-15"
+community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-15
+  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
 ---
 
 # Presse-citron
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Emmanuel Macron]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-15
+#graphify/concept #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière

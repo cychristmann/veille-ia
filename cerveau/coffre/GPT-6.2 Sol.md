@@ -1,18 +1,21 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-18-t1.md"
+source_file: "veilles/veille-ia-dev-2026-11-22-t3.md"
 type: "concept"
-community: "Elon Musk"
+community: "Copilot"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Elon_Musk
+  - community/Copilot
 ---
 
 # GPT-6.2 Sol
 
 ## Connections
 - [[Copilot]] - `conceptually_related_to` [EXTRACTED]
+- [[Gemini 4 Neon]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
+- [[Opus 5.5]] - `conceptually_related_to` [EXTRACTED]
 - [[Veille Outils & code 2026-11-18]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-22]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Elon_Musk
+#graphify/concept #graphify/EXTRACTED #community/Copilot

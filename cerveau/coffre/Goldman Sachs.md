@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t4.md"
 type: "concept"
-community: "Goldman Sachs"
+community: "Veille États-Unis 2026-11-18"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Goldman_Sachs
+  - community/Veille_États-Unis_2026-11-18
 ---
 
 # Goldman Sachs
@@ -18,4 +18,4 @@ tags:
 - [[Veille France 2026-11-17]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-18 (T2)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Goldman_Sachs
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-18

@@ -64,10 +64,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_Nvidia_2]]
 - 1 edge to [[_COMMUNITY_Microsoft]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs_1]]
+- 1 edge to [[_COMMUNITY_Amazon Bedrock]]
 
 ## Top bridge nodes
 - [[Veille États-Unis 2026-11-18]] - degree 11, connects to 2 communities

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-18-t1.md"
 type: "document"
-community: "Trump's AI task force"
+community: "Claude"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trumps_AI_task_force
+  - community/Claude
 ---
 
 # Veille Outils & code 2026-11-18
@@ -28,4 +28,4 @@ tags:
 - [[SID-2 Agentic Search Model]] - `references` [EXTRACTED]
 - [[Vibe Coding]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trumps_AI_task_force
+#graphify/document #graphify/EXTRACTED #community/Claude

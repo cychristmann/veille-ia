@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-18-t2.md"
 type: "concept"
-community: "Trump's AI task force"
+community: "Claude"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Trumps_AI_task_force
+  - community/Claude
 ---
 
 # Replit Missions
@@ -14,4 +14,4 @@ tags:
 - [[Veille Outils & code 2026-11-18]] - `references` [EXTRACTED]
 - [[Vibe Coding]] - `conceptually_related_to` [INFERRED]
 
-#graphify/concept #graphify/EXTRACTED #community/Trumps_AI_task_force
+#graphify/concept #graphify/EXTRACTED #community/Claude

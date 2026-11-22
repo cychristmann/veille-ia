@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-12-t5.md"
 type: "concept"
-community: "Veille Chine 2026-11-18 : Impact sociétal et perception"
+community: "Veille États-Unis 2026-11-11 : Éducation et formation à l'IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-18__Impact_sociétal_et_perception
+  - community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA
 ---
 
 # Nubia
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-12  Produits grand public et IA générative]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-18__Impact_sociétal_et_perception
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA

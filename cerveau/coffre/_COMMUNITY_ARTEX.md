@@ -1,26 +1,23 @@
 ---
 type: community
-members: 13
+members: 10
 ---
 
 # ARTEX
 
-**Members:** 13 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[ARTEX]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
-- [[Autumn-27]] - concept - dossiers/2026-11-21-1.md
-- [[DeepSeek Flash]] - concept - dossiers/2026-11-16-1.md
-- [[European Commission]] - concept - dossiers/2026-11-21-1.md
-- [[FBI]] - concept - feuilletons/f-0028.md
-- [[GitHub]] - concept - feuilletons/f-0028.md
-- [[Memorilla]] - concept - veilles/veille-ia-dev-2026-11-15-t5.md
-- [[Nmap]] - concept - dossiers/2026-11-16-1.md
-- [[Storm-0940]] - concept - dossiers/2026-11-21-1.md
-- [[Storm-3358]] - concept - dossiers/2026-11-16-1.md
-- [[Sysper]] - concept - dossiers/2026-11-21-1.md
-- [[Veille Outils & code 2026-11-15 (T5)]] - document - veilles/veille-ia-dev-2026-11-15-t5.md
-- [[curl]] - concept - dossiers/2026-11-16-1.md
+- [[AI agent data leak incident]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[APA guidance on deploying AI in workplaces]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Financial Supervisory Service AI loan review deployment]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Global system outages and AI conspiracy theories]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Lean AI proof of Riemann Hypothesis]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[MiniMax founder fortune loss]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Outrage over military AI event at Berlin arts complex]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Samsung and SK Hynix AI memory market performance]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Tom Lee AI market outlook]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Veille États-Unis 2026-11-22  Autres articles]] - document - veilles/veille-ia-us-2026-11-22-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -28,11 +25,3 @@ members: 13
 TABLE source_file, type FROM #community/ARTEX
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-19  Régulation & Gouvernance IA]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
-
-## Top bridge nodes
-- [[ARTEX]] - degree 9, connects to 1 community
-- [[Veille Outils & code 2026-11-15 (T5)]] - degree 3, connects to 1 community

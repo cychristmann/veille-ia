@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[Dianli ETF Jingshun (159158)]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
-- [[JinJing XinNeng (01783)]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
-- [[Shengmei Semiconductor]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
-- [[Veille Chine 2026-11-16  Infrastructure et puissance de calcul]] - document - veilles/veille-ia-cn-2026-11-16-t2.md
+- [[Florida Legislature]] - concept - veilles/veille-ia-us-2026-11-22-t2.md
+- [[South Korea Financial Supervisory Service (FSS)]] - concept - veilles/veille-ia-us-2026-11-22-t2.md
+- [[South Korean Ministry of Education]] - concept - veilles/veille-ia-us-2026-11-22-t2.md
+- [[Veille États-Unis 2026-11-22  Régulation, politique et éthique]] - document - veilles/veille-ia-us-2026-11-22-t2.md
 
 ## Live Query (requires Dataview plugin)
 

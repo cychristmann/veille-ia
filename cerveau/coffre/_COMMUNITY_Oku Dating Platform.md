@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[IA dans l'enseignement supérieur]] - concept - veilles/veille-ia-cn-2026-11-13-t1.md
-- [[Veille Chine 2026-11-13  Éducation et formation]] - document - veilles/veille-ia-cn-2026-11-13-t1.md
+- [[Oku Dating Platform]] - concept - veilles/veille-ia-dev-2026-11-16-t6.md
+- [[Veille Outils & code 2026-11-16  Autres articles]] - document - veilles/veille-ia-dev-2026-11-16-t6.md
 
 ## Live Query (requires Dataview plugin)
 

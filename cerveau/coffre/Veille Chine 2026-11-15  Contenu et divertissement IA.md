@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-15-t1.md"
 type: "document"
-community: "Veille Chine 2026-11-15 : Contenu et divertissement IA"
+community: "AI Short Dramas"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-15__Contenu_et_divertissement_IA
+  - community/AI_Short_Dramas
 ---
 
 # Veille Chine 2026-11-15 : Contenu et divertissement IA
@@ -15,4 +15,4 @@ tags:
 - [[Sanxingdui Future Past]] - `references` [EXTRACTED]
 - [[投资界]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-15__Contenu_et_divertissement_IA
+#graphify/document #graphify/EXTRACTED #community/AI_Short_Dramas

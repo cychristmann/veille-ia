@@ -11,6 +11,7 @@ tags:
 # Gemini
 
 ## Connections
+- [[Claude]] - `conceptually_related_to` [INFERRED]
 - [[Google]] - `references` [EXTRACTED]
 - [[Veille IA Dev 2026-11-20 T3]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-20  Développements technologiques et agents IA]] - `references` [EXTRACTED]

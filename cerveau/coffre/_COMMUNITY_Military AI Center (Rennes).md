@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[French Government]] - concept - feuilletons/f-0023.md
-- [[Military AI Center (Rennes)]] - concept - feuilletons/f-0023.md
-- [[NATO]] - concept - feuilletons/f-0023.md
+- [[Ambient Quality Agent (AQuA)]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
+- [[Claude Managed Agents]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
+- [[Veille Outils & code 2026-11-14  Autres articles]] - document - veilles/veille-ia-dev-2026-11-14-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,3 +18,9 @@ members: 3
 TABLE source_file, type FROM #community/Military_AI_Center_Rennes
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
+
+## Top bridge nodes
+- [[Veille Outils & code 2026-11-14  Autres articles]] - degree 3, connects to 1 community

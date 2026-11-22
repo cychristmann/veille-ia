@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-09-t2.md"
-type: "code"
-community: "Veille Outils & code 2026-11-14"
+source_file: "veilles/veille-ia-fr-2026-11-17-t2.md"
+type: "concept"
+community: "Amazon Bedrock"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-14
+  - community/Amazon_Bedrock
 ---
 
 # ChatGPT Enterprise
@@ -17,4 +17,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-14
+#graphify/concept #graphify/EXTRACTED #community/Amazon_Bedrock

@@ -1,0 +1,953 @@
+{
+  "region": "cn",
+  "genere_a": "2026-11-22T07:41:15.411440+01:00",
+  "heures": 24,
+  "nombre_demande": 50,
+  "nombre_articles": 50,
+  "synthese": "Les dernières heures montrent une activité intense autour de l'intelligence artificielle en Chine. D'une part, les acteurs technologiques poursuivent des standards et des architectures dédiés, tandis que les acquisitions majeures sont signalées. L'IA se démarque également dans la recherche, participant à la résolution de la conjecture de Riemann et à des prix en physique. Sur le plan consommateur, de nouveaux produits – claviers, lunettes, traducteurs et même des courts métrés – sont lancés ou testés, illustrant une pénétration large. Enfin, les débats sur la régulation, les risques de bulle et les enjeux éthiques s'intensifient, avec plusieurs alertes de financement, des incidents de triche et des initiatives de gouvernance à l'échelle nationale et internationale.",
+  "verification": {
+    "problemes": [
+      {
+        "passage": "investissements explosent avec des acquisitions majeures et des dépenses record",
+        "raison": "Aucun titre ne mentionne des \"dépenses record\" liées aux investissements IA"
+      }
+    ],
+    "synthese_originale": "Les dernières heures montrent une activité intense autour de l'intelligence artificielle en Chine. D'une part, les acteurs technologiques poursuivent des standards et des architectures dédiés, tandis que les investissements explosent avec des acquisitions majeures et des dépenses record. L'IA se démarque également dans la recherche, participant à la résolution de la conjecture de Riemann et à des prix en physique. Sur le plan consommateur, de nouveaux produits – claviers, lunettes, traducteurs et même des courts métrages – sont lancés ou testés, illustrant une pénétration large. Enfin, les débats sur la régulation, les risques de bulle et les enjeux éthiques s'intensifient, avec plusieurs alertes de financement, des incidents de triche et des initiatives de gouvernance à l'échelle nationale et internationale."
+  },
+  "sources_en_echec": [
+    "量子位"
+  ],
+  "flux_lus": {
+    "IT之家": [
+      60,
+      14
+    ],
+    "TechNode": [
+      2000,
+      0
+    ],
+    "Pandaily": [
+      20,
+      0
+    ],
+    "SCMP Tech": [
+      50,
+      0
+    ],
+    "InfoQ.cn": [
+      20,
+      3
+    ],
+    "Google Actualités": [
+      100,
+      100
+    ]
+  },
+  "titre_section": "chinoise",
+  "themes": [
+    {
+      "nom": "Normes et architectures IA",
+      "resume": "Les articles portent sur la normalisation des agents intelligents, les défis architecturaux et les initiatives de refonte des outils de développement autour de l'IA.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Standardisation internationale des agents IA, impact sectoriel",
+          "couverture": 1,
+          "titre": "智能体身份国际标准化：体系布局与研制实践｜AICon北京",
+          "source": "InfoQ.cn",
+          "lien": "https://www.infoq.cn/article/721YPdyIZ1D8xz20D22C?utm_source=rss&utm_medium=article",
+          "date": "2026-11-22T10:00:00+00:00",
+          "resume": "点击查看原文>",
+          "titre_fr": "Normalisation internationale des identités d'agents intelligents : cadre et pratiques de développement | AICon Beijing"
+        }
+      ]
+    },
+    {
+      "nom": "Business, investissements et marché IA",
+      "resume": "Une série de titres décrivent les acquisitions majeures, les dépenses d'investissement, les stratégies de financement et les dynamiques de marché autour des startups et des géants de l'IA en Chine et à l'international.",
+      "articles": [
+        {
+          "note": 9,
+          "motif": "Acquisition proche de 75 Mds$ d'une startup IA par Amazon, impact majeur",
+          "couverture": 1,
+          "titre": "亚马逊用接近75亿美元收购以色列AI芯片初创公司，目标是对付英伟达",
+          "source": "Moomoo",
+          "lien": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3X3RTbm5LT3lrallRcDhZZ0dOZzNWTEpqQi01V1VMbGNsZ0lDTnliQWp3UERGN1VaeC1XOGJFSHBYc3hUZmFDeE9aNEZBUnJ2MHpFYUxJcXVBWV8x?oc=5",
+          "date": "2026-11-22T02:54:00+00:00",
+          "resume": "",
+          "titre_fr": "Amazon acquiert une startup israélienne de puces IA pour près de 7,5 milliards de dollars, afin de concurrencer Nvidia"
+        },
+        {
+          "note": 8,
+          "motif": "Acquisition majeure d'une startup IA par Amazon",
+          "couverture": 1,
+          "titre": "亚马逊洽购AI初创Decart进入最终阶段 金额约75亿美元",
+          "source": "www.itsdw.cn",
+          "lien": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUcmQ3eF9LVmt3OHVQV2hiZWRGMVowWm91VzJMZzlfdl9SQmRnVklrWmJncXJiWTJTZEtuZkw2Um4zQ2VUQlVmZjJsQlU?oc=5",
+          "date": "2026-11-22T06:31:00+00:00",
+          "resume": "",
+          "titre_fr": "Amazon finalise l’acquisition de la startup IA Decart, pour environ 7,5 milliards de dollars"
+        },
+        {
+          "note": 7,
+          "motif": "Analyse des dépenses IA de Tencent, indicateur de marché",
+          "couverture": 1,
+          "titre": "资本开支猛增 226%，AI 吞噬百亿利润：腾讯的 AI 故事，进入更重的阶段",
+          "source": "极客公园",
+          "lien": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jdG5RYllla1BXUkt5QzVqSndKVzk5RzhRQmtHYmoxTEZGeUNpNEN4Q1NaWlZvZFJGT3RLOTFSTUY3U1gwMFRJRzBzaGE?oc=5",
+          "date": "2026-11-22T02:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Les dépenses d’investissement explosent de 226 % ; l’IA engloutit des dizaines de milliards de profits : le récit IA de Tencent entre dans une phase plus lourde"
+        },
+        {
+          "note": 6,
+          "motif": "Analyse du cycle de financement du calcul IA, pertinence économique",
+          "couverture": 1,
+          "titre": "AI算力市场的危险循环：越借不到钱，GPU租金反而越贵_滚动新闻_财经",
+          "source": "证券之星",
+          "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aemp2cjJRTExnZk5FdVM3Q0hLWlc4QllXUnNpQzBQakdGMnNrX293dVdEOTVmYkpVVTZZdXJiSFptMDFzai1kNFV0ZXR1b1ItT2xzRTdZZlNMeDRwbWpWZA?oc=5",
+          "date": "2026-11-22T02:28:40+00:00",
+          "resume": "",
+          "titre_fr": "Cycle dangereux du marché du calcul IA : moins de financement, plus cher le loyer des GPU – Rolling News, Finance"
+        },
+        {
+          "note": 6,
+          "motif": "Nouvelle fonctionnalité Windows 11 pour IA, intérêt technique",
+          "couverture": 1,
+          "titre": "不用交换机！微软Windows11上线USB4 RDMA：多机合体做AI推理",
+          "source": "驱动之家",
+          "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00V1FXSGQtZ19oZ2cyejZ6TGU0Uld5VW1JUmR0Q19VZmxaWHV0YzFSTk52djk3QnpmNHNldzZLTEJGZmN4X1A1Z1lFa3RxVGlCejF4RmVwc0w?oc=5",
+          "date": "2026-11-22T02:26:00+00:00",
+          "resume": "",
+          "titre_fr": "Fini les commutateurs ! Windows 11 de Microsoft intègre USB4 RDMA : plusieurs machines unies pour l’inférence IA"
+        },
+        {
+          "note": 5,
+          "motif": "Objectif énergétique d'Alibaba lié à l'IA, information économique",
+          "couverture": 1,
+          "titre": "阿里20吉瓦目标松动，AI投入与回报赛跑_国内经济_财经",
+          "source": "证券之星",
+          "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85eTVSTktnazZNSVNwaHp3QkUzZkVuSnVVaTRxSFRTMWN4V2JrbEMzSUVhRWhJOEZkUFRXcHNQSUZFYmJUQ1k4c1RFRFhwNFk2RnFjS1E2QXdSNGVqNzRtdw?oc=5",
+          "date": "2026-11-22T01:50:19+00:00",
+          "resume": "",
+          "titre_fr": "L’objectif d’Alibaba de 20 GW se relâche, la course entre investissement IA et retour sur investissement s’accélère – Économie intérieure, Finance"
+        },
+        {
+          "note": 5,
+          "motif": "Flash info quotidien IA, pas d'événement majeur",
+          "couverture": 1,
+          "titre": "澎湃AI早新闻丨2026年11月22日__澎湃新闻-The Paper",
+          "source": "ThePaper.cn",
+          "lien": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13bWp5YUtXUDBMMnE2a0FSNGRxTlBXTFlkRG4zekJZeTdMRDk3V05qUno3b0pLaUowNTNJelFzWER3cUQ1dXpERGY3bzVteVBLOFNVNHdRU2JzQ3VwNVE?oc=5",
+          "date": "2026-11-22T01:38:12+00:00",
+          "resume": "",
+          "titre_fr": "AI Early News de The Paper – 22 novembre 2026"
+        }
+      ]
+    },
+    {
+      "nom": "Percées scientifiques et mathématiques grâce à l'IA",
+      "resume": "Plusieurs médias annoncent que l'IA a contribué à des avancées majeures, notamment la preuve assistée de la conjecture de Riemann et des récompenses liées à l'IA en physique.",
+      "articles": [
+        {
+          "note": 9,
+          "motif": "Preuve assistée par IA du problème de Riemann, percée majeure",
+          "couverture": 1,
+          "titre": "困扰人类167年的数学难题！AI辅助证明黎曼猜想震动数学界 丘成桐：一个伟大的贡献",
+          "source": "驱动之家",
+          "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NRVlVeWxJNWFxV1NKcW10RzJ2RkhqMGFPRHdHVXphbjAzb0tXc2xRV25FSkpaZi00dGpVQUw5d2tLU0FYLVhOUFZMMlpxUFdITi1nQlQ3cTE?oc=5",
+          "date": "2026-11-22T05:03:00+00:00",
+          "resume": "",
+          "titre_fr": "Problème mathématique qui intrigue l’humanité depuis 167 ans ! L’IA aide à prouver l’hypothèse de Riemann, secouant la communauté mathématique – Shing‑Tong Yau : « une contribution majeure »"
+        },
+        {
+          "note": 8,
+          "motif": "Confirmation indépendante de la preuve IA, suivi important",
+          "couverture": 1,
+          "titre": "丘成桐等数学家发声当晚，AI 证明黎曼猜想获得了独立验证",
+          "source": "虎嗅网",
+          "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91cWtWcGFGZEQ3b3hOY19DTkxPZFVuNlU4SExmOXBhcm9nVjgzYk9oM0szdVp1UHh3VXZyal9oV3N1QXRiM202bGxwVjhXYkhkWEh2ZA?oc=5",
+          "date": "2026-11-22T04:59:17+00:00",
+          "resume": "",
+          "titre_fr": "Le soir même où Shing‑Tong Yau et d’autres mathématiciens s’expriment, la preuve IA de l’hypothèse de Riemann reçoit une validation indépendante"
+        },
+        {
+          "note": 8,
+          "motif": "Couverture médiatique de la preuve IA du problème de Riemann",
+          "couverture": 1,
+          "titre": "黎曼猜想被AI证明？167年难题迎来形式化验证，数学家仍在追问",
+          "source": "京报网",
+          "lien": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJZGhLcng0N2lHN0dHLUN6T2tGUl9kd19FRHVIVWhzMlE0d3ZQUWN2b01zNWFzNGoyTEd2RVpnWmZOVWJFWndITlZkd2ZuYzg2NUN6RC16YlZwS0NkV1E?oc=5",
+          "date": "2026-11-22T04:12:34+00:00",
+          "resume": "",
+          "titre_fr": "L’hypothèse de Riemann prouvée par l’IA ? Le problème de 167 ans passe à la vérification formelle, les mathématiciens restent sceptiques"
+        },
+        {
+          "note": 8,
+          "motif": "Interview de Tianyu sur la preuve IA du problème de Riemann",
+          "couverture": 1,
+          "titre": "困扰数学界167年的黎曼猜想被AI辅助证明？丘成桐回应",
+          "source": "新京报",
+          "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CVTJNSGJGZU5SandQWWNaNmVqb3IwNGFUWFZISVVGU3V5YXc2UURneGV0a2t4ZXV3S0E4SFV6Vkh0S1FYaHpPeHV1U2E4cWs1eldwZnlSWlcxWHZrdTdVRnNB?oc=5",
+          "date": "2026-11-22T02:11:00+00:00",
+          "resume": "",
+          "titre_fr": "L’hypothèse de Riemann, énigme mathématique de 167 ans, partiellement prouvée par l’IA ? Shing‑Tong Yau répond"
+        },
+        {
+          "note": 7,
+          "motif": "Réaction de Tianyu à la preuve IA du problème de Riemann",
+          "couverture": 1,
+          "titre": "丘成桐回应AI辅助证明黎曼猜想",
+          "source": "手机新浪网",
+          "lien": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MWVo4c21iYXRnVUx2NEtQYW95Sno4anZqWGFuN183eFZYT3lxZGZGTnhabGFrbnU5b21OM3dKSlY5RVRkWmxjLWI3bw?oc=5",
+          "date": "2026-11-22T03:28:29+00:00",
+          "resume": "",
+          "titre_fr": "Shing‑Tong Yau réagit à la preuve assistée par IA de l’hypothèse de Riemann"
+        },
+        {
+          "note": 6,
+          "motif": "Lancement d'un prix IA en physique, valorisation de la recherche",
+          "couverture": 1,
+          "titre": "2026 物理AI金球奖启动：寻找把智能装进物理世界的公司",
+          "source": "电子工程专辑EE Times China",
+          "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NRUNUbEpJclhIXzdiMVZXZXMyNGRtTTZYazhEdUVod2VjdUYtS04zLU5PemIwQS1aRTUyUy1oMUZ2MUdDODU5eG1YcFZxVm55RzA0?oc=5",
+          "date": "2026-11-22T02:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Lancement du Physics AI Golden Ball 2026 : à la recherche d’entreprises qui intègrent l’intelligence dans le monde physique"
+        },
+        {
+          "note": 5,
+          "motif": "Rapport 2026 sur l'éducation post‑preuve IA, perspective à moyen terme",
+          "couverture": 1,
+          "titre": "当AI攻克黎曼猜想，教育还有多少窗口期？这份2026年度报告给出答案",
+          "source": "上观新闻",
+          "lien": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJY0l5ZVhncEk1VF8zUi1RWk9MZU40MV9SSWppY2xDWERTSV9yOGVoOUFGbThzam81NEVOWFVfTjhzS1M3TUR6Zm9rYi1vYldWR0J4d2dzdjdXZw?oc=5",
+          "date": "2026-11-22T02:04:00+00:00",
+          "resume": "",
+          "titre_fr": "Quand l’IA résout l’hypothèse de Riemann, quelles fenêtres éducatives restent ? Le rapport 2026 donne des réponses"
+        }
+      ]
+    },
+    {
+      "nom": "Applications grand public et produits IA",
+      "resume": "Ces articles couvrent le lancement ou le test de produits grand public intégrant l'IA : claviers, lunettes, traducteurs, drones, spectacles, courts métrages, agriculture intelligente et usines connectées.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Analyse de la compétition sur les lunettes IA, enjeu concurrentiel",
+          "couverture": 1,
+          "titre": "全球Meta一家独大，中国AI眼镜为何还在混战？",
+          "source": "21财经",
+          "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdDZnQ01ma2R1WklLVXN4eGxMbFF6RG9FUVM1dHBuaTlzUG9SV3kzR1FPUDFFV2FsYW9UZ0c2TlFOX3V4YW96THlpNEVOWnNlWW9ibU9fem5wWFR5bWRVVzF1bzNacTFIX0kwWkpxVmdad3JmTDVXRElTLVhKR0pQUXo1SU1qZF9DTGFxMHdnaw?oc=5",
+          "date": "2026-11-22T05:07:00+00:00",
+          "resume": "",
+          "titre_fr": "Meta domine le marché mondial ; pourquoi les lunettes IA chinoises restent en guerre ouverte ?"
+        },
+        {
+          "note": 7,
+          "motif": "Annonce technique de Tesla FSD, utilisation exclusive d'AI4 chip",
+          "couverture": 1,
+          "titre": "无需游戏引擎！马斯克称特斯拉 FSD v15 实景视图仅动用 AI4 芯片一个 TRIP 加速器一半算力",
+          "source": "IT之家",
+          "lien": "https://www.ithome.com/1/030/563.htm",
+          "date": "2026-11-22T04:18:50+00:00",
+          "resume": "IT之家 11 月 22 日消息， 特斯拉今日宣布在美国市场推出 FSD v15 ，带来了全新可视化界面 ——“Tesla Reality View”（特斯拉实景视图）。 随后全新的“Tesla Reality View”迅速引发网友热议。博主 @旌旗超智能 分析，特斯拉是在硬件劣势的情况做了 3D 高斯全场景重建。他称自己今天仔细检查了一下特斯拉 FSD 2 代芯片的规格，发现不如很多新势力的自研芯片。 IT之家注意到，马斯克今日也发文对该功能进行了说明。他透露，FSD v15 的“Tesla Reality View”是由实时 AI 视频生成，无需游戏引擎！ 且仅动用了 AI4 芯片一个 ",
+          "titre_fr": "Pas besoin de moteur de jeu ! Musk affirme que la vue réelle du Tesla FSD v15 utilise uniquement un seul puce AI4 et la moitié de la puissance du TRIP Accelerator"
+        },
+        {
+          "note": 6,
+          "motif": "Produit hardware innovant intégrant IA, niche mais notable",
+          "couverture": 1,
+          "titre": "全球首款AI电动螺丝刀问世：自动识别螺丝 亮灯选批头",
+          "source": "驱动之家",
+          "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xOHFEVkxXeVZkYzFKcEFYQk16dXFEM0w3QXFNdWtlQ21STjFJUTJueHBDTG03ZHNlM1Z0b1ZVWUpobnNWN0ZENjhFR3pWb3VjX19hRTBfcWo?oc=5",
+          "date": "2026-11-22T06:14:00+00:00",
+          "resume": "",
+          "titre_fr": "Le premier tournevis électrique IA au monde : reconnaissance automatique des vis et éclairage du foret"
+        },
+        {
+          "note": 6,
+          "motif": "Évaluation technique de hardware IA, utile pour spécialistes",
+          "couverture": 1,
+          "titre": "智驾硬件、座舱AI与底盘智控，四款三十万级增程大六座横向评测",
+          "source": "新浪财经",
+          "lien": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTd3aW1ET3M2b1Nla2xCQlYwRnA0M3V0Z3Qwb0VEVndMdmZxMGVaaWsyb01ULXFuLXJrYVE5U1h6UjI4dVZZajZ5MnhHTmpnUld2eTROVE04bGxuUk0tRk5WVGdUcDhydmM4Nlg5S1NTRDI3SmhzdXlRWGc1czF0Y0RPVXF6MUU3eHdoVFMtTnVnUQ?oc=5",
+          "date": "2026-11-22T05:24:48+00:00",
+          "resume": "",
+          "titre_fr": "Évaluation comparative de quatre véhicules à 300 000 ¥ : matériel de conduite autonome, cockpit IA et contrôle du châssis"
+        },
+        {
+          "note": 5,
+          "motif": "Nouvelle fonction d'une appli, intérêt limité",
+          "couverture": 1,
+          "titre": "腾讯 Chatterfly 输入法安卓版开启内测，支持语音转写、自动翻译等 AI 功能",
+          "source": "IT之家",
+          "lien": "https://www.ithome.com/1/030/576.htm",
+          "date": "2026-11-22T06:32:45+00:00",
+          "resume": "IT之家 11 月 22 日消息， 腾讯 Chatterfly 输入法安卓版现已开启内测 ，iOS 版目前状态为“即将发布”。 据介绍，Chatterfly 输入法除了将语音变成文字外，还能理解上下文，识别不同的意图和场景，还能听懂用户的需求，帮用户执行任务。 IT之家附该输入法主要特性如下： 语音输入，说完即成稿：不用组织语言，Chatterfly 能自动识别语境，帮你理成清楚、得体的话； 说完自动翻译：翻译模式支持一键唤起，将语音直接翻译为指定语言，让交流如母语般自然； 全场景 AI 打字，打字更顺心：超强意图理解能力，超全词库品类，持续学习你的打字习惯，输入更省心； 表达 Skill，场",
+          "titre_fr": "Tencent lance la version bêta Android de Chatterfly, avec transcription vocale, traduction automatique et autres fonctions IA"
+        },
+        {
+          "note": 5,
+          "motif": "Vidéos promotionnelles d'objets IA, peu de nouveauté",
+          "couverture": 1,
+          "titre": "视频丨科技新国货成“深圳特产”！AI眼镜、翻译耳机、无人机圈粉世界",
+          "source": "Sohu",
+          "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUnEzeUk1eWt2TDlzY0d5WDJMbWhvenJuTFVOelU3T2JrUEs1NTQ4dDNCYTEwbnBMLTY3STRvXzFBWVhsTWdGZHRMZkFud0FiYzVyR2FUSEI3OER4b1Axc3FfZ0ZnNmE0bVg2NGpYcXluX0Q1N2I4Nl91dTdab1BnR1RMZVg4bGQtZXdLdQ?oc=5",
+          "date": "2026-11-22T06:12:04+00:00",
+          "resume": "",
+          "titre_fr": "Vidéo | La nouvelle technologie chinoise devient « spécialité de Shenzhen » : lunettes IA, écouteurs traducteurs, drones qui séduisent le monde"
+        },
+        {
+          "note": 5,
+          "motif": "Table ronde sur IA et industries classiques, intéressant mais général",
+          "couverture": 1,
+          "titre": "AI如何“牵手”历史经典产业？各界人士在杭州共话新可能",
+          "source": "Sohu",
+          "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWkowWGduQ0VvV1R1UUZ2Z0NqQVB2eTI2QzZjRy1HSHNTS1VfaFdvT0lOUVA4Xy1qZmtoNWVzamRWVnJ0bTBWQzQ3MzBNM2tzTjUtQlZMclJYUHRTTlk4bmlyZEJFYVFJdzRVODBqbEhvRGk5VTVLUWtZYk91Y29ZaXl0djNBTDJfajJR?oc=5",
+          "date": "2026-11-22T05:33:43+00:00",
+          "resume": "",
+          "titre_fr": "Comment l’IA peut « s’associer » aux industries classiques ? Des acteurs se réunissent à Hangzhou pour explorer de nouvelles possibilités"
+        },
+        {
+          "note": 5,
+          "motif": "Incitations locales à la création de micro‑scénarios IA, intérêt régional",
+          "couverture": 1,
+          "titre": "词元券、奖补贴，汕头为AI微短剧企业“精准助跑”！",
+          "source": "21财经",
+          "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWDJCMUJfV1pqbHJGUFRvYXVTN0JmSmppQ205dnd6UTEtTkx4WEJNeUNEZEhwYUQ1WEszb3Y4bW94bWRIQkJkdXQ2WW90bjduekdXalgyMkJmLXl5T1B2cWtUdkplVmpNMUtXblRKYmpHV1BFSW4yMDBwMmcxS1RYU1hnanJ1czdiQUN5d0phQQ?oc=5",
+          "date": "2026-11-22T04:15:00+00:00",
+          "resume": "",
+          "titre_fr": "Bonnes‑fois de tokens et subventions : Shantou soutient précisément les entreprises de micro‑séries IA"
+        },
+        {
+          "note": 5,
+          "motif": "Analyse du format court IA, tendance médiatique",
+          "couverture": 1,
+          "titre": "AI短剧，为何能收割老中青三代？",
+          "source": "ThePaper.cn",
+          "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wd3BPZkNhdGhIbWRsSzNCWTh0cnVUQTczTUQ1SmVtT3JPZWxBOWFyNUxqN0NmLVVzc1ZkZjJSczIxY1Y2SkNIYzZQUlJaeGJBTTg5cXl5bXpQR3dPd0k4Zg?oc=5",
+          "date": "2026-11-22T01:30:58+00:00",
+          "resume": "",
+          "titre_fr": "Séries courtes IA : pourquoi elles captivent les trois générations, des aînés aux jeunes"
+        },
+        {
+          "note": 5,
+          "motif": "Roadshow fintech IA, cas d'usage sectoriel",
+          "couverture": 1,
+          "titre": "“人工智能+金融”路演 | 和度软件：AI为金融“老系统”迭代慢险难提效",
+          "source": "手机新浪网",
+          "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hT09zdDREbVBuUzhEanZramtDbmM4NzJwa1U5ZE5KSTBUYXZpb1otSDM5WktJRVd0cTFPbUZkOXdrRTFRSzc4TGJkUVVmZzhNclpPZDdhRHh2a1BXejR4Yk1wOTVxRklRTUphT0RNS3k0U0dldjY0Q0htSVlIZHM?oc=5",
+          "date": "2026-11-22T02:01:28+00:00",
+          "resume": "",
+          "titre_fr": "Road‑show « IA + Finance » | HeDu Software : l’IA accélère la mise à jour des systèmes financiers vieillissants"
+        },
+        {
+          "note": 4,
+          "motif": "Buzz médiatique, mais anecdote sans portée IA",
+          "couverture": 2,
+          "titre": "“彭昱畅被AI融脸”上热搜，工作室发布声明",
+          "source": "观察者网",
+          "lien": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01THc4RVh0bEFVX2tqZE8xWHNlQWRSemQzTV8xZTg4Ykc0MGlMZDlyUXZTdHRMV01NbkItOXZoYVhseWpKYUJ2M2tNMlRoOHE1ekxDblJCcERlWExtY2FNT2lKMA?oc=5",
+          "date": "2026-11-22T06:19:00+00:00",
+          "resume": "",
+          "titre_fr": "« Peng Yuchang fusionné avec l’IA » fait le buzz ; son studio publie une déclaration"
+        },
+        {
+          "note": 4,
+          "motif": "Événement culturel autour de l'IA, peu de portée technologique",
+          "couverture": 2,
+          "titre": "AI中国｜秋假遇雪假！小假期打开大课堂 激活文旅消费新活力",
+          "source": "紫牛新闻",
+          "lien": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wVElBdDU2cmJYZG9oTy03RkFGSXBHRDJCY0J1M1VaZnloXzc5SHlxbWd4dmRtc0lEaWpuRVB1RmdPVlBHWkJiRDFGanE4OWRkOVNzSTJPczdrbzkzRnVLdkVzOWVXQU5w?oc=5",
+          "date": "2026-11-22T04:27:00+00:00",
+          "resume": "",
+          "titre_fr": "AI China | Vacances d’automne sous la neige ! Un court congé ouvre une grande classe et dynamise la consommation culturelle et touristique"
+        },
+        {
+          "note": 4,
+          "motif": "Événement culturel IA, peu d'impact technologique",
+          "couverture": 1,
+          "titre": "AI浪潮奔涌，“华语戏剧之夜”落地松山湖照见人文底气",
+          "source": "Sohu",
+          "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaElhSlZ0REZzamFUd3lNWWpzeDVtTzFITVF2bVB1UUZUdG5HS1dQemZYQnFiMk1KMFJ4dHVNOFBqM1A5VDk4YmxjdVRsWmlCUHhlUG9vdUgtSXFUc0g1WVhiZktwakY1Zml1Z1NZcVVJY1FsV0U4amwzemVZenhaOWZ5N1RlNGliR3JlcQ?oc=5",
+          "date": "2026-11-22T03:57:45+00:00",
+          "resume": "",
+          "titre_fr": "La vague IA déferle, la « Nuit du théâtre sinophone » s’installe à Songshan Lake, révélant la force culturelle"
+        },
+        {
+          "note": 4,
+          "motif": "Appel à l'éthique dans l'IA, message général",
+          "couverture": 1,
+          "titre": "别让AI魔改消费经典 技术创新更需守住敬畏之心",
+          "source": "中国新闻网",
+          "lien": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRTnkyLTdWRGRtVXFhY0laajZaYW1kdHpEM0pZM05kQ1BQbWFEYUd0Ri1PSGhVOUZrM0Q4THRxdVpFNkxFbWlWSkJVSzJESGl3MjJGOWFkdndRMFZoWmRwc19XUk1XYjlUQ1E?oc=5",
+          "date": "2026-11-22T02:22:09+00:00",
+          "resume": "",
+          "titre_fr": "Ne laissez pas l’IA dénaturer les classiques de consommation ; l’innovation technologique doit rester empreinte de respect"
+        },
+        {
+          "note": 3,
+          "motif": "Création artistique, peu d'impact technologique",
+          "couverture": 1,
+          "titre": "节气里的大美中国·AI创意海报 | 小雪",
+          "source": "https://www.tlfw.net/",
+          "lien": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84RlptNllqVmFXTFdPdFJ4b3ZnQlM4ZU5vY0Z5a3pDMkNvUzhZdlVhQm5PbHNUWFNiYmpXTWhxX3gzWWM0Zk9mVjh1WmJNbTZ1T0FPbjlsMFhvQS02X01XaVVQV3FlNzJOMlZR?oc=5",
+          "date": "2026-11-22T06:24:54+00:00",
+          "resume": "",
+          "titre_fr": "La Grande Chine à travers les saisons : affiches créatives IA – édition « Xiaoxue »"
+        },
+        {
+          "note": 3,
+          "motif": "Controverse autour d'un court métrage IA, anecdote",
+          "couverture": 1,
+          "titre": "宝钗被当街掌掴、贾母跪拜黛玉？这部AI魔改短剧把网友惹毛了！",
+          "source": "新湖南",
+          "lien": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuOHZ1ODZFSG4zUmQ5WDZsbXd0bjBxR1hiRU1Ic043QkdObnlpZkZOUFN6aVFEenE2RHZ3U0dFd3htS1owOUUySFRFb2FVVHlxOFdHbFBVVTZITTVhMzM0?oc=5",
+          "date": "2026-11-22T05:56:07+00:00",
+          "resume": "",
+          "titre_fr": "Une courte série IA modifie « Baochai » et « Jia Mu » : les internautes en colère"
+        }
+      ]
+    },
+    {
+      "nom": "Régulation, éthique et impact sociétal de l'IA",
+      "resume": "Les titres abordent les risques de bulle, les alertes de financement, les cas de triche, les débats éthiques, les stratégies de sécurité et les initiatives de gouvernance autour de l'IA.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Mise en garde de Musk sur financement IA, forte résonance",
+          "couverture": 1,
+          "titre": "马斯克预警人工智能行业明年面临严重资金短缺",
+          "source": "手机新浪网",
+          "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TdVh3NG5pYnhTc0dJSEh1Tzl2aHZ4LVQ2ZWZKWW9VVzBIWjlJQWRpTTZwR3ZvbThYUU1Ed1pqWHlPTUhWaGxQSFJTN0xpVEpaeTFhSEFKcFBkTE1CZV9NdkppbERQZkFZYW5qM1JEd2U?oc=5",
+          "date": "2026-11-22T05:37:36+00:00",
+          "resume": "",
+          "titre_fr": "Musk prévient que le secteur de l’intelligence artificielle connaîtra une grave pénurie de financement l’an prochain"
+        },
+        {
+          "note": 8,
+          "motif": "Scandale de triche IA au bac coréen, large couverture",
+          "couverture": 3,
+          "titre": "韩国高考 AI 作弊事件发酵，教育部长引咎辞职",
+          "source": "IT之家",
+          "lien": "https://www.ithome.com/1/030/558.htm",
+          "date": "2026-11-22T03:21:10+00:00",
+          "resume": "IT之家 11 月 22 日消息，据韩联社报道，当地时间 22 日，韩国教育部长官崔教振辞去职务，为韩国 2027 年度大学修学能力考试（韩国高考）期间防范高科技作弊措施不足引发混乱而承担责任。 近期，韩国发生多起利用人工智能工具作弊事件，引发民众广泛担忧。针对在考试前几天反复修改使用人工智能（AI）作弊的指导方针被不断修改，导致考生和教育界陷入“混乱”，这一批评进一步加剧。李在明 20 日在总统府青瓦台召开会议，呼吁对高考制度进行全面改革，应对人工智能快速发展下，各类新型作弊手段给考试公平带来的挑战。 IT之家注意到，韩国高考明确禁止考生携带任何电子设备进入考场，尤其是出现在近期多起作弊丑闻",
+          "titre_fr": "Affaire de triche IA au baccalauréat sud‑coréen : le ministre de l’Éducation démissionne"
+        },
+        {
+          "note": 7,
+          "motif": "Analyse du marché financier IA, tendance importante",
+          "couverture": 1,
+          "titre": "AI交易由狂热转为恐惧，市场波动加剧、纳指100逼近熊市",
+          "source": "BlockBeats",
+          "lien": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDcmFtanhKTGpra0wyUThhdFRVUzc0VFNNb2FQa3ZkUTVVaktnZzlxak9iX0RCNEZ0MmJTc1VGRnNWeDRaOGR5cUFVWmJuN0U1RlZ1LTlR?oc=5",
+          "date": "2026-11-22T06:07:47+00:00",
+          "resume": "",
+          "titre_fr": "Le trading IA passe de la frénésie à la peur : volatilité accrue, le Nasdaq 100 frôle le marché baissier"
+        },
+        {
+          "note": 7,
+          "motif": "Avertissement d'un acteur financier sur l'IA dans les marchés émergents",
+          "couverture": 1,
+          "titre": "AI热潮正在失去对新兴市场的掌控力？杰富瑞发出风险警告 提供者 Investing.com",
+          "source": "英为财情 Investing.com",
+          "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfXy1NbEFPajZGa2s3UkV1NkRic21FdXBnMGdaWEZJMXg3dC1NV09jaWstXzdNU052eHJLaFhkdTJLNGR5d09HS1B6ZjdYaE5yZGljeFRCYTVaLWdkYUJicThSY0Y0dER6U3hIWXg5LVM?oc=5",
+          "date": "2026-11-22T06:04:00+00:00",
+          "resume": "",
+          "titre_fr": "La frénésie IA perd du terrain sur les marchés émergents ? Jefferies lance un avertissement de risque – source : Investing.com"
+        },
+        {
+          "note": 7,
+          "motif": "Analyse de la bulle IA dans les actions technologiques",
+          "couverture": 1,
+          "titre": "科技股遭遇“黑色星期五”，AI泡沫预警升温与历史科技泡沫启示",
+          "source": "虎嗅网",
+          "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14OU1BaGpicU50Ny1admU2YWVNUFlVWHdqTmJiNDNQN3Q0dnJYdFMwX2VNSDI4V1pzazk0eFBlU3pMWm1BaFVRM1BEZUcxYUlLTUQtTQ?oc=5",
+          "date": "2026-11-22T05:37:48+00:00",
+          "resume": "",
+          "titre_fr": "Les actions technologiques subissent un « Black Friday » : l’alerte bulle IA se renforce, leçons des bulles technologiques passées"
+        },
+        {
+          "note": 7,
+          "motif": "Recherche sur langage émergent d'agents IA, sujet de pointe",
+          "couverture": 1,
+          "titre": "研究显示AI智能体在长期互动中会自创人类难以理解的语言",
+          "source": "虎嗅网",
+          "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tMzB6WV9FU3FfVjJnZHMxNm44Y1B2ci1qVndjNktCdUtXdG5HenRQeXBkZjd4Sl9KU0xTSlFKX1FpTEJJTTFBWmhoQjB3N3JBbWc5SA?oc=5",
+          "date": "2026-11-22T02:10:11+00:00",
+          "resume": "",
+          "titre_fr": "Une étude montre que les agents IA développent, sur le long terme, des langages incompréhensibles pour les humains"
+        },
+        {
+          "note": 6,
+          "motif": "Étude culturelle de l'IA, intéressant pour les spécialistes",
+          "couverture": 1,
+          "titre": "当薛甄珠成为“可计算的经典”：AI如何重组我们的文化记忆",
+          "source": "ThePaper.cn",
+          "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wcGV3X1ViWDBCcFFrblVodV9YUU8tLWUtQld0TkFKQ3VrZmZzUGNSblFEOUpUY212ZG5jX08tQktSY1M3aXZxS2pIN0VhX3g4UmhLZlJSUzY1dlFkSEl0Tw?oc=5",
+          "date": "2026-11-22T06:04:31+00:00",
+          "resume": "",
+          "titre_fr": "Quand Xue Zhenzhu devient un « classique calculable » : comment l’IA reconstruit notre mémoire culturelle"
+        },
+        {
+          "note": 6,
+          "motif": "Perception internationale de l'IA chinoise, pertinence stratégique",
+          "couverture": 1,
+          "titre": "海外读者比国内业界更看好中国AI：叙事差异、开源选择与商业回报难题",
+          "source": "虎嗅网",
+          "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0SUxBXzhNZTc3UmRUUXpkdm8xNGpMS2ZrY3dYSjVZa21yc0xPZ2lDWVpUUDZlU3NIaW5NQ19lbF82cG1rYVY0TzhoWUdiR1FvQVdVTA?oc=5",
+          "date": "2026-11-22T05:15:04+00:00",
+          "resume": "",
+          "titre_fr": "Les lecteurs étrangers plus optimistes que les acteurs nationaux sur l’IA chinoise : divergences narratives, choix open‑source et difficultés de rentabilité"
+        },
+        {
+          "note": 6,
+          "motif": "Projet de université IA globale, initiative à suivre",
+          "couverture": 1,
+          "titre": "吉利李书福：筹建一所面向AI的全球型研究型大学",
+          "source": "电子工程专辑EE Times China",
+          "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NR0JhTERFZ28zcE4tYXBVclMtQVdRWWltUUkxaUdGRnlqVjF3SmtYZnlEZDhyZkQwVU9qeXp0N3FTTURsd3htUHJSZkZ0TVQybEFN?oc=5",
+          "date": "2026-11-22T03:44:00+00:00",
+          "resume": "",
+          "titre_fr": "Li Shufu de Geely : projet de création d’une université de recherche mondiale dédiée à l’IA"
+        },
+        {
+          "note": 6,
+          "motif": "Déclaration officielle sur IA passant examen de médecine traditionnelle",
+          "couverture": 1,
+          "titre": "部分AI大模型宣称经过中医类别医师资格考试测试，官方回应",
+          "source": "ThePaper.cn",
+          "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92WThKSnVfWU8xaWg5dTVrQ1NtdmhHSnlEb2RwZzlYSlpxVzU1TjFoaTlnOTVnd1FOWWJqZlE1LWtYdVZNU1FBMEg1WWJFTVJER2txUFloQVU0VWpZX3hsRA?oc=5",
+          "date": "2026-11-22T01:33:58+00:00",
+          "resume": "",
+          "titre_fr": "Certains grands modèles IA prétendent avoir réussi l’examen de qualification de médecine traditionnelle chinoise ; la réponse officielle"
+        },
+        {
+          "note": 5,
+          "motif": "Partenariat éducatif IA, impact limité",
+          "couverture": 1,
+          "titre": "浸大与阿里云签署合作备忘录 推动人工智能及云计算教育 培育科技时代传播人才",
+          "source": "紫荆网",
+          "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTjl2RXlNbDFqY2pqMXNkTmRWa29BYUlKNFV4bnpGbGRLMHJMRjJQYXhtZWozTlgyRWRSNTAwRVZ0bTI3U3l4OXNRRzUwc2NySndyMHBYMDlsdFNFTk05Qjl1WVNWUEJDUG50ZGJmQUIwSFRRdTBicklmenZVOUZlRE1fek0wQXVPOG84ai1oNTlhMDla?oc=5",
+          "date": "2026-11-22T04:48:46+00:00",
+          "resume": "",
+          "titre_fr": "L’Université de Hong Kong et Alibaba Cloud signent un protocole d’accord pour promouvoir l’éducation à l’IA et au cloud, former des talents pour l’ère technologique"
+        },
+        {
+          "note": 5,
+          "motif": "Synthèse hebdomadaire IA, utile mais non nouveau",
+          "couverture": 1,
+          "titre": "这一周，焦虑感弥漫｜AI周评",
+          "source": "电子工程专辑EE Times China",
+          "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VaF9jcWpOTElHNy0tQzVjcjd6RHFINmVPYmpmYmJZM29YY2x5bXprQ0ZtRTRqY0Nvd1lDenFpaTVYNjVsbmxyNHBiaWk3QzNEZGFz?oc=5",
+          "date": "2026-11-22T03:58:00+00:00",
+          "resume": "",
+          "titre_fr": "Cette semaine, l’anxiété se répand | Revue hebdomadaire IA"
+        },
+        {
+          "note": 5,
+          "motif": "Déclaration sur l'éducation IA, sujet d'intérêt",
+          "couverture": 1,
+          "titre": "李书福捅破了AI时代人才教育的窗户纸",
+          "source": "汽车之家",
+          "lien": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81VVJtUHBTc0JZYkgzLWdFaTZlQ3ZPYm11N21ZeENvZGIybEZhcmVSendla1F6Qm56dEZNV19oN1dNWS1SNk9VMnFzSTV2RzYwRlJuMmFUNVVLNkd5bVJmUVVnRFY1Z1V3R0Jn?oc=5",
+          "date": "2026-11-22T03:48:13+00:00",
+          "resume": "",
+          "titre_fr": "Li Shufu perce les fissures de l’éducation aux talents à l’ère de l’IA"
+        },
+        {
+          "note": 4,
+          "motif": "Opinion d'ingénieur sur correction IA, peu d'actualité",
+          "couverture": 1,
+          "titre": "对AI说「下次注意」没用！马斯克麾下工程师：把纠错锁进代码",
+          "source": "智源社区",
+          "lien": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5HcV9XQlRVaUhaTG44SEZ2UW1yaTljY05ULWU1WGxKZUJ1clNjRk02UkRubVRRZ1NHSzFwSDZtSWtnSVRSUEk5Ng?oc=5",
+          "date": "2026-11-22T06:10:00+00:00",
+          "resume": "",
+          "titre_fr": "Dire à l’IA « Fais attention la prochaine fois » ne suffit pas ! Un ingénieur de Musk explique que la correction doit être codée"
+        },
+        {
+          "note": 4,
+          "motif": "Réflexion spéculative, pas d'événement concret",
+          "couverture": 1,
+          "titre": "专家称铁器逼出诸子百家，AI也会催生新秩序，你怎么看？",
+          "source": "观察者网",
+          "lien": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OcnYwRGtHWC12a0dLc0tZeVItSlZHN3NURkFRSjc0blpGUEEwQmt1WWxBWkltN0RiMnpLNHBVcGY5MHgtb3dRcm02Y3ZkVUZIT28tN1ZuaE5mRTNyeVFya2FTM240dw?oc=5",
+          "date": "2026-11-22T06:05:23+00:00",
+          "resume": "",
+          "titre_fr": "Un expert affirme que le fer a fait émerger les écoles de pensée chinoises ; l’IA pourrait elle aussi engendrer un nouvel ordre – votre avis ?"
+        },
+        {
+          "note": 4,
+          "motif": "Recherche académique sur l'IA et la morale, peu d'impact immédiat",
+          "couverture": 1,
+          "titre": "Anthropic研究AI如何忏悔，牧师：你们自己呢？",
+          "source": "观察者网",
+          "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN2E5VmNGQloyMW5VMDJQa0VjMVpPVWtldlFzRU9vVldpRjdfdkh5dTdoZ2FVR2RZeE00LTFWSVlZVXBjUUxySXQ2RG5ybzlXUW9XZmkta0pHODBuc3RlTU4wNTNNUFVVSU9MOFJ1QVlURXZ0a1NtMTRiWVFHLTVUZHVBSQ?oc=5",
+          "date": "2026-11-22T06:02:00+00:00",
+          "resume": "",
+          "titre_fr": "Anthropic étudie comment l’IA se repent, un prêtre s’interroge : « Et vous, comment allez‑vous ? »"
+        },
+        {
+          "note": 4,
+          "motif": "Scandale d'examen IA en Corée, anecdote éducative",
+          "couverture": 1,
+          "titre": "明星考生死在旅馆，韩国AI作弊上演“猫鼠游戏”",
+          "source": "观察者网",
+          "lien": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GVFRoZGZxZzVmTWMtM09HYTBrTW9VcDZrLTNzQ0VTQlhyTWlKSUl3MC1OUGh4U1BSUmRZMzVtMGpQUGF4ZDFobHVha04wVHZXWS1LajZHemJvbHdJb1FXYWlrQUYzSGgzekNITw?oc=5",
+          "date": "2026-11-22T03:59:00+00:00",
+          "resume": "",
+          "titre_fr": "Une star décédée dans un hôtel ; la fraude IA aux examens en Corée du Sud se transforme en jeu du chat et de la souris"
+        },
+        {
+          "note": 3,
+          "motif": "Titre provocateur, contenu peu substantiel",
+          "couverture": 1,
+          "titre": "大眼观察｜无AI，不养老？",
+          "source": "新湖南",
+          "lien": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrVlpWbUtFVV9XNFFfaWNIRkNnN2hXOWNpMDhXa2tjMkdsN2ZLSlB2a2hWYTNpYU54N19BV3JmTWNtNUpDbDdnelV0cEFWZ21JbVJodHA4ODlzZXhfbE1r?oc=5",
+          "date": "2026-11-22T05:05:26+00:00",
+          "resume": "",
+          "titre_fr": "Grand œil | Sans IA, pas de retraite ?"
+        }
+      ]
+    },
+    {
+      "nom": "Autres articles",
+      "resume": "",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Redite du warning de Musk, source financière reconnue",
+          "couverture": 1,
+          "titre": "马斯克最新警告：人工智能行业明年可能面临严重的资金短缺 可能需要数千亿美元额外资金投入",
+          "source": "东方财富网",
+          "lien": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVTZ1YVprRHhkc3BmbExoaWI2UFVWbzZmX2NycDBCcnI1QUlPNUxOZHQ4SDJMbnZDUGNZTDJndWhYTUJmRm5PX2hGMEhVdDZRV1NFTzVKZ3lmdEVUQU1BWG1RM0FZUQ?oc=5",
+          "date": "2026-11-22T05:04:02+00:00",
+          "resume": "",
+          "titre_fr": "Nouvel avertissement de Musk : le secteur de l’IA pourrait faire face à une grave pénurie de capitaux l’an prochain, nécessitant des milliers de milliards de dollars supplémentaires"
+        }
+      ]
+    }
+  ],
+  "ecartes": [
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "全球电子协会警告 PCB 或短缺至 2027 年上半年，风险堪比 2021 年芯片短缺",
+      "source": "IT之家",
+      "lien": "https://www.ithome.com/1/030/573.htm",
+      "date": "2026-11-22T06:25:23+00:00",
+      "resume": "IT之家 11 月 22 日消息，全球电子协会（Global Electronics Association）11 月 18 日发布行业警报称，印制电路板（PCB）供应链短缺持续加剧，汽车、工业、医疗、国防和电信企业均反映交期延长、难以保障供应，AI 需求正在挤占本就紧张的产能。 协会指出，这轮需求不仅规模超出供应链原有承载能力，形态也更耗材料。普通 PCB 约为 12 层， AI 服务器用板正转向 40-60 层以上 ，每增加一层都要消耗更多玻纤布、树脂、铜箔和覆铜板。 据协会数据，截至今年 9 月， PCB 订单量同比增长 56.1%，出货量仅增长 13.3% ；高多层板的交期已达 16-",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "AI专家杜奕瑾评估美中芯片制造差距约为两年左右",
+      "source": "美国之音",
+      "lien": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMVM0ajI2bUJWeDRBMDNSbzBpR0Z5OGFyTXM3azd0NjBaWjByOHZhMlVNdnhlOHZRNTVzVjJMR1BCTmFCdVF2c1JRclNVZl9Uc2hsT1NiZ1lyZmRCc005MEJuTDRXVFV0Q0s3R3p0bFhrMXNBNG5nbFpXZXppOWFKNkdoOFpMbER5TUxGYUxoSFk1SXJrY3RVVkZ0TGhpOUxKQkpYdHNxRlRPTkRBbzRKRDl6TlBSLS1uRG1Yd0ozQmtVelRMVTZORHQ5WVRaY25sS1c0aXJnWE43anZDWUxNRk1IRXZjd9IB5gFBVV95cUxOMVM0ajI2bUJWeDRBMDNSbzBpR0Z5OGFyTXM3azd0NjBaWjByOHZhMlVNdnhlOHZRNTVzVjJMR1BCTmFCdVF2c1JRclNVZl9Uc2hsT1NiZ1lyZmRCc005MEJuTDRXVFV0Q0s3R3p0bFhrMXNBNG5nbFpXZXppOWFKNkdoOFpMbER5TUxGYUxoSFk1SXJrY3RVVkZ0TGhpOUxKQkpYdHNxRlRPTkRBbzRKRDl6TlBSLS1uRG1Yd0ozQmtVelRMVTZORHQ5WVRaY25sS1c0aXJnWE43anZDWUxNRk1IRXZjdw?oc=5",
+      "date": "2026-11-22T04:57:01+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "美国联邦调查局与美国农业部遭黑客入侵",
+      "source": "人工智能",
+      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jWWVBLWNZX05PUFhObjVrVjI1MUROWGYzRF8xQ0owRnZmWkhMemFyejVTcWpYY0c5Rml4TzNMMm9QaHFOYjhtWS1Ka3FHSjg3Y1E?oc=5",
+      "date": "2026-11-22T04:25:00+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "国家中医药管理局认证中心：未与任何大模型企业合作，亦未开展测评",
+      "source": "Sohu",
+      "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEd0MzZHV3BDX21FRWVWVy1hYS1LMXR2SDZHZDRrZkt6LXdFTmNGaDlyU1JWcGRTeTloN0FucWZxQnd0RjRVMnVueHpRc1lCUG1JNWN4Mkg3XzhrRVlreF9pQlRnczgwb1hLUHlEMlBZSGRXUm42Nlp2Qk5hSHFlSVJDMXRaRUVkakZ3?oc=5",
+      "date": "2026-11-22T03:59:38+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "热搜 | 男星工作室、经纪公司声明",
+      "source": "新浪财经",
+      "lien": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNS2d6aDc4RjlScDJubzVxMkxfd0F3MHRMMHU1TU8yUnpOeENKYnotbWJkUzJ2SjZrejVocmxqTlRBV0gzVjRlVWxFUHN6bmVfWGFuRmVJa1RJTWdKRDZTdlg5eDB0enM0Z3J1NjE5WlI5YnprQlllVUZlRHlEVVVNWWl3WQ?oc=5",
+      "date": "2026-11-22T03:13:04+00:00",
+      "resume": "",
+      "titre_fr": ""
+    }
+  ],
+  "top": [
+    {
+      "note": 9,
+      "motif": "Preuve assistée par IA du problème de Riemann, percée majeure",
+      "couverture": 1,
+      "titre": "困扰人类167年的数学难题！AI辅助证明黎曼猜想震动数学界 丘成桐：一个伟大的贡献",
+      "source": "驱动之家",
+      "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NRVlVeWxJNWFxV1NKcW10RzJ2RkhqMGFPRHdHVXphbjAzb0tXc2xRV25FSkpaZi00dGpVQUw5d2tLU0FYLVhOUFZMMlpxUFdITi1nQlQ3cTE?oc=5",
+      "date": "2026-11-22T05:03:00+00:00",
+      "resume": "",
+      "titre_fr": "Problème mathématique qui intrigue l’humanité depuis 167 ans ! L’IA aide à prouver l’hypothèse de Riemann, secouant la communauté mathématique – Shing‑Tong Yau : « une contribution majeure »"
+    },
+    {
+      "note": 9,
+      "motif": "Acquisition proche de 75 Mds$ d'une startup IA par Amazon, impact majeur",
+      "couverture": 1,
+      "titre": "亚马逊用接近75亿美元收购以色列AI芯片初创公司，目标是对付英伟达",
+      "source": "Moomoo",
+      "lien": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3X3RTbm5LT3lrallRcDhZZ0dOZzNWTEpqQi01V1VMbGNsZ0lDTnliQWp3UERGN1VaeC1XOGJFSHBYc3hUZmFDeE9aNEZBUnJ2MHpFYUxJcXVBWV8x?oc=5",
+      "date": "2026-11-22T02:54:00+00:00",
+      "resume": "",
+      "titre_fr": "Amazon acquiert une startup israélienne de puces IA pour près de 7,5 milliards de dollars, afin de concurrencer Nvidia"
+    },
+    {
+      "note": 8,
+      "motif": "Acquisition majeure d'une startup IA par Amazon",
+      "couverture": 1,
+      "titre": "亚马逊洽购AI初创Decart进入最终阶段 金额约75亿美元",
+      "source": "www.itsdw.cn",
+      "lien": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUcmQ3eF9LVmt3OHVQV2hiZWRGMVowWm91VzJMZzlfdl9SQmRnVklrWmJncXJiWTJTZEtuZkw2Um4zQ2VUQlVmZjJsQlU?oc=5",
+      "date": "2026-11-22T06:31:00+00:00",
+      "resume": "",
+      "titre_fr": "Amazon finalise l’acquisition de la startup IA Decart, pour environ 7,5 milliards de dollars"
+    },
+    {
+      "note": 8,
+      "motif": "Mise en garde de Musk sur financement IA, forte résonance",
+      "couverture": 1,
+      "titre": "马斯克预警人工智能行业明年面临严重资金短缺",
+      "source": "手机新浪网",
+      "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TdVh3NG5pYnhTc0dJSEh1Tzl2aHZ4LVQ2ZWZKWW9VVzBIWjlJQWRpTTZwR3ZvbThYUU1Ed1pqWHlPTUhWaGxQSFJTN0xpVEpaeTFhSEFKcFBkTE1CZV9NdkppbERQZkFZYW5qM1JEd2U?oc=5",
+      "date": "2026-11-22T05:37:36+00:00",
+      "resume": "",
+      "titre_fr": "Musk prévient que le secteur de l’intelligence artificielle connaîtra une grave pénurie de financement l’an prochain"
+    },
+    {
+      "note": 8,
+      "motif": "Redite du warning de Musk, source financière reconnue",
+      "couverture": 1,
+      "titre": "马斯克最新警告：人工智能行业明年可能面临严重的资金短缺 可能需要数千亿美元额外资金投入",
+      "source": "东方财富网",
+      "lien": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BVTZ1YVprRHhkc3BmbExoaWI2UFVWbzZmX2NycDBCcnI1QUlPNUxOZHQ4SDJMbnZDUGNZTDJndWhYTUJmRm5PX2hGMEhVdDZRV1NFTzVKZ3lmdEVUQU1BWG1RM0FZUQ?oc=5",
+      "date": "2026-11-22T05:04:02+00:00",
+      "resume": "",
+      "titre_fr": "Nouvel avertissement de Musk : le secteur de l’IA pourrait faire face à une grave pénurie de capitaux l’an prochain, nécessitant des milliers de milliards de dollars supplémentaires"
+    }
+  ],
+  "articles_notes": 50,
+  "liens_google": 46,
+  "videos": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "困住万亿大模型的，竟是几毫米铜线？",
+        "source": "The Not-So-Crazy AI Lab",
+        "lien": "https://www.youtube.com/watch?v=pQjGPqgKTNY",
+        "date": "2026-11-22T06:00:15Z",
+        "image": "https://i.ytimg.com/vi/pQjGPqgKTNY/mqdefault.jpg",
+        "extrait": "提起人工智能的性能瓶颈，几乎所有人都会怪罪芯片算得不够快。但当你切开一台顶级加速卡，在它逐字吐出回答的真实瞬间， ...",
+        "description": "Analyse du goulot d'étranglement des grands modèles d'IA causé par quelques millimètres de cuivre dans les cartes d'accélération."
+      },
+      {
+        "titre": "llama.cpp 1.0.0 保姆级教程｜大模型本地部署框架（二）",
+        "source": "碳基生物退役指南",
+        "lien": "https://www.youtube.com/watch?v=uuoe9co2j7s",
+        "date": "2026-11-22T03:00:38Z",
+        "image": "https://i.ytimg.com/vi/uuoe9co2j7s/mqdefault.jpg",
+        "extrait": "llama.cpp 1.0.0 正式发布！ 这期带你从零开始，在 Windows、Ubuntu 和 macOS 三大平台部署 llama.cpp，体验本地大模型推理， ...",
+        "description": "Tutoriel complet pour installer et utiliser llama.cpp 1.0.0 afin de déployer localement de grands modèles d'IA sur Windows, Ubuntu et macOS."
+      },
+      {
+        "titre": "锐评主流AI应用：Claude、ChatGPT、Gemini、豆包、千问怎么选",
+        "source": "柱子哥TzFilm",
+        "lien": "https://www.youtube.com/watch?v=NAAcqntAP9M",
+        "date": "2026-11-22T02:20:34Z",
+        "image": "https://i.ytimg.com/vi/NAAcqntAP9M/mqdefault.jpg",
+        "extrait": "一个月AI 订阅花掉大几千，这期按我自己的使用体验做一份AI 软件红黑榜，挨个锐评主流AI 应用：Claude、ChatGPT ...",
+        "description": "Évaluation critique des principales applications d'IA grand public (Claude, ChatGPT, Gemini, 豆包, 千问) et conseils de sélection."
+      },
+      {
+        "titre": "Google AI Studio for Normal People (2026 Deep Dive)",
+        "source": "AI with Surya",
+        "lien": "https://www.youtube.com/watch?v=zduchgrDTmY",
+        "date": "2026-11-22T01:00:29Z",
+        "image": "https://i.ytimg.com/vi/zduchgrDTmY/mqdefault.jpg",
+        "extrait": "Google AI Studio has become seriously powerful in 2026, and most people have no idea what it can actually do. In this beginner's ...",
+        "description": "Présentation détaillée de Google AI Studio en 2026, ses capacités puissantes et comment les débutants peuvent en tirer profit."
+      },
+      {
+        "titre": "【短片】【深圳APEC】AI真正價值在應用 科企大佬獻計防AI泡沫 李彥宏：智能與數據結合助提效、找合適AI應用領域最為緊迫",
+        "source": "Speakout 港人講地",
+        "lien": "https://www.youtube.com/watch?v=wpN3s1HIxVw",
+        "date": "2026-11-22T00:30:17Z",
+        "image": "https://i.ytimg.com/vi/wpN3s1HIxVw/mqdefault.jpg",
+        "extrait": "2026年最緊迫的不是再講AI多強，而是找到AI的應用方向！// #亞太經合組織 #APEC #李彥宏 #人工智能 #百度 影片網站連結（附 ...",
+        "description": "Discussion sur la vraie valeur de l'IA en application, avec les dirigeants technologiques chinois (ex. 李彦宏) qui proposent des stratégies pour éviter la bulle IA."
+      },
+      {
+        "titre": "China’s AI Dramas Kill Their Own Industry! 420,000 Junk Shows Flood In, 90% of Firms Shut Overnight",
+        "source": "China Observer",
+        "lien": "https://www.youtube.com/watch?v=iklrL0lMMlY",
+        "date": "2026-11-22T00:00:22Z",
+        "image": "https://i.ytimg.com/vi/iklrL0lMMlY/mqdefault.jpg",
+        "extrait": "Go to https://ground.news/china to see the whole picture and critically analyze the news shaping our lives. Save 40% off unlimited ...",
+        "description": "Analyse des drames télévisés liés à l'IA en Chine qui ont inondé le marché, entraînant la fermeture massive de studios."
+      },
+      {
+        "titre": "黎曼猜想对答案了：Lean 官方认证，Claude 的证明是对的｜笔记本就能跑的新模型、不会 Verilog，造出 AI 芯片｜码上 AI 日报",
+        "source": "Mia 码上 AI",
+        "lien": "https://www.youtube.com/watch?v=6t41fhC5Vdc",
+        "date": "2026-11-21T22:45:12Z",
+        "image": "https://i.ytimg.com/vi/6t41fhC5Vdc/mqdefault.jpg",
+        "extrait": "昨天让你押的黎曼猜想，今天对答案：Lean 官方认证，Claude 的证明是对的。可一千七百万行里到底用了什么新想法，还没人讲得 ...",
+        "description": "Annonce que Claude a démontré une preuve du dernier théorème de Riemann, validée par Lean, et aperçu des nouveaux modèles accessibles via notebook."
+      },
+      {
+        "titre": "OpenAI首次公开反蒸馏4层架构，点名DeepSeek!",
+        "source": "荒野全栈AI",
+        "lien": "https://www.youtube.com/watch?v=0PNXwBVnHnA",
+        "date": "2026-11-21T16:28:35Z",
+        "image": "https://i.ytimg.com/vi/0PNXwBVnHnA/mqdefault.jpg",
+        "extrait": "OpenAI最新发布《Combatting Adversarial Distillation》，首次系统披露针对大模型对抗性蒸馏的四层防御体系，并再次 ...",
+        "description": "Révélation du rapport d'OpenAI sur la contre‑distillation en quatre couches, mentionnant spécifiquement DeepSeek comme cible."
+      },
+      {
+        "titre": "我去工业智能体大赛当评委啦！",
+        "source": "阿则聊AI",
+        "lien": "https://www.youtube.com/watch?v=hKxMpwmKRgw",
+        "date": "2026-11-21T16:00:33Z",
+        "image": "https://i.ytimg.com/vi/hKxMpwmKRgw/mqdefault.jpg",
+        "extrait": "2026杭州云桥大会+工业智能体大赛，见识到了很多非常有意思的AI产品和AI智能体！ 还是要感慨一句：AI正在快速的融入到我们的 ...",
+        "description": "Compte‑rendu de la participation à un concours d'agents industriels en Chine, montrant les dernières innovations d'IA et d'agents intelligents."
+      },
+      {
+        "titre": "AMD XDNA 2 NPU适配超百款智能体 | 科技早八点 S1078",
+        "source": "科技早八点",
+        "lien": "https://www.youtube.com/watch?v=lO8UocoSG7g",
+        "date": "2026-11-21T15:00:32Z",
+        "image": "https://i.ytimg.com/vi/lO8UocoSG7g/mqdefault.jpg",
+        "extrait": "完整视频: https://youtu.be/Q3nd1Dma20k - 科技早八点，每天3分钟，一起掌握科技脉动！ 2026年11月21日 AMD XDNA 2 NPU适 ...",
+        "description": "Présentation du nouveau NPU AMD XDNA 2, compatible avec plus de cent agents IA, illustrant les avancées matérielles pour les intelligences artificielles."
+      }
+    ]
+  },
+  "podcasts": {
+    "statut": "ok",
+    "fenetre_heures": 72,
+    "elements": [
+      {
+        "titre": "每日回顾 · 2026-11-22",
+        "source": "AI VFX PODCAST：AI领域要闻",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E6%AF%8F%E6%97%A5%E5%9B%9E%E9%A1%BE-2026-11-22/id6797152072?i=1000803381151&uo=4",
+        "date": "2026-11-22T06:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/03/00/21/0300210b-4a4a-a48a-c9f5-341454f035bc/mza_18346429409877493988.jpg/160x160bb.jpg",
+        "duree_min": 15,
+        "extrait": "昨天，整个行业清晰地分裂成了两半：一半的头条新闻是关于机器在现实世界中观察并采取行动，另一半则是关于谁将拥有这些机器背后的“大脑”。Neuralink 的患者仅凭植入物就玩起了《GTA VI",
+        "description": "Analyse de la scission du secteur IA entre machines agissant dans le monde réel et la bataille pour le contrôle des « cerveaux » des IA, avec mention de Neuralink et de jeux vidéo."
+      },
+      {
+        "titre": "[人人能懂AI前沿] 从AI社会的回音室、认知挽具到机器人的直觉小脑",
+        "source": "AI可可AI生活",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E4%BA%BA%E4%BA%BA%E8%83%BD%E6%87%82ai%E5%89%8D%E6%B2%BF-%E4%BB%8Eai%E7%A4%BE%E4%BC%9A%E7%9A%84%E5%9B%9E%E9%9F%B3%E5%AE%A4-%E8%AE%A4%E7%9F%A5%E6%8C%BD%E5%85%B7%E5%88%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E7%9B%B4%E8%A7%89%E5%B0%8F%E8%84%91/id1755963354?i=1000803349759&uo=4",
+        "date": "2026-11-21T22:47:26+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/9e/0f/039e0f99-c322-9c6d-360c-0db2728bd26b/mza_8520572596064985909.jpg/160x160bb.jpg",
+        "duree_min": 32,
+        "extrait": "今天我们将一起拆解四篇极具启发性的最新论文，看看936个AI组成的微型社会如何陷入没有数据验证的“回音室”谎言。我们还会探讨为什么给大模型套上拆解任务的“挽具”比死记硬背更管",
+        "description": "Décryptage de quatre articles scientifiques récents montrant comment une micro‑société de 936 IA crée des bulles d’écho et l’importance d’équiper les grands modèles d’outils de raisonnement plutôt que de simples mémorisations."
+      },
+      {
+        "titre": "5-中国开源大模型，正在改变全球AI生态吗？",
+        "source": "AI拉呱：专注于人工智能与前沿技术",
+        "lien": "https://podcasts.apple.com/cn/podcast/5-%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B-%E6%AD%A3%E5%9C%A8%E6%94%B9%E5%8F%98%E5%85%A8%E7%90%83ai%E7%94%9F%E6%80%81%E5%90%97/id1896828927?i=1000803355744&uo=4",
+        "date": "2026-11-21T21:35:35+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8d/98/ff/8d98ff59-a582-d01c-8044-9a2f82a2eec2/mza_4577306030952774765.png/160x160bb.jpg",
+        "duree_min": 15,
+        "extrait": "中国开源人工智能模型 在各大基准测试和Hugging Face下载量中展现出强劲势头，成功主导了全球开放软件生态。与此同时，研究人员正在通过 强化学习 与 模型蒸馏技术 （如DeepSeek-R1系列方法）",
+        "description": "Examen de l’impact des grands modèles open‑source chinois sur l’écosystème mondial de l’IA, incluant les performances sur les benchmarks et les techniques de renforcement et distillation comme DeepSeek‑R1."
+      },
+      {
+        "titre": "每日回顾 · 2026-11-21",
+        "source": "AI VFX PODCAST：AI领域要闻",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E6%AF%8F%E6%97%A5%E5%9B%9E%E9%A1%BE-2026-11-21/id6797152072?i=1000803248441&uo=4",
+        "date": "2026-11-21T06:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/43/78/8a/43788ae0-5af9-c5d2-ea46-982bdc63b395/mza_8802752645045898335.jpg/160x160bb.jpg",
+        "duree_min": 13,
+        "extrait": "昨天是普及化与高风险清算并存的一天。Kling 4.0 通过 MCP 和 CLI 访问向所有人开放了视频生成工具，而字节跳动则开源了用于多视角深度估计的 Depth Anything 3。Ideogram 4.6 现在原生支持 4K 分辨率",
+        "description": "Présentation des dernières avancées d’outils de génération vidéo (Kling 4.0) et de l’open‑source de profondeur multi‑vue (Depth Anything 3) ainsi que du support 4K d’Ideogram 4.6."
+      },
+      {
+        "titre": "2026.11.20 | 诊断机器人思行断点；声音画面联合理解",
+        "source": "HuggingFace 每日AI论文速递",
+        "lien": "https://podcasts.apple.com/cn/podcast/2026-11-20-%E8%AF%8A%E6%96%AD%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%80%9D%E8%A1%8C%E6%96%AD%E7%82%B9-%E5%A3%B0%E9%9F%B3%E7%94%BB%E9%9D%A2%E8%81%94%E5%90%88%E7%90%86%E8%A7%A3/id1759487002?i=1000803213139&uo=4",
+        "date": "2026-11-20T23:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fc/36/cf/fc36cf89-3e3a-c480-536b-7b131b78a8a3/mza_2002397294931190567.png/160x160bb.jpg",
+        "duree_min": 10,
+        "extrait": "⏱️ Highlights[00:28] 🤖 Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation（Mind2Act World：机器人操作中具身心智、物理动作与心智—动作组合的诊",
+        "description": "Résumé d’un article de recherche sur Mind2Act World, un benchmark diagnostique combinant cognition, action physique et composition esprit‑action pour la manipulation robotique."
+      },
+      {
+        "titre": "[人人能懂AI前沿] 从权重编程、路径制衡到结构化破局",
+        "source": "AI可可AI生活",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E4%BA%BA%E4%BA%BA%E8%83%BD%E6%87%82ai%E5%89%8D%E6%B2%BF-%E4%BB%8E%E6%9D%83%E9%87%8D%E7%BC%96%E7%A8%8B-%E8%B7%AF%E5%BE%84%E5%88%B6%E8%A1%A1%E5%88%B0%E7%BB%93%E6%9E%84%E5%8C%96%E7%A0%B4%E5%B1%80/id1755963354?i=1000803209827&uo=4",
+        "date": "2026-11-20T22:40:52+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/9e/0f/039e0f99-c322-9c6d-360c-0db2728bd26b/mza_8520572596064985909.jpg/160x160bb.jpg",
+        "duree_min": 23,
+        "extrait": "今天我们要为你拆解五篇硬核又烧脑的最新论文，带你重新认识AI与我们的世界。我们将探讨如何像装软件一样给AI直接“下载”新技能，并揭秘为什么你在AI面前的匿名发言其实是在“裸奔”",
+        "description": "Analyse de cinq papiers techniques traitant de la programmation des poids, de la régulation des chemins et de la rupture structurée, illustrant comment « télécharger » de nouvelles compétences dans les IA."
+      },
+      {
+        "titre": "AI来了，这些公司快死了……吗？",
+        "source": "AI炼金术",
+        "lien": "https://podcasts.apple.com/cn/podcast/ai%E6%9D%A5%E4%BA%86-%E8%BF%99%E4%BA%9B%E5%85%AC%E5%8F%B8%E5%BF%AB%E6%AD%BB%E4%BA%86-%E5%90%97/id1671502201?i=1000803131522&uo=4",
+        "date": "2026-11-20T13:20:18+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ad/47/1f/ad471f3e-01ad-b68e-772e-6904f6af6941/mza_15665975703352948829.jpeg/160x160bb.jpg",
+        "duree_min": 105,
+        "extrait": "「在座的各位，你们的公司会死。」 任鑫自己都说，「这是一期诅咒类的节目」。没有嘉宾，徐文浩和任鑫当了一回「喷子」，把这一轮 AI 里已经黄了的、正在被冲击的、现在风光但迟早出",
+        "description": "Discussion provocatrice sur les entreprises menacées par l’IA, avec des intervenants qui critiquent les modèles d’affaires actuels face à l’automatisation croissante."
+      },
+      {
+        "titre": "Personal Agent 怎么从尝鲜变成常用？｜对谈千问蒋冠军",
+        "source": "AI炼金术",
+        "lien": "https://podcasts.apple.com/cn/podcast/personal-agent-%E6%80%8E%E4%B9%88%E4%BB%8E%E5%B0%9D%E9%B2%9C%E5%8F%98%E6%88%90%E5%B8%B8%E7%94%A8-%E5%AF%B9%E8%B0%88%E5%8D%83%E9%97%AE%E8%92%8B%E5%86%A0%E5%86%9B/id1671502201?i=1000803027139&uo=4",
+        "date": "2026-11-19T11:15:31+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/24/ec/72/24ec720d-cf84-3dbe-c9f9-383e0c01f673/mza_2261030373235140724.jpeg/160x160bb.jpg",
+        "duree_min": 111,
+        "extrait": "航班延误，AI 助理怎么帮用户争取到 70 元现金赔偿？一次办成之后，还要过哪些关，才会让人下次还敢把事交给它？ 徐文浩、Mars 和千问事业部 AI 算法负责人蒋冠军聊 Personal Agent：系统怎么",
+        "description": "Entretien sur le passage du Personal Agent d’une fonction expérimentale à une utilisation courante, illustré par un cas de compensation de retard de vol grâce à l’IA."
+      },
+      {
+        "titre": "日报｜联合国杀手机器人谈判破裂／Signal默认禁截图 EP136",
+        "source": "Ai看世界·日报",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E6%97%A5%E6%8A%A5-%E8%81%94%E5%90%88%E5%9B%BD%E6%9D%80%E6%89%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B0%88%E5%88%A4%E7%A0%B4%E8%A3%82-signal%E9%BB%98%E8%AE%A4%E7%A6%81%E6%88%AA%E5%9B%BE-ep136/id6785188142?i=1000803353538&uo=4",
+        "date": "2026-11-22T00:02:25+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/c5/2b/d3c52b94-5693-7d38-63dd-88c46b1ac5b6/mza_1820427574566833398.jpeg/160x160bb.jpg",
+        "duree_min": 6,
+        "extrait": "",
+        "description": "Rapport quotidien sur les négociations de l’ONU concernant les robots tueurs et les nouvelles restrictions de Signal, reflétant les enjeux éthiques et réglementaires de l’IA."
+      },
+      {
+        "titre": "日报｜黎曼猜想被宣称证明／英伟达遭SEC查账 EP135",
+        "source": "Ai看世界·日报",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E6%97%A5%E6%8A%A5-%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%A2%AB%E5%AE%A3%E7%A7%B0%E8%AF%81%E6%98%8E-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%81%ADsec%E6%9F%A5%E8%B4%A6-ep135/id6785188142?i=1000803217885&uo=4",
+        "date": "2026-11-21T00:02:09+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/c5/2b/d3c52b94-5693-7d38-63dd-88c46b1ac5b6/mza_1820427574566833398.jpeg/160x160bb.jpg",
+        "duree_min": 7,
+        "extrait": "",
+        "description": "Mise à jour sur la prétendue preuve du problème de Riemann et l’enquête de la SEC sur Nvidia, soulignant les intersections entre IA, mathématiques avancées et régulation financière."
+      }
+    ]
+  }
+}

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-12-t2.md"
 type: "document"
-community: "Veille Chine 2026-11-19 : Infrastructure et Technologie IA"
+community: "AI Impact on Finance and Markets"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA
+  - community/AI_Impact_on_Finance_and_Markets
 ---
 
 # Veille France 2026-11-12
@@ -26,4 +26,4 @@ tags:
 - [[Omnii Defense]] - `references` [EXTRACTED]
 - [[United Airlines]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA
+#graphify/document #graphify/EXTRACTED #community/AI_Impact_on_Finance_and_Markets

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-19-t2.md"
 type: "document"
-community: "Veille France 2026-11-19 : Applications sectorielles de l'IA"
+community: "AI Agents"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-19__Applications_sectorielles_de_lIA
+  - community/AI_Agents
 ---
 
 # Veille France 2026-11-19 : Applications sectorielles de l'IA
@@ -15,4 +15,4 @@ tags:
 - [[Sanofi]] - `references` [EXTRACTED]
 - [[Soitec]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-19__Applications_sectorielles_de_lIA
+#graphify/document #graphify/EXTRACTED #community/AI_Agents

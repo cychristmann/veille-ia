@@ -1,52 +1,33 @@
 {
-  "maj": "2026-11-21",
+  "maj": "2026-11-22",
   "feuilletons": [
     {
-      "id": "f-0039",
-      "titre": "Microsoft impulsa standards ouverts de transparence pour agents IA",
-      "resume": "Microsoft lance une initiative visant à établir des standards ouverts de transparence afin de rendre les comportements des agents IA plus explicables et auditables, encourageant l'adoption de pratiques responsables dans l'industrie.",
+      "id": "f-0041",
+      "titre": "Amazon acquiert la startup IA Decart",
+      "resume": "Amazon renforce ses capacités technologiques dans le domaine des puces et de l'intelligence artificielle avec une acquisition d'envergure en Israël.",
       "statut": "actif",
-      "debut": "2026-11-21",
-      "derniere_activite": "2026-11-21",
+      "debut": "2026-11-22",
+      "derniere_activite": "2026-11-22",
       "regions": [
-        "fr"
+        "cn"
       ],
       "evenements": [
         {
-          "date": "2026-11-21",
-          "texte": "Lancement par Microsoft d'un projet de standards ouverts de transparence pour les agents IA.",
+          "date": "2026-11-22",
+          "texte": "Amazon finalise l'acquisition de la startup israélienne Decart pour environ 7,5 milliards de dollars.",
           "articles": [
             {
-              "titre": "Microsoft impulsa estándares abiertos de transparencia para agentes de IA",
-              "source": "Foro3D",
-              "lien": "https://foro3d.com/2026/noviembre/microsoft-impulsa-estandares-abiertos-de-transparencia-para-agentes-de.html",
-              "region": "fr",
-              "note": 7
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f-0038",
-      "titre": "Un processeur entièrement conçu par l'IA, 4,6 fois plus efficace",
-      "resume": "AMD et Intel annoncent qu'un processeur, entièrement conçu par une IA, aurait atteint une efficacité 4,6 fois supérieure aux conceptions traditionnelles, marquant une première majeure dans la conception matérielle assistée par IA.",
-      "statut": "actif",
-      "debut": "2026-11-21",
-      "derniere_activite": "2026-11-21",
-      "regions": [
-        "fr"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-21",
-          "texte": "Annonce d'un processeur révolutionnaire conçu par l'IA, avec des performances revendiquées nettement supérieures.",
-          "articles": [
+              "titre": "Amazon acquiert une startup israélienne de puces IA pour près de 7,5 milliards de dollars, afin de concurrencer Nvidia",
+              "source": "Moomoo",
+              "lien": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3X3RTbm5LT3lrallRcDhZZ0dOZzNWTEpqQi01V1VMbGNsZ0lDTnliQWp3UERGN1VaeC1XOGJFSHBYc3hUZmFDeE9aNEZBUnJ2MHpFYUxJcXVBWV8x?oc=5",
+              "region": "cn",
+              "note": 9
+            },
             {
-              "titre": "AMD et Intel, faites place : l’IA a conçu un processeur entièrement nouveau — et affirme qu’il est 4,6 fois plus efficace",
-              "source": "Notebookcheck.fr",
-              "lien": "https://www.notebookcheck.biz/AMD-et-Intel-faites-place-l-IA-a-concu-un-processeur-entierement-nouveau-et-affirme-qu-il-est-4-6-fois-plus-efficace.1455788.0.html",
-              "region": "fr",
+              "titre": "Amazon finalise l’acquisition de la startup IA Decart, pour environ 7,5 milliards de dollars",
+              "source": "www.itsdw.cn",
+              "lien": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUcmQ3eF9LVmt3OHVQV2hiZWRGMVowWm91VzJMZzlfdl9SQmRnVklrWmJncXJiWTJTZEtuZkw2Um4zQ2VUQlVmZjJsQlU?oc=5",
+              "region": "cn",
               "note": 8
             }
           ]
@@ -54,33 +35,41 @@
       ]
     },
     {
-      "id": "f-0037",
-      "titre": "Appel à interdire les modèles d'IA chinois dans les systèmes fédéraux américains",
-      "resume": "Des législateurs américains demandent une interdiction des modèles d'intelligence artificielle développés en Chine au sein des systèmes fédéraux, invoquant des risques de sécurité nationale. La proposition alimente le débat sur la souveraineté technologique.",
+      "id": "f-0040",
+      "titre": "Scandale de triche à l'IA en Corée du Sud",
+      "resume": "Un scandale éclate en Corée du Sud concernant l'utilisation frauduleuse de l'intelligence artificielle lors de préparatifs d'examen.",
       "statut": "actif",
-      "debut": "2026-11-21",
-      "derniere_activite": "2026-11-21",
+      "debut": "2026-11-22",
+      "derniere_activite": "2026-11-22",
       "regions": [
+        "cn",
         "fr",
         "us"
       ],
       "evenements": [
         {
-          "date": "2026-11-21",
-          "texte": "Publication de deux articles signalant la demande d'interdiction des IA chinoises dans les infrastructures fédérales américaines.",
+          "date": "2026-11-22",
+          "texte": "Le ministre sud-coréen de l'Éducation démissionne suite à un scandale de triche à l'IA.",
           "articles": [
             {
-              "titre": "Des élus américains appellent à interdire les modèles d’IA chinois dans les systèmes fédéraux",
-              "source": "Anadolu Ajansı",
-              "lien": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRHV2NXkwTFcybE10SkIzdGx0bFlKS0gwUU1VZ25KOHBBLWg0eEhELThFSnk1MF9SZ01mSDdWSjdvSHNQYlk4VGUySk9LMFd2bzJpRDJKLXdBcFZKYjhYdXVNVHdGdUhUcU9HbW8tUlZVWlVUaW5FeldwRl9xcExwbWVIbUFFWUo5S3lHeERSbnNwQlRHYzRLaW4wb3Z6NENEMmdFdzJwb255RDlYbU40S1dtaFlicjV1eW9fZTBYUzlCSkVna3MwQ1ZUU1lHLW91UFNTT0VQVnBidTlSaml0NVpwMUNwaENEdEpRTUI3TTlFOVJXa0o3em1GN3cwdG5i?oc=5",
+              "titre": "Scandale de triche à l’IA en Corée du Sud : sous pression, le ministre de l’éducation démissionne",
+              "source": "Le Monde Pixels",
+              "lien": "https://www.lemonde.fr/international/article/2026/11/22/scandale-de-triche-a-l-ia-en-coree-du-sud-sous-pression-le-ministre-de-l-education-demissionne_6814190_3210.html",
               "region": "fr",
               "note": 8
             },
             {
-              "titre": "Des législateurs américains demandent l'interdiction des modèles d'IA chinois dans les systèmes fédéraux",
-              "source": "Anadolu Ajansı",
-              "lien": "https://www.aa.com.tr/en/americas/us-lawmakers-urge-ban-on-chinese-ai-models-in-federal-systems/4132677",
+              "titre": "Le ministre sud-coréen de l'Éducation démissionne après un scandale de triche à l'IA lors des préparatifs d'examen",
+              "source": "Superpower Daily",
+              "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObE52YTZueHpOX3FTbFYwMmhZRGtvVnpHQ0VVUllPX2RId3pNbnB3aUNsMHZEeEtaNTg3Qkh1MEhrQkVYZW1SMTRWUTQ3Y0c4cWgzdWhka0k0RTBLa3hOY1JZejBvaUNCYlFFdEhldGdCN2syMFhfY1hTclpObGNrcnB4RFZZem1wcHprS2RPQ3Ftc2JBRDJUYjN3dm5heDhoYnU2eVJKRVBUQkZVUHdLTlZNOTI1bER3cDhxaDB6QQ?oc=5",
               "region": "us",
+              "note": 7
+            },
+            {
+              "titre": "Affaire de triche IA au baccalauréat sud‑coréen : le ministre de l’Éducation démissionne",
+              "source": "IT之家",
+              "lien": "https://www.ithome.com/1/030/558.htm",
+              "region": "cn",
               "note": 8
             }
           ]
@@ -90,11 +79,12 @@
     {
       "id": "f-0036",
       "titre": "Résolution de l'hypothèse de Riemann grâce à l'IA d'Anthropic",
-      "resume": "Un mathématicien, aidé par le modèle Claude d'Anthropic, affirme avoir résolu l'hypothèse de Riemann, l'un des problèmes les plus célèbres des mathématiques. Plusieurs médias français et américains rapportent la même avancée, déclenchant un débat scientifique majeur.",
+      "resume": "Un mathématicien, aidé par l'IA, affirme avoir résolu l'hypothèse de Riemann, suscitant des réactions enthousiastes et des vérifications formelles au sein de la communauté mathématique.",
       "statut": "actif",
       "debut": "2026-11-21",
-      "derniere_activite": "2026-11-21",
+      "derniere_activite": "2026-11-22",
       "regions": [
+        "cn",
         "dev",
         "fr",
         "us"
@@ -161,220 +151,44 @@
               "note": 8
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "f-0030",
-      "titre": "Cybercriminels automatisent leurs attaques grâce à l'IA",
-      "resume": "Des enquêtes révèlent que les cybercriminels intensifient l'automatisation de leurs attaques en s'appuyant sur des agents IA, augmentant la fréquence et la sophistication des intrusions. Cette évolution rappelle la première cyberattaque IA détectée précédemment.",
-      "statut": "actif",
-      "debut": "2026-11-18",
-      "derniere_activite": "2026-11-21",
-      "regions": [
-        "fr"
-      ],
-      "evenements": [
+        },
         {
-          "date": "2026-11-18",
-          "texte": "Google signale une attaque entièrement orchestrée par une IA, transformant des correctifs en vecteurs d’intrusion.",
+          "date": "2026-11-22",
+          "texte": "La preuve de l'hypothèse de Riemann assistée par l'IA reçoit une validation indépendante tandis que les mathématiciens débattent de sa portée.",
           "articles": [
             {
-              "titre": "Google détecte la première cyberattaque menée de bout en bout par une IA",
-              "source": "Génération NT",
-              "lien": "https://www.generation-nt.com/actualites/attaque-ia-autonome-hackers-2084608",
-              "region": "fr",
+              "titre": "Problème mathématique qui intrigue l’humanité depuis 167 ans ! L’IA aide à prouver l’hypothèse de Riemann, secouant la communauté mathématique – Shing‑Tong Yau : « une contribution majeure »",
+              "source": "驱动之家",
+              "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NRVlVeWxJNWFxV1NKcW10RzJ2RkhqMGFPRHdHVXphbjAzb0tXc2xRV25FSkpaZi00dGpVQUw5d2tLU0FYLVhOUFZMMlpxUFdITi1nQlQ3cTE?oc=5",
+              "region": "cn",
+              "note": 9
+            },
+            {
+              "titre": "Le soir même où Shing‑Tong Yau et d’autres mathématiciens s’expriment, la preuve IA de l’hypothèse de Riemann reçoit une validation indépendante",
+              "source": "虎嗅网",
+              "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91cWtWcGFGZEQ3b3hOY19DTkxPZFVuNlU4SExmOXBhcm9nVjgzYk9oM0szdVp1UHh3VXZyal9oV3N1QXRiM202bGxwVjhXYkhkWEh2ZA?oc=5",
+              "region": "cn",
               "note": 8
             },
             {
-              "titre": "Google repère un agent IA qui transforme seul des correctifs en attaques",
-              "source": "Solutions-Numeriques",
-              "lien": "https://www.solutions-numeriques.com/google-repere-un-agent-ia-qui-transforme-seul-des-correctifs-en-attaques/",
-              "region": "fr",
-              "note": 7
-            }
-          ]
-        },
-        {
-          "date": "2026-11-21",
-          "texte": "Signalement d'une montée en puissance des attaques automatisées par IA, élargissant le phénomène de cyberattaque IA.",
-          "articles": [
-            {
-              "titre": "\"Des campagnes d'attaques de plus en plus automatisées\" : comment les cybercriminels ont placé l'intelligence artificielle au cœur de leurs opérations",
-              "source": "franceinfo",
-              "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-campagnes-d-attaques-de-plus-en-plus-automatisees-comment-les-cybercriminels-ont-place-l-intelligence-artificielle-au-c-ur-de-leurs-operations_8292092.html",
-              "region": "fr",
-              "note": 7
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f-0018",
-      "titre": "Wall Street en déroute après la chute des sociétés liées à l'IA",
-      "resume": "Les marchés américains connaissent une forte volatilité suite à la chute des actions des entreprises liées à l'intelligence artificielle, aggravée par le scandale autour de Nvidia. La situation renforce les inquiétudes sur la surévaluation du secteur IA.",
-      "statut": "actif",
-      "debut": "2026-11-13",
-      "derniere_activite": "2026-11-21",
-      "regions": [
-        "cn",
-        "fr",
-        "us"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-13",
-          "texte": "Un scandale majeur renverse la star de l’IA, selon Reuters.",
-          "articles": [
-            {
-              "titre": "Morning Bid : un scandale renverse la star de l’IA",
-              "source": "Reuters",
-              "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GOFRsaDEtWVBzYU96UkZKNEM5cWJ1cWF6bVZmM2JQeVR5bWkyU0Vxald4ZlVVN0RqTzZrNlN3TXU2MHdqQV9ISllvaklNUWxibU9zamZqUHQ5blppNnRveUEzODBLUnI0bG5YVkx1eDI0M0JiWnd1R3pSMk5OSWs?oc=5",
-              "region": "us",
+              "titre": "L’hypothèse de Riemann prouvée par l’IA ? Le problème de 167 ans passe à la vérification formelle, les mathématiciens restent sceptiques",
+              "source": "京报网",
+              "lien": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJZGhLcng0N2lHN0dHLUN6T2tGUl9kd19FRHVIVWhzMlE0d3ZQUWN2b01zNWFzNGoyTEd2RVpnWmZOVWJFWndITlZkd2ZuYzg2NUN6RC16YlZwS0NkV1E?oc=5",
+              "region": "cn",
               "note": 8
-            }
-          ]
-        },
-        {
-          "date": "2026-11-15",
-          "texte": "Déclenchement d’un scandale majeur touchant Nvidia, impact sur les valorisations du secteur IA.",
-          "articles": [
-            {
-              "titre": "Les retombées du scandale Nvidia pourraient freiner l'engouement autour du boom de l'IA",
-              "source": "Jamaica Gleaner",
-              "lien": "https://www.usnews.com/news/business/articles/2026-11-13/fallout-from-the-nvidia-scandal-may-dampen-the-exuberance-around-the-ai-boom",
-              "region": "us",
-              "note": 7
             },
             {
-              "titre": "Les valorisations d'OpenAI et Anthropic s'ajustent, la valeur des startups de l'IA confrontée à une réévaluation",
+              "titre": "L’hypothèse de Riemann, énigme mathématique de 167 ans, partiellement prouvée par l’IA ? Shing‑Tong Yau répond",
+              "source": "新京报",
+              "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CVTJNSGJGZU5SandQWWNaNmVqb3IwNGFUWFZISVVGU3V5YXc2UURneGV0a2t4ZXV3S0E4SFV6Vkh0S1FYaHpPeHV1U2E4cWs1eldwZnlSWlcxWHZrdTdVRnNB?oc=5",
+              "region": "cn",
+              "note": 8
+            },
+            {
+              "titre": "Shing‑Tong Yau réagit à la preuve assistée par IA de l’hypothèse de Riemann",
               "source": "手机新浪网",
-              "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JWjM0c2hnWm5NUUdfZXdRVnZmYnlYUGxwTS1UUFN1ZnRFN3pzYWh4TjFYNWFJeVVQcFM1elVxYXpxdmFnbHdBc3FObUFsM1RJelNYcUIwSHpzcjhvZnVpdVl6ZDZfc2lQMzVKME1RUmgwZ1JjaDV3NXc0UEdfcFk?oc=5",
+              "lien": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MWVo4c21iYXRnVUx2NEtQYW95Sno4anZqWGFuN183eFZYT3lxZGZGTnhabGFrbnU5b21OM3dKSlY5RVRkWmxjLWI3bw?oc=5",
               "region": "cn",
-              "note": 7
-            }
-          ]
-        },
-        {
-          "date": "2026-11-21",
-          "texte": "Baisse importante des cours boursiers des entreprises IA, notamment après le scandale Nvidia.",
-          "articles": [
-            {
-              "titre": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
-              "source": "Le Monde.fr",
-              "lien": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
-              "region": "fr",
-              "note": 7
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f-0035",
-      "titre": "Apple prépare un agent IA complet pour piloter appareils et applications",
-      "resume": "Apple développe un nouvel agent d'intelligence artificielle conçu pour contrôler les Mac, les applications, naviguer sur le web et écrire du code. Ce projet stratégique vise à concurrencer directement les assistants et agents d'autres géants de la tech.",
-      "statut": "actif",
-      "debut": "2026-11-20",
-      "derniere_activite": "2026-11-20",
-      "regions": [
-        "fr",
-        "us"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-20",
-          "texte": "Plusieurs fuites et offres d'emploi révèlent qu'Apple prépare un agent IA complet capable de piloter des appareils, des applications et le web.",
-          "articles": [
-            {
-              "titre": "Apple prépare son propre agent IA capable de contrôler votre Mac et vos applications",
-              "source": "Mac4Ever",
-              "lien": "https://www.mac4ever.com/ia/199158-apple-prepare-son-propre-agent-ia-capable-de-controler-votre-mac-et-vos-applications",
-              "region": "fr",
-              "note": 9
-            },
-            {
-              "titre": "Apple préparerait son propre agent IA complet pour concurrencer ChatGPT",
-              "source": "Clubic",
-              "lien": "https://www.clubic.com/actualite-640186-apple-preparerait-son-propre-agent-ia-complet-pour-concurrencer-chatgpt.html",
-              "region": "fr",
-              "note": 9
-            },
-            {
-              "titre": "Apple travaille sur un agent IA capable de piloter vos appareils, vos apps, le web et le code",
-              "source": "MacGeneration",
-              "lien": "https://www.msn.com/fr-be/actualite/other/apple-travaille-sur-un-agent-ia-capable-de-piloter-vos-appareils-vos-apps-le-web-et-le-code/ar-AA2hOVbj",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "Apple construit-elle un agent IA ? Une offre d'emploi décrit un agent qui utilise des apps, navigue et écrit du code",
-              "source": "Nacionale",
-              "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRndyN2QzLTgyNmN5RUFZWFQ2S1lZc1NMaVVjOFhGc0pheEVTU3VDWmM4Yy1fel8yN1Y1SElqbnVEWjVkejdDUGM3dHBKV0JkTEJwbGRyT2liWVpfOGRqeGxvbnRSTlZ5ZGhYLTN3SGVkUjNDSllMLTRIV1RRZUNHaUEwMGU0YVJqY0FoR09lazRYdkRQeGlBUlhzVU9mVVZBdk02ZDN5OHdDbmRmVlFOYnRyUlJpUQ?oc=5",
-              "region": "us",
-              "note": 7
-            },
-            {
-              "titre": "Apple préparerait son propre agent IA complet",
-              "source": "Gizmodo",
-              "lien": "https://gizmodo.com/apple-is-reportedly-building-its-own-full-featured-ai-agent-2000842954",
-              "region": "us",
-              "note": 7
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f-0015",
-      "titre": "SpaceX déploie des racks IA en orbite et lève des fonds pour ses puces",
-      "resume": "SpaceX prévoit d'installer des milliers de racks de puces Nvidia en orbite et développe un vaste campus de calcul IA terrestre, soutenu par d'importantes opérations financières.",
-      "statut": "actif",
-      "debut": "2026-11-13",
-      "derniere_activite": "2026-11-20",
-      "regions": [
-        "cn",
-        "fr",
-        "us"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-13",
-          "texte": "SpaceX planifie 10 000 racks Nvidia en orbite et un vaste campus IA terrestre.",
-          "articles": [
-            {
-              "titre": "SpaceX planea 10.000 racks de Nvidia en órbita para IA con 5 GW",
-              "source": "Foro3D",
-              "lien": "https://foro3d.com/2026/noviembre/spacex-planea-10000-racks-de-nvidia-en-orbita-para-ia-con-5-gw.html",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "SpaceX d’Elon Musk prévoit plus de 74 milliards de dollars de campus de calcul IA au Texas et en Arizona",
-              "source": "The Times of India",
-              "lien": "https://news.google.com/rss/articles/CBMilANBVV95cUxPbjAxdG83WVI5OHZEcEhsQkJUWVRxRGlVWnhheTNhZ2xsWlFHOGYzXzZpaFh2NWNDbnBBVUI0aVk0S3d4eTVtQnlNUzFxMmsyaEdwRXZ6ODJlUldyNGFHdGlYWEVTanNJYlBXWllUTWp2ZmFPMUtFOF8zTEFtUk9GQ1FnZzlfLWhrekZhQVJKdlM0ZDJBTnZJSWJWUEI4amRDZ0pkaEl6b1FJUW9yc090ZmZWOGctd3JBU2FWb3lIc09LTTBkVGlRSklPcXZHak5Bd1FJVEVFeW5INktaMmRKNUVoV1c4TG5PQ2g4MWU2MzFYcHZyMmpPbUxwRjI4UWFNV3VQUDR0NjY3d296RG9QMk1sTDRsb1F6OExQUmxVLXZwcldvcWpYQ29XQUNzdTJEdGpRRUhYLWRuRl9WMDNqbzZHNUczLUhkQnNmdUE4MXBudkVFWF9wVXI2QVF3RU0wTjNGSkdEamd2Z2ZFYm9CbVRGTzJhRHkyYzVoc3E4cmQ2aUZqY09ZVlNNblpSQ0IwOEFyV9IBmgNBVV95cUxQU3RIR2lGRms0N1dLRGhrckx0VGh1M1hweGRraHppZXpwZnUxVGk0Z25ZYnlsN2RoNzdEanpJMFRqMFFMSnlWcm5pRExUUURnR04wZTluTG9LbTZUSWpaUUtuTExYdGdoSUVZaVRaYlY0dnJoc05fSWl4MTREdGQtWXFRUXZKT0t4QndkRVZvX21qek9USEdMMmNlLVNERzVlTHlBTVNQV1J4X2Z4UUtYVlRabE14SC02MTVRbXJaRnVNY2R2S0NhQmFJRThfbmhjZWU5WGVjR0hiYXlYMzNqS3Z3REhONzJCX2Q2MV9TdlZDS3llN29tN0FRV2hrUmlPdElLX29fdDlyb2sxcVZRUGFtWkh3VWtGRlp6WDNsckFUMktmbXZjdEpMamRIU0tFTlNNWk9EeWVnZUpWR2RnRFZPUHpwZjVYT2lnMW53SWpfbkpuREp0Qk5VN1hXTlkycHBKX0ltYW52TWZyTHZqRndTbE0xT3o0WFEtMlpKZnYtbFV1Y1ZkZ0xLUWN0ZndDaGFGVWR3YWwyQQ?oc=5",
-              "region": "us",
-              "note": 8
-            },
-            {
-              "titre": "Programme « Star Compute » de Guoxing Aerospace : le groupe 03 de satellites finalisé, lancement prévu prochainement, objectif de 2 800 satellites de calcul en réseau",
-              "source": "IT之家",
-              "lien": "https://www.ithome.com/1/026/676.htm",
-              "region": "cn",
-              "note": 6
-            }
-          ]
-        },
-        {
-          "date": "2026-11-20",
-          "texte": "SpaceX vend 32 milliards de dollars de dette de puces IA à un rendement élevé pour financer ses projets d'infrastructure.",
-          "articles": [
-            {
-              "titre": "SpaceX vend 32 Mds $ de dette de puces IA à plus de 8 % de rendement : rapport",
-              "source": "TradingView",
-              "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjlxMS1HVXBldmIyb1A5Z3lRcjRGd3hLcG1INzRZVWRUYnU1eGdiWXJqdUpFWWlrZHllMlJVd3ctQUtKODBRak93LVVCQTQySVotSFdjc3ZYOW0xZjlNZG9ydmx3R0FaVDB5SnQwNENSZVA3ZHFfbmltSGt5ZTV6Nkgyak1uV19McEI3di0zYlFyZTRJZVgtMmktQWVxQkVkM2xFV2xFVHR1a2hNVlN6UW5OSzlpcE0?oc=5",
-              "region": "us",
               "note": 7
             }
           ]
@@ -384,10 +198,10 @@
     {
       "id": "f-0010",
       "titre": "Google DeepMind étend sa suite de modèles Gemini",
-      "resume": "Google continue d'élargir et de diversifier sa gamme de modèles Gemini avec des versions optimisées pour de nouveaux cas d'usage techniques, robotiques et stratégiques.",
+      "resume": "Google continue d'élargir et de diversifier sa gamme de modèles Gemini avec de nouvelles versions optimisées pour divers cas d'usage, se positionnant face aux solutions concurrentes.",
       "statut": "actif",
       "debut": "2026-11-11",
-      "derniere_activite": "2026-11-20",
+      "derniere_activite": "2026-11-22",
       "regions": [
         "cn",
         "dev",
@@ -520,16 +334,36 @@
               "note": 8
             }
           ]
+        },
+        {
+          "date": "2026-11-22",
+          "texte": "Google publie le modèle Gemini 4 Neon doté d'un million de tokens de contexte.",
+          "articles": [
+            {
+              "titre": "Google déploie Gemini 4 Neon, à 3 dollars le million de tokens",
+              "source": "Brief IA",
+              "lien": "https://www.briefia.fr/article/google-deploie-gemini-4-neon-a-3-dollars-le-million-de-tokens",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Google publie le modèle Gemini 4 Neon, concurrent de Claude Opus 5.5 et GPT‑6.2 Sol",
+              "source": "Yahoo Tech",
+              "lien": "https://www.msn.com/en-us/technology/software/google-releases-gemini-4-neon-ai-model-rivals-claude-opus-5-5-and-gpt-6-2-sol/ar-AA2hXf3c",
+              "region": "us",
+              "note": 9
+            }
+          ]
         }
       ]
     },
     {
       "id": "f-0003",
       "titre": "Anthropic réalise une introduction en bourse historique et débute sur le Nasdaq",
-      "resume": "Après ses appels à la prudence, Anthropic concrétise son introduction en bourse avec une levée de fonds record. Ses débuts sur le Nasdaq marquent un tournant historique pour l'industrie de l'IA, bien que l'action soit jugée surévaluée par certains marchés.",
+      "resume": "Anthropic a finalisé son introduction en bourse sur le Nasdaq avec une valorisation avoisinant les 2 000 milliards de dollars, marquant un tournant historique pour l'industrie de l'IA et la fin d'une période de croissance explosive pour la startup.",
       "statut": "actif",
       "debut": "2026-11-09",
-      "derniere_activite": "2026-11-20",
+      "derniere_activite": "2026-11-22",
       "regions": [
         "cn",
         "dev",
@@ -939,6 +773,329 @@
               "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMFc2aVFVeVA4TFl6NmFpVE5ZakdYNlpvbXFSUFR2bE5wNTVUSWdNa2FabzNTM3M0cXQ2ME5vcDgtYU1KV3VQSEZIaTlLM2NLWFJZU243NHBYNXNGMnBGcjVhMjZ1MFd6a2hmejBRVmpmSWd6TndFUnNHeEtuUWQ5Skx4aGJHdDUySjhwYWxmdzhqWWlZTkZNRkNyYUJ0T2c1U0laTWtIZXJiSzZkem96QWNOZUlCUQ?oc=5",
               "region": "us",
               "note": 6
+            }
+          ]
+        },
+        {
+          "date": "2026-11-22",
+          "texte": "Anthropic est valorisée à environ 2 000 milliards de dollars lors de son entrée en bourse au Nasdaq.",
+          "articles": [
+            {
+              "titre": "Anthropic valorisée à environ 2 000 milliards de dollars lors de ses débuts au Nasdaq après le prix de l'introduction en bourse à 83 $.",
+              "source": "Quartz en Français",
+              "lien": "https://fr.qz.com/anthropic-valued-2-trillion-nasdaq-debut-ipo-112126",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "L'IPO d'Anthropic marque la fin d'une période de croissance explosive pour la startup IA",
+              "source": "Jamaica Gleaner",
+              "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzhMdmtla1UySzFfZnJnazdLeHotZnMwZW5vbW9FanF2YkZELXlvVVV0VnpGcGlmclJhMUFsWkdmb21oeVJCNDdqYnp2MExWMTEtbUYtejFwVGRsRVFLZE5Yd0F1a0FzWGZDcDl5YTRkSWM3eXlabjh4RWtUaF8xS1BFZ1lZMV9rTWRHYWRQMEhpb1hXQ3dYUUVhV3BiZWN6S3lTX1N0NWlYb2Rx?oc=5",
+              "region": "us",
+              "note": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0039",
+      "titre": "Microsoft impulsa standards ouverts de transparence pour agents IA",
+      "resume": "Microsoft lance une initiative visant à établir des standards ouverts de transparence afin de rendre les comportements des agents IA plus explicables et auditables, encourageant l'adoption de pratiques responsables dans l'industrie.",
+      "statut": "actif",
+      "debut": "2026-11-21",
+      "derniere_activite": "2026-11-21",
+      "regions": [
+        "fr"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-21",
+          "texte": "Lancement par Microsoft d'un projet de standards ouverts de transparence pour les agents IA.",
+          "articles": [
+            {
+              "titre": "Microsoft impulsa estándares abiertos de transparencia para agentes de IA",
+              "source": "Foro3D",
+              "lien": "https://foro3d.com/2026/noviembre/microsoft-impulsa-estandares-abiertos-de-transparencia-para-agentes-de.html",
+              "region": "fr",
+              "note": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0038",
+      "titre": "Un processeur entièrement conçu par l'IA, 4,6 fois plus efficace",
+      "resume": "AMD et Intel annoncent qu'un processeur, entièrement conçu par une IA, aurait atteint une efficacité 4,6 fois supérieure aux conceptions traditionnelles, marquant une première majeure dans la conception matérielle assistée par IA.",
+      "statut": "actif",
+      "debut": "2026-11-21",
+      "derniere_activite": "2026-11-21",
+      "regions": [
+        "fr"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-21",
+          "texte": "Annonce d'un processeur révolutionnaire conçu par l'IA, avec des performances revendiquées nettement supérieures.",
+          "articles": [
+            {
+              "titre": "AMD et Intel, faites place : l’IA a conçu un processeur entièrement nouveau — et affirme qu’il est 4,6 fois plus efficace",
+              "source": "Notebookcheck.fr",
+              "lien": "https://www.notebookcheck.biz/AMD-et-Intel-faites-place-l-IA-a-concu-un-processeur-entierement-nouveau-et-affirme-qu-il-est-4-6-fois-plus-efficace.1455788.0.html",
+              "region": "fr",
+              "note": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0037",
+      "titre": "Appel à interdire les modèles d'IA chinois dans les systèmes fédéraux américains",
+      "resume": "Des législateurs américains demandent une interdiction des modèles d'intelligence artificielle développés en Chine au sein des systèmes fédéraux, invoquant des risques de sécurité nationale. La proposition alimente le débat sur la souveraineté technologique.",
+      "statut": "actif",
+      "debut": "2026-11-21",
+      "derniere_activite": "2026-11-21",
+      "regions": [
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-21",
+          "texte": "Publication de deux articles signalant la demande d'interdiction des IA chinoises dans les infrastructures fédérales américaines.",
+          "articles": [
+            {
+              "titre": "Des élus américains appellent à interdire les modèles d’IA chinois dans les systèmes fédéraux",
+              "source": "Anadolu Ajansı",
+              "lien": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRHV2NXkwTFcybE10SkIzdGx0bFlKS0gwUU1VZ25KOHBBLWg0eEhELThFSnk1MF9SZ01mSDdWSjdvSHNQYlk4VGUySk9LMFd2bzJpRDJKLXdBcFZKYjhYdXVNVHdGdUhUcU9HbW8tUlZVWlVUaW5FeldwRl9xcExwbWVIbUFFWUo5S3lHeERSbnNwQlRHYzRLaW4wb3Z6NENEMmdFdzJwb255RDlYbU40S1dtaFlicjV1eW9fZTBYUzlCSkVna3MwQ1ZUU1lHLW91UFNTT0VQVnBidTlSaml0NVpwMUNwaENEdEpRTUI3TTlFOVJXa0o3em1GN3cwdG5i?oc=5",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Des législateurs américains demandent l'interdiction des modèles d'IA chinois dans les systèmes fédéraux",
+              "source": "Anadolu Ajansı",
+              "lien": "https://www.aa.com.tr/en/americas/us-lawmakers-urge-ban-on-chinese-ai-models-in-federal-systems/4132677",
+              "region": "us",
+              "note": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0030",
+      "titre": "Cybercriminels automatisent leurs attaques grâce à l'IA",
+      "resume": "Des enquêtes révèlent que les cybercriminels intensifient l'automatisation de leurs attaques en s'appuyant sur des agents IA, augmentant la fréquence et la sophistication des intrusions. Cette évolution rappelle la première cyberattaque IA détectée précédemment.",
+      "statut": "actif",
+      "debut": "2026-11-18",
+      "derniere_activite": "2026-11-21",
+      "regions": [
+        "fr"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-18",
+          "texte": "Google signale une attaque entièrement orchestrée par une IA, transformant des correctifs en vecteurs d’intrusion.",
+          "articles": [
+            {
+              "titre": "Google détecte la première cyberattaque menée de bout en bout par une IA",
+              "source": "Génération NT",
+              "lien": "https://www.generation-nt.com/actualites/attaque-ia-autonome-hackers-2084608",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Google repère un agent IA qui transforme seul des correctifs en attaques",
+              "source": "Solutions-Numeriques",
+              "lien": "https://www.solutions-numeriques.com/google-repere-un-agent-ia-qui-transforme-seul-des-correctifs-en-attaques/",
+              "region": "fr",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "texte": "Signalement d'une montée en puissance des attaques automatisées par IA, élargissant le phénomène de cyberattaque IA.",
+          "articles": [
+            {
+              "titre": "\"Des campagnes d'attaques de plus en plus automatisées\" : comment les cybercriminels ont placé l'intelligence artificielle au cœur de leurs opérations",
+              "source": "franceinfo",
+              "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/des-campagnes-d-attaques-de-plus-en-plus-automatisees-comment-les-cybercriminels-ont-place-l-intelligence-artificielle-au-c-ur-de-leurs-operations_8292092.html",
+              "region": "fr",
+              "note": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0018",
+      "titre": "Wall Street en déroute après la chute des sociétés liées à l'IA",
+      "resume": "Les marchés américains connaissent une forte volatilité suite à la chute des actions des entreprises liées à l'intelligence artificielle, aggravée par le scandale autour de Nvidia. La situation renforce les inquiétudes sur la surévaluation du secteur IA.",
+      "statut": "actif",
+      "debut": "2026-11-13",
+      "derniere_activite": "2026-11-21",
+      "regions": [
+        "cn",
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-13",
+          "texte": "Un scandale majeur renverse la star de l’IA, selon Reuters.",
+          "articles": [
+            {
+              "titre": "Morning Bid : un scandale renverse la star de l’IA",
+              "source": "Reuters",
+              "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GOFRsaDEtWVBzYU96UkZKNEM5cWJ1cWF6bVZmM2JQeVR5bWkyU0Vxald4ZlVVN0RqTzZrNlN3TXU2MHdqQV9ISllvaklNUWxibU9zamZqUHQ5blppNnRveUEzODBLUnI0bG5YVkx1eDI0M0JiWnd1R3pSMk5OSWs?oc=5",
+              "region": "us",
+              "note": 8
+            }
+          ]
+        },
+        {
+          "date": "2026-11-15",
+          "texte": "Déclenchement d’un scandale majeur touchant Nvidia, impact sur les valorisations du secteur IA.",
+          "articles": [
+            {
+              "titre": "Les retombées du scandale Nvidia pourraient freiner l'engouement autour du boom de l'IA",
+              "source": "Jamaica Gleaner",
+              "lien": "https://www.usnews.com/news/business/articles/2026-11-13/fallout-from-the-nvidia-scandal-may-dampen-the-exuberance-around-the-ai-boom",
+              "region": "us",
+              "note": 7
+            },
+            {
+              "titre": "Les valorisations d'OpenAI et Anthropic s'ajustent, la valeur des startups de l'IA confrontée à une réévaluation",
+              "source": "手机新浪网",
+              "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JWjM0c2hnWm5NUUdfZXdRVnZmYnlYUGxwTS1UUFN1ZnRFN3pzYWh4TjFYNWFJeVVQcFM1elVxYXpxdmFnbHdBc3FObUFsM1RJelNYcUIwSHpzcjhvZnVpdVl6ZDZfc2lQMzVKME1RUmgwZ1JjaDV3NXc0UEdfcFk?oc=5",
+              "region": "cn",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "texte": "Baisse importante des cours boursiers des entreprises IA, notamment après le scandale Nvidia.",
+          "articles": [
+            {
+              "titre": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+              "source": "Le Monde.fr",
+              "lien": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+              "region": "fr",
+              "note": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0035",
+      "titre": "Apple prépare un agent IA complet pour piloter appareils et applications",
+      "resume": "Apple développe un nouvel agent d'intelligence artificielle conçu pour contrôler les Mac, les applications, naviguer sur le web et écrire du code. Ce projet stratégique vise à concurrencer directement les assistants et agents d'autres géants de la tech.",
+      "statut": "actif",
+      "debut": "2026-11-20",
+      "derniere_activite": "2026-11-20",
+      "regions": [
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-20",
+          "texte": "Plusieurs fuites et offres d'emploi révèlent qu'Apple prépare un agent IA complet capable de piloter des appareils, des applications et le web.",
+          "articles": [
+            {
+              "titre": "Apple prépare son propre agent IA capable de contrôler votre Mac et vos applications",
+              "source": "Mac4Ever",
+              "lien": "https://www.mac4ever.com/ia/199158-apple-prepare-son-propre-agent-ia-capable-de-controler-votre-mac-et-vos-applications",
+              "region": "fr",
+              "note": 9
+            },
+            {
+              "titre": "Apple préparerait son propre agent IA complet pour concurrencer ChatGPT",
+              "source": "Clubic",
+              "lien": "https://www.clubic.com/actualite-640186-apple-preparerait-son-propre-agent-ia-complet-pour-concurrencer-chatgpt.html",
+              "region": "fr",
+              "note": 9
+            },
+            {
+              "titre": "Apple travaille sur un agent IA capable de piloter vos appareils, vos apps, le web et le code",
+              "source": "MacGeneration",
+              "lien": "https://www.msn.com/fr-be/actualite/other/apple-travaille-sur-un-agent-ia-capable-de-piloter-vos-appareils-vos-apps-le-web-et-le-code/ar-AA2hOVbj",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Apple construit-elle un agent IA ? Une offre d'emploi décrit un agent qui utilise des apps, navigue et écrit du code",
+              "source": "Nacionale",
+              "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRndyN2QzLTgyNmN5RUFZWFQ2S1lZc1NMaVVjOFhGc0pheEVTU3VDWmM4Yy1fel8yN1Y1SElqbnVEWjVkejdDUGM3dHBKV0JkTEJwbGRyT2liWVpfOGRqeGxvbnRSTlZ5ZGhYLTN3SGVkUjNDSllMLTRIV1RRZUNHaUEwMGU0YVJqY0FoR09lazRYdkRQeGlBUlhzVU9mVVZBdk02ZDN5OHdDbmRmVlFOYnRyUlJpUQ?oc=5",
+              "region": "us",
+              "note": 7
+            },
+            {
+              "titre": "Apple préparerait son propre agent IA complet",
+              "source": "Gizmodo",
+              "lien": "https://gizmodo.com/apple-is-reportedly-building-its-own-full-featured-ai-agent-2000842954",
+              "region": "us",
+              "note": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0015",
+      "titre": "SpaceX déploie des racks IA en orbite et lève des fonds pour ses puces",
+      "resume": "SpaceX prévoit d'installer des milliers de racks de puces Nvidia en orbite et développe un vaste campus de calcul IA terrestre, soutenu par d'importantes opérations financières.",
+      "statut": "actif",
+      "debut": "2026-11-13",
+      "derniere_activite": "2026-11-20",
+      "regions": [
+        "cn",
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-13",
+          "texte": "SpaceX planifie 10 000 racks Nvidia en orbite et un vaste campus IA terrestre.",
+          "articles": [
+            {
+              "titre": "SpaceX planea 10.000 racks de Nvidia en órbita para IA con 5 GW",
+              "source": "Foro3D",
+              "lien": "https://foro3d.com/2026/noviembre/spacex-planea-10000-racks-de-nvidia-en-orbita-para-ia-con-5-gw.html",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "SpaceX d’Elon Musk prévoit plus de 74 milliards de dollars de campus de calcul IA au Texas et en Arizona",
+              "source": "The Times of India",
+              "lien": "https://news.google.com/rss/articles/CBMilANBVV95cUxPbjAxdG83WVI5OHZEcEhsQkJUWVRxRGlVWnhheTNhZ2xsWlFHOGYzXzZpaFh2NWNDbnBBVUI0aVk0S3d4eTVtQnlNUzFxMmsyaEdwRXZ6ODJlUldyNGFHdGlYWEVTanNJYlBXWllUTWp2ZmFPMUtFOF8zTEFtUk9GQ1FnZzlfLWhrekZhQVJKdlM0ZDJBTnZJSWJWUEI4amRDZ0pkaEl6b1FJUW9yc090ZmZWOGctd3JBU2FWb3lIc09LTTBkVGlRSklPcXZHak5Bd1FJVEVFeW5INktaMmRKNUVoV1c4TG5PQ2g4MWU2MzFYcHZyMmpPbUxwRjI4UWFNV3VQUDR0NjY3d296RG9QMk1sTDRsb1F6OExQUmxVLXZwcldvcWpYQ29XQUNzdTJEdGpRRUhYLWRuRl9WMDNqbzZHNUczLUhkQnNmdUE4MXBudkVFWF9wVXI2QVF3RU0wTjNGSkdEamd2Z2ZFYm9CbVRGTzJhRHkyYzVoc3E4cmQ2aUZqY09ZVlNNblpSQ0IwOEFyV9IBmgNBVV95cUxQU3RIR2lGRms0N1dLRGhrckx0VGh1M1hweGRraHppZXpwZnUxVGk0Z25ZYnlsN2RoNzdEanpJMFRqMFFMSnlWcm5pRExUUURnR04wZTluTG9LbTZUSWpaUUtuTExYdGdoSUVZaVRaYlY0dnJoc05fSWl4MTREdGQtWXFRUXZKT0t4QndkRVZvX21qek9USEdMMmNlLVNERzVlTHlBTVNQV1J4X2Z4UUtYVlRabE14SC02MTVRbXJaRnVNY2R2S0NhQmFJRThfbmhjZWU5WGVjR0hiYXlYMzNqS3Z3REhONzJCX2Q2MV9TdlZDS3llN29tN0FRV2hrUmlPdElLX29fdDlyb2sxcVZRUGFtWkh3VWtGRlp6WDNsckFUMktmbXZjdEpMamRIU0tFTlNNWk9EeWVnZUpWR2RnRFZPUHpwZjVYT2lnMW53SWpfbkpuREp0Qk5VN1hXTlkycHBKX0ltYW52TWZyTHZqRndTbE0xT3o0WFEtMlpKZnYtbFV1Y1ZkZ0xLUWN0ZndDaGFGVWR3YWwyQQ?oc=5",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "Programme « Star Compute » de Guoxing Aerospace : le groupe 03 de satellites finalisé, lancement prévu prochainement, objectif de 2 800 satellites de calcul en réseau",
+              "source": "IT之家",
+              "lien": "https://www.ithome.com/1/026/676.htm",
+              "region": "cn",
+              "note": 6
+            }
+          ]
+        },
+        {
+          "date": "2026-11-20",
+          "texte": "SpaceX vend 32 milliards de dollars de dette de puces IA à un rendement élevé pour financer ses projets d'infrastructure.",
+          "articles": [
+            {
+              "titre": "SpaceX vend 32 Mds $ de dette de puces IA à plus de 8 % de rendement : rapport",
+              "source": "TradingView",
+              "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjlxMS1HVXBldmIyb1A5Z3lRcjRGd3hLcG1INzRZVWRUYnU1eGdiWXJqdUpFWWlrZHllMlJVd3ctQUtKODBRak93LVVCQTQySVotSFdjc3ZYOW0xZjlNZG9ydmx3R0FaVDB5SnQwNENSZVA3ZHFfbmltSGt5ZTV6Nkgyak1uV19McEI3di0zYlFyZTRJZVgtMmktQWVxQkVkM2xFV2xFVHR1a2hNVlN6UW5OSzlpcE0?oc=5",
+              "region": "us",
+              "note": 7
             }
           ]
         }

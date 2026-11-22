@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-18-t7.md"
 type: "document"
-community: "Veille Outils & code 2026-11-18"
+community: "Trump's AI task force"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-18
+  - community/Trumps_AI_task_force
 ---
 
 # Veille Chine 2026-11-18 : Autres articles
@@ -22,4 +22,4 @@ tags:
 - [[英伟达最新财报超预期：AI的叙事或许比“黄仁勋溢价”更宏大]] - `references` [EXTRACTED]
 - [[计算机（网安）学院任福继教授获评“我是科学人”2025年度特别贡献科学家]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-18
+#graphify/document #graphify/EXTRACTED #community/Trumps_AI_task_force

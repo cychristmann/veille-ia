@@ -8,21 +8,21 @@ members: 15
 **Members:** 15 nodes
 
 ## Members
-- [[Andrew Bailey]] - concept - dossiers/2026-11-14-2.md
-- [[Artificial Intelligence]] - concept - feuilletons/f-0021.md
-- [[Autorités chinoises]] - concept - dossiers/2026-11-14-2.md
-- [[Banque Centrale Européenne (BCE)]] - concept - dossiers/2026-11-14-2.md
-- [[BlackRock]] - concept - veilles/veille-ia-us-2026-11-19-t2.md
-- [[Donald Trump]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
-- [[Dossier  IA  risque systémique pour la stabilité financière]] - document - dossiers/2026-11-14-2.md
-- [[Federal Reserve]] - concept - dossiers/2026-11-14-2.md
-- [[Feng Runhuan]] - concept - feuilletons/f-0021.md
-- [[Feuilleton L'IA en tête des risques pour la stabilité financière]] - document - feuilletons/f-0021.md
-- [[Financial Stability Board (FSB)]] - concept - dossiers/2026-11-14-2.md
-- [[Larry Fink]] - concept - veilles/veille-ia-us-2026-11-19-t2.md
-- [[Risque systémique de l'IA]] - concept - dossiers/2026-11-14-2.md
-- [[South Korean Financial Watchdog]] - concept - veilles/veille-ia-us-2026-11-19-t2.md
-- [[Veille États-Unis 2026-11-19  Régulation et politique]] - document - veilles/veille-ia-us-2026-11-19-t2.md
+- [[Amazon AI Trap for Hackers]] - concept - veilles/veille-ia-fr-2026-11-17-t4.md
+- [[Amazon Alexa (Shopping)]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
+- [[Apple Connected Glasses]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
+- [[Apple Mac AI Agents]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
+- [[Box]] - concept - veilles/veille-ia-fr-2026-11-17-t1.md
+- [[Cyberattaque Crédit Mutuel Arkéa]] - concept - veilles/veille-ia-fr-2026-11-17-t4.md
+- [[Cécile Pierrot]] - concept - veilles/veille-ia-fr-2026-11-17-t4.md
+- [[DORA 2025 Report]] - concept - veilles/veille-ia-fr-2026-11-17-t4.md
+- [[Google Maps (Gemini integration)]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
+- [[Google Project Zero]] - concept - veilles/veille-ia-fr-2026-11-17-t4.md
+- [[Instinct (AI Agent)]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
+- [[Monsieur Cuisine Connect]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
+- [[Mubadala]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
+- [[Samsung One UI 9.5]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
+- [[Veille France 2026-11-17]] - document - veilles/veille-ia-fr-2026-11-17-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -32,9 +32,15 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia_1]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs_1]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
+- 3 edges to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
+- 2 edges to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_Tencent]]
+- 1 edge to [[_COMMUNITY_Nvidia_2]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
+- 1 edge to [[_COMMUNITY_Apple_1]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-22]]
 
 ## Top bridge nodes
-- [[Donald Trump]] - degree 4, connects to 3 communities
+- [[Veille France 2026-11-17]] - degree 23, connects to 7 communities
+- [[Mubadala]] - degree 3, connects to 2 communities

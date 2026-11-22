@@ -13,6 +13,7 @@ tags:
 ## Connections
 - [[Apple AI Agent]] - `conceptually_related_to` [EXTRACTED]
 - [[ChatGPT Wallet]] - `references` [EXTRACTED]
+- [[Claude]] - `conceptually_related_to` [INFERRED]
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-19  Infrastructure et optimisation IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-15  Impact culturel et médiatique de l'IA]] - `references` [EXTRACTED]

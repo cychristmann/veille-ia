@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0032.md"
 type: "document"
-community: "Feuilleton: Compromission massive du Microsoft Agent Framework"
+community: "Veille Outils & code 2026-11-20"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
+  - community/Veille_Outils__code_2026-11-20
 ---
 
 # Feuilleton: Compromission massive du Microsoft Agent Framework
@@ -18,4 +18,4 @@ tags:
 - [[The New Stack]] - `cites` [EXTRACTED]
 - [[wiz.io]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-20

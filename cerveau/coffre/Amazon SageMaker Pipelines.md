@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-15-t4.md"
 type: "concept"
-community: "AWS Emulator"
+community: "Amazon Bedrock AgentCore"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AWS_Emulator
+  - community/Amazon_Bedrock_AgentCore
 ---
 
 # Amazon SageMaker Pipelines
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Amazon SageMaker Canvas]] - `shares_data_with` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AWS_Emulator
+#graphify/concept #graphify/EXTRACTED #community/Amazon_Bedrock_AgentCore

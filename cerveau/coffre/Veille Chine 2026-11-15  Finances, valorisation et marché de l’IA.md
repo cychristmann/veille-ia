@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-15-t3.md"
 type: "document"
-community: "Claude"
+community: "Veille Chine 2026-11-21"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Claude
+  - community/Veille_Chine_2026-11-21
 ---
 
 # Veille Chine 2026-11-15 : Finances, valorisation et marché de l’IA
@@ -18,4 +18,4 @@ tags:
 - [[新浪财经 (Sina Finance)]] - `references` [EXTRACTED]
 - [[高毅资产 (High-Flyer Asset Management)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Claude
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-21

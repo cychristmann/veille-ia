@@ -32,12 +32,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Nvidia_1]]
-- 1 edge to [[_COMMUNITY_Google]]
+- 2 edges to [[_COMMUNITY_Nvidia_2]]
 - 1 edge to [[_COMMUNITY_Meta]]
 - 1 edge to [[_COMMUNITY_SpaceX]]
 - 1 edge to [[_COMMUNITY_Microsoft]]
-- 1 edge to [[_COMMUNITY_Elon Musk]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Copilot]]
 
 ## Top bridge nodes
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - degree 9, connects to 5 communities

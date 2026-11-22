@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-16-t1.md"
 type: "concept"
-community: "Veille France 2026-11-16 : Régulation, sécurité et gouvernance"
+community: "Crise des data-centers IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-16__Régulation_sécurité_et_gouvernance
+  - community/Crise_des_data-centers_IA
 ---
 
 # Cybersécurité et IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-16  Régulation, sécurité et gouvernance]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-16__Régulation_sécurité_et_gouvernance
+#graphify/concept #graphify/EXTRACTED #community/Crise_des_data-centers_IA

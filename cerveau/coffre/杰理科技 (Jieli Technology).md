@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t1.md"
 type: "concept"
-community: "AMD"
+community: "T-Head"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AMD
+  - community/T-Head
 ---
 
 # 杰理科技 (Jieli Technology)
@@ -14,4 +14,4 @@ tags:
 - [[JL280NJL380NJL681N]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-10  AI芯片与算力]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AMD
+#graphify/concept #graphify/EXTRACTED #community/T-Head

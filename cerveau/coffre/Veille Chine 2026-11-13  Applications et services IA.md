@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-13-t5.md"
 type: "document"
-community: "Veille France 2026-11-15 : Réflexion et éthique"
+community: "Veille Chine 2026-11-13 : Applications et services IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-15__Réflexion_et_éthique
+  - community/Veille_Chine_2026-11-13__Applications_et_services_IA
 ---
 
 # Veille Chine 2026-11-13 : Applications et services IA
@@ -17,4 +17,4 @@ tags:
 - [[Orphan AI Agents Management]] - `references` [EXTRACTED]
 - [[PPIO OpenDesign]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-15__Réflexion_et_éthique
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-13__Applications_et_services_IA

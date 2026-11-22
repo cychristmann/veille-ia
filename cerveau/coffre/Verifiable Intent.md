@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-17-2.md"
 type: "concept"
-community: "ChatGPT Wallet"
+community: "Veille Outils & code 2026-11-15"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ChatGPT_Wallet
+  - community/Veille_Outils__code_2026-11-15
 ---
 
 # Verifiable Intent
@@ -14,4 +14,4 @@ tags:
 - [[ChatGPT Wallet]] - `conceptually_related_to` [INFERRED]
 - [[Mastercard]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/ChatGPT_Wallet
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-15

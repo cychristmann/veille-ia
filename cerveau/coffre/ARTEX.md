@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-21-t1.md"
+source_file: "veilles/veille-ia-dev-2026-11-15-t5.md"
 type: "concept"
 community: "ARTEX"
 tags:
@@ -11,6 +11,7 @@ tags:
 # ARTEX
 
 ## Connections
+- [[AI Agents]] - `conceptually_related_to` [EXTRACTED]
 - [[Autumn-27]] - `references` [EXTRACTED]
 - [[DeepSeek Flash]] - `references` [EXTRACTED]
 - [[FBI]] - `references` [EXTRACTED]

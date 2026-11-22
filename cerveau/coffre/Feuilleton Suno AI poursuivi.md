@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0002.md"
 type: "document"
-community: "AI Ethics, Security and Regulation"
+community: "Crise des data-centers IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Ethics_Security_and_Regulation
+  - community/Crise_des_data-centers_IA
 ---
 
 # Feuilleton: Suno AI poursuivi
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Suno AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Ethics_Security_and_Regulation
+#graphify/document #graphify/EXTRACTED #community/Crise_des_data-centers_IA

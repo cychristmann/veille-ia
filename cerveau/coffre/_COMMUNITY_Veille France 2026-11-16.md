@@ -25,7 +25,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Apple]]
+- 1 edge to [[_COMMUNITY_Apple_1]]
 
 ## Top bridge nodes
 - [[Veille France 2026-11-16]] - degree 8, connects to 1 community

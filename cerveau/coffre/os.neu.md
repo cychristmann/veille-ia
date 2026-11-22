@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-13-t1.md"
 type: "concept"
-community: "AWS Emulator"
+community: "Cursor"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AWS_Emulator
+  - community/Cursor
 ---
 
 # os.neu
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Outils & code 2026-11-13]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AWS_Emulator
+#graphify/concept #graphify/EXTRACTED #community/Cursor

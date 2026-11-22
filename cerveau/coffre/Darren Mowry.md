@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-19-t4.md"
 type: "concept"
-community: "Elon Musk"
+community: "Copilot"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Elon_Musk
+  - community/Copilot
 ---
 
 # Darren Mowry
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Gemini 4 Neon]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Elon_Musk
+#graphify/concept #graphify/EXTRACTED #community/Copilot

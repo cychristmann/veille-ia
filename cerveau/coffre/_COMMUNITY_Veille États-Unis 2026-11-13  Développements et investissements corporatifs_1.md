@@ -1,35 +1,27 @@
 ---
 type: community
-members: 22
+members: 14
 ---
 
 # Veille États-Unis 2026-11-13 : Développements et investissements corporatifs
 
-**Members:** 22 nodes
+**Members:** 14 nodes
 
 ## Members
-- [[Agents IA]] - concept - veilles/veille-ia-fr-2026-11-18-t2.md
-- [[Amex]] - concept - feuilletons/f-0019.md
-- [[Apollo Research]] - concept - dossiers/2026-11-19-2.md
-- [[Arizona Attorney General]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
-- [[California]] - concept - veilles/veille-ia-us-2026-11-17-t1.md
-- [[Commerce Partner Playbook]] - document - dossiers/2026-11-17-2.md
-- [[Commonwealth Bank of Australia]] - concept - veilles/veille-ia-fr-2026-11-18-t2.md
-- [[Cybersécurité]] - concept - veilles/veille-ia-fr-2026-11-18-t3.md
-- [[Feuilleton OpenAI Legal Issues]] - document - feuilletons/f-0009.md
-- [[Geoffrey Hinton]] - concept - veilles/veille-ia-fr-2026-11-11-t4.md
-- [[Legal Advocates for Science & Technology (LASST)]] - concept - dossiers/2026-11-19-2.md
-- [[Navier-Stokes Problem]] - code - dossiers/2026-11-21-3.md
-- [[OpenAI]] - concept - veilles/veille-ia-dev-2026-11-14-t2.md
-- [[OpenAI Agents]] - concept - feuilletons/f-0009.md
-- [[Oracle]] - code - veilles/veille-ia-us-2026-11-21-t3.md
-- [[Radeon Linux Driver]] - concept - veilles/veille-ia-dev-2026-11-13-t4.md
-- [[Rob Bonta (California Attorney General)]] - concept - dossiers/2026-11-19-2.md
-- [[RubyGems]] - concept - dossiers/2026-11-19-2.md
-- [[Veille France 2026-11-08  Régulation, politique et enjeux sociétaux]] - document - veilles/veille-ia-fr-2026-11-08-t3.md
-- [[Veille France 2026-11-11  Régulation, éthique et risques de l'IA]] - document - veilles/veille-ia-fr-2026-11-11-t4.md
-- [[Veille France 2026-11-18  Régulation, enjeux juridiques et gouvernance]] - document - veilles/veille-ia-fr-2026-11-18-t2.md
-- [[Wikimedia Foundation]] - concept - dossiers/2026-11-19-2.md
+- [[Agences de voyages]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
+- [[Belinda Cannone]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
+- [[CEPD (Comité européen de la protection des données)]] - concept - veilles/veille-ia-fr-2026-11-15-t2.md
+- [[Celles-sur-Ource]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
+- [[Correctrice de textes (Delphine)]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
+- [[Corée du Sud]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
+- [[Dany Peuchot]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
+- [[Dispositif de secours en forêt]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
+- [[Examen des comptables fiscalistes]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
+- [[International Flavors and Fragrances (IFF)]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
+- [[Secteur financier]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
+- [[Singapour]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
+- [[Universités britanniques]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
+- [[Veille France 2026-11-15]] - document - veilles/veille-ia-fr-2026-11-15-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -39,44 +31,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
-- 4 edges to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
-- 2 edges to [[_COMMUNITY_Meta]]
-- 2 edges to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière]]
-- 2 edges to [[_COMMUNITY_GPT-6 Astra_1]]
-- 2 edges to [[_COMMUNITY_ChatGPT Wallet]]
-- 2 edges to [[_COMMUNITY_ChatGPT Wallet_1]]
-- 2 edges to [[_COMMUNITY_Veille Chine 2026-11-17]]
-- 2 edges to [[_COMMUNITY_DeepSeek]]
-- 1 edge to [[_COMMUNITY_Nvidia_1]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
-- 1 edge to [[_COMMUNITY_Elon Musk]]
-- 1 edge to [[_COMMUNITY_Federal Reserve]]
-- 1 edge to [[_COMMUNITY_Microsoft]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-15]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-19  Infrastructure et optimisation IA]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-19  Régulation & Gouvernance IA_1]]
-- 1 edge to [[_COMMUNITY_Apple]]
-- 1 edge to [[_COMMUNITY_Claude]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-12]]
-- 1 edge to [[_COMMUNITY_Cursor_2]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-15  IA industrielle et technologique]]
-- 1 edge to [[_COMMUNITY_Tencent]]
-- 1 edge to [[_COMMUNITY_Feuilleton Compromission massive du Microsoft Agent Framework]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-19  Régulation & Gouvernance IA]]
-- 1 edge to [[_COMMUNITY_Veille IA Dev 2026-11-20 T3]]
-- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets_1]]
-- 1 edge to [[_COMMUNITY_Claude_1]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-19  Autres articles]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-19  Infrastructure et Technologie IA_1]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18_1]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-20_1]]
+- 2 edges to [[_COMMUNITY_Cursor]]
+- 1 edge to [[_COMMUNITY_Apple_1]]
+- 1 edge to [[_COMMUNITY_IBM]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-15_1]]
+- 1 edge to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière]]
+- 1 edge to [[_COMMUNITY_Débats à Saint-Tropez]]
+- 1 edge to [[_COMMUNITY_This Is Unreal (Spectacle)]]
 
 ## Top bridge nodes
-- [[OpenAI]] - degree 61, connects to 33 communities
-- [[Agents IA]] - degree 4, connects to 1 community
-- [[Veille France 2026-11-18  Régulation, enjeux juridiques et gouvernance]] - degree 3, connects to 1 community
-- [[Cybersécurité]] - degree 2, connects to 1 community
-- [[Veille France 2026-11-08  Régulation, politique et enjeux sociétaux]] - degree 2, connects to 1 community
+- [[Veille France 2026-11-15]] - degree 18, connects to 7 communities

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-14-t1.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-14"
+community: "Jensen Huang"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-14
+  - community/Jensen_Huang
 ---
 
 # Claude API
@@ -14,4 +14,4 @@ tags:
 - [[Anthropic]] - `conceptually_related_to` [INFERRED]
 - [[Veille Outils & code 2026-11-14]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-14
+#graphify/concept #graphify/EXTRACTED #community/Jensen_Huang

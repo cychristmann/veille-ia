@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t6.md"
 type: "document"
-community: "Nvidia"
+community: "AI Impact on Finance and Markets"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Nvidia
+  - community/AI_Impact_on_Finance_and_Markets
 ---
 
 # Veille Chine 2026-11-19 : Autres articles
@@ -16,4 +16,4 @@ tags:
 - [[Lenovo AI Servers]] - `references` [EXTRACTED]
 - [[Qwen AI Hardware]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Nvidia
+#graphify/document #graphify/EXTRACTED #community/AI_Impact_on_Finance_and_Markets

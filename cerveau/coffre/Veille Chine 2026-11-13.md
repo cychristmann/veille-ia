@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-13-t6.md"
 type: "document"
-community: "Veille Chine 2026-11-13"
+community: "Meta"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-13
+  - community/Meta
 ---
 
 # Veille Chine 2026-11-13
@@ -29,4 +29,4 @@ tags:
 - [[Unisound]] - `references` [EXTRACTED]
 - [[Zhipu]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-13
+#graphify/document #graphify/EXTRACTED #community/Meta

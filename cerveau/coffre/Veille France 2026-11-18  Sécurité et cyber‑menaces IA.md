@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t3.md"
 type: "document"
-community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
+community: "Veille France 2026-11-20"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+  - community/Veille_France_2026-11-20
 ---
 
 # Veille France 2026-11-18 : Sécurité et cyber‑menaces IA
@@ -15,4 +15,4 @@ tags:
 - [[Google]] - `references` [EXTRACTED]
 - [[Mistral AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-20

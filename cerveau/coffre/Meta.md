@@ -1,9 +1,9 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
-type: "code"
+source_file: "dossiers/2026-11-18-2.md"
+type: "concept"
 community: "Meta"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
   - community/Meta
 ---
@@ -14,6 +14,7 @@ tags:
 - [[AI Cyberattack]] - `conceptually_related_to` [EXTRACTED]
 - [[AI Market Trends]] - `conceptually_related_to` [INFERRED]
 - [[Apple AI Agent]] - `conceptually_related_to` [EXTRACTED]
+- [[Conductor]] - `references` [EXTRACTED]
 - [[Indiana University]] - `references` [EXTRACTED]
 - [[Muse]] - `references` [EXTRACTED]
 - [[Muse AI Agent]] - `references` [EXTRACTED]
@@ -28,5 +29,6 @@ tags:
 - [[Veille États-Unis 2026-11-08]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-09  Nouveaux modèles et avancées technologiques]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-22  Marché, investissements et actions IA]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Meta
+#graphify/concept #graphify/EXTRACTED #community/Meta

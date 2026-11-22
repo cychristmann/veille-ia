@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-18-t5.md"
 type: "document"
-community: "Veille Chine 2026-11-18 : Recherche et modèles"
+community: "Veille États-Unis 2026-11-20 : Autres articles"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-18__Recherche_et_modèles
+  - community/Veille_États-Unis_2026-11-20__Autres_articles
 ---
 
 # Veille Chine 2026-11-18 : Recherche et modèles
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[三星电机与英伟达从基板到MLCC扩大AI零部件同盟]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-18__Recherche_et_modèles
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-20__Autres_articles

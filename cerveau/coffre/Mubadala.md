@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-17-t3.md"
 type: "concept"
-community: "Claude"
+community: "Federal Reserve"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Claude
+  - community/Federal_Reserve
 ---
 
 # Mubadala
@@ -15,4 +15,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-17]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Claude
+#graphify/concept #graphify/EXTRACTED #community/Federal_Reserve

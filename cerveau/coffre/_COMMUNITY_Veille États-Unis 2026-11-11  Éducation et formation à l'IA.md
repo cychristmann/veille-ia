@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille États-Unis 2026-11-11 : Éducation et formation à l'IA
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[GPT-6.1 Sol]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
+- [[Nubia]] - concept - veilles/veille-ia-fr-2026-11-12-t5.md
+- [[Veille France 2026-11-12  Produits grand public et IA générative]] - document - veilles/veille-ia-fr-2026-11-12-t5.md
 
 ## Live Query (requires Dataview plugin)
 

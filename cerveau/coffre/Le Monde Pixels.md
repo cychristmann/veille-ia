@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0027.md"
 type: "concept"
-community: "Le Monde Pixels"
+community: "LLM 0.37.3"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Le_Monde_Pixels
+  - community/LLM_0373
 ---
 
 # Le Monde Pixels
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Ukraine Conflict]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Le_Monde_Pixels
+#graphify/concept #graphify/EXTRACTED #community/LLM_0373

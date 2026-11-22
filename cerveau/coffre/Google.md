@@ -1,9 +1,9 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
-type: "code"
+source_file: "veilles/veille-ia-us-2026-11-22-t4.md"
+type: "concept"
 community: "Google"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
   - community/Google
 ---
@@ -19,7 +19,9 @@ tags:
 - [[Feuilleton f-0030]] - `references` [EXTRACTED]
 - [[Gemini]] - `references` [EXTRACTED]
 - [[Gemini 4 Carbon]] - `references` [EXTRACTED]
+- [[Gemini 4 Neon]] - `references` [EXTRACTED]
 - [[Google AI Plus]] - `references` [INFERRED]
+- [[Google Pixel 11]] - `references` [EXTRACTED]
 - [[IA Cyberattaque]] - `references` [EXTRACTED]
 - [[Mandiant]] - `references` [EXTRACTED]
 - [[Orbital AI Infrastructure]] - `references` [EXTRACTED]
@@ -34,10 +36,12 @@ tags:
 - [[Veille France 2026-11-11]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-18  Sécurité et cyber‑menaces IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-20]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-22]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-08]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-14  Économie, Marchés et Investissements]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-17  Développements technologiques et infrastructure]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-18  Enjeux sociétaux et perception du public]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-22  Applications et outils IA]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Google
+#graphify/concept #graphify/EXTRACTED #community/Google

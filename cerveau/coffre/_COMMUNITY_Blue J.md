@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Odystoria]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
-- [[William Mocaër]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
+- [[Accenture]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
+- [[Qantas]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
 
 ## Live Query (requires Dataview plugin)
 

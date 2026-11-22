@@ -1,19 +1,18 @@
 ---
 type: community
-members: 6
+members: 5
 ---
 
 # Veille France 2026-11-15 : Réflexion et éthique
 
-**Members:** 6 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[CPython Memory Vulnerability]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
-- [[JD.com Double-11 AI Sales]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
-- [[OpenAI Codex Acquisition]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
-- [[Orphan AI Agents Management]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
-- [[PPIO OpenDesign]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
-- [[Veille Chine 2026-11-13  Applications et services IA]] - document - veilles/veille-ia-cn-2026-11-13-t5.md
+- [[Crimson Desert]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
+- [[Pascal Haté]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
+- [[Pearl Abyss]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
+- [[SMARTANCE]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
+- [[Veille France 2026-11-15  Réflexion et éthique]] - document - veilles/veille-ia-fr-2026-11-15-t5.md
 
 ## Live Query (requires Dataview plugin)
 

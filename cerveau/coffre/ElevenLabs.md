@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-17-t3.md"
-type: "concept"
-community: "IBM"
+source_file: "veilles/veille-ia-us-2026-11-17-t3.md"
+type: "code"
+community: "Apple"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
-  - community/IBM
+  - community/Apple
 ---
 
 # ElevenLabs
@@ -14,4 +14,4 @@ tags:
 - [[Veille France 2026-11-17]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-17  Développements technologiques et infrastructure]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/IBM
+#graphify/code #graphify/EXTRACTED #community/Apple

@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[datasette-cluster-map]] - concept - veilles/veille-ia-dev-2026-11-15-t4.md
-- [[datasette-leaflet]] - concept - veilles/veille-ia-dev-2026-11-15-t4.md
+- [[Adyen]] - concept - veilles/veille-ia-fr-2026-11-22-t7.md
+- [[Klarna]] - concept - veilles/veille-ia-fr-2026-11-22-t7.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-14-t5.md"
 type: "document"
-community: "Elon Musk"
+community: "Copilot"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Elon_Musk
+  - community/Copilot
 ---
 
 # Veille Outils & code 2026-11-14 : Gestion et gouvernance du code IA
@@ -14,4 +14,4 @@ tags:
 - [[Copilot]] - `references` [EXTRACTED]
 - [[GitHub Code Scanning]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Elon_Musk
+#graphify/document #graphify/EXTRACTED #community/Copilot

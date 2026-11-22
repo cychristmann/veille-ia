@@ -25,10 +25,10 @@ SORT file.name ASC
 
 ## Connections to other communities
 - 2 edges to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
-- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_Nvidia_2]]
 - 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_Anthropic_1]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs_1]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-21]]
 
 ## Top bridge nodes
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - degree 8, connects to 5 communities

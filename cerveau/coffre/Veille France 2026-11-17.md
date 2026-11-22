@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-17-t1.md"
 type: "document"
-community: "Claude"
+community: "Federal Reserve"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Claude
+  - community/Federal_Reserve
 ---
 
 # Veille France 2026-11-17
@@ -35,4 +35,4 @@ tags:
 - [[Samsung One UI 9.5]] - `references` [EXTRACTED]
 - [[Tencent]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Claude
+#graphify/document #graphify/EXTRACTED #community/Federal_Reserve

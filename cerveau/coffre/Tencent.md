@@ -18,6 +18,7 @@ tags:
 - [[Veille Chine 2026-11-19  Marché, Financement & Valorisation IA]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-20  Finances & Investissements]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-20  Santé & Biotechnologie]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-22  Business, investissements et marché IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-17]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-10  Marché, concurrence et tendances]] - `references` [EXTRACTED]
 - [[Yuanbao AI App]] - `references` [EXTRACTED]

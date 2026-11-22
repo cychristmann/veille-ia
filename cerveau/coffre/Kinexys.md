@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-18-t2.md"
 type: "concept"
-community: "Veille Chine 2026-11-17"
+community: "JPMorgan"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-17
+  - community/JPMorgan
 ---
 
 # Kinexys
@@ -14,4 +14,4 @@ tags:
 - [[JPMorgan]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-18  Financement et marché]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-17
+#graphify/concept #graphify/EXTRACTED #community/JPMorgan

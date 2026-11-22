@@ -1,17 +1,17 @@
 ---
 source_file: "feuilletons/f-0003.md"
 type: "concept"
-community: "Claude"
+community: "AMD"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Claude
+  - community/AMD
 ---
 
 # Mythos 5.2
 
 ## Connections
 - [[Anthropic]] - `references` [EXTRACTED]
-- [[Claude]] - `conceptually_related_to` [INFERRED]
+- [[Claude]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Claude
+#graphify/concept #graphify/EXTRACTED #community/AMD

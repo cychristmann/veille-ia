@@ -35,11 +35,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia_1]]
-- 1 edge to [[_COMMUNITY_Apple]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-20_1]]
+- 1 edge to [[_COMMUNITY_Nvidia_2]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-20_2]]
+- 1 edge to [[_COMMUNITY_Apple_1]]
 - 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
-- 1 edge to [[_COMMUNITY_Claude_1]]
+- 1 edge to [[_COMMUNITY_Federal Reserve]]
 
 ## Top bridge nodes
 - [[Veille France 2026-11-21  Applications industrielles & produits]] - degree 7, connects to 3 communities

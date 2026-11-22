@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-17-t5.md"
 type: "code"
-community: "Veille Outils & code 2026-11-15"
+community: "Dossier: Course à l'IA entre États‑Unis et Chine"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-15
+  - community/Dossier_Course_à_lIA_entre_ÉtatsUnis_et_Chine
 ---
 
 # TCL
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Li Dongsheng]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-15
+#graphify/code #graphify/EXTRACTED #community/Dossier_Course_à_lIA_entre_ÉtatsUnis_et_Chine

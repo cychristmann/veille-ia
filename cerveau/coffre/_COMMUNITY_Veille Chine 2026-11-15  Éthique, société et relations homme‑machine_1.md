@@ -1,18 +1,19 @@
 ---
 type: community
-members: 5
+members: 6
 ---
 
 # Veille Chine 2026-11-15 : Éthique, société et relations homme‑machine
 
-**Members:** 5 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Andrew Garbarino]] - concept - dossiers/2026-11-21-2.md
-- [[Dossier Vers une interdiction des modèles d’IA chinois dans les systèmes fédéraux américains]] - document - dossiers/2026-11-21-2.md
-- [[John Moolenaar]] - concept - dossiers/2026-11-21-2.md
-- [[aa.com.tr]] - document - dossiers/2026-11-21-2.md
-- [[coinacademy.fr]] - document - dossiers/2026-11-21-2.md
+- [[Affaire Thélyson Orélien]] - concept - veilles/veille-ia-fr-2026-11-14-t1.md
+- [[EPFL]] - concept - veilles/veille-ia-fr-2026-11-14-t1.md
+- [[Gods Don't Give Gifts (Film)]] - concept - veilles/veille-ia-fr-2026-11-14-t1.md
+- [[Jean-Paul Charpin]] - concept - veilles/veille-ia-fr-2026-11-14-t1.md
+- [[Sarah El Haïry]] - concept - veilles/veille-ia-fr-2026-11-14-t1.md
+- [[Veille France 2026-11-14  Société, éducation et culture]] - document - veilles/veille-ia-fr-2026-11-14-t1.md
 
 ## Live Query (requires Dataview plugin)
 

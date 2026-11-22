@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t1.md"
 type: "concept"
-community: "Robin Li"
+community: "Meta"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Robin_Li
+  - community/Meta
 ---
 
 # Baidu World 2026
@@ -14,4 +14,4 @@ tags:
 - [[Intelligent Organization (智能组织)]] - `references` [EXTRACTED]
 - [[Robin Li]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Robin_Li
+#graphify/concept #graphify/EXTRACTED #community/Meta

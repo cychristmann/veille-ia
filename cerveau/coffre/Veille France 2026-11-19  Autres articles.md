@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-19-t6.md"
 type: "document"
-community: "Veille France 2026-11-19 : Autres articles"
+community: "Veille France 2026-11-16 : Applications sectorielles et industrielles"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-19__Autres_articles
+  - community/Veille_France_2026-11-16__Applications_sectorielles_et_industrielles
 ---
 
 # Veille France 2026-11-19 : Autres articles
@@ -17,4 +17,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Réglementation de l'IA]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-19__Autres_articles
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-16__Applications_sectorielles_et_industrielles

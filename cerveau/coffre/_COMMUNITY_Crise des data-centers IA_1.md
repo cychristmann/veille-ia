@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Crise des data-centers IA
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Crise des data-centers IA]] - concept - feuilletons/f-0024.md
-- [[Feuilleton Effondrement du boom IA et crise des data-centers]] - document - feuilletons/f-0024.md
+- [[Arnaques à l’IA]] - concept - veilles/veille-ia-fr-2026-11-16-t1.md
+- [[Cybersécurité et IA]] - concept - veilles/veille-ia-fr-2026-11-16-t1.md
+- [[Veille France 2026-11-16  Régulation, sécurité et gouvernance]] - document - veilles/veille-ia-fr-2026-11-16-t1.md
 
 ## Live Query (requires Dataview plugin)
 

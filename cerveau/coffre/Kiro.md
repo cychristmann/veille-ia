@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-13-t6.md"
 type: "code"
-community: "Alibaba"
+community: "Claude Meetings"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Alibaba
+  - community/Claude_Meetings
 ---
 
 # Kiro
@@ -14,4 +14,4 @@ tags:
 - [[Grok]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-13 (T6)]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Alibaba
+#graphify/code #graphify/EXTRACTED #community/Claude_Meetings

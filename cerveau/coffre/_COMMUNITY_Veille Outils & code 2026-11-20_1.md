@@ -1,20 +1,25 @@
 ---
 type: community
-members: 7
+members: 12
 ---
 
 # Veille Outils & code 2026-11-20
 
-**Members:** 7 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[BioMap]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[Jilin Province]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[SeedRealtime 1.0]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[Veille Chine 2026-11-19  Applications industrielles]] - document - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[Volcano Engine]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[Yuewen]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[ZTE]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
+- [[Agent Gateways]] - concept - veilles/veille-ia-dev-2026-11-20-t1.md
+- [[CyberSecurityNews]] - concept - feuilletons/f-0032.md
+- [[Feuilleton Compromission massive du Microsoft Agent Framework]] - document - feuilletons/f-0032.md
+- [[Kimi Code]] - concept - veilles/veille-ia-dev-2026-11-20-t2.md
+- [[Microsoft Agent Framework]] - concept - veilles/veille-ia-dev-2026-11-20-t1.md
+- [[OX Security]] - concept - feuilletons/f-0032.md
+- [[Perplexity Orchestrator API]] - concept - veilles/veille-ia-dev-2026-11-20-t1.md
+- [[The Hacker News]] - concept - feuilletons/f-0032.md
+- [[The New Stack]] - concept - feuilletons/f-0032.md
+- [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - document - veilles/veille-ia-dev-2026-11-18-t3.md
+- [[Veille Outils & code 2026-11-20]] - document - veilles/veille-ia-dev-2026-11-20-t2.md
+- [[wiz.io]] - concept - feuilletons/f-0032.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,3 +27,21 @@ members: 7
 TABLE source_file, type FROM #community/Veille_Outils__code_2026-11-20
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 3 edges to [[_COMMUNITY_Nvidia_1]]
+- 3 edges to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
+- 2 edges to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_Copilot]]
+- 1 edge to [[_COMMUNITY_Cursor_1]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-19  Infrastructure et optimisation IA_1]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-19  Infrastructure et Technologie IA]]
+- 1 edge to [[_COMMUNITY_Amazon Bedrock AgentCore]]
+
+## Top bridge nodes
+- [[Veille Outils & code 2026-11-20]] - degree 11, connects to 5 communities
+- [[Perplexity Orchestrator API]] - degree 5, connects to 4 communities
+- [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - degree 4, connects to 3 communities
+- [[Microsoft Agent Framework]] - degree 4, connects to 1 community

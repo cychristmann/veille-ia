@@ -12,6 +12,7 @@ tags:
 
 ## Connections
 - [[AI Overwatch Act]] - `references` [EXTRACTED]
+- [[Amazon]] - `references` [EXTRACTED]
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Baird]] - `references` [EXTRACTED]
 - [[Blackwell]] - `references` [EXTRACTED]
@@ -22,6 +23,7 @@ tags:
 - [[Colette Kress]] - `references` [EXTRACTED]
 - [[CoreWeave]] - `conceptually_related_to` [INFERRED]
 - [[DGX Spark]] - `references` [EXTRACTED]
+- [[David Tepper]] - `references` [EXTRACTED]
 - [[DeepSeek]] - `conceptually_related_to` [INFERRED]
 - [[Dell]] - `conceptually_related_to` [EXTRACTED]
 - [[Donald Trump]] - `references` [EXTRACTED]
@@ -84,6 +86,7 @@ tags:
 - [[Veille France 2026-11-17]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-21  Applications industrielles & produits]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-21  Marchés & finance]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-22  Marchés et finance]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-09 (Sécurité)]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-09  Autres articles]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-09  Déploiements et stratégies d’entreprise]] - `references` [EXTRACTED]
@@ -97,6 +100,7 @@ tags:
 - [[Veille États-Unis 2026-11-18]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-19  Infrastructure et matériel]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-20  Marché et finance de l'IA]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-22  Infrastructure et matériel IA]] - `references` [EXTRACTED]
 - [[Wall Street]] - `references` [EXTRACTED]
 - [[États-Unis]] - `references` [EXTRACTED]
 

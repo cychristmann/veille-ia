@@ -1,15 +1,24 @@
 ---
 type: community
-members: 2
+members: 11
 ---
 
 # Veille France 2026-11-21 : Autres articles
 
-**Members:** 2 nodes
+**Members:** 11 nodes
 
 ## Members
-- [[Veille France 2026-11-21  Autres articles]] - document - veilles/veille-ia-fr-2026-11-21-t6.md
-- [[Volatilité du marché liée à l'IA]] - concept - veilles/veille-ia-fr-2026-11-21-t6.md
+- [[Après l’euphorie, la course à l’IA se heurte déjà aux limites de son modèle économique]] - document - dossiers/2026-11-15-2.md
+- [[Boom de l'intelligence artificielle]] - concept - dossiers/2026-11-15-2.md
+- [[Data-centers]] - concept - dossiers/2026-11-15-2.md
+- [[Dossier  Effondrement du boom IA et crise des data-centers]] - document - dossiers/2026-11-15-2.md
+- [[Empreinte environnementale]] - concept - dossiers/2026-11-15-2.md
+- [[Géants technologiques (Alphabet, Amazon, Microsoft, Meta)]] - concept - dossiers/2026-11-15-2.md
+- [[Investissements dans l’IA  jusqu’où ira l’euphorie mondiale avant le coup de frein]] - document - dossiers/2026-11-15-2.md
+- [[L’empreinte environnementale de l’IA pourrait être multipliée par 7 d’ici 2030]] - document - dossiers/2026-11-15-2.md
+- [[OPINION. « L'énergie pour les data centers de l'IA, atout stratégique ou mirage  »]] - document - dossiers/2026-11-15-2.md
+- [[Risque macroéconomique]] - concept - dossiers/2026-11-15-2.md
+- [[Un coup d'arrêt de l'IA aurait des répercussions bien au-delà des Etats-Unis]] - document - dossiers/2026-11-15-2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -17,10 +26,3 @@ members: 2
 TABLE source_file, type FROM #community/Veille_France_2026-11-21__Autres_articles
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
-- 1 edge to [[_COMMUNITY_Microsoft]]
-
-## Top bridge nodes
-- [[Veille France 2026-11-21  Autres articles]] - degree 3, connects to 2 communities

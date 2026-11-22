@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-21-3.md"
 type: "code"
-community: "Veille États-Unis 2026-11-13 : Développements et investissements corporatifs"
+community: "Anthropic"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+  - community/Anthropic
 ---
 
 # Navier-Stokes Problem
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+#graphify/code #graphify/EXTRACTED #community/Anthropic

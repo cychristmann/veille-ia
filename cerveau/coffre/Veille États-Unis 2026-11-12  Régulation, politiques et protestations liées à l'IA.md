@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t2.md"
 type: "document"
-community: "AI Agents"
+community: "Tencent"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Agents
+  - community/Tencent
 ---
 
 # Veille États-Unis 2026-11-12 : Régulation, politiques et protestations liées à l'IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AI Agents]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Agents
+#graphify/document #graphify/EXTRACTED #community/Tencent

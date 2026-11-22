@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Le Monde Informatique]] - document - dossiers/2026-11-20-2.md
+- [[Industrie de l'IA]] - concept - feuilletons/f-0001.md
 
 ## Live Query (requires Dataview plugin)
 

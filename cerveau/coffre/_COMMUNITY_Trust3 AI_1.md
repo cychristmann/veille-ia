@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Trust3 AI
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[AWS Budgets]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
-- [[IAM]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
+- [[Academic Misconduct]] - concept - veilles/veille-ia-cn-2026-11-19-t4.md
+- [[Central South University]] - concept - veilles/veille-ia-cn-2026-11-19-t4.md
+- [[Veille Chine 2026-11-19  Recherche et Éthique]] - document - veilles/veille-ia-cn-2026-11-19-t4.md
 
 ## Live Query (requires Dataview plugin)
 

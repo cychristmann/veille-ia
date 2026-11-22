@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-11-t2.md"
+source_file: "veilles/veille-ia-fr-2026-11-11-t1.md"
 type: "document"
-community: "AI Impact on Finance and Markets"
+community: "Elon Musk"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Impact_on_Finance_and_Markets
+  - community/Elon_Musk
 ---
 
 # Veille France 2026-11-11
@@ -19,4 +19,4 @@ tags:
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Impact_on_Finance_and_Markets
+#graphify/document #graphify/EXTRACTED #community/Elon_Musk

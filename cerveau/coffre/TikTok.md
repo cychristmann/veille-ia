@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-20-t2.md"
+source_file: "veilles/veille-ia-fr-2026-11-20-t4.md"
 type: "concept"
 community: "Veille France 2026-11-20"
 tags:

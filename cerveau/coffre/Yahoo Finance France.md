@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0007.md"
 type: "concept"
-community: "AMD"
+community: "T-Head"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AMD
+  - community/T-Head
 ---
 
 # Yahoo Finance France
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Infineon]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AMD
+#graphify/concept #graphify/EXTRACTED #community/T-Head

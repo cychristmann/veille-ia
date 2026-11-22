@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t1.md"
 type: "concept"
-community: "AI Impact on Finance and Markets"
+community: "Elon Musk"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/AI_Impact_on_Finance_and_Markets
+  - community/Elon_Musk
 ---
 
 # Seagate
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[CoreWeave]] - `shares_data_with` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/AI_Impact_on_Finance_and_Markets
+#graphify/concept #graphify/INFERRED #community/Elon_Musk

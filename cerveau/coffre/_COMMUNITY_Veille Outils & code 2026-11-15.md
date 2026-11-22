@@ -1,23 +1,22 @@
 ---
 type: community
-members: 10
+members: 9
 ---
 
 # Veille Outils & code 2026-11-15
 
-**Members:** 10 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[APEC]] - concept - veilles/veille-ia-cn-2026-11-17-t5.md
-- [[Barclays Research]] - concept - dossiers/2026-11-13-2.md
-- [[Chinese Robotics Industry]] - concept - dossiers/2026-11-13-2.md
-- [[Fitch Ratings (惠誉)]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
-- [[Korean Financial Supervisory Service (韩国金融监督院)]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
-- [[Li Dongsheng]] - code - veilles/veille-ia-cn-2026-11-17-t5.md
-- [[Morgan Stanley]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
-- [[Sinch]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
-- [[TCL]] - code - veilles/veille-ia-cn-2026-11-17-t5.md
-- [[Veille Chine 2026-11-19  Régulation & Gouvernance IA]] - document - veilles/veille-ia-cn-2026-11-19-t1.md
+- [[Centre de défense IA à Rennes]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Enquête Malaisie sur filiale MegaspeedNvidia]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Mission Capgemini sur les risques cyber de l'IA]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Modèle économique IA d'Apple]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Politiques IA aux États-Unis]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Régulation IA en Australie]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Sommet inédit de l'UE sur l'IA]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Veille France 2026-11-13]] - document - veilles/veille-ia-fr-2026-11-13-t1.md
+- [[xFusion]] - concept - veilles/veille-ia-fr-2026-11-13-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -27,9 +26,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets_1]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs_1]]
+- 1 edge to [[_COMMUNITY_Nvidia_2]]
+- 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_Feuilleton Compromission massive du Microsoft Agent Framework]]
 
 ## Top bridge nodes
-- [[Veille Chine 2026-11-19  Régulation & Gouvernance IA]] - degree 6, connects to 1 community
-- [[Morgan Stanley]] - degree 3, connects to 1 community
+- [[Veille France 2026-11-13]] - degree 11, connects to 3 communities

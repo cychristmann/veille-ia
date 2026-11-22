@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-18-t3.md"
 type: "document"
-community: "Anthropic"
+community: "Veille Chine 2026-11-21"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Anthropic
+  - community/Veille_Chine_2026-11-21
 ---
 
 # Veille Chine 2026-11-18 : Applications sectorielles
@@ -15,4 +15,4 @@ tags:
 - [[Robo.ai]] - `references` [EXTRACTED]
 - [[中能拾贝]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Anthropic
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-21

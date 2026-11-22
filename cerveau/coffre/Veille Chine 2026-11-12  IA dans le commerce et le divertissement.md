@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t3.md"
 type: "document"
-community: "Veille Chine 2026-11-13"
+community: "Meta"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-13
+  - community/Meta
 ---
 
 # Veille Chine 2026-11-12 : IA dans le commerce et le divertissement
@@ -19,4 +19,4 @@ tags:
 - [[息壤杯]] - `references` [EXTRACTED]
 - [[绿地南昌卢塞恩OPC社区]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-13
+#graphify/document #graphify/EXTRACTED #community/Meta

@@ -1,20 +1,21 @@
 ---
 type: community
-members: 7
+members: 8
 ---
 
 # Veille France 2026-11-20
 
-**Members:** 7 nodes
+**Members:** 8 nodes
 
 ## Members
-- [[Emi]] - concept - veilles/veille-ia-fr-2026-11-20-t2.md
-- [[TikTok]] - concept - veilles/veille-ia-fr-2026-11-20-t2.md
-- [[UTBM]] - concept - veilles/veille-ia-fr-2026-11-20-t4.md
-- [[Veille France 2026-11-20]] - document - veilles/veille-ia-fr-2026-11-20-t2.md
-- [[Veille France 2026-11-20  Applications sociétales et culturelles de l’IA]] - document - veilles/veille-ia-fr-2026-11-20-t4.md
-- [[Zevra]] - concept - veilles/veille-ia-fr-2026-11-20-t2.md
-- [[École supérieure d’art de Lorraine (Metz)]] - concept - veilles/veille-ia-fr-2026-11-20-t4.md
+- [[Digital Wellness Lab]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
+- [[Gallup]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
+- [[Mistral AI]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
+- [[Rejouis]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
+- [[Veille France 2026-11-10  Sécurité, risques et éthique]] - document - veilles/veille-ia-fr-2026-11-10-t5.md
+- [[Veille France 2026-11-11  Autres articles]] - document - veilles/veille-ia-fr-2026-11-11-t5.md
+- [[Veille France 2026-11-18 (T4)]] - document - veilles/veille-ia-fr-2026-11-18-t4.md
+- [[Veille France 2026-11-18  Sécurité et cyber‑menaces IA]] - document - veilles/veille-ia-fr-2026-11-18-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,14 +25,17 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
+- 1 edge to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_Nvidia_2]]
+- 1 edge to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière]]
+- 1 edge to [[_COMMUNITY_Cursor]]
+- 1 edge to [[_COMMUNITY_Apple_1]]
 - 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Meta]]
-- 1 edge to [[_COMMUNITY_Tencent]]
-- 1 edge to [[_COMMUNITY_Apple]]
-- 1 edge to [[_COMMUNITY_Claude]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs_1]]
+- 1 edge to [[_COMMUNITY_AI Transparency Initiative]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-22  Applications grand public]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-20]] - degree 9, connects to 6 communities
-- [[Veille France 2026-11-20  Applications sociétales et culturelles de l’IA]] - degree 4, connects to 1 community
+- [[Mistral AI]] - degree 7, connects to 3 communities
+- [[Veille France 2026-11-10  Sécurité, risques et éthique]] - degree 3, connects to 2 communities
+- [[Veille France 2026-11-18  Sécurité et cyber‑menaces IA]] - degree 3, connects to 2 communities
+- [[Veille France 2026-11-11  Autres articles]] - degree 2, connects to 1 community

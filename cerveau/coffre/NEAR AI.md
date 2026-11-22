@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t6.md"
 type: "concept"
-community: "Veille Chine 2026-11-16"
+community: "Veille Outils & code 2026-11-17 (T4)"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-16
+  - community/Veille_Outils__code_2026-11-17_T4
 ---
 
 # NEAR AI
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-09  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-16
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-17_T4

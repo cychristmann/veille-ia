@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-20-3.md"
 type: "concept"
-community: "Veille France 2026-11-15"
+community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-15
+  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
 ---
 
 # RFI
@@ -14,4 +14,4 @@ tags:
 - [[Anthropic IPO]] - `references` [EXTRACTED]
 - [[Australia AI Regulator]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-15
+#graphify/concept #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière

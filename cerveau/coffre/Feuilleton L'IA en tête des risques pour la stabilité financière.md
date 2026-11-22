@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0021.md"
 type: "document"
-community: "Federal Reserve"
+community: "Veille Chine 2026-11-13"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Federal_Reserve
+  - community/Veille_Chine_2026-11-13
 ---
 
 # Feuilleton: L'IA en tête des risques pour la stabilité financière
@@ -14,4 +14,4 @@ tags:
 - [[Federal Reserve]] - `references` [EXTRACTED]
 - [[Feng Runhuan]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Federal_Reserve
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-13

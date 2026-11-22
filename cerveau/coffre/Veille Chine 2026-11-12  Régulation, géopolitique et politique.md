@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t4.md"
 type: "document"
-community: "Veille Chine 2026-11-12 : Régulation, géopolitique et politique"
+community: "Wuhan University of Science and Technology"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-12__Régulation_géopolitique_et_politique
+  - community/Wuhan_University_of_Science_and_Technology
 ---
 
 # Veille Chine 2026-11-12 : Régulation, géopolitique et politique
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[中信证券]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__Régulation_géopolitique_et_politique
+#graphify/document #graphify/EXTRACTED #community/Wuhan_University_of_Science_and_Technology

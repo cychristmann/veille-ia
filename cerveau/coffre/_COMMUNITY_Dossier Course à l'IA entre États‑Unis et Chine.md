@@ -1,19 +1,23 @@
 ---
 type: community
-members: 6
+members: 10
 ---
 
 # Dossier: Course à l'IA entre États‑Unis et Chine
 
-**Members:** 6 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[Demis Hassabis]] - concept - dossiers/2026-11-12-3.md
-- [[Dossier Course à l'IA entre États‑Unis et Chine]] - document - dossiers/2026-11-12-3.md
-- [[Eric Schmidt]] - concept - dossiers/2026-11-12-3.md
-- [[Eric Schmidt says gap between China and US in AI is now negligible]] - document - dossiers/2026-11-12-3.md
-- [[Institute for Progress]] - concept - dossiers/2026-11-12-3.md
-- [[Nvidia, Chinese Espionage, and the AI Race Foreign Policy Issues to Watch]] - document - dossiers/2026-11-12-3.md
+- [[APEC]] - concept - veilles/veille-ia-cn-2026-11-17-t5.md
+- [[Barclays Research]] - concept - dossiers/2026-11-13-2.md
+- [[Chinese Robotics Industry]] - concept - dossiers/2026-11-13-2.md
+- [[Fitch Ratings (惠誉)]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
+- [[Korean Financial Supervisory Service (韩国金融监督院)]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
+- [[Li Dongsheng]] - code - veilles/veille-ia-cn-2026-11-17-t5.md
+- [[Morgan Stanley]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
+- [[Sinch]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
+- [[TCL]] - code - veilles/veille-ia-cn-2026-11-17-t5.md
+- [[Veille Chine 2026-11-19  Régulation & Gouvernance IA]] - document - veilles/veille-ia-cn-2026-11-19-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,7 +27,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_SpaceX]]
 
 ## Top bridge nodes
-- [[Dossier Course à l'IA entre États‑Unis et Chine]] - degree 6, connects to 1 community
+- [[Veille Chine 2026-11-19  Régulation & Gouvernance IA]] - degree 6, connects to 1 community
+- [[Morgan Stanley]] - degree 3, connects to 1 community

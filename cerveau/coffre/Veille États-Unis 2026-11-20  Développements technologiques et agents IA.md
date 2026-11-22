@@ -11,7 +11,7 @@ tags:
 # Veille États-Unis 2026-11-20 : Développements technologiques et agents IA
 
 ## Connections
-- [[AI Agents and Technological Development]] - `conceptually_related_to` [EXTRACTED]
+- [[AI Agents]] - `conceptually_related_to` [EXTRACTED]
 - [[Apple AI Agent]] - `references` [EXTRACTED]
 - [[Gemini]] - `references` [EXTRACTED]
 

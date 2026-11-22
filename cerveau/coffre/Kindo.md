@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-16-t4.md"
 type: "concept"
-community: "Edge0-145B"
+community: "Trust3 AI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Edge0-145B
+  - community/Trust3_AI
 ---
 
 # Kindo
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Outils & code 2026-11-16  Plateformes, marchés et produits IA]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Edge0-145B
+#graphify/concept #graphify/EXTRACTED #community/Trust3_AI

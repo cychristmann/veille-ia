@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Education Week AI Coverage]] - concept - veilles/veille-ia-us-2026-11-16-t3.md
+- [[Arcade]] - concept - veilles/veille-ia-dev-2026-11-19-t1.md
 
 ## Live Query (requires Dataview plugin)
 

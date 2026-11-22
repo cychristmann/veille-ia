@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-17-t5.md"
 type: "document"
-community: "Veille Chine 2026-11-19 : Régulation & Gouvernance IA"
+community: "Alibaba"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-19__Régulation__Gouvernance_IA
+  - community/Alibaba
 ---
 
 # Veille États-Unis 2026-11-17 : Autres articles
@@ -21,4 +21,4 @@ tags:
 - [[The Korea Herald]] - `cites` [EXTRACTED]
 - [[shattered.io]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-19__Régulation__Gouvernance_IA
+#graphify/document #graphify/EXTRACTED #community/Alibaba

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t1.md"
 type: "document"
-community: "AMD"
+community: "T-Head"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AMD
+  - community/T-Head
 ---
 
 # Veille Chine 2026-11-10 : AI芯片与算力
@@ -15,4 +15,4 @@ tags:
 - [[T-Head]] - `references` [EXTRACTED]
 - [[杰理科技 (Jieli Technology)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AMD
+#graphify/document #graphify/EXTRACTED #community/T-Head

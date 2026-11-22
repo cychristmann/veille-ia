@@ -1,23 +1,29 @@
 ---
 type: community
-members: 10
+members: 16
 ---
 
 # Apple
 
-**Members:** 10 nodes
+**Members:** 16 nodes
 
 ## Members
-- [[Apple]] - concept - veilles/veille-ia-fr-2026-11-16-t6.md
-- [[Apple AI Agent]] - concept - dossiers/2026-11-20-1.md
-- [[Feuilleton Apple AI Agent]] - document - feuilletons/f-0035.md
-- [[Google Assistant]] - concept - dossiers/2026-11-20-1.md
-- [[Harbor]] - concept - veilles/veille-ia-fr-2026-11-11-t2.md
-- [[HomeView 27.2.1]] - concept - veilles/veille-ia-fr-2026-11-21-t4.md
-- [[Logic Pro]] - code - veilles/veille-ia-fr-2026-11-09-t2.md
-- [[Siri AI]] - concept - veilles/veille-ia-fr-2026-11-08-t1.md
-- [[Veille France 2026-11-08  Stratégies d'entreprises et investissements IA]] - document - veilles/veille-ia-fr-2026-11-08-t1.md
-- [[macOS]] - concept - dossiers/2026-11-20-1.md
+- [[18 Jobs ‘A Recession Can’t Kill & Artificial Intelligence Can’t Take’]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[A Layman Thinks About AI]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[AI roadmap for ecology foundation models, Nov 2026]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Barzilay and Collins Win the 2026 Pritzker Prize for AI in Science Research Excellence]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[CEO Talks Rémy Baume on Using Customer Insights and AI to Drive Growth at Printemps]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Future of AI brain models sparks debate]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[How AI Security Models Are Redefining Banking Resilience]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Human Performance and AI in Sports Analytics Minor Combines Practical Skills with Data Analysis]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Japan's Atlas raises $626K for relationship-building AI]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[LightSite AI Reports Gaps in Website Answers to AI Agent Requests]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Meta Expands Instagram AI Age Checks Worldwide]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Meta's AI Bot Won’t Revolutionize Your Finances]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Microsoft's $5,899 AI Laptop Is Here, and You Should Absolutely Not Buy It]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[PODCAST Anthropic heads for the ultimate AI benchmark]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[US and China are failing the same AI race, only differently]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Veille États-Unis 2026-11-12]] - document - veilles/veille-ia-us-2026-11-12-t7.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,27 +31,3 @@ members: 10
 TABLE source_file, type FROM #community/Apple
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 2 edges to [[_COMMUNITY_Nvidia_1]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Meta]]
-- 1 edge to [[_COMMUNITY_Goldman Sachs]]
-- 1 edge to [[_COMMUNITY_Claude]]
-- 1 edge to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière]]
-- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets_1]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-16]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
-- 1 edge to [[_COMMUNITY_IBM]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-15]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-20_1]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
-- 1 edge to [[_COMMUNITY_Microsoft]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs_1]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-19  Infrastructure et optimisation IA]]
-- 1 edge to [[_COMMUNITY_Veille IA Dev 2026-11-20 T3]]
-
-## Top bridge nodes
-- [[Apple]] - degree 17, connects to 10 communities
-- [[Apple AI Agent]] - degree 9, connects to 5 communities
-- [[Veille France 2026-11-08  Stratégies d'entreprises et investissements IA]] - degree 4, connects to 3 communities

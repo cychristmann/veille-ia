@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Edelbyte
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[248 Ventures]] - concept - dossiers/2026-11-16-2.md
+- [[Bland]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[Tofu-1]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-13-t5.md"
-type: "code"
-community: "Veille Outils & code 2026-11-13 (T5)"
+source_file: "veilles/veille-ia-dev-2026-11-12-t6.md"
+type: "concept"
+community: "Veille France 2026-11-16"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-13_T5
+  - community/Veille_France_2026-11-16
 ---
 
 # LLMON
@@ -15,4 +15,4 @@ tags:
 - [[Veille Outils & code 2026-11-12  Outils et frameworks divers]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-13 (T5)]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-13_T5
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-16

@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille États-Unis 2026-11-13 : Autres articles
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Veille États-Unis 2026-11-13  Autres articles]] - document - veilles/veille-ia-us-2026-11-13-t5.md
+- [[Agent Client Protocol (ACP)]] - concept - veilles/veille-ia-dev-2026-11-20-t2.md
+- [[Symposium]] - concept - veilles/veille-ia-dev-2026-11-20-t2.md
 
 ## Live Query (requires Dataview plugin)
 

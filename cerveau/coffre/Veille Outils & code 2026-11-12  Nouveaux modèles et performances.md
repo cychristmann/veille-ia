@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-12-t5.md"
 type: "document"
-community: "Veille Chine 2026-11-11 : Marchés et investissements"
+community: "Amazon Bedrock AgentCore"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-11__Marchés_et_investissements
+  - community/Amazon_Bedrock_AgentCore
 ---
 
 # Veille Outils & code 2026-11-12 : Nouveaux modèles et performances
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Gemini Decisions API]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-11__Marchés_et_investissements
+#graphify/document #graphify/EXTRACTED #community/Amazon_Bedrock_AgentCore

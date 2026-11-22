@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-21-t1.md"
+source_file: "veilles/veille-ia-dev-2026-11-12-t1.md"
 type: "concept"
-community: "Veille Chine 2026-11-19 : Régulation & Gouvernance IA"
+community: "Nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-19__Régulation__Gouvernance_IA
+  - community/Nvidia
 ---
 
 # Codex
@@ -19,4 +19,4 @@ tags:
 - [[Veille Outils & code 2026-11-19  Autres articles]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-20]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-19__Régulation__Gouvernance_IA
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

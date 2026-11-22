@@ -435,7 +435,7 @@
    "id": "2026-11-19-1",
    "date": "2026-11-19",
    "echeance": "2026-11-22",
-   "statut": "en_cours",
+   "statut": "perdu",
    "entite": "Claude",
    "sections": [
     "dev"
@@ -447,7 +447,9 @@
    "enonce": "Claude : au moins 30 articles (Outils & code) sur les 3 prochains jours",
    "raisonnement": "Claude a montré une forte hausse récente (38 articles en 4 jours) et les outils continuent d'être très couverts.",
    "phrase_ia": "Claude sera cité dans au moins 30 articles Outils & code sur les 3 prochains jours.",
-   "rejoue": false
+   "rejoue": false,
+   "observe": 23,
+   "resolu_le": "2026-11-22"
   },
   {
    "id": "2026-11-20-1",
@@ -473,7 +475,7 @@
    "id": "2026-11-20-2",
    "date": "2026-11-20",
    "echeance": "2026-11-22",
-   "statut": "en_cours",
+   "statut": "gagne",
    "entite": "Claude Code",
    "sections": [
     "dev"
@@ -486,7 +488,9 @@
    "raisonnement": "Le nombre quotidien d'articles dev pour Claude Code a oscillé entre 8 et 12, mais aucune poussée récente ; une petite baisse sous 10 est raisonnable.",
    "phrase_ia": "Claude Code sera cité dans au plus 10 articles (Outils & code) au cours des deux prochains jours.",
    "rejoue": false,
-   "probabilite_ia": 0.71
+   "probabilite_ia": 0.71,
+   "observe": 6,
+   "resolu_le": "2026-11-22"
   },
   {
    "id": "2026-11-20-3",
@@ -565,6 +569,64 @@
    "phrase_ia": "Jensen Huang sera mentionné dans au moins 5 articles France et États‑Unis sur les 3 prochains jours.",
    "rejoue": false,
    "probabilite_ia": 0.59
+  },
+  {
+   "id": "2026-11-22-1",
+   "date": "2026-11-22",
+   "echeance": "2026-11-24",
+   "statut": "en_cours",
+   "entite": "Claude",
+   "sections": [
+    "dev"
+   ],
+   "comparaison": "au_plus",
+   "seuil": 12,
+   "horizon": 2,
+   "probabilite": 0.52,
+   "enonce": "Claude : au plus 12 articles (Outils & code) sur les 2 prochains jours",
+   "raisonnement": "Les 7‑jours précédents montrent 65 articles dev, soit ≈9,3/jour ; une baisse légère est plausible.",
+   "phrase_ia": "Claude sera mentionné dans au plus 12 articles Outils & code au cours des deux prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.58
+  },
+  {
+   "id": "2026-11-22-2",
+   "date": "2026-11-22",
+   "echeance": "2026-11-25",
+   "statut": "en_cours",
+   "entite": "Nvidia",
+   "sections": [
+    "us",
+    "fr"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 22,
+   "horizon": 3,
+   "probabilite": 0.55,
+   "enonce": "Nvidia : au moins 22 articles (États-Unis et France) sur les 3 prochains jours",
+   "raisonnement": "Les totaux récents (fr+us) sont 37 sur 7 j, soit ≈5,3/jour ; une hausse soutenue autour de 7‑8/jour rend 22 plausible.",
+   "phrase_ia": "Nvidia sera cité dans au moins 22 articles France et États‑Unis au cours des trois prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.66
+  },
+  {
+   "id": "2026-11-22-3",
+   "date": "2026-11-22",
+   "echeance": "2026-11-26",
+   "statut": "en_cours",
+   "entite": "Agents IA",
+   "sections": [
+    "cn"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 9,
+   "horizon": 4,
+   "probabilite": 0.53,
+   "enonce": "Agents IA : au moins 9 articles (Chine) sur les 4 prochains jours",
+   "raisonnement": "En Chine, les 7 j précédents comptent 6+14+6 = 26 articles, moyenne ≈3,7/jour ; une légère hausse vers 4‑5/jour donne 9 sur 4 j.",
+   "phrase_ia": "Agents IA sera mentionné dans au moins 9 articles Chine au cours des quatre prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.61
   }
  ]
 }

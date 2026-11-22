@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Deletion Tuning]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
-- [[New York University]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
+- [[OpenAI Foundation]] - concept - veilles/veille-ia-us-2026-11-15-t5.md
+- [[Veille États-Unis 2026-11-15  Régulation, sécurité et éthique de l'IA]] - document - veilles/veille-ia-us-2026-11-15-t5.md
 
 ## Live Query (requires Dataview plugin)
 

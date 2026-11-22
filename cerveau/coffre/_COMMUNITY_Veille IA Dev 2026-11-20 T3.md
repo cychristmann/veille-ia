@@ -1,14 +1,13 @@
 ---
 type: community
-members: 7
+members: 6
 ---
 
 # Veille IA Dev 2026-11-20 T3
 
-**Members:** 7 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[AI Agents and Technological Development]] - concept - veilles/veille-ia-us-2026-11-20-t4.md
 - [[Amazon SageMaker]] - concept - veilles/veille-ia-dev-2026-11-20-t3.md
 - [[Gemini]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
 - [[Ploy AI Gateway]] - concept - veilles/veille-ia-dev-2026-11-20-t3.md
@@ -24,11 +23,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
+- 1 edge to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_AMD_1]]
 - 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs_1]]
-- 1 edge to [[_COMMUNITY_Apple]]
+- 1 edge to [[_COMMUNITY_Apple_1]]
+- 1 edge to [[_COMMUNITY_Tencent_1]]
 
 ## Top bridge nodes
+- [[Gemini]] - degree 4, connects to 2 communities
+- [[Veille États-Unis 2026-11-20  Développements technologiques et agents IA]] - degree 3, connects to 2 communities
 - [[Veille IA Dev 2026-11-20 T3]] - degree 5, connects to 1 community
-- [[Gemini]] - degree 3, connects to 1 community
-- [[Veille États-Unis 2026-11-20  Développements technologiques et agents IA]] - degree 3, connects to 1 community

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t7.md"
 type: "document"
-community: "Veille Chine 2026-11-19 : Infrastructure et Technologie IA"
+community: "Apple"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA
+  - community/Apple
 ---
 
 # Veille États-Unis 2026-11-12
@@ -27,4 +27,4 @@ tags:
 - [[PODCAST Anthropic heads for the ultimate AI benchmark]] - `cites` [EXTRACTED]
 - [[US and China are failing the same AI race, only differently]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA
+#graphify/document #graphify/EXTRACTED #community/Apple

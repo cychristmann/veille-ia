@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0013.md"
 type: "concept"
-community: "Veille Chine 2026-11-19 : Infrastructure et Technologie IA"
+community: "AI Impact on Finance and Markets"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA
+  - community/AI_Impact_on_Finance_and_Markets
 ---
 
 # Snowflake
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Cortex]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA
+#graphify/concept #graphify/EXTRACTED #community/AI_Impact_on_Finance_and_Markets

@@ -1,24 +1,27 @@
 ---
 type: community
-members: 11
+members: 14
 ---
 
 # Cursor
 
-**Members:** 11 nodes
+**Members:** 14 nodes
 
 ## Members
-- [[Après l’euphorie, la course à l’IA se heurte déjà aux limites de son modèle économique]] - document - dossiers/2026-11-15-2.md
-- [[Boom de l'intelligence artificielle]] - concept - dossiers/2026-11-15-2.md
-- [[Data-centers]] - concept - dossiers/2026-11-15-2.md
-- [[Dossier  Effondrement du boom IA et crise des data-centers]] - document - dossiers/2026-11-15-2.md
-- [[Empreinte environnementale]] - concept - dossiers/2026-11-15-2.md
-- [[Géants technologiques (Alphabet, Amazon, Microsoft, Meta)]] - concept - dossiers/2026-11-15-2.md
-- [[Investissements dans l’IA  jusqu’où ira l’euphorie mondiale avant le coup de frein]] - document - dossiers/2026-11-15-2.md
-- [[L’empreinte environnementale de l’IA pourrait être multipliée par 7 d’ici 2030]] - document - dossiers/2026-11-15-2.md
-- [[OPINION. « L'énergie pour les data centers de l'IA, atout stratégique ou mirage  »]] - document - dossiers/2026-11-15-2.md
-- [[Risque macroéconomique]] - concept - dossiers/2026-11-15-2.md
-- [[Un coup d'arrêt de l'IA aurait des répercussions bien au-delà des Etats-Unis]] - document - dossiers/2026-11-15-2.md
+- [[AMIAD]] - concept - dossiers/2026-11-15-3.md
+- [[ANSSI]] - concept - dossiers/2026-11-14-1.md
+- [[Agence ministérielle pour l’intelligence artificielle de défense (AMIAD)]] - concept - dossiers/2026-11-14-1.md
+- [[Banque de France]] - concept - dossiers/2026-11-14-1.md
+- [[CERT-FR]] - concept - dossiers/2026-11-14-1.md
+- [[Centre d’excellence cyber de Tallinn]] - concept - dossiers/2026-11-15-3.md
+- [[ENSTA]] - concept - dossiers/2026-11-14-1.md
+- [[ICAID]] - concept - veilles/veille-ia-fr-2026-11-15-t2.md
+- [[Laboratoire dédié (LARIAD)]] - concept - dossiers/2026-11-14-1.md
+- [[Ministère des Armées]] - concept - dossiers/2026-11-14-1.md
+- [[OTAN]] - concept - veilles/veille-ia-fr-2026-11-15-t2.md
+- [[boursorama.com]] - concept - dossiers/2026-11-14-1.md
+- [[lefigaro.fr]] - concept - dossiers/2026-11-14-1.md
+- [[lemagit.fr]] - concept - dossiers/2026-11-14-1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,3 +29,12 @@ members: 11
 TABLE source_file, type FROM #community/Cursor
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 2 edges to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs_1]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-14  Société, éducation et culture]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-20_1]]
+
+## Top bridge nodes
+- [[ICAID]] - degree 13, connects to 3 communities
+- [[OTAN]] - degree 2, connects to 1 community

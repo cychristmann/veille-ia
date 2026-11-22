@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t1.md"
 type: "document"
-community: "Veille Outils & code 2026-11-15"
+community: "Dossier: Course à l'IA entre États‑Unis et Chine"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-15
+  - community/Dossier_Course_à_lIA_entre_ÉtatsUnis_et_Chine
 ---
 
 # Veille Chine 2026-11-19 : Régulation & Gouvernance IA
@@ -18,4 +18,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Sinch]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-15
+#graphify/document #graphify/EXTRACTED #community/Dossier_Course_à_lIA_entre_ÉtatsUnis_et_Chine

@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t3.md"
 type: "code"
-community: "Veille États-Unis 2026-11-19 : Éthique, sécurité et impact sociétal"
+community: "Veille États-Unis 2026-11-13 : Autres articles"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-19__Éthique_sécurité_et_impact_sociétal
+  - community/Veille_États-Unis_2026-11-13__Autres_articles
 ---
 
 # Louis Perez
 
-#graphify/code #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-19__Éthique_sécurité_et_impact_sociétal
+#graphify/code #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Autres_articles

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-19-t2.md"
 type: "document"
-community: "Federal Reserve"
+community: "Veille Chine 2026-11-13"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Federal_Reserve
+  - community/Veille_Chine_2026-11-13
 ---
 
 # Veille États-Unis 2026-11-19 : Régulation et politique
@@ -16,4 +16,4 @@ tags:
 - [[Federal Reserve]] - `references` [EXTRACTED]
 - [[South Korean Financial Watchdog]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Federal_Reserve
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-13

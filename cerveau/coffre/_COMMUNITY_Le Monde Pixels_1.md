@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Le Monde Pixels]] - concept - feuilletons/f-0027.md
-- [[Ukraine Conflict]] - concept - feuilletons/f-0027.md
+- [[Allspring Global Investments]] - concept - dossiers/2026-11-20-2.md
+- [[Gary Tan]] - concept - dossiers/2026-11-20-2.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0019.md"
 type: "concept"
-community: "ChatGPT Wallet"
+community: "Veille Outils & code 2026-11-15"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ChatGPT_Wallet
+  - community/Veille_Outils__code_2026-11-15
 ---
 
 # Mastercard
@@ -16,4 +16,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Verifiable Intent]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/ChatGPT_Wallet
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-15

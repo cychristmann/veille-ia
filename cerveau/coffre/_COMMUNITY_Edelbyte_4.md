@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Edelbyte]] - code - veilles/veille-ia-us-2026-11-11-t4.md
+- [[Education Week AI Coverage]] - concept - veilles/veille-ia-us-2026-11-16-t3.md
 
 ## Live Query (requires Dataview plugin)
 

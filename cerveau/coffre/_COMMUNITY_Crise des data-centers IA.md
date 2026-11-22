@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Crise des data-centers IA
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Federal Aviation Administration (FAA)]] - concept - veilles/veille-ia-us-2026-11-14-t1.md
-- [[SMART AI System]] - concept - veilles/veille-ia-us-2026-11-14-t1.md
-- [[Veille États-Unis 2026-11-14  Incident FAA et Intelligence Artificielle]] - document - veilles/veille-ia-us-2026-11-14-t1.md
+- [[Elvis Presley Music Rights Owners]] - code - veilles/veille-ia-us-2026-11-08-t2.md
+- [[Eminem Music Rights Owners]] - code - veilles/veille-ia-us-2026-11-08-t2.md
+- [[Feuilleton Suno AI poursuivi]] - document - feuilletons/f-0002.md
+- [[Suno AI]] - code - veilles/veille-ia-us-2026-11-08-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,9 +19,3 @@ members: 3
 TABLE source_file, type FROM #community/Crise_des_data-centers_IA
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Microsoft]]
-
-## Top bridge nodes
-- [[Veille États-Unis 2026-11-14  Incident FAA et Intelligence Artificielle]] - degree 3, connects to 1 community

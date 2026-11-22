@@ -1,17 +1,16 @@
 ---
 type: community
-members: 4
+members: 3
 ---
 
 # Veille États-Unis 2026-11-16 : Sécurité, éthique et marché financier
 
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[IA dans le commerce et la consommation]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
-- [[IA dans le recrutement]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
-- [[Souveraineté numérique et IA]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
-- [[Veille France 2026-11-16  Applications sectorielles et industrielles]] - document - veilles/veille-ia-fr-2026-11-16-t3.md
+- [[ARTEX AI Hacking Tool]] - concept - veilles/veille-ia-us-2026-11-16-t4.md
+- [[FBI AI Threat Reports]] - concept - veilles/veille-ia-us-2026-11-16-t4.md
+- [[Veille États-Unis 2026-11-16  Sécurité, éthique et marché financier]] - document - veilles/veille-ia-us-2026-11-16-t4.md
 
 ## Live Query (requires Dataview plugin)
 

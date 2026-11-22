@@ -12,6 +12,10 @@
    "Cursor": {
     "depuis": "2026-11-21",
     "motif": "muet : aucun article récent sur l'IA en 4 nuits (200 articles lus)"
+   },
+   "Design News": {
+    "depuis": "2026-11-22",
+    "motif": "en panne 5 nuits d'affilée"
    }
   },
   "cn": {
@@ -93,6 +97,24 @@
    "motif": "score actuel 77.8/100",
    "raison": "Tester une augmentation de la part de Google Actualités (0.35→0.5) pour Outils & code afin de vérifier son impact sur le taux de liens directs.",
    "resultat": "essai pendant 3 nuits"
+  },
+  {
+   "date": "2026-11-22",
+   "action": "pause",
+   "section": "dev",
+   "source": "Design News",
+   "motif": "en panne 5 nuits d'affilée",
+   "raison": "Design News est en panne depuis 5 nuits, il faut le mettre en pause pour éviter de compter des articles manquants.",
+   "resultat": ""
+  },
+  {
+   "date": "2026-11-22",
+   "action": "experimenter",
+   "section": "us",
+   "source": "part de Google Actualités 1.0 → 0.8",
+   "motif": "score actuel 77.3/100",
+   "raison": "Réduire la part de Google Actualités à 0.8 pour les États‑Unis devrait augmenter le pourcentage de liens directs, ce qui est le point le plus faible après la Chine.",
+   "resultat": "essai pendant 3 nuits"
   }
  ],
  "essais": {
@@ -123,6 +145,10 @@
   {
    "date": "2026-11-21",
    "texte": "Pour les sections où les liens directs sont très faibles, comme la Chine, il faut diversifier rapidement les sources et réduire la dépendance aux agrégateurs afin d'augmenter la proportion de liens directs."
+  },
+  {
+   "date": "2026-11-22",
+   "texte": "Diversifier rapidement les sources chinoises et remplacer les médias en panne permet d'augmenter le taux de liens directs, ce qui améliore la qualité globale de la veille."
   }
  ],
  "derniere_decouverte": "2026-11-17",
@@ -132,6 +158,9 @@
   },
   "dev": {
    "part_google": 0.5
+  },
+  "us": {
+   "part_google": 0.8
   }
  },
  "experiences": {
@@ -150,6 +179,14 @@
    "base": 77.8,
    "depuis": "2026-11-21",
    "hypothese": "Tester une augmentation de la part de Google Actualités (0.35→0.5) pour Outils & code afin de vérifier son impact sur le taux de liens directs."
+  },
+  "us": {
+   "param": "part_google",
+   "avant": 1.0,
+   "apres": 0.8,
+   "base": 77.3,
+   "depuis": "2026-11-22",
+   "hypothese": "Réduire la part de Google Actualités à 0.8 pour les États‑Unis devrait augmenter le pourcentage de liens directs, ce qui est le point le plus faible après la Chine."
   }
  },
  "experiences_passees": [],

@@ -1,19 +1,25 @@
 ---
 type: community
-members: 6
+members: 12
 ---
 
 # GPT-6 Astra
 
-**Members:** 6 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Andrew Sutherland]] - code - dossiers/2026-11-21-3.md
+- [[Business Hub]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
+- [[Fable 5.2]] - concept - veilles/veille-ia-dev-2026-11-18-t1.md
 - [[GPT-6 Astra]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
-- [[Lean 4]] - code - dossiers/2026-11-21-3.md
-- [[MIT]] - code - dossiers/2026-11-21-3.md
+- [[LLM Evaluation]] - concept - veilles/veille-ia-dev-2026-11-22-t4.md
 - [[Shield]] - concept - veilles/veille-ia-fr-2026-11-14-t2.md
+- [[Surge]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
+- [[Ubuntu]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
+- [[Veille France 2026-11-19]] - document - veilles/veille-ia-fr-2026-11-19-t4.md
 - [[Veille Outils & code 2026-11-12  Coût, tokenomics et optimisation]] - document - veilles/veille-ia-dev-2026-11-12-t3.md
+- [[Veille Outils & code 2026-11-22 (t4)]] - document - veilles/veille-ia-dev-2026-11-22-t4.md
+- [[datasette]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[datasette-maplibre]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,16 +29,21 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Claude]]
-- 1 edge to [[_COMMUNITY_Fable 5.2]]
-- 1 edge to [[_COMMUNITY_Elon Musk]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs_1]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-19  Régulation & Gouvernance IA]]
-- 1 edge to [[_COMMUNITY_Trump's AI task force]]
+- 3 edges to [[_COMMUNITY_Copilot]]
+- 2 edges to [[_COMMUNITY_Anthropic]]
+- 2 edges to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
+- 1 edge to [[_COMMUNITY_Riemann Hypothesis]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_Claude]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-12  Régulation, éthique et impacts sociétaux]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-08_1]]
 - 1 edge to [[_COMMUNITY_AMD_1]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-08]]
-- 1 edge to [[_COMMUNITY_GPT-6 Astra_1]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-22]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-11  Marchés et investissements]]
 
 ## Top bridge nodes
-- [[GPT-6 Astra]] - degree 11, connects to 8 communities
-- [[Lean 4]] - degree 4, connects to 1 community
+- [[GPT-6 Astra]] - degree 12, connects to 7 communities
+- [[Veille France 2026-11-19]] - degree 6, connects to 3 communities
+- [[Fable 5.2]] - degree 5, connects to 3 communities
+- [[Business Hub]] - degree 2, connects to 1 community
+- [[datasette-maplibre]] - degree 2, connects to 1 community

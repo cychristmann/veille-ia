@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-15-1.md"
 type: "document"
-community: "Veille France 2026-11-16 : Applications sectorielles et industrielles"
+community: "Feuilleton: Compromission massive du Microsoft Agent Framework"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-16__Applications_sectorielles_et_industrielles
+  - community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
 ---
 
 # Dossier: Scandale Nvidia
@@ -19,4 +19,4 @@ tags:
 - [[Les investisseurs craignent que le secteur de l'IA ne perde les largesses de Nvidia après le départ de Huang]] - `cites` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-16__Applications_sectorielles_et_industrielles
+#graphify/document #graphify/EXTRACTED #community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework

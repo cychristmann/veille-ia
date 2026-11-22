@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-15-t4.md"
 type: "concept"
-community: "Jensen Huang"
+community: "Feuilleton: Compromission massive du Microsoft Agent Framework"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Jensen_Huang
+  - community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
 ---
 
 # Vincent Courboulay
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-15  Recherche, outils et modèles IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Jensen_Huang
+#graphify/concept #graphify/EXTRACTED #community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework

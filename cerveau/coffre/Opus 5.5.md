@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-11-t2.md"
+source_file: "veilles/veille-ia-us-2026-11-22-t4.md"
 type: "concept"
-community: "Fable 5.2"
+community: "Copilot"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Fable_52
+  - community/Copilot
 ---
 
 # Opus 5.5
@@ -13,7 +13,9 @@ tags:
 ## Connections
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Fable 5.2]] - `conceptually_related_to` [EXTRACTED]
+- [[GPT-6.2 Sol]] - `conceptually_related_to` [EXTRACTED]
+- [[Gemini 4 Neon]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-11  Technologie et infrastructure]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-15]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Fable_52
+#graphify/concept #graphify/EXTRACTED #community/Copilot

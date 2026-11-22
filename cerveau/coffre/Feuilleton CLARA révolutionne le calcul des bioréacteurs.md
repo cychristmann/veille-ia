@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0017.md"
 type: "document"
-community: "Anthropic"
+community: "Nvidia"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Anthropic
+  - community/Nvidia
 ---
 
 # Feuilleton: CLARA révolutionne le calcul des bioréacteurs
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[CLARA]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Anthropic
+#graphify/document #graphify/EXTRACTED #community/Nvidia

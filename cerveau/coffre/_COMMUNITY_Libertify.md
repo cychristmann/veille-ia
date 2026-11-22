@@ -22,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_Nvidia_2]]
 
 ## Top bridge nodes
 - [[Libertify]] - degree 5, connects to 1 community

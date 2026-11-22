@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-17-t2.md"
 type: "concept"
-community: "ChatGPT Wallet"
+community: "Veille Chine 2026-11-11 : Marchés et investissements"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ChatGPT_Wallet
+  - community/Veille_Chine_2026-11-11__Marchés_et_investissements
 ---
 
 # Swarm Skills
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Superpowers]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/ChatGPT_Wallet
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-11__Marchés_et_investissements

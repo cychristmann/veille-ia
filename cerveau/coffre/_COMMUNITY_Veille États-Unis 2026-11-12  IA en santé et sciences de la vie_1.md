@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-12 : IA en santé et sciences de la vie
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Legora]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
-- [[Microsoft 365]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[Beijing University of Posts and Telecommunications]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,16 +1,18 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-21-t3.md"
+source_file: "veilles/veille-ia-dev-2026-11-22-t3.md"
 type: "concept"
-community: "ChatGPT Wallet"
+community: "Veille France 2026-11-20"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ChatGPT_Wallet
+  - community/Veille_France_2026-11-20
 ---
 
 # Inkling 2 Mini
 
 ## Connections
 - [[Hugging Face]] - `references` [EXTRACTED]
+- [[Ollama]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-22]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/ChatGPT_Wallet
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-20
