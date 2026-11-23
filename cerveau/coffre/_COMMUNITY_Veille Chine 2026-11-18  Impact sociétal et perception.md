@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Veille Chine 2026-11-18  Impact sociétal et perception]] - document - veilles/veille-ia-cn-2026-11-18-t6.md
-- [[恒生科指六连跌，市场忧AI投入侵蚀现金流｜市场观察]] - document - veilles/veille-ia-cn-2026-11-18-t6.md
+- [[ABB]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
+- [[HiPerGuard 34,5 kV]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
 
 ## Live Query (requires Dataview plugin)
 

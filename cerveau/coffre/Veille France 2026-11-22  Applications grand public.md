@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-22-t3.md"
 type: "document"
-community: "Veille France 2026-11-22 : Applications grand public"
+community: "Feuilleton: Compromission massive du Microsoft Agent Framework"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-22__Applications_grand_public
+  - community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
 ---
 
 # Veille France 2026-11-22 : Applications grand public
@@ -25,4 +25,4 @@ tags:
 - [[Retraite anticipée Kasikornbank]] - `references` [EXTRACTED]
 - [[Scandale de triche à l’IA en Corée du Sud]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-22__Applications_grand_public
+#graphify/document #graphify/EXTRACTED #community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework

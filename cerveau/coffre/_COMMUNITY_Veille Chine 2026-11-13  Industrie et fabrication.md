@@ -1,17 +1,16 @@
 ---
 type: community
-members: 4
+members: 3
 ---
 
 # Veille Chine 2026-11-13 : Industrie et fabrication
 
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[LangGraph]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
-- [[OpenSearch]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
-- [[Redis]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
-- [[Uber Legal Redlining Agent]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[MiniMax Cryptographic Attacks Research]] - concept - veilles/veille-ia-cn-2026-11-23-t1.md
+- [[Veille Chine 2026-11-23  Matériel & puissance de calcul IA]] - document - veilles/veille-ia-cn-2026-11-23-t1.md
+- [[安谋科技 星辰100e (Arm China Xingchen 100e)]] - concept - veilles/veille-ia-cn-2026-11-23-t1.md
 
 ## Live Query (requires Dataview plugin)
 

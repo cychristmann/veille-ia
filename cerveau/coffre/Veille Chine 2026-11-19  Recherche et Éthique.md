@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t4.md"
 type: "document"
-community: "Trust3 AI"
+community: "Amazon Bedrock"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trust3_AI
+  - community/Amazon_Bedrock
 ---
 
 # Veille Chine 2026-11-19 : Recherche et Éthique
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Central South University]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trust3_AI
+#graphify/document #graphify/EXTRACTED #community/Amazon_Bedrock

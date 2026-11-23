@@ -1,28 +1,23 @@
 ---
 type: community
-members: 15
+members: 10
 ---
 
 # AI Impact on Finance and Markets
 
-**Members:** 15 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[Alibaba AI]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Bitcoin Miners AI]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Cortex]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Google Gemini CarPlay]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Harbor Claris]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[JioStar]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Local LLM Server]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[MEL Conference]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[NAS AI Server]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Omnii Defense]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Snowflake]] - concept - feuilletons/f-0013.md
-- [[United Airlines]] - concept - veilles/veille-ia-us-2026-11-13-t3.md
-- [[Veille France 2026-11-12]] - document - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Veille États-Unis 2026-11-13  Applications sectorielles de l’IA]] - document - veilles/veille-ia-us-2026-11-13-t3.md
-- [[rLocalLLM]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Andrej Karpathy]] - concept - veilles/veille-ia-fr-2026-11-08-t4.md
+- [[Claude]] - concept - veilles/veille-ia-us-2026-11-09-t2.md
+- [[Danfoss]] - concept - dossiers/2026-11-18-2.md
+- [[HackerTube]] - concept - veilles/veille-ia-fr-2026-11-08-t4.md
+- [[Kimi-K2.6]] - concept - veilles/veille-ia-dev-2026-11-20-t4.md
+- [[Meta FAIR]] - concept - veilles/veille-ia-dev-2026-11-20-t4.md
+- [[Modèles d'IA MoE]] - concept - veilles/veille-ia-fr-2026-11-08-t4.md
+- [[Mythos 5.2]] - concept - feuilletons/f-0003.md
+- [[Veille France 2026-11-08  Applications concrètes et innovations IA]] - document - veilles/veille-ia-fr-2026-11-08-t4.md
+- [[Veille IA Dev 2026-11-20 T4]] - document - veilles/veille-ia-dev-2026-11-20-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -32,9 +27,21 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia_2]]
-- 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20]]
+- 5 edges to [[_COMMUNITY_Anthropic]]
+- 4 edges to [[_COMMUNITY_Claude]]
+- 2 edges to [[_COMMUNITY_Qwen4-Max]]
+- 2 edges to [[_COMMUNITY_Adobe Creative Cloud]]
+- 1 edge to [[_COMMUNITY_GPT-6 Astra_1]]
+- 1 edge to [[_COMMUNITY_Hypothèse de Riemann]]
+- 1 edge to [[_COMMUNITY_Qwen]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-21]]
+- 1 edge to [[_COMMUNITY_Model Context Protocol (MCP)_1]]
+- 1 edge to [[_COMMUNITY_Tencent_1]]
+- 1 edge to [[_COMMUNITY_Veille IA Dev 2026-11-20 T3_1]]
+- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets_2]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-12]] - degree 14, connects to 3 communities
+- [[Claude]] - degree 25, connects to 13 communities
+- [[Veille France 2026-11-08  Applications concrètes et innovations IA]] - degree 4, connects to 1 community
+- [[Mythos 5.2]] - degree 2, connects to 1 community

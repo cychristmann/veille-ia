@@ -1,24 +1,26 @@
 ---
 type: community
-members: 11
+members: 13
 ---
 
 # Claude
 
-**Members:** 11 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[Amazon SageMaker HyperPod Inference]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Codex CLI]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Hitachi Vantara VSP One]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Impartner MCP]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[JustSolve AI Mastery]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Microsoft AI coding model]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Octopus Deploy]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Perplexity Computer]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Replit Missions]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Veille Outils & code 2026-11-18]] - document - veilles/veille-ia-dev-2026-11-18-t1.md
-- [[Vibe Coding]] - concept - veilles/veille-ia-dev-2026-11-16-t2.md
+- [[Andrew Sutherland]] - concept - dossiers/2026-11-22-1.md
+- [[Cairn Framework]] - concept - veilles/veille-ia-us-2026-11-21-t7.md
+- [[Clay Institute]] - code - dossiers/2026-11-21-3.md
+- [[David Fincher]] - concept - veilles/veille-ia-us-2026-11-21-t6.md
+- [[Kevin Buzzard]] - concept - dossiers/2026-11-22-1.md
+- [[Lean 4]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
+- [[Levent Alpöge]] - concept - veilles/veille-ia-dev-2026-11-23-t2.md
+- [[MIT]] - code - dossiers/2026-11-21-3.md
+- [[MONAI Label]] - concept - veilles/veille-ia-us-2026-11-21-t7.md
+- [[Riemann Hypothesis]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[Veille France 2026-11-22  Mathématiques et IA]] - document - veilles/veille-ia-fr-2026-11-22-t6.md
+- [[Veille États-Unis 2026-11-21  Autres articles]] - document - veilles/veille-ia-us-2026-11-21-t7.md
+- [[Veille États-Unis 2026-11-21  Impact sociétal, éthique et culture]] - document - veilles/veille-ia-us-2026-11-21-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -28,13 +30,16 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Copilot]]
-- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
-- 1 edge to [[_COMMUNITY_Nvidia_1]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-20  Gouvernance, sécurité et régulation]]
-- 1 edge to [[_COMMUNITY_Amazon Bedrock AgentCore]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14  Autres articles]]
+- 4 edges to [[_COMMUNITY_AI Impact on Finance and Markets]]
+- 2 edges to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_GPT-6 Astra_1]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_Hypothèse de Riemann]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-22  Marchés et finance]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-21_1]]
+- 1 edge to [[_COMMUNITY_ChatGPT Wallet]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-18]] - degree 16, connects to 5 communities
-- [[Vibe Coding]] - degree 3, connects to 1 community
+- [[Levent Alpöge]] - degree 11, connects to 5 communities
+- [[Riemann Hypothesis]] - degree 9, connects to 3 communities
+- [[Lean 4]] - degree 6, connects to 2 communities

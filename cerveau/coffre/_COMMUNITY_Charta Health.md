@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Charta Health
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[OpenAI Foundation]] - concept - veilles/veille-ia-us-2026-11-15-t5.md
-- [[Veille États-Unis 2026-11-15  Régulation, sécurité et éthique de l'IA]] - document - veilles/veille-ia-us-2026-11-15-t5.md
+- [[Gemini Spark]] - concept - veilles/veille-ia-dev-2026-11-23-t2.md
 
 ## Live Query (requires Dataview plugin)
 

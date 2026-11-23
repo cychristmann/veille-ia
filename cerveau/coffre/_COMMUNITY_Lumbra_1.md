@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Qwen3.8]] - concept - veilles/veille-ia-dev-2026-11-15-t2.md
+- [[Bifrost]] - concept - veilles/veille-ia-dev-2026-11-19-t1.md
 
 ## Live Query (requires Dataview plugin)
 

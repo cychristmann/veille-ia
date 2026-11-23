@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t4.md"
 type: "document"
-community: "Veille France 2026-11-20"
+community: "Veille Outils & code 2026-11-20"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-20
+  - community/Veille_Outils__code_2026-11-20
 ---
 
 # Veille France 2026-11-18 (T4)
@@ -15,4 +15,4 @@ tags:
 - [[Mistral AI]] - `references` [EXTRACTED]
 - [[Rejouis]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-20
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-20

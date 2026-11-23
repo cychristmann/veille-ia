@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-19-t2.md"
 type: "document"
-community: "AI Agents"
+community: "Sécurité et risques de l'IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Agents
+  - community/Sécurité_et_risques_de_lIA
 ---
 
 # Veille France 2026-11-19 : Applications sectorielles de l'IA
@@ -15,4 +15,4 @@ tags:
 - [[Sanofi]] - `references` [EXTRACTED]
 - [[Soitec]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Agents
+#graphify/document #graphify/EXTRACTED #community/Sécurité_et_risques_de_lIA

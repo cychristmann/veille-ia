@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-12-t5.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-11 : Éducation et formation à l'IA"
+community: "Wuhan University of Science and Technology"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA
+  - community/Wuhan_University_of_Science_and_Technology
 ---
 
 # Nubia
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-12  Produits grand public et IA générative]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA
+#graphify/concept #graphify/EXTRACTED #community/Wuhan_University_of_Science_and_Technology

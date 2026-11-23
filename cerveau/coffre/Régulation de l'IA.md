@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-14-t3.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-18"
+community: "Anthropic"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-18
+  - community/Anthropic
 ---
 
 # Régulation de l'IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-14  Régulation, politiques publiques et géopolitique]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-18
+#graphify/concept #graphify/EXTRACTED #community/Anthropic

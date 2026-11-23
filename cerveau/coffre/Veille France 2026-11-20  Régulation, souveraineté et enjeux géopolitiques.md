@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-20-t3.md"
 type: "document"
-community: "Veille France 2026-11-20 : Régulation, souveraineté et enjeux géopolitiques"
+community: "Chine"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-20__Régulation_souveraineté_et_enjeux_géopolitiques
+  - community/Chine
 ---
 
 # Veille France 2026-11-20 : Régulation, souveraineté et enjeux géopolitiques
@@ -15,4 +15,4 @@ tags:
 - [[Schneider Electric]] - `references` [EXTRACTED]
 - [[TSMC]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-20__Régulation_souveraineté_et_enjeux_géopolitiques
+#graphify/document #graphify/EXTRACTED #community/Chine

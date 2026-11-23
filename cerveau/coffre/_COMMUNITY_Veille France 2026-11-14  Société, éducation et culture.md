@@ -1,16 +1,21 @@
 ---
 type: community
-members: 3
+members: 8
 ---
 
 # Veille France 2026-11-14 : Société, éducation et culture
 
-**Members:** 3 nodes
+**Members:** 8 nodes
 
 ## Members
-- [[ComCyber]] - concept - dossiers/2026-11-15-3.md
-- [[DGA]] - concept - dossiers/2026-11-15-3.md
-- [[Rennes]] - concept - dossiers/2026-11-15-3.md
+- [[Faire la guerre avec l’IA  Pour l’Ukraine, un cas de conscience moral et politique]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
+- [[Gemini 4 Hydrogène]] - concept - veilles/veille-ia-fr-2026-11-16-t6.md
+- [[Kitesurf  Cloudflare libère le code source de son navigateur pour agents IA]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
+- [[La IA generativa divide a los desarrolladores]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
+- [[OT Montlouis-Vouvray chatbot sans IA]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
+- [[SambaNova associe les GPU Intel au SN50]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
+- [[Veille France 2026-11-16]] - document - veilles/veille-ia-fr-2026-11-16-t6.md
+- [[Wotton Kearney déploie l’IA juridique Harvey]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +25,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Cursor]]
+- 1 edge to [[_COMMUNITY_Apple_1]]
 
 ## Top bridge nodes
-- [[Rennes]] - degree 3, connects to 1 community
+- [[Veille France 2026-11-16]] - degree 8, connects to 1 community

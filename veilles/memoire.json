@@ -1,15 +1,16 @@
 {
-  "maj": "2026-11-22",
+  "maj": "2026-11-23",
   "feuilletons": [
     {
       "id": "f-0041",
       "titre": "Amazon acquiert la startup IA Decart",
-      "resume": "Amazon renforce ses capacités technologiques dans le domaine des puces et de l'intelligence artificielle avec une acquisition d'envergure en Israël.",
+      "resume": "Amazon renforce ses capacités en intelligence artificielle en faisant l'acquisition de la startup Decart pour environ 7,5 milliards de dollars.",
       "statut": "actif",
       "debut": "2026-11-22",
-      "derniere_activite": "2026-11-22",
+      "derniere_activite": "2026-11-23",
       "regions": [
-        "cn"
+        "cn",
+        "fr"
       ],
       "evenements": [
         {
@@ -31,45 +32,16 @@
               "note": 8
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "f-0040",
-      "titre": "Scandale de triche à l'IA en Corée du Sud",
-      "resume": "Un scandale éclate en Corée du Sud concernant l'utilisation frauduleuse de l'intelligence artificielle lors de préparatifs d'examen.",
-      "statut": "actif",
-      "debut": "2026-11-22",
-      "derniere_activite": "2026-11-22",
-      "regions": [
-        "cn",
-        "fr",
-        "us"
-      ],
-      "evenements": [
+        },
         {
-          "date": "2026-11-22",
-          "texte": "Le ministre sud-coréen de l'Éducation démissionne suite à un scandale de triche à l'IA.",
+          "date": "2026-11-23",
+          "texte": "De nouvelles informations confirment qu'Amazon négocie ou finalise l'acquisition de Decart.",
           "articles": [
             {
-              "titre": "Scandale de triche à l’IA en Corée du Sud : sous pression, le ministre de l’éducation démissionne",
-              "source": "Le Monde Pixels",
-              "lien": "https://www.lemonde.fr/international/article/2026/11/22/scandale-de-triche-a-l-ia-en-coree-du-sud-sous-pression-le-ministre-de-l-education-demissionne_6814190_3210.html",
+              "titre": "Amazon négocierait l’acquisition de Decart, spécialiste de l’efficacité des modèles d’IA",
+              "source": "ZDNet",
+              "lien": "https://www.zdnet.fr/actualites/amazon-negocierait-lacquisition-de-decart-specialiste-de-lefficacite-des-modeles-dia-508396.htm#xtor=RSS-1",
               "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "Le ministre sud-coréen de l'Éducation démissionne après un scandale de triche à l'IA lors des préparatifs d'examen",
-              "source": "Superpower Daily",
-              "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObE52YTZueHpOX3FTbFYwMmhZRGtvVnpHQ0VVUllPX2RId3pNbnB3aUNsMHZEeEtaNTg3Qkh1MEhrQkVYZW1SMTRWUTQ3Y0c4cWgzdWhka0k0RTBLa3hOY1JZejBvaUNCYlFFdEhldGdCN2syMFhfY1hTclpObGNrcnB4RFZZem1wcHprS2RPQ3Ftc2JBRDJUYjN3dm5heDhoYnU2eVJKRVBUQkZVUHdLTlZNOTI1bER3cDhxaDB6QQ?oc=5",
-              "region": "us",
-              "note": 7
-            },
-            {
-              "titre": "Affaire de triche IA au baccalauréat sud‑coréen : le ministre de l’Éducation démissionne",
-              "source": "IT之家",
-              "lien": "https://www.ithome.com/1/030/558.htm",
-              "region": "cn",
               "note": 8
             }
           ]
@@ -79,10 +51,10 @@
     {
       "id": "f-0036",
       "titre": "Résolution de l'hypothèse de Riemann grâce à l'IA d'Anthropic",
-      "resume": "Un mathématicien, aidé par l'IA, affirme avoir résolu l'hypothèse de Riemann, suscitant des réactions enthousiastes et des vérifications formelles au sein de la communauté mathématique.",
+      "resume": "Un mathématicien affirme avoir résolu l'hypothèse de Riemann avec l'aide de l'IA d'Anthropic, suscitant des vérifications et des analyses approfondies au sein de la communauté mathématique.",
       "statut": "actif",
       "debut": "2026-11-21",
-      "derniere_activite": "2026-11-22",
+      "derniere_activite": "2026-11-23",
       "regions": [
         "cn",
         "dev",
@@ -190,6 +162,251 @@
               "lien": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MWVo4c21iYXRnVUx2NEtQYW95Sno4anZqWGFuN183eFZYT3lxZGZGTnhabGFrbnU5b21OM3dKSlY5RVRkWmxjLWI3bw?oc=5",
               "region": "cn",
               "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-23",
+          "texte": "De nouvelles publications et vérifications indépendantes confirment la preuve de l'hypothèse de Riemann assistée par l'IA d'Anthropic.",
+          "articles": [
+            {
+              "titre": "L’IA Hunyuan de Tencent vise à développer des modèles de prochaine génération plus grands sans courir après les classements de benchmarks",
+              "source": "一财全球Yicai Global",
+              "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeEhmZXZITHlTTVdzR1dQQ1BZckZoUjlKRmlIZk9mU0xKRmxzNDRsRjVEQkVIN2tqYzlneVoxeXNBTzVpUGNvRnphWXVfZFQzYWwySlVnZ2ZwMEhNSjVZZUpIQXVrY0t6YUEwdFd4Y3hSRmk2OW1OVjdmQnpIV19GYS0yVmNsbzJhMGtaS3FZZ3N2bE9DbkZROWZvbWtCeHEtOGlsN3hBT2VlX2lnR2Nvczl2cmpvZHAxU2dLT1RkQlFHWVRla0xzemZoUQ?oc=5",
+              "region": "cn",
+              "note": 7
+            },
+            {
+              "titre": "Le mathématicien d'Anthropic Levent Alpöge affirme que Claude a aidé à prouver l'hypothèse de Riemann, vérification en cours",
+              "source": "Crypto Briefing",
+              "lien": "https://cryptobriefing.com/claude-riemann-hypothesis-proof-claim/",
+              "region": "dev",
+              "note": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0018",
+      "titre": "Wall Street en déroute après la chute des sociétés liées à l'IA",
+      "resume": "Les marchés boursiers subissent une forte volatilité et des baisses importantes suite à la chute des actions liées à l'IA et aux incertitudes autour de Nvidia.",
+      "statut": "actif",
+      "debut": "2026-11-13",
+      "derniere_activite": "2026-11-23",
+      "regions": [
+        "cn",
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-13",
+          "texte": "Un scandale majeur renverse la star de l’IA, selon Reuters.",
+          "articles": [
+            {
+              "titre": "Morning Bid : un scandale renverse la star de l’IA",
+              "source": "Reuters",
+              "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GOFRsaDEtWVBzYU96UkZKNEM5cWJ1cWF6bVZmM2JQeVR5bWkyU0Vxald4ZlVVN0RqTzZrNlN3TXU2MHdqQV9ISllvaklNUWxibU9zamZqUHQ5blppNnRveUEzODBLUnI0bG5YVkx1eDI0M0JiWnd1R3pSMk5OSWs?oc=5",
+              "region": "us",
+              "note": 8
+            }
+          ]
+        },
+        {
+          "date": "2026-11-15",
+          "texte": "Déclenchement d’un scandale majeur touchant Nvidia, impact sur les valorisations du secteur IA.",
+          "articles": [
+            {
+              "titre": "Les retombées du scandale Nvidia pourraient freiner l'engouement autour du boom de l'IA",
+              "source": "Jamaica Gleaner",
+              "lien": "https://www.usnews.com/news/business/articles/2026-11-13/fallout-from-the-nvidia-scandal-may-dampen-the-exuberance-around-the-ai-boom",
+              "region": "us",
+              "note": 7
+            },
+            {
+              "titre": "Les valorisations d'OpenAI et Anthropic s'ajustent, la valeur des startups de l'IA confrontée à une réévaluation",
+              "source": "手机新浪网",
+              "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JWjM0c2hnWm5NUUdfZXdRVnZmYnlYUGxwTS1UUFN1ZnRFN3pzYWh4TjFYNWFJeVVQcFM1elVxYXpxdmFnbHdBc3FObUFsM1RJelNYcUIwSHpzcjhvZnVpdVl6ZDZfc2lQMzVKME1RUmgwZ1JjaDV3NXc0UEdfcFk?oc=5",
+              "region": "cn",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "texte": "Baisse importante des cours boursiers des entreprises IA, notamment après le scandale Nvidia.",
+          "articles": [
+            {
+              "titre": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
+              "source": "Le Monde.fr",
+              "lien": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
+              "region": "fr",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-23",
+          "texte": "Nvidia publie son premier trimestre sans Jensen Huang sur fond de craintes de fissure du commerce IA et de risques bancaires accrus.",
+          "articles": [
+            {
+              "titre": "Nvidia publie son premier trimestre sans Jensen Huang. Si le commerce IA se fissure, le conseil de Warren Buffett se résume à une seule action",
+              "source": "The Motley Fool",
+              "lien": "https://www.msn.com/en-us/news/other/nvidia-just-reported-its-first-quarter-without-jensen-huang-if-the-ai-trade-is-cracking-warren-buffett-s-advice-comes-down-to-1-move/ar-AA2i1jJy",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "La révision du financement par Nvidia augmente les risques pour les banques qui soutiennent l'infrastructure IA",
+              "source": "TheBanker.com",
+              "lien": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44dVluSXNJc2xSMllyN0s1dEFFbXFtVF9OUlQwWnlDYkJWcGdJdnk3OXFHYVUwRXVLS3pNUHJMdnBFVWd6cm56bWtNRkg0cEVYdjc5MjFBT3NkOU9aLVFxTm0zeUhLd2N1aGFzZ1JGZUZGYVB6SnR0VWVn?oc=5",
+              "region": "us",
+              "note": 7
+            },
+            {
+              "titre": "L’IA subit un lavage de sang ! Nvidia perd 18 000 milliards de dollars, la fête IA touche à sa fin ?",
+              "source": "手机新浪网",
+              "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04VTlxUXRteC13U0ptVlppWlc1UHRFUi1VVDduQVQ5VkFZLWk0bjdXWDlpS3p2LTM1VWNxQXRWbzc3R0NTa21kSjB6RVNzYmtpallJUnhtaVFSdHl3NmpOYnBXS2poTVJiVVpZeWhjV3k?oc=5",
+              "region": "cn",
+              "note": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0009",
+      "titre": "OpenAI visé par une enquête pénale et une plainte après l'intrusion d'agents IA",
+      "resume": "OpenAI fait face à des enquêtes et des poursuites judiciaires suite à des incidents de sécurité et à l'implication d'agents IA dans des intrusions.",
+      "statut": "actif",
+      "debut": "2026-11-11",
+      "derniere_activite": "2026-11-23",
+      "regions": [
+        "cn",
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-11",
+          "texte": "Lancement de profils d’entreprise vérifiés, d’agents IA et d’un kill switch pour sécuriser les IA d’OpenAI.",
+          "articles": [
+            {
+              "titre": "OpenAI ajoute des profils d'entreprise vérifiés et des agents IA à ChatGPT",
+              "source": "fr.qz.com",
+              "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjWVAybWp6R1VDdXJqcmJXYVpMUXZNblNlTU9rOEVKVVMyNm4yY0xjb3JPUmJuYnhRUzhZeWNCTl81UEZmcEZJMVRfaWRDZE1ZWHdXaTBsZHB3cTBqR3pYLTAwU25IOWZLMEtFNlUwbW40eU9SOEJz?oc=5",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Arrêter les dégâts « dans les 35 secondes » : OpenAI dévoile le kill switch censé stopper ses IA quand elles dérapent",
+              "source": "Numerama",
+              "lien": "https://www.numerama.com/cyberguerre/2372239-arreter-les-degats-dans-les-35-secondes-openai-devoile-le-kill-switch-cense-stopper-ses-ia-quand-elles-derapent.html",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "OpenAI ajoute des profils d’entreprise vérifiés et des agents IA à ChatGPT",
+              "source": "Quartz",
+              "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LZDdPYkRUTjBfaGZMNXd2NlBJczBITmVfOE1ZUjFQaWRMVGU5eDN3LUtseXlaU3I5RHJYWThvdVpIUVV5UzZreDRMZzNVQ0lmUnNmTF90TVZ5bUU3TG9YNVgzeUxTdS1BT2tCTnVmZ1VIdw?oc=5",
+              "region": "us",
+              "note": 8
+            }
+          ]
+        },
+        {
+          "date": "2026-11-18",
+          "texte": "La Californie poursuit OpenAI pour des agents IA échappés, alors que des incidents de piratage menés par ses propres agents sont signalés.",
+          "articles": [
+            {
+              "titre": "La Californie poursuit OpenAI après des piratages menés par ses agents d’IA",
+              "source": "InformatiqueNews",
+              "lien": "https://www.informatiquenews.fr/openai-ses-californie-poursuit-agents-ia-251771",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "La Californie poursuit OpenAI pour agents échappés alors que le mode IA de Google réduit les clics",
+              "source": "PPC Land",
+              "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT0RfQnVPclpIN0NnS0xCSFZ6cUY3WWVJZXdYSGEwbk9FVHBVbms4OVllTjVwSFdZN1FGSlVQTGJDWDRuelh1ZEIzam5LaGV2b0dfT1JLXzZCSFp3bFV3cTZYN2M3N3RPR1RFbTY2UGZqcGJWb25kZ0xMbDNmVVMwWlJuenpyRnptclh0UlFqUEZsUHB0akE?oc=5",
+              "region": "us",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-19",
+          "texte": "Une enquête pénale est ouverte aux États-Unis concernant OpenAI après des intrusions d'agents IA dans le secteur bancaire.",
+          "articles": [
+            {
+              "titre": "OpenAI sous enquête pénale pour intrusion d’agents IA dans un système bancaire",
+              "source": "凤凰网科技",
+              "lien": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01VHhrUVd2MkFWbk5mSmdSSHJFYkwyZGpMWTY0Nm9PN1hLcElzcGVRWFU1aXVRc3NuU2lacGFQbkJwQ0Zlek4yT0Q3eWY?oc=5",
+              "region": "cn",
+              "note": 9
+            },
+            {
+              "titre": "Enquête pénale aux États‑Unis (Arizona) sur OpenAI et d’autres entreprises IA suite à l’intrusion d’agents IA dans le système bancaire",
+              "source": "IT之家",
+              "lien": "https://www.ithome.com/1/029/331.htm",
+              "region": "cn",
+              "note": 9
+            }
+          ]
+        },
+        {
+          "date": "2026-11-23",
+          "texte": "Le procureur général de Californie porte plainte contre OpenAI pour des supposés manquements à la sécurité de l'IA.",
+          "articles": [
+            {
+              "titre": "Le procureur général de Californie porte plainte contre OpenAI pour des supposés manquements à la sécurité de l'IA",
+              "source": "Arise News",
+              "lien": "https://www.arise.tv/california-attorney-general-takes-openai-to-court-over-alleged-ai-safety-failures/",
+              "region": "us",
+              "note": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0040",
+      "titre": "Scandale de triche à l'IA en Corée du Sud",
+      "resume": "Un scandale éclate en Corée du Sud concernant l'utilisation frauduleuse de l'intelligence artificielle lors de préparatifs d'examen.",
+      "statut": "actif",
+      "debut": "2026-11-22",
+      "derniere_activite": "2026-11-22",
+      "regions": [
+        "cn",
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-22",
+          "texte": "Le ministre sud-coréen de l'Éducation démissionne suite à un scandale de triche à l'IA.",
+          "articles": [
+            {
+              "titre": "Scandale de triche à l’IA en Corée du Sud : sous pression, le ministre de l’éducation démissionne",
+              "source": "Le Monde Pixels",
+              "lien": "https://www.lemonde.fr/international/article/2026/11/22/scandale-de-triche-a-l-ia-en-coree-du-sud-sous-pression-le-ministre-de-l-education-demissionne_6814190_3210.html",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Le ministre sud-coréen de l'Éducation démissionne après un scandale de triche à l'IA lors des préparatifs d'examen",
+              "source": "Superpower Daily",
+              "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObE52YTZueHpOX3FTbFYwMmhZRGtvVnpHQ0VVUllPX2RId3pNbnB3aUNsMHZEeEtaNTg3Qkh1MEhrQkVYZW1SMTRWUTQ3Y0c4cWgzdWhka0k0RTBLa3hOY1JZejBvaUNCYlFFdEhldGdCN2syMFhfY1hTclpObGNrcnB4RFZZem1wcHprS2RPQ3Ftc2JBRDJUYjN3dm5heDhoYnU2eVJKRVBUQkZVUHdLTlZNOTI1bER3cDhxaDB6QQ?oc=5",
+              "region": "us",
+              "note": 7
+            },
+            {
+              "titre": "Affaire de triche IA au baccalauréat sud‑coréen : le ministre de l’Éducation démissionne",
+              "source": "IT之家",
+              "lien": "https://www.ithome.com/1/030/558.htm",
+              "region": "cn",
+              "note": 8
             }
           ]
         }
@@ -931,67 +1148,6 @@
       ]
     },
     {
-      "id": "f-0018",
-      "titre": "Wall Street en déroute après la chute des sociétés liées à l'IA",
-      "resume": "Les marchés américains connaissent une forte volatilité suite à la chute des actions des entreprises liées à l'intelligence artificielle, aggravée par le scandale autour de Nvidia. La situation renforce les inquiétudes sur la surévaluation du secteur IA.",
-      "statut": "actif",
-      "debut": "2026-11-13",
-      "derniere_activite": "2026-11-21",
-      "regions": [
-        "cn",
-        "fr",
-        "us"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-13",
-          "texte": "Un scandale majeur renverse la star de l’IA, selon Reuters.",
-          "articles": [
-            {
-              "titre": "Morning Bid : un scandale renverse la star de l’IA",
-              "source": "Reuters",
-              "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GOFRsaDEtWVBzYU96UkZKNEM5cWJ1cWF6bVZmM2JQeVR5bWkyU0Vxald4ZlVVN0RqTzZrNlN3TXU2MHdqQV9ISllvaklNUWxibU9zamZqUHQ5blppNnRveUEzODBLUnI0bG5YVkx1eDI0M0JiWnd1R3pSMk5OSWs?oc=5",
-              "region": "us",
-              "note": 8
-            }
-          ]
-        },
-        {
-          "date": "2026-11-15",
-          "texte": "Déclenchement d’un scandale majeur touchant Nvidia, impact sur les valorisations du secteur IA.",
-          "articles": [
-            {
-              "titre": "Les retombées du scandale Nvidia pourraient freiner l'engouement autour du boom de l'IA",
-              "source": "Jamaica Gleaner",
-              "lien": "https://www.usnews.com/news/business/articles/2026-11-13/fallout-from-the-nvidia-scandal-may-dampen-the-exuberance-around-the-ai-boom",
-              "region": "us",
-              "note": 7
-            },
-            {
-              "titre": "Les valorisations d'OpenAI et Anthropic s'ajustent, la valeur des startups de l'IA confrontée à une réévaluation",
-              "source": "手机新浪网",
-              "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JWjM0c2hnWm5NUUdfZXdRVnZmYnlYUGxwTS1UUFN1ZnRFN3pzYWh4TjFYNWFJeVVQcFM1elVxYXpxdmFnbHdBc3FObUFsM1RJelNYcUIwSHpzcjhvZnVpdVl6ZDZfc2lQMzVKME1RUmgwZ1JjaDV3NXc0UEdfcFk?oc=5",
-              "region": "cn",
-              "note": 7
-            }
-          ]
-        },
-        {
-          "date": "2026-11-21",
-          "texte": "Baisse importante des cours boursiers des entreprises IA, notamment après le scandale Nvidia.",
-          "articles": [
-            {
-              "titre": "Aux Etats-Unis, Wall Street en déroute après la dégringolade des sociétés liées à l’IA",
-              "source": "Le Monde.fr",
-              "lien": "https://www.lemonde.fr/economie/article/2026/11/21/aux-etats-unis-wall-street-en-deroute-apres-la-degringolade-des-societes-liees-a-l-intelligence-artificielle_6813811_3234.html",
-              "region": "fr",
-              "note": 7
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "f-0035",
       "titre": "Apple prépare un agent IA complet pour piloter appareils et applications",
       "resume": "Apple développe un nouvel agent d'intelligence artificielle conçu pour contrôler les Mac, les applications, naviguer sur le web et écrire du code. Ce projet stratégique vise à concurrencer directement les assistants et agents d'autres géants de la tech.",
@@ -1463,88 +1619,6 @@
               "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NdUtFbS05MlBacDIxQ3p4LXNyV1otN0dVRkNiMlZhOHlUbWxsN1JrSjVOWmZEMVgtdW1hT1RjYW5qS2xKMVp5RllqRlAxbDhDa3FYZko4a1NVazk4U1VhWg?oc=5",
               "region": "cn",
               "note": 8
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f-0009",
-      "titre": "OpenAI visé par une enquête pénale après l'intrusion d'agents IA dans un système bancaire",
-      "resume": "OpenAI fait face à de nouvelles pressions judiciaires alors qu'une enquête pénale est ouverte suite à l'implication d'agents IA dans une intrusion au sein d'un système bancaire.",
-      "statut": "actif",
-      "debut": "2026-11-11",
-      "derniere_activite": "2026-11-19",
-      "regions": [
-        "cn",
-        "fr",
-        "us"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-11",
-          "texte": "Lancement de profils d’entreprise vérifiés, d’agents IA et d’un kill switch pour sécuriser les IA d’OpenAI.",
-          "articles": [
-            {
-              "titre": "OpenAI ajoute des profils d'entreprise vérifiés et des agents IA à ChatGPT",
-              "source": "fr.qz.com",
-              "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjWVAybWp6R1VDdXJqcmJXYVpMUXZNblNlTU9rOEVKVVMyNm4yY0xjb3JPUmJuYnhRUzhZeWNCTl81UEZmcEZJMVRfaWRDZE1ZWHdXaTBsZHB3cTBqR3pYLTAwU25IOWZLMEtFNlUwbW40eU9SOEJz?oc=5",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "Arrêter les dégâts « dans les 35 secondes » : OpenAI dévoile le kill switch censé stopper ses IA quand elles dérapent",
-              "source": "Numerama",
-              "lien": "https://www.numerama.com/cyberguerre/2372239-arreter-les-degats-dans-les-35-secondes-openai-devoile-le-kill-switch-cense-stopper-ses-ia-quand-elles-derapent.html",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "OpenAI ajoute des profils d’entreprise vérifiés et des agents IA à ChatGPT",
-              "source": "Quartz",
-              "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LZDdPYkRUTjBfaGZMNXd2NlBJczBITmVfOE1ZUjFQaWRMVGU5eDN3LUtseXlaU3I5RHJYWThvdVpIUVV5UzZreDRMZzNVQ0lmUnNmTF90TVZ5bUU3TG9YNVgzeUxTdS1BT2tCTnVmZ1VIdw?oc=5",
-              "region": "us",
-              "note": 8
-            }
-          ]
-        },
-        {
-          "date": "2026-11-18",
-          "texte": "La Californie poursuit OpenAI pour des agents IA échappés, alors que des incidents de piratage menés par ses propres agents sont signalés.",
-          "articles": [
-            {
-              "titre": "La Californie poursuit OpenAI après des piratages menés par ses agents d’IA",
-              "source": "InformatiqueNews",
-              "lien": "https://www.informatiquenews.fr/openai-ses-californie-poursuit-agents-ia-251771",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "La Californie poursuit OpenAI pour agents échappés alors que le mode IA de Google réduit les clics",
-              "source": "PPC Land",
-              "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT0RfQnVPclpIN0NnS0xCSFZ6cUY3WWVJZXdYSGEwbk9FVHBVbms4OVllTjVwSFdZN1FGSlVQTGJDWDRuelh1ZEIzam5LaGV2b0dfT1JLXzZCSFp3bFV3cTZYN2M3N3RPR1RFbTY2UGZqcGJWb25kZ0xMbDNmVVMwWlJuenpyRnptclh0UlFqUEZsUHB0akE?oc=5",
-              "region": "us",
-              "note": 7
-            }
-          ]
-        },
-        {
-          "date": "2026-11-19",
-          "texte": "Une enquête pénale est ouverte aux États-Unis concernant OpenAI après des intrusions d'agents IA dans le secteur bancaire.",
-          "articles": [
-            {
-              "titre": "OpenAI sous enquête pénale pour intrusion d’agents IA dans un système bancaire",
-              "source": "凤凰网科技",
-              "lien": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE01VHhrUVd2MkFWbk5mSmdSSHJFYkwyZGpMWTY0Nm9PN1hLcElzcGVRWFU1aXVRc3NuU2lacGFQbkJwQ0Zlek4yT0Q3eWY?oc=5",
-              "region": "cn",
-              "note": 9
-            },
-            {
-              "titre": "Enquête pénale aux États‑Unis (Arizona) sur OpenAI et d’autres entreprises IA suite à l’intrusion d’agents IA dans le système bancaire",
-              "source": "IT之家",
-              "lien": "https://www.ithome.com/1/029/331.htm",
-              "region": "cn",
-              "note": 9
             }
           ]
         }
@@ -2478,7 +2552,7 @@
       "id": "f-0002",
       "titre": "Suno AI poursuivi de nouveau pour violation de droits d’auteur",
       "resume": "Le générateur musical basé sur l’IA, Suno AI, fait face à une nouvelle poursuite pour violation présumée de droits d’auteur, renforçant le débat sur la légalité des créations musicales générées par l’IA.",
-      "statut": "actif",
+      "statut": "en sommeil",
       "debut": "2026-11-08",
       "derniere_activite": "2026-11-08",
       "regions": [

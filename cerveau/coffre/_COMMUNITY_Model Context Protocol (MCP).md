@@ -1,17 +1,24 @@
 ---
 type: community
-members: 4
+members: 11
 ---
 
 # Model Context Protocol (MCP)
 
-**Members:** 4 nodes
+**Members:** 11 nodes
 
 ## Members
-- [[MoEngage Merlin AI]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
-- [[Model Context Protocol (MCP)]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
-- [[Shoply AI]] - concept - veilles/veille-ia-dev-2026-11-20-t5.md
-- [[Veille IA Dev 2026-11-20 T5]] - document - veilles/veille-ia-dev-2026-11-20-t5.md
+- [[AI Short Dramas]] - concept - veilles/veille-ia-cn-2026-11-14-t3.md
+- [[AI4 Chip]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
+- [[SCMP Tech]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
+- [[Sanxingdui Future Past]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
+- [[Tencent Chatterfly]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
+- [[Tesla FSD v15]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
+- [[Tesla Reality View]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
+- [[Veille Chine 2026-11-14  Médias, création et divertissement IA]] - document - veilles/veille-ia-cn-2026-11-14-t3.md
+- [[Veille Chine 2026-11-15  Contenu et divertissement IA]] - document - veilles/veille-ia-cn-2026-11-15-t1.md
+- [[Veille Chine 2026-11-22]] - document - veilles/veille-ia-cn-2026-11-22-t4.md
+- [[投资界]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,11 +26,3 @@ members: 4
 TABLE source_file, type FROM #community/Model_Context_Protocol_MCP
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Copilot]]
-- 1 edge to [[_COMMUNITY_AMD_1]]
-
-## Top bridge nodes
-- [[Model Context Protocol (MCP)]] - degree 3, connects to 1 community
-- [[Veille IA Dev 2026-11-20 T5]] - degree 3, connects to 1 community

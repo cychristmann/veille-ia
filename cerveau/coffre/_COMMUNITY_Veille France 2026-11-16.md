@@ -1,21 +1,20 @@
 ---
 type: community
-members: 8
+members: 7
 ---
 
 # Veille France 2026-11-16
 
-**Members:** 8 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Faire la guerre avec l’IA  Pour l’Ukraine, un cas de conscience moral et politique]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
-- [[Gemini 4 Hydrogène]] - concept - veilles/veille-ia-fr-2026-11-16-t6.md
-- [[Kitesurf  Cloudflare libère le code source de son navigateur pour agents IA]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
-- [[La IA generativa divide a los desarrolladores]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
-- [[OT Montlouis-Vouvray chatbot sans IA]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
-- [[SambaNova associe les GPU Intel au SN50]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
-- [[Veille France 2026-11-16]] - document - veilles/veille-ia-fr-2026-11-16-t6.md
-- [[Wotton Kearney déploie l’IA juridique Harvey]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
+- [[Coca-Cola Europacific Partners]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
+- [[Employment Hero]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
+- [[Fabrex]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
+- [[NEO AI]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
+- [[Rex (AI Agent)]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
+- [[VMFS USA]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
+- [[Veille États-Unis 2026-11-18  IA appliquée aux secteurs spécifiques]] - document - veilles/veille-ia-us-2026-11-18-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,7 +24,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Apple_1]]
+- 1 edge to [[_COMMUNITY_Amazon]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-16]] - degree 8, connects to 1 community
+- [[Veille États-Unis 2026-11-18  IA appliquée aux secteurs spécifiques]] - degree 5, connects to 1 community

@@ -1,18 +1,26 @@
 ---
 type: community
-members: 5
+members: 13
 ---
 
 # Débats à Saint-Tropez
 
-**Members:** 5 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[Débats à Saint-Tropez]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[Grégoire Colombet]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[Jean-Gabriel Ganascia]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[Marie-Nathalie Jauffret]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[Sacha Brun]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
+- [[ARTEX]] - concept - feuilletons/f-0028.md
+- [[Autumn-27]] - concept - dossiers/2026-11-21-1.md
+- [[DeepSeek Flash]] - concept - dossiers/2026-11-16-1.md
+- [[European Commission]] - concept - dossiers/2026-11-21-1.md
+- [[FBI]] - concept - feuilletons/f-0028.md
+- [[GitHub]] - concept - feuilletons/f-0028.md
+- [[Memorilla]] - concept - veilles/veille-ia-dev-2026-11-15-t5.md
+- [[Nmap]] - concept - dossiers/2026-11-16-1.md
+- [[Storm-0940]] - concept - dossiers/2026-11-21-1.md
+- [[Storm-3358]] - concept - dossiers/2026-11-16-1.md
+- [[Sysper]] - concept - dossiers/2026-11-21-1.md
+- [[Veille Outils & code 2026-11-15 (T5)]] - document - veilles/veille-ia-dev-2026-11-15-t5.md
+- [[curl]] - concept - dossiers/2026-11-16-1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +30,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs_1]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_AI Agents]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
 
 ## Top bridge nodes
-- [[Débats à Saint-Tropez]] - degree 5, connects to 1 community
+- [[ARTEX]] - degree 10, connects to 2 communities
+- [[Veille Outils & code 2026-11-15 (T5)]] - degree 3, connects to 1 community

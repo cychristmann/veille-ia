@@ -1,11 +1,11 @@
 ---
-source_file: "dossiers/2026-11-21-3.md"
-type: "code"
-community: "Riemann Hypothesis"
+source_file: "veilles/veille-ia-dev-2026-11-21-t3.md"
+type: "concept"
+community: "Claude"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/Riemann_Hypothesis
+  - community/Claude
 ---
 
 # Riemann Hypothesis
@@ -21,4 +21,4 @@ tags:
 - [[Veille États-Unis 2026-11-21  Autres articles]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-21  Impact sociétal, éthique et culture]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Riemann_Hypothesis
+#graphify/concept #graphify/EXTRACTED #community/Claude

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-10-t6.md"
 type: "document"
-community: "DeepSeek"
+community: "IBM"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/DeepSeek
+  - community/IBM
 ---
 
 # Veille France 2026-11-10
@@ -20,4 +20,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Orange]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/DeepSeek
+#graphify/document #graphify/EXTRACTED #community/IBM

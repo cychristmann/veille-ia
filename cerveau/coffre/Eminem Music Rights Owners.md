@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t2.md"
 type: "code"
-community: "Crise des data-centers IA"
+community: "datasette-cluster-map"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Crise_des_data-centers_IA
+  - community/datasette-cluster-map
 ---
 
 # Eminem Music Rights Owners
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Suno AI]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Crise_des_data-centers_IA
+#graphify/code #graphify/EXTRACTED #community/datasette-cluster-map

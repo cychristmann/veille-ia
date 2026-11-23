@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-12-t2.md"
 type: "document"
-community: "Amazon Bedrock AgentCore"
+community: "ARTEX"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Amazon_Bedrock_AgentCore
+  - community/ARTEX
 ---
 
 # Veille Outils & code 2026-11-12 : Déploiement et infrastructure IA
@@ -18,4 +18,4 @@ tags:
 - [[SGLang-Neuron]] - `references` [EXTRACTED]
 - [[TPU Sync]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Amazon_Bedrock_AgentCore
+#graphify/document #graphify/EXTRACTED #community/ARTEX

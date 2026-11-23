@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[ABB]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
-- [[HiPerGuard 34,5 kV]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
+- [[Feuilleton  Microsoft impulsa standards ouverts de transparence pour agents IA]] - document - feuilletons/f-0039.md
+- [[Foro3D]] - concept - feuilletons/f-0039.md
 
 ## Live Query (requires Dataview plugin)
 

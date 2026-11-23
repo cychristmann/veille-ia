@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t2.md"
 type: "document"
-community: "Veille États-Unis 2026-11-19 : Éthique, sécurité et impact sociétal"
+community: "Veille États-Unis 2026-11-14 : Impact Social, Éthique et Travail"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-19__Éthique_sécurité_et_impact_sociétal
+  - community/Veille_États-Unis_2026-11-14__Impact_Social_Éthique_et_Travail
 ---
 
 # Veille France 2026-11-09 : Finance, Bourse et IA
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-19__Éthique_sécurité_et_impact_sociétal
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Impact_Social_Éthique_et_Travail

@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Alibaba Domestic Computing Power Strategy]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
-- [[Grab AI Code Security Strategy]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
-- [[Linger Project (Open Source)]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
-- [[OpenAI Chip Redesign Breakthroughs]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
-- [[SpaceX AI Chip Debt Financing Conflict]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
-- [[Veille Chine 2026-11-20]] - document - veilles/veille-ia-cn-2026-11-20-t7.md
+- [[Coding Agent Security for AppSec Leaders]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Does AI Coding Make Secrets Sprawl Worse in CICD Pipelines]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Hackers Target AI Coding Tools to Steal Credentials]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Kiji Inspector]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Stolen Claude API keys can turn Claude Code into a remote-controlled implant]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Veille Outils & code 2026-11-12  Sécurité et gouvernance]] - document - veilles/veille-ia-dev-2026-11-12-t4.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-20-t2.md"
 type: "document"
-community: "AI in Health and Wellness"
+community: "Craig Federighi"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Health_and_Wellness
+  - community/Craig_Federighi
 ---
 
 # Veille États-Unis 2026-11-20 : Applications santé et bien‑être
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AI in Health and Wellness]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Health_and_Wellness
+#graphify/document #graphify/EXTRACTED #community/Craig_Federighi

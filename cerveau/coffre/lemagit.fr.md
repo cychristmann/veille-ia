@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-14-1.md"
 type: "concept"
-community: "Cursor"
+community: "Nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Cursor
+  - community/Nvidia
 ---
 
 # lemagit.fr
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[ANSSI]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Cursor
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

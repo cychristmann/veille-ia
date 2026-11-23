@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-21-t7.md"
 type: "document"
-community: "Riemann Hypothesis"
+community: "Claude"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Riemann_Hypothesis
+  - community/Claude
 ---
 
 # Veille États-Unis 2026-11-21 : Autres articles
@@ -16,4 +16,4 @@ tags:
 - [[MONAI Label]] - `references` [EXTRACTED]
 - [[Riemann Hypothesis]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Riemann_Hypothesis
+#graphify/document #graphify/EXTRACTED #community/Claude

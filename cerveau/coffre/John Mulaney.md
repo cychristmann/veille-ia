@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-15-t7.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-15 : Autres articles"
+community: "Veille France 2026-11-17"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-15__Autres_articles
+  - community/Veille_France_2026-11-17
 ---
 
 # John Mulaney
@@ -15,4 +15,4 @@ tags:
 - [[Mark Zuckerberg]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-15  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-15__Autres_articles
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-17

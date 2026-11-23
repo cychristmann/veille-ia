@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[HarmonyOS 7]] - code - veilles/veille-ia-cn-2026-11-17-t4.md
-- [[Huawei Mate 90]] - code - veilles/veille-ia-cn-2026-11-17-t4.md
-- [[OSTA O1 Pro]] - code - veilles/veille-ia-cn-2026-11-17-t4.md
-- [[Veille Chine 2026-11-17 (T4)]] - document - veilles/veille-ia-cn-2026-11-17-t4.md
+- [[Florida Legislature]] - concept - veilles/veille-ia-us-2026-11-22-t2.md
+- [[South Korea Financial Supervisory Service (FSS)]] - concept - veilles/veille-ia-us-2026-11-22-t2.md
+- [[South Korean Ministry of Education]] - concept - veilles/veille-ia-us-2026-11-22-t2.md
+- [[Veille États-Unis 2026-11-22  Régulation, politique et éthique]] - document - veilles/veille-ia-us-2026-11-22-t2.md
 
 ## Live Query (requires Dataview plugin)
 

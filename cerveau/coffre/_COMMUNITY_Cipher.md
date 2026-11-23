@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Cipher]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
-- [[IREN]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
-- [[TeraWulf]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
+- [[GitGuardian Good Samaritan Program]] - concept - veilles/veille-ia-dev-2026-11-17-t4.md
+- [[State of AI Impact on Software Security and Cybersecurity 2026]] - document - veilles/veille-ia-dev-2026-11-17-t4.md
+- [[Veille Outils & code 2026-11-17 (T4)]] - document - veilles/veille-ia-dev-2026-11-17-t4.md
 
 ## Live Query (requires Dataview plugin)
 

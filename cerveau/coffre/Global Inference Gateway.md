@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-21-t3.md"
 type: "concept"
-community: "Amazon SageMaker HyperPod"
+community: "JPMorgan"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Amazon_SageMaker_HyperPod
+  - community/JPMorgan
 ---
 
 # Global Inference Gateway
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Amazon SageMaker HyperPod]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Amazon_SageMaker_HyperPod
+#graphify/concept #graphify/EXTRACTED #community/JPMorgan

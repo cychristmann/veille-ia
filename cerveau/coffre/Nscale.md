@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-19-3.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-17 : Régulation et litiges"
+community: "Veille États-Unis 2026-11-12 : IA en santé et sciences de la vie"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-17__Régulation_et_litiges
+  - community/Veille_États-Unis_2026-11-12__IA_en_santé_et_sciences_de_la_vie
 ---
 
 # Nscale
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-17__Régulation_et_litiges
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-12__IA_en_santé_et_sciences_de_la_vie

@@ -8,16 +8,16 @@ members: 10
 **Members:** 10 nodes
 
 ## Members
-- [[APEC]] - concept - veilles/veille-ia-cn-2026-11-17-t5.md
-- [[Barclays Research]] - concept - dossiers/2026-11-13-2.md
-- [[Chinese Robotics Industry]] - concept - dossiers/2026-11-13-2.md
-- [[Fitch Ratings (惠誉)]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
-- [[Korean Financial Supervisory Service (韩国金融监督院)]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
-- [[Li Dongsheng]] - code - veilles/veille-ia-cn-2026-11-17-t5.md
-- [[Morgan Stanley]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
-- [[Sinch]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
-- [[TCL]] - code - veilles/veille-ia-cn-2026-11-17-t5.md
-- [[Veille Chine 2026-11-19  Régulation & Gouvernance IA]] - document - veilles/veille-ia-cn-2026-11-19-t1.md
+- [[AI in production at Microsoft Ignite]] - concept - veilles/veille-ia-dev-2026-11-12-t7.md
+- [[AgentRun]] - concept - veilles/veille-ia-dev-2026-11-12-t1.md
+- [[CopilotKit OpenBot]] - concept - veilles/veille-ia-dev-2026-11-12-t1.md
+- [[RAG Retrieval Lost 40 Points When Distracting Passages Grew to 2.68M]] - concept - veilles/veille-ia-dev-2026-11-12-t7.md
+- [[Relevance Of Software Engineering In Web Apps (Vibe Coding)]] - concept - veilles/veille-ia-dev-2026-11-12-t7.md
+- [[The Reconnection Storm How Naive WebSocket Retry Loops Trigger Thundering Herds]] - concept - veilles/veille-ia-dev-2026-11-12-t7.md
+- [[The Top 10 Best AI Coding Assistants In The World 2026]] - concept - veilles/veille-ia-dev-2026-11-12-t7.md
+- [[Veille Outils & code 2026-11-12]] - document - veilles/veille-ia-dev-2026-11-12-t1.md
+- [[Viirtue MCP]] - concept - veilles/veille-ia-dev-2026-11-12-t7.md
+- [[Zendesk Outcome AI Platform]] - concept - veilles/veille-ia-dev-2026-11-12-t7.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -27,9 +27,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_SpaceX]]
+- 2 edges to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_Apple]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
 
 ## Top bridge nodes
-- [[Veille Chine 2026-11-19  Régulation & Gouvernance IA]] - degree 6, connects to 1 community
-- [[Morgan Stanley]] - degree 3, connects to 1 community
+- [[Veille Outils & code 2026-11-12]] - degree 13, connects to 3 communities

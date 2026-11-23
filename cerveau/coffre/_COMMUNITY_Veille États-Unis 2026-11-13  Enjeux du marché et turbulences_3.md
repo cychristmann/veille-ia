@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Kong]] - concept - veilles/veille-ia-dev-2026-11-19-t1.md
+- [[AI Cheating Scandal]] - concept - dossiers/2026-11-22-2.md
 
 ## Live Query (requires Dataview plugin)
 

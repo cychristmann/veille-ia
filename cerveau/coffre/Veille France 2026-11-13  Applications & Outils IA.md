@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t2.md"
 type: "document"
-community: "Nvidia"
+community: "GPT-6 Astra"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Nvidia
+  - community/GPT-6_Astra
 ---
 
 # Veille France 2026-11-13 : Applications & Outils IA
@@ -22,4 +22,4 @@ tags:
 - [[Ogilvy]] - `references` [EXTRACTED]
 - [[Palo]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Nvidia
+#graphify/document #graphify/EXTRACTED #community/GPT-6_Astra

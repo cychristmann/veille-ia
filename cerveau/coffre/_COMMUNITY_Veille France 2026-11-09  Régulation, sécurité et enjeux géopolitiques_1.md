@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille France 2026-11-09 : Régulation, sécurité et enjeux géopolitiques
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Veille France 2026-11-09  Régulation, sécurité et enjeux géopolitiques]] - document - veilles/veille-ia-fr-2026-11-09-t3.md
+- [[Craig Federighi]] - concept - dossiers/2026-11-20-1.md
+- [[John Ternus]] - concept - dossiers/2026-11-20-1.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-13-1.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-17 : Régulation et litiges"
+community: "Lumbra"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-17__Régulation_et_litiges
+  - community/Lumbra
 ---
 
 # Arm
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-17__Régulation_et_litiges
+#graphify/concept #graphify/EXTRACTED #community/Lumbra

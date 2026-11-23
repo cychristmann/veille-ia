@@ -1,26 +1,20 @@
 ---
 type: community
-members: 13
+members: 7
 ---
 
 # AI Impact on Finance and Markets
 
-**Members:** 13 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Ant Group Lingbo Embodied AI]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
-- [[Anthropic IPO]] - concept - dossiers/2026-11-19-1.md
-- [[Boursorama]] - concept - dossiers/2026-11-19-1.md
-- [[Cryptoast]] - concept - dossiers/2026-11-20-3.md
-- [[Dr. Hendrik Leber]] - concept - dossiers/2026-11-19-1.md
-- [[France 24]] - concept - dossiers/2026-11-20-3.md
-- [[Lenovo AI Servers]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
-- [[Moneyvox]] - concept - dossiers/2026-11-20-3.md
-- [[Nasdaq]] - concept - dossiers/2026-11-20-3.md
-- [[Qwen AI Hardware]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
-- [[SEC]] - concept - dossiers/2026-11-19-1.md
-- [[Veille Chine 2026-11-19  Autres articles]] - document - veilles/veille-ia-cn-2026-11-19-t6.md
-- [[Wired]] - concept - dossiers/2026-11-19-1.md
+- [[Agent Pay]] - concept - dossiers/2026-11-17-2.md
+- [[ChatGPT]] - code - veilles/veille-ia-us-2026-11-11-t4.md
+- [[ChatGPT Pro]] - concept - dossiers/2026-11-17-2.md
+- [[ChatGPT Wallet]] - concept - veilles/veille-ia-dev-2026-11-17-t3.md
+- [[Mastercard]] - concept - feuilletons/f-0019.md
+- [[Veille États-Unis 2026-11-15  Impact culturel et médiatique de l'IA]] - document - veilles/veille-ia-us-2026-11-15-t6.md
+- [[Verifiable Intent]] - concept - dossiers/2026-11-17-2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -30,11 +24,17 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
-- 1 edge to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-19  Infrastructure et Technologie IA_1]]
+- 3 edges to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
+- 2 edges to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets]]
+- 1 edge to [[_COMMUNITY_Jensen Huang]]
+- 1 edge to [[_COMMUNITY_Qwen4-Max]]
+- 1 edge to [[_COMMUNITY_Apple_1]]
 
 ## Top bridge nodes
-- [[Anthropic IPO]] - degree 12, connects to 3 communities
-- [[SEC]] - degree 2, connects to 1 community
-- [[Nasdaq]] - degree 2, connects to 1 community
+- [[ChatGPT]] - degree 6, connects to 4 communities
+- [[ChatGPT Wallet]] - degree 7, connects to 3 communities
+- [[Mastercard]] - degree 4, connects to 2 communities
+- [[Veille États-Unis 2026-11-15  Impact culturel et médiatique de l'IA]] - degree 3, connects to 2 communities

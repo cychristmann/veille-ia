@@ -417,7 +417,7 @@
    "id": "2026-11-18-2",
    "date": "2026-11-18",
    "echeance": "2026-11-23",
-   "statut": "en_cours",
+   "statut": "perdu",
    "entite": "GitHub",
    "sections": [
     "dev"
@@ -429,7 +429,9 @@
    "enonce": "GitHub : au moins 20 articles (Outils & code) sur les 5 prochains jours",
    "raisonnement": "Le déploiement de nouvelles fonctionnalités de Copilot et des actions GitHub génère un pic d'intérêt parmi les développeurs.",
    "phrase_ia": "GitHub sera cité dans au moins 20 articles (Outils & code) pendant les cinq prochains jours.",
-   "rejoue": false
+   "rejoue": false,
+   "observe": 11,
+   "resolu_le": "2026-11-23"
   },
   {
    "id": "2026-11-19-1",
@@ -455,7 +457,7 @@
    "id": "2026-11-20-1",
    "date": "2026-11-20",
    "echeance": "2026-11-23",
-   "statut": "en_cours",
+   "statut": "perdu",
    "entite": "Anthropic",
    "sections": [
     "fr",
@@ -469,7 +471,9 @@
    "raisonnement": "Les 7‑dernier jours montrent une moyenne de 20 articles/jour en France+US, mais la tendance a baissé récemment ; 28 sur 3 jours reste plausible mais incertaine.",
    "phrase_ia": "Anthropic sera cité dans au moins 28 articles (France et États-Unis) sur les trois prochains jours.",
    "rejoue": false,
-   "probabilite_ia": 0.62
+   "probabilite_ia": 0.62,
+   "observe": 22,
+   "resolu_le": "2026-11-23"
   },
   {
    "id": "2026-11-20-2",
@@ -496,7 +500,7 @@
    "id": "2026-11-20-3",
    "date": "2026-11-20",
    "echeance": "2026-11-23",
-   "statut": "en_cours",
+   "statut": "perdu",
    "entite": "AI Agents",
    "sections": [
     "cn"
@@ -509,7 +513,9 @@
    "raisonnement": "En Chine, AI Agents a connu une hausse récente (8,3,8,12,4,8,7) avec 12 articles le jour le plus récent, suggérant un pic possible autour de 14.",
    "phrase_ia": "AI Agents sera mentionné dans au moins 14 articles (Chine) sur les trois prochains jours.",
    "rejoue": false,
-   "probabilite_ia": 0.58
+   "probabilite_ia": 0.58,
+   "observe": 0,
+   "resolu_le": "2026-11-23"
   },
   {
    "id": "2026-11-21-1",
@@ -627,6 +633,64 @@
    "phrase_ia": "Agents IA sera mentionné dans au moins 9 articles Chine au cours des quatre prochains jours.",
    "rejoue": false,
    "probabilite_ia": 0.61
+  },
+  {
+   "id": "2026-11-23-1",
+   "date": "2026-11-23",
+   "echeance": "2026-11-25",
+   "statut": "en_cours",
+   "entite": "GitHub",
+   "sections": [
+    "dev"
+   ],
+   "comparaison": "au_plus",
+   "seuil": 12,
+   "horizon": 2,
+   "probabilite": 0.54,
+   "enonce": "GitHub : au plus 12 articles (Outils & code) sur les 2 prochains jours",
+   "raisonnement": "GitHub a 25 mentions en dev sur 7 jours (≈3,6/j). Le pari précédent (≤10) était gagné, mais la tendance montre une légère hausse, rendant ≤12 incertain.",
+   "phrase_ia": "GitHub sera cité au plus 12 fois dans la section Outils & code sur les deux prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.62
+  },
+  {
+   "id": "2026-11-23-2",
+   "date": "2026-11-23",
+   "echeance": "2026-11-27",
+   "statut": "en_cours",
+   "entite": "China",
+   "sections": [
+    "cn"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 8,
+   "horizon": 4,
+   "probabilite": 0.56,
+   "enonce": "China : au moins 8 articles (Chine) sur les 4 prochains jours",
+   "raisonnement": "China a 4+3+4+3+2+4+2 = 22 mentions en cn sur 7 jours (≈3,1/j). Sur 4 jours, 8 est légèrement en dessous de l’attendu, donc probabilité élevée.",
+   "phrase_ia": "China sera cité au moins 8 fois dans la section Chine sur les quatre prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.71
+  },
+  {
+   "id": "2026-11-23-3",
+   "date": "2026-11-23",
+   "echeance": "2026-11-28",
+   "statut": "en_cours",
+   "entite": "Meta",
+   "sections": [
+    "fr",
+    "us"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 8,
+   "horizon": 5,
+   "probabilite": 0.53,
+   "enonce": "Meta : au moins 8 articles (France et États-Unis) sur les 5 prochains jours",
+   "raisonnement": "Meta totalise 7+4 = 11 mentions sur 7 jours (≈1,6/j). Sur 5 jours, 8 représente une hausse modérée mais plausible, surtout avec les récents débats sur la modération.",
+   "phrase_ia": "Meta sera cité au moins 8 fois dans les sections France et États‑Unis sur les cinq prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.59
   }
  ]
 }

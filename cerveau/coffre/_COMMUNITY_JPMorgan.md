@@ -1,22 +1,33 @@
 ---
 type: community
-members: 9
+members: 20
 ---
 
 # JPMorgan
 
-**Members:** 9 nodes
+**Members:** 20 nodes
 
 ## Members
-- [[Applied Materials]] - concept - veilles/veille-ia-us-2026-11-18-t2.md
-- [[Hyundai Card]] - concept - veilles/veille-ia-us-2026-11-18-t1.md
-- [[JPMorgan]] - concept - veilles/veille-ia-us-2026-11-18-t1.md
-- [[Kinexys]] - concept - veilles/veille-ia-cn-2026-11-18-t2.md
-- [[Pedestal AI]] - concept - veilles/veille-ia-cn-2026-11-18-t2.md
-- [[Veille Chine 2026-11-18  Financement et marché]] - document - veilles/veille-ia-cn-2026-11-18-t2.md
-- [[Veille États-Unis 2026-11-18 (T2)]] - document - veilles/veille-ia-us-2026-11-18-t2.md
-- [[Visa]] - concept - feuilletons/f-0019.md
-- [[识渊科技]] - concept - veilles/veille-ia-cn-2026-11-18-t2.md
+- [[AWS Lambda GPU Inference]] - concept - veilles/veille-ia-dev-2026-11-22-t2.md
+- [[Amazon SageMaker HyperPod]] - concept - veilles/veille-ia-dev-2026-11-22-t1.md
+- [[Claude Code LLM]] - concept - veilles/veille-ia-dev-2026-11-22-t2.md
+- [[DGX Spark]] - concept - veilles/veille-ia-dev-2026-11-22-t2.md
+- [[Distributed KV Caching]] - concept - veilles/veille-ia-dev-2026-11-22-t2.md
+- [[Dynatrace]] - concept - veilles/veille-ia-dev-2026-11-22-t3.md
+- [[GPT-Live-1.1]] - concept - veilles/veille-ia-dev-2026-11-22-t1.md
+- [[Global Inference Gateway]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[Legora]] - concept - veilles/veille-ia-dev-2026-11-22-t3.md
+- [[Microsoft 365]] - concept - veilles/veille-ia-dev-2026-11-22-t3.md
+- [[Nemotron 3 Ultra]] - concept - veilles/veille-ia-dev-2026-11-22-t2.md
+- [[Raph Levien]] - concept - veilles/veille-ia-dev-2026-11-22-t3.md
+- [[Rust]] - concept - veilles/veille-ia-dev-2026-11-22-t3.md
+- [[Slurm]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[Snap Easy Lens CLI]] - concept - veilles/veille-ia-dev-2026-11-22-t3.md
+- [[Stitch Loop]] - concept - veilles/veille-ia-dev-2026-11-22-t3.md
+- [[Veille Outils & code 2026-11-22]] - document - veilles/veille-ia-dev-2026-11-22-t2.md
+- [[Visa Agentic Ready]] - concept - veilles/veille-ia-dev-2026-11-22-t1.md
+- [[WaitFeed]] - concept - veilles/veille-ia-dev-2026-11-22-t3.md
+- [[gitroots]] - concept - veilles/veille-ia-dev-2026-11-22-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,13 +37,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-20  Gouvernance, sécurité et régulation]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17]]
+- 4 edges to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
+- 2 edges to [[_COMMUNITY_Qwen]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_Apple_1]]
+- 1 edge to [[_COMMUNITY_Amazon]]
+- 1 edge to [[_COMMUNITY_Copilot]]
+- 1 edge to [[_COMMUNITY_Veille IA Dev 2026-11-20 T3]]
 
 ## Top bridge nodes
-- [[JPMorgan]] - degree 4, connects to 1 community
-- [[Veille Chine 2026-11-18  Financement et marché]] - degree 4, connects to 1 community
-- [[Veille États-Unis 2026-11-18 (T2)]] - degree 4, connects to 1 community
-- [[Visa]] - degree 2, connects to 1 community
+- [[Veille Outils & code 2026-11-22]] - degree 25, connects to 6 communities
+- [[DGX Spark]] - degree 2, connects to 1 community

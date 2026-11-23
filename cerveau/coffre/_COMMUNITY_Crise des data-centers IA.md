@@ -1,17 +1,16 @@
 ---
 type: community
-members: 4
+members: 3
 ---
 
 # Crise des data-centers IA
 
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Elvis Presley Music Rights Owners]] - code - veilles/veille-ia-us-2026-11-08-t2.md
-- [[Eminem Music Rights Owners]] - code - veilles/veille-ia-us-2026-11-08-t2.md
-- [[Feuilleton Suno AI poursuivi]] - document - feuilletons/f-0002.md
-- [[Suno AI]] - code - veilles/veille-ia-us-2026-11-08-t2.md
+- [[Fullmetal Alchemist Director AI Critique]] - concept - veilles/veille-ia-us-2026-11-22-t5.md
+- [[Nicalis removes AI music from The Binding of Isaac]] - concept - veilles/veille-ia-us-2026-11-22-t5.md
+- [[Veille États-Unis 2026-11-22  Controverses et réactions publiques]] - document - veilles/veille-ia-us-2026-11-22-t5.md
 
 ## Live Query (requires Dataview plugin)
 

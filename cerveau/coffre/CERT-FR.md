@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-14-1.md"
 type: "concept"
-community: "Cursor"
+community: "Nvidia"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/Cursor
+  - community/Nvidia
 ---
 
 # CERT-FR
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[ICAID]] - `references` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/Cursor
+#graphify/concept #graphify/INFERRED #community/Nvidia

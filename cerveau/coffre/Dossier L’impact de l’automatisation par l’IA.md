@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-17-3.md"
 type: "document"
-community: "Veille États-Unis 2026-11-09 : Autres articles"
+community: "Cursor"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-09__Autres_articles
+  - community/Cursor
 ---
 
 # Dossier: L’impact de l’automatisation par l’IA
@@ -17,4 +17,4 @@ tags:
 - [[journaldunet.com]] - `references` [EXTRACTED]
 - [[latribune.fr]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-09__Autres_articles
+#graphify/document #graphify/EXTRACTED #community/Cursor

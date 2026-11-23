@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-17-t3.md"
 type: "concept"
-community: "Federal Reserve"
+community: "Veille États-Unis 2026-11-15 : Autres articles"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Federal_Reserve
+  - community/Veille_États-Unis_2026-11-15__Autres_articles
 ---
 
 # Mubadala
@@ -15,4 +15,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-17]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Federal_Reserve
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-15__Autres_articles

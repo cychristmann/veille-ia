@@ -1,19 +1,20 @@
 ---
 type: community
-members: 6
+members: 7
 ---
 
 # Veille IA Dev 2026-11-20 T3
 
-**Members:** 6 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Amazon SageMaker]] - concept - veilles/veille-ia-dev-2026-11-20-t3.md
-- [[Gemini]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
-- [[Ploy AI Gateway]] - concept - veilles/veille-ia-dev-2026-11-20-t3.md
-- [[Supermicro]] - concept - veilles/veille-ia-dev-2026-11-20-t3.md
-- [[Veille IA Dev 2026-11-20 T3]] - document - veilles/veille-ia-dev-2026-11-20-t3.md
-- [[Veille États-Unis 2026-11-20  Développements technologiques et agents IA]] - document - veilles/veille-ia-us-2026-11-20-t4.md
+- [[Baseten]] - concept - veilles/veille-ia-dev-2026-11-22-t6.md
+- [[Bison-1]] - concept - veilles/veille-ia-dev-2026-11-22-t6.md
+- [[Gemma 4]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
+- [[Groundhog-1]] - concept - veilles/veille-ia-dev-2026-11-22-t6.md
+- [[Inkling 2 Mini]] - concept - veilles/veille-ia-dev-2026-11-22-t3.md
+- [[Nimble]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
+- [[Ollama]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,13 +24,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_AMD_1]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Apple_1]]
-- 1 edge to [[_COMMUNITY_Tencent_1]]
+- 1 edge to [[_COMMUNITY_JPMorgan]]
+- 1 edge to [[_COMMUNITY_Hugging Face]]
 
 ## Top bridge nodes
-- [[Gemini]] - degree 4, connects to 2 communities
-- [[Veille États-Unis 2026-11-20  Développements technologiques et agents IA]] - degree 3, connects to 2 communities
-- [[Veille IA Dev 2026-11-20 T3]] - degree 5, connects to 1 community
+- [[Inkling 2 Mini]] - degree 3, connects to 2 communities

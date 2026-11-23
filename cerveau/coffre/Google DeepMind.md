@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t4.md"
 type: "code"
-community: "Veille Outils & code 2026-11-20"
+community: "Apple"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-20
+  - community/Apple
 ---
 
 # Google DeepMind
@@ -20,4 +20,4 @@ tags:
 - [[Veille États-Unis 2026-11-11  Applications sectorielles de l'IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-19  Financement et mouvements de marché]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-20
+#graphify/code #graphify/EXTRACTED #community/Apple

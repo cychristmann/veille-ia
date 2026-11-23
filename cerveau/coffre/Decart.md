@@ -1,18 +1,22 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-22-t2.md"
+source_file: "veilles/veille-ia-fr-2026-11-23-t2.md"
 type: "concept"
-community: "Veille France 2026-11-22 : Applications grand public"
+community: "Amazon"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-22__Applications_grand_public
+  - community/Amazon
 ---
 
 # Decart
 
 ## Connections
 - [[Amazon]] - `references` [EXTRACTED]
+- [[Anthropic]] - `references` [EXTRACTED]
 - [[Feuilleton Amazon acquiert la startup IA Decart]] - `references` [EXTRACTED]
+- [[Nvidia]] - `references` [EXTRACTED]
+- [[Sequoia Capital]] - `references` [EXTRACTED]
+- [[Trainium3]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-22  Business, investissements et marché IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-22__Applications_grand_public
+#graphify/concept #graphify/EXTRACTED #community/Amazon

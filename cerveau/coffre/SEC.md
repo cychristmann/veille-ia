@@ -1,5 +1,5 @@
 ---
-source_file: "dossiers/2026-11-19-1.md"
+source_file: "veilles/veille-ia-cn-2026-11-12-t2.md"
 type: "concept"
 community: "AI Impact on Finance and Markets"
 tags:

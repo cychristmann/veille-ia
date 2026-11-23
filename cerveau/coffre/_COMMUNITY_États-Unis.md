@@ -20,7 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia_2]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
 
 ## Top bridge nodes
 - [[États-Unis]] - degree 3, connects to 1 community

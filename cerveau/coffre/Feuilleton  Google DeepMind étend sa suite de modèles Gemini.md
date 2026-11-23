@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0010.md"
 type: "document"
-community: "Veille Outils & code 2026-11-20"
+community: "Apple"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-20
+  - community/Apple
 ---
 
 # Feuilleton : Google DeepMind étend sa suite de modèles Gemini
@@ -17,4 +17,4 @@ tags:
 - [[Gemini 4 Neon]] - `references` [EXTRACTED]
 - [[Gemini Decisions]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-20
+#graphify/document #graphify/EXTRACTED #community/Apple

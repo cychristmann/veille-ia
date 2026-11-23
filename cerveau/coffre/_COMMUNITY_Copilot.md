@@ -30,26 +30,27 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_GPT-6 Astra]]
-- 3 edges to [[_COMMUNITY_Veille Outils & code 2026-11-20]]
-- 3 edges to [[_COMMUNITY_Veille Outils & code 2026-11-14  Autres articles]]
+- 3 edges to [[_COMMUNITY_Apple]]
+- 3 edges to [[_COMMUNITY_GPT-6 Astra_1]]
+- 3 edges to [[_COMMUNITY_AMD_1]]
 - 2 edges to [[_COMMUNITY_Microsoft]]
+- 2 edges to [[_COMMUNITY_Veille Outils & code 2026-11-15]]
 - 2 edges to [[_COMMUNITY_Veille Chine 2026-11-11  Marchés et investissements]]
-- 2 edges to [[_COMMUNITY_Claude]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-22]]
 - 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Nvidia_1]]
 - 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_DeepSeek_1]]
+- 1 edge to [[_COMMUNITY_Model Context Protocol (MCP)_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
+- 1 edge to [[_COMMUNITY_ARTEX]]
+- 1 edge to [[_COMMUNITY_Cursor_1]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_JPMorgan]]
 - 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
-- 1 edge to [[_COMMUNITY_Model Context Protocol (MCP)]]
-- 1 edge to [[_COMMUNITY_Jensen Huang]]
-- 1 edge to [[_COMMUNITY_Amazon Bedrock AgentCore]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20_1]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
 
 ## Top bridge nodes
 - [[Copilot]] - degree 18, connects to 9 communities
 - [[Gemini 4 Neon]] - degree 10, connects to 4 communities
-- [[Opus 5.5]] - degree 6, connects to 3 communities
+- [[Opus 5.5]] - degree 7, connects to 4 communities
 - [[GPT-6.2 Sol]] - degree 6, connects to 3 communities
 - [[Veille Outils & code 2026-11-19]] - degree 3, connects to 1 community

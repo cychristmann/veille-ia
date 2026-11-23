@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-15-1.md"
 type: "concept"
-community: "Feuilleton: Compromission massive du Microsoft Agent Framework"
+community: "Dossier: Scandale Nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
+  - community/Dossier_Scandale_Nvidia
 ---
 
 # Colette Kress
@@ -14,4 +14,4 @@ tags:
 - [[Dossier Scandale Nvidia]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
+#graphify/concept #graphify/EXTRACTED #community/Dossier_Scandale_Nvidia

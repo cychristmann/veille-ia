@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0008.md"
 type: "concept"
-community: "T-Head"
+community: "AMD"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/T-Head
+  - community/AMD
 ---
 
 # Zonebourse Suisse
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[T-Head]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/T-Head
+#graphify/concept #graphify/EXTRACTED #community/AMD

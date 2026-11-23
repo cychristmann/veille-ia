@@ -1,5 +1,5 @@
 ---
-source_file: "dossiers/2026-11-20-3.md"
+source_file: "feuilletons/f-0003.md"
 type: "concept"
 community: "AI Impact on Finance and Markets"
 tags:

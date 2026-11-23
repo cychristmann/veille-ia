@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[Dianli ETF Jingshun (159158)]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
-- [[JinJing XinNeng (01783)]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
-- [[Shengmei Semiconductor]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
-- [[Veille Chine 2026-11-16  Infrastructure et puissance de calcul]] - document - veilles/veille-ia-cn-2026-11-16-t2.md
+- [[SC Media]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
+- [[Veille États-Unis 2026-11-08  Perception publique et sociétale]] - document - veilles/veille-ia-us-2026-11-08-t5.md
+- [[tech-insider.org]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
+- [[vr.org]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
 
 ## Live Query (requires Dataview plugin)
 

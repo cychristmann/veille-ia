@@ -24,9 +24,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_AMD_1]]
-- 1 edge to [[_COMMUNITY_Riemann Hypothesis]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
+- 1 edge to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets]]
+- 1 edge to [[_COMMUNITY_Claude]]
 
 ## Top bridge nodes
 - [[Hypothèse de Riemann]] - degree 6, connects to 2 communities

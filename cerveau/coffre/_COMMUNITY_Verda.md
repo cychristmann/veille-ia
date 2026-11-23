@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille France 2026-11-18]] - document - veilles/veille-ia-fr-2026-11-18-t6.md
+- [[Qwen3.8]] - concept - veilles/veille-ia-dev-2026-11-15-t2.md
 
 ## Live Query (requires Dataview plugin)
 

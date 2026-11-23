@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0021.md"
 type: "concept"
-community: "Veille Chine 2026-11-13"
+community: "Veille Outils & code 2026-11-14 : Autres articles"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-13
+  - community/Veille_Outils__code_2026-11-14__Autres_articles
 ---
 
 # Feng Runhuan
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Feuilleton L'IA en tête des risques pour la stabilité financière]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-13
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-14__Autres_articles

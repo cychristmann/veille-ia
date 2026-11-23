@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-21-t3.md"
 type: "document"
-community: "Veille Chine 2026-11-21 : Applications sectorielles de l’IA"
+community: "IBM"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-21__Applications_sectorielles_de_lIA
+  - community/IBM
 ---
 
 # Veille Chine 2026-11-21 : Applications sectorielles de l’IA
@@ -17,4 +17,4 @@ tags:
 - [[程子芮：AI推动金融科技从数字化到数智化]] - `references` [EXTRACTED]
 - [[香港人工智能与生命科学伦理研究院]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-21__Applications_sectorielles_de_lIA
+#graphify/document #graphify/EXTRACTED #community/IBM

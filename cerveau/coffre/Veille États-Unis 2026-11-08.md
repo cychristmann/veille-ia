@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t4.md"
 type: "document"
-community: "Veille États-Unis 2026-11-08"
+community: "AMD"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-08
+  - community/AMD
 ---
 
 # Veille États-Unis 2026-11-08
@@ -17,4 +17,4 @@ tags:
 - [[Palantir]] - `references` [EXTRACTED]
 - [[Xiao and Cai, “Follow the Policy, Fail the Benchmark”, arXiv 2611.07042]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08
+#graphify/document #graphify/EXTRACTED #community/AMD

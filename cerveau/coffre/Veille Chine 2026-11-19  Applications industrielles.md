@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t3.md"
 type: "document"
-community: "Veille France 2026-11-14 : Société, éducation et culture"
+community: "Veille États-Unis 2026-11-22 : Applications et outils IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-14__Société_éducation_et_culture
+  - community/Veille_États-Unis_2026-11-22__Applications_et_outils_IA
 ---
 
 # Veille Chine 2026-11-19 : Applications industrielles
@@ -15,4 +15,4 @@ tags:
 - [[SeedRealtime 1.0]] - `references` [EXTRACTED]
 - [[Yuewen]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-14__Société_éducation_et_culture
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-22__Applications_et_outils_IA

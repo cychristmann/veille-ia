@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-15-t4.md"
 type: "concept"
-community: "IBM"
+community: "Microsoft"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/IBM
+  - community/Microsoft
 ---
 
 # IBM
@@ -18,4 +18,4 @@ tags:
 - [[Veille États-Unis 2026-11-17  Développements technologiques et infrastructure]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-17  Marchés et finance]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/IBM
+#graphify/concept #graphify/EXTRACTED #community/Microsoft

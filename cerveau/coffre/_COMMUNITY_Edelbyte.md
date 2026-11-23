@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Edelbyte
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Bland]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
-- [[Tofu-1]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[Veille Outils & code 2026-11-21  Plateformes et intégrations IA]] - document - veilles/veille-ia-dev-2026-11-21-t3.md
 
 ## Live Query (requires Dataview plugin)
 

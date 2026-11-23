@@ -1,11 +1,11 @@
 ---
-source_file: "dossiers/2026-11-22-1.md"
+source_file: "veilles/veille-ia-dev-2026-11-23-t2.md"
 type: "concept"
-community: "Riemann Hypothesis"
+community: "Claude"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Riemann_Hypothesis
+  - community/Claude
 ---
 
 # Levent Alpöge
@@ -15,6 +15,7 @@ tags:
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Claude]] - `conceptually_related_to` [INFERRED]
 - [[Claude]] - `references` [EXTRACTED]
+- [[Claude Code]] - `references` [EXTRACTED]
 - [[Hypothèse de Riemann]] - `conceptually_related_to` [EXTRACTED]
 - [[Lean 4]] - `references` [EXTRACTED]
 - [[Riemann Hypothesis]] - `references` [EXTRACTED]
@@ -22,4 +23,4 @@ tags:
 - [[Veille France 2026-11-22  Mathématiques et IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-21  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Riemann_Hypothesis
+#graphify/concept #graphify/EXTRACTED #community/Claude

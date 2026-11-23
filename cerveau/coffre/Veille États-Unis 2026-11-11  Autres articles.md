@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t6.md"
 type: "document"
-community: "AWS Emulator"
+community: "David Tepper"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AWS_Emulator
+  - community/David_Tepper
 ---
 
 # Veille États-Unis 2026-11-11 : Autres articles
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Broadcom]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AWS_Emulator
+#graphify/document #graphify/EXTRACTED #community/David_Tepper

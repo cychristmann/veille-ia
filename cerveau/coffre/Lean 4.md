@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-12-t4.md"
 type: "concept"
-community: "Riemann Hypothesis"
+community: "Claude"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Riemann_Hypothesis
+  - community/Claude
 ---
 
 # Lean 4
@@ -18,4 +18,4 @@ tags:
 - [[Levent Alpöge]] - `references` [EXTRACTED]
 - [[Riemann Hypothesis]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Riemann_Hypothesis
+#graphify/concept #graphify/EXTRACTED #community/Claude

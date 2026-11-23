@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-22-t4.md"
 type: "document"
-community: "DeepSeek"
+community: "Amazon Bedrock AgentCore"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/DeepSeek
+  - community/Amazon_Bedrock_AgentCore
 ---
 
 # Veille France 2026-11-22 : Régulation, éthique et société
@@ -15,4 +15,4 @@ tags:
 - [[ONU IA armement]] - `references` [EXTRACTED]
 - [[Souveraineté cognitive]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/DeepSeek
+#graphify/document #graphify/EXTRACTED #community/Amazon_Bedrock_AgentCore

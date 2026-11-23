@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Trust3 AI
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Kindo]] - concept - veilles/veille-ia-dev-2026-11-16-t4.md
-- [[Veille Outils & code 2026-11-16  Plateformes, marchés et produits IA]] - document - veilles/veille-ia-dev-2026-11-16-t4.md
+- [[Arnaques à l’IA]] - concept - veilles/veille-ia-fr-2026-11-16-t1.md
+- [[Cybersécurité et IA]] - concept - veilles/veille-ia-fr-2026-11-16-t1.md
+- [[Veille France 2026-11-16  Régulation, sécurité et gouvernance]] - document - veilles/veille-ia-fr-2026-11-16-t1.md
 
 ## Live Query (requires Dataview plugin)
 

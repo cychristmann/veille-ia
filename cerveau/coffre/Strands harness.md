@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-19-t1.md"
 type: "concept"
-community: "Amazon Bedrock AgentCore"
+community: "ARTEX"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Amazon_Bedrock_AgentCore
+  - community/ARTEX
 ---
 
 # Strands harness
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Amazon Bedrock AgentCore]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Amazon_Bedrock_AgentCore
+#graphify/concept #graphify/EXTRACTED #community/ARTEX

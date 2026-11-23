@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-15-t6.md"
 type: "document"
-community: "Veille Outils & code 2026-11-19 : Infrastructure et optimisation IA"
+community: "AI Impact on Finance and Markets"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-19__Infrastructure_et_optimisation_IA
+  - community/AI_Impact_on_Finance_and_Markets
 ---
 
 # Veille États-Unis 2026-11-15 : Impact culturel et médiatique de l'IA
@@ -15,4 +15,4 @@ tags:
 - [[Jensen Huang]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-19__Infrastructure_et_optimisation_IA
+#graphify/document #graphify/EXTRACTED #community/AI_Impact_on_Finance_and_Markets

@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille France 2026-11-09 : Finance, Bourse et IA
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Ming-Chi Kuo]] - concept - dossiers/2026-11-13-1.md
+- [[AI ‘Handoverism’. Who Wants to Hand AI the Keys AI-RTZ 1276]] - concept - veilles/veille-ia-us-2026-11-20-t6.md
+- [[Veille États-Unis 2026-11-20  Autres articles]] - document - veilles/veille-ia-us-2026-11-20-t6.md
 
 ## Live Query (requires Dataview plugin)
 

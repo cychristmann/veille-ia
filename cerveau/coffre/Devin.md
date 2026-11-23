@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-20-t2.md"
+source_file: "veilles/veille-ia-dev-2026-11-21-t1.md"
 type: "concept"
 community: "Veille Outils & code 2026-11-21"
 tags:

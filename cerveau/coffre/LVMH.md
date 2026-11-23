@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-17-t2.md"
+source_file: "veilles/veille-ia-us-2026-11-18-t6.md"
 type: "concept"
-community: "Amazon Bedrock"
+community: "Veille États-Unis 2026-11-13 : Développements et investissements corporatifs"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Amazon_Bedrock
+  - community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
 ---
 
 # LVMH
@@ -15,4 +15,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-18]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Amazon_Bedrock
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs

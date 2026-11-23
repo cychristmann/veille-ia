@@ -1,9 +1,9 @@
 ---
 source_file: "feuilletons/f-0018.md"
-type: "code"
+type: "concept"
 community: "Nvidia"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
   - community/Nvidia
 ---
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Nvidia
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

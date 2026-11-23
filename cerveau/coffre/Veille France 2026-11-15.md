@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-15-t2.md"
+source_file: "veilles/veille-ia-fr-2026-11-15-t3.md"
 type: "document"
-community: "Veille États-Unis 2026-11-13 : Développements et investissements corporatifs"
+community: "Nvidia"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+  - community/Nvidia
 ---
 
 # Veille France 2026-11-15
@@ -30,4 +30,4 @@ tags:
 - [[This Is Unreal (Spectacle)]] - `references` [EXTRACTED]
 - [[Universités britanniques]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+#graphify/document #graphify/EXTRACTED #community/Nvidia

@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Nscale
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[248 Ventures]] - concept - dossiers/2026-11-16-2.md
+- [[LEO Technologies]] - concept - veilles/veille-ia-us-2026-11-22-t4.md
+- [[Verus]] - concept - veilles/veille-ia-us-2026-11-22-t4.md
 
 ## Live Query (requires Dataview plugin)
 

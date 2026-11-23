@@ -12,6 +12,7 @@ tags:
 
 ## Connections
 - [[Anthropic]] - `references` [EXTRACTED]
+- [[Elon Musk]] - `references` [EXTRACTED]
 - [[Fable 5.2]] - `conceptually_related_to` [EXTRACTED]
 - [[GPT-6.2 Sol]] - `conceptually_related_to` [EXTRACTED]
 - [[Gemini 4 Neon]] - `references` [EXTRACTED]

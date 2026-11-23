@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t7.md"
 type: "document"
-community: "Apple"
+community: "Veille France 2026-11-12 : Régulation, éthique et impacts sociétaux"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Apple
+  - community/Veille_France_2026-11-12__Régulation_éthique_et_impacts_sociétaux
 ---
 
 # Veille États-Unis 2026-11-12
@@ -27,4 +27,4 @@ tags:
 - [[PODCAST Anthropic heads for the ultimate AI benchmark]] - `cites` [EXTRACTED]
 - [[US and China are failing the same AI race, only differently]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Apple
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-12__Régulation_éthique_et_impacts_sociétaux

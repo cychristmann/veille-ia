@@ -1,25 +1,34 @@
 ---
 type: community
-members: 12
+members: 21
 ---
 
 # GPT-6 Astra
 
-**Members:** 12 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[Business Hub]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
-- [[Fable 5.2]] - concept - veilles/veille-ia-dev-2026-11-18-t1.md
-- [[GPT-6 Astra]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
-- [[LLM Evaluation]] - concept - veilles/veille-ia-dev-2026-11-22-t4.md
-- [[Shield]] - concept - veilles/veille-ia-fr-2026-11-14-t2.md
-- [[Surge]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
-- [[Ubuntu]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
-- [[Veille France 2026-11-19]] - document - veilles/veille-ia-fr-2026-11-19-t4.md
-- [[Veille Outils & code 2026-11-12  Coût, tokenomics et optimisation]] - document - veilles/veille-ia-dev-2026-11-12-t3.md
-- [[Veille Outils & code 2026-11-22 (t4)]] - document - veilles/veille-ia-dev-2026-11-22-t4.md
-- [[datasette]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
-- [[datasette-maplibre]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Adobe MAX 2026]] - concept - veilles/veille-ia-cn-2026-11-11-t3.md
+- [[CAA]] - concept - veilles/veille-ia-fr-2026-11-11-t2.md
+- [[CLARA]] - code - feuilletons/f-0017.md
+- [[Daft Punk]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[DeepL Aure]] - concept - veilles/veille-ia-cn-2026-11-11-t3.md
+- [[ECHO]] - concept - veilles/veille-ia-fr-2026-11-11-t2.md
+- [[Feuilleton CLARA révolutionne le calcul des bioréacteurs]] - document - feuilletons/f-0017.md
+- [[GTA VI]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Google DeepMind Hurricane Model]] - concept - veilles/veille-ia-cn-2026-11-11-t3.md
+- [[Japanese Bias in AI]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Kick]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Krea]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[LEGO]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[MiniMax Model]] - concept - veilles/veille-ia-cn-2026-11-11-t3.md
+- [[Mozart AI]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Ogilvy]] - concept - veilles/veille-ia-fr-2026-11-11-t2.md
+- [[Palo]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Project Screen Test]] - concept - veilles/veille-ia-cn-2026-11-11-t3.md
+- [[Project Sight Span]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Veille Chine 2026-11-11  Applications sectorielles]] - document - veilles/veille-ia-cn-2026-11-11-t3.md
+- [[Veille France 2026-11-13  Applications & Outils IA]] - document - veilles/veille-ia-fr-2026-11-13-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,21 +38,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Copilot]]
-- 2 edges to [[_COMMUNITY_Anthropic]]
-- 2 edges to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
-- 1 edge to [[_COMMUNITY_Riemann Hypothesis]]
-- 1 edge to [[_COMMUNITY_Nvidia_1]]
-- 1 edge to [[_COMMUNITY_Claude]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-12  Régulation, éthique et impacts sociétaux]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-08_1]]
-- 1 edge to [[_COMMUNITY_AMD_1]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-22]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-11  Marchés et investissements]]
+- 1 edge to [[_COMMUNITY_Apple]]
 
 ## Top bridge nodes
-- [[GPT-6 Astra]] - degree 12, connects to 7 communities
-- [[Veille France 2026-11-19]] - degree 6, connects to 3 communities
-- [[Fable 5.2]] - degree 5, connects to 3 communities
-- [[Business Hub]] - degree 2, connects to 1 community
-- [[datasette-maplibre]] - degree 2, connects to 1 community
+- [[Veille France 2026-11-13  Applications & Outils IA]] - degree 10, connects to 1 community

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-11-t5.md"
 type: "concept"
-community: "Veille Chine 2026-11-19 : Infrastructure et Technologie IA"
+community: "Veille France 2026-11-17"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA
+  - community/Veille_France_2026-11-17
 ---
 
 # Pingtouge (T-Head)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-11]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-17

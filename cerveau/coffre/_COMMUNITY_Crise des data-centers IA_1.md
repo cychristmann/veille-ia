@@ -1,16 +1,15 @@
 ---
 type: community
-members: 3
+members: 2
 ---
 
 # Crise des data-centers IA
 
-**Members:** 3 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Arnaques à l’IA]] - concept - veilles/veille-ia-fr-2026-11-16-t1.md
-- [[Cybersécurité et IA]] - concept - veilles/veille-ia-fr-2026-11-16-t1.md
-- [[Veille France 2026-11-16  Régulation, sécurité et gouvernance]] - document - veilles/veille-ia-fr-2026-11-16-t1.md
+- [[Arkestro AI]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
+- [[Phillips 66]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0028.md"
 type: "concept"
-community: "ARTEX"
+community: "Débats à Saint-Tropez"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ARTEX
+  - community/Débats_à_Saint-Tropez
 ---
 
 # FBI
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[ARTEX]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/ARTEX
+#graphify/concept #graphify/EXTRACTED #community/Débats_à_Saint-Tropez

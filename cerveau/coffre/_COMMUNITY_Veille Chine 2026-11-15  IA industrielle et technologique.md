@@ -1,15 +1,14 @@
 ---
 type: community
-members: 7
+members: 6
 ---
 
 # Veille Chine 2026-11-15 : IA industrielle et technologique
 
-**Members:** 7 nodes
+**Members:** 6 nodes
 
 ## Members
 - [[Cadence]] - concept - veilles/veille-ia-us-2026-11-15-t3.md
-- [[SK Hynix]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
 - [[Samsung]] - concept - dossiers/2026-11-20-3.md
 - [[Shanghai Universities]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - document - veilles/veille-ia-cn-2026-11-15-t2.md
@@ -24,12 +23,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
-- 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Nvidia_2]]
+- 2 edges to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
 - 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-21]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-21_1]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-23  Adoption industrielle et entreprises]]
 
 ## Top bridge nodes
-- [[Veille Chine 2026-11-15  IA industrielle et technologique]] - degree 8, connects to 5 communities
+- [[Veille Chine 2026-11-15  IA industrielle et technologique]] - degree 8, connects to 6 communities
 - [[Samsung]] - degree 3, connects to 1 community

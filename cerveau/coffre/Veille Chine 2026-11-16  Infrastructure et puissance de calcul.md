@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-16-t2.md"
 type: "document"
-community: "IA et système financier"
+community: "Qualified"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/IA_et_système_financier
+  - community/Qualified
 ---
 
 # Veille Chine 2026-11-16 : Infrastructure et puissance de calcul
@@ -15,4 +15,4 @@ tags:
 - [[JinJing XinNeng (01783)]] - `references` [EXTRACTED]
 - [[Shengmei Semiconductor]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/IA_et_système_financier
+#graphify/document #graphify/EXTRACTED #community/Qualified

@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[LEO Technologies]] - concept - veilles/veille-ia-us-2026-11-22-t4.md
-- [[Verus]] - concept - veilles/veille-ia-us-2026-11-22-t4.md
+- [[Alpamayo 2 Edge]] - concept - veilles/veille-ia-dev-2026-11-23-t1.md
+- [[DRIVE Thor]] - concept - veilles/veille-ia-dev-2026-11-23-t1.md
 
 ## Live Query (requires Dataview plugin)
 

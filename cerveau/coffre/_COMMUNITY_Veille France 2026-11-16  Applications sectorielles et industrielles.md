@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[Géopolitique de l'IA]] - concept - veilles/veille-ia-fr-2026-11-19-t6.md
-- [[IA dans l'éducation]] - concept - veilles/veille-ia-fr-2026-11-19-t6.md
-- [[Réglementation de l'IA]] - concept - veilles/veille-ia-fr-2026-11-19-t6.md
-- [[Veille France 2026-11-19  Autres articles]] - document - veilles/veille-ia-fr-2026-11-19-t6.md
+- [[Datasette Agent]] - concept - veilles/veille-ia-fr-2026-11-15-t4.md
+- [[Veille France 2026-11-15  Recherche, outils et modèles IA]] - document - veilles/veille-ia-fr-2026-11-15-t4.md
+- [[Vincent Courboulay]] - concept - veilles/veille-ia-fr-2026-11-15-t4.md
+- [[datasette-llm]] - concept - veilles/veille-ia-fr-2026-11-15-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,8 +21,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
+- 1 edge to [[_COMMUNITY_Microsoft]]
 - 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
+- 1 edge to [[_COMMUNITY_AMD_1]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_Jensen Huang]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-19  Autres articles]] - degree 5, connects to 2 communities
+- [[Veille France 2026-11-15  Recherche, outils et modèles IA]] - degree 6, connects to 4 communities
+- [[datasette-llm]] - degree 3, connects to 1 community

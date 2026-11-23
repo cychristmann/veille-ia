@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-17-t3.md"
 type: "document"
-community: "Tencent"
+community: "Qwen4-Max"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Tencent
+  - community/Qwen4-Max
 ---
 
 # Veille Outils & code 2026-11-17 (T3)
@@ -17,4 +17,4 @@ tags:
 - [[Qwen4-Max]] - `references` [EXTRACTED]
 - [[Rubin]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Tencent
+#graphify/document #graphify/EXTRACTED #community/Qwen4-Max

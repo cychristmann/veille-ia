@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille Outils & code 2026-11-21  Autres articles]] - document - veilles/veille-ia-dev-2026-11-21-t4.md
+- [[S&P 500]] - concept - veilles/veille-ia-fr-2026-11-21-t2.md
 
 ## Live Query (requires Dataview plugin)
 

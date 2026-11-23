@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-17-t6.md"
+source_file: "veilles/veille-ia-cn-2026-11-17-t2.md"
 type: "document"
 community: "Veille Chine 2026-11-17"
 tags:

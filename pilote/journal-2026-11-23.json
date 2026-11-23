@@ -1,0 +1,257 @@
+{
+ "date": "2026-11-23",
+ "mode": "ia",
+ "bilan": "La veille a atteint les objectifs de quantité d'articles dans chaque section. Les liens directs sont corrects pour la France et les États‑Unis, mais restent très faibles pour la Chine. Une source clé, Hacker News, est en panne, ce qui réduit le nombre de liens directs dans Outils & code. Le quota Groq est bien en dessous de la limite, offrant de la capacité supplémentaire. Une expérience est mise en place pour réduire la part de Google Actualités en France afin d'augmenter les liens directs.",
+ "a_surveiller": [
+  "Le pourcentage de liens directs reste faible pour la Chine (16 %).",
+  "La source Hacker News reste en panne partielle, affectant la section Outils & code.",
+  "Le quota Groq est encore sous-utilisé (61 %), laissant de la marge pour de nouvelles expériences."
+ ],
+ "lecon": "",
+ "actions": [
+  {
+   "date": "2026-11-23",
+   "action": "annuler_reglage",
+   "section": "cn",
+   "source": "part de Google Actualités 1.0 → 0.8",
+   "motif": "score 70.6/100 sur 3 nuits, contre 70.6 avant (+0.0)",
+   "raison": "Verdict mesuré de l'essai, appliqué d'office.",
+   "resultat": "retour au réglage d'avant",
+   "libelle": "Expérience sans effet Chine : part de Google Actualités 1.0 → 0.8, retour arrière"
+  },
+  {
+   "date": "2026-11-23",
+   "action": "experimenter",
+   "section": "fr",
+   "source": "part de Google Actualités 1.0 → 0.8",
+   "motif": "score actuel 78.4/100",
+   "raison": "Réduire la part de Google Actualités en France devrait augmenter le pourcentage de liens directs, améliorant le score global.",
+   "resultat": "essai pendant 3 nuits",
+   "libelle": "Expérience France : part de Google Actualités 1.0 → 0.8"
+  }
+ ],
+ "refusees": [
+  {
+   "type": "ouvrir_section",
+   "section": "sujet",
+   "source": "Hypothèse de Riemann",
+   "motif": "14 articles en 2 jours, 5.0 fois plus que d'habitude (1.4 par jour)",
+   "libelle": "Nouvelle rubrique « Hypothèse de Riemann »",
+   "raison": "L'ouverture de la rubrique « Hypothèse de Riemann » ne correspond pas à un événement majeur de plusieurs jours."
+  },
+  {
+   "type": "pause",
+   "section": "dev",
+   "source": "Ollama",
+   "motif": "muet : aucun article récent sur l'IA en 6 nuits (383 articles lus)",
+   "libelle": "Mise en pause de Ollama (Outils & code)",
+   "raison": "Hacker News fournit encore des articles utiles malgré la panne partielle, il faut donc le garder."
+  }
+ ],
+ "en_pause": [
+  {
+   "section": "dev",
+   "source": "KDnuggets",
+   "depuis": "2026-11-19",
+   "motif": "hors sujet : 5 articles écartés, aucun retenu en 7 nuits"
+  },
+  {
+   "section": "dev",
+   "source": "JetBrains AI",
+   "depuis": "2026-11-21",
+   "motif": "muet : aucun article récent sur l'IA en 4 nuits (48 articles lus)"
+  },
+  {
+   "section": "dev",
+   "source": "Cursor",
+   "depuis": "2026-11-21",
+   "motif": "muet : aucun article récent sur l'IA en 4 nuits (200 articles lus)"
+  },
+  {
+   "section": "dev",
+   "source": "Design News",
+   "depuis": "2026-11-22",
+   "motif": "en panne 5 nuits d'affilée"
+  },
+  {
+   "section": "cn",
+   "source": "新浪科技",
+   "depuis": "2026-11-21",
+   "motif": "muet : aucun article récent sur l'IA en 4 nuits (60 articles lus)"
+  }
+ ],
+ "en_essai": [
+  {
+   "section": "dev",
+   "source": "NeoTeo",
+   "depuis": "2026-11-17",
+   "raison": "30 % d'articles IA, forte spécialisation technique, apporte une valeur ajoutée importante."
+  },
+  {
+   "section": "fr",
+   "source": "Quartz en Français",
+   "depuis": "2026-11-17",
+   "raison": "10 % d'articles IA avec des sujets pertinents (cybersécurité, deepfakes) ; source fiable et spécialisée."
+  }
+ ],
+ "lecons": [
+  {
+   "date": "2026-11-17",
+   "texte": "Tester régulièrement de nouveaux médias aide à maintenir un haut pourcentage de liens directs et à diversifier les sources."
+  },
+  {
+   "date": "2026-11-20",
+   "texte": "Pour les sections où les liens directs sont très faibles, réduire la dépendance à Google Actualités et chercher davantage de sources directes améliore la qualité des références."
+  },
+  {
+   "date": "2026-11-21",
+   "texte": "Pour les sections où les liens directs sont très faibles, comme la Chine, il faut diversifier rapidement les sources et réduire la dépendance aux agrégateurs afin d'augmenter la proportion de liens directs."
+  },
+  {
+   "date": "2026-11-22",
+   "texte": "Diversifier rapidement les sources chinoises et remplacer les médias en panne permet d'augmenter le taux de liens directs, ce qui améliore la qualité globale de la veille."
+  }
+ ],
+ "paris": {
+  "nouveaux": [
+   {
+    "enonce": "GitHub : au plus 12 articles (Outils & code) sur les 2 prochains jours",
+    "probabilite": 0.54,
+    "echeance": "2026-11-25",
+    "statut": "en_cours",
+    "observe": null,
+    "raisonnement": "GitHub a 25 mentions en dev sur 7 jours (≈3,6/j). Le pari précédent (≤10) était gagné, mais la tendance montre une légère hausse, rendant ≤12 incertain."
+   },
+   {
+    "enonce": "China : au moins 8 articles (Chine) sur les 4 prochains jours",
+    "probabilite": 0.56,
+    "echeance": "2026-11-27",
+    "statut": "en_cours",
+    "observe": null,
+    "raisonnement": "China a 4+3+4+3+2+4+2 = 22 mentions en cn sur 7 jours (≈3,1/j). Sur 4 jours, 8 est légèrement en dessous de l’attendu, donc probabilité élevée."
+   },
+   {
+    "enonce": "Meta : au moins 8 articles (France et États-Unis) sur les 5 prochains jours",
+    "probabilite": 0.53,
+    "echeance": "2026-11-28",
+    "statut": "en_cours",
+    "observe": null,
+    "raisonnement": "Meta totalise 7+4 = 11 mentions sur 7 jours (≈1,6/j). Sur 5 jours, 8 représente une hausse modérée mais plausible, surtout avec les récents débats sur la modération."
+   }
+  ],
+  "resolus": [
+   {
+    "enonce": "GitHub : au moins 20 articles (Outils & code) sur les 5 prochains jours",
+    "probabilite": 0.66,
+    "echeance": "2026-11-23",
+    "statut": "perdu",
+    "observe": 11,
+    "raisonnement": "Le déploiement de nouvelles fonctionnalités de Copilot et des actions GitHub génère un pic d'intérêt parmi les développeurs."
+   },
+   {
+    "enonce": "Anthropic : au moins 28 articles (France et États-Unis) sur les 3 prochains jours",
+    "probabilite": 0.54,
+    "echeance": "2026-11-23",
+    "statut": "perdu",
+    "observe": 22,
+    "raisonnement": "Les 7‑dernier jours montrent une moyenne de 20 articles/jour en France+US, mais la tendance a baissé récemment ; 28 sur 3 jours reste plausible mais incertaine."
+   },
+   {
+    "enonce": "AI Agents : au moins 14 articles (Chine) sur les 3 prochains jours",
+    "probabilite": 0.52,
+    "echeance": "2026-11-23",
+    "statut": "perdu",
+    "observe": 0,
+    "raisonnement": "En Chine, AI Agents a connu une hausse récente (8,3,8,12,4,8,7) avec 12 articles le jour le plus récent, suggérant un pic possible autour de 14."
+   }
+  ],
+  "refus": [
+   "« Anthropic sera cité au moins 20 fois dans les sections France et États‑Unis sur les trois prochains jours. » : gagné d'avance au vu des jours passés",
+   "« Claude sera cité au plus 9 fois dans la section Outils & code sur les trois prochains jours. » : déjà un pari en cours sur Claude",
+   "« AI Agents sera cité au plus 5 fois dans la section Chine sur les trois prochains jours. » : gagné d'avance au vu des jours passés"
+  ],
+  "score": {
+   "tranches": 24,
+   "gagnes": 9,
+   "reussite": 38,
+   "correction": 0.3,
+   "confiance_moyenne": 67,
+   "brier": 0.325,
+   "paliers": {
+    "50-64 %": {
+     "paris": 6,
+     "reussite": 33
+    },
+    "65-79 %": {
+     "paris": 18,
+     "reussite": 39
+    }
+   }
+  }
+ },
+ "section_ephemere": null,
+ "experiences": [
+  {
+   "section": "dev",
+   "libelle": "part de Google Actualités 0.35 → 0.5",
+   "depuis": "2026-11-21",
+   "base": 77.8,
+   "hypothese": "Tester une augmentation de la part de Google Actualités (0.35→0.5) pour Outils & code afin de vérifier son impact sur le taux de liens directs."
+  },
+  {
+   "section": "us",
+   "libelle": "part de Google Actualités 1.0 → 0.8",
+   "depuis": "2026-11-22",
+   "base": 77.3,
+   "hypothese": "Réduire la part de Google Actualités à 0.8 pour les États‑Unis devrait augmenter le pourcentage de liens directs, ce qui est le point le plus faible après la Chine."
+  },
+  {
+   "section": "fr",
+   "libelle": "part de Google Actualités 1.0 → 0.8",
+   "depuis": "2026-11-23",
+   "base": 78.4,
+   "hypothese": "Réduire la part de Google Actualités en France devrait augmenter le pourcentage de liens directs, améliorant le score global."
+  }
+ ],
+ "indicateurs": {
+  "sections": {
+   "fr": {
+    "nom": "France",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 62,
+    "pannes": []
+   },
+   "us": {
+    "nom": "États-Unis",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 50,
+    "pannes": []
+   },
+   "cn": {
+    "nom": "Chine",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 16,
+    "pannes": []
+   },
+   "dev": {
+    "nom": "Outils & code",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 62,
+    "pannes": [
+     "Hacker News"
+    ]
+   }
+  },
+  "quota_groq": 61,
+  "nuit": {
+   "statut": "attention",
+   "soucis": [
+    "Veille Outils & code : 50 articles, 19 sans lien direct · 1 source(s) en panne : Hacker News"
+   ]
+  }
+ }
+}

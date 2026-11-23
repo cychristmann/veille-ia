@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-11-t3.md"
 type: "document"
-community: "Nvidia"
+community: "GPT-6 Astra"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Nvidia
+  - community/GPT-6_Astra
 ---
 
 # Veille Chine 2026-11-11 : Applications sectorielles
@@ -16,4 +16,4 @@ tags:
 - [[Google DeepMind Hurricane Model]] - `references` [EXTRACTED]
 - [[MiniMax Model]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Nvidia
+#graphify/document #graphify/EXTRACTED #community/GPT-6_Astra

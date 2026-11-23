@@ -22,8 +22,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia_2]]
-- 1 edge to [[_COMMUNITY_Riemann Hypothesis]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_Claude]]
 
 ## Top bridge nodes
 - [[Veille France 2026-11-22  Marchés et finance]] - degree 6, connects to 2 communities

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-21-t1.md"
 type: "document"
-community: "Veille France 2026-11-22"
+community: "ChatGPT Wallet"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-22
+  - community/ChatGPT_Wallet
 ---
 
 # Veille États-Unis 2026-11-21 : Anthropic & Riemann
@@ -17,4 +17,4 @@ tags:
 - [[Riemann Hypothesis]] - `references` [EXTRACTED]
 - [[Signal]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-22
+#graphify/document #graphify/EXTRACTED #community/ChatGPT_Wallet

@@ -1,5 +1,5 @@
 ---
-source_file: "dossiers/2026-11-19-2.md"
+source_file: "dossiers/2026-11-23-1.md"
 type: "concept"
 community: "Hugging Face"
 tags:
@@ -15,6 +15,7 @@ tags:
 - [[GLM 5.2]] - `references` [EXTRACTED]
 - [[Inkling 2 Mini]] - `references` [EXTRACTED]
 - [[Irene Solaiman]] - `references` [EXTRACTED]
+- [[July 2026 AI Incident]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[OpenRouter]] - `conceptually_related_to` [EXTRACTED]

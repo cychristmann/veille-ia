@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-16-t1.md"
 type: "concept"
-community: "veille états-unis thème 7"
+community: "Veille États-Unis 2026-11-08 : Perception publique et sociétale"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/veille_états-unis_thème_7
+  - community/Veille_États-Unis_2026-11-08__Perception_publique_et_sociétale
 ---
 
 # Meituan
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[LongCat-2.5]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/veille_états-unis_thème_7
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08__Perception_publique_et_sociétale

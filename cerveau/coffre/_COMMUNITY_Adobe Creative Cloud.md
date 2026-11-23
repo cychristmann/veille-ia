@@ -23,10 +23,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_AMD_1]]
-- 1 edge to [[_COMMUNITY_Anthropic]]
+- 2 edges to [[_COMMUNITY_AI Impact on Finance and Markets]]
 - 1 edge to [[_COMMUNITY_Microsoft]]
 - 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
 
 ## Top bridge nodes
 - [[Adobe Creative Cloud]] - degree 5, connects to 3 communities

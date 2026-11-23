@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-20-t2.md"
 type: "document"
-community: "Veille France 2026-11-20"
+community: "Veille Chine 2026-11-21"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-20
+  - community/Veille_Chine_2026-11-21
 ---
 
 # Veille France 2026-11-20
@@ -21,4 +21,4 @@ tags:
 - [[TikTok]] - `references` [EXTRACTED]
 - [[Zevra]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-20
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-21

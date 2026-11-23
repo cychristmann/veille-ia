@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-14-t1.md"
 type: "concept"
-community: "Veille Chine 2026-11-15 : Éthique, société et relations homme‑machine"
+community: "Veille États-Unis 2026-11-09 : Autres articles"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-15__Éthique_société_et_relations_hommemachine
+  - community/Veille_États-Unis_2026-11-09__Autres_articles
 ---
 
 # Gods Don't Give Gifts (Film)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-14  Société, éducation et culture]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-15__Éthique_société_et_relations_hommemachine
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-09__Autres_articles

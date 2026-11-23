@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-10-t4.md"
 type: "document"
-community: "T-Head"
+community: "AMD"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/T-Head
+  - community/AMD
 ---
 
 # Veille États-Unis 2026-11-10 : Infrastructure et data‑centers
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Infineon]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/T-Head
+#graphify/document #graphify/EXTRACTED #community/AMD

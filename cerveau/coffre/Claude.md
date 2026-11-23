@@ -1,11 +1,11 @@
 ---
-source_file: "dossiers/2026-11-22-1.md"
+source_file: "veilles/veille-ia-us-2026-11-09-t2.md"
 type: "concept"
-community: "AMD"
+community: "AI Impact on Finance and Markets"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AMD
+  - community/AI_Impact_on_Finance_and_Markets
 ---
 
 # Claude
@@ -37,4 +37,4 @@ tags:
 - [[Veille Outils & code 2026-11-14]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-17 (T3)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AMD
+#graphify/concept #graphify/EXTRACTED #community/AI_Impact_on_Finance_and_Markets

@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0012.md"
 type: "concept"
-community: "IBM"
+community: "Microsoft"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/IBM
+  - community/Microsoft
 ---
 
 # Foundry
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Torus]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/IBM
+#graphify/concept #graphify/EXTRACTED #community/Microsoft

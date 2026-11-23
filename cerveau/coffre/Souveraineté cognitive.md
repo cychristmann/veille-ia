@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-22-t4.md"
 type: "concept"
-community: "DeepSeek"
+community: "Amazon Bedrock AgentCore"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/DeepSeek
+  - community/Amazon_Bedrock_AgentCore
 ---
 
 # Souveraineté cognitive
@@ -14,4 +14,4 @@ tags:
 - [[Académie de Versailles]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-22  Régulation, éthique et société]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/DeepSeek
+#graphify/concept #graphify/EXTRACTED #community/Amazon_Bedrock_AgentCore

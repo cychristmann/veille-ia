@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t1.md"
 type: "code"
-community: "Veille États-Unis 2026-11-18"
+community: "Anthropic"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-18
+  - community/Anthropic
 ---
 
 # Anthropic
@@ -27,7 +27,9 @@ tags:
 - [[Claude Sheet]] - `references` [EXTRACTED]
 - [[Claude Whiteboards]] - `references` [EXTRACTED]
 - [[Dario Amodei]] - `conceptually_related_to` [EXTRACTED]
+- [[Decart]] - `references` [EXTRACTED]
 - [[Donald Trump]] - `references` [EXTRACTED]
+- [[Dossier  IA générative  un nouveau vecteur de menaces nucléaires]] - `references` [EXTRACTED]
 - [[Fable 5.2]] - `references` [EXTRACTED]
 - [[Fable 5.2 & Mythos 5.2]] - `references` [EXTRACTED]
 - [[Fermat's Last Theorem]] - `references` [EXTRACTED]
@@ -39,8 +41,10 @@ tags:
 - [[Microsoft]] - `conceptually_related_to` [EXTRACTED]
 - [[Mubadala]] - `references` [EXTRACTED]
 - [[Mythos]] - `references` [EXTRACTED]
+- [[Mythos 5]] - `references` [EXTRACTED]
 - [[Mythos 5.2]] - `references` [EXTRACTED]
 - [[Nasdaq]] - `references` [EXTRACTED]
+- [[Nvidia]] - `conceptually_related_to` [INFERRED]
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[OpenAI]] - `conceptually_related_to` [INFERRED]
 - [[Opus 5.5]] - `references` [EXTRACTED]
@@ -92,4 +96,4 @@ tags:
 - [[Veille États-Unis 2026-11-21  Anthropic & Riemann]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-22  Applications et outils IA]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-18
+#graphify/code #graphify/EXTRACTED #community/Anthropic

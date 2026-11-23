@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0017.md"
 type: "document"
-community: "Nvidia"
+community: "GPT-6 Astra"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Nvidia
+  - community/GPT-6_Astra
 ---
 
 # Feuilleton: CLARA révolutionne le calcul des bioréacteurs
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[CLARA]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Nvidia
+#graphify/document #graphify/EXTRACTED #community/GPT-6_Astra

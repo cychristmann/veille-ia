@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille États-Unis 2026-11-13 : Enjeux du marché et turbulences
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[CAC 40]] - concept - veilles/veille-ia-fr-2026-11-21-t2.md
+- [[RELEX]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
+- [[Vusion]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
 
 ## Live Query (requires Dataview plugin)
 

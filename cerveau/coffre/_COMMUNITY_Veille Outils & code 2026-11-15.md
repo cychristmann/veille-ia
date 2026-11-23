@@ -8,15 +8,15 @@ members: 9
 **Members:** 9 nodes
 
 ## Members
-- [[Centre de défense IA à Rennes]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Enquête Malaisie sur filiale MegaspeedNvidia]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Mission Capgemini sur les risques cyber de l'IA]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Modèle économique IA d'Apple]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Politiques IA aux États-Unis]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Régulation IA en Australie]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Sommet inédit de l'UE sur l'IA]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Veille France 2026-11-13]] - document - veilles/veille-ia-fr-2026-11-13-t1.md
-- [[xFusion]] - concept - veilles/veille-ia-fr-2026-11-13-t1.md
+- [[ByteVoice]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Cuttlefish]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Puffin]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[StateWeave]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Superpowers]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Swarm Skills]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Tokendoctor]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[VS Code]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Veille Outils & code 2026-11-17]] - document - veilles/veille-ia-dev-2026-11-17-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,9 +26,18 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia_2]]
-- 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_Feuilleton Compromission massive du Microsoft Agent Framework]]
+- 2 edges to [[_COMMUNITY_Copilot]]
+- 1 edge to [[_COMMUNITY_Qwen4-Max]]
+- 1 edge to [[_COMMUNITY_Hugging Face]]
+- 1 edge to [[_COMMUNITY_Meta]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
+- 1 edge to [[_COMMUNITY_GPT-6 Astra_1]]
+- 1 edge to [[_COMMUNITY_ARTEX]]
+- 1 edge to [[_COMMUNITY_ChatGPT Wallet]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-13]] - degree 11, connects to 3 communities
+- [[Veille Outils & code 2026-11-17]] - degree 16, connects to 9 communities
+- [[Tokendoctor]] - degree 2, connects to 1 community
+- [[VS Code]] - degree 2, connects to 1 community

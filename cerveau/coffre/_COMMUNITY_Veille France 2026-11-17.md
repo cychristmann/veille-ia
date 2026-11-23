@@ -1,31 +1,40 @@
 ---
 type: community
-members: 18
+members: 27
 ---
 
 # Veille France 2026-11-17
 
-**Members:** 18 nodes
+**Members:** 27 nodes
 
 ## Members
-- [[AI Gigafactory Northern]] - concept - dossiers/2026-11-19-3.md
-- [[Acer Aspire 14 AI]] - concept - veilles/veille-ia-fr-2026-11-21-t4.md
-- [[Architect Labs]] - concept - veilles/veille-ia-fr-2026-11-21-t4.md
-- [[Blade]] - concept - dossiers/2026-11-19-3.md
-- [[EUSP]] - concept - feuilletons/f-0034.md
-- [[EuroHPC JU]] - concept - dossiers/2026-11-19-3.md
-- [[Feuilleton Alliance européenne pour le développement d'une IA souveraine de bout en bout]] - document - feuilletons/f-0034.md
-- [[Frostbite]] - concept - veilles/veille-ia-fr-2026-11-21-t4.md
-- [[OVHai LLM]] - concept - dossiers/2026-11-19-3.md
-- [[OVHcloud]] - concept - feuilletons/f-0034.md
-- [[Olala]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
-- [[Olala mini]] - concept - veilles/veille-ia-fr-2026-11-19-t3.md
-- [[Praxis Tech]] - concept - veilles/veille-ia-fr-2026-11-21-t4.md
-- [[Qwant]] - concept - feuilletons/f-0034.md
-- [[Shadow]] - concept - feuilletons/f-0034.md
-- [[Staan]] - concept - dossiers/2026-11-19-3.md
-- [[Veille France 2026-11-19  Régulation, souveraineté et enjeux sociétaux]] - document - veilles/veille-ia-fr-2026-11-19-t3.md
-- [[Veille France 2026-11-21  Applications industrielles & produits]] - document - veilles/veille-ia-fr-2026-11-21-t4.md
+- [[AI比人贵了…OpenAI：内部Agent开销已达研究员薪酬两倍]] - concept - veilles/veille-ia-cn-2026-11-21-t2.md
+- [[Amplitude Wave]] - code - veilles/veille-ia-dev-2026-11-13-t6.md
+- [[Arduino]] - concept - veilles/veille-ia-us-2026-11-14-t3.md
+- [[Brave Search API]] - code - veilles/veille-ia-dev-2026-11-13-t6.md
+- [[Chey Tae-won]] - concept - veilles/veille-ia-us-2026-11-15-t7.md
+- [[Claude Meetings]] - concept - veilles/veille-ia-dev-2026-11-12-t1.md
+- [[Dario Amodei (Anthropic)]] - concept - veilles/veille-ia-cn-2026-11-21-t2.md
+- [[Databricks]] - concept - veilles/veille-ia-us-2026-11-14-t3.md
+- [[Elon Musk]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
+- [[Entire Git Forge：面向编码智能体重构 Git 协作方式]] - concept - veilles/veille-ia-cn-2026-11-21-t2.md
+- [[Grok]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
+- [[Grok (xAI)]] - concept - veilles/veille-ia-cn-2026-11-11-t5.md
+- [[Grok 4.8]] - concept - veilles/veille-ia-fr-2026-11-23-t2.md
+- [[John Mulaney]] - concept - veilles/veille-ia-us-2026-11-15-t7.md
+- [[Kiro]] - code - veilles/veille-ia-dev-2026-11-13-t6.md
+- [[Mark Zuckerberg]] - concept - veilles/veille-ia-us-2026-11-15-t7.md
+- [[Perplexity]] - concept - veilles/veille-ia-us-2026-11-14-t3.md
+- [[Pingtouge (T-Head)]] - concept - veilles/veille-ia-cn-2026-11-11-t5.md
+- [[SK Group]] - concept - veilles/veille-ia-us-2026-11-15-t7.md
+- [[Veille Chine 2026-11-11]] - document - veilles/veille-ia-cn-2026-11-11-t5.md
+- [[Veille Chine 2026-11-21  Modèles, agents et logiciels IA]] - document - veilles/veille-ia-cn-2026-11-21-t2.md
+- [[Veille Outils & code 2026-11-13 (T6)]] - document - veilles/veille-ia-dev-2026-11-13-t6.md
+- [[Veille États-Unis 2026-11-14  Agents et Outils Technologiques]] - document - veilles/veille-ia-us-2026-11-14-t3.md
+- [[Veille États-Unis 2026-11-15  Autres articles]] - document - veilles/veille-ia-us-2026-11-15-t7.md
+- [[x402 protocol]] - concept - veilles/veille-ia-dev-2026-11-13-t6.md
+- [[xAI]] - concept - veilles/veille-ia-cn-2026-11-11-t5.md
+- [[智能体 AI 架构：当前挑战与未来机遇]] - concept - veilles/veille-ia-cn-2026-11-21-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -35,13 +44,23 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia_2]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-20_2]]
-- 1 edge to [[_COMMUNITY_Apple_1]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
-- 1 edge to [[_COMMUNITY_Federal Reserve]]
+- 1 edge to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_Cursor]]
+- 1 edge to [[_COMMUNITY_Copilot]]
+- 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-23  Adoption industrielle et entreprises]]
+- 1 edge to [[_COMMUNITY_Jensen Huang]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
+- 1 edge to [[_COMMUNITY_Cursor_1]]
+- 1 edge to [[_COMMUNITY_Dossier Course à l'IA entre États‑Unis et Chine]]
+- 1 edge to [[_COMMUNITY_AMD_1]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-21  Applications industrielles & produits]] - degree 7, connects to 3 communities
-- [[OVHcloud]] - degree 8, connects to 1 community
-- [[Olala mini]] - degree 2, connects to 1 community
+- [[Elon Musk]] - degree 9, connects to 3 communities
+- [[Claude Meetings]] - degree 4, connects to 3 communities
+- [[Veille États-Unis 2026-11-15  Autres articles]] - degree 4, connects to 2 communities
+- [[Grok]] - degree 4, connects to 1 community
+- [[xAI]] - degree 4, connects to 1 community

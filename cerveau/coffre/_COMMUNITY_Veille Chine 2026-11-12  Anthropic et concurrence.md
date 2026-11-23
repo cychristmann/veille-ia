@@ -22,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
+- 1 edge to [[_COMMUNITY_Anthropic]]
 
 ## Top bridge nodes
 - [[Veille Chine 2026-11-12  Anthropic et concurrence]] - degree 5, connects to 1 community

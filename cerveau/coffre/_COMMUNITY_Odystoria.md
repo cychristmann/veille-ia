@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Odystoria]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
-- [[William Mocaër]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
+- [[L&T Technology Services]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
+- [[SDVault.ai]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
 
 ## Live Query (requires Dataview plugin)
 

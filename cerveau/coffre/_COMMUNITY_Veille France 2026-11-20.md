@@ -1,20 +1,19 @@
 ---
 type: community
-members: 7
+members: 6
 ---
 
 # Veille France 2026-11-20
 
-**Members:** 7 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Baseten]] - concept - veilles/veille-ia-dev-2026-11-22-t6.md
-- [[Bison-1]] - concept - veilles/veille-ia-dev-2026-11-22-t6.md
-- [[Gemma 4]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
-- [[Groundhog-1]] - concept - veilles/veille-ia-dev-2026-11-22-t6.md
-- [[Inkling 2 Mini]] - concept - veilles/veille-ia-dev-2026-11-22-t3.md
-- [[Nimble]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
-- [[Ollama]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
+- [[Community Impact]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Daily Herald]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Federal News Network]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Inside Global Tech]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[News 5 Cleveland WEWS]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Veille États-Unis 2026-11-09  Régulation et politiques publiques]] - document - veilles/veille-ia-us-2026-11-09-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,10 +21,3 @@ members: 7
 TABLE source_file, type FROM #community/Veille_France_2026-11-20
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-22]]
-- 1 edge to [[_COMMUNITY_Hugging Face]]
-
-## Top bridge nodes
-- [[Inkling 2 Mini]] - degree 3, connects to 2 communities

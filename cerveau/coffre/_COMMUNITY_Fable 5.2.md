@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[AI Automation]] - concept - dossiers/2026-11-17-3.md
-- [[Job Market]] - concept - dossiers/2026-11-17-3.md
-- [[Policy Responses]] - concept - dossiers/2026-11-17-3.md
+- [[Fed (Réserve fédérale)]] - concept - veilles/veille-ia-fr-2026-11-14-t5.md
+- [[IA et système financier]] - concept - veilles/veille-ia-fr-2026-11-14-t5.md
+- [[Veille France 2026-11-14  Autres articles]] - document - veilles/veille-ia-fr-2026-11-14-t5.md
 
 ## Live Query (requires Dataview plugin)
 

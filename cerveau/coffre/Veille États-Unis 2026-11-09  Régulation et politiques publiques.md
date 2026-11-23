@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t1.md"
 type: "document"
-community: "Veille France 2026-11-19 : Autres articles"
+community: "Veille France 2026-11-20"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-19__Autres_articles
+  - community/Veille_France_2026-11-20
 ---
 
 # Veille États-Unis 2026-11-09 : Régulation et politiques publiques
@@ -17,4 +17,4 @@ tags:
 - [[Inside Global Tech]] - `cites` [EXTRACTED]
 - [[News 5 Cleveland WEWS]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-19__Autres_articles
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-20

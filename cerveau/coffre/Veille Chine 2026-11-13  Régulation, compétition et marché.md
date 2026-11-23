@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-13-t4.md"
 type: "document"
-community: "Claude"
+community: "Trump's AI task force"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Claude
+  - community/Trumps_AI_task_force
 ---
 
 # Veille Chine 2026-11-13 : Régulation, compétition et marché
@@ -17,4 +17,4 @@ tags:
 - [[上海市科学数据管理办法]] - `references` [EXTRACTED]
 - [[第七届中国人工智能大赛]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Claude
+#graphify/document #graphify/EXTRACTED #community/Trumps_AI_task_force

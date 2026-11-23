@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # datasette-cluster-map
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Adyen]] - concept - veilles/veille-ia-fr-2026-11-22-t7.md
-- [[Klarna]] - concept - veilles/veille-ia-fr-2026-11-22-t7.md
+- [[Elvis Presley Music Rights Owners]] - code - veilles/veille-ia-us-2026-11-08-t2.md
+- [[Eminem Music Rights Owners]] - code - veilles/veille-ia-us-2026-11-08-t2.md
+- [[Suno AI]] - code - veilles/veille-ia-us-2026-11-08-t2.md
 
 ## Live Query (requires Dataview plugin)
 

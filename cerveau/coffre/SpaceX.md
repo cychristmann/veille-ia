@@ -14,6 +14,7 @@ tags:
 - [[AI Market Trends]] - `conceptually_related_to` [INFERRED]
 - [[AI computing campuses]] - `references` [EXTRACTED]
 - [[Anthropic]] - `conceptually_related_to` [EXTRACTED]
+- [[Cursor]] - `conceptually_related_to` [INFERRED]
 - [[Cursor]] - `references` [EXTRACTED]
 - [[Elon Musk]] - `references` [EXTRACTED]
 - [[Feuilleton SpaceX AI Infrastructure]] - `references` [EXTRACTED]
@@ -32,6 +33,7 @@ tags:
 - [[Veille Chine 2026-11-21  Infrastructure et matériel IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-12  Marchés financiers et investissements IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-13]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-23  Intégrations, plateformes et écosystèmes IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-20  Marché et finance de l'IA]] - `references` [EXTRACTED]
 

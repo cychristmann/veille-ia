@@ -1,16 +1,23 @@
 ---
 type: community
-members: 3
+members: 10
 ---
 
 # Amazon SageMaker HyperPod
 
-**Members:** 3 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[Amazon SageMaker HyperPod]] - concept - veilles/veille-ia-dev-2026-11-22-t1.md
-- [[Global Inference Gateway]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
-- [[Slurm]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[APEC]] - concept - veilles/veille-ia-cn-2026-11-17-t5.md
+- [[Barclays Research]] - concept - dossiers/2026-11-13-2.md
+- [[Chinese Robotics Industry]] - concept - dossiers/2026-11-13-2.md
+- [[Fitch Ratings (惠誉)]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
+- [[Korean Financial Supervisory Service (韩国金融监督院)]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
+- [[Li Dongsheng]] - code - veilles/veille-ia-cn-2026-11-17-t5.md
+- [[Morgan Stanley]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
+- [[Sinch]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
+- [[TCL]] - code - veilles/veille-ia-cn-2026-11-17-t5.md
+- [[Veille Chine 2026-11-19  Régulation & Gouvernance IA]] - document - veilles/veille-ia-cn-2026-11-19-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +27,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-22]]
+- 1 edge to [[_COMMUNITY_CoreWeave]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
 
 ## Top bridge nodes
-- [[Amazon SageMaker HyperPod]] - degree 3, connects to 1 community
+- [[Veille Chine 2026-11-19  Régulation & Gouvernance IA]] - degree 6, connects to 1 community
+- [[Morgan Stanley]] - degree 3, connects to 1 community

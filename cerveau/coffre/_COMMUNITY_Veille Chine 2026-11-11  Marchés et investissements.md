@@ -1,22 +1,26 @@
 ---
 type: community
-members: 9
+members: 13
 ---
 
 # Veille Chine 2026-11-11 : Marchés et investissements
 
-**Members:** 9 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[ByteVoice]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
-- [[Cuttlefish]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
-- [[Puffin]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
-- [[StateWeave]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
-- [[Superpowers]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
-- [[Swarm Skills]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
-- [[Tokendoctor]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
-- [[VS Code]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
-- [[Veille Outils & code 2026-11-17]] - document - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Agentic AI Foundation]] - concept - veilles/veille-ia-dev-2026-11-23-t4.md
+- [[Amazon SageMaker HyperPod Inference]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Codex CLI]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Hitachi Vantara VSP One]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Impartner MCP]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[JustSolve AI Mastery]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Microsoft AI coding model]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Octopus Deploy]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Perplexity Computer]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Replit Missions]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Veille Outils & code 2026-11-18]] - document - veilles/veille-ia-dev-2026-11-18-t1.md
+- [[Veille Outils & code 2026-11-23  Nouvelles approches de développement]] - document - veilles/veille-ia-dev-2026-11-23-t4.md
+- [[Vibe Coding]] - concept - veilles/veille-ia-dev-2026-11-16-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -27,17 +31,12 @@ SORT file.name ASC
 
 ## Connections to other communities
 - 2 edges to [[_COMMUNITY_Copilot]]
-- 1 edge to [[_COMMUNITY_Meta]]
-- 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Tencent]]
-- 1 edge to [[_COMMUNITY_Nvidia_1]]
-- 1 edge to [[_COMMUNITY_Amazon Bedrock]]
-- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
-- 1 edge to [[_COMMUNITY_Amazon Bedrock AgentCore]]
-- 1 edge to [[_COMMUNITY_Hugging Face]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-22]]
+- 1 edge to [[_COMMUNITY_GPT-6 Astra_1]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17]]
+- 1 edge to [[_COMMUNITY_ARTEX]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_AMD_1]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-17]] - degree 16, connects to 9 communities
-- [[Tokendoctor]] - degree 2, connects to 1 community
-- [[VS Code]] - degree 2, connects to 1 community
+- [[Veille Outils & code 2026-11-18]] - degree 16, connects to 5 communities
+- [[Vibe Coding]] - degree 4, connects to 1 community

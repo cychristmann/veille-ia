@@ -13,6 +13,7 @@ tags:
 ## Connections
 - [[AI Market Trends]] - `conceptually_related_to` [INFERRED]
 - [[MEOMURU]] - `references` [EXTRACTED]
+- [[The Binding of Isaac]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-15  Autres articles]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-17  Marché, financement et régulation]] - `references` [EXTRACTED]
 

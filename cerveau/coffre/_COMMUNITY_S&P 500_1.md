@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[S&P 500]] - concept - veilles/veille-ia-fr-2026-11-21-t2.md
+- [[Vertex AI]] - concept - dossiers/2026-11-23-3.md
 
 ## Live Query (requires Dataview plugin)
 

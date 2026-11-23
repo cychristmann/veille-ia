@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-08-t2.md"
 type: "document"
-community: "Veille États-Unis 2026-11-18"
+community: "Anthropic"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-18
+  - community/Anthropic
 ---
 
 # Veille France 2026-11-08 : Environnement et empreinte carbone de l'IA
@@ -14,4 +14,4 @@ tags:
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-18
+#graphify/document #graphify/EXTRACTED #community/Anthropic

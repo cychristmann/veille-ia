@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-11-t4.md"
 type: "concept"
-community: "CVS Health"
+community: "Enterprise RAG Systems"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/CVS_Health
+  - community/Enterprise_RAG_Systems
 ---
 
 # 文投控股 (Wentou Holdings)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-11 Régulation et gouvernance]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/CVS_Health
+#graphify/concept #graphify/EXTRACTED #community/Enterprise_RAG_Systems

@@ -1,11 +1,11 @@
 ---
-source_file: "dossiers/2026-11-19-2.md"
+source_file: "veilles/veille-ia-us-2026-11-21-t1.md"
 type: "concept"
-community: "Veille France 2026-11-22"
+community: "ChatGPT Wallet"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-22
+  - community/ChatGPT_Wallet
 ---
 
 # METR
@@ -14,4 +14,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-21  Anthropic & Riemann]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-22
+#graphify/concept #graphify/EXTRACTED #community/ChatGPT_Wallet

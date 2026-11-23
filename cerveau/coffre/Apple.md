@@ -27,6 +27,7 @@ tags:
 - [[Veille France 2026-11-16]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-20]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-21  Applications industrielles & produits]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-23  Adoption industrielle et entreprises]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-22]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-17  Développements technologiques et infrastructure]] - `references` [EXTRACTED]
 

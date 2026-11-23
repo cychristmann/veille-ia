@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-15-3.md"
 type: "concept"
-community: "Cursor"
+community: "Nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Cursor
+  - community/Nvidia
 ---
 
 # Centre d’excellence cyber de Tallinn
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[ICAID]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Cursor
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

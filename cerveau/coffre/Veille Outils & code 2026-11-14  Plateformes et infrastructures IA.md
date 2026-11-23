@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-14-t3.md"
 type: "document"
-community: "Amazon Bedrock AgentCore"
+community: "ARTEX"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Amazon_Bedrock_AgentCore
+  - community/ARTEX
 ---
 
 # Veille Outils & code 2026-11-14 : Plateformes et infrastructures IA
@@ -18,4 +18,4 @@ tags:
 - [[Gemini 4 Hydrogen]] - `references` [EXTRACTED]
 - [[TPU Sync]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Amazon_Bedrock_AgentCore
+#graphify/document #graphify/EXTRACTED #community/ARTEX

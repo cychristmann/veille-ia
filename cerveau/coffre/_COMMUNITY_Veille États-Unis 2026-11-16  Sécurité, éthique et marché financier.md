@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Veille États-Unis 2026-11-16 : Sécurité, éthique et marché financier
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[ARTEX AI Hacking Tool]] - concept - veilles/veille-ia-us-2026-11-16-t4.md
-- [[FBI AI Threat Reports]] - concept - veilles/veille-ia-us-2026-11-16-t4.md
-- [[Veille États-Unis 2026-11-16  Sécurité, éthique et marché financier]] - document - veilles/veille-ia-us-2026-11-16-t4.md
+- [[CHU de Montpellier]] - concept - veilles/veille-ia-fr-2026-11-18-t5.md
+- [[David Morquin]] - concept - veilles/veille-ia-fr-2026-11-18-t5.md
+- [[French Tech Bordeaux]] - concept - veilles/veille-ia-fr-2026-11-18-t5.md
+- [[Veille France 2026-11-18 (T5)]] - document - veilles/veille-ia-fr-2026-11-18-t5.md
 
 ## Live Query (requires Dataview plugin)
 

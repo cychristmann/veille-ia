@@ -1,13 +1,13 @@
 ---
 source_file: "feuilletons/f-0001.md"
 type: "concept"
-community: "Trust3 AI"
+community: "Telia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Trust3_AI
+  - community/Telia
 ---
 
 # Industrie de l'IA
 
-#graphify/concept #graphify/EXTRACTED #community/Trust3_AI
+#graphify/concept #graphify/EXTRACTED #community/Telia

@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0039.md"
 type: "concept"
-community: "Veille Chine 2026-11-12 : Régulation, géopolitique et politique"
+community: "ABB"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-12__Régulation_géopolitique_et_politique
+  - community/ABB
 ---
 
 # Foro3D
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Feuilleton  Microsoft impulsa standards ouverts de transparence pour agents IA]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__Régulation_géopolitique_et_politique
+#graphify/concept #graphify/EXTRACTED #community/ABB

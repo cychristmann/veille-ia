@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t2.md"
 type: "concept"
-community: "Tencent"
+community: "AI Agents"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Tencent
+  - community/AI_Agents
 ---
 
 # AI Agents
@@ -19,4 +19,4 @@ tags:
 - [[Veille États-Unis 2026-11-20  Développements technologiques et agents IA]] - `conceptually_related_to` [EXTRACTED]
 - [[gVisor]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Tencent
+#graphify/concept #graphify/EXTRACTED #community/AI_Agents

@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-11-t1.md"
+source_file: "veilles/veille-ia-fr-2026-11-11-t2.md"
 type: "document"
-community: "Elon Musk"
+community: "CoreWeave"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Elon_Musk
+  - community/CoreWeave
 ---
 
 # Veille France 2026-11-11
@@ -19,4 +19,4 @@ tags:
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Elon_Musk
+#graphify/document #graphify/EXTRACTED #community/CoreWeave

@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[datasette-cluster-map]] - concept - veilles/veille-ia-dev-2026-11-15-t4.md
-- [[datasette-leaflet]] - concept - veilles/veille-ia-dev-2026-11-15-t4.md
+- [[AI Ethics, Security and Regulation]] - concept - veilles/veille-ia-cn-2026-11-14-t4.md
+- [[Veille Chine 2026-11-14  Éthique, sécurité et réglementation IA]] - document - veilles/veille-ia-cn-2026-11-14-t4.md
 
 ## Live Query (requires Dataview plugin)
 

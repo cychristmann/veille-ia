@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-22-1.md"
 type: "concept"
-community: "Riemann Hypothesis"
+community: "Claude"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Riemann_Hypothesis
+  - community/Claude
 ---
 
 # Kevin Buzzard
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Lean 4]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Riemann_Hypothesis
+#graphify/concept #graphify/EXTRACTED #community/Claude

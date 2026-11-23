@@ -1,42 +1,38 @@
 ---
 type: community
-members: 29
+members: 25
 ---
 
 # Veille Chine 2026-11-21
 
-**Members:** 29 nodes
+**Members:** 25 nodes
 
 ## Members
-- [[AI Governance and Regulation]] - concept - veilles/veille-ia-cn-2026-11-21-t4.md
-- [[AI Misinformation]] - concept - veilles/veille-ia-cn-2026-11-21-t4.md
-- [[Academic Integrity and AI Detection]] - concept - veilles/veille-ia-cn-2026-11-21-t4.md
-- [[Agent Name Service]] - concept - veilles/veille-ia-cn-2026-11-10-t5.md
-- [[Alibaba Cloud]] - concept - veilles/veille-ia-cn-2026-11-21-t5.md
-- [[Apple HomeView]] - concept - veilles/veille-ia-cn-2026-11-15-t7.md
-- [[Ascend 950DT Chip]] - concept - veilles/veille-ia-cn-2026-11-18-t1.md
-- [[China Telecom]] - concept - veilles/veille-ia-cn-2026-11-18-t1.md
-- [[Guangdong Tianyima Information Industry Co., Ltd.]] - concept - veilles/veille-ia-cn-2026-11-18-t1.md
-- [[HarmonyOS]] - concept - veilles/veille-ia-cn-2026-11-15-t7.md
-- [[Huawei]] - concept - veilles/veille-ia-cn-2026-11-18-t1.md
-- [[Huawei Xingmang]] - concept - veilles/veille-ia-cn-2026-11-21-t5.md
-- [[Kuaishou]] - concept - veilles/veille-ia-cn-2026-11-21-t5.md
-- [[Linux Foundation]] - concept - veilles/veille-ia-cn-2026-11-10-t5.md
-- [[Moomoo]] - concept - veilles/veille-ia-cn-2026-11-21-t5.md
-- [[Robo.ai]] - concept - veilles/veille-ia-cn-2026-11-18-t3.md
-- [[Veille Chine 2026-11-10  Écosystèmes, plateformes et outils IA]] - document - veilles/veille-ia-cn-2026-11-10-t5.md
-- [[Veille Chine 2026-11-15  Autres articles]] - document - veilles/veille-ia-cn-2026-11-15-t7.md
-- [[Veille Chine 2026-11-15  Finances, valorisation et marché de l’IA]] - document - veilles/veille-ia-cn-2026-11-15-t3.md
-- [[Veille Chine 2026-11-18  Applications sectorielles]] - document - veilles/veille-ia-cn-2026-11-18-t3.md
-- [[Veille Chine 2026-11-18  Infrastructure et matériel]] - document - veilles/veille-ia-cn-2026-11-18-t1.md
-- [[Veille Chine 2026-11-21]] - document - veilles/veille-ia-cn-2026-11-21-t4.md
-- [[Xiaopeng G9]] - concept - veilles/veille-ia-cn-2026-11-15-t7.md
-- [[中能拾贝]] - concept - veilles/veille-ia-cn-2026-11-18-t3.md
-- [[中青在线 (China Youth Online)]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
-- [[富途牛牛 (Futu Niuniu)]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
-- [[招商证券 (China Merchants Securities)]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
-- [[新浪财经 (Sina Finance)]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
-- [[高毅资产 (High-Flyer Asset Management)]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
+- [[AI Gigafactory Northern]] - concept - dossiers/2026-11-19-3.md
+- [[Acer Aspire 14 AI]] - concept - veilles/veille-ia-fr-2026-11-21-t4.md
+- [[Architect Labs]] - concept - veilles/veille-ia-fr-2026-11-21-t4.md
+- [[Blade]] - concept - dossiers/2026-11-19-3.md
+- [[EUSP]] - concept - feuilletons/f-0034.md
+- [[Emi]] - concept - veilles/veille-ia-fr-2026-11-20-t2.md
+- [[EuroHPC JU]] - concept - dossiers/2026-11-19-3.md
+- [[Feuilleton Alliance européenne pour le développement d'une IA souveraine de bout en bout]] - document - feuilletons/f-0034.md
+- [[Frostbite]] - concept - veilles/veille-ia-fr-2026-11-21-t4.md
+- [[OVHai LLM]] - concept - dossiers/2026-11-19-3.md
+- [[OVHcloud]] - concept - feuilletons/f-0034.md
+- [[Olala]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
+- [[Olala mini]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
+- [[Praxis Tech]] - concept - veilles/veille-ia-fr-2026-11-21-t4.md
+- [[Qwant]] - concept - feuilletons/f-0034.md
+- [[Shadow]] - concept - feuilletons/f-0034.md
+- [[Staan]] - concept - dossiers/2026-11-19-3.md
+- [[TikTok]] - concept - veilles/veille-ia-fr-2026-11-20-t4.md
+- [[UTBM]] - concept - veilles/veille-ia-fr-2026-11-20-t4.md
+- [[Veille France 2026-11-19  Régulation, souveraineté et enjeux sociétaux]] - document - veilles/veille-ia-fr-2026-11-19-t3.md
+- [[Veille France 2026-11-20]] - document - veilles/veille-ia-fr-2026-11-20-t2.md
+- [[Veille France 2026-11-20  Applications sociétales et culturelles de l’IA]] - document - veilles/veille-ia-fr-2026-11-20-t4.md
+- [[Veille France 2026-11-21  Applications industrielles & produits]] - document - veilles/veille-ia-fr-2026-11-21-t4.md
+- [[Zevra]] - concept - veilles/veille-ia-fr-2026-11-20-t2.md
+- [[École supérieure d’art de Lorraine (Metz)]] - concept - veilles/veille-ia-fr-2026-11-20-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -46,16 +42,18 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Nvidia_2]]
+- 2 edges to [[_COMMUNITY_Apple_1]]
+- 1 edge to [[_COMMUNITY_Anthropic]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets]]
+- 1 edge to [[_COMMUNITY_Google]]
 - 1 edge to [[_COMMUNITY_Meta]]
-- 1 edge to [[_COMMUNITY_Microsoft]]
-- 1 edge to [[_COMMUNITY_Apple_1]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-15  IA industrielle et technologique]]
-- 1 edge to [[_COMMUNITY_Riemann Hypothesis]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-19  Autres articles]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-15  Autres articles]]
 
 ## Top bridge nodes
-- [[Veille Chine 2026-11-21]] - degree 10, connects to 3 communities
-- [[Huawei]] - degree 9, connects to 2 communities
-- [[Veille Chine 2026-11-18  Infrastructure et matériel]] - degree 5, connects to 1 community
-- [[Veille Chine 2026-11-15  Autres articles]] - degree 4, connects to 1 community
+- [[Veille France 2026-11-20]] - degree 9, connects to 5 communities
+- [[Veille France 2026-11-21  Applications industrielles & produits]] - degree 7, connects to 3 communities
+- [[Veille France 2026-11-20  Applications sociétales et culturelles de l’IA]] - degree 4, connects to 1 community
+- [[Olala mini]] - degree 2, connects to 1 community

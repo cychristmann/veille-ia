@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-21-t3.md"
 type: "concept"
-community: "Veille Chine 2026-11-21 : Applications sectorielles de l’IA"
+community: "IBM"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-21__Applications_sectorielles_de_lIA
+  - community/IBM
 ---
 
 # 托普云农发布智能（AI）虫情测报灯9.0
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-21  Applications sectorielles de l’IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-21__Applications_sectorielles_de_lIA
+#graphify/concept #graphify/EXTRACTED #community/IBM

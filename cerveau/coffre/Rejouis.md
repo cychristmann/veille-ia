@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t4.md"
 type: "concept"
-community: "Veille France 2026-11-20"
+community: "Veille Outils & code 2026-11-20"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-20
+  - community/Veille_Outils__code_2026-11-20
 ---
 
 # Rejouis
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-18 (T4)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-20
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-20

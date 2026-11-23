@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0027.md"
 type: "concept"
-community: "LLM 0.37.3"
+community: "Oku Dating Platform"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/LLM_0373
+  - community/Oku_Dating_Platform
 ---
 
 # Le Monde Pixels
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Ukraine Conflict]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/LLM_0373
+#graphify/concept #graphify/EXTRACTED #community/Oku_Dating_Platform

@@ -1,17 +1,18 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-12-t3.md"
-type: "code"
-community: "Veille États-Unis 2026-11-08"
+source_file: "veilles/veille-ia-cn-2026-11-23-t3.md"
+type: "concept"
+community: "AMD"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-08
+  - community/AMD
 ---
 
 # Palantir
 
 ## Connections
 - [[Helsing]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-23  Finance, marchés et investissements IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-08]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08
+#graphify/concept #graphify/EXTRACTED #community/AMD

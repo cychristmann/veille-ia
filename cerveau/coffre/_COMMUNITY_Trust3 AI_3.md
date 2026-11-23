@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Industrie de l'IA]] - concept - feuilletons/f-0001.md
+- [[Louis Perez]] - code - veilles/veille-ia-fr-2026-11-09-t3.md
 
 ## Live Query (requires Dataview plugin)
 

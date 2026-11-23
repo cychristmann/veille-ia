@@ -1,17 +1,19 @@
 ---
 type: community
-members: 4
+members: 6
 ---
 
 # IBM
 
-**Members:** 4 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Agents IA]] - concept - veilles/veille-ia-fr-2026-11-18-t2.md
-- [[Commonwealth Bank of Australia]] - concept - veilles/veille-ia-fr-2026-11-18-t2.md
-- [[Cybersécurité]] - concept - veilles/veille-ia-fr-2026-11-18-t3.md
-- [[Veille France 2026-11-18  Régulation, enjeux juridiques et gouvernance]] - document - veilles/veille-ia-fr-2026-11-18-t2.md
+- [[Veille Chine 2026-11-21  Applications sectorielles de l’IA]] - document - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[华为OSTA星芒 O1 Pro]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[托普云农发布智能（AI）虫情测报灯9.0]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[物理AI浪潮下，在手订单充足的8家公司]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[程子芮：AI推动金融科技从数字化到数智化]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[香港人工智能与生命科学伦理研究院]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,14 +21,3 @@ members: 4
 TABLE source_file, type FROM #community/IBM
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 2 edges to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_DeepSeek]]
-
-## Top bridge nodes
-- [[Agents IA]] - degree 4, connects to 2 communities
-- [[Veille France 2026-11-18  Régulation, enjeux juridiques et gouvernance]] - degree 3, connects to 2 communities
-- [[Cybersécurité]] - degree 2, connects to 1 community

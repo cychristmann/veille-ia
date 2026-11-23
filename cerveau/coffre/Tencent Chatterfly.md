@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-22-t4.md"
 type: "concept"
-community: "AI Short Dramas"
+community: "Model Context Protocol (MCP)"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AI_Short_Dramas
+  - community/Model_Context_Protocol_MCP
 ---
 
 # Tencent Chatterfly
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-22]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AI_Short_Dramas
+#graphify/concept #graphify/EXTRACTED #community/Model_Context_Protocol_MCP

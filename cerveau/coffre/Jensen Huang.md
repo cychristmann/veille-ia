@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
 type: "code"
-community: "Feuilleton: Compromission massive du Microsoft Agent Framework"
+community: "Jensen Huang"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
+  - community/Jensen_Huang
 ---
 
 # Jensen Huang
@@ -30,4 +30,4 @@ tags:
 - [[Veille États-Unis 2026-11-15  Impact culturel et médiatique de l'IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-22  Marché, investissements et actions IA]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Feuilleton_Compromission_massive_du_Microsoft_Agent_Framework
+#graphify/code #graphify/EXTRACTED #community/Jensen_Huang

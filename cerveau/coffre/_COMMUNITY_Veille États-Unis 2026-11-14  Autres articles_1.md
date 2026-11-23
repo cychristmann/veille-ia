@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Nokia]] - concept - dossiers/2026-11-19-3.md
+- [[Triche par IA en Corée du Sud, les examens sous haute tension]] - document - dossiers/2026-11-22-2.md
 
 ## Live Query (requires Dataview plugin)
 

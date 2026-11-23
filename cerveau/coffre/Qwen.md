@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-16-t1.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-22"
+community: "Qwen"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-22
+  - community/Qwen
 ---
 
 # Qwen
@@ -13,7 +13,8 @@ tags:
 ## Connections
 - [[Alibaba]] - `references` [EXTRACTED]
 - [[OpenCode]] - `references` [EXTRACTED]
+- [[Unsloth Desktop]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-16  Sécurité, gouvernance et cadres pour IA autonome]] - `cites` [EXTRACTED]
 - [[Veille Outils & code 2026-11-22]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-22
+#graphify/concept #graphify/EXTRACTED #community/Qwen

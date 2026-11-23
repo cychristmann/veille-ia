@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0010.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-20"
+community: "Apple"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-20
+  - community/Apple
 ---
 
 # Gemini 4 Carbon
@@ -17,4 +17,4 @@ tags:
 - [[Google DeepMind]] - `references` [INFERRED]
 - [[Veille Outils & code 2026-11-15]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-20
+#graphify/concept #graphify/EXTRACTED #community/Apple

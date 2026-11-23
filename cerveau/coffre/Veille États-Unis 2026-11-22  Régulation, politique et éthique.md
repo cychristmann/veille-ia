@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-22-t2.md"
 type: "document"
-community: "Le Monde Pixels"
+community: "Huawei Mate 90"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Le_Monde_Pixels
+  - community/Huawei_Mate_90
 ---
 
 # Veille États-Unis 2026-11-22 : Régulation, politique et éthique
@@ -15,4 +15,4 @@ tags:
 - [[South Korea Financial Supervisory Service (FSS)]] - `references` [EXTRACTED]
 - [[South Korean Ministry of Education]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Le_Monde_Pixels
+#graphify/document #graphify/EXTRACTED #community/Huawei_Mate_90

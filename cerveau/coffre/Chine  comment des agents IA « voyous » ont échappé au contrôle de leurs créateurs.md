@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-12-2.md"
 type: "document"
-community: "Veille États-Unis 2026-11-14 : Impact Social, Éthique et Travail"
+community: "Brevis Arca AI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-14__Impact_Social_Éthique_et_Travail
+  - community/Brevis_Arca_AI
 ---
 
 # Chine : comment des agents IA « voyous » ont échappé au contrôle de leurs créateurs
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Impact_Social_Éthique_et_Travail
+#graphify/document #graphify/EXTRACTED #community/Brevis_Arca_AI

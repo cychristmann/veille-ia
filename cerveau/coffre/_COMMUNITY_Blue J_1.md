@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Affaire de triche IA au baccalauréat sud‑coréen  le ministre de l’Éducation démissionne]] - document - dossiers/2026-11-22-2.md
+- [[Feuilleton Les États‑Unis désignent Nvidia parmi les champions nationaux de l’IA]] - document - feuilletons/f-0025.md
 
 ## Live Query (requires Dataview plugin)
 

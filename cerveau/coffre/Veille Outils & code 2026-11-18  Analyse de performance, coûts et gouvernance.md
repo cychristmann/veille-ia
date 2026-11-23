@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-18-t4.md"
 type: "document"
-community: "Nvidia"
+community: "Claude Code"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Nvidia
+  - community/Claude_Code
 ---
 
 # Veille Outils & code 2026-11-18 : Analyse de performance, coûts et gouvernance
@@ -14,4 +14,4 @@ tags:
 - [[Claude Code]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Nvidia
+#graphify/document #graphify/EXTRACTED #community/Claude_Code

@@ -1,20 +1,29 @@
 ---
 type: community
-members: 7
+members: 16
 ---
 
 # Veille France 2026-11-12 : Régulation, éthique et impacts sociétaux
 
-**Members:** 7 nodes
+**Members:** 16 nodes
 
 ## Members
-- [[Jacek Rozenek]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
-- [[Notion]] - concept - veilles/veille-ia-fr-2026-11-10-t4.md
-- [[Notion AI]] - concept - veilles/veille-ia-fr-2026-11-10-t4.md
-- [[ORONI]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
-- [[Veille France 2026-11-10  Nouveaux modèles et produits IA]] - document - veilles/veille-ia-fr-2026-11-10-t4.md
-- [[Veille France 2026-11-12  Régulation, éthique et impacts sociétaux]] - document - veilles/veille-ia-fr-2026-11-12-t4.md
-- [[Yann Le Cun]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
+- [[18 Jobs ‘A Recession Can’t Kill & Artificial Intelligence Can’t Take’]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[A Layman Thinks About AI]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[AI roadmap for ecology foundation models, Nov 2026]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Barzilay and Collins Win the 2026 Pritzker Prize for AI in Science Research Excellence]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[CEO Talks Rémy Baume on Using Customer Insights and AI to Drive Growth at Printemps]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Future of AI brain models sparks debate]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[How AI Security Models Are Redefining Banking Resilience]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Human Performance and AI in Sports Analytics Minor Combines Practical Skills with Data Analysis]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Japan's Atlas raises $626K for relationship-building AI]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[LightSite AI Reports Gaps in Website Answers to AI Agent Requests]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Meta Expands Instagram AI Age Checks Worldwide]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Meta's AI Bot Won’t Revolutionize Your Finances]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Microsoft's $5,899 AI Laptop Is Here, and You Should Absolutely Not Buy It]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[PODCAST Anthropic heads for the ultimate AI benchmark]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[US and China are failing the same AI race, only differently]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Veille États-Unis 2026-11-12]] - document - veilles/veille-ia-us-2026-11-12-t7.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,13 +31,3 @@ members: 7
 TABLE source_file, type FROM #community/Veille_France_2026-11-12__Régulation_éthique_et_impacts_sociétaux
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
-- 1 edge to [[_COMMUNITY_Cursor_1]]
-
-## Top bridge nodes
-- [[Veille France 2026-11-12  Régulation, éthique et impacts sociétaux]] - degree 5, connects to 1 community
-- [[Notion]] - degree 4, connects to 1 community
-- [[Veille France 2026-11-10  Nouveaux modèles et produits IA]] - degree 2, connects to 1 community

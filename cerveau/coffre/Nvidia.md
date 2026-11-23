@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-12-t1.md"
+source_file: "veilles/veille-ia-us-2026-11-09-t2.md"
 type: "concept"
 community: "Nvidia"
 tags:
@@ -13,6 +13,7 @@ tags:
 ## Connections
 - [[AI Overwatch Act]] - `references` [EXTRACTED]
 - [[Amazon]] - `references` [EXTRACTED]
+- [[Anthropic]] - `conceptually_related_to` [INFERRED]
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Baird]] - `references` [EXTRACTED]
 - [[Blackwell]] - `references` [EXTRACTED]
@@ -24,6 +25,7 @@ tags:
 - [[CoreWeave]] - `conceptually_related_to` [INFERRED]
 - [[DGX Spark]] - `references` [EXTRACTED]
 - [[David Tepper]] - `references` [EXTRACTED]
+- [[Decart]] - `references` [EXTRACTED]
 - [[DeepSeek]] - `conceptually_related_to` [INFERRED]
 - [[Dell]] - `conceptually_related_to` [EXTRACTED]
 - [[Donald Trump]] - `references` [EXTRACTED]
@@ -32,6 +34,7 @@ tags:
 - [[Dossier Scandale Nvidia]] - `references` [EXTRACTED]
 - [[Feuilleton  Scandale Nvidia]] - `references` [EXTRACTED]
 - [[Feuilleton SMIC anticipe une pénurie de capacité IA]] - `references` [EXTRACTED]
+- [[Feuilleton Wall Street en déroute]] - `references` [EXTRACTED]
 - [[H Company]] - `references` [EXTRACTED]
 - [[Harvey C. Jones]] - `references` [EXTRACTED]
 - [[Hopper (H200)]] - `references` [EXTRACTED]
@@ -51,7 +54,6 @@ tags:
 - [[Moore Threads]] - `references` [INFERRED]
 - [[NDAA]] - `references` [EXTRACTED]
 - [[Open Secure AI Alliance]] - `references` [EXTRACTED]
-- [[OpenAI]] - `references` [INFERRED]
 - [[Projet Kessel]] - `references` [EXTRACTED]
 - [[Rubin]] - `references` [EXTRACTED]
 - [[SMIC]] - `conceptually_related_to` [INFERRED]
@@ -101,6 +103,7 @@ tags:
 - [[Veille États-Unis 2026-11-19  Infrastructure et matériel]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-20  Marché et finance de l'IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-22  Infrastructure et matériel IA]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-23  Marchés et investissements IA]] - `references` [EXTRACTED]
 - [[Wall Street]] - `references` [EXTRACTED]
 - [[États-Unis]] - `references` [EXTRACTED]
 

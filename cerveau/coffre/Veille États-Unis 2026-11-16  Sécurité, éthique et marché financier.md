@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-16-t4.md"
 type: "document"
-community: "Veille États-Unis 2026-11-16 : Sécurité, éthique et marché financier"
+community: "IA et système financier"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-16__Sécurité_éthique_et_marché_financier
+  - community/IA_et_système_financier
 ---
 
 # Veille États-Unis 2026-11-16 : Sécurité, éthique et marché financier
@@ -14,4 +14,4 @@ tags:
 - [[ARTEX AI Hacking Tool]] - `cites` [EXTRACTED]
 - [[FBI AI Threat Reports]] - `cites` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-16__Sécurité_éthique_et_marché_financier
+#graphify/document #graphify/EXTRACTED #community/IA_et_système_financier

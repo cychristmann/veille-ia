@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-14-t1.md"
 type: "document"
-community: "Veille Chine 2026-11-15 : Éthique, société et relations homme‑machine"
+community: "Veille États-Unis 2026-11-09 : Autres articles"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-15__Éthique_société_et_relations_hommemachine
+  - community/Veille_États-Unis_2026-11-09__Autres_articles
 ---
 
 # Veille France 2026-11-14 : Société, éducation et culture
@@ -17,4 +17,4 @@ tags:
 - [[Jean-Paul Charpin]] - `references` [EXTRACTED]
 - [[Sarah El Haïry]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-15__Éthique_société_et_relations_hommemachine
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-09__Autres_articles

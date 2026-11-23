@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille États-Unis 2026-11-14  Impact Social, Éthique et Travail]] - document - veilles/veille-ia-us-2026-11-14-t4.md
+- [[Veille France 2026-11-09  Finance, Bourse et IA]] - document - veilles/veille-ia-fr-2026-11-09-t2.md
 
 ## Live Query (requires Dataview plugin)
 

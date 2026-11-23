@@ -20,7 +20,7 @@ members: 36
 - [[Cyber-risques]] - concept - dossiers/2026-11-16-3.md
 - [[Dario Amodei]] - concept - dossiers/2026-11-20-3.md
 - [[Dossier Risques systémiques de l’IA pour la stabilité financière]] - document - dossiers/2026-11-16-3.md
-- [[Emmanuel Macron]] - code - veilles/veille-ia-fr-2026-11-09-t2.md
+- [[Emmanuel Macron]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
 - [[European Union]] - concept - veilles/veille-ia-us-2026-11-17-t1.md
 - [[Financement des data-centers]] - concept - dossiers/2026-11-16-3.md
 - [[Fonds Monétaire International (FMI)]] - concept - dossiers/2026-11-16-3.md
@@ -54,10 +54,10 @@ SORT file.name ASC
 
 ## Connections to other communities
 - 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-20_1]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs_1]]
-- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets_2]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20_1]]
+- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets_1]]
 
 ## Top bridge nodes
 - [[Emmanuel Macron]] - degree 5, connects to 1 community

@@ -1,27 +1,24 @@
 ---
 type: community
-members: 14
+members: 11
 ---
 
 # Cursor
 
-**Members:** 14 nodes
+**Members:** 11 nodes
 
 ## Members
-- [[AMIAD]] - concept - dossiers/2026-11-15-3.md
-- [[ANSSI]] - concept - dossiers/2026-11-14-1.md
-- [[Agence ministérielle pour l’intelligence artificielle de défense (AMIAD)]] - concept - dossiers/2026-11-14-1.md
-- [[Banque de France]] - concept - dossiers/2026-11-14-1.md
-- [[CERT-FR]] - concept - dossiers/2026-11-14-1.md
-- [[Centre d’excellence cyber de Tallinn]] - concept - dossiers/2026-11-15-3.md
-- [[ENSTA]] - concept - dossiers/2026-11-14-1.md
-- [[ICAID]] - concept - veilles/veille-ia-fr-2026-11-15-t2.md
-- [[Laboratoire dédié (LARIAD)]] - concept - dossiers/2026-11-14-1.md
-- [[Ministère des Armées]] - concept - dossiers/2026-11-14-1.md
-- [[OTAN]] - concept - veilles/veille-ia-fr-2026-11-15-t2.md
-- [[boursorama.com]] - concept - dossiers/2026-11-14-1.md
-- [[lefigaro.fr]] - concept - dossiers/2026-11-14-1.md
-- [[lemagit.fr]] - concept - dossiers/2026-11-14-1.md
+- [[Cursor]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
+- [[Fireworks]] - concept - veilles/veille-ia-dev-2026-11-18-t3.md
+- [[Fireworks AI]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
+- [[Kimi K2.5]] - concept - veilles/veille-ia-us-2026-11-21-t2.md
+- [[Malicious Claude Code Extension]] - concept - veilles/veille-ia-dev-2026-11-15-t1.md
+- [[Moonshot AI]] - concept - veilles/veille-ia-us-2026-11-21-t2.md
+- [[NovTek]] - concept - veilles/veille-ia-dev-2026-11-23-t5.md
+- [[Seedeo MCP]] - concept - veilles/veille-ia-dev-2026-11-23-t5.md
+- [[Unolabs]] - concept - veilles/veille-ia-dev-2026-11-23-t5.md
+- [[Veille Outils & code 2026-11-15  Sécurité des outils IA]] - document - veilles/veille-ia-dev-2026-11-15-t1.md
+- [[Veille Outils & code 2026-11-23  Intégrations, plateformes et écosystèmes IA]] - document - veilles/veille-ia-dev-2026-11-23-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -31,10 +28,18 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs_1]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-14  Société, éducation et culture]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-20_1]]
+- 3 edges to [[_COMMUNITY_Claude Code]]
+- 3 edges to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
+- 1 edge to [[_COMMUNITY_AMD_1]]
+- 1 edge to [[_COMMUNITY_Cursor_1]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
+- 1 edge to [[_COMMUNITY_DeepSeek]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-12  Régulation, éthique et impacts sociétaux_1]]
 
 ## Top bridge nodes
-- [[ICAID]] - degree 13, connects to 3 communities
-- [[OTAN]] - degree 2, connects to 1 community
+- [[Cursor]] - degree 17, connects to 8 communities
+- [[Veille Outils & code 2026-11-23  Intégrations, plateformes et écosystèmes IA]] - degree 5, connects to 1 community
+- [[Fireworks AI]] - degree 3, connects to 1 community
+- [[Veille Outils & code 2026-11-15  Sécurité des outils IA]] - degree 2, connects to 1 community

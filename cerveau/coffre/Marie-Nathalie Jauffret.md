@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-15-t3.md"
 type: "concept"
-community: "Débats à Saint-Tropez"
+community: "Nvidia"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/Débats_à_Saint-Tropez
+  - community/Nvidia
 ---
 
 # Marie-Nathalie Jauffret
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Débats à Saint-Tropez]] - `references` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/Débats_à_Saint-Tropez
+#graphify/concept #graphify/INFERRED #community/Nvidia

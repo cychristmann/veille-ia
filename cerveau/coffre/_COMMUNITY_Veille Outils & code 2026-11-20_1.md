@@ -1,25 +1,21 @@
 ---
 type: community
-members: 12
+members: 8
 ---
 
 # Veille Outils & code 2026-11-20
 
-**Members:** 12 nodes
+**Members:** 8 nodes
 
 ## Members
-- [[Agent Gateways]] - concept - veilles/veille-ia-dev-2026-11-20-t1.md
-- [[CyberSecurityNews]] - concept - feuilletons/f-0032.md
-- [[Feuilleton Compromission massive du Microsoft Agent Framework]] - document - feuilletons/f-0032.md
-- [[Kimi Code]] - concept - veilles/veille-ia-dev-2026-11-20-t2.md
-- [[Microsoft Agent Framework]] - concept - veilles/veille-ia-dev-2026-11-20-t1.md
-- [[OX Security]] - concept - feuilletons/f-0032.md
-- [[Perplexity Orchestrator API]] - concept - veilles/veille-ia-dev-2026-11-20-t1.md
-- [[The Hacker News]] - concept - feuilletons/f-0032.md
-- [[The New Stack]] - concept - feuilletons/f-0032.md
-- [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - document - veilles/veille-ia-dev-2026-11-18-t3.md
-- [[Veille Outils & code 2026-11-20]] - document - veilles/veille-ia-dev-2026-11-20-t2.md
-- [[wiz.io]] - concept - feuilletons/f-0032.md
+- [[Digital Wellness Lab]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
+- [[Gallup]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
+- [[Mistral AI]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
+- [[Rejouis]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
+- [[Veille France 2026-11-10  Sécurité, risques et éthique]] - document - veilles/veille-ia-fr-2026-11-10-t5.md
+- [[Veille France 2026-11-11  Autres articles]] - document - veilles/veille-ia-fr-2026-11-11-t5.md
+- [[Veille France 2026-11-18 (T4)]] - document - veilles/veille-ia-fr-2026-11-18-t4.md
+- [[Veille France 2026-11-18  Sécurité et cyber‑menaces IA]] - document - veilles/veille-ia-fr-2026-11-18-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,19 +25,17 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Nvidia_1]]
-- 3 edges to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
-- 2 edges to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Copilot]]
-- 1 edge to [[_COMMUNITY_Cursor_1]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_Apple_1]]
 - 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-19  Infrastructure et optimisation IA_1]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-19  Infrastructure et Technologie IA]]
-- 1 edge to [[_COMMUNITY_Amazon Bedrock AgentCore]]
+- 1 edge to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière]]
+- 1 edge to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
+- 1 edge to [[_COMMUNITY_Amazon]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-20]] - degree 11, connects to 5 communities
-- [[Perplexity Orchestrator API]] - degree 5, connects to 4 communities
-- [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - degree 4, connects to 3 communities
-- [[Microsoft Agent Framework]] - degree 4, connects to 1 community
+- [[Mistral AI]] - degree 7, connects to 3 communities
+- [[Veille France 2026-11-10  Sécurité, risques et éthique]] - degree 3, connects to 2 communities
+- [[Veille France 2026-11-18  Sécurité et cyber‑menaces IA]] - degree 3, connects to 2 communities
+- [[Veille France 2026-11-11  Autres articles]] - degree 2, connects to 1 community

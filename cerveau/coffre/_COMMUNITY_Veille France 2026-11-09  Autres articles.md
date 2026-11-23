@@ -21,9 +21,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia_2]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
 - 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Goldman Sachs]]
 
 ## Top bridge nodes
 - [[Veille France 2026-11-09  Autres articles]] - degree 6, connects to 3 communities

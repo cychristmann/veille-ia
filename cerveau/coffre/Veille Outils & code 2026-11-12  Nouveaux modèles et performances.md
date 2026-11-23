@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-12-t5.md"
 type: "document"
-community: "Amazon Bedrock AgentCore"
+community: "ARTEX"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Amazon_Bedrock_AgentCore
+  - community/ARTEX
 ---
 
 # Veille Outils & code 2026-11-12 : Nouveaux modèles et performances
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Gemini Decisions API]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Amazon_Bedrock_AgentCore
+#graphify/document #graphify/EXTRACTED #community/ARTEX

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-16-t6.md"
 type: "document"
-community: "Oku Dating Platform"
+community: "Deletion Tuning"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Oku_Dating_Platform
+  - community/Deletion_Tuning
 ---
 
 # Veille Outils & code 2026-11-16 : Autres articles
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Oku Dating Platform]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Oku_Dating_Platform
+#graphify/document #graphify/EXTRACTED #community/Deletion_Tuning

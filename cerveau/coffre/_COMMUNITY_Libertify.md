@@ -8,11 +8,11 @@ members: 5
 **Members:** 5 nodes
 
 ## Members
-- [[Elior]] - concept - veilles/veille-ia-fr-2026-11-21-t2.md
-- [[Libertify]] - concept - veilles/veille-ia-fr-2026-11-21-t2.md
-- [[Ubisoft]] - concept - veilles/veille-ia-fr-2026-11-21-t2.md
-- [[Vallourec]] - concept - veilles/veille-ia-fr-2026-11-21-t2.md
-- [[Worldline]] - concept - veilles/veille-ia-fr-2026-11-21-t2.md
+- [[Veille Chine 2026-11-16  Autres articles]] - document - veilles/veille-ia-cn-2026-11-16-t6.md
+- [[Veille Chine 2026-11-16  Culture, consommation et divertissement]] - document - veilles/veille-ia-cn-2026-11-16-t5.md
+- [[华为小艺AI]] - concept - veilles/veille-ia-cn-2026-11-16-t5.md
+- [[无界进化 (INFevo)]] - concept - veilles/veille-ia-cn-2026-11-16-t5.md
+- [[美联储金融稳定报告]] - document - veilles/veille-ia-cn-2026-11-16-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,9 +20,3 @@ members: 5
 TABLE source_file, type FROM #community/Libertify
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia_2]]
-
-## Top bridge nodes
-- [[Libertify]] - degree 5, connects to 1 community

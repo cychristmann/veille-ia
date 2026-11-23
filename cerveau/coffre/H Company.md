@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t6.md"
 type: "concept"
-community: "Amazon Bedrock"
+community: "Google"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Amazon_Bedrock
+  - community/Google
 ---
 
 # H Company
@@ -14,4 +14,4 @@ tags:
 - [[AWS]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Amazon_Bedrock
+#graphify/concept #graphify/EXTRACTED #community/Google

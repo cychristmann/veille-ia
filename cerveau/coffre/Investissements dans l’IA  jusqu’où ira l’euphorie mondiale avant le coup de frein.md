@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-15-2.md"
 type: "document"
-community: "Veille France 2026-11-21 : Autres articles"
+community: "ARTEX"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-21__Autres_articles
+  - community/ARTEX
 ---
 
 # Investissements dans l’IA : jusqu’où ira l’euphorie mondiale avant le coup de frein ?
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Dossier  Effondrement du boom IA et crise des data-centers]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-21__Autres_articles
+#graphify/document #graphify/EXTRACTED #community/ARTEX

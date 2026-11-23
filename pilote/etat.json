@@ -115,6 +115,24 @@
    "motif": "score actuel 77.3/100",
    "raison": "Réduire la part de Google Actualités à 0.8 pour les États‑Unis devrait augmenter le pourcentage de liens directs, ce qui est le point le plus faible après la Chine.",
    "resultat": "essai pendant 3 nuits"
+  },
+  {
+   "date": "2026-11-23",
+   "action": "annuler_reglage",
+   "section": "cn",
+   "source": "part de Google Actualités 1.0 → 0.8",
+   "motif": "score 70.6/100 sur 3 nuits, contre 70.6 avant (+0.0)",
+   "raison": "Verdict mesuré de l'essai, appliqué d'office.",
+   "resultat": "retour au réglage d'avant"
+  },
+  {
+   "date": "2026-11-23",
+   "action": "experimenter",
+   "section": "fr",
+   "source": "part de Google Actualités 1.0 → 0.8",
+   "motif": "score actuel 78.4/100",
+   "raison": "Réduire la part de Google Actualités en France devrait augmenter le pourcentage de liens directs, améliorant le score global.",
+   "resultat": "essai pendant 3 nuits"
   }
  ],
  "essais": {
@@ -154,24 +172,19 @@
  "derniere_decouverte": "2026-11-17",
  "reglages": {
   "cn": {
-   "part_google": 0.8
+   "part_google": 1.0
   },
   "dev": {
    "part_google": 0.5
   },
   "us": {
    "part_google": 0.8
+  },
+  "fr": {
+   "part_google": 0.8
   }
  },
  "experiences": {
-  "cn": {
-   "param": "part_google",
-   "avant": 1.0,
-   "apres": 0.8,
-   "base": 70.6,
-   "depuis": "2026-11-20",
-   "hypothese": "Réduire la part de Google Actualités de 1.0 à 0.8 pour la Chine devrait augmenter le taux de liens directs, qui est très bas."
-  },
   "dev": {
    "param": "part_google",
    "avant": 0.35,
@@ -187,8 +200,29 @@
    "base": 77.3,
    "depuis": "2026-11-22",
    "hypothese": "Réduire la part de Google Actualités à 0.8 pour les États‑Unis devrait augmenter le pourcentage de liens directs, ce qui est le point le plus faible après la Chine."
+  },
+  "fr": {
+   "param": "part_google",
+   "avant": 1.0,
+   "apres": 0.8,
+   "base": 78.4,
+   "depuis": "2026-11-23",
+   "hypothese": "Réduire la part de Google Actualités en France devrait augmenter le pourcentage de liens directs, améliorant le score global."
   }
  },
- "experiences_passees": [],
+ "experiences_passees": [
+  {
+   "param": "part_google",
+   "avant": 1.0,
+   "apres": 0.8,
+   "base": 70.6,
+   "depuis": "2026-11-20",
+   "hypothese": "Réduire la part de Google Actualités de 1.0 à 0.8 pour la Chine devrait augmenter le taux de liens directs, qui est très bas.",
+   "section": "cn",
+   "fin": "2026-11-23",
+   "score_apres": 70.6,
+   "verdict": "annule"
+  }
+ ],
  "sections_passees": []
 }

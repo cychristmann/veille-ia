@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-16-t4.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-17 (T4)"
+community: "Veille Chine 2026-11-16"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-17_T4
+  - community/Veille_Chine_2026-11-16
 ---
 
 # AI Fraud and Academic Misconduct
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-16]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-17_T4
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-16

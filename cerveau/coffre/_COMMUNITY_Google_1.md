@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Google
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Veille Outils & code 2026-11-14  Bibliothèques, outils et releases open‑source]] - document - veilles/veille-ia-dev-2026-11-14-t4.md
-- [[XYBench]] - concept - veilles/veille-ia-dev-2026-11-14-t4.md
-- [[agent-desktop]] - concept - veilles/veille-ia-dev-2026-11-14-t4.md
+- [[GTM.AI API]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[Piper]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[Qualified]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[ZoomInfo]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-21-t2.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-13 : Enjeux du marché et turbulences"
+community: "S&P 500"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-13__Enjeux_du_marché_et_turbulences
+  - community/SP_500
 ---
 
 # CAC 40
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Enjeux_du_marché_et_turbulences
+#graphify/concept #graphify/EXTRACTED #community/SP_500

@@ -1,18 +1,19 @@
 ---
 type: community
-members: 5
+members: 6
 ---
 
 # Cursor
 
-**Members:** 5 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Cursor Claude Code Extension Incident]] - concept - veilles/veille-ia-dev-2026-11-16-t3.md
-- [[FireworksAI Hack]] - concept - veilles/veille-ia-dev-2026-11-16-t3.md
-- [[Google Chubby]] - concept - veilles/veille-ia-dev-2026-11-16-t3.md
-- [[Uber's Secure AI Framework]] - concept - veilles/veille-ia-dev-2026-11-16-t3.md
-- [[Veille Outils & code 2026-11-16  Sécurité, gouvernance et cadres pour IA autonome]] - document - veilles/veille-ia-dev-2026-11-16-t3.md
+- [[01net.com]] - concept - dossiers/2026-11-17-3.md
+- [[Dossier L’impact de l’automatisation par l’IA]] - document - dossiers/2026-11-17-3.md
+- [[OCDE]] - concept - dossiers/2026-11-17-3.md
+- [[PwC]] - concept - dossiers/2026-11-17-3.md
+- [[journaldunet.com]] - concept - dossiers/2026-11-17-3.md
+- [[latribune.fr]] - concept - dossiers/2026-11-17-3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,10 +21,3 @@ members: 5
 TABLE source_file, type FROM #community/Cursor
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-22]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
-
-## Top bridge nodes
-- [[Veille Outils & code 2026-11-16  Sécurité, gouvernance et cadres pour IA autonome]] - degree 5, connects to 2 communities
