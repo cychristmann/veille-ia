@@ -85,6 +85,48 @@ def _est_note(n: dict) -> bool:
         ("Veille ", "Feuilleton", "Dossier"))
 
 
+# Liens évidents, sans intérêt comme « lien nouveau » : une entreprise et son propre produit.
+FAMILLES = {
+    "openai": ("chatgpt", "gpt", "codex", "sora", "dall-e", "o3", "o4", "operator", "atlas"),
+    "anthropic": ("claude", "opus", "sonnet", "haiku", "fable", "mythos"),
+    "claude": ("opus", "sonnet", "haiku", "fable", "mythos"),
+    "google": ("gemini", "deepmind", "gemma", "bard", "veo", "notebooklm", "waymo", "tpu"),
+    "alphabet": ("google", "gemini", "deepmind", "waymo"),
+    "meta": ("llama", "muse", "facebook", "instagram", "whatsapp"),
+    "microsoft": ("copilot", "mai", "azure", "bing", "github", "phi"),
+    "github": ("copilot",),
+    "nvidia": ("cuda", "blackwell", "rubin", "h100", "h200", "b200", "geforce", "nemotron", "jensen huang"),
+    "amazon": ("aws", "bedrock", "alexa", "nova", "trainium", "kiro"),
+    "aws": ("bedrock", "trainium", "kiro"),
+    "apple": ("siri", "apple intelligence"),
+    "xai": ("grok",),
+    "alibaba": ("qwen", "通义", "tongyi"),
+    "bytedance": ("doubao", "豆包", "trae", "seedance"),
+    "tencent": ("hunyuan", "hy4", "yuanbao", "元宝", "混元"),
+    "baidu": ("ernie", "文心", "wenxin"),
+    "moonshot": ("kimi",),
+    "mistral": ("le chat", "codestral", "magistral"),
+    "deepseek": ("deepseek",),
+    "zhipu": ("glm", "智谱"),
+}
+
+
+def lien_evident(a: str, b: str, deja_relies: bool = False) -> bool:
+    """Deux entités dont le lien n'apprend rien : l'une contient le nom de l'autre (« Claude »
+    et « Claude Code »), une entreprise et son produit, ou un lien déjà présent dans le graphe."""
+    if deja_relies:
+        return True
+    x, y = a.casefold().strip(), b.casefold().strip()
+    mot = lambda court, long: re.search(r"(?<!\w)" + re.escape(court) + r"(?!\w)", long) is not None
+    if mot(x, y) or mot(y, x):
+        return True
+    for societe, produits in FAMILLES.items():
+        for p, q in ((x, y), (y, x)):
+            if mot(societe, p) and any(mot(prod, q) for prod in produits):
+                return True
+    return False
+
+
 def charger_mentions(jour: str) -> tuple[dict, dict, list[str]]:
     """Pour chaque entité : les notes datées (≤ jour) qui en parlent.
 
@@ -156,6 +198,8 @@ def mesurer(etat: EtatInterprete) -> dict:
     """Calcule les signaux candidats, sans IA."""
     jour = etat["jour"]
     entites, mentions, jours = charger_mentions(jour)
+    g = json.loads(GRAPHE.read_text(encoding="utf-8"))
+    g_liens = g.get("links", g.get("edges", []))
     if jour not in jours:
         return {"signaux": [], "rien": f"Aucune veille le {jour}."}
     recents, anciens = set(jours[-RECENT:]), [j for j in jours[:-RECENT]]
@@ -218,6 +262,12 @@ def mesurer(etat: EtatInterprete) -> dict:
     for f, ids in notes_du_jour.items():
         if _date_de(f) < jour:
             deja_ensemble |= {tuple(sorted(p)) for p in combinations(ids, 2)}
+    # Entités déjà reliées dans le graphe par une note d'un jour passé : leur lien n'est
+    # pas nouveau, même si aucun article ne les citait encore ensemble.
+    deja_relies = set()
+    for l in g_liens:
+        if l.get("source_file") and _date_de(l["source_file"]) and _date_de(l["source_file"]) < jour:
+            deja_relies.add(tuple(sorted((l["source"], l["target"]))))
     liens = {}
     termes = {i: [t.casefold() for t in _termes(e["label"], e["variantes"])] for i, e in entites.items()}
     for f, ids in notes_du_jour.items():
@@ -233,7 +283,8 @@ def mesurer(etat: EtatInterprete) -> dict:
             # dans une note de thème « Autres articles »).
             ensemble = any(any(t in art for t in termes[a]) and any(t in art for t in termes[b])
                            for art in articles)
-            if passe_a and passe_b and ensemble:
+            if passe_a and passe_b and ensemble and not lien_evident(
+                    entites[a]["label"], entites[b]["label"], (a, b) in deja_relies):
                 liens.setdefault((a, b), [passe_a + passe_b, []])[1].append(f)
     # Un lien nouveau est un fait nouveau : permis même si les deux entités ont déjà été
     # analysées, mais pas deux fois la même entité dans la journée.

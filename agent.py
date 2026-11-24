@@ -538,6 +538,30 @@ def _llm_gemini(modele: str, max_tokens: int):
                                   callbacks=[COMPTEUR_GEMINI])
 
 
+# Garde-fou de quota : au-delà de SEUIL_ECONOMIE % du quota Groq du jour, les étapes
+# secondaires (tout sauf la veille des sections, agent.py) passent d'abord par Gemini, pour
+# que Groq reste disponible pour l'essentiel. Groq reste leur secours.
+SEUIL_ECONOMIE = 85
+ETAPES_ESSENTIELLES = {"agent"}
+_ECONOMIE_SIGNALEE = False
+
+
+def economiser_groq() -> bool:
+    global _ECONOMIE_SIGNALEE
+    from consommation import _etape, part_groq_du_jour
+
+    etape = _etape()
+    if etape in ETAPES_ESSENTIELLES:
+        return False
+    part = part_groq_du_jour()
+    if part < SEUIL_ECONOMIE:
+        return False
+    if not _ECONOMIE_SIGNALEE:
+        print(f"Quota Groq à {part:.0f} % : l'étape « {etape} » passe d'abord par Gemini.")
+        _ECONOMIE_SIGNALEE = True
+    return True
+
+
 def llm_avec_secours(max_tokens: int, preparer_groq, preparer_gemini=None):
     """Groq, puis Gemini si Groq échoue (quota épuisé, panne, réponse invalide).
 
@@ -549,7 +573,10 @@ def llm_avec_secours(max_tokens: int, preparer_groq, preparer_gemini=None):
     if not secours_disponible():
         return preparer_groq(creer_llm(max_tokens))
     principal = preparer_groq(creer_llm(max_tokens, max_retries=2))
-    return principal.with_fallbacks([preparer_gemini(_llm_gemini(m, max_tokens)) for m in MODELES_GEMINI])
+    geminis = [preparer_gemini(_llm_gemini(m, max_tokens)) for m in MODELES_GEMINI]
+    if economiser_groq():
+        return geminis[0].with_fallbacks([*geminis[1:], principal])
+    return principal.with_fallbacks(geminis)
 
 
 # Placé ici car utilisé par les agents qui appellent le modèle.

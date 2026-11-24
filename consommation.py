@@ -36,6 +36,16 @@ VERROU = threading.Lock()
 QUOTA_GROQ_JOUR = 200_000
 
 
+def part_groq_du_jour() -> float:
+    """Part (en %) du quota Groq gratuit déjà consommée aujourd'hui (0 si rien de noté)."""
+    try:
+        d = json.loads(_fichier(datetime.now().strftime("%Y-%m-%d")).read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return 0.0
+    g = d.get("fournisseurs", {}).get("groq", {})
+    return 100 * (g.get("entree", 0) + g.get("sortie", 0)) / QUOTA_GROQ_JOUR
+
+
 def _etape() -> str:
     """Nom du script lancé (agent, memoire, redacteur, cerveau, interface…)."""
     nom = Path(sys.argv[0]).stem if sys.argv and sys.argv[0] else ""

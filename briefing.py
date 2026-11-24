@@ -13,14 +13,17 @@ Deux temps, pour ne jamais garder de fichier audio dans le dépôt :
     écrire le texte (IA) -> enregistrer veilles/briefing-DATE.json
     publier : texte -> voix Piper -> MP3
 
-Lancement : uv run python briefing.py [AAAA-MM-JJ]       (écrit le texte)
+Le dimanche, l'édition de la semaine (environ cinq minutes) : tendances des sept jours,
+feuilletons qui ont avancé, bilan des paris du pilote, puis ce qu'il faudra surveiller.
+
+Lancement : uv run python briefing.py [AAAA-MM-JJ]       (écrit le texte ; --semaine : édition de la semaine)
             uv run python briefing.py --audio sortie.mp3 (lit le dernier texte à voix haute)
 """
 
 import argparse
 import json
 import re
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -31,6 +34,7 @@ VEILLES = RACINE / "veilles"
 VOIX = "fr_FR-siwis-medium"  # voix française libre de Piper (licence CC BY 4.0)
 DOSSIER_VOIX = RACINE / ".voix"  # téléchargée une fois (non suivie par Git)
 SECTIONS = {"fr": "France", "us": "États-Unis", "cn": "Chine", "dev": "Outils & code"}
+MOTS_SEMAINE = (750, 900)  # dimanche : l'édition de la semaine, environ cinq minutes
 MOTS = (450, 550)  # environ trois minutes à voix haute (~165 mots par minute)
 KBPS = 48  # MP3 mono : une voix reste nette, le fichier reste léger (~1 Mo)
 
@@ -73,6 +77,54 @@ def dernier_jour() -> str | None:
     return jours[-1] if jours else None
 
 
+CONSIGNE_SEMAINE = """C'est dimanche : au lieu du briefing du jour, tu présentes le BRIEFING
+DE LA SEMAINE. Raconte les grandes tendances des sept derniers jours, les histoires qui ont
+avancé (feuilletons), puis une ou deux nouvelles de ce dimanche, et termine par ce qu'il
+faudra surveiller la semaine prochaine. Ouvre par « Bonjour, voici le briefing de la
+semaine ».
+
+"""
+
+
+def est_dimanche(jour: str) -> bool:
+    return date.fromisoformat(jour).weekday() == 6
+
+
+def _texte(x) -> str:
+    if isinstance(x, dict) and "mentions" in x:  # acteur de la semaine
+        return f"{x.get('nom')} ({x['mentions']} articles, contre {x.get('mentions_precedentes', '?')} la semaine d'avant)"
+    if isinstance(x, dict):
+        return " — ".join(str(v) for k, v in x.items() if isinstance(v, (str, int, float)) and k != "id")
+    return str(x)
+
+
+def elements_semaine(jour: str) -> str:
+    """En plus du jour : tendances de la semaine, feuilletons qui ont avancé, bilan des paris."""
+    blocs = []
+    t = _lire(VEILLES / "tendances.json") or {}
+    if t:
+        blocs.append("## Tendances de la semaine\n" + t.get("synthese", "")
+                     + "".join(f"\n  - {cle} : " + " ; ".join(_texte(x) for x in t.get(cle, [])[:5])
+                               for cle in ("acteurs", "montants", "retombes", "a_surveiller") if t.get(cle)))
+    debut = (date.fromisoformat(jour) - timedelta(days=6)).isoformat()
+    feuilletons = [f for f in (_lire(VEILLES / "memoire.json") or {}).get("feuilletons", [])
+                   if f.get("derniere_activite", "") >= debut]
+    feuilletons.sort(key=lambda f: -sum(e.get("date", "") >= debut for e in f.get("evenements", [])))
+    if feuilletons:
+        blocs.append("## Feuilletons qui ont avancé cette semaine\n" + "\n".join(
+            f"  - {f['titre']} : " + " / ".join(e["texte"] for e in f.get("evenements", [])
+                                                 if e.get("date", "") >= debut)[:400]
+            for f in feuilletons[:6]))
+    try:
+        import paris
+        s = paris.score(paris.charger())
+        if s.get("tranches"):
+            blocs.append(f"## Les paris du pilote automatique\n{s['gagnes']} paris gagnés sur {s['tranches']}.")
+    except Exception:
+        pass
+    return "\n\n".join(blocs)
+
+
 def elements(jour: str) -> str:
     """Ce que l'IA a sous les yeux : synthèses, meilleurs articles, dossiers, sujet du moment."""
     blocs = []
@@ -95,7 +147,7 @@ def elements(jour: str) -> str:
     return "\n\n".join(blocs)
 
 
-def ecrire(jour: str) -> dict | None:
+def ecrire(jour: str, forcer_semaine: bool = False) -> dict | None:
     """Écrit le texte du briefing du jour (veilles/briefing-DATE.json)."""
     contenu = elements(jour)
     if not contenu:
@@ -103,18 +155,23 @@ def ecrire(jour: str) -> dict | None:
         return None
     from agent import _modele
 
-    consigne = CONSIGNE.format(jour=jour, mini=MOTS[0], maxi=MOTS[1], elements=contenu)
+    semaine = est_dimanche(jour) or forcer_semaine
+    mots = MOTS_SEMAINE if semaine else MOTS
+    if semaine:
+        contenu = elements_semaine(jour) + "\n\n# Ce dimanche\n\n" + contenu
+    consigne = (CONSIGNE_SEMAINE if semaine else "") + CONSIGNE.format(
+        jour=jour, mini=mots[0], maxi=mots[1], elements=contenu)
     b = _modele(Briefing, max_tokens=4000).invoke(consigne)
     texte = nettoyer(b.texte)
-    if len(texte.split()) < 0.8 * MOTS[0]:  # le modèle écrit souvent trop court : une relance
+    if len(texte.split()) < 0.8 * mots[0]:  # le modèle écrit souvent trop court : une relance
         print(f"Briefing trop court ({len(texte.split())} mots) : nouvel essai.")
         b2 = _modele(Briefing, max_tokens=4000).invoke(
             consigne + f"\n\nATTENTION : ton premier texte ne faisait que {len(texte.split())} mots. "
-            f"Écris-en au moins {MOTS[0]} : développe chaque nouvelle (contexte, enjeu, chiffres).")
+            f"Écris-en au moins {mots[0]} : développe chaque nouvelle (contexte, enjeu, chiffres).")
         if len(nettoyer(b2.texte).split()) > len(texte.split()):
             b, texte = b2, nettoyer(b2.texte)
     donnees = {"date": jour, "titre": b.titre.strip(), "texte": texte, "mots": len(texte.split()),
-               "voix": VOIX}
+               "voix": VOIX, "edition": "semaine" if semaine else "jour"}
     (VEILLES / f"briefing-{jour}.json").write_text(json.dumps(donnees, ensure_ascii=False, indent=1),
                                                    encoding="utf-8")
     print(f"Briefing du {jour} : « {donnees['titre']} » ({donnees['mots']} mots).")
@@ -178,6 +235,7 @@ def main() -> None:
     parseur = argparse.ArgumentParser(description="Briefing audio du matin.")
     parseur.add_argument("jour", nargs="?", help="AAAA-MM-JJ (par défaut : dernière veille)")
     parseur.add_argument("--audio", metavar="FICHIER.mp3", help="lit le dernier briefing à voix haute")
+    parseur.add_argument("--semaine", action="store_true", help="édition de la semaine (d'office le dimanche)")
     args = parseur.parse_args()
     if args.audio:
         b = dernier_briefing()
@@ -186,7 +244,7 @@ def main() -> None:
         duree = synthetiser(b["texte"], Path(args.audio))
         print(f"{args.audio} : {duree} secondes.")
         return
-    ecrire(args.jour or dernier_jour() or date.today().isoformat())
+    ecrire(args.jour or dernier_jour() or date.today().isoformat(), forcer_semaine=args.semaine)
 
 
 if __name__ == "__main__":

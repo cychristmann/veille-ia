@@ -999,7 +999,7 @@
         <p class="note-langue" id="note-langue" hidden><svg class="icone" data-icone="langues"></svg>Titres traduits en français par l'agent traducteur · titre original sous chaque article</p>
         <div class="alertes" id="alertes"></div>
         <section class="briefing" id="briefing" hidden aria-labelledby="briefing-titre">
-          <p class="surtitre">Briefing audio du matin</p>
+          <p class="surtitre" id="briefing-surtitre">Briefing audio du matin</p>
           <h2 id="briefing-titre"></h2>
           <button type="button" class="ecouter" id="briefing-ecouter" hidden>▶ Écouter</button>
           <audio id="briefing-audio" controls preload="none" hidden></audio>
@@ -2079,6 +2079,11 @@ async function demarrer() {
     // Précharger les veilles du jour : le service worker les garde pour la lecture hors ligne.
     for (const code of Object.keys(jours[0].regions)) fetch(URLS.veille(code, jours[0].date)).catch(() => {});
   }
+  const partage = new URLSearchParams(location.search);
+  if (["partage_titre", "partage_texte", "partage_url"].some((p) => partage.get(p))) {
+    afficherJours();
+    return analyserPartage(partage.get("partage_titre") || "", partage.get("partage_texte") || "", partage.get("partage_url") || "");
+  }
   if (location.hash === "#sources") { afficherJours(); return montrerSources(); }
   if (location.hash === "#favoris") { afficherJours(); return montrerFavoris(); }
   if (location.hash === "#semaine") { afficherJours(); return montrerTendances(); }
@@ -2318,11 +2323,11 @@ else $("ecouter").hidden = true;
 
 // ===== Recherche dans tout l'historique =====
 let indexArticles = null;
-async function rechercherHistorique(q) {
+async function rechercherHistorique(q, trier) {
   const jourAvant = jourActif;
   ouvrirVueAnnexe("vue-recherche", "#recherche");
   $("retour-recherche").onclick = () => choisirJour(jourAvant || jours[0].date, regionActive);
-  $("titre-recherche").textContent = `Résultats pour « ${q} »`;
+  $("titre-recherche").textContent = trier ? "Qu'en dit ma veille ?" : `Résultats pour « ${q} »`;
   $("nb-resultats").textContent = "Recherche…";
   $("liste-resultats").replaceChildren();
   try {
@@ -2332,11 +2337,15 @@ async function rechercherHistorique(q) {
     return;
   }
   const motif = sansAccents(q);
-  const trouves = indexArticles
+  const trouves = trier ? trier(indexArticles) : indexArticles
     .filter((a) => sansAccents(`${a.titre} ${a.titre_fr || ""} ${a.source}`).includes(motif))
     .sort((a, b) => b.date.localeCompare(a.date) || (b.note || 0) - (a.note || 0))
     .slice(0, 150);
-  $("nb-resultats").textContent = trouves.length
+  if (trier) {
+    $("nb-resultats").textContent = trouves.length
+      ? `« ${q} » : ta veille a ${trouves.length} article${trouves.length > 1 ? "s" : ""} sur ce sujet${trouves.some((a) => a.meme) ? ", dont celui-ci" : ""}.`
+      : `« ${q} » : ta veille n'en a pas encore parlé.`;
+  } else $("nb-resultats").textContent = trouves.length
     ? `${trouves.length} article${trouves.length > 1 ? "s" : ""}${trouves.length === 150 ? " (les 150 plus récents)" : ""} sur ${jours.length} jours de veille`
     : `Aucun article ne contient « ${q} » dans l'historique.`;
   const conteneur = $("liste-resultats");
@@ -2365,6 +2374,33 @@ async function rechercherHistorique(q) {
   }
 }
 $("lien-historique").addEventListener("click", () => rechercherHistorique($("recherche").value.trim()));
+
+// ===== Partage vers l'app : « qu'en dit ma veille ? » =====
+// Depuis une autre app, « Partager » > Veille IA : on retrouve l'article s'il est dans
+// l'historique, et les articles qui parlent du même sujet (mots du titre en commun).
+const MOTS_VIDES = new Set(("avec dans pour plus sans sous sur entre leur leurs cette ces des les une est sont "
+  + "the and for with from that this into over about your their have has will what how why new "
+  + "lance lancer annonce nouveau nouvelle selon apres apres").split(" "));
+function motsCles(texte) {
+  return [...new Set(sansAccents(texte).split(/[^\p{L}\p{N}]+/u).filter((m) => m.length >= 4 && !MOTS_VIDES.has(m)))];
+}
+async function analyserPartage(titre, texte, url) {
+  history.replaceState(null, "", location.pathname);
+  const lien = url || (texte.match(/https?:\/\/\S+/) || [""])[0];
+  const sujet = (titre || texte.replace(/https?:\/\/\S+/g, "")).trim() || lien;
+  const cles = motsCles(`${titre} ${texte.replace(/https?:\/\/\S+/g, "")}`);
+  await rechercherHistorique(sujet.slice(0, 90), (index) => index
+    .map((a) => {
+      const meme = !!lien && a.lien === lien;
+      const mots = sansAccents(`${a.titre} ${a.titre_fr || ""}`);
+      const communs = cles.filter((m) => mots.includes(m)).length;
+      return { ...a, meme, score: meme ? 1000 : communs };
+    })
+    .filter((a) => a.meme || a.score >= Math.min(2, cles.length))
+    .sort((a, b) => b.score - a.score || b.date.localeCompare(a.date))
+    .slice(0, 40)
+    .sort((a, b) => b.date.localeCompare(a.date)));
+}
 $("recherche").addEventListener("keydown", (e) => {
   if (e.key === "Enter" && $("recherche").value.trim().length >= 3 && jours.length > 1) rechercherHistorique($("recherche").value.trim());
 });
@@ -2983,6 +3019,7 @@ async function chargerBriefing(date) {
   const b = briefingCache;
   if (!b || b.vide || b.date !== date || date !== jourActif) return;
   $("briefing-titre").textContent = b.titre;
+  $("briefing-surtitre").textContent = b.edition === "semaine" ? "Briefing audio de la semaine" : "Briefing audio du matin";
   $("briefing-texte").replaceChildren(...b.texte.split(/\n\s*\n/).map((p) => el("p", "", p)));
   const bouton = $("briefing-ecouter");
   const audio = $("briefing-audio");

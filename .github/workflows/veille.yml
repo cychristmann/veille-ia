@@ -59,6 +59,12 @@ jobs:
       - name: Installer les dépendances
         run: uv sync --locked
 
+      # Tests automatiques (tests/, sans réseau ni IA) : à chaque envoi de code, une erreur
+      # arrête tout avant la publication. La nuit, le code a déjà été testé à son envoi.
+      - name: Tests automatiques
+        if: github.event_name != 'schedule'
+        run: uv run pytest -q
+
       # Sur un push, on republie seulement. Sur une tâche programmée, on ne refait pas une
       # veille déjà faite aujourd'hui (seconde tentative). À la main, on force toujours.
       - name: Faut-il lancer la veille ?
