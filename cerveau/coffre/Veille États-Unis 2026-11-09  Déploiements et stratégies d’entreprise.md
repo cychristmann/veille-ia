@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t2.md"
 type: "document"
-community: "Anthropic"
+community: "David Tepper"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Anthropic
+  - community/David_Tepper
 ---
 
 # Veille États-Unis 2026-11-09 : Déploiements et stratégies d’entreprise
@@ -14,4 +14,4 @@ tags:
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Anthropic
+#graphify/document #graphify/EXTRACTED #community/David_Tepper

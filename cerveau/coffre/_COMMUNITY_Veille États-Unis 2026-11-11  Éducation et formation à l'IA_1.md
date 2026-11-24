@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-11 : Éducation et formation à l'IA
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Alpamayo 2 Edge]] - concept - veilles/veille-ia-dev-2026-11-23-t1.md
-- [[DRIVE Thor]] - concept - veilles/veille-ia-dev-2026-11-23-t1.md
+- [[Sciences et Avenir]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-14-t5.md"
 type: "document"
-community: "Fable 5.2"
+community: "IA et système financier"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Fable_52
+  - community/IA_et_système_financier
 ---
 
 # Veille France 2026-11-14 : Autres articles
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[IA et système financier]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Fable_52
+#graphify/document #graphify/EXTRACTED #community/IA_et_système_financier

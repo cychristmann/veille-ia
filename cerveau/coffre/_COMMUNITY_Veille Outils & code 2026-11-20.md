@@ -1,28 +1,27 @@
 ---
 type: community
-members: 15
+members: 14
 ---
 
 # Veille Outils & code 2026-11-20
 
-**Members:** 15 nodes
+**Members:** 14 nodes
 
 ## Members
-- [[Alibaba AI]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Bitcoin Miners AI]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Cortex]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Google Gemini CarPlay]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Harbor Claris]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[JioStar]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Local LLM Server]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[MEL Conference]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[NAS AI Server]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Omnii Defense]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Snowflake]] - concept - feuilletons/f-0013.md
-- [[United Airlines]] - concept - veilles/veille-ia-us-2026-11-13-t3.md
-- [[Veille France 2026-11-12]] - document - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Veille États-Unis 2026-11-13  Applications sectorielles de l’IA]] - document - veilles/veille-ia-us-2026-11-13-t3.md
-- [[rLocalLLM]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Cegedim EB6 Datacenter]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
+- [[Dürr Dental VistaSoft 4.0]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
+- [[Essai de dépistage du cancer du sein assisté par l'IA (NHS)]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
+- [[Free Traduction Live]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
+- [[Gemini voix d'assistant sur mesure]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
+- [[Genspark SecondBrain VoicePad]] - concept - veilles/veille-ia-dev-2026-11-23-t6.md
+- [[Google Search assistant personnel]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
+- [[OptimPharma]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
+- [[Perplexity Monitor API]] - concept - veilles/veille-ia-dev-2026-11-23-t6.md
+- [[PulseLife assistant IA urgences Lyon]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
+- [[Snowflake agents IA autonomes]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
+- [[Unreal Engine 6]] - concept - veilles/veille-ia-dev-2026-11-23-t6.md
+- [[Veille France 2026-11-24  Applications et produits IA]] - document - veilles/veille-ia-fr-2026-11-24-t3.md
+- [[Veille Outils & code 2026-11-23]] - document - veilles/veille-ia-dev-2026-11-23-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -32,9 +31,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia_1]]
-- 1 edge to [[_COMMUNITY_Apple]]
-- 1 edge to [[_COMMUNITY_CoreWeave]]
+- 1 edge to [[_COMMUNITY_Débats à Saint-Tropez]]
+- 1 edge to [[_COMMUNITY_ARTEX_1]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-12]] - degree 14, connects to 3 communities
+- [[Veille France 2026-11-24  Applications et produits IA]] - degree 11, connects to 1 community
+- [[Veille Outils & code 2026-11-23]] - degree 4, connects to 1 community

@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Skeleton]] - concept - dossiers/2026-11-19-3.md
+- [[Examen crucial en Corée du Sud en plein scandale de triche à l'IA]] - document - dossiers/2026-11-22-2.md
 
 ## Live Query (requires Dataview plugin)
 

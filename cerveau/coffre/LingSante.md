@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-23-t2.md"
 type: "concept"
-community: "Veille Chine 2026-11-21 : Applications sectorielles de l’IA"
+community: "Veille États-Unis 2026-11-23"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-21__Applications_sectorielles_de_lIA
+  - community/Veille_États-Unis_2026-11-23
 ---
 
 # LingSante
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Ant]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-21__Applications_sectorielles_de_lIA
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-23

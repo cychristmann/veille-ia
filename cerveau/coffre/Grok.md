@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t6.md"
 type: "concept"
-community: "Veille France 2026-11-17"
+community: "JPMorgan"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-17
+  - community/JPMorgan
 ---
 
 # Grok
@@ -16,4 +16,4 @@ tags:
 - [[Kiro]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-14  Agents et Outils Technologiques]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-17
+#graphify/concept #graphify/EXTRACTED #community/JPMorgan

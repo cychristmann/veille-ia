@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-14-t3.md"
 type: "document"
-community: "Model Context Protocol (MCP)"
+community: "Chine"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Model_Context_Protocol_MCP
+  - community/Chine
 ---
 
 # Veille Chine 2026-11-14 : Médias, création et divertissement IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AI Short Dramas]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Model_Context_Protocol_MCP
+#graphify/document #graphify/EXTRACTED #community/Chine

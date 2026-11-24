@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-14-t6.md"
 type: "document"
-community: "CVS Health"
+community: "Edelbyte"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/CVS_Health
+  - community/Edelbyte
 ---
 
 # Veille États-Unis 2026-11-14
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[CVS Health]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/CVS_Health
+#graphify/document #graphify/EXTRACTED #community/Edelbyte

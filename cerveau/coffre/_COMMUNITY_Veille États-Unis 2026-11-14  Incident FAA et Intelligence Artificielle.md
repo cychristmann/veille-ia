@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Veille États-Unis 2026-11-14 : Incident FAA et Intelligence Artificielle
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Infrastructure IA (Cloud, Supercalculateurs, Centres de données)]] - concept - veilles/veille-ia-fr-2026-11-20-t5.md
-- [[Surveillance et interprétabilité des modèles d'IA]] - concept - veilles/veille-ia-fr-2026-11-20-t5.md
-- [[Veille France 2026-11-20  Infrastructure, technologie et performance]] - document - veilles/veille-ia-fr-2026-11-20-t5.md
+- [[Florida Legislature]] - concept - veilles/veille-ia-us-2026-11-22-t2.md
+- [[South Korea Financial Supervisory Service (FSS)]] - concept - veilles/veille-ia-us-2026-11-22-t2.md
+- [[South Korean Ministry of Education]] - concept - veilles/veille-ia-us-2026-11-22-t2.md
+- [[Veille États-Unis 2026-11-22  Régulation, politique et éthique]] - document - veilles/veille-ia-us-2026-11-22-t2.md
 
 ## Live Query (requires Dataview plugin)
 

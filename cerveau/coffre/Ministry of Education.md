@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0040.md"
 type: "concept"
-community: "Tencent"
+community: "Ministry of Education"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Tencent
+  - community/Ministry_of_Education
 ---
 
 # Ministry of Education
@@ -16,4 +16,4 @@ tags:
 - [[Lee Jae-myung]] - `references` [EXTRACTED]
 - [[Suneung Exam]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Tencent
+#graphify/concept #graphify/EXTRACTED #community/Ministry_of_Education

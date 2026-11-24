@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-21-t3.md"
 type: "concept"
-community: "Hypothèse de Riemann"
+community: "Copilot"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Hypothèse_de_Riemann
+  - community/Copilot
 ---
 
 # Hypothèse de Riemann
@@ -15,7 +15,7 @@ tags:
 - [[Clay Mathematics Institute]] - `references` [EXTRACTED]
 - [[Feuilleton Résolution de l'hypothèse de Riemann grâce à l'IA d'Anthropic]] - `references` [EXTRACTED]
 - [[Levent Alpöge]] - `conceptually_related_to` [EXTRACTED]
-- [[Shing-Tung Yau]] - `references` [EXTRACTED]
+- [[Shing-Tong Yau]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-21  Recherche scientifique & mathématiques]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Hypothèse_de_Riemann
+#graphify/concept #graphify/EXTRACTED #community/Copilot

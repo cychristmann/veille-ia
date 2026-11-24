@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-21-t3.md"
 type: "concept"
-community: "Edelbyte"
+community: "Agent Investigations"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Edelbyte
+  - community/Agent_Investigations
 ---
 
 # Agent Investigations
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[groundcover]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Edelbyte
+#graphify/concept #graphify/EXTRACTED #community/Agent_Investigations

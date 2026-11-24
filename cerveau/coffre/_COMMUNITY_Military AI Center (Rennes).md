@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Military AI Center (Rennes)
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[French Government]] - concept - feuilletons/f-0023.md
-- [[Military AI Center (Rennes)]] - concept - feuilletons/f-0023.md
-- [[NATO]] - concept - feuilletons/f-0023.md
+- [[AI麦可 (AI Maike)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
+- [[Veille Chine 2026-11-16  Applications sectorielles]] - document - veilles/veille-ia-cn-2026-11-16-t3.md
+- [[豆包工作 (Doubao Work)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
+- [[豆包工作台 (Doubao Workbench)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
 
 ## Live Query (requires Dataview plugin)
 

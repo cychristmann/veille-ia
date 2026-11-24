@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-15-t5.md"
 type: "document"
-community: "Débats à Saint-Tropez"
+community: "ARTEX"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Débats_à_Saint-Tropez
+  - community/ARTEX
 ---
 
 # Veille Outils & code 2026-11-15 (T5)
@@ -15,4 +15,4 @@ tags:
 - [[Claude Code]] - `references` [EXTRACTED]
 - [[Memorilla]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Débats_à_Saint-Tropez
+#graphify/document #graphify/EXTRACTED #community/ARTEX

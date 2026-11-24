@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # CVS Health
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[CVS Health]] - code - veilles/veille-ia-us-2026-11-14-t6.md
-- [[Veille États-Unis 2026-11-14]] - document - veilles/veille-ia-us-2026-11-14-t6.md
+- [[GitGuardian Good Samaritan Program]] - concept - veilles/veille-ia-dev-2026-11-17-t4.md
+- [[State of AI Impact on Software Security and Cybersecurity 2026]] - document - veilles/veille-ia-dev-2026-11-17-t4.md
+- [[Veille Outils & code 2026-11-17 (T4)]] - document - veilles/veille-ia-dev-2026-11-17-t4.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-17-t4.md"
 type: "code"
-community: "Huawei Mate 90"
+community: "AI Automation"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Huawei_Mate_90
+  - community/AI_Automation
 ---
 
 # OSTA O1 Pro
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Huawei Mate 90]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Huawei_Mate_90
+#graphify/code #graphify/EXTRACTED #community/AI_Automation

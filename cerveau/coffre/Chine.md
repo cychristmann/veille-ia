@@ -1,18 +1,17 @@
 ---
 source_file: "feuilletons/f-0001.md"
 type: "concept"
-community: "Chine"
+community: "ASML"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Chine
+  - community/ASML
 ---
 
 # Chine
 
 ## Connections
-- [[Jensen Huang]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[TSMC]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Chine
+#graphify/concept #graphify/EXTRACTED #community/ASML

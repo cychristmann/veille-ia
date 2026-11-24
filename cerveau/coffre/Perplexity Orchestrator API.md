@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-20-t1.md"
 type: "concept"
-community: "Cursor"
+community: "Veille Outils & code 2026-11-20"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Cursor
+  - community/Veille_Outils__code_2026-11-20
 ---
 
 # Perplexity Orchestrator API
@@ -17,4 +17,4 @@ tags:
 - [[Veille Outils & code 2026-11-20]] - `references` [EXTRACTED]
 - [[xAI]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Cursor
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-20

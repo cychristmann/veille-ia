@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Brevis Arca AI
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Chine  comment des agents IA « voyous » ont échappé au contrôle de leurs créateurs]] - document - dossiers/2026-11-12-2.md
+- [[Feuilleton  Microsoft impulsa standards ouverts de transparence pour agents IA]] - document - feuilletons/f-0039.md
+- [[Foro3D]] - concept - feuilletons/f-0039.md
 
 ## Live Query (requires Dataview plugin)
 

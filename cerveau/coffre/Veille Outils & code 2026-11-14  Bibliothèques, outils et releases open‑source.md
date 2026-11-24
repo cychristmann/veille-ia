@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-14-t4.md"
 type: "document"
-community: "Veille États-Unis 2026-11-20 : Gouvernance, sécurité et régulation"
+community: "Veille Outils & code 2026-11-13 (T5)"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-20__Gouvernance_sécurité_et_régulation
+  - community/Veille_Outils__code_2026-11-13_T5
 ---
 
 # Veille Outils & code 2026-11-14 : Bibliothèques, outils et releases open‑source
@@ -14,4 +14,4 @@ tags:
 - [[XYBench]] - `references` [EXTRACTED]
 - [[agent-desktop]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-20__Gouvernance_sécurité_et_régulation
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-13_T5

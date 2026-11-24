@@ -1,25 +1,27 @@
 ---
 type: community
-members: 12
+members: 14
 ---
 
 # Cursor
 
-**Members:** 12 nodes
+**Members:** 14 nodes
 
 ## Members
-- [[Agent Gateways]] - concept - veilles/veille-ia-dev-2026-11-20-t1.md
-- [[CyberSecurityNews]] - concept - feuilletons/f-0032.md
-- [[Feuilleton Compromission massive du Microsoft Agent Framework]] - document - feuilletons/f-0032.md
-- [[Kimi Code]] - concept - veilles/veille-ia-dev-2026-11-20-t2.md
-- [[Microsoft Agent Framework]] - concept - veilles/veille-ia-dev-2026-11-20-t1.md
-- [[OX Security]] - concept - feuilletons/f-0032.md
-- [[Perplexity Orchestrator API]] - concept - veilles/veille-ia-dev-2026-11-20-t1.md
-- [[The Hacker News]] - concept - feuilletons/f-0032.md
-- [[The New Stack]] - concept - feuilletons/f-0032.md
-- [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - document - veilles/veille-ia-dev-2026-11-18-t3.md
-- [[Veille Outils & code 2026-11-20]] - document - veilles/veille-ia-dev-2026-11-20-t2.md
-- [[wiz.io]] - concept - feuilletons/f-0032.md
+- [[Cursor]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
+- [[Fireworks]] - concept - veilles/veille-ia-dev-2026-11-18-t3.md
+- [[Fireworks AI]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
+- [[Kimi K2.5]] - concept - veilles/veille-ia-us-2026-11-21-t2.md
+- [[Malicious Claude Code Extension]] - concept - veilles/veille-ia-dev-2026-11-15-t1.md
+- [[Moonshot AI]] - concept - veilles/veille-ia-us-2026-11-21-t2.md
+- [[NovTek]] - concept - veilles/veille-ia-dev-2026-11-23-t5.md
+- [[OpenBot 1.0]] - concept - veilles/veille-ia-dev-2026-11-13-t1.md
+- [[Seedeo MCP]] - concept - veilles/veille-ia-dev-2026-11-23-t5.md
+- [[Unolabs]] - concept - veilles/veille-ia-dev-2026-11-23-t5.md
+- [[Veille Outils & code 2026-11-13]] - document - veilles/veille-ia-dev-2026-11-13-t1.md
+- [[Veille Outils & code 2026-11-15  Sécurité des outils IA]] - document - veilles/veille-ia-dev-2026-11-15-t1.md
+- [[Veille Outils & code 2026-11-23  Intégrations, plateformes et écosystèmes IA]] - document - veilles/veille-ia-dev-2026-11-23-t5.md
+- [[os.neu]] - concept - veilles/veille-ia-dev-2026-11-13-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,19 +31,22 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Claude Code]]
-- 3 edges to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
-- 2 edges to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
-- 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Cursor]]
-- 1 edge to [[_COMMUNITY_Copilot]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Microsoft]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
-- 1 edge to [[_COMMUNITY_ARTEX]]
+- 3 edges to [[_COMMUNITY_SpaceX]]
+- 2 edges to [[_COMMUNITY_Débats à Saint-Tropez]]
+- 2 edges to [[_COMMUNITY_Veille France 2026-11-22  Marchés et finance]]
+- 1 edge to [[_COMMUNITY_JPMorgan]]
+- 1 edge to [[_COMMUNITY_Meta]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-16]]
+- 1 edge to [[_COMMUNITY_Model Context Protocol (MCP)]]
+- 1 edge to [[_COMMUNITY_DeepSeek]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
+- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-12  Régulation, éthique et impacts sociétaux]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-20]] - degree 11, connects to 5 communities
-- [[Perplexity Orchestrator API]] - degree 5, connects to 4 communities
-- [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - degree 4, connects to 3 communities
-- [[Microsoft Agent Framework]] - degree 4, connects to 1 community
+- [[Cursor]] - degree 17, connects to 7 communities
+- [[Veille Outils & code 2026-11-13]] - degree 7, connects to 4 communities
+- [[Veille Outils & code 2026-11-23  Intégrations, plateformes et écosystèmes IA]] - degree 5, connects to 1 community
+- [[Fireworks AI]] - degree 3, connects to 1 community
+- [[Veille Outils & code 2026-11-15  Sécurité des outils IA]] - degree 2, connects to 1 community

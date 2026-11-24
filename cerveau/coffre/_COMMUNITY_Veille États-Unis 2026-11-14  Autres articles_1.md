@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Triche par IA en Corée du Sud, les examens sous haute tension]] - document - dossiers/2026-11-22-2.md
+- [[Azure]] - concept - dossiers/2026-11-23-3.md
 
 ## Live Query (requires Dataview plugin)
 

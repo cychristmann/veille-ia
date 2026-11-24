@@ -1,15 +1,18 @@
 ---
 type: community
-members: 2
+members: 5
 ---
 
 # Sécurité et risques de l'IA
 
-**Members:** 2 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Bland]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
-- [[Tofu-1]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[IT之家]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
+- [[Veille Chine 2026-11-12  Anthropic et concurrence]] - document - veilles/veille-ia-cn-2026-11-12-t2.md
+- [[中国新闻网]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
+- [[华尔街见闻]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
+- [[证券之星]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -17,3 +20,9 @@ members: 2
 TABLE source_file, type FROM #community/Sécurité_et_risques_de_lIA
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_David Tepper_1]]
+
+## Top bridge nodes
+- [[Veille Chine 2026-11-12  Anthropic et concurrence]] - degree 5, connects to 1 community

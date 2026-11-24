@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-16-t3.md"
 type: "document"
-community: "Qwen"
+community: "Veille Outils & code 2026-11-22"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Qwen
+  - community/Veille_Outils__code_2026-11-22
 ---
 
 # Veille Outils & code 2026-11-16 : Sécurité, gouvernance et cadres pour IA autonome
@@ -17,4 +17,4 @@ tags:
 - [[Qwen]] - `cites` [EXTRACTED]
 - [[Uber's Secure AI Framework]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Qwen
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-22

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-12-t7.md"
 type: "concept"
-community: "Dossier: Course à l'IA entre États‑Unis et Chine"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Dossier_Course_à_lIA_entre_ÉtatsUnis_et_Chine
+  - community/Gemini_4_Hydrogen
 ---
 
 # Viirtue MCP
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Outils & code 2026-11-12]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Dossier_Course_à_lIA_entre_ÉtatsUnis_et_Chine
+#graphify/concept #graphify/EXTRACTED #community/Gemini_4_Hydrogen

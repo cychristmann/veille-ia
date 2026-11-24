@@ -1,28 +1,24 @@
 ---
 type: community
-members: 15
+members: 11
 ---
 
 # AMD
 
-**Members:** 15 nodes
+**Members:** 11 nodes
 
 ## Members
-- [[Claude Fable]] - code - veilles/veille-ia-dev-2026-11-15-t3.md
-- [[CoReMem]] - concept - veilles/veille-ia-dev-2026-11-15-t3.md
-- [[DeepSeek V3]] - concept - veilles/veille-ia-dev-2026-11-15-t2.md
-- [[DuckLake]] - concept - veilles/veille-ia-dev-2026-11-15-t2.md
-- [[Geni-Code]] - concept - veilles/veille-ia-dev-2026-11-16-t2.md
-- [[Google Modern Web Guidance 1.0]] - document - veilles/veille-ia-dev-2026-11-15-t3.md
-- [[GraphRAG]] - concept - veilles/veille-ia-dev-2026-11-16-t2.md
-- [[Nota]] - concept - veilles/veille-ia-dev-2026-11-16-t2.md
-- [[OpenAI Daybreak]] - concept - veilles/veille-ia-dev-2026-11-16-t2.md
-- [[OpenFold3]] - concept - veilles/veille-ia-dev-2026-11-15-t2.md
-- [[Veille Outils & code 2026-11-15]] - document - veilles/veille-ia-dev-2026-11-15-t2.md
-- [[Veille Outils & code 2026-11-16]] - document - veilles/veille-ia-dev-2026-11-16-t2.md
-- [[Vercel UI SDK]] - code - veilles/veille-ia-dev-2026-11-15-t3.md
-- [[datasette-vega]] - code - veilles/veille-ia-dev-2026-11-15-t3.md
-- [[dspy-wsp]] - concept - veilles/veille-ia-dev-2026-11-16-t2.md
+- [[Après l’euphorie, la course à l’IA se heurte déjà aux limites de son modèle économique]] - document - dossiers/2026-11-15-2.md
+- [[Boom de l'intelligence artificielle]] - concept - dossiers/2026-11-15-2.md
+- [[Data-centers]] - concept - dossiers/2026-11-15-2.md
+- [[Dossier  Effondrement du boom IA et crise des data-centers]] - document - dossiers/2026-11-15-2.md
+- [[Empreinte environnementale]] - concept - dossiers/2026-11-15-2.md
+- [[Géants technologiques (Alphabet, Amazon, Microsoft, Meta)]] - concept - dossiers/2026-11-15-2.md
+- [[Investissements dans l’IA  jusqu’où ira l’euphorie mondiale avant le coup de frein]] - document - dossiers/2026-11-15-2.md
+- [[L’empreinte environnementale de l’IA pourrait être multipliée par 7 d’ici 2030]] - document - dossiers/2026-11-15-2.md
+- [[OPINION. « L'énergie pour les data centers de l'IA, atout stratégique ou mirage  »]] - document - dossiers/2026-11-15-2.md
+- [[Risque macroéconomique]] - concept - dossiers/2026-11-15-2.md
+- [[Un coup d'arrêt de l'IA aurait des répercussions bien au-delà des Etats-Unis]] - document - dossiers/2026-11-15-2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -30,17 +26,3 @@ members: 15
 TABLE source_file, type FROM #community/AMD
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 3 edges to [[_COMMUNITY_Copilot]]
-- 2 edges to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-16  Applications sectorielles et industrielles]]
-- 1 edge to [[_COMMUNITY_Cursor]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
-- 1 edge to [[_COMMUNITY_Apple]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-11  Marchés et investissements]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
-
-## Top bridge nodes
-- [[Veille Outils & code 2026-11-15]] - degree 15, connects to 5 communities
-- [[Veille Outils & code 2026-11-16]] - degree 10, connects to 5 communities

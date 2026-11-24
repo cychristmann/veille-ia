@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Beijing University of Posts and Telecommunications]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Feuilleton  Scandale Nvidia et retour de Jensen Huang]] - document - feuilletons/f-0001.md
 
 ## Live Query (requires Dataview plugin)
 

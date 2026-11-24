@@ -16,6 +16,10 @@
    "Design News": {
     "depuis": "2026-11-22",
     "motif": "en panne 5 nuits d'affilée"
+   },
+   "Ollama": {
+    "depuis": "2026-11-24",
+    "motif": "muet : aucun article récent sur l'IA en 7 nuits (447 articles lus)"
    }
   },
   "cn": {
@@ -133,24 +137,54 @@
    "motif": "score actuel 78.4/100",
    "raison": "Réduire la part de Google Actualités en France devrait augmenter le pourcentage de liens directs, améliorant le score global.",
    "resultat": "essai pendant 3 nuits"
+  },
+  {
+   "date": "2026-11-24",
+   "action": "adopter",
+   "section": "dev",
+   "source": "NeoTeo",
+   "motif": "8 article(s) retenu(s) en 7 nuits d'essai, 16 écarté(s), 0 panne(s)",
+   "raison": "NeoTeo a montré de bons résultats (8 articles retenus, aucune panne) et enrichit la section Outils & code.",
+   "resultat": "gardé dans la veille"
+  },
+  {
+   "date": "2026-11-24",
+   "action": "adopter",
+   "section": "fr",
+   "source": "Quartz en Français",
+   "motif": "4 article(s) retenu(s) en 7 nuits d'essai, 3 écarté(s), 0 panne(s)",
+   "raison": "Quartz en Français a fourni des articles pertinents sans panne, améliorant la diversité des sources françaises.",
+   "resultat": "gardé dans la veille"
+  },
+  {
+   "date": "2026-11-24",
+   "action": "annuler_reglage",
+   "section": "dev",
+   "source": "part de Google Actualités 0.35 → 0.5",
+   "motif": "score 76.2/100 sur 3 nuits, contre 77.8 avant (-1.6)",
+   "raison": "Verdict mesuré de l'essai, appliqué d'office.",
+   "resultat": "retour au réglage d'avant"
+  },
+  {
+   "date": "2026-11-24",
+   "action": "pause",
+   "section": "dev",
+   "source": "Ollama",
+   "motif": "muet : aucun article récent sur l'IA en 7 nuits (447 articles lus)",
+   "raison": "Ollama ne fournit plus d'articles récents depuis 7 nuits, il est donc logique de le mettre en pause.",
+   "resultat": ""
+  },
+  {
+   "date": "2026-11-24",
+   "action": "ouvrir_section",
+   "section": "sujet",
+   "source": "Jensen Huang",
+   "motif": "14 articles en 2 jours, 5.8 fois plus que d'habitude (1.2 par jour)",
+   "raison": "Le sujet Jensen Huang est d'actualité (départ du dirigeant) et justifie une rubrique éphémère pour plusieurs jours.",
+   "resultat": "rubrique ouverte : 25 articles dès cette nuit"
   }
  ],
- "essais": {
-  "dev": {
-   "NeoTeo": {
-    "depuis": "2026-11-17",
-    "domaine": "neoteo.com",
-    "raison": "30 % d'articles IA, forte spécialisation technique, apporte une valeur ajoutée importante."
-   }
-  },
-  "fr": {
-   "Quartz en Français": {
-    "depuis": "2026-11-17",
-    "domaine": "qz.com",
-    "raison": "10 % d'articles IA avec des sujets pertinents (cybersécurité, deepfakes) ; source fiable et spécialisée."
-   }
-  }
- },
+ "essais": {},
  "lecons": [
   {
    "date": "2026-11-17",
@@ -175,7 +209,7 @@
    "part_google": 1.0
   },
   "dev": {
-   "part_google": 0.5
+   "part_google": 0.35
   },
   "us": {
    "part_google": 0.8
@@ -185,14 +219,6 @@
   }
  },
  "experiences": {
-  "dev": {
-   "param": "part_google",
-   "avant": 0.35,
-   "apres": 0.5,
-   "base": 77.8,
-   "depuis": "2026-11-21",
-   "hypothese": "Tester une augmentation de la part de Google Actualités (0.35→0.5) pour Outils & code afin de vérifier son impact sur le taux de liens directs."
-  },
   "us": {
    "param": "part_google",
    "avant": 1.0,
@@ -222,7 +248,30 @@
    "fin": "2026-11-23",
    "score_apres": 70.6,
    "verdict": "annule"
+  },
+  {
+   "param": "part_google",
+   "avant": 0.35,
+   "apres": 0.5,
+   "base": 77.8,
+   "depuis": "2026-11-21",
+   "hypothese": "Tester une augmentation de la part de Google Actualités (0.35→0.5) pour Outils & code afin de vérifier son impact sur le taux de liens directs.",
+   "section": "dev",
+   "fin": "2026-11-24",
+   "score_apres": 76.2,
+   "verdict": "annule"
   }
  ],
- "sections_passees": []
+ "sections_passees": [],
+ "section_ephemere": {
+  "entite": "Jensen Huang",
+  "termes": [
+   "Jensen Huang",
+   "黄仁勋 (Jensen Huang)"
+  ],
+  "depuis": "2026-11-24",
+  "pic": 14,
+  "motif": "14 articles en 2 jours, 5.8 fois plus que d'habitude (1.2 par jour)",
+  "raison": "Le sujet Jensen Huang est d'actualité (départ du dirigeant) et justifie une rubrique éphémère pour plusieurs jours."
+ }
 }

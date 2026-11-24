@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0034.md"
 type: "concept"
-community: "Veille Chine 2026-11-21"
+community: "Veille Chine 2026-11-17"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-21
+  - community/Veille_Chine_2026-11-17
 ---
 
 # OVHcloud
@@ -20,4 +20,4 @@ tags:
 - [[Veille France 2026-11-20]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-21  Applications industrielles & produits]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-21
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-17

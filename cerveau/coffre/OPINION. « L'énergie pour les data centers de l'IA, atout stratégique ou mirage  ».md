@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-15-2.md"
 type: "document"
-community: "ARTEX"
+community: "AMD"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/ARTEX
+  - community/AMD
 ---
 
 # OPINION. « L'énergie pour les data centers de l'IA, atout stratégique ou mirage ? »
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Dossier  Effondrement du boom IA et crise des data-centers]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/ARTEX
+#graphify/document #graphify/EXTRACTED #community/AMD

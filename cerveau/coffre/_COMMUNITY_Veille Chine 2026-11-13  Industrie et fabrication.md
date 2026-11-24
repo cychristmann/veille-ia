@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[MiniMax Cryptographic Attacks Research]] - concept - veilles/veille-ia-cn-2026-11-23-t1.md
-- [[Veille Chine 2026-11-23  Matériel & puissance de calcul IA]] - document - veilles/veille-ia-cn-2026-11-23-t1.md
-- [[安谋科技 星辰100e (Arm China Xingchen 100e)]] - concept - veilles/veille-ia-cn-2026-11-23-t1.md
+- [[AI+Manufacturing]] - concept - veilles/veille-ia-cn-2026-11-13-t2.md
+- [[IA et création de contenus courts]] - concept - veilles/veille-ia-cn-2026-11-13-t2.md
+- [[Veille Chine 2026-11-13  Industrie et fabrication]] - document - veilles/veille-ia-cn-2026-11-13-t2.md
 
 ## Live Query (requires Dataview plugin)
 

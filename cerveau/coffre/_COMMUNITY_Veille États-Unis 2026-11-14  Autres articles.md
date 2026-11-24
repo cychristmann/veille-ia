@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille États-Unis 2026-11-14 : Autres articles
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[S&P 500]] - concept - veilles/veille-ia-fr-2026-11-21-t2.md
+- [[LLM 0.37.3]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[SQLite]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
 
 ## Live Query (requires Dataview plugin)
 

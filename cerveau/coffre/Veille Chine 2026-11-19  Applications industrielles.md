@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t3.md"
 type: "document"
-community: "Veille États-Unis 2026-11-22 : Applications et outils IA"
+community: "CoreWeave"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-22__Applications_et_outils_IA
+  - community/CoreWeave
 ---
 
 # Veille Chine 2026-11-19 : Applications industrielles
@@ -15,4 +15,4 @@ tags:
 - [[SeedRealtime 1.0]] - `references` [EXTRACTED]
 - [[Yuewen]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-22__Applications_et_outils_IA
+#graphify/document #graphify/EXTRACTED #community/CoreWeave

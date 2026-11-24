@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-10-t2.md"
 type: "document"
-community: "AMD"
+community: "T-Head"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AMD
+  - community/T-Head
 ---
 
 # Veille France 2026-11-10 : Financement, marchés et IPO
@@ -16,4 +16,4 @@ tags:
 - [[Infineon]] - `references` [EXTRACTED]
 - [[T-Head]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AMD
+#graphify/document #graphify/EXTRACTED #community/T-Head

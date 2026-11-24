@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t1.md"
 type: "code"
-community: "Anthropic"
+community: "David Tepper"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Anthropic
+  - community/David_Tepper
 ---
 
 # Anthropic
@@ -18,7 +18,6 @@ tags:
 - [[Apple AI Agent]] - `conceptually_related_to` [EXTRACTED]
 - [[Broadcom]] - `references` [EXTRACTED]
 - [[Claude]] - `conceptually_related_to` [EXTRACTED]
-- [[Claude]] - `references` [EXTRACTED]
 - [[Claude]] - `references` [EXTRACTED]
 - [[Claude API]] - `conceptually_related_to` [INFERRED]
 - [[Claude Code]] - `conceptually_related_to` [INFERRED]
@@ -46,9 +45,10 @@ tags:
 - [[Nasdaq]] - `references` [EXTRACTED]
 - [[Nvidia]] - `conceptually_related_to` [INFERRED]
 - [[Nvidia]] - `references` [EXTRACTED]
-- [[OpenAI]] - `conceptually_related_to` [INFERRED]
+- [[OpenAI]] - `conceptually_related_to` [EXTRACTED]
 - [[Opus 5.5]] - `references` [EXTRACTED]
 - [[Perplexity Orchestrator API]] - `references` [EXTRACTED]
+- [[Riemann Hypothesis]] - `references` [EXTRACTED]
 - [[SEC]] - `references` [EXTRACTED]
 - [[Samsung]] - `conceptually_related_to` [INFERRED]
 - [[SpaceX]] - `conceptually_related_to` [EXTRACTED]
@@ -86,6 +86,7 @@ tags:
 - [[Veille France 2026-11-21  Autres articles]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-21  Marchés & finance]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-22]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-24  Marché et investissements IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-09  Déploiements et stratégies d’entreprise]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-10  Autres articles]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-11  Régulation, Gouvernance et Éthique]] - `references` [EXTRACTED]
@@ -96,4 +97,4 @@ tags:
 - [[Veille États-Unis 2026-11-21  Anthropic & Riemann]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-22  Applications et outils IA]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Anthropic
+#graphify/code #graphify/EXTRACTED #community/David_Tepper

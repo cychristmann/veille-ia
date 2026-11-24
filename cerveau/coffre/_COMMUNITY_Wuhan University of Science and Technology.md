@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Wuhan University of Science and Technology
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Nubia]] - concept - veilles/veille-ia-fr-2026-11-12-t5.md
-- [[Veille France 2026-11-12  Produits grand public et IA générative]] - document - veilles/veille-ia-fr-2026-11-12-t5.md
+- [[Cyber Shield]] - concept - dossiers/2026-11-18-2.md
 
 ## Live Query (requires Dataview plugin)
 

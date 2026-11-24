@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-23-3.md"
 type: "concept"
-community: "S&P 500"
+community: "Vertex AI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/SP_500
+  - community/Vertex_AI
 ---
 
 # Vertex AI
 
-#graphify/concept #graphify/EXTRACTED #community/SP_500
+#graphify/concept #graphify/EXTRACTED #community/Vertex_AI

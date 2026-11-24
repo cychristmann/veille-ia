@@ -1,19 +1,18 @@
 ---
 type: community
-members: 6
+members: 5
 ---
 
 # Cursor
 
-**Members:** 6 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[01net.com]] - concept - dossiers/2026-11-17-3.md
-- [[Dossier L’impact de l’automatisation par l’IA]] - document - dossiers/2026-11-17-3.md
-- [[OCDE]] - concept - dossiers/2026-11-17-3.md
-- [[PwC]] - concept - dossiers/2026-11-17-3.md
-- [[journaldunet.com]] - concept - dossiers/2026-11-17-3.md
-- [[latribune.fr]] - concept - dossiers/2026-11-17-3.md
+- [[IDC]] - concept - veilles/veille-ia-cn-2026-11-24-t2.md
+- [[OceanBase]] - concept - veilles/veille-ia-cn-2026-11-24-t2.md
+- [[Qualcomm]] - concept - veilles/veille-ia-cn-2026-11-24-t2.md
+- [[Tuya Smart]] - concept - veilles/veille-ia-cn-2026-11-24-t2.md
+- [[Veille Chine 2026-11-24]] - document - veilles/veille-ia-cn-2026-11-24-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,3 +20,10 @@ members: 6
 TABLE source_file, type FROM #community/Cursor
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Alibaba]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
+
+## Top bridge nodes
+- [[Veille Chine 2026-11-24]] - degree 6, connects to 2 communities

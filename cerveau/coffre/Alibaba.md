@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t2.md"
 type: "concept"
-community: "Veille France 2026-11-19 : Autres articles"
+community: "Alibaba"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-19__Autres_articles
+  - community/Alibaba
 ---
 
 # Alibaba
@@ -21,4 +21,4 @@ tags:
 - [[Veille Chine 2026-11-20  Santé & Biotechnologie]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-20]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-19__Autres_articles
+#graphify/concept #graphify/EXTRACTED #community/Alibaba

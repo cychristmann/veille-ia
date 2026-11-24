@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-23-1.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-13 : Développements et investissements corporatifs"
+community: "Claude Code"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+  - community/Claude_Code
 ---
 
 # AI Kill-Switch
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+#graphify/concept #graphify/EXTRACTED #community/Claude_Code

@@ -1,9 +1,9 @@
 ---
-source_file: "feuilletons/f-0012.md"
-type: "concept"
+source_file: "veilles/veille-ia-us-2026-11-17-t2.md"
+type: "code"
 community: "Microsoft"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
   - community/Microsoft
 ---
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Torus]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Microsoft
+#graphify/code #graphify/EXTRACTED #community/Microsoft

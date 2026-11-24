@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Crise des data-centers IA
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Fullmetal Alchemist Director AI Critique]] - concept - veilles/veille-ia-us-2026-11-22-t5.md
-- [[Nicalis removes AI music from The Binding of Isaac]] - concept - veilles/veille-ia-us-2026-11-22-t5.md
-- [[Veille États-Unis 2026-11-22  Controverses et réactions publiques]] - document - veilles/veille-ia-us-2026-11-22-t5.md
+- [[AI Fraud and Academic Misconduct]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
+- [[AI Market Dynamics]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
+- [[AI Regulation and Ethics]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
+- [[Veille Chine 2026-11-16]] - document - veilles/veille-ia-cn-2026-11-16-t4.md
 
 ## Live Query (requires Dataview plugin)
 

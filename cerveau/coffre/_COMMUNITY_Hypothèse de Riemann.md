@@ -8,13 +8,13 @@ members: 7
 **Members:** 7 nodes
 
 ## Members
-- [[Clay Mathematics Institute]] - concept - dossiers/2026-11-22-1.md
-- [[Conjecture de Riemann]] - concept - veilles/veille-ia-cn-2026-11-22-t3.md
-- [[Feuilleton Résolution de l'hypothèse de Riemann grâce à l'IA d'Anthropic]] - document - feuilletons/f-0036.md
-- [[Hypothèse de Riemann]] - concept - veilles/veille-ia-fr-2026-11-21-t3.md
-- [[Shing-Tung Yau]] - concept - veilles/veille-ia-cn-2026-11-22-t3.md
-- [[Veille Chine 2026-11-22  Percées scientifiques et mathématiques grâce à l'IA]] - document - veilles/veille-ia-cn-2026-11-22-t3.md
-- [[Veille France 2026-11-21  Recherche scientifique & mathématiques]] - document - veilles/veille-ia-fr-2026-11-21-t3.md
+- [[ASRock Industrial]] - concept - veilles/veille-ia-fr-2026-11-24-t5.md
+- [[Feuilleton f-0038]] - document - feuilletons/f-0038.md
+- [[Foxconn]] - code - veilles/veille-ia-us-2026-11-16-t2.md
+- [[Intel]] - code - veilles/veille-ia-us-2026-11-16-t2.md
+- [[Processeur IA]] - concept - feuilletons/f-0038.md
+- [[SambaNova Systems]] - code - veilles/veille-ia-us-2026-11-16-t2.md
+- [[Veille États-Unis 2026-11-16 (Industrie)]] - document - veilles/veille-ia-us-2026-11-16-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,10 +24,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets]]
-- 1 edge to [[_COMMUNITY_Claude]]
+- 2 edges to [[_COMMUNITY_AMD]]
+- 1 edge to [[_COMMUNITY_ASML]]
+- 1 edge to [[_COMMUNITY_CoreWeave]]
 
 ## Top bridge nodes
-- [[Hypothèse de Riemann]] - degree 6, connects to 2 communities
-- [[Feuilleton Résolution de l'hypothèse de Riemann grâce à l'IA d'Anthropic]] - degree 2, connects to 1 community
+- [[Intel]] - degree 7, connects to 2 communities
+- [[Processeur IA]] - degree 2, connects to 1 community
+- [[Feuilleton f-0038]] - degree 2, connects to 1 community

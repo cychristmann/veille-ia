@@ -560,7 +560,7 @@
    "id": "2026-11-21-3",
    "date": "2026-11-21",
    "echeance": "2026-11-24",
-   "statut": "en_cours",
+   "statut": "gagne",
    "entite": "Jensen Huang",
    "sections": [
     "fr",
@@ -574,13 +574,15 @@
    "raisonnement": "Après une hausse ponctuelle (7 articles il y a 6 jours) les mentions restent autour de 2‑3, mais un petit pic de 5 est plausible.",
    "phrase_ia": "Jensen Huang sera mentionné dans au moins 5 articles France et États‑Unis sur les 3 prochains jours.",
    "rejoue": false,
-   "probabilite_ia": 0.59
+   "probabilite_ia": 0.59,
+   "observe": 12,
+   "resolu_le": "2026-11-24"
   },
   {
    "id": "2026-11-22-1",
    "date": "2026-11-22",
    "echeance": "2026-11-24",
-   "statut": "en_cours",
+   "statut": "perdu",
    "entite": "Claude",
    "sections": [
     "dev"
@@ -593,7 +595,9 @@
    "raisonnement": "Les 7‑jours précédents montrent 65 articles dev, soit ≈9,3/jour ; une baisse légère est plausible.",
    "phrase_ia": "Claude sera mentionné dans au plus 12 articles Outils & code au cours des deux prochains jours.",
    "rejoue": false,
-   "probabilite_ia": 0.58
+   "probabilite_ia": 0.58,
+   "observe": 35,
+   "resolu_le": "2026-11-24"
   },
   {
    "id": "2026-11-22-2",
@@ -691,6 +695,64 @@
    "phrase_ia": "Meta sera cité au moins 8 fois dans les sections France et États‑Unis sur les cinq prochains jours.",
    "rejoue": false,
    "probabilite_ia": 0.59
+  },
+  {
+   "id": "2026-11-24-1",
+   "date": "2026-11-24",
+   "echeance": "2026-11-27",
+   "statut": "en_cours",
+   "entite": "Anthropic",
+   "sections": [
+    "fr",
+    "us"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 30,
+   "horizon": 3,
+   "probabilite": 0.54,
+   "enonce": "Anthropic : au moins 30 articles (France et États-Unis) sur les 3 prochains jours",
+   "raisonnement": "Les 7‑derniers jours montrent une hausse progressive (42 articles en France, 29 aux US) et la tendance semble poursuivre.",
+   "phrase_ia": "Anthropic sera cité dans au moins 30 articles en France et aux États‑Unis au cours des 3 prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.62
+  },
+  {
+   "id": "2026-11-24-2",
+   "date": "2026-11-24",
+   "echeance": "2026-11-26",
+   "statut": "en_cours",
+   "entite": "Claude Code",
+   "sections": [
+    "dev"
+   ],
+   "comparaison": "au_plus",
+   "seuil": 10,
+   "horizon": 2,
+   "probabilite": 0.52,
+   "enonce": "Claude Code : au plus 10 articles (Outils & code) sur les 2 prochains jours",
+   "raisonnement": "Après un pic de 52 articles sur 7 jours, la moyenne quotidienne est déjà basse (≈7) et le dernier jour était de 7, donc un dépassement de 10 reste improbable.",
+   "phrase_ia": "Le nombre d'articles sur Claude Code dans la section Outils & code sera au plus de 10 au cours des 2 prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.58
+  },
+  {
+   "id": "2026-11-24-3",
+   "date": "2026-11-24",
+   "echeance": "2026-11-28",
+   "statut": "en_cours",
+   "entite": "Google",
+   "sections": [
+    "cn"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 8,
+   "horizon": 4,
+   "probabilite": 0.52,
+   "enonce": "Google : au moins 8 articles (Chine) sur les 4 prochains jours",
+   "raisonnement": "La Chine a seulement 4 articles sur 7 jours, mais l'intérêt croissant pour les IA chinoises pourrait pousser le nombre à dépasser 8 dans les prochains jours.",
+   "phrase_ia": "Google sera mentionné dans au moins 8 articles en Chine durant les 4 prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.55
   }
  ]
 }

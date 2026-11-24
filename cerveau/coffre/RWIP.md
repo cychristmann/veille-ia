@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t1.md"
 type: "concept"
-community: "InvestAI"
+community: "Veille États-Unis 2026-11-13 : Autres articles"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/InvestAI
+  - community/Veille_États-Unis_2026-11-13__Autres_articles
 ---
 
 # RWIP
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[DATAW.AI]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/InvestAI
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Autres_articles

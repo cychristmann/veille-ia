@@ -22,7 +22,7 @@ SORT file.name ASC
 
 ## Connections to other communities
 - 1 edge to [[_COMMUNITY_Copilot]]
-- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets]]
+- 1 edge to [[_COMMUNITY_Copilot_1]]
 
 ## Top bridge nodes
 - [[Model Context Protocol (MCP)]] - degree 3, connects to 1 community

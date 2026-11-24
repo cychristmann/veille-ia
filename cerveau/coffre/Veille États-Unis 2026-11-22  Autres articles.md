@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-22-t6.md"
 type: "document"
-community: "Veille Chine 2026-11-15 : Finances, valorisation et marché de l’IA"
+community: "Veille États-Unis 2026-11-15 : Autres articles"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-15__Finances_valorisation_et_marché_de_lIA
+  - community/Veille_États-Unis_2026-11-15__Autres_articles
 ---
 
 # Veille États-Unis 2026-11-22 : Autres articles
@@ -21,4 +21,4 @@ tags:
 - [[Samsung and SK Hynix AI memory market performance]] - `references` [EXTRACTED]
 - [[Tom Lee AI market outlook]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-15__Finances_valorisation_et_marché_de_lIA
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-15__Autres_articles

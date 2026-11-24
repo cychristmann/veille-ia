@@ -4,63 +4,67 @@
 > modifie pas. Pour noter tes essais, crée ta propre note (elle ne sera jamais effacée)
 > et mets un lien vers l'outil, par exemple `[[Cursor]]` : ta note apparaîtra sur sa fiche.
 
-Mise à jour : 23/11 · 165 outils · 15 nouveaux depuis hier.
+Mise à jour : 24/11 · 173 outils · 16 nouveaux depuis hier.
 
 ## Nouveaux depuis hier
 
 Les mieux notés d'abord.
 
-- **[[Agent Compute Engine|Agent Compute Engine]]** · 2 articles · vu du 22/11 au 23/11 · meilleure note 9/10
-  - Dernier : [Google annonce Agent Compute Engine pour l’exécution sécurisée d’agents IA](https://www.infoq.com/news/2026/11/google-agent-compute-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering) — InfoQ, 23/11
-- **[[GPT-Live-1.1|GPT-Live-1.1]]** · 1 article · vu le 22/11 · meilleure note 8/10
-  - Dernier : [OpenAI lance GPT-Live-1.1 pour les agents vocaux et réduit le coût d'inactivité à 0,02 $/min](https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/) — MarkTechPost, 22/11
-- **[[Nemotron 3 Ultra|Nemotron 3 Ultra]]** · 1 article · vu le 22/11 · meilleure note 7/10
-  - Dernier : [Nvidia a utilisé 20 000 exemples d'entraînement pour corriger les erreurs de son IA. Son score de codage a bondi.](https://thenewstack.io/nvidia-droid-harness-nemotron/) — The New Stack, 22/11
+- **[[Amazon Bedrock Trusted Access API|Amazon Bedrock Trusted Access API]]** · 1 article · vu le 24/11 · meilleure note 8/10
+  - Dernier : [Présentation de l’API Amazon Bedrock Trusted Access avec les garde‑fous Enterprise Frontier et les contrôles de données d’Anthropic](https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/) — AWS Machine Learning, 24/11
+- **[[CircleCI|CircleCI]]** · 1 article · vu le 24/11 · meilleure note 7/10
+  - Dernier : CircleCI ajoute des tests plus intelligents pour réduire les coûts du codage IA — ChannelLife UK, 24/11
+- **[[GLM-5.4|GLM-5.4]]** · 2 articles · vu du 23/11 au 24/11 · meilleure note 7/10
+  - Dernier : [GLM‑5.4 : vers un codage généralisé avec notre premier Loop Transformer](https://simonwillison.net/2026/Nov/23/glm-54/) — Simon Willison, 24/11
 - **[[Together AI|Together AI]]** · 2 articles · vu le 23/11 · meilleure note 7/10
   - Dernier : Together AI révèle une fuite de prompts après l’étude de Dragos — The Defiant, 23/11
 - **[[Unreal Engine 6|Unreal Engine 6]]** · 1 article · vu le 23/11 · meilleure note 7/10
   - Dernier : Unreal Engine 6 abandonnera une fonctionnalité de script clé plus tôt que prévu au profit du codage IA — PC Gamer, 23/11
 - **[[Apiiro|Apiiro]]** · 1 article · vu le 23/11 · meilleure note 6/10
   - Dernier : [Claude Code fuit des secrets via sa fonction « Don’t Ask Again »](https://www.infoq.com/news/2026/11/claude-code-leaking-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering) — InfoQ, 23/11
-- **[[Claude Code LLM|Claude Code LLM]]** · 1 article · vu le 22/11 · meilleure note 6/10
-  - Dernier : Compétence d'optimisation d'inférence : Ajustement du LLM Claude Code — explainx.ai, 22/11
+- **[[Claude Approvals|Claude Approvals]]** · 1 article · vu le 24/11 · meilleure note 6/10
+  - Dernier : [Anthropic lance Claude Ship pour la revue et la correction des pull requests GitHub](https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/) — MarkTechPost, 24/11
+- **[[PR Steward|PR Steward]]** · 1 article · vu le 24/11 · meilleure note 6/10
+  - Dernier : [Anthropic lance Claude Ship pour la revue et la correction des pull requests GitHub](https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/) — MarkTechPost, 24/11
+- **[[Snowflake Marketplace|Snowflake Marketplace]]** · 1 article · vu le 24/11 · meilleure note 6/10
+  - Dernier : [Attentive annonce le lancement du protocole Attentive Model Context sur le Marketplace Snowflake](https://www.marketscreener.com/news/attentive-announces-launch-of-attentive-model-context-protocol-on-snowflake-marketplace-ce7851dadc8dff2c) — marketscreener.com, 24/11
 - **[[Unsloth Desktop|Unsloth Desktop]]** · 1 article · vu le 23/11 · meilleure note 6/10
   - Dernier : [Les modèles à poids ouvert apportent des assistants IA privés sur les PC domestiques](https://news.lavx.hu/article/open-weight-models-bring-private-ai-assistants-to-home-pcs) — news.lavx.hu, 23/11
 - **[[Gemini API|Gemini API]]** · 1 article · vu le 23/11 · meilleure note 5/10
   - Dernier : [Google AI prévisualise la récupération d’outils dans l’API Gemini pour les grandes bibliothèques d’outils](https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/) — MarkTechPost, 23/11
-- **[[GLM-5.4|GLM-5.4]]** · 1 article · vu le 23/11 · meilleure note 5/10
-  - Dernier : GLM‑5.4 arrive sur le plan de codage de Z.ai : aucun benchmark pour l’instant — OrcaRouter, 23/11
-- **[[Adyen|Adyen]]** · 2 articles · vu du 22/11 au 23/11 · meilleure note 4/10
-  - Dernier : [Résumé : les commerçants d’Adyen peuvent désormais proposer Klarna à la caisse avec un agent IA](https://www.01net.it/riassunto-i-commercianti-di-adyen-ora-possono-offrire-klarna-alla-cassa-con-agente-ai/) — 01net, 23/11
-- **[[gitroots|gitroots]]** · 1 article · vu le 22/11 · meilleure note 4/10
-  - Dernier : [gitroots](https://www.producthunt.com/products/gitroots) — Product Hunt, 22/11
+- **[[Codenotary|Codenotary]]** · 2 articles · vu le 24/11 · meilleure note 4/10
+  - Dernier : Codenotary étend AgentMon Live à Codex et Kiro — Wisevoter, 24/11
 - **[[Gemini Spark|Gemini Spark]]** · 1 article · vu le 23/11 · meilleure note 3/10
   - Dernier : [Meilleurs agents IA personnels en 2026 : OpenClaw, Hermes Agent, Gemini Spark et autres, comparés sur la mémoire, la sécurité et le coût](https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/) — MarkTechPost, 23/11
 - **[[Klarna|Klarna]]** · 1 article · vu le 23/11 · meilleure note 3/10
   - Dernier : [Résumé : les commerçants d’Adyen peuvent désormais proposer Klarna à la caisse avec un agent IA](https://www.01net.it/riassunto-i-commercianti-di-adyen-ora-possono-offrire-klarna-alla-cassa-con-agente-ai/) — 01net, 23/11
 - **[[RunPod|RunPod]]** · 1 article · vu le 23/11 · meilleure note 3/10
   - Dernier : RunPod retire la commande MCP demandant aux agents IA de cacher un sondage aux utilisateurs — Pasquale Pillitteri, 23/11
+- **[[termix_ai|termix_ai]]** · 1 article · vu le 24/11 · meilleure note 2/10
+  - Dernier : Vous pouvez travailler avec @termix_ai depuis l’agent de codage que vous utilisez déjà — KuCoin, 24/11
 
 ## Tous les autres
 
 Du plus cité au moins cité.
 
-- **[[Claude|Claude]]** · 127 articles · vu du 12/11 au 23/11 · meilleure note 8/10
-  - Dernier : [Le mathématicien d'Anthropic Levent Alpöge affirme que Claude a aidé à prouver l'hypothèse de Riemann, vérification en cours](https://cryptobriefing.com/claude-riemann-hypothesis-proof-claim/) — Crypto Briefing, 23/11
-- **[[Claude Code|Claude Code]]** · 91 articles · vu du 12/11 au 23/11 · meilleure note 8/10
-  - Dernier : [Outils de coordination des agents de code Codex et Claude, comparatif](https://dev.to/maxz411/tools-for-coordinating-codex-and-claude-code-agents-compared-n95) — dev.to, 23/11
-- **[[Gemini|Gemini]]** · 37 articles · vu du 12/11 au 23/11 · meilleure note 8/10
-  - Dernier : [Google AI prévisualise la récupération d’outils dans l’API Gemini pour les grandes bibliothèques d’outils](https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/) — MarkTechPost, 23/11
+- **[[Claude|Claude]]** · 145 articles · vu du 12/11 au 24/11 · meilleure note 8/10
+  - Dernier : Anthropic dévoile Claude Ship, qui examine les pull requests, corrige les bugs et les approuve — CyberSecurityNews, 24/11
+- **[[Claude Code|Claude Code]]** · 98 articles · vu du 12/11 au 24/11 · meilleure note 8/10
+  - Dernier : Claude Code ajoute le mode expérimental Code pour orchestrer les appels d’outils avec JavaScript — infoq.com, 24/11
+- **[[GitHub|GitHub]]** · 45 articles · vu du 12/11 au 24/11 · meilleure note 8/10
+  - Dernier : [Anthropic lance Claude Ship pour la revue et la correction des pull requests GitHub](https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/) — MarkTechPost, 24/11
+- **[[Gemini|Gemini]]** · 39 articles · vu du 12/11 au 24/11 · meilleure note 8/10
+  - Dernier : [Le Mode IA de Google se connecte à Wallet et Drive pour personnaliser ses réponses](https://www.blogdumoderateur.com/mode-ia-google-wallet-drive/) — Blog du Modérateur, 24/11
+- **[[Codex|Codex]]** · 29 articles · vu du 12/11 au 24/11 · meilleure note 8/10
+  - Dernier : [Codex d’OpenAI crée des boucliers de sécurité pour bloquer les attaques sur les systèmes Linux en cours d’exécution](https://www.msn.com/en-us/news/other/openai-s-codex-builds-security-shields-to-block-attacks-on-running-linux-systems/ar-AA2i4LTe) — Interesting Engineering, 24/11
 - **[[Copilot|Copilot]]** · 29 articles · vu du 12/11 au 23/11 · meilleure note 7/10
   - Dernier : Cursor vs Copilot : chevauchement – 12 étapes, 70 minutes — shattered.io, 23/11
 - **[[Cursor|Cursor]]** · 25 articles · vu du 12/11 au 23/11 · meilleure note 7/10
   - Dernier : Cursor vs Copilot : chevauchement – 12 étapes, 70 minutes — shattered.io, 23/11
-- **[[Codex|Codex]]** · 23 articles · vu du 12/11 au 23/11 · meilleure note 8/10
-  - Dernier : [Outils de coordination des agents de code Codex et Claude, comparatif](https://dev.to/maxz411/tools-for-coordinating-codex-and-claude-code-agents-compared-n95) — dev.to, 23/11
-- **[[Amazon Bedrock|Amazon Bedrock]]** · 21 articles · vu du 12/11 au 20/11 · meilleure note 8/10
-  - Dernier : [Permettre aux agents IA de payer les produits AWS Marketplace x402 via les paiements AgentCore d’Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/) — AWS Machine Learning, 20/11
-- **[[Vibe Coding|Vibe Coding]]** · 14 articles · vu du 12/11 au 23/11 · meilleure note 7/10
-  - Dernier : Qu’est‑ce que le Vibe Coding et comment démarrer — Knup.com, 23/11
+- **[[Amazon Bedrock|Amazon Bedrock]]** · 22 articles · vu du 12/11 au 24/11 · meilleure note 8/10
+  - Dernier : [Présentation de l’API Amazon Bedrock Trusted Access avec les garde‑fous Enterprise Frontier et les contrôles de données d’Anthropic](https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/) — AWS Machine Learning, 24/11
+- **[[Vibe Coding|Vibe Coding]]** · 15 articles · vu du 12/11 au 24/11 · meilleure note 7/10
+  - Dernier : Le codage Vibe réduit les coûts de développement mais peut alourdir les budgets d’entreprise avec les factures de maintenance — 디지털투데이, 24/11
 - **[[Gemini 4 Hydrogen|Gemini 4 Hydrogen]]** · 13 articles · vu du 12/11 au 17/11 · meilleure note 8/10
   - Dernier : [Gemini 4 Hydrogen de Google transforme le choix du modèle en décision de routage](https://devops.com/googles-gemini-4-hydrogen-turns-model-choice-into-a-routing-decision) — DevOps.com, 17/11
 - **[[Amazon Bedrock AgentCore|Amazon Bedrock AgentCore]]** · 11 articles · vu du 12/11 au 20/11 · meilleure note 8/10
@@ -73,16 +77,18 @@ Du plus cité au moins cité.
   - Dernier : [Pas « si », mais « comment » : répondre aux incidents de sécurité à l’ère des attaquants IA](https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/) — MarkTechPost, 20/11
 - **[[AWS Emulator|AWS Emulator]]** · 7 articles · vu du 12/11 au 21/11 · meilleure note 8/10
   - Dernier : [AWS propose un émulateur local gratuit d’AWS entièrement créé par des agents](https://www.infoq.com/news/2026/11/aws-emulator-local-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering) — InfoQ, 21/11
+- **[[datasette|datasette]]** · 7 articles · vu du 15/11 au 24/11 · meilleure note 5/10
+  - Dernier : [datasette-agent 0.7a1](https://simonwillison.net/2026/Nov/24/datasette-agent/) — Simon Willison, 24/11
 - **[[Agent Skills|Agent Skills]]** · 6 articles · vu du 12/11 au 17/11 · meilleure note 6/10
   - Dernier : [Qu’est-ce que les compétences des agents IA et comment elles fonctionnent](https://dev.to/keshav_af7403d92948605d98/what-ai-agent-skills-are-and-how-they-work-30ap) — dev.to, 17/11
-- **[[datasette|datasette]]** · 6 articles · vu du 15/11 au 17/11 · meilleure note 5/10
-  - Dernier : [datasette‑maplibre 0.1a0](https://simonwillison.net/2026/Nov/15/datasette-maplibre/) — Simon Willison, 17/11
 - **[[SWARM|SWARM]]** · 6 articles · vu du 12/11 au 18/11 · meilleure note 7/10
   - Dernier : [SID AI lance le modèle de recherche agentique SID-2 avec un NDCG de 0,720 en mode essaim](https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/) — MarkTechPost, 18/11
 - **[[Malicious Claude Code Extension|Malicious Claude Code Extension]]** · 5 articles · vu du 15/11 au 18/11 · meilleure note 7/10
   - Dernier : [Cursor trace une extension Claude Code malveillante à une faille tierce](https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach) — Dark Reading, 18/11
 - **[[Qwen|Qwen]]** · 5 articles · vu du 16/11 au 23/11 · meilleure note 7/10
   - Dernier : [Les modèles à poids ouvert apportent des assistants IA privés sur les PC domestiques](https://news.lavx.hu/article/open-weight-models-bring-private-ai-assistants-to-home-pcs) — news.lavx.hu, 23/11
+- **[[Gemma 4|Gemma 4]]** · 4 articles · vu du 14/11 au 24/11 · meilleure note 7/10
+  - Dernier : [AWS Strands Decider v2, cinq modèles ouverts pour les décisions des agents IA](https://www.01net.it/aws-strands-decider-v2-modelli-decisionali-agenti-ai/) — 01net, 24/11
 - **[[GPT-6.1 Sol|GPT-6.1 Sol]]** · 4 articles · vu du 12/11 au 18/11 · meilleure note 7/10
   - Dernier : MAI Code 2 de Microsoft promet 98 % des performances de GPT‑6.1 Sol pour 40 % du coût — Tbreak UAE, 18/11
 - **[[OpenCode|OpenCode]]** · 4 articles · vu du 19/11 au 23/11 · meilleure note 6/10
@@ -99,8 +105,6 @@ Du plus cité au moins cité.
   - Dernier : [Microsoft ajoute des graphes de connaissances et un modèle de récupération à Foundry IQ pour un meilleur ancrage IA](https://www.infoworld.com/article/4250726/microsoft-adds-knowledge-graphs-retrieval-model-to-foundry-iq-for-better-ai-grounding.html) — InfoWorld, 21/11
 - **[[Gemini Decisions API|Gemini Decisions API]]** · 3 articles · vu du 12/11 au 13/11 · meilleure note 5/10
   - Dernier : [Google a créé un modèle IA incapable d’écrire une phrase — et c’est l’objectif](https://thenewstack.io/google-gemini-decisions-api/) — The New Stack, 13/11
-- **[[Gemma 4|Gemma 4]]** · 3 articles · vu du 14/11 au 22/11 · meilleure note 7/10
-  - Dernier : [Baseten lance Bison-1 et Groundhog-1, en tête de l'indice des modèles de décision](https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/) — MarkTechPost, 22/11
 - **[[GitHub Enterprise Server|GitHub Enterprise Server]]** · 3 articles · vu du 14/11 au 20/11 · meilleure note 5/10
   - Dernier : [L’application GitHub Copilot intègre Azure DevOps en prévisualisation publique](https://www.technobezz.com/news/github-copilot-app-azure-devops-public-preview) — Technobezz, 20/11
 - **[[GPT-6.2 Sol|GPT-6.2 Sol]]** · 3 articles · vu du 18/11 au 22/11 · meilleure note 5/10
@@ -111,6 +115,8 @@ Du plus cité au moins cité.
   - Dernier : [groundcover ajoute un espace de travail d’observabilité pour favoriser la collaboration avec les agents IA](https://devops.com/groundcover-adds-observability-workspace-to-foster-collaboration-with-ai-agents) — DevOps.com, 21/11
 - **[[Inkling 2 Mini|Inkling 2 Mini]]** · 3 articles · vu du 21/11 au 22/11 · meilleure note 6/10
   - Dernier : [À la découverte d'Inkling 2 Mini de Thinking Machines : un modèle 26B MoE en boucle tournant sur un Mac 32 Go](https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/) — MarkTechPost, 22/11
+- **[[Kiro|Kiro]]** · 3 articles · vu du 13/11 au 24/11 · meilleure note 5/10
+  - Dernier : Codenotary étend AgentMon Live à Codex et Kiro — Wisevoter, 24/11
 - **[[Legora|Legora]]** · 3 articles · vu du 20/11 au 22/11 · meilleure note 6/10
   - Dernier : [Legora ajoute la gestion des équipes et la recherche par IA à Microsoft 365](https://itbrief.com.au/story/legora-adds-teams-intake-ai-search-to-microsoft-365) — IT Brief Australia, 22/11
 - **[[Nota|Nota]]** · 3 articles · vu le 16/11 · meilleure note 5/10
@@ -121,6 +127,10 @@ Du plus cité au moins cité.
   - Dernier : [Un « Slack sans tête » : le nouveau tableau de messages de Vercel permet aux agents Claude Code et Codex de collaborer](https://thenewstack.io/vercel-board-agent-swarms/) — The New Stack, 19/11
 - **[[VS Code|VS Code]]** · 3 articles · vu du 12/11 au 17/11 · meilleure note 5/10
   - Dernier : [Versions hebdomadaires de GitHub Copilot — 9 novembre](https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9) — GitHub Changelog, 17/11
+- **[[Adyen|Adyen]]** · 2 articles · vu du 22/11 au 23/11 · meilleure note 4/10
+  - Dernier : [Résumé : les commerçants d’Adyen peuvent désormais proposer Klarna à la caisse avec un agent IA](https://www.01net.it/riassunto-i-commercianti-di-adyen-ora-possono-offrire-klarna-alla-cassa-con-agente-ai/) — 01net, 23/11
+- **[[Agent Compute Engine|Agent Compute Engine]]** · 2 articles · vu du 22/11 au 23/11 · meilleure note 9/10
+  - Dernier : [Google annonce Agent Compute Engine pour l’exécution sécurisée d’agents IA](https://www.infoq.com/news/2026/11/google-agent-compute-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering) — InfoQ, 23/11
 - **[[Agent Gateways|Agent Gateways]]** · 2 articles · vu du 19/11 au 20/11 · meilleure note 6/10
   - Dernier : [Les 13 meilleurs passerelles d’agents en 2026 pour MCP, A2A et le trafic LLM : Kong, Bifrost, AgentCore, Arcade](https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/) — MarkTechPost, 20/11
 - **[[Amazon SageMaker Canvas|Amazon SageMaker Canvas]]** · 2 articles · vu du 14/11 au 15/11 · meilleure note 7/10
@@ -153,8 +163,6 @@ Du plus cité au moins cité.
   - Dernier : [Google fait don d'Agent Substrate et gVisor à la CNCF pour sécuriser les agents IA à grande échelle](https://www.infoq.com/news/2026/11/google-substrate-gvisor-cncf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering) — InfoQ, 22/11
 - **[[Kimi-K2.6|Kimi-K2.6]]** · 2 articles · vu du 20/11 au 21/11 · meilleure note 7/10
   - Dernier : [Meta FAIR Self‑Improving Memory atteint 56,0 sur le benchmark d’apprentissage continu](https://www.marktechpost.com/2026/11/19/meta-fair-self-improving-memory-harness-distillation/) — MarkTechPost, 21/11
-- **[[Kiro|Kiro]]** · 2 articles · vu du 13/11 au 14/11 · meilleure note 5/10
-  - Dernier : Top 12 des assistants de codage IA pour les entreprises en 2027 : GitHub Copilot, Claude Code, Codex, Cursor et AWS Kiro comparés — InfotechLead, 14/11
 - **[[Kong|Kong]]** · 2 articles · vu du 19/11 au 20/11 · meilleure note 6/10
   - Dernier : [Les 13 meilleurs passerelles d’agents en 2026 pour MCP, A2A et le trafic LLM : Kong, Bifrost, AgentCore, Arcade](https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/) — MarkTechPost, 20/11
 - **[[llm-gemini|llm-gemini]]** · 2 articles · vu du 13/11 au 19/11 · meilleure note 4/10
@@ -201,6 +209,8 @@ Du plus cité au moins cité.
   - Dernier : [ByteVoice](https://www.producthunt.com/products/bytevoice) — Product Hunt, 17/11
 - **[[ChatGPT Wallet|ChatGPT Wallet]]** · 1 article · vu le 17/11 · meilleure note 7/10
   - Dernier : [ChatGPT Wallet : les agents d’OpenAI peuvent désormais régler les achats en ligne](https://www.blogdumoderateur.com/chatgpt-wallet-agents-ia-openai-achats-en-ligne/) — Blog du Modérateur, 17/11
+- **[[Claude Code LLM|Claude Code LLM]]** · 1 article · vu le 22/11 · meilleure note 6/10
+  - Dernier : Compétence d'optimisation d'inférence : Ajustement du LLM Claude Code — explainx.ai, 22/11
 - **[[Claude Data|Claude Data]]** · 1 article · vu le 12/11 · meilleure note 4/10
   - Dernier : [Anthropic dévoile Claude Sheets, Claude Whiteboards et Claude Data : ce qu’il faut savoir](https://www.blogdumoderateur.com/anthropic-claude-sheets-whiteboards-data/) — Blog du Modérateur, 12/11
 - **[[Claude for Manufacturing|Claude for Manufacturing]]** · 1 article · vu le 14/11 · meilleure note 6/10
@@ -249,8 +259,12 @@ Du plus cité au moins cité.
   - Dernier : IBK Industrial Bank of Korea développe en interne l'agent de codage IA « Geni‑Code »… Accélère AX axé sur le front office — 아시아경제, 16/11
 - **[[GitHub Code Scanning|GitHub Code Scanning]]** · 1 article · vu le 14/11 · meilleure note 5/10
   - Dernier : [Gestion du scan IA des dépôts via l’API REST](https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api) — GitHub Changelog, 14/11
+- **[[gitroots|gitroots]]** · 1 article · vu le 22/11 · meilleure note 4/10
+  - Dernier : [gitroots](https://www.producthunt.com/products/gitroots) — Product Hunt, 22/11
 - **[[Global Inference Gateway|Global Inference Gateway]]** · 1 article · vu le 21/11 · meilleure note 7/10
   - Dernier : [Amazon SageMaker HyperPod Global Inference Gateway : un point d’accès unique entre régions et clusters](https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/) — AWS Machine Learning, 21/11
+- **[[GPT-Live-1.1|GPT-Live-1.1]]** · 1 article · vu le 22/11 · meilleure note 8/10
+  - Dernier : [OpenAI lance GPT-Live-1.1 pour les agents vocaux et réduit le coût d'inactivité à 0,02 $/min](https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/) — MarkTechPost, 22/11
 - **[[GraphRAG|GraphRAG]]** · 1 article · vu le 16/11 · meilleure note 7/10
   - Dernier : [Guide du praticien des 6 motifs Agentic GraphRAG](https://towardsdatascience.com/a-practitioners-guide-to-6-agentic-graphrag-patterns/) — Towards Data Science, 16/11
 - **[[Grok Bot|Grok Bot]]** · 1 article · vu le 14/11 · meilleure note 5/10
@@ -279,6 +293,8 @@ Du plus cité au moins cité.
   - Dernier : Model Context Protocol (MCP) : 7 façons de connecter les modèles IA à des outils externes — Analytics Insight, 21/11
 - **[[n8n|n8n]]** · 1 article · vu le 19/11 · meilleure note 4/10
   - Dernier : [Je décris un workflow n8n en anglais simple et Claude Code le construit : la configuration et les 4 règles qui évitent les dysfonctionnements](https://dev.to/arwahyn_ai_a9134e083fcc3d/i-describe-an-n8n-workflow-in-plain-english-and-claude-code-builds-it-the-setup-and-the-4-rules-1epe) — dev.to, 19/11
+- **[[Nemotron 3 Ultra|Nemotron 3 Ultra]]** · 1 article · vu le 22/11 · meilleure note 7/10
+  - Dernier : [Nvidia a utilisé 20 000 exemples d'entraînement pour corriger les erreurs de son IA. Son score de codage a bondi.](https://thenewstack.io/nvidia-droid-harness-nemotron/) — The New Stack, 22/11
 - **[[Nemotron-Labs-Sigma|Nemotron-Labs-Sigma]]** · 1 article · vu le 21/11 · meilleure note 6/10
   - Dernier : [NVIDIA AI publie Nemotron‑Labs‑Sigma, modèle de diffusion continue avec 14 checkpoints à 3 B/8 B](https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/) — MarkTechPost, 21/11
 - **[[Nimble|Nimble]]** · 1 article · vu le 14/11 · meilleure note 5/10

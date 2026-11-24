@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-22-t4.md"
 type: "concept"
-community: "Nscale"
+community: "Spotify"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Nscale
+  - community/Spotify
 ---
 
 # LEO Technologies
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Verus]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Nscale
+#graphify/concept #graphify/EXTRACTED #community/Spotify

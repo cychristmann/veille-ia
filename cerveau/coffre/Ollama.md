@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-14-t6.md"
 type: "concept"
-community: "Veille IA Dev 2026-11-20 T3"
+community: "Veille Outils & code 2026-11-22"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_IA_Dev_2026-11-20_T3
+  - community/Veille_Outils__code_2026-11-22
 ---
 
 # Ollama
@@ -14,4 +14,4 @@ tags:
 - [[Inkling 2 Mini]] - `references` [EXTRACTED]
 - [[Nimble]] - `shares_data_with` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_IA_Dev_2026-11-20_T3
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-22

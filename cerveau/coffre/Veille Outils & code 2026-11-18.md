@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-18-t1.md"
 type: "document"
-community: "Veille Chine 2026-11-11 : Marchés et investissements"
+community: "Hugging Face"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-11__Marchés_et_investissements
+  - community/Hugging_Face
 ---
 
 # Veille Outils & code 2026-11-18
@@ -28,4 +28,4 @@ tags:
 - [[SID-2 Agentic Search Model]] - `references` [EXTRACTED]
 - [[Vibe Coding]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-11__Marchés_et_investissements
+#graphify/document #graphify/EXTRACTED #community/Hugging_Face

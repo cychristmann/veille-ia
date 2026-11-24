@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Veille Chine 2026-11-11 Régulation et gouvernance]] - document - veilles/veille-ia-cn-2026-11-11-t4.md
-- [[文投控股 (Wentou Holdings)]] - concept - veilles/veille-ia-cn-2026-11-11-t4.md
-- [[清华大学人工智能国际治理研究院 (Tsinghua IAGI)]] - concept - veilles/veille-ia-cn-2026-11-11-t4.md
+- [[Infrastructure IA (Cloud, Supercalculateurs, Centres de données)]] - concept - veilles/veille-ia-fr-2026-11-20-t5.md
+- [[Surveillance et interprétabilité des modèles d'IA]] - concept - veilles/veille-ia-fr-2026-11-20-t5.md
+- [[Veille France 2026-11-20  Infrastructure, technologie et performance]] - document - veilles/veille-ia-fr-2026-11-20-t5.md
 
 ## Live Query (requires Dataview plugin)
 

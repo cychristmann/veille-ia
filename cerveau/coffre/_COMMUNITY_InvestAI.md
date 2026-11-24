@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[DATAW.AI]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
-- [[RWIP]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
+- [[Agentic AI]] - concept - veilles/veille-ia-us-2026-11-23-t5.md
+- [[Veille États-Unis 2026-11-23  Autres articles]] - document - veilles/veille-ia-us-2026-11-23-t5.md
 
 ## Live Query (requires Dataview plugin)
 

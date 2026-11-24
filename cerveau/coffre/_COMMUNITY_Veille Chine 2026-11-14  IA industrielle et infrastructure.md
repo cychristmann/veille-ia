@@ -1,18 +1,19 @@
 ---
 type: community
-members: 5
+members: 6
 ---
 
 # Veille Chine 2026-11-14 : IA industrielle et infrastructure
 
-**Members:** 5 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Veille Chine 2026-11-14  IA industrielle et infrastructure]] - document - veilles/veille-ia-cn-2026-11-14-t2.md
-- [[天神之眼系统]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
-- [[比亚迪辅助驾驶车型保有量超 419 万辆]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
-- [[浙江算力规模超198EFLOPS]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
-- [[百度智能云战略合作]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[Coding Agent Security for AppSec Leaders]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Does AI Coding Make Secrets Sprawl Worse in CICD Pipelines]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Hackers Target AI Coding Tools to Steal Credentials]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Kiji Inspector]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Stolen Claude API keys can turn Claude Code into a remote-controlled implant]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Veille Outils & code 2026-11-12  Sécurité et gouvernance]] - document - veilles/veille-ia-dev-2026-11-12-t4.md
 
 ## Live Query (requires Dataview plugin)
 

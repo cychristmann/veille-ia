@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-17-t1.md"
 type: "concept"
-community: "Apple"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Apple
+  - community/Gemini_4_Hydrogen
 ---
 
 # Google Antigravity Orchestrator
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Gemini 4 Hydrogen]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Apple
+#graphify/concept #graphify/EXTRACTED #community/Gemini_4_Hydrogen

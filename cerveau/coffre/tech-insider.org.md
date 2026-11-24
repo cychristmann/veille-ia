@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t5.md"
 type: "concept"
-community: "IA et système financier"
+community: "Veille États-Unis 2026-11-08 : Perception publique et sociétale"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/IA_et_système_financier
+  - community/Veille_États-Unis_2026-11-08__Perception_publique_et_sociétale
 ---
 
 # tech-insider.org
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-08  Perception publique et sociétale]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/IA_et_système_financier
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08__Perception_publique_et_sociétale

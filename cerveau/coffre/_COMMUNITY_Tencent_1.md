@@ -1,21 +1,23 @@
 ---
 type: community
-members: 8
+members: 10
 ---
 
 # Tencent
 
-**Members:** 8 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[AI Ethics in Education]] - concept - veilles/veille-ia-us-2026-11-15-t1.md
-- [[Choi Kyo-jin]] - concept - dossiers/2026-11-22-2.md
-- [[Feuilleton Scandale de triche à l'IA en Corée du Sud]] - document - feuilletons/f-0040.md
-- [[Han Won-seok]] - concept - dossiers/2026-11-22-2.md
-- [[Lee Jae-myung]] - concept - dossiers/2026-11-22-2.md
-- [[Ministry of Education]] - concept - feuilletons/f-0040.md
-- [[Suneung Exam]] - concept - dossiers/2026-11-22-2.md
-- [[Veille États-Unis 2026-11-15  Scandale de triche à l'IA]] - document - veilles/veille-ia-us-2026-11-15-t1.md
+- [[Hunyuan AI]] - concept - veilles/veille-ia-cn-2026-11-23-t6.md
+- [[IA-native Strategy]] - concept - dossiers/2026-11-12-2.md
+- [[LG Energy Solution]] - concept - veilles/veille-ia-cn-2026-11-15-t6.md
+- [[Samsung SDI]] - concept - veilles/veille-ia-cn-2026-11-15-t6.md
+- [[Sanmina]] - concept - veilles/veille-ia-us-2026-11-10-t6.md
+- [[Tencent]] - concept - veilles/veille-ia-cn-2026-11-19-t2.md
+- [[Veille Chine 2026-11-15  Politiques publiques et gouvernance de l’IA]] - document - veilles/veille-ia-cn-2026-11-15-t6.md
+- [[Veille Chine 2026-11-20  Finances & Investissements]] - document - veilles/veille-ia-cn-2026-11-20-t3.md
+- [[Veille États-Unis 2026-11-10  Marché, concurrence et tendances]] - document - veilles/veille-ia-us-2026-11-10-t6.md
+- [[Yuanbao AI App]] - concept - veilles/veille-ia-cn-2026-11-19-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,7 +27,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets]]
+- 2 edges to [[_COMMUNITY_Alibaba]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-23]]
+- 1 edge to [[_COMMUNITY_Qwen4-Max]]
+- 1 edge to [[_COMMUNITY_Débats à Saint-Tropez]]
+- 1 edge to [[_COMMUNITY_Amazon]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20_2]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
 
 ## Top bridge nodes
-- [[Han Won-seok]] - degree 3, connects to 1 community
+- [[Tencent]] - degree 13, connects to 6 communities
+- [[Veille Chine 2026-11-15  Politiques publiques et gouvernance de l’IA]] - degree 4, connects to 1 community

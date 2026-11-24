@@ -1,11 +1,11 @@
 ---
-source_file: "feuilletons/f-0001.md"
+source_file: "feuilletons/f-0037.md"
 type: "concept"
-community: "États-Unis"
+community: "Risques et dysfonctionnements liés à l'IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/États-Unis
+  - community/Risques_et_dysfonctionnements_liés_à_lIA
 ---
 
 # États-Unis
@@ -13,6 +13,5 @@ tags:
 ## Connections
 - [[Feuilleton f-0037]] - `references` [EXTRACTED]
 - [[Modèles IA Chinois]] - `references` [EXTRACTED]
-- [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/États-Unis
+#graphify/concept #graphify/EXTRACTED #community/Risques_et_dysfonctionnements_liés_à_lIA

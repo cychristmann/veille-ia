@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Spotify
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Spotify]] - concept - veilles/veille-ia-fr-2026-11-22-t1.md
+- [[LEO Technologies]] - concept - veilles/veille-ia-us-2026-11-22-t4.md
+- [[Verus]] - concept - veilles/veille-ia-us-2026-11-22-t4.md
 
 ## Live Query (requires Dataview plugin)
 

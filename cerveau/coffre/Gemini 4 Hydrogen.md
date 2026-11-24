@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-17-t1.md"
-type: "concept"
-community: "Apple"
+source_file: "veilles/veille-ia-dev-2026-11-13-t5.md"
+type: "code"
+community: "Gemini 4 Hydrogen"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
-  - community/Apple
+  - community/Gemini_4_Hydrogen
 ---
 
 # Gemini 4 Hydrogen
@@ -26,4 +26,4 @@ tags:
 - [[Veille Outils & code 2026-11-14  Plateformes et infrastructures IA]] - `references` [EXTRACTED]
 - [[llm-gemini]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Apple
+#graphify/code #graphify/EXTRACTED #community/Gemini_4_Hydrogen

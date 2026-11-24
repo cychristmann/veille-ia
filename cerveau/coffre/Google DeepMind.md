@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t4.md"
 type: "code"
-community: "Apple"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Apple
+  - community/Gemini_4_Hydrogen
 ---
 
 # Google DeepMind
@@ -20,4 +20,4 @@ tags:
 - [[Veille États-Unis 2026-11-11  Applications sectorielles de l'IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-19  Financement et mouvements de marché]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Apple
+#graphify/code #graphify/EXTRACTED #community/Gemini_4_Hydrogen

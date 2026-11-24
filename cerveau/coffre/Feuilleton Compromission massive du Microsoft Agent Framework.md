@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0032.md"
 type: "document"
-community: "Cursor"
+community: "Model Context Protocol (MCP)"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Cursor
+  - community/Model_Context_Protocol_MCP
 ---
 
 # Feuilleton: Compromission massive du Microsoft Agent Framework
@@ -18,4 +18,4 @@ tags:
 - [[The New Stack]] - `cites` [EXTRACTED]
 - [[wiz.io]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Cursor
+#graphify/document #graphify/EXTRACTED #community/Model_Context_Protocol_MCP

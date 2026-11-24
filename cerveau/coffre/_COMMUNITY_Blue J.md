@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Deletion Tuning]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
-- [[New York University]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
+- [[Crise des data-centers IA]] - concept - feuilletons/f-0024.md
+- [[Feuilleton Effondrement du boom IA et crise des data-centers]] - document - feuilletons/f-0024.md
 
 ## Live Query (requires Dataview plugin)
 

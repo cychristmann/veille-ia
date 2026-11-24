@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-22-t5.md"
 type: "document"
-community: "Crise des data-centers IA"
+community: "Impact sociétal de l'IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Crise_des_data-centers_IA
+  - community/Impact_sociétal_de_lIA
 ---
 
 # Veille États-Unis 2026-11-22 : Controverses et réactions publiques
@@ -14,4 +14,4 @@ tags:
 - [[Fullmetal Alchemist Director AI Critique]] - `references` [EXTRACTED]
 - [[Nicalis removes AI music from The Binding of Isaac]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Crise_des_data-centers_IA
+#graphify/document #graphify/EXTRACTED #community/Impact_sociétal_de_lIA

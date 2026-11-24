@@ -25,16 +25,17 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
 - 1 edge to [[_COMMUNITY_AMD]]
-- 1 edge to [[_COMMUNITY_Meta]]
-- 1 edge to [[_COMMUNITY_Jensen Huang]]
+- 1 edge to [[_COMMUNITY_Meta_1]]
+- 1 edge to [[_COMMUNITY_David Tepper_1]]
+- 1 edge to [[_COMMUNITY_ASML]]
 - 1 edge to [[_COMMUNITY_CoreWeave]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
+- 1 edge to [[_COMMUNITY_JPMorgan]]
 
 ## Top bridge nodes
 - [[Veille États-Unis 2026-11-22  Marché, investissements et actions IA]] - degree 6, connects to 3 communities
 - [[David Tepper]] - degree 6, connects to 2 communities
+- [[Micron]] - degree 3, connects to 2 communities
 - [[Broadcom]] - degree 3, connects to 1 community
-- [[Micron]] - degree 2, connects to 1 community

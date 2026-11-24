@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-14-t1.md"
 type: "document"
-community: "Trump's AI task force"
+community: "Hypothèse de Riemann"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trumps_AI_task_force
+  - community/Hypothèse_de_Riemann
 ---
 
 # Veille Chine 2026-11-14 : Stratégie, gouvernance et recherche IA
@@ -18,4 +18,4 @@ tags:
 - [[腾讯闭门会比喻被误读为裁员50%]] - `references` [EXTRACTED]
 - [[让人工智能技术潜力更好转化为生产率增长]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trumps_AI_task_force
+#graphify/document #graphify/EXTRACTED #community/Hypothèse_de_Riemann

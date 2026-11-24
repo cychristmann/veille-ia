@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-23-t6.md"
 type: "document"
-community: "Hugging Face"
+community: "Adobe Creative Cloud"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Hugging_Face
+  - community/Adobe_Creative_Cloud
 ---
 
 # Veille France 2026-11-23
@@ -25,4 +25,4 @@ tags:
 - [[IA et vitesse sociétale]] - `references` [EXTRACTED]
 - [[TikTok IA Transparence]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Hugging_Face
+#graphify/document #graphify/EXTRACTED #community/Adobe_Creative_Cloud

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-12-t1.md"
 type: "document"
-community: "CoreWeave"
+community: "SpaceX"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/CoreWeave
+  - community/SpaceX
 ---
 
 # Veille France 2026-11-12 : Marchés financiers et investissements IA
@@ -18,4 +18,4 @@ tags:
 - [[SpaceX]] - `references` [EXTRACTED]
 - [[UBS]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/CoreWeave
+#graphify/document #graphify/EXTRACTED #community/SpaceX

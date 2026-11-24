@@ -28,12 +28,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_AI Impact on Finance and Markets]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-15]]
-- 1 edge to [[_COMMUNITY_Tencent]]
-- 1 edge to [[_COMMUNITY_Nvidia_1]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-19  Autres articles]]
-- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets_2]]
+- 2 edges to [[_COMMUNITY_Copilot]]
+- 1 edge to [[_COMMUNITY_Alibaba]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-17]]
+- 1 edge to [[_COMMUNITY_Tencent_1]]
+- 1 edge to [[_COMMUNITY_Jensen Huang]]
 
 ## Top bridge nodes
 - [[Veille Outils & code 2026-11-17 (T3)]] - degree 5, connects to 2 communities

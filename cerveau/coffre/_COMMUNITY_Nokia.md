@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Odystoria]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
-- [[William Mocaër]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
+- [[AI in Health and Wellness]] - concept - veilles/veille-ia-us-2026-11-20-t2.md
+- [[Veille États-Unis 2026-11-20  Applications santé et bien‑être]] - document - veilles/veille-ia-us-2026-11-20-t2.md
 
 ## Live Query (requires Dataview plugin)
 

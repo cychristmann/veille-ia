@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Crise des data-centers IA
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Arkestro AI]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
-- [[Phillips 66]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
+- [[AI Automation]] - concept - dossiers/2026-11-17-3.md
+- [[Job Market]] - concept - dossiers/2026-11-17-3.md
+- [[Policy Responses]] - concept - dossiers/2026-11-17-3.md
 
 ## Live Query (requires Dataview plugin)
 

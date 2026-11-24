@@ -1,18 +1,19 @@
 ---
 type: community
-members: 5
+members: 6
 ---
 
 # Dossier: Vers une interdiction des modèles d’IA chinois dans les systèmes fédéraux américains
 
-**Members:** 5 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Andrew Garbarino]] - concept - dossiers/2026-11-21-2.md
-- [[Dossier Vers une interdiction des modèles d’IA chinois dans les systèmes fédéraux américains]] - document - dossiers/2026-11-21-2.md
-- [[John Moolenaar]] - concept - dossiers/2026-11-21-2.md
-- [[aa.com.tr]] - document - dossiers/2026-11-21-2.md
-- [[coinacademy.fr]] - document - dossiers/2026-11-21-2.md
+- [[01net.com]] - concept - dossiers/2026-11-17-3.md
+- [[Dossier L’impact de l’automatisation par l’IA]] - document - dossiers/2026-11-17-3.md
+- [[OCDE]] - concept - dossiers/2026-11-17-3.md
+- [[PwC]] - concept - dossiers/2026-11-17-3.md
+- [[journaldunet.com]] - concept - dossiers/2026-11-17-3.md
+- [[latribune.fr]] - concept - dossiers/2026-11-17-3.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-16-t4.md"
 type: "concept"
-community: "IA et système financier"
+community: "Veille États-Unis 2026-11-16 : Sécurité, éthique et marché financier"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/IA_et_système_financier
+  - community/Veille_États-Unis_2026-11-16__Sécurité_éthique_et_marché_financier
 ---
 
 # FBI AI Threat Reports
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-16  Sécurité, éthique et marché financier]] - `cites` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/IA_et_système_financier
+#graphify/concept #graphify/INFERRED #community/Veille_États-Unis_2026-11-16__Sécurité_éthique_et_marché_financier

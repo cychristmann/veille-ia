@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # AI Automation
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[AI Automation]] - concept - dossiers/2026-11-17-3.md
-- [[Job Market]] - concept - dossiers/2026-11-17-3.md
-- [[Policy Responses]] - concept - dossiers/2026-11-17-3.md
+- [[HarmonyOS 7]] - code - veilles/veille-ia-cn-2026-11-17-t4.md
+- [[Huawei Mate 90]] - code - veilles/veille-ia-cn-2026-11-17-t4.md
+- [[OSTA O1 Pro]] - code - veilles/veille-ia-cn-2026-11-17-t4.md
+- [[Veille Chine 2026-11-17 (T4)]] - document - veilles/veille-ia-cn-2026-11-17-t4.md
 
 ## Live Query (requires Dataview plugin)
 

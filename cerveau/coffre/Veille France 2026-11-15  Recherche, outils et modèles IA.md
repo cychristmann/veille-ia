@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-15-t4.md"
 type: "document"
-community: "Veille France 2026-11-16 : Applications sectorielles et industrielles"
+community: "GPT-6 Astra"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-16__Applications_sectorielles_et_industrielles
+  - community/GPT-6_Astra
 ---
 
 # Veille France 2026-11-15 : Recherche, outils et modèles IA
@@ -18,4 +18,4 @@ tags:
 - [[Vincent Courboulay]] - `references` [EXTRACTED]
 - [[datasette-llm]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-16__Applications_sectorielles_et_industrielles
+#graphify/document #graphify/EXTRACTED #community/GPT-6_Astra

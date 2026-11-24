@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-17-t1.md"
 type: "concept"
-community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
+community: "AI Act"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+  - community/AI_Act
 ---
 
 # European Union
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AI Act]] - `references` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+#graphify/concept #graphify/INFERRED #community/AI_Act

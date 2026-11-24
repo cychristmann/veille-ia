@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-22-t2.md"
+source_file: "veilles/veille-ia-dev-2026-11-22-t3.md"
 type: "document"
-community: "JPMorgan"
+community: "Veille Outils & code 2026-11-22"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/JPMorgan
+  - community/Veille_Outils__code_2026-11-22
 ---
 
 # Veille Outils & code 2026-11-22
@@ -37,4 +37,4 @@ tags:
 - [[WaitFeed]] - `references` [EXTRACTED]
 - [[gitroots]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/JPMorgan
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-22

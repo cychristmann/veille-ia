@@ -1,16 +1,17 @@
 ---
-source_file: "feuilletons/f-0028.md"
+source_file: "veilles/veille-ia-dev-2026-11-24-t1.md"
 type: "concept"
-community: "Débats à Saint-Tropez"
+community: "ARTEX"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Débats_à_Saint-Tropez
+  - community/ARTEX
 ---
 
 # GitHub
 
 ## Connections
 - [[ARTEX]] - `references` [EXTRACTED]
+- [[Claude Ship]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Débats_à_Saint-Tropez
+#graphify/concept #graphify/EXTRACTED #community/ARTEX

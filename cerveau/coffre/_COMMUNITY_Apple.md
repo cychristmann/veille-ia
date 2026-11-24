@@ -1,26 +1,25 @@
 ---
 type: community
-members: 13
+members: 12
 ---
 
 # Apple
 
-**Members:** 13 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Agnes Harness]] - code - veilles/veille-ia-cn-2026-11-20-t4.md
-- [[Claude Sonnet 5.5]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
-- [[Dalian University AI Platform]] - concept - veilles/veille-ia-cn-2026-11-20-t4.md
-- [[Feuilleton  Google DeepMind étend sa suite de modèles Gemini]] - document - feuilletons/f-0010.md
-- [[Gemini 4 Argon]] - concept - veilles/veille-ia-cn-2026-11-20-t4.md
-- [[Gemini 4 Carbon]] - concept - feuilletons/f-0010.md
-- [[Gemini 4 Hydrogen]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
-- [[Gemini Decisions]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Google AI Studio]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Google Antigravity Orchestrator]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
-- [[Google DeepMind]] - code - veilles/veille-ia-us-2026-11-11-t4.md
-- [[Veille Chine 2026-11-20  Recherche, Modèles & Technologie]] - document - veilles/veille-ia-cn-2026-11-20-t4.md
-- [[Veille États-Unis 2026-11-11]] - document - veilles/veille-ia-us-2026-11-11-t4.md
+- [[Apple]] - concept - veilles/veille-ia-cn-2026-11-21-t5.md
+- [[Apple AI Agent]] - concept - dossiers/2026-11-20-1.md
+- [[ElevenLabs]] - code - veilles/veille-ia-us-2026-11-17-t3.md
+- [[Feuilleton Apple AI Agent]] - document - feuilletons/f-0035.md
+- [[Google Assistant]] - concept - dossiers/2026-11-20-1.md
+- [[Harbor]] - concept - veilles/veille-ia-fr-2026-11-11-t2.md
+- [[HomeView 27.2.1]] - concept - veilles/veille-ia-fr-2026-11-21-t4.md
+- [[Logic Pro]] - code - veilles/veille-ia-fr-2026-11-09-t2.md
+- [[Siri AI]] - concept - veilles/veille-ia-fr-2026-11-08-t1.md
+- [[Veille France 2026-11-08  Stratégies d'entreprises et investissements IA]] - document - veilles/veille-ia-fr-2026-11-08-t1.md
+- [[Veille États-Unis 2026-11-17  Développements technologiques et infrastructure]] - document - veilles/veille-ia-us-2026-11-17-t3.md
+- [[macOS]] - concept - dossiers/2026-11-20-1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -30,25 +29,29 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Copilot]]
-- 2 edges to [[_COMMUNITY_ARTEX]]
-- 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_ChatGPT Wallet]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-19  Financement et mouvements de marché]]
-- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-13 (T5)]]
-- 1 edge to [[_COMMUNITY_AMD]]
-- 1 edge to [[_COMMUNITY_AMD_1]]
-- 1 edge to [[_COMMUNITY_Dossier Course à l'IA entre États‑Unis et Chine]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
+- 2 edges to [[_COMMUNITY_Nvidia]]
+- 2 edges to [[_COMMUNITY_Google]]
+- 2 edges to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-20  Régulation, souveraineté et enjeux géopolitiques]]
+- 1 edge to [[_COMMUNITY_Goldman Sachs_1]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-21]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-22]]
+- 1 edge to [[_COMMUNITY_Mistral AI]]
+- 1 edge to [[_COMMUNITY_CoreWeave]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-15]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17_1]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-23  Adoption industrielle et entreprises]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-09  Autres articles]]
+- 1 edge to [[_COMMUNITY_Meta_1]]
 - 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_David Tepper_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20_2]]
+- 1 edge to [[_COMMUNITY_Jensen Huang]]
+- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets]]
 
 ## Top bridge nodes
-- [[Gemini 4 Hydrogen]] - degree 14, connects to 7 communities
-- [[Google DeepMind]] - degree 8, connects to 4 communities
-- [[Gemini 4 Carbon]] - degree 5, connects to 2 communities
-- [[Feuilleton  Google DeepMind étend sa suite de modèles Gemini]] - degree 5, connects to 1 community
-- [[Veille Chine 2026-11-20  Recherche, Modèles & Technologie]] - degree 4, connects to 1 community
+- [[Apple]] - degree 19, connects to 11 communities
+- [[Apple AI Agent]] - degree 9, connects to 5 communities
+- [[Veille France 2026-11-08  Stratégies d'entreprises et investissements IA]] - degree 4, connects to 3 communities
+- [[Veille États-Unis 2026-11-17  Développements technologiques et infrastructure]] - degree 4, connects to 2 communities
+- [[ElevenLabs]] - degree 2, connects to 1 community

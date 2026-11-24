@@ -1,17 +1,16 @@
 ---
 type: community
-members: 4
+members: 3
 ---
 
 # Sécurité et risques de l'IA
 
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[IBM Z Atlas]] - concept - veilles/veille-ia-fr-2026-11-19-t2.md
-- [[Sanofi]] - concept - veilles/veille-ia-fr-2026-11-19-t2.md
-- [[Soitec]] - concept - veilles/veille-ia-fr-2026-11-19-t2.md
-- [[Veille France 2026-11-19  Applications sectorielles de l'IA]] - document - veilles/veille-ia-fr-2026-11-19-t2.md
+- [[Artifact AI]] - concept - veilles/veille-ia-us-2026-11-10-t7.md
+- [[Veille États-Unis 2026-11-10  Autres articles]] - document - veilles/veille-ia-us-2026-11-10-t7.md
+- [[Venture Global]] - concept - veilles/veille-ia-us-2026-11-10-t7.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,3 +18,9 @@ members: 4
 TABLE source_file, type FROM #community/Sécurité_et_risques_de_lIA
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_David Tepper_1]]
+
+## Top bridge nodes
+- [[Veille États-Unis 2026-11-10  Autres articles]] - degree 3, connects to 1 community

@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Nanjing University of Aeronautics and Astronautics]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Veille États-Unis 2026-11-11  Éducation et formation à l'IA]] - document - veilles/veille-ia-us-2026-11-11-t5.md
 
 ## Live Query (requires Dataview plugin)
 

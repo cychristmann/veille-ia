@@ -1,23 +1,29 @@
 ---
 type: community
-members: 10
+members: 16
 ---
 
 # Veille Chine 2026-11-12 : IA dans le commerce et le divertissement
 
-**Members:** 10 nodes
+**Members:** 16 nodes
 
 ## Members
-- [[ByteDance]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[Deepal L07]] - concept - veilles/veille-ia-cn-2026-11-23-t6.md
-- [[Doubao]] - concept - veilles/veille-ia-cn-2026-11-23-t6.md
-- [[JD.com]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
-- [[Kimi]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[Taobao]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[Veille Chine 2026-11-12  IA dans le commerce et le divertissement]] - document - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[傲融云客]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[息壤杯]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[绿地南昌卢塞恩OPC社区]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
+- [[18 Jobs ‘A Recession Can’t Kill & Artificial Intelligence Can’t Take’]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[A Layman Thinks About AI]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[AI roadmap for ecology foundation models, Nov 2026]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Barzilay and Collins Win the 2026 Pritzker Prize for AI in Science Research Excellence]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[CEO Talks Rémy Baume on Using Customer Insights and AI to Drive Growth at Printemps]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Future of AI brain models sparks debate]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[How AI Security Models Are Redefining Banking Resilience]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Human Performance and AI in Sports Analytics Minor Combines Practical Skills with Data Analysis]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Japan's Atlas raises $626K for relationship-building AI]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[LightSite AI Reports Gaps in Website Answers to AI Agent Requests]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Meta Expands Instagram AI Age Checks Worldwide]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Meta's AI Bot Won’t Revolutionize Your Finances]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Microsoft's $5,899 AI Laptop Is Here, and You Should Absolutely Not Buy It]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[PODCAST Anthropic heads for the ultimate AI benchmark]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[US and China are failing the same AI race, only differently]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Veille États-Unis 2026-11-12]] - document - veilles/veille-ia-us-2026-11-12-t7.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,13 +31,3 @@ members: 10
 TABLE source_file, type FROM #community/Veille_Chine_2026-11-12__IA_dans_le_commerce_et_le_divertissement
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_DeepSeek]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-23]]
-- 1 edge to [[_COMMUNITY_Meta]]
-
-## Top bridge nodes
-- [[Doubao]] - degree 4, connects to 1 community
-- [[Deepal L07]] - degree 2, connects to 1 community
-- [[JD.com]] - degree 2, connects to 1 community

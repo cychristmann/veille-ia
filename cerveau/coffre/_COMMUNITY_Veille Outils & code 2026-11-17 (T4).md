@@ -1,17 +1,18 @@
 ---
 type: community
-members: 4
+members: 5
 ---
 
 # Veille Outils & code 2026-11-17 (T4)
 
-**Members:** 4 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[IA dans le commerce et la consommation]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
-- [[IA dans le recrutement]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
-- [[Souveraineté numérique et IA]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
-- [[Veille France 2026-11-16  Applications sectorielles et industrielles]] - document - veilles/veille-ia-fr-2026-11-16-t3.md
+- [[Dossier  Alliance européenne pour une IA souveraine]] - document - dossiers/2026-11-19-3.md
+- [[IA souveraine  pourquoi l’Europe doit accélérer]] - document - dossiers/2026-11-19-3.md
+- [[Nokia et Telia lancent un consortium]] - document - dossiers/2026-11-19-3.md
+- [[Nokia projette une gigafactory]] - document - dossiers/2026-11-19-3.md
+- [[OVHcloud  infrastructure IA]] - document - dossiers/2026-11-19-3.md
 
 ## Live Query (requires Dataview plugin)
 

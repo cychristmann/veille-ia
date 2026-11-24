@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-09-t3.md"
 type: "code"
-community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
+community: "AI Act"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+  - community/AI_Act
 ---
 
 # Appel de Paris
@@ -16,4 +16,4 @@ tags:
 - [[Emmanuel Macron]] - `references` [EXTRACTED]
 - [[Sam Altman]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+#graphify/code #graphify/EXTRACTED #community/AI_Act

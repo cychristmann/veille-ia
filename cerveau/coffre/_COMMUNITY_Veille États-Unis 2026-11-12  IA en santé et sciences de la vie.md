@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Dossier  Preuve assistée par IA de l’hypothèse de Riemann]] - document - dossiers/2026-11-22-1.md
+- [[S&P 500]] - concept - veilles/veille-ia-fr-2026-11-21-t2.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,20 +1,18 @@
 ---
 type: community
-members: 7
+members: 5
 ---
 
 # Amazon Bedrock AgentCore
 
-**Members:** 7 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Académie de Versailles]] - concept - veilles/veille-ia-fr-2026-11-22-t4.md
-- [[CNEF]] - concept - veilles/veille-ia-fr-2026-11-22-t4.md
-- [[CNEF déclaration éthique]] - concept - veilles/veille-ia-fr-2026-11-22-t4.md
-- [[ONU]] - concept - veilles/veille-ia-fr-2026-11-22-t4.md
-- [[ONU IA armement]] - concept - veilles/veille-ia-fr-2026-11-22-t4.md
-- [[Souveraineté cognitive]] - concept - veilles/veille-ia-fr-2026-11-22-t4.md
-- [[Veille France 2026-11-22  Régulation, éthique et société]] - document - veilles/veille-ia-fr-2026-11-22-t4.md
+- [[Datasette Agent]] - concept - veilles/veille-ia-fr-2026-11-15-t4.md
+- [[GLM-5.4]] - concept - veilles/veille-ia-dev-2026-11-24-t5.md
+- [[Veille Outils & code 2026-11-24 (t5)]] - document - veilles/veille-ia-dev-2026-11-24-t5.md
+- [[datasette-llm]] - concept - veilles/veille-ia-fr-2026-11-15-t4.md
+- [[termix_ai]] - concept - veilles/veille-ia-dev-2026-11-24-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,3 +20,10 @@ members: 7
 TABLE source_file, type FROM #community/Amazon_Bedrock_AgentCore
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-19  Autres articles_1]]
+
+## Top bridge nodes
+- [[datasette-llm]] - degree 3, connects to 2 communities

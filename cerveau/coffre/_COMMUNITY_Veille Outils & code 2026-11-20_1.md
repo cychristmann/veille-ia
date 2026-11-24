@@ -1,21 +1,25 @@
 ---
 type: community
-members: 8
+members: 12
 ---
 
 # Veille Outils & code 2026-11-20
 
-**Members:** 8 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Digital Wellness Lab]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
-- [[Gallup]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
-- [[Mistral AI]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
-- [[Rejouis]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
-- [[Veille France 2026-11-10  Sécurité, risques et éthique]] - document - veilles/veille-ia-fr-2026-11-10-t5.md
-- [[Veille France 2026-11-11  Autres articles]] - document - veilles/veille-ia-fr-2026-11-11-t5.md
-- [[Veille France 2026-11-18 (T4)]] - document - veilles/veille-ia-fr-2026-11-18-t4.md
-- [[Veille France 2026-11-18  Sécurité et cyber‑menaces IA]] - document - veilles/veille-ia-fr-2026-11-18-t3.md
+- [[Agent Gateways]] - concept - veilles/veille-ia-dev-2026-11-20-t1.md
+- [[DaisyRose-27B]] - concept - veilles/veille-ia-dev-2026-11-21-t2.md
+- [[Devin]] - concept - veilles/veille-ia-dev-2026-11-20-t2.md
+- [[Foundry IQ]] - concept - veilles/veille-ia-dev-2026-11-19-t3.md
+- [[Gemini for Mac]] - concept - veilles/veille-ia-dev-2026-11-19-t3.md
+- [[Kimi Code]] - concept - veilles/veille-ia-dev-2026-11-20-t2.md
+- [[Liquid AI d1.2]] - concept - veilles/veille-ia-dev-2026-11-19-t3.md
+- [[OpenComputer]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
+- [[Perplexity Orchestrator API]] - concept - veilles/veille-ia-dev-2026-11-20-t1.md
+- [[Qwen3.8-27B]] - concept - veilles/veille-ia-dev-2026-11-21-t2.md
+- [[Veille Outils & code 2026-11-19  Infrastructure et optimisation IA]] - document - veilles/veille-ia-dev-2026-11-19-t3.md
+- [[Veille Outils & code 2026-11-20]] - document - veilles/veille-ia-dev-2026-11-20-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,17 +29,23 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_Nvidia_1]]
-- 1 edge to [[_COMMUNITY_Apple_1]]
+- 3 edges to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
+- 1 edge to [[_COMMUNITY_Copilot_1]]
 - 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière]]
 - 1 edge to [[_COMMUNITY_Microsoft]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
-- 1 edge to [[_COMMUNITY_Amazon]]
+- 1 edge to [[_COMMUNITY_Meta]]
+- 1 edge to [[_COMMUNITY_Débats à Saint-Tropez]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_David Tepper_1]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-22  Marchés et finance]]
+- 1 edge to [[_COMMUNITY_JPMorgan]]
+- 1 edge to [[_COMMUNITY_Jensen Huang]]
+- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
+- 1 edge to [[_COMMUNITY_Model Context Protocol (MCP)]]
 
 ## Top bridge nodes
-- [[Mistral AI]] - degree 7, connects to 3 communities
-- [[Veille France 2026-11-10  Sécurité, risques et éthique]] - degree 3, connects to 2 communities
-- [[Veille France 2026-11-18  Sécurité et cyber‑menaces IA]] - degree 3, connects to 2 communities
-- [[Veille France 2026-11-11  Autres articles]] - degree 2, connects to 1 community
+- [[Veille Outils & code 2026-11-20]] - degree 11, connects to 6 communities
+- [[Perplexity Orchestrator API]] - degree 5, connects to 4 communities
+- [[Veille Outils & code 2026-11-19  Infrastructure et optimisation IA]] - degree 6, connects to 2 communities
+- [[DaisyRose-27B]] - degree 3, connects to 1 community
+- [[Foundry IQ]] - degree 3, connects to 1 community

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-20-t5.md"
 type: "document"
-community: "Veille France 2026-11-22"
+community: "Veille France 2026-11-16"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-22
+  - community/Veille_France_2026-11-16
 ---
 
 # Veille États-Unis 2026-11-20 : Impact sociétal et culturel
@@ -19,4 +19,4 @@ tags:
 - [[Why I’m Not Losing Sleep Over the AI Apocalypse]] - `references` [EXTRACTED]
 - [[You tell AI everything. But who else is listening]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-22
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-16

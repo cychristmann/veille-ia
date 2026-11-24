@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-20-t5.md"
 type: "concept"
-community: "Veille France 2026-11-22"
+community: "Veille France 2026-11-16"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-22
+  - community/Veille_France_2026-11-16
 ---
 
 # Why I’m Not Losing Sleep Over the AI Apocalypse
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-20  Impact sociétal et culturel]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-22
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-16

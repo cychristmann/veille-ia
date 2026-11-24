@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-20-t2.md"
 type: "document"
-community: "Veille France 2026-11-19 : Autres articles"
+community: "Alibaba"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-19__Autres_articles
+  - community/Alibaba
 ---
 
 # Veille Chine 2026-11-20 : Santé & Biotechnologie
@@ -14,4 +14,4 @@ tags:
 - [[Alibaba]] - `references` [EXTRACTED]
 - [[Tencent]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-19__Autres_articles
+#graphify/document #graphify/EXTRACTED #community/Alibaba

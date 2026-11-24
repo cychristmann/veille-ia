@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-20-1.md"
 type: "concept"
-community: "Veille France 2026-11-09 : Régulation, sécurité et enjeux géopolitiques"
+community: "Veille États-Unis 2026-11-11 : Éducation et formation à l'IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-09__Régulation_sécurité_et_enjeux_géopolitiques
+  - community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA
 ---
 
 # John Ternus
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Craig Federighi]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-09__Régulation_sécurité_et_enjeux_géopolitiques
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA

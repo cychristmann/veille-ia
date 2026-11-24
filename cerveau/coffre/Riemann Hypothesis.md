@@ -1,16 +1,17 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-21-t3.md"
 type: "concept"
-community: "Claude"
+community: "Riemann Hypothesis"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Claude
+  - community/Riemann_Hypothesis
 ---
 
 # Riemann Hypothesis
 
 ## Connections
+- [[Anthropic]] - `references` [EXTRACTED]
 - [[Claude]] - `references` [EXTRACTED]
 - [[Clay Institute]] - `references` [EXTRACTED]
 - [[Lean 4]] - `references` [EXTRACTED]
@@ -21,4 +22,4 @@ tags:
 - [[Veille États-Unis 2026-11-21  Autres articles]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-21  Impact sociétal, éthique et culture]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Claude
+#graphify/concept #graphify/EXTRACTED #community/Riemann_Hypothesis

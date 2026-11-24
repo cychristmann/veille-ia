@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-23-t3.md"
 type: "document"
-community: "AMD"
+community: "Veille Chine 2026-11-23 : Finance, marchés et investissements IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AMD
+  - community/Veille_Chine_2026-11-23__Finance_marchés_et_investissements_IA
 ---
 
 # Veille Chine 2026-11-23 : Finance, marchés et investissements IA
@@ -20,4 +20,4 @@ tags:
 - [[科达利]] - `references` [EXTRACTED]
 - [[诺华 (Novartis)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AMD
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-23__Finance_marchés_et_investissements_IA

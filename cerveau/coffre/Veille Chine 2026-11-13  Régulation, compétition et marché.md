@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-13-t4.md"
 type: "document"
-community: "Trump's AI task force"
+community: "Hypothèse de Riemann"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trumps_AI_task_force
+  - community/Hypothèse_de_Riemann
 ---
 
 # Veille Chine 2026-11-13 : Régulation, compétition et marché
@@ -17,4 +17,4 @@ tags:
 - [[上海市科学数据管理办法]] - `references` [EXTRACTED]
 - [[第七届中国人工智能大赛]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Trumps_AI_task_force
+#graphify/document #graphify/EXTRACTED #community/Hypothèse_de_Riemann

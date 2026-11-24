@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-14-t4.md"
 type: "document"
-community: "Enterprise RAG Systems"
+community: "Charta Health"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Enterprise_RAG_Systems
+  - community/Charta_Health
 ---
 
 # Veille France 2026-11-14 : Sécurité, risques et fraudes
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Sécurité et risques de l'IA]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Enterprise_RAG_Systems
+#graphify/document #graphify/EXTRACTED #community/Charta_Health

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-19-t4.md"
 type: "concept"
-community: "Claude Code"
+community: "Veille France 2026-11-22 : Marchés et finance"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/Claude_Code
+  - community/Veille_France_2026-11-22__Marchés_et_finance
 ---
 
 # IDrive AI Agents Backup
@@ -18,4 +18,4 @@ tags:
 - [[Veille Outils & code 2026-11-19  Autres articles]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-19  Sécurité et défense des agents IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/INFERRED #community/Claude_Code
+#graphify/concept #graphify/INFERRED #community/Veille_France_2026-11-22__Marchés_et_finance

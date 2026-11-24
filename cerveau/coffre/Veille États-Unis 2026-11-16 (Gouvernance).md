@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-16-t1.md"
 type: "document"
-community: "Amazon"
+community: "Microsoft"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Amazon
+  - community/Microsoft
 ---
 
 # Veille États-Unis 2026-11-16 (Gouvernance)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Trump Administration]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Amazon
+#graphify/document #graphify/EXTRACTED #community/Microsoft

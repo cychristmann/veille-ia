@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-15-t2.md"
 type: "concept"
-community: "Nvidia"
+community: "Veille France 2026-11-15"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Nvidia
+  - community/Veille_France_2026-11-15
 ---
 
 # ICAID
@@ -25,4 +25,4 @@ tags:
 - [[Veille France 2026-11-15]] - `references` [EXTRACTED]
 - [[boursorama.com]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Nvidia
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-15

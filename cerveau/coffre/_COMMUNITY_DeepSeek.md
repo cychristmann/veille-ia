@@ -25,13 +25,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Nvidia_1]]
+- 3 edges to [[_COMMUNITY_Nvidia]]
 - 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-12  IA dans le commerce et le divertissement]]
-- 1 edge to [[_COMMUNITY_Feuilleton Compromission massive du Microsoft Agent Framework]]
-- 1 edge to [[_COMMUNITY_Cursor]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-12  IA dans le commerce et le divertissement_1]]
+- 1 edge to [[_COMMUNITY_Alibaba_1]]
 - 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_David Tepper_1]]
+- 1 edge to [[_COMMUNITY_Cursor_1]]
 
 ## Top bridge nodes
 - [[DeepSeek]] - degree 8, connects to 3 communities

@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[OpenClaw]] - concept - veilles/veille-ia-dev-2026-11-23-t2.md
+- [[Spotify]] - concept - veilles/veille-ia-fr-2026-11-22-t1.md
 
 ## Live Query (requires Dataview plugin)
 

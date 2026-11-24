@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # S&P 500
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[CAC 40]] - concept - veilles/veille-ia-fr-2026-11-21-t2.md
+- [[Le Monde Pixels]] - concept - feuilletons/f-0027.md
+- [[Ukraine Conflict]] - concept - feuilletons/f-0027.md
 
 ## Live Query (requires Dataview plugin)
 

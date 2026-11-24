@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-13-t4.md"
 type: "concept"
-community: "Trump's AI task force"
+community: "Hypothèse de Riemann"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Trumps_AI_task_force
+  - community/Hypothèse_de_Riemann
 ---
 
 # Baidu AI Models
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-13  Régulation, compétition et marché]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Trumps_AI_task_force
+#graphify/concept #graphify/EXTRACTED #community/Hypothèse_de_Riemann

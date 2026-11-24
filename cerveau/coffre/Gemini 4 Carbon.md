@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0010.md"
 type: "concept"
-community: "Apple"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Apple
+  - community/Gemini_4_Hydrogen
 ---
 
 # Gemini 4 Carbon
@@ -17,4 +17,4 @@ tags:
 - [[Google DeepMind]] - `references` [INFERRED]
 - [[Veille Outils & code 2026-11-15]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Apple
+#graphify/concept #graphify/EXTRACTED #community/Gemini_4_Hydrogen

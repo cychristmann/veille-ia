@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t4.md"
 type: "document"
-community: "Cyber Shield"
+community: "Veille États-Unis 2026-11-11 : Éducation et formation à l'IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Cyber_Shield
+  - community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA
 ---
 
 # Veille États-Unis 2026-11-09 (Applications)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Elvis Presley]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Cyber_Shield
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA

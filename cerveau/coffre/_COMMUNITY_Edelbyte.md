@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Edelbyte
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Veille Outils & code 2026-11-21  Plateformes et intégrations IA]] - document - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[CVS Health]] - code - veilles/veille-ia-us-2026-11-14-t6.md
+- [[Veille États-Unis 2026-11-14]] - document - veilles/veille-ia-us-2026-11-14-t6.md
 
 ## Live Query (requires Dataview plugin)
 

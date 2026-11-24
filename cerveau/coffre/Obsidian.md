@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-11-t2.md"
 type: "concept"
-community: "Claude Code"
+community: "Débats à Saint-Tropez"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/Claude_Code
+  - community/Débats_à_Saint-Tropez
 ---
 
 # Obsidian
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Claude Code]] - `shares_data_with` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/Claude_Code
+#graphify/concept #graphify/INFERRED #community/Débats_à_Saint-Tropez

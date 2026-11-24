@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Verda]] - concept - dossiers/2026-11-19-3.md
+- [[GPT-6.1 Sol]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
 
 ## Live Query (requires Dataview plugin)
 

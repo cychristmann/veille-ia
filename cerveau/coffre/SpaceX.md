@@ -18,6 +18,7 @@ tags:
 - [[Cursor]] - `references` [EXTRACTED]
 - [[Elon Musk]] - `references` [EXTRACTED]
 - [[Feuilleton SpaceX AI Infrastructure]] - `references` [EXTRACTED]
+- [[Grok AI]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[Nvidia]] - `shares_data_with` [INFERRED]
 - [[Open Secure AI Alliance]] - `references` [EXTRACTED]

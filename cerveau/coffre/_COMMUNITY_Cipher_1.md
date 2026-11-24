@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Cipher
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Cipher]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
-- [[IREN]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
-- [[TeraWulf]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
+- [[GTM.AI API]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[Piper]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[Qualified]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[ZoomInfo]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
 
 ## Live Query (requires Dataview plugin)
 

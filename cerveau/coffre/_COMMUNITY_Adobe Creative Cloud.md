@@ -1,19 +1,27 @@
 ---
 type: community
-members: 6
+members: 14
 ---
 
 # Adobe Creative Cloud
 
-**Members:** 6 nodes
+**Members:** 14 nodes
 
 ## Members
-- [[Adobe Creative Cloud]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Adobe Firefly]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Cognizant]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Roland Busch (博乐仁)]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Siemens]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Veille Chine 2026-11-10]] - document - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Agent IA Apple]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[Bot-out et managers]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[Chauffage piloté par IA]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[Double nature de l'IA]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[Formation vidéo et IA]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[Hypothèse de Riemann et IA]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[IA dans le tourisme]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[IA du fisc]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[IA et créativité]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[IA et forces nucléaires]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[IA et inégalités étudiantes]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[IA et vitesse sociétale]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[TikTok IA Transparence]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[Veille France 2026-11-23]] - document - veilles/veille-ia-fr-2026-11-23-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,14 +29,3 @@ members: 6
 TABLE source_file, type FROM #community/Adobe_Creative_Cloud
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 2 edges to [[_COMMUNITY_AI Impact on Finance and Markets]]
-- 1 edge to [[_COMMUNITY_Microsoft]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
-
-## Top bridge nodes
-- [[Adobe Creative Cloud]] - degree 5, connects to 3 communities
-- [[Veille Chine 2026-11-10]] - degree 4, connects to 1 community
-- [[Cognizant]] - degree 2, connects to 1 community

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t3.md"
 type: "code"
-community: "AMD"
+community: "Shield AI"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/AMD
+  - community/Shield_AI
 ---
 
 # Anduril
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Shield AI]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/AMD
+#graphify/code #graphify/EXTRACTED #community/Shield_AI

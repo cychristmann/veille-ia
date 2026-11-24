@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[DERM]] - code - veilles/veille-ia-us-2026-11-21-t4.md
+- [[Veille Chine 2026-11-22  Normes et architectures IA]] - document - veilles/veille-ia-cn-2026-11-22-t1.md
 
 ## Live Query (requires Dataview plugin)
 

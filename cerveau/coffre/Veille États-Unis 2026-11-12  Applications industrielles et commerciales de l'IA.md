@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t6.md"
 type: "document"
-community: "AI Agents"
+community: "Veille Outils & code 2026-11-21"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Agents
+  - community/Veille_Outils__code_2026-11-21
 ---
 
 # Veille États-Unis 2026-11-12 : Applications industrielles et commerciales de l'IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AI Agents]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Agents
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-21

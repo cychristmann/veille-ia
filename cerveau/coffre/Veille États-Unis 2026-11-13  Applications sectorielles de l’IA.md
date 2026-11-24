@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-13-t3.md"
 type: "document"
-community: "Veille Outils & code 2026-11-20"
+community: "Veille France 2026-11-12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-20
+  - community/Veille_France_2026-11-12
 ---
 
 # Veille États-Unis 2026-11-13 : Applications sectorielles de l’IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[United Airlines]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-20
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-12

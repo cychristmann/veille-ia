@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-08-t4.md"
 type: "document"
-community: "AI Impact on Finance and Markets"
+community: "Copilot"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Impact_on_Finance_and_Markets
+  - community/Copilot
 ---
 
 # Veille France 2026-11-08 : Applications concrètes et innovations IA
@@ -16,4 +16,4 @@ tags:
 - [[Claude]] - `references` [EXTRACTED]
 - [[Modèles d'IA MoE]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Impact_on_Finance_and_Markets
+#graphify/document #graphify/EXTRACTED #community/Copilot

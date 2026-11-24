@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0010.md"
 type: "document"
-community: "Apple"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Apple
+  - community/Gemini_4_Hydrogen
 ---
 
 # Feuilleton : Google DeepMind étend sa suite de modèles Gemini
@@ -17,4 +17,4 @@ tags:
 - [[Gemini 4 Neon]] - `references` [EXTRACTED]
 - [[Gemini Decisions]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Apple
+#graphify/document #graphify/EXTRACTED #community/Gemini_4_Hydrogen

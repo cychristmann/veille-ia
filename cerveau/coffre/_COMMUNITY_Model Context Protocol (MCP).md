@@ -1,24 +1,21 @@
 ---
 type: community
-members: 11
+members: 8
 ---
 
 # Model Context Protocol (MCP)
 
-**Members:** 11 nodes
+**Members:** 8 nodes
 
 ## Members
-- [[AI Short Dramas]] - concept - veilles/veille-ia-cn-2026-11-14-t3.md
-- [[AI4 Chip]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
-- [[SCMP Tech]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
-- [[Sanxingdui Future Past]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
-- [[Tencent Chatterfly]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
-- [[Tesla FSD v15]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
-- [[Tesla Reality View]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
-- [[Veille Chine 2026-11-14  Médias, création et divertissement IA]] - document - veilles/veille-ia-cn-2026-11-14-t3.md
-- [[Veille Chine 2026-11-15  Contenu et divertissement IA]] - document - veilles/veille-ia-cn-2026-11-15-t1.md
-- [[Veille Chine 2026-11-22]] - document - veilles/veille-ia-cn-2026-11-22-t4.md
-- [[投资界]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
+- [[CyberSecurityNews]] - concept - feuilletons/f-0032.md
+- [[Feuilleton Compromission massive du Microsoft Agent Framework]] - document - feuilletons/f-0032.md
+- [[Microsoft Agent Framework]] - concept - veilles/veille-ia-dev-2026-11-20-t1.md
+- [[OX Security]] - concept - feuilletons/f-0032.md
+- [[The Hacker News]] - concept - feuilletons/f-0032.md
+- [[The New Stack]] - concept - feuilletons/f-0032.md
+- [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - document - veilles/veille-ia-dev-2026-11-18-t3.md
+- [[wiz.io]] - concept - feuilletons/f-0032.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,3 +23,14 @@ members: 11
 TABLE source_file, type FROM #community/Model_Context_Protocol_MCP
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Débats à Saint-Tropez]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_Cursor_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
+
+## Top bridge nodes
+- [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - degree 4, connects to 3 communities
+- [[Microsoft Agent Framework]] - degree 4, connects to 2 communities

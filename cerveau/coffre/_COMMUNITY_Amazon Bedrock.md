@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Amazon Bedrock
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Academic Misconduct]] - concept - veilles/veille-ia-cn-2026-11-19-t4.md
-- [[Central South University]] - concept - veilles/veille-ia-cn-2026-11-19-t4.md
-- [[Veille Chine 2026-11-19  Recherche et Éthique]] - document - veilles/veille-ia-cn-2026-11-19-t4.md
+- [[CHU de Montpellier]] - concept - veilles/veille-ia-fr-2026-11-18-t5.md
+- [[David Morquin]] - concept - veilles/veille-ia-fr-2026-11-18-t5.md
+- [[French Tech Bordeaux]] - concept - veilles/veille-ia-fr-2026-11-18-t5.md
+- [[Veille France 2026-11-18 (T5)]] - document - veilles/veille-ia-fr-2026-11-18-t5.md
 
 ## Live Query (requires Dataview plugin)
 

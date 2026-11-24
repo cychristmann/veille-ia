@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-14-t4.md"
 type: "document"
-community: "datasette-cluster-map"
+community: "LLM 0.37.3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/datasette-cluster-map
+  - community/LLM_0373
 ---
 
 # Veille Chine 2026-11-14 : Éthique, sécurité et réglementation IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AI Ethics, Security and Regulation]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/datasette-cluster-map
+#graphify/document #graphify/EXTRACTED #community/LLM_0373

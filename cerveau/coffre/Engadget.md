@@ -1,17 +1,18 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-08-t3.md"
+source_file: "feuilletons/f-0002.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-18"
+community: "ASML"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-18
+  - community/ASML
 ---
 
 # Engadget
 
 ## Connections
+- [[Feuilleton  Suno AI poursuivi de nouveau pour violation de droits d’auteur]] - `cites` [EXTRACTED]
 - [[Veille États-Unis 2026-11-08  Applications sectorielles]] - `cites` [EXTRACTED]
 - [[Veille États-Unis 2026-11-08  Autres articles]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-18
+#graphify/concept #graphify/EXTRACTED #community/ASML

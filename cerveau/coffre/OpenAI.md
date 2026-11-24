@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-21-t3.md"
 type: "code"
-community: "Veille États-Unis 2026-11-13 : Développements et investissements corporatifs"
+community: "Claude Code"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+  - community/Claude_Code
 ---
 
 # OpenAI
@@ -14,10 +14,11 @@ tags:
 - [[AI Cyberattack]] - `conceptually_related_to` [EXTRACTED]
 - [[AI Kill-Switch]] - `references` [EXTRACTED]
 - [[Adobe Creative Cloud]] - `references` [EXTRACTED]
+- [[AgentMon Live]] - `references` [EXTRACTED]
 - [[Agents IA]] - `conceptually_related_to` [EXTRACTED]
 - [[Amex]] - `references` [EXTRACTED]
 - [[Amplitude Wave]] - `references` [EXTRACTED]
-- [[Anthropic]] - `conceptually_related_to` [INFERRED]
+- [[Anthropic]] - `conceptually_related_to` [EXTRACTED]
 - [[Apollo Research]] - `references` [EXTRACTED]
 - [[Apple AI Agent]] - `conceptually_related_to` [EXTRACTED]
 - [[Arizona Attorney General]] - `cites` [EXTRACTED]
@@ -30,6 +31,7 @@ tags:
 - [[ChatGPT Enterprise]] - `references` [EXTRACTED]
 - [[ChatGPT Enterprise]] - `references` [EXTRACTED]
 - [[ChatGPT Wallet]] - `references` [INFERRED]
+- [[Cisco]] - `references` [EXTRACTED]
 - [[Commerce Partner Playbook]] - `references` [EXTRACTED]
 - [[Control Room]] - `references` [EXTRACTED]
 - [[Cursor]] - `references` [EXTRACTED]
@@ -57,6 +59,7 @@ tags:
 - [[Rob Bonta (California Attorney General)]] - `references` [EXTRACTED]
 - [[RubyGems]] - `references` [EXTRACTED]
 - [[Sam Altman]] - `references` [EXTRACTED]
+- [[Saudi Government]] - `references` [EXTRACTED]
 - [[Trump Administration]] - `conceptually_related_to` [EXTRACTED]
 - [[US Criminal Investigation]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - `references` [EXTRACTED]
@@ -77,10 +80,12 @@ tags:
 - [[Veille Outils & code 2026-11-17]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-18  Analyse de performance, coûts et gouvernance]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-24  Sécurité des agents de codage IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-11]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-17  Autres articles]] - `cites` [EXTRACTED]
 - [[Veille États-Unis 2026-11-18  Régulation, litiges et gouvernance]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-24  Sécurité, Éthique & Régulation]] - `references` [EXTRACTED]
 - [[Visa]] - `references` [EXTRACTED]
 - [[Wikimedia Foundation]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+#graphify/code #graphify/EXTRACTED #community/Claude_Code

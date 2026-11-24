@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-17-1.md"
 type: "concept"
-community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
+community: "AI Act"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+  - community/AI_Act
 ---
 
 # Consultation publique
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Article 27]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+#graphify/concept #graphify/EXTRACTED #community/AI_Act

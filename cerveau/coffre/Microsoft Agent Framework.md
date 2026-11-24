@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-20-t1.md"
 type: "concept"
-community: "Cursor"
+community: "Model Context Protocol (MCP)"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Cursor
+  - community/Model_Context_Protocol_MCP
 ---
 
 # Microsoft Agent Framework
@@ -16,4 +16,4 @@ tags:
 - [[Veille Outils & code 2026-11-20]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-21]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Cursor
+#graphify/concept #graphify/EXTRACTED #community/Model_Context_Protocol_MCP

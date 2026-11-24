@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-23-t3.md"
 type: "concept"
-community: "ChatGPT Wallet"
+community: "OpenRouter"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ChatGPT_Wallet
+  - community/OpenRouter
 ---
 
 # OpenRouter
@@ -17,4 +17,4 @@ tags:
 - [[Veille Outils & code 2026-11-17]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-23  Sécurité, conformité et fuites liées aux IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/ChatGPT_Wallet
+#graphify/concept #graphify/EXTRACTED #community/OpenRouter

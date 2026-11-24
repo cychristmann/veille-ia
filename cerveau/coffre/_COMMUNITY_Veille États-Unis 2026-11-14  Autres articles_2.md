@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille France 2026-11-09  Régulation, sécurité et enjeux géopolitiques]] - document - veilles/veille-ia-fr-2026-11-09-t3.md
+- [[Claude Data]] - concept - veilles/veille-ia-dev-2026-11-12-t1.md
 
 ## Live Query (requires Dataview plugin)
 

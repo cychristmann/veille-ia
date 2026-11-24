@@ -25,8 +25,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_ChatGPT Wallet]]
+- 1 edge to [[_COMMUNITY_Débats à Saint-Tropez]]
+- 1 edge to [[_COMMUNITY_OpenRouter]]
 
 ## Top bridge nodes
 - [[Veille Outils & code 2026-11-23  Sécurité, conformité et fuites liées aux IA]] - degree 9, connects to 2 communities

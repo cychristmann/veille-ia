@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Coding Agent Security for AppSec Leaders]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
-- [[Does AI Coding Make Secrets Sprawl Worse in CICD Pipelines]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
-- [[Hackers Target AI Coding Tools to Steal Credentials]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
-- [[Kiji Inspector]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
-- [[Stolen Claude API keys can turn Claude Code into a remote-controlled implant]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
-- [[Veille Outils & code 2026-11-12  Sécurité et gouvernance]] - document - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Veille Chine 2026-11-21  Applications sectorielles de l’IA]] - document - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[华为OSTA星芒 O1 Pro]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[托普云农发布智能（AI）虫情测报灯9.0]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[物理AI浪潮下，在手订单充足的8家公司]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[程子芮：AI推动金融科技从数字化到数智化]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[香港人工智能与生命科学伦理研究院]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
 
 ## Live Query (requires Dataview plugin)
 

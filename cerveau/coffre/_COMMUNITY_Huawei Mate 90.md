@@ -1,17 +1,18 @@
 ---
 type: community
-members: 4
+members: 5
 ---
 
 # Huawei Mate 90
 
-**Members:** 4 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Florida Legislature]] - concept - veilles/veille-ia-us-2026-11-22-t2.md
-- [[South Korea Financial Supervisory Service (FSS)]] - concept - veilles/veille-ia-us-2026-11-22-t2.md
-- [[South Korean Ministry of Education]] - concept - veilles/veille-ia-us-2026-11-22-t2.md
-- [[Veille États-Unis 2026-11-22  Régulation, politique et éthique]] - document - veilles/veille-ia-us-2026-11-22-t2.md
+- [[Veille Chine 2026-11-14  IA industrielle et infrastructure]] - document - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[天神之眼系统]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[比亚迪辅助驾驶车型保有量超 419 万辆]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[浙江算力规模超198EFLOPS]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[百度智能云战略合作]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
 
 ## Live Query (requires Dataview plugin)
 

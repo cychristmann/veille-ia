@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0039.md"
 type: "document"
-community: "ABB"
+community: "Brevis Arca AI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/ABB
+  - community/Brevis_Arca_AI
 ---
 
 # Feuilleton : Microsoft impulsa standards ouverts de transparence pour agents IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Foro3D]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/ABB
+#graphify/document #graphify/EXTRACTED #community/Brevis_Arca_AI

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t1.md"
 type: "document"
-community: "Jensen Huang"
+community: "AI Impact on Finance and Markets"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Jensen_Huang
+  - community/AI_Impact_on_Finance_and_Markets
 ---
 
 # Veille France 2026-11-13
@@ -23,4 +23,4 @@ tags:
 - [[SpaceX]] - `references` [EXTRACTED]
 - [[xFusion]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Jensen_Huang
+#graphify/document #graphify/EXTRACTED #community/AI_Impact_on_Finance_and_Markets

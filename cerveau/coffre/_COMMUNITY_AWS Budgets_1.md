@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Agent Client Protocol (ACP)]] - concept - veilles/veille-ia-dev-2026-11-20-t2.md
-- [[Symposium]] - concept - veilles/veille-ia-dev-2026-11-20-t2.md
+- [[Impact sociétal de l'IA]] - concept - veilles/veille-ia-fr-2026-11-21-t5.md
+- [[Veille France 2026-11-21  Société & culture]] - document - veilles/veille-ia-fr-2026-11-21-t5.md
 
 ## Live Query (requires Dataview plugin)
 

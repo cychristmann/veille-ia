@@ -1,9 +1,9 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-09-t2.md"
-type: "concept"
+source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
+type: "code"
 community: "Nvidia"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
   - community/Nvidia
 ---
@@ -12,7 +12,6 @@ tags:
 
 ## Connections
 - [[AI Overwatch Act]] - `references` [EXTRACTED]
-- [[Amazon]] - `references` [EXTRACTED]
 - [[Anthropic]] - `conceptually_related_to` [INFERRED]
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Baird]] - `references` [EXTRACTED]
@@ -32,11 +31,11 @@ tags:
 - [[Dossier  Nvidia désigné champion national de l’IA aux États‑Unis]] - `references` [EXTRACTED]
 - [[Dossier Course à l'IA entre États‑Unis et Chine]] - `references` [EXTRACTED]
 - [[Dossier Scandale Nvidia]] - `references` [EXTRACTED]
-- [[Feuilleton  Scandale Nvidia]] - `references` [EXTRACTED]
 - [[Feuilleton SMIC anticipe une pénurie de capacité IA]] - `references` [EXTRACTED]
 - [[Feuilleton Wall Street en déroute]] - `references` [EXTRACTED]
 - [[H Company]] - `references` [EXTRACTED]
 - [[Harvey C. Jones]] - `references` [EXTRACTED]
+- [[Hewlett-Packard Enterprise]] - `shares_data_with` [EXTRACTED]
 - [[Hopper (H200)]] - `references` [EXTRACTED]
 - [[Huawei]] - `conceptually_related_to` [INFERRED]
 - [[Huawei]] - `references` [EXTRACTED]
@@ -47,6 +46,7 @@ tags:
 - [[Jensen Huang]] - `references` [EXTRACTED]
 - [[Jensen Huang]] - `references` [EXTRACTED]
 - [[Libertify]] - `references` [EXTRACTED]
+- [[Marché de l'IA]] - `conceptually_related_to` [EXTRACTED]
 - [[Marchés financiers et IA]] - `conceptually_related_to` [INFERRED]
 - [[Match Act]] - `references` [EXTRACTED]
 - [[MetaX]] - `references` [INFERRED]
@@ -60,6 +60,7 @@ tags:
 - [[SpaceX]] - `references` [EXTRACTED]
 - [[SpaceX]] - `shares_data_with` [INFERRED]
 - [[Starmind Project]] - `shares_data_with` [INFERRED]
+- [[Sunway]] - `shares_data_with` [EXTRACTED]
 - [[Tim Teter]] - `references` [EXTRACTED]
 - [[Trump Administration]] - `conceptually_related_to` [EXTRACTED]
 - [[Trump's AI task force]] - `references` [INFERRED]
@@ -72,6 +73,7 @@ tags:
 - [[Veille Chine 2026-11-17]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-20  Éducation & Médias]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-21  Infrastructure et matériel IA]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-24]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Environnement et empreinte carbone de l'IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Stratégies d'entreprises et investissements IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-09  Autres articles]] - `references` [EXTRACTED]
@@ -89,6 +91,7 @@ tags:
 - [[Veille France 2026-11-21  Applications industrielles & produits]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-21  Marchés & finance]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-22  Marchés et finance]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-24  Marché et investissements IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-09 (Sécurité)]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-09  Autres articles]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-09  Déploiements et stratégies d’entreprise]] - `references` [EXTRACTED]
@@ -104,7 +107,7 @@ tags:
 - [[Veille États-Unis 2026-11-20  Marché et finance de l'IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-22  Infrastructure et matériel IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-23  Marchés et investissements IA]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-24  Sécurité, Éthique & Régulation]] - `references` [EXTRACTED]
 - [[Wall Street]] - `references` [EXTRACTED]
-- [[États-Unis]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Nvidia
+#graphify/code #graphify/EXTRACTED #community/Nvidia

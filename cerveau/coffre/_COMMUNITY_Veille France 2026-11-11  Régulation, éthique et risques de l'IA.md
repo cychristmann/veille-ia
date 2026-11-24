@@ -20,7 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
+- 2 edges to [[_COMMUNITY_Claude Code]]
 
 ## Top bridge nodes
 - [[Veille France 2026-11-11  Régulation, éthique et risques de l'IA]] - degree 3, connects to 1 community

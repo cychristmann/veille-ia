@@ -1,0 +1,1007 @@
+{
+  "region": "fr",
+  "genere_a": "2026-11-24T10:45:51.356626+01:00",
+  "heures": 24,
+  "nombre_demande": 50,
+  "nombre_articles": 50,
+  "synthese": "L’actualité récente montre que l’IA continue de dynamiser les marchés financiers, avec un engouement particulier autour de Nvidia et de nouveaux fonds d’investissement. Parallèlement, les régulateurs et les organisations internationales intensifient leurs efforts pour encadrer la sécurité et la gouvernance de ces technologies. Sur le plan des applications, l’IA se déploie largement, des assistants vocaux sur mesure aux outils de diagnostic médical, en passant par des solutions d’entreprise et des innovations matérielles. Enfin, les débats sociétaux s’intensifient, portant sur la protection de la vie privée, les risques de fraude et l’impact de l’IA sur l’emploi et la culture.",
+  "verification": {
+    "problemes": [],
+    "synthese_originale": "L’actualité récente montre que l’IA continue de dynamiser les marchés financiers, avec un engouement particulier autour de Nvidia et de nouveaux fonds d’investissement. Parallèlement, les régulateurs et les organisations internationales intensifient leurs efforts pour encadrer la sécurité et la gouvernance de ces technologies. Sur le plan des applications, l’IA se déploie largement, des assistants vocaux sur mesure aux outils de diagnostic médical, en passant par des solutions d’entreprise et des innovations matérielles. Enfin, les débats sociétaux s’intensifient, portant sur la protection de la vie privée, les risques de fraude et l’impact de l’IA sur l’emploi et la culture."
+  },
+  "sources_en_echec": [],
+  "flux_lus": {
+    "ActuIA": [
+      15,
+      5
+    ],
+    "Le Big Data": [
+      10,
+      4
+    ],
+    "Blog du Modérateur": [
+      30,
+      2
+    ],
+    "Siècle Digital": [
+      20,
+      2
+    ],
+    "Numerama": [
+      15,
+      2
+    ],
+    "Frandroid": [
+      15,
+      1
+    ],
+    "Journal du Geek": [
+      30,
+      2
+    ],
+    "01net": [
+      30,
+      2
+    ],
+    "Les Numériques": [
+      40,
+      0
+    ],
+    "ZDNet": [
+      50,
+      5
+    ],
+    "Clubic": [
+      50,
+      10
+    ],
+    "Presse-citron": [
+      30,
+      1
+    ],
+    "Next": [
+      50,
+      5
+    ],
+    "Korben": [
+      32,
+      2
+    ],
+    "Maddyness": [
+      10,
+      0
+    ],
+    "FrenchWeb": [
+      30,
+      1
+    ],
+    "JDN": [
+      60,
+      26
+    ],
+    "Le Monde Pixels": [
+      20,
+      0
+    ],
+    "Brief IA": [
+      50,
+      40
+    ],
+    "La Crème Du Gaming": [
+      50,
+      3
+    ],
+    "Martin Cid Magazine": [
+      10,
+      1
+    ],
+    "Foro3D": [
+      200,
+      17
+    ],
+    "Mac4Ever": [
+      30,
+      4
+    ],
+    "Servicesmobiles.fr": [
+      20,
+      5
+    ],
+    "Le Monde Informatique": [
+      50,
+      3
+    ],
+    "Le Figaro (High-Tech)": [
+      20,
+      4
+    ],
+    "BlogNT": [
+      10,
+      5
+    ],
+    "Business AM": [
+      100,
+      5
+    ],
+    "Le Revenu": [
+      50,
+      5
+    ],
+    "Quartz en Français": [
+      50,
+      1
+    ],
+    "Google Actualités": [
+      100,
+      100
+    ]
+  },
+  "titre_section": "francophone",
+  "themes": [
+    {
+      "nom": "Marché et investissements IA",
+      "resume": "De nombreux titres portent sur l’impact de l’IA sur les marchés financiers, les levées de fonds et les performances boursières, notamment autour de Nvidia, des fonds d’investissement et des prévisions de croissance liées à l’IA.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Retour de Jensen Huang booste marché boursier IA, forte portée financière",
+          "couverture": 2,
+          "titre": "Nvidia : le retour de Jensen Huang relance la machine boursière de l'IA",
+          "source": "Le Revenu",
+          "lien": "https://www.lerevenu.com/actualite-economique/monde/nvidia-le-retour-de-jensen-huang-relance-la-machine-boursiere-de-l-ia",
+          "date": "2026-11-24T09:35:54+00:00",
+          "resume": "Le retour surprise de Jensen Huang à la tête de Nvidia a déclenché un puissant rebond des valeurs technologiques. Un soulagement pour un secteur fragilisé par les doutes sur la rentabilité des investissements d…",
+          "titre_fr": ""
+        },
+        {
+          "note": 7,
+          "motif": "ASML augmente production pour IA, impact chaîne semi‑conducteurs",
+          "couverture": 1,
+          "titre": "ASML Holding va augmenter considérablement ses capacités de production pour soutenir sa croissance à l'ère de l'IA",
+          "source": "Investir Les Echos",
+          "lien": "https://investir.lesechos.fr/conseils-boursiers/conseils-actions/asml-holding-va-augmenter-considerablement-ses-capacites-de-production-pour-soutenir-sa-croissance-a-lere-de-lia-2264243",
+          "date": "2026-11-24T08:01:21+00:00",
+          "resume": "Le numéro un mondial des équipements de production de semi-conducteurs domine le marché de la lithographie EUV, essentielle pour les usages d'intelligence artificielle. Malgré les tensions géopolitiqu ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Annonce d'engagements financiers Anthropic, impact marché",
+          "couverture": 1,
+          "titre": "Anthropic déclare jusqu’à 900,9 milliards de dollars d’engagements",
+          "source": "Brief IA",
+          "lien": "https://www.briefia.fr/article/anthropic-declare-jusqu-a-900-9-milliards-de-dollars-d-engagements",
+          "date": "2026-11-24T09:07:05+00:00",
+          "resume": "Anthropic déclare entre 895,4 et 900,9 milliards de dollars d’engagements pluriannuels. Selon son formulaire S-1 amendé, 70 milliards de dollars sont exigibles dans les douze mois. Osterweis Capital Management et Blackstone anticipent des notes spéculatives de Moody’s, S&P et Fitch.",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "HP Enterprise mise sur serveurs IA, orientation stratégique",
+          "couverture": 1,
+          "titre": "Hewlett-Packard Enterprise : portée par les serveurs IA, l'entreprise relève ses perspectives 2027",
+          "source": "Boursier.com",
+          "lien": "https://www.boursier.com/actions/actualites/news/hewlett-packard-enterprise-portee-par-les-serveurs-ia-l-entreprise-releve-ses-perspectives-2027-998786.html",
+          "date": "2026-11-24T08:51:00+00:00",
+          "resume": "(Boursier.com) — Pour le 4e trimestre de son exercice clos au 31 octobre 2026, Hewlett-Packard Enterprise rapporte 14,5 milliards de dollars de revenus, en hausse de 50%, pour une marge GAAP de 38% (+ ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Collaboration Nvidia/HPE, infrastructure IA, impact industriel",
+          "couverture": 1,
+          "titre": "Nvidia et Hewlett Packard Enterprise vont développer une infrastructure d’IA avec Sunway",
+          "source": "Zonebourse Suisse",
+          "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTnZSdlNpVGZiaWx1MnlRYWNTQWg2alh5Z1hsOFA5ZVh4b0cyVjd0RVZ5UXlHb1pvdFRLaHgxcXRaTGhqUk9vOWFNaUFLRmVzbXdKVkQyNTc0YWJjVDlLWS1QQ2FPeXpfT1pIZk1CZXlROWF4TWRNUFpaTVpDckZYeXNiY1ZOVEtiUmxqeUhaaWt0NWtuS1ZPVGJIM0syV0pfUWRmbVU5V3BWRmhmUFQyUDBXTloxcU8yYklyOWRIMXUtVThRUzBZV1lFQlhQMzFiRXdjX281YmltMzBFNThQeHRvTQ?oc=5",
+          "date": "2026-11-24T08:40:13+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Analyse de marché, pas d'événement nouveau",
+          "couverture": 1,
+          "titre": "IA : « Le scepticisme actuel du marché s'explique par l'ampleur colossale des investissements engagés et la question de leur monétisation », analyse Kristofer Barrett, de Carmignac",
+          "source": "Investir Les Echos",
+          "lien": "https://investir.lesechos.fr/actu-des-valeurs/entretiens/ia-le-scepticisme-actuel-du-marche-sexplique-par-lampleur-colossale-des-investissements-engages-et-la-question-de-leur-monetisation-analyse-kristofer-barrett-de-carmignac-2264274",
+          "date": "2026-11-24T09:30:09+00:00",
+          "resume": "Responsable de la gestion des actions internationales chez Carmignac, Kristofer Barrett nous livre son point de vue sur les craintes exprimées par le marché vis-à-vis de la révolution technologique en ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Redondance avec article 19, portée locale",
+          "couverture": 1,
+          "titre": "A Lyon, PulseLife a commencé à tester son agent conversationnel IA dans les services d'urgence",
+          "source": "La Tribune",
+          "lien": "https://www.latribune.fr/article/regions/auvergne-rhone-alpes/11344314618434/a-lyon-pulselife-a-commence-a-tester-son-agent-conversationnel-ia-dans-les-services-durgence",
+          "date": "2026-11-24T09:00:50+00:00",
+          "resume": "Lauréat d'un appel à projets France 2030, le consortium porté par la medtech PulseLife testera dès le premier trimestre 2027 son assistant IA dans tous les services d'urgence de Lyon. D'ici là, la sta ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Sélection de titres, approche promotionnelle",
+          "couverture": 1,
+          "titre": "Le rallye de l’IA explose : cinq valeurs tech sélectionnées par l’IA avec jusqu’à +52% de potentiel",
+          "source": "Investing.com France",
+          "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNU9TY2NrSjhlbzZOQnRUeUZLQ1c3RWVIcGVnbDFndjlRRjFucGs4SXg1OWNLYjQyZnhyLWcwU21wNjVRTjE3WVE4azBmTGJMMk9wbXpLOVpfeUVIYlhnOGgydHVuNUZjMlJ3WEJlczc5LUItSHBlYlhqUk5FXzB4Y2lMT3FsbEc4SmFrTE91R3JOMktMMWxtR25LMVdyU09XMVRCUjdBbXZNeXVmbWJiSk5jRWhBQmhuN3c0NWxMMUNzU0MxZmpCdkEyTHN1eUlZcVl1U3B3aWN5WnZuQ21UM3g3VQ?oc=5",
+          "date": "2026-11-24T09:29:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        }
+      ]
+    },
+    {
+      "nom": "Régulation, gouvernance et sécurité IA",
+      "resume": "Plusieurs articles traitent des exigences réglementaires, des cadres de sécurité et des initiatives de gouvernance autour de l’IA, tant au niveau national qu’international.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Appel de Guterres à cadre mondial IA, enjeu géopolitique majeur",
+          "couverture": 1,
+          "titre": "Guterres presse les États de créer en un an un cadre mondial de sécurité de l’IA",
+          "source": "Yahoo Actualités",
+          "lien": "https://www.msn.com/fr-fr/actualite/other/guterres-presse-les-%C3%A9tats-de-cr%C3%A9er-en-un-an-un-cadre-mondial-de-s%C3%A9curit%C3%A9-de-l-ia/ar-AA2i6kAT",
+          "date": "2026-11-24T08:43:51+00:00",
+          "resume": "Le secrétaire général de l'ONU António Guterres appelle les pays à créer en un an un cadre mondial pour gérer les risques de l'IA, avertissant qu'une supervision internationale est nécessaire pour que ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 7,
+          "motif": "Rapport AMF intègre IA, gouvernance d'entreprise, portée réglementaire",
+          "couverture": 1,
+          "titre": "L'IA, la cybersécurité et la géopolitique, ainsi que la parité dans les instances de gouvernance, au cœur de l’édition 2026 du rapport annuel de l’AMF sur le gouvernement d’entreprise",
+          "source": "AMF Autorité des marchés financiers",
+          "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPTTNDcXFCZndMOUFuV2l4Mk9VWHFfWHpYY0J2aVlNVDJLRXhRLTFVbXV6eTl1eUpSeE5adzNGNUhWa1FnUGtzS1RtZldlaGl4TFByeDFsWngwVnY2cDNNdUJ4TXZwWDZkWkZYMHVjNzd0cmY4QXJ4N0NyVFhUMU8zaTV3YnhfdmRWVjA3NlhtcnQ1LXg2LVRzeWs2dTBGOE40SGNyRm1rbG9MRzNWYjNIMkpweEU4cUpjdUNTMjZyWDRqUzVCWm51SjlLMkVxZXlqY1pJa3pZd2hENXg0dXlRZHRJa2d6Nm9rd1JKT29KY2dRV25YQ19rTUNsNEtHQ25SZHlEUGFkUXZ2czhhMk1n?oc=5",
+          "date": "2026-11-24T08:15:15+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Régulateur UK prépare cadre IA, importance réglementaire",
+          "couverture": 1,
+          "titre": "Le régulateur financier britannique entend fixer les attentes concernant l’IA agentique",
+          "source": "Zonebourse Suisse",
+          "lien": "https://www.zonebourse.com/actualite-bourse/le-regulateur-financier-britannique-entend-fixer-les-attentes-concernant-la-ia-agentique-ce7851dad08df320",
+          "date": "2026-11-24T08:36:50+00:00",
+          "resume": "Le régulateur britannique des services financiers, l’Autorité de conduite financière , a déclaré mardi qu’il soutenait l’adoption sûre de l’intelligence artificielle agentique au Royaume-Uni, ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Guidelines HAS/CNIL IA santé, cadre de déploiement",
+          "couverture": 1,
+          "titre": "Déploiement de l'IA en contexte de soins : la HAS et la Cnil guident les professionnels utilisateurs",
+          "source": "Éditions WEKA",
+          "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeHBsZ1RxX04tNnpTbU9RTGVpaWJEM2hTM2puVXFwamlCLVdXa0l1ejZ2S0t1WkYxSDduWkVlNXNpWEtQTXI5dlBDR1doMXNWV0h2OFdwWEQ1dzItcXl6QXEyQVVkM2VSRWFaRWhvWkU3bjI1S3hrOTBaVjZzYzFMTkt4R2hRYlZJSWxJZmZVeUtnS3BUTHNhalRJOHVjN2ZvdVFqRlMxX3RxNDFkajZJQ2gxaWxzc2k1TGxiV0tvMHNEODVSSkFpTjEyWDg2UHFQM1lfNGxabWFsX2tHZ21ibTY0S0s?oc=5",
+          "date": "2026-11-24T08:10:04+00:00",
+          "resume": "",
+          "titre_fr": ""
+        }
+      ]
+    },
+    {
+      "nom": "Applications et produits IA",
+      "resume": "Une vaste gamme d’applications concrètes de l’IA est présentée, des assistants vocaux personnalisés aux outils de traduction, en passant par les diagnostics médicaux, les agents conversationnels et les nouvelles architectures matérielles.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Essai clinique IA en dépistage du cancer, impact santé majeur",
+          "couverture": 1,
+          "titre": "Un vaste essai de dépistage du cancer du sein assisté par l'IA au Royaume-Uni",
+          "source": "VIDAL",
+          "lien": "https://www.vidal.fr/actualites/38635-un-vaste-essai-de-depistage-du-cancer-du-sein-assiste-par-l-ia-au-royaume-uni.html",
+          "date": "2026-11-24T09:20:20+00:00",
+          "resume": "Le service public de santé britannique (NHS) lance un vaste essai clinique de dépistage du cancer du sein assisté par l'IA auprès de 700 000 femmes dans le pays dans l'espoir d'une détection plus ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 7,
+          "motif": "Snowflake lance agents IA autonomes, innovation cloud majeure",
+          "couverture": 1,
+          "titre": "Snowflake lance des agents IA autonomes pour les entreprises",
+          "source": "Presse Agence",
+          "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbzJoNEg1ZHR6eWI5TVhqc044S0JJcHc1OVh1X1pKR3hQTXlRaXJPUmo2NDcxTVNiRFhhNjBkRTlmU0N0Z0YwUXo4N3dhcXNxcExCV2JBc3NoT2VwZjF0UTcyVHBhSHJOOE9SWjUzNWZuX0xLSEtzQUZuei1RWC10b3ZkY1ZlWWM2NXFyWlRwVkJod2NBbi1mY3I1XzhQSGpQNVpFOWpGaXhjZC1Ra0UwTzhyVzN1X1NFRm5WVWF6c0xrWEFtX2tMYnVsOA?oc=5",
+          "date": "2026-11-24T08:00:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Nouvelle fonctionnalité d'Anthropic, pertinence pour développeurs",
+          "couverture": 1,
+          "titre": "Anthropic lance Claude Ship pour automatiser la correction et la validation des pull requests",
+          "source": "Blog du Modérateur",
+          "lien": "https://www.blogdumoderateur.com/anthropic-lance-claude-ship/",
+          "date": "2026-11-24T09:43:10+00:00",
+          "resume": "Moins de temps passé sur les pull requests. C'est la promesse de Claude Ship, une suite d'agents IA lancés en bêta par Anthropic auprès des clients Team et Enterprise.",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Bon aperçu de gouvernance des données, utile aux entreprises",
+          "couverture": 1,
+          "titre": "Réduire les hallucinations de l'IA en entreprise : tout commence par les la qualité des données, la visibilité et la gouvernance",
+          "source": "JDN",
+          "lien": "https://www.journaldunet.com/cybersecurite/1558295-reduire-les-hallucinations-de-l-ia-en-entreprise-tout-commence-par-les-la-qualite-des-donnees-la-visibilite-et-la-gouvernance/",
+          "date": "2026-11-24T10:24:36+01:00",
+          "resume": "Un audit approfondi du système informatique de presque n'importe quelle entreprise réserve souvent quelques surprises.",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Datacenter IA nouvelle génération, impact infrastructure",
+          "couverture": 1,
+          "titre": "Cegedim ouvre EB6, un datacenter nouvelle génération pour l’IA et la haute densité",
+          "source": "DCmag",
+          "lien": "https://dcmag.fr/cegedim-ouvre-eb6-un-datacenter-nouvelle-generation-pour-lia-et-la-haute-densite/",
+          "date": "2026-11-24T08:20:00+00:00",
+          "resume": "Cegedim a annoncé la mise en service d’EB6, son 5ᵉ datacenter en France et le 4ᵉ détenu en propre. Implanté dans les Yvelines sur le site reconverti d’un ancien observatoire météorologique, ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Annonce fonctionnelle intéressante, pas de rupture majeure",
+          "couverture": 1,
+          "titre": "Gemini pourrait générer une voix d’assistant sur mesure à partir d’une description écrite",
+          "source": "Frandroid",
+          "lien": "https://www.frandroid.com/marques/google/3335909_gemini-pourrait-generer-une-voix-dassistant-sur-mesure-a-partir-dune-description-ecrite",
+          "date": "2026-11-24T09:43:13+00:00",
+          "resume": "Google veut en finir avec les voix classiques de Gemini. La firme de Mountain View travaille sur une fonctionnalité qui permettrait de créer une voix sur mesure à partir d'une simple description en langage naturel. De quoi rendre les interactions avec l'IA encore plus personnelles et renforcer le se",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Transformation de Chrome, mais encore conceptuel",
+          "couverture": 1,
+          "titre": "Google transforme son moteur de recherche en assistant personnel, avec vos données comme carburant",
+          "source": "Clubic",
+          "lien": "https://www.clubic.com/actualite-640747-google-transforme-son-moteur-de-recherche-en-assistant-personnel-avec-vos-donnees-comme-carburant.html",
+          "date": "2026-11-24T09:35:00+00:00",
+          "resume": "Google étend les connexions entre son Mode IA et vos applications pour enrichir ses réponses avec vos dépenses, vos documents et vos conversations Gemini. Une nouvelle étape vers un moteur de recherche qui connaît vos projets, à condition de lui en ouvrir l’accès.",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Comparaison Claude/ChatGPT, intérêt pour utilisateurs avancés",
+          "couverture": 1,
+          "titre": "Claude : ces nouveautés qui pourraient faire la différence face à ChatGPT",
+          "source": "Mac4Ever",
+          "lien": "https://www.mac4ever.com/ia/199237-claude-ces-nouveautes-qui-pourraient-faire-la-difference-face-a-chatgpt",
+          "date": "2026-11-24T10:25:00+01:00",
+          "resume": "Nouvelle étape dans le code ? Anthropic poursuit le développement de ses outils destinés aux programmeurs. L’entreprise vient de présenter Claude Ship, une nouvelle fonctionnalité capable de vérifier du code, de proposer des corrections et même d’approuver certaines modifications sans intervention h",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Lancement produit niche, intérêt limité",
+          "couverture": 1,
+          "titre": "Genspark lance SecondBrain VoicePad pour la dictée et les agents IA",
+          "source": "Unite.AI",
+          "lien": "https://www.unite.ai/fr/genspark-launches-secondbrain-voicepad-for-dictation-and-ai-agents/",
+          "date": "2026-11-24T09:20:03+00:00",
+          "resume": "Le 24 novembre 2026, Genspark a lancé SecondBrain VoicePad, un contrôleur de bureau à cinq touches pour Windows et macOS qui permet de dicter du texte, d’ouvrir des applications et de déclencher des f ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Test IA en urgences, première application locale",
+          "couverture": 1,
+          "titre": "PulseLife testera son assistant d'IA dans tous les services d'urgence de Lyon",
+          "source": "Quartz en Français",
+          "lien": "https://fr.qz.com/pulselife-testera-assistant-ia-urgences-lyon-2027-112426",
+          "date": "2026-11-24T09:10:19+00:00",
+          "resume": "Le projet, financé à hauteur de 1,34 million d'euros par l'État et la Région, associe les Hospices Civils de Lyon, IRIS et Datalyo",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Service de traduction IA, pertinence telecom grand public",
+          "couverture": 1,
+          "titre": "Free Mobile lance un service de traduction des appels avec des résumés IA par SMS",
+          "source": "Numerama",
+          "lien": "https://www.numerama.com/tech/2383301-free-mobile-lance-un-service-de-traduction-des-appels-avec-des-resumes-ia-par-sms.html",
+          "date": "2026-11-24T09:05:17+00:00",
+          "resume": "Free lance Traduction Live, un service de traduction vocale instantanée intégré directement à son réseau mobile. Il s'agit d'une nouveauté du forfait Free Max, qui traduit les appels dans 10 langues et peut envoyer après coup un résumé de la conversation rédigé par une IA. Un service de clonage de l",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "IA contre gaspillage alimentaire, application publique concrète",
+          "couverture": 1,
+          "titre": "La Borne Convive : réduire le gaspillage alimentaire par l'IA en cantine par Salon des Maires et des Collectivités",
+          "source": "Actu-Environnement",
+          "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb0dDVEdNR25uVFN4Wkk0TEpOWU5oMDJRc0dOeWFhMmJFNFBvcDdEZGpQbW5tRW80OXh2MUZYX2xFdVR0RDhnbEhSVmhsdV9PSzExUTFIc0JyMkNGa3R5NWpoODJiQmphLVBTcGJ3S3U3Y2thNDI2aUZ6WkhhMFl0WHVFQy01Q19CWHNGbDgtY0pKV3FPd1ZWaUdjek1vNm9LQjVoQXB3TzUyeFhrSzBqeE12QzNPdDdib0xHVGdzWjhiSnBwMHhyNV9B?oc=5",
+          "date": "2026-11-24T08:39:13+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Détection caries IA, pertinence dentaire mais niche",
+          "couverture": 1,
+          "titre": "Détection des caries par IA et partage d’images sécurisé : ce que VistaSoft 4.0 change au cabinet",
+          "source": "Dentaire365",
+          "lien": "https://www.dentaire365.fr/l-expo/a-decouvrir/durr-dental/detection-des-caries-par-ia-et-partage-dimages-securise-ce-que-vistasoft-4-0-change-au-cabinet/",
+          "date": "2026-11-24T08:30:38+00:00",
+          "resume": "Avec VistaSoft 4.0, Dürr Dental place l’intelligence artificielle au cœur du diagnostic et du partage d’images. VistaSoft AID signale automatiquement les zones suspectes de caries sur vos clichés intr ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Transformation RH avec IA, cas d'usage entreprise",
+          "couverture": 1,
+          "titre": "IA et dossiers RH : comment passer des documents dispersés aux usages concrets ?",
+          "source": "Archimag",
+          "lien": "https://www.archimag.com/demat-cloud/2026/11/24/ressources-humaines-ia-rh-contrats-documents",
+          "date": "2026-11-24T08:19:40+00:00",
+          "resume": "L’IA peut-elle simplifier la gestion des dossiers collaborateurs lorsque contrats, avenants et justificatifs restent dispersés ? Le 8 décembre à 11 h, un Focus de la rédaction d’Archimag, en partenari ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "IA contre gaspillage pharmaceutique, application santé concrète",
+          "couverture": 1,
+          "titre": "OptimPharma fait la chasse au gaspillage de médicaments grâce à l’IA",
+          "source": "Informateur Judiciaire",
+          "lien": "https://www.informateurjudiciaire.fr/actualites/optimpharma-fait-la-chasse-au-gaspillage-de-medicaments-grace-a-lia/",
+          "date": "2026-11-24T08:00:00+00:00",
+          "resume": "Fondée à Nantes par Soumeya Ben Aïssa, ancienne préparatrice en pharmacie hospitalière, la start-up OptimPharma développe une plateforme qui automatise la gestion des médicaments non administrés à l’h ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Lien Riemann/IA, plus conceptuel que appliqué",
+          "couverture": 1,
+          "titre": "IA et Riemann, quand l’intuition humaine rejoint la puissance des machines pour accélérer la science",
+          "source": "Atlantico",
+          "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZkp6UmxLb0dnazZjazV1OHBERUJQUlFEV1Z6ZC1vS09tZ1FHOW5EOGNBVGxpdUNLV0NVSHFBUUdsSVNMWm1Wd1VjTXNVVjlRbkpvamtqRThmUzZfQ0VnMU5fWXdkZExzOVhUQzhqVHBNUVJNRlZFUm1aOXdWMHFkRzI3alBWZy1FSDJmOGN0bEIxUk15TEhEQThMcEhQXzlYRjBNbUsyUzl3X0xOcU1FTXdnVzZqZUc5LTM4czZ4SXFrVjBMX05BaXZIVVI0NmtPUlE?oc=5",
+          "date": "2026-11-24T08:39:56+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Produit audio avec IA, intérêt gadget",
+          "couverture": 1,
+          "titre": "Ear (note) : Nothing dévoile un boîtier d’écouteurs avec dictaphone IA",
+          "source": "KultureGeek",
+          "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdF9yVEppWDJUdEZ6ODMxVEpNYlVzQzFtZjd0YWxUWjNzSk5ieHF0QW1pamw5Y2JKSEduR2QteGlJZUQtN3h3NXNidkhLVHZYc0NPRVoySTBFODhGZlR6X0xzTXBENTNDSFNmU2Y0QU5USkpZNkt1OTFScmxocEVCbkJuUFVOckNzSy1wT0V4T1hCaGJTWGpr?oc=5",
+          "date": "2026-11-24T08:21:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Certification IA mode, niche sectoriel",
+          "couverture": 1,
+          "titre": "MOD'SPE Paris : une certification IA pour les futurs experts de la mode",
+          "source": "Presse Agence",
+          "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTVFYQUllVndIRHZnd2ZSNVZ6V1JHS0lTbzR0dDkwNzBFb0I5V2J0dGhfeWg2TEZSZGpUS005eGtldm9PR1IzMlgtLTNLVWRwd0JMVmZCUkt1ZTRzRmZLN3l0S3ZEaUVaUjdJRG5JeGl3VTczNTRGbV90c1k5eVlVNWhGajVKMWxqYnBIVHE2UklRMWJtZVNtUnpKSXRSOWwxeWlNYUljNHFNUEloSlpHdXpqd3BHZw?oc=5",
+          "date": "2026-11-24T08:00:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 3,
+          "motif": "Consultation citoyenne culturelle, peu lié IA technique",
+          "couverture": 1,
+          "titre": "Face à l’essor des IA, le monde de la culture lance une grande consultation citoyenne",
+          "source": "idboox",
+          "lien": "https://www.idboox.com/news-livres/face-a-lessor-des-ia-le-monde-de-la-culture-lance-une-grande-consultation-citoyenne/",
+          "date": "2026-11-24T08:30:15+00:00",
+          "resume": "Chacun est invité à partager ses propositions et à voter pour défendre l’avenir des œuvres humaines face aux contenus générés par l’IA.",
+          "titre_fr": ""
+        },
+        {
+          "note": 3,
+          "motif": "Opinion d'artiste, IA comme sujet de débat culturel",
+          "couverture": 1,
+          "titre": "Vianney va se mettre le showbiz à dos : pour le chanteur, l’IA serait meilleure que \"90% des auteurs-compositeurs\"",
+          "source": "Yahoo Actualités",
+          "lien": "https://www.msn.com/fr-fr/divertissement/musique/vianney-va-se-mettre-le-showbiz-%C3%A0-dos-pour-le-chanteur-l-ia-serait-meilleure-que-90-des-auteurs-compositeurs/ar-AA2i6T72",
+          "date": "2026-11-24T08:30:03+00:00",
+          "resume": "Invité du podcast Aura, Vianney refuse de rejeter l'intelligence artificielle en bloc et admet qu'elle change déjà la façon dont on écoute la musique.",
+          "titre_fr": ""
+        }
+      ]
+    },
+    {
+      "nom": "Enjeux sociétaux et éthiques de l’IA",
+      "resume": "Ces titres soulignent les préoccupations liées à la vie privée, aux risques de fraude, à l’impact sur l’emploi et aux influences culturelles ou médiatiques de l’IA.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Pression réglementaire sur gros e‑commerce, impact sociétal notable",
+          "couverture": 2,
+          "titre": "Associations et experts exhortent Amazon et eBay à retirer les jouets dotés de chatbots IA",
+          "source": "Next",
+          "lien": "https://next.ink/269533/associations-et-experts-exhortent-amazon-et-ebay-a-retirer-les-jouets-dotes-de-chatbots-ia/",
+          "date": "2026-11-24T09:40:00+00:00",
+          "resume": "Une coalition d’associations et d’experts appelle Amazon et eBay à retirer de leurs étals virtuels les jouets pour enfants intégrant des mécaniques de conversation avec un chatbot IA, au nom du principe de précaution. Ils dénoncent la prolifération de jouets bon marché, peu ou pas testés avant leur ",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Lien puces/auto, pertinence industrielle mais pas de rupture",
+          "couverture": 1,
+          "titre": "Pénurie de puces : l'IA menace-t-elle la production automobile ?",
+          "source": "Auto Plus",
+          "lien": "https://www.autoplus.fr/actualite/penurie-de-puces-lia-menace-t-elle-la-production-automobile-1478434.html",
+          "date": "2026-11-24T09:17:00+00:00",
+          "resume": "L'industrie automobile a déjà payé cher la pénurie de semi-conducteurs de 2020-2022, mais elle pourrait en connaître une seconde, avec un coupable inattendu : l'intelligence artificielle. La demande d ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Triche IA aux examens, enjeu éducatif international",
+          "couverture": 1,
+          "titre": "Corée du Sud : la triche à l'IA aux examens met tout un pays sous surveillance",
+          "source": "Radio France",
+          "lien": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbUViR3FlMHJQZHV0YlU5YncxZndqekxkbGJlQm43QlU1VkdVV1UxQUY0UTlQSHo3bnFKR1daTzVJdmd1b0VzdmoyV0NkUVl0cEVMX0tpblYxNlBOdEVqYU9DUWpiMkdFOFM3SkNLbDJpRnp0TDhxRTlhNG1UcHdPLTM1emNEVlpLUHhsYlVoeGhCRDBlNjdnSHJ5U2NKdzI5TllLWnJnUjJLYXJGWFgxRUlOX1o1TVlpbFpRYm5HZ1pBLUFHM2M2RHlQR3I4ZmdfY0xmUmtqalFuVjF5T050V1NieTlQYkE?oc=5",
+          "date": "2026-11-24T07:52:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Préoccupation interne, anecdote d'entreprise",
+          "couverture": 1,
+          "titre": "Muse : des employés de Meta s’inquiètent des risques pour la vie privée de l’agent IA",
+          "source": "BlogNT",
+          "lien": "https://www.blog-nouvelles-technologies.fr/394743/muse-risques-vie-privee-reuters/",
+          "date": "2026-11-24T09:30:00+00:00",
+          "resume": "L’agent IA de Meta, Muse, est au cœur de la stratégie de l’entreprise dans l’intelligence artificielle. Lancé en septembre 2026, il a déjà dépassé les 10 millions de téléchargements, et Meta compte sur lui pour générer des revenus se chiffrant en milliards. Mais en interne, certains employés s’alarm",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Étude comportementale, intérêt marketing limité",
+          "couverture": 1,
+          "titre": "Commerce agentique : l’IA signe-t-elle la fin de l’achat d’impulsion ? 60% des utilisateurs d’assistants IA font moins d’achat sur un coup de tête",
+          "source": "viuz.com",
+          "lien": "https://www.mntd.fr/commerce-agentique-lia-signe-t-elle-la-fin-de-lachat-dimpulsion/",
+          "date": "2026-11-24T08:42:31+00:00",
+          "resume": "L’IA accompagne déjà les Français dans leurs achats, de la recherche de produits à la comparaison des prix et à la consultation des avis. Avec l’arrivée du commerce agentique, elle peut désormais alle ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Intégration TMS IA, intérêt logistique mais limité",
+          "couverture": 1,
+          "titre": "Shiptify connecte son TMS aux IA d’entreprise",
+          "source": "FAQ Logistique",
+          "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0JpUnRuT0hldEx1MHFlVUdvam9MZXd6VVZfUlo1NFVPZ0RicGpWOC1jYjZlZWdRdVlNWVc5dnYwcHphQ0VJWi11VFMwR1FUMG9CT01ZbWo5bnpxemM2ckF2OUc1YjZIQndoMV8yNU53TXZPaHR6RUxjZ1padHNlN1JiNWk3TXBLNEZ0Z21XZkRMdTc1X05uSlYzRjhpZVg3?oc=5",
+          "date": "2026-11-24T08:07:07+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 3,
+          "motif": "Cas d'usage marginal, plus sensationnel que technique",
+          "couverture": 1,
+          "titre": "Nourriture avariée, insectes sur la table, faux justificatifs de paiement : arnaque au restaurant, des clients malhonnêtes utilisent l'IA pour ne plus payer l'addition",
+          "source": "L'Indépendant",
+          "lien": "https://www.lindependant.fr/2026/11/24/nourriture-avariee-insectes-sur-la-table-faux-justificatifs-de-paiement-arnaque-au-restaurant-des-clients-malhonnetes-utilisent-lia-pour-ne-plus-payer-13668506.php",
+          "date": "2026-11-24T09:24:00+00:00",
+          "resume": "En Espagne, l'hôtellerie et la restauration tirent la sonnette d'alarme face aux abus liés à l'intelligence artificielle. Des vidéos truquées et des documents falsifiés ont permis à des clients de ten ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 3,
+          "motif": "Réflexion sur métiers manuels, plus sociétal que technique",
+          "couverture": 1,
+          "titre": "\"Avant de pouvoir remplacer un boucher, il va falloir du temps !\" L’émergence de l’intelligence artificielle, une opportunité pour les métiers manuels",
+          "source": "Centre Presse Aveyron",
+          "lien": "https://www.centrepresseaveyron.fr/2026/11/24/avant-de-pouvoir-remplacer-un-boucher-il-va-falloir-du-temps-lemergence-de-lintelligence-artificielle-une-opportunite-pour-les-metiers-manuels-13661244.php",
+          "date": "2026-11-24T08:01:00+00:00",
+          "resume": "Amenée à révolutionner le monde du travail, l’IA pourrait redonner un gain d’attractivité à des métiers boudés aujourd’hui, qui ne seront pas encore menacés par un outil numérique plus productif que l ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 2,
+          "motif": "Article ludique, peu de profondeur IA",
+          "couverture": 1,
+          "titre": "L'expresso : Fast food, l'IA en rajoute une couche et la magie de Noël a des limites !",
+          "source": "TF1 Info",
+          "lien": "https://www.tf1.fr/tf1/bonjour-la-matinale-tf1/videos/lexpresso-fast-food-lia-en-rajoute-une-couche-et-la-magie-de-noel-a-des-limites_xt-20261124-9193.html",
+          "date": "2026-11-24T08:05:14+00:00",
+          "resume": "[VIDÉO] extract en streaming sur TF1+ ▶️ 146 - Karim Bennani revient sur une anecdote amusante entre un ancien employé d'une grande chaîne de fast food et un assitant IA. Maud Descamps évoque ensuite ...",
+          "titre_fr": ""
+        }
+      ]
+    },
+    {
+      "nom": "Autres articles",
+      "resume": "",
+      "articles": [
+        {
+          "note": 6,
+          "motif": "Article dense mais mélange sujets, impact limité à un public technique",
+          "couverture": 1,
+          "titre": "ZDNET Morning 24/11/2026 : Influence politique derrière la réintégration de Jensen Huang, Rétention cognitive et usage des IA, Google Chrome : six réglages clés pour la sécurité,...",
+          "source": "ZDNet",
+          "lien": "https://www.zdnet.fr/actualites/zdnet-morning-24-11-2026-influence-politique-derriere-la-reintegration-de-jensen-huang-retention-cognitive-et-usage-des-ia-google-chrome-six-reglages-cles-pour-la-securite-508481.htm#xtor=RSS-1",
+          "date": "2026-11-24T10:11:27+00:00",
+          "resume": "Le ZDNET Morning le brief de l'actu tech pour les pros tous les matins à 9h00. Transformation numérique, IA, matériel, logiciels,... ne passez pas à côté de ce qui fait la Une du secteur.",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Stratégie Nvidia, lancement d'architectures, impact secteur",
+          "couverture": 1,
+          "titre": "Pour conserver sa longueur d'avance en matière technologique, Nvidia multiplie les lancements de nouvelles architectures",
+          "source": "Investir Les Echos",
+          "lien": "https://investir.lesechos.fr/conseils-boursiers/conseils-actions/pour-conserver-sa-longueur-davance-en-matiere-technologique-nvidia-multiplie-les-lancements-de-nouvelles-architectures-2264261",
+          "date": "2026-11-24T09:01:17+00:00",
+          "resume": "Le numéro un mondial des processeurs graphiques continue de dominer le marché des centres de données en raison de son avance technologique. Avec près de 90 % de parts de marché, ses puces pour centres ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Analyse risques IA finance, sujet crucial pour régulation",
+          "couverture": 1,
+          "titre": "IA et données sensibles : les enjeux pour la finance",
+          "source": "EY",
+          "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT1B3VFVuYWpuRUpUbFBuRXM2WDN6WWU1bUFQbjMtZUF5clU5X0RPRWJVblRaeUttVnhZX3JfX2FWOEJ1U29JOHhncVY2dDU2X0laSUw0YnUzV2lDLVRCYVpCMFI3d0JOXzh6RmpuSTl4ZkRMTng1eDFuenhvRHB4MVAwT0xocDBOYUpvc3dwSS1CZlhUcXQ0aXNsVQ?oc=5",
+          "date": "2026-11-24T08:58:56+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Démo robotique, montre capacité IA mais usage restreint",
+          "couverture": 1,
+          "titre": "ASRock Industrial associe deux bras robotisés à un mini-PC Intel pour entraîner leur IA",
+          "source": "Pause Hardware",
+          "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcGNSTWo1bWdueHg1ZmV5WURWQ1E4SnBTTXdyWHNfVUZrOHZkNWRkWS03T0h3WUFWNWVhZVlDMVlJLThMY1h6OE12STNjZWlJMUVidzF4VW90cFc3WWdDY2NBLUJFQzhXTkctNVU3UjdXUi1HdGUzNnNHcmxGUFlTR3FnOWJLUHFv?oc=5",
+          "date": "2026-11-24T09:12:06+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Lien macro‑économie/IA, peu de nouveauté concrète",
+          "couverture": 1,
+          "titre": "Le dollar progresse, l’euphorie renouvelée autour de l’intelligence artificielle alimentant les anticipations de relèvement des taux de la Réserve fédérale",
+          "source": "Zonebourse Suisse",
+          "lien": "https://www.zonebourse.com/actualite-bourse/le-dollar-progresse-la-euphorie-renouvelee-autour-de-la-intelligence-artificielle-alimentant-les-ce7851dad081f224",
+          "date": "2026-11-24T09:32:15+00:00",
+          "resume": "Le dollar s’est négocié mardi à son plus haut niveau depuis près de deux ans, soutenu par le retour de Jensen Huang au poste de directeur général de Nvidia, ce qui a relancé le mouvement haussier de..",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Avertissement de Meta, plus opinion que fait concret",
+          "couverture": 2,
+          "titre": "“La superintelligence arrive” : pourquoi l'avertissement du chef de l'IA de Meta agace au plus haut point",
+          "source": "Clubic",
+          "lien": "https://www.clubic.com/actualite-640708-la-superintelligence-arrive-pourquoi-l-avertissement-du-chef-de-l-ia-de-meta-agace-au-plus-haut-point.html",
+          "date": "2026-11-24T09:19:00+00:00",
+          "resume": "Alexandr Wang, le patron de l’intelligence artificielle chez Meta, prévient que la superintelligence est en route et que l’humanité pourrait en perdre le contrôle. Un cri d’alarme qui ne passe pas.",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Étude d'influence, plus sociologique que technologique",
+          "couverture": 1,
+          "titre": "Dans les réponses des IA, les influenceurs pèsent bien plus que la publicité, selon Kolsquare",
+          "source": "INfluencia",
+          "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObVNYTmdsOHh2cmhBMWs1V19FNFNEYlpBY2lIaWUyVk5kcnZLd2tZbjBORjN4NUt5Q3dmSjJYUWFPNVV2SVVPdzJldEFUanh2Y0VwYXBJeHppZWM1aTY5Z2Y5R3ZaTkFIODBjd0Q4R2ZZUDdzUkhyN1RpWFYxQzh3UlgySElQdjg3R2c?oc=5",
+          "date": "2026-11-24T09:06:41+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Prévision macro, IA en facteur mais pas d'événement nouveau",
+          "couverture": 1,
+          "titre": "Singapour relève encore ses prévisions de croissance, grâce à la demande d'IA",
+          "source": "TradingView",
+          "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wczRldVFjbEpkRmVmeDJXSUF0eEZPSjVwUWRrbmpVMVpYMzhMMUR6SFBvUzdKUHZvM3lTVzBhWjZacGhxb2tST0w1b2F6bkpqSXZCX2JOWFBMZ2xsOElYYW9B?oc=5",
+          "date": "2026-11-24T08:58:40+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 3,
+          "motif": "Curiosité mathématique, peu d'enjeu IA réel",
+          "couverture": 1,
+          "titre": "[Màj] Hypothèse de Riemann : le chercheur d’Anthropic reconnaît une « blague »",
+          "source": "Next",
+          "lien": "https://next.ink/269118/hypothese-de-riemann-une-preuve-generee-par-ia-est-elle-utile-aux-mathematiciens/",
+          "date": "2026-11-24T09:04:45+00:00",
+          "resume": "Deux mathématiciens ont publié des propositions de preuve d’une conjecture des plus classiques des mathématiques : l’hypothèse de Riemann. L’un, Alessandro Maria Masullo, sans l’aide de l’IA, a mis en ligne un manuscrit de 940 pages expliquant sa démonstration. L’autre, Levent Alpöge, mathématicien ",
+          "titre_fr": ""
+        }
+      ]
+    }
+  ],
+  "ecartes": [
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Règlementation : les entreprises doivent intégrer les contraintes dès la conception de leurs systèmes IT",
+      "source": "Le Monde Informatique",
+      "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/reglementation-les-entreprises-doivent-integrer-les-contraintes-des-la-conception-de-leurs-systemes-it",
+      "date": "2026-11-24T09:30:57+00:00",
+      "resume": "Avec l'accumulation des réglementations européennes, de l'IA Act à NIS 2 en passant par le RGPD et DORA, la conformité devient un enjeu structurant pour les directions IT. Lors d'une conférence organisée au TechShow Paris le 18 novembre, trois intervenants ont plaidé pour une approche intégrée dès l",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "« Bientôt remplacé par l’IA ? » : le nouvel outil mordant du trublion Vincent Flibustier",
+      "source": "Android MT",
+      "lien": "https://android-mt.ouest-france.fr/news/bientot-remplace-par-lia-le-nouvel-outil-mordant-du-trublion-vincent-flibustier/231972/",
+      "date": "2026-11-24T08:50:28+00:00",
+      "resume": "Connu pour ses canulars viraux et son site parodique Nordpresse, l’influenceur et formateur belge Vincent Flibustier s’attaque désormais à l’intelligence artificielle. Avec son nouveau simulateur web ...",
+      "titre_fr": ""
+    }
+  ],
+  "top": [
+    {
+      "note": 8,
+      "motif": "Retour de Jensen Huang booste marché boursier IA, forte portée financière",
+      "couverture": 2,
+      "titre": "Nvidia : le retour de Jensen Huang relance la machine boursière de l'IA",
+      "source": "Le Revenu",
+      "lien": "https://www.lerevenu.com/actualite-economique/monde/nvidia-le-retour-de-jensen-huang-relance-la-machine-boursiere-de-l-ia",
+      "date": "2026-11-24T09:35:54+00:00",
+      "resume": "Le retour surprise de Jensen Huang à la tête de Nvidia a déclenché un puissant rebond des valeurs technologiques. Un soulagement pour un secteur fragilisé par les doutes sur la rentabilité des investissements d…",
+      "titre_fr": ""
+    },
+    {
+      "note": 7,
+      "motif": "Pression réglementaire sur gros e‑commerce, impact sociétal notable",
+      "couverture": 2,
+      "titre": "Associations et experts exhortent Amazon et eBay à retirer les jouets dotés de chatbots IA",
+      "source": "Next",
+      "lien": "https://next.ink/269533/associations-et-experts-exhortent-amazon-et-ebay-a-retirer-les-jouets-dotes-de-chatbots-ia/",
+      "date": "2026-11-24T09:40:00+00:00",
+      "resume": "Une coalition d’associations et d’experts appelle Amazon et eBay à retirer de leurs étals virtuels les jouets pour enfants intégrant des mécaniques de conversation avec un chatbot IA, au nom du principe de précaution. Ils dénoncent la prolifération de jouets bon marché, peu ou pas testés avant leur ",
+      "titre_fr": ""
+    },
+    {
+      "note": 7,
+      "motif": "Essai clinique IA en dépistage du cancer, impact santé majeur",
+      "couverture": 1,
+      "titre": "Un vaste essai de dépistage du cancer du sein assisté par l'IA au Royaume-Uni",
+      "source": "VIDAL",
+      "lien": "https://www.vidal.fr/actualites/38635-un-vaste-essai-de-depistage-du-cancer-du-sein-assiste-par-l-ia-au-royaume-uni.html",
+      "date": "2026-11-24T09:20:20+00:00",
+      "resume": "Le service public de santé britannique (NHS) lance un vaste essai clinique de dépistage du cancer du sein assisté par l'IA auprès de 700 000 femmes dans le pays dans l'espoir d'une détection plus ...",
+      "titre_fr": ""
+    },
+    {
+      "note": 7,
+      "motif": "Appel de Guterres à cadre mondial IA, enjeu géopolitique majeur",
+      "couverture": 1,
+      "titre": "Guterres presse les États de créer en un an un cadre mondial de sécurité de l’IA",
+      "source": "Yahoo Actualités",
+      "lien": "https://www.msn.com/fr-fr/actualite/other/guterres-presse-les-%C3%A9tats-de-cr%C3%A9er-en-un-an-un-cadre-mondial-de-s%C3%A9curit%C3%A9-de-l-ia/ar-AA2i6kAT",
+      "date": "2026-11-24T08:43:51+00:00",
+      "resume": "Le secrétaire général de l'ONU António Guterres appelle les pays à créer en un an un cadre mondial pour gérer les risques de l'IA, avertissant qu'une supervision internationale est nécessaire pour que ...",
+      "titre_fr": ""
+    },
+    {
+      "note": 7,
+      "motif": "Rapport AMF intègre IA, gouvernance d'entreprise, portée réglementaire",
+      "couverture": 1,
+      "titre": "L'IA, la cybersécurité et la géopolitique, ainsi que la parité dans les instances de gouvernance, au cœur de l’édition 2026 du rapport annuel de l’AMF sur le gouvernement d’entreprise",
+      "source": "AMF Autorité des marchés financiers",
+      "lien": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPTTNDcXFCZndMOUFuV2l4Mk9VWHFfWHpYY0J2aVlNVDJLRXhRLTFVbXV6eTl1eUpSeE5adzNGNUhWa1FnUGtzS1RtZldlaGl4TFByeDFsWngwVnY2cDNNdUJ4TXZwWDZkWkZYMHVjNzd0cmY4QXJ4N0NyVFhUMU8zaTV3YnhfdmRWVjA3NlhtcnQ1LXg2LVRzeWs2dTBGOE40SGNyRm1rbG9MRzNWYjNIMkpweEU4cUpjdUNTMjZyWDRqUzVCWm51SjlLMkVxZXlqY1pJa3pZd2hENXg0dXlRZHRJa2d6Nm9rd1JKT29KY2dRV25YQ19rTUNsNEtHQ25SZHlEUGFkUXZ2czhhMk1n?oc=5",
+      "date": "2026-11-24T08:15:15+00:00",
+      "resume": "",
+      "titre_fr": ""
+    }
+  ],
+  "articles_notes": 50,
+  "liens_google": 15,
+  "videos": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "UBISOFT LICENCIE… MAIS CRÉE UNE FILIALE ENTIÈREMENT DÉDIÉE À L'IA !",
+        "source": "Lusty",
+        "lien": "https://www.youtube.com/watch?v=5rLTYtduZZ8",
+        "date": "2026-11-24T08:00:35Z",
+        "image": "https://i.ytimg.com/vi/5rLTYtduZZ8/mqdefault.jpg",
+        "extrait": "UBISOFT MISE TOUT SUR L'INTELLIGENCE ARTIFICIELLE ?!** Alors que l'éditeur français traverse une crise majeure, entre ...",
+        "description": "Ubisoft crée une filiale entièrement dédiée à l'intelligence artificielle, marquant un virage stratégique majeur pour l'éditeur français."
+      },
+      {
+        "titre": "L’IA va SUPPRIMER nos emplois ? Le revenu universel arrive ?",
+        "source": "Kurious Anima 2.0",
+        "lien": "https://www.youtube.com/watch?v=0rla080UBdo",
+        "date": "2026-11-24T08:00:17Z",
+        "image": "https://i.ytimg.com/vi/0rla080UBdo/mqdefault.jpg",
+        "extrait": "L'intelligence artificielle pourrait-elle provoquer la disparition de centaines de millions d'emplois ? Et si le revenu universel ...",
+        "description": "Analyse de l'impact potentiel de l'IA sur l'emploi, avec la question du revenu universel comme réponse aux suppressions massives de postes."
+      },
+      {
+        "titre": "Pascal Agboyibor : \"L’intelligence artificielle ne peut pas remplacer le réseau…\"",
+        "source": "Forbes Afrique",
+        "lien": "https://www.youtube.com/watch?v=7hwwHGozUb0",
+        "date": "2026-11-24T07:43:16Z",
+        "image": "https://i.ytimg.com/vi/7hwwHGozUb0/mqdefault.jpg",
+        "extrait": "IA et emploi des jeunes : Pascal Agboyibor s'interroge L'intelligence artificielle peut-elle remplacer le réseau et transformer les ...",
+        "description": "Interview de Pascal Agboyibor sur les limites de l'IA pour remplacer le réseau humain et son rôle dans l'emploi des jeunes."
+      },
+      {
+        "titre": "L'IA combat l'IA : la défense ultime contre les cyberattaques ! #shorts",
+        "source": "Le Panier - Laurent Kretz",
+        "lien": "https://www.youtube.com/watch?v=-Mug_EeP860",
+        "date": "2026-11-24T03:00:37Z",
+        "image": "https://i.ytimg.com/vi/-Mug_EeP860/mqdefault.jpg",
+        "extrait": "L'intelligence artificielle peut aussi protéger contre les cyberattaques qu'elle contribue à générer. Découvrez comment l'IA ...",
+        "description": "Présentation de l'utilisation de l'IA comme défense contre les cyberattaques qu'elle contribue elle‑même à générer."
+      },
+      {
+        "titre": "OpenAI Declares War On Self-Improving AI... Something Is Wrong",
+        "source": "AI Revolution",
+        "lien": "https://www.youtube.com/watch?v=HbosmW-RS-U",
+        "date": "2026-11-24T01:22:48Z",
+        "image": "https://i.ytimg.com/vi/HbosmW-RS-U/mqdefault.jpg",
+        "extrait": "OpenAI just revealed the private scale it uses to measure AI intelligence, and its chief scientist warns self-improving AI could ...",
+        "description": "OpenAI alerte sur les risques des IA auto‑améliorantes et dévoile son système privé de mesure de l'intelligence artificielle."
+      },
+      {
+        "titre": "IA en entreprise : pourquoi la tech doit s’adapter aux utilisateurs",
+        "source": "tech 45'",
+        "lien": "https://www.youtube.com/watch?v=zyZATNi4g4w",
+        "date": "2026-11-23T21:03:24Z",
+        "image": "https://i.ytimg.com/vi/zyZATNi4g4w/mqdefault.jpg",
+        "extrait": "Pour transformer une entreprise en profondeur, l'IA doit rejoindre les utilisateurs là où ils travaillent. La technologie s'adapte à ...",
+        "description": "Discussion sur la nécessité d'adapter les solutions d'IA aux utilisateurs pour réussir leur intégration en entreprise."
+      },
+      {
+        "titre": "Les Experts du Sud/Intelligence artificielle : Marseille est-elle attractive pour les ingénieurs ?",
+        "source": "BFM Locales",
+        "lien": "https://www.youtube.com/watch?v=4U3-dNRpwZM",
+        "date": "2026-11-23T19:10:09Z",
+        "image": "https://i.ytimg.com/vi/4U3-dNRpwZM/mqdefault.jpg",
+        "extrait": "Les Experts du Sud/Intelligence artificielle : Marseille est-elle attractive pour les ingénieurs ?",
+        "description": "Débat sur l'attractivité de Marseille pour les ingénieurs spécialisés en intelligence artificielle."
+      },
+      {
+        "titre": "Le plus grand problème de mathématiques a été résolu par une IA...",
+        "source": "France Inter",
+        "lien": "https://www.youtube.com/watch?v=1kN8Nfqbrbk",
+        "date": "2026-11-23T18:15:18Z",
+        "image": "https://i.ytimg.com/vi/1kN8Nfqbrbk/mqdefault.jpg",
+        "extrait": "Posée en 1859 et mise à prix un million de dollars, l'hypothèse de Riemann résistait aux plus grands mathématiciens.",
+        "description": "Reportage sur la résolution de l'hypothèse de Riemann par une IA, un problème mathématique majeur depuis 1859."
+      },
+      {
+        "titre": "Claude vient de résoudre un mystère des trous noirs",
+        "source": "Nerdy Kings",
+        "lien": "https://www.youtube.com/watch?v=xtA6J2yV7vo",
+        "date": "2026-11-23T17:15:15Z",
+        "image": "https://i.ytimg.com/vi/xtA6J2yV7vo/mqdefault.jpg",
+        "extrait": "Claude vient de proposer une solution à un problème de physique théorique sur les trous noirs, resté ouvert pendant 23 ans.",
+        "description": "Claude d'Anthropic propose une solution à un mystère de trous noirs, ouvrant de nouvelles perspectives en physique théorique."
+      },
+      {
+        "titre": "L’IA a résolu l’énigme de Riemann et c’est COMPLÈTEMENT FOU ! 🤯",
+        "source": "L'Œil IA",
+        "lien": "https://www.youtube.com/watch?v=Hd6OaJtNwyo",
+        "date": "2026-11-23T16:45:31Z",
+        "image": "https://i.ytimg.com/vi/Hd6OaJtNwyo/mqdefault.jpg",
+        "extrait": "L'IA Claude d'Anthropic aurait RÉSOLU l'hypothèse de Riemann, l'une des plus grandes énigmes mathématiques de l'histoire !",
+        "description": "L'IA Claude d'Anthropic aurait résolu l'hypothèse de Riemann, une avancée scientifique décrite comme « complètement folle »."
+      }
+    ]
+  },
+  "podcasts": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "75. Qui captera la valeur à l'ère de l'IA ? - Augustin Manchon",
+        "source": "Les dessous de l'IA",
+        "lien": "https://podcasts.apple.com/fr/podcast/75-qui-captera-la-valeur-%C3%A0-l%C3%A8re-de-lia-augustin-manchon/id1785184709?i=1000803747232&uo=4",
+        "date": "2026-11-24T08:21:31+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/16/e2/a616e2b0-f061-8fa1-8075-a00ba4d1b016/mza_6502112437016984568.jpeg/160x160bb.jpg",
+        "duree_min": 56,
+        "extrait": "Thématique IA & valeur Résumé de l’épisode Pendant des siècles, le prix s’est négocié face à face. Puis sont venus l’étiquette des grands magasins, le yield management des compagnies aériennes et les prix ajustés en ligne. Avec l’IA",
+        "description": "Analyse de la capture de valeur à l’ère de l’IA, en s’appuyant sur l’exemple d’Augustin Manchon et les dynamiques économiques autour du prix."
+      },
+      {
+        "titre": "🧠 « La superintelligence est déjà là » : il ouvre la boîte noire de l'IA – Raphaël Sarfati",
+        "source": "Comptoir IA 🎙️🧠🤖",
+        "lien": "https://podcasts.apple.com/fr/podcast/la-superintelligence-est-d%C3%A9j%C3%A0-l%C3%A0-il-ouvre-la-bo%C3%AEte/id1668340815?i=1000803742714&uo=4",
+        "date": "2026-11-24T08:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/e6/5d/fde65d26-6222-da9e-3ab5-cb839f4bafcf/mza_2090702289767489756.jpeg/160x160bb.jpg",
+        "duree_min": 65,
+        "extrait": "🧠 « La superintelligence, elle est déjà là » : à San Francisco, Raphaël Sarfati ouvre la boîte noire de l'IA. J'ai rencontré Raphaël en octobre à San Francisco. Il m'a reçu chez Goodfire, au Levi's Plaza, et il est venu parler à notre",
+        "description": "Interview de Raphaël Sarfati qui explore l’idée que la superintelligence est déjà présente et ouvre la « boîte noire » de l’IA à San Francisco."
+      },
+      {
+        "titre": "IA au Carré #139 — 24/11/2026",
+        "source": "IA au Carré",
+        "lien": "https://podcasts.apple.com/fr/podcast/ia-au-carr%C3%A9-139-24-11-2026/id6811619842?i=1000803738882&uo=4",
+        "date": "2026-11-24T07:30:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/f7/40/05f74002-af64-cc44-e433-8d7f875d52bf/mza_9833984748424764267.jpg/160x160bb.jpg",
+        "duree_min": 15,
+        "extrait": "Au programme : internet agentique, cybersécurité offensive et défensive, framework Shirudo. 📰 Sources : Journal of Management Information Systems | Georgia Tech Research News Center | Microsoft Community Hub | Emergent.sh | Blog technique (Kuna",
+        "description": "Épisode dédié à l’internet agentique, à la cybersécurité offensive et défensive ainsi qu’au framework Shirudo."
+      },
+      {
+        "titre": "Microsoft Secure Score élevé mais vulnérable ? Pourquoi le pourcentage trompe et ce qui protège vraiment (Doublage IA)",
+        "source": "M365.FM – Podcast Microsoft 365, Copilot & IA en français",
+        "lien": "https://podcasts.apple.com/fr/podcast/microsoft-secure-score-%C3%A9lev%C3%A9-mais-vuln%C3%A9rable-pourquoi/id6833394593?i=1000803734840&uo=4",
+        "date": "2026-11-24T07:05:09+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d0/02/bf/d002bf5d-b179-8c9a-69cf-4334c74bf2af/mza_6745675676914799882.jpg/160x160bb.jpg",
+        "duree_min": 79,
+        "extrait": "Un Microsoft Secure Score élevé ressemble à une bonne note, mais il ne mesure que la configuration, pas les attaques bloquées. Cet épisode montre pourquoi un tenant à 80 % peut tout de même être compromis via une boîte aux lettres, et comment u",
+        "description": "Discussion sur les limites du Microsoft Secure Score, qui ne reflète pas les attaques bloquées et peut masquer des vulnérabilités malgré un pourcentage élevé."
+      },
+      {
+        "titre": "24 NOV - Nvidia de retour, les marchés s'envolent",
+        "source": "Glaneur - Intelligence Artificielle",
+        "lien": "https://podcasts.apple.com/fr/podcast/24-nov-nvidia-de-retour-les-march%C3%A9s-senvolent/id6782670612?i=1000803719966&uo=4",
+        "date": "2026-11-24T07:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/88/1c/ef/881cef1b-fad2-52f7-3d77-2c92c12da024/mza_13461851867480446149.png/160x160bb.jpg",
+        "duree_min": 2,
+        "extrait": "Au sommaire : Nvidia de retour, les marchés s'envolent - ActuIA OpenAI publie ses données de perplexité - The Decoder Supertake lève 20 M$ pour des agents financiers - AI News & Artificial Intelligence | TechCrunch Claude Ship : agents de",
+        "description": "Actualités IA : retour de Nvidia, données de perplexité d’OpenAI, levée de fonds de The Decoder pour des agents financiers, et autres infos du secteur."
+      },
+      {
+        "titre": "Capsule 173 — Comment mesurer et communiquer les bénéfices concrets de l'IA à vos équipes",
+        "source": "Le Brief IA",
+        "lien": "https://podcasts.apple.com/fr/podcast/capsule-173-comment-mesurer-et-communiquer-les-b%C3%A9n%C3%A9fices/id1827674786?i=1000803729321&uo=4",
+        "date": "2026-11-24T06:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/79/c2/7279c243-8a89-2d21-bdda-3d94a4d62796/mza_17158553724733680146.jpg/160x160bb.jpg",
+        "duree_min": 4,
+        "extrait": "Vos projets IA génèrent des résultats. Mais vos équipes ne le savent pas vraiment. Sans vision d'ensemble des bénéfices il est difficile de maintenir l'engagement. Dans cette capsule Brief IA vous explique quelles métriques communiquer — et les",
+        "description": "Conseils pour mesurer et communiquer les bénéfices concrets des projets IA aux équipes afin de maintenir l’engagement."
+      },
+      {
+        "titre": "NotebookLM : vos documents deviennent experts",
+        "source": "L'IA en 5 minutes",
+        "lien": "https://podcasts.apple.com/fr/podcast/notebooklm-vos-documents-deviennent-experts/id6828161569?i=1000803726829&uo=4",
+        "date": "2026-11-24T06:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8d/86/55/8d8655d1-45ae-a870-e7d1-f105609f6f8d/mza_8313876366783336150.jpg/160x160bb.jpg",
+        "duree_min": 4,
+        "extrait": "Et si vos documents répondaient à vos questions ? NotebookLM, l'outil de Google, travaille uniquement sur les sources que vous lui déposez : documents, pages web, vidéos. Il répond avec des citations vérifiables, génère résumés et guides d'ét",
+        "description": "Présentation de NotebookLM de Google, qui transforme vos documents en experts capables de répondre à vos questions avec citations vérifiables."
+      },
+      {
+        "titre": "Éthique IA : les 5 principes de Harvard qui devraient structurer votre gouvernance",
+        "source": "PIA Intelligence Artificielle & Innovation - Actu Tech Cybersécurité",
+        "lien": "https://podcasts.apple.com/fr/podcast/%C3%A9thique-ia-les-5-principes-de-harvard-qui-devraient/id6796750632?i=1000803724267&uo=4",
+        "date": "2026-11-24T05:27:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5c/d1/92/5cd1922a-e843-2e9e-7a88-b909cec82fc3/mza_16463329031503462581.jpg/160x160bb.jpg",
+        "duree_min": 18,
+        "extrait": "🎙️Dans cet épisode de PIA Intelligence Artificielle & Innovation, nous décryptons le cadre unifié proposé par Luciano Floridi et Josh Cowls dans la Harvard Data Science Review pour résoudre le problème de la prolifération des principes ét",
+        "description": "Décryptage des cinq principes d’éthique IA proposés par Harvard pour structurer la gouvernance des projets d’intelligence artificielle."
+      },
+      {
+        "titre": "Shenzhen, la Silicon Valley chinoise qui veut tout miser sur l’IA 🎤 Shanhui Zhang (CGTN)",
+        "source": "Monde Numérique (Actu tech & IA)",
+        "lien": "https://podcasts.apple.com/fr/podcast/shenzhen-la-silicon-valley-chinoise-qui-veut-tout-miser/id1572124982?i=1000803631134&uo=4",
+        "date": "2026-11-24T05:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/e6/2d/54e62d6d-de16-a6c3-1cec-33ad8ee4a786/mza_6259847982247050668.jpg/160x160bb.jpg",
+        "duree_min": 22,
+        "extrait": "À l'occasion du sommet de l'APEC, direction Shenzhen, en Chine, une métropole devenue en quelques décennies un immense laboratoire technologique. Robots dans les rues, objets connectés à prix accessibles et intelligence artificielle dans les services publics : Shanhui Zhang raconte une ville où l'in",
+        "description": "Reportage sur Shenzhen, la « Silicon Valley chinoise », qui mise massivement sur l’IA avec robots, objets connectés et laboratoires technologiques."
+      },
+      {
+        "titre": "[FR] Briefing du 24/11/2026",
+        "source": "AI News — Veille IA et cybersécurité",
+        "lien": "https://podcasts.apple.com/fr/podcast/fr-briefing-du-24-11-2026/id6821395964?i=1000803707040&uo=4",
+        "date": "2026-11-24T02:50:44+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/84/85/ea/8485ea7c-d572-6440-d455-a6bc58b94f0d/mza_1776101650231226306.jpg/160x160bb.jpg",
+        "duree_min": null,
+        "extrait": "Au sommaire de ce briefing : 1. Critical ASP.NET Anti-CSRF Library Flaw permet l'exécution de code à distance non authentifié Source : Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE — https://thehackerne",
+        "description": "Briefing IA et cybersécurité du 24/11/2026, incluant une faille critique d’ASP.NET permettant une exécution de code à distance non authentifiée."
+      }
+    ]
+  }
+}

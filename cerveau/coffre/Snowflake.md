@@ -1,16 +1,17 @@
 ---
 source_file: "feuilletons/f-0013.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-20"
+community: "Veille France 2026-11-12"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-20
+  - community/Veille_France_2026-11-12
 ---
 
 # Snowflake
 
 ## Connections
 - [[Cortex]] - `references` [EXTRACTED]
+- [[Feuilleton Snowflake lance des agents IA autonomes pour les entreprises]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-20
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-12

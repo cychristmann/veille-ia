@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-23-t2.md"
 type: "code"
-community: "Claude Code"
+community: "Débats à Saint-Tropez"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Claude_Code
+  - community/Débats_à_Saint-Tropez
 ---
 
 # claude/settings.local.json
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Claude Code]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Claude_Code
+#graphify/code #graphify/EXTRACTED #community/Débats_à_Saint-Tropez

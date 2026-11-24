@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-23-t5.md"
 type: "concept"
-community: "Impact sociétal de l'IA"
+community: "InvestAI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Impact_sociétal_de_lIA
+  - community/InvestAI
 ---
 
 # Agentic AI
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-23  Autres articles]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Impact_sociétal_de_lIA
+#graphify/concept #graphify/EXTRACTED #community/InvestAI

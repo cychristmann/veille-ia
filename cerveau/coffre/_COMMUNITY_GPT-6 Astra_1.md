@@ -29,21 +29,20 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Copilot]]
-- 2 edges to [[_COMMUNITY_Anthropic]]
-- 2 edges to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
-- 1 edge to [[_COMMUNITY_Claude]]
-- 1 edge to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-11  Marchés et investissements]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-12  Régulation, éthique et impacts sociétaux_1]]
-- 1 edge to [[_COMMUNITY_AMD]]
-- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets]]
-- 1 edge to [[_COMMUNITY_ChatGPT Wallet]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-15]]
+- 3 edges to [[_COMMUNITY_Copilot_1]]
+- 2 edges to [[_COMMUNITY_Claude Code]]
+- 2 edges to [[_COMMUNITY_David Tepper_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-17]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-12]]
+- 1 edge to [[_COMMUNITY_Hugging Face]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-12  Régulation, éthique et impacts sociétaux]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-22  Marchés et finance]]
+- 1 edge to [[_COMMUNITY_Riemann Hypothesis]]
+- 1 edge to [[_COMMUNITY_Shield AI]]
 
 ## Top bridge nodes
 - [[GPT-6 Astra]] - degree 12, connects to 7 communities
 - [[Veille France 2026-11-19]] - degree 6, connects to 3 communities
-- [[Fable 5.2]] - degree 5, connects to 3 communities
+- [[Fable 5.2]] - degree 4, connects to 2 communities
 - [[Business Hub]] - degree 2, connects to 1 community
 - [[datasette-maplibre]] - degree 2, connects to 1 community

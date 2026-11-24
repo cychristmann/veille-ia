@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Pretxt]] - concept - veilles/veille-ia-dev-2026-11-19-t1.md
+- [[Le Monde Informatique]] - document - dossiers/2026-11-20-2.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-21-3.md"
 type: "code"
-community: "Claude"
+community: "Riemann Hypothesis"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Claude
+  - community/Riemann_Hypothesis
 ---
 
 # MIT
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Andrew Sutherland]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Claude
+#graphify/code #graphify/EXTRACTED #community/Riemann_Hypothesis

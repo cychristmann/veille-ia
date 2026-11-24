@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-17-t3.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-15 : Autres articles"
+community: "Veille Outils & code 2026-11-20"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-15__Autres_articles
+  - community/Veille_Outils__code_2026-11-20
 ---
 
 # Google Maps (Gemini integration)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-17]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-15__Autres_articles
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-20

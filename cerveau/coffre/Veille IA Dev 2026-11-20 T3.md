@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-20-t3.md"
 type: "document"
-community: "Veille IA Dev 2026-11-20 T3"
+community: "AI Impact on Finance and Markets"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_IA_Dev_2026-11-20_T3
+  - community/AI_Impact_on_Finance_and_Markets
 ---
 
 # Veille IA Dev 2026-11-20 T3
@@ -17,4 +17,4 @@ tags:
 - [[Ploy AI Gateway]] - `references` [EXTRACTED]
 - [[Supermicro]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_IA_Dev_2026-11-20_T3
+#graphify/document #graphify/EXTRACTED #community/AI_Impact_on_Finance_and_Markets

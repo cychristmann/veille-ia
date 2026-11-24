@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-08-t2.md"
-type: "code"
-community: "datasette-cluster-map"
+source_file: "feuilletons/f-0002.md"
+type: "concept"
+community: "ASML"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/datasette-cluster-map
+  - community/ASML
 ---
 
 # Suno AI
@@ -13,5 +13,6 @@ tags:
 ## Connections
 - [[Elvis Presley Music Rights Owners]] - `references` [EXTRACTED]
 - [[Eminem Music Rights Owners]] - `references` [EXTRACTED]
+- [[Feuilleton  Suno AI poursuivi de nouveau pour violation de droits d’auteur]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/datasette-cluster-map
+#graphify/concept #graphify/EXTRACTED #community/ASML

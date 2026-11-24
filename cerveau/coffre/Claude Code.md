@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t2.md"
 type: "concept"
-community: "Claude Code"
+community: "Débats à Saint-Tropez"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Claude_Code
+  - community/Débats_à_Saint-Tropez
 ---
 
 # Claude Code
@@ -16,7 +16,9 @@ tags:
 - [[Anthropic]] - `conceptually_related_to` [INFERRED]
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Apiiro]] - `references` [EXTRACTED]
+- [[CROO Skill]] - `references` [EXTRACTED]
 - [[Chasseurs d'essaim]] - `references` [EXTRACTED]
+- [[Claude]] - `references` [EXTRACTED]
 - [[Eclipse Enclave]] - `references` [EXTRACTED]
 - [[IDrive AI Agents Backup]] - `shares_data_with` [INFERRED]
 - [[L'Opinion.fr]] - `references` [EXTRACTED]
@@ -45,7 +47,9 @@ tags:
 - [[Veille Outils & code 2026-11-21]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-23]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-23  Sécurité, conformité et fuites liées aux IA]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-24  Claude Ship  Claude Code]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-24  Sécurité des agents de codage IA]] - `references` [EXTRACTED]
 - [[claudesettings.local.json]] - `references` [EXTRACTED]
 - [[n8n]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Claude_Code
+#graphify/concept #graphify/EXTRACTED #community/Débats_à_Saint-Tropez

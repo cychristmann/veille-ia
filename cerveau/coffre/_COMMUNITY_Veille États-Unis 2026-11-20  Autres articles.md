@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Retail VR]] - concept - veilles/veille-ia-fr-2026-11-13-t5.md
-- [[Veille France 2026-11-13  Autres articles]] - document - veilles/veille-ia-fr-2026-11-13-t5.md
+- [[Arkestro AI]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
+- [[Phillips 66]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
 
 ## Live Query (requires Dataview plugin)
 

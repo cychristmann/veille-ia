@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-13-t5.md"
 type: "code"
-community: "Veille Outils & code 2026-11-13 (T5)"
+community: "Libertify"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-13_T5
+  - community/Libertify
 ---
 
 # llm-gemini
@@ -14,4 +14,4 @@ tags:
 - [[Gemini 4 Hydrogen]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-13 (T5)]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-13_T5
+#graphify/code #graphify/EXTRACTED #community/Libertify

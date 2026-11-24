@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Enterprise RAG Systems
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Sécurité et risques de l'IA]] - concept - veilles/veille-ia-fr-2026-11-14-t4.md
-- [[Veille France 2026-11-14  Sécurité, risques et fraudes]] - document - veilles/veille-ia-fr-2026-11-14-t4.md
+- [[French Government]] - concept - feuilletons/f-0023.md
+- [[Military AI Center (Rennes)]] - concept - feuilletons/f-0023.md
+- [[NATO]] - concept - feuilletons/f-0023.md
 
 ## Live Query (requires Dataview plugin)
 

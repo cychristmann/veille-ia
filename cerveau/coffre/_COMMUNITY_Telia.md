@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Telia
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Cyber Shield]] - concept - dossiers/2026-11-18-2.md
+- [[AWS Budgets]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
+- [[IAM]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
 
 ## Live Query (requires Dataview plugin)
 

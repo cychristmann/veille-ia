@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t6.md"
 type: "concept"
-community: "Veille France 2026-11-17"
+community: "JPMorgan"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-17
+  - community/JPMorgan
 ---
 
 # Elon Musk
@@ -21,4 +21,4 @@ tags:
 - [[Veille France 2026-11-23  Adoption industrielle et entreprises]] - `references` [EXTRACTED]
 - [[xAI]] - `conceptually_related_to` [INFERRED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-17
+#graphify/concept #graphify/EXTRACTED #community/JPMorgan

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-17-t5.md"
 type: "code"
-community: "Amazon SageMaker HyperPod"
+community: "SpaceX"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Amazon_SageMaker_HyperPod
+  - community/SpaceX
 ---
 
 # TCL
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Li Dongsheng]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Amazon_SageMaker_HyperPod
+#graphify/code #graphify/EXTRACTED #community/SpaceX

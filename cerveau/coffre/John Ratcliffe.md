@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-23-2.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-08"
+community: "Dossier : IA générative : un nouveau vecteur de menaces nucléaires"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-08
+  - community/Dossier__IA_générative__un_nouveau_vecteur_de_menaces_nucléaires
 ---
 
 # John Ratcliffe
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Dossier  IA générative  un nouveau vecteur de menaces nucléaires]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08
+#graphify/concept #graphify/EXTRACTED #community/Dossier__IA_générative__un_nouveau_vecteur_de_menaces_nucléaires

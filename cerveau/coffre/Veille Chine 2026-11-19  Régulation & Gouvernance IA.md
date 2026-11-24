@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t1.md"
 type: "document"
-community: "Amazon SageMaker HyperPod"
+community: "SpaceX"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Amazon_SageMaker_HyperPod
+  - community/SpaceX
 ---
 
 # Veille Chine 2026-11-19 : Régulation & Gouvernance IA
@@ -18,4 +18,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Sinch]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Amazon_SageMaker_HyperPod
+#graphify/document #graphify/EXTRACTED #community/SpaceX

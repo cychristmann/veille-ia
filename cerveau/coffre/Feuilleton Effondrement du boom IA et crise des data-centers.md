@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0024.md"
 type: "document"
-community: "CVE-2025-3248"
+community: "Blue J"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/CVE-2025-3248
+  - community/Blue_J
 ---
 
 # Feuilleton: Effondrement du boom IA et crise des data-centers
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Crise des data-centers IA]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/CVE-2025-3248
+#graphify/document #graphify/EXTRACTED #community/Blue_J

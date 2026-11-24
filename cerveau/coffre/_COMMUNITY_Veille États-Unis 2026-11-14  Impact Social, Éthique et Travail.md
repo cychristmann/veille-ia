@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-14 : Impact Social, Éthique et Travail
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Accenture]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
-- [[Qantas]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
+- [[Brevis Arca AI]] - concept - veilles/veille-ia-dev-2026-11-18-t1.md
 
 ## Live Query (requires Dataview plugin)
 

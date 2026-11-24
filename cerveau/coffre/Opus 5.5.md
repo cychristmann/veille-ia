@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-22-t4.md"
+source_file: "veilles/veille-ia-cn-2026-11-11-t2.md"
 type: "concept"
 community: "Copilot"
 tags:

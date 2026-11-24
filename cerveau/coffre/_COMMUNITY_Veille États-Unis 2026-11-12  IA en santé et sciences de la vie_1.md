@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Nscale]] - concept - dossiers/2026-11-19-3.md
+- [[Affaire de triche IA au baccalauréat sud‑coréen  le ministre de l’Éducation démissionne]] - document - dossiers/2026-11-22-2.md
 
 ## Live Query (requires Dataview plugin)
 

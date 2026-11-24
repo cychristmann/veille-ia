@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t6.md"
 type: "concept"
-community: "AI Impact on Finance and Markets"
+community: "Anthropic"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AI_Impact_on_Finance_and_Markets
+  - community/Anthropic
 ---
 
 # Qwen AI Hardware
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-19  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AI_Impact_on_Finance_and_Markets
+#graphify/concept #graphify/EXTRACTED #community/Anthropic

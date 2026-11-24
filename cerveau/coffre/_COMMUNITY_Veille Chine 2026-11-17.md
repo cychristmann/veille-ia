@@ -46,13 +46,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
+- 2 edges to [[_COMMUNITY_Nvidia]]
 - 2 edges to [[_COMMUNITY_Microsoft]]
-- 2 edges to [[_COMMUNITY_Anthropic]]
-- 2 edges to [[_COMMUNITY_Nvidia_1]]
-- 2 edges to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
-- 1 edge to [[_COMMUNITY_Goldman Sachs]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-11  Marchés et investissements]]
-- 1 edge to [[_COMMUNITY_Jensen Huang]]
+- 2 edges to [[_COMMUNITY_Claude Code]]
+- 2 edges to [[_COMMUNITY_David Tepper_1]]
+- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
+- 1 edge to [[_COMMUNITY_Hugging Face]]
+- 1 edge to [[_COMMUNITY_Goldman Sachs_1]]
 
 ## Top bridge nodes
 - [[Veille Chine 2026-11-17]] - degree 11, connects to 5 communities

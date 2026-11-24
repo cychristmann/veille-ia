@@ -1,49 +1,26 @@
 ---
 type: community
-members: 36
+members: 13
 ---
 
 # Dossier: Risques systémiques de l’IA pour la stabilité financière
 
-**Members:** 36 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[AI Act]] - concept - dossiers/2026-11-16-3.md
-- [[AI Pollution]] - concept - veilles/veille-ia-cn-2026-11-20-t5.md
-- [[Appel de Paris]] - code - veilles/veille-ia-fr-2026-11-09-t3.md
-- [[Arthur Mensch]] - concept - veilles/veille-ia-fr-2026-11-18-t4.md
-- [[Article 27]] - concept - dossiers/2026-11-17-1.md
-- [[Article 50]] - concept - dossiers/2026-11-17-1.md
-- [[Australia AI Regulator]] - concept - feuilletons/f-0005.md
-- [[Comité de stabilité financière (FSB)]] - concept - dossiers/2026-11-16-3.md
-- [[Consultation publique]] - concept - dossiers/2026-11-17-1.md
-- [[Cyber-risques]] - concept - dossiers/2026-11-16-3.md
-- [[Dario Amodei]] - concept - dossiers/2026-11-20-3.md
-- [[Dossier Risques systémiques de l’IA pour la stabilité financière]] - document - dossiers/2026-11-16-3.md
-- [[Emmanuel Macron]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[European Union]] - concept - veilles/veille-ia-us-2026-11-17-t1.md
-- [[Financement des data-centers]] - concept - dossiers/2026-11-16-3.md
-- [[Fonds Monétaire International (FMI)]] - concept - dossiers/2026-11-16-3.md
-- [[Google AI Overviews]] - concept - veilles/veille-ia-cn-2026-11-20-t5.md
-- [[JDN]] - concept - dossiers/2026-11-17-1.md
-- [[Journaldunet]] - concept - dossiers/2026-11-17-1.md
-- [[Loi Darcos]] - concept - veilles/veille-ia-fr-2026-11-10-t1.md
-- [[National Financial Regulatory Administration (China)]] - concept - dossiers/2026-11-16-3.md
-- [[Nvidia Chips]] - concept - veilles/veille-ia-cn-2026-11-20-t5.md
-- [[Presse-citron]] - concept - feuilletons/f-0006.md
-- [[Protection de l'enfance]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[RFI]] - concept - dossiers/2026-11-20-3.md
-- [[Risque financier lié à l'IA]] - concept - dossiers/2026-11-16-3.md
-- [[Règlement DORA]] - concept - dossiers/2026-11-16-3.md
-- [[Réserve fédérale américaine (Fed)]] - concept - dossiers/2026-11-16-3.md
-- [[Sam Altman]] - concept - veilles/veille-ia-cn-2026-11-20-t5.md
-- [[Stellar Blade AI Controversy]] - concept - veilles/veille-ia-cn-2026-11-20-t5.md
-- [[Veille Chine 2026-11-20  Régulation, Sécurité & Société]] - document - veilles/veille-ia-cn-2026-11-20-t5.md
-- [[Veille France 2026-11-10  Régulation et gouvernance]] - document - veilles/veille-ia-fr-2026-11-10-t1.md
-- [[WeChat Short Drama Rules]] - concept - veilles/veille-ia-cn-2026-11-20-t5.md
-- [[fr.businessam.be]] - document - dossiers/2026-11-16-3.md
-- [[leconomistemaghrebin.com]] - document - dossiers/2026-11-16-3.md
-- [[zonebourse.com]] - document - dossiers/2026-11-16-3.md
+- [[AI证明了黎曼猜想？一份只有机器能读懂的证明，意义何在]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[AI遭遇血洗！英伟达蒸发18万亿，AI盛宴要落幕了吗？]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[All in AI，产业再造——中欧创业营15期正式启航]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[Anthropic 创纪录 IPO 未能扭转 AI 市场悲观情绪]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[Anthropic上市是AI的明斯基时刻]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[A股奇迹日！超150只个股涨停，物理AI板块全天强势]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[Veille Chine 2026-11-23  Politiques, tendances et perspectives sectorielles IA]] - document - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[“AI赋能·电商助农”花都区2026年数字农业直播（短视频）技能竞赛]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[亚太市场周一全线走弱，全球AI交易继续挤泡沫]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[北汽产投刘培龙：AI热潮之下，盲目出手往往铩羽而归]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[大摩重算Meta(META.US)这本账：AI投入推高费用]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[美国多领域接连发生技术故障，专家：2027年AI网络风险或集中显现]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[美股崩跌、纳指全年涨幅归零：AI牛市迎来价值重估]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -51,17 +28,3 @@ members: 36
 TABLE source_file, type FROM #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20_1]]
-- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets_1]]
-
-## Top bridge nodes
-- [[Emmanuel Macron]] - degree 5, connects to 1 community
-- [[Sam Altman]] - degree 3, connects to 1 community
-- [[Arthur Mensch]] - degree 3, connects to 1 community
-- [[Dario Amodei]] - degree 2, connects to 1 community
-- [[RFI]] - degree 2, connects to 1 community

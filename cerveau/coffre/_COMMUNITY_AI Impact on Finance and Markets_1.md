@@ -1,32 +1,22 @@
 ---
 type: community
-members: 19
+members: 9
 ---
 
 # AI Impact on Finance and Markets
 
-**Members:** 19 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Ant Group Lingbo Embodied AI]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
-- [[Anthropic IPO]] - concept - dossiers/2026-11-19-1.md
-- [[Boursorama]] - concept - dossiers/2026-11-19-1.md
-- [[Cryptoast]] - concept - dossiers/2026-11-20-3.md
-- [[DeepSeek API]] - concept - veilles/veille-ia-cn-2026-11-14-t6.md
-- [[Dr. Hendrik Leber]] - concept - dossiers/2026-11-19-1.md
-- [[France 24]] - concept - dossiers/2026-11-20-3.md
-- [[Lenovo AI Servers]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
-- [[Moneyvox]] - concept - dossiers/2026-11-20-3.md
-- [[Moomoo AI]] - concept - veilles/veille-ia-cn-2026-11-14-t6.md
-- [[Nasdaq]] - concept - feuilletons/f-0003.md
-- [[Qwen AI Hardware]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
-- [[SEC]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
-- [[SenseTime Raccoon (商汤小浣熊)]] - concept - veilles/veille-ia-cn-2026-11-19-t5.md
-- [[Tencent Hy4 Flash Model]] - concept - veilles/veille-ia-cn-2026-11-19-t5.md
-- [[Veille Chine 2026-11-14  Outils, plateformes et applications IA]] - document - veilles/veille-ia-cn-2026-11-14-t6.md
-- [[Veille Chine 2026-11-19  Autres articles]] - document - veilles/veille-ia-cn-2026-11-19-t6.md
-- [[Veille Chine 2026-11-19  Infrastructure et Technologie IA]] - document - veilles/veille-ia-cn-2026-11-19-t5.md
-- [[Wired]] - concept - dossiers/2026-11-19-1.md
+- [[Centre de défense IA à Rennes]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Enquête Malaisie sur filiale MegaspeedNvidia]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Mission Capgemini sur les risques cyber de l'IA]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Modèle économique IA d'Apple]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Politiques IA aux États-Unis]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Régulation IA en Australie]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Sommet inédit de l'UE sur l'IA]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Veille France 2026-11-13]] - document - veilles/veille-ia-fr-2026-11-13-t1.md
+- [[xFusion]] - concept - veilles/veille-ia-fr-2026-11-13-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -36,10 +26,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Anthropic]]
-- 1 edge to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
+- 1 edge to [[_COMMUNITY_SpaceX]]
 
 ## Top bridge nodes
-- [[Anthropic IPO]] - degree 12, connects to 2 communities
-- [[Nasdaq]] - degree 2, connects to 1 community
-- [[SEC]] - degree 2, connects to 1 community
+- [[Veille France 2026-11-13]] - degree 11, connects to 3 communities

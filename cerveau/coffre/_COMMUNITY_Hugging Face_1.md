@@ -1,27 +1,20 @@
 ---
 type: community
-members: 14
+members: 7
 ---
 
 # Hugging Face
 
-**Members:** 14 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Agent IA Apple]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[Bot-out et managers]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[Chauffage piloté par IA]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[Double nature de l'IA]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[Formation vidéo et IA]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[Hypothèse de Riemann et IA]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[IA dans le tourisme]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[IA du fisc]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[IA et créativité]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[IA et forces nucléaires]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[IA et inégalités étudiantes]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[IA et vitesse sociétale]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[TikTok IA Transparence]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[Veille France 2026-11-23]] - document - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[AI Cyberattack]] - concept - dossiers/2026-11-18-2.md
+- [[GCHQ]] - concept - dossiers/2026-11-18-2.md
+- [[GLM 5.2]] - concept - dossiers/2026-11-18-2.md
+- [[Hugging Face]] - concept - dossiers/2026-11-23-1.md
+- [[Irene Solaiman]] - concept - veilles/veille-ia-us-2026-11-10-t2.md
+- [[July 2026 AI Incident]] - concept - dossiers/2026-11-23-1.md
+- [[NCSC]] - concept - dossiers/2026-11-18-2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,3 +22,18 @@ members: 14
 TABLE source_file, type FROM #community/Hugging_Face
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 3 edges to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-17]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Meta_1]]
+- 1 edge to [[_COMMUNITY_David Tepper_1]]
+- 1 edge to [[_COMMUNITY_OpenRouter]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-22]]
+
+## Top bridge nodes
+- [[Hugging Face]] - degree 9, connects to 5 communities
+- [[AI Cyberattack]] - degree 7, connects to 4 communities
+- [[July 2026 AI Incident]] - degree 2, connects to 1 community

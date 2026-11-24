@@ -1,18 +1,17 @@
 ---
 type: community
-members: 5
+members: 4
 ---
 
 # Veille France 2026-11-19 : Autres articles
 
-**Members:** 5 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[AI Infrastructure & Compute]] - concept - veilles/veille-ia-cn-2026-11-20-t1.md
-- [[Alibaba]] - concept - veilles/veille-ia-cn-2026-11-19-t2.md
-- [[Feuilleton Alibaba Qwen4-Max]] - document - feuilletons/f-0026.md
-- [[Veille Chine 2026-11-20  Industrie & Fabrication]] - document - veilles/veille-ia-cn-2026-11-20-t1.md
-- [[Veille Chine 2026-11-20  Santé & Biotechnologie]] - document - veilles/veille-ia-cn-2026-11-20-t2.md
+- [[Géopolitique de l'IA]] - concept - veilles/veille-ia-fr-2026-11-19-t6.md
+- [[IA dans l'éducation]] - concept - veilles/veille-ia-fr-2026-11-19-t6.md
+- [[Réglementation de l'IA]] - concept - veilles/veille-ia-fr-2026-11-19-t6.md
+- [[Veille France 2026-11-19  Autres articles]] - document - veilles/veille-ia-fr-2026-11-19-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,14 +21,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-19  Financement et mouvements de marché]]
-- 1 edge to [[_COMMUNITY_Tencent]]
-- 1 edge to [[_COMMUNITY_AMD]]
-- 1 edge to [[_COMMUNITY_Qwen]]
-- 1 edge to [[_COMMUNITY_Meta]]
-- 1 edge to [[_COMMUNITY_Qwen4-Max]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-21]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_David Tepper_1]]
 
 ## Top bridge nodes
-- [[Alibaba]] - degree 9, connects to 6 communities
-- [[Veille Chine 2026-11-20  Santé & Biotechnologie]] - degree 2, connects to 1 community
+- [[Veille France 2026-11-19  Autres articles]] - degree 5, connects to 2 communities

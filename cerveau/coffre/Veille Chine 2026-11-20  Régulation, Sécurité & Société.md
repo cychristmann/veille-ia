@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-20-t5.md"
 type: "document"
-community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
+community: "AI Act"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+  - community/AI_Act
 ---
 
 # Veille Chine 2026-11-20 : Régulation, Sécurité & Société
@@ -18,4 +18,4 @@ tags:
 - [[Stellar Blade AI Controversy]] - `references` [EXTRACTED]
 - [[WeChat Short Drama Rules]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+#graphify/document #graphify/EXTRACTED #community/AI_Act

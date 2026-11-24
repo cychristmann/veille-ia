@@ -8,13 +8,13 @@ members: 7
 **Members:** 7 nodes
 
 ## Members
-- [[BioMap]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[Jilin Province]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[SeedRealtime 1.0]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[Veille Chine 2026-11-19  Applications industrielles]] - document - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[Volcano Engine]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[Yuewen]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[ZTE]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
+- [[Bulle spéculative de l'IA]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
+- [[Dollar IA (ROI)]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
+- [[Déploiement de l'IA à l'échelle]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
+- [[Gains de productivité de l'IA]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
+- [[Recrutement en IA]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
+- [[Startups IA azuréennes]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
+- [[Veille France 2026-11-19  Marché, productivité et perspectives économiques]] - document - veilles/veille-ia-fr-2026-11-19-t5.md
 
 ## Live Query (requires Dataview plugin)
 

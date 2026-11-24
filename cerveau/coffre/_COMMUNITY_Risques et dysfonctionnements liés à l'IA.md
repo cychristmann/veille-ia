@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Risques et dysfonctionnements liés à l'IA
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Risques et dysfonctionnements liés à l'IA]] - concept - veilles/veille-ia-fr-2026-11-20-t6.md
-- [[Veille France 2026-11-20  Autres articles]] - document - veilles/veille-ia-fr-2026-11-20-t6.md
+- [[Feuilleton f-0037]] - document - feuilletons/f-0037.md
+- [[Modèles IA Chinois]] - concept - feuilletons/f-0037.md
+- [[États-Unis]] - concept - feuilletons/f-0037.md
 
 ## Live Query (requires Dataview plugin)
 
