@@ -111,3 +111,25 @@ def test_csp_autorise_le_briefing_audio():
 def test_manifeste_partage():
     m = json.loads((Path(__file__).parent.parent / "pwa" / "manifest.json").read_text(encoding="utf-8"))
     assert m["share_target"]["params"]["url"] == "partage_url"
+
+
+# ------------------------------------------------------------------ relecture du briefing
+SOURCES = ("Nvidia : le retour de Jensen Huang relance la machine boursière. Le retour surprise de "
+           "Jensen Huang a déclenché un puissant rebond des valeurs technologiques.")
+
+
+def test_phrases_causales():
+    texte = "Bonjour. Le succès d'Anthropic a entraîné un rebond de Nvidia. Il fait beau."
+    assert briefing.phrases_causales(texte) == ["Le succès d'Anthropic a entraîné un rebond de Nvidia."]
+
+
+def test_lien_de_cause_verifie_par_le_code():
+    vrai = briefing.Verdict(numero=1, cause="le retour de Jensen Huang", remplacement="x",
+                            citation="Le retour surprise de Jensen Huang a déclenché un puissant rebond")
+    invente = briefing.Verdict(numero=1, cause="le succès d'Anthropic", remplacement="x",
+                               citation="Le retour surprise de Jensen Huang a déclenché un puissant rebond")
+    fausse_citation = briefing.Verdict(numero=1, cause="le retour de Jensen Huang", remplacement="x",
+                                       citation="Jensen Huang a provoqué une hausse de 40 % du Nasdaq")
+    assert briefing.etaye(vrai, SOURCES)
+    assert not briefing.etaye(invente, SOURCES)  # la citation ne parle pas d'Anthropic
+    assert not briefing.etaye(fausse_citation, SOURCES)  # citation absente des sources
