@@ -287,15 +287,23 @@ def section_ephemere() -> "Region | None":
         return None
     if not s or not s.get("termes"):
         return None
-    termes = sorted(s["termes"], key=len, reverse=True)
+    termes = sorted(s["termes"], key=len, reverse=True)  # du plus long au plus court (filtre)
+    # Requête Google : le nom principal d'abord (le plus courant), puis les variantes.
+    requete = [s["entite"], *(x for x in s["termes"] if x != s["entite"])][:4]
+    # 7. Les médias des 4 sections tels que le pilote les a réglés : ajouts compris, pauses exclues.
+    medias = {}
+    for code in REGIONS_PERMANENTES:
+        pauses = sources_en_pause(code)
+        medias.update({nom: url for nom, url in {**REGIONS[code].flux_medias, **sources_ajoutees(code)}.items()
+                       if nom not in pauses})
     return Region(
         code=CODE_EPHEMERE,
         nom=f"sujet du moment : {s['entite']}",
         langue="internationaux (anglais, français, chinois)",
-        requete_google=" OR ".join(f'"{x}"' for x in termes[:4]),
+        requete_google=" OR ".join(f'"{x}"' for x in requete),
         parametres_google="hl=en-US&gl=US&ceid=US:en",
         # Tous les médias suivis, filtrés sur le sujet (le filtre « mots_ia » sert ici à ça).
-        flux_medias={**FLUX_FR, **FLUX_US, **FLUX_CN, **FLUX_DEV},
+        flux_medias=medias,
         mots_ia=re.compile("|".join(r"(?<!\w)" + re.escape(x) + r"(?!\w)" for x in termes), re.IGNORECASE),
         hors_sujet=f"qui ne parlent pas vraiment de {s['entite']} (simple mention en passant)",
         orientation=(f"Cette rubrique a été ouverte par le pilote automatique parce que "

@@ -26,7 +26,7 @@ from langgraph.errors import GraphRecursionError
 from langgraph.graph import START, MessagesState, StateGraph
 from langgraph.prebuilt import ToolNode, tools_condition
 
-from agent import DOSSIER_RAPPORTS, REGIONS, llm_avec_secours
+from agent import DOSSIER_RAPPORTS, REGIONS, REGIONS_PERMANENTES, llm_avec_secours
 from memoire import charger_memoire
 
 MAX_SORTIE_OUTIL = 1800  # caractères renvoyés par un outil (limite Groq : 8 000 tokens/requête)
@@ -45,7 +45,7 @@ def _veilles() -> dict[tuple[str, str], dict]:
     resultat = {}
     for fichier in DOSSIER_RAPPORTS.glob("veille-ia-*.json"):
         m = NOM_FICHIER.fullmatch(fichier.name)
-        if m and m["region"] in REGIONS:
+        if m and m["region"] in REGIONS_PERMANENTES:  # la rubrique éphémère reprend leurs articles
             try:
                 resultat[(m["date"], m["region"])] = json.loads(fichier.read_text(encoding="utf-8"))
             except (OSError, json.JSONDecodeError):

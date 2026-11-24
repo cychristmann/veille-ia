@@ -93,6 +93,7 @@ VALEURS = {
 NOMS_REGLAGES = {"heures_min": "fenêtre de collecte (heures)", "part_google": "part de Google Actualités",
                  "marge": "candidats soumis à l'IA (× 50)"}
 SECTIONS = {"fr": "France", "us": "États-Unis", "cn": "Chine", "dev": "Outils & code"}
+CODE_EPHEMERE = "sujet"  # même code que agent.CODE_EPHEMERE (pilote.py n'importe pas agent au chargement)
 
 
 # --------------------------------------------------------------------------- outils
@@ -268,7 +269,7 @@ def valeur_actuelle(code: str, param: str, etat: dict):
 
 def _experiences_possibles(code: str, jour: str, etat: dict) -> list[dict]:
     """Les réglages voisins (un cran au-dessus ou au-dessous) non rejetés récemment."""
-    base = _scores(code, [(date.fromisoformat(jour) - timedelta(days=i)).isoformat() for i in range(3)])
+    base = _scores(code, _jours_avant(jour, 0, 3))
     if len(base) < 2:
         return []
     moyenne = round(sum(base) / len(base), 1)
@@ -289,10 +290,10 @@ def _jours_avant(jour: str, debut: int, fin: int) -> list[str]:
     return [(date.fromisoformat(jour) - timedelta(days=i)).isoformat() for i in range(debut, fin)]
 
 
-def _mentions(entite: str, jours: list[str]) -> tuple[int, int]:
+def _mentions(entite: str, jours: list[str], termes: list[str] | None = None) -> tuple[int, int]:
     """(articles des 4 sections qui citent l'entité, jours de veille disponibles)."""
     import paris
-    return paris.compter(entite, list(SECTIONS), jours)
+    return paris.compter(entite, list(SECTIONS), jours, termes)
 
 
 def _eruptions(jour: str, etat: dict) -> list[dict]:
@@ -407,16 +408,23 @@ def observer(e: EtatPilote) -> dict:
     #        éruption (nuit en cours seulement, s'il reste du quota).
     s = etat.get("section_ephemere")
     if s:
-        recent, _ = _mentions(s["entite"], _jours_avant(jour, 0, 2))
         age = _ecart_jours(s["depuis"], jour)
-        if age >= DUREE_MAX_SECTION or (age >= 2 and recent < RETOMBEE * s["pic"]):
-            candidates.append({"type": "fermer_section", "section": "sujet", "source": s["entite"],
+        try:
+            recent, _ = _mentions(s["entite"], _jours_avant(jour, 0, 2), s.get("termes"))
+        except Exception as erreur:  # jamais bloquant : la durée maximale ferme quand même
+            print(f"Mesure de la rubrique éphémère impossible ({erreur}).")
+            recent = None
+        if recent is not None and recent > s["pic"]:  # le pic suit le sujet tant qu'il monte
+            s["pic"] = recent
+            _sauver(etat)
+        if age >= DUREE_MAX_SECTION or (recent is not None and age >= 2 and recent < RETOMBEE * s["pic"]):
+            candidates.append({"type": "fermer_section", "section": CODE_EPHEMERE, "source": s["entite"],
                                "imposee": True,
                                "motif": f"ouverte depuis {age} jours" if age >= DUREE_MAX_SECTION else
-                               f"le sujet retombe : {recent} articles en 2 jours, contre {s['pic']} à l'ouverture"})
+                               f"le sujet retombe : {recent} articles en 2 jours, contre {s['pic']} au plus fort"})
     elif jour == _aujourd_hui() and (indicateurs.get("quota_groq") or 0) <= QUOTA_MAX_RELANCE:
         for x in _eruptions(jour, etat)[:3]:
-            candidates.append({"type": "ouvrir_section", "section": "sujet", "source": x["entite"],
+            candidates.append({"type": "ouvrir_section", "section": CODE_EPHEMERE, "source": x["entite"],
                                "motif": f"{x['recent']} articles en 2 jours, {x['ratio']} fois plus que "
                                         f"d'habitude ({x['habitude']} par jour)", **x})
 
@@ -631,6 +639,15 @@ def _proches(a: str, b: str) -> bool:
     return bool(ma and mb) and len(ma & mb) / min(len(ma), len(mb)) >= 0.6
 
 
+RAISON_IMPOSEE = {
+    "adopter": "Verdict mesuré de l'essai, appliqué d'office.",
+    "abandonner": "Verdict mesuré de l'essai, appliqué d'office.",
+    "garder_reglage": "Résultat mesuré de l'expérience, appliqué d'office.",
+    "annuler_reglage": "Résultat mesuré de l'expérience, appliqué d'office.",
+    "fermer_section": "Le sujet est retombé ou la durée maximale est atteinte : fermeture d'office.",
+}
+
+
 def agir(e: EtatPilote) -> dict:
     from agent import REGIONS, flux_de
 
@@ -639,7 +656,8 @@ def agir(e: EtatPilote) -> dict:
     appliquees, comptes = [], {}
     for d in e["decisions"]:
         if par_id[d["id"]].get("imposee") and not d["appliquer"]:
-            d["appliquer"], d["raison"] = True, "Verdict mesuré de l'essai, appliqué d'office."
+            d["appliquer"], d["raison"] = True, RAISON_IMPOSEE.get(
+                par_id[d["id"]]["type"], "Décision mesurée, appliquée d'office.")
     # Reprises et fins d'essai d'abord (elles libèrent de la place), la relance en dernier
     # (elle profite des pauses décidées juste avant).
     rang = {"reprendre": 0, "abandonner": 1, "adopter": 2, "garder_reglage": 3, "annuler_reglage": 3,

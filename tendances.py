@@ -20,7 +20,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 from pydantic import BaseModel, Field
 
-from agent import DOSSIER_RAPPORTS, REGIONS, _modele
+from agent import DOSSIER_RAPPORTS, REGIONS, REGIONS_PERMANENTES, _modele
 
 FICHIER_TENDANCES = DOSSIER_RAPPORTS / "tendances.json"
 JOURS = 7
@@ -56,7 +56,7 @@ def charger_veilles(jours: int = JOURS * 2) -> dict[str, dict[str, dict]]:
     par_jour: dict[str, dict[str, dict]] = defaultdict(dict)
     for fichier in DOSSIER_RAPPORTS.glob("veille-ia-*.json"):
         m = NOM_FICHIER.fullmatch(fichier.name)
-        if not m or m["region"] not in REGIONS:
+        if not m or m["region"] not in REGIONS_PERMANENTES:  # la rubrique éphémère reprend leurs articles
             continue
         try:
             par_jour[m["date"]][m["region"]] = json.loads(fichier.read_text(encoding="utf-8"))

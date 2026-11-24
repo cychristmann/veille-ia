@@ -102,9 +102,25 @@ def _textes(code: str, jour: str) -> list[str] | None:
     return _TEXTES[(code, jour)]
 
 
-def compter(nom: str, sections: list[str], jours: list[str]) -> tuple[int, int]:
-    """(articles qui citent l'entité, jours de veille disponibles parmi `jours`)."""
-    motif, total, dispo = entites()[nom], 0, set()
+def motif_de(termes: list[str]) -> re.Pattern:
+    """Motif qui reconnaît l'un des termes (mots entiers, sans casse)."""
+    termes = [t for t in termes if len(t) >= 3] or termes
+    return re.compile("|".join(r"(?<!\w)" + re.escape(t) + r"(?!\w)" for t in sorted(termes, key=len, reverse=True)),
+                      re.IGNORECASE)
+
+
+def oublier_textes() -> None:
+    """Vide le cache des veilles lues (une section a pu être relancée entre-temps)."""
+    _TEXTES.clear()
+
+
+def compter(nom: str, sections: list[str], jours: list[str], termes: list[str] | None = None) -> tuple[int, int]:
+    """(articles qui citent l'entité, jours de veille disponibles parmi `jours`).
+
+    `termes` sert de secours quand l'entité n'est plus dans le graphe (renommée ou fusionnée
+    lors d'une reconstruction)."""
+    motif = entites().get(nom) or motif_de(termes or [nom])
+    total, dispo = 0, set()
     for j in jours:
         for code in sections:
             textes = _textes(code, j)
@@ -176,8 +192,16 @@ def facteur_confiance(donnees: dict) -> float:
     return min((k / 20 for k in range(round(K_MIN * 20), 21)), key=lambda k: (round(brier(k), 6), -k))
 
 
+def _annoncee(p: dict) -> float:
+    """Probabilité annoncée par l'IA, avant correction automatique."""
+    return p.get("probabilite_ia", p["probabilite"])
+
+
 def score(donnees: dict) -> dict:
-    """Réussite et calibration (score de Brier) des paris tranchés."""
+    """Réussite et calibration (score de Brier) des paris tranchés.
+
+    Brier : sur la probabilité retenue (corrigée), qui mesure les paris réels. Paliers et
+    confiance moyenne : sur la probabilité annoncée, pour que l'IA juge ses propres chiffres."""
     tranches = [p for p in donnees["paris"] if p["statut"] in ("gagne", "perdu")]
     if not tranches:
         return {"tranches": 0}
@@ -185,13 +209,13 @@ def score(donnees: dict) -> dict:
     brier = sum((p["probabilite"] - (p["statut"] == "gagne")) ** 2 for p in tranches) / len(tranches)
     paliers = {}
     for bas, haut in ((0.5, 0.65), (0.65, 0.8), (0.8, 1.0)):
-        ps = [p for p in tranches if bas <= p["probabilite"] < haut]
+        ps = [p for p in tranches if bas <= _annoncee(p) < haut]
         if ps:
             paliers[f"{round(bas * 100)}-{round(haut * 100) - 1} %"] = {
                 "paris": len(ps), "reussite": round(100 * sum(p["statut"] == "gagne" for p in ps) / len(ps))}
     return {"tranches": len(tranches), "gagnes": gagnes, "reussite": round(100 * gagnes / len(tranches)),
             "correction": facteur_confiance(donnees),
-            "confiance_moyenne": round(100 * sum(p["probabilite"] for p in tranches) / len(tranches)),
+            "confiance_moyenne": round(100 * sum(_annoncee(p) for p in tranches) / len(tranches)),
             "brier": round(brier, 3), "paliers": paliers}
 
 
@@ -244,7 +268,7 @@ def _bilan_lisible(donnees: dict) -> str:
     if not s["tranches"]:
         return "(aucun pari tranché pour l'instant)"
     derniers = [p for p in donnees["paris"] if p["statut"] in ("gagne", "perdu")][-8:]
-    lignes = [f"- {'GAGNÉ' if p['statut'] == 'gagne' else 'PERDU'} ({round(p['probabilite'] * 100)} %) : "
+    lignes = [f"- {'GAGNÉ' if p['statut'] == 'gagne' else 'PERDU'} (annoncé {round(_annoncee(p) * 100)} %) : "
               f"{p['enonce']} → observé : {p['observe']}" for p in derniers]
     lignes.append(f"Bilan : {s['gagnes']}/{s['tranches']} gagnés ({s['reussite']} %) pour une confiance "
                   f"moyenne de {s['confiance_moyenne']} % ; Brier {s['brier']} (0,25 = hasard).")
@@ -340,6 +364,7 @@ def parier(donnees: dict, jour: str) -> tuple[list[dict], list[str]]:
 
 def nuit(jour: str) -> dict:
     """Résout les paris échus puis en fait de nouveaux ; renvoie le résumé pour le journal."""
+    oublier_textes()  # le pilote a pu relancer une section depuis la première lecture
     donnees = charger()
     resolus = resoudre(donnees, jour)
     try:

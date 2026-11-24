@@ -112,7 +112,10 @@ def notes_dossiers(fichier: Path) -> list[tuple[str, str]]:
 
 def verser() -> int:
     """Étape 1 : écrit les notes sources. Renvoie le nombre de notes nouvelles ou modifiées."""
-    notes = [n for f in sorted(VEILLES.glob("veille-ia-*.json")) for n in notes_veille(f)]
+    # La rubrique éphémère du pilote (« sujet ») reprend des articles des 4 sections : pas
+    # de doublons dans le graphe.
+    notes = [n for f in sorted(VEILLES.glob("veille-ia-*.json")) if not f.name.startswith("veille-ia-sujet-")
+             for n in notes_veille(f)]
     memoire = VEILLES / "memoire.json"
     if memoire.exists():
         m = json.loads(memoire.read_text(encoding="utf-8"))

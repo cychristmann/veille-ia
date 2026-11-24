@@ -44,7 +44,7 @@ import pilote
 import sante
 import sources
 import tendances
-from agent import DOSSIER_RAPPORTS, REGIONS, REGIONS_PERMANENTES, lancer_veilles
+from agent import CODE_EPHEMERE, DOSSIER_RAPPORTS, REGIONS, REGIONS_PERMANENTES, lancer_veilles
 
 PAGE = Path(__file__).parent / "interface.html"
 NOMBRE_ARTICLES = 50
@@ -85,7 +85,7 @@ def _fichiers_veille() -> list[tuple[str, str, Path]]:
     for fichier in DOSSIER_RAPPORTS.glob("veille-ia-*.json"):
         m = NOM_FICHIER.fullmatch(fichier.name)
         # « sujet » : section éphémère du pilote, gardée dans l'historique après sa fermeture.
-        if m and (m["region"] in REGIONS or m["region"] == "sujet"):
+        if m and (m["region"] in REGIONS or m["region"] == CODE_EPHEMERE):
             trouves.append((m["date"], m["region"], fichier))
     return sorted(trouves, reverse=True)
 
@@ -155,7 +155,7 @@ def lire_tendances() -> dict | None:
 
 def lire_veille(region: str, date: str | None = None) -> dict | None:
     """Veille d'une région un jour donné, ou sa plus récente si date est None."""
-    if region not in REGIONS and region != "sujet":
+    if region not in REGIONS and region != CODE_EPHEMERE:
         return None
     if date is None:
         fichiers = [f for _, r, f in _fichiers_veille() if r == region]
