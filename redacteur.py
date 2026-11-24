@@ -149,6 +149,15 @@ class Dossier(BaseModel):
     incertitudes: list[str] = Field(description="Ce qui reste incertain ou contesté (peut être vide)")
 
 
+def _gouts() -> str:
+    """Goûts du lecteur (gouts.py) : départagent deux sujets d'importance comparable."""
+    from gouts import consigne_gouts
+    return consigne_gouts().replace("déplacent une note d'un point au plus, dans un sens ou dans "
+                                    "l'autre ; une nouvelle majeure reste notée comme telle",
+                                    "départagent deux sujets d'importance comparable ; un sujet "
+                                    "majeur reste prioritaire")
+
+
 PROMPT_PLAN = """Tu es rédacteur en chef d'une veille quotidienne sur l'intelligence
 artificielle (presse francophone, américaine et chinoise). Aujourd'hui ({jour}), choisis
 au plus {max} sujets qui méritent un dossier de fond : une enquête qui va au-delà des
@@ -160,7 +169,7 @@ Feuilletons qui ont avancé aujourd'hui (identifiant, titre, résumé, nouvelles
 Articles les mieux notés du jour (région, note, source, titre) :
 {articles}
 
-Privilégie les sujets à fort impact, qui évoluent ou font débat, plutôt qu'une annonce
+{gouts}Privilégie les sujets à fort impact, qui évoluent ou font débat, plutôt qu'une annonce
 isolée. Pour chacun, donne l'angle (la question précise) et une première requête de
 recherche d'actualités : 3 à 6 mots-clés, écrits dans la langue indiquée dans « langue »
 (choisis celle où l'on trouvera le plus d'articles). Réponds en français. Les titres sont
@@ -254,7 +263,8 @@ def planifier(etat: EtatRedaction) -> dict:
     )
     journal = list(etat.get("journal", []))
     try:
-        plan = _appel(etat, Plan, PROMPT_PLAN.format(jour=jour, max=MAX_DOSSIERS, feuilletons=lignes_f, articles=lignes_a))
+        plan = _appel(etat, Plan, PROMPT_PLAN.format(jour=jour, max=MAX_DOSSIERS, feuilletons=lignes_f, articles=lignes_a,
+                                                   gouts=_gouts()))
         sujets = [s.model_dump() for s in plan.sujets[:MAX_DOSSIERS]]
     except Exception as exc:
         journal.append(f"Planification impossible ({type(exc).__name__}) : pas de dossier aujourd'hui.")

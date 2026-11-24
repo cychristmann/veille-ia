@@ -13,6 +13,7 @@ N'utilise que la bibliothèque standard de Python : un petit serveur web sert la
     GET  /api/dossiers?date=AAAA-MM-JJ           -> dossiers du rédacteur en chef (redacteur.py)
     GET  /api/analyse?date=AAAA-MM-JJ            -> « ce qui change » : agent interprète (interprete.py)
     GET  /api/paris                              -> paris du pilote (paris.py)
+    GET  /api/briefing                           -> texte du dernier briefing du matin (briefing.py)
     GET  /api/pilote                             -> journaux du pilote automatique (pilote.py)
     GET  /api/sante                              -> bilan de santé des dernières nuits (sante.py)
     GET  /api/consommation                       -> tokens Groq / Gemini consommés par jour (consommation.py)
@@ -205,6 +206,9 @@ class Gestionnaire(BaseHTTPRequestHandler):
             self._json(200, lire_dossiers(date) or {"vide": True})
         elif adresse.path == "/api/paris":
             self._json(200, paris.historique())
+        elif adresse.path == "/api/briefing":
+            import briefing
+            self._json(200, briefing.dernier_briefing() or {"vide": True})
         elif adresse.path == "/api/pilote":
             self._json(200, {"jours": pilote.historique()})
         elif adresse.path == "/api/sante":

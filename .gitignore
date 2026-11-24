@@ -28,3 +28,10 @@ cerveau/graphify-out/cache/last_query_stamp
 
 # Compteur de tokens de l'usage sur le PC (consommation.py)
 consommation-locale/
+
+# Voix Piper du briefing audio (briefing.py) : téléchargée au premier usage
+.voix/
+
+# Exports de goûts déposés depuis l'app (gouts.py) : restent sur le PC (dépôt public).
+# Seul le profil résumé, preferences/profil.json, est publié.
+preferences/mes-gouts-*.json

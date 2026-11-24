@@ -127,12 +127,24 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # secours
         run: uv run python interprete.py
 
-      # Les deux étapes facultatives peuvent échouer sans arrêter la mission : on note leur
+      # Briefing audio du matin : l'IA en écrit le texte (veilles/briefing-DATE.json) ; la
+      # voix Piper le lit au moment de la publication (publier.py). Facultatif.
+      - name: Briefing audio du matin (texte)
+        id: briefing
+        if: steps.decision.outputs.lancer == 'true'
+        continue-on-error: true
+        timeout-minutes: 5
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }} # secours
+        run: uv run python briefing.py
+
+      # Les étapes facultatives peuvent échouer sans arrêter la mission : on note leur
       # résultat pour le voyant « État de la nuit » de l'app (sante.py).
       - name: Noter le résultat des étapes facultatives
         if: steps.decision.outputs.lancer == 'true'
         run: |
-          echo '{"cerveau": "${{ steps.cerveau.outcome }}", "interprete": "${{ steps.interprete.outcome }}"}'             > "veilles/etapes-$(date +%F).json"
+          echo '{"cerveau": "${{ steps.cerveau.outcome }}", "interprete": "${{ steps.interprete.outcome }}", "briefing": "${{ steps.briefing.outcome }}"}'             > "veilles/etapes-$(date +%F).json"
 
       # Pilote automatique (mini AGI, étape 4) : la veille s'observe et se règle seule
       # (pauses, relance d'une section ratée, recherche et essai de nouveaux médias ;
@@ -157,6 +169,13 @@ jobs:
           # rattache avant d'envoyer, sinon l'envoi serait refusé.
           git pull --rebase --autostash
           git push
+
+      # Voix Piper du briefing (63 Mo) : téléchargée une fois, puis gardée en cache.
+      - name: Voix du briefing (cache)
+        uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: .voix
+          key: voix-fr_FR-siwis-medium
 
       - name: Construire le site
         run: uv run python publier.py

@@ -575,7 +575,9 @@ class EtatVeille(TypedDict, total=False):
     candidats: list[Article]
     reserve: list[Article]  # candidats en plus, soumis seulement s'il en manque (repêchage)
     sources_en_echec: list[str]
-    flux_lus: dict  # {média: [articles lus, articles récents et sur l'IA]} (pour le pilote)
+    # {média: [articles lus, récents et sur l'IA, récents, date du plus récent]} (pour le
+    # pilote : distinguer un média calme d'un média qui ne parle pas d'IA)
+    flux_lus: dict
     analyse: Analyse | None
     articles: list[Article]
     titres_traduits: int  # nombre de titres traduits (régions étrangères)
@@ -728,10 +730,12 @@ def collecter(etat: EtatVeille) -> dict:
             if trouves is None:
                 echecs.append(nom)
                 continue
-            lus[nom] = [len(trouves), 0]
+            dernier = max((a.date for a in trouves), default=None)
+            lus[nom] = [len(trouves), 0, 0, dernier.date().isoformat() if dernier else ""]
             for article in trouves:
                 if article.date < limite:
                     continue
+                lus[nom][2] += 1
                 if (nom != NOM_GOOGLE and nom not in region.toujours_ia
                         and not region.mots_ia.search(f"{article.titre} {article.resume}")):
                     continue
@@ -946,7 +950,8 @@ def noter(etat: EtatVeille) -> dict:
         for n, a in enumerate(articles, start=1)
     )
     try:
-        orientation = REGIONS[etat["region"]].orientation
+        from gouts import consigne_gouts
+        orientation = REGIONS[etat["region"]].orientation + consigne_gouts()
         notation = _modele(Notation).invoke(PROMPT_NOTATION.format(articles=liste, orientation=orientation))
     except Exception as exc:  # sans notes, le rapport sort quand même
         print(f"Notation impossible ({type(exc).__name__}) : articles sans note.")

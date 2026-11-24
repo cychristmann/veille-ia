@@ -8,6 +8,7 @@ Lancement : uv run python publier.py        (puis ouvrir site/ avec un serveur w
 """
 
 import base64
+import briefing
 import hashlib
 import json
 import re
@@ -61,6 +62,7 @@ CSP = (
     "script-src {empreintes}; "
     "style-src 'unsafe-inline'; "  # styles écrits dans la page (aucun code exécutable)
     "img-src 'self' https://i.ytimg.com https://*.mzstatic.com; "
+    "media-src 'self' blob:; "  # briefing audio (lu depuis le cache, hors connexion)
     "connect-src 'self'; "
     "manifest-src 'self'; "
     "worker-src 'self'; "
@@ -85,6 +87,23 @@ def _avec_csp(page: str) -> str:
 
 def _ecrire_json(chemin: Path, donnees) -> None:
     chemin.write_text(json.dumps(donnees, ensure_ascii=False), encoding="utf-8")
+
+
+def _briefing_audio() -> None:
+    """Dernier briefing : son texte, et sa version lue par la voix Piper (MP3). Une panne
+    de la voix ne doit jamais empêcher la publication : le texte reste lisible."""
+    b = briefing.dernier_briefing()
+    if not b:
+        _ecrire_json(SITE / "donnees" / "briefing.json", {"vide": True})
+        return
+    mp3 = f"briefing-{b['date']}.mp3"
+    try:
+        b["duree"] = briefing.synthetiser(b["texte"], SITE / "donnees" / mp3)
+        b["audio"] = f"donnees/{mp3}"
+        print(f"Briefing audio : {b['duree']} secondes.")
+    except Exception as erreur:
+        print(f"Briefing audio impossible ({type(erreur).__name__} : {erreur}) : texte seul.")
+    _ecrire_json(SITE / "donnees" / "briefing.json", b)
 
 
 def construire() -> int:
@@ -120,6 +139,7 @@ def construire() -> int:
     # Journaux du pilote automatique (pilote.py).
     _ecrire_json(SITE / "donnees" / "pilote.json", {"jours": pilote.historique()})
     _ecrire_json(SITE / "donnees" / "paris.json", paris.historique())
+    _briefing_audio()
     # Analyses de l'agent interprète (« Ce qui change »).
     for fichier in DOSSIER_ANALYSES.glob("analyse-*.json"):
         shutil.copy(fichier, SITE / "donnees" / fichier.name)

@@ -116,6 +116,12 @@ def bilan(jour: str) -> dict:
         controles.append(_controle("Interprète", "ok" if n else "attention",
                                    f"{n} analyse(s)." if n else (analyse.get("rien") or "Aucun signal retenu.")))
 
+    b = _lire(VEILLES / f"briefing-{jour}.json")
+    if b:
+        controles.append(_controle("Briefing audio", "ok", f"« {b['titre']} » ({b['mots']} mots)."))
+    elif jour >= DEBUT_BRIEFING:
+        controles.append(_controle("Briefing audio", "attention", "Pas de briefing écrit cette nuit."))
+
     try:
         import consommation
         conso = next((d for d in consommation.historique(60) if d["date"] == jour), None)
@@ -128,6 +134,9 @@ def bilan(jour: str) -> dict:
 
     statut = max((c["statut"] for c in controles), key=ORDRE.get)
     return {"date": jour, "statut": statut, "controles": controles}
+
+
+DEBUT_BRIEFING = "2026-11-25"  # première nuit avec briefing audio
 
 
 def historique(jours: int = 14) -> list[dict]:

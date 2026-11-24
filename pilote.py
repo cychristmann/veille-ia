@@ -63,6 +63,9 @@ NOTES = RACINE / "cerveau" / "coffre" / "Pilote"
 FENETRE = 7  # nuits observées pour juger un média
 MAX_ACTIONS = 3  # pauses et reprises au plus par nuit
 PLAFONDS = {"pause": MAX_ACTIONS, "relancer": 1, "decouvrir": 1}
+ABANDON = 60  # jours sans aucun article : flux abandonné (un média calme n'est pas mis en pause)
+SEUIL_DIRECTS = 30  # % de liens directs sous lequel une section manque de médias…
+NUITS_ALERTE = 3  # … plusieurs nuits de suite : recherche de médias ciblée sur elle
 PART_MAX_PAUSE = 0.25  # part maximale des médias d'une section en pause
 DUREE_PAUSE = 7  # jours avant de retenter une source en pause
 PANNES_DE_SUITE = 3  # nuits en panne d'affilée avant une pause
@@ -110,7 +113,7 @@ def charger_etat() -> dict:
     etat = _lire(ETAT) or {}
     for cle, vide in (("pauses", {}), ("essais", {}), ("historique", []), ("lecons", []),
                       ("reglages", {}), ("experiences", {}), ("experiences_passees", []),
-                      ("sections_passees", [])):
+                      ("sections_passees", []), ("decouvertes_ciblees", {})):
         etat.setdefault(cle, vide)
     return etat
 
@@ -185,17 +188,22 @@ def _juger_medias(code: str, jour: str, ignorer=(), depuis: str = "") -> list[di
     for nom in flux_de(REGIONS[code]):
         if nom in ignorer:
             continue
-        m = {"nom": nom, "section": code, "nuits": len(veilles), "pannes": 0, "pannes_de_suite": 0,
-             "nuits_mesurees": 0, "lus": 0, "utiles": 0, "retenus": 0, "ecartes": 0}
+        m = {"nom": nom, "section": code, "jour": jour, "nuits": len(veilles), "pannes": 0,
+             "pannes_de_suite": 0, "nuits_mesurees": 0, "lus": 0, "utiles": 0, "retenus": 0,
+             "ecartes": 0, "nuits_detaillees": 0, "recents": 0, "dernier": ""}
         for v in veilles:
             en_panne = nom in v.get("sources_en_echec", [])
             m["pannes"] += en_panne
             m["pannes_de_suite"] = m["pannes_de_suite"] + 1 if en_panne else 0
             if nom in v.get("flux_lus", {}):
-                lus, utiles = v["flux_lus"][nom]
+                x = v["flux_lus"][nom]
                 m["nuits_mesurees"] += 1
-                m["lus"] += lus
-                m["utiles"] += utiles
+                m["lus"] += x[0]
+                m["utiles"] += x[1]
+                if len(x) >= 4:  # veilles depuis le 24/11 : articles récents et date du dernier
+                    m["nuits_detaillees"] += 1
+                    m["recents"] += x[2]
+                    m["dernier"] = max(m["dernier"], x[3] or "")
             m["retenus"] += sum(a.get("source") == nom for t in v.get("themes", []) for a in t["articles"])
             m["ecartes"] += sum(a.get("source") == nom for a in v.get("ecartes", []))
         medias.append(m)
@@ -205,9 +213,14 @@ def _juger_medias(code: str, jour: str, ignorer=(), depuis: str = "") -> list[di
 def _diagnostic(m: dict) -> str | None:
     if m["pannes_de_suite"] >= PANNES_DE_SUITE:
         return f"en panne {m['pannes_de_suite']} nuits d'affilée"
-    if m["nuits_mesurees"] >= NUITS_MIN and m["utiles"] == 0:
-        return (f"muet : aucun article récent sur l'IA en {m['nuits_mesurees']} nuits"
-                + (f" ({m['lus']} articles lus)" if m["lus"] else " (flux vide)"))
+    # Un média CALME (blog d'outil qui publie toutes les deux ou trois semaines) n'est pas
+    # mis en pause : le lire ne coûte qu'une requête. Seuls comptent le flux abandonné et le
+    # flux qui publie, mais jamais sur l'IA.
+    if m["dernier"] and _ecart_jours(m["dernier"], m["jour"]) >= ABANDON:
+        return f"abandonné : aucun article publié depuis le {m['dernier']}"
+    if m["nuits_detaillees"] >= NUITS_MIN and m["recents"] >= 3 and m["utiles"] == 0:
+        return (f"hors sujet : {m['recents']} articles récents en {m['nuits_detaillees']} nuits, "
+                "aucun sur l'IA")
     if m["nuits"] >= NUITS_MIN and m["retenus"] == 0 and m["ecartes"] >= 3:
         return f"hors sujet : {m['ecartes']} articles écartés, aucun retenu en {m['nuits']} nuits"
     return None
@@ -225,6 +238,11 @@ def _retester(code: str, nom: str) -> tuple[bool, str]:
         articles = _lire_flux(nom, url)
     except Exception as erreur:
         return False, f"toujours inaccessible ({type(erreur).__name__})"
+    dernier = max((a.date for a in articles), default=None)
+    if dernier is None:
+        return False, "répond, mais le flux est vide"
+    if (date.today() - dernier.date()).days >= ABANDON:
+        return False, f"répond, mais rien publié depuis le {dernier.date().isoformat()}"
     utiles = [a for a in articles if nom in region.toujours_ia
               or region.mots_ia.search(f"{a.titre} {a.resume}")]
     if not utiles:
@@ -283,6 +301,25 @@ def _experiences_possibles(code: str, jour: str, etat: dict) -> list[dict]:
             if 0 <= j < len(valeurs) and valeurs[j] != actuelle and (code, param, valeurs[j]) not in rejetes:
                 possibles.append({"param": param, "avant": actuelle, "apres": valeurs[j], "base": moyenne})
     return possibles
+
+
+def _sections_faibles(jour: str, etat: dict) -> list[tuple[str, list[int]]]:
+    """Sections dont les liens directs restent sous SEUIL_DIRECTS sur les NUITS_ALERTE
+    dernières nuits, sans recherche ciblée récente ; la plus faible d'abord."""
+    faibles = []
+    for code in SECTIONS:
+        derniere = etat["decouvertes_ciblees"].get(code)
+        if derniere and _ecart_jours(derniere, jour) < FREQUENCE_DECOUVERTE:
+            continue
+        taux = []
+        for j in _jours_veille(code, jour)[-NUITS_ALERTE:]:
+            v = _lire(VEILLES / f"veille-ia-{code}-{j}.json") or {}
+            n = v.get("nombre_articles", 0)
+            if n:
+                taux.append(round(100 * (1 - v.get("liens_google", 0) / n)))
+        if len(taux) == NUITS_ALERTE and max(taux) < SEUIL_DIRECTS:
+            faibles.append((code, taux))
+    return sorted(faibles, key=lambda x: sum(x[1]))
 
 
 def _jours_avant(jour: str, debut: int, fin: int) -> list[str]:
@@ -359,6 +396,18 @@ def observer(e: EtatPilote) -> dict:
     # 2. Sources en pause depuis assez longtemps : le pilote les retente lui-même.
     for code, pauses in etat["pauses"].items():
         for nom, p in pauses.items():
+            if p.get("motif", "").startswith("muet") and not any(
+                    c["source"] == nom and c["section"] == code for c in candidates):
+                # Ancien critère (avant le 24/11) : un média calme était pris pour un média
+                # muet. On le relit tout de suite ; s'il vit et parle d'IA, il revient.
+                ok, detail = _retester(code, nom)
+                if ok:
+                    candidates.append({"type": "reprendre", "section": code, "source": nom, "imposee": True,
+                                       "raison_imposee": "Média calme mais vivant : il n'est plus mis "
+                                                         "en pause pour si peu.",
+                                       "motif": f"média calme, pas muet : {detail}"})
+                    continue
+                p["dernier_essai"] = f"{jour} : {detail}"
             if _ecart_jours(p["depuis"], jour) >= DUREE_PAUSE and not any(
                     c["source"] == nom and c["section"] == code for c in candidates):
                 ok, detail = _retester(code, nom)
@@ -397,9 +446,17 @@ def observer(e: EtatPilote) -> dict:
             candidates.append({"type": "adopter" if m["retenus"] >= ESSAI_MIN_RETENUS else "abandonner",
                                "section": code, "source": nom, "motif": verdict, "imposee": True})
 
-    # 5. Chercher de nouveaux médias, une fois par semaine.
+    # 5. Chercher de nouveaux médias : en priorité pour une section qui manque de liens
+    #    directs plusieurs nuits de suite (alerte persistante : on agit au lieu de la
+    #    signaler), sinon une recherche générale par semaine.
     derniere = etat.get("derniere_decouverte")
-    if jour == _aujourd_hui() and (not derniere or _ecart_jours(derniere, jour) >= FREQUENCE_DECOUVERTE):
+    faibles = _sections_faibles(jour, etat) if jour == _aujourd_hui() else []
+    if faibles:
+        code, taux = faibles[0]
+        candidates.append({"type": "decouvrir", "section": code, "source": f"médias {SECTIONS[code]}",
+                           "motif": f"liens directs sous {SEUIL_DIRECTS} % depuis {NUITS_ALERTE} nuits "
+                                    f"({', '.join(f'{t} %' for t in taux)}) : recherche ciblée"})
+    elif jour == _aujourd_hui() and (not derniere or _ecart_jours(derniere, jour) >= FREQUENCE_DECOUVERTE):
         candidates.append({"type": "decouvrir", "section": "toutes", "source": "nouveaux médias",
                            "motif": "première recherche" if not derniere else
                            f"dernière recherche il y a {_ecart_jours(derniere, jour)} jours"})
@@ -607,13 +664,18 @@ def _lancer_ephemere(etat: dict) -> str:
         return f"rubrique ouverte, première veille impossible ({type(erreur).__name__})"
 
 
-def _decouvrir(etat: dict, jour: str) -> str:
-    """Cherche de nouveaux médias (sources.py) et met les meilleurs à l'essai."""
+def _decouvrir(etat: dict, jour: str, section: str | None = None) -> str:
+    """Cherche de nouveaux médias (sources.py) et met les meilleurs à l'essai. Avec
+    `section` : recherche approfondie pour cette seule section."""
     import sources
 
-    sources.chercher()
-    etat["derniere_decouverte"] = jour
-    propositions = sorted(sources.charger()["propositions"],
+    if section:
+        sources.chercher([section], ciblee=True)
+        etat["decouvertes_ciblees"][section] = jour
+    else:
+        sources.chercher()
+        etat["derniere_decouverte"] = jour
+    propositions = sorted((p for p in sources.charger()["propositions"] if not section or p["region"] == section),
                           key=lambda p: p.get("articles_ia_72h", 0), reverse=True)
     choisis = []
     for p in propositions:  # une section différente par essai, si possible
@@ -656,7 +718,7 @@ def agir(e: EtatPilote) -> dict:
     appliquees, comptes = [], {}
     for d in e["decisions"]:
         if par_id[d["id"]].get("imposee") and not d["appliquer"]:
-            d["appliquer"], d["raison"] = True, RAISON_IMPOSEE.get(
+            d["appliquer"], d["raison"] = True, par_id[d["id"]].get("raison_imposee") or RAISON_IMPOSEE.get(
                 par_id[d["id"]]["type"], "Décision mesurée, appliquée d'office.")
     # Reprises et fins d'essai d'abord (elles libèrent de la place), la relance en dernier
     # (elle profite des pauses décidées juste avant).
@@ -724,7 +786,7 @@ def agir(e: EtatPilote) -> dict:
                 _sauver(etat)  # la veille relancée doit voir les pauses de cette nuit
                 resultat = _relancer(c["section"])
             elif c["type"] == "decouvrir":
-                resultat = _decouvrir(etat, jour)
+                resultat = _decouvrir(etat, jour, None if c["section"] == "toutes" else c["section"])
         except Exception as erreur:
             d["appliquer"], d["raison"] = False, f"Échec de l'action ({type(erreur).__name__} : {erreur})."
             continue
@@ -761,7 +823,8 @@ def parier(e: EtatPilote) -> dict:
 def _libelle(action: str, source: str, section: str) -> str:
     ou = SECTIONS.get(section, "")
     return {"pause": f"Mise en pause de {source} ({ou})", "reprendre": f"Reprise de {source} ({ou})",
-            "relancer": f"Relance de la {source}", "decouvrir": "Recherche de nouveaux médias",
+            "relancer": f"Relance de la {source}",
+            "decouvrir": "Recherche de nouveaux médias" + (f" ({ou})" if ou else ""),
             "adopter": f"{source} ({ou}) gardé après son essai",
             "abandonner": f"{source} ({ou}) retiré après son essai",
             "experimenter": f"Expérience {ou} : {source}",

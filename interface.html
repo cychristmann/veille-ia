@@ -353,6 +353,20 @@
   .pilote { margin-top: 6px; }
   .pilote > summary .pastille { background: var(--accent); }
   .paris > summary .pastille { background: var(--chaud); }
+  .gouts { display: flex; flex-wrap: wrap; gap: 12px 20px; align-items: center; justify-content: space-between; margin: 18px 0 0; padding: 14px 16px; border-radius: 16px; background: var(--surface); border: 1px solid var(--bordure); }
+  .gouts > div { flex: 1 1 260px; min-width: 0; }
+  .gouts-titre { margin: 0 0 4px; font-weight: 600; }
+  .gouts-detail { margin: 0; font-size: .88rem; line-height: 1.55; color: var(--texte-3); overflow-wrap: anywhere; }
+  .bouton-gouts { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 8px 16px; border-radius: 999px; border: 1px solid var(--bordure); background: var(--surface-2, var(--surface)); color: var(--texte); font: inherit; font-weight: 600; cursor: pointer; }
+  .briefing { margin: 14px 0 0; padding: 14px 16px; border-radius: 16px; background: var(--surface); border: 1px solid var(--bordure); }
+  .briefing .surtitre { margin: 0; font-size: .78rem; text-transform: uppercase; letter-spacing: .05em; color: var(--texte-3); }
+  .briefing h2 { margin: 2px 0 10px; font-size: 1.05rem; line-height: 1.35; overflow-wrap: anywhere; }
+  .briefing .ecouter { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 8px 16px; border-radius: 999px; border: 0; background: var(--accent); color: var(--accent-texte); font: inherit; font-weight: 600; cursor: pointer; }
+  .briefing .ecouter:disabled { opacity: .6; cursor: progress; }
+  .briefing audio { width: 100%; margin: 4px 0 0; }
+  .briefing details { margin: 10px 0 0; font-size: .9rem; }
+  .briefing details summary { cursor: pointer; color: var(--texte-3); }
+  .briefing details p { margin: 8px 0 0; line-height: 1.6; max-width: 75ch; }
   .paris .corps li.gagne::marker { content: "✓  "; color: #3fb27f; }
   .paris .corps li.perdu::marker { content: "✗  "; color: #d9534f; }
   .paris .corps .proba { font-variant-numeric: tabular-nums; font-weight: 600; color: var(--texte); }
@@ -984,6 +998,14 @@
         </header>
         <p class="note-langue" id="note-langue" hidden><svg class="icone" data-icone="langues"></svg>Titres traduits en français par l'agent traducteur · titre original sous chaque article</p>
         <div class="alertes" id="alertes"></div>
+        <section class="briefing" id="briefing" hidden aria-labelledby="briefing-titre">
+          <p class="surtitre">Briefing audio du matin</p>
+          <h2 id="briefing-titre"></h2>
+          <button type="button" class="ecouter" id="briefing-ecouter" hidden>▶ Écouter</button>
+          <audio id="briefing-audio" controls preload="none" hidden></audio>
+          <p class="discret" id="briefing-erreur" hidden>Audio indisponible pour l'instant : le texte reste lisible ci-dessous.</p>
+          <details><summary>Lire le texte</summary><div id="briefing-texte"></div></details>
+        </section>
         <details class="sante" id="sante" hidden>
           <summary><span class="pastille"></span><span id="sante-resume"></span></summary>
           <ul id="sante-liste"></ul>
@@ -1221,6 +1243,13 @@
           <h1 class="titre-vue">Favoris <small class="nb" id="nb-favoris"></small></h1>
           <p class="intro-sources">Les articles que tu as marqués d'une étoile. Ils restent sur cet appareil, dans ce navigateur.</p>
         </header>
+        <div class="gouts">
+          <div>
+            <p class="gouts-titre">Tes goûts orientent la veille</p>
+            <p class="gouts-detail">Étoiles, articles ouverts et bouton « moins de sujets comme celui-ci » restent sur cet appareil. Exporte-les de temps en temps : la notation et le choix des dossiers en tiendront compte, avec mesure. <span id="resume-gouts"></span></p>
+          </div>
+          <button type="button" class="bouton-gouts" id="exporter-gouts"><svg class="icone" data-icone="telecharger"></svg><span>Exporter mes goûts</span></button>
+        </div>
         <div class="grille" id="grille-favoris" style="margin-top: 24px"></div>
         <p class="aucun-jour" id="aucun-favori" hidden>Aucun favori pour l'instant : touche l'étoile sur un article pour le garder ici.</p>
       </div>
@@ -1366,6 +1395,8 @@
 //
 // Clé française -> nom Lucide, pour retrouver l'icône sur lucide.dev.
 const ICONES = {
+  moins: '<path d="M17 14V2"/><path d="M9 18.12 10 14H4.17a2 2 0 0 1-1.92-2.56l2.33-8A2 2 0 0 1 6.5 2H20a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-2.76a2 2 0 0 0-1.79 1.11L12 22a3.13 3.13 0 0 1-3-3.88Z"/>', // thumbs-down
+  telecharger: '<path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="m7 10 5 5 5-5"/><path d="M12 15V3"/>', // download
   etincelles: '<path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"/><path d="M20 3v4"/><path d="M22 5h-4"/><path d="M4 17v2"/><path d="M5 18H3"/>', // sparkles
   actualiser: '<path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"/><path d="M8 16H3v5"/>', // refresh-cw
   calendrier: '<path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/><path d="M8 14h.01"/><path d="M12 14h.01"/><path d="M16 14h.01"/><path d="M8 18h.01"/><path d="M12 18h.01"/><path d="M16 18h.01"/>', // calendar-days
@@ -1468,6 +1499,7 @@ const URLS = STATIQUE
       sante: "donnees/sante.json",
       pilote: "donnees/pilote.json",
       paris: "donnees/paris.json",
+      briefing: "donnees/briefing.json",
     }
   : {
       jours: "/api/veilles",
@@ -1482,6 +1514,7 @@ const URLS = STATIQUE
       sante: "/api/sante",
       pilote: "/api/pilote",
       paris: "/api/paris",
+      briefing: "/api/briefing",
     };
 const SVG = "http://www.w3.org/2000/svg";
 function icone(nom) {
@@ -1624,7 +1657,10 @@ function carte(article) {
   const href = lienSur(article.lien);
   // Titre traduit en principal s'il existe (veille américaine), original en dessous.
   const lien = el(href ? "a" : "span", "", article.titre_fr || article.titre);
-  if (href) { lien.href = href; lien.target = "_blank"; lien.rel = "noopener noreferrer"; }
+  if (href) {
+    lien.href = href; lien.target = "_blank"; lien.rel = "noopener noreferrer";
+    lien.addEventListener("click", () => noterGout("lus", article));
+  }
   titre.append(lien);
   div.append(ligne, titre);
   if (article.titre_fr) div.append(el("p", "titre-original", article.titre));
@@ -1649,7 +1685,19 @@ function carte(article) {
   part.title = "Partager";
   part.append(icone("partage"));
   part.addEventListener("click", (e) => { e.preventDefault(); partager(article.titre_fr || article.titre, href || "", `${article.titre_fr || article.titre} — ${article.source}`); });
-  pied.append(favori, part);
+  const moins = el("button", "bouton-carte");
+  moins.type = "button";
+  moins.title = "Moins de sujets comme celui-ci";
+  moins.setAttribute("aria-label", "Moins de sujets comme celui-ci");
+  moins.setAttribute("aria-pressed", String(!!lireGouts().moins[article.lien]));
+  moins.append(icone("moins"));
+  moins.addEventListener("click", (e) => {
+    e.preventDefault();
+    const actif = basculerGout("moins", article);
+    moins.setAttribute("aria-pressed", String(actif));
+    toast(actif ? "Noté : moins de sujets comme celui-ci." : "Retiré.");
+  });
+  pied.append(favori, moins, part);
   div.append(pied);
   if (Number.isInteger(article.note)) div.dataset.note = String(article.note);
   div.dataset.recherche = sansAccents(`${article.titre} ${article.titre_fr || ""} ${article.source} ${article.resume} ${article.motif || ""}`);
@@ -1722,6 +1770,7 @@ function afficherVeille() {
   chargerSante(jourActif);
   chargerPilote(jourActif);
   chargerParis();
+  chargerBriefing(jourActif);
   afficherTop(veille.top);
   afficherRubrique("videos", veille.videos);
   afficherRubrique("podcasts", veille.podcasts);
@@ -2159,7 +2208,60 @@ function afficherFavoris() {
   $("nb-favoris").textContent = favs.length ? `(${favs.length})` : "";
   $("grille-favoris").replaceChildren(...favs.map(carte));
   $("aucun-favori").hidden = favs.length > 0;
+  majResumeGouts();
 }
+// ===== Goûts du lecteur (gouts.py) =====
+// Restent sur l'appareil ; « Exporter mes goûts » en fait un fichier à déposer dans le
+// dossier preferences/ du projet. Les favoris comptent comme « aimés ».
+const GOUTS_CLE = "veille-gouts";
+const MAX_GOUTS = 300;
+function lireGouts() {
+  try { const g = JSON.parse(localStorage.getItem(GOUTS_CLE)) || {}; return { moins: g.moins || {}, lus: g.lus || {} }; }
+  catch { return { moins: {}, lus: {} }; }
+}
+function ecrireGouts(g) {
+  for (const cle of ["moins", "lus"]) {  // on garde les plus récents
+    const entrees = Object.entries(g[cle]).sort((a, b) => b[1].ajoute - a[1].ajoute).slice(0, MAX_GOUTS);
+    g[cle] = Object.fromEntries(entrees);
+  }
+  try { localStorage.setItem(GOUTS_CLE, JSON.stringify(g)); } catch {}
+}
+function resumeArticle(a) {
+  return { titre: a.titre, titre_fr: a.titre_fr || "", source: a.source, lien: a.lien,
+           region: a.region || regionActive, motif: a.motif || "", ajoute: Date.now() };
+}
+function noterGout(type, article) {
+  if (!article.lien) return;
+  const g = lireGouts();
+  g[type][article.lien] = resumeArticle(article);
+  ecrireGouts(g);
+}
+function basculerGout(type, article) {
+  const g = lireGouts();
+  const actif = !g[type][article.lien];
+  if (actif) g[type][article.lien] = resumeArticle(article); else delete g[type][article.lien];
+  ecrireGouts(g);
+  return actif;
+}
+function exporterGouts() {
+  const g = lireGouts();
+  const aimes = Object.values(lireFavoris()).map((a) => ({ ...resumeArticle(a), region: a.region, ajoute: a.ajoute }));
+  const donnees = { exporte_le: new Date().toISOString(), aimes, moins: Object.values(g.moins), lus: Object.values(g.lus) };
+  const n = aimes.length + donnees.moins.length + donnees.lus.length;
+  if (!n) { toast("Rien à exporter pour l'instant : mets des étoiles, ouvre des articles…", true); return; }
+  const nom = `mes-gouts-${new Date().toISOString().slice(0, 10)}.json`;
+  const url = URL.createObjectURL(new Blob([JSON.stringify(donnees, null, 1)], { type: "application/json" }));
+  const a = el("a");
+  a.href = url; a.download = nom;
+  document.body.append(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 10000);
+  toast(`${nom} enregistré : dépose-le dans le dossier preferences/ du projet.`);
+}
+function majResumeGouts() {
+  const g = lireGouts();
+  $("resume-gouts").textContent = `${Object.keys(lireFavoris()).length} favoris · ${Object.keys(g.moins).length} « moins de ce genre » · ${Object.keys(g.lus).length} articles ouverts`;
+}
+
 function montrerFavoris() { ouvrirVueAnnexe("vue-favoris", "#favoris"); afficherFavoris(); }
 
 // ===== Partage (partage natif du téléphone, sinon copie du lien) =====
@@ -2175,6 +2277,7 @@ async function partager(titre, url, texte) {
     toast("Le partage n'est pas disponible dans ce navigateur.", true);
   }
 }
+$("exporter-gouts").addEventListener("click", exporterGouts);
 $("partager-synthese").addEventListener("click", () => {
   const region = REGIONS[regionActive];
   partager(`Veille IA ${region.adjectif} du ${fmt(dateLocale(jourActif), { day: "numeric", month: "long" })}`,
@@ -2867,6 +2970,44 @@ async function chargerPilote(date) {
   bloc.hidden = false;
 }
 
+// ===== Briefing audio du matin (briefing.py) =====
+// Le MP3 est téléchargé en entier au premier « Écouter » (et non par morceaux) : le service
+// worker en garde une copie, et le briefing s'écoute ensuite même hors connexion.
+let briefingCache;
+async function chargerBriefing(date) {
+  const bloc = $("briefing");
+  bloc.hidden = true;
+  if (briefingCache === undefined) {
+    try { briefingCache = await lireJSON(URLS.briefing); } catch { briefingCache = null; }
+  }
+  const b = briefingCache;
+  if (!b || b.vide || b.date !== date || date !== jourActif) return;
+  $("briefing-titre").textContent = b.titre;
+  $("briefing-texte").replaceChildren(...b.texte.split(/\n\s*\n/).map((p) => el("p", "", p)));
+  const bouton = $("briefing-ecouter");
+  const audio = $("briefing-audio");
+  if (b.audio && !audio.src) {
+    const minutes = Math.max(1, Math.round((b.duree || 0) / 60));
+    bouton.textContent = `▶ Écouter (${minutes} min)`;
+    bouton.hidden = false;
+    bouton.onclick = async () => {
+      bouton.disabled = true;
+      try {
+        const r = await fetch(b.audio);
+        if (!r.ok) throw new Error(String(r.status));
+        audio.src = URL.createObjectURL(await r.blob());
+        audio.hidden = false;
+        bouton.hidden = true;
+        audio.play().catch(() => {});
+      } catch {
+        $("briefing-erreur").hidden = false;
+        bouton.disabled = false;
+      }
+    };
+  }
+  bloc.hidden = false;
+}
+
 // ===== Paris du pilote (paris.py) =====
 let parisCharges = false;
 async function chargerParis() {
@@ -2885,6 +3026,11 @@ async function chargerParis() {
     corps.push(el("p", "", `Il annonce en moyenne ${s.confiance_moyenne} % de confiance et gagne ${s.reussite} % de ses paris : `
       + (Math.abs(ecart) <= 8 ? "il se connaît bien." : ecart > 0 ? "il est trop sûr de lui, il doit apprendre à douter." : "il se sous-estime.")
       + ` Score de calibration (Brier) : ${String(s.brier).replace(".", ",")}, où 0,25 vaut le hasard et 0 la perfection.`));
+    if (s.briers && s.briers.ia !== undefined) {
+      const nomMethode = { ia: "l'IA (confiance corrigée)", historique: "l'historique (les périodes passées comparables)", melange: "la moyenne de l'IA et de l'historique" }[s.methode];
+      const v = (x) => String(x).replace(".", ",");
+      corps.push(el("p", "", `Le code compare chaque pari au passé. Score de Brier : IA ${v(s.briers.ia)}, historique ${v(s.briers.historique)}, moyenne des deux ${v(s.briers.melange)}. La probabilité affichée est celle de ${nomMethode}, la plus fiable jusqu'ici. Paris de hausse gagnés : ${s.reussite_au_moins} ; de baisse : ${s.reussite_au_plus}.`));
+    }
     if (s.correction < 1) corps.push(el("p", "", `Correction automatique : ses nouvelles probabilités sont rapprochées de 50 % (facteur ${String(s.correction).replace(".", ",")}), calculé à partir de ses résultats passés.`));
   }
   const jm = (x) => `${x.slice(8, 10)}/${x.slice(5, 7)}`;

@@ -25,7 +25,8 @@ self.addEventListener("fetch", (evenement) => {
   evenement.respondWith(
     fetch(requete)
       .then((reponse) => {
-        if (reponse.ok) {
+        // 200 seulement : une réponse partielle (206, lecture audio par morceaux) ne se met pas en cache.
+        if (reponse.status === 200) {
           const copie = reponse.clone();
           caches.open(CACHE).then((cache) => cache.put(requete, copie));
         }
