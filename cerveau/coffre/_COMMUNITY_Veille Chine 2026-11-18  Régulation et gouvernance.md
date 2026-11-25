@@ -1,17 +1,16 @@
 ---
 type: community
-members: 4
+members: 3
 ---
 
 # Veille Chine 2026-11-18 : Régulation et gouvernance
 
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Veille Chine 2026-11-18  Régulation et gouvernance]] - document - veilles/veille-ia-cn-2026-11-18-t4.md
-- [[「万字长文」大模型异步 RL 框架的设计与权衡：从 Staleness 控制谈起]] - document - veilles/veille-ia-cn-2026-11-18-t4.md
-- [[惠誉：AI基础设施投资仍在扩大 商业化与投资回报待验证]] - document - veilles/veille-ia-cn-2026-11-18-t4.md
-- [[证监会澄清监管要求基金公司上报全部产品AI敞口传闻]] - document - veilles/veille-ia-cn-2026-11-18-t4.md
+- [[Brave]] - concept - veilles/veille-ia-us-2026-11-09-t6.md
+- [[NEAR AI]] - concept - veilles/veille-ia-us-2026-11-09-t6.md
+- [[Veille États-Unis 2026-11-09  Autres articles]] - document - veilles/veille-ia-us-2026-11-09-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,3 +18,9 @@ members: 4
 TABLE source_file, type FROM #community/Veille_Chine_2026-11-18__Régulation_et_gouvernance
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Nvidia]]
+
+## Top bridge nodes
+- [[Veille États-Unis 2026-11-09  Autres articles]] - degree 3, connects to 1 community

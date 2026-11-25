@@ -1,16 +1,23 @@
 ---
 type: community
-members: 3
+members: 10
 ---
 
 # OpenRouter
 
-**Members:** 3 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[Boltz]] - concept - veilles/veille-ia-fr-2026-11-22-t7.md
-- [[OpenRouter]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
-- [[Veille France 2026-11-22]] - document - veilles/veille-ia-fr-2026-11-22-t7.md
+- [[ByteDance]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
+- [[Deepal L07]] - concept - veilles/veille-ia-cn-2026-11-23-t6.md
+- [[Doubao]] - concept - veilles/veille-ia-cn-2026-11-23-t6.md
+- [[JD.com]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
+- [[Kimi]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
+- [[Taobao]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
+- [[Veille Chine 2026-11-12  IA dans le commerce et le divertissement]] - document - veilles/veille-ia-cn-2026-11-12-t3.md
+- [[傲融云客]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
+- [[息壤杯]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
+- [[绿地南昌卢塞恩OPC社区]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,14 +27,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-17]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-12]]
-- 1 edge to [[_COMMUNITY_Hugging Face_1]]
-- 1 edge to [[_COMMUNITY_David Tepper_1]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-23  Sécurité, conformité et fuites liées aux IA]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20_2]]
+- 1 edge to [[_COMMUNITY_DeepSeek_1]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-23]]
+- 1 edge to [[_COMMUNITY_Meta_1]]
 
 ## Top bridge nodes
-- [[OpenRouter]] - degree 5, connects to 4 communities
-- [[Veille France 2026-11-22]] - degree 5, connects to 3 communities
+- [[Doubao]] - degree 4, connects to 1 community
+- [[Deepal L07]] - degree 2, connects to 1 community
+- [[JD.com]] - degree 2, connects to 1 community

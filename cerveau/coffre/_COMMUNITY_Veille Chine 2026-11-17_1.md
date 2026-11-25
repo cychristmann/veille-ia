@@ -1,31 +1,25 @@
 ---
 type: community
-members: 18
+members: 12
 ---
 
 # Veille Chine 2026-11-17
 
-**Members:** 18 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[AI Gigafactory Northern]] - concept - dossiers/2026-11-19-3.md
-- [[Acer Aspire 14 AI]] - concept - veilles/veille-ia-fr-2026-11-21-t4.md
-- [[Architect Labs]] - concept - veilles/veille-ia-fr-2026-11-21-t4.md
-- [[Blade]] - concept - dossiers/2026-11-19-3.md
-- [[EUSP]] - concept - feuilletons/f-0034.md
-- [[EuroHPC JU]] - concept - dossiers/2026-11-19-3.md
-- [[Feuilleton Alliance européenne pour le développement d'une IA souveraine de bout en bout]] - document - feuilletons/f-0034.md
-- [[Frostbite]] - concept - veilles/veille-ia-fr-2026-11-21-t4.md
-- [[OVHai LLM]] - concept - dossiers/2026-11-19-3.md
-- [[OVHcloud]] - concept - feuilletons/f-0034.md
-- [[Olala]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
-- [[Olala mini]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
-- [[Praxis Tech]] - concept - veilles/veille-ia-fr-2026-11-21-t4.md
-- [[Qwant]] - concept - feuilletons/f-0034.md
-- [[Shadow]] - concept - feuilletons/f-0034.md
-- [[Staan]] - concept - dossiers/2026-11-19-3.md
-- [[Veille France 2026-11-19  Régulation, souveraineté et enjeux sociétaux]] - document - veilles/veille-ia-fr-2026-11-19-t3.md
-- [[Veille France 2026-11-21  Applications industrielles & produits]] - document - veilles/veille-ia-fr-2026-11-21-t4.md
+- [[AI 新业态纳税]] - concept - veilles/veille-ia-cn-2026-11-17-t6.md
+- [[Google Cloud]] - concept - veilles/veille-ia-cn-2026-11-17-t2.md
+- [[Industrial AI]] - concept - veilles/veille-ia-cn-2026-11-17-t1.md
+- [[Kinexys]] - concept - veilles/veille-ia-cn-2026-11-18-t2.md
+- [[Kling AI]] - concept - veilles/veille-ia-cn-2026-11-17-t2.md
+- [[Kling Image 4.0]] - concept - veilles/veille-ia-cn-2026-11-17-t2.md
+- [[Pedestal AI]] - concept - veilles/veille-ia-cn-2026-11-18-t2.md
+- [[SAP]] - concept - veilles/veille-ia-cn-2026-11-17-t2.md
+- [[Veille Chine 2026-11-17]] - document - veilles/veille-ia-cn-2026-11-17-t2.md
+- [[Veille Chine 2026-11-18  Financement et marché]] - document - veilles/veille-ia-cn-2026-11-18-t2.md
+- [[苹果手机 AI 功能]] - concept - veilles/veille-ia-cn-2026-11-17-t6.md
+- [[识渊科技]] - concept - veilles/veille-ia-cn-2026-11-18-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -35,13 +29,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
+- 1 edge to [[_COMMUNITY_Microsoft]]
 - 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_Apple]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-09  Autres articles]]
-- 1 edge to [[_COMMUNITY_David Tepper_1]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20_2]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-23  Marchés et investissements IA]]
+- 1 edge to [[_COMMUNITY_Jensen Huang]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-21  Applications industrielles & produits]] - degree 7, connects to 3 communities
-- [[OVHcloud]] - degree 8, connects to 1 community
-- [[Olala mini]] - degree 2, connects to 1 community
+- [[Veille Chine 2026-11-17]] - degree 11, connects to 5 communities
+- [[Kinexys]] - degree 2, connects to 1 community

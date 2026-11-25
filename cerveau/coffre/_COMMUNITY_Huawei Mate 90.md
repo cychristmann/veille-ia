@@ -1,18 +1,17 @@
 ---
 type: community
-members: 5
+members: 4
 ---
 
 # Huawei Mate 90
 
-**Members:** 5 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Veille Chine 2026-11-14  IA industrielle et infrastructure]] - document - veilles/veille-ia-cn-2026-11-14-t2.md
-- [[天神之眼系统]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
-- [[比亚迪辅助驾驶车型保有量超 419 万辆]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
-- [[浙江算力规模超198EFLOPS]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
-- [[百度智能云战略合作]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[HarmonyOS 7]] - code - veilles/veille-ia-cn-2026-11-17-t4.md
+- [[Huawei Mate 90]] - code - veilles/veille-ia-cn-2026-11-17-t4.md
+- [[OSTA O1 Pro]] - code - veilles/veille-ia-cn-2026-11-17-t4.md
+- [[Veille Chine 2026-11-17 (T4)]] - document - veilles/veille-ia-cn-2026-11-17-t4.md
 
 ## Live Query (requires Dataview plugin)
 

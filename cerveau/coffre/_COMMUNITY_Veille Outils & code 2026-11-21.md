@@ -1,32 +1,28 @@
 ---
 type: community
-members: 19
+members: 15
 ---
 
 # Veille Outils & code 2026-11-21
 
-**Members:** 19 nodes
+**Members:** 15 nodes
 
 ## Members
-- [[AI Agents]] - concept - veilles/veille-ia-us-2026-11-12-t2.md
-- [[AWS Emulator]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
-- [[Agent Substrate]] - concept - veilles/veille-ia-dev-2026-11-22-t5.md
-- [[Agent Toolkit for AWS]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
-- [[ClawDOS]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
-- [[Eclipse]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
-- [[Formal Verification]] - concept - veilles/veille-ia-dev-2026-11-22-t5.md
-- [[Gemini Computer Use]] - concept - veilles/veille-ia-dev-2026-11-21-t2.md
-- [[Mastra]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
-- [[Nemotron-Labs-Sigma]] - concept - veilles/veille-ia-dev-2026-11-21-t2.md
-- [[Smithy API Models]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
-- [[Tamekoshi]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
-- [[TensorLean]] - concept - veilles/veille-ia-dev-2026-11-22-t5.md
-- [[Veille Outils & code 2026-11-21]] - document - veilles/veille-ia-dev-2026-11-21-t1.md
-- [[Veille Outils & code 2026-11-22 (t5)]] - document - veilles/veille-ia-dev-2026-11-22-t5.md
-- [[Veille États-Unis 2026-11-12  Applications industrielles et commerciales de l'IA]] - document - veilles/veille-ia-us-2026-11-12-t6.md
-- [[Veille États-Unis 2026-11-12  Régulation, politiques et protestations liées à l'IA]] - document - veilles/veille-ia-us-2026-11-12-t2.md
-- [[WiCi Infer]] - concept - veilles/veille-ia-dev-2026-11-21-t2.md
-- [[gVisor]] - concept - veilles/veille-ia-dev-2026-11-22-t5.md
+- [[Affiches IA bannies à Ornans]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
+- [[Anthropic millionnaires]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
+- [[Arnaques Black Friday]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
+- [[Black Friday e-commerce]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
+- [[Cinq métiers émergents IA]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
+- [[ESET]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
+- [[ESET protection IA]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
+- [[Fonctions IA smartphone]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
+- [[IA photos appartements]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
+- [[Kasikornbank]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
+- [[Micro IA portable]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
+- [[Ornans]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
+- [[Retraite anticipée Kasikornbank]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
+- [[Scandale de triche à l’IA en Corée du Sud]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
+- [[Veille France 2026-11-22  Applications grand public]] - document - veilles/veille-ia-fr-2026-11-22-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -36,19 +32,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 5 edges to [[_COMMUNITY_Veille Outils & code 2026-11-22]]
-- 3 edges to [[_COMMUNITY_Veille Outils & code 2026-11-20_1]]
-- 2 edges to [[_COMMUNITY_Gemini 4 Hydrogen]]
-- 2 edges to [[_COMMUNITY_ARTEX_1]]
-- 1 edge to [[_COMMUNITY_Débats à Saint-Tropez]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-22  Marchés et finance]]
-- 1 edge to [[_COMMUNITY_Cursor_1]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14  Autres articles]]
-- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets]]
-- 1 edge to [[_COMMUNITY_Model Context Protocol (MCP)]]
-- 1 edge to [[_COMMUNITY_JPMorgan]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_Amazon]]
+- 1 edge to [[_COMMUNITY_Mistral]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-21]] - degree 23, connects to 7 communities
-- [[AWS Emulator]] - degree 8, connects to 4 communities
-- [[AI Agents]] - degree 8, connects to 3 communities
+- [[Veille France 2026-11-22  Applications grand public]] - degree 13, connects to 2 communities
+- [[Anthropic millionnaires]] - degree 2, connects to 1 community

@@ -1,18 +1,16 @@
 ---
 type: community
-members: 5
+members: 3
 ---
 
 # Veille Outils & code 2026-11-17 (T4)
 
-**Members:** 5 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Dossier  Alliance européenne pour une IA souveraine]] - document - dossiers/2026-11-19-3.md
-- [[IA souveraine  pourquoi l’Europe doit accélérer]] - document - dossiers/2026-11-19-3.md
-- [[Nokia et Telia lancent un consortium]] - document - dossiers/2026-11-19-3.md
-- [[Nokia projette une gigafactory]] - document - dossiers/2026-11-19-3.md
-- [[OVHcloud  infrastructure IA]] - document - dossiers/2026-11-19-3.md
+- [[GitGuardian Good Samaritan Program]] - concept - veilles/veille-ia-dev-2026-11-17-t4.md
+- [[State of AI Impact on Software Security and Cybersecurity 2026]] - document - veilles/veille-ia-dev-2026-11-17-t4.md
+- [[Veille Outils & code 2026-11-17 (T4)]] - document - veilles/veille-ia-dev-2026-11-17-t4.md
 
 ## Live Query (requires Dataview plugin)
 

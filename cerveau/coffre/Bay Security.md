@@ -1,18 +1,13 @@
 ---
-source_file: "feuilletons/f-0004.md"
+source_file: "veilles/veille-ia-us-2026-11-10-t1.md"
 type: "concept"
-community: "GPT-6 Astra"
+community: "Bay Security"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Bay_Security
 ---
 
 # Bay Security
 
-## Connections
-- [[GovInfoSecurity]] - `cites` [EXTRACTED]
-- [[Reuters]] - `cites` [EXTRACTED]
-- [[Zonebourse]] - `cites` [EXTRACTED]
-
-#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/concept #graphify/EXTRACTED #community/Bay_Security

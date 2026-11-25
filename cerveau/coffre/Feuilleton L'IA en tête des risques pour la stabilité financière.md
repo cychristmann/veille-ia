@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0021.md"
 type: "document"
-community: "Goldman Sachs"
+community: "Hugging Face"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Goldman_Sachs
+  - community/Hugging_Face
 ---
 
 # Feuilleton: L'IA en tête des risques pour la stabilité financière
@@ -14,4 +14,4 @@ tags:
 - [[Federal Reserve]] - `references` [EXTRACTED]
 - [[Feng Runhuan]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Goldman_Sachs
+#graphify/document #graphify/EXTRACTED #community/Hugging_Face

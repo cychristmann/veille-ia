@@ -1,20 +1,18 @@
 ---
 type: community
-members: 7
+members: 5
 ---
 
 # Hypothèse de Riemann
 
-**Members:** 7 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[ASRock Industrial]] - concept - veilles/veille-ia-fr-2026-11-24-t5.md
-- [[Feuilleton f-0038]] - document - feuilletons/f-0038.md
-- [[Foxconn]] - code - veilles/veille-ia-us-2026-11-16-t2.md
-- [[Intel]] - code - veilles/veille-ia-us-2026-11-16-t2.md
-- [[Processeur IA]] - concept - feuilletons/f-0038.md
-- [[SambaNova Systems]] - code - veilles/veille-ia-us-2026-11-16-t2.md
-- [[Veille États-Unis 2026-11-16 (Industrie)]] - document - veilles/veille-ia-us-2026-11-16-t2.md
+- [[Clay Mathematics Institute]] - concept - dossiers/2026-11-22-1.md
+- [[Feuilleton Résolution de l'hypothèse de Riemann grâce à l'IA d'Anthropic]] - document - feuilletons/f-0036.md
+- [[Hypothèse de Riemann]] - concept - veilles/veille-ia-fr-2026-11-21-t3.md
+- [[Shing-Tong Yau]] - concept - feuilletons/f-0036.md
+- [[Veille France 2026-11-21  Recherche scientifique & mathématiques]] - document - veilles/veille-ia-fr-2026-11-21-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,11 +22,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_AMD]]
-- 1 edge to [[_COMMUNITY_ASML]]
-- 1 edge to [[_COMMUNITY_CoreWeave]]
+- 2 edges to [[_COMMUNITY_Claude]]
+- 1 edge to [[_COMMUNITY_Riemann Hypothesis]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
 
 ## Top bridge nodes
-- [[Intel]] - degree 7, connects to 2 communities
-- [[Processeur IA]] - degree 2, connects to 1 community
-- [[Feuilleton f-0038]] - degree 2, connects to 1 community
+- [[Hypothèse de Riemann]] - degree 6, connects to 2 communities
+- [[Feuilleton Résolution de l'hypothèse de Riemann grâce à l'IA d'Anthropic]] - degree 3, connects to 2 communities

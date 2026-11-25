@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Veille Chine 2026-11-12  Régulation, géopolitique et politique]] - document - veilles/veille-ia-cn-2026-11-12-t4.md
-- [[中信证券]] - concept - veilles/veille-ia-cn-2026-11-12-t4.md
+- [[AWS Budgets]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
+- [[IAM]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
 
 ## Live Query (requires Dataview plugin)
 

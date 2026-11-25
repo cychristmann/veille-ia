@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Edelbyte
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[L&T Technology Services]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
-- [[SDVault.ai]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
+- [[Edelbyte]] - code - veilles/veille-ia-us-2026-11-11-t4.md
 
 ## Live Query (requires Dataview plugin)
 

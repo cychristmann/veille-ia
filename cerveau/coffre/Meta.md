@@ -1,9 +1,9 @@
 ---
-source_file: "dossiers/2026-11-18-2.md"
-type: "concept"
+source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
+type: "code"
 community: "Meta"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
   - community/Meta
 ---
@@ -20,6 +20,7 @@ tags:
 - [[Muse]] - `references` [EXTRACTED]
 - [[Muse AI Agent]] - `references` [EXTRACTED]
 - [[Muse AI assistant]] - `references` [EXTRACTED]
+- [[Muse Agent]] - `references` [EXTRACTED]
 - [[Muse Charm]] - `references` [EXTRACTED]
 - [[Muse Ember]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
@@ -34,4 +35,4 @@ tags:
 - [[Veille États-Unis 2026-11-22  Marché, investissements et actions IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-24  Produits, Services & Expériences utilisateur]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Meta
+#graphify/code #graphify/EXTRACTED #community/Meta

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-21-t1.md"
 type: "document"
-community: "Veille France 2026-11-12"
+community: "Veille États-Unis 2026-11-13 : Développements et investissements corporatifs"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-12
+  - community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
 ---
 
 # Veille États-Unis 2026-11-21 : Anthropic & Riemann
@@ -17,4 +17,4 @@ tags:
 - [[Riemann Hypothesis]] - `references` [EXTRACTED]
 - [[Signal]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-12
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs

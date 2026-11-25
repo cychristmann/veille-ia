@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # AWS Budgets
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Bland]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
-- [[Tofu-1]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[Veille Chine 2026-11-11 Régulation et gouvernance]] - document - veilles/veille-ia-cn-2026-11-11-t4.md
+- [[文投控股 (Wentou Holdings)]] - concept - veilles/veille-ia-cn-2026-11-11-t4.md
+- [[清华大学人工智能国际治理研究院 (Tsinghua IAGI)]] - concept - veilles/veille-ia-cn-2026-11-11-t4.md
 
 ## Live Query (requires Dataview plugin)
 

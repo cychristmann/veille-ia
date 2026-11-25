@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-18-t1.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-14 : Impact Social, Éthique et Travail"
+community: "Veille États-Unis 2026-11-11 : Éducation et formation à l'IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-14__Impact_Social_Éthique_et_Travail
+  - community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA
 ---
 
 # Brevis Arca AI
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Impact_Social_Éthique_et_Travail
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA

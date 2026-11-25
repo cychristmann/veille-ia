@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t4.md"
 type: "code"
-community: "Jensen Huang"
+community: "ChatGPT Wallet"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Jensen_Huang
+  - community/ChatGPT_Wallet
 ---
 
 # ChatGPT
@@ -18,4 +18,4 @@ tags:
 - [[Veille Outils & code 2026-11-24  Sécurité des agents de codage IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-15  Impact culturel et médiatique de l'IA]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Jensen_Huang
+#graphify/code #graphify/EXTRACTED #community/ChatGPT_Wallet

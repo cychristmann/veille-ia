@@ -3,25 +3,29 @@
 > Chaque nuit, le pilote parie sur l'actualité des jours suivants ; les veilles
 > suivantes tranchent. Note réécrite chaque nuit.
 
-**10 gagnés sur 26** (38 %), pour une confiance moyenne de 66 %. Score de Brier : 0.319 (0,25 = hasard, 0 = parfait).
+**12 gagnés sur 29** (41 %), pour une confiance moyenne de 67 %. Score de Brier : 0.31 (0,25 = hasard, 0 = parfait).
+
+Probabilité retenue : celle de la moyenne de l'IA et de l'historique (Brier — IA 0.261, historique 0.244, moyenne 0.234).
 
 ## En cours
 
-- Gemini : au moins 20 articles (Outils & code) sur les 4 prochains jours — 54 %, échéance 2026-11-25 · [[Gemini]]
 - Amazon : au plus 6 articles (États-Unis et Outils & code) sur les 5 prochains jours — 56 %, échéance 2026-11-26 · [[Amazon]]
-- Nvidia : au moins 22 articles (États-Unis et France) sur les 3 prochains jours — 55 %, échéance 2026-11-25 · [[Nvidia]]
 - Agents IA : au moins 9 articles (Chine) sur les 4 prochains jours — 53 %, échéance 2026-11-26 · [[Agents IA]]
-- GitHub : au plus 12 articles (Outils & code) sur les 2 prochains jours — 54 %, échéance 2026-11-25 · [[GitHub]]
 - China : au moins 8 articles (Chine) sur les 4 prochains jours — 56 %, échéance 2026-11-27 · [[China]]
 - Meta : au moins 8 articles (France et États-Unis) sur les 5 prochains jours — 53 %, échéance 2026-11-28 · [[Meta]]
 - Anthropic : au moins 30 articles (France et États-Unis) sur les 3 prochains jours — 54 %, échéance 2026-11-27 · [[Anthropic]]
 - Claude Code : au plus 10 articles (Outils & code) sur les 2 prochains jours — 52 %, échéance 2026-11-26 · [[Claude Code]]
 - Google : au moins 8 articles (Chine) sur les 4 prochains jours — 52 %, échéance 2026-11-28 · [[Google]]
+- OpenAI : au plus 12 articles (France et États-Unis) sur les 5 prochains jours — 49 %, échéance 2026-11-30 · [[OpenAI]]
+- AWS : au plus 5 articles (Outils & code) sur les 2 prochains jours — 56 %, échéance 2026-11-27 · [[AWS]]
 
 ## Tranchés
 
+- ✅ GitHub : au plus 12 articles (Outils & code) sur les 2 prochains jours (54 %) → 3 article(s) · [[GitHub]]
+- ✅ Nvidia : au moins 22 articles (États-Unis et France) sur les 3 prochains jours (55 %) → 26 article(s) · [[Nvidia]]
 - ❌ Claude : au plus 12 articles (Outils & code) sur les 2 prochains jours (52 %) → 35 article(s) · [[Claude]]
 - ✅ Jensen Huang : au moins 5 articles (France et États-Unis) sur les 3 prochains jours (53 %) → 12 article(s) · [[Jensen Huang]]
+- ❌ Gemini : au moins 20 articles (Outils & code) sur les 4 prochains jours (54 %) → 6 article(s) · [[Gemini]]
 - ❌ AI Agents : au moins 14 articles (Chine) sur les 3 prochains jours (52 %) → 0 article(s) · [[AI Agents]]
 - ✅ Claude Code : au plus 10 articles (Outils & code) sur les 2 prochains jours (56 %) → 6 article(s) · [[Claude Code]]
 - ❌ Anthropic : au moins 28 articles (France et États-Unis) sur les 3 prochains jours (54 %) → 22 article(s) · [[Anthropic]]

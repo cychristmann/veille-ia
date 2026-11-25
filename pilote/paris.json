@@ -19,7 +19,9 @@
    "phrase_ia": "Dans les trois prochains jours, le nombre d'articles citant Anthropic en France et aux États‑Unis sera au moins de 25.",
    "rejoue": true,
    "observe": 10,
-   "resolu_le": "2026-11-13"
+   "resolu_le": "2026-11-13",
+   "probabilite_stat": 0.67,
+   "historique": "1/1"
   },
   {
    "id": "2026-11-10-2",
@@ -41,7 +43,9 @@
    "phrase_ia": "Dans les deux prochains jours, le nombre d'articles citant Claude sera au plus de 12.",
    "rejoue": true,
    "observe": 6,
-   "resolu_le": "2026-11-12"
+   "resolu_le": "2026-11-12",
+   "probabilite_stat": 0.25,
+   "historique": "0/2"
   },
   {
    "id": "2026-11-10-3",
@@ -62,7 +66,9 @@
    "phrase_ia": "Sur les quatre prochains jours, au moins 18 articles mentionneront Nvidia en France et aux États‑Unis.",
    "rejoue": true,
    "observe": 34,
-   "resolu_le": "2026-11-14"
+   "resolu_le": "2026-11-14",
+   "probabilite_stat": 0.5,
+   "historique": "0/0"
   },
   {
    "id": "2026-11-11-1",
@@ -83,7 +89,9 @@
    "phrase_ia": "Meta sera cité dans au moins 10 articles aux États‑Unis ou dans les sections Outils & code d'ici le 2026‑11‑14.",
    "rejoue": true,
    "observe": 3,
-   "resolu_le": "2026-11-14"
+   "resolu_le": "2026-11-14",
+   "probabilite_stat": 0.25,
+   "historique": "0/2"
   },
   {
    "id": "2026-11-11-2",
@@ -104,7 +112,9 @@
    "phrase_ia": "Jensen Huang sera cité dans au moins 5 articles en Chine ou aux États‑Unis d'ici le 2026‑11‑15.",
    "rejoue": true,
    "observe": 12,
-   "resolu_le": "2026-11-15"
+   "resolu_le": "2026-11-15",
+   "probabilite_stat": 0.33,
+   "historique": "0/1"
   },
   {
    "id": "2026-11-11-3",
@@ -125,7 +135,9 @@
    "phrase_ia": "Claude Fable sera mentionnée dans au plus 3 articles en France ou dans les outils & code d'ici le 2026‑11‑14.",
    "rejoue": true,
    "observe": 0,
-   "resolu_le": "2026-11-14"
+   "resolu_le": "2026-11-14",
+   "probabilite_stat": 0.25,
+   "historique": "0/2"
   },
   {
    "id": "2026-11-12-1",
@@ -146,7 +158,9 @@
    "phrase_ia": "OpenAI sera cité au moins 15 fois dans les sections États‑Unis et Outils & code d'ici le 15 novembre 2026.",
    "rejoue": true,
    "observe": 10,
-   "resolu_le": "2026-11-15"
+   "resolu_le": "2026-11-15",
+   "probabilite_stat": 0.2,
+   "historique": "0/3"
   },
   {
    "id": "2026-11-12-2",
@@ -166,7 +180,9 @@
    "phrase_ia": "Claude Code sera cité au moins 10 fois dans la section Outils & code d'ici le 16 novembre 2026.",
    "rejoue": true,
    "observe": 38,
-   "resolu_le": "2026-11-16"
+   "resolu_le": "2026-11-16",
+   "probabilite_stat": 0.5,
+   "historique": "0/0"
   },
   {
    "id": "2026-11-12-3",
@@ -186,7 +202,9 @@
    "phrase_ia": "Le terme China sera cité au plus 3 fois dans la section Chine d'ici le 15 novembre 2026.",
    "rejoue": true,
    "observe": 5,
-   "resolu_le": "2026-11-15"
+   "resolu_le": "2026-11-15",
+   "probabilite_stat": 0.67,
+   "historique": "1/1"
   },
   {
    "id": "2026-11-13-1",
@@ -207,7 +225,9 @@
    "phrase_ia": "Anthropic sera cité dans au moins 22 articles en France et aux États-Unis sur les trois prochains jours.",
    "rejoue": true,
    "observe": 9,
-   "resolu_le": "2026-11-16"
+   "resolu_le": "2026-11-16",
+   "probabilite_stat": 0.67,
+   "historique": "3/4"
   },
   {
    "id": "2026-11-13-2",
@@ -227,7 +247,9 @@
    "phrase_ia": "Google sera cité dans au plus 1 article en Chine sur les quatre prochains jours.",
    "rejoue": true,
    "observe": 1,
-   "resolu_le": "2026-11-17"
+   "resolu_le": "2026-11-17",
+   "probabilite_stat": 0.33,
+   "historique": "0/1"
   },
   {
    "id": "2026-11-13-3",
@@ -248,7 +270,9 @@
    "phrase_ia": "Microsoft sera cité dans au moins 9 articles d'outils & code et aux États-Unis sur les cinq prochains jours.",
    "rejoue": true,
    "observe": 17,
-   "resolu_le": "2026-11-18"
+   "resolu_le": "2026-11-18",
+   "probabilite_stat": 0.5,
+   "historique": "1/2"
   },
   {
    "id": "2026-11-14-1",
@@ -269,7 +293,9 @@
    "phrase_ia": "Nvidia aura au moins 28 articles (France et États‑Unis) sur les 3 prochains jours.",
    "rejoue": true,
    "observe": 24,
-   "resolu_le": "2026-11-17"
+   "resolu_le": "2026-11-17",
+   "probabilite_stat": 0.43,
+   "historique": "2/5"
   },
   {
    "id": "2026-11-15-1",
@@ -289,7 +315,9 @@
    "phrase_ia": "Il y aura au moins 5 articles sur CoreWeave (Chine) dans les deux prochains jours.",
    "rejoue": true,
    "observe": 0,
-   "resolu_le": "2026-11-17"
+   "resolu_le": "2026-11-17",
+   "probabilite_stat": 0.14,
+   "historique": "0/5"
   },
   {
    "id": "2026-11-16-1",
@@ -309,7 +337,9 @@
    "phrase_ia": "Claude sera mentionné dans au moins 50 articles d'outils & code au cours des 3 prochains jours.",
    "rejoue": true,
    "observe": 20,
-   "resolu_le": "2026-11-19"
+   "resolu_le": "2026-11-19",
+   "probabilite_stat": 0.2,
+   "historique": "0/3"
   },
   {
    "id": "2026-11-16-2",
@@ -330,7 +360,9 @@
    "phrase_ia": "Anthropic sera mentionné dans au moins 25 articles en France et aux États-Unis au cours des 4 prochains jours.",
    "rejoue": true,
    "observe": 50,
-   "resolu_le": "2026-11-20"
+   "resolu_le": "2026-11-20",
+   "probabilite_stat": 0.38,
+   "historique": "2/6"
   },
   {
    "id": "2026-11-16-3",
@@ -371,7 +403,9 @@
    "phrase_ia": "Nvidia sera cité au moins 40 fois dans les sections France et États‑Unis sur les 4 prochains jours.",
    "rejoue": false,
    "observe": 17,
-   "resolu_le": "2026-11-21"
+   "resolu_le": "2026-11-21",
+   "probabilite_stat": 0.11,
+   "historique": "0/7"
   },
   {
    "id": "2026-11-17-2",
@@ -391,7 +425,9 @@
    "phrase_ia": "Google sera cité au moins 4 fois dans la section Chine sur les 3 prochains jours.",
    "rejoue": false,
    "observe": 3,
-   "resolu_le": "2026-11-20"
+   "resolu_le": "2026-11-20",
+   "probabilite_stat": 0.12,
+   "historique": "0/6"
   },
   {
    "id": "2026-11-18-1",
@@ -411,7 +447,9 @@
    "phrase_ia": "Les Agents IA seront mentionnés dans au moins 12 articles (Chine) au cours des trois prochains jours.",
    "rejoue": false,
    "observe": 3,
-   "resolu_le": "2026-11-21"
+   "resolu_le": "2026-11-21",
+   "probabilite_stat": 0.11,
+   "historique": "0/7"
   },
   {
    "id": "2026-11-18-2",
@@ -431,7 +469,9 @@
    "phrase_ia": "GitHub sera cité dans au moins 20 articles (Outils & code) pendant les cinq prochains jours.",
    "rejoue": false,
    "observe": 11,
-   "resolu_le": "2026-11-23"
+   "resolu_le": "2026-11-23",
+   "probabilite_stat": 0.6,
+   "historique": "2/3"
   },
   {
    "id": "2026-11-19-1",
@@ -451,7 +491,9 @@
    "phrase_ia": "Claude sera cité dans au moins 30 articles Outils & code sur les 3 prochains jours.",
    "rejoue": false,
    "observe": 23,
-   "resolu_le": "2026-11-22"
+   "resolu_le": "2026-11-22",
+   "probabilite_stat": 0.75,
+   "historique": "5/6"
   },
   {
    "id": "2026-11-20-1",
@@ -473,7 +515,9 @@
    "rejoue": false,
    "probabilite_ia": 0.62,
    "observe": 22,
-   "resolu_le": "2026-11-23"
+   "resolu_le": "2026-11-23",
+   "probabilite_stat": 0.31,
+   "historique": "3/11"
   },
   {
    "id": "2026-11-20-2",
@@ -494,7 +538,9 @@
    "rejoue": false,
    "probabilite_ia": 0.71,
    "observe": 6,
-   "resolu_le": "2026-11-22"
+   "resolu_le": "2026-11-22",
+   "probabilite_stat": 0.3,
+   "historique": "2/8"
   },
   {
    "id": "2026-11-20-3",
@@ -515,13 +561,15 @@
    "rejoue": false,
    "probabilite_ia": 0.58,
    "observe": 0,
-   "resolu_le": "2026-11-23"
+   "resolu_le": "2026-11-23",
+   "probabilite_stat": 0.09,
+   "historique": "0/9"
   },
   {
    "id": "2026-11-21-1",
    "date": "2026-11-21",
    "echeance": "2026-11-25",
-   "statut": "en_cours",
+   "statut": "perdu",
    "entite": "Gemini",
    "sections": [
     "dev"
@@ -534,7 +582,11 @@
    "raisonnement": "Après une forte hausse récente (14 articles hier) la tendance semble soutenue, mais la moyenne reste autour de 6‑7, rendant 20 plausible.",
    "phrase_ia": "Gemini sera mentionné dans au moins 20 articles Outils & code sur les 4 prochains jours.",
    "rejoue": false,
-   "probabilite_ia": 0.62
+   "probabilite_ia": 0.62,
+   "probabilite_stat": 0.11,
+   "historique": "0/7",
+   "observe": 6,
+   "resolu_le": "2026-11-25"
   },
   {
    "id": "2026-11-21-2",
@@ -554,7 +606,9 @@
    "raisonnement": "Les totaux US et dev sont historiquement faibles (5‑7) et la récente dynamique est stable, donc dépasser 6 reste improbable.",
    "phrase_ia": "Amazon sera cité dans au plus 6 articles États‑Unis et Outils & code sur les 5 prochains jours.",
    "rejoue": false,
-   "probabilite_ia": 0.71
+   "probabilite_ia": 0.71,
+   "probabilite_stat": 0.17,
+   "historique": "1/10"
   },
   {
    "id": "2026-11-21-3",
@@ -576,7 +630,9 @@
    "rejoue": false,
    "probabilite_ia": 0.59,
    "observe": 12,
-   "resolu_le": "2026-11-24"
+   "resolu_le": "2026-11-24",
+   "probabilite_stat": 0.5,
+   "historique": "6/12"
   },
   {
    "id": "2026-11-22-1",
@@ -597,13 +653,15 @@
    "rejoue": false,
    "probabilite_ia": 0.58,
    "observe": 35,
-   "resolu_le": "2026-11-24"
+   "resolu_le": "2026-11-24",
+   "probabilite_stat": 0.17,
+   "historique": "1/10"
   },
   {
    "id": "2026-11-22-2",
    "date": "2026-11-22",
    "echeance": "2026-11-25",
-   "statut": "en_cours",
+   "statut": "gagne",
    "entite": "Nvidia",
    "sections": [
     "us",
@@ -617,7 +675,11 @@
    "raisonnement": "Les totaux récents (fr+us) sont 37 sur 7 j, soit ≈5,3/jour ; une hausse soutenue autour de 7‑8/jour rend 22 plausible.",
    "phrase_ia": "Nvidia sera cité dans au moins 22 articles France et États‑Unis au cours des trois prochains jours.",
    "rejoue": false,
-   "probabilite_ia": 0.66
+   "probabilite_ia": 0.66,
+   "probabilite_stat": 0.4,
+   "historique": "5/13",
+   "observe": 26,
+   "resolu_le": "2026-11-25"
   },
   {
    "id": "2026-11-22-3",
@@ -636,13 +698,15 @@
    "raisonnement": "En Chine, les 7 j précédents comptent 6+14+6 = 26 articles, moyenne ≈3,7/jour ; une légère hausse vers 4‑5/jour donne 9 sur 4 j.",
    "phrase_ia": "Agents IA sera mentionné dans au moins 9 articles Chine au cours des quatre prochains jours.",
    "rejoue": false,
-   "probabilite_ia": 0.61
+   "probabilite_ia": 0.61,
+   "probabilite_stat": 0.08,
+   "historique": "0/10"
   },
   {
    "id": "2026-11-23-1",
    "date": "2026-11-23",
    "echeance": "2026-11-25",
-   "statut": "en_cours",
+   "statut": "gagne",
    "entite": "GitHub",
    "sections": [
     "dev"
@@ -655,7 +719,11 @@
    "raisonnement": "GitHub a 25 mentions en dev sur 7 jours (≈3,6/j). Le pari précédent (≤10) était gagné, mais la tendance montre une légère hausse, rendant ≤12 incertain.",
    "phrase_ia": "GitHub sera cité au plus 12 fois dans la section Outils & code sur les deux prochains jours.",
    "rejoue": false,
-   "probabilite_ia": 0.62
+   "probabilite_ia": 0.62,
+   "probabilite_stat": 0.85,
+   "historique": "10/11",
+   "observe": 3,
+   "resolu_le": "2026-11-25"
   },
   {
    "id": "2026-11-23-2",
@@ -674,7 +742,9 @@
    "raisonnement": "China a 4+3+4+3+2+4+2 = 22 mentions en cn sur 7 jours (≈3,1/j). Sur 4 jours, 8 est légèrement en dessous de l’attendu, donc probabilité élevée.",
    "phrase_ia": "China sera cité au moins 8 fois dans la section Chine sur les quatre prochains jours.",
    "rejoue": false,
-   "probabilite_ia": 0.71
+   "probabilite_ia": 0.71,
+   "probabilite_stat": 0.08,
+   "historique": "0/11"
   },
   {
    "id": "2026-11-23-3",
@@ -694,7 +764,9 @@
    "raisonnement": "Meta totalise 7+4 = 11 mentions sur 7 jours (≈1,6/j). Sur 5 jours, 8 représente une hausse modérée mais plausible, surtout avec les récents débats sur la modération.",
    "phrase_ia": "Meta sera cité au moins 8 fois dans les sections France et États‑Unis sur les cinq prochains jours.",
    "rejoue": false,
-   "probabilite_ia": 0.59
+   "probabilite_ia": 0.59,
+   "probabilite_stat": 0.36,
+   "historique": "4/12"
   },
   {
    "id": "2026-11-24-1",
@@ -714,7 +786,9 @@
    "raisonnement": "Les 7‑derniers jours montrent une hausse progressive (42 articles en France, 29 aux US) et la tendance semble poursuivre.",
    "phrase_ia": "Anthropic sera cité dans au moins 30 articles en France et aux États‑Unis au cours des 3 prochains jours.",
    "rejoue": false,
-   "probabilite_ia": 0.62
+   "probabilite_ia": 0.62,
+   "probabilite_stat": 0.35,
+   "historique": "5/15"
   },
   {
    "id": "2026-11-24-2",
@@ -733,7 +807,9 @@
    "raisonnement": "Après un pic de 52 articles sur 7 jours, la moyenne quotidienne est déjà basse (≈7) et le dernier jour était de 7, donc un dépassement de 10 reste improbable.",
    "phrase_ia": "Le nombre d'articles sur Claude Code dans la section Outils & code sera au plus de 10 au cours des 2 prochains jours.",
    "rejoue": false,
-   "probabilite_ia": 0.58
+   "probabilite_ia": 0.58,
+   "probabilite_stat": 0.29,
+   "historique": "3/12"
   },
   {
    "id": "2026-11-24-3",
@@ -752,7 +828,54 @@
    "raisonnement": "La Chine a seulement 4 articles sur 7 jours, mais l'intérêt croissant pour les IA chinoises pourrait pousser le nombre à dépasser 8 dans les prochains jours.",
    "phrase_ia": "Google sera mentionné dans au moins 8 articles en Chine durant les 4 prochains jours.",
    "rejoue": false,
-   "probabilite_ia": 0.55
+   "probabilite_ia": 0.55,
+   "probabilite_stat": 0.07,
+   "historique": "0/12"
+  },
+  {
+   "id": "2026-11-25-1",
+   "date": "2026-11-25",
+   "echeance": "2026-11-30",
+   "statut": "en_cours",
+   "entite": "OpenAI",
+   "sections": [
+    "fr",
+    "us"
+   ],
+   "comparaison": "au_plus",
+   "seuil": 12,
+   "horizon": 5,
+   "probabilite": 0.49,
+   "enonce": "OpenAI : au plus 12 articles (France et États-Unis) sur les 5 prochains jours",
+   "raisonnement": "Le récent pic (10 mentions le 24/11) devrait redescendre rapidement, aucune annonce majeure prévue, donc une baisse attendue.",
+   "phrase_ia": "OpenAI sera mentionné au plus 12 fois dans les sections France et États-Unis durant les cinq prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.66,
+   "probabilite_stat": 0.44,
+   "historique": "6/14",
+   "methode": "melange"
+  },
+  {
+   "id": "2026-11-25-2",
+   "date": "2026-11-25",
+   "echeance": "2026-11-27",
+   "statut": "en_cours",
+   "entite": "AWS",
+   "sections": [
+    "dev"
+   ],
+   "comparaison": "au_plus",
+   "seuil": 5,
+   "horizon": 2,
+   "probabilite": 0.56,
+   "enonce": "AWS : au plus 5 articles (Outils & code) sur les 2 prochains jours",
+   "raisonnement": "Après la sortie d'une mise à jour majeure (début novembre) le nombre d'articles a chuté ; aucune nouvelle fonction annoncée immédiatement, donc une poursuite de la baisse est probable.",
+   "phrase_ia": "AWS sera mentionné au plus 5 fois dans la section Outils & code pendant les deux prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.57,
+   "probabilite_stat": 0.6,
+   "historique": "8/13",
+   "methode": "melange"
   }
  ]
 }

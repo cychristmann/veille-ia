@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-20-t6.md"
 type: "document"
-community: "Veille Chine 2026-11-18 : Recherche et modèles"
+community: "Zhao Liying"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-18__Recherche_et_modèles
+  - community/Zhao_Liying
 ---
 
 # Veille France 2026-11-20 : Autres articles
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Risques et dysfonctionnements liés à l'IA]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-18__Recherche_et_modèles
+#graphify/document #graphify/EXTRACTED #community/Zhao_Liying

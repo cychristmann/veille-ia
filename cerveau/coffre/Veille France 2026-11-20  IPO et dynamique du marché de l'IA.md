@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-20-t1.md"
 type: "document"
-community: "GPT-6 Astra"
+community: "ARTEX"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/ARTEX
 ---
 
 # Veille France 2026-11-20 : IPO et dynamique du marché de l'IA
@@ -23,4 +23,4 @@ tags:
 - [[Les Echos]] - `cites` [EXTRACTED]
 - [[Zonebourse]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/document #graphify/EXTRACTED #community/ARTEX

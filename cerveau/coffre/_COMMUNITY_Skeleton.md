@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Deletion Tuning]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
-- [[New York University]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
+- [[Feuilleton  Microsoft impulsa standards ouverts de transparence pour agents IA]] - document - feuilletons/f-0039.md
+- [[Foro3D]] - concept - feuilletons/f-0039.md
 
 ## Live Query (requires Dataview plugin)
 

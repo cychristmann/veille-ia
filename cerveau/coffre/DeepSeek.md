@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-12-t3.md"
+source_file: "dossiers/2026-11-16-2.md"
 type: "concept"
 community: "DeepSeek"
 tags:
@@ -17,6 +17,8 @@ tags:
 - [[Open Weights Models]] - `conceptually_related_to` [INFERRED]
 - [[R1 Model]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-21  Infrastructure et matériel IA]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-15]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-25]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-14  Économie, Marchés et Investissements]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-21  Régulation & Géopolitique]] - `references` [EXTRACTED]
 

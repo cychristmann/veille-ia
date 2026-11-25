@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Veille États-Unis 2026-11-20 : Autres articles
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Arkestro AI]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
-- [[Phillips 66]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
+- [[Academic Misconduct]] - concept - veilles/veille-ia-cn-2026-11-19-t4.md
+- [[Central South University]] - concept - veilles/veille-ia-cn-2026-11-19-t4.md
+- [[Veille Chine 2026-11-19  Recherche et Éthique]] - document - veilles/veille-ia-cn-2026-11-19-t4.md
 
 ## Live Query (requires Dataview plugin)
 

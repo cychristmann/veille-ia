@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-16-t2.md"
 type: "document"
-community: "Hypothèse de Riemann"
+community: "CoreWeave"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Hypothèse_de_Riemann
+  - community/CoreWeave
 ---
 
 # Veille États-Unis 2026-11-16 (Industrie)
@@ -15,4 +15,4 @@ tags:
 - [[Intel]] - `references` [EXTRACTED]
 - [[SambaNova Systems]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Hypothèse_de_Riemann
+#graphify/document #graphify/EXTRACTED #community/CoreWeave

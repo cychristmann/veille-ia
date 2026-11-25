@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille États-Unis 2026-11-17  Régulation et litiges]] - document - veilles/veille-ia-us-2026-11-17-t1.md
+- [[Veille Chine 2026-11-25]] - document - veilles/veille-ia-cn-2026-11-25-t5.md
 
 ## Live Query (requires Dataview plugin)
 

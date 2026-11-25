@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-20-t2.md"
 type: "document"
-community: "Veille États-Unis 2026-11-09 : Autres articles"
+community: "Apple"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-09__Autres_articles
+  - community/Apple
 ---
 
 # Veille France 2026-11-20
@@ -21,4 +21,4 @@ tags:
 - [[TikTok]] - `references` [EXTRACTED]
 - [[Zevra]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-09__Autres_articles
+#graphify/document #graphify/EXTRACTED #community/Apple

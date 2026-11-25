@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t6.md"
 type: "concept"
-community: "JPMorgan"
+community: "Riemann Hypothesis"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/JPMorgan
+  - community/Riemann_Hypothesis
 ---
 
 # Grok
@@ -16,4 +16,4 @@ tags:
 - [[Kiro]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-14  Agents et Outils Technologiques]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/JPMorgan
+#graphify/concept #graphify/EXTRACTED #community/Riemann_Hypothesis

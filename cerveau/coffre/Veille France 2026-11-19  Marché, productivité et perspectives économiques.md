@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-19-t5.md"
 type: "document"
-community: "Veille États-Unis 2026-11-22 : Applications et outils IA"
+community: "Veille France 2026-11-19 : Autres articles"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-22__Applications_et_outils_IA
+  - community/Veille_France_2026-11-19__Autres_articles
 ---
 
 # Veille France 2026-11-19 : Marché, productivité et perspectives économiques
@@ -18,4 +18,4 @@ tags:
 - [[Recrutement en IA]] - `references` [EXTRACTED]
 - [[Startups IA azuréennes]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-22__Applications_et_outils_IA
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-19__Autres_articles

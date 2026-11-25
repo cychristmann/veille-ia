@@ -1,31 +1,26 @@
 ---
 type: community
-members: 18
+members: 13
 ---
 
 # Goldman Sachs
 
-**Members:** 18 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[Andrew Bailey]] - concept - dossiers/2026-11-14-2.md
-- [[Artificial Intelligence]] - concept - feuilletons/f-0021.md
-- [[Autorités chinoises]] - concept - dossiers/2026-11-14-2.md
-- [[Banque Centrale Européenne (BCE)]] - concept - dossiers/2026-11-14-2.md
-- [[BlackRock]] - concept - veilles/veille-ia-us-2026-11-19-t2.md
-- [[Centre international dédié à l'intelligence artificielle militaire (Rennes)]] - concept - veilles/veille-ia-fr-2026-11-23-t1.md
-- [[Comité de l'usage de l'intelligence artificielle (Santé)]] - concept - veilles/veille-ia-fr-2026-11-23-t1.md
-- [[Donald Trump]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
-- [[Dossier  IA  risque systémique pour la stabilité financière]] - document - dossiers/2026-11-14-2.md
-- [[Federal Reserve]] - concept - dossiers/2026-11-14-2.md
-- [[Feng Runhuan]] - concept - feuilletons/f-0021.md
-- [[Feuilleton L'IA en tête des risques pour la stabilité financière]] - document - feuilletons/f-0021.md
-- [[Financial Stability Board (FSB)]] - concept - dossiers/2026-11-14-2.md
-- [[Larry Fink]] - concept - veilles/veille-ia-us-2026-11-19-t2.md
-- [[Risque systémique de l'IA]] - concept - dossiers/2026-11-14-2.md
-- [[South Korean Financial Watchdog]] - concept - veilles/veille-ia-us-2026-11-19-t2.md
-- [[Veille France 2026-11-23  Régulation et gouvernance]] - document - veilles/veille-ia-fr-2026-11-23-t1.md
-- [[Veille États-Unis 2026-11-19  Régulation et politique]] - document - veilles/veille-ia-us-2026-11-19-t2.md
+- [[AI证明了黎曼猜想？一份只有机器能读懂的证明，意义何在]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[AI遭遇血洗！英伟达蒸发18万亿，AI盛宴要落幕了吗？]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[All in AI，产业再造——中欧创业营15期正式启航]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[Anthropic 创纪录 IPO 未能扭转 AI 市场悲观情绪]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[Anthropic上市是AI的明斯基时刻]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[A股奇迹日！超150只个股涨停，物理AI板块全天强势]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[Veille Chine 2026-11-23  Politiques, tendances et perspectives sectorielles IA]] - document - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[“AI赋能·电商助农”花都区2026年数字农业直播（短视频）技能竞赛]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[亚太市场周一全线走弱，全球AI交易继续挤泡沫]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[北汽产投刘培龙：AI热潮之下，盲目出手往往铩羽而归]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[大摩重算Meta(META.US)这本账：AI投入推高费用]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[美国多领域接连发生技术故障，专家：2027年AI网络风险或集中显现]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[美股崩跌、纳指全年涨幅归零：AI牛市迎来价值重估]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -33,11 +28,3 @@ members: 18
 TABLE source_file, type FROM #community/Goldman_Sachs
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_David Tepper_1]]
-- 1 edge to [[_COMMUNITY_Claude Code]]
-
-## Top bridge nodes
-- [[Donald Trump]] - degree 4, connects to 3 communities

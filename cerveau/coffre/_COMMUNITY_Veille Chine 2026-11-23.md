@@ -25,8 +25,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-12  IA dans le commerce et le divertissement_1]]
-- 1 edge to [[_COMMUNITY_Tencent_1]]
+- 1 edge to [[_COMMUNITY_OpenRouter]]
+- 1 edge to [[_COMMUNITY_Tencent]]
 
 ## Top bridge nodes
 - [[Veille Chine 2026-11-23]] - degree 9, connects to 2 communities

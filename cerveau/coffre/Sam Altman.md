@@ -12,6 +12,7 @@ tags:
 
 ## Connections
 - [[Appel de Paris]] - `references` [EXTRACTED]
+- [[IA militaires]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-20  Régulation, Sécurité & Société]] - `references` [EXTRACTED]
 

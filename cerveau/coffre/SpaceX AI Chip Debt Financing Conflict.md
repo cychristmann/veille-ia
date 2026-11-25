@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-20-t7.md"
 type: "concept"
-community: "Cursor"
+community: "Veille France 2026-11-24 : Marché et investissements IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Cursor
+  - community/Veille_France_2026-11-24__Marché_et_investissements_IA
 ---
 
 # SpaceX AI Chip Debt Financing Conflict
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-20]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Cursor
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-24__Marché_et_investissements_IA

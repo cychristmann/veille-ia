@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-15-t4.md"
 type: "concept"
-community: "Gemini 4 Hydrogen"
+community: "GPT-6 Astra"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Gemini_4_Hydrogen
+  - community/GPT-6_Astra
 ---
 
 # Amazon SageMaker Pipelines
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Amazon SageMaker Canvas]] - `shares_data_with` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Gemini_4_Hydrogen
+#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra

@@ -1,22 +1,23 @@
 ---
 type: community
-members: 9
+members: 10
 ---
 
 # Tencent
 
-**Members:** 9 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[Cairn AI Platform]] - concept - veilles/veille-ia-cn-2026-11-23-t2.md
-- [[Veille Chine 2026-11-23  Santé et médecine assistées par l'IA]] - document - veilles/veille-ia-cn-2026-11-23-t2.md
-- [[Veille Chine 2026-11-24  Applications sectorielles]] - document - veilles/veille-ia-cn-2026-11-24-t3.md
-- [[Zhong Nanshan (钟南山)]] - concept - veilles/veille-ia-cn-2026-11-23-t2.md
-- [[大连理工大学应用人工智能联合实验室]] - concept - veilles/veille-ia-cn-2026-11-24-t3.md
-- [[江西上线具身智能软件工厂]] - concept - veilles/veille-ia-cn-2026-11-24-t3.md
-- [[简知科技]] - concept - veilles/veille-ia-cn-2026-11-24-t3.md
-- [[蚂蚁阿福]] - concept - veilles/veille-ia-cn-2026-11-24-t3.md
-- [[诺华 CEO 瓦斯·纳拉辛汉关于AI与癌症治疗的观点]] - concept - veilles/veille-ia-cn-2026-11-24-t3.md
+- [[Hunyuan AI]] - concept - veilles/veille-ia-cn-2026-11-23-t6.md
+- [[IA-native Strategy]] - concept - dossiers/2026-11-12-2.md
+- [[LG Energy Solution]] - concept - veilles/veille-ia-cn-2026-11-15-t6.md
+- [[Samsung SDI]] - concept - veilles/veille-ia-cn-2026-11-15-t6.md
+- [[Sanmina]] - concept - veilles/veille-ia-us-2026-11-10-t6.md
+- [[Tencent]] - concept - veilles/veille-ia-cn-2026-11-19-t2.md
+- [[Veille Chine 2026-11-15  Politiques publiques et gouvernance de l’IA]] - document - veilles/veille-ia-cn-2026-11-15-t6.md
+- [[Veille Chine 2026-11-20  Finances & Investissements]] - document - veilles/veille-ia-cn-2026-11-20-t3.md
+- [[Veille États-Unis 2026-11-10  Marché, concurrence et tendances]] - document - veilles/veille-ia-us-2026-11-10-t6.md
+- [[Yuanbao AI App]] - concept - veilles/veille-ia-cn-2026-11-19-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,3 +25,17 @@ members: 9
 TABLE source_file, type FROM #community/Tencent
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-24]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-23]]
+- 1 edge to [[_COMMUNITY_Claude Code_1]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_Model Context Protocol (MCP)]]
+- 1 edge to [[_COMMUNITY_Qwen4-Max_1]]
+- 1 edge to [[_COMMUNITY_Amazon]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
+
+## Top bridge nodes
+- [[Tencent]] - degree 13, connects to 7 communities
+- [[Veille Chine 2026-11-15  Politiques publiques et gouvernance de l’IA]] - degree 4, connects to 1 community

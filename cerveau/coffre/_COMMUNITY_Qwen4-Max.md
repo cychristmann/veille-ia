@@ -1,24 +1,22 @@
 ---
 type: community
-members: 11
+members: 9
 ---
 
 # Qwen4-Max
 
-**Members:** 11 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Agent Arena]] - concept - veilles/veille-ia-dev-2026-11-17-t3.md
-- [[Bharat Semi]] - concept - veilles/veille-ia-fr-2026-11-16-t4.md
-- [[Hy4 flash]] - concept - veilles/veille-ia-cn-2026-11-16-t1.md
-- [[IA dans la santé]] - concept - veilles/veille-ia-fr-2026-11-16-t4.md
-- [[MotrixSim1.0]] - concept - veilles/veille-ia-cn-2026-11-16-t1.md
-- [[Qwen4-Max]] - concept - veilles/veille-ia-fr-2026-11-16-t4.md
-- [[Rubin]] - concept - veilles/veille-ia-dev-2026-11-17-t3.md
-- [[Veille Chine 2026-11-16  Modèles et fondations]] - document - veilles/veille-ia-cn-2026-11-16-t1.md
-- [[Veille France 2026-11-16  Santé, recherche médicale et biomédicale]] - document - veilles/veille-ia-fr-2026-11-16-t4.md
-- [[Veille Outils & code 2026-11-17 (T3)]] - document - veilles/veille-ia-dev-2026-11-17-t3.md
-- [[Vercel]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[Amazon SageMaker]] - concept - veilles/veille-ia-dev-2026-11-20-t3.md
+- [[Apple AI Agent]] - concept - dossiers/2026-11-20-1.md
+- [[Gemini]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
+- [[Google Assistant]] - concept - dossiers/2026-11-20-1.md
+- [[Ploy AI Gateway]] - concept - veilles/veille-ia-dev-2026-11-20-t3.md
+- [[Supermicro]] - concept - veilles/veille-ia-dev-2026-11-20-t3.md
+- [[Veille IA Dev 2026-11-20 T3]] - document - veilles/veille-ia-dev-2026-11-20-t3.md
+- [[Veille États-Unis 2026-11-20  Développements technologiques et agents IA]] - document - veilles/veille-ia-us-2026-11-20-t4.md
+- [[macOS]] - concept - dossiers/2026-11-20-1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -28,16 +26,16 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Copilot]]
-- 1 edge to [[_COMMUNITY_Alibaba]]
-- 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-17]]
-- 1 edge to [[_COMMUNITY_Tencent_1]]
-- 1 edge to [[_COMMUNITY_Jensen Huang]]
+- 2 edges to [[_COMMUNITY_Claude Code]]
+- 2 edges to [[_COMMUNITY_Apple]]
+- 1 edge to [[_COMMUNITY_Meta]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_ChatGPT Wallet]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-21_1]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-17 (T3)]] - degree 5, connects to 2 communities
-- [[Hy4 flash]] - degree 3, connects to 2 communities
-- [[Qwen4-Max]] - degree 5, connects to 1 community
-- [[Vercel]] - degree 2, connects to 1 community
-- [[Rubin]] - degree 2, connects to 1 community
+- [[Apple AI Agent]] - degree 9, connects to 5 communities
+- [[Veille IA Dev 2026-11-20 T3]] - degree 5, connects to 1 community
+- [[Gemini]] - degree 3, connects to 1 community
+- [[Veille États-Unis 2026-11-20  Développements technologiques et agents IA]] - degree 3, connects to 1 community

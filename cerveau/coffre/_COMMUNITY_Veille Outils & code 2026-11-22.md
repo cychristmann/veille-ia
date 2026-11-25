@@ -1,15 +1,15 @@
 ---
 type: community
-members: 42
+members: 41
 ---
 
 # Veille Outils & code 2026-11-22
 
-**Members:** 42 nodes
+**Members:** 41 nodes
 
 ## Members
+- [[AWS Lambda]] - concept - veilles/veille-ia-dev-2026-11-25-t1.md
 - [[AWS Lambda GPU Inference]] - concept - veilles/veille-ia-dev-2026-11-22-t2.md
-- [[AWS Quick]] - concept - veilles/veille-ia-dev-2026-11-22-t1.md
 - [[Agorapulse]] - concept - veilles/veille-ia-dev-2026-11-22-t3.md
 - [[Amazon SageMaker HyperPod]] - concept - veilles/veille-ia-dev-2026-11-22-t1.md
 - [[Archie]] - concept - veilles/veille-ia-dev-2026-11-21-t2.md
@@ -28,7 +28,6 @@ members: 42
 - [[Groundhog-1]] - concept - veilles/veille-ia-dev-2026-11-22-t6.md
 - [[Inkling 2 Mini]] - concept - veilles/veille-ia-dev-2026-11-22-t3.md
 - [[Legora]] - concept - veilles/veille-ia-dev-2026-11-22-t3.md
-- [[Meta Ads]] - concept - veilles/veille-ia-dev-2026-11-22-t1.md
 - [[Meta TLX]] - concept - veilles/veille-ia-dev-2026-11-22-t2.md
 - [[Microsoft 365]] - concept - veilles/veille-ia-dev-2026-11-22-t3.md
 - [[Nemotron 3 Ultra]] - concept - veilles/veille-ia-dev-2026-11-22-t2.md
@@ -59,18 +58,20 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 5 edges to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
-- 1 edge to [[_COMMUNITY_Copilot]]
-- 1 edge to [[_COMMUNITY_Alibaba]]
+- 5 edges to [[_COMMUNITY_Veille Outils & code 2026-11-21_1]]
 - 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_Apple]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
+- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets]]
+- 1 edge to [[_COMMUNITY_Model Context Protocol (MCP)]]
 - 1 edge to [[_COMMUNITY_Amazon]]
-- 1 edge to [[_COMMUNITY_Copilot_1]]
-- 1 edge to [[_COMMUNITY_Hugging Face_1]]
+- 1 edge to [[_COMMUNITY_Copilot]]
+- 1 edge to [[_COMMUNITY_Apple]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-15_1]]
+- 1 edge to [[_COMMUNITY_Claude]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-22]] - degree 25, connects to 3 communities
-- [[Qwen]] - degree 5, connects to 1 community
+- [[Veille Outils & code 2026-11-22]] - degree 25, connects to 4 communities
+- [[Qwen]] - degree 8, connects to 3 communities
 - [[Veille Outils & code 2026-11-16  Sécurité, gouvernance et cadres pour IA autonome]] - degree 5, connects to 1 community
 - [[Archie]] - degree 3, connects to 1 community
-- [[AWS Quick]] - degree 3, connects to 1 community
+- [[Inkling 2 Mini]] - degree 3, connects to 1 community

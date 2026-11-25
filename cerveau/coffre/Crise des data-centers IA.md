@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0024.md"
 type: "concept"
-community: "Blue J"
+community: "Crise des data-centers IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Blue_J
+  - community/Crise_des_data-centers_IA
 ---
 
 # Crise des data-centers IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Feuilleton Effondrement du boom IA et crise des data-centers]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Blue_J
+#graphify/concept #graphify/EXTRACTED #community/Crise_des_data-centers_IA

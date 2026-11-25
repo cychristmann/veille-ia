@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # La Corée du Sud va durcir les sanctions pour triche aux examens avec des lunettes connectées
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[La Corée du Sud va durcir les sanctions pour triche aux examens avec des lunettes connectées]] - document - dossiers/2026-11-22-2.md
+- [[LEO Technologies]] - concept - veilles/veille-ia-us-2026-11-22-t4.md
+- [[Verus]] - concept - veilles/veille-ia-us-2026-11-22-t4.md
 
 ## Live Query (requires Dataview plugin)
 

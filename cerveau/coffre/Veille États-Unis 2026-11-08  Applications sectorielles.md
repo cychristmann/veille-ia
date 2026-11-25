@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t3.md"
 type: "document"
-community: "ASML"
+community: "Alibaba"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/ASML
+  - community/Alibaba
 ---
 
 # Veille États-Unis 2026-11-08 : Applications sectorielles
@@ -16,4 +16,4 @@ tags:
 - [[Jalopnik]] - `cites` [EXTRACTED]
 - [[Oncodaily]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/ASML
+#graphify/document #graphify/EXTRACTED #community/Alibaba

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-20-t6.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-14 : Impact Social, Éthique et Travail"
+community: "Trust3 AI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-14__Impact_Social_Éthique_et_Travail
+  - community/Trust3_AI
 ---
 
 # AI: ‘Handoverism’. Who Wants to Hand AI the Keys? AI-RTZ #1276
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-20  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Impact_Social_Éthique_et_Travail
+#graphify/concept #graphify/EXTRACTED #community/Trust3_AI

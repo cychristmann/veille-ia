@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-13-t5.md"
 type: "code"
-community: "Gemini 4 Hydrogen"
+community: "GPT-6 Astra"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Gemini_4_Hydrogen
+  - community/GPT-6_Astra
 ---
 
 # Gemini 4 Hydrogen
@@ -26,4 +26,4 @@ tags:
 - [[Veille Outils & code 2026-11-14  Plateformes et infrastructures IA]] - `references` [EXTRACTED]
 - [[llm-gemini]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Gemini_4_Hydrogen
+#graphify/code #graphify/EXTRACTED #community/GPT-6_Astra

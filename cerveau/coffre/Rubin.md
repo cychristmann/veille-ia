@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-17-t3.md"
+source_file: "dossiers/2026-11-20-2.md"
 type: "concept"
 community: "Qwen4-Max"
 tags:

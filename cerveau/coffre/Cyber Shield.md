@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-18-2.md"
 type: "concept"
-community: "Wuhan University of Science and Technology"
+community: "Education Week AI Coverage"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Wuhan_University_of_Science_and_Technology
+  - community/Education_Week_AI_Coverage
 ---
 
 # Cyber Shield
 
-#graphify/concept #graphify/EXTRACTED #community/Wuhan_University_of_Science_and_Technology
+#graphify/concept #graphify/EXTRACTED #community/Education_Week_AI_Coverage

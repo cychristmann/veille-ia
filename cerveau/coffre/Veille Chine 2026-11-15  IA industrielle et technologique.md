@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-15-t2.md"
 type: "document"
-community: "ASML"
+community: "CoreWeave"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/ASML
+  - community/CoreWeave
 ---
 
 # Veille Chine 2026-11-15 : IA industrielle et technologique
@@ -20,4 +20,4 @@ tags:
 - [[Shanghai Universities]] - `references` [EXTRACTED]
 - [[SpaceX]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/ASML
+#graphify/document #graphify/EXTRACTED #community/CoreWeave

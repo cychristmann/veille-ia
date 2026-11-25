@@ -1,16 +1,16 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-23-t3.md"
 type: "document"
-community: "Veille Chine 2026-11-21"
+community: "AI Governance"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-21
+  - community/AI_Governance
 ---
 
 # Veille États-Unis 2026-11-23 : Régulation et gouvernance de l’IA
 
 ## Connections
-- [[AI Governance and Regulation]] - `conceptually_related_to` [EXTRACTED]
+- [[AI Governance]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-21
+#graphify/document #graphify/EXTRACTED #community/AI_Governance

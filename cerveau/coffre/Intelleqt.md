@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-24-t4.md"
 type: "concept"
-community: "Meta"
+community: "Veille France 2026-11-19 : Applications sectorielles de l'IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Meta
+  - community/Veille_France_2026-11-19__Applications_sectorielles_de_lIA
 ---
 
 # Intelleqt
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[ABB]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Meta
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-19__Applications_sectorielles_de_lIA

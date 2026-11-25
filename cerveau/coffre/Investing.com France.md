@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-20-t1.md"
 type: "concept"
-community: "GPT-6 Astra"
+community: "ARTEX"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/ARTEX
 ---
 
 # Investing.com France
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-20  IPO et dynamique du marché de l'IA]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/concept #graphify/EXTRACTED #community/ARTEX

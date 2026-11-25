@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-20-t4.md"
 type: "document"
-community: "Gemini 4 Hydrogen"
+community: "GPT-6 Astra"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Gemini_4_Hydrogen
+  - community/GPT-6_Astra
 ---
 
 # Veille Chine 2026-11-20 : Recherche, Modèles & Technologie
@@ -16,4 +16,4 @@ tags:
 - [[Dalian University AI Platform]] - `references` [EXTRACTED]
 - [[Gemini 4 Argon]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Gemini_4_Hydrogen
+#graphify/document #graphify/EXTRACTED #community/GPT-6_Astra

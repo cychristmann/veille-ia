@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Enterprise RAG Systems
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Enterprise RAG Systems]] - concept - veilles/veille-ia-dev-2026-11-16-t5.md
-- [[Veille Outils & code 2026-11-16  Recherche, méthodologies et analyses d’agents IA]] - document - veilles/veille-ia-dev-2026-11-16-t5.md
+- [[AI in Creative Arts]] - concept - veilles/veille-ia-cn-2026-11-25-t7.md
+- [[AI in Sports Prediction]] - concept - veilles/veille-ia-cn-2026-11-25-t7.md
+- [[Veille Chine 2026-11-25  Culture, Loisirs et Sport]] - document - veilles/veille-ia-cn-2026-11-25-t7.md
 
 ## Live Query (requires Dataview plugin)
 

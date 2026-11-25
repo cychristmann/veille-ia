@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t3.md"
 type: "code"
-community: "Shield AI"
+community: "GPT-6 Astra"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Shield_AI
+  - community/GPT-6_Astra
 ---
 
 # Anduril
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Shield AI]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Shield_AI
+#graphify/code #graphify/EXTRACTED #community/GPT-6_Astra

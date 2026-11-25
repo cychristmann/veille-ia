@@ -1,20 +1,24 @@
 ---
 type: community
-members: 7
+members: 11
 ---
 
 # Hugging Face
 
-**Members:** 7 nodes
+**Members:** 11 nodes
 
 ## Members
-- [[AI Cyberattack]] - concept - dossiers/2026-11-18-2.md
-- [[GCHQ]] - concept - dossiers/2026-11-18-2.md
-- [[GLM 5.2]] - concept - dossiers/2026-11-18-2.md
-- [[Hugging Face]] - concept - dossiers/2026-11-23-1.md
-- [[Irene Solaiman]] - concept - veilles/veille-ia-us-2026-11-10-t2.md
-- [[July 2026 AI Incident]] - concept - dossiers/2026-11-23-1.md
-- [[NCSC]] - concept - dossiers/2026-11-18-2.md
+- [[AWS Trainium]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
+- [[Amazon Bedrock AgentCore]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
+- [[Azure Logic Apps CLI]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
+- [[Duco]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Gemini Decisions API]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
+- [[SGLang-Neuron]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
+- [[SWARM]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
+- [[Strands harness]] - concept - veilles/veille-ia-dev-2026-11-19-t1.md
+- [[TPU Sync]] - concept - veilles/veille-ia-dev-2026-11-14-t3.md
+- [[Veille Outils & code 2026-11-12  Déploiement et infrastructure IA]] - document - veilles/veille-ia-dev-2026-11-12-t2.md
+- [[Veille Outils & code 2026-11-12  Nouveaux modèles et performances]] - document - veilles/veille-ia-dev-2026-11-12-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,16 +28,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_Nvidia]]
+- 2 edges to [[_COMMUNITY_GPT-6 Astra_2]]
+- 1 edge to [[_COMMUNITY_AMD]]
 - 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-17]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Meta_1]]
-- 1 edge to [[_COMMUNITY_David Tepper_1]]
-- 1 edge to [[_COMMUNITY_OpenRouter]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-22]]
+- 1 edge to [[_COMMUNITY_Adobe Creative Cloud_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-21_1]]
 
 ## Top bridge nodes
-- [[Hugging Face]] - degree 9, connects to 5 communities
-- [[AI Cyberattack]] - degree 7, connects to 4 communities
-- [[July 2026 AI Incident]] - degree 2, connects to 1 community
+- [[Amazon Bedrock AgentCore]] - degree 7, connects to 3 communities
+- [[Veille Outils & code 2026-11-12  Déploiement et infrastructure IA]] - degree 6, connects to 1 community
+- [[TPU Sync]] - degree 2, connects to 1 community
+- [[Duco]] - degree 2, connects to 1 community

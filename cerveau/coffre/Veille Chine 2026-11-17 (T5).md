@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-17-t5.md"
 type: "document"
-community: "AMD"
+community: "CoreWeave"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AMD
+  - community/CoreWeave
 ---
 
 # Veille Chine 2026-11-17 (T5)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AMD]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AMD
+#graphify/document #graphify/EXTRACTED #community/CoreWeave

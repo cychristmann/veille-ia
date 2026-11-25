@@ -1,20 +1,23 @@
 ---
 type: community
-members: 7
+members: 10
 ---
 
 # Veille États-Unis 2026-11-18 : IA appliquée aux secteurs spécifiques
 
-**Members:** 7 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[Coca-Cola Europacific Partners]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
-- [[Employment Hero]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
-- [[Fabrex]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
-- [[NEO AI]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
-- [[Rex (AI Agent)]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
-- [[VMFS USA]] - concept - veilles/veille-ia-us-2026-11-18-t4.md
-- [[Veille États-Unis 2026-11-18  IA appliquée aux secteurs spécifiques]] - document - veilles/veille-ia-us-2026-11-18-t4.md
+- [[AI agent data leak incident]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[APA guidance on deploying AI in workplaces]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Financial Supervisory Service AI loan review deployment]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Global system outages and AI conspiracy theories]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Lean AI proof of Riemann Hypothesis]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[MiniMax founder fortune loss]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Outrage over military AI event at Berlin arts complex]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Samsung and SK Hynix AI memory market performance]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Tom Lee AI market outlook]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Veille États-Unis 2026-11-22  Autres articles]] - document - veilles/veille-ia-us-2026-11-22-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,9 +25,3 @@ members: 7
 TABLE source_file, type FROM #community/Veille_États-Unis_2026-11-18__IA_appliquée_aux_secteurs_spécifiques
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Amazon]]
-
-## Top bridge nodes
-- [[Veille États-Unis 2026-11-18  IA appliquée aux secteurs spécifiques]] - degree 5, connects to 1 community

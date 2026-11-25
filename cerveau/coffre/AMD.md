@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t1.md"
 type: "concept"
-community: "AMD"
+community: "CoreWeave"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AMD
+  - community/CoreWeave
 ---
 
 # AMD
@@ -21,4 +21,4 @@ tags:
 - [[Veille Chine 2026-11-17 (T5)]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-08]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AMD
+#graphify/concept #graphify/EXTRACTED #community/CoreWeave

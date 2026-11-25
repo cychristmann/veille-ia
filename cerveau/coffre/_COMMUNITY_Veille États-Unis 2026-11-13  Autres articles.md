@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-13 : Autres articles
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[DATAW.AI]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
-- [[RWIP]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
+- [[Veille Chine 2026-11-12]] - document - veilles/veille-ia-cn-2026-11-12-t8.md
 
 ## Live Query (requires Dataview plugin)
 

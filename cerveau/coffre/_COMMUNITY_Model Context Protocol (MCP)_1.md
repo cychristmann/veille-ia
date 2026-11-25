@@ -21,9 +21,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
+- 1 edge to [[_COMMUNITY_Claude Code_1]]
+- 1 edge to [[_COMMUNITY_Claude]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
 - 1 edge to [[_COMMUNITY_Copilot]]
-- 1 edge to [[_COMMUNITY_Copilot_1]]
 
 ## Top bridge nodes
-- [[Model Context Protocol (MCP)]] - degree 3, connects to 1 community
+- [[Model Context Protocol (MCP)]] - degree 5, connects to 3 communities
 - [[Veille IA Dev 2026-11-20 T5]] - degree 3, connects to 1 community

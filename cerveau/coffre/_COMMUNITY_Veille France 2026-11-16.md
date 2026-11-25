@@ -8,14 +8,14 @@ members: 8
 **Members:** 8 nodes
 
 ## Members
-- [[AI Didn’t Take Our Jobs. It Turned Them Into Checking]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
-- [[Commentary Joe Brewer The wisdom AI can’t replace]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
-- [[Dario Amodei Pledges Human Control of AI at Anthropic’s $83 IPO]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
-- [[From Film Sets to Animated Dramas How AI Is Reshaping Film Production]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
-- [[Raleigh woman says company's AI agent confused her over rent. Now she's evicted.]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
-- [[Veille États-Unis 2026-11-20  Impact sociétal et culturel]] - document - veilles/veille-ia-us-2026-11-20-t5.md
-- [[Why I’m Not Losing Sleep Over the AI Apocalypse]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
-- [[You tell AI everything. But who else is listening]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
+- [[Adyen]] - concept - veilles/veille-ia-fr-2026-11-22-t7.md
+- [[Bitdefender]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
+- [[Dragos]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
+- [[Klarna]] - concept - veilles/veille-ia-fr-2026-11-22-t7.md
+- [[NordLayer]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
+- [[RunPod]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
+- [[Together AI]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
+- [[Veille Outils & code 2026-11-23  Sécurité, conformité et fuites liées aux IA]] - document - veilles/veille-ia-dev-2026-11-23-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,3 +23,10 @@ members: 8
 TABLE source_file, type FROM #community/Veille_France_2026-11-16
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Claude Code_1]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
+
+## Top bridge nodes
+- [[Veille Outils & code 2026-11-23  Sécurité, conformité et fuites liées aux IA]] - degree 9, connects to 2 communities

@@ -14,6 +14,7 @@ tags:
 - [[Microsoft]] - `conceptually_related_to` [EXTRACTED]
 - [[Nvidia]] - `conceptually_related_to` [EXTRACTED]
 - [[Nvidia HGX B300]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-25  Économie et Marchés Financiers]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-17]] - `references` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Microsoft

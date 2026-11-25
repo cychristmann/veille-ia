@@ -26,16 +26,16 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Copilot_1]]
+- 2 edges to [[_COMMUNITY_Copilot]]
 - 1 edge to [[_COMMUNITY_Meta]]
-- 1 edge to [[_COMMUNITY_GPT-6 Astra_1]]
-- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
-- 1 edge to [[_COMMUNITY_Hugging Face_1]]
-- 1 edge to [[_COMMUNITY_Meta_1]]
-- 1 edge to [[_COMMUNITY_OpenRouter]]
+- 1 edge to [[_COMMUNITY_Claude Code_1]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-15_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
 - 1 edge to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_Qwen4-Max]]
-- 1 edge to [[_COMMUNITY_Débats à Saint-Tropez]]
+- 1 edge to [[_COMMUNITY_GPT-6 Astra_1]]
+- 1 edge to [[_COMMUNITY_Hugging Face_1]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
+- 1 edge to [[_COMMUNITY_Qwen4-Max_1]]
 
 ## Top bridge nodes
 - [[Veille Outils & code 2026-11-17]] - degree 16, connects to 9 communities

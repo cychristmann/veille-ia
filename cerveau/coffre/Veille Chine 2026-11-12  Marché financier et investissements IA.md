@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t7.md"
 type: "document"
-community: "GPT-6 Astra"
+community: "Jensen Huang"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Jensen_Huang
 ---
 
 # Veille Chine 2026-11-12 : Marché financier et investissements IA
@@ -14,4 +14,4 @@ tags:
 - [[Jensen Huang]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/document #graphify/EXTRACTED #community/Jensen_Huang

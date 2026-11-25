@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-20-3.md"
 type: "concept"
-community: "Anthropic"
+community: "ASML"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Anthropic
+  - community/ASML
 ---
 
 # Moneyvox
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Anthropic IPO]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Anthropic
+#graphify/concept #graphify/EXTRACTED #community/ASML

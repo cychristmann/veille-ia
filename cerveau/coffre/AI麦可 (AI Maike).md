@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-16-t3.md"
 type: "concept"
-community: "Military AI Center (Rennes)"
+community: "Veille Chine 2026-11-24 : Recherche académique et collaborations"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Military_AI_Center_Rennes
+  - community/Veille_Chine_2026-11-24__Recherche_académique_et_collaborations
 ---
 
 # AI麦可 (AI Maike)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-16  Applications sectorielles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Military_AI_Center_Rennes
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-24__Recherche_académique_et_collaborations

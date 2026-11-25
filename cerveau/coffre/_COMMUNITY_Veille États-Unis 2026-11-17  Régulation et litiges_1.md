@@ -1,16 +1,15 @@
 ---
 type: community
-members: 3
+members: 2
 ---
 
 # Veille États-Unis 2026-11-17 : Régulation et litiges
 
-**Members:** 3 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[CPRIT]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
-- [[Dr. K. Ian White]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
-- [[UT Health San Antonio]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
+- [[Le Monde Pixels]] - concept - feuilletons/f-0027.md
+- [[Ukraine Conflict]] - concept - feuilletons/f-0027.md
 
 ## Live Query (requires Dataview plugin)
 

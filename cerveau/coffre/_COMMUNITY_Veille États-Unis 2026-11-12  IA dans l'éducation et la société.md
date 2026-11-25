@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-12 : IA dans l'éducation et la société
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Retail VR]] - concept - veilles/veille-ia-fr-2026-11-13-t5.md
-- [[Veille France 2026-11-13  Autres articles]] - document - veilles/veille-ia-fr-2026-11-13-t5.md
+- [[Triche par IA en Corée du Sud, les examens sous haute tension]] - document - dossiers/2026-11-22-2.md
 
 ## Live Query (requires Dataview plugin)
 

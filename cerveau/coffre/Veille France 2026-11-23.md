@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-23-t6.md"
 type: "document"
-community: "Adobe Creative Cloud"
+community: "SpaceX"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Adobe_Creative_Cloud
+  - community/SpaceX
 ---
 
 # Veille France 2026-11-23
@@ -25,4 +25,4 @@ tags:
 - [[IA et vitesse sociétale]] - `references` [EXTRACTED]
 - [[TikTok IA Transparence]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Adobe_Creative_Cloud
+#graphify/document #graphify/EXTRACTED #community/SpaceX

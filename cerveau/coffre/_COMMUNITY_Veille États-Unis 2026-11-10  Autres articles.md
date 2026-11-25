@@ -1,17 +1,16 @@
 ---
 type: community
-members: 4
+members: 3
 ---
 
 # Veille États-Unis 2026-11-10 : Autres articles
 
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Huawei Ascend]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
-- [[LongCat-2.5]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
-- [[Meituan]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
-- [[Terminal Bench]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[Artifact AI]] - concept - veilles/veille-ia-us-2026-11-10-t7.md
+- [[Veille États-Unis 2026-11-10  Autres articles]] - document - veilles/veille-ia-us-2026-11-10-t7.md
+- [[Venture Global]] - concept - veilles/veille-ia-us-2026-11-10-t7.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,3 +18,9 @@ members: 4
 TABLE source_file, type FROM #community/Veille_États-Unis_2026-11-10__Autres_articles
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_David Tepper]]
+
+## Top bridge nodes
+- [[Veille États-Unis 2026-11-10  Autres articles]] - degree 3, connects to 1 community

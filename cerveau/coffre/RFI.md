@@ -1,17 +1,16 @@
 ---
 source_file: "dossiers/2026-11-20-3.md"
 type: "concept"
-community: "AI Act"
+community: "ASML"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AI_Act
+  - community/ASML
 ---
 
 # RFI
 
 ## Connections
 - [[Anthropic IPO]] - `references` [EXTRACTED]
-- [[Australia AI Regulator]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AI_Act
+#graphify/concept #graphify/EXTRACTED #community/ASML

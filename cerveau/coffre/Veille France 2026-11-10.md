@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-10-t6.md"
 type: "document"
-community: "Dossier : Nvidia désigné champion national de l’IA aux États‑Unis"
+community: "Jensen Huang"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Dossier__Nvidia_désigné_champion_national_de_lIA_aux_ÉtatsUnis
+  - community/Jensen_Huang
 ---
 
 # Veille France 2026-11-10
@@ -20,4 +20,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Orange]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Dossier__Nvidia_désigné_champion_national_de_lIA_aux_ÉtatsUnis
+#graphify/document #graphify/EXTRACTED #community/Jensen_Huang

@@ -1,11 +1,11 @@
 ---
-source_file: "dossiers/2026-11-13-3.md"
+source_file: "dossiers/2026-11-20-2.md"
 type: "concept"
-community: "SpaceX"
+community: "China"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/SpaceX
+  - community/China
 ---
 
 # China
@@ -14,5 +14,6 @@ tags:
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[Orbital AI Infrastructure]] - `conceptually_related_to` [INFERRED]
 - [[United States]] - `conceptually_related_to` [EXTRACTED]
+- [[World AI Cooperation Organization (WAICO)]] - `implements` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/SpaceX
+#graphify/concept #graphify/EXTRACTED #community/China

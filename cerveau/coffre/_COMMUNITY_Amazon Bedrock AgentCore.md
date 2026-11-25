@@ -1,18 +1,20 @@
 ---
 type: community
-members: 5
+members: 7
 ---
 
 # Amazon Bedrock AgentCore
 
-**Members:** 5 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Datasette Agent]] - concept - veilles/veille-ia-fr-2026-11-15-t4.md
-- [[GLM-5.4]] - concept - veilles/veille-ia-dev-2026-11-24-t5.md
-- [[Veille Outils & code 2026-11-24 (t5)]] - document - veilles/veille-ia-dev-2026-11-24-t5.md
-- [[datasette-llm]] - concept - veilles/veille-ia-fr-2026-11-15-t4.md
-- [[termix_ai]] - concept - veilles/veille-ia-dev-2026-11-24-t5.md
+- [[Veille Chine 2026-11-23  Finance, marchés et investissements IA]] - document - veilles/veille-ia-cn-2026-11-23-t3.md
+- [[三花智控]] - concept - veilles/veille-ia-cn-2026-11-23-t3.md
+- [[上纬新材]] - concept - veilles/veille-ia-cn-2026-11-23-t3.md
+- [[宁德时代]] - concept - veilles/veille-ia-cn-2026-11-23-t3.md
+- [[宇树科技]] - concept - veilles/veille-ia-cn-2026-11-23-t3.md
+- [[科达利]] - concept - veilles/veille-ia-cn-2026-11-23-t3.md
+- [[诺华 (Novartis)]] - concept - veilles/veille-ia-cn-2026-11-23-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,8 +24,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-19  Autres articles_1]]
+- 1 edge to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-08]]
 
 ## Top bridge nodes
-- [[datasette-llm]] - degree 3, connects to 2 communities
+- [[Veille Chine 2026-11-23  Finance, marchés et investissements IA]] - degree 8, connects to 2 communities

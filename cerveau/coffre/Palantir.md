@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-23-t3.md"
 type: "concept"
-community: "Shield AI"
+community: "Veille États-Unis 2026-11-08"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Shield_AI
+  - community/Veille_États-Unis_2026-11-08
 ---
 
 # Palantir
@@ -15,4 +15,4 @@ tags:
 - [[Veille Chine 2026-11-23  Finance, marchés et investissements IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-08]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Shield_AI
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08

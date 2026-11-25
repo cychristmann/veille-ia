@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t1.md"
 type: "concept"
-community: "Veille France 2026-11-15 : Réflexion et éthique"
+community: "Veille Chine 2026-11-14 : IA industrielle et infrastructure"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-15__Réflexion_et_éthique
+  - community/Veille_Chine_2026-11-14__IA_industrielle_et_infrastructure
 ---
 
 # News 5 Cleveland WEWS
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-09  Régulation et politiques publiques]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-15__Réflexion_et_éthique
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-14__IA_industrielle_et_infrastructure

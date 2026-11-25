@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-21-t4.md"
 type: "document"
-community: "Veille Outils & code 2026-11-21 : Autres articles"
+community: "Wuhan University of Science and Technology"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-21__Autres_articles
+  - community/Wuhan_University_of_Science_and_Technology
 ---
 
 # Veille Outils & code 2026-11-21 : Autres articles
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-21__Autres_articles
+#graphify/document #graphify/EXTRACTED #community/Wuhan_University_of_Science_and_Technology

@@ -1,21 +1,22 @@
 ---
 type: community
-members: 8
+members: 9
 ---
 
 # DeepSeek
 
-**Members:** 8 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Artificial Analysis]] - concept - dossiers/2026-11-16-2.md
-- [[CHIPS Act]] - concept - veilles/veille-ia-us-2026-11-14-t2.md
-- [[DeepSeek]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[Département de la Sécurité intérieure (USA)]] - concept - dossiers/2026-11-21-2.md
-- [[R1 Model]] - concept - dossiers/2026-11-16-2.md
-- [[Veille Chine 2026-11-21  Infrastructure et matériel IA]] - document - veilles/veille-ia-cn-2026-11-21-t1.md
-- [[Veille États-Unis 2026-11-14  Économie, Marchés et Investissements]] - document - veilles/veille-ia-us-2026-11-14-t2.md
-- [[Veille États-Unis 2026-11-21  Régulation & Géopolitique]] - document - veilles/veille-ia-us-2026-11-21-t2.md
+- [[Cairn AI Platform]] - concept - veilles/veille-ia-cn-2026-11-23-t2.md
+- [[Veille Chine 2026-11-23  Santé et médecine assistées par l'IA]] - document - veilles/veille-ia-cn-2026-11-23-t2.md
+- [[Veille Chine 2026-11-24  Applications sectorielles]] - document - veilles/veille-ia-cn-2026-11-24-t3.md
+- [[Zhong Nanshan (钟南山)]] - concept - veilles/veille-ia-cn-2026-11-23-t2.md
+- [[大连理工大学应用人工智能联合实验室]] - concept - veilles/veille-ia-cn-2026-11-24-t3.md
+- [[江西上线具身智能软件工厂]] - concept - veilles/veille-ia-cn-2026-11-24-t3.md
+- [[简知科技]] - concept - veilles/veille-ia-cn-2026-11-24-t3.md
+- [[蚂蚁阿福]] - concept - veilles/veille-ia-cn-2026-11-24-t3.md
+- [[诺华 CEO 瓦斯·纳拉辛汉关于AI与癌症治疗的观点]] - concept - veilles/veille-ia-cn-2026-11-24-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,18 +24,3 @@ members: 8
 TABLE source_file, type FROM #community/DeepSeek
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 3 edges to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-12  IA dans le commerce et le divertissement_1]]
-- 1 edge to [[_COMMUNITY_Alibaba_1]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_David Tepper_1]]
-- 1 edge to [[_COMMUNITY_Cursor_1]]
-
-## Top bridge nodes
-- [[DeepSeek]] - degree 8, connects to 3 communities
-- [[Veille États-Unis 2026-11-14  Économie, Marchés et Investissements]] - degree 5, connects to 3 communities
-- [[Veille Chine 2026-11-21  Infrastructure et matériel IA]] - degree 3, connects to 2 communities
-- [[Veille États-Unis 2026-11-21  Régulation & Géopolitique]] - degree 2, connects to 1 community

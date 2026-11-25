@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Hermes Agent]] - concept - veilles/veille-ia-dev-2026-11-23-t2.md
+- [[ConnectWise]] - concept - dossiers/2026-11-16-1.md
 
 ## Live Query (requires Dataview plugin)
 

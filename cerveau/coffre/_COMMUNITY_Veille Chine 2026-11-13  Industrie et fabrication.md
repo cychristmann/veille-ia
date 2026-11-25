@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Veille Chine 2026-11-13 : Industrie et fabrication
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[AI+Manufacturing]] - concept - veilles/veille-ia-cn-2026-11-13-t2.md
-- [[IA et création de contenus courts]] - concept - veilles/veille-ia-cn-2026-11-13-t2.md
-- [[Veille Chine 2026-11-13  Industrie et fabrication]] - document - veilles/veille-ia-cn-2026-11-13-t2.md
+- [[SC Media]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
+- [[Veille États-Unis 2026-11-08  Perception publique et sociétale]] - document - veilles/veille-ia-us-2026-11-08-t5.md
+- [[tech-insider.org]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
+- [[vr.org]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
 
 ## Live Query (requires Dataview plugin)
 

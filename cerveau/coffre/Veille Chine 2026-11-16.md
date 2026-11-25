@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-16-t4.md"
 type: "document"
-community: "Crise des data-centers IA"
+community: "IA et système financier"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Crise_des_data-centers_IA
+  - community/IA_et_système_financier
 ---
 
 # Veille Chine 2026-11-16
@@ -15,4 +15,4 @@ tags:
 - [[AI Market Dynamics]] - `references` [EXTRACTED]
 - [[AI Regulation and Ethics]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Crise_des_data-centers_IA
+#graphify/document #graphify/EXTRACTED #community/IA_et_système_financier

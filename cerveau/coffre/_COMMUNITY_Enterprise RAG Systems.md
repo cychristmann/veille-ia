@@ -1,16 +1,15 @@
 ---
 type: community
-members: 3
+members: 2
 ---
 
 # Enterprise RAG Systems
 
-**Members:** 3 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Infrastructure IA (Cloud, Supercalculateurs, Centres de données)]] - concept - veilles/veille-ia-fr-2026-11-20-t5.md
-- [[Surveillance et interprétabilité des modèles d'IA]] - concept - veilles/veille-ia-fr-2026-11-20-t5.md
-- [[Veille France 2026-11-20  Infrastructure, technologie et performance]] - document - veilles/veille-ia-fr-2026-11-20-t5.md
+- [[AI Ethics, Security and Regulation]] - concept - veilles/veille-ia-cn-2026-11-14-t4.md
+- [[Veille Chine 2026-11-14  Éthique, sécurité et réglementation IA]] - document - veilles/veille-ia-cn-2026-11-14-t4.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-22-t7.md"
 type: "concept"
-community: "OpenRouter"
+community: "Veille France 2026-11-17"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/OpenRouter
+  - community/Veille_France_2026-11-17
 ---
 
 # Boltz
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-22]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/OpenRouter
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-17

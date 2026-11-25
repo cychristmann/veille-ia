@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Blue J
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Alpamayo 2 Edge]] - concept - veilles/veille-ia-dev-2026-11-23-t1.md
-- [[DRIVE Thor]] - concept - veilles/veille-ia-dev-2026-11-23-t1.md
+- [[248 Ventures]] - concept - dossiers/2026-11-16-2.md
 
 ## Live Query (requires Dataview plugin)
 

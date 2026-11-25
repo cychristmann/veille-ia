@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-12 : IA dans l'éducation et la société
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Accenture]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
-- [[Qantas]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
+- [[Claude Data]] - concept - veilles/veille-ia-dev-2026-11-12-t1.md
 
 ## Live Query (requires Dataview plugin)
 

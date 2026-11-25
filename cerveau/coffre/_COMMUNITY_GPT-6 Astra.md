@@ -1,24 +1,34 @@
 ---
 type: community
-members: 11
+members: 21
 ---
 
 # GPT-6 Astra
 
-**Members:** 11 nodes
+**Members:** 21 nodes
 
 ## Members
-- [[Alice Huang]] - concept - dossiers/2026-11-12-1.md
-- [[Gaspard de Monclin]] - concept - veilles/veille-ia-fr-2026-11-13-t4.md
-- [[Giuliano da Empoli]] - concept - veilles/veille-ia-fr-2026-11-13-t4.md
-- [[Guillaume Coqueret]] - concept - veilles/veille-ia-fr-2026-11-13-t4.md
-- [[Jensen Huang]] - code - veilles/veille-ia-us-2026-11-13-t1.md
-- [[Pékin]] - concept - dossiers/2026-11-12-1.md
-- [[Veille Chine 2026-11-12  Marché financier et investissements IA]] - document - veilles/veille-ia-cn-2026-11-12-t7.md
-- [[Veille France 2026-11-08]] - document - veilles/veille-ia-fr-2026-11-08-t5.md
-- [[Veille France 2026-11-13  Impact sociétal & Débats publics]] - document - veilles/veille-ia-fr-2026-11-13-t4.md
-- [[Veille France 2026-11-15  Recherche, outils et modèles IA]] - document - veilles/veille-ia-fr-2026-11-15-t4.md
-- [[Vincent Courboulay]] - concept - veilles/veille-ia-fr-2026-11-15-t4.md
+- [[Adobe MAX 2026]] - concept - veilles/veille-ia-cn-2026-11-11-t3.md
+- [[CAA]] - concept - veilles/veille-ia-fr-2026-11-11-t2.md
+- [[CLARA]] - code - feuilletons/f-0017.md
+- [[Daft Punk]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[DeepL Aure]] - concept - veilles/veille-ia-cn-2026-11-11-t3.md
+- [[ECHO]] - concept - veilles/veille-ia-fr-2026-11-11-t2.md
+- [[Feuilleton CLARA révolutionne le calcul des bioréacteurs]] - document - feuilletons/f-0017.md
+- [[GTA VI]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Google DeepMind Hurricane Model]] - concept - veilles/veille-ia-cn-2026-11-11-t3.md
+- [[Japanese Bias in AI]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Kick]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Krea]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[LEGO]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[MiniMax Model]] - concept - veilles/veille-ia-cn-2026-11-11-t3.md
+- [[Mozart AI]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Ogilvy]] - concept - veilles/veille-ia-fr-2026-11-11-t2.md
+- [[Palo]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Project Screen Test]] - concept - veilles/veille-ia-cn-2026-11-11-t3.md
+- [[Project Sight Span]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Veille Chine 2026-11-11  Applications sectorielles]] - document - veilles/veille-ia-cn-2026-11-11-t3.md
+- [[Veille France 2026-11-13  Applications & Outils IA]] - document - veilles/veille-ia-fr-2026-11-13-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -28,22 +38,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 7 edges to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-23  Santé et médecine assistées par l'IA]]
-- 1 edge to [[_COMMUNITY_Meta_1]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17]]
-- 1 edge to [[_COMMUNITY_Dossier  Nvidia désigné champion national de l’IA aux États‑Unis]]
-- 1 edge to [[_COMMUNITY_Jensen Huang]]
-- 1 edge to [[_COMMUNITY_JPMorgan]]
-- 1 edge to [[_COMMUNITY_David Tepper]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-12]]
-- 1 edge to [[_COMMUNITY_AI Impact on Finance and Markets_1]]
-- 1 edge to [[_COMMUNITY_Amazon Bedrock AgentCore]]
-- 1 edge to [[_COMMUNITY_Microsoft]]
-- 1 edge to [[_COMMUNITY_David Tepper_1]]
+- 1 edge to [[_COMMUNITY_GPT-6 Astra_2]]
 
 ## Top bridge nodes
-- [[Jensen Huang]] - degree 18, connects to 10 communities
-- [[Veille France 2026-11-15  Recherche, outils et modèles IA]] - degree 6, connects to 4 communities
-- [[Veille France 2026-11-13  Impact sociétal & Débats publics]] - degree 5, connects to 1 community
-- [[Veille Chine 2026-11-12  Marché financier et investissements IA]] - degree 2, connects to 1 community
+- [[Veille France 2026-11-13  Applications & Outils IA]] - degree 10, connects to 1 community

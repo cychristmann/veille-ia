@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-15-2.md"
 type: "concept"
-community: "AMD"
+community: "Veille Outils & code 2026-11-20"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AMD
+  - community/Veille_Outils__code_2026-11-20
 ---
 
 # Boom de l'intelligence artificielle
@@ -15,4 +15,4 @@ tags:
 - [[Dossier  Effondrement du boom IA et crise des data-centers]] - `references` [EXTRACTED]
 - [[Risque macroéconomique]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AMD
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-20

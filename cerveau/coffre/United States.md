@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-17-t1.md"
 type: "concept"
-community: "SpaceX"
+community: "China"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/SpaceX
+  - community/China
 ---
 
 # United States
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[China]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/SpaceX
+#graphify/concept #graphify/EXTRACTED #community/China

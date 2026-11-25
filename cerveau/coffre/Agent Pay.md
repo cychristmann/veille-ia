@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-17-2.md"
 type: "concept"
-community: "Jensen Huang"
+community: "ChatGPT Wallet"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Jensen_Huang
+  - community/ChatGPT_Wallet
 ---
 
 # Agent Pay
@@ -14,4 +14,4 @@ tags:
 - [[ChatGPT Wallet]] - `conceptually_related_to` [INFERRED]
 - [[Mastercard]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Jensen_Huang
+#graphify/concept #graphify/EXTRACTED #community/ChatGPT_Wallet

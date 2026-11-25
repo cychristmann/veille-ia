@@ -1,11 +1,11 @@
 ---
-source_file: "feuilletons/f-0001.md"
+source_file: "veilles/veille-ia-fr-2026-11-20-t3.md"
 type: "concept"
-community: "ASML"
+community: "Chine"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ASML
+  - community/Chine
 ---
 
 # TSMC
@@ -15,4 +15,4 @@ tags:
 - [[Chine]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-20  Régulation, souveraineté et enjeux géopolitiques]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/ASML
+#graphify/concept #graphify/EXTRACTED #community/Chine

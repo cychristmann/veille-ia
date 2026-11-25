@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-21-t3.md"
 type: "concept"
-community: "Copilot"
+community: "Hypothèse de Riemann"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Copilot
+  - community/Hypothèse_de_Riemann
 ---
 
 # Hypothèse de Riemann
@@ -18,4 +18,4 @@ tags:
 - [[Shing-Tong Yau]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-21  Recherche scientifique & mathématiques]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Copilot
+#graphify/concept #graphify/EXTRACTED #community/Hypothèse_de_Riemann

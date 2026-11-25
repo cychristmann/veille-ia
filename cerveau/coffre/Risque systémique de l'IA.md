@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-14-2.md"
 type: "concept"
-community: "Goldman Sachs"
+community: "Hugging Face"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Goldman_Sachs
+  - community/Hugging_Face
 ---
 
 # Risque systémique de l'IA
@@ -15,4 +15,4 @@ tags:
 - [[Autorités chinoises]] - `conceptually_related_to` [EXTRACTED]
 - [[Federal Reserve]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Goldman_Sachs
+#graphify/concept #graphify/EXTRACTED #community/Hugging_Face

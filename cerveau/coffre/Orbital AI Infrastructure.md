@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-13-3.md"
 type: "concept"
-community: "SpaceX"
+community: "China"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/SpaceX
+  - community/China
 ---
 
 # Orbital AI Infrastructure
@@ -15,4 +15,4 @@ tags:
 - [[Google]] - `references` [EXTRACTED]
 - [[SpaceX]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/SpaceX
+#graphify/concept #graphify/EXTRACTED #community/China

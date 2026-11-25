@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-24-t1.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-19 : Éthique, sécurité et impact sociétal"
+community: "Veille États-Unis 2026-11-12 : IA en santé et sciences de la vie"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-19__Éthique_sécurité_et_impact_sociétal
+  - community/Veille_États-Unis_2026-11-12__IA_en_santé_et_sciences_de_la_vie
 ---
 
 # NHS
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[EDITH Trial]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-19__Éthique_sécurité_et_impact_sociétal
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-12__IA_en_santé_et_sciences_de_la_vie

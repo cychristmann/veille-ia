@@ -22,7 +22,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_David Tepper_1]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
 - 1 edge to [[_COMMUNITY_Claude Code]]
 
 ## Top bridge nodes

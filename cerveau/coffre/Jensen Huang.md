@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
 type: "code"
-community: "GPT-6 Astra"
+community: "Jensen Huang"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Jensen_Huang
 ---
 
 # Jensen Huang
@@ -30,4 +30,4 @@ tags:
 - [[Veille États-Unis 2026-11-22  Marché, investissements et actions IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-24  Marchés financiers & Investissements]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/code #graphify/EXTRACTED #community/Jensen_Huang

@@ -1,18 +1,20 @@
 ---
 type: community
-members: 5
+members: 7
 ---
 
 # Veille Chine 2026-11-11 : Marchés et investissements
 
-**Members:** 5 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Aoshikang]] - concept - veilles/veille-ia-cn-2026-11-11-t1.md
-- [[Guangdong Province]] - concept - veilles/veille-ia-cn-2026-11-11-t1.md
-- [[Nanling Technology]] - concept - veilles/veille-ia-cn-2026-11-11-t1.md
-- [[Shanghai Film]] - concept - veilles/veille-ia-cn-2026-11-11-t1.md
-- [[Veille Chine 2026-11-11  Marchés et investissements]] - document - veilles/veille-ia-cn-2026-11-11-t1.md
+- [[ChatGPT Ads]] - concept - veilles/veille-ia-dev-2026-11-24-t6.md
+- [[Google AI Mode]] - concept - veilles/veille-ia-dev-2026-11-24-t6.md
+- [[Linux]] - concept - veilles/veille-ia-dev-2026-11-25-t2.md
+- [[STEWARD]] - concept - veilles/veille-ia-dev-2026-11-24-t6.md
+- [[Shirudo]] - concept - veilles/veille-ia-dev-2026-11-24-t6.md
+- [[Veille Outils & code 2026-11-24 (t6)]] - document - veilles/veille-ia-dev-2026-11-24-t6.md
+- [[Veille Outils & code 2026-11-25  Sécurité et gouvernance des IA]] - document - veilles/veille-ia-dev-2026-11-25-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,8 +24,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_CoreWeave]]
-- 1 edge to [[_COMMUNITY_David Tepper_1]]
+- 2 edges to [[_COMMUNITY_Veille France 2026-11-25]]
+- 2 edges to [[_COMMUNITY_Claude Code_1]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
 
 ## Top bridge nodes
-- [[Veille Chine 2026-11-11  Marchés et investissements]] - degree 6, connects to 2 communities
+- [[Shirudo]] - degree 7, connects to 3 communities
+- [[ChatGPT Ads]] - degree 2, connects to 1 community

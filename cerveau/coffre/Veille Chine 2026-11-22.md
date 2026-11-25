@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-22-t4.md"
 type: "document"
-community: "Chine"
+community: "Veille Outils & code 2026-11-14 : Autres articles"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Chine
+  - community/Veille_Outils__code_2026-11-14__Autres_articles
 ---
 
 # Veille Chine 2026-11-22
@@ -15,4 +15,4 @@ tags:
 - [[Tencent Chatterfly]] - `references` [EXTRACTED]
 - [[Tesla FSD v15]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Chine
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-14__Autres_articles

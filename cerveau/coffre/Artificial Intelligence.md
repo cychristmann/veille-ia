@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0021.md"
 type: "concept"
-community: "Goldman Sachs"
+community: "Hugging Face"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Goldman_Sachs
+  - community/Hugging_Face
 ---
 
 # Artificial Intelligence
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Federal Reserve]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Goldman_Sachs
+#graphify/concept #graphify/EXTRACTED #community/Hugging_Face

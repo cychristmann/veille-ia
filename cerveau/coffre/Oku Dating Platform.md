@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-16-t6.md"
 type: "concept"
-community: "Le Monde Informatique"
+community: "Oku Dating Platform"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Le_Monde_Informatique
+  - community/Oku_Dating_Platform
 ---
 
 # Oku Dating Platform
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Outils & code 2026-11-16  Autres articles]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Le_Monde_Informatique
+#graphify/concept #graphify/EXTRACTED #community/Oku_Dating_Platform

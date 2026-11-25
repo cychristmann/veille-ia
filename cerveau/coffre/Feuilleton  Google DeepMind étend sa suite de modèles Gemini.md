@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0010.md"
 type: "document"
-community: "Gemini 4 Hydrogen"
+community: "GPT-6 Astra"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Gemini_4_Hydrogen
+  - community/GPT-6_Astra
 ---
 
 # Feuilleton : Google DeepMind étend sa suite de modèles Gemini
@@ -17,4 +17,4 @@ tags:
 - [[Gemini 4 Neon]] - `references` [EXTRACTED]
 - [[Gemini Decisions]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Gemini_4_Hydrogen
+#graphify/document #graphify/EXTRACTED #community/GPT-6_Astra

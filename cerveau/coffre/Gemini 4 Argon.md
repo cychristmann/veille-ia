@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-20-t4.md"
 type: "concept"
-community: "Gemini 4 Hydrogen"
+community: "GPT-6 Astra"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Gemini_4_Hydrogen
+  - community/GPT-6_Astra
 ---
 
 # Gemini 4 Argon
@@ -16,4 +16,4 @@ tags:
 - [[Google DeepMind]] - `references` [INFERRED]
 - [[Veille Chine 2026-11-20  Recherche, Modèles & Technologie]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Gemini_4_Hydrogen
+#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra

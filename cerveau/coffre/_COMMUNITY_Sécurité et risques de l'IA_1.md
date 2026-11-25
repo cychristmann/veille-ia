@@ -1,16 +1,15 @@
 ---
 type: community
-members: 3
+members: 2
 ---
 
 # Sécurité et risques de l'IA
 
-**Members:** 3 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Artifact AI]] - concept - veilles/veille-ia-us-2026-11-10-t7.md
-- [[Veille États-Unis 2026-11-10  Autres articles]] - document - veilles/veille-ia-us-2026-11-10-t7.md
-- [[Venture Global]] - concept - veilles/veille-ia-us-2026-11-10-t7.md
+- [[Sécurité et risques de l'IA]] - concept - veilles/veille-ia-fr-2026-11-14-t4.md
+- [[Veille France 2026-11-14  Sécurité, risques et fraudes]] - document - veilles/veille-ia-fr-2026-11-14-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,9 +17,3 @@ members: 3
 TABLE source_file, type FROM #community/Sécurité_et_risques_de_lIA
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_David Tepper_1]]
-
-## Top bridge nodes
-- [[Veille États-Unis 2026-11-10  Autres articles]] - degree 3, connects to 1 community

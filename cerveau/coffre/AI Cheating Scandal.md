@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-22-2.md"
 type: "concept"
-community: "AI Cheating Scandal"
+community: "Edelbyte"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AI_Cheating_Scandal
+  - community/Edelbyte
 ---
 
 # AI Cheating Scandal
 
-#graphify/concept #graphify/EXTRACTED #community/AI_Cheating_Scandal
+#graphify/concept #graphify/EXTRACTED #community/Edelbyte

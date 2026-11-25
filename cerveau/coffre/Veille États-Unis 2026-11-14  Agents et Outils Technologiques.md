@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-14-t3.md"
 type: "document"
-community: "JPMorgan"
+community: "Riemann Hypothesis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/JPMorgan
+  - community/Riemann_Hypothesis
 ---
 
 # Veille États-Unis 2026-11-14 : Agents et Outils Technologiques
@@ -16,4 +16,4 @@ tags:
 - [[Grok]] - `references` [EXTRACTED]
 - [[Perplexity]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/JPMorgan
+#graphify/document #graphify/EXTRACTED #community/Riemann_Hypothesis

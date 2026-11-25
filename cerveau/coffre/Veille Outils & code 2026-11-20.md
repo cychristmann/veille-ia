@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-20-t2.md"
+source_file: "veilles/veille-ia-dev-2026-11-20-t1.md"
 type: "document"
-community: "Veille Outils & code 2026-11-20"
+community: "Adobe Creative Cloud"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-20
+  - community/Adobe_Creative_Cloud
 ---
 
 # Veille Outils & code 2026-11-20
@@ -23,4 +23,4 @@ tags:
 - [[Microsoft Agent Framework]] - `references` [EXTRACTED]
 - [[Perplexity Orchestrator API]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-20
+#graphify/document #graphify/EXTRACTED #community/Adobe_Creative_Cloud

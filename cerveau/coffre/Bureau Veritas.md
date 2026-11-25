@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-23-t2.md"
 type: "concept"
-community: "Veille France 2026-11-23 : Adoption industrielle et entreprises"
+community: "Veille Chine 2026-11-19 : Infrastructure et Technologie IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-23__Adoption_industrielle_et_entreprises
+  - community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA
 ---
 
 # Bureau Veritas
@@ -14,4 +14,4 @@ tags:
 - [[Topo Solutions]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-23  Adoption industrielle et entreprises]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-23__Adoption_industrielle_et_entreprises
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA

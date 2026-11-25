@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-12-t2.md"
 type: "document"
-community: "Veille France 2026-11-12"
+community: "Veille États-Unis 2026-11-13 : Développements et investissements corporatifs"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-12
+  - community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
 ---
 
 # Veille France 2026-11-12
@@ -26,4 +26,4 @@ tags:
 - [[Omnii Defense]] - `references` [EXTRACTED]
 - [[United Airlines]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-12
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs

@@ -1,21 +1,26 @@
 ---
 type: community
-members: 8
+members: 13
 ---
 
 # AMD
 
-**Members:** 8 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[AMD]] - concept - veilles/veille-ia-cn-2026-11-10-t1.md
-- [[AMD 霄龙嵌入式 9006 系列 SP7]] - concept - veilles/veille-ia-cn-2026-11-10-t1.md
-- [[Li Feifei]] - code - veilles/veille-ia-cn-2026-11-17-t5.md
-- [[Unsloth]] - concept - veilles/veille-ia-fr-2026-11-22-t2.md
-- [[Veille Chine 2026-11-17 (T5)]] - document - veilles/veille-ia-cn-2026-11-17-t5.md
-- [[Veille États-Unis 2026-11-08]] - document - veilles/veille-ia-us-2026-11-08-t4.md
-- [[Xiao and Cai, “Follow the Policy, Fail the Benchmark”, arXiv 2611.07042]] - paper - veilles/veille-ia-us-2026-11-08-t4.md
-- [[Zen 6 架构]] - concept - veilles/veille-ia-cn-2026-11-10-t1.md
+- [[Agentic AI Foundation]] - concept - veilles/veille-ia-dev-2026-11-23-t4.md
+- [[Amazon SageMaker HyperPod Inference]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Codex CLI]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Hitachi Vantara VSP One]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Impartner MCP]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[JustSolve AI Mastery]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Microsoft AI coding model]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Octopus Deploy]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Perplexity Computer]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Replit Missions]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Veille Outils & code 2026-11-18]] - document - veilles/veille-ia-dev-2026-11-18-t1.md
+- [[Veille Outils & code 2026-11-23  Nouvelles approches de développement]] - document - veilles/veille-ia-dev-2026-11-23-t4.md
+- [[Vibe Coding]] - concept - veilles/veille-ia-dev-2026-11-16-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,13 +30,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Hypothèse de Riemann]]
-- 1 edge to [[_COMMUNITY_Shield AI]]
-- 1 edge to [[_COMMUNITY_T-Head]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_David Tepper]]
-- 1 edge to [[_COMMUNITY_Meta_1]]
+- 2 edges to [[_COMMUNITY_Copilot]]
+- 1 edge to [[_COMMUNITY_Claude Code_1]]
+- 1 edge to [[_COMMUNITY_GPT-6 Astra_1]]
+- 1 edge to [[_COMMUNITY_Cipher]]
+- 1 edge to [[_COMMUNITY_Hugging Face_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-22_1]]
 
 ## Top bridge nodes
-- [[AMD]] - degree 9, connects to 3 communities
-- [[Veille États-Unis 2026-11-08]] - degree 5, connects to 3 communities
+- [[Veille Outils & code 2026-11-18]] - degree 16, connects to 5 communities
+- [[Vibe Coding]] - degree 4, connects to 1 community

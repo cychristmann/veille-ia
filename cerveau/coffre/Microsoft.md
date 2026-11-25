@@ -1,9 +1,9 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
-type: "code"
+source_file: "veilles/veille-ia-cn-2026-11-18-t1.md"
+type: "concept"
 community: "Microsoft"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
   - community/Microsoft
 ---
@@ -11,10 +11,12 @@ tags:
 # Microsoft
 
 ## Connections
+- [[AI Governance]] - `references` [EXTRACTED]
 - [[AI Transparency Initiative]] - `references` [EXTRACTED]
 - [[AWS]] - `conceptually_related_to` [INFERRED]
 - [[Anthropic]] - `conceptually_related_to` [EXTRACTED]
 - [[Azure Cobalt 200]] - `references` [EXTRACTED]
+- [[Brad Smith]] - `references` [EXTRACTED]
 - [[Copilot]] - `references` [EXTRACTED]
 - [[Copilot Autopilot]] - `conceptually_related_to` [EXTRACTED]
 - [[Copilot Code]] - `conceptually_related_to` [EXTRACTED]
@@ -57,4 +59,4 @@ tags:
 - [[Windows 11 Copilot]] - `references` [INFERRED]
 - [[Windows Server 2028]] - `references` [INFERRED]
 
-#graphify/code #graphify/EXTRACTED #community/Microsoft
+#graphify/concept #graphify/EXTRACTED #community/Microsoft

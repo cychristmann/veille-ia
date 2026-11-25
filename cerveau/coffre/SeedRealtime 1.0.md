@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t3.md"
 type: "concept"
-community: "CoreWeave"
+community: "SeedRealtime 1.0"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/CoreWeave
+  - community/SeedRealtime_10
 ---
 
 # SeedRealtime 1.0
@@ -16,4 +16,4 @@ tags:
 - [[Volcano Engine]] - `references` [EXTRACTED]
 - [[ZTE]] - `conceptually_related_to` [INFERRED]
 
-#graphify/concept #graphify/EXTRACTED #community/CoreWeave
+#graphify/concept #graphify/EXTRACTED #community/SeedRealtime_10

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-23-t1.md"
 type: "concept"
-community: "RDMA over USB4"
+community: "Verda"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/RDMA_over_USB4
+  - community/Verda
 ---
 
 # Windows 11
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[RDMA over USB4]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/RDMA_over_USB4
+#graphify/concept #graphify/EXTRACTED #community/Verda

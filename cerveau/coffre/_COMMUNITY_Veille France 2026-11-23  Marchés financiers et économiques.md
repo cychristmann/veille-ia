@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Edge0-145B]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
+- [[Feuilleton Le président Macron envisage d’interdire l’IA chez les enfants en cas de risque]] - document - feuilletons/f-0006.md
 
 ## Live Query (requires Dataview plugin)
 

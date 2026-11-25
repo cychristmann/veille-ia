@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-17-t5.md"
 type: "code"
-community: "SpaceX"
+community: "Débats à Saint-Tropez"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/SpaceX
+  - community/Débats_à_Saint-Tropez
 ---
 
 # Li Dongsheng
@@ -14,4 +14,4 @@ tags:
 - [[APEC]] - `references` [EXTRACTED]
 - [[TCL]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/SpaceX
+#graphify/code #graphify/EXTRACTED #community/Débats_à_Saint-Tropez

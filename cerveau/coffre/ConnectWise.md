@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-16-1.md"
 type: "concept"
-community: "Lumbra"
+community: "Hermes Agent"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Lumbra
+  - community/Hermes_Agent
 ---
 
 # ConnectWise
 
-#graphify/concept #graphify/EXTRACTED #community/Lumbra
+#graphify/concept #graphify/EXTRACTED #community/Hermes_Agent

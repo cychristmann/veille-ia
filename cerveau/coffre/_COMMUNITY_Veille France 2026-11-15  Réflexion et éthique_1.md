@@ -1,19 +1,18 @@
 ---
 type: community
-members: 6
+members: 5
 ---
 
 # Veille France 2026-11-15 : Réflexion et éthique
 
-**Members:** 6 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Community Impact]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[Daily Herald]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[Federal News Network]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[Inside Global Tech]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[News 5 Cleveland WEWS]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[Veille États-Unis 2026-11-09  Régulation et politiques publiques]] - document - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Crimson Desert]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
+- [[Pascal Haté]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
+- [[Pearl Abyss]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
+- [[SMARTANCE]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
+- [[Veille France 2026-11-15  Réflexion et éthique]] - document - veilles/veille-ia-fr-2026-11-15-t5.md
 
 ## Live Query (requires Dataview plugin)
 

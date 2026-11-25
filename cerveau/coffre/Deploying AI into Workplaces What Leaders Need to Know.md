@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-16-t3.md"
 type: "document"
-community: "Deletion Tuning"
+community: "datasette-cluster-map"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Deletion_Tuning
+  - community/datasette-cluster-map
 ---
 
 # Deploying AI into Workplaces: What Leaders Need to Know
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-16  Éducation, formation et environnement professionnel]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Deletion_Tuning
+#graphify/document #graphify/EXTRACTED #community/datasette-cluster-map

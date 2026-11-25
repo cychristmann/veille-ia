@@ -1,0 +1,259 @@
+{
+ "date": "2026-11-25",
+ "mode": "ia",
+ "bilan": "Cette nuit, la veille a atteint les objectifs de quantité d'articles pour chaque section, mais les liens directs restent faibles en Chine et deux sources sont en panne. Le quota Groq est bien maîtrisé à 71 %. Les sections France et Outils & code affichent de bons pourcentages de liens directs, tandis que les États‑Unis et surtout la Chine ont besoin d'amélioration. Les réglages actuels restent globalement efficaces, mais il faut agir sur les sources défaillantes et diversifier les médias chinois.",
+ "a_surveiller": [
+  "Source Foro3D toujours en panne, risque de perte d'articles France.",
+  "The Guardian (IA) en panne, impact sur la veille États‑Unis.",
+  "Taux de liens directs très faible pour la section Chine (14 %)."
+ ],
+ "lecon": "Diversifier rapidement les sources dans les sections où les liens directs sont très faibles permet d’augmenter rapidement le taux de liens directs.",
+ "actions": [
+  {
+   "date": "2026-11-25",
+   "action": "reprendre",
+   "section": "dev",
+   "source": "JetBrains AI",
+   "motif": "média calme, pas muet : répond de nouveau : 12 articles sur l'IA sur 12",
+   "raison": "Le média JetBrains AI est stable et fournit les 12 articles attendus, il faut le garder.",
+   "resultat": "",
+   "libelle": "Reprise de JetBrains AI (Outils & code)"
+  },
+  {
+   "date": "2026-11-25",
+   "action": "reprendre",
+   "section": "dev",
+   "source": "Cursor",
+   "motif": "média calme, pas muet : répond de nouveau : 42 articles sur l'IA sur 50",
+   "raison": "Cursor revient avec 42 articles sur 50, il reste pertinent pour la section Outils & code.",
+   "resultat": "",
+   "libelle": "Reprise de Cursor (Outils & code)"
+  },
+  {
+   "date": "2026-11-25",
+   "action": "reprendre",
+   "section": "dev",
+   "source": "Ollama",
+   "motif": "média calme, pas muet : répond de nouveau : 64 articles sur l'IA sur 64",
+   "raison": "Ollama fournit 64 articles sur 64, il assure une couverture complète.",
+   "resultat": "",
+   "libelle": "Reprise de Ollama (Outils & code)"
+  },
+  {
+   "date": "2026-11-25",
+   "action": "annuler_reglage",
+   "section": "us",
+   "source": "part de Google Actualités 1.0 → 0.8",
+   "motif": "score 76.8/100 sur 3 nuits, contre 77.3 avant (-0.5)",
+   "raison": "Résultat mesuré de l'expérience, appliqué d'office.",
+   "resultat": "retour au réglage d'avant",
+   "libelle": "Expérience sans effet États-Unis : part de Google Actualités 1.0 → 0.8, retour arrière"
+  },
+  {
+   "date": "2026-11-25",
+   "action": "decouvrir",
+   "section": "cn",
+   "source": "médias Chine",
+   "motif": "liens directs sous 30 % depuis 3 nuits (16 %, 16 %, 14 %) : recherche ciblée",
+   "raison": "Les liens directs en Chine sont très bas ; découvrir de nouveaux médias chinois devrait augmenter ce taux.",
+   "resultat": "mis à l'essai : 智东西 (Chine), 雷峰网 (Chine)",
+   "libelle": "Recherche de nouveaux médias (Chine)"
+  }
+ ],
+ "refusees": [],
+ "en_pause": [
+  {
+   "section": "dev",
+   "source": "KDnuggets",
+   "depuis": "2026-11-19",
+   "motif": "hors sujet : 5 articles écartés, aucun retenu en 7 nuits"
+  },
+  {
+   "section": "dev",
+   "source": "Design News",
+   "depuis": "2026-11-22",
+   "motif": "en panne 5 nuits d'affilée"
+  },
+  {
+   "section": "cn",
+   "source": "新浪科技",
+   "depuis": "2026-11-21",
+   "motif": "muet : aucun article récent sur l'IA en 4 nuits (60 articles lus)",
+   "dernier_essai": "2026-11-25 : répond, mais rien publié depuis le 2018-09-23"
+  }
+ ],
+ "en_essai": [
+  {
+   "section": "cn",
+   "source": "智东西",
+   "depuis": "2026-11-25",
+   "raison": "Site d'information technologique chinois avec 13 articles IA sur 16 publiés en 72 h (81 % du flux) et des titres clairement centrés sur l'IA, ce qui assure un apport régulier et de qualité au-delà de Google Actualités."
+  },
+  {
+   "section": "cn",
+   "source": "雷峰网",
+   "depuis": "2026-11-25",
+   "raison": "Média technologique chinois qui publie 13 articles IA sur 20 en 72 h (65 %) et propose des contenus spécialisés IA (agents, HPC, IA appliquée), garantissant un flux pertinent et fréquent."
+  }
+ ],
+ "lecons": [
+  {
+   "date": "2026-11-17",
+   "texte": "Tester régulièrement de nouveaux médias aide à maintenir un haut pourcentage de liens directs et à diversifier les sources."
+  },
+  {
+   "date": "2026-11-20",
+   "texte": "Pour les sections où les liens directs sont très faibles, réduire la dépendance à Google Actualités et chercher davantage de sources directes améliore la qualité des références."
+  },
+  {
+   "date": "2026-11-21",
+   "texte": "Pour les sections où les liens directs sont très faibles, comme la Chine, il faut diversifier rapidement les sources et réduire la dépendance aux agrégateurs afin d'augmenter la proportion de liens directs."
+  },
+  {
+   "date": "2026-11-22",
+   "texte": "Diversifier rapidement les sources chinoises et remplacer les médias en panne permet d'augmenter le taux de liens directs, ce qui améliore la qualité globale de la veille."
+  }
+ ],
+ "paris": {
+  "nouveaux": [
+   {
+    "enonce": "OpenAI : au plus 12 articles (France et États-Unis) sur les 5 prochains jours",
+    "probabilite": 0.49,
+    "echeance": "2026-11-30",
+    "statut": "en_cours",
+    "observe": null,
+    "raisonnement": "Le récent pic (10 mentions le 24/11) devrait redescendre rapidement, aucune annonce majeure prévue, donc une baisse attendue."
+   },
+   {
+    "enonce": "AWS : au plus 5 articles (Outils & code) sur les 2 prochains jours",
+    "probabilite": 0.56,
+    "echeance": "2026-11-27",
+    "statut": "en_cours",
+    "observe": null,
+    "raisonnement": "Après la sortie d'une mise à jour majeure (début novembre) le nombre d'articles a chuté ; aucune nouvelle fonction annoncée immédiatement, donc une poursuite de la baisse est probable."
+   }
+  ],
+  "resolus": [
+   {
+    "enonce": "Gemini : au moins 20 articles (Outils & code) sur les 4 prochains jours",
+    "probabilite": 0.54,
+    "echeance": "2026-11-25",
+    "statut": "perdu",
+    "observe": 6,
+    "raisonnement": "Après une forte hausse récente (14 articles hier) la tendance semble soutenue, mais la moyenne reste autour de 6‑7, rendant 20 plausible."
+   },
+   {
+    "enonce": "Nvidia : au moins 22 articles (États-Unis et France) sur les 3 prochains jours",
+    "probabilite": 0.55,
+    "echeance": "2026-11-25",
+    "statut": "gagne",
+    "observe": 26,
+    "raisonnement": "Les totaux récents (fr+us) sont 37 sur 7 j, soit ≈5,3/jour ; une hausse soutenue autour de 7‑8/jour rend 22 plausible."
+   },
+   {
+    "enonce": "GitHub : au plus 12 articles (Outils & code) sur les 2 prochains jours",
+    "probabilite": 0.54,
+    "echeance": "2026-11-25",
+    "statut": "gagne",
+    "observe": 3,
+    "raisonnement": "GitHub a 25 mentions en dev sur 7 jours (≈3,6/j). Le pari précédent (≤10) était gagné, mais la tendance montre une légère hausse, rendant ≤12 incertain."
+   }
+  ],
+  "refus": [
+   "« Claude : au plus 12 articles (Outils & code) sur les 2 prochains jours » : l'historique le donne perdant (gagné 1 fois sur 13 périodes passées)",
+   "« Gemini : au moins 9 articles (France et États-Unis) sur les 3 prochains jours » : l'historique le donne perdant (gagné 1 fois sur 16 périodes passées)",
+   "« AI Agents : au moins 7 articles (Chine) sur les 4 prochains jours » : l'historique le donne perdant (gagné 0 fois sur 13 périodes passées)",
+   "« Tencent : au moins 5 articles (Chine) sur les 3 prochains jours » : l'historique le donne perdant (gagné 3 fois sur 14 périodes passées)"
+  ],
+  "score": {
+   "tranches": 29,
+   "gagnes": 12,
+   "reussite": 41,
+   "correction": 0.3,
+   "methode": "melange",
+   "briers": {
+    "ia": 0.261,
+    "historique": 0.244,
+    "melange": 0.234
+   },
+   "reussite_au_moins": "7/22",
+   "reussite_au_plus": "5/7",
+   "confiance_moyenne": 67,
+   "brier": 0.31,
+   "paliers": {
+    "50-64 %": {
+     "paris": 9,
+     "reussite": 33
+    },
+    "65-79 %": {
+     "paris": 20,
+     "reussite": 45
+    }
+   }
+  }
+ },
+ "section_ephemere": {
+  "entite": "Jensen Huang",
+  "termes": [
+   "Jensen Huang",
+   "黄仁勋 (Jensen Huang)"
+  ],
+  "depuis": "2026-11-24",
+  "pic": 15,
+  "motif": "14 articles en 2 jours, 5.8 fois plus que d'habitude (1.2 par jour)",
+  "raison": "Le sujet Jensen Huang est d'actualité (départ du dirigeant) et justifie une rubrique éphémère pour plusieurs jours."
+ },
+ "experiences": [
+  {
+   "section": "fr",
+   "libelle": "part de Google Actualités 1.0 → 0.8",
+   "depuis": "2026-11-23",
+   "base": 78.4,
+   "hypothese": "Réduire la part de Google Actualités en France devrait augmenter le pourcentage de liens directs, améliorant le score global."
+  }
+ ],
+ "indicateurs": {
+  "sections": {
+   "fr": {
+    "nom": "France",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 76,
+    "pannes": [
+     "Foro3D"
+    ]
+   },
+   "us": {
+    "nom": "États-Unis",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 54,
+    "pannes": [
+     "The Guardian (IA)"
+    ]
+   },
+   "cn": {
+    "nom": "Chine",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 14,
+    "pannes": []
+   },
+   "dev": {
+    "nom": "Outils & code",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 76,
+    "pannes": []
+   }
+  },
+  "quota_groq": 71,
+  "nuit": {
+   "statut": "attention",
+   "soucis": [
+    "Veille France : 50 articles, 12 sans lien direct · 1 source(s) en panne : Foro3D",
+    "Veille États-Unis : 50 articles, 23 sans lien direct · 1 source(s) en panne : The Guardian (IA)"
+   ]
+  }
+ }
+}

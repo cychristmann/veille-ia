@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-20-2.md"
 type: "concept"
-community: "RDMA over USB4"
+community: "Brevis Arca AI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/RDMA_over_USB4
+  - community/Brevis_Arca_AI
 ---
 
 # Allspring Global Investments
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Gary Tan]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/RDMA_over_USB4
+#graphify/concept #graphify/EXTRACTED #community/Brevis_Arca_AI

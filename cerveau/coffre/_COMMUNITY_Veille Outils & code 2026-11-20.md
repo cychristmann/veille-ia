@@ -1,27 +1,24 @@
 ---
 type: community
-members: 14
+members: 11
 ---
 
 # Veille Outils & code 2026-11-20
 
-**Members:** 14 nodes
+**Members:** 11 nodes
 
 ## Members
-- [[Cegedim EB6 Datacenter]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
-- [[Dürr Dental VistaSoft 4.0]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
-- [[Essai de dépistage du cancer du sein assisté par l'IA (NHS)]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
-- [[Free Traduction Live]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
-- [[Gemini voix d'assistant sur mesure]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
-- [[Genspark SecondBrain VoicePad]] - concept - veilles/veille-ia-dev-2026-11-23-t6.md
-- [[Google Search assistant personnel]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
-- [[OptimPharma]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
-- [[Perplexity Monitor API]] - concept - veilles/veille-ia-dev-2026-11-23-t6.md
-- [[PulseLife assistant IA urgences Lyon]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
-- [[Snowflake agents IA autonomes]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
-- [[Unreal Engine 6]] - concept - veilles/veille-ia-dev-2026-11-23-t6.md
-- [[Veille France 2026-11-24  Applications et produits IA]] - document - veilles/veille-ia-fr-2026-11-24-t3.md
-- [[Veille Outils & code 2026-11-23]] - document - veilles/veille-ia-dev-2026-11-23-t2.md
+- [[Après l’euphorie, la course à l’IA se heurte déjà aux limites de son modèle économique]] - document - dossiers/2026-11-15-2.md
+- [[Boom de l'intelligence artificielle]] - concept - dossiers/2026-11-15-2.md
+- [[Data-centers]] - concept - dossiers/2026-11-15-2.md
+- [[Dossier  Effondrement du boom IA et crise des data-centers]] - document - dossiers/2026-11-15-2.md
+- [[Empreinte environnementale]] - concept - dossiers/2026-11-15-2.md
+- [[Géants technologiques (Alphabet, Amazon, Microsoft, Meta)]] - concept - dossiers/2026-11-15-2.md
+- [[Investissements dans l’IA  jusqu’où ira l’euphorie mondiale avant le coup de frein]] - document - dossiers/2026-11-15-2.md
+- [[L’empreinte environnementale de l’IA pourrait être multipliée par 7 d’ici 2030]] - document - dossiers/2026-11-15-2.md
+- [[OPINION. « L'énergie pour les data centers de l'IA, atout stratégique ou mirage  »]] - document - dossiers/2026-11-15-2.md
+- [[Risque macroéconomique]] - concept - dossiers/2026-11-15-2.md
+- [[Un coup d'arrêt de l'IA aurait des répercussions bien au-delà des Etats-Unis]] - document - dossiers/2026-11-15-2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -29,11 +26,3 @@ members: 14
 TABLE source_file, type FROM #community/Veille_Outils__code_2026-11-20
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Débats à Saint-Tropez]]
-- 1 edge to [[_COMMUNITY_ARTEX_1]]
-
-## Top bridge nodes
-- [[Veille France 2026-11-24  Applications et produits IA]] - degree 11, connects to 1 community
-- [[Veille Outils & code 2026-11-23]] - degree 4, connects to 1 community

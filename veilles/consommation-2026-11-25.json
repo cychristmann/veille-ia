@@ -1,0 +1,90 @@
+{
+ "date": "2026-11-25",
+ "fournisseurs": {
+  "groq": {
+   "entree": 98818,
+   "sortie": 50372,
+   "appels": 50
+  },
+  "gemini": {
+   "entree": 63675,
+   "sortie": 51935,
+   "appels": 5
+  }
+ },
+ "etapes": {
+  "agent": {
+   "groq": {
+    "entree": 57729,
+    "sortie": 36666,
+    "appels": 26
+   },
+   "gemini": {
+    "entree": 4514,
+    "sortie": 1583,
+    "appels": 2
+   }
+  },
+  "memoire": {
+   "groq": {
+    "entree": 5218,
+    "sortie": 1805,
+    "appels": 1
+   }
+  },
+  "redacteur": {
+   "groq": {
+    "entree": 20070,
+    "sortie": 6293,
+    "appels": 12
+   },
+   "gemini": {
+    "entree": 1290,
+    "sortie": 964,
+    "appels": 1
+   }
+  },
+  "tendances": {
+   "gemini": {
+    "entree": 9672,
+    "sortie": 729,
+    "appels": 1
+   }
+  },
+  "graphify": {
+   "gemini": {
+    "entree": 48199,
+    "sortie": 48659,
+    "appels": 1
+   }
+  },
+  "cerveau": {
+   "groq": {
+    "entree": 2874,
+    "sortie": 1233,
+    "appels": 2
+   }
+  },
+  "interprete": {
+   "groq": {
+    "entree": 2327,
+    "sortie": 1013,
+    "appels": 4
+   }
+  },
+  "briefing": {
+   "groq": {
+    "entree": 5757,
+    "sortie": 1246,
+    "appels": 2
+   }
+  },
+  "pilote": {
+   "groq": {
+    "entree": 4843,
+    "sortie": 2116,
+    "appels": 3
+   }
+  }
+ }
+}

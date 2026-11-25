@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-22-t3.md"
 type: "concept"
-community: "Alibaba"
+community: "Veille Outils & code 2026-11-21"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Alibaba
+  - community/Veille_Outils__code_2026-11-21
 ---
 
 # Scandale de triche à l’IA en Corée du Sud
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-22  Applications grand public]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Alibaba
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-21

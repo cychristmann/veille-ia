@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-13-1.md"
 type: "concept"
-community: "Blue J"
+community: "Gemini Spark"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Blue_J
+  - community/Gemini_Spark
 ---
 
 # Ming-Chi Kuo
 
-#graphify/concept #graphify/EXTRACTED #community/Blue_J
+#graphify/concept #graphify/EXTRACTED #community/Gemini_Spark

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-15-t2.md"
 type: "concept"
-community: "Skeleton"
+community: "Veille États-Unis 2026-11-14 : Impact Social, Éthique et Travail"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Skeleton
+  - community/Veille_États-Unis_2026-11-14__Impact_Social_Éthique_et_Travail
 ---
 
 # Deletion Tuning
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[New York University]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Skeleton
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Impact_Social_Éthique_et_Travail

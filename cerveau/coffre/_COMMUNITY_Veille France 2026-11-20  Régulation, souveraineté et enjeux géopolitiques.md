@@ -1,21 +1,16 @@
 ---
 type: community
-members: 8
+members: 3
 ---
 
 # Veille France 2026-11-20 : Régulation, souveraineté et enjeux géopolitiques
 
-**Members:** 8 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Faire la guerre avec l’IA  Pour l’Ukraine, un cas de conscience moral et politique]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
-- [[Gemini 4 Hydrogène]] - concept - veilles/veille-ia-fr-2026-11-16-t6.md
-- [[Kitesurf  Cloudflare libère le code source de son navigateur pour agents IA]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
-- [[La IA generativa divide a los desarrolladores]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
-- [[OT Montlouis-Vouvray chatbot sans IA]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
-- [[SambaNova associe les GPU Intel au SN50]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
-- [[Veille France 2026-11-16]] - document - veilles/veille-ia-fr-2026-11-16-t6.md
-- [[Wotton Kearney déploie l’IA juridique Harvey]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
+- [[ComCyber]] - concept - dossiers/2026-11-15-3.md
+- [[DGA]] - concept - dossiers/2026-11-15-3.md
+- [[Rennes]] - concept - dossiers/2026-11-15-3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,7 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Apple]]
+- 1 edge to [[_COMMUNITY_ICAID]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-16]] - degree 8, connects to 1 community
+- [[Rennes]] - degree 3, connects to 1 community

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-20-t7.md"
 type: "document"
-community: "Cursor"
+community: "Veille France 2026-11-24 : Marché et investissements IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Cursor
+  - community/Veille_France_2026-11-24__Marché_et_investissements_IA
 ---
 
 # Veille Chine 2026-11-20
@@ -17,4 +17,4 @@ tags:
 - [[OpenAI Chip Redesign Breakthroughs]] - `references` [EXTRACTED]
 - [[SpaceX AI Chip Debt Financing Conflict]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Cursor
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-24__Marché_et_investissements_IA

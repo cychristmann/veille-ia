@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-10-t2.md"
 type: "document"
-community: "T-Head"
+community: "Alibaba"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/T-Head
+  - community/Alibaba
 ---
 
 # Veille France 2026-11-10 : Financement, marchés et IPO
@@ -14,6 +14,6 @@ tags:
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Bay (start-up)]] - `references` [EXTRACTED]
 - [[Infineon]] - `references` [EXTRACTED]
-- [[T-Head]] - `references` [EXTRACTED]
+- [[T-Head (Alibaba)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/T-Head
+#graphify/document #graphify/EXTRACTED #community/Alibaba

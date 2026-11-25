@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-17-t5.md"
 type: "concept"
-community: "GPT-6 Astra"
+community: "Veille Outils & code 2026-11-17"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Veille_Outils__code_2026-11-17
 ---
 
 # Movieguide
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-17  Autres articles]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-17

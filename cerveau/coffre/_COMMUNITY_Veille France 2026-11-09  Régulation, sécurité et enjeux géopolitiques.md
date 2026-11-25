@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Lunit]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
-- [[M42]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
+- [[Agent Investigations]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[groundcover]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
 
 ## Live Query (requires Dataview plugin)
 

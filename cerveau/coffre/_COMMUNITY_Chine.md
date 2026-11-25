@@ -1,24 +1,18 @@
 ---
 type: community
-members: 11
+members: 5
 ---
 
 # Chine
 
-**Members:** 11 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[AI Short Dramas]] - concept - veilles/veille-ia-cn-2026-11-14-t3.md
-- [[AI4 Chip]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
-- [[SCMP Tech]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
-- [[Sanxingdui Future Past]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
-- [[Tencent Chatterfly]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
-- [[Tesla FSD v15]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
-- [[Tesla Reality View]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
-- [[Veille Chine 2026-11-14  Médias, création et divertissement IA]] - document - veilles/veille-ia-cn-2026-11-14-t3.md
-- [[Veille Chine 2026-11-15  Contenu et divertissement IA]] - document - veilles/veille-ia-cn-2026-11-15-t1.md
-- [[Veille Chine 2026-11-22]] - document - veilles/veille-ia-cn-2026-11-22-t4.md
-- [[投资界]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
+- [[Chine]] - concept - feuilletons/f-0001.md
+- [[Feuilleton La Chine en tête du développement de normes internationales d'IA]] - document - feuilletons/f-0048.md
+- [[Schneider Electric]] - concept - veilles/veille-ia-fr-2026-11-20-t3.md
+- [[TSMC]] - concept - veilles/veille-ia-fr-2026-11-20-t3.md
+- [[Veille France 2026-11-20  Régulation, souveraineté et enjeux géopolitiques]] - document - veilles/veille-ia-fr-2026-11-20-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,3 +20,14 @@ members: 11
 TABLE source_file, type FROM #community/Chine
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_AI Governance]]
+- 1 edge to [[_COMMUNITY_CoreWeave]]
+
+## Top bridge nodes
+- [[Chine]] - degree 4, connects to 2 communities
+- [[TSMC]] - degree 3, connects to 1 community
+- [[Veille France 2026-11-20  Régulation, souveraineté et enjeux géopolitiques]] - degree 3, connects to 1 community

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t5.md"
 type: "concept"
-community: "Zhao Liying"
+community: "Veille États-Unis 2026-11-13 : Autres articles"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Zhao_Liying
+  - community/Veille_États-Unis_2026-11-13__Autres_articles
 ---
 
 # Zhao Liying
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-12  Contenus et médias IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Zhao_Liying
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Autres_articles

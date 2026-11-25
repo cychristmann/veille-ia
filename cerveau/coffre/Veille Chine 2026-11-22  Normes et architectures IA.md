@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-22-t1.md"
 type: "document"
-community: "DERM"
+community: "Veille États-Unis 2026-11-14 : Impact Social, Éthique et Travail"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/DERM
+  - community/Veille_États-Unis_2026-11-14__Impact_Social_Éthique_et_Travail
 ---
 
 # Veille Chine 2026-11-22 : Normes et architectures IA
 
-#graphify/document #graphify/EXTRACTED #community/DERM
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Impact_Social_Éthique_et_Travail

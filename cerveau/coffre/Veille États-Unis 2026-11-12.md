@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t7.md"
 type: "document"
-community: "Veille Chine 2026-11-12 : IA dans le commerce et le divertissement"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-12__IA_dans_le_commerce_et_le_divertissement
+  - community/Gemini_4_Hydrogen
 ---
 
 # Veille États-Unis 2026-11-12
@@ -27,4 +27,4 @@ tags:
 - [[PODCAST Anthropic heads for the ultimate AI benchmark]] - `cites` [EXTRACTED]
 - [[US and China are failing the same AI race, only differently]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__IA_dans_le_commerce_et_le_divertissement
+#graphify/document #graphify/EXTRACTED #community/Gemini_4_Hydrogen

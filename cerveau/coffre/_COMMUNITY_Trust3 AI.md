@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Nubia]] - concept - veilles/veille-ia-fr-2026-11-12-t5.md
-- [[Veille France 2026-11-12  Produits grand public et IA générative]] - document - veilles/veille-ia-fr-2026-11-12-t5.md
+- [[WAIC 2026]] - concept - dossiers/2026-11-25-3.md
+- [[Xi Jinping]] - concept - dossiers/2026-11-25-3.md
 
 ## Live Query (requires Dataview plugin)
 

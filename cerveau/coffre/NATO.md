@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0023.md"
 type: "concept"
-community: "Enterprise RAG Systems"
+community: "Military AI Center (Rennes)"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/Enterprise_RAG_Systems
+  - community/Military_AI_Center_Rennes
 ---
 
 # NATO
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Military AI Center (Rennes)]] - `conceptually_related_to` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/Enterprise_RAG_Systems
+#graphify/concept #graphify/INFERRED #community/Military_AI_Center_Rennes

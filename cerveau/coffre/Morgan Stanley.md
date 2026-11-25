@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t1.md"
 type: "concept"
-community: "SpaceX"
+community: "Débats à Saint-Tropez"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/SpaceX
+  - community/Débats_à_Saint-Tropez
 ---
 
 # Morgan Stanley
@@ -15,4 +15,4 @@ tags:
 - [[Veille Chine 2026-11-19  Régulation & Gouvernance IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-12  Marchés financiers et investissements IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/SpaceX
+#graphify/concept #graphify/EXTRACTED #community/Débats_à_Saint-Tropez

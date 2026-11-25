@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Examen crucial en Corée du Sud en plein scandale de triche à l'IA]] - document - dossiers/2026-11-22-2.md
+- [[Vertex AI]] - concept - dossiers/2026-11-23-3.md
 
 ## Live Query (requires Dataview plugin)
 

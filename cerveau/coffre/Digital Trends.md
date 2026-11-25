@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t6.md"
 type: "concept"
-community: "ASML"
+community: "Veille États-Unis 2026-11-08 : Autres articles"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ASML
+  - community/Veille_États-Unis_2026-11-08__Autres_articles
 ---
 
 # Digital Trends
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-08  Autres articles]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/ASML
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08__Autres_articles

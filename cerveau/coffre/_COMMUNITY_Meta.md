@@ -1,26 +1,23 @@
 ---
 type: community
-members: 13
+members: 10
 ---
 
 # Meta
 
-**Members:** 13 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[AWS Strands Decider v2]] - concept - veilles/veille-ia-dev-2026-11-24-t3.md
-- [[Amazon Bedrock]] - concept - veilles/veille-ia-dev-2026-11-14-t2.md
-- [[Amazon Bedrock Trusted Access API]] - concept - veilles/veille-ia-dev-2026-11-24-t3.md
-- [[Attentive Model Context Protocol]] - concept - veilles/veille-ia-dev-2026-11-24-t3.md
-- [[Claude API]] - concept - veilles/veille-ia-dev-2026-11-14-t1.md
-- [[Claude for Manufacturing]] - concept - veilles/veille-ia-dev-2026-11-14-t2.md
-- [[DeepSeek Coding Agent]] - concept - veilles/veille-ia-dev-2026-11-14-t2.md
-- [[Grok Bot]] - concept - veilles/veille-ia-dev-2026-11-14-t2.md
-- [[NVIDIA NeMo Switchyard]] - concept - veilles/veille-ia-dev-2026-11-14-t2.md
-- [[Perplexity Decider v1.3]] - concept - veilles/veille-ia-dev-2026-11-14-t2.md
-- [[Snowflake Marketplace]] - concept - veilles/veille-ia-dev-2026-11-24-t3.md
-- [[Veille Outils & code 2026-11-14]] - document - veilles/veille-ia-dev-2026-11-14-t2.md
-- [[Veille Outils & code 2026-11-24 (T3)]] - document - veilles/veille-ia-dev-2026-11-24-t3.md
+- [[Alexandr Wang]] - concept - veilles/veille-ia-fr-2026-11-24-t5.md
+- [[Conductor]] - concept - veilles/veille-ia-fr-2026-11-22-t7.md
+- [[Indiana University]] - concept - veilles/veille-ia-us-2026-11-10-t2.md
+- [[Meta]] - code - veilles/veille-ia-us-2026-11-13-t1.md
+- [[Muse AI Agent]] - concept - veilles/veille-ia-us-2026-11-09-t3.md
+- [[Muse AI assistant]] - concept - veilles/veille-ia-us-2026-11-08-t4.md
+- [[Muse Agent]] - concept - veilles/veille-ia-dev-2026-11-25-t2.md
+- [[Muse Charm]] - concept - veilles/veille-ia-fr-2026-11-20-t2.md
+- [[Muse Ember]] - code - veilles/veille-ia-us-2026-11-13-t1.md
+- [[Veille États-Unis 2026-11-09  Nouveaux modèles et avancées technologiques]] - document - veilles/veille-ia-us-2026-11-09-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -30,18 +27,19 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_Copilot]]
+- 2 edges to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
+- 1 edge to [[_COMMUNITY_Qwen4-Max]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-15_1]]
+- 1 edge to [[_COMMUNITY_Meta_1]]
 - 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-17]]
-- 1 edge to [[_COMMUNITY_Copilot_1]]
-- 1 edge to [[_COMMUNITY_Cursor_1]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20_1]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-19  Autres articles_1]]
-- 1 edge to [[_COMMUNITY_Débats à Saint-Tropez]]
-- 1 edge to [[_COMMUNITY_David Tepper_1]]
+- 1 edge to [[_COMMUNITY_Comité d'experts français]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-25]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_CoreWeave]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-19  Applications sectorielles de l'IA]]
+- 1 edge to [[_COMMUNITY_Apple]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-08]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-14]] - degree 10, connects to 4 communities
-- [[Amazon Bedrock]] - degree 6, connects to 4 communities
-- [[NVIDIA NeMo Switchyard]] - degree 3, connects to 1 community
-- [[Claude API]] - degree 2, connects to 1 community
+- [[Meta]] - degree 23, connects to 13 communities

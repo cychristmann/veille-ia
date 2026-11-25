@@ -1,26 +1,36 @@
 ---
 type: community
-members: 13
+members: 23
 ---
 
 # Hugging Face
 
-**Members:** 13 nodes
+**Members:** 23 nodes
 
 ## Members
-- [[Agentic AI Foundation]] - concept - veilles/veille-ia-dev-2026-11-23-t4.md
-- [[Amazon SageMaker HyperPod Inference]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Codex CLI]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Hitachi Vantara VSP One]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Impartner MCP]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[JustSolve AI Mastery]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Microsoft AI coding model]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Octopus Deploy]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Perplexity Computer]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Replit Missions]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
-- [[Veille Outils & code 2026-11-18]] - document - veilles/veille-ia-dev-2026-11-18-t1.md
-- [[Veille Outils & code 2026-11-23  Nouvelles approches de développement]] - document - veilles/veille-ia-dev-2026-11-23-t4.md
-- [[Vibe Coding]] - concept - veilles/veille-ia-dev-2026-11-16-t2.md
+- [[Andrew Bailey]] - concept - dossiers/2026-11-14-2.md
+- [[Artificial Intelligence]] - concept - feuilletons/f-0021.md
+- [[Autorités chinoises]] - concept - dossiers/2026-11-14-2.md
+- [[Banque Centrale Européenne (BCE)]] - concept - dossiers/2026-11-14-2.md
+- [[BlackRock]] - concept - veilles/veille-ia-us-2026-11-19-t2.md
+- [[Centre international dédié à l'intelligence artificielle militaire (Rennes)]] - concept - veilles/veille-ia-fr-2026-11-23-t1.md
+- [[Comité de l'usage de l'intelligence artificielle (Santé)]] - concept - veilles/veille-ia-fr-2026-11-23-t1.md
+- [[Donald Trump]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
+- [[Dossier  IA  risque systémique pour la stabilité financière]] - document - dossiers/2026-11-14-2.md
+- [[Federal Reserve]] - concept - dossiers/2026-11-14-2.md
+- [[Feng Runhuan]] - concept - feuilletons/f-0021.md
+- [[Feuilleton L'IA en tête des risques pour la stabilité financière]] - document - feuilletons/f-0021.md
+- [[Financial Stability Board (FSB)]] - concept - dossiers/2026-11-14-2.md
+- [[Impact économique de l'IA]] - concept - veilles/veille-ia-us-2026-11-25-t1.md
+- [[Inquiétudes sur la dette liée à l'IA]] - concept - veilles/veille-ia-us-2026-11-25-t1.md
+- [[Larry Fink]] - concept - veilles/veille-ia-us-2026-11-19-t2.md
+- [[Risque systémique de l'IA]] - concept - dossiers/2026-11-14-2.md
+- [[South Korean Financial Watchdog]] - concept - veilles/veille-ia-us-2026-11-19-t2.md
+- [[USA]] - concept - dossiers/2026-11-25-3.md
+- [[Veille France 2026-11-23  Régulation et gouvernance]] - document - veilles/veille-ia-fr-2026-11-23-t1.md
+- [[Veille États-Unis 2026-11-19  Régulation et politique]] - document - veilles/veille-ia-us-2026-11-19-t2.md
+- [[Veille États-Unis 2026-11-25  Impact économique et marchés]] - document - veilles/veille-ia-us-2026-11-25-t1.md
+- [[Volatilité des marchés liée à l'IA]] - concept - veilles/veille-ia-us-2026-11-25-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -30,13 +40,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Copilot_1]]
-- 1 edge to [[_COMMUNITY_GPT-6 Astra_1]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17]]
-- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
-- 1 edge to [[_COMMUNITY_Débats à Saint-Tropez]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-16]]
+- 2 edges to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-18]] - degree 16, connects to 5 communities
-- [[Vibe Coding]] - degree 4, connects to 1 community
+- [[Donald Trump]] - degree 5, connects to 3 communities
+- [[Volatilité des marchés liée à l'IA]] - degree 3, connects to 1 community

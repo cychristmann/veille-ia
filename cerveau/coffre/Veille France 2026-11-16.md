@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-16-t6.md"
 type: "document"
-community: "Veille France 2026-11-20 : Régulation, souveraineté et enjeux géopolitiques"
+community: "Veille France 2026-11-16 : Applications sectorielles et industrielles"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-20__Régulation_souveraineté_et_enjeux_géopolitiques
+  - community/Veille_France_2026-11-16__Applications_sectorielles_et_industrielles
 ---
 
 # Veille France 2026-11-16
@@ -20,4 +20,4 @@ tags:
 - [[SambaNova associe les GPU Intel au SN50]] - `references` [EXTRACTED]
 - [[Wotton Kearney déploie l’IA juridique Harvey]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-20__Régulation_souveraineté_et_enjeux_géopolitiques
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-16__Applications_sectorielles_et_industrielles

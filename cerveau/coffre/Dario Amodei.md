@@ -13,5 +13,6 @@ tags:
 ## Connections
 - [[Anthropic]] - `conceptually_related_to` [EXTRACTED]
 - [[Appel de Paris]] - `references` [EXTRACTED]
+- [[IA militaires]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/AI_Act

@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-19-1.md"
 type: "concept"
-community: "Anthropic"
+community: "ASML"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Anthropic
+  - community/ASML
 ---
 
 # Anthropic IPO
@@ -24,4 +24,4 @@ tags:
 - [[Veille Chine 2026-11-19  Autres articles]] - `references` [EXTRACTED]
 - [[Wired]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Anthropic
+#graphify/concept #graphify/EXTRACTED #community/ASML

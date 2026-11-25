@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-17-t2.md"
 type: "code"
-community: "Microsoft"
+community: "IBM"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Microsoft
+  - community/IBM
 ---
 
 # Foundry
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Torus]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Microsoft
+#graphify/code #graphify/EXTRACTED #community/IBM

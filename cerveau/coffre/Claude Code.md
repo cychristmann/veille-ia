@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t2.md"
 type: "concept"
-community: "Débats à Saint-Tropez"
+community: "Claude Code"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Débats_à_Saint-Tropez
+  - community/Claude_Code
 ---
 
 # Claude Code
@@ -23,6 +23,7 @@ tags:
 - [[IDrive AI Agents Backup]] - `shares_data_with` [INFERRED]
 - [[L'Opinion.fr]] - `references` [EXTRACTED]
 - [[Levent Alpöge]] - `references` [EXTRACTED]
+- [[Model Context Protocol (MCP)]] - `references` [EXTRACTED]
 - [[Obsidian]] - `shares_data_with` [INFERRED]
 - [[Tencent]] - `references` [EXTRACTED]
 - [[TestSprite 4.0]] - `conceptually_related_to` [EXTRACTED]
@@ -52,4 +53,4 @@ tags:
 - [[claudesettings.local.json]] - `references` [EXTRACTED]
 - [[n8n]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Débats_à_Saint-Tropez
+#graphify/concept #graphify/EXTRACTED #community/Claude_Code

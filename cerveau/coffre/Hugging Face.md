@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-23-1.md"
 type: "concept"
-community: "Hugging Face"
+community: "Veille France 2026-11-15"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Hugging_Face
+  - community/Veille_France_2026-11-15
 ---
 
 # Hugging Face
@@ -21,4 +21,4 @@ tags:
 - [[OpenRouter]] - `conceptually_related_to` [EXTRACTED]
 - [[Veille Outils & code 2026-11-17]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Hugging_Face
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-15

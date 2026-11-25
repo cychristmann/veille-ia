@@ -1,0 +1,79 @@
+{
+ "date": "2026-11-25",
+ "analyses": [
+  {
+   "signal": "montée",
+   "titre": "L'ONU intensifie ses appels à un cadre mondial de sécurité de l'IA",
+   "constat": "Le 24 novembre 2026, plusieurs articles soulignent que le secrétaire général de l'ONU, António Guterres, presse les États à créer en un an un cadre mondial de sécurité de l'IA (Yahoo Actuali). Le 25 novembre 2026, la presse de l'ONU indique que le chef de l'ONU espère voir d'ici un an un mécanisme pour limiter les risques posés par l'IA, tout en évoquant les blocages autour des armes autonomes et de l'IA militaire (dossier/feuilleton).",
+   "pourquoi": "Ces initiatives reflètent une prise de conscience croissante des risques liés à l'IA et la nécessité d'une gouvernance internationale. Un cadre global pourrait harmoniser les exigences de sécurité et prévenir une course aux armements autonomes.",
+   "a_surveiller": "Les prochains rapports de l'ONU sur l'avancement du cadre de sécurité de l'IA et les réactions des États membres.",
+   "entites": [
+    "ONU"
+   ],
+   "sources": [
+    {
+     "titre": "Guterres presse les États de créer en un an un cadre mondial de sécurité de l’IA",
+     "lien": "https://www.msn.com/fr-fr/actualite/other/guterres-presse-les-%C3%A9tats-de-cr%C3%A9er-en-un-an-un-cadre-mondial-de-s%C3%A9curit%C3%A9-de-l-ia/ar-AA2i6kAT",
+     "source": "Yahoo Actualités"
+    },
+    {
+     "titre": "[2026-11-25 · dossier/feuilleton] Le chef de l'ONU espère voir d'ici un an un mécanisme pour limiter les risques posés p",
+     "lien": "",
+     "source": ""
+    },
+    {
+     "titre": "[2026-11-25 · dossier/feuilleton] Armes autonomes et IA militaire face au blocage du consensus à l’ONU",
+     "lien": "",
+     "source": ""
+    },
+    {
+     "titre": "[2026-11-24 · dossier/feuilleton] Le chef de l'ONU espère voir d'ici un an un mécanisme pour limiter les risques posés p",
+     "lien": "",
+     "source": ""
+    }
+   ]
+  },
+  {
+   "signal": "lien nouveau",
+   "titre": "Anthropic atteint 700 M téléchargements mensuels du MCP et élargit le protocole",
+   "constat": "Le Model Context Protocol (MCP) d'Anthropic enregistre plus de 700 millions de téléchargements mensuels, deux ans après son lancement (MLQ.ai, 2026‑11‑25). De nouvelles fonctionnalités, dont les tâches d'arrière‑plan, les questions de suivi et le téléchargement de fichiers, sont ajoutées pour rendre Claude plus autonome (The Decoder, 2026‑11‑25).",
+   "pourquoi": "Cette adoption massive montre que le MCP devient rapidement un standard pour l’interaction avec les agents IA, facilitant le déploiement d’applications plus autonomes. L’enrichissement du protocole ouvre la voie à des cas d’usage plus complexes et à une intégration accrue dans l’écosystème IA.",
+   "a_surveiller": "Surveiller les annonces de partenaires ou d’autres plateformes qui adopteront le MCP pour leurs agents IA dans les prochaines semaines.",
+   "entites": [
+    "Model Context Protocol (MCP)",
+    "Anthropic"
+   ],
+   "sources": [
+    {
+     "titre": "Anthropic says MCP SDKs top 700 million monthly downloads as background tasks reach general availability in Claude",
+     "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcWlPZ1FCOFpDYW90YnB2Wkd6N2JsV0R6M3llVnROSlU5TTkzSXd1cXNBMUI5a1dPdUFYdW44ZEdVTHIwR1huaVZKcG1IRVhOSG9JMzBMNTZuWDdUUTdGY3pMdTJfSFlPYkFVdmRMUGVlQ1FQakxCWFRmX2RXd3pnWVpjNlhjcHJIcGlRaU1keEdiMFNydUxLTWVLTnJGMWNZdFRHMEMyeFNMVkV2S28yYU1jbHNmSUFXb05velZ5QjNjNWJoZWNHYm5ZWENEWGE3?oc=5",
+     "source": "MLQ.ai"
+    },
+    {
+     "titre": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
+     "lien": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+     "source": "The Decoder"
+    }
+   ]
+  },
+  {
+   "signal": "lien nouveau",
+   "titre": "Première mention conjointe de Nvidia et Nokia dans le contexte de l'AI‑RAN",
+   "constat": "Le 25 novembre 2026, Light Reading rapporte que Nokia collabore avec Nvidia sur une solution AI‑RAN, suscitant l’avertissement du CTO d’Orange, Bruno Zerbib, qui craint un « changement d’architecture risqué » sans bénéfices tangibles (Light Reading). C’est la première fois que les deux entreprises apparaissent ensemble dans un même article de veille.",
+   "pourquoi": "Cette alliance signale un intérêt croissant pour l’intégration de l’IA dans les réseaux d’accès radio, combinant l’expertise de Nokia en infrastructure télécom et la puissance de calcul de Nvidia. Elle pourrait influencer les stratégies de déploiement des opérateurs 5G/6G et les décisions d’investissement technologique.",
+   "a_surveiller": "Surveiller les réactions des opérateurs, notamment d’Orange, et les éventuelles annonces de projets pilotes ou de déploiements concrets d’AI‑RAN impliquant Nvidia et Nokia.",
+   "entites": [
+    "Nvidia",
+    "Nokia"
+   ],
+   "sources": [
+    {
+     "titre": "Nokia tie-up with Nvidia on AI-RAN gets warning from Orange CTO",
+     "lien": "https://www.lightreading.com/5g/nokia-tie-up-with-nvidia-on-ai-ran-gets-warning-from-orange-cto",
+     "source": "Light Reading"
+    }
+   ]
+  }
+ ],
+ "rien": null
+}

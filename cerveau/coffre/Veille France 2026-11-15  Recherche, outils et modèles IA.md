@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-15-t4.md"
 type: "document"
-community: "GPT-6 Astra"
+community: "Jensen Huang"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Jensen_Huang
 ---
 
 # Veille France 2026-11-15 : Recherche, outils et modèles IA
@@ -18,4 +18,4 @@ tags:
 - [[Vincent Courboulay]] - `references` [EXTRACTED]
 - [[datasette-llm]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/document #graphify/EXTRACTED #community/Jensen_Huang

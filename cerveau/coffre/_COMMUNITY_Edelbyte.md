@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Edelbyte
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[CVS Health]] - code - veilles/veille-ia-us-2026-11-14-t6.md
-- [[Veille États-Unis 2026-11-14]] - document - veilles/veille-ia-us-2026-11-14-t6.md
+- [[AI Cheating Scandal]] - concept - dossiers/2026-11-22-2.md
 
 ## Live Query (requires Dataview plugin)
 

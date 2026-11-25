@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-23-t5.md"
 type: "concept"
-community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
+community: "Goldman Sachs"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+  - community/Goldman_Sachs
 ---
 
 # Anthropic上市是AI的明斯基时刻
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-23  Politiques, tendances et perspectives sectorielles IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
+#graphify/concept #graphify/EXTRACTED #community/Goldman_Sachs

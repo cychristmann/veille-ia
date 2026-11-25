@@ -1,26 +1,25 @@
 ---
 type: community
-members: 13
+members: 12
 ---
 
 # Dossier: Risques systémiques de l’IA pour la stabilité financière
 
-**Members:** 13 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[AI证明了黎曼猜想？一份只有机器能读懂的证明，意义何在]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
-- [[AI遭遇血洗！英伟达蒸发18万亿，AI盛宴要落幕了吗？]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
-- [[All in AI，产业再造——中欧创业营15期正式启航]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
-- [[Anthropic 创纪录 IPO 未能扭转 AI 市场悲观情绪]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
-- [[Anthropic上市是AI的明斯基时刻]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
-- [[A股奇迹日！超150只个股涨停，物理AI板块全天强势]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
-- [[Veille Chine 2026-11-23  Politiques, tendances et perspectives sectorielles IA]] - document - veilles/veille-ia-cn-2026-11-23-t5.md
-- [[“AI赋能·电商助农”花都区2026年数字农业直播（短视频）技能竞赛]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
-- [[亚太市场周一全线走弱，全球AI交易继续挤泡沫]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
-- [[北汽产投刘培龙：AI热潮之下，盲目出手往往铩羽而归]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
-- [[大摩重算Meta(META.US)这本账：AI投入推高费用]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
-- [[美国多领域接连发生技术故障，专家：2027年AI网络风险或集中显现]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
-- [[美股崩跌、纳指全年涨幅归零：AI牛市迎来价值重估]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[AEX360]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
+- [[Architecture Turing (VLA 3.0)]] - concept - feuilletons/f-0049.md
+- [[Feuilleton Xpeng dévoile l'architecture d'IA incarnée Turing et le co‑pilot IA]] - document - feuilletons/f-0049.md
+- [[He Xiaopeng]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
+- [[System 0 (Instinct)]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
+- [[System 1 (Cerebellum)]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
+- [[System 2 (Brain)]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
+- [[Turing AI Co-driving]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
+- [[Turing Embodied AI Architecture (VLA 3.0)]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
+- [[VLA Adaptive Deceleration]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
+- [[X-VMC 2.0]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
+- [[Xpeng]] - code - feuilletons/f-0049.md
 
 ## Live Query (requires Dataview plugin)
 

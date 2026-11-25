@@ -1,16 +1,17 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
-type: "code"
-community: "Veille États-Unis 2026-11-13 : Développements et investissements corporatifs"
+source_file: "veilles/veille-ia-fr-2026-11-25-t3.md"
+type: "concept"
+community: "Veille France 2026-11-25"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+  - community/Veille_France_2026-11-25
 ---
 
 # Salesforce
 
 ## Connections
+- [[Veille France 2026-11-25]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-25

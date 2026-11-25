@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Verda
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[GPT-6.1 Sol]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
+- [[RDMA over USB4]] - concept - veilles/veille-ia-dev-2026-11-23-t1.md
+- [[Windows 11]] - concept - veilles/veille-ia-dev-2026-11-23-t1.md
 
 ## Live Query (requires Dataview plugin)
 

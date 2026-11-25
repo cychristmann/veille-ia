@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Blue J
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Ming-Chi Kuo]] - concept - dossiers/2026-11-13-1.md
+- [[L&T Technology Services]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
+- [[SDVault.ai]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -11,7 +11,7 @@ tags:
 # Feuilleton: Guterres presse les États à créer un cadre mondial de sécurité de l’IA
 
 ## Connections
+- [[AI Governance]] - `conceptually_related_to` [INFERRED]
 - [[António Guterres]] - `references` [EXTRACTED]
-- [[Gouvernance et sécurité de l'IA]] - `conceptually_related_to` [INFERRED]
 
 #graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-24__Régulation_gouvernance_et_sécurité_IA

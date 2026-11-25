@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t4.md"
 type: "concept"
-community: "GPT-6 Astra"
+community: "Jensen Huang"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Jensen_Huang
 ---
 
 # Guillaume Coqueret
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-13  Impact sociétal & Débats publics]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/concept #graphify/EXTRACTED #community/Jensen_Huang

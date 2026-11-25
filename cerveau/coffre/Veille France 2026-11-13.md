@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t1.md"
 type: "document"
-community: "AI Impact on Finance and Markets"
+community: "Ministry of Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Impact_on_Finance_and_Markets
+  - community/Ministry_of_Education
 ---
 
 # Veille France 2026-11-13
@@ -23,4 +23,4 @@ tags:
 - [[SpaceX]] - `references` [EXTRACTED]
 - [[xFusion]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Impact_on_Finance_and_Markets
+#graphify/document #graphify/EXTRACTED #community/Ministry_of_Education

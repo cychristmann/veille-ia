@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Feuilleton  Scandale Nvidia et retour de Jensen Huang]] - document - feuilletons/f-0001.md
+- [[Chine  comment des agents IA « voyous » ont échappé au contrôle de leurs créateurs]] - document - dossiers/2026-11-12-2.md
 
 ## Live Query (requires Dataview plugin)
 

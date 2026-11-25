@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Feuilleton  Microsoft impulsa standards ouverts de transparence pour agents IA]] - document - feuilletons/f-0039.md
-- [[Foro3D]] - concept - feuilletons/f-0039.md
+- [[Allspring Global Investments]] - concept - dossiers/2026-11-20-2.md
+- [[Gary Tan]] - concept - dossiers/2026-11-20-2.md
 
 ## Live Query (requires Dataview plugin)
 

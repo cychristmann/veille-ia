@@ -1,22 +1,16 @@
 ---
 type: community
-members: 9
+members: 3
 ---
 
 # AI Impact on Finance and Markets
 
-**Members:** 9 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Centre de défense IA à Rennes]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Enquête Malaisie sur filiale MegaspeedNvidia]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Mission Capgemini sur les risques cyber de l'IA]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Modèle économique IA d'Apple]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Politiques IA aux États-Unis]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Régulation IA en Australie]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Sommet inédit de l'UE sur l'IA]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
-- [[Veille France 2026-11-13]] - document - veilles/veille-ia-fr-2026-11-13-t1.md
-- [[xFusion]] - concept - veilles/veille-ia-fr-2026-11-13-t1.md
+- [[AI Impact on Finance and Markets]] - concept - veilles/veille-ia-cn-2026-11-14-t5.md
+- [[John Langford]] - concept - veilles/veille-ia-cn-2026-11-14-t5.md
+- [[Veille Chine 2026-11-14  Finance, investissement et IA]] - document - veilles/veille-ia-cn-2026-11-14-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,9 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
-- 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_Microsoft]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-13]] - degree 11, connects to 3 communities
+- [[John Langford]] - degree 2, connects to 1 community

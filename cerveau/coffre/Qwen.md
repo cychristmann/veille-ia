@@ -11,7 +11,10 @@ tags:
 # Qwen
 
 ## Connections
+- [[AWS Lambda]] - `references` [EXTRACTED]
 - [[Alibaba]] - `references` [EXTRACTED]
+- [[DaisyRose-27B]] - `references` [EXTRACTED]
+- [[Laminar]] - `references` [EXTRACTED]
 - [[OpenCode]] - `references` [EXTRACTED]
 - [[Unsloth Desktop]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-16  Sécurité, gouvernance et cadres pour IA autonome]] - `cites` [EXTRACTED]

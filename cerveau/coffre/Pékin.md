@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-12-1.md"
 type: "concept"
-community: "GPT-6 Astra"
+community: "Jensen Huang"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Jensen_Huang
 ---
 
 # Pékin
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Alice Huang]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/concept #graphify/EXTRACTED #community/Jensen_Huang

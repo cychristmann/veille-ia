@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille Chine 2026-11-24  Autres articles]] - document - veilles/veille-ia-cn-2026-11-24-t6.md
+- [[Feuilleton  Scandale Nvidia et retour de Jensen Huang]] - document - feuilletons/f-0001.md
 
 ## Live Query (requires Dataview plugin)
 

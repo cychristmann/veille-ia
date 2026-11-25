@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0038.md"
 type: "document"
-community: "Hypothèse de Riemann"
+community: "CoreWeave"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Hypothèse_de_Riemann
+  - community/CoreWeave
 ---
 
 # Feuilleton f-0038
@@ -14,4 +14,4 @@ tags:
 - [[AMD]] - `references` [EXTRACTED]
 - [[Intel]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Hypothèse_de_Riemann
+#graphify/document #graphify/EXTRACTED #community/CoreWeave

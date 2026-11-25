@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-13-t5.md"
 type: "document"
-community: "Libertify"
+community: "Veille France 2026-11-22 : Marchés et finance"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Libertify
+  - community/Veille_France_2026-11-22__Marchés_et_finance
 ---
 
 # Veille Outils & code 2026-11-13 (T5)
@@ -17,4 +17,4 @@ tags:
 - [[LiquidCodec]] - `references` [EXTRACTED]
 - [[llm-gemini]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Libertify
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-22__Marchés_et_finance

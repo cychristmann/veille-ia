@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-11-t2.md"
+source_file: "veilles/veille-ia-fr-2026-11-11-t1.md"
 type: "document"
-community: "CoreWeave"
+community: "Apple"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/CoreWeave
+  - community/Apple
 ---
 
 # Veille France 2026-11-11
@@ -19,4 +19,4 @@ tags:
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/CoreWeave
+#graphify/document #graphify/EXTRACTED #community/Apple

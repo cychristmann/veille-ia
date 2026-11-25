@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-23-t2.md"
 type: "concept"
-community: "Edelbyte"
+community: "Blue J"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Edelbyte
+  - community/Blue_J
 ---
 
 # SDVault.ai
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[L&T Technology Services]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Edelbyte
+#graphify/concept #graphify/EXTRACTED #community/Blue_J

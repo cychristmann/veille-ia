@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-16-t1.md"
 type: "concept"
-community: "Microsoft"
+community: "Amazon"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Microsoft
+  - community/Amazon
 ---
 
 # Trump Administration
@@ -18,4 +18,4 @@ tags:
 - [[OpenAI]] - `conceptually_related_to` [EXTRACTED]
 - [[Veille États-Unis 2026-11-16 (Gouvernance)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Microsoft
+#graphify/concept #graphify/EXTRACTED #community/Amazon

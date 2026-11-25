@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Colette Kress]] - concept - dossiers/2026-11-15-1.md
-- [[Congress Wants China Chip Limits in the Defense Bill After Nvidia’s Spy Scandal]] - document - dossiers/2026-11-15-1.md
-- [[Dossier Scandale Nvidia]] - document - dossiers/2026-11-15-1.md
-- [[Garanties financières de NVIDIA  l’entreprise aurait aidé des clients IA à payer ses GPU, Jensen Huang redoutait une « avalanche »]] - document - dossiers/2026-11-15-1.md
-- [[Le départ soudain de Jensen Huang redessine le financement des start-up IA]] - document - dossiers/2026-11-15-1.md
-- [[Les investisseurs craignent que le secteur de l'IA ne perde les largesses de Nvidia après le départ de Huang]] - document - dossiers/2026-11-15-1.md
+- [[Coding Agent Security for AppSec Leaders]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Does AI Coding Make Secrets Sprawl Worse in CICD Pipelines]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Hackers Target AI Coding Tools to Steal Credentials]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Kiji Inspector]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Stolen Claude API keys can turn Claude Code into a remote-controlled implant]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Veille Outils & code 2026-11-12  Sécurité et gouvernance]] - document - veilles/veille-ia-dev-2026-11-12-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,11 +21,3 @@ members: 6
 TABLE source_file, type FROM #community/Veille_Chine_2026-11-23__Santé_et_médecine_assistées_par_lIA
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 2 edges to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
-
-## Top bridge nodes
-- [[Dossier Scandale Nvidia]] - degree 7, connects to 2 communities
-- [[Colette Kress]] - degree 2, connects to 1 community

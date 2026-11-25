@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Louis Perez]] - code - veilles/veille-ia-fr-2026-11-09-t3.md
+- [[Le Monde Informatique]] - document - dossiers/2026-11-20-2.md
 
 ## Live Query (requires Dataview plugin)
 

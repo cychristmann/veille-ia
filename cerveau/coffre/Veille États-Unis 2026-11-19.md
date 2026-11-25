@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-19-t6.md"
 type: "document"
-community: "GPT-6 Astra"
+community: "Veille Outils & code 2026-11-17"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Veille_Outils__code_2026-11-17
 ---
 
 # Veille États-Unis 2026-11-19
@@ -22,4 +22,4 @@ tags:
 - [[markets.businessinsider.com]] - `cites` [EXTRACTED]
 - [[vatcalc.com]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-17

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-23-t1.md"
 type: "concept"
-community: "Blue J"
+community: "Claude Sheets"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Blue_J
+  - community/Claude_Sheets
 ---
 
 # Alpamayo 2 Edge
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[DRIVE Thor]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Blue_J
+#graphify/concept #graphify/EXTRACTED #community/Claude_Sheets

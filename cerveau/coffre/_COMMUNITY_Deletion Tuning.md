@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Deletion Tuning
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Deploying AI into Workplaces What Leaders Need to Know]] - document - veilles/veille-ia-us-2026-11-16-t3.md
-- [[Veille États-Unis 2026-11-16  Éducation, formation et environnement professionnel]] - document - veilles/veille-ia-us-2026-11-16-t3.md
+- [[Veille Chine 2026-11-15  Éducation, formation et talents IA]] - document - veilles/veille-ia-cn-2026-11-15-t4.md
+- [[山东商务职业学院]] - concept - veilles/veille-ia-cn-2026-11-15-t4.md
+- [[广东“AI智能体”数字人才培训计划]] - concept - veilles/veille-ia-cn-2026-11-15-t4.md
 
 ## Live Query (requires Dataview plugin)
 

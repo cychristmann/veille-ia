@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Verda]] - concept - dossiers/2026-11-19-3.md
+- [[Feuilleton Infineon mise sur la croissance des data‑centres IA malgré la contestation]] - document - feuilletons/f-0007.md
 
 ## Live Query (requires Dataview plugin)
 

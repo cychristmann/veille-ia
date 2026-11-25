@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-19-3.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-13 : Autres articles"
+community: "Trust3 AI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-13__Autres_articles
+  - community/Trust3_AI
 ---
 
 # Telia
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Autres_articles
+#graphify/concept #graphify/EXTRACTED #community/Trust3_AI

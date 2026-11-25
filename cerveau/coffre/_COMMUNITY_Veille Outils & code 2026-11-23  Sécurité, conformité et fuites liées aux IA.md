@@ -1,21 +1,17 @@
 ---
 type: community
-members: 8
+members: 4
 ---
 
 # Veille Outils & code 2026-11-23 : Sécurité, conformité et fuites liées aux IA
 
-**Members:** 8 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Adyen]] - concept - veilles/veille-ia-fr-2026-11-22-t7.md
-- [[Bitdefender]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
-- [[Dragos]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
-- [[Klarna]] - concept - veilles/veille-ia-fr-2026-11-22-t7.md
-- [[NordLayer]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
-- [[RunPod]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
-- [[Together AI]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
-- [[Veille Outils & code 2026-11-23  Sécurité, conformité et fuites liées aux IA]] - document - veilles/veille-ia-dev-2026-11-23-t3.md
+- [[Dianli ETF Jingshun (159158)]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
+- [[JinJing XinNeng (01783)]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
+- [[Shengmei Semiconductor]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
+- [[Veille Chine 2026-11-16  Infrastructure et puissance de calcul]] - document - veilles/veille-ia-cn-2026-11-16-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,10 +19,3 @@ members: 8
 TABLE source_file, type FROM #community/Veille_Outils__code_2026-11-23__Sécurité_conformité_et_fuites_liées_aux_IA
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Débats à Saint-Tropez]]
-- 1 edge to [[_COMMUNITY_OpenRouter]]
-
-## Top bridge nodes
-- [[Veille Outils & code 2026-11-23  Sécurité, conformité et fuites liées aux IA]] - degree 9, connects to 2 communities

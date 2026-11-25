@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Crise des data-centers IA]] - concept - feuilletons/f-0024.md
-- [[Feuilleton Effondrement du boom IA et crise des data-centers]] - document - feuilletons/f-0024.md
+- [[Elvis Presley]] - concept - veilles/veille-ia-us-2026-11-09-t4.md
+- [[Veille États-Unis 2026-11-09 (Applications)]] - document - veilles/veille-ia-us-2026-11-09-t4.md
 
 ## Live Query (requires Dataview plugin)
 

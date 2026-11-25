@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-16-t1.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-10 : Autres articles"
+community: "Veille Chine 2026-11-23 : Matériel & puissance de calcul IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-10__Autres_articles
+  - community/Veille_Chine_2026-11-23__Matériel__puissance_de_calcul_IA
 ---
 
 # Terminal Bench
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[LongCat-2.5]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-10__Autres_articles
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-23__Matériel__puissance_de_calcul_IA

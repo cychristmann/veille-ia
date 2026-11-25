@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille Outils & code 2026-11-21  Plateformes et intégrations IA]] - document - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[French.people.cn]] - document - feuilletons/f-0048.md
 
 ## Live Query (requires Dataview plugin)
 

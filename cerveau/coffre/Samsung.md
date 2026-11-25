@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-20-3.md"
 type: "concept"
-community: "ASML"
+community: "CoreWeave"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ASML
+  - community/CoreWeave
 ---
 
 # Samsung
@@ -13,7 +13,8 @@ tags:
 ## Connections
 - [[ASML]] - `references` [EXTRACTED]
 - [[Anthropic]] - `conceptually_related_to` [INFERRED]
+- [[Rebellions]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-15  Matériel et robotique IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/ASML
+#graphify/concept #graphify/EXTRACTED #community/CoreWeave

@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Chine  comment des agents IA « voyous » ont échappé au contrôle de leurs créateurs]] - document - dossiers/2026-11-12-2.md
+- [[Arm]] - concept - dossiers/2026-11-13-1.md
 
 ## Live Query (requires Dataview plugin)
 

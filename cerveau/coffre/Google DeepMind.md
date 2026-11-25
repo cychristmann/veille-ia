@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t4.md"
 type: "code"
-community: "Gemini 4 Hydrogen"
+community: "GPT-6 Astra"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Gemini_4_Hydrogen
+  - community/GPT-6_Astra
 ---
 
 # Google DeepMind
@@ -19,5 +19,6 @@ tags:
 - [[Veille États-Unis 2026-11-11]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-11  Applications sectorielles de l'IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-19  Financement et mouvements de marché]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-25 (T3)]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Gemini_4_Hydrogen
+#graphify/code #graphify/EXTRACTED #community/GPT-6_Astra

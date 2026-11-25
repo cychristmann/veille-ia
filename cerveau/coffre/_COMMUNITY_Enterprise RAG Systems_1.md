@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Enterprise RAG Systems
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[French Government]] - concept - feuilletons/f-0023.md
-- [[Military AI Center (Rennes)]] - concept - feuilletons/f-0023.md
-- [[NATO]] - concept - feuilletons/f-0023.md
+- [[LangGraph]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[OpenSearch]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[Redis]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[Uber Legal Redlining Agent]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
 
 ## Live Query (requires Dataview plugin)
 

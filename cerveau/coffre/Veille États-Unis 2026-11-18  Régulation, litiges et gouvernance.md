@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-18-t3.md"
 type: "document"
-community: "ASML"
+community: "CASRAI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/ASML
+  - community/CASRAI
 ---
 
 # Veille États-Unis 2026-11-18 : Régulation, litiges et gouvernance
@@ -17,4 +17,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[San Joaquin County]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/ASML
+#graphify/document #graphify/EXTRACTED #community/CASRAI

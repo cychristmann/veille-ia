@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t6.md"
 type: "document"
-community: "IA et système financier"
+community: "Veille Chine 2026-11-18 : Régulation et gouvernance"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/IA_et_système_financier
+  - community/Veille_Chine_2026-11-18__Régulation_et_gouvernance
 ---
 
 # Veille États-Unis 2026-11-09 : Autres articles
@@ -15,4 +15,4 @@ tags:
 - [[NEAR AI]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/IA_et_système_financier
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-18__Régulation_et_gouvernance

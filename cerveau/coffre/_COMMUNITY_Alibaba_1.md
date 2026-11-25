@@ -1,33 +1,23 @@
 ---
 type: community
-members: 20
+members: 10
 ---
 
 # Alibaba
 
-**Members:** 20 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[Affiches IA bannies à Ornans]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Anthropic millionnaires]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Arnaques Black Friday]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Black Friday e-commerce]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Cinq métiers émergents IA]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[ESET]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[ESET protection IA]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Fonctions IA smartphone]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[IA photos appartements]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Kasikornbank]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Micro IA portable]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Mistral]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
-- [[Open Weights Models]] - concept - veilles/veille-ia-fr-2026-11-14-t2.md
-- [[Orange]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
-- [[Orange et Sosh super-apps]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Ornans]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Retraite anticipée Kasikornbank]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Scandale de triche à l’IA en Corée du Sud]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Sosh]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Veille France 2026-11-22  Applications grand public]] - document - veilles/veille-ia-fr-2026-11-22-t3.md
+- [[Bioengineer.org]] - concept - veilles/veille-ia-us-2026-11-08-t3.md
+- [[Help Net Security]] - concept - veilles/veille-ia-us-2026-11-17-t4.md
+- [[Jalopnik]] - concept - veilles/veille-ia-us-2026-11-08-t3.md
+- [[Korea Biomedical Review]] - concept - veilles/veille-ia-us-2026-11-17-t4.md
+- [[Oncodaily]] - concept - veilles/veille-ia-us-2026-11-08-t3.md
+- [[South China Morning Post]] - concept - veilles/veille-ia-us-2026-11-17-t4.md
+- [[The Guardian (IA)]] - concept - veilles/veille-ia-us-2026-11-17-t4.md
+- [[The Japan Times]] - concept - veilles/veille-ia-us-2026-11-17-t4.md
+- [[Veille États-Unis 2026-11-08  Applications sectorielles]] - document - veilles/veille-ia-us-2026-11-08-t3.md
+- [[Veille États-Unis 2026-11-17  Applications sectorielles de l'IA]] - document - veilles/veille-ia-us-2026-11-17-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -37,13 +27,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_DeepSeek]]
-- 1 edge to [[_COMMUNITY_Dossier  Nvidia désigné champion national de l’IA aux États‑Unis]]
-- 1 edge to [[_COMMUNITY_David Tepper_1]]
-- 1 edge to [[_COMMUNITY_Amazon]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-08  Autres articles]]
+- 1 edge to [[_COMMUNITY_CASRAI]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-22  Applications grand public]] - degree 13, connects to 1 community
-- [[Orange]] - degree 3, connects to 1 community
-- [[Anthropic millionnaires]] - degree 2, connects to 1 community
-- [[Open Weights Models]] - degree 2, connects to 1 community
+- [[Veille États-Unis 2026-11-17  Applications sectorielles de l'IA]] - degree 7, connects to 1 community
+- [[Veille États-Unis 2026-11-08  Applications sectorielles]] - degree 4, connects to 1 community

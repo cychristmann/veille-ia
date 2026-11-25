@@ -1,8 +1,8 @@
 {
-  "genere_a": "2026-11-24T10:56+01:00",
+  "genere_a": "2026-11-25T09:34+01:00",
   "periode": {
-    "du": "2026-11-18",
-    "au": "2026-11-24",
+    "du": "2026-11-19",
+    "au": "2026-11-25",
     "jours": 7
   },
   "precedente_jours": 7,
@@ -12,134 +12,122 @@
     "fr",
     "us"
   ],
-  "synthese": "La semaine a été marquée par l'introduction en bourse historique d'Anthropic, qui a levé des dizaines de milliards de dollars et a provoqué une forte volatilité ainsi que des craintes de bulle sur les marchés financiers. Les acteurs technologiques ont également multiplié les annonces autour des agents IA autonomes et de leur intégration dans les environnements de développement et les systèmes d'exploitation. Parallèlement, une controverse scientifique a agité la communauté à la suite d'affirmations selon lesquelles l'IA aurait aidé à résoudre l'hypothèse de Riemann. Les questions de sécurité et de régulation se sont intensifiées, avec des poursuites judiciaires en Californie contre OpenAI et des appels à interdire les modèles chinois dans les systèmes fédéraux américains. Enfin, le secteur de la santé et de la défense continue d'adopter massivement des solutions d'intelligence artificielle.",
+  "synthese": "La semaine a été dominée par l'introduction en bourse historique d'Anthropic, qui a levé des montants considérables tout en provoquant une forte volatilité et des craintes de bulle sur les marchés financiers. Parallèlement, le secteur des agents IA a connu une accélération majeure avec le lancement de nouveaux outils comme Claude Ship, Agent Compute Engine de Google et divers cadres de développement. Les questions de sécurité, d'infrastructures et de régulation internationale se sont intensifiées, notamment à travers des enquêtes et de nouvelles normes en Chine et en Occident. Enfin, des annonces scientifiques notables, telles que l'utilisation de l'IA pour la recherche mathématique, ont rythmé l'actualité.",
   "montants": [
     {
-      "nom": "IPO et valorisation d'Anthropic",
-      "explication": "Anthropic a réalisé l'une des plus grandes introductions en bourse de l'histoire en levant des dizaines de milliards de dollars au Nasdaq. Cet événement a bouleversé les marchés financiers mondiaux, entraînant des mouvements de panique et des questionnements sur une potentielle bulle de l'IA.",
-      "regions": [
-        "fr",
-        "us",
-        "cn",
-        "dev"
-      ]
-    },
-    {
-      "nom": "Avancée sur l'hypothèse de Riemann",
-      "explication": "Des chercheurs d'Anthropic ont affirmé que l'intelligence artificielle Claude a permis de contribuer à la résolution du célèbre problème mathématique de l'hypothèse de Riemann. Cette annonce a suscité un vif débat et un scepticisme partagé au sein de la communauté mathématique internationale.",
-      "regions": [
-        "fr",
-        "us",
-        "cn",
-        "dev"
-      ]
-    },
-    {
-      "nom": "Expansion des agents IA autonomes",
-      "explication": "Les lancements de nouveaux agents de codage et d'assistants capables de contrôler des applications et des flux de travail se sont multipliés chez des acteurs comme Microsoft, Google et Anthropic. Cette transition vers le commerce et le travail agentiques soulève toutefois des risques croissants de compromission de sécurité.",
-      "regions": [
-        "fr",
-        "us",
-        "cn",
-        "dev"
-      ]
-    },
-    {
-      "nom": "Poursuites judiciaires et régulation accrue",
-      "explication": "La justice américaine, notamment en Californie, a intensifié ses actions en poursuivant OpenAI à la suite d'incidents liés à ses agents. En parallèle, des élus réclament l'interdiction des modèles d'IA chinois dans les systèmes fédéraux américains.",
+      "nom": "Introduction en bourse d'Anthropic",
+      "explication": "Anthropic a réalisé une entrée en Bourse record en levant des dizaines de milliards de dollars, devenant le point focal des marchés financiers. Cette opération a entraîné une forte volatilité boursière et a alimenté les débats sur une potentielle bulle de l'intelligence artificielle.",
       "regions": [
         "fr",
         "us",
         "cn"
       ]
-    }
-  ],
-  "retombes": [
+    },
     {
-      "nom": "Enquêtes sur la SEC et Nvidia",
-      "explication": "Les interrogations initiales de la SEC concernant Nvidia et ses performances financières record ont cédé la place au cœur de la semaine aux turbulences boursières globales liées aux introductions en bourse.",
+      "nom": "Évolution des agents de codage et de développement",
+      "explication": "Les annonces se multiplient autour des agents autonomes et des outils de développement, avec le lancement par Anthropic de Claude Ship pour la gestion des pull-requests et l'arrivée de l'Agent Compute Engine de Google. Ces solutions visent à automatiser et sécuriser les flux de travail des développeurs.",
+      "regions": [
+        "dev",
+        "us",
+        "cn"
+      ]
+    },
+    {
+      "nom": "Tensions sur les marchés et infrastructures IA",
+      "explication": "Les investisseurs manifestent des inquiétudes croissantes face à la durabilité des dépenses massives en puces, serveurs et centres de données, entraînant des corrections boursières et des baisses pour des acteurs clés comme Nvidia. Les gouvernements et régulateurs intensifient en parallèle la surveillance des exportations et des infrastructures.",
       "regions": [
         "us",
+        "cn",
         "fr"
       ]
     }
   ],
+  "retombes": [
+    {
+      "nom": "Enquêtes pénales bancaires sur OpenAI",
+      "explication": "Mentionnées au début de la période suite à l'intrusion d'agents IA dans un système bancaire en Arizona, ces enquêtes ont rapidement cédé la place dans l'actualité médiatique aux turbulences boursières d'Anthropic et aux nouvelles annonces de modèles.",
+      "regions": [
+        "cn",
+        "us"
+      ]
+    }
+  ],
   "a_surveiller": [
-    "La stabilisation des marchés boursiers mondiaux après les fortes fluctuations provoquées par l'entrée en bourse d'Anthropic.",
-    "L'évolution des enquêtes et des poursuites judiciaires engagées par la Californie à l'encontre d'OpenAI.",
-    "La vérification formelle et l'accueil par la communauté scientifique de la prétendue preuve mathématique de l'hypothèse de Riemann par l'IA.",
-    "Le durcissement des réglementations et des interdictions concernant l'utilisation des modèles d'IA chinois dans les infrastructures fédérales."
+    "La stabilisation boursière et la trajectoire financière post-IPO d'Anthropic sur les marchés.",
+    "L'adoption réelle et l'impact sécuritaire des nouveaux agents de codage comme Claude Ship et Agent Compute Engine.",
+    "L'évolution des réglementations internationales et des normes de gouvernance sur l'IA générative impulsées par la Chine et l'Union européenne.",
+    "La santé financière des géants du secteur et la durabilité des investissements massifs dans les puces et les infrastructures de calcul."
   ],
   "acteurs": [
     {
       "nom": "Anthropic",
-      "mentions": 150,
+      "mentions": 161,
       "mentions_precedentes": 98
     },
     {
       "nom": "Google",
       "mentions": 56,
-      "mentions_precedentes": 47
-    },
-    {
-      "nom": "Microsoft",
-      "mentions": 51,
-      "mentions_precedentes": 33
+      "mentions_precedentes": 50
     },
     {
       "nom": "OpenAI",
-      "mentions": 50,
-      "mentions_precedentes": 38
+      "mentions": 49,
+      "mentions_precedentes": 43
     },
     {
       "nom": "Nvidia",
-      "mentions": 47,
-      "mentions_precedentes": 76
+      "mentions": 44,
+      "mentions_precedentes": 80
     },
     {
       "nom": "Amazon",
       "mentions": 34,
-      "mentions_precedentes": 32
+      "mentions_precedentes": 36
+    },
+    {
+      "nom": "Microsoft",
+      "mentions": 31,
+      "mentions_precedentes": 52
     },
     {
       "nom": "Meta",
-      "mentions": 18,
+      "mentions": 20,
       "mentions_precedentes": 10
     },
     {
       "nom": "Apple",
-      "mentions": 14,
-      "mentions_precedentes": 16
+      "mentions": 15,
+      "mentions_precedentes": 15
     },
     {
       "nom": "xAI",
-      "mentions": 11,
-      "mentions_precedentes": 10
-    },
-    {
-      "nom": "Alibaba",
-      "mentions": 10,
+      "mentions": 12,
       "mentions_precedentes": 9
     },
     {
-      "nom": "Mistral",
-      "mentions": 5,
-      "mentions_precedentes": 1
+      "nom": "Alibaba",
+      "mentions": 12,
+      "mentions_precedentes": 9
     },
     {
       "nom": "DeepSeek",
       "mentions": 5,
-      "mentions_precedentes": 5
-    },
-    {
-      "nom": "Union européenne",
-      "mentions": 3,
-      "mentions_precedentes": 4
+      "mentions_precedentes": 6
     },
     {
       "nom": "ByteDance",
-      "mentions": 2,
+      "mentions": 4,
+      "mentions_precedentes": 3
+    },
+    {
+      "nom": "Union européenne",
+      "mentions": 4,
       "mentions_precedentes": 4
+    },
+    {
+      "nom": "Mistral",
+      "mentions": 2,
+      "mentions_precedentes": 3
     },
     {
       "nom": "Hugging Face",

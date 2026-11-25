@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-15-t2.md"
 type: "concept"
-community: "ASML"
+community: "CoreWeave"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ASML
+  - community/CoreWeave
 ---
 
 # Shanghai Universities
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/ASML
+#graphify/concept #graphify/EXTRACTED #community/CoreWeave

@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Arcade]] - concept - veilles/veille-ia-dev-2026-11-19-t1.md
+- [[Wuhan University of Science and Technology]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
 
 ## Live Query (requires Dataview plugin)
 

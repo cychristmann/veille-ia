@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Graph Neural Networks]] - concept - veilles/veille-ia-dev-2026-11-23-t1.md
+- [[Hermes Agent]] - concept - veilles/veille-ia-dev-2026-11-23-t2.md
 
 ## Live Query (requires Dataview plugin)
 

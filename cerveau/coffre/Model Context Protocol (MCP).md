@@ -11,6 +11,8 @@ tags:
 # Model Context Protocol (MCP)
 
 ## Connections
+- [[Anthropic]] - `references` [EXTRACTED]
+- [[Claude Code]] - `references` [EXTRACTED]
 - [[Copilot]] - `references` [EXTRACTED]
 - [[MoEngage Merlin AI]] - `references` [EXTRACTED]
 - [[Veille IA Dev 2026-11-20 T5]] - `references` [EXTRACTED]

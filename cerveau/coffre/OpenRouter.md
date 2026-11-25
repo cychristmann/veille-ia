@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-23-t3.md"
+source_file: "veilles/veille-ia-fr-2026-11-17-t4.md"
 type: "concept"
-community: "OpenRouter"
+community: "Veille France 2026-11-17"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/OpenRouter
+  - community/Veille_France_2026-11-17
 ---
 
 # OpenRouter
@@ -17,4 +17,4 @@ tags:
 - [[Veille Outils & code 2026-11-17]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-23  Sécurité, conformité et fuites liées aux IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/OpenRouter
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-17

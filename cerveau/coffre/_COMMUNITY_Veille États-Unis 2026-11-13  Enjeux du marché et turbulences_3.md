@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-13 : Enjeux du marché et turbulences
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Agent Client Protocol (ACP)]] - concept - veilles/veille-ia-dev-2026-11-20-t2.md
-- [[Symposium]] - concept - veilles/veille-ia-dev-2026-11-20-t2.md
+- [[Examen crucial en Corée du Sud en plein scandale de triche à l'IA]] - document - dossiers/2026-11-22-2.md
 
 ## Live Query (requires Dataview plugin)
 

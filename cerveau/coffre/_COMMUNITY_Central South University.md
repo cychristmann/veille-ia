@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Academic Misconduct]] - concept - veilles/veille-ia-cn-2026-11-19-t4.md
-- [[Central South University]] - concept - veilles/veille-ia-cn-2026-11-19-t4.md
-- [[Veille Chine 2026-11-19  Recherche et Éthique]] - document - veilles/veille-ia-cn-2026-11-19-t4.md
+- [[Equasens]] - concept - veilles/veille-ia-fr-2026-11-25-t3.md
+- [[Synapse Medicine]] - concept - veilles/veille-ia-fr-2026-11-25-t3.md
+- [[Veille France 2026-11-12  Applications IA en santé et société]] - document - veilles/veille-ia-fr-2026-11-12-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,3 +18,9 @@ members: 3
 TABLE source_file, type FROM #community/Central_South_University
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_David Tepper]]
+
+## Top bridge nodes
+- [[Veille France 2026-11-12  Applications IA en santé et société]] - degree 2, connects to 1 community

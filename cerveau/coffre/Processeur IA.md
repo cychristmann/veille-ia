@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0038.md"
 type: "concept"
-community: "Hypothèse de Riemann"
+community: "CoreWeave"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Hypothèse_de_Riemann
+  - community/CoreWeave
 ---
 
 # Processeur IA
@@ -14,4 +14,4 @@ tags:
 - [[AMD]] - `references` [EXTRACTED]
 - [[Intel]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Hypothèse_de_Riemann
+#graphify/concept #graphify/EXTRACTED #community/CoreWeave

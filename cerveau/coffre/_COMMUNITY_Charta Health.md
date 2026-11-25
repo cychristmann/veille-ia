@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[248 Ventures]] - concept - dossiers/2026-11-16-2.md
+- [[S&P 500]] - concept - veilles/veille-ia-fr-2026-11-21-t2.md
 
 ## Live Query (requires Dataview plugin)
 

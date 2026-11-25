@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-22-1.md"
 type: "document"
-community: "Trust3 AI"
+community: "Veille États-Unis 2026-11-10 : Régulation, sécurité et éthique"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trust3_AI
+  - community/Veille_États-Unis_2026-11-10__Régulation_sécurité_et_éthique
 ---
 
 # Dossier : Preuve assistée par IA de l’hypothèse de Riemann
 
-#graphify/document #graphify/EXTRACTED #community/Trust3_AI
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-10__Régulation_sécurité_et_éthique

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-23-t2.md"
 type: "document"
-community: "Veille France 2026-11-23 : Adoption industrielle et entreprises"
+community: "Veille Chine 2026-11-19 : Infrastructure et Technologie IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-23__Adoption_industrielle_et_entreprises
+  - community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA
 ---
 
 # Veille France 2026-11-23 : Adoption industrielle et entreprises
@@ -22,4 +22,4 @@ tags:
 - [[Seco]] - `references` [EXTRACTED]
 - [[SoftBank]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-23__Adoption_industrielle_et_entreprises
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-19__Infrastructure_et_Technologie_IA

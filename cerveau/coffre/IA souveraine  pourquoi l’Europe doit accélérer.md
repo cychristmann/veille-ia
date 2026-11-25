@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-19-3.md"
 type: "document"
-community: "Veille Outils & code 2026-11-17 (T4)"
+community: "Dossier : Alliance européenne pour une IA souveraine"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-17_T4
+  - community/Dossier__Alliance_européenne_pour_une_IA_souveraine
 ---
 
 # IA souveraine : pourquoi l’Europe doit accélérer
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Dossier  Alliance européenne pour une IA souveraine]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-17_T4
+#graphify/document #graphify/EXTRACTED #community/Dossier__Alliance_européenne_pour_une_IA_souveraine

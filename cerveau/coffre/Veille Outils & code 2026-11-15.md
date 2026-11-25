@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-15-t2.md"
+source_file: "veilles/veille-ia-dev-2026-11-15-t3.md"
 type: "document"
-community: "Veille France 2026-11-19 : Autres articles"
+community: "Veille Outils & code 2026-11-15"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-19__Autres_articles
+  - community/Veille_Outils__code_2026-11-15
 ---
 
 # Veille Outils & code 2026-11-15
@@ -15,7 +15,7 @@ tags:
 - [[Claude Fable]] - `references` [EXTRACTED]
 - [[CoReMem]] - `references` [EXTRACTED]
 - [[Copilot]] - `references` [EXTRACTED]
-- [[DeepSeek V3]] - `references` [EXTRACTED]
+- [[DeepSeek]] - `references` [EXTRACTED]
 - [[DuckLake]] - `references` [EXTRACTED]
 - [[Gemini 4 Carbon]] - `references` [EXTRACTED]
 - [[Google Modern Web Guidance 1.0]] - `references` [EXTRACTED]
@@ -27,4 +27,4 @@ tags:
 - [[datasette-vega]] - `references` [EXTRACTED]
 - [[dspy-wsp]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-19__Autres_articles
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-15

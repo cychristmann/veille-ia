@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Craig Federighi]] - concept - dossiers/2026-11-20-1.md
-- [[John Ternus]] - concept - dossiers/2026-11-20-1.md
+- [[Arkestro AI]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
+- [[Phillips 66]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
 
 ## Live Query (requires Dataview plugin)
 

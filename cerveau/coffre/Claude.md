@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-22-1.md"
 type: "concept"
-community: "Copilot"
+community: "Claude"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Copilot
+  - community/Claude
 ---
 
 # Claude
@@ -18,6 +18,7 @@ tags:
 - [[Claude Code]] - `references` [EXTRACTED]
 - [[Cognizant]] - `references` [EXTRACTED]
 - [[Danfoss]] - `references` [EXTRACTED]
+- [[Fable 5.2]] - `references` [EXTRACTED]
 - [[Feuilleton Résolution de l'hypothèse de Riemann grâce à l'IA d'Anthropic]] - `references` [EXTRACTED]
 - [[Han Won-seok]] - `references` [INFERRED]
 - [[Hy4 flash]] - `conceptually_related_to` [EXTRACTED]
@@ -25,6 +26,7 @@ tags:
 - [[Lean 4]] - `references` [EXTRACTED]
 - [[Levent Alpöge]] - `conceptually_related_to` [INFERRED]
 - [[Levent Alpöge]] - `references` [EXTRACTED]
+- [[Mythos 5.2]] - `references` [EXTRACTED]
 - [[OpenCode]] - `references` [EXTRACTED]
 - [[Riemann Hypothesis]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Applications concrètes et innovations IA]] - `references` [EXTRACTED]
@@ -34,4 +36,4 @@ tags:
 - [[Veille Outils & code 2026-11-14]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-17 (T3)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Copilot
+#graphify/concept #graphify/EXTRACTED #community/Claude

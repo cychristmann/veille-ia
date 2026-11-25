@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-16-t5.md"
 type: "document"
-community: "Veille États-Unis 2026-11-18"
+community: "Jensen Huang"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-18
+  - community/Jensen_Huang
 ---
 
 # Veille États-Unis 2026-11-16
@@ -18,4 +18,4 @@ tags:
 - [[Modern Healthcare]] - `references` [EXTRACTED]
 - [[Technology Org]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-18
+#graphify/document #graphify/EXTRACTED #community/Jensen_Huang

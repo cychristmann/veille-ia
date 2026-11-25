@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-21-t3.md"
 type: "concept"
-community: "Agent Investigations"
+community: "Veille France 2026-11-09 : Régulation, sécurité et enjeux géopolitiques"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Agent_Investigations
+  - community/Veille_France_2026-11-09__Régulation_sécurité_et_enjeux_géopolitiques
 ---
 
 # Agent Investigations
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[groundcover]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Agent_Investigations
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-09__Régulation_sécurité_et_enjeux_géopolitiques

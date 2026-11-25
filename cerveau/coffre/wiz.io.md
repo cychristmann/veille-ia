@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0032.md"
 type: "concept"
-community: "Model Context Protocol (MCP)"
+community: "Adobe Creative Cloud"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Model_Context_Protocol_MCP
+  - community/Adobe_Creative_Cloud
 ---
 
 # wiz.io
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Feuilleton Compromission massive du Microsoft Agent Framework]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Model_Context_Protocol_MCP
+#graphify/concept #graphify/EXTRACTED #community/Adobe_Creative_Cloud

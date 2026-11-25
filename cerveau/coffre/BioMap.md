@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t3.md"
 type: "concept"
-community: "CoreWeave"
+community: "SeedRealtime 1.0"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/CoreWeave
+  - community/SeedRealtime_10
 ---
 
 # BioMap
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[SeedRealtime 1.0]] - `conceptually_related_to` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/CoreWeave
+#graphify/concept #graphify/INFERRED #community/SeedRealtime_10

@@ -1,19 +1,20 @@
 ---
 type: community
-members: 6
+members: 7
 ---
 
 # Veille Chine 2026-11-20
 
-**Members:** 6 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Veille Chine 2026-11-21  Applications sectorielles de l’IA]] - document - veilles/veille-ia-cn-2026-11-21-t3.md
-- [[华为OSTA星芒 O1 Pro]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
-- [[托普云农发布智能（AI）虫情测报灯9.0]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
-- [[物理AI浪潮下，在手订单充足的8家公司]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
-- [[程子芮：AI推动金融科技从数字化到数智化]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
-- [[香港人工智能与生命科学伦理研究院]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[Acteurs du secteur privé IA (Anthropic, OpenAI, Elon Musk)]] - concept - dossiers/2026-11-24-1.md
+- [[Appel à l’action de Bridgetown]] - document - dossiers/2026-11-24-1.md
+- [[Dossier  Vers un cadre mondial de sécurité de l’IA]] - document - dossiers/2026-11-24-1.md
+- [[France]] - concept - dossiers/2026-11-24-1.md
+- [[SALA (Systèmes d'armes létales autonomes)]] - concept - dossiers/2026-11-25-1.md
+- [[Sommet spécial de Bridgetown]] - concept - dossiers/2026-11-24-1.md
+- [[Sud global]] - concept - dossiers/2026-11-24-1.md
 
 ## Live Query (requires Dataview plugin)
 

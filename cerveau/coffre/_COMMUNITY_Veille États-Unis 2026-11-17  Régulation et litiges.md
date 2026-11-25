@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Veille États-Unis 2026-11-17 : Régulation et litiges
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Odystoria]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
-- [[William Mocaër]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
+- [[Cipher]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
+- [[IREN]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
+- [[TeraWulf]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
 
 ## Live Query (requires Dataview plugin)
 

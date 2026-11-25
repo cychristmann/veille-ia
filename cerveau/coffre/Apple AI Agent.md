@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-20-1.md"
 type: "concept"
-community: "Apple"
+community: "Qwen4-Max"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Apple
+  - community/Qwen4-Max
 ---
 
 # Apple AI Agent
@@ -21,4 +21,4 @@ tags:
 - [[Veille États-Unis 2026-11-20  Développements technologiques et agents IA]] - `references` [EXTRACTED]
 - [[macOS]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Apple
+#graphify/concept #graphify/EXTRACTED #community/Qwen4-Max

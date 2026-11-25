@@ -8,16 +8,16 @@ members: 10
 **Members:** 10 nodes
 
 ## Members
-- [[APEC]] - concept - veilles/veille-ia-cn-2026-11-17-t5.md
-- [[Barclays Research]] - concept - dossiers/2026-11-13-2.md
-- [[Chinese Robotics Industry]] - concept - dossiers/2026-11-13-2.md
-- [[Fitch Ratings (惠誉)]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
-- [[Korean Financial Supervisory Service (韩国金融监督院)]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
-- [[Li Dongsheng]] - code - veilles/veille-ia-cn-2026-11-17-t5.md
-- [[Morgan Stanley]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
-- [[Sinch]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
-- [[TCL]] - code - veilles/veille-ia-cn-2026-11-17-t5.md
-- [[Veille Chine 2026-11-19  Régulation & Gouvernance IA]] - document - veilles/veille-ia-cn-2026-11-19-t1.md
+- [[CloudBackend AB]] - concept - veilles/veille-ia-us-2026-11-18-t6.md
+- [[JoinAI]] - concept - veilles/veille-ia-us-2026-11-18-t6.md
+- [[LinkedIn]] - concept - veilles/veille-ia-us-2026-11-18-t6.md
+- [[SimplifAI Studio]] - concept - veilles/veille-ia-us-2026-11-18-t6.md
+- [[Songying Technology]] - concept - veilles/veille-ia-us-2026-11-18-t6.md
+- [[Teradyne]] - concept - veilles/veille-ia-us-2026-11-18-t6.md
+- [[The LAB Miami]] - concept - veilles/veille-ia-us-2026-11-18-t6.md
+- [[U-M School of Information]] - concept - veilles/veille-ia-us-2026-11-18-t6.md
+- [[Veille États-Unis 2026-11-18]] - document - veilles/veille-ia-us-2026-11-18-t6.md
+- [[Wolters Kluwer]] - concept - veilles/veille-ia-us-2026-11-18-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -27,9 +27,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_Dossier Vers une interdiction des modèles d’IA chinois dans les systèmes fédéraux américains]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
 - 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_Jensen Huang_1]]
 
 ## Top bridge nodes
-- [[Veille Chine 2026-11-19  Régulation & Gouvernance IA]] - degree 6, connects to 1 community
-- [[Morgan Stanley]] - degree 3, connects to 1 community
+- [[Veille États-Unis 2026-11-18]] - degree 11, connects to 4 communities

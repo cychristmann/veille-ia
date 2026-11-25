@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Affaire de triche IA au baccalauréat sud‑coréen  le ministre de l’Éducation démissionne]] - document - dossiers/2026-11-22-2.md
+- [[Corée du Sud  démission du ministre de l'Education après un scandale de triche à l'IA]] - document - dossiers/2026-11-22-2.md
 
 ## Live Query (requires Dataview plugin)
 

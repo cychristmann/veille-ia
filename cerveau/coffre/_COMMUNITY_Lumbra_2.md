@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Lumbra]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
+- [[Solutions-Numeriques]] - document - feuilletons/f-0030.md
 
 ## Live Query (requires Dataview plugin)
 

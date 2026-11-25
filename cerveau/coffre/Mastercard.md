@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0019.md"
 type: "concept"
-community: "Jensen Huang"
+community: "ChatGPT Wallet"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Jensen_Huang
+  - community/ChatGPT_Wallet
 ---
 
 # Mastercard
@@ -16,4 +16,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Verifiable Intent]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Jensen_Huang
+#graphify/concept #graphify/EXTRACTED #community/ChatGPT_Wallet

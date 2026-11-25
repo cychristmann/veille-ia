@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-22-t3.md"
 type: "concept"
-community: "Alibaba"
+community: "Mistral"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Alibaba
+  - community/Mistral
 ---
 
 # Sosh
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Orange et Sosh super-apps]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Alibaba
+#graphify/concept #graphify/EXTRACTED #community/Mistral

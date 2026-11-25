@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-19-t4.md"
 type: "concept"
-community: "Goldman Sachs"
+community: "Hugging Face"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Goldman_Sachs
+  - community/Hugging_Face
 ---
 
 # Donald Trump
@@ -14,6 +14,7 @@ tags:
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
+- [[USA]] - `references` [INFERRED]
 - [[Veille États-Unis 2026-11-19  Régulation et politique]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Goldman_Sachs
+#graphify/concept #graphify/EXTRACTED #community/Hugging_Face

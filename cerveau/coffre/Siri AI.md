@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-08-t1.md"
+source_file: "dossiers/2026-11-20-1.md"
 type: "concept"
 community: "Apple"
 tags:

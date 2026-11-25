@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-19 : Éthique, sécurité et impact sociétal
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[EDITH Trial]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
-- [[NHS]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
+- [[World Bank]] - concept - dossiers/2026-11-25-3.md
 
 ## Live Query (requires Dataview plugin)
 

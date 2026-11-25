@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille États-Unis 2026-11-14 : Impact Social, Éthique et Travail
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Brevis Arca AI]] - concept - veilles/veille-ia-dev-2026-11-18-t1.md
+- [[Deletion Tuning]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
+- [[New York University]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
 
 ## Live Query (requires Dataview plugin)
 

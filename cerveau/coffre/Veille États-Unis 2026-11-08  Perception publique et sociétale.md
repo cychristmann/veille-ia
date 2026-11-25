@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t5.md"
 type: "document"
-community: "Veille États-Unis 2026-11-08 : Perception publique et sociétale"
+community: "Veille Chine 2026-11-13 : Industrie et fabrication"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-08__Perception_publique_et_sociétale
+  - community/Veille_Chine_2026-11-13__Industrie_et_fabrication
 ---
 
 # Veille États-Unis 2026-11-08 : Perception publique et sociétale
@@ -15,4 +15,4 @@ tags:
 - [[tech-insider.org]] - `cites` [EXTRACTED]
 - [[vr.org]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08__Perception_publique_et_sociétale
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-13__Industrie_et_fabrication

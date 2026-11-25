@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-19-t4.md"
 type: "concept"
-community: "Veille France 2026-11-12"
+community: "Veille États-Unis 2026-11-13 : Développements et investissements corporatifs"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-12
+  - community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
 ---
 
 # Signal
@@ -18,4 +18,4 @@ tags:
 - [[Veille États-Unis 2026-11-21  Anthropic & Riemann]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-24  Marchés financiers & Investissements]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-12
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs

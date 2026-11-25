@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-19-3.md"
 type: "concept"
-community: "Blue J"
+community: "Muru"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Blue_J
+  - community/Muru
 ---
 
 # InvestAI
 
-#graphify/concept #graphify/EXTRACTED #community/Blue_J
+#graphify/concept #graphify/EXTRACTED #community/Muru

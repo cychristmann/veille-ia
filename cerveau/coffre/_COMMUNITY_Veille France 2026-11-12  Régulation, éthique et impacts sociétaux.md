@@ -9,7 +9,7 @@ members: 7
 
 ## Members
 - [[Jacek Rozenek]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
-- [[Notion]] - concept - veilles/veille-ia-fr-2026-11-10-t4.md
+- [[Notion]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
 - [[Notion AI]] - concept - veilles/veille-ia-fr-2026-11-10-t4.md
 - [[ORONI]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
 - [[Veille France 2026-11-10  Nouveaux modèles et produits IA]] - document - veilles/veille-ia-fr-2026-11-10-t4.md
@@ -25,8 +25,8 @@ SORT file.name ASC
 
 ## Connections to other communities
 - 1 edge to [[_COMMUNITY_GPT-6 Astra_1]]
-- 1 edge to [[_COMMUNITY_David Tepper_1]]
-- 1 edge to [[_COMMUNITY_Cursor_1]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_Cursor]]
 
 ## Top bridge nodes
 - [[Veille France 2026-11-12  Régulation, éthique et impacts sociétaux]] - degree 5, connects to 1 community

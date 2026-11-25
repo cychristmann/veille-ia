@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-19-t2.md"
 type: "document"
-community: "Goldman Sachs"
+community: "Hugging Face"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Goldman_Sachs
+  - community/Hugging_Face
 ---
 
 # Veille États-Unis 2026-11-19 : Régulation et politique
@@ -16,4 +16,4 @@ tags:
 - [[Federal Reserve]] - `references` [EXTRACTED]
 - [[South Korean Financial Watchdog]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Goldman_Sachs
+#graphify/document #graphify/EXTRACTED #community/Hugging_Face

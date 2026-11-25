@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-19-t4.md"
 type: "document"
-community: "Veille États-Unis 2026-11-13 : Développements et investissements corporatifs"
+community: "Veille France 2026-11-25"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+  - community/Veille_France_2026-11-25
 ---
 
 # Veille États-Unis 2026-11-19 : Infrastructure et matériel
@@ -17,4 +17,4 @@ tags:
 - [[Palo Alto Networks]] - `references` [EXTRACTED]
 - [[Semgrep]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-25
