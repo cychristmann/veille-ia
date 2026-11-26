@@ -1,17 +1,16 @@
 ---
 type: community
-members: 4
+members: 3
 ---
 
 # IA et système financier
 
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[AI Fraud and Academic Misconduct]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
-- [[AI Market Dynamics]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
-- [[AI Regulation and Ethics]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
-- [[Veille Chine 2026-11-16]] - document - veilles/veille-ia-cn-2026-11-16-t4.md
+- [[AI Impact on Finance and Markets]] - concept - veilles/veille-ia-cn-2026-11-14-t5.md
+- [[John Langford]] - concept - veilles/veille-ia-cn-2026-11-14-t5.md
+- [[Veille Chine 2026-11-14  Finance, investissement et IA]] - document - veilles/veille-ia-cn-2026-11-14-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,3 +18,9 @@ members: 4
 TABLE source_file, type FROM #community/IA_et_système_financier
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Microsoft_1]]
+
+## Top bridge nodes
+- [[John Langford]] - degree 2, connects to 1 community

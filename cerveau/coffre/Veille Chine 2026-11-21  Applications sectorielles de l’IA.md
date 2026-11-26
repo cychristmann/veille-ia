@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-21-t3.md"
 type: "document"
-community: "Dossier: Vers une interdiction des modèles d’IA chinois dans les systèmes fédéraux américains"
+community: "Veille Chine 2026-11-23"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Dossier_Vers_une_interdiction_des_modèles_dIA_chinois_dans_les_systèmes_fédéraux_américains
+  - community/Veille_Chine_2026-11-23
 ---
 
 # Veille Chine 2026-11-21 : Applications sectorielles de l’IA
@@ -17,4 +17,4 @@ tags:
 - [[程子芮：AI推动金融科技从数字化到数智化]] - `references` [EXTRACTED]
 - [[香港人工智能与生命科学伦理研究院]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Dossier_Vers_une_interdiction_des_modèles_dIA_chinois_dans_les_systèmes_fédéraux_américains
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-23

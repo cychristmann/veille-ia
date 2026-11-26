@@ -21,9 +21,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
 - 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
 
 ## Top bridge nodes
 - [[Veille France 2026-11-09  Autres articles]] - degree 6, connects to 3 communities

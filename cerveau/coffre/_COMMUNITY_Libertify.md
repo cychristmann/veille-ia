@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Ant]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
-- [[LingSante]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
-- [[StudioX AI]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
-- [[Veille États-Unis 2026-11-23]] - document - veilles/veille-ia-us-2026-11-23-t2.md
-- [[Visa Crypto Labs]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
-- [[Xalgorix]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
+- [[Elior]] - concept - veilles/veille-ia-fr-2026-11-21-t2.md
+- [[Libertify]] - concept - veilles/veille-ia-fr-2026-11-21-t2.md
+- [[Motherbrain]] - concept - veilles/veille-ia-fr-2026-11-23-t4.md
+- [[Ubisoft]] - concept - veilles/veille-ia-fr-2026-11-23-t4.md
+- [[Vallourec]] - concept - veilles/veille-ia-fr-2026-11-21-t2.md
+- [[Worldline]] - concept - veilles/veille-ia-fr-2026-11-21-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,3 +21,12 @@ members: 6
 TABLE source_file, type FROM #community/Libertify
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Suno]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-26]]
+
+## Top bridge nodes
+- [[Ubisoft]] - degree 4, connects to 2 communities
+- [[Libertify]] - degree 5, connects to 1 community

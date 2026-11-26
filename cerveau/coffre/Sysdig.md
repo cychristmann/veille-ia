@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-21-1.md"
 type: "concept"
-community: "Charta Health"
+community: "DeepSeek V4.1 Pro"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Charta_Health
+  - community/DeepSeek_V41_Pro
 ---
 
 # Sysdig
 
-#graphify/concept #graphify/EXTRACTED #community/Charta_Health
+#graphify/concept #graphify/EXTRACTED #community/DeepSeek_V41_Pro

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-20-t1.md"
 type: "concept"
-community: "Adobe Creative Cloud"
+community: "Veille États-Unis 2026-11-08"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Adobe_Creative_Cloud
+  - community/Veille_États-Unis_2026-11-08
 ---
 
 # Microsoft Agent Framework
@@ -16,4 +16,4 @@ tags:
 - [[Veille Outils & code 2026-11-20]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-21]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Adobe_Creative_Cloud
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08

@@ -20,7 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_Microsoft_1]]
 
 ## Top bridge nodes
 - [[Veille États-Unis 2026-11-14  Incident FAA et Intelligence Artificielle]] - degree 3, connects to 1 community

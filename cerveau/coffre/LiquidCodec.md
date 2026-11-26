@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-13-t5.md"
 type: "code"
-community: "Veille France 2026-11-22 : Marchés et finance"
+community: "Veille Chine 2026-11-23 : Santé et médecine assistées par l'IA"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-22__Marchés_et_finance
+  - community/Veille_Chine_2026-11-23__Santé_et_médecine_assistées_par_lIA
 ---
 
 # LiquidCodec
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Outils & code 2026-11-13 (T5)]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Veille_France_2026-11-22__Marchés_et_finance
+#graphify/code #graphify/EXTRACTED #community/Veille_Chine_2026-11-23__Santé_et_médecine_assistées_par_lIA

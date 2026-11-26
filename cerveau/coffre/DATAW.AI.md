@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t1.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-11 : Éducation et formation à l'IA"
+community: "Veille France 2026-11-09 : Régulation, sécurité et enjeux géopolitiques"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA
+  - community/Veille_France_2026-11-09__Régulation_sécurité_et_enjeux_géopolitiques
 ---
 
 # DATAW.AI
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[RWIP]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-09__Régulation_sécurité_et_enjeux_géopolitiques

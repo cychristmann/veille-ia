@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Hai]] - concept - veilles/veille-ia-dev-2026-11-25-t1.md
+- [[AI Safety]] - concept - dossiers/2026-11-25-3.md
 
 ## Live Query (requires Dataview plugin)
 

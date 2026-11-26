@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-23-t4.md"
 type: "concept"
-community: "CoreWeave"
+community: "Suno"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/CoreWeave
+  - community/Suno
 ---
 
 # Nicalis
@@ -14,4 +14,4 @@ tags:
 - [[The Binding of Isaac]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-23  IA dans la culture et l’éducation]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/CoreWeave
+#graphify/concept #graphify/EXTRACTED #community/Suno

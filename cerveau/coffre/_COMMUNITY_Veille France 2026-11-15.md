@@ -34,10 +34,10 @@ SORT file.name ASC
 - 2 edges to [[_COMMUNITY_ICAID]]
 - 1 edge to [[_COMMUNITY_IBM]]
 - 1 edge to [[_COMMUNITY_Apple]]
-- 1 edge to [[_COMMUNITY_ChatGPT Wallet]]
-- 1 edge to [[_COMMUNITY_AI Act]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-25  Société, éthique et éducation]]
+- 1 edge to [[_COMMUNITY_Emmanuel Macron]]
 - 1 edge to [[_COMMUNITY_Débats à Saint-Tropez_1]]
-- 1 edge to [[_COMMUNITY_This Is Unreal (Spectacle)]]
+- 1 edge to [[_COMMUNITY_This Is Unreal (Spectacle)_1]]
 
 ## Top bridge nodes
 - [[Veille France 2026-11-15]] - degree 18, connects to 7 communities

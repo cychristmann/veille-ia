@@ -1,19 +1,20 @@
 ---
 type: community
-members: 6
+members: 7
 ---
 
 # Veille Chine 2026-11-14 : IA industrielle et infrastructure
 
-**Members:** 6 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Community Impact]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[Daily Herald]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[Federal News Network]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[Inside Global Tech]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[News 5 Cleveland WEWS]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
-- [[Veille États-Unis 2026-11-09  Régulation et politiques publiques]] - document - veilles/veille-ia-us-2026-11-09-t1.md
+- [[AI Governance and Regulation]] - concept - veilles/veille-ia-cn-2026-11-21-t4.md
+- [[AI Misinformation]] - concept - veilles/veille-ia-cn-2026-11-21-t4.md
+- [[Academic Integrity and AI Detection]] - concept - veilles/veille-ia-cn-2026-11-21-t4.md
+- [[Alibaba Cloud]] - concept - veilles/veille-ia-cn-2026-11-26-t7.md
+- [[Alipay]] - concept - veilles/veille-ia-cn-2026-11-26-t7.md
+- [[Kuaishou]] - concept - veilles/veille-ia-cn-2026-11-21-t5.md
+- [[Veille Chine 2026-11-21]] - document - veilles/veille-ia-cn-2026-11-21-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,3 +22,13 @@ members: 6
 TABLE source_file, type FROM #community/Veille_Chine_2026-11-14__IA_industrielle_et_infrastructure
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Dossier Vers une interdiction des modèles d’IA chinois dans les systèmes fédéraux américains]]
+- 1 edge to [[_COMMUNITY_Huawei]]
+- 1 edge to [[_COMMUNITY_Riemann Hypothesis]]
+- 1 edge to [[_COMMUNITY_Apple]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
+
+## Top bridge nodes
+- [[Veille Chine 2026-11-21]] - degree 10, connects to 5 communities

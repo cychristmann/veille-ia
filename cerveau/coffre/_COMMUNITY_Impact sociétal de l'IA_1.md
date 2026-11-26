@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Impact sociétal de l'IA]] - concept - veilles/veille-ia-fr-2026-11-21-t5.md
-- [[Veille France 2026-11-21  Société & culture]] - document - veilles/veille-ia-fr-2026-11-21-t5.md
+- [[Canonical]] - concept - veilles/veille-ia-fr-2026-11-26-t3.md
+- [[Ubuntu Desktop]] - concept - veilles/veille-ia-fr-2026-11-26-t3.md
 
 ## Live Query (requires Dataview plugin)
 

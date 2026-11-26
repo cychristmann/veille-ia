@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Veille Chine 2026-11-10  Régulation et gouvernance de l’IA]] - document - veilles/veille-ia-cn-2026-11-10-t3.md
-- [[复旦发展研究院]] - concept - veilles/veille-ia-cn-2026-11-10-t3.md
+- [[Veille Chine 2026-11-12  Contenus et médias IA]] - document - veilles/veille-ia-cn-2026-11-12-t5.md
+- [[Zhao Liying]] - concept - veilles/veille-ia-cn-2026-11-12-t5.md
 
 ## Live Query (requires Dataview plugin)
 

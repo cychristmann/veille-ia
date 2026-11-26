@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t1.md"
 type: "document"
-community: "Veille Chine 2026-11-14 : IA industrielle et infrastructure"
+community: "Dossier : Jouets dotés de chatbots IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-14__IA_industrielle_et_infrastructure
+  - community/Dossier__Jouets_dotés_de_chatbots_IA
 ---
 
 # Veille États-Unis 2026-11-09 : Régulation et politiques publiques
@@ -17,4 +17,4 @@ tags:
 - [[Inside Global Tech]] - `cites` [EXTRACTED]
 - [[News 5 Cleveland WEWS]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-14__IA_industrielle_et_infrastructure
+#graphify/document #graphify/EXTRACTED #community/Dossier__Jouets_dotés_de_chatbots_IA

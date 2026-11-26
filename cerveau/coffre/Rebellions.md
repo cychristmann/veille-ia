@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-25-t2.md"
 type: "concept"
-community: "CoreWeave"
+community: "Huawei"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/CoreWeave
+  - community/Huawei
 ---
 
 # Rebellions
@@ -14,4 +14,4 @@ tags:
 - [[SK Hynix]] - `references` [EXTRACTED]
 - [[Samsung]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/CoreWeave
+#graphify/concept #graphify/EXTRACTED #community/Huawei

@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-15-1.md"
 type: "document"
-community: "Dossier: Scandale Nvidia"
+community: "Jensen Huang"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Dossier_Scandale_Nvidia
+  - community/Jensen_Huang
 ---
 
 # Les investisseurs craignent que le secteur de l'IA ne perde les largesses de Nvidia après le départ de Huang
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Dossier Scandale Nvidia]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Dossier_Scandale_Nvidia
+#graphify/document #graphify/EXTRACTED #community/Jensen_Huang

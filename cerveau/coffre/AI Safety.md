@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-25-3.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-14 : Autres articles"
+community: "Hai"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-14__Autres_articles
+  - community/Hai
 ---
 
 # AI Safety
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Autres_articles
+#graphify/concept #graphify/EXTRACTED #community/Hai

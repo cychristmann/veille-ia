@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0021.md"
 type: "concept"
-community: "Hugging Face"
+community: "Claude"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Hugging_Face
+  - community/Claude
 ---
 
 # Feng Runhuan
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Feuilleton L'IA en tête des risques pour la stabilité financière]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Hugging_Face
+#graphify/concept #graphify/EXTRACTED #community/Claude

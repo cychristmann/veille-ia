@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-21-t5.md"
 type: "document"
-community: "Veille Chine 2026-11-21"
+community: "Veille Chine 2026-11-14 : IA industrielle et infrastructure"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-21
+  - community/Veille_Chine_2026-11-14__IA_industrielle_et_infrastructure
 ---
 
 # Veille Chine 2026-11-21
@@ -22,4 +22,4 @@ tags:
 - [[Moomoo]] - `references` [EXTRACTED]
 - [[Riemann Hypothesis]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-21
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-14__IA_industrielle_et_infrastructure

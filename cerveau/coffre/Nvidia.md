@@ -1,5 +1,5 @@
 ---
-source_file: "dossiers/2026-11-16-2.md"
+source_file: "veilles/veille-ia-us-2026-11-22-t3.md"
 type: "concept"
 community: "Nvidia"
 tags:
@@ -11,14 +11,15 @@ tags:
 # Nvidia
 
 ## Connections
+- [[AI Market Volatility]] - `conceptually_related_to` [EXTRACTED]
 - [[AI Overwatch Act]] - `references` [EXTRACTED]
+- [[Alibaba]] - `references` [EXTRACTED]
 - [[Anthropic]] - `conceptually_related_to` [INFERRED]
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Baird]] - `references` [EXTRACTED]
 - [[Blackwell]] - `references` [EXTRACTED]
 - [[Cambricon]] - `references` [INFERRED]
 - [[China]] - `references` [EXTRACTED]
-- [[Chine]] - `references` [EXTRACTED]
 - [[Chip Security Act]] - `references` [EXTRACTED]
 - [[Colette Kress]] - `references` [EXTRACTED]
 - [[CoreWeave]] - `conceptually_related_to` [INFERRED]
@@ -26,6 +27,7 @@ tags:
 - [[David Tepper]] - `references` [EXTRACTED]
 - [[Decart]] - `references` [EXTRACTED]
 - [[DeepSeek]] - `conceptually_related_to` [INFERRED]
+- [[Dell]] - `calls` [EXTRACTED]
 - [[Dell]] - `conceptually_related_to` [EXTRACTED]
 - [[Donald Trump]] - `references` [EXTRACTED]
 - [[Dossier  Nvidia désigné champion national de l’IA aux États‑Unis]] - `references` [EXTRACTED]
@@ -46,7 +48,6 @@ tags:
 - [[Jensen Huang]] - `references` [EXTRACTED]
 - [[Jensen Huang]] - `references` [EXTRACTED]
 - [[Libertify]] - `references` [EXTRACTED]
-- [[Marché de l'IA]] - `conceptually_related_to` [EXTRACTED]
 - [[Marchés financiers et IA]] - `conceptually_related_to` [INFERRED]
 - [[Match Act]] - `references` [EXTRACTED]
 - [[MetaX]] - `references` [INFERRED]
@@ -58,16 +59,21 @@ tags:
 - [[Projet Kessel]] - `references` [EXTRACTED]
 - [[Rubin]] - `references` [EXTRACTED]
 - [[SMIC]] - `conceptually_related_to` [INFERRED]
+- [[Southeast Asia]] - `references` [EXTRACTED]
 - [[SpaceX]] - `references` [EXTRACTED]
 - [[SpaceX]] - `shares_data_with` [INFERRED]
 - [[Starmind Project]] - `shares_data_with` [INFERRED]
 - [[Sunway]] - `shares_data_with` [EXTRACTED]
+- [[Super Micro]] - `calls` [EXTRACTED]
 - [[Tim Teter]] - `references` [EXTRACTED]
 - [[Trump Administration]] - `conceptually_related_to` [EXTRACTED]
 - [[Trump's AI task force]] - `references` [INFERRED]
-- [[U.S. Commerce Department]] - `references` [EXTRACTED]
+- [[US AI Chip Export Controls]] - `conceptually_related_to` [INFERRED]
+- [[US Department of Commerce]] - `references` [EXTRACTED]
+- [[US Department of Commerce]] - `references` [EXTRACTED]
 - [[US Government]] - `conceptually_related_to` [EXTRACTED]
 - [[US Restrictions on AI Chips]] - `references` [EXTRACTED]
+- [[United States]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-12  Marché financier et investissements IA]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-13]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - `references` [EXTRACTED]
@@ -95,6 +101,7 @@ tags:
 - [[Veille France 2026-11-22  Marchés et finance]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-24  Marché et investissements IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-25]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-26 (T1)]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-09 (Sécurité)]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-09  Autres articles]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-09  Déploiements et stratégies d’entreprise]] - `references` [EXTRACTED]
@@ -112,7 +119,6 @@ tags:
 - [[Veille États-Unis 2026-11-23  Marchés et investissements IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-24  Sécurité, Éthique & Régulation]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-25 (T2)]] - `references` [EXTRACTED]
-- [[Volatilité des marchés liée à l'IA]] - `conceptually_related_to` [EXTRACTED]
 - [[Wall Street]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Nvidia

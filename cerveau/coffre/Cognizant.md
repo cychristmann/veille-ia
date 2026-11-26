@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "code"
-community: "Adobe Creative Cloud"
+community: "Riemann Hypothesis"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Adobe_Creative_Cloud
+  - community/Riemann_Hypothesis
 ---
 
 # Cognizant
@@ -14,4 +14,4 @@ tags:
 - [[Claude]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-10]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Adobe_Creative_Cloud
+#graphify/code #graphify/EXTRACTED #community/Riemann_Hypothesis

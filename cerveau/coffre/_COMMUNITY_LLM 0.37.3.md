@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[LLM 0.37.3]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
-- [[SQLite]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[Kindo]] - concept - veilles/veille-ia-dev-2026-11-16-t4.md
+- [[Veille Outils & code 2026-11-16  Plateformes, marchés et produits IA]] - document - veilles/veille-ia-dev-2026-11-16-t4.md
 
 ## Live Query (requires Dataview plugin)
 

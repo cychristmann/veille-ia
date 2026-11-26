@@ -1,16 +1,15 @@
 ---
 type: community
-members: 3
+members: 2
 ---
 
 # Deletion Tuning
 
-**Members:** 3 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Veille Chine 2026-11-15  Éducation, formation et talents IA]] - document - veilles/veille-ia-cn-2026-11-15-t4.md
-- [[山东商务职业学院]] - concept - veilles/veille-ia-cn-2026-11-15-t4.md
-- [[广东“AI智能体”数字人才培训计划]] - concept - veilles/veille-ia-cn-2026-11-15-t4.md
+- [[Deletion Tuning]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
+- [[New York University]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
 
 ## Live Query (requires Dataview plugin)
 

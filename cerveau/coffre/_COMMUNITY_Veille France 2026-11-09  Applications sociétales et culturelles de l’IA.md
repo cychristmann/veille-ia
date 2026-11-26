@@ -24,7 +24,7 @@ SORT file.name ASC
 
 ## Connections to other communities
 - 1 edge to [[_COMMUNITY_Apple]]
-- 1 edge to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
 
 ## Top bridge nodes
 - [[Veille France 2026-11-09  Applications sociétales et culturelles de l’IA]] - degree 5, connects to 1 community

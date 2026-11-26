@@ -1,24 +1,26 @@
 ---
 type: community
-members: 11
+members: 13
 ---
 
 # ARTEX
 
-**Members:** 11 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[BlogNT]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
-- [[Brief IA]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
-- [[CNews]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
-- [[Fortuneo]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
-- [[FranceTransactions.com]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
-- [[Graphseo Bourse]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
-- [[Investing.com France]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
-- [[Le Figaro]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
-- [[Les Echos]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
-- [[Veille France 2026-11-20  IPO et dynamique du marché de l'IA]] - document - veilles/veille-ia-fr-2026-11-20-t1.md
-- [[Zonebourse]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[AI can help moms. It can’t replace the village]] - document - veilles/veille-ia-us-2026-11-25-t6.md
+- [[Asia’s stock markets dive as doubts swirl over AI boom]] - document - veilles/veille-ia-us-2026-11-25-t6.md
+- [[Bond investors see junk-grade risk in Anthropic]] - document - veilles/veille-ia-us-2026-11-25-t6.md
+- [[Crypto talent will return ‘when AI implodes,’ Arthur Hayes says]] - document - veilles/veille-ia-us-2026-11-25-t6.md
+- [[How Will AI Shake Up Your Growth Strategy]] - document - veilles/veille-ia-us-2026-11-25-t6.md
+- [[Is an ‘A.I. Agent’ Coming for Our Sourdough Starter]] - document - veilles/veille-ia-us-2026-11-25-t6.md
+- [[Opinion  America Hits the Brakes on AI]] - document - veilles/veille-ia-us-2026-11-25-t6.md
+- [[Rural Nebraska’s AI boom comes with side of skepticism]] - document - veilles/veille-ia-us-2026-11-25-t6.md
+- [[Students Say They Don’t Use AI in ‘Harmful’ Ways]] - document - veilles/veille-ia-us-2026-11-25-t6.md
+- [[The Morning Risk Report China’s AI Firms Are Hooked on Nvidia Chips]] - document - veilles/veille-ia-us-2026-11-25-t6.md
+- [[The downside of AI for investment analysis]] - document - veilles/veille-ia-us-2026-11-25-t6.md
+- [[Veille États-Unis 2026-11-25  Autres articles]] - document - veilles/veille-ia-us-2026-11-25-t6.md
+- [[Will We Learn to Trust AI Agents]] - document - veilles/veille-ia-us-2026-11-25-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,9 +28,3 @@ members: 11
 TABLE source_file, type FROM #community/ARTEX
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_David Tepper]]
-
-## Top bridge nodes
-- [[Veille France 2026-11-20  IPO et dynamique du marché de l'IA]] - degree 11, connects to 1 community

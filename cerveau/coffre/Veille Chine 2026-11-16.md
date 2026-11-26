@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-16-t4.md"
 type: "document"
-community: "IA et système financier"
+community: "Veille Chine 2026-11-18 : Régulation et gouvernance"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/IA_et_système_financier
+  - community/Veille_Chine_2026-11-18__Régulation_et_gouvernance
 ---
 
 # Veille Chine 2026-11-16
@@ -15,4 +15,4 @@ tags:
 - [[AI Market Dynamics]] - `references` [EXTRACTED]
 - [[AI Regulation and Ethics]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/IA_et_système_financier
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-18__Régulation_et_gouvernance

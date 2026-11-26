@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-18-t1.md"
 type: "document"
-community: "Cipher"
+community: "Veille États-Unis 2026-11-18 (T1)"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Cipher
+  - community/Veille_États-Unis_2026-11-18_T1
 ---
 
 # Veille États-Unis 2026-11-18 (T1)
@@ -16,4 +16,4 @@ tags:
 - [[Microsoft]] - `references` [EXTRACTED]
 - [[SID AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Cipher
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-18_T1

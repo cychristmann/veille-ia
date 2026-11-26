@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0038.md"
 type: "concept"
-community: "CoreWeave"
+community: "AMD"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/CoreWeave
+  - community/AMD
 ---
 
 # Processeur IA
@@ -14,4 +14,4 @@ tags:
 - [[AMD]] - `references` [EXTRACTED]
 - [[Intel]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/CoreWeave
+#graphify/concept #graphify/EXTRACTED #community/AMD

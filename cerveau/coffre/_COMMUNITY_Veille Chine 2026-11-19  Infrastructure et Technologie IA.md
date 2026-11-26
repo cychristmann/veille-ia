@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Arrow Electronics]] - concept - veilles/veille-ia-fr-2026-11-23-t2.md
-- [[Bureau Veritas]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
-- [[GPT-5.1]] - concept - veilles/veille-ia-fr-2026-11-23-t2.md
-- [[Seco]] - concept - veilles/veille-ia-fr-2026-11-23-t2.md
-- [[Topo Solutions]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
-- [[Veille France 2026-11-23  Adoption industrielle et entreprises]] - document - veilles/veille-ia-fr-2026-11-23-t2.md
+- [[DeepSeek API]] - concept - veilles/veille-ia-cn-2026-11-14-t6.md
+- [[Moomoo AI]] - concept - veilles/veille-ia-cn-2026-11-14-t6.md
+- [[SenseTime Raccoon (商汤小浣熊)]] - concept - veilles/veille-ia-cn-2026-11-19-t5.md
+- [[Tencent Hy4 Flash Model]] - concept - veilles/veille-ia-cn-2026-11-19-t5.md
+- [[Veille Chine 2026-11-14  Outils, plateformes et applications IA]] - document - veilles/veille-ia-cn-2026-11-14-t6.md
+- [[Veille Chine 2026-11-19  Infrastructure et Technologie IA]] - document - veilles/veille-ia-cn-2026-11-19-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,13 +23,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Microsoft]]
-- 1 edge to [[_COMMUNITY_Amazon]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_Apple]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-25]]
-- 1 edge to [[_COMMUNITY_CoreWeave]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-17]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-23  Adoption industrielle et entreprises]] - degree 10, connects to 7 communities
+- [[Tencent Hy4 Flash Model]] - degree 2, connects to 1 community

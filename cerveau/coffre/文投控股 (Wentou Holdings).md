@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-11-t4.md"
 type: "concept"
-community: "AWS Budgets"
+community: "IA dans l'enseignement supérieur"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AWS_Budgets
+  - community/IA_dans_lenseignement_supérieur
 ---
 
 # 文投控股 (Wentou Holdings)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-11 Régulation et gouvernance]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AWS_Budgets
+#graphify/concept #graphify/EXTRACTED #community/IA_dans_lenseignement_supérieur

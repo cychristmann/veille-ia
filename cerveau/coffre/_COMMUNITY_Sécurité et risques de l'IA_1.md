@@ -1,15 +1,17 @@
 ---
 type: community
-members: 2
+members: 4
 ---
 
 # Sécurité et risques de l'IA
 
-**Members:** 2 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Sécurité et risques de l'IA]] - concept - veilles/veille-ia-fr-2026-11-14-t4.md
-- [[Veille France 2026-11-14  Sécurité, risques et fraudes]] - document - veilles/veille-ia-fr-2026-11-14-t4.md
+- [[Veille Chine 2026-11-18  Régulation et gouvernance]] - document - veilles/veille-ia-cn-2026-11-18-t4.md
+- [[「万字长文」大模型异步 RL 框架的设计与权衡：从 Staleness 控制谈起]] - document - veilles/veille-ia-cn-2026-11-18-t4.md
+- [[惠誉：AI基础设施投资仍在扩大 商业化与投资回报待验证]] - document - veilles/veille-ia-cn-2026-11-18-t4.md
+- [[证监会澄清监管要求基金公司上报全部产品AI敞口传闻]] - document - veilles/veille-ia-cn-2026-11-18-t4.md
 
 ## Live Query (requires Dataview plugin)
 

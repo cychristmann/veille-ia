@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-25-t2.md"
 type: "concept"
-community: "AgentMon Live"
+community: "CoreWeave"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AgentMon_Live
+  - community/CoreWeave
 ---
 
 # La Revue française de Généalogie
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-25  Santé, médecine et recherche]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AgentMon_Live
+#graphify/concept #graphify/EXTRACTED #community/CoreWeave

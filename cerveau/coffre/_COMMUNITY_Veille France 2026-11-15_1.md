@@ -1,20 +1,26 @@
 ---
 type: community
-members: 7
+members: 13
 ---
 
 # Veille France 2026-11-15
 
-**Members:** 7 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[AI Cyberattack]] - concept - dossiers/2026-11-18-2.md
-- [[GCHQ]] - concept - dossiers/2026-11-18-2.md
-- [[GLM 5.2]] - concept - dossiers/2026-11-18-2.md
-- [[Hugging Face]] - concept - dossiers/2026-11-23-1.md
-- [[Irene Solaiman]] - concept - veilles/veille-ia-us-2026-11-10-t2.md
-- [[July 2026 AI Incident]] - concept - dossiers/2026-11-23-1.md
-- [[NCSC]] - concept - dossiers/2026-11-18-2.md
+- [[Fed (Réserve fédérale)]] - concept - veilles/veille-ia-fr-2026-11-14-t5.md
+- [[Financement et dette IA]] - concept - veilles/veille-ia-fr-2026-11-26-t4.md
+- [[Géopolitique de l'IA]] - concept - veilles/veille-ia-fr-2026-11-19-t6.md
+- [[IA dans l'éducation]] - concept - veilles/veille-ia-fr-2026-11-19-t6.md
+- [[IA dans le commerce et la consommation]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
+- [[IA dans le recrutement]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
+- [[IA et Responsabilité Sociétale des Entreprises]] - concept - veilles/veille-ia-fr-2026-11-26-t4.md
+- [[Réglementation de l'IA]] - concept - veilles/veille-ia-fr-2026-11-19-t6.md
+- [[Souveraineté numérique et IA]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
+- [[Veille France 2026-11-14  Autres articles]] - document - veilles/veille-ia-fr-2026-11-14-t5.md
+- [[Veille France 2026-11-16  Applications sectorielles et industrielles]] - document - veilles/veille-ia-fr-2026-11-16-t3.md
+- [[Veille France 2026-11-19  Autres articles]] - document - veilles/veille-ia-fr-2026-11-19-t6.md
+- [[Veille France 2026-11-26  Impact sociétal et économique]] - document - veilles/veille-ia-fr-2026-11-26-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,16 +30,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_Meta]]
-- 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_David Tepper]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-22]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-17]]
+- 1 edge to [[_COMMUNITY_Claude Code_2]]
+- 1 edge to [[_COMMUNITY_Dell]]
+- 1 edge to [[_COMMUNITY_Claude Code_1]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
 
 ## Top bridge nodes
-- [[Hugging Face]] - degree 9, connects to 5 communities
-- [[AI Cyberattack]] - degree 7, connects to 4 communities
-- [[July 2026 AI Incident]] - degree 2, connects to 1 community
+- [[Veille France 2026-11-26  Impact sociétal et économique]] - degree 6, connects to 2 communities
+- [[Veille France 2026-11-19  Autres articles]] - degree 5, connects to 2 communities

@@ -1,16 +1,16 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-14-t5.md"
 type: "document"
-community: "IA et système financier"
+community: "Veille France 2026-11-15"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/IA_et_système_financier
+  - community/Veille_France_2026-11-15
 ---
 
 # Veille France 2026-11-14 : Autres articles
 
 ## Connections
-- [[IA et système financier]] - `conceptually_related_to` [EXTRACTED]
+- [[Financement et dette IA]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/IA_et_système_financier
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-15

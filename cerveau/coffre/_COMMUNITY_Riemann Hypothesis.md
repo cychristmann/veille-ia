@@ -30,16 +30,15 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Claude]]
-- 3 edges to [[_COMMUNITY_David Tepper]]
-- 1 edge to [[_COMMUNITY_Claude Code_1]]
-- 1 edge to [[_COMMUNITY_Hypothèse de Riemann]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-22  Marchés et finance_1]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-21]]
-- 1 edge to [[_COMMUNITY_GPT-6 Astra_1]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
+- 5 edges to [[_COMMUNITY_Claude Code_2]]
+- 3 edges to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
+- 1 edge to [[_COMMUNITY_ASML]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-14  IA industrielle et infrastructure]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-22  Marchés et finance_2]]
+- 1 edge to [[_COMMUNITY_Signal]]
 
 ## Top bridge nodes
-- [[Levent Alpöge]] - degree 11, connects to 5 communities
+- [[Levent Alpöge]] - degree 11, connects to 4 communities
 - [[Riemann Hypothesis]] - degree 10, connects to 4 communities
 - [[Lean 4]] - degree 6, connects to 2 communities

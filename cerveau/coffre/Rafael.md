@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-11-t3.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-08"
+community: "AMD"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-08
+  - community/AMD
 ---
 
 # Rafael
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-11  Applications sectorielles de l'IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08
+#graphify/concept #graphify/EXTRACTED #community/AMD

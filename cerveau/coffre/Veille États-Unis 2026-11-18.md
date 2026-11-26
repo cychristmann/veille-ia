@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-18-t6.md"
 type: "document"
-community: "SpaceX"
+community: "Veille États-Unis 2026-11-18"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/SpaceX
+  - community/Veille_États-Unis_2026-11-18
 ---
 
 # Veille États-Unis 2026-11-18
@@ -23,4 +23,4 @@ tags:
 - [[U-M School of Information]] - `references` [EXTRACTED]
 - [[Wolters Kluwer]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/SpaceX
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-18

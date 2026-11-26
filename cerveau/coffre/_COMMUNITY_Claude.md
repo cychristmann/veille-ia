@@ -1,23 +1,37 @@
 ---
 type: community
-members: 10
+members: 24
 ---
 
 # Claude
 
-**Members:** 10 nodes
+**Members:** 24 nodes
 
 ## Members
-- [[Andrej Karpathy]] - concept - veilles/veille-ia-fr-2026-11-08-t4.md
-- [[Claude]] - concept - dossiers/2026-11-22-1.md
-- [[Danfoss]] - concept - dossiers/2026-11-18-2.md
-- [[HackerTube]] - concept - veilles/veille-ia-fr-2026-11-08-t4.md
-- [[Kimi-K2.6]] - concept - veilles/veille-ia-dev-2026-11-20-t4.md
-- [[Meta FAIR]] - concept - veilles/veille-ia-dev-2026-11-20-t4.md
-- [[Modèles d'IA MoE]] - concept - veilles/veille-ia-fr-2026-11-08-t4.md
-- [[Mythos 5.2]] - concept - feuilletons/f-0003.md
-- [[Veille France 2026-11-08  Applications concrètes et innovations IA]] - document - veilles/veille-ia-fr-2026-11-08-t4.md
-- [[Veille IA Dev 2026-11-20 T4]] - document - veilles/veille-ia-dev-2026-11-20-t4.md
+- [[AI Market Volatility]] - concept - veilles/veille-ia-us-2026-11-26-t2.md
+- [[Andrew Bailey]] - concept - dossiers/2026-11-14-2.md
+- [[Artificial Intelligence]] - concept - feuilletons/f-0021.md
+- [[Autorités chinoises]] - concept - dossiers/2026-11-14-2.md
+- [[Banque Centrale Européenne (BCE)]] - concept - dossiers/2026-11-14-2.md
+- [[BlackRock]] - concept - veilles/veille-ia-us-2026-11-19-t2.md
+- [[Centre international dédié à l'intelligence artificielle militaire (Rennes)]] - concept - veilles/veille-ia-fr-2026-11-23-t1.md
+- [[Comité de l'usage de l'intelligence artificielle (Santé)]] - concept - veilles/veille-ia-fr-2026-11-23-t1.md
+- [[Donald Trump]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
+- [[Dossier  IA  risque systémique pour la stabilité financière]] - document - dossiers/2026-11-14-2.md
+- [[Federal Reserve]] - concept - dossiers/2026-11-14-2.md
+- [[Feng Runhuan]] - concept - feuilletons/f-0021.md
+- [[Feuilleton L'IA en tête des risques pour la stabilité financière]] - document - feuilletons/f-0021.md
+- [[Financial Stability Board (FSB)]] - concept - dossiers/2026-11-14-2.md
+- [[Impact économique de l'IA]] - concept - veilles/veille-ia-us-2026-11-25-t1.md
+- [[Inquiétudes sur la dette liée à l'IA]] - concept - veilles/veille-ia-us-2026-11-25-t1.md
+- [[Larry Fink]] - concept - veilles/veille-ia-us-2026-11-19-t2.md
+- [[Risque systémique de l'IA]] - concept - dossiers/2026-11-14-2.md
+- [[South Korean Financial Watchdog]] - concept - veilles/veille-ia-us-2026-11-19-t2.md
+- [[USA]] - concept - dossiers/2026-11-25-3.md
+- [[Veille France 2026-11-23  Régulation et gouvernance]] - document - veilles/veille-ia-fr-2026-11-23-t1.md
+- [[Veille États-Unis 2026-11-19  Régulation et politique]] - document - veilles/veille-ia-us-2026-11-19-t2.md
+- [[Veille États-Unis 2026-11-25  Impact économique et marchés]] - document - veilles/veille-ia-us-2026-11-25-t1.md
+- [[Veille États-Unis 2026-11-26  Impact économique et marché]] - document - veilles/veille-ia-us-2026-11-26-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -27,20 +41,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_Riemann Hypothesis]]
-- 4 edges to [[_COMMUNITY_David Tepper]]
-- 2 edges to [[_COMMUNITY_Qwen4-Max_1]]
-- 2 edges to [[_COMMUNITY_Hypothèse de Riemann]]
-- 2 edges to [[_COMMUNITY_Adobe Creative Cloud]]
+- 2 edges to [[_COMMUNITY_Nvidia]]
+- 2 edges to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
 - 1 edge to [[_COMMUNITY_Claude Code_1]]
-- 1 edge to [[_COMMUNITY_GPT-6 Astra_1]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-22]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-20  Applications sociétales et culturelles de l’IA]]
-- 1 edge to [[_COMMUNITY_Model Context Protocol (MCP)_1]]
-- 1 edge to [[_COMMUNITY_Ministry of Education]]
 
 ## Top bridge nodes
-- [[Claude]] - degree 24, connects to 12 communities
-- [[Veille France 2026-11-08  Applications concrètes et innovations IA]] - degree 4, connects to 1 community
-- [[Mythos 5.2]] - degree 2, connects to 1 community
+- [[Donald Trump]] - degree 5, connects to 3 communities
+- [[AI Market Volatility]] - degree 5, connects to 2 communities

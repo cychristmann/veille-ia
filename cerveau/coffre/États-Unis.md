@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0037.md"
 type: "concept"
-community: "États-Unis"
+community: "Veille France 2026-11-19 : Autres articles"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/États-Unis
+  - community/Veille_France_2026-11-19__Autres_articles
 ---
 
 # États-Unis
@@ -16,4 +16,4 @@ tags:
 - [[Modèles IA Chinois]] - `references` [EXTRACTED]
 - [[Président Trump]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/États-Unis
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-19__Autres_articles

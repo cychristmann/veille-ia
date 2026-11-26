@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-13-1.md"
 type: "concept"
-community: "Veille France 2026-11-22 : Industrie et infrastructure"
+community: "Veille États-Unis 2026-11-14 : Autres articles"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-22__Industrie_et_infrastructure
+  - community/Veille_États-Unis_2026-11-14__Autres_articles
 ---
 
 # Arm
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-22__Industrie_et_infrastructure
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Autres_articles

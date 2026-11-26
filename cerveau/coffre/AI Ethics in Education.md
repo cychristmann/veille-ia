@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-15-t1.md"
 type: "concept"
-community: "Ministry of Education"
+community: "This Is Unreal (Spectacle)"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Ministry_of_Education
+  - community/This_Is_Unreal_Spectacle
 ---
 
 # AI Ethics in Education
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-15  Scandale de triche à l'IA]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Ministry_of_Education
+#graphify/concept #graphify/EXTRACTED #community/This_Is_Unreal_Spectacle

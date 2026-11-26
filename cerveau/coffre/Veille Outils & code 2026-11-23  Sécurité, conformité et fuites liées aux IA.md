@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-23-t3.md"
 type: "document"
-community: "Veille France 2026-11-16"
+community: "Ministry of Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-16
+  - community/Ministry_of_Education
 ---
 
 # Veille Outils & code 2026-11-23 : Sécurité, conformité et fuites liées aux IA
@@ -21,4 +21,4 @@ tags:
 - [[RunPod]] - `references` [EXTRACTED]
 - [[Together AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-16
+#graphify/document #graphify/EXTRACTED #community/Ministry_of_Education

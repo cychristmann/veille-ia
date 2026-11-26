@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[AI Automation]] - concept - dossiers/2026-11-17-3.md
-- [[Job Market]] - concept - dossiers/2026-11-17-3.md
-- [[Policy Responses]] - concept - dossiers/2026-11-17-3.md
+- [[Culture Numérique]] - concept - veilles/veille-ia-cn-2026-11-24-t5.md
+- [[Tongji University (同济大学)]] - concept - veilles/veille-ia-cn-2026-11-24-t5.md
+- [[Veille Chine 2026-11-24  Recherche académique et collaborations]] - document - veilles/veille-ia-cn-2026-11-24-t5.md
 
 ## Live Query (requires Dataview plugin)
 

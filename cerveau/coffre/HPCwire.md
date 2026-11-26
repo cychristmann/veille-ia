@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-24-t5.md"
 type: "concept"
-community: "Veille France 2026-11-24 : Régulation, gouvernance et sécurité IA"
+community: "AI Governance"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-24__Régulation_gouvernance_et_sécurité_IA
+  - community/AI_Governance
 ---
 
 # HPCwire
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[SeoulTech Researchers Develop Smarter Way to Handle Tokens in Long-Context AI]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-24__Régulation_gouvernance_et_sécurité_IA
+#graphify/concept #graphify/EXTRACTED #community/AI_Governance

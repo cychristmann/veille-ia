@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-25-3.md"
 type: "concept"
-community: "Hugging Face"
+community: "Claude"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/Hugging_Face
+  - community/Claude
 ---
 
 # USA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Donald Trump]] - `references` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/Hugging_Face
+#graphify/concept #graphify/INFERRED #community/Claude

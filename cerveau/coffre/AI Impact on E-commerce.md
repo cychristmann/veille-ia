@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-25-t1.md"
 type: "concept"
-community: "Veille France 2026-11-19 : Autres articles"
+community: "Dossier : IA générative : un nouveau vecteur de menaces nucléaires"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-19__Autres_articles
+  - community/Dossier__IA_générative__un_nouveau_vecteur_de_menaces_nucléaires
 ---
 
 # AI Impact on E-commerce
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-25  Médias, divertissement et communication]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-19__Autres_articles
+#graphify/concept #graphify/EXTRACTED #community/Dossier__IA_générative__un_nouveau_vecteur_de_menaces_nucléaires

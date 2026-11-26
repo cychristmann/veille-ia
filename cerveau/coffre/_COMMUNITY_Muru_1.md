@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Muru]] - concept - veilles/veille-ia-dev-2026-11-23-t1.md
+- [[Claude Sheets]] - concept - veilles/veille-ia-dev-2026-11-12-t1.md
 
 ## Live Query (requires Dataview plugin)
 

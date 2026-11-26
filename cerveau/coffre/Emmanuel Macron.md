@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-24-3.md"
 type: "concept"
-community: "AI Act"
+community: "Emmanuel Macron"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AI_Act
+  - community/Emmanuel_Macron
 ---
 
 # Emmanuel Macron
@@ -17,4 +17,4 @@ tags:
 - [[Veille France 2026-11-10  Régulation et gouvernance]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-15]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AI_Act
+#graphify/concept #graphify/EXTRACTED #community/Emmanuel_Macron

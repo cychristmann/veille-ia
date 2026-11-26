@@ -8,7 +8,7 @@ members: 14
 **Members:** 14 nodes
 
 ## Members
-- [[Agent Compute Engine]] - concept - veilles/veille-ia-us-2026-11-22-t1.md
+- [[Agent Compute Engine]] - concept - veilles/veille-ia-dev-2026-11-22-t1.md
 - [[Amazon]] - concept - dossiers/2026-11-24-3.md
 - [[Amazon Employees for Climate Justice]] - concept - veilles/veille-ia-us-2026-11-22-t1.md
 - [[Decart]] - concept - veilles/veille-ia-fr-2026-11-23-t2.md
@@ -33,19 +33,20 @@ SORT file.name ASC
 ## Connections to other communities
 - 3 edges to [[_COMMUNITY_Comité d'experts français]]
 - 3 edges to [[_COMMUNITY_Nvidia]]
-- 2 edges to [[_COMMUNITY_David Tepper]]
 - 2 edges to [[_COMMUNITY_Google]]
+- 2 edges to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
 - 1 edge to [[_COMMUNITY_Microsoft]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-22]]
+- 1 edge to [[_COMMUNITY_SpaceX]]
 - 1 edge to [[_COMMUNITY_Mistral]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-19  Infrastructure et Technologie IA]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18  IA appliquée aux secteurs spécifiques_1]]
-- 1 edge to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_Tencent]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-23  Adoption industrielle et entreprises]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18  IA appliquée aux secteurs spécifiques]]
+- 1 edge to [[_COMMUNITY_Microsoft_1]]
+- 1 edge to [[_COMMUNITY_Claude Code_1]]
+- 1 edge to [[_COMMUNITY_Tencent_1]]
+- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen_1]]
 
 ## Top bridge nodes
-- [[Amazon]] - degree 15, connects to 4 communities
+- [[Amazon]] - degree 16, connects to 5 communities
 - [[Trump Administration]] - degree 6, connects to 4 communities
 - [[Decart]] - degree 7, connects to 2 communities
 - [[Agent Compute Engine]] - degree 3, connects to 2 communities

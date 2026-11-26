@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[datasette-cluster-map]] - concept - veilles/veille-ia-dev-2026-11-15-t4.md
-- [[datasette-leaflet]] - concept - veilles/veille-ia-dev-2026-11-15-t4.md
+- [[IA dans l'enseignement supérieur]] - concept - veilles/veille-ia-cn-2026-11-13-t1.md
+- [[Veille Chine 2026-11-13  Éducation et formation]] - document - veilles/veille-ia-cn-2026-11-13-t1.md
 
 ## Live Query (requires Dataview plugin)
 

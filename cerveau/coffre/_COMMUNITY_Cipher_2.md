@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Entire]] - concept - veilles/veille-ia-dev-2026-11-25-t4.md
-- [[Sarvam]] - concept - veilles/veille-ia-dev-2026-11-25-t4.md
-- [[Veille Outils & code 2026-11-25  Collaborations et partenariats stratégiques]] - document - veilles/veille-ia-dev-2026-11-25-t4.md
+- [[Cipher]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
+- [[IREN]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
+- [[TeraWulf]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
 
 ## Live Query (requires Dataview plugin)
 

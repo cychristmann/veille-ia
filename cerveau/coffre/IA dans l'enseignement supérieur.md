@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-13-t1.md"
 type: "concept"
-community: "IA dans l'enseignement supérieur"
+community: "S&P 500"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/IA_dans_lenseignement_supérieur
+  - community/SP_500
 ---
 
 # IA dans l'enseignement supérieur
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-13  Éducation et formation]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/IA_dans_lenseignement_supérieur
+#graphify/concept #graphify/EXTRACTED #community/SP_500

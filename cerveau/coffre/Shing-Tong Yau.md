@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0036.md"
 type: "concept"
-community: "Hypothèse de Riemann"
+community: "Claude Code"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Hypothèse_de_Riemann
+  - community/Claude_Code
 ---
 
 # Shing-Tong Yau
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Hypothèse de Riemann]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Hypothèse_de_Riemann
+#graphify/concept #graphify/EXTRACTED #community/Claude_Code

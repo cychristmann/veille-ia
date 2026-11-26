@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-20-t3.md"
 type: "document"
-community: "Qwen4-Max"
+community: "Veille IA Dev 2026-11-20 T3"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Qwen4-Max
+  - community/Veille_IA_Dev_2026-11-20_T3
 ---
 
 # Veille IA Dev 2026-11-20 T3
@@ -17,4 +17,4 @@ tags:
 - [[Ploy AI Gateway]] - `references` [EXTRACTED]
 - [[Supermicro]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Qwen4-Max
+#graphify/document #graphify/EXTRACTED #community/Veille_IA_Dev_2026-11-20_T3

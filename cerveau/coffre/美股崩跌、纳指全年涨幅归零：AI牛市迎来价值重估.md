@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-23-t5.md"
 type: "concept"
-community: "Goldman Sachs"
+community: "Veille Outils & code 2026-11-14"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Goldman_Sachs
+  - community/Veille_Outils__code_2026-11-14
 ---
 
 # 美股崩跌、纳指全年涨幅归零：AI牛市迎来价值重估
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-23  Politiques, tendances et perspectives sectorielles IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Goldman_Sachs
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-14

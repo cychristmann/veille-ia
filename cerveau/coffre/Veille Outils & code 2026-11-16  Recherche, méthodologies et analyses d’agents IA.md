@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-16-t5.md"
 type: "document"
-community: "Le Monde Informatique"
+community: "Skeleton"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Le_Monde_Informatique
+  - community/Skeleton
 ---
 
 # Veille Outils & code 2026-11-16 : Recherche, méthodologies et analyses d’agents IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Enterprise RAG Systems]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Le_Monde_Informatique
+#graphify/document #graphify/EXTRACTED #community/Skeleton

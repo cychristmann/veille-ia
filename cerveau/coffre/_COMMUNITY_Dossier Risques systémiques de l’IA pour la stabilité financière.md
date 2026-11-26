@@ -1,25 +1,23 @@
 ---
 type: community
-members: 12
+members: 10
 ---
 
 # Dossier: Risques systémiques de l’IA pour la stabilité financière
 
-**Members:** 12 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[AEX360]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
-- [[Architecture Turing (VLA 3.0)]] - concept - feuilletons/f-0049.md
-- [[Feuilleton Xpeng dévoile l'architecture d'IA incarnée Turing et le co‑pilot IA]] - document - feuilletons/f-0049.md
-- [[He Xiaopeng]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
-- [[System 0 (Instinct)]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
-- [[System 1 (Cerebellum)]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
-- [[System 2 (Brain)]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
-- [[Turing AI Co-driving]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
-- [[Turing Embodied AI Architecture (VLA 3.0)]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
-- [[VLA Adaptive Deceleration]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
-- [[X-VMC 2.0]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
-- [[Xpeng]] - code - feuilletons/f-0049.md
+- [[Comité de stabilité financière (FSB)]] - concept - dossiers/2026-11-16-3.md
+- [[Dossier Risques systémiques de l’IA pour la stabilité financière]] - document - dossiers/2026-11-16-3.md
+- [[Financement des data-centers]] - concept - dossiers/2026-11-16-3.md
+- [[Fonds Monétaire International (FMI)]] - concept - dossiers/2026-11-16-3.md
+- [[National Financial Regulatory Administration (China)]] - concept - dossiers/2026-11-16-3.md
+- [[Risque financier lié à l'IA]] - concept - dossiers/2026-11-16-3.md
+- [[Réserve fédérale américaine (Fed)]] - concept - dossiers/2026-11-16-3.md
+- [[fr.businessam.be]] - document - dossiers/2026-11-16-3.md
+- [[leconomistemaghrebin.com]] - document - dossiers/2026-11-16-3.md
+- [[zonebourse.com]] - document - dossiers/2026-11-16-3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -27,3 +25,9 @@ members: 12
 TABLE source_file, type FROM #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_AI Act]]
+
+## Top bridge nodes
+- [[Risque financier lié à l'IA]] - degree 5, connects to 1 community

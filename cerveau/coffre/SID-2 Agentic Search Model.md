@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-18-t1.md"
 type: "concept"
-community: "Cipher"
+community: "Veille États-Unis 2026-11-18 (T1)"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Cipher
+  - community/Veille_États-Unis_2026-11-18_T1
 ---
 
 # SID-2 Agentic Search Model
@@ -14,4 +14,4 @@ tags:
 - [[SID AI]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-18]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Cipher
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-18_T1

@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille États-Unis 2026-11-10 : Régulation, sécurité et éthique
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Dossier  Preuve assistée par IA de l’hypothèse de Riemann]] - document - dossiers/2026-11-22-1.md
+- [[Agent Investigations]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[groundcover]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
 
 ## Live Query (requires Dataview plugin)
 

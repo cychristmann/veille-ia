@@ -12,5 +12,6 @@ tags:
 
 ## Connections
 - [[Kessel]] - `references` [EXTRACTED]
+- [[Project Starmind]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/SpaceX

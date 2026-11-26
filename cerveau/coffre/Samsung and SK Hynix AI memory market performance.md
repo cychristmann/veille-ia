@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-22-t6.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-18 : IA appliquée aux secteurs spécifiques"
+community: "Veille Chine 2026-11-11 : Marchés et investissements"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-18__IA_appliquée_aux_secteurs_spécifiques
+  - community/Veille_Chine_2026-11-11__Marchés_et_investissements
 ---
 
 # Samsung and SK Hynix AI memory market performance
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-22  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-18__IA_appliquée_aux_secteurs_spécifiques
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-11__Marchés_et_investissements

@@ -1,19 +1,16 @@
 ---
 type: community
-members: 6
+members: 3
 ---
 
 # Cipher
 
-**Members:** 6 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Feuilleton SID AI lance le modèle de recherche agentique SID-2]] - document - feuilletons/f-0031.md
-- [[MarkTechPost]] - concept - feuilletons/f-0031.md
-- [[SID AI]] - concept - feuilletons/f-0031.md
-- [[SID-2]] - concept - feuilletons/f-0031.md
-- [[SID-2 Agentic Search Model]] - concept - veilles/veille-ia-dev-2026-11-18-t1.md
-- [[Veille États-Unis 2026-11-18 (T1)]] - document - veilles/veille-ia-us-2026-11-18-t1.md
+- [[Brave]] - concept - veilles/veille-ia-us-2026-11-09-t6.md
+- [[NEAR AI]] - concept - veilles/veille-ia-us-2026-11-09-t6.md
+- [[Veille États-Unis 2026-11-09  Autres articles]] - document - veilles/veille-ia-us-2026-11-09-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,11 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Microsoft]]
-- 1 edge to [[_COMMUNITY_AMD]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-23  Marchés et investissements IA]]
-- 1 edge to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
 
 ## Top bridge nodes
-- [[Veille États-Unis 2026-11-18 (T1)]] - degree 4, connects to 3 communities
-- [[SID-2 Agentic Search Model]] - degree 2, connects to 1 community
+- [[Veille États-Unis 2026-11-09  Autres articles]] - degree 3, connects to 1 community

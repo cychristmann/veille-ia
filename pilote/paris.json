@@ -592,7 +592,7 @@
    "id": "2026-11-21-2",
    "date": "2026-11-21",
    "echeance": "2026-11-26",
-   "statut": "en_cours",
+   "statut": "gagne",
    "entite": "Amazon",
    "sections": [
     "us",
@@ -608,7 +608,9 @@
    "rejoue": false,
    "probabilite_ia": 0.71,
    "probabilite_stat": 0.17,
-   "historique": "1/10"
+   "historique": "1/10",
+   "observe": 6,
+   "resolu_le": "2026-11-26"
   },
   {
    "id": "2026-11-21-3",
@@ -685,7 +687,7 @@
    "id": "2026-11-22-3",
    "date": "2026-11-22",
    "echeance": "2026-11-26",
-   "statut": "en_cours",
+   "statut": "perdu",
    "entite": "Agents IA",
    "sections": [
     "cn"
@@ -700,7 +702,9 @@
    "rejoue": false,
    "probabilite_ia": 0.61,
    "probabilite_stat": 0.08,
-   "historique": "0/10"
+   "historique": "0/10",
+   "observe": 4,
+   "resolu_le": "2026-11-26"
   },
   {
    "id": "2026-11-23-1",
@@ -794,7 +798,7 @@
    "id": "2026-11-24-2",
    "date": "2026-11-24",
    "echeance": "2026-11-26",
-   "statut": "en_cours",
+   "statut": "gagne",
    "entite": "Claude Code",
    "sections": [
     "dev"
@@ -809,7 +813,9 @@
    "rejoue": false,
    "probabilite_ia": 0.58,
    "probabilite_stat": 0.29,
-   "historique": "3/12"
+   "historique": "3/12",
+   "observe": 10,
+   "resolu_le": "2026-11-26"
   },
   {
    "id": "2026-11-24-3",
@@ -875,6 +881,51 @@
    "probabilite_ia": 0.57,
    "probabilite_stat": 0.6,
    "historique": "8/13",
+   "methode": "melange"
+  },
+  {
+   "id": "2026-11-26-1",
+   "date": "2026-11-26",
+   "echeance": "2026-12-01",
+   "statut": "en_cours",
+   "entite": "GitHub",
+   "sections": [
+    "dev"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 14,
+   "horizon": 5,
+   "probabilite": 0.58,
+   "enonce": "GitHub : au moins 14 articles (Outils & code) sur les 5 prochains jours",
+   "raisonnement": "Le lancement prévu de GitHub Copilot Enterprise (début décembre) crée un engouement médiatique qui devrait dépasser le seuil.",
+   "phrase_ia": "GitHub comptera au moins 14 articles dans la section Outils & code sur les 5 prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.61,
+   "probabilite_stat": 0.62,
+   "historique": "7/11",
+   "methode": "melange"
+  },
+  {
+   "id": "2026-11-26-2",
+   "date": "2026-11-26",
+   "echeance": "2026-11-28",
+   "statut": "en_cours",
+   "entite": "Claude Ship",
+   "sections": [
+    "fr",
+    "dev"
+   ],
+   "comparaison": "au_plus",
+   "seuil": 5,
+   "horizon": 2,
+   "probabilite": 0.67,
+   "enonce": "Claude Ship : au plus 5 articles (France et Outils & code) sur les 2 prochains jours",
+   "raisonnement": "Après un pic soudain de 11 articles hier, l'intérêt devrait rapidement diminuer, rendant un total inférieur à 5 très probable.",
+   "phrase_ia": "Claude Ship comptera au plus 5 articles dans les sections France et Outils & code sur les 2 prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.66,
+   "probabilite_stat": 0.8,
+   "historique": "15/18",
    "methode": "melange"
   }
  ]

@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Gemini Spark]] - concept - veilles/veille-ia-dev-2026-11-23-t2.md
+- [[Azure]] - concept - dossiers/2026-11-23-3.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,13 +1,13 @@
 ---
 source_file: "feuilletons/f-0048.md"
 type: "document"
-community: "Veille Outils & code 2026-11-21 : Plateformes et intégrations IA"
+community: "Trust3 AI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-21__Plateformes_et_intégrations_IA
+  - community/Trust3_AI
 ---
 
 # French.people.cn
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-21__Plateformes_et_intégrations_IA
+#graphify/document #graphify/EXTRACTED #community/Trust3_AI

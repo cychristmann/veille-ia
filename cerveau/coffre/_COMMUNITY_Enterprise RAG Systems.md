@@ -1,15 +1,17 @@
 ---
 type: community
-members: 2
+members: 4
 ---
 
 # Enterprise RAG Systems
 
-**Members:** 2 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[AI Ethics, Security and Regulation]] - concept - veilles/veille-ia-cn-2026-11-14-t4.md
-- [[Veille Chine 2026-11-14  Éthique, sécurité et réglementation IA]] - document - veilles/veille-ia-cn-2026-11-14-t4.md
+- [[AI麦可 (AI Maike)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
+- [[Veille Chine 2026-11-16  Applications sectorielles]] - document - veilles/veille-ia-cn-2026-11-16-t3.md
+- [[豆包工作 (Doubao Work)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
+- [[豆包工作台 (Doubao Workbench)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-20-t2.md"
 type: "document"
-community: "Apple"
+community: "Dossier : IA générative : un nouveau vecteur de menaces nucléaires"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Apple
+  - community/Dossier__IA_générative__un_nouveau_vecteur_de_menaces_nucléaires
 ---
 
 # Veille France 2026-11-20
@@ -21,4 +21,4 @@ tags:
 - [[TikTok]] - `references` [EXTRACTED]
 - [[Zevra]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Apple
+#graphify/document #graphify/EXTRACTED #community/Dossier__IA_générative__un_nouveau_vecteur_de_menaces_nucléaires

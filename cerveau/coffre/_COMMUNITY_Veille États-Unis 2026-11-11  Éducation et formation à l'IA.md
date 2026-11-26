@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-11 : Éducation et formation à l'IA
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[DATAW.AI]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
-- [[RWIP]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
+- [[Gemini Spark]] - concept - veilles/veille-ia-dev-2026-11-23-t2.md
 
 ## Live Query (requires Dataview plugin)
 

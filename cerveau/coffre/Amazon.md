@@ -19,6 +19,7 @@ tags:
 - [[Globalstar]] - `references` [EXTRACTED]
 - [[Google Pixel 11]] - `references` [EXTRACTED]
 - [[MGM]] - `references` [EXTRACTED]
+- [[Project Starmind]] - `references` [EXTRACTED]
 - [[Trump Administration]] - `conceptually_related_to` [EXTRACTED]
 - [[Veille Chine 2026-11-22  Business, investissements et marché IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-18  Sécurité et cyber‑menaces IA]] - `references` [EXTRACTED]

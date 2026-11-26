@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Feuilleton  Microsoft impulsa standards ouverts de transparence pour agents IA]] - document - feuilletons/f-0039.md
-- [[Foro3D]] - concept - feuilletons/f-0039.md
+- [[Enterprise RAG Systems]] - concept - veilles/veille-ia-dev-2026-11-16-t5.md
+- [[Veille Outils & code 2026-11-16  Recherche, méthodologies et analyses d’agents IA]] - document - veilles/veille-ia-dev-2026-11-16-t5.md
 
 ## Live Query (requires Dataview plugin)
 

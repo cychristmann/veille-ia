@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-16-t4.md"
 type: "concept"
-community: "Qwen4-Max"
+community: "Veille Outils & code 2026-11-21"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Qwen4-Max
+  - community/Veille_Outils__code_2026-11-21
 ---
 
 # Qwen4-Max
@@ -17,4 +17,4 @@ tags:
 - [[Veille Outils & code 2026-11-17 (T3)]] - `references` [EXTRACTED]
 - [[Vercel]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Qwen4-Max
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-21

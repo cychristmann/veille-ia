@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Agent Client Protocol (ACP)]] - concept - veilles/veille-ia-dev-2026-11-20-t2.md
-- [[Symposium]] - concept - veilles/veille-ia-dev-2026-11-20-t2.md
+- [[AI Ethics]] - concept - feuilletons/f-0047.md
+- [[Feuilleton Expériences d'IA désignant des civils comme cibles militaires]] - document - feuilletons/f-0047.md
 
 ## Live Query (requires Dataview plugin)
 

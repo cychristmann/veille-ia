@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-11-t1.md"
 type: "concept"
-community: "CoreWeave"
+community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/CoreWeave
+  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
 ---
 
 # CoreWeave
@@ -22,4 +22,4 @@ tags:
 - [[Veille France 2026-11-12  Marchés financiers et investissements IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-11  Financement et Bourse de l'IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/INFERRED #community/CoreWeave
+#graphify/concept #graphify/INFERRED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière

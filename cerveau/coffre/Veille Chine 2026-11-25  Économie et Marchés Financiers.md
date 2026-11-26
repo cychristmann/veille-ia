@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-25-t2.md"
 type: "document"
-community: "Microsoft"
+community: "Dell"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Microsoft
+  - community/Dell
 ---
 
 # Veille Chine 2026-11-25 : Économie et Marchés Financiers
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Dell]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Microsoft
+#graphify/document #graphify/EXTRACTED #community/Dell

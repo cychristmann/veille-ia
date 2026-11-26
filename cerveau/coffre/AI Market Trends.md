@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-17-t3.md"
 type: "concept"
-community: "Veille Chine 2026-11-17 : Marché, financement et régulation"
+community: "Veille France 2026-11-22 : Marchés et finance"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/Veille_Chine_2026-11-17__Marché_financement_et_régulation
+  - community/Veille_France_2026-11-22__Marchés_et_finance
 ---
 
 # AI Market Trends
@@ -18,4 +18,4 @@ tags:
 - [[SpaceX]] - `conceptually_related_to` [INFERRED]
 - [[Suno]] - `conceptually_related_to` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/Veille_Chine_2026-11-17__Marché_financement_et_régulation
+#graphify/concept #graphify/INFERRED #community/Veille_France_2026-11-22__Marchés_et_finance

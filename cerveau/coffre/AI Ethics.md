@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0047.md"
 type: "concept"
-community: "Wuhan University of Science and Technology"
+community: "Agent Client Protocol (ACP)"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Wuhan_University_of_Science_and_Technology
+  - community/Agent_Client_Protocol_ACP
 ---
 
 # AI Ethics
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Feuilleton Expériences d'IA désignant des civils comme cibles militaires]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Wuhan_University_of_Science_and_Technology
+#graphify/concept #graphify/EXTRACTED #community/Agent_Client_Protocol_ACP

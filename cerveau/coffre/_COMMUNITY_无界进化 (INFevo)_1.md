@@ -1,19 +1,18 @@
 ---
 type: community
-members: 6
+members: 5
 ---
 
 # 无界进化 (INFevo)
 
-**Members:** 6 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Hackers Compromise 24 Check Point Management Servers]] - document - veilles/veille-ia-us-2026-11-25-t4.md
-- [[Is AI destroying the arts These Tampa Bay professors are mixed]] - document - veilles/veille-ia-us-2026-11-25-t4.md
-- [[Rome forum explores how AI can serve Catholicism]] - document - veilles/veille-ia-us-2026-11-25-t4.md
-- [[Veille États-Unis 2026-11-25  Régulation, éthique et société]] - document - veilles/veille-ia-us-2026-11-25-t4.md
-- [[Vorys’ Legal AI Advancements Featured on 60 Minutes]] - document - veilles/veille-ia-us-2026-11-25-t4.md
-- [[When AI Makes a Mistake, Who Is Held Accountable]] - document - veilles/veille-ia-us-2026-11-25-t4.md
+- [[Brookings Institution]] - concept - dossiers/2026-11-23-2.md
+- [[Chen Yixin]] - concept - dossiers/2026-11-23-2.md
+- [[Dossier  IA générative  un nouveau vecteur de menaces nucléaires]] - document - dossiers/2026-11-23-2.md
+- [[John Ratcliffe]] - concept - dossiers/2026-11-23-2.md
+- [[Université de Fudan]] - concept - dossiers/2026-11-23-2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,3 +20,10 @@ members: 6
 TABLE source_file, type FROM #community/无界进化_INFevo
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
+- 1 edge to [[_COMMUNITY_Claude Code_1]]
+
+## Top bridge nodes
+- [[Dossier  IA générative  un nouveau vecteur de menaces nucléaires]] - degree 6, connects to 2 communities

@@ -1,17 +1,15 @@
 ---
 type: community
-members: 4
+members: 2
 ---
 
 # Sécurité et risques de l'IA
 
-**Members:** 4 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[GTM.AI API]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
-- [[Piper]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
-- [[Qualified]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
-- [[ZoomInfo]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[Bland]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[Tofu-1]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
 
 ## Live Query (requires Dataview plugin)
 

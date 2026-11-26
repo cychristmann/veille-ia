@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Infrastructure IA (Cloud, Supercalculateurs, Centres de données)]] - concept - veilles/veille-ia-fr-2026-11-20-t5.md
-- [[Surveillance et interprétabilité des modèles d'IA]] - concept - veilles/veille-ia-fr-2026-11-20-t5.md
-- [[Veille France 2026-11-20  Infrastructure, technologie et performance]] - document - veilles/veille-ia-fr-2026-11-20-t5.md
+- [[AI Governance and Security]] - concept - veilles/veille-ia-us-2026-11-20-t3.md
+- [[Trahan AI Safety Framework]] - concept - veilles/veille-ia-us-2026-11-20-t3.md
+- [[Veille États-Unis 2026-11-20  Gouvernance, sécurité et régulation]] - document - veilles/veille-ia-us-2026-11-20-t3.md
 
 ## Live Query (requires Dataview plugin)
 

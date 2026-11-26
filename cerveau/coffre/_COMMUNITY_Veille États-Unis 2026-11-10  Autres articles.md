@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Artifact AI]] - concept - veilles/veille-ia-us-2026-11-10-t7.md
-- [[Veille États-Unis 2026-11-10  Autres articles]] - document - veilles/veille-ia-us-2026-11-10-t7.md
-- [[Venture Global]] - concept - veilles/veille-ia-us-2026-11-10-t7.md
+- [[AI Automation]] - concept - dossiers/2026-11-17-3.md
+- [[Job Market]] - concept - dossiers/2026-11-17-3.md
+- [[Policy Responses]] - concept - dossiers/2026-11-17-3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,9 +18,3 @@ members: 3
 TABLE source_file, type FROM #community/Veille_États-Unis_2026-11-10__Autres_articles
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_David Tepper]]
-
-## Top bridge nodes
-- [[Veille États-Unis 2026-11-10  Autres articles]] - degree 3, connects to 1 community

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "code"
-community: "Adobe Creative Cloud"
+community: "Riemann Hypothesis"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Adobe_Creative_Cloud
+  - community/Riemann_Hypothesis
 ---
 
 # Adobe Firefly
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Adobe Creative Cloud]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Adobe_Creative_Cloud
+#graphify/code #graphify/EXTRACTED #community/Riemann_Hypothesis

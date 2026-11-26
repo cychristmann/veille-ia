@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-25-t6.md"
+source_file: "veilles/veille-ia-cn-2026-11-26-t1.md"
 type: "concept"
 community: "AI Governance"
 tags:
@@ -17,6 +17,7 @@ tags:
 - [[Li Qiang]] - `references` [EXTRACTED]
 - [[Microsoft]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
+- [[Uber]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-24 Politiques, normes et gouvernance]] - `conceptually_related_to` [INFERRED]
 - [[Veille Chine 2026-11-25  Société, Sécurité et Éthique]] - `conceptually_related_to` [EXTRACTED]
 - [[Veille États-Unis 2026-11-23  Régulation et gouvernance de l’IA]] - `conceptually_related_to` [EXTRACTED]

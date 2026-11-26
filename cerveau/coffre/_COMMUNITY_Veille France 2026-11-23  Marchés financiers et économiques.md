@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Feuilleton Le président Macron envisage d’interdire l’IA chez les enfants en cas de risque]] - document - feuilletons/f-0006.md
+- [[Dossier  Preuve assistée par IA de l’hypothèse de Riemann]] - document - dossiers/2026-11-22-1.md
 
 ## Live Query (requires Dataview plugin)
 

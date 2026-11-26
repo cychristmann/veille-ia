@@ -1,18 +1,19 @@
 ---
 type: community
-members: 5
+members: 6
 ---
 
 # Dossier : IA générative : un nouveau vecteur de menaces nucléaires
 
-**Members:** 5 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Brookings Institution]] - concept - dossiers/2026-11-23-2.md
-- [[Chen Yixin]] - concept - dossiers/2026-11-23-2.md
-- [[Dossier  IA générative  un nouveau vecteur de menaces nucléaires]] - document - dossiers/2026-11-23-2.md
-- [[John Ratcliffe]] - concept - dossiers/2026-11-23-2.md
-- [[Université de Fudan]] - concept - dossiers/2026-11-23-2.md
+- [[AI Impact on E-commerce]] - concept - veilles/veille-ia-fr-2026-11-25-t1.md
+- [[Black Friday AI Usage]] - concept - veilles/veille-ia-fr-2026-11-25-t1.md
+- [[GTA VI AI Porting Challenges]] - concept - veilles/veille-ia-fr-2026-11-25-t1.md
+- [[Google AI TV Patent]] - concept - veilles/veille-ia-fr-2026-11-25-t1.md
+- [[Meta Instagram Muse]] - concept - veilles/veille-ia-fr-2026-11-25-t1.md
+- [[Veille France 2026-11-25  Médias, divertissement et communication]] - document - veilles/veille-ia-fr-2026-11-25-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,10 +21,3 @@ members: 5
 TABLE source_file, type FROM #community/Dossier__IA_générative__un_nouveau_vecteur_de_menaces_nucléaires
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_David Tepper]]
-- 1 edge to [[_COMMUNITY_Claude Code]]
-
-## Top bridge nodes
-- [[Dossier  IA générative  un nouveau vecteur de menaces nucléaires]] - degree 6, connects to 2 communities

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-24-t2.md"
 type: "concept"
-community: "Veille France 2026-11-24 : Régulation, gouvernance et sécurité IA"
+community: "AI Governance"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-24__Régulation_gouvernance_et_sécurité_IA
+  - community/AI_Governance
 ---
 
 # António Guterres
@@ -16,4 +16,4 @@ tags:
 - [[United Nations]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-24  Sécurité, Éthique & Régulation]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-24__Régulation_gouvernance_et_sécurité_IA
+#graphify/concept #graphify/EXTRACTED #community/AI_Governance

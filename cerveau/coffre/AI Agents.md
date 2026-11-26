@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-12-t2.md"
+source_file: "veilles/veille-ia-dev-2026-11-22-t5.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-21"
+community: "Veille Chine 2026-11-20"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-21
+  - community/Veille_Chine_2026-11-20
 ---
 
 # AI Agents
@@ -20,4 +20,4 @@ tags:
 - [[Veille États-Unis 2026-11-20  Développements technologiques et agents IA]] - `conceptually_related_to` [EXTRACTED]
 - [[gVisor]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-21
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-20

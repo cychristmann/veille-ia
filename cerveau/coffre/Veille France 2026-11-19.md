@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-19-t4.md"
 type: "document"
-community: "GPT-6 Astra"
+community: "ASML"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/ASML
 ---
 
 # Veille France 2026-11-19
@@ -18,4 +18,4 @@ tags:
 - [[Muse]] - `references` [EXTRACTED]
 - [[Surge]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/document #graphify/EXTRACTED #community/ASML

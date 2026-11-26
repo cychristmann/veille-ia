@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[CHU de Montpellier]] - concept - veilles/veille-ia-fr-2026-11-18-t5.md
-- [[David Morquin]] - concept - veilles/veille-ia-fr-2026-11-18-t5.md
-- [[French Tech Bordeaux]] - concept - veilles/veille-ia-fr-2026-11-18-t5.md
-- [[Veille France 2026-11-18 (T5)]] - document - veilles/veille-ia-fr-2026-11-18-t5.md
+- [[GTM.AI API]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[Piper]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[Qualified]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[ZoomInfo]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
 
 ## Live Query (requires Dataview plugin)
 

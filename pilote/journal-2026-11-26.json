@@ -1,0 +1,271 @@
+{
+ "date": "2026-11-26",
+ "mode": "ia",
+ "bilan": "La veille a atteint les objectifs de quantité d'articles dans toutes les sections. Le pourcentage de liens directs s'est amélioré en France et aux États‑Unis, mais reste très bas pour la Chine. Une source clé (The Guardian) est en panne, ce qui impacte la section États‑Unis. Le quota Groq est correctement maîtrisé à 74 %. Les réglages expérimentaux donnent des scores stables, mais il faut encore agir sur la Chine et la source en panne.",
+ "a_surveiller": [
+  "Le taux de liens directs en Chine reste très faible (20%).",
+  "The Guardian (IA) est en panne depuis trois nuits, réduisant la couverture des États‑Unis.",
+  "Le quota Groq est à 74 %, il faut rester sous la limite de 80 %."
+ ],
+ "lecon": "Augmenter le nombre de candidats soumis à l'IA dans une section où les liens directs sont faibles peut améliorer la diversité des sources et le pourcentage de liens directs.",
+ "actions": [
+  {
+   "date": "2026-11-26",
+   "action": "annuler_reglage",
+   "section": "fr",
+   "source": "part de Google Actualités 1.0 → 0.8",
+   "motif": "score 78.5/100 sur 3 nuits, contre 78.4 avant (+0.1)",
+   "raison": "L'annulation du réglage de la part de Google Actualités en France a légèrement amélioré le score (78.5 → 78.4), on le conserve.",
+   "resultat": "retour au réglage d'avant",
+   "libelle": "Expérience sans effet France : part de Google Actualités 1.0 → 0.8, retour arrière"
+  },
+  {
+   "date": "2026-11-26",
+   "action": "fermer_section",
+   "section": "sujet",
+   "source": "Jensen Huang",
+   "motif": "le sujet retombe : 4 articles en 2 jours, contre 15 au plus fort",
+   "raison": "Le sujet est retombé ou la durée maximale est atteinte : fermeture d'office.",
+   "resultat": "rubrique fermée (ses veilles restent dans l'historique)",
+   "libelle": "Rubrique « Jensen Huang » fermée"
+  },
+  {
+   "date": "2026-11-26",
+   "action": "pause",
+   "section": "us",
+   "source": "The Guardian (IA)",
+   "motif": "en panne 3 nuits d'affilée",
+   "raison": "The Guardian (IA) est en panne depuis trois nuits, il faut le mettre en pause pour éviter des articles incomplets.",
+   "resultat": "",
+   "libelle": "Mise en pause de The Guardian (IA) (États-Unis)"
+  },
+  {
+   "date": "2026-11-26",
+   "action": "experimenter",
+   "section": "cn",
+   "source": "candidats soumis à l'IA (× 50) 1.5 → 1.8",
+   "motif": "score actuel 70.5/100",
+   "raison": "Augmenter le nombre de candidats soumis à l'IA en Chine (1.5 → 1.8) devrait diversifier les sources et augmenter le taux de liens directs.",
+   "resultat": "essai pendant 3 nuits",
+   "libelle": "Expérience Chine : candidats soumis à l'IA (× 50) 1.5 → 1.8"
+  }
+ ],
+ "refusees": [
+  {
+   "type": "reprendre",
+   "section": "dev",
+   "source": "KDnuggets",
+   "motif": "nouvel essai après 7 jours : répond de nouveau : 15 articles sur l'IA sur 60",
+   "libelle": "Reprise de KDnuggets (Outils & code)",
+   "raison": "Non examinée par l'IA."
+  },
+  {
+   "type": "decouvrir",
+   "section": "toutes",
+   "source": "nouveaux médias",
+   "motif": "dernière recherche il y a 9 jours",
+   "libelle": "Recherche de nouveaux médias",
+   "raison": "Non examinée par l'IA."
+  },
+  {
+   "type": "pause",
+   "section": "dev",
+   "source": "CASRAI",
+   "motif": "hors sujet : 17 articles écartés, aucun retenu en 7 nuits",
+   "libelle": "Mise en pause de CASRAI (Outils & code)",
+   "raison": "Non examinée par l'IA."
+  }
+ ],
+ "en_pause": [
+  {
+   "section": "dev",
+   "source": "KDnuggets",
+   "depuis": "2026-11-19",
+   "motif": "hors sujet : 5 articles écartés, aucun retenu en 7 nuits"
+  },
+  {
+   "section": "dev",
+   "source": "Design News",
+   "depuis": "2026-11-22",
+   "motif": "en panne 5 nuits d'affilée"
+  },
+  {
+   "section": "cn",
+   "source": "新浪科技",
+   "depuis": "2026-11-21",
+   "motif": "muet : aucun article récent sur l'IA en 4 nuits (60 articles lus)",
+   "dernier_essai": "2026-11-26 : répond, mais rien publié depuis le 2018-09-23"
+  },
+  {
+   "section": "us",
+   "source": "The Guardian (IA)",
+   "depuis": "2026-11-26",
+   "motif": "en panne 3 nuits d'affilée"
+  }
+ ],
+ "en_essai": [
+  {
+   "section": "cn",
+   "source": "智东西",
+   "depuis": "2026-11-25",
+   "raison": "Site d'information technologique chinois avec 13 articles IA sur 16 publiés en 72 h (81 % du flux) et des titres clairement centrés sur l'IA, ce qui assure un apport régulier et de qualité au-delà de Google Actualités."
+  },
+  {
+   "section": "cn",
+   "source": "雷峰网",
+   "depuis": "2026-11-25",
+   "raison": "Média technologique chinois qui publie 13 articles IA sur 20 en 72 h (65 %) et propose des contenus spécialisés IA (agents, HPC, IA appliquée), garantissant un flux pertinent et fréquent."
+  }
+ ],
+ "lecons": [
+  {
+   "date": "2026-11-17",
+   "texte": "Tester régulièrement de nouveaux médias aide à maintenir un haut pourcentage de liens directs et à diversifier les sources."
+  },
+  {
+   "date": "2026-11-20",
+   "texte": "Pour les sections où les liens directs sont très faibles, réduire la dépendance à Google Actualités et chercher davantage de sources directes améliore la qualité des références."
+  },
+  {
+   "date": "2026-11-21",
+   "texte": "Pour les sections où les liens directs sont très faibles, comme la Chine, il faut diversifier rapidement les sources et réduire la dépendance aux agrégateurs afin d'augmenter la proportion de liens directs."
+  },
+  {
+   "date": "2026-11-22",
+   "texte": "Diversifier rapidement les sources chinoises et remplacer les médias en panne permet d'augmenter le taux de liens directs, ce qui améliore la qualité globale de la veille."
+  },
+  {
+   "date": "2026-11-26",
+   "texte": "Augmenter le nombre de candidats soumis à l'IA dans une section où les liens directs sont faibles peut améliorer la diversité des sources et le pourcentage de liens directs."
+  }
+ ],
+ "paris": {
+  "nouveaux": [
+   {
+    "enonce": "GitHub : au moins 14 articles (Outils & code) sur les 5 prochains jours",
+    "probabilite": 0.58,
+    "echeance": "2026-12-01",
+    "statut": "en_cours",
+    "observe": null,
+    "raisonnement": "Le lancement prévu de GitHub Copilot Enterprise (début décembre) crée un engouement médiatique qui devrait dépasser le seuil."
+   },
+   {
+    "enonce": "Claude Ship : au plus 5 articles (France et Outils & code) sur les 2 prochains jours",
+    "probabilite": 0.67,
+    "echeance": "2026-11-28",
+    "statut": "en_cours",
+    "observe": null,
+    "raisonnement": "Après un pic soudain de 11 articles hier, l'intérêt devrait rapidement diminuer, rendant un total inférieur à 5 très probable."
+   }
+  ],
+  "resolus": [
+   {
+    "enonce": "Amazon : au plus 6 articles (États-Unis et Outils & code) sur les 5 prochains jours",
+    "probabilite": 0.56,
+    "echeance": "2026-11-26",
+    "statut": "gagne",
+    "observe": 6,
+    "raisonnement": "Les totaux US et dev sont historiquement faibles (5‑7) et la récente dynamique est stable, donc dépasser 6 reste improbable."
+   },
+   {
+    "enonce": "Agents IA : au moins 9 articles (Chine) sur les 4 prochains jours",
+    "probabilite": 0.53,
+    "echeance": "2026-11-26",
+    "statut": "perdu",
+    "observe": 4,
+    "raisonnement": "En Chine, les 7 j précédents comptent 6+14+6 = 26 articles, moyenne ≈3,7/jour ; une légère hausse vers 4‑5/jour donne 9 sur 4 j."
+   },
+   {
+    "enonce": "Claude Code : au plus 10 articles (Outils & code) sur les 2 prochains jours",
+    "probabilite": 0.52,
+    "echeance": "2026-11-26",
+    "statut": "gagne",
+    "observe": 10,
+    "raisonnement": "Après un pic de 52 articles sur 7 jours, la moyenne quotidienne est déjà basse (≈7) et le dernier jour était de 7, donc un dépassement de 10 reste improbable."
+   }
+  ],
+  "refus": [
+   "« Claude comptera au moins 12 articles dans la section Outils & code sur les 3 prochains jours. » : gagné d'avance au vu des jours passés",
+   "« Nvidia : au plus 20 articles (États-Unis et France) sur les 4 prochains jours » : l'historique le donne perdant (gagné 3 fois sur 16 périodes passées)",
+   "« Agents IA : au moins 9 articles (Chine) sur les 4 prochains jours » : l'historique le donne perdant (gagné 0 fois sur 14 périodes passées)",
+   "« OpenAI comptera au plus 9 articles dans les sections États‑Unis et Outils & code sur les 3 prochains jours. » : déjà un pari en cours sur OpenAI"
+  ],
+  "score": {
+   "tranches": 32,
+   "gagnes": 14,
+   "reussite": 44,
+   "correction": 0.3,
+   "methode": "melange",
+   "briers": {
+    "ia": 0.259,
+    "historique": 0.259,
+    "melange": 0.238
+   },
+   "reussite_au_moins": "7/23",
+   "reussite_au_plus": "7/9",
+   "confiance_moyenne": 67,
+   "brier": 0.303,
+   "paliers": {
+    "50-64 %": {
+     "paris": 11,
+     "reussite": 36
+    },
+    "65-79 %": {
+     "paris": 21,
+     "reussite": 48
+    }
+   }
+  }
+ },
+ "section_ephemere": null,
+ "experiences": [
+  {
+   "section": "cn",
+   "libelle": "candidats soumis à l'IA (× 50) 1.5 → 1.8",
+   "depuis": "2026-11-26",
+   "base": 70.5,
+   "hypothese": "Augmenter le nombre de candidats soumis à l'IA en Chine (1.5 → 1.8) devrait diversifier les sources et augmenter le taux de liens directs."
+  }
+ ],
+ "indicateurs": {
+  "sections": {
+   "fr": {
+    "nom": "France",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 60,
+    "pannes": []
+   },
+   "us": {
+    "nom": "États-Unis",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 58,
+    "pannes": [
+     "The Guardian (IA)"
+    ]
+   },
+   "cn": {
+    "nom": "Chine",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 20,
+    "pannes": []
+   },
+   "dev": {
+    "nom": "Outils & code",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 84,
+    "pannes": []
+   }
+  },
+  "quota_groq": 74,
+  "nuit": {
+   "statut": "attention",
+   "soucis": [
+    "Veille États-Unis : 50 articles, 21 sans lien direct · 1 source(s) en panne : The Guardian (IA)"
+   ]
+  }
+ }
+}

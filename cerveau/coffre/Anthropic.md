@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t1.md"
 type: "code"
-community: "David Tepper"
+community: "Veille Chine 2026-11-17 : Marché, financement et régulation"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/David_Tepper
+  - community/Veille_Chine_2026-11-17__Marché_financement_et_régulation
 ---
 
 # Anthropic
@@ -13,6 +13,7 @@ tags:
 ## Connections
 - [[AI Cyberattack]] - `conceptually_related_to` [EXTRACTED]
 - [[AI Market Trends]] - `conceptually_related_to` [INFERRED]
+- [[AI Market Volatility]] - `conceptually_related_to` [INFERRED]
 - [[Anthropic IPO]] - `conceptually_related_to` [EXTRACTED]
 - [[Anthropic millionnaires]] - `references` [EXTRACTED]
 - [[Apple AI Agent]] - `conceptually_related_to` [EXTRACTED]
@@ -30,6 +31,7 @@ tags:
 - [[Decart]] - `references` [EXTRACTED]
 - [[Donald Trump]] - `references` [EXTRACTED]
 - [[Dossier  IA générative  un nouveau vecteur de menaces nucléaires]] - `references` [EXTRACTED]
+- [[ETH Zurich]] - `conceptually_related_to` [EXTRACTED]
 - [[Fable 5.2]] - `references` [EXTRACTED]
 - [[Fable 5.2 & Mythos 5.2]] - `references` [EXTRACTED]
 - [[Fermat's Last Theorem]] - `references` [EXTRACTED]
@@ -66,6 +68,7 @@ tags:
 - [[Veille Chine 2026-11-19  Marché, Financement & Valorisation IA]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-20  Recherche, Modèles & Technologie]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-21]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-26  Débats et perceptions publiques]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Applications concrètes et innovations IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Environnement et empreinte carbone de l'IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Régulation, politique et enjeux sociétaux]] - `references` [EXTRACTED]
@@ -91,6 +94,9 @@ tags:
 - [[Veille France 2026-11-22]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-24  Marché et investissements IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-25]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-26]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-26  Recherche, innovation et futur de l’IA]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-26]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-09  Déploiements et stratégies d’entreprise]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-10  Autres articles]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-11  Régulation, Gouvernance et Éthique]] - `references` [EXTRACTED]
@@ -100,5 +106,6 @@ tags:
 - [[Veille États-Unis 2026-11-20  Marché et finance de l'IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-21  Anthropic & Riemann]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-22  Applications et outils IA]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-26]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/David_Tepper
+#graphify/code #graphify/EXTRACTED #community/Veille_Chine_2026-11-17__Marché_financement_et_régulation

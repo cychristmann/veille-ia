@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t7.md"
 type: "concept"
-community: "Gemini 4 Hydrogen"
+community: "AI Impact on Finance and Markets"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Gemini_4_Hydrogen
+  - community/AI_Impact_on_Finance_and_Markets
 ---
 
 # Human Performance and AI in Sports Analytics Minor Combines Practical Skills with Data Analysis
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-12]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Gemini_4_Hydrogen
+#graphify/concept #graphify/EXTRACTED #community/AI_Impact_on_Finance_and_Markets

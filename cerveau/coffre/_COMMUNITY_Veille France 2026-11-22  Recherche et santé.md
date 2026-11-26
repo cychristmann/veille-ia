@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille France 2026-11-22  Recherche et santé]] - document - veilles/veille-ia-fr-2026-11-22-t1.md
+- [[Veille Chine 2026-11-25]] - document - veilles/veille-ia-cn-2026-11-25-t5.md
 
 ## Live Query (requires Dataview plugin)
 

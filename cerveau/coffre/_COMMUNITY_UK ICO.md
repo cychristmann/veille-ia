@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Arcade]] - concept - veilles/veille-ia-dev-2026-11-19-t1.md
+- [[PentAGI]] - concept - dossiers/2026-11-26-1.md
 
 ## Live Query (requires Dataview plugin)
 

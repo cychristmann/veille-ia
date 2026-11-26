@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-17-3.md"
 type: "document"
-community: "Dossier: L’impact de l’automatisation par l’IA"
+community: "Veille France 2026-11-24 : Marché et investissements IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Dossier_Limpact_de_lautomatisation_par_lIA
+  - community/Veille_France_2026-11-24__Marché_et_investissements_IA
 ---
 
 # Dossier: L’impact de l’automatisation par l’IA
@@ -17,4 +17,4 @@ tags:
 - [[journaldunet.com]] - `references` [EXTRACTED]
 - [[latribune.fr]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Dossier_Limpact_de_lautomatisation_par_lIA
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-24__Marché_et_investissements_IA

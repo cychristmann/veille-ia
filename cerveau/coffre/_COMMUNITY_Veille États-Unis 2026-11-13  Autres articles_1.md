@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille États-Unis 2026-11-13 : Autres articles
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Veille États-Unis 2026-11-13  Autres articles]] - document - veilles/veille-ia-us-2026-11-13-t5.md
+- [[CVE-2025-3248]] - concept - dossiers/2026-11-21-1.md
+- [[JadePuffer]] - concept - dossiers/2026-11-21-1.md
 
 ## Live Query (requires Dataview plugin)
 

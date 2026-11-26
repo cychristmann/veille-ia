@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0032.md"
 type: "document"
-community: "Adobe Creative Cloud"
+community: "Veille États-Unis 2026-11-08"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Adobe_Creative_Cloud
+  - community/Veille_États-Unis_2026-11-08
 ---
 
 # Feuilleton: Compromission massive du Microsoft Agent Framework
@@ -18,4 +18,4 @@ tags:
 - [[The New Stack]] - `cites` [EXTRACTED]
 - [[wiz.io]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Adobe_Creative_Cloud
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08

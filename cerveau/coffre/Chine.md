@@ -1,11 +1,11 @@
 ---
-source_file: "feuilletons/f-0001.md"
-type: "concept"
-community: "Chine"
+source_file: "feuilletons/f-0048.md"
+type: "code"
+community: "AI Governance"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
-  - community/Chine
+  - community/AI_Governance
 ---
 
 # Chine
@@ -13,7 +13,5 @@ tags:
 ## Connections
 - [[AI Governance]] - `references` [EXTRACTED]
 - [[Feuilleton La Chine en tête du développement de normes internationales d'IA]] - `references` [EXTRACTED]
-- [[Nvidia]] - `references` [EXTRACTED]
-- [[TSMC]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Chine
+#graphify/code #graphify/EXTRACTED #community/AI_Governance

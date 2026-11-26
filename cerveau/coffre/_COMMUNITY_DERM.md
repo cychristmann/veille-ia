@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Edge0-145B]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
+- [[248 Ventures]] - concept - dossiers/2026-11-16-2.md
 
 ## Live Query (requires Dataview plugin)
 

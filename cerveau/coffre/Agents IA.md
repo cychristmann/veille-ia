@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t2.md"
 type: "concept"
-community: "Agents IA"
+community: "DeepSeek"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Agents_IA
+  - community/DeepSeek
 ---
 
 # Agents IA
@@ -16,4 +16,4 @@ tags:
 - [[Google]] - `conceptually_related_to` [EXTRACTED]
 - [[OpenAI]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Agents_IA
+#graphify/concept #graphify/EXTRACTED #community/DeepSeek

@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-22-t1.md"
+source_file: "veilles/veille-ia-dev-2026-11-22-t1.md"
 type: "concept"
 community: "Amazon"
 tags:

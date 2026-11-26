@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-25-t2.md"
 type: "document"
-community: "AgentMon Live"
+community: "CoreWeave"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AgentMon_Live
+  - community/CoreWeave
 ---
 
 # Veille France 2026-11-25 : Santé, médecine et recherche
@@ -19,4 +19,4 @@ tags:
 - [[Presse Agence]] - `cites` [EXTRACTED]
 - [[Science et vie]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AgentMon_Live
+#graphify/document #graphify/EXTRACTED #community/CoreWeave

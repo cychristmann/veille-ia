@@ -33,7 +33,7 @@ SORT file.name ASC
 ## Connections to other communities
 - 2 edges to [[_COMMUNITY_Veille France 2026-11-15]]
 - 1 edge to [[_COMMUNITY_Mistral AI]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-20  Régulation, souveraineté et enjeux géopolitiques]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-15_1]]
 
 ## Top bridge nodes
 - [[ICAID]] - degree 13, connects to 3 communities

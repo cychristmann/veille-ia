@@ -1,20 +1,23 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-21-t5.md"
 type: "code"
-community: "Microsoft"
+community: "Dell"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Microsoft
+  - community/Dell
 ---
 
 # Dell
 
 ## Connections
 - [[Microsoft]] - `conceptually_related_to` [EXTRACTED]
+- [[Nvidia]] - `calls` [EXTRACTED]
 - [[Nvidia]] - `conceptually_related_to` [EXTRACTED]
 - [[Nvidia HGX B300]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-25  Économie et Marchés Financiers]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-26  Marché, investissement et stratégie d’entreprise]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-17]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-26  Impact sociétal et économique]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Microsoft
+#graphify/code #graphify/EXTRACTED #community/Dell

@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-19-t1.md"
 type: "concept"
-community: "UK ICO"
+community: "Arcade"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/UK_ICO
+  - community/Arcade
 ---
 
 # Arcade
 
-#graphify/concept #graphify/EXTRACTED #community/UK_ICO
+#graphify/concept #graphify/EXTRACTED #community/Arcade

@@ -27,19 +27,19 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
+- 2 edges to [[_COMMUNITY_Veille France 2026-11-22  Marchés et finance]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-20  Régulation, souveraineté et enjeux géopolitiques]]
 - 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
-- 1 edge to [[_COMMUNITY_Qwen4-Max]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-15_1]]
-- 1 edge to [[_COMMUNITY_Meta_1]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-17]]
-- 1 edge to [[_COMMUNITY_Comité d'experts français]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-25]]
-- 1 edge to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_CoreWeave]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-19  Applications sectorielles de l'IA]]
+- 1 edge to [[_COMMUNITY_ABB]]
 - 1 edge to [[_COMMUNITY_Apple]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-08]]
+- 1 edge to [[_COMMUNITY_Hugging Face]]
+- 1 edge to [[_COMMUNITY_Dossier  Nvidia désigné champion national de l’IA aux États‑Unis_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14  Autres articles]]
+- 1 edge to [[_COMMUNITY_Comité d'experts français]]
+- 1 edge to [[_COMMUNITY_Signal]]
+- 1 edge to [[_COMMUNITY_Claude Code_1]]
+- 1 edge to [[_COMMUNITY_Dossier  IA générative  un nouveau vecteur de menaces nucléaires_1]]
+- 1 edge to [[_COMMUNITY_AMD_1]]
 
 ## Top bridge nodes
 - [[Meta]] - degree 23, connects to 13 communities

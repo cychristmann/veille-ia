@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0038.md"
 type: "document"
-community: "CoreWeave"
+community: "AMD"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/CoreWeave
+  - community/AMD
 ---
 
 # Feuilleton f-0038
@@ -14,4 +14,4 @@ tags:
 - [[AMD]] - `references` [EXTRACTED]
 - [[Intel]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/CoreWeave
+#graphify/document #graphify/EXTRACTED #community/AMD

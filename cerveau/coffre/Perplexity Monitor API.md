@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-23-t6.md"
 type: "concept"
-community: "AI Impact on Finance and Markets"
+community: "SpaceX"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AI_Impact_on_Finance_and_Markets
+  - community/SpaceX
 ---
 
 # Perplexity Monitor API
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Outils & code 2026-11-23]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AI_Impact_on_Finance_and_Markets
+#graphify/concept #graphify/EXTRACTED #community/SpaceX

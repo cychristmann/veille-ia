@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Lumbra
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Accenture]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
-- [[Qantas]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
+- [[Veille Outils & code 2026-11-21  Plateformes et intégrations IA]] - document - veilles/veille-ia-dev-2026-11-21-t3.md
 
 ## Live Query (requires Dataview plugin)
 

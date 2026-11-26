@@ -28,14 +28,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Microsoft]]
 - 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_AI Act]]
+- 1 edge to [[_COMMUNITY_Apple]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-20  Régulation, Sécurité & Société]]
 - 1 edge to [[_COMMUNITY_Dossier Google TV 100% IA]]
 - 1 edge to [[_COMMUNITY_ICAID]]
-- 1 edge to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_Apple]]
-- 1 edge to [[_COMMUNITY_ChatGPT Wallet]]
+- 1 edge to [[_COMMUNITY_Claude Code_1]]
+- 1 edge to [[_COMMUNITY_Microsoft_1]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-25  Société, éthique et éducation]]
 
 ## Top bridge nodes
 - [[Mistral AI]] - degree 7, connects to 3 communities

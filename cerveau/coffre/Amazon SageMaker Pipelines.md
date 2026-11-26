@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-15-t4.md"
 type: "concept"
-community: "GPT-6 Astra"
+community: "Veille Outils & code 2026-11-21"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Veille_Outils__code_2026-11-21
 ---
 
 # Amazon SageMaker Pipelines
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Amazon SageMaker Canvas]] - `shares_data_with` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-21

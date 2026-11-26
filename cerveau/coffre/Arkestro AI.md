@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-23-t2.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-11 : Éducation et formation à l'IA"
+community: "Arkestro AI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA
+  - community/Arkestro_AI
 ---
 
 # Arkestro AI
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Phillips 66]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA
+#graphify/concept #graphify/EXTRACTED #community/Arkestro_AI

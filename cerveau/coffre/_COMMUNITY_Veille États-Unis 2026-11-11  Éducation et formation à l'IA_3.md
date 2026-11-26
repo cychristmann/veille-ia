@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-11 : Éducation et formation à l'IA
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Arkestro AI]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
-- [[Phillips 66]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
+- [[Muru]] - concept - veilles/veille-ia-dev-2026-11-23-t1.md
 
 ## Live Query (requires Dataview plugin)
 

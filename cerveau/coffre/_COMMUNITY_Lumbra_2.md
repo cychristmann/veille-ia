@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Solutions-Numeriques]] - document - feuilletons/f-0030.md
+- [[Beijing University of Posts and Telecommunications]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
 
 ## Live Query (requires Dataview plugin)
 

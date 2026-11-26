@@ -1,16 +1,14 @@
 ---
 type: community
-members: 3
+members: 1
 ---
 
 # Veille États-Unis 2026-11-17 : Régulation et litiges
 
-**Members:** 3 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Cipher]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
-- [[IREN]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
-- [[TeraWulf]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
+- [[Veille France 2026-11-22  Industrie et infrastructure]] - document - veilles/veille-ia-fr-2026-11-22-t2.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Culture Numérique]] - concept - veilles/veille-ia-cn-2026-11-24-t5.md
-- [[Tongji University (同济大学)]] - concept - veilles/veille-ia-cn-2026-11-24-t5.md
-- [[Veille Chine 2026-11-24  Recherche académique et collaborations]] - document - veilles/veille-ia-cn-2026-11-24-t5.md
+- [[AI in Creative Arts]] - concept - veilles/veille-ia-cn-2026-11-25-t7.md
+- [[AI in Sports Prediction]] - concept - veilles/veille-ia-cn-2026-11-25-t7.md
+- [[Veille Chine 2026-11-25  Culture, Loisirs et Sport]] - document - veilles/veille-ia-cn-2026-11-25-t7.md
 
 ## Live Query (requires Dataview plugin)
 

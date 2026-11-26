@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t6.md"
 type: "concept"
-community: "Microsoft"
+community: "Google"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Microsoft
+  - community/Google
 ---
 
 # AWS
@@ -16,4 +16,4 @@ tags:
 - [[H Company]] - `references` [EXTRACTED]
 - [[Microsoft]] - `conceptually_related_to` [INFERRED]
 
-#graphify/concept #graphify/EXTRACTED #community/Microsoft
+#graphify/concept #graphify/EXTRACTED #community/Google

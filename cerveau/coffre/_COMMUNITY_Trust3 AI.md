@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[WAIC 2026]] - concept - dossiers/2026-11-25-3.md
-- [[Xi Jinping]] - concept - dossiers/2026-11-25-3.md
+- [[Impact sociétal de l'IA]] - concept - veilles/veille-ia-fr-2026-11-21-t5.md
+- [[Veille France 2026-11-21  Société & culture]] - document - veilles/veille-ia-fr-2026-11-21-t5.md
 
 ## Live Query (requires Dataview plugin)
 

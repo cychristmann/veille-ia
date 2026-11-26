@@ -1,20 +1,23 @@
 ---
 type: community
-members: 7
+members: 10
 ---
 
 # Veille Chine 2026-11-11 : Marchés et investissements
 
-**Members:** 7 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[ChatGPT Ads]] - concept - veilles/veille-ia-dev-2026-11-24-t6.md
-- [[Google AI Mode]] - concept - veilles/veille-ia-dev-2026-11-24-t6.md
-- [[Linux]] - concept - veilles/veille-ia-dev-2026-11-25-t2.md
-- [[STEWARD]] - concept - veilles/veille-ia-dev-2026-11-24-t6.md
-- [[Shirudo]] - concept - veilles/veille-ia-dev-2026-11-24-t6.md
-- [[Veille Outils & code 2026-11-24 (t6)]] - document - veilles/veille-ia-dev-2026-11-24-t6.md
-- [[Veille Outils & code 2026-11-25  Sécurité et gouvernance des IA]] - document - veilles/veille-ia-dev-2026-11-25-t3.md
+- [[AI agent data leak incident]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[APA guidance on deploying AI in workplaces]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Financial Supervisory Service AI loan review deployment]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Global system outages and AI conspiracy theories]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Lean AI proof of Riemann Hypothesis]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[MiniMax founder fortune loss]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Outrage over military AI event at Berlin arts complex]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Samsung and SK Hynix AI memory market performance]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Tom Lee AI market outlook]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Veille États-Unis 2026-11-22  Autres articles]] - document - veilles/veille-ia-us-2026-11-22-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,12 +25,3 @@ members: 7
 TABLE source_file, type FROM #community/Veille_Chine_2026-11-11__Marchés_et_investissements
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 2 edges to [[_COMMUNITY_Veille France 2026-11-25]]
-- 2 edges to [[_COMMUNITY_Claude Code_1]]
-- 1 edge to [[_COMMUNITY_Claude Code]]
-
-## Top bridge nodes
-- [[Shirudo]] - degree 7, connects to 3 communities
-- [[ChatGPT Ads]] - degree 2, connects to 1 community

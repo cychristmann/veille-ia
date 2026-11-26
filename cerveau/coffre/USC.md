@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-25-t3.md"
 type: "concept"
-community: "GPT-6 Astra"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Gemini_4_Hydrogen
 ---
 
 # USC
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-25 (T3)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/concept #graphify/EXTRACTED #community/Gemini_4_Hydrogen

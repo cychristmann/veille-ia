@@ -1,16 +1,14 @@
 ---
 type: community
-members: 3
+members: 1
 ---
 
 # Charta Health
 
-**Members:** 3 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[CPRIT]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
-- [[Dr. K. Ian White]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
-- [[UT Health San Antonio]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
+- [[Veille Outils & code 2026-11-21  Autres articles]] - document - veilles/veille-ia-dev-2026-11-21-t4.md
 
 ## Live Query (requires Dataview plugin)
 

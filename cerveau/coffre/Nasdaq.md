@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0003.md"
 type: "concept"
-community: "ASML"
+community: "Veille Outils & code 2026-11-17"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ASML
+  - community/Veille_Outils__code_2026-11-17
 ---
 
 # Nasdaq
@@ -14,4 +14,4 @@ tags:
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Anthropic IPO]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/ASML
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-17

@@ -1,22 +1,27 @@
 ---
 type: community
-members: 9
+members: 14
 ---
 
 # Veille Outils & code 2026-11-17
 
-**Members:** 9 nodes
+**Members:** 14 nodes
 
 ## Members
-- [[ByteVoice]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
-- [[Cuttlefish]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
-- [[Puffin]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
-- [[StateWeave]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
-- [[Superpowers]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
-- [[Swarm Skills]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
-- [[Tokendoctor]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
-- [[VS Code]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
-- [[Veille Outils & code 2026-11-17]] - document - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Ant Group Lingbo Embodied AI]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
+- [[Anthropic IPO]] - concept - dossiers/2026-11-19-1.md
+- [[Boursorama]] - concept - dossiers/2026-11-19-1.md
+- [[Cryptoast]] - concept - dossiers/2026-11-20-3.md
+- [[Dr. Hendrik Leber]] - concept - dossiers/2026-11-19-1.md
+- [[France 24]] - concept - dossiers/2026-11-20-3.md
+- [[Lenovo AI Servers]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
+- [[Moneyvox]] - concept - dossiers/2026-11-20-3.md
+- [[Nasdaq]] - concept - feuilletons/f-0003.md
+- [[Qwen AI Hardware]] - concept - veilles/veille-ia-cn-2026-11-19-t6.md
+- [[RFI]] - concept - dossiers/2026-11-20-3.md
+- [[SEC]] - concept - dossiers/2026-11-19-1.md
+- [[Veille Chine 2026-11-19  Autres articles]] - document - veilles/veille-ia-cn-2026-11-19-t6.md
+- [[Wired]] - concept - dossiers/2026-11-19-1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,18 +31,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Copilot]]
-- 1 edge to [[_COMMUNITY_Meta]]
-- 1 edge to [[_COMMUNITY_Claude Code_1]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-15_1]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
-- 1 edge to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_GPT-6 Astra_1]]
-- 1 edge to [[_COMMUNITY_Hugging Face_1]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
-- 1 edge to [[_COMMUNITY_Qwen4-Max_1]]
+- 3 edges to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-19  Infrastructure et Technologie IA]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-17]] - degree 16, connects to 9 communities
-- [[Tokendoctor]] - degree 2, connects to 1 community
-- [[VS Code]] - degree 2, connects to 1 community
+- [[Anthropic IPO]] - degree 12, connects to 2 communities
+- [[Nasdaq]] - degree 2, connects to 1 community
+- [[SEC]] - degree 2, connects to 1 community

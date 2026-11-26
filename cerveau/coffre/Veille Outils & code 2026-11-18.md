@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-18-t1.md"
 type: "document"
-community: "AMD"
+community: "Hypothèse de Riemann"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AMD
+  - community/Hypothèse_de_Riemann
 ---
 
 # Veille Outils & code 2026-11-18
@@ -28,4 +28,4 @@ tags:
 - [[SID-2 Agentic Search Model]] - `references` [EXTRACTED]
 - [[Vibe Coding]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AMD
+#graphify/document #graphify/EXTRACTED #community/Hypothèse_de_Riemann

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t3.md"
 type: "concept"
-community: "Ministry of Education"
+community: "Veille France 2026-11-09 : Autres articles"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Ministry_of_Education
+  - community/Veille_France_2026-11-09__Autres_articles
 ---
 
 # Politiques IA aux États-Unis
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-13]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Ministry_of_Education
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-09__Autres_articles

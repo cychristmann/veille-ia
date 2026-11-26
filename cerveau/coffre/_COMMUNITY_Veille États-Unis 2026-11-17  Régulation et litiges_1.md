@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Veille États-Unis 2026-11-17 : Régulation et litiges
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Le Monde Pixels]] - concept - feuilletons/f-0027.md
-- [[Ukraine Conflict]] - concept - feuilletons/f-0027.md
+- [[GitGuardian Good Samaritan Program]] - concept - veilles/veille-ia-dev-2026-11-17-t4.md
+- [[State of AI Impact on Software Security and Cybersecurity 2026]] - document - veilles/veille-ia-dev-2026-11-17-t4.md
+- [[Veille Outils & code 2026-11-17 (T4)]] - document - veilles/veille-ia-dev-2026-11-17-t4.md
 
 ## Live Query (requires Dataview plugin)
 

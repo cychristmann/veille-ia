@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-22-2.md"
 type: "concept"
-community: "Ministry of Education"
+community: "This Is Unreal (Spectacle)"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Ministry_of_Education
+  - community/This_Is_Unreal_Spectacle
 ---
 
 # Ministry of Education
@@ -16,4 +16,4 @@ tags:
 - [[Lee Jae-myung]] - `references` [EXTRACTED]
 - [[Suneung Exam]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Ministry_of_Education
+#graphify/concept #graphify/EXTRACTED #community/This_Is_Unreal_Spectacle

@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Equasens]] - concept - veilles/veille-ia-fr-2026-11-25-t3.md
-- [[Synapse Medicine]] - concept - veilles/veille-ia-fr-2026-11-25-t3.md
-- [[Veille France 2026-11-12  Applications IA en santé et société]] - document - veilles/veille-ia-fr-2026-11-12-t3.md
+- [[Entire]] - concept - veilles/veille-ia-dev-2026-11-25-t4.md
+- [[Sarvam]] - concept - veilles/veille-ia-dev-2026-11-25-t4.md
+- [[Veille Outils & code 2026-11-25  Collaborations et partenariats stratégiques]] - document - veilles/veille-ia-dev-2026-11-25-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,9 +18,3 @@ members: 3
 TABLE source_file, type FROM #community/Central_South_University
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_David Tepper]]
-
-## Top bridge nodes
-- [[Veille France 2026-11-12  Applications IA en santé et société]] - degree 2, connects to 1 community

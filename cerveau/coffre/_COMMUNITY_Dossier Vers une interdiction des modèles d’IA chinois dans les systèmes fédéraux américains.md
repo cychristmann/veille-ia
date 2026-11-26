@@ -1,19 +1,20 @@
 ---
 type: community
-members: 6
+members: 7
 ---
 
 # Dossier: Vers une interdiction des modèles d’IA chinois dans les systèmes fédéraux américains
 
-**Members:** 6 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[GPT-4.1]] - concept - veilles/veille-ia-us-2026-11-15-t4.md
-- [[KAIST]] - concept - veilles/veille-ia-us-2026-11-15-t4.md
-- [[Llama 3.3]] - concept - veilles/veille-ia-us-2026-11-15-t4.md
-- [[Microsoft Research]] - concept - veilles/veille-ia-us-2026-11-15-t4.md
-- [[NIH]] - concept - veilles/veille-ia-us-2026-11-15-t4.md
-- [[Veille États-Unis 2026-11-15  Recherche et applications avancées de l'IA]] - document - veilles/veille-ia-us-2026-11-15-t4.md
+- [[Moomoo]] - concept - veilles/veille-ia-cn-2026-11-21-t5.md
+- [[Veille Chine 2026-11-15  Finances, valorisation et marché de l’IA]] - document - veilles/veille-ia-cn-2026-11-15-t3.md
+- [[中青在线 (China Youth Online)]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
+- [[富途牛牛 (Futu Niuniu)]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
+- [[招商证券 (China Merchants Securities)]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
+- [[新浪财经 (Sina Finance)]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
+- [[高毅资产 (High-Flyer Asset Management)]] - concept - veilles/veille-ia-cn-2026-11-15-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,7 +24,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_SpaceX_1]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-14  IA industrielle et infrastructure]]
 
 ## Top bridge nodes
-- [[KAIST]] - degree 2, connects to 1 community
+- [[Moomoo]] - degree 2, connects to 1 community

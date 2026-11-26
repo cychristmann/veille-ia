@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t6.md"
 type: "concept"
-community: "Veille France 2026-11-25"
+community: "Elon Musk"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-25
+  - community/Elon_Musk
 ---
 
 # Elon Musk
@@ -22,4 +22,4 @@ tags:
 - [[Veille France 2026-11-23  Adoption industrielle et entreprises]] - `references` [EXTRACTED]
 - [[xAI]] - `conceptually_related_to` [INFERRED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-25
+#graphify/concept #graphify/EXTRACTED #community/Elon_Musk

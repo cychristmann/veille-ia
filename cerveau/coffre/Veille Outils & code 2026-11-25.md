@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-25-t1.md"
 type: "document"
-community: "AI Impact on Finance and Markets"
+community: "Veille Chine 2026-11-15 : Autres articles"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Impact_on_Finance_and_Markets
+  - community/Veille_Chine_2026-11-15__Autres_articles
 ---
 
 # Veille Outils & code 2026-11-25
@@ -16,4 +16,4 @@ tags:
 - [[Laminar]] - `references` [EXTRACTED]
 - [[OpenAI o1-preview]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Impact_on_Finance_and_Markets
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-15__Autres_articles

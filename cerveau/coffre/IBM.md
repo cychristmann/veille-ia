@@ -11,8 +11,8 @@ tags:
 # IBM
 
 ## Connections
-- [[Cybercriminalité assistée par IA]] - `references` [EXTRACTED]
-- [[Feuilleton Cybercriminels automatisent leurs attaques grâce à l'IA]] - `references` [EXTRACTED]
+- [[Dossier  Intensification des cyberattaques alimentées par l'IA]] - `references` [EXTRACTED]
+- [[Feuilleton Intensification des cyberattaques IA par les acteurs malveillants]] - `references` [EXTRACTED]
 - [[Microsoft]] - `conceptually_related_to` [EXTRACTED]
 - [[Veille France 2026-11-15]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-15  Recherche, outils et modèles IA]] - `references` [EXTRACTED]

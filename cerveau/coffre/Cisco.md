@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
 type: "code"
-community: "Veille France 2026-11-25"
+community: "Veille Outils & code 2026-11-26"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-25
+  - community/Veille_Outils__code_2026-11-26
 ---
 
 # Cisco
@@ -18,4 +18,4 @@ tags:
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-19  Infrastructure et matériel]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Veille_France_2026-11-25
+#graphify/code #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-26

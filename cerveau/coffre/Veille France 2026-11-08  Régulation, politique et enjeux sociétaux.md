@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-08-t3.md"
 type: "document"
-community: "David Tepper"
+community: "Claude Code"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/David_Tepper
+  - community/Claude_Code
 ---
 
 # Veille France 2026-11-08 : Régulation, politique et enjeux sociétaux
@@ -14,4 +14,4 @@ tags:
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/David_Tepper
+#graphify/document #graphify/EXTRACTED #community/Claude_Code

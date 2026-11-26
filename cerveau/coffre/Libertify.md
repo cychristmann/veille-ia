@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-21-t2.md"
 type: "concept"
-community: "CoreWeave"
+community: "Libertify"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/CoreWeave
+  - community/Libertify
 ---
 
 # Libertify
@@ -17,4 +17,4 @@ tags:
 - [[Vallourec]] - `references` [EXTRACTED]
 - [[Worldline]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/CoreWeave
+#graphify/concept #graphify/EXTRACTED #community/Libertify

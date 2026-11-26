@@ -1,16 +1,16 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-14-t5.md"
 type: "concept"
-community: "IA et système financier"
+community: "Veille France 2026-11-15"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/IA_et_système_financier
+  - community/Veille_France_2026-11-15
 ---
 
 # Fed (Réserve fédérale)
 
 ## Connections
-- [[IA et système financier]] - `references` [EXTRACTED]
+- [[Financement et dette IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/IA_et_système_financier
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-15

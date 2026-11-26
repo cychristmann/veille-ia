@@ -1,21 +1,18 @@
 ---
 type: community
-members: 8
+members: 5
 ---
 
 # Veille France 2026-11-16
 
-**Members:** 8 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Adyen]] - concept - veilles/veille-ia-fr-2026-11-22-t7.md
-- [[Bitdefender]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
-- [[Dragos]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
-- [[Klarna]] - concept - veilles/veille-ia-fr-2026-11-22-t7.md
-- [[NordLayer]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
-- [[RunPod]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
-- [[Together AI]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
-- [[Veille Outils & code 2026-11-23  Sécurité, conformité et fuites liées aux IA]] - document - veilles/veille-ia-dev-2026-11-23-t3.md
+- [[Infrastructure IA]] - concept - veilles/veille-ia-cn-2026-11-24-t4.md
+- [[Moore Threads]] - concept - dossiers/2026-11-15-1.md
+- [[Thunderobot (雷神)]] - concept - veilles/veille-ia-cn-2026-11-24-t4.md
+- [[Veille Chine 2026-11-20  Industrie & Fabrication]] - document - veilles/veille-ia-cn-2026-11-20-t1.md
+- [[Veille Chine 2026-11-24  Technologie, modèles et infrastructures]] - document - veilles/veille-ia-cn-2026-11-24-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,8 +22,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Claude Code_1]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Alibaba]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-20]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-23  Sécurité, conformité et fuites liées aux IA]] - degree 9, connects to 2 communities
+- [[Veille Chine 2026-11-24  Technologie, modèles et infrastructures]] - degree 4, connects to 1 community
+- [[Veille Chine 2026-11-20  Industrie & Fabrication]] - degree 2, connects to 1 community
+- [[Moore Threads]] - degree 2, connects to 1 community

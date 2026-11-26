@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-22-t3.md"
 type: "document"
-community: "Veille Outils & code 2026-11-21"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-21
+  - community/Gemini_4_Hydrogen
 ---
 
 # Veille France 2026-11-22 : Applications grand public
@@ -25,4 +25,4 @@ tags:
 - [[Retraite anticipée Kasikornbank]] - `references` [EXTRACTED]
 - [[Scandale de triche à l’IA en Corée du Sud]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-21
+#graphify/document #graphify/EXTRACTED #community/Gemini_4_Hydrogen

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-23-t6.md"
 type: "concept"
-community: "SpaceX"
+community: "CoreWeave"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/SpaceX
+  - community/CoreWeave
 ---
 
 # Double nature de l'IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-23]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/SpaceX
+#graphify/concept #graphify/EXTRACTED #community/CoreWeave

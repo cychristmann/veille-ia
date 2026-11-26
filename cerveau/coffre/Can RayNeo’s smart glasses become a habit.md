@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-18-t7.md"
 type: "document"
-community: "Veille États-Unis 2026-11-15 : Autres articles"
+community: "Adobe Creative Cloud"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-15__Autres_articles
+  - community/Adobe_Creative_Cloud
 ---
 
 # Can RayNeo’s smart glasses become a habit?
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-18  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-15__Autres_articles
+#graphify/document #graphify/EXTRACTED #community/Adobe_Creative_Cloud

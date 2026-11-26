@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille États-Unis 2026-11-13  Enjeux du marché et turbulences]] - document - veilles/veille-ia-us-2026-11-13-t4.md
+- [[Deepfake Risks]] - concept - veilles/veille-ia-cn-2026-11-26-t1.md
 
 ## Live Query (requires Dataview plugin)
 

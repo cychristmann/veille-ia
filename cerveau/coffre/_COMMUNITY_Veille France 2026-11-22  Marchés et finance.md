@@ -1,20 +1,19 @@
 ---
 type: community
-members: 7
+members: 6
 ---
 
 # Veille France 2026-11-22 : Marchés et finance
 
-**Members:** 7 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Expo Cloud Simulators for AI Coding Agents]] - concept - veilles/veille-ia-dev-2026-11-12-t6.md
-- [[Granite 4.1]] - code - veilles/veille-ia-dev-2026-11-13-t5.md
-- [[LLMON]] - code - veilles/veille-ia-dev-2026-11-13-t5.md
-- [[LiquidCodec]] - code - veilles/veille-ia-dev-2026-11-13-t5.md
-- [[Veille Outils & code 2026-11-12  Outils et frameworks divers]] - document - veilles/veille-ia-dev-2026-11-12-t6.md
-- [[Veille Outils & code 2026-11-13 (T5)]] - document - veilles/veille-ia-dev-2026-11-13-t5.md
-- [[llm-gemini]] - code - veilles/veille-ia-dev-2026-11-13-t5.md
+- [[AI Market Trends]] - concept - veilles/veille-ia-cn-2026-11-17-t3.md
+- [[Apollo Go (萝卜快跑)]] - concept - veilles/veille-ia-cn-2026-11-12-t1.md
+- [[Baidu]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
+- [[ChangXin Memory Technologies (长鑫科技)]] - concept - veilles/veille-ia-cn-2026-11-17-t3.md
+- [[University of Science and Technology of China (中国科大)]] - concept - veilles/veille-ia-cn-2026-11-17-t3.md
+- [[Veille Chine 2026-11-17  Marché, financement et régulation]] - document - veilles/veille-ia-cn-2026-11-17-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,9 +23,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Claude Code_1]]
-- 1 edge to [[_COMMUNITY_GPT-6 Astra_2]]
+- 2 edges to [[_COMMUNITY_SpaceX]]
+- 2 edges to [[_COMMUNITY_Meta]]
+- 2 edges to [[_COMMUNITY_Suno]]
+- 2 edges to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
+- 1 edge to [[_COMMUNITY_Robin Li]]
+- 1 edge to [[_COMMUNITY_Dossier  Nvidia désigné champion national de l’IA aux États‑Unis_1]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-13 (T5)]] - degree 5, connects to 1 community
-- [[llm-gemini]] - degree 2, connects to 1 community
+- [[Veille Chine 2026-11-17  Marché, financement et régulation]] - degree 7, connects to 4 communities
+- [[AI Market Trends]] - degree 6, connects to 4 communities
+- [[Baidu]] - degree 5, connects to 2 communities

@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Alibaba Domestic Computing Power Strategy]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
-- [[Grab AI Code Security Strategy]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
-- [[Linger Project (Open Source)]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
-- [[OpenAI Chip Redesign Breakthroughs]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
-- [[SpaceX AI Chip Debt Financing Conflict]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
-- [[Veille Chine 2026-11-20]] - document - veilles/veille-ia-cn-2026-11-20-t7.md
+- [[01net.com]] - concept - dossiers/2026-11-17-3.md
+- [[Dossier L’impact de l’automatisation par l’IA]] - document - dossiers/2026-11-17-3.md
+- [[OCDE]] - concept - dossiers/2026-11-17-3.md
+- [[PwC]] - concept - dossiers/2026-11-17-3.md
+- [[journaldunet.com]] - concept - dossiers/2026-11-17-3.md
+- [[latribune.fr]] - concept - dossiers/2026-11-17-3.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-23-1.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-10 : Régulation, sécurité et éthique"
+community: "California Lawsuit"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-10__Régulation_sécurité_et_éthique
+  - community/California_Lawsuit
 ---
 
 # Rob Bonta
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[California Lawsuit]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-10__Régulation_sécurité_et_éthique
+#graphify/concept #graphify/EXTRACTED #community/California_Lawsuit

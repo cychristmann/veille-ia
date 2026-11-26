@@ -1,29 +1,33 @@
 ---
 type: community
-members: 16
+members: 20
 ---
 
 # Gemini 4 Hydrogen
 
-**Members:** 16 nodes
+**Members:** 20 nodes
 
 ## Members
-- [[18 Jobs ‘A Recession Can’t Kill & Artificial Intelligence Can’t Take’]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
-- [[A Layman Thinks About AI]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
-- [[AI roadmap for ecology foundation models, Nov 2026]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
-- [[Barzilay and Collins Win the 2026 Pritzker Prize for AI in Science Research Excellence]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
-- [[CEO Talks Rémy Baume on Using Customer Insights and AI to Drive Growth at Printemps]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
-- [[Future of AI brain models sparks debate]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
-- [[How AI Security Models Are Redefining Banking Resilience]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
-- [[Human Performance and AI in Sports Analytics Minor Combines Practical Skills with Data Analysis]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
-- [[Japan's Atlas raises $626K for relationship-building AI]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
-- [[LightSite AI Reports Gaps in Website Answers to AI Agent Requests]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
-- [[Meta Expands Instagram AI Age Checks Worldwide]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
-- [[Meta's AI Bot Won’t Revolutionize Your Finances]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
-- [[Microsoft's $5,899 AI Laptop Is Here, and You Should Absolutely Not Buy It]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
-- [[PODCAST Anthropic heads for the ultimate AI benchmark]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
-- [[US and China are failing the same AI race, only differently]] - concept - veilles/veille-ia-us-2026-11-12-t7.md
-- [[Veille États-Unis 2026-11-12]] - document - veilles/veille-ia-us-2026-11-12-t7.md
+- [[Agnes Harness]] - code - veilles/veille-ia-cn-2026-11-20-t4.md
+- [[Antigravity]] - concept - veilles/veille-ia-dev-2026-11-14-t3.md
+- [[Claude Sonnet 5.5]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Dalian University AI Platform]] - concept - veilles/veille-ia-cn-2026-11-20-t4.md
+- [[GPT-6.1 Sol]] - concept - feuilletons/f-0010.md
+- [[Gemini 4 Argon]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
+- [[Gemini 4 Carbon]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Gemini 4 Hydrogen]] - code - veilles/veille-ia-dev-2026-11-13-t5.md
+- [[Gemini Robotics 2.5]] - concept - veilles/veille-ia-dev-2026-11-26-t1.md
+- [[Google Antigravity Orchestrator]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[Google DeepMind]] - code - veilles/veille-ia-us-2026-11-11-t4.md
+- [[MathArena]] - concept - feuilletons/f-0010.md
+- [[OpenBot 1.0]] - concept - veilles/veille-ia-dev-2026-11-13-t1.md
+- [[USC]] - concept - veilles/veille-ia-us-2026-11-25-t3.md
+- [[Veille Chine 2026-11-20  Recherche, Modèles & Technologie]] - document - veilles/veille-ia-cn-2026-11-20-t4.md
+- [[Veille Outils & code 2026-11-13]] - document - veilles/veille-ia-dev-2026-11-13-t1.md
+- [[Veille Outils & code 2026-11-14  Plateformes et infrastructures IA]] - document - veilles/veille-ia-dev-2026-11-14-t3.md
+- [[Veille États-Unis 2026-11-11]] - document - veilles/veille-ia-us-2026-11-11-t4.md
+- [[Veille États-Unis 2026-11-25 (T3)]] - document - veilles/veille-ia-us-2026-11-25-t3.md
+- [[os.neu]] - concept - veilles/veille-ia-dev-2026-11-13-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -31,3 +35,30 @@ members: 16
 TABLE source_file, type FROM #community/Gemini_4_Hydrogen
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 3 edges to [[_COMMUNITY_ASML]]
+- 2 edges to [[_COMMUNITY_Claude Code]]
+- 2 edges to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
+- 2 edges to [[_COMMUNITY_Meta_1]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
+- 1 edge to [[_COMMUNITY_Cursor_1]]
+- 1 edge to [[_COMMUNITY_Adobe Creative Cloud]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Claude Code_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14_1]]
+- 1 edge to [[_COMMUNITY_Signal]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-26]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-19  Financement et mouvements de marché]]
+- 1 edge to [[_COMMUNITY_GPT-6 Astra]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-23  Santé et médecine assistées par l'IA]]
+- 1 edge to [[_COMMUNITY_Qwen4-Max]]
+- 1 edge to [[_COMMUNITY_AMD_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-15]]
+
+## Top bridge nodes
+- [[Gemini 4 Hydrogen]] - degree 13, connects to 5 communities
+- [[Google DeepMind]] - degree 11, connects to 5 communities
+- [[Veille Outils & code 2026-11-13]] - degree 7, connects to 4 communities
+- [[Veille Outils & code 2026-11-14  Plateformes et infrastructures IA]] - degree 6, connects to 3 communities
+- [[Gemini 4 Carbon]] - degree 6, connects to 2 communities

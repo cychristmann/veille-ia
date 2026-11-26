@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-23-t4.md"
 type: "document"
-community: "CoreWeave"
+community: "Suno"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/CoreWeave
+  - community/Suno
 ---
 
 # Veille France 2026-11-23 : IA dans la culture et l’éducation
@@ -14,4 +14,4 @@ tags:
 - [[Nicalis]] - `references` [EXTRACTED]
 - [[Ubisoft]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/CoreWeave
+#graphify/document #graphify/EXTRACTED #community/Suno

@@ -11,6 +11,6 @@ tags:
 # Feuilleton: T‑Head d’Alibaba prépare son introduction en bourse à Hong Kong
 
 ## Connections
-- [[T-Head (Alibaba)]] - `references` [EXTRACTED]
+- [[T-Head]] - `references` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Alibaba

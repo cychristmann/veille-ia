@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0018.md"
 type: "document"
-community: "Nvidia"
+community: "Claude Code"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Nvidia
+  - community/Claude_Code
 ---
 
 # Feuilleton: Wall Street en déroute
@@ -14,4 +14,4 @@ tags:
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[OpenAI]] - `conceptually_related_to` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Nvidia
+#graphify/document #graphify/EXTRACTED #community/Claude_Code

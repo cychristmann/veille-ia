@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-25-t4.md"
 type: "concept"
-community: "Veille France 2026-11-15 : Réflexion et éthique"
+community: "无界进化 (INFevo)"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-15__Réflexion_et_éthique
+  - community/无界进化_INFevo
 ---
 
 # Jync v2.4.6 · AI 运维助手
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-25  Applications Professionnelles et Sectorielles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-15__Réflexion_et_éthique
+#graphify/concept #graphify/EXTRACTED #community/无界进化_INFevo

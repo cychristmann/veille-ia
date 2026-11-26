@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Spotify]] - concept - veilles/veille-ia-fr-2026-11-22-t1.md
+- [[CAIRN]] - concept - dossiers/2026-11-26-1.md
 
 ## Live Query (requires Dataview plugin)
 

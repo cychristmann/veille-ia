@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille Chine 2026-11-22  Normes et architectures IA]] - document - veilles/veille-ia-cn-2026-11-22-t1.md
+- [[Veille États-Unis 2026-11-14  Impact Social, Éthique et Travail]] - document - veilles/veille-ia-us-2026-11-14-t4.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,9 +1,9 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-19-t2.md"
-type: "concept"
+source_file: "veilles/veille-ia-dev-2026-11-13-t5.md"
+type: "code"
 community: "Claude Code"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
   - community/Claude_Code
 ---
@@ -16,15 +16,18 @@ tags:
 - [[Anthropic]] - `conceptually_related_to` [INFERRED]
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Apiiro]] - `references` [EXTRACTED]
+- [[CAM Software]] - `references` [EXTRACTED]
 - [[CROO Skill]] - `references` [EXTRACTED]
 - [[Chasseurs d'essaim]] - `references` [EXTRACTED]
 - [[Claude]] - `references` [EXTRACTED]
 - [[Eclipse Enclave]] - `references` [EXTRACTED]
+- [[Hub]] - `references` [EXTRACTED]
 - [[IDrive AI Agents Backup]] - `shares_data_with` [INFERRED]
 - [[L'Opinion.fr]] - `references` [EXTRACTED]
 - [[Levent Alpöge]] - `references` [EXTRACTED]
 - [[Model Context Protocol (MCP)]] - `references` [EXTRACTED]
 - [[Obsidian]] - `shares_data_with` [INFERRED]
+- [[Opus 5.6]] - `references` [EXTRACTED]
 - [[Tencent]] - `references` [EXTRACTED]
 - [[TestSprite 4.0]] - `conceptually_related_to` [EXTRACTED]
 - [[Tokendoctor]] - `references` [EXTRACTED]
@@ -50,7 +53,9 @@ tags:
 - [[Veille Outils & code 2026-11-23  Sécurité, conformité et fuites liées aux IA]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-24  Claude Ship  Claude Code]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-24  Sécurité des agents de codage IA]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-26]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-26 (T5)]] - `references` [EXTRACTED]
 - [[claudesettings.local.json]] - `references` [EXTRACTED]
 - [[n8n]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Claude_Code
+#graphify/code #graphify/EXTRACTED #community/Claude_Code

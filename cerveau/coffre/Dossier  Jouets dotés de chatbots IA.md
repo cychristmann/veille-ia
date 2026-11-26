@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-24-3.md"
 type: "document"
-community: "Dossier : Jouets dotés de chatbots IA"
+community: "DeepSeek"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Dossier__Jouets_dotés_de_chatbots_IA
+  - community/DeepSeek
 ---
 
 # Dossier : Jouets dotés de chatbots IA
@@ -14,4 +14,4 @@ tags:
 - [[Gabbo (AI Toy)]] - `references` [EXTRACTED]
 - [[Kumma (AI Toy)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Dossier__Jouets_dotés_de_chatbots_IA
+#graphify/document #graphify/EXTRACTED #community/DeepSeek

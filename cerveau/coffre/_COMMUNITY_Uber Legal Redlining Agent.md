@@ -1,0 +1,21 @@
+---
+type: community
+members: 4
+---
+
+# Uber Legal Redlining Agent
+
+**Members:** 4 nodes
+
+## Members
+- [[LangGraph]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[OpenSearch]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[Redis]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[Uber Legal Redlining Agent]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+
+## Live Query (requires Dataview plugin)
+
+```dataview
+TABLE source_file, type FROM #community/Uber_Legal_Redlining_Agent
+SORT file.name ASC
+```

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-16-t5.md"
 type: "concept"
-community: "Veille France 2026-11-16 : Applications sectorielles et industrielles"
+community: "Libertify"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-16__Applications_sectorielles_et_industrielles
+  - community/Libertify
 ---
 
 # Kitesurf : Cloudflare libère le code source de son navigateur pour agents IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-16]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-16__Applications_sectorielles_et_industrielles
+#graphify/concept #graphify/EXTRACTED #community/Libertify

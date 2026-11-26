@@ -1,26 +1,24 @@
 ---
 type: community
-members: 13
+members: 11
 ---
 
 # Meta
 
-**Members:** 13 nodes
+**Members:** 11 nodes
 
 ## Members
-- [[ADA Space]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
-- [[Anshi China]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
-- [[Baidu Maps]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
-- [[GreatWall Robotics]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
-- [[Guoxing Aerospace]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
-- [[Omdia]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
-- [[RISC-V]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
-- [[Star Compute]] - concept - feuilletons/f-0015.md
-- [[Star-Compute Project]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
-- [[Unisound]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
-- [[Veille Chine 2026-11-13]] - document - veilles/veille-ia-cn-2026-11-13-t6.md
-- [[Zhang Qiuming]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
-- [[Zhipu]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
+- [[AWS Trainium]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
+- [[Amazon Bedrock AgentCore]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
+- [[Azure Logic Apps CLI]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
+- [[Duco]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Gemini Decisions API]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
+- [[SGLang-Neuron]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
+- [[SWARM]] - concept - veilles/veille-ia-dev-2026-11-13-t3.md
+- [[Strands harness]] - concept - veilles/veille-ia-dev-2026-11-19-t1.md
+- [[TPU Sync]] - concept - veilles/veille-ia-dev-2026-11-14-t3.md
+- [[Veille Outils & code 2026-11-12  Déploiement et infrastructure IA]] - document - veilles/veille-ia-dev-2026-11-12-t2.md
+- [[Veille Outils & code 2026-11-12  Nouveaux modèles et performances]] - document - veilles/veille-ia-dev-2026-11-12-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -30,15 +28,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_Meta]]
-- 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_David Tepper]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
-- 1 edge to [[_COMMUNITY_OpenRouter]]
-- 1 edge to [[_COMMUNITY_Model Context Protocol (MCP)]]
-- 1 edge to [[_COMMUNITY_Jensen Huang]]
+- 2 edges to [[_COMMUNITY_Gemini 4 Hydrogen]]
+- 1 edge to [[_COMMUNITY_Hypothèse de Riemann]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14  Autres articles]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-08]]
 
 ## Top bridge nodes
-- [[Veille Chine 2026-11-13]] - degree 17, connects to 7 communities
-- [[Star Compute]] - degree 2, connects to 1 community
+- [[Amazon Bedrock AgentCore]] - degree 7, connects to 3 communities
+- [[Veille Outils & code 2026-11-12  Déploiement et infrastructure IA]] - degree 6, connects to 1 community
+- [[TPU Sync]] - degree 2, connects to 1 community
+- [[Duco]] - degree 2, connects to 1 community

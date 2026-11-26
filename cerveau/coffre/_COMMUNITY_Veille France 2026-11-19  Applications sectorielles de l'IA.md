@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[ABB]] - concept - veilles/veille-ia-us-2026-11-24-t4.md
-- [[HiPerGuard 34,5 kV]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
-- [[Intelleqt]] - concept - veilles/veille-ia-us-2026-11-24-t4.md
-- [[Veille États-Unis 2026-11-24  Produits, Services & Expériences utilisateur]] - document - veilles/veille-ia-us-2026-11-24-t4.md
+- [[Retail IA Agents]] - concept - veilles/veille-ia-fr-2026-11-26-t6.md
+- [[Risks of IA Medical Advice]] - concept - veilles/veille-ia-fr-2026-11-26-t6.md
+- [[SpaceX Satellite IA Project]] - concept - veilles/veille-ia-fr-2026-11-26-t6.md
+- [[Veille France 2026-11-26  Autres articles]] - document - veilles/veille-ia-fr-2026-11-26-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,9 +19,3 @@ members: 4
 TABLE source_file, type FROM #community/Veille_France_2026-11-19__Applications_sectorielles_de_lIA
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Meta]]
-
-## Top bridge nodes
-- [[Veille États-Unis 2026-11-24  Produits, Services & Expériences utilisateur]] - degree 2, connects to 1 community

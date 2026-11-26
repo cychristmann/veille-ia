@@ -1,23 +1,24 @@
 ---
 type: community
-members: 10
+members: 11
 ---
 
 # OpenRouter
 
-**Members:** 10 nodes
+**Members:** 11 nodes
 
 ## Members
-- [[ByteDance]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[Deepal L07]] - concept - veilles/veille-ia-cn-2026-11-23-t6.md
-- [[Doubao]] - concept - veilles/veille-ia-cn-2026-11-23-t6.md
-- [[JD.com]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
-- [[Kimi]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[Taobao]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[Veille Chine 2026-11-12  IA dans le commerce et le divertissement]] - document - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[傲融云客]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[息壤杯]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[绿地南昌卢塞恩OPC社区]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
+- [[AI Short Dramas]] - concept - veilles/veille-ia-cn-2026-11-14-t3.md
+- [[AI4 Chip]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
+- [[SCMP Tech]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
+- [[Sanxingdui Future Past]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
+- [[Tencent Chatterfly]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
+- [[Tesla FSD v15]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
+- [[Tesla Reality View]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
+- [[Veille Chine 2026-11-14  Médias, création et divertissement IA]] - document - veilles/veille-ia-cn-2026-11-14-t3.md
+- [[Veille Chine 2026-11-15  Contenu et divertissement IA]] - document - veilles/veille-ia-cn-2026-11-15-t1.md
+- [[Veille Chine 2026-11-22]] - document - veilles/veille-ia-cn-2026-11-22-t4.md
+- [[投资界]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,13 +26,3 @@ members: 10
 TABLE source_file, type FROM #community/OpenRouter
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_DeepSeek_1]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-23]]
-- 1 edge to [[_COMMUNITY_Meta_1]]
-
-## Top bridge nodes
-- [[Doubao]] - degree 4, connects to 1 community
-- [[Deepal L07]] - degree 2, connects to 1 community
-- [[JD.com]] - degree 2, connects to 1 community

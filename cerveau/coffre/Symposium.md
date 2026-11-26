@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-20-t2.md"
 type: "concept"
-community: "Agent Client Protocol (ACP)"
+community: "Veille États-Unis 2026-11-19 : Éthique, sécurité et impact sociétal"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Agent_Client_Protocol_ACP
+  - community/Veille_États-Unis_2026-11-19__Éthique_sécurité_et_impact_sociétal
 ---
 
 # Symposium
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Agent Client Protocol (ACP)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Agent_Client_Protocol_ACP
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-19__Éthique_sécurité_et_impact_sociétal

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-13-t4.md"
 type: "document"
-community: "Hypothèse de Riemann"
+community: "Veille Outils & code 2026-11-20"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Hypothèse_de_Riemann
+  - community/Veille_Outils__code_2026-11-20
 ---
 
 # Veille Chine 2026-11-13 : Régulation, compétition et marché
@@ -17,4 +17,4 @@ tags:
 - [[上海市科学数据管理办法]] - `references` [EXTRACTED]
 - [[第七届中国人工智能大赛]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Hypothèse_de_Riemann
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-20

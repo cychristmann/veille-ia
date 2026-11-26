@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-12-t2.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-13 : Développements et investissements corporatifs"
+community: "Adobe Creative Cloud"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+  - community/Adobe_Creative_Cloud
 ---
 
 # r/LocalLLM
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Local LLM Server]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+#graphify/concept #graphify/EXTRACTED #community/Adobe_Creative_Cloud

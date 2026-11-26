@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Wuhan University of Science and Technology
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[AI Ethics]] - concept - feuilletons/f-0047.md
-- [[Feuilleton Expériences d'IA désignant des civils comme cibles militaires]] - document - feuilletons/f-0047.md
+- [[Wuhan University of Science and Technology]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
 
 ## Live Query (requires Dataview plugin)
 

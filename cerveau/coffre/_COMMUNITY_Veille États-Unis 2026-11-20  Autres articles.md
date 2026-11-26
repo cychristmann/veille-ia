@@ -1,16 +1,15 @@
 ---
 type: community
-members: 3
+members: 2
 ---
 
 # Veille États-Unis 2026-11-20 : Autres articles
 
-**Members:** 3 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Academic Misconduct]] - concept - veilles/veille-ia-cn-2026-11-19-t4.md
-- [[Central South University]] - concept - veilles/veille-ia-cn-2026-11-19-t4.md
-- [[Veille Chine 2026-11-19  Recherche et Éthique]] - document - veilles/veille-ia-cn-2026-11-19-t4.md
+- [[AI ‘Handoverism’. Who Wants to Hand AI the Keys AI-RTZ 1276]] - concept - veilles/veille-ia-us-2026-11-20-t6.md
+- [[Veille États-Unis 2026-11-20  Autres articles]] - document - veilles/veille-ia-us-2026-11-20-t6.md
 
 ## Live Query (requires Dataview plugin)
 

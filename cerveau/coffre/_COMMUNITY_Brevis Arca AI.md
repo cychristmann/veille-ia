@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Brevis Arca AI
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Allspring Global Investments]] - concept - dossiers/2026-11-20-2.md
-- [[Gary Tan]] - concept - dossiers/2026-11-20-2.md
+- [[Brevis Arca AI]] - concept - veilles/veille-ia-dev-2026-11-18-t1.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-17-t3.md"
 type: "concept"
-community: "ChatGPT Wallet"
+community: "Veille France 2026-11-25 : Société, éthique et éducation"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ChatGPT_Wallet
+  - community/Veille_France_2026-11-25__Société_éthique_et_éducation
 ---
 
 # ChatGPT Wallet
@@ -19,4 +19,4 @@ tags:
 - [[Veille Outils & code 2026-11-17 (T3)]] - `references` [EXTRACTED]
 - [[Verifiable Intent]] - `conceptually_related_to` [INFERRED]
 
-#graphify/concept #graphify/EXTRACTED #community/ChatGPT_Wallet
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-25__Société_éthique_et_éducation

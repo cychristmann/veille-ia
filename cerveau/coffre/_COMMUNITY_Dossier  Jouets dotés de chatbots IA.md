@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Dossier  Jouets dotés de chatbots IA]] - document - dossiers/2026-11-24-3.md
-- [[GPT-4o]] - concept - dossiers/2026-11-24-3.md
-- [[Gabbo (AI Toy)]] - concept - dossiers/2026-11-24-3.md
-- [[Kumma (AI Toy)]] - concept - dossiers/2026-11-24-3.md
-- [[L'IA dans la petite enfance]] - document - dossiers/2026-11-24-3.md
-- [[Université de Cambridge]] - concept - dossiers/2026-11-24-3.md
+- [[Community Impact]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Daily Herald]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Federal News Network]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Inside Global Tech]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[News 5 Cleveland WEWS]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Veille États-Unis 2026-11-09  Régulation et politiques publiques]] - document - veilles/veille-ia-us-2026-11-09-t1.md
 
 ## Live Query (requires Dataview plugin)
 

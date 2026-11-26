@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Conjecture de Riemann]] - concept - veilles/veille-ia-cn-2026-11-22-t3.md
-- [[Shing-Tung Yau]] - concept - veilles/veille-ia-cn-2026-11-22-t3.md
-- [[Veille Chine 2026-11-22  Percées scientifiques et mathématiques grâce à l'IA]] - document - veilles/veille-ia-cn-2026-11-22-t3.md
+- [[AI+Manufacturing]] - concept - veilles/veille-ia-cn-2026-11-13-t2.md
+- [[IA et création de contenus courts]] - concept - veilles/veille-ia-cn-2026-11-13-t2.md
+- [[Veille Chine 2026-11-13  Industrie et fabrication]] - document - veilles/veille-ia-cn-2026-11-13-t2.md
 
 ## Live Query (requires Dataview plugin)
 

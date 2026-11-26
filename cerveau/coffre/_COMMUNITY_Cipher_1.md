@@ -1,17 +1,16 @@
 ---
 type: community
-members: 4
+members: 3
 ---
 
 # Cipher
 
-**Members:** 4 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[IA dans le commerce et la consommation]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
-- [[IA dans le recrutement]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
-- [[Souveraineté numérique et IA]] - concept - veilles/veille-ia-fr-2026-11-16-t3.md
-- [[Veille France 2026-11-16  Applications sectorielles et industrielles]] - document - veilles/veille-ia-fr-2026-11-16-t3.md
+- [[Infrastructure IA (Cloud, Supercalculateurs, Centres de données)]] - concept - veilles/veille-ia-fr-2026-11-20-t5.md
+- [[Surveillance et interprétabilité des modèles d'IA]] - concept - veilles/veille-ia-fr-2026-11-20-t5.md
+- [[Veille France 2026-11-20  Infrastructure, technologie et performance]] - document - veilles/veille-ia-fr-2026-11-20-t5.md
 
 ## Live Query (requires Dataview plugin)
 

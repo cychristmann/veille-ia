@@ -1,17 +1,20 @@
 ---
 type: community
-members: 4
+members: 7
 ---
 
 # Veille France 2026-11-19 : Autres articles
 
-**Members:** 4 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Géopolitique de l'IA]] - concept - veilles/veille-ia-fr-2026-11-19-t6.md
-- [[IA dans l'éducation]] - concept - veilles/veille-ia-fr-2026-11-19-t6.md
-- [[Réglementation de l'IA]] - concept - veilles/veille-ia-fr-2026-11-19-t6.md
-- [[Veille France 2026-11-19  Autres articles]] - document - veilles/veille-ia-fr-2026-11-19-t6.md
+- [[Bay (start-up)]] - concept - veilles/veille-ia-fr-2026-11-10-t2.md
+- [[Feuilleton Infineon mise sur la croissance des data‑centres IA malgré la contestation]] - document - feuilletons/f-0007.md
+- [[Feuilleton Levée de fonds de 50 M$ pour la start‑up israélienne de cybersécurité IA Bay]] - document - feuilletons/f-0004.md
+- [[Infineon]] - concept - veilles/veille-ia-fr-2026-11-10-t2.md
+- [[T-Head (Alibaba)]] - concept - veilles/veille-ia-fr-2026-11-10-t2.md
+- [[Veille France 2026-11-10  Financement, marchés et IPO]] - document - veilles/veille-ia-fr-2026-11-10-t2.md
+- [[Veille États-Unis 2026-11-10  Infrastructure et data‑centers]] - document - veilles/veille-ia-us-2026-11-10-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,8 +24,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-19  Autres articles]] - degree 5, connects to 2 communities
+- [[Veille France 2026-11-10  Financement, marchés et IPO]] - degree 4, connects to 1 community

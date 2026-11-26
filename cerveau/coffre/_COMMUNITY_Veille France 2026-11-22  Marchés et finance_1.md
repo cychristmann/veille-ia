@@ -8,11 +8,11 @@ members: 5
 **Members:** 5 nodes
 
 ## Members
-- [[Alessandro Masullo]] - code - veilles/veille-ia-fr-2026-11-22-t5.md
-- [[Maple]] - code - veilles/veille-ia-fr-2026-11-22-t5.md
-- [[Nifty 50]] - code - veilles/veille-ia-fr-2026-11-22-t5.md
-- [[Ravi Vakil]] - code - veilles/veille-ia-fr-2026-11-22-t5.md
-- [[Veille France 2026-11-22  Marchés et finance]] - document - veilles/veille-ia-fr-2026-11-22-t5.md
+- [[Cursor Claude Code Extension Incident]] - concept - veilles/veille-ia-dev-2026-11-16-t3.md
+- [[FireworksAI Hack]] - concept - veilles/veille-ia-dev-2026-11-16-t3.md
+- [[Google Chubby]] - concept - veilles/veille-ia-dev-2026-11-16-t3.md
+- [[Uber's Secure AI Framework]] - concept - veilles/veille-ia-dev-2026-11-16-t3.md
+- [[Veille Outils & code 2026-11-16  Sécurité, gouvernance et cadres pour IA autonome]] - document - veilles/veille-ia-dev-2026-11-16-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,8 +22,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Riemann Hypothesis]]
-- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Qwen]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-22  Marchés et finance]] - degree 6, connects to 2 communities
+- [[Veille Outils & code 2026-11-16  Sécurité, gouvernance et cadres pour IA autonome]] - degree 5, connects to 2 communities

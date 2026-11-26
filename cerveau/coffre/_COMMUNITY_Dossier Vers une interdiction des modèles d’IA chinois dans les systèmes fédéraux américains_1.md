@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Veille Chine 2026-11-21  Applications sectorielles de l’IA]] - document - veilles/veille-ia-cn-2026-11-21-t3.md
-- [[华为OSTA星芒 O1 Pro]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
-- [[托普云农发布智能（AI）虫情测报灯9.0]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
-- [[物理AI浪潮下，在手订单充足的8家公司]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
-- [[程子芮：AI推动金融科技从数字化到数智化]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
-- [[香港人工智能与生命科学伦理研究院]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[Alibaba Domestic Computing Power Strategy]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
+- [[Grab AI Code Security Strategy]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
+- [[Linger Project (Open Source)]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
+- [[OpenAI Chip Redesign Breakthroughs]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
+- [[SpaceX AI Chip Debt Financing Conflict]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
+- [[Veille Chine 2026-11-20]] - document - veilles/veille-ia-cn-2026-11-20-t7.md
 
 ## Live Query (requires Dataview plugin)
 

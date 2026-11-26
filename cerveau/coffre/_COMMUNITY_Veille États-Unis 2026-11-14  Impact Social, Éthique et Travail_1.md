@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille États-Unis 2026-11-14 : Impact Social, Éthique et Travail
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Beijing University of Posts and Telecommunications]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Oku Dating Platform]] - concept - veilles/veille-ia-dev-2026-11-16-t6.md
+- [[Veille Outils & code 2026-11-16  Autres articles]] - document - veilles/veille-ia-dev-2026-11-16-t6.md
 
 ## Live Query (requires Dataview plugin)
 

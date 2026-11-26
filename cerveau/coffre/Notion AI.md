@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-10-t4.md"
 type: "concept"
-community: "Veille France 2026-11-12 : Régulation, éthique et impacts sociétaux"
+community: "Cursor"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-12__Régulation_éthique_et_impacts_sociétaux
+  - community/Cursor
 ---
 
 # Notion AI
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Notion]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-12__Régulation_éthique_et_impacts_sociétaux
+#graphify/concept #graphify/EXTRACTED #community/Cursor

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-23-t5.md"
 type: "concept"
-community: "Agentic AI"
+community: "CVS Health"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Agentic_AI
+  - community/CVS_Health
 ---
 
 # Agentic AI
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-23  Autres articles]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Agentic_AI
+#graphify/concept #graphify/EXTRACTED #community/CVS_Health

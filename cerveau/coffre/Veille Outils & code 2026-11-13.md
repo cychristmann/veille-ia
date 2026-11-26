@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-13-t1.md"
 type: "document"
-community: "Cursor"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Cursor
+  - community/Gemini_4_Hydrogen
 ---
 
 # Veille Outils & code 2026-11-13
@@ -19,4 +19,4 @@ tags:
 - [[OpenBot 1.0]] - `references` [EXTRACTED]
 - [[os.neu]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Cursor
+#graphify/document #graphify/EXTRACTED #community/Gemini_4_Hydrogen

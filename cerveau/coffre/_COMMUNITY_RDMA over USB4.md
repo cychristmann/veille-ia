@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[ASE Technology]] - concept - veilles/veille-ia-fr-2026-11-22-t2.md
-- [[Taiwan Fore Electronics]] - concept - veilles/veille-ia-fr-2026-11-22-t2.md
+- [[Le Monde Pixels]] - concept - feuilletons/f-0027.md
+- [[Ukraine Conflict]] - concept - feuilletons/f-0027.md
 
 ## Live Query (requires Dataview plugin)
 

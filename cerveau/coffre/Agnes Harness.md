@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-20-t4.md"
 type: "code"
-community: "GPT-6 Astra"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Gemini_4_Hydrogen
 ---
 
 # Agnes Harness
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-20  Recherche, Modèles & Technologie]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/code #graphify/EXTRACTED #community/Gemini_4_Hydrogen

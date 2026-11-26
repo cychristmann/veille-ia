@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0013.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-13 : Développements et investissements corporatifs"
+community: "Snowflake"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+  - community/Snowflake
 ---
 
 # Snowflake
@@ -14,4 +14,4 @@ tags:
 - [[Cortex]] - `references` [EXTRACTED]
 - [[Feuilleton Snowflake lance des agents IA autonomes pour les entreprises]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Développements_et_investissements_corporatifs
+#graphify/concept #graphify/EXTRACTED #community/Snowflake

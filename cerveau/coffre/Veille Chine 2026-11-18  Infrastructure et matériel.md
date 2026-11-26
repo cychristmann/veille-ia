@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-18-t1.md"
 type: "document"
-community: "Veille Chine 2026-11-21"
+community: "Huawei"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-21
+  - community/Huawei
 ---
 
 # Veille Chine 2026-11-18 : Infrastructure et matériel
@@ -17,4 +17,4 @@ tags:
 - [[Huawei]] - `references` [EXTRACTED]
 - [[Microsoft]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-21
+#graphify/document #graphify/EXTRACTED #community/Huawei

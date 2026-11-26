@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-24-t6.md"
 type: "concept"
-community: "Veille France 2026-11-24 : Régulation, gouvernance et sécurité IA"
+community: "AI Governance"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-24__Régulation_gouvernance_et_sécurité_IA
+  - community/AI_Governance
 ---
 
 # Israel Aerospace Industries
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-24]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-24__Régulation_gouvernance_et_sécurité_IA
+#graphify/concept #graphify/EXTRACTED #community/AI_Governance

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-19-t4.md"
 type: "concept"
-community: "GPT-6 Astra"
+community: "ASML"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/ASML
 ---
 
 # GPT-6 Astra
@@ -24,4 +24,4 @@ tags:
 - [[Veille Outils & code 2026-11-18]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-22 (t4)]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/concept #graphify/EXTRACTED #community/ASML

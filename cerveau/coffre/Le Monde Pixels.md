@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0027.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-17 : Régulation et litiges"
+community: "RDMA over USB4"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-17__Régulation_et_litiges
+  - community/RDMA_over_USB4
 ---
 
 # Le Monde Pixels
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Ukraine Conflict]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-17__Régulation_et_litiges
+#graphify/concept #graphify/EXTRACTED #community/RDMA_over_USB4

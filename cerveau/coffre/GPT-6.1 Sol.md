@@ -1,13 +1,16 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-13-t2.md"
+source_file: "feuilletons/f-0010.md"
 type: "concept"
-community: "GPT-6.1 Sol"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/GPT-61_Sol
+  - community/Gemini_4_Hydrogen
 ---
 
 # GPT-6.1 Sol
 
-#graphify/concept #graphify/EXTRACTED #community/GPT-61_Sol
+## Connections
+- [[Gemini 4 Carbon]] - `references` [EXTRACTED]
+
+#graphify/concept #graphify/EXTRACTED #community/Gemini_4_Hydrogen

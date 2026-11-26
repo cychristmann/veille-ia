@@ -1,24 +1,15 @@
 ---
 type: community
-members: 11
+members: 2
 ---
 
 # AgentMon Live
 
-**Members:** 11 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[BFM]] - concept - veilles/veille-ia-fr-2026-11-25-t2.md
-- [[Ifop]] - concept - veilles/veille-ia-fr-2026-11-25-t2.md
-- [[Ipsos]] - concept - veilles/veille-ia-fr-2026-11-25-t2.md
-- [[L'Alsace]] - concept - veilles/veille-ia-fr-2026-11-25-t2.md
-- [[La Revue française de Généalogie]] - concept - veilles/veille-ia-fr-2026-11-25-t2.md
-- [[Medadom]] - concept - veilles/veille-ia-fr-2026-11-25-t2.md
-- [[Orange Actualités]] - concept - veilles/veille-ia-fr-2026-11-25-t2.md
-- [[Ouest-France]] - concept - veilles/veille-ia-fr-2026-11-25-t2.md
-- [[Presse Agence]] - concept - veilles/veille-ia-fr-2026-11-25-t2.md
-- [[Science et vie]] - document - feuilletons/f-0047.md
-- [[Veille France 2026-11-25  Santé, médecine et recherche]] - document - veilles/veille-ia-fr-2026-11-25-t2.md
+- [[AgentMon Live]] - concept - veilles/veille-ia-dev-2026-11-24-t2.md
+- [[Codenotary]] - concept - veilles/veille-ia-dev-2026-11-24-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,3 +17,9 @@ members: 11
 TABLE source_file, type FROM #community/AgentMon_Live
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Claude Code_1]]
+
+## Top bridge nodes
+- [[AgentMon Live]] - degree 2, connects to 1 community

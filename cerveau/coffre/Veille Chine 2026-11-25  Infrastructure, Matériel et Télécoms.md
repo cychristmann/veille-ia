@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-25-t3.md"
 type: "document"
-community: "Veille Chine 2026-11-24"
+community: "Lenovo"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-24
+  - community/Lenovo
 ---
 
 # Veille Chine 2026-11-25 : Infrastructure, Matériel et Télécoms
@@ -16,4 +16,4 @@ tags:
 - [[PANSTONE GPC]] - `references` [EXTRACTED]
 - [[Vyoma.AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-24
+#graphify/document #graphify/EXTRACTED #community/Lenovo

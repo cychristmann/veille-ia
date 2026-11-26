@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0003.md"
 type: "concept"
-community: "Claude"
+community: "Claude Code"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Claude
+  - community/Claude_Code
 ---
 
 # Mythos 5.2
@@ -14,4 +14,4 @@ tags:
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Claude]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Claude
+#graphify/concept #graphify/EXTRACTED #community/Claude_Code

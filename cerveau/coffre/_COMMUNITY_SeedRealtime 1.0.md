@@ -8,13 +8,13 @@ members: 7
 **Members:** 7 nodes
 
 ## Members
-- [[BioMap]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[Jilin Province]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[SeedRealtime 1.0]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[Veille Chine 2026-11-19  Applications industrielles]] - document - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[Volcano Engine]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[Yuewen]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
-- [[ZTE]] - concept - veilles/veille-ia-cn-2026-11-19-t3.md
+- [[Acteurs du secteur privé IA (Anthropic, OpenAI, Elon Musk)]] - concept - dossiers/2026-11-24-1.md
+- [[Appel à l’action de Bridgetown]] - document - dossiers/2026-11-24-1.md
+- [[Dossier  Vers un cadre mondial de sécurité de l’IA]] - document - dossiers/2026-11-24-1.md
+- [[France]] - concept - dossiers/2026-11-24-1.md
+- [[SALA (Systèmes d'armes létales autonomes)]] - concept - dossiers/2026-11-25-1.md
+- [[Sommet spécial de Bridgetown]] - concept - dossiers/2026-11-24-1.md
+- [[Sud global]] - concept - dossiers/2026-11-24-1.md
 
 ## Live Query (requires Dataview plugin)
 

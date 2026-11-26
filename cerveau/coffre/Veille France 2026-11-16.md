@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-16-t6.md"
 type: "document"
-community: "Veille France 2026-11-16 : Applications sectorielles et industrielles"
+community: "Libertify"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-16__Applications_sectorielles_et_industrielles
+  - community/Libertify
 ---
 
 # Veille France 2026-11-16
@@ -20,4 +20,4 @@ tags:
 - [[SambaNova associe les GPU Intel au SN50]] - `references` [EXTRACTED]
 - [[Wotton Kearney déploie l’IA juridique Harvey]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-16__Applications_sectorielles_et_industrielles
+#graphify/document #graphify/EXTRACTED #community/Libertify

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-12-t2.md"
 type: "concept"
-community: "Hugging Face"
+community: "Meta"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Hugging_Face
+  - community/Meta
 ---
 
 # Azure Logic Apps CLI
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Outils & code 2026-11-12  Déploiement et infrastructure IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Hugging_Face
+#graphify/concept #graphify/EXTRACTED #community/Meta

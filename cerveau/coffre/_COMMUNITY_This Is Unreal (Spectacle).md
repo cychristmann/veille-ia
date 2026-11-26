@@ -1,16 +1,21 @@
 ---
 type: community
-members: 3
+members: 8
 ---
 
 # This Is Unreal (Spectacle)
 
-**Members:** 3 nodes
+**Members:** 8 nodes
 
 ## Members
-- [[Liz Santoro]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[Pierre Godard]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[This Is Unreal (Spectacle)]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
+- [[AI Ethics in Education]] - concept - veilles/veille-ia-us-2026-11-15-t1.md
+- [[Choi Kyo-jin]] - concept - dossiers/2026-11-22-2.md
+- [[Feuilleton Scandale de triche à l'IA en Corée du Sud]] - document - feuilletons/f-0040.md
+- [[Han Won-seok]] - concept - dossiers/2026-11-22-2.md
+- [[Lee Jae-myung]] - concept - dossiers/2026-11-22-2.md
+- [[Ministry of Education]] - concept - dossiers/2026-11-22-2.md
+- [[Suneung Exam]] - concept - dossiers/2026-11-22-2.md
+- [[Veille États-Unis 2026-11-15  Scandale de triche à l'IA]] - document - veilles/veille-ia-us-2026-11-15-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +25,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-15]]
+- 1 edge to [[_COMMUNITY_Claude Code_2]]
 
 ## Top bridge nodes
-- [[This Is Unreal (Spectacle)]] - degree 3, connects to 1 community
+- [[Han Won-seok]] - degree 3, connects to 1 community

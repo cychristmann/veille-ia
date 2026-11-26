@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Feuilleton Centre international d’IA militaire français ouvert à Rennes]] - document - feuilletons/f-0023.md
+- [[Affaire de triche IA au baccalauréat sud‑coréen  le ministre de l’Éducation démissionne]] - document - dossiers/2026-11-22-2.md
 
 ## Live Query (requires Dataview plugin)
 

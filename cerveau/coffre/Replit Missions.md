@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-18-t2.md"
 type: "concept"
-community: "AMD"
+community: "Hypothèse de Riemann"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AMD
+  - community/Hypothèse_de_Riemann
 ---
 
 # Replit Missions
@@ -14,4 +14,4 @@ tags:
 - [[Veille Outils & code 2026-11-18]] - `references` [EXTRACTED]
 - [[Vibe Coding]] - `conceptually_related_to` [INFERRED]
 
-#graphify/concept #graphify/EXTRACTED #community/AMD
+#graphify/concept #graphify/EXTRACTED #community/Hypothèse_de_Riemann

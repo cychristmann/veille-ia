@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-19-t2.md"
 type: "concept"
-community: "Hugging Face"
+community: "Claude"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Hugging_Face
+  - community/Claude
 ---
 
 # BlackRock
@@ -14,4 +14,4 @@ tags:
 - [[Larry Fink]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-19  Régulation et politique]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Hugging_Face
+#graphify/concept #graphify/EXTRACTED #community/Claude

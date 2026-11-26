@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-13 : Enjeux du marché et turbulences
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Lunit]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
-- [[M42]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
+- [[Veille États-Unis 2026-11-13  Enjeux du marché et turbulences]] - document - veilles/veille-ia-us-2026-11-13-t4.md
 
 ## Live Query (requires Dataview plugin)
 

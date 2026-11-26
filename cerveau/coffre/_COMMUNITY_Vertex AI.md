@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Vertex AI
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Canva MCP]] - concept - veilles/veille-ia-dev-2026-11-25-t1.md
+- [[Accenture]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
+- [[Qantas]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
 
 ## Live Query (requires Dataview plugin)
 

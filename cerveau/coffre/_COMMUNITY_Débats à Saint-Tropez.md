@@ -1,23 +1,24 @@
 ---
 type: community
-members: 10
+members: 11
 ---
 
 # Débats à Saint-Tropez
 
-**Members:** 10 nodes
+**Members:** 11 nodes
 
 ## Members
-- [[APEC]] - concept - veilles/veille-ia-cn-2026-11-17-t5.md
-- [[Barclays Research]] - concept - dossiers/2026-11-13-2.md
-- [[Chinese Robotics Industry]] - concept - dossiers/2026-11-13-2.md
-- [[Fitch Ratings (惠誉)]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
-- [[Korean Financial Supervisory Service (韩国金融监督院)]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
-- [[Li Dongsheng]] - code - veilles/veille-ia-cn-2026-11-17-t5.md
-- [[Morgan Stanley]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
-- [[Sinch]] - concept - veilles/veille-ia-cn-2026-11-19-t1.md
-- [[TCL]] - code - veilles/veille-ia-cn-2026-11-17-t5.md
-- [[Veille Chine 2026-11-19  Régulation & Gouvernance IA]] - document - veilles/veille-ia-cn-2026-11-19-t1.md
+- [[BlogNT]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[Brief IA]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[CNews]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[Fortuneo]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[FranceTransactions.com]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[Graphseo Bourse]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[Investing.com France]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[Le Figaro]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[Les Echos]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[Veille France 2026-11-20  IPO et dynamique du marché de l'IA]] - document - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[Zonebourse]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -27,9 +28,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
 
 ## Top bridge nodes
-- [[Veille Chine 2026-11-19  Régulation & Gouvernance IA]] - degree 6, connects to 1 community
-- [[Morgan Stanley]] - degree 3, connects to 1 community
+- [[Veille France 2026-11-20  IPO et dynamique du marché de l'IA]] - degree 11, connects to 1 community

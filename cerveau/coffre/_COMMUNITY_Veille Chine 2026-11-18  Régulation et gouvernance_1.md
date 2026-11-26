@@ -1,17 +1,18 @@
 ---
 type: community
-members: 4
+members: 5
 ---
 
 # Veille Chine 2026-11-18 : Régulation et gouvernance
 
-**Members:** 4 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Veille Chine 2026-11-18  Régulation et gouvernance]] - document - veilles/veille-ia-cn-2026-11-18-t4.md
-- [[「万字长文」大模型异步 RL 框架的设计与权衡：从 Staleness 控制谈起]] - document - veilles/veille-ia-cn-2026-11-18-t4.md
-- [[惠誉：AI基础设施投资仍在扩大 商业化与投资回报待验证]] - document - veilles/veille-ia-cn-2026-11-18-t4.md
-- [[证监会澄清监管要求基金公司上报全部产品AI敞口传闻]] - document - veilles/veille-ia-cn-2026-11-18-t4.md
+- [[CASRAI]] - concept - veilles/veille-ia-us-2026-11-16-t5.md
+- [[China Securities Regulatory Commission]] - concept - veilles/veille-ia-us-2026-11-18-t3.md
+- [[EDPB]] - concept - veilles/veille-ia-us-2026-11-16-t5.md
+- [[San Joaquin County]] - concept - veilles/veille-ia-us-2026-11-18-t3.md
+- [[Veille États-Unis 2026-11-18  Régulation, litiges et gouvernance]] - document - veilles/veille-ia-us-2026-11-18-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,3 +20,14 @@ members: 4
 TABLE source_file, type FROM #community/Veille_Chine_2026-11-18__Régulation_et_gouvernance
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Claude Code_1]]
+- 1 edge to [[_COMMUNITY_Microsoft_1]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_Huawei]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-16]]
+
+## Top bridge nodes
+- [[CASRAI]] - degree 5, connects to 3 communities
+- [[Veille États-Unis 2026-11-18  Régulation, litiges et gouvernance]] - degree 5, connects to 2 communities

@@ -1,19 +1,18 @@
 ---
 type: community
-members: 6
+members: 5
 ---
 
 # Veille France 2026-11-15 : Réflexion et éthique
 
-**Members:** 6 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[AI赋能风险画像 厦门国际银行织牢普惠反洗钱风控网]] - concept - veilles/veille-ia-cn-2026-11-25-t4.md
-- [[Jync v2.4.6 · AI 运维助手]] - concept - veilles/veille-ia-cn-2026-11-25-t4.md
-- [[Netflix 基于运维数据打造知识图谱，实现 AI 可观测性]] - concept - veilles/veille-ia-cn-2026-11-25-t4.md
-- [[Veille Chine 2026-11-25  Applications Professionnelles et Sectorielles]] - document - veilles/veille-ia-cn-2026-11-25-t4.md
-- [[从模型创新到临床获益：全球医学AI专家齐聚上海]] - concept - veilles/veille-ia-cn-2026-11-25-t4.md
-- [[抖音生活服务推出“豆糕”AI经营一体机]] - concept - veilles/veille-ia-cn-2026-11-25-t4.md
+- [[Crimson Desert]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
+- [[Pascal Haté]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
+- [[Pearl Abyss]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
+- [[SMARTANCE]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
+- [[Veille France 2026-11-15  Réflexion et éthique]] - document - veilles/veille-ia-fr-2026-11-15-t5.md
 
 ## Live Query (requires Dataview plugin)
 

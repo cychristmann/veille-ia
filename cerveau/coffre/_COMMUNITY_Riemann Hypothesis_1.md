@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Arduino]] - concept - veilles/veille-ia-us-2026-11-14-t3.md
-- [[Databricks]] - concept - veilles/veille-ia-us-2026-11-14-t3.md
-- [[Grok]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
-- [[Kiro]] - code - veilles/veille-ia-dev-2026-11-13-t6.md
-- [[Perplexity]] - concept - veilles/veille-ia-us-2026-11-14-t3.md
-- [[Veille États-Unis 2026-11-14  Agents et Outils Technologiques]] - document - veilles/veille-ia-us-2026-11-14-t3.md
+- [[Adobe Creative Cloud]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Adobe Firefly]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Cognizant]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Roland Busch (博乐仁)]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Siemens]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Veille Chine 2026-11-10]] - document - veilles/veille-ia-cn-2026-11-10-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,14 +23,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Cursor]]
-- 1 edge to [[_COMMUNITY_CoreWeave]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-25]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-12]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-21_1]]
+- 2 edges to [[_COMMUNITY_Claude Code_2]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Claude Code_1]]
+- 1 edge to [[_COMMUNITY_Microsoft_1]]
 
 ## Top bridge nodes
-- [[Grok]] - degree 4, connects to 2 communities
-- [[Kiro]] - degree 2, connects to 1 community
-- [[Databricks]] - degree 2, connects to 1 community
-- [[Perplexity]] - degree 2, connects to 1 community
+- [[Adobe Creative Cloud]] - degree 5, connects to 3 communities
+- [[Veille Chine 2026-11-10]] - degree 4, connects to 1 community
+- [[Cognizant]] - degree 2, connects to 1 community

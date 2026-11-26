@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-24-t3.md"
 type: "document"
-community: "DeepSeek"
+community: "Veille Chine 2026-11-24 : Applications sectorielles"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/DeepSeek
+  - community/Veille_Chine_2026-11-24__Applications_sectorielles
 ---
 
 # Veille Chine 2026-11-24 : Applications sectorielles
@@ -17,4 +17,4 @@ tags:
 - [[蚂蚁阿福]] - `references` [EXTRACTED]
 - [[诺华 CEO 瓦斯·纳拉辛汉关于AI与癌症治疗的观点]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/DeepSeek
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-24__Applications_sectorielles

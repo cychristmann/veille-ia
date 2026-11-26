@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-16-t3.md"
 type: "document"
-community: "Cipher"
+community: "Veille France 2026-11-15"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Cipher
+  - community/Veille_France_2026-11-15
 ---
 
 # Veille France 2026-11-16 : Applications sectorielles et industrielles
@@ -15,4 +15,4 @@ tags:
 - [[IA dans le recrutement]] - `conceptually_related_to` [EXTRACTED]
 - [[Souveraineté numérique et IA]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Cipher
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-15

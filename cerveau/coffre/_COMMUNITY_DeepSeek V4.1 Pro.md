@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[DeepSeek V4.1 Pro]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
+- [[Sysdig]] - concept - dossiers/2026-11-21-1.md
 
 ## Live Query (requires Dataview plugin)
 

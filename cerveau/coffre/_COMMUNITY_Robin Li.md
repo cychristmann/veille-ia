@@ -23,7 +23,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-22  Marchés et finance]]
 
 ## Top bridge nodes
 - [[Robin Li]] - degree 6, connects to 1 community

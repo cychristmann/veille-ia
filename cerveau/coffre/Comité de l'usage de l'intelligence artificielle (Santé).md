@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-23-t1.md"
 type: "concept"
-community: "Hugging Face"
+community: "Claude"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Hugging_Face
+  - community/Claude
 ---
 
 # Comité de l'usage de l'intelligence artificielle (Santé)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-23  Régulation et gouvernance]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Hugging_Face
+#graphify/concept #graphify/EXTRACTED #community/Claude

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-25-t6.md"
 type: "document"
-community: "Microsoft"
+community: "ARTEX"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Microsoft
+  - community/ARTEX
 ---
 
 # Asia’s stock markets dive as doubts swirl over AI boom
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-25  Autres articles]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Microsoft
+#graphify/document #graphify/EXTRACTED #community/ARTEX

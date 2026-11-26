@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-10-t1.md"
 type: "document"
-community: "AI Act"
+community: "Emmanuel Macron"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Act
+  - community/Emmanuel_Macron
 ---
 
 # Veille France 2026-11-10 : Régulation et gouvernance
@@ -15,4 +15,4 @@ tags:
 - [[Emmanuel Macron]] - `references` [EXTRACTED]
 - [[Loi Darcos]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Act
+#graphify/document #graphify/EXTRACTED #community/Emmanuel_Macron

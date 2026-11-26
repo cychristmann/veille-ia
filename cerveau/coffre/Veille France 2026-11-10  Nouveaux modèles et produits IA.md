@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-10-t4.md"
 type: "document"
-community: "Veille France 2026-11-12 : Régulation, éthique et impacts sociétaux"
+community: "Cursor"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-12__Régulation_éthique_et_impacts_sociétaux
+  - community/Cursor
 ---
 
 # Veille France 2026-11-10 : Nouveaux modèles et produits IA
@@ -14,4 +14,4 @@ tags:
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Notion]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-12__Régulation_éthique_et_impacts_sociétaux
+#graphify/document #graphify/EXTRACTED #community/Cursor

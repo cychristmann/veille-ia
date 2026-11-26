@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t1.md"
 type: "document"
-community: "Débats à Saint-Tropez"
+community: "AgentMon Live"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Débats_à_Saint-Tropez
+  - community/AgentMon_Live
 ---
 
 # Veille Chine 2026-11-19 : Régulation & Gouvernance IA
@@ -18,4 +18,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Sinch]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Débats_à_Saint-Tropez
+#graphify/document #graphify/EXTRACTED #community/AgentMon_Live

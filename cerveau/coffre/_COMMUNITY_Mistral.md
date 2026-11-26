@@ -25,12 +25,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_DeepSeek_1]]
+- 1 edge to [[_COMMUNITY_DeepSeek]]
 - 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_Amazon]]
 - 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Amazon]]
 - 1 edge to [[_COMMUNITY_Jensen Huang]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
+- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen_1]]
 
 ## Top bridge nodes
 - [[Veille France 2026-11-18  Sécurité et cyber‑menaces IA]] - degree 3, connects to 2 communities

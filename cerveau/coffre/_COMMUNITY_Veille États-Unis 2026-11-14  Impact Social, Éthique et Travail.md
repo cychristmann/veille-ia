@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-14 : Impact Social, Éthique et Travail
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Deletion Tuning]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
-- [[New York University]] - concept - veilles/veille-ia-cn-2026-11-15-t2.md
+- [[Veille France 2026-11-18]] - document - veilles/veille-ia-fr-2026-11-18-t6.md
 
 ## Live Query (requires Dataview plugin)
 

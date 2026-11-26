@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-12-t4.md"
+source_file: "veilles/veille-ia-dev-2026-11-19-t5.md"
 type: "concept"
 community: "Claude Code"
 tags:

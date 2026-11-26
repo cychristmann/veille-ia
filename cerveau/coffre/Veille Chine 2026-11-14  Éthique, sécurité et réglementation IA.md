@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-14-t4.md"
 type: "document"
-community: "Enterprise RAG Systems"
+community: "Craig Federighi"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Enterprise_RAG_Systems
+  - community/Craig_Federighi
 ---
 
 # Veille Chine 2026-11-14 : Éthique, sécurité et réglementation IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AI Ethics, Security and Regulation]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Enterprise_RAG_Systems
+#graphify/document #graphify/EXTRACTED #community/Craig_Federighi

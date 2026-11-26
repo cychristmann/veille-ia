@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[CVS Health]] - code - veilles/veille-ia-us-2026-11-14-t6.md
-- [[Veille États-Unis 2026-11-14]] - document - veilles/veille-ia-us-2026-11-14-t6.md
+- [[Agentic AI]] - concept - veilles/veille-ia-us-2026-11-23-t5.md
+- [[Veille États-Unis 2026-11-23  Autres articles]] - document - veilles/veille-ia-us-2026-11-23-t5.md
 
 ## Live Query (requires Dataview plugin)
 

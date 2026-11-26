@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[MyClaw 3.0]] - concept - veilles/veille-ia-dev-2026-11-25-t1.md
+- [[Critea]] - concept - dossiers/2026-11-26-3.md
 
 ## Live Query (requires Dataview plugin)
 

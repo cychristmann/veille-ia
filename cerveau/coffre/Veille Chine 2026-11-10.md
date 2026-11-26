@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "document"
-community: "Adobe Creative Cloud"
+community: "Riemann Hypothesis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Adobe_Creative_Cloud
+  - community/Riemann_Hypothesis
 ---
 
 # Veille Chine 2026-11-10
@@ -16,4 +16,4 @@ tags:
 - [[Microsoft]] - `references` [EXTRACTED]
 - [[Siemens]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Adobe_Creative_Cloud
+#graphify/document #graphify/EXTRACTED #community/Riemann_Hypothesis

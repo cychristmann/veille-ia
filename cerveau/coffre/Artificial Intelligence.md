@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0021.md"
 type: "concept"
-community: "Hugging Face"
+community: "Claude"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Hugging_Face
+  - community/Claude
 ---
 
 # Artificial Intelligence
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Federal Reserve]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Hugging_Face
+#graphify/concept #graphify/EXTRACTED #community/Claude

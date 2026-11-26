@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-21-t3.md"
 type: "concept"
-community: "Hypothèse de Riemann"
+community: "Claude Code"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Hypothèse_de_Riemann
+  - community/Claude_Code
 ---
 
 # Hypothèse de Riemann
@@ -18,4 +18,4 @@ tags:
 - [[Shing-Tong Yau]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-21  Recherche scientifique & mathématiques]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Hypothèse_de_Riemann
+#graphify/concept #graphify/EXTRACTED #community/Claude_Code

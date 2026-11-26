@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-23-t3.md"
 type: "document"
-community: "Amazon Bedrock AgentCore"
+community: "AMD"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Amazon_Bedrock_AgentCore
+  - community/AMD
 ---
 
 # Veille Chine 2026-11-23 : Finance, marchés et investissements IA
@@ -20,4 +20,4 @@ tags:
 - [[科达利]] - `references` [EXTRACTED]
 - [[诺华 (Novartis)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Amazon_Bedrock_AgentCore
+#graphify/document #graphify/EXTRACTED #community/AMD

@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille États-Unis 2026-11-13 : Enjeux du marché et turbulences
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Examen crucial en Corée du Sud en plein scandale de triche à l'IA]] - document - dossiers/2026-11-22-2.md
+- [[L&T Technology Services]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
+- [[SDVault.ai]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
 
 ## Live Query (requires Dataview plugin)
 

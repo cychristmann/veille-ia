@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0033.md"
 type: "document"
-community: "Veille Chine 2026-11-24"
+community: "Lenovo"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-24
+  - community/Lenovo
 ---
 
 # Feuilleton: Lenovo affiche une forte croissance portée par les serveurs IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Lenovo]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-24
+#graphify/document #graphify/EXTRACTED #community/Lenovo

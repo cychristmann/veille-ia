@@ -1,26 +1,32 @@
 ---
 type: community
-members: 13
+members: 19
 ---
 
 # Microsoft
 
-**Members:** 13 nodes
+**Members:** 19 nodes
 
 ## Members
-- [[AI can help moms. It can’t replace the village]] - document - veilles/veille-ia-us-2026-11-25-t6.md
-- [[Asia’s stock markets dive as doubts swirl over AI boom]] - document - veilles/veille-ia-us-2026-11-25-t6.md
-- [[Bond investors see junk-grade risk in Anthropic]] - document - veilles/veille-ia-us-2026-11-25-t6.md
-- [[Crypto talent will return ‘when AI implodes,’ Arthur Hayes says]] - document - veilles/veille-ia-us-2026-11-25-t6.md
-- [[How Will AI Shake Up Your Growth Strategy]] - document - veilles/veille-ia-us-2026-11-25-t6.md
-- [[Is an ‘A.I. Agent’ Coming for Our Sourdough Starter]] - document - veilles/veille-ia-us-2026-11-25-t6.md
-- [[Opinion  America Hits the Brakes on AI]] - document - veilles/veille-ia-us-2026-11-25-t6.md
-- [[Rural Nebraska’s AI boom comes with side of skepticism]] - document - veilles/veille-ia-us-2026-11-25-t6.md
-- [[Students Say They Don’t Use AI in ‘Harmful’ Ways]] - document - veilles/veille-ia-us-2026-11-25-t6.md
-- [[The Morning Risk Report China’s AI Firms Are Hooked on Nvidia Chips]] - document - veilles/veille-ia-us-2026-11-25-t6.md
-- [[The downside of AI for investment analysis]] - document - veilles/veille-ia-us-2026-11-25-t6.md
-- [[Veille États-Unis 2026-11-25  Autres articles]] - document - veilles/veille-ia-us-2026-11-25-t6.md
-- [[Will We Learn to Trust AI Agents]] - document - veilles/veille-ia-us-2026-11-25-t6.md
+- [[Azure Cobalt 200]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
+- [[Brad Smith]] - concept - dossiers/2026-11-25-3.md
+- [[Copilot Autopilot]] - concept - dossiers/2026-11-18-1.md
+- [[Copilot Code]] - concept - dossiers/2026-11-18-1.md
+- [[Copilot Cowork]] - concept - dossiers/2026-11-18-1.md
+- [[Copilot Home]] - concept - dossiers/2026-11-18-1.md
+- [[Copilot Workspaces]] - concept - dossiers/2026-11-18-1.md
+- [[Danaher]] - code - veilles/veille-ia-us-2026-11-21-t3.md
+- [[Dynamics 365]] - concept - dossiers/2026-11-18-1.md
+- [[Enterprise AI Agent Platform]] - code - veilles/veille-ia-us-2026-11-13-t1.md
+- [[Feuilleton Microsoft Copilot]] - document - feuilletons/f-0029.md
+- [[Journal du Net]] - document - dossiers/2026-11-18-1.md
+- [[Microsoft]] - code - veilles/veille-ia-us-2026-11-13-t1.md
+- [[Microsoft Ignite]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Salesforce in Copilot]] - concept - dossiers/2026-11-18-1.md
+- [[Veille France 2026-11-21  Autres articles]] - document - veilles/veille-ia-fr-2026-11-21-t6.md
+- [[Volatilité du marché liée à l'IA]] - concept - veilles/veille-ia-fr-2026-11-21-t6.md
+- [[Windows 11 Copilot]] - concept - veilles/veille-ia-cn-2026-11-18-t1.md
+- [[Windows Server 2028]] - concept - veilles/veille-ia-cn-2026-11-18-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -28,3 +34,35 @@ members: 13
 TABLE source_file, type FROM #community/Microsoft
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 3 edges to [[_COMMUNITY_ASML]]
+- 2 edges to [[_COMMUNITY_IBM]]
+- 2 edges to [[_COMMUNITY_Dell]]
+- 2 edges to [[_COMMUNITY_Huawei]]
+- 2 edges to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_IA et système financier]]
+- 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-14  Incident FAA et Intelligence Artificielle]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Amazon]]
+- 1 edge to [[_COMMUNITY_Claude Code_1]]
+- 1 edge to [[_COMMUNITY_AI Governance]]
+- 1 edge to [[_COMMUNITY_Mistral AI]]
+- 1 edge to [[_COMMUNITY_Microsoft Outlook Outage]]
+- 1 edge to [[_COMMUNITY_Riemann Hypothesis_1]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17]]
+- 1 edge to [[_COMMUNITY_AMD_1]]
+- 1 edge to [[_COMMUNITY_Apple]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-23  Adoption industrielle et entreprises]]
+- 1 edge to [[_COMMUNITY_Qwen]]
+- 1 edge to [[_COMMUNITY_Elon Musk]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18 (T1)]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-18  Régulation et gouvernance_1]]
+
+## Top bridge nodes
+- [[Microsoft]] - degree 48, connects to 26 communities
+- [[Veille France 2026-11-21  Autres articles]] - degree 3, connects to 1 community

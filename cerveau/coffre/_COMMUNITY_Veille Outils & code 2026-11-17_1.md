@@ -1,32 +1,26 @@
 ---
 type: community
-members: 19
+members: 13
 ---
 
 # Veille Outils & code 2026-11-17
 
-**Members:** 19 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[Akron Beacon Journal]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
-- [[Bloomberg Technology]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
-- [[Counterpoint Research]] - concept - veilles/veille-ia-us-2026-11-19-t6.md
-- [[Fast Company]] - concept - veilles/veille-ia-us-2026-11-19-t6.md
-- [[Fortune]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
-- [[Human Resources Director]] - concept - veilles/veille-ia-us-2026-11-19-t6.md
-- [[KTVN]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
-- [[Movieguide]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
-- [[News-Medical]] - concept - veilles/veille-ia-us-2026-11-19-t6.md
-- [[Reuters]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
-- [[STAT]] - concept - veilles/veille-ia-us-2026-11-19-t6.md
-- [[The Korea Herald]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
-- [[The Stanford Daily]] - concept - veilles/veille-ia-us-2026-11-19-t6.md
-- [[Veille États-Unis 2026-11-17  Autres articles]] - document - veilles/veille-ia-us-2026-11-17-t5.md
-- [[Veille États-Unis 2026-11-19]] - document - veilles/veille-ia-us-2026-11-19-t6.md
-- [[Yahoo Finance]] - concept - veilles/veille-ia-us-2026-11-19-t6.md
-- [[markets.businessinsider.com]] - concept - veilles/veille-ia-us-2026-11-19-t6.md
-- [[shattered.io]] - concept - veilles/veille-ia-us-2026-11-17-t5.md
-- [[vatcalc.com]] - concept - veilles/veille-ia-us-2026-11-19-t6.md
+- [[ARTEX]] - concept - veilles/veille-ia-dev-2026-11-15-t5.md
+- [[Autumn-27]] - concept - dossiers/2026-11-21-1.md
+- [[DeepSeek Flash]] - concept - dossiers/2026-11-16-1.md
+- [[European Commission]] - concept - dossiers/2026-11-21-1.md
+- [[FBI]] - concept - feuilletons/f-0028.md
+- [[Memorilla]] - concept - veilles/veille-ia-dev-2026-11-15-t5.md
+- [[Microsoft Threat Intelligence]] - concept - veilles/veille-ia-fr-2026-11-26-t2.md
+- [[Nmap]] - concept - dossiers/2026-11-16-1.md
+- [[Storm-0940]] - concept - dossiers/2026-11-21-1.md
+- [[Storm-3358]] - concept - dossiers/2026-11-16-1.md
+- [[Sysper]] - concept - dossiers/2026-11-21-1.md
+- [[Veille Outils & code 2026-11-15 (T5)]] - document - veilles/veille-ia-dev-2026-11-15-t5.md
+- [[curl]] - concept - dossiers/2026-11-16-1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -36,7 +30,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-20]]
+- 1 edge to [[_COMMUNITY_IBM]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
 - 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-15  Autres articles]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-26]]
 
 ## Top bridge nodes
-- [[Veille États-Unis 2026-11-17  Autres articles]] - degree 9, connects to 1 community
+- [[ARTEX]] - degree 13, connects to 5 communities
+- [[Veille Outils & code 2026-11-15 (T5)]] - degree 3, connects to 1 community

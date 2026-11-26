@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[UK ICO]] - concept - veilles/veille-ia-us-2026-11-24-t6.md
+- [[Bay Security]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
 
 ## Live Query (requires Dataview plugin)
 

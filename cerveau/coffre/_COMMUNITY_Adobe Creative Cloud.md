@@ -1,19 +1,26 @@
 ---
 type: community
-members: 6
+members: 13
 ---
 
 # Adobe Creative Cloud
 
-**Members:** 6 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[Adobe Creative Cloud]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Adobe Firefly]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Cognizant]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Roland Busch (博乐仁)]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Siemens]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Veille Chine 2026-11-10]] - document - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Alibaba AI]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Bitcoin Miners AI]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Gemini Decisions]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Google AI Studio]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Google Gemini CarPlay]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Harbor Claris]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[JioStar]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Local LLM Server]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[MEL Conference]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[NAS AI Server]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Omnii Defense]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[Veille France 2026-11-12]] - document - veilles/veille-ia-fr-2026-11-12-t2.md
+- [[rLocalLLM]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,12 +30,12 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Claude]]
-- 1 edge to [[_COMMUNITY_Microsoft]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-24  Marchés financiers & Investissements]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Snowflake]]
+- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
+- 1 edge to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière_1]]
 
 ## Top bridge nodes
-- [[Adobe Creative Cloud]] - degree 5, connects to 3 communities
-- [[Veille Chine 2026-11-10]] - degree 4, connects to 1 community
-- [[Cognizant]] - degree 2, connects to 1 community
+- [[Veille France 2026-11-12]] - degree 14, connects to 4 communities
+- [[Gemini Decisions]] - degree 3, connects to 1 community

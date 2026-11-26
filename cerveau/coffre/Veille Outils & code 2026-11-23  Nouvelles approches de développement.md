@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-23-t4.md"
 type: "document"
-community: "AMD"
+community: "Hypothèse de Riemann"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AMD
+  - community/Hypothèse_de_Riemann
 ---
 
 # Veille Outils & code 2026-11-23 : Nouvelles approches de développement
@@ -14,4 +14,4 @@ tags:
 - [[Agentic AI Foundation]] - `references` [EXTRACTED]
 - [[Vibe Coding]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AMD
+#graphify/document #graphify/EXTRACTED #community/Hypothèse_de_Riemann

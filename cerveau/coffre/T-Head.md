@@ -1,16 +1,18 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t1.md"
 type: "concept"
-community: "CoreWeave"
+community: "Alibaba"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/CoreWeave
+  - community/Alibaba
 ---
 
 # T-Head
 
 ## Connections
+- [[Alibaba]] - `references` [EXTRACTED]
+- [[Feuilleton T‑Head d’Alibaba prépare son introduction en bourse à Hong Kong]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-10  AI芯片与算力]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/CoreWeave
+#graphify/concept #graphify/EXTRACTED #community/Alibaba

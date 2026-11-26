@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[AI Cheating Scandal]] - concept - dossiers/2026-11-22-2.md
+- [[Canva MCP]] - concept - veilles/veille-ia-dev-2026-11-25-t1.md
 
 ## Live Query (requires Dataview plugin)
 

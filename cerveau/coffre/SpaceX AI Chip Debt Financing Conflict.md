@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-20-t7.md"
 type: "concept"
-community: "Veille France 2026-11-24 : Marché et investissements IA"
+community: "Dossier: Vers une interdiction des modèles d’IA chinois dans les systèmes fédéraux américains"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-24__Marché_et_investissements_IA
+  - community/Dossier_Vers_une_interdiction_des_modèles_dIA_chinois_dans_les_systèmes_fédéraux_américains
 ---
 
 # SpaceX AI Chip Debt Financing Conflict
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-20]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-24__Marché_et_investissements_IA
+#graphify/concept #graphify/EXTRACTED #community/Dossier_Vers_une_interdiction_des_modèles_dIA_chinois_dans_les_systèmes_fédéraux_américains

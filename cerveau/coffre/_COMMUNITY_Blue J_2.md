@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Blue J
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[L&T Technology Services]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
-- [[SDVault.ai]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
+- [[Pretxt]] - concept - veilles/veille-ia-dev-2026-11-19-t1.md
 
 ## Live Query (requires Dataview plugin)
 

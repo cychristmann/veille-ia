@@ -1,16 +1,22 @@
 ---
 type: community
-members: 3
+members: 9
 ---
 
 # Veille Outils & code 2026-11-14 : Autres articles
 
-**Members:** 3 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[Ambient Quality Agent (AQuA)]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
-- [[Claude Managed Agents]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
-- [[Veille Outils & code 2026-11-14  Autres articles]] - document - veilles/veille-ia-dev-2026-11-14-t6.md
+- [[ByteVoice]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Cuttlefish]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Puffin]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[StateWeave]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Superpowers]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Swarm Skills]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Tokendoctor]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[VS Code]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
+- [[Veille Outils & code 2026-11-17]] - document - veilles/veille-ia-dev-2026-11-17-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +26,17 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
+- 3 edges to [[_COMMUNITY_ASML]]
+- 1 edge to [[_COMMUNITY_Meta]]
+- 1 edge to [[_COMMUNITY_Hugging Face]]
 - 1 edge to [[_COMMUNITY_Claude Code_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14_1]]
+- 1 edge to [[_COMMUNITY_Meta_1]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-21_1]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-14  Autres articles]] - degree 3, connects to 1 community
+- [[Veille Outils & code 2026-11-17]] - degree 16, connects to 8 communities
+- [[Tokendoctor]] - degree 2, connects to 1 community
+- [[VS Code]] - degree 2, connects to 1 community

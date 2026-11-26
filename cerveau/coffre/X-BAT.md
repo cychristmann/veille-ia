@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0020.md"
 type: "code"
-community: "GPT-6 Astra"
+community: "AMD"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/AMD
 ---
 
 # X-BAT
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Shield AI]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/code #graphify/EXTRACTED #community/AMD

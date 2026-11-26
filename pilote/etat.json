@@ -14,7 +14,13 @@
    "新浪科技": {
     "depuis": "2026-11-21",
     "motif": "muet : aucun article récent sur l'IA en 4 nuits (60 articles lus)",
-    "dernier_essai": "2026-11-25 : répond, mais rien publié depuis le 2018-09-23"
+    "dernier_essai": "2026-11-26 : répond, mais rien publié depuis le 2018-09-23"
+   }
+  },
+  "us": {
+   "The Guardian (IA)": {
+    "depuis": "2026-11-26",
+    "motif": "en panne 3 nuits d'affilée"
    }
   }
  },
@@ -216,6 +222,42 @@
    "motif": "liens directs sous 30 % depuis 3 nuits (16 %, 16 %, 14 %) : recherche ciblée",
    "raison": "Les liens directs en Chine sont très bas ; découvrir de nouveaux médias chinois devrait augmenter ce taux.",
    "resultat": "mis à l'essai : 智东西 (Chine), 雷峰网 (Chine)"
+  },
+  {
+   "date": "2026-11-26",
+   "action": "annuler_reglage",
+   "section": "fr",
+   "source": "part de Google Actualités 1.0 → 0.8",
+   "motif": "score 78.5/100 sur 3 nuits, contre 78.4 avant (+0.1)",
+   "raison": "L'annulation du réglage de la part de Google Actualités en France a légèrement amélioré le score (78.5 → 78.4), on le conserve.",
+   "resultat": "retour au réglage d'avant"
+  },
+  {
+   "date": "2026-11-26",
+   "action": "fermer_section",
+   "section": "sujet",
+   "source": "Jensen Huang",
+   "motif": "le sujet retombe : 4 articles en 2 jours, contre 15 au plus fort",
+   "raison": "Le sujet est retombé ou la durée maximale est atteinte : fermeture d'office.",
+   "resultat": "rubrique fermée (ses veilles restent dans l'historique)"
+  },
+  {
+   "date": "2026-11-26",
+   "action": "pause",
+   "section": "us",
+   "source": "The Guardian (IA)",
+   "motif": "en panne 3 nuits d'affilée",
+   "raison": "The Guardian (IA) est en panne depuis trois nuits, il faut le mettre en pause pour éviter des articles incomplets.",
+   "resultat": ""
+  },
+  {
+   "date": "2026-11-26",
+   "action": "experimenter",
+   "section": "cn",
+   "source": "candidats soumis à l'IA (× 50) 1.5 → 1.8",
+   "motif": "score actuel 70.5/100",
+   "raison": "Augmenter le nombre de candidats soumis à l'IA en Chine (1.5 → 1.8) devrait diversifier les sources et augmenter le taux de liens directs.",
+   "resultat": "essai pendant 3 nuits"
   }
  ],
  "essais": {
@@ -248,12 +290,17 @@
   {
    "date": "2026-11-22",
    "texte": "Diversifier rapidement les sources chinoises et remplacer les médias en panne permet d'augmenter le taux de liens directs, ce qui améliore la qualité globale de la veille."
+  },
+  {
+   "date": "2026-11-26",
+   "texte": "Augmenter le nombre de candidats soumis à l'IA dans une section où les liens directs sont faibles peut améliorer la diversité des sources et le pourcentage de liens directs."
   }
  ],
  "derniere_decouverte": "2026-11-17",
  "reglages": {
   "cn": {
-   "part_google": 1.0
+   "part_google": 1.0,
+   "marge": 1.8
   },
   "dev": {
    "part_google": 0.35
@@ -262,17 +309,17 @@
    "part_google": 1.0
   },
   "fr": {
-   "part_google": 0.8
+   "part_google": 1.0
   }
  },
  "experiences": {
-  "fr": {
-   "param": "part_google",
-   "avant": 1.0,
-   "apres": 0.8,
-   "base": 78.4,
-   "depuis": "2026-11-23",
-   "hypothese": "Réduire la part de Google Actualités en France devrait augmenter le pourcentage de liens directs, améliorant le score global."
+  "cn": {
+   "param": "marge",
+   "avant": 1.5,
+   "apres": 1.8,
+   "base": 70.5,
+   "depuis": "2026-11-26",
+   "hypothese": "Augmenter le nombre de candidats soumis à l'IA en Chine (1.5 → 1.8) devrait diversifier les sources et augmenter le taux de liens directs."
   }
  },
  "experiences_passees": [
@@ -311,20 +358,35 @@
    "fin": "2026-11-25",
    "score_apres": 76.8,
    "verdict": "annule"
+  },
+  {
+   "param": "part_google",
+   "avant": 1.0,
+   "apres": 0.8,
+   "base": 78.4,
+   "depuis": "2026-11-23",
+   "hypothese": "Réduire la part de Google Actualités en France devrait augmenter le pourcentage de liens directs, améliorant le score global.",
+   "section": "fr",
+   "fin": "2026-11-26",
+   "score_apres": 78.5,
+   "verdict": "annule"
   }
  ],
- "sections_passees": [],
- "section_ephemere": {
-  "entite": "Jensen Huang",
-  "termes": [
-   "Jensen Huang",
-   "黄仁勋 (Jensen Huang)"
-  ],
-  "depuis": "2026-11-24",
-  "pic": 15,
-  "motif": "14 articles en 2 jours, 5.8 fois plus que d'habitude (1.2 par jour)",
-  "raison": "Le sujet Jensen Huang est d'actualité (départ du dirigeant) et justifie une rubrique éphémère pour plusieurs jours."
- },
+ "sections_passees": [
+  {
+   "entite": "Jensen Huang",
+   "termes": [
+    "Jensen Huang",
+    "黄仁勋 (Jensen Huang)"
+   ],
+   "depuis": "2026-11-24",
+   "pic": 15,
+   "motif": "14 articles en 2 jours, 5.8 fois plus que d'habitude (1.2 par jour)",
+   "raison": "Le sujet Jensen Huang est d'actualité (départ du dirigeant) et justifie une rubrique éphémère pour plusieurs jours.",
+   "fin": "2026-11-26",
+   "motif_fin": "le sujet retombe : 4 articles en 2 jours, contre 15 au plus fort"
+  }
+ ],
  "decouvertes_ciblees": {
   "cn": "2026-11-25"
  }

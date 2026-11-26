@@ -8,14 +8,14 @@ members: 8
 **Members:** 8 nodes
 
 ## Members
-- [[AI Ethics in Education]] - concept - veilles/veille-ia-us-2026-11-15-t1.md
-- [[Choi Kyo-jin]] - concept - dossiers/2026-11-22-2.md
-- [[Feuilleton Scandale de triche à l'IA en Corée du Sud]] - document - feuilletons/f-0040.md
-- [[Han Won-seok]] - concept - dossiers/2026-11-22-2.md
-- [[Lee Jae-myung]] - concept - dossiers/2026-11-22-2.md
-- [[Ministry of Education]] - concept - dossiers/2026-11-22-2.md
-- [[Suneung Exam]] - concept - dossiers/2026-11-22-2.md
-- [[Veille États-Unis 2026-11-15  Scandale de triche à l'IA]] - document - veilles/veille-ia-us-2026-11-15-t1.md
+- [[Adyen]] - concept - veilles/veille-ia-fr-2026-11-22-t7.md
+- [[Bitdefender]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
+- [[Dragos]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
+- [[Klarna]] - concept - veilles/veille-ia-fr-2026-11-22-t7.md
+- [[NordLayer]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
+- [[RunPod]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
+- [[Together AI]] - concept - veilles/veille-ia-dev-2026-11-23-t3.md
+- [[Veille Outils & code 2026-11-23  Sécurité, conformité et fuites liées aux IA]] - document - veilles/veille-ia-dev-2026-11-23-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,7 +25,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Claude]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
 
 ## Top bridge nodes
-- [[Han Won-seok]] - degree 3, connects to 1 community
+- [[Veille Outils & code 2026-11-23  Sécurité, conformité et fuites liées aux IA]] - degree 9, connects to 2 communities

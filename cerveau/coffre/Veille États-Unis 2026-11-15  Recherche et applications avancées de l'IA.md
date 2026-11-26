@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-15-t4.md"
 type: "document"
-community: "Dossier: Vers une interdiction des modèles d’IA chinois dans les systèmes fédéraux américains"
+community: "Veille États-Unis 2026-11-15 : Recherche et applications avancées de l'IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Dossier_Vers_une_interdiction_des_modèles_dIA_chinois_dans_les_systèmes_fédéraux_américains
+  - community/Veille_États-Unis_2026-11-15__Recherche_et_applications_avancées_de_lIA
 ---
 
 # Veille États-Unis 2026-11-15 : Recherche et applications avancées de l'IA
@@ -15,4 +15,4 @@ tags:
 - [[Microsoft Research]] - `references` [EXTRACTED]
 - [[NIH]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Dossier_Vers_une_interdiction_des_modèles_dIA_chinois_dans_les_systèmes_fédéraux_américains
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-15__Recherche_et_applications_avancées_de_lIA

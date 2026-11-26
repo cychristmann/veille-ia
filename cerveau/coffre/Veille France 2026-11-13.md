@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t1.md"
 type: "document"
-community: "Ministry of Education"
+community: "Veille France 2026-11-09 : Autres articles"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Ministry_of_Education
+  - community/Veille_France_2026-11-09__Autres_articles
 ---
 
 # Veille France 2026-11-13
@@ -23,4 +23,4 @@ tags:
 - [[SpaceX]] - `references` [EXTRACTED]
 - [[xFusion]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Ministry_of_Education
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-09__Autres_articles

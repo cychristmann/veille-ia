@@ -1,19 +1,18 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-20-t4.md"
+source_file: "veilles/veille-ia-dev-2026-11-13-t2.md"
 type: "concept"
-community: "GPT-6 Astra"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Gemini_4_Hydrogen
 ---
 
 # Gemini 4 Argon
 
 ## Connections
-- [[Feuilleton  Google DeepMind étend sa suite de modèles Gemini]] - `references` [EXTRACTED]
 - [[Gemini 4 Hydrogen]] - `conceptually_related_to` [EXTRACTED]
-- [[Google DeepMind]] - `references` [INFERRED]
+- [[Google DeepMind]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-20  Recherche, Modèles & Technologie]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/concept #graphify/EXTRACTED #community/Gemini_4_Hydrogen

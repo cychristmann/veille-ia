@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0037.md"
 type: "document"
-community: "États-Unis"
+community: "Veille France 2026-11-19 : Autres articles"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/États-Unis
+  - community/Veille_France_2026-11-19__Autres_articles
 ---
 
 # Feuilleton f-0037
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[États-Unis]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/États-Unis
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-19__Autres_articles

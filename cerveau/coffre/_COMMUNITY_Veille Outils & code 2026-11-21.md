@@ -1,28 +1,32 @@
 ---
 type: community
-members: 15
+members: 19
 ---
 
 # Veille Outils & code 2026-11-21
 
-**Members:** 15 nodes
+**Members:** 19 nodes
 
 ## Members
-- [[Affiches IA bannies à Ornans]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Anthropic millionnaires]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Arnaques Black Friday]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Black Friday e-commerce]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Cinq métiers émergents IA]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[ESET]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[ESET protection IA]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Fonctions IA smartphone]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[IA photos appartements]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Kasikornbank]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Micro IA portable]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Ornans]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Retraite anticipée Kasikornbank]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Scandale de triche à l’IA en Corée du Sud]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Veille France 2026-11-22  Applications grand public]] - document - veilles/veille-ia-fr-2026-11-22-t3.md
+- [[AWS Emulator]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
+- [[AWS Quick]] - concept - veilles/veille-ia-dev-2026-11-22-t1.md
+- [[Agent Toolkit for AWS]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
+- [[Amazon SageMaker Canvas]] - concept - veilles/veille-ia-dev-2026-11-14-t3.md
+- [[Amazon SageMaker Pipelines]] - concept - veilles/veille-ia-dev-2026-11-15-t4.md
+- [[ClawDOS]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
+- [[Devin]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
+- [[Eclipse]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
+- [[Gemini Computer Use]] - concept - veilles/veille-ia-dev-2026-11-21-t2.md
+- [[Mastra]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
+- [[Meta Ads]] - concept - veilles/veille-ia-dev-2026-11-22-t1.md
+- [[Meta TLX]] - concept - veilles/veille-ia-dev-2026-11-22-t2.md
+- [[Nemotron-Labs-Sigma]] - concept - veilles/veille-ia-dev-2026-11-21-t2.md
+- [[OpenComputer]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
+- [[Smithy API Models]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[Tamekoshi]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
+- [[Veille Outils & code 2026-11-15 (T4)]] - document - veilles/veille-ia-dev-2026-11-15-t4.md
+- [[Veille Outils & code 2026-11-21]] - document - veilles/veille-ia-dev-2026-11-21-t2.md
+- [[WiCi Infer]] - concept - veilles/veille-ia-dev-2026-11-21-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -32,10 +36,20 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_David Tepper]]
-- 1 edge to [[_COMMUNITY_Amazon]]
-- 1 edge to [[_COMMUNITY_Mistral]]
+- 4 edges to [[_COMMUNITY_Microsoft]]
+- 3 edges to [[_COMMUNITY_Veille Chine 2026-11-20]]
+- 3 edges to [[_COMMUNITY_Veille États-Unis 2026-11-08]]
+- 2 edges to [[_COMMUNITY_Gemini 4 Hydrogen]]
+- 2 edges to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-22  Marchés et finance_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-16]]
+- 1 edge to [[_COMMUNITY_Meta_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-17_1]]
+- 1 edge to [[_COMMUNITY_Qwen]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-22  Applications grand public]] - degree 13, connects to 2 communities
-- [[Anthropic millionnaires]] - degree 2, connects to 1 community
+- [[Veille Outils & code 2026-11-21]] - degree 23, connects to 7 communities
+- [[AWS Emulator]] - degree 8, connects to 4 communities
+- [[AWS Quick]] - degree 3, connects to 1 community
+- [[Amazon SageMaker Canvas]] - degree 3, connects to 1 community
+- [[Meta TLX]] - degree 2, connects to 1 community

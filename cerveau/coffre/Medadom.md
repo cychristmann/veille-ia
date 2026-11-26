@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-25-t2.md"
 type: "concept"
-community: "AgentMon Live"
+community: "CoreWeave"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AgentMon_Live
+  - community/CoreWeave
 ---
 
 # Medadom
@@ -14,4 +14,4 @@ tags:
 - [[BFM]] - `references` [EXTRACTED]
 - [[Orange Actualités]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AgentMon_Live
+#graphify/concept #graphify/EXTRACTED #community/CoreWeave

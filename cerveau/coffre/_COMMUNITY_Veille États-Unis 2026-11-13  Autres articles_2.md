@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-13 : Autres articles
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Veille Chine 2026-11-12  Contenus et médias IA]] - document - veilles/veille-ia-cn-2026-11-12-t5.md
-- [[Zhao Liying]] - concept - veilles/veille-ia-cn-2026-11-12-t5.md
+- [[Chine  comment des agents IA « voyous » ont échappé au contrôle de leurs créateurs]] - document - dossiers/2026-11-12-2.md
 
 ## Live Query (requires Dataview plugin)
 

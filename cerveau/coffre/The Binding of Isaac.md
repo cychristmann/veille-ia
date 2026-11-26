@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-23-t4.md"
 type: "concept"
-community: "CoreWeave"
+community: "Suno"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/CoreWeave
+  - community/Suno
 ---
 
 # The Binding of Isaac
@@ -14,4 +14,4 @@ tags:
 - [[Nicalis]] - `references` [EXTRACTED]
 - [[Suno]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/CoreWeave
+#graphify/concept #graphify/EXTRACTED #community/Suno

@@ -1,24 +1,25 @@
 ---
 type: community
-members: 11
+members: 12
 ---
 
 # Veille Outils & code 2026-11-20
 
-**Members:** 11 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[Après l’euphorie, la course à l’IA se heurte déjà aux limites de son modèle économique]] - document - dossiers/2026-11-15-2.md
-- [[Boom de l'intelligence artificielle]] - concept - dossiers/2026-11-15-2.md
-- [[Data-centers]] - concept - dossiers/2026-11-15-2.md
-- [[Dossier  Effondrement du boom IA et crise des data-centers]] - document - dossiers/2026-11-15-2.md
-- [[Empreinte environnementale]] - concept - dossiers/2026-11-15-2.md
-- [[Géants technologiques (Alphabet, Amazon, Microsoft, Meta)]] - concept - dossiers/2026-11-15-2.md
-- [[Investissements dans l’IA  jusqu’où ira l’euphorie mondiale avant le coup de frein]] - document - dossiers/2026-11-15-2.md
-- [[L’empreinte environnementale de l’IA pourrait être multipliée par 7 d’ici 2030]] - document - dossiers/2026-11-15-2.md
-- [[OPINION. « L'énergie pour les data centers de l'IA, atout stratégique ou mirage  »]] - document - dossiers/2026-11-15-2.md
-- [[Risque macroéconomique]] - concept - dossiers/2026-11-15-2.md
-- [[Un coup d'arrêt de l'IA aurait des répercussions bien au-delà des Etats-Unis]] - document - dossiers/2026-11-15-2.md
+- [[AI Hallucination Challenges]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[Baidu AI Models]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[Cisco AI Revenue Performance]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[DAI 2026“物理世界AI前沿安全”研讨会]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[Veille Chine 2026-11-13  Régulation, compétition et marché]] - document - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[Veille Chine 2026-11-14  Stratégie, gouvernance et recherche IA]] - document - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[上海市科学数据管理办法]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[吴清：深化人工智能与资本市场双向赋能研究]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[李彦宏：人工智能的下一幕是智能组织]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[第七届中国人工智能大赛]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
+- [[腾讯闭门会比喻被误读为裁员50%]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[让人工智能技术潜力更好转化为生产率增长]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
 
 ## Live Query (requires Dataview plugin)
 

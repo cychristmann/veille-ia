@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-23-t1.md"
 type: "document"
-community: "Veille États-Unis 2026-11-23 : Marchés et investissements IA"
+community: "Jensen Huang"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-23__Marchés_et_investissements_IA
+  - community/Jensen_Huang
 ---
 
 # Veille États-Unis 2026-11-23 : Marchés et investissements IA
@@ -19,4 +19,4 @@ tags:
 - [[Nasdaq 100]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-23__Marchés_et_investissements_IA
+#graphify/document #graphify/EXTRACTED #community/Jensen_Huang

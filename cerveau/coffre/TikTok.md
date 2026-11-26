@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-20-t4.md"
 type: "concept"
-community: "Veille France 2026-11-20 : Applications sociétales et culturelles de l’IA"
+community: "Dossier : IA générative : un nouveau vecteur de menaces nucléaires"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-20__Applications_sociétales_et_culturelles_de_lIA
+  - community/Dossier__IA_générative__un_nouveau_vecteur_de_menaces_nucléaires
 ---
 
 # TikTok
@@ -14,4 +14,4 @@ tags:
 - [[Veille France 2026-11-20]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-20  Applications sociétales et culturelles de l’IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-20__Applications_sociétales_et_culturelles_de_lIA
+#graphify/concept #graphify/EXTRACTED #community/Dossier__IA_générative__un_nouveau_vecteur_de_menaces_nucléaires

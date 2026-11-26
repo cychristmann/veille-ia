@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-21-t5.md"
 type: "code"
-community: "Microsoft"
+community: "Dell"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Microsoft
+  - community/Dell
 ---
 
 # Nvidia HGX B300
@@ -14,4 +14,4 @@ tags:
 - [[Dell]] - `references` [EXTRACTED]
 - [[Microsoft]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Microsoft
+#graphify/code #graphify/EXTRACTED #community/Dell

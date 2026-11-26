@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Convention sur certaines armes classiques]] - concept - dossiers/2026-11-25-1.md
-- [[Feuilleton f-0037]] - document - feuilletons/f-0037.md
-- [[Modèles IA Chinois]] - concept - feuilletons/f-0037.md
-- [[Président Trump]] - concept - dossiers/2026-11-25-1.md
-- [[Russie]] - concept - dossiers/2026-11-25-1.md
-- [[États-Unis]] - concept - feuilletons/f-0037.md
+- [[CPython Memory Vulnerability]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
+- [[JD.com Double-11 AI Sales]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
+- [[OpenAI Codex Acquisition]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
+- [[Orphan AI Agents Management]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
+- [[PPIO OpenDesign]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
+- [[Veille Chine 2026-11-13  Applications et services IA]] - document - veilles/veille-ia-cn-2026-11-13-t5.md
 
 ## Live Query (requires Dataview plugin)
 

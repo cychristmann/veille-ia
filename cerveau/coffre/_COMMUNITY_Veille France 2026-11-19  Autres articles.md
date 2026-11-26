@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[AI Impact on E-commerce]] - concept - veilles/veille-ia-fr-2026-11-25-t1.md
-- [[Black Friday AI Usage]] - concept - veilles/veille-ia-fr-2026-11-25-t1.md
-- [[GTA VI AI Porting Challenges]] - concept - veilles/veille-ia-fr-2026-11-25-t1.md
-- [[Google AI TV Patent]] - concept - veilles/veille-ia-fr-2026-11-25-t1.md
-- [[Meta Instagram Muse]] - concept - veilles/veille-ia-fr-2026-11-25-t1.md
-- [[Veille France 2026-11-25  Médias, divertissement et communication]] - document - veilles/veille-ia-fr-2026-11-25-t1.md
+- [[Convention sur certaines armes classiques]] - concept - dossiers/2026-11-25-1.md
+- [[Feuilleton f-0037]] - document - feuilletons/f-0037.md
+- [[Modèles IA Chinois]] - concept - feuilletons/f-0037.md
+- [[Président Trump]] - concept - dossiers/2026-11-25-1.md
+- [[Russie]] - concept - dossiers/2026-11-25-1.md
+- [[États-Unis]] - concept - feuilletons/f-0037.md
 
 ## Live Query (requires Dataview plugin)
 

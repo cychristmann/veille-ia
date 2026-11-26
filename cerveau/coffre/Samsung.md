@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-20-3.md"
 type: "concept"
-community: "CoreWeave"
+community: "Huawei"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/CoreWeave
+  - community/Huawei
 ---
 
 # Samsung
@@ -17,4 +17,4 @@ tags:
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-15  Matériel et robotique IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/CoreWeave
+#graphify/concept #graphify/EXTRACTED #community/Huawei

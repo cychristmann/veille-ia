@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Agentic AI
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Agentic AI]] - concept - veilles/veille-ia-us-2026-11-23-t5.md
-- [[Veille États-Unis 2026-11-23  Autres articles]] - document - veilles/veille-ia-us-2026-11-23-t5.md
+- [[CPRIT]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
+- [[Dr. K. Ian White]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
+- [[UT Health San Antonio]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
 
 ## Live Query (requires Dataview plugin)
 

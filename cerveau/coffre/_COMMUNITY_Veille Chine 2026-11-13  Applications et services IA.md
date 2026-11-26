@@ -1,19 +1,20 @@
 ---
 type: community
-members: 6
+members: 7
 ---
 
 # Veille Chine 2026-11-13 : Applications et services IA
 
-**Members:** 6 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[CPython Memory Vulnerability]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
-- [[JD.com Double-11 AI Sales]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
-- [[OpenAI Codex Acquisition]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
-- [[Orphan AI Agents Management]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
-- [[PPIO OpenDesign]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
-- [[Veille Chine 2026-11-13  Applications et services IA]] - document - veilles/veille-ia-cn-2026-11-13-t5.md
+- [[Baseten]] - concept - veilles/veille-ia-dev-2026-11-22-t6.md
+- [[Bison-1]] - concept - veilles/veille-ia-dev-2026-11-22-t6.md
+- [[Gemma 4]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
+- [[Groundhog-1]] - concept - veilles/veille-ia-dev-2026-11-22-t6.md
+- [[Inkling 2 Mini]] - concept - veilles/veille-ia-dev-2026-11-22-t3.md
+- [[Nimble]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
+- [[Ollama]] - concept - veilles/veille-ia-dev-2026-11-14-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,3 +22,10 @@ members: 6
 TABLE source_file, type FROM #community/Veille_Chine_2026-11-13__Applications_et_services_IA
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_Hugging Face]]
+
+## Top bridge nodes
+- [[Inkling 2 Mini]] - degree 3, connects to 2 communities

@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-12 : IA en santé et sciences de la vie
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[EDITH Trial]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
-- [[NHS]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
+- [[CyberStrikeAI]] - concept - dossiers/2026-11-26-1.md
 
 ## Live Query (requires Dataview plugin)
 

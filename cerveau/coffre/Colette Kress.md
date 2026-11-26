@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-15-1.md"
 type: "concept"
-community: "Dossier: Scandale Nvidia"
+community: "Jensen Huang"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Dossier_Scandale_Nvidia
+  - community/Jensen_Huang
 ---
 
 # Colette Kress
@@ -14,4 +14,4 @@ tags:
 - [[Dossier Scandale Nvidia]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Dossier_Scandale_Nvidia
+#graphify/concept #graphify/EXTRACTED #community/Jensen_Huang

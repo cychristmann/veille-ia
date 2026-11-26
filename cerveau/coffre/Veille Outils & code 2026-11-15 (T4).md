@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-15-t4.md"
 type: "document"
-community: "GPT-6 Astra"
+community: "Veille Outils & code 2026-11-21"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Veille_Outils__code_2026-11-21
 ---
 
 # Veille Outils & code 2026-11-15 (T4)
@@ -14,4 +14,4 @@ tags:
 - [[AWS Emulator]] - `references` [EXTRACTED]
 - [[Amazon SageMaker Canvas]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-21

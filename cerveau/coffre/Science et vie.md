@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0047.md"
 type: "document"
-community: "AgentMon Live"
+community: "CoreWeave"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AgentMon_Live
+  - community/CoreWeave
 ---
 
 # Science et vie
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-25  Santé, médecine et recherche]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AgentMon_Live
+#graphify/document #graphify/EXTRACTED #community/CoreWeave

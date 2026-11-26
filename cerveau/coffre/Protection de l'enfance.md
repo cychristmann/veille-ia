@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-15-t3.md"
 type: "concept"
-community: "AI Act"
+community: "Emmanuel Macron"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/AI_Act
+  - community/Emmanuel_Macron
 ---
 
 # Protection de l'enfance
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Emmanuel Macron]] - `references` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/AI_Act
+#graphify/concept #graphify/INFERRED #community/Emmanuel_Macron

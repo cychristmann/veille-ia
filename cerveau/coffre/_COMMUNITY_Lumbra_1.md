@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Lumbra
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Le Monde Informatique]] - document - dossiers/2026-11-20-2.md
+- [[Veille Chine 2026-11-18  Impact sociétal et perception]] - document - veilles/veille-ia-cn-2026-11-18-t6.md
+- [[恒生科指六连跌，市场忧AI投入侵蚀现金流｜市场观察]] - document - veilles/veille-ia-cn-2026-11-18-t6.md
 
 ## Live Query (requires Dataview plugin)
 

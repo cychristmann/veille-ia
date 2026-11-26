@@ -1,18 +1,27 @@
 ---
 type: community
-members: 5
+members: 14
 ---
 
 # Hypothèse de Riemann
 
-**Members:** 5 nodes
+**Members:** 14 nodes
 
 ## Members
-- [[Clay Mathematics Institute]] - concept - dossiers/2026-11-22-1.md
-- [[Feuilleton Résolution de l'hypothèse de Riemann grâce à l'IA d'Anthropic]] - document - feuilletons/f-0036.md
-- [[Hypothèse de Riemann]] - concept - veilles/veille-ia-fr-2026-11-21-t3.md
-- [[Shing-Tong Yau]] - concept - feuilletons/f-0036.md
-- [[Veille France 2026-11-21  Recherche scientifique & mathématiques]] - document - veilles/veille-ia-fr-2026-11-21-t3.md
+- [[Agentic AI Foundation]] - concept - veilles/veille-ia-dev-2026-11-23-t4.md
+- [[Amazon SageMaker HyperPod Inference]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Codex CLI]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Hitachi Vantara VSP One]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Impartner MCP]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[JustSolve AI Mastery]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[MAI Code 2]] - concept - veilles/veille-ia-dev-2026-11-18-t1.md
+- [[Microsoft AI coding model]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Octopus Deploy]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Perplexity Computer]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Replit Missions]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Veille Outils & code 2026-11-18]] - document - veilles/veille-ia-dev-2026-11-18-t1.md
+- [[Veille Outils & code 2026-11-23  Nouvelles approches de développement]] - document - veilles/veille-ia-dev-2026-11-23-t4.md
+- [[Vibe Coding]] - concept - veilles/veille-ia-dev-2026-11-16-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,10 +31,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Claude]]
-- 1 edge to [[_COMMUNITY_Riemann Hypothesis]]
-- 1 edge to [[_COMMUNITY_David Tepper]]
+- 3 edges to [[_COMMUNITY_ASML]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18 (T1)]]
+- 1 edge to [[_COMMUNITY_Meta_1]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-16]]
 
 ## Top bridge nodes
-- [[Hypothèse de Riemann]] - degree 6, connects to 2 communities
-- [[Feuilleton Résolution de l'hypothèse de Riemann grâce à l'IA d'Anthropic]] - degree 3, connects to 2 communities
+- [[Veille Outils & code 2026-11-18]] - degree 16, connects to 4 communities
+- [[Vibe Coding]] - degree 4, connects to 1 community
+- [[MAI Code 2]] - degree 2, connects to 1 community

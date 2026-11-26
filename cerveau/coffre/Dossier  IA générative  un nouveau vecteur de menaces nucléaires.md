@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-23-2.md"
 type: "document"
-community: "Dossier : IA générative : un nouveau vecteur de menaces nucléaires"
+community: "无界进化 (INFevo)"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Dossier__IA_générative__un_nouveau_vecteur_de_menaces_nucléaires
+  - community/无界进化_INFevo
 ---
 
 # Dossier : IA générative : un nouveau vecteur de menaces nucléaires
@@ -18,4 +18,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Université de Fudan]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Dossier__IA_générative__un_nouveau_vecteur_de_menaces_nucléaires
+#graphify/document #graphify/EXTRACTED #community/无界进化_INFevo
