@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Feuilleton Centre international d’IA militaire français ouvert à Rennes]] - document - feuilletons/f-0023.md
+- [[Veille États-Unis 2026-11-10  Régulation, sécurité et éthique]] - document - veilles/veille-ia-us-2026-11-10-t5.md
 
 ## Live Query (requires Dataview plugin)
 

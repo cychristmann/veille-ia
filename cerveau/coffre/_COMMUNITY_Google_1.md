@@ -8,17 +8,17 @@ members: 11
 **Members:** 11 nodes
 
 ## Members
-- [[Après l’euphorie, la course à l’IA se heurte déjà aux limites de son modèle économique]] - document - dossiers/2026-11-15-2.md
-- [[Boom de l'intelligence artificielle]] - concept - dossiers/2026-11-15-2.md
-- [[Data-centers]] - concept - dossiers/2026-11-15-2.md
-- [[Dossier  Effondrement du boom IA et crise des data-centers]] - document - dossiers/2026-11-15-2.md
-- [[Empreinte environnementale]] - concept - dossiers/2026-11-15-2.md
-- [[Géants technologiques (Alphabet, Amazon, Microsoft, Meta)]] - concept - dossiers/2026-11-15-2.md
-- [[Investissements dans l’IA  jusqu’où ira l’euphorie mondiale avant le coup de frein]] - document - dossiers/2026-11-15-2.md
-- [[L’empreinte environnementale de l’IA pourrait être multipliée par 7 d’ici 2030]] - document - dossiers/2026-11-15-2.md
-- [[OPINION. « L'énergie pour les data centers de l'IA, atout stratégique ou mirage  »]] - document - dossiers/2026-11-15-2.md
-- [[Risque macroéconomique]] - concept - dossiers/2026-11-15-2.md
-- [[Un coup d'arrêt de l'IA aurait des répercussions bien au-delà des Etats-Unis]] - document - dossiers/2026-11-15-2.md
+- [[BlogNT]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[Brief IA]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[CNews]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[Fortuneo]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[FranceTransactions.com]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[Graphseo Bourse]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[Investing.com France]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[Le Figaro]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[Les Echos]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[Veille France 2026-11-20  IPO et dynamique du marché de l'IA]] - document - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[Zonebourse]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,3 +26,9 @@ members: 11
 TABLE source_file, type FROM #community/Google
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_David Tepper]]
+
+## Top bridge nodes
+- [[Veille France 2026-11-20  IPO et dynamique du marché de l'IA]] - degree 11, connects to 1 community

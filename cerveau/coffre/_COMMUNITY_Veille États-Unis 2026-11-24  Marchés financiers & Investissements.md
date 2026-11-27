@@ -1,18 +1,19 @@
 ---
 type: community
-members: 5
+members: 6
 ---
 
 # Veille États-Unis 2026-11-24 : Marchés financiers & Investissements
 
-**Members:** 5 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Franklin Templeton]] - concept - veilles/veille-ia-us-2026-11-24-t3.md
-- [[JPMorgan Chase]] - concept - veilles/veille-ia-us-2026-11-24-t3.md
-- [[United Airlines]] - concept - veilles/veille-ia-us-2026-11-13-t3.md
-- [[Veille États-Unis 2026-11-13  Applications sectorielles de l’IA]] - document - veilles/veille-ia-us-2026-11-13-t3.md
-- [[Veille États-Unis 2026-11-24  Marchés financiers & Investissements]] - document - veilles/veille-ia-us-2026-11-24-t3.md
+- [[Alibaba Domestic Computing Power Strategy]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
+- [[Grab AI Code Security Strategy]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
+- [[Linger Project (Open Source)]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
+- [[OpenAI Chip Redesign Breakthroughs]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
+- [[SpaceX AI Chip Debt Financing Conflict]] - concept - veilles/veille-ia-cn-2026-11-20-t7.md
+- [[Veille Chine 2026-11-20]] - document - veilles/veille-ia-cn-2026-11-20-t7.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,12 +21,3 @@ members: 5
 TABLE source_file, type FROM #community/Veille_États-Unis_2026-11-24__Marchés_financiers__Investissements
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Adobe Creative Cloud]]
-- 1 edge to [[_COMMUNITY_Signal]]
-- 1 edge to [[_COMMUNITY_Jensen Huang]]
-
-## Top bridge nodes
-- [[Veille États-Unis 2026-11-24  Marchés financiers & Investissements]] - degree 5, connects to 2 communities
-- [[United Airlines]] - degree 3, connects to 1 community

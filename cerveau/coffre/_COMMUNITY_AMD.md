@@ -1,28 +1,22 @@
 ---
 type: community
-members: 15
+members: 9
 ---
 
 # AMD
 
-**Members:** 15 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[AEX360]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
-- [[AI Co-pilot]] - concept - feuilletons/f-0049.md
-- [[Feuilleton  Xpeng ouvre l’écosystème IA physique]] - document - feuilletons/f-0049.md
-- [[He Xiaopeng]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
-- [[Physical AI Ecosystem]] - concept - feuilletons/f-0049.md
-- [[System 0 (Instinct)]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
-- [[System 1 (Cerebellum)]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
-- [[System 2 (Brain)]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
-- [[Tesla]] - concept - veilles/veille-ia-us-2026-11-26-t3.md
-- [[Turing AI Co-driving]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
-- [[Turing Architecture]] - concept - feuilletons/f-0049.md
-- [[VLA]] - concept - feuilletons/f-0049.md
-- [[VLA Adaptive Deceleration]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
-- [[X-VMC 2.0]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
-- [[Xpeng]] - concept - feuilletons/f-0049.md
+- [[AMD]] - concept - veilles/veille-ia-cn-2026-11-10-t1.md
+- [[AMD 霄龙嵌入式 9006 系列 SP7]] - concept - veilles/veille-ia-cn-2026-11-10-t1.md
+- [[Li Feifei]] - code - veilles/veille-ia-cn-2026-11-17-t5.md
+- [[Palantir]] - concept - veilles/veille-ia-cn-2026-11-23-t3.md
+- [[Unsloth]] - concept - veilles/veille-ia-fr-2026-11-22-t2.md
+- [[Veille Chine 2026-11-17 (T5)]] - document - veilles/veille-ia-cn-2026-11-17-t5.md
+- [[Veille États-Unis 2026-11-08]] - document - veilles/veille-ia-us-2026-11-08-t4.md
+- [[Xiao and Cai, “Follow the Policy, Fail the Benchmark”, arXiv 2611.07042]] - paper - veilles/veille-ia-us-2026-11-08-t4.md
+- [[Zen 6 架构]] - concept - veilles/veille-ia-cn-2026-11-10-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -32,7 +26,15 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_T-Head]]
+- 1 edge to [[_COMMUNITY_Meta]]
+- 1 edge to [[_COMMUNITY_David Tepper_1]]
+- 1 edge to [[_COMMUNITY_AI Governance]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-18  Régulation et gouvernance]]
+- 1 edge to [[_COMMUNITY_Tencent_1]]
 
 ## Top bridge nodes
-- [[Xpeng]] - degree 10, connects to 1 community
+- [[AMD]] - degree 8, connects to 3 communities
+- [[Veille États-Unis 2026-11-08]] - degree 5, connects to 2 communities
+- [[Palantir]] - degree 3, connects to 2 communities

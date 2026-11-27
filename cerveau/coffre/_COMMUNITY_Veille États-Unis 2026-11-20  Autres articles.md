@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[AI ‘Handoverism’. Who Wants to Hand AI the Keys AI-RTZ 1276]] - concept - veilles/veille-ia-us-2026-11-20-t6.md
-- [[Veille États-Unis 2026-11-20  Autres articles]] - document - veilles/veille-ia-us-2026-11-20-t6.md
+- [[Veille Chine 2026-11-18  Impact sociétal et perception]] - document - veilles/veille-ia-cn-2026-11-18-t6.md
+- [[恒生科指六连跌，市场忧AI投入侵蚀现金流｜市场观察]] - document - veilles/veille-ia-cn-2026-11-18-t6.md
 
 ## Live Query (requires Dataview plugin)
 

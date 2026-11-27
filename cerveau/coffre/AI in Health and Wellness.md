@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-20-t2.md"
 type: "concept"
-community: "Brevis Arca AI"
+community: "Craig Federighi"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Brevis_Arca_AI
+  - community/Craig_Federighi
 ---
 
 # AI in Health and Wellness
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-20  Applications santé et bien‑être]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Brevis_Arca_AI
+#graphify/concept #graphify/EXTRACTED #community/Craig_Federighi

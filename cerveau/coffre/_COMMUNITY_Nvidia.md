@@ -9,7 +9,7 @@ members: 36
 
 ## Members
 - [[AI Overwatch Act]] - concept - dossiers/2026-11-15-1.md
-- [[Baird]] - concept - dossiers/2026-11-12-1.md
+- [[Baird]] - concept - feuilletons/f-0001.md
 - [[Blackwell]] - concept - dossiers/2026-11-20-2.md
 - [[Cambricon]] - concept - dossiers/2026-11-15-1.md
 - [[Chip Security Act]] - concept - dossiers/2026-11-15-1.md
@@ -23,7 +23,7 @@ members: 36
 - [[Match Act]] - concept - dossiers/2026-11-15-1.md
 - [[MetaX]] - concept - dossiers/2026-11-15-1.md
 - [[NDAA]] - concept - dossiers/2026-11-15-1.md
-- [[Nvidia]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
+- [[Nvidia]] - concept - dossiers/2026-11-12-3.md
 - [[Oaktree Capital]] - concept - veilles/veille-ia-us-2026-11-15-t2.md
 - [[SMIC]] - concept - veilles/veille-ia-fr-2026-11-15-t1.md
 - [[Southeast Asia]] - concept - feuilletons/f-0001.md
@@ -53,53 +53,52 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 10 edges to [[_COMMUNITY_Jensen Huang]]
-- 8 edges to [[_COMMUNITY_SpaceX]]
-- 7 edges to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
-- 3 edges to [[_COMMUNITY_DeepSeek]]
-- 3 edges to [[_COMMUNITY_Veille France 2026-11-24  Marché et investissements IA_1]]
-- 3 edges to [[_COMMUNITY_Amazon]]
+- 9 edges to [[_COMMUNITY_Jensen Huang_1]]
+- 9 edges to [[_COMMUNITY_SpaceX]]
+- 7 edges to [[_COMMUNITY_David Tepper]]
+- 4 edges to [[_COMMUNITY_Huawei]]
+- 3 edges to [[_COMMUNITY_DeepSeek_1]]
+- 3 edges to [[_COMMUNITY_无界进化 (INFevo)_1]]
 - 3 edges to [[_COMMUNITY_Alibaba]]
-- 3 edges to [[_COMMUNITY_Huawei]]
-- 3 edges to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière_1]]
-- 2 edges to [[_COMMUNITY_Dossier  Nvidia désigné champion national de l’IA aux États‑Unis_1]]
-- 2 edges to [[_COMMUNITY_Dell]]
-- 2 edges to [[_COMMUNITY_Claude]]
-- 2 edges to [[_COMMUNITY_China_1]]
+- 3 edges to [[_COMMUNITY_Amazon]]
+- 3 edges to [[_COMMUNITY_Google]]
+- 3 edges to [[_COMMUNITY_Veille France 2026-11-25]]
 - 2 edges to [[_COMMUNITY_Apple]]
-- 2 edges to [[_COMMUNITY_ICAID_1]]
+- 2 edges to [[_COMMUNITY_Veille Chine 2026-11-23]]
+- 2 edges to [[_COMMUNITY_Dell]]
+- 2 edges to [[_COMMUNITY_AI Act_1]]
+- 2 edges to [[_COMMUNITY_Veille Chine 2026-11-14  IA industrielle et infrastructure_1]]
+- 2 edges to [[_COMMUNITY_Veille France 2026-11-10]]
+- 2 edges to [[_COMMUNITY_Veille États-Unis 2026-11-16]]
+- 2 edges to [[_COMMUNITY_Lenovo]]
 - 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-14  Incident FAA et Intelligence Artificielle]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-12  Marchés financiers et investissements IA]]
+- 1 edge to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière]]
+- 1 edge to [[_COMMUNITY_China_1]]
+- 1 edge to [[_COMMUNITY_David Tepper_1]]
 - 1 edge to [[_COMMUNITY_Microsoft]]
-- 1 edge to [[_COMMUNITY_Libertify]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-20  Régulation, souveraineté et enjeux géopolitiques]]
-- 1 edge to [[_COMMUNITY_Cursor]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-09  Autres articles]]
+- 1 edge to [[_COMMUNITY_Dell_1]]
 - 1 edge to [[_COMMUNITY_Dossier  Nvidia désigné champion national de l’IA aux États‑Unis]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
-- 1 edge to [[_COMMUNITY_Hugging Face]]
-- 1 edge to [[_COMMUNITY_Mistral]]
-- 1 edge to [[_COMMUNITY_Microsoft_1]]
-- 1 edge to [[_COMMUNITY_Claude Code_1]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-24]]
-- 1 edge to [[_COMMUNITY_Lenovo]]
-- 1 edge to [[_COMMUNITY_Mistral AI]]
-- 1 edge to [[_COMMUNITY_Adobe Creative Cloud]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
-- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Libertify]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-27]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17_1]]
+- 1 edge to [[_COMMUNITY_OpenRouter]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-27]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-12]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-11  Marchés et investissements]]
 - 1 edge to [[_COMMUNITY_Veille France 2026-11-21  Applications industrielles & produits]]
 - 1 edge to [[_COMMUNITY_Veille France 2026-11-22  Marchés et finance_2]]
-- 1 edge to [[_COMMUNITY_Cipher]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-25  Société, éthique et éducation]]
-- 1 edge to [[_COMMUNITY_IBM]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-09  Autres articles]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
+- 1 edge to [[_COMMUNITY_ChatGPT]]
 - 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-26]]
-- 1 edge to [[_COMMUNITY_Jensen Huang_1]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-23  Marchés et investissements IA]]
 - 1 edge to [[_COMMUNITY_AI Governance]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-09  Autres articles_1]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-16]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-20  Régulation, souveraineté et enjeux géopolitiques]]
 
 ## Top bridge nodes
-- [[Nvidia]] - degree 109, connects to 44 communities
+- [[Nvidia]] - degree 113, connects to 43 communities
 - [[Veille France 2026-11-15  Industrie & matériel]] - degree 4, connects to 2 communities
 - [[SMIC]] - degree 5, connects to 1 community
 - [[Veille France 2026-11-16  Économie, marchés et financements]] - degree 3, connects to 1 community

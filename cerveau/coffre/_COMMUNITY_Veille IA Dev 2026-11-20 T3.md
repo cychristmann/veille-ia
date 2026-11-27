@@ -1,21 +1,26 @@
 ---
 type: community
-members: 8
+members: 13
 ---
 
 # Veille IA Dev 2026-11-20 T3
 
-**Members:** 8 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[AI Medical Advice]] - concept - veilles/veille-ia-fr-2026-11-26-t2.md
-- [[ANSM]] - concept - veilles/veille-ia-fr-2026-11-26-t2.md
-- [[Amazon SageMaker]] - concept - veilles/veille-ia-dev-2026-11-20-t3.md
-- [[Gemini]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
-- [[Ploy AI Gateway]] - concept - veilles/veille-ia-dev-2026-11-20-t3.md
-- [[Supermicro]] - concept - veilles/veille-ia-dev-2026-11-20-t3.md
-- [[Veille IA Dev 2026-11-20 T3]] - document - veilles/veille-ia-dev-2026-11-20-t3.md
-- [[Veille États-Unis 2026-11-20  Développements technologiques et agents IA]] - document - veilles/veille-ia-us-2026-11-20-t4.md
+- [[AI证明了黎曼猜想？一份只有机器能读懂的证明，意义何在]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[AI遭遇血洗！英伟达蒸发18万亿，AI盛宴要落幕了吗？]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[All in AI，产业再造——中欧创业营15期正式启航]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[Anthropic 创纪录 IPO 未能扭转 AI 市场悲观情绪]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[Anthropic上市是AI的明斯基时刻]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[A股奇迹日！超150只个股涨停，物理AI板块全天强势]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[Veille Chine 2026-11-23  Politiques, tendances et perspectives sectorielles IA]] - document - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[“AI赋能·电商助农”花都区2026年数字农业直播（短视频）技能竞赛]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[亚太市场周一全线走弱，全球AI交易继续挤泡沫]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[北汽产投刘培龙：AI热潮之下，盲目出手往往铩羽而归]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[大摩重算Meta(META.US)这本账：AI投入推高费用]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[美国多领域接连发生技术故障，专家：2027年AI网络风险或集中显现]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
+- [[美股崩跌、纳指全年涨幅归零：AI牛市迎来价值重估]] - concept - veilles/veille-ia-cn-2026-11-23-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,18 +28,3 @@ members: 8
 TABLE source_file, type FROM #community/Veille_IA_Dev_2026-11-20_T3
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Claude Code_2]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Claude Code_1]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-20]]
-- 1 edge to [[_COMMUNITY_Apple]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-26]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-25  Société, éthique et éducation]]
-
-## Top bridge nodes
-- [[ANSM]] - degree 5, connects to 3 communities
-- [[Veille États-Unis 2026-11-20  Développements technologiques et agents IA]] - degree 3, connects to 2 communities
-- [[Veille IA Dev 2026-11-20 T3]] - degree 5, connects to 1 community
-- [[Gemini]] - degree 4, connects to 1 community

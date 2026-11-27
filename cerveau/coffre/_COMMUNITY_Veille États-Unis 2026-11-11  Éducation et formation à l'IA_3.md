@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Muru]] - concept - veilles/veille-ia-dev-2026-11-23-t1.md
+- [[Telia]] - concept - dossiers/2026-11-19-3.md
 
 ## Live Query (requires Dataview plugin)
 

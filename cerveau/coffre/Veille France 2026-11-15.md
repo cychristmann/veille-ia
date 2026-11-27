@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-15-t3.md"
 type: "document"
-community: "Veille France 2026-11-15"
+community: "Mistral AI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-15
+  - community/Mistral_AI
 ---
 
 # Veille France 2026-11-15
@@ -30,4 +30,4 @@ tags:
 - [[This Is Unreal (Spectacle)]] - `references` [EXTRACTED]
 - [[Universités britanniques]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-15
+#graphify/document #graphify/EXTRACTED #community/Mistral_AI

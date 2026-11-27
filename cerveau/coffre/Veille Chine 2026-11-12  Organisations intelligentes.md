@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t1.md"
 type: "document"
-community: "Robin Li"
+community: "ABB"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Robin_Li
+  - community/ABB
 ---
 
 # Veille Chine 2026-11-12 : Organisations intelligentes
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Robin Li]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Robin_Li
+#graphify/document #graphify/EXTRACTED #community/ABB

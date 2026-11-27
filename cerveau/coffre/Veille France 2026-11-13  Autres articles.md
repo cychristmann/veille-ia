@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t5.md"
 type: "document"
-community: "Veille Chine 2026-11-18 : Recherche et modèles"
+community: "Blue J"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-18__Recherche_et_modèles
+  - community/Blue_J
 ---
 
 # Veille France 2026-11-13 : Autres articles
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Retail VR]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-18__Recherche_et_modèles
+#graphify/document #graphify/EXTRACTED #community/Blue_J

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t2.md"
 type: "document"
-community: "GPT-6 Astra"
+community: "Veille Chine 2026-11-12 : Anthropic et concurrence"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Veille_Chine_2026-11-12__Anthropic_et_concurrence
 ---
 
 # Veille Chine 2026-11-12 : Anthropic et concurrence
@@ -17,4 +17,4 @@ tags:
 - [[华尔街见闻]] - `cites` [EXTRACTED]
 - [[证券之星]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__Anthropic_et_concurrence

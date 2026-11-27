@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-19-t6.md"
 type: "document"
-community: "Veille France 2026-11-15"
+community: "SpaceX"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-15
+  - community/SpaceX
 ---
 
 # Veille France 2026-11-19 : Autres articles
@@ -17,4 +17,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Réglementation de l'IA]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-15
+#graphify/document #graphify/EXTRACTED #community/SpaceX

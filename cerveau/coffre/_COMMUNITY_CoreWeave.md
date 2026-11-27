@@ -1,27 +1,24 @@
 ---
 type: community
-members: 14
+members: 11
 ---
 
 # CoreWeave
 
-**Members:** 14 nodes
+**Members:** 11 nodes
 
 ## Members
-- [[Agent IA Apple]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[Bot-out et managers]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[Chauffage piloté par IA]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[Double nature de l'IA]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[Formation vidéo et IA]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[Hypothèse de Riemann et IA]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[IA dans le tourisme]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[IA du fisc]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[IA et créativité]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[IA et forces nucléaires]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[IA et inégalités étudiantes]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[IA et vitesse sociétale]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[TikTok IA Transparence]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
-- [[Veille France 2026-11-23]] - document - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[Après l’euphorie, la course à l’IA se heurte déjà aux limites de son modèle économique]] - document - dossiers/2026-11-15-2.md
+- [[Boom de l'intelligence artificielle]] - concept - dossiers/2026-11-15-2.md
+- [[Data-centers]] - concept - dossiers/2026-11-15-2.md
+- [[Dossier  Effondrement du boom IA et crise des data-centers]] - document - dossiers/2026-11-15-2.md
+- [[Empreinte environnementale]] - concept - dossiers/2026-11-15-2.md
+- [[Géants technologiques (Alphabet, Amazon, Microsoft, Meta)]] - concept - dossiers/2026-11-15-2.md
+- [[Investissements dans l’IA  jusqu’où ira l’euphorie mondiale avant le coup de frein]] - document - dossiers/2026-11-15-2.md
+- [[L’empreinte environnementale de l’IA pourrait être multipliée par 7 d’ici 2030]] - document - dossiers/2026-11-15-2.md
+- [[OPINION. « L'énergie pour les data centers de l'IA, atout stratégique ou mirage  »]] - document - dossiers/2026-11-15-2.md
+- [[Risque macroéconomique]] - concept - dossiers/2026-11-15-2.md
+- [[Un coup d'arrêt de l'IA aurait des répercussions bien au-delà des Etats-Unis]] - document - dossiers/2026-11-15-2.md
 
 ## Live Query (requires Dataview plugin)
 

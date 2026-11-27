@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-12-t1.md"
 type: "concept"
-community: "Huawei"
+community: "Veille France 2026-11-12 : Marchés financiers et investissements IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Huawei
+  - community/Veille_France_2026-11-12__Marchés_financiers_et_investissements_IA
 ---
 
 # UBS
@@ -14,4 +14,4 @@ tags:
 - [[Veille France 2026-11-12  Marchés financiers et investissements IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-26]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Huawei
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-12__Marchés_financiers_et_investissements_IA

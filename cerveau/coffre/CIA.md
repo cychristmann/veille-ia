@@ -1,16 +1,17 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-26-t6.md"
+source_file: "dossiers/2026-11-27-1.md"
 type: "concept"
-community: "Veille Chine 2026-11-17 : Marché, financement et régulation"
+community: "David Tepper"
 tags:
   - graphify/concept
-  - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-17__Marché_financement_et_régulation
+  - graphify/AMBIGUOUS
+  - community/David_Tepper
 ---
 
 # CIA
 
 ## Connections
+- [[ARTEX]] - `references` [AMBIGUOUS]
 - [[Veille Chine 2026-11-26  Débats et perceptions publiques]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-17__Marché_financement_et_régulation
+#graphify/concept #graphify/AMBIGUOUS #community/David_Tepper

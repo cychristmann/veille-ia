@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-18-t1.md"
 type: "document"
-community: "Hypothèse de Riemann"
+community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Hypothèse_de_Riemann
+  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
 ---
 
 # Veille Outils & code 2026-11-18
@@ -28,4 +28,4 @@ tags:
 - [[SID-2 Agentic Search Model]] - `references` [EXTRACTED]
 - [[Vibe Coding]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Hypothèse_de_Riemann
+#graphify/document #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière

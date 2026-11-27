@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-23-t2.md"
 type: "concept"
-community: "Veille Chine 2026-11-24 : Applications sectorielles"
+community: "Veille États-Unis 2026-11-15 : Recherche et applications avancées de l'IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-24__Applications_sectorielles
+  - community/Veille_États-Unis_2026-11-15__Recherche_et_applications_avancées_de_lIA
 ---
 
 # Cairn AI Platform
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-23  Santé et médecine assistées par l'IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-24__Applications_sectorielles
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-15__Recherche_et_applications_avancées_de_lIA

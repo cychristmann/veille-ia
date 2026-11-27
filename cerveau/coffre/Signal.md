@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-19-t4.md"
 type: "concept"
-community: "Signal"
+community: "Veille France 2026-11-12"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Signal
+  - community/Veille_France_2026-11-12
 ---
 
 # Signal
@@ -18,4 +18,4 @@ tags:
 - [[Veille États-Unis 2026-11-21  Anthropic & Riemann]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-24  Marchés financiers & Investissements]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Signal
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-12

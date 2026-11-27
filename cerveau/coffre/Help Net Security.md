@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-17-t4.md"
 type: "concept"
-community: "Nvidia"
+community: "Jensen Huang"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Nvidia
+  - community/Jensen_Huang
 ---
 
 # Help Net Security
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-17  Applications sectorielles de l'IA]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Nvidia
+#graphify/concept #graphify/EXTRACTED #community/Jensen_Huang

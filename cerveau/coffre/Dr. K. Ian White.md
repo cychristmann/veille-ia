@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-24-t1.md"
 type: "concept"
-community: "Agentic AI"
+community: "S&P 500"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Agentic_AI
+  - community/SP_500
 ---
 
 # Dr. K. Ian White
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[UT Health San Antonio]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Agentic_AI
+#graphify/concept #graphify/EXTRACTED #community/SP_500

@@ -1,21 +1,30 @@
 ---
 type: community
-members: 8
+members: 17
 ---
 
 # AI Impact on Finance and Markets
 
-**Members:** 8 nodes
+**Members:** 17 nodes
 
 ## Members
-- [[AI Didn’t Take Our Jobs. It Turned Them Into Checking]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
-- [[Commentary Joe Brewer The wisdom AI can’t replace]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
-- [[Dario Amodei Pledges Human Control of AI at Anthropic’s $83 IPO]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
-- [[From Film Sets to Animated Dramas How AI Is Reshaping Film Production]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
-- [[Raleigh woman says company's AI agent confused her over rent. Now she's evicted.]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
-- [[Veille États-Unis 2026-11-20  Impact sociétal et culturel]] - document - veilles/veille-ia-us-2026-11-20-t5.md
-- [[Why I’m Not Losing Sleep Over the AI Apocalypse]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
-- [[You tell AI everything. But who else is listening]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
+- [[AI Pays Off When You Understand Your Development Bottleneck]] - concept - veilles/veille-ia-us-2026-11-27-t6.md
+- [[Defense Ministry's new AI vision vows more use, stresses human role]] - concept - veilles/veille-ia-us-2026-11-27-t6.md
+- [[Inside Taiwan’s sovereign AI strategy]] - concept - veilles/veille-ia-us-2026-11-27-t6.md
+- [[Japan's Second AI Correction May Be Bottoming]] - concept - veilles/veille-ia-us-2026-11-27-t6.md
+- [[Los Angeles disables Google AI search features as school pushback grows]] - concept - veilles/veille-ia-us-2026-11-27-t6.md
+- [[Nuclear unicorns gallop to meet rising AI energy demand]] - concept - veilles/veille-ia-us-2026-11-27-t6.md
+- [[Quantum Vault Holding Heads 3 Canadian AI Infrastructure Stocks To Watch]] - concept - veilles/veille-ia-us-2026-11-27-t6.md
+- [[Retailers enter the unknown with AI shopping assistants on Black Friday]] - concept - veilles/veille-ia-us-2026-11-27-t6.md
+- [[Russian AI model fills void in unfinished Gogol novel]] - concept - veilles/veille-ia-us-2026-11-27-t6.md
+- [[SAP Says No Decisions Made on Job Cuts as AI Reshapes Landscape]] - concept - veilles/veille-ia-us-2026-11-27-t6.md
+- [[Should You Use AI To Write Work Emails]] - concept - veilles/veille-ia-us-2026-11-27-t6.md
+- [[Snowflake Startup Spotlight Sema4.ai]] - concept - veilles/veille-ia-us-2026-11-27-t6.md
+- [[The Global AI Governance Index (2026)]] - concept - veilles/veille-ia-us-2026-11-27-t6.md
+- [[Tokayev Outlines AI Ambitions, Digital Transport Corridor in Kazakhstan-Russia Partnership]] - concept - veilles/veille-ia-us-2026-11-27-t6.md
+- [[Transcript BigDeal Interview with AI Expert Guillermo Rauch You’re Using AI Wrong]] - concept - veilles/veille-ia-us-2026-11-27-t6.md
+- [[Veille États-Unis 2026-11-27  Autres articles]] - document - veilles/veille-ia-us-2026-11-27-t6.md
+- [[Zip Forward New York Finding Flow in the Age of Agentic AI]] - concept - veilles/veille-ia-us-2026-11-27-t6.md
 
 ## Live Query (requires Dataview plugin)
 

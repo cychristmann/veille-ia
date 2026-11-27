@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-26-t6.md"
 type: "concept"
-community: "Veille France 2026-11-19 : Applications sectorielles de l'IA"
+community: "Veille Chine 2026-11-18 : Régulation et gouvernance"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-19__Applications_sectorielles_de_lIA
+  - community/Veille_Chine_2026-11-18__Régulation_et_gouvernance
 ---
 
 # Retail IA Agents
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-26  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-19__Applications_sectorielles_de_lIA
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-18__Régulation_et_gouvernance

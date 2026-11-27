@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0003.md"
 type: "concept"
-community: "ASML"
+community: "Copilot"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ASML
+  - community/Copilot
 ---
 
 # Fable 5.2
@@ -17,4 +17,4 @@ tags:
 - [[Opus 5.5]] - `conceptually_related_to` [EXTRACTED]
 - [[datasette]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/ASML
+#graphify/concept #graphify/EXTRACTED #community/Copilot

@@ -1,21 +1,19 @@
 ---
 type: community
-members: 8
+members: 6
 ---
 
 # This Is Unreal (Spectacle)
 
-**Members:** 8 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[AI Ethics in Education]] - concept - veilles/veille-ia-us-2026-11-15-t1.md
-- [[Choi Kyo-jin]] - concept - dossiers/2026-11-22-2.md
-- [[Feuilleton Scandale de triche à l'IA en Corée du Sud]] - document - feuilletons/f-0040.md
-- [[Han Won-seok]] - concept - dossiers/2026-11-22-2.md
-- [[Lee Jae-myung]] - concept - dossiers/2026-11-22-2.md
-- [[Ministry of Education]] - concept - dossiers/2026-11-22-2.md
-- [[Suneung Exam]] - concept - dossiers/2026-11-22-2.md
-- [[Veille États-Unis 2026-11-15  Scandale de triche à l'IA]] - document - veilles/veille-ia-us-2026-11-15-t1.md
+- [[Community Impact]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Daily Herald]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Federal News Network]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Inside Global Tech]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[News 5 Cleveland WEWS]] - concept - veilles/veille-ia-us-2026-11-09-t1.md
+- [[Veille États-Unis 2026-11-09  Régulation et politiques publiques]] - document - veilles/veille-ia-us-2026-11-09-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +21,3 @@ members: 8
 TABLE source_file, type FROM #community/This_Is_Unreal_Spectacle
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Claude Code_2]]
-
-## Top bridge nodes
-- [[Han Won-seok]] - degree 3, connects to 1 community

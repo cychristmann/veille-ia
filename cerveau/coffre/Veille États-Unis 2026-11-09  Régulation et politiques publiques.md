@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t1.md"
 type: "document"
-community: "Dossier : Jouets dotés de chatbots IA"
+community: "This Is Unreal (Spectacle)"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Dossier__Jouets_dotés_de_chatbots_IA
+  - community/This_Is_Unreal_Spectacle
 ---
 
 # Veille États-Unis 2026-11-09 : Régulation et politiques publiques
@@ -17,4 +17,4 @@ tags:
 - [[Inside Global Tech]] - `cites` [EXTRACTED]
 - [[News 5 Cleveland WEWS]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Dossier__Jouets_dotés_de_chatbots_IA
+#graphify/document #graphify/EXTRACTED #community/This_Is_Unreal_Spectacle

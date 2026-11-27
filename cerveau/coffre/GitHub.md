@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-24-t1.md"
+source_file: "feuilletons/f-0032.md"
 type: "concept"
-community: "Veille Chine 2026-11-15 : Autres articles"
+community: "Veille Outils & code 2026-11-20"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-15__Autres_articles
+  - community/Veille_Outils__code_2026-11-20
 ---
 
 # GitHub
@@ -13,5 +13,6 @@ tags:
 ## Connections
 - [[ARTEX]] - `references` [EXTRACTED]
 - [[Claude Ship]] - `references` [EXTRACTED]
+- [[Microsoft Agent Framework]] - `shares_data_with` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-15__Autres_articles
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-20

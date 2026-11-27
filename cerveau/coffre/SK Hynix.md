@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-26-t5.md"
+source_file: "veilles/veille-ia-fr-2026-11-23-t2.md"
 type: "concept"
 community: "Huawei"
 tags:

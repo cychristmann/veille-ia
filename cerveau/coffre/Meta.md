@@ -1,9 +1,9 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
-type: "code"
+source_file: "veilles/veille-ia-fr-2026-11-18-t6.md"
+type: "concept"
 community: "Meta"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
   - community/Meta
 ---
@@ -17,6 +17,7 @@ tags:
 - [[Apple AI Agent]] - `conceptually_related_to` [EXTRACTED]
 - [[Conductor]] - `references` [EXTRACTED]
 - [[Indiana University]] - `references` [EXTRACTED]
+- [[Michael Burry]] - `references` [EXTRACTED]
 - [[Muse]] - `references` [EXTRACTED]
 - [[Muse AI Agent]] - `references` [EXTRACTED]
 - [[Muse AI assistant]] - `references` [EXTRACTED]
@@ -34,5 +35,6 @@ tags:
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-22  Marché, investissements et actions IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-24  Produits, Services & Expériences utilisateur]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-27  Marchés financiers et investissements IA]] - `cites` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Meta
+#graphify/concept #graphify/EXTRACTED #community/Meta

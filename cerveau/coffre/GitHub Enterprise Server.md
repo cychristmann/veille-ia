@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-14-t5.md"
 type: "concept"
-community: "ASML"
+community: "Copilot"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ASML
+  - community/Copilot
 ---
 
 # GitHub Enterprise Server
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Copilot]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/ASML
+#graphify/concept #graphify/EXTRACTED #community/Copilot

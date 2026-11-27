@@ -16,7 +16,7 @@ tags:
 - [[Nvidia]] - `conceptually_related_to` [INFERRED]
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[SK Hynix]] - `conceptually_related_to` [EXTRACTED]
-- [[Samsung Electronics Co.]] - `conceptually_related_to` [EXTRACTED]
+- [[Samsung]] - `conceptually_related_to` [EXTRACTED]
 - [[Veille Chine 2026-11-10  Écosystèmes, plateformes et outils IA]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-15  Autres articles]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - `references` [EXTRACTED]

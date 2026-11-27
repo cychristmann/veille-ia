@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille Chine 2026-11-24 : Autres articles
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Le Monde Informatique]] - document - dossiers/2026-11-20-2.md
+- [[Lunit]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
+- [[M42]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
 
 ## Live Query (requires Dataview plugin)
 

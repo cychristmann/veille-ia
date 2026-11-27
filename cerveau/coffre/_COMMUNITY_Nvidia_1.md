@@ -1,23 +1,33 @@
 ---
 type: community
-members: 10
+members: 20
 ---
 
 # Nvidia
 
-**Members:** 10 nodes
+**Members:** 20 nodes
 
 ## Members
-- [[Bioengineer.org]] - concept - veilles/veille-ia-us-2026-11-08-t3.md
-- [[Help Net Security]] - concept - veilles/veille-ia-us-2026-11-17-t4.md
-- [[Jalopnik]] - concept - veilles/veille-ia-us-2026-11-08-t3.md
-- [[Korea Biomedical Review]] - concept - veilles/veille-ia-us-2026-11-17-t4.md
-- [[Oncodaily]] - concept - veilles/veille-ia-us-2026-11-08-t3.md
-- [[South China Morning Post]] - concept - veilles/veille-ia-us-2026-11-17-t4.md
-- [[The Guardian (IA)]] - concept - veilles/veille-ia-us-2026-11-17-t4.md
-- [[The Japan Times]] - concept - veilles/veille-ia-us-2026-11-17-t4.md
-- [[Veille États-Unis 2026-11-08  Applications sectorielles]] - document - veilles/veille-ia-us-2026-11-08-t3.md
-- [[Veille États-Unis 2026-11-17  Applications sectorielles de l'IA]] - document - veilles/veille-ia-us-2026-11-17-t4.md
+- [[AEX360]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
+- [[AI Co-pilot]] - concept - feuilletons/f-0049.md
+- [[Feuilleton  Xpeng ouvre l’écosystème IA physique]] - document - feuilletons/f-0049.md
+- [[Physical AI]] - concept - veilles/veille-ia-cn-2026-11-27-t2.md
+- [[Physical AI Ecosystem]] - concept - feuilletons/f-0049.md
+- [[System 0 (Instinct)]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
+- [[System 1 (Cerebellum)]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
+- [[System 2 (Brain)]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
+- [[Tesla]] - concept - veilles/veille-ia-us-2026-11-26-t3.md
+- [[Turing AI Co-driving]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
+- [[Turing Architecture]] - concept - feuilletons/f-0049.md
+- [[VLA]] - concept - feuilletons/f-0049.md
+- [[VLA Adaptive Deceleration]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
+- [[Veille Chine 2026-11-27  IA industrielle et automobile]] - document - veilles/veille-ia-cn-2026-11-27-t2.md
+- [[X-VMC 2.0]] - concept - veilles/veille-ia-cn-2026-11-25-t5.md
+- [[Xpeng]] - concept - feuilletons/f-0049.md
+- [[何小鹏]] - code - veilles/veille-ia-cn-2026-11-27-t2.md
+- [[泽景股份]] - code - veilles/veille-ia-cn-2026-11-27-t2.md
+- [[移远通信 (Quectel)]] - code - veilles/veille-ia-cn-2026-11-27-t2.md
+- [[腾讯云 (Tencent Cloud)]] - code - veilles/veille-ia-cn-2026-11-27-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -27,9 +37,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-08  Autres articles]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-18  Régulation et gouvernance_1]]
+- 1 edge to [[_COMMUNITY_SpaceX]]
 
 ## Top bridge nodes
-- [[Veille États-Unis 2026-11-17  Applications sectorielles de l'IA]] - degree 7, connects to 1 community
-- [[Veille États-Unis 2026-11-08  Applications sectorielles]] - degree 4, connects to 1 community
+- [[Xpeng]] - degree 10, connects to 1 community

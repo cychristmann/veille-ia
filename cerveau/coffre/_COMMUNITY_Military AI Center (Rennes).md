@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[French Government]] - concept - feuilletons/f-0023.md
-- [[Military AI Center (Rennes)]] - concept - feuilletons/f-0023.md
-- [[NATO]] - concept - feuilletons/f-0023.md
+- [[Counterpoint]] - concept - dossiers/2026-11-26-2.md
+- [[MN Holdings]] - concept - dossiers/2026-11-26-2.md
+- [[Saxo]] - concept - dossiers/2026-11-26-2.md
 
 ## Live Query (requires Dataview plugin)
 

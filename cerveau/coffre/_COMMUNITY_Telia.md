@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Telia]] - concept - dossiers/2026-11-19-3.md
+- [[Feuilleton Les États‑Unis désignent Nvidia parmi les champions nationaux de l’IA]] - document - feuilletons/f-0025.md
 
 ## Live Query (requires Dataview plugin)
 

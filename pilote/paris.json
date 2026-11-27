@@ -733,7 +733,7 @@
    "id": "2026-11-23-2",
    "date": "2026-11-23",
    "echeance": "2026-11-27",
-   "statut": "en_cours",
+   "statut": "perdu",
    "entite": "China",
    "sections": [
     "cn"
@@ -748,7 +748,9 @@
    "rejoue": false,
    "probabilite_ia": 0.71,
    "probabilite_stat": 0.08,
-   "historique": "0/11"
+   "historique": "0/11",
+   "observe": 4,
+   "resolu_le": "2026-11-27"
   },
   {
    "id": "2026-11-23-3",
@@ -776,7 +778,7 @@
    "id": "2026-11-24-1",
    "date": "2026-11-24",
    "echeance": "2026-11-27",
-   "statut": "en_cours",
+   "statut": "perdu",
    "entite": "Anthropic",
    "sections": [
     "fr",
@@ -792,7 +794,9 @@
    "rejoue": false,
    "probabilite_ia": 0.62,
    "probabilite_stat": 0.35,
-   "historique": "5/15"
+   "historique": "5/15",
+   "observe": 12,
+   "resolu_le": "2026-11-27"
   },
   {
    "id": "2026-11-24-2",
@@ -865,7 +869,7 @@
    "id": "2026-11-25-2",
    "date": "2026-11-25",
    "echeance": "2026-11-27",
-   "statut": "en_cours",
+   "statut": "gagne",
    "entite": "AWS",
    "sections": [
     "dev"
@@ -881,7 +885,9 @@
    "probabilite_ia": 0.57,
    "probabilite_stat": 0.6,
    "historique": "8/13",
-   "methode": "melange"
+   "methode": "melange",
+   "observe": 0,
+   "resolu_le": "2026-11-27"
   },
   {
    "id": "2026-11-26-1",
@@ -926,6 +932,52 @@
    "probabilite_ia": 0.66,
    "probabilite_stat": 0.8,
    "historique": "15/18",
+   "methode": "melange"
+  },
+  {
+   "id": "2026-11-27-1",
+   "date": "2026-11-27",
+   "echeance": "2026-12-02",
+   "statut": "en_cours",
+   "entite": "Microsoft",
+   "sections": [
+    "fr",
+    "dev"
+   ],
+   "comparaison": "au_moins",
+   "seuil": 12,
+   "horizon": 5,
+   "probabilite": 0.48,
+   "enonce": "Microsoft : au moins 12 articles (France et Outils & code) sur les 5 prochains jours",
+   "raisonnement": "La conférence Build 2026 (30/11) devrait générer plusieurs annonces sur les outils de développement, augmentant la couverture dev et fr.",
+   "phrase_ia": "Microsoft sera mentionné dans au moins 12 articles en France et dans les outils & code pendant les 5 prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.59,
+   "probabilite_stat": 0.44,
+   "historique": "7/16",
+   "methode": "melange"
+  },
+  {
+   "id": "2026-11-27-2",
+   "date": "2026-11-27",
+   "echeance": "2026-11-30",
+   "statut": "en_cours",
+   "entite": "AI Agents",
+   "sections": [
+    "us",
+    "dev"
+   ],
+   "comparaison": "au_plus",
+   "seuil": 22,
+   "horizon": 3,
+   "probabilite": 0.61,
+   "enonce": "AI Agents : au plus 22 articles (États-Unis et Outils & code) sur les 3 prochains jours",
+   "raisonnement": "Après un pic récent (17 US, 31 dev) la couverture a commencé à redescendre; aucune nouvelle produit prévue, donc le total devrait rester sous 22.",
+   "phrase_ia": "AI Agents sera cité dans au plus 22 articles aux États-Unis et dans les outils & code au cours des 3 prochains jours.",
+   "rejoue": false,
+   "probabilite_ia": 0.55,
+   "probabilite_stat": 0.7,
+   "historique": "13/18",
    "methode": "melange"
   }
  ]

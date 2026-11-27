@@ -1,25 +1,23 @@
 ---
 type: community
-members: 12
+members: 10
 ---
 
 # Veille États-Unis 2026-11-08
 
-**Members:** 12 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[Agent Gateways]] - concept - veilles/veille-ia-dev-2026-11-20-t1.md
-- [[CyberSecurityNews]] - concept - feuilletons/f-0032.md
-- [[Feuilleton Compromission massive du Microsoft Agent Framework]] - document - feuilletons/f-0032.md
-- [[Kimi Code]] - concept - veilles/veille-ia-dev-2026-11-20-t2.md
-- [[Microsoft Agent Framework]] - concept - veilles/veille-ia-dev-2026-11-20-t1.md
-- [[OX Security]] - concept - feuilletons/f-0032.md
-- [[Perplexity Orchestrator API]] - concept - veilles/veille-ia-dev-2026-11-20-t1.md
-- [[The Hacker News]] - concept - feuilletons/f-0032.md
-- [[The New Stack]] - concept - feuilletons/f-0032.md
-- [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - document - veilles/veille-ia-dev-2026-11-18-t3.md
-- [[Veille Outils & code 2026-11-20]] - document - veilles/veille-ia-dev-2026-11-20-t1.md
-- [[wiz.io]] - concept - feuilletons/f-0032.md
+- [[AI agent data leak incident]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[APA guidance on deploying AI in workplaces]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Financial Supervisory Service AI loan review deployment]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Global system outages and AI conspiracy theories]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Lean AI proof of Riemann Hypothesis]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[MiniMax founder fortune loss]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Outrage over military AI event at Berlin arts complex]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Samsung and SK Hynix AI memory market performance]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Tom Lee AI market outlook]] - concept - veilles/veille-ia-us-2026-11-22-t6.md
+- [[Veille États-Unis 2026-11-22  Autres articles]] - document - veilles/veille-ia-us-2026-11-22-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -27,21 +25,3 @@ members: 12
 TABLE source_file, type FROM #community/Veille_États-Unis_2026-11-08
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 3 edges to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
-- 3 edges to [[_COMMUNITY_Claude Code]]
-- 2 edges to [[_COMMUNITY_Claude Code_1]]
-- 1 edge to [[_COMMUNITY_Elon Musk]]
-- 1 edge to [[_COMMUNITY_ASML]]
-- 1 edge to [[_COMMUNITY_Cursor_1]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
-- 1 edge to [[_COMMUNITY_Qwen]]
-- 1 edge to [[_COMMUNITY_Meta_1]]
-
-## Top bridge nodes
-- [[Veille Outils & code 2026-11-20]] - degree 11, connects to 5 communities
-- [[Perplexity Orchestrator API]] - degree 5, connects to 4 communities
-- [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - degree 4, connects to 3 communities
-- [[Microsoft Agent Framework]] - degree 4, connects to 1 community

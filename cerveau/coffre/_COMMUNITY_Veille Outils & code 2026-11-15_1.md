@@ -1,16 +1,26 @@
 ---
 type: community
-members: 3
+members: 13
 ---
 
 # Veille Outils & code 2026-11-15
 
-**Members:** 3 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[ComCyber]] - concept - dossiers/2026-11-15-3.md
-- [[DGA]] - concept - dossiers/2026-11-15-3.md
-- [[Rennes]] - concept - dossiers/2026-11-15-3.md
+- [[AI Gigafactory Northern]] - concept - dossiers/2026-11-19-3.md
+- [[Blade]] - concept - dossiers/2026-11-19-3.md
+- [[EUSP]] - concept - feuilletons/f-0034.md
+- [[EuroHPC JU]] - concept - dossiers/2026-11-19-3.md
+- [[Feuilleton Alliance européenne pour le développement d'une IA souveraine de bout en bout]] - document - feuilletons/f-0034.md
+- [[OVHai LLM]] - concept - dossiers/2026-11-19-3.md
+- [[OVHcloud]] - concept - feuilletons/f-0034.md
+- [[Olala]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
+- [[Olala mini]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
+- [[Qwant]] - concept - feuilletons/f-0034.md
+- [[Shadow]] - concept - feuilletons/f-0034.md
+- [[Staan]] - concept - dossiers/2026-11-19-3.md
+- [[Veille France 2026-11-19  Régulation, souveraineté et enjeux sociétaux]] - document - veilles/veille-ia-fr-2026-11-19-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +30,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_ICAID]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-21  Applications industrielles & produits]]
+- 1 edge to [[_COMMUNITY_Robin Li]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-11  Marchés et investissements]]
 
 ## Top bridge nodes
-- [[Rennes]] - degree 3, connects to 1 community
+- [[OVHcloud]] - degree 8, connects to 2 communities
+- [[Olala mini]] - degree 2, connects to 1 community

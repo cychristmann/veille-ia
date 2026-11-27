@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-26-t3.md"
 type: "concept"
-community: "Veille France 2026-11-09 : Finance, Bourse et IA"
+community: "Corvic AI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-09__Finance_Bourse_et_IA
+  - community/Corvic_AI
 ---
 
 # Corvic AI
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-09__Finance_Bourse_et_IA
+#graphify/concept #graphify/EXTRACTED #community/Corvic_AI

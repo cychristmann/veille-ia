@@ -1,5 +1,5 @@
 ---
-source_file: "dossiers/2026-11-13-3.md"
+source_file: "feuilletons/f-0001.md"
 type: "concept"
 community: "China"
 tags:

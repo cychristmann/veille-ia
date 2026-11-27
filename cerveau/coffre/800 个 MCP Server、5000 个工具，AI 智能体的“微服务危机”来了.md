@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-18-t7.md"
 type: "document"
-community: "Adobe Creative Cloud"
+community: "Veille France 2026-11-17"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Adobe_Creative_Cloud
+  - community/Veille_France_2026-11-17
 ---
 
 # 800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-18  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Adobe_Creative_Cloud
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-17

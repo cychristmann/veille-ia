@@ -8,11 +8,11 @@ members: 5
 **Members:** 5 nodes
 
 ## Members
-- [[Veille Chine 2026-11-15  Éthique, société et relations homme‑machine]] - document - veilles/veille-ia-cn-2026-11-15-t5.md
-- [[亚洲日报 (Asia Daily)]] - concept - veilles/veille-ia-cn-2026-11-15-t5.md
-- [[智源社区 (BAAI Community)]] - concept - veilles/veille-ia-cn-2026-11-15-t5.md
-- [[汽车之家 (Autohome)]] - concept - veilles/veille-ia-cn-2026-11-15-t5.md
-- [[网易新闻 (NetEase News)]] - concept - veilles/veille-ia-cn-2026-11-15-t5.md
+- [[Veille Chine 2026-11-16  Autres articles]] - document - veilles/veille-ia-cn-2026-11-16-t6.md
+- [[Veille Chine 2026-11-16  Culture, consommation et divertissement]] - document - veilles/veille-ia-cn-2026-11-16-t5.md
+- [[华为小艺AI]] - concept - veilles/veille-ia-cn-2026-11-16-t5.md
+- [[无界进化 (INFevo)]] - concept - veilles/veille-ia-cn-2026-11-16-t5.md
+- [[美联储金融稳定报告]] - document - veilles/veille-ia-cn-2026-11-16-t6.md
 
 ## Live Query (requires Dataview plugin)
 

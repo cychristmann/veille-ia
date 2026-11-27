@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-25-3.md"
 type: "concept"
-community: "Claude"
+community: "AI Act"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/Claude
+  - community/AI_Act
 ---
 
 # USA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Donald Trump]] - `references` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/Claude
+#graphify/concept #graphify/INFERRED #community/AI_Act

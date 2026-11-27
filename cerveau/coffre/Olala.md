@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t1.md"
 type: "concept"
-community: "David Tepper"
+community: "Veille Outils & code 2026-11-15"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/David_Tepper
+  - community/Veille_Outils__code_2026-11-15
 ---
 
 # Olala
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[OVHcloud]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/David_Tepper
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-15

@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[World Bank]] - concept - dossiers/2026-11-25-3.md
+- [[Gemini Spark]] - concept - veilles/veille-ia-dev-2026-11-23-t2.md
 
 ## Live Query (requires Dataview plugin)
 

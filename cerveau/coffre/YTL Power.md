@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-26-2.md"
 type: "concept"
-community: "Louis Perez"
+community: "Hermes Agent"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Louis_Perez
+  - community/Hermes_Agent
 ---
 
 # YTL Power
 
-#graphify/concept #graphify/EXTRACTED #community/Louis_Perez
+#graphify/concept #graphify/EXTRACTED #community/Hermes_Agent

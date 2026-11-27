@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0002.md"
 type: "document"
-community: "Veille États-Unis 2026-11-08 : Autres articles"
+community: "Jensen Huang"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-08__Autres_articles
+  - community/Jensen_Huang
 ---
 
 # Feuilleton : Suno AI poursuivi de nouveau pour violation de droits d’auteur
@@ -14,4 +14,4 @@ tags:
 - [[Engadget]] - `cites` [EXTRACTED]
 - [[Suno AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08__Autres_articles
+#graphify/document #graphify/EXTRACTED #community/Jensen_Huang

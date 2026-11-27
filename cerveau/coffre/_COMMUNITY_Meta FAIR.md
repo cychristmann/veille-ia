@@ -1,16 +1,19 @@
 ---
 type: community
-members: 3
+members: 6
 ---
 
 # Meta FAIR
 
-**Members:** 3 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Kimi-K2.6]] - concept - veilles/veille-ia-dev-2026-11-20-t4.md
-- [[Meta FAIR]] - concept - veilles/veille-ia-dev-2026-11-20-t4.md
-- [[Veille IA Dev 2026-11-20 T4]] - document - veilles/veille-ia-dev-2026-11-20-t4.md
+- [[Veille Chine 2026-11-21  Applications sectorielles de l’IA]] - document - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[华为OSTA星芒 O1 Pro]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[托普云农发布智能（AI）虫情测报灯9.0]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[物理AI浪潮下，在手订单充足的8家公司]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[程子芮：AI推动金融科技从数字化到数智化]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[香港人工智能与生命科学伦理研究院]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,9 +21,3 @@ members: 3
 TABLE source_file, type FROM #community/Meta_FAIR
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Claude Code_2]]
-
-## Top bridge nodes
-- [[Veille IA Dev 2026-11-20 T4]] - degree 2, connects to 1 community

@@ -1,20 +1,21 @@
 ---
 type: community
-members: 7
+members: 8
 ---
 
 # Veille Chine 2026-11-14 : IA industrielle et infrastructure
 
-**Members:** 7 nodes
+**Members:** 8 nodes
 
 ## Members
-- [[AI Governance and Regulation]] - concept - veilles/veille-ia-cn-2026-11-21-t4.md
-- [[AI Misinformation]] - concept - veilles/veille-ia-cn-2026-11-21-t4.md
-- [[Academic Integrity and AI Detection]] - concept - veilles/veille-ia-cn-2026-11-21-t4.md
-- [[Alibaba Cloud]] - concept - veilles/veille-ia-cn-2026-11-26-t7.md
-- [[Alipay]] - concept - veilles/veille-ia-cn-2026-11-26-t7.md
-- [[Kuaishou]] - concept - veilles/veille-ia-cn-2026-11-21-t5.md
-- [[Veille Chine 2026-11-21]] - document - veilles/veille-ia-cn-2026-11-21-t5.md
+- [[Faire la guerre avec l’IA  Pour l’Ukraine, un cas de conscience moral et politique]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
+- [[Gemini 4 Hydrogène]] - concept - veilles/veille-ia-fr-2026-11-16-t6.md
+- [[Kitesurf  Cloudflare libère le code source de son navigateur pour agents IA]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
+- [[La IA generativa divide a los desarrolladores]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
+- [[OT Montlouis-Vouvray chatbot sans IA]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
+- [[SambaNova associe les GPU Intel au SN50]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
+- [[Veille France 2026-11-16]] - document - veilles/veille-ia-fr-2026-11-16-t6.md
+- [[Wotton Kearney déploie l’IA juridique Harvey]] - concept - veilles/veille-ia-fr-2026-11-16-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,11 +25,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Dossier Vers une interdiction des modèles d’IA chinois dans les systèmes fédéraux américains]]
-- 1 edge to [[_COMMUNITY_Huawei]]
-- 1 edge to [[_COMMUNITY_Riemann Hypothesis]]
 - 1 edge to [[_COMMUNITY_Apple]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
 
 ## Top bridge nodes
-- [[Veille Chine 2026-11-21]] - degree 10, connects to 5 communities
+- [[Veille France 2026-11-16]] - degree 8, connects to 1 community

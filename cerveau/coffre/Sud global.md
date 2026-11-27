@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-24-1.md"
 type: "concept"
-community: "SeedRealtime 1.0"
+community: "DeepSeek"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/SeedRealtime_10
+  - community/DeepSeek
 ---
 
 # Sud global
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Appel à l’action de Bridgetown]] - `conceptually_related_to` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/SeedRealtime_10
+#graphify/concept #graphify/INFERRED #community/DeepSeek

@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Hermes Agent
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Lunit]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
-- [[M42]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
+- [[YTL Power]] - concept - dossiers/2026-11-26-2.md
 
 ## Live Query (requires Dataview plugin)
 

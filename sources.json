@@ -35,7 +35,8 @@
       "Benzinga": "https://www.benzinga.com/feed",
       "GeekWire": "https://www.geekwire.com/feed/",
       "TechTarget": "https://www.techtarget.com/feeds/news/",
-      "Crypto Briefing": "https://cryptobriefing.com/feed/"
+      "Crypto Briefing": "https://cryptobriefing.com/feed/",
+      "Superpower Daily": "https://superpowerdaily.com/rss.xml"
     },
     "cn": {
       "InfoQ.cn": "https://www.infoq.cn/feed",
@@ -53,7 +54,8 @@
       "Design News": "https://www.designnews.com/rss.xml",
       "KDnuggets": "https://www.kdnuggets.com/comments/feed",
       "01net": "https://www.01net.it/feed/",
-      "NeoTeo": "https://www.neoteo.com/es/feed"
+      "NeoTeo": "https://www.neoteo.com/es/feed",
+      "Superpower Daily": "https://superpowerdaily.com/rss.xml"
     }
   },
   "propositions": [
@@ -127,6 +129,114 @@
       "categorie": "média outils & code",
       "raison": "20 % d'articles IA, focus pratique sur le développement et l'usage d'IA, source pertinente.",
       "trouvee_le": "2026-11-17T23:42+01:00"
+    },
+    {
+      "region": "fr",
+      "nom": "NeoTeo",
+      "site": "https://www.neoteo.com",
+      "domaine": "neoteo.com",
+      "apparitions": 3,
+      "flux": "https://www.neoteo.com/es/feed",
+      "articles_72h": 50,
+      "articles_ia_72h": 12,
+      "exemples": [
+        "IA oculta en hospitales: qué revela el informe de Liberties",
+        "Oracle afirma haber asegurado la financiación de su contrato con OpenAI",
+        "Anthropic Siren y los agentes de IA: qué miden sus cifras"
+      ],
+      "categorie": "blog/newsletter",
+      "raison": "12 articles IA sur 50 (24 %) avec des titres clairement centrés IA, média francophone sérieux et spécialisé.",
+      "trouvee_le": "2026-11-27T09:33+01:00"
+    },
+    {
+      "region": "fr",
+      "nom": "Meteora Web",
+      "site": "https://meteoraweb.com",
+      "domaine": "meteoraweb.com",
+      "apparitions": 3,
+      "flux": "https://meteoraweb.com/feed",
+      "articles_72h": 30,
+      "articles_ia_72h": 7,
+      "exemples": [
+        "SpaceXAI adotta le CPU NVIDIA Vera e porta Vera Rubin in orbita con Starmind",
+        "OpenAI GPT-6.2, errore di conteggio corretto e limiti di utilizzo esauriti fino al 40% prima",
+        "ACN, gli attacchi con agenti IA colpiscono l'Italia e il debito tecnologico diventa un rischio"
+      ],
+      "categorie": "blog/newsletter",
+      "raison": "7 articles IA sur 30 (≈23 %) et des titres très orientés IA, source fiable et régulière.",
+      "trouvee_le": "2026-11-27T09:33+01:00"
+    },
+    {
+      "region": "us",
+      "nom": "PPC Land",
+      "site": "https://ppc.land",
+      "domaine": "ppc.land",
+      "apparitions": 4,
+      "flux": "https://ppc.land/rss/",
+      "articles_72h": 79,
+      "articles_ia_72h": 24,
+      "exemples": [
+        "Cloudflare opens a search box for AI agents as IAB Europe maps the agentic web",
+        "Cloudflare lets websites switch on a search box built for AI agents",
+        "WebMD Ignite runs ChatGPT ads for hospitals, but OpenAI decides who gets in"
+      ],
+      "categorie": "blog/newsletter",
+      "raison": "24 articles IA sur 79 (≈30 %) avec un focus clair sur l'IA appliquée au marketing/tech, source fiable.",
+      "trouvee_le": "2026-11-27T09:33+01:00"
+    },
+    {
+      "region": "us",
+      "nom": "AI Insider",
+      "site": "https://theaiinsider.tech",
+      "domaine": "theaiinsider.tech",
+      "apparitions": 3,
+      "flux": "https://theaiinsider.tech/feed/",
+      "articles_72h": 9,
+      "articles_ia_72h": 8,
+      "exemples": [
+        "How AI Decision Models Work: Inside the Technology That Learns to Make Decisions",
+        "Walmart Opens Black Friday Deals to Meta’s Muse AI Agent",
+        "UK Cyber Agency Warns of Sharp Increase in AI-Driven Cyberattacks"
+      ],
+      "categorie": "blog/newsletter",
+      "raison": "8 articles IA sur 9 (≈89 %) ; média très spécialisé IA, contenu de haute qualité.",
+      "trouvee_le": "2026-11-27T09:33+01:00"
+    },
+    {
+      "region": "dev",
+      "nom": "The Register",
+      "site": "https://www.theregister.com",
+      "domaine": "theregister.com",
+      "apparitions": 4,
+      "flux": "https://www.theregister.com/feed",
+      "articles_72h": 50,
+      "articles_ia_72h": 10,
+      "exemples": [
+        "The token factory never sleeps",
+        "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+        "India’s government ponders cradle to grave AI oversight"
+      ],
+      "categorie": "média tech",
+      "raison": "10 articles IA sur 50 (20 %) avec un ton technique et analytique, source reconnue dans le domaine tech.",
+      "trouvee_le": "2026-11-27T09:33+01:00"
+    },
+    {
+      "region": "dev",
+      "nom": "Tech Times",
+      "site": "https://www.techtimes.com",
+      "domaine": "techtimes.com",
+      "apparitions": 3,
+      "flux": "https://www.techtimes.com/rss/archives/archives.xml",
+      "articles_72h": 20,
+      "articles_ia_72h": 3,
+      "exemples": [
+        "Apple Korea Fine Could Hit $50 Million as Examiners Say Four iPhone 16 AI Features Arrived Late",
+        "Swiss AI Agent Cyberattacks Confirmed: Five Cases, Three Targeted Critical Infrastructure",
+        "Nvidia Reportedly Tells Dell and Super Micro to Stop Server Shipments to Southeast Asia"
+      ],
+      "categorie": "média tech",
+      "raison": "3 articles IA sur 20 (15 %) mais le média est reconnu pour sa couverture tech de qualité et les articles IA sont pertinents.",
+      "trouvee_le": "2026-11-27T09:33+01:00"
     }
   ],
   "refusees": [

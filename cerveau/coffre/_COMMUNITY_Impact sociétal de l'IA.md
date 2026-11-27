@@ -1,16 +1,15 @@
 ---
 type: community
-members: 3
+members: 2
 ---
 
 # Impact sociétal de l'IA
 
-**Members:** 3 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[ARTEX AI Hacking Tool]] - concept - veilles/veille-ia-us-2026-11-16-t4.md
-- [[FBI AI Threat Reports]] - concept - veilles/veille-ia-us-2026-11-16-t4.md
-- [[Veille États-Unis 2026-11-16  Sécurité, éthique et marché financier]] - document - veilles/veille-ia-us-2026-11-16-t4.md
+- [[Impact sociétal de l'IA]] - concept - veilles/veille-ia-fr-2026-11-21-t5.md
+- [[Veille France 2026-11-21  Société & culture]] - document - veilles/veille-ia-fr-2026-11-21-t5.md
 
 ## Live Query (requires Dataview plugin)
 

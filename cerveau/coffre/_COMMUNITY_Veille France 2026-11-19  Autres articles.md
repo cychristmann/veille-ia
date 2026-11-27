@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Convention sur certaines armes classiques]] - concept - dossiers/2026-11-25-1.md
-- [[Feuilleton f-0037]] - document - feuilletons/f-0037.md
-- [[Modèles IA Chinois]] - concept - feuilletons/f-0037.md
-- [[Président Trump]] - concept - dossiers/2026-11-25-1.md
-- [[Russie]] - concept - dossiers/2026-11-25-1.md
-- [[États-Unis]] - concept - feuilletons/f-0037.md
+- [[Coding Agent Security for AppSec Leaders]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Does AI Coding Make Secrets Sprawl Worse in CICD Pipelines]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Hackers Target AI Coding Tools to Steal Credentials]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Kiji Inspector]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Stolen Claude API keys can turn Claude Code into a remote-controlled implant]] - concept - veilles/veille-ia-dev-2026-11-12-t4.md
+- [[Veille Outils & code 2026-11-12  Sécurité et gouvernance]] - document - veilles/veille-ia-dev-2026-11-12-t4.md
 
 ## Live Query (requires Dataview plugin)
 

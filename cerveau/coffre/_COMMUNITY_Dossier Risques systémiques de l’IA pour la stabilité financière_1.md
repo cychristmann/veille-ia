@@ -1,23 +1,26 @@
 ---
 type: community
-members: 10
+members: 13
 ---
 
 # Dossier: Risques systémiques de l’IA pour la stabilité financière
 
-**Members:** 10 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[CoreWeave]] - concept - veilles/veille-ia-fr-2026-11-11-t1.md
-- [[Feuilleton Fractile atteint 7 Mds $ après tour de financement]] - document - feuilletons/f-0011.md
-- [[Fractile]] - concept - veilles/veille-ia-fr-2026-11-11-t1.md
-- [[Marvell]] - concept - veilles/veille-ia-us-2026-11-11-t1.md
-- [[Naver]] - concept - veilles/veille-ia-fr-2026-11-12-t2.md
-- [[Sandisk]] - concept - veilles/veille-ia-us-2026-11-11-t1.md
-- [[Seagate]] - concept - veilles/veille-ia-us-2026-11-11-t1.md
-- [[Veille France 2026-11-11]] - document - veilles/veille-ia-fr-2026-11-11-t2.md
-- [[Veille France 2026-11-12  Marchés financiers et investissements IA]] - document - veilles/veille-ia-fr-2026-11-12-t1.md
-- [[Veille États-Unis 2026-11-11  Financement et Bourse de l'IA]] - document - veilles/veille-ia-us-2026-11-11-t1.md
+- [[Agentic AI Foundation]] - concept - veilles/veille-ia-dev-2026-11-23-t4.md
+- [[Amazon SageMaker HyperPod Inference]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Codex CLI]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Hitachi Vantara VSP One]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Impartner MCP]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[JustSolve AI Mastery]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Microsoft AI coding model]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Octopus Deploy]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Perplexity Computer]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Replit Missions]] - concept - veilles/veille-ia-dev-2026-11-18-t2.md
+- [[Veille Outils & code 2026-11-18]] - document - veilles/veille-ia-dev-2026-11-18-t1.md
+- [[Veille Outils & code 2026-11-23  Nouvelles approches de développement]] - document - veilles/veille-ia-dev-2026-11-23-t4.md
+- [[Vibe Coding]] - concept - veilles/veille-ia-dev-2026-11-16-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -27,21 +30,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-20  Régulation, souveraineté et enjeux géopolitiques]]
-- 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_Adobe Creative Cloud]]
-- 1 edge to [[_COMMUNITY_Apple]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Huawei]]
-- 1 edge to [[_COMMUNITY_AgentMon Live]]
-- 1 edge to [[_COMMUNITY_Claude Code_1]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
-- 1 edge to [[_COMMUNITY_AMD_1]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-11  Marchés et investissements_1]]
+- 2 edges to [[_COMMUNITY_Copilot]]
+- 1 edge to [[_COMMUNITY_Microsoft Outlook Outage]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_GPT-6 Astra_2]]
+- 1 edge to [[_COMMUNITY_Amazon Bedrock AgentCore]]
+- 1 edge to [[_COMMUNITY_Jensen Huang_2]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-11]] - degree 7, connects to 5 communities
-- [[CoreWeave]] - degree 10, connects to 4 communities
-- [[Veille France 2026-11-12  Marchés financiers et investissements IA]] - degree 6, connects to 4 communities
-- [[Naver]] - degree 2, connects to 1 community
+- [[Veille Outils & code 2026-11-18]] - degree 16, connects to 5 communities
+- [[Vibe Coding]] - degree 4, connects to 1 community

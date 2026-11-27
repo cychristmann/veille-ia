@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Affaire de triche IA au baccalauréat sud‑coréen  le ministre de l’Éducation démissionne]] - document - dossiers/2026-11-22-2.md
+- [[OpenClaw]] - concept - veilles/veille-ia-dev-2026-11-23-t2.md
 
 ## Live Query (requires Dataview plugin)
 

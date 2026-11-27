@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-22-t3.md"
+source_file: "dossiers/2026-11-12-3.md"
 type: "concept"
 community: "Nvidia"
 tags:
@@ -51,6 +51,7 @@ tags:
 - [[Marchés financiers et IA]] - `conceptually_related_to` [INFERRED]
 - [[Match Act]] - `references` [EXTRACTED]
 - [[MetaX]] - `references` [INFERRED]
+- [[Michael Burry]] - `references` [EXTRACTED]
 - [[Microsoft]] - `conceptually_related_to` [EXTRACTED]
 - [[Moore Threads]] - `references` [INFERRED]
 - [[NDAA]] - `references` [EXTRACTED]
@@ -58,7 +59,9 @@ tags:
 - [[Open Secure AI Alliance]] - `references` [EXTRACTED]
 - [[Projet Kessel]] - `references` [EXTRACTED]
 - [[Rubin]] - `references` [EXTRACTED]
+- [[SK Group]] - `references` [EXTRACTED]
 - [[SMIC]] - `conceptually_related_to` [INFERRED]
+- [[Samsung]] - `references` [EXTRACTED]
 - [[Southeast Asia]] - `references` [EXTRACTED]
 - [[SpaceX]] - `references` [EXTRACTED]
 - [[SpaceX]] - `shares_data_with` [INFERRED]
@@ -73,7 +76,6 @@ tags:
 - [[US Department of Commerce]] - `references` [EXTRACTED]
 - [[US Government]] - `conceptually_related_to` [EXTRACTED]
 - [[US Restrictions on AI Chips]] - `references` [EXTRACTED]
-- [[United States]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-12  Marché financier et investissements IA]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-13]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - `references` [EXTRACTED]
@@ -82,6 +84,7 @@ tags:
 - [[Veille Chine 2026-11-21  Infrastructure et matériel IA]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-24]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-25  Infrastructure, Matériel et Télécoms]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-27]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Environnement et empreinte carbone de l'IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Stratégies d'entreprises et investissements IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-09  Autres articles]] - `references` [EXTRACTED]
@@ -119,6 +122,7 @@ tags:
 - [[Veille États-Unis 2026-11-23  Marchés et investissements IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-24  Sécurité, Éthique & Régulation]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-25 (T2)]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-27  Marchés financiers et investissements IA]] - `cites` [EXTRACTED]
 - [[Wall Street]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Nvidia

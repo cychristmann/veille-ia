@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Hermes Agent
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Hermes Agent]] - concept - veilles/veille-ia-dev-2026-11-23-t2.md
+- [[Alpamayo 2 Edge]] - concept - veilles/veille-ia-dev-2026-11-23-t1.md
+- [[DRIVE Thor]] - concept - veilles/veille-ia-dev-2026-11-23-t1.md
 
 ## Live Query (requires Dataview plugin)
 

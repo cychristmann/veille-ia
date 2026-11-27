@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0008.md"
 type: "document"
-community: "Alibaba"
+community: "T-Head"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Alibaba
+  - community/T-Head
 ---
 
 # Feuilleton: T‑Head d’Alibaba prépare son introduction en bourse à Hong Kong
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[T-Head]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Alibaba
+#graphify/document #graphify/EXTRACTED #community/T-Head

@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-13 : Enjeux du marché et turbulences
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[RELEX]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
-- [[Vusion]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
+- [[Veille États-Unis 2026-11-13  Enjeux du marché et turbulences]] - document - veilles/veille-ia-us-2026-11-13-t4.md
 
 ## Live Query (requires Dataview plugin)
 

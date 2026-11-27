@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-16-1.md"
 type: "concept"
-community: "Veille Chine 2026-11-12"
+community: "Louis Perez"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-12
+  - community/Louis_Perez
 ---
 
 # ConnectWise
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-12
+#graphify/concept #graphify/EXTRACTED #community/Louis_Perez

@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0002.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-08 : Autres articles"
+community: "Jensen Huang"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-08__Autres_articles
+  - community/Jensen_Huang
 ---
 
 # Engadget
@@ -15,4 +15,4 @@ tags:
 - [[Veille États-Unis 2026-11-08  Applications sectorielles]] - `cites` [EXTRACTED]
 - [[Veille États-Unis 2026-11-08  Autres articles]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08__Autres_articles
+#graphify/concept #graphify/EXTRACTED #community/Jensen_Huang

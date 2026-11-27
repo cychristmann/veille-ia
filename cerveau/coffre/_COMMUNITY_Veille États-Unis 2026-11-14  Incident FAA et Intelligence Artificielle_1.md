@@ -1,20 +1,16 @@
 ---
 type: community
-members: 7
+members: 3
 ---
 
 # Veille États-Unis 2026-11-14 : Incident FAA et Intelligence Artificielle
 
-**Members:** 7 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Bulle spéculative de l'IA]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Dollar IA (ROI)]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Déploiement de l'IA à l'échelle]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Gains de productivité de l'IA]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Recrutement en IA]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Startups IA azuréennes]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Veille France 2026-11-19  Marché, productivité et perspectives économiques]] - document - veilles/veille-ia-fr-2026-11-19-t5.md
+- [[Veille Chine 2026-11-15  Éducation, formation et talents IA]] - document - veilles/veille-ia-cn-2026-11-15-t4.md
+- [[山东商务职业学院]] - concept - veilles/veille-ia-cn-2026-11-15-t4.md
+- [[广东“AI智能体”数字人才培训计划]] - concept - veilles/veille-ia-cn-2026-11-15-t4.md
 
 ## Live Query (requires Dataview plugin)
 

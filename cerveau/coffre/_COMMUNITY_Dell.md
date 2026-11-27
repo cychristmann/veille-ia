@@ -17,7 +17,7 @@ members: 10
 - [[Veille Chine 2026-11-25  Économie et Marchés Financiers]] - document - veilles/veille-ia-cn-2026-11-25-t2.md
 - [[Veille Chine 2026-11-26  Marché, investissement et stratégie d’entreprise]] - document - veilles/veille-ia-cn-2026-11-26-t5.md
 - [[Veille États-Unis 2026-11-18 (T2)]] - document - veilles/veille-ia-us-2026-11-18-t2.md
-- [[Visa]] - concept - veilles/veille-ia-us-2026-11-18-t2.md
+- [[Visa]] - concept - feuilletons/f-0019.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -28,14 +28,14 @@ SORT file.name ASC
 
 ## Connections to other communities
 - 2 edges to [[_COMMUNITY_Nvidia]]
-- 2 edges to [[_COMMUNITY_Microsoft_1]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-15_1]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18 (T1)]]
-- 1 edge to [[_COMMUNITY_Jensen Huang_1]]
-- 1 edge to [[_COMMUNITY_Claude Code_1]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
+- 2 edges to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_Libertify]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-11  Marchés et investissements]]
+- 1 edge to [[_COMMUNITY_SpaceX_2]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17_1]]
+- 1 edge to [[_COMMUNITY_Microsoft Outlook Outage]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-23  Marchés et investissements IA]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
 
 ## Top bridge nodes
 - [[Dell]] - degree 8, connects to 4 communities

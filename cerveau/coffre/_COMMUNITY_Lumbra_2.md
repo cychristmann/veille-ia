@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Beijing University of Posts and Telecommunications]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Arcade]] - concept - veilles/veille-ia-dev-2026-11-19-t1.md
 
 ## Live Query (requires Dataview plugin)
 

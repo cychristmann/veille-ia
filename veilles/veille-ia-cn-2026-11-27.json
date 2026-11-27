@@ -1,0 +1,988 @@
+{
+  "region": "cn",
+  "genere_a": "2026-11-27T09:19:37.142276+01:00",
+  "heures": 24,
+  "nombre_demande": 50,
+  "nombre_articles": 50,
+  "synthese": "Les dernières heures ont montré une diffusion massive de l’intelligence artificielle dans les agents métiers, l’industrie automobile, ainsi que dans la finance. La sécurité reste une préoccupation majeure, avec des avertissements sur l’usage de l’IA par les hackers et des solutions d’infrastructure dédiées. Le secteur matériel poursuit son accélération grâce à des puces et co‑processeurs spécialisés, tandis que l’IA s’invite dans l’éducation, la recherche et les applications environnementales. Enfin, la culture et les médias sont de plus en plus alimentés par des contenus générés par l’IA, témoignant d’une transformation transversale du paysage technologique.",
+  "verification": {
+    "problemes": [
+      {
+        "passage": "les dernières heures ont montré une diffusion massive de l’intelligence artificielle dans les agents métiers, l’industrie automobile et la chaîne logistique, ainsi que dans la finance et les services publics.",
+        "raison": "Aucun titre ne mentionne explicitement la « chaîne logistique » ni les « services publics »."
+      }
+    ],
+    "synthese_originale": "Les dernières heures ont montré une diffusion massive de l’intelligence artificielle dans les agents métiers, l’industrie automobile et la chaîne logistique, ainsi que dans la finance et les services publics. La sécurité reste une préoccupation majeure, avec des avertissements sur l’usage de l’IA par les hackers et des solutions d’infrastructure dédiées. Le secteur matériel poursuit son accélération grâce à des puces et co‑processeurs spécialisés, tandis que l’IA s’invite dans l’éducation, la recherche et les applications environnementales. Enfin, la culture et les médias sont de plus en plus alimentés par des contenus générés par l’IA, témoignant d’une transformation transversale du paysage technologique."
+  },
+  "sources_en_echec": [],
+  "flux_lus": {
+    "量子位": [
+      10,
+      10,
+      10,
+      "2026-11-27"
+    ],
+    "IT之家": [
+      60,
+      15,
+      60,
+      "2026-11-27"
+    ],
+    "TechNode": [
+      2000,
+      0,
+      1,
+      "2026-11-27"
+    ],
+    "Pandaily": [
+      20,
+      4,
+      10,
+      "2026-11-27"
+    ],
+    "SCMP Tech": [
+      50,
+      1,
+      7,
+      "2026-11-27"
+    ],
+    "InfoQ.cn": [
+      20,
+      9,
+      20,
+      "2026-11-27"
+    ],
+    "智东西": [
+      20,
+      3,
+      3,
+      "2026-11-27"
+    ],
+    "雷峰网": [
+      20,
+      9,
+      14,
+      "2026-11-27"
+    ],
+    "Google Actualités": [
+      100,
+      100,
+      100,
+      "2026-11-27"
+    ]
+  },
+  "titre_section": "chinoise",
+  "themes": [
+    {
+      "nom": "Agents et applications métier",
+      "resume": "De nombreux articles décrivent le déploiement d’agents IA dans différents secteurs : codage, livraison, commerce de détail, recrutement ou encore navigation maritime autonome.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Amélioration mesurable du service grâce à l'IA",
+          "couverture": 1,
+          "titre": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+          "source": "InfoQ.cn",
+          "lien": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&utm_medium=article",
+          "date": "2026-11-27T13:00:00+00:00",
+          "resume": "点击查看原文>",
+          "titre_fr": "DoorDash réduit le délai de réachat d'épicerie fraîche de 16 secondes à 2 secondes grâce à un agent IA"
+        },
+        {
+          "note": 6,
+          "motif": "Large adoption déclarée d'agents IA dans le retail",
+          "couverture": 1,
+          "titre": "国内零售行业调研称近八成受访者所在企业已开展 AI 智能体应用",
+          "source": "IT之家",
+          "lien": "https://www.ithome.com/1/033/528.htm",
+          "date": "2026-11-27T08:02:36+00:00",
+          "resume": "IT之家 11 月 27 日消息，中国连锁经营协会（CCFA）联合德勤中国 11 月 25 日发布《生成式人工智能零售业全景深化白皮书（2026）》（下称“报告”）。 报告指出， 近八成受访者所在企业已开展智能体应用 ，规模化仍是关键挑战。过去一年，随着大模型能力不断提升、智能体技术加速成熟，零售企业对生成式人工智能的探索正在从个人工具使用向企业级业务应用延伸。 23% 的受访者表示所在企业已规模化使用智能体； 56% 的受访者表示所在企业已开展小范围智能体应用试点； 12% 的受访者表示所在企业正处于调研评估阶段； 9% 的受访者表示所在企业已了解相关技术，但尚未开展探索。 调研显示，58%",
+          "titre_fr": "Une étude du secteur du retail en Chine révèle que près de 80 % des entreprises interrogées utilisent déjà des agents IA"
+        },
+        {
+          "note": 6,
+          "motif": "Lancement d'un agent IA et étude collaborative",
+          "couverture": 2,
+          "titre": "同道猎聘宣布招聘智能体Lily上线，联手清华发布AI组织研究报告",
+          "source": "智东西",
+          "lien": "https://zhidx.com/p/614742.html",
+          "date": "2026-11-27T15:51:57+08:00",
+          "resume": "智东西 作者 | ZeR0 编辑 | 漠影 智东西11月27日报道，11月20日，“非凡2026”智能经济论坛在清华大学举行。现场，同道猎聘集团董事会主席兼CEO戴科彬宣布，猎聘招聘智能体Lily作为独立产品正式上线。论坛同时发布《AI转型与碳硅能力——“非凡2026”调研报告》。 “非凡2026”智能经济论坛由清华大学经管学院人工智能与管理研究中心、清华大学可持续社会价值研究院和同道猎聘集团联合举办。 猎聘非凡雇主活动始于2015年，秉承“Work Different——因不同，而非凡”的理念，持续关注组织创新、人才价值与职场生态变化。“非凡2026”是猎聘与清华两家研究机构联合发起的“人工",
+          "titre_fr": "Tongdao Liepin lance l'agent IA Lily et collabore avec Tsinghua pour publier un rapport de recherche sur les organisations IA"
+        },
+        {
+          "note": 6,
+          "motif": "Déploiement d'AI maritime, démonstration technologique",
+          "couverture": 1,
+          "titre": "AI入海！无人艇探鱼远洋极地，智能鱿钓机完成海试",
+          "source": "上观新闻",
+          "lien": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IMmdjSE9NWE9YYWo4VkN4NkNVQW1KR0VNWW5BeklpLW9sZ1VPeWg2QUhFcE5yd1k2V1ZjSUJ2MXpNR3VzUk9oNkZnQXdId0R3NUN2My1FUHJpS1I5d1E?oc=5",
+          "date": "2026-11-27T07:22:00+00:00",
+          "resume": "",
+          "titre_fr": "L'IA prend la mer ! Des bateaux sans pilote explorent les poissons en haute mer et aux pôles, un robot calamar intelligent réussit les essais en mer"
+        },
+        {
+          "note": 5,
+          "motif": "Analyse technique intéressante mais impact limité",
+          "couverture": 1,
+          "titre": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+          "source": "InfoQ.cn",
+          "lien": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+          "date": "2026-11-27T15:00:00+00:00",
+          "resume": "点击查看原文>",
+          "titre_fr": "Installer une base de connaissances sur un agent IA augmente-t-il la consommation de tokens ? JioHotstar teste six solutions, la recherche de fichiers reste performante"
+        },
+        {
+          "note": 5,
+          "motif": "Recueil de cas d'implémentation IA, utile mais générique",
+          "couverture": 1,
+          "titre": "从“上线”到“接活”，21个案例回答AI如何真正落地",
+          "source": "手机新浪网",
+          "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NeUcwLVVVaHF2eG9ldFl4T0dLYjVZU24xT1JBVC16Uk9KeVJDOVdkbUdzZDcySlJYdjQwd1RFajZ4VjNiSzNCNTgxWnltNGdHaDVQM0lnQ1F0NU1mTVNoY3NhRDQtWWFZYUYydE5wQVVxTklJOXhlZTNiQW1hMVk?oc=5",
+          "date": "2026-11-27T07:19:25+00:00",
+          "resume": "",
+          "titre_fr": "Du « déploiement » à la « mise en œuvre » : 21 cas concrets montrent comment l’IA se concrétise réellement"
+        },
+        {
+          "note": 4,
+          "motif": "Événement promotionnel, IA en support d'animation",
+          "couverture": 1,
+          "titre": "免费参展｜2027大都庙会 “互动娱乐场景” 开放报名，面向 AI 终端与 AI+ 娱乐产品",
+          "source": "手机新浪网",
+          "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xZXFCV1FhdkxZRE5EOXlCdlAydEdhSnhlcG5rN0hDMm1QZ21BODFaMVF5Y0tTVURaMzBuV1JpcGoycVRtTTJzQVRWOTdkXzlWSWxLQ1hqSDNwcEtBWDVPVjNjZWVPMWZtSV9adjBHNnR1M1JYZjJMd3pzTlhOR1E?oc=5",
+          "date": "2026-11-27T07:19:37+00:00",
+          "resume": "",
+          "titre_fr": "Exposition gratuite | Foire du Grand Temple 2027 : appel à projets « scènes interactives », ouvert aux terminaux IA et aux produits IA + divertissement"
+        }
+      ]
+    },
+    {
+      "nom": "IA industrielle et automobile",
+      "resume": "IA industrielle et automobile : L’intelligence artificielle s’invite dans la fabrication, le cloud, les véhicules et les modèles d’affaires, avec des accélérations de performance.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Croissance forte du AI edge dans l'automobile",
+          "couverture": 1,
+          "titre": "月涨42%、市值348亿！移远车载业务兑现，端侧AI打开增长新赛道",
+          "source": "21财经",
+          "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUzM5cjZOUVFjMzlZN2dYU0Fnbm94SWktSGdnTVFUdjY2ZzJTdjE5MG0wRUY0R3J2MjFRdzdrVkdTREF3TDZ3Tjh3a0xpZHRyN3ZwZmRRMzdHQlVTaHI5Q0NGdlZrUEhoQlhrME9LZGNmcTVxMVNyTnA2bWxqZVQ2OXZSdDA4eGpVclZiVmpVMA?oc=5",
+          "date": "2026-11-27T07:32:00+00:00",
+          "resume": "",
+          "titre_fr": "Croissance de 42 % mensuelle, valorisation de 34,8 milliards $ : le business automobile d'Quectel porte ses fruits, l'IA en périphérie ouvre un nouveau segment de croissance"
+        },
+        {
+          "note": 5,
+          "motif": "Statistiques cloud IA, intérêt pour développeurs",
+          "couverture": 1,
+          "titre": "AI优化云存储市场数据出炉：2026H1腾讯云增速、增量双第一- OSCHINA - 开源 × AI · 开发者生态社区",
+          "source": "OSCHINA",
+          "lien": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fNVNBVmpRXzVmZHg3YzZwWTY0a1EtU1J0MjYtVVgwd1czSzhkd1JETEQzM3J2aFdkVWNwUktLcEJaRS1EM0s3clhUNA?oc=5",
+          "date": "2026-11-27T07:57:37+00:00",
+          "resume": "",
+          "titre_fr": "Optimisation IA du stockage cloud : au premier semestre 2026, Tencent Cloud affiche la plus forte croissance et le plus grand volume – OSCHINA"
+        },
+        {
+          "note": 5,
+          "motif": "Compétition data physique, IA comme différenciateur",
+          "couverture": 1,
+          "titre": "物理 AI 数据竞争走向新阶段 泽景股份积极布局数采赛道",
+          "source": "驱动之家",
+          "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kZWsyTVgtM3NSbktvQXpMR2lvaGtwQ0Y3eFdLanZkS1VfQTNnWHVqUGhqaE1tdzVTWEpYeTY0V3JUazVHa0xrNFh0M0RRTXpWeW5VLVB2RXc?oc=5",
+          "date": "2026-11-27T07:57:00+00:00",
+          "resume": "",
+          "titre_fr": "La compétition des données IA physiques entre dans une nouvelle phase ; Zejing Co. se positionne activement sur le secteur de la collecte de données numériques"
+        },
+        {
+          "note": 5,
+          "motif": "Déclaration d'un dirigeant sur la compétition IA",
+          "couverture": 1,
+          "titre": "何小鹏：物理AI 的竞争正在走向完整智能体的较量",
+          "source": "盖世汽车",
+          "lien": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BbkdQYklLUExsR054a19PZzdNT3VDTzhPVzV5M0NlemMyVFU5RlItanpubzNfNzJyWkhyTXlxQ1UzQ3ctX2tYS1U1REE2Y3dO?oc=5",
+          "date": "2026-11-27T07:46:54+00:00",
+          "resume": "",
+          "titre_fr": "He Xiaopeng : la compétition de l'IA physique évolue vers la lutte entre agents entièrement intelligents"
+        },
+        {
+          "note": 4,
+          "motif": "Événement sectoriel, impact limité à un forum",
+          "couverture": 1,
+          "titre": "AI加速融入汽车制造——2026汽车行业数智创新与发展论坛在京举办",
+          "source": "中国日报网",
+          "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhS1ZBNy12TUtoMlp2Rms5T3U5aEhGdjBwb2F1SllLaU0za0ozWGI4UVlYdEdfeE9EekQ0cDZnb3hsSFd1WXlMOFlJTjVNa1ZRWFlQTDlEUnpoQ3dGRHJPTXFoQ3QydDZMam51THJxLUdHWHlWYjZxVWFJQ1o?oc=5",
+          "date": "2026-11-27T08:07:06+00:00",
+          "resume": "",
+          "titre_fr": "L'IA accélère son intégration dans la fabrication automobile : le Forum 2026 sur l'innovation numérique de l'industrie automobile se tient à Pékin"
+        },
+        {
+          "note": 4,
+          "motif": "Forum auto, IA comme thème secondaire",
+          "couverture": 1,
+          "titre": "“腾易深耕 AI拓新域” 2026中国汽车经销商高峰论坛共探生态共荣",
+          "source": "金融界",
+          "lien": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Qc1hRdTlXZHhnWHlNQ2g2d1ktMGpaM1N3bWRiMjlSVnViUXhkTGVNR1JUOEFWaUN2dkdabEE3RjN5RUdKX01ZeW96enN6Y1pXbmgxWmg4NjBLLWFFVjNWT0NlNkxYN1BrMU56cEUwdEU?oc=5",
+          "date": "2026-11-27T07:26:16+00:00",
+          "resume": "",
+          "titre_fr": "« Tengyi approfondit l'IA pour explorer de nouveaux domaines » : le Forum 2026 des concessionnaires automobiles de Chine débat d'un écosystème partagé"
+        }
+      ]
+    },
+    {
+      "nom": "Sécurité, cybersécurité et infrastructure IA",
+      "resume": "Des alertes sur l’usage de l’IA comme arme de hackers, des quotas de grands modèles, des plateformes de triage d’incidents et des solutions d’interconnexion montrent les enjeux sécuritaires et d’infrastructure.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Restriction de financement DeepSeek, impact commercial",
+          "couverture": 1,
+          "titre": "DeepSeek额度收紧背后：大模型商业化压力与国产算力适配窗口",
+          "source": "同花顺财经",
+          "lien": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJVF9aZ0pNUjBzRjB3ZGlxMGpRMUIyMTdqVDFGTjM3YkVzQzZJcW4xazNkTC1xdWJKRi1DNVI4RmktOFFCOXI2TEtObUlYRG9oSXkzblJMcDkxS1ZWX2c?oc=5",
+          "date": "2026-11-27T07:36:10+00:00",
+          "resume": "",
+          "titre_fr": "Resserrement des quotas DeepSeek : pression commerciale sur les grands modèles et fenêtre d'adaptation aux puces domestiques"
+        },
+        {
+          "note": 6,
+          "motif": "Alerte sécurité pertinente, IA au cœur du risque",
+          "couverture": 1,
+          "titre": "卡巴斯基 CEO 警告：AI 短期内未必毁灭人类，但正成为黑客新武器",
+          "source": "IT之家",
+          "lien": "https://www.ithome.com/1/033/532.htm",
+          "date": "2026-11-27T08:05:55+00:00",
+          "resume": "IT之家 11 月 27 日消息，网络安全公司卡巴斯基创始人兼首席执行官尤金 · 卡巴斯基（Eugene Kaspersky）表示，AI 在短期内不会像科幻电影那样毁灭或统治人类， 但它正在成为网络攻击的重要工具，其带来的安全风险已远超此前预期。 IT之家援引 Expert Publishing 报道，他特别警告，随着智能体 AI 的普及，攻击者可以赋予 AI 足够权限，让其自主执行一系列网络攻击操作，从而导致传统防御体系面临更大压力。 卡巴斯基称，他曾预测 AI 辅助网络攻击会在 5 年后显著增多，但现实的发展速度远超预期：相关能力在不到两年内便已出现。如今 AI 智能体已被用于协助网络犯罪",
+          "titre_fr": "Le PDG de Kaspersky avertit : l'IA ne détruira pas l'humanité à court terme, mais devient déjà une nouvelle arme pour les hackers"
+        },
+        {
+          "note": 6,
+          "motif": "Solution SentinelOne AI, impact cybersécurité",
+          "couverture": 1,
+          "titre": "SentinelOne Purple AI：事件分诊、积分与人力缺口",
+          "source": "OrcaRouter",
+          "lien": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VSnYwMk1WQzhfZ01qc3BVNDU3RlZjczJOQVVoU3k2MDFfVmpGYUhGay14RzZ6YW40alpyTFRjSlhjTmJ4OFJ4R1VCS1R2dG9QVzdVZTlEUmxweTBWV3JDZnA3bE9aTU5pb09jYWxtVXdEajA?oc=5",
+          "date": "2026-11-27T07:11:03+00:00",
+          "resume": "",
+          "titre_fr": "SentinelOne Purple AI : triage d’incidents, points et comblement des besoins en personnel"
+        }
+      ]
+    },
+    {
+      "nom": "Finance, services et transformation digitale",
+      "resume": "L’IA alimente la finance, le commerce transfrontalier, l’assurance, la publicité et les stratégies d’entreprise, avec des cas d’usage concrets et des perspectives de croissance.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Risque réglementaire majeur pour un acteur global",
+          "couverture": 1,
+          "titre": "涉嫌AI功能虚假宣传，苹果在韩国面临巨额处罚风险",
+          "source": "新浪财经_金融信息服务商",
+          "lien": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kOWxIWm9lY1lWV3VDLWpKRi1Pc2VHTXl0TjZCaWVrVkJBUzJHTjAxZUFMMkl3MTBGOW5BOVp4dGl3OThONUhjNEl2OE1sZlI0YVBXZW9fNno4TElxNjVGMENjWHFBWFBIQjJfLU5tM1VUb1U0Y3Rtdw?oc=5",
+          "date": "2026-11-27T08:08:22+00:00",
+          "resume": "",
+          "titre_fr": "Apple risque une lourde amende en Corée du Sud pour publicité mensongère sur des fonctions IA"
+        },
+        {
+          "note": 6,
+          "motif": "Showcase fintech AI, visibilité internationale",
+          "couverture": 1,
+          "titre": "金融壹账通新加坡金融科技节展示AI创新成果，赋能全球金融数字化升级",
+          "source": "中国日报网",
+          "lien": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15a0ZzekFFZExfQjRGVWFlZVhsSnptSF91ajR2MFR5MkFfRHpPRVRwTW1iUms0YVZsbFhhbVR4QXJpX1VnMkszbnlPeXRZM0xuNTJmcE1WUlFZRUpOZjVjejZUTE4ycnQwYi12bndDVS1FTnRHVEtTNWRTN1c?oc=5",
+          "date": "2026-11-27T07:16:13+00:00",
+          "resume": "",
+          "titre_fr": "FinTech Festival Singapour de OneConnect présente les innovations IA, accélérant la digitalisation financière mondiale"
+        },
+        {
+          "note": 5,
+          "motif": "Promotion régionale, IA comme vecteur de commerce",
+          "couverture": 1,
+          "titre": "AI赋能服贸出海！粤港澳大湾区服务贸易大会在广州开幕",
+          "source": "东方财富",
+          "lien": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ud0E1a0Q5X0FWM2hMc3NVbzN3a3BRVEZYMVRiYkcwa0lHS0lYVlZYQWpGZEpxa0tNUzFUSzRwNW5FMVRndkRNVzBaQmF5aWhyYXdxUHNMTG1odUZJQld6dno4R29OZw?oc=5",
+          "date": "2026-11-27T08:00:48+00:00",
+          "resume": "",
+          "titre_fr": "L'IA dynamise le commerce de services à l'international ! Le Congrès du commerce de services du Grand Baie de Guangdong‑Hong Kong‑Macao s'ouvre à Guangzhou"
+        },
+        {
+          "note": 5,
+          "motif": "Cas d'usage d'IA dans la finance, pertinence sectorielle",
+          "couverture": 1,
+          "titre": "AI赋能站上主战场：中小券商须以数智化转型实现特色化差异化发展——以世纪证券实践为例",
+          "source": "Sohu",
+          "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS19lLWZiWmRpcGlNdi03SUxsY1c0anBwX2U4OGJwTzZySmx0aExIcW5qRFNFcElCeU1PYTdWUFEyNS1EZk5Mc0JhbFgtTG5GMG9DUkVqNlRzeEkxdndoa19hTl9kNVlPc0piVkc4U0VDcEZYS0dTcFFNcXJ5RTZDdmVjT21SWmdEQUFITg?oc=5",
+          "date": "2026-11-27T08:00:39+00:00",
+          "resume": "",
+          "titre_fr": "L'IA prend le devant de la scène : les courtiers de taille moyenne doivent se transformer numériquement pour se différencier – le cas de Century Securities"
+        }
+      ]
+    },
+    {
+      "nom": "Éducation, recherche et société",
+      "resume": "Des conférences, des projets universitaires et des programmes d’enseignement montrent comment l’IA est intégrée à la formation, à la recherche mathématique et à la culture numérique.",
+      "articles": [
+        {
+          "note": 6,
+          "motif": "Conférence UNAI sur éducation, portée internationale",
+          "couverture": 1,
+          "titre": "第三届联合国大学澳门人工智能大会聚焦人工智能与教育融合发展",
+          "source": "神州学人",
+          "lien": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yNlZFZTkwUDFXYjQ4R0hZZTlsUzhwRVRWVzdYQ0UyWkQzc21XS1lsVmFXR0JOb3RQUzN2elhtWEZBWkUxcWU5UHAtNWdyQTRRSHB6TVZUb2h5RlpURGFLQmMyTENZcHpyOVRWUlJWRzNTU3lD?oc=5",
+          "date": "2026-11-27T07:31:50+00:00",
+          "resume": "",
+          "titre_fr": "3e Conférence IA de l'Université des Nations Unies à Macao : focus sur l’intégration IA‑éducation"
+        },
+        {
+          "note": 5,
+          "motif": "Débat sur IA et mathématiques, intérêt académique",
+          "couverture": 1,
+          "titre": "数学家彼得·萨纳克谈AI辅助证出黎曼猜想：数学定理不能由科技公司来决定",
+          "source": "ThePaper.cn",
+          "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzTkVwSnF1WVRLSmprR19MZGVzYkVrMjlhS29ELTZjbm16b2QzZHZGRzFtSTk4QWN0YXY2Vkl6WUZUc0VUUWI4NEVsM0R3M2p2OFVMb29tcWotdm9aX0Rwcw?oc=5",
+          "date": "2026-11-27T07:44:38+00:00",
+          "resume": "",
+          "titre_fr": "Le mathématicien Peter Sarnak sur l'IA qui aide à prouver la conjecture de Riemann : les théorèmes ne doivent pas être décidés par des entreprises technologiques"
+        },
+        {
+          "note": 5,
+          "motif": "Visite expert IA, focus sur littératie éducative",
+          "couverture": 1,
+          "titre": "芬兰专家到访理想实验学校 聚焦人工智能素养教育",
+          "source": "中国教育在线",
+          "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hZEVpVlNZaVVrNnZsYnM3MFp5dU1hZF9QSXZQbHlOSlg2b3pDMEdpMGJEUVdoUEhOWC1nbmJSMkZXcmlMX2hEcFRrOEduaEQ0TkZQSm5sVWJHUWx2RW9POTJjdzYtM1F6eF9OV1lvazczdDc3dVpz?oc=5",
+          "date": "2026-11-27T07:07:00+00:00",
+          "resume": "",
+          "titre_fr": "Des experts finlandais visitent l’école expérimentale Ideal : mise en avant de l’éducation à la littératie IA"
+        },
+        {
+          "note": 4,
+          "motif": "Annonce de conférence, peu de nouveauté concrète",
+          "couverture": 2,
+          "titre": "淘天集团 AI 研发负责人吕承飞（吕行）已确认出席 AICon北京，分享淘宝 AI 原生研发系统实战",
+          "source": "InfoQ.cn",
+          "lien": "https://www.infoq.cn/article/Y6xTPR1bRWqmNNakCtXm?utm_source=rss&utm_medium=article",
+          "date": "2026-11-27T10:00:00+00:00",
+          "resume": "点击查看原文>",
+          "titre_fr": "Le responsable IA de Taotian Group, Lü Chengfei (Lü Xing), confirme sa participation à AICon Pékin pour présenter le système de R&D IA natif de Taobao"
+        },
+        {
+          "note": 4,
+          "motif": "Formation locale, impact limité",
+          "couverture": 1,
+          "titre": "数智启教促变革 AI赋能助教学——湖滨桃园小学承办浔阳区AI教学赋能专题培训",
+          "source": "九江新闻网",
+          "lien": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QcGRiTFlKYk93NUkwcW9rQ1JfNV9zaU9oWVR3aVBYMVNQZ1pHZUhlNTRHZ25hMmVrUFRSUW92aHRoN1RNTVZJRnI2TjBBek5JY0FxX2QwOG9GVzNfbFE?oc=5",
+          "date": "2026-11-27T07:45:39+00:00",
+          "resume": "",
+          "titre_fr": "L'IA au service de l'enseignement : la primaire Hupin Taoyuan organise une formation spécialisée sur l'IA pour le district Xunyang"
+        }
+      ]
+    },
+    {
+      "nom": "Matériel, puces et modèles de grande taille",
+      "resume": "Le développement de puces spécialisées, de co‑processeurs, de modèles natifs et d’infrastructures de calcul soutient l’expansion de l’IA dans tous les domaines.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Effet de bulle autour des puces IA, impact financier notable",
+          "couverture": 1,
+          "titre": "Why did an AI chip frenzy send a Chinese blender maker’s stock soaring 370%?",
+          "source": "SCMP Tech",
+          "lien": "https://www.scmp.com/tech/tech-trends/article/3376026/why-did-ai-chip-frenzy-send-chinese-blender-makers-stock-soaring-390",
+          "date": "2026-11-27T08:01:50+00:00",
+          "resume": "China’s artificial intelligence boom has sent retail investors scrambling for exposure to graphics processing units (GPUs) – even if it means settling for “grain processing units” instead. Shares of Joyoung, a Chinese home appliance maker best known for its soy milk makers, surged to an all-time hig",
+          "titre_fr": "Pourquoi la frénésie des puces IA a fait grimper l'action d'un fabricant chinois de blenders de 370 % ?"
+        },
+        {
+          "note": 6,
+          "motif": "Analyse puissance puces AI, pertinence industrielle",
+          "couverture": 1,
+          "titre": "【券商聚焦】中金：AI芯片功耗提升驱动三次电源升级关注国产厂商机遇_滚动新闻",
+          "source": "证券之星",
+          "lien": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhRTZZSGxOXzdkVU50VEdfSUJRTXVDeEFnY1RTWmIyYWtxVTBzMkFFcjFvVldZWTZ0cmZqUGQ2QVhhR09QdmJBOHFESHAtb2pTeVVpNHpncUVlNnZMdXFwSG9FeGw?oc=5",
+          "date": "2026-11-27T07:14:08+00:00",
+          "resume": "",
+          "titre_fr": "【Focus Bourse】CICC : la consommation d’énergie des puces IA pousse à une troisième mise à niveau des alimentations, opportunité pour les fabricants nationaux"
+        }
+      ]
+    },
+    {
+      "nom": "Environnement, énergie et applications physiques",
+      "resume": "Des projets d’IA appliquée à la météo, à la gestion de l’énergie et aux systèmes physiques (eau, chauffage) illustrent la convergence entre IA et durabilité.",
+      "articles": [
+        {
+          "note": 6,
+          "motif": "Physic AI appliqué à la météo, large impact",
+          "couverture": 1,
+          "titre": "全球气象顶流齐聚雄安，“远景天机”以物理AI打通预测到应用闭环",
+          "source": "新华网",
+          "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTFdlbFI4NVh4dGIwQ3h4N2U4VDI1M0xibG9GNWVoVlo3a3VBOFFyUDg0Qi1tOC1oUzM2ZjQ4cDNBWTh6eEg3VFdQUVI5Sjg1d1lFeVBhMFNUVXpGOWtmZHBSM2dfaGtrazVpTURIbC1zVlc2bC1rV084OHI1Qm5mZA?oc=5",
+          "date": "2026-11-27T07:29:43+00:00",
+          "resume": "",
+          "titre_fr": "Les géants mondiaux de la météorologie se réunissent à Xiong’an ; « Future Sky » utilise l'IA physique pour boucler le cycle prévision‑application"
+        },
+        {
+          "note": 5,
+          "motif": "IA au service de l'application de la loi environnementale",
+          "couverture": 1,
+          "titre": "AI识别环境违法线索！生态环境部推进智慧执法转型",
+          "source": "Sohu",
+          "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRWVSREJtTzJHOG50VzhHRHFTUUo1THVXV05ZT3EwMVA1ZTZoTlFhVE5DWFd2Sk15ZzE5Q2NRNTA0cXIxaDdoSk05bHZMMk5JZ2JwY0JoeWpHVGNyUlY1SmlCdVlCcUVwVjJsN3hyYVkzWVFJQkpnSlQzR0lkdlhLeVZ2WDdKZmZVTjI2MlcyVQ?oc=5",
+          "date": "2026-11-27T07:22:02+00:00",
+          "resume": "",
+          "titre_fr": "L'IA détecte les indices de violations environnementales : le ministère de l'Écologie accélère la transformation vers une application intelligente"
+        }
+      ]
+    },
+    {
+      "nom": "Culture, médias et divertissement",
+      "resume": "L’IA influence la création musicale, le journalisme, les programmes de recherche scientifique et la production de contenus de divertissement.",
+      "articles": [
+        {
+          "note": 6,
+          "motif": "Programme de recherche AI ouvert, opportunité scientifique",
+          "couverture": 1,
+          "titre": "Moonshot AI Opens Applications for the Kimi for Science Research Program",
+          "source": "Pandaily",
+          "lien": "https://pandaily.com/moonshot-kimi-for-science-research-program",
+          "date": "2026-11-27T07:17:59+00:00",
+          "resume": "Moonshot AI opened Kimi for Science applications, with up to 150,000 yuan in API credits for selected researchers. It is not a new model or a completed selection.",
+          "titre_fr": "Moonshot AI ouvre les candidatures pour le programme Kimi for Science Research"
+        },
+        {
+          "note": 4,
+          "motif": "Censure de contenus IA, question de régulation",
+          "couverture": 1,
+          "titre": "大量AI生成歌曲，要下架了",
+          "source": "Sohu",
+          "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTE8zbUtvZmNWYk5SY1ZzOFlKTjVZb3FFazJ3UWNyNUNBVFZGUTlHSHBpZTRYYTMwem90Rndoc3NiNkg0cWFBNk5veXp4a1ZaZm14Q1g4dzVDRjQwa0NYc0l2c2txS1hkNk5EQW9yRFhYLXRtb1h4SkRRY1V3WElGX2dGakg0MjVaanZKbw?oc=5",
+          "date": "2026-11-27T07:38:00+00:00",
+          "resume": "",
+          "titre_fr": "Des milliers de chansons générées par IA seront retirées du catalogue"
+        },
+        {
+          "note": 2,
+          "motif": "Info boursière sans lien IA substantiel",
+          "couverture": 1,
+          "titre": "镰刀妹AI智能写作 | 11月27日湘股涨跌TOP5",
+          "source": "长沙晚报",
+          "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qRVc3aFpCQzhxbU1BVno1U3ZPdFVXTGZ0OUFsemJTV3BDcGlwaDZhTlF4LVg2M1g2MUp3VTJ1dnNhb01nUG82aWVaZ0gzNVY0ZjBZMWpBMUF5Wi1ZbDhXbXlR?oc=5",
+          "date": "2026-11-27T07:30:00+00:00",
+          "resume": "",
+          "titre_fr": "Scénario d'écriture IA « Scythe Girl » | TOP 5 des hausses/baisse des actions du Xinjiang le 27 novembre"
+        }
+      ]
+    },
+    {
+      "nom": "Autres articles",
+      "resume": "",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Crise Nvidia, révélateur de risques géopolitiques IA",
+          "couverture": 1,
+          "titre": "黄仁勋复职：英伟达风波如何暴露亚洲押注AI的风险",
+          "source": "BBC",
+          "lien": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53S3ZDb3RqZnVQLWplNTRxN053cVh2MG9WdDJzUDFjTmhrN1FDc2l4NVp6ZkFUVXhoSzZOSjhoMHVTN3JyTkdBYUFvaVVzUkZIbUNySG85bjlZdG14Z2ZrNkxsWVNsdjjSAWxBVV95cUxNSjFManh6VTJZZUdnM05tVGpJdzJ0TjYwRGI1WG5WX3JyY0tEdnAxM3hBaXNIbGdzQlJmZ1B4X1V1QXdTUUhQeVVJR2ZCZWxPT25xeFg5TlJ5TTRfeDl4UU1NMXhhbU1uWFpHZnE?oc=5",
+          "date": "2026-11-27T07:43:17+00:00",
+          "resume": "",
+          "titre_fr": "Jensen Huang reprend les rênes : la controverse Nvidia révèle les risques liés aux paris asiatiques sur l'IA"
+        },
+        {
+          "note": 6,
+          "motif": "Nouveauté UI intégrant IA, visibilité utilisateur",
+          "couverture": 2,
+          "titre": "Ubuntu 新桌面启动器曝光：找应用、找文件、问 AI 一站完成",
+          "source": "IT之家",
+          "lien": "https://www.ithome.com/1/033/525.htm",
+          "date": "2026-11-27T07:54:48+00:00",
+          "resume": "IT之家 11 月 27 日消息，Canonical 于 11 月 25 日发布帖子，表示在为 Ubuntu 开发全新的桌面启动器， 计划在同一个界面中整合应用启动、文件搜索以及可选的 AI 辅助功能。 首个可用的功能版本预计于 2027 年 1 月发布，届时 Canonical 也将公布相关技术架构细节。 设计理念方面，IT之家援引帖子内容，Canonical 希望在更直接的口入中集成“找应用、找文件、问问题”等日常操作。用户既可以通过键盘快速启动应用、查找文件，也可以使用语音输入完成部分操作。 在 AI 功能方面，Canonical 明确表示其不会成为强制选项。用户可以选择完全关闭 AI，",
+          "titre_fr": "Nouveau lanceur de bureau Ubuntu dévoilé : recherche d’applications, de fichiers et requêtes IA en un seul endroit"
+        },
+        {
+          "note": 6,
+          "motif": "Cluster de modèles, dynamique industrielle",
+          "couverture": 1,
+          "titre": "杭州未来科技城：大模型产业何以集聚成势",
+          "source": "新华网",
+          "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQclBjMnphZ01rT01kZkFFQUhPSmxtM0pmZGJHRnZjMGdqY2FyZHlMVmthVnd5QnVhR0lRQkVtdGV4RXdlX0RFcDlKblF1NGNNYXpKTEgzUjdpbTNCaHBNNm90elJsTWtlZGJRelgxM3Q2RG5YUmcwRDBRZFZDRFlLSQ?oc=5",
+          "date": "2026-11-27T07:32:32+00:00",
+          "resume": "",
+          "titre_fr": "Hangzhou Future Science City : comment l'industrie des grands modèles se consolide et prend de l'ampleur"
+        },
+        {
+          "note": 6,
+          "motif": "Lancement de co‑processeur AI, pertinence hardware",
+          "couverture": 1,
+          "titre": "瑞芯微：针对端侧AI大模型落地推出的协处理器系列产品已规模出货",
+          "source": "Sohu",
+          "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc0xSUDhFN2lzcTEta0FDWVRfRzRmVjBYLWUwZlRDZUlUaVBLejNUZ2R1bjdpam5RR1ZiMDNDUGpxVmxjTlV4ODRTMGxRVzRNY0RGX00yN2xHaEdiMmstTV9MMG1XNWVwZ3dhbGIxYWRHRWh6T3pMVGNoX2I3Y2w4dkFFV2ROZlF5Z2lRcw?oc=5",
+          "date": "2026-11-27T07:31:00+00:00",
+          "resume": "",
+          "titre_fr": "Rockchip lance une gamme de co‑processeurs pour déployer des grands modèles IA en périphérie, déjà en production de masse"
+        },
+        {
+          "note": 5,
+          "motif": "Vision robotique, plus prospective que factuelle",
+          "couverture": 1,
+          "titre": "技赋新质 智启新境 在龙岗看见中国机器人的“实战”未来",
+          "source": "21财经",
+          "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeFV0c3NRdkV4SlVBRVBDbjY4b3hvdnJmOTRlRmlZWGVVUWpJZ2dhU1ZMcXNFQnEyU3dtZkZPSE93eDRBcllqVXJaZWVCcXM4d01pM1lOZE95b0oySXpuWjVDV3pYTFZQb1BLY0ppc29SMlYwR2R3VDYwMWVfN2w3Ul9rUlc0WDF4T256Z0JkRQ?oc=5",
+          "date": "2026-11-27T07:38:22+00:00",
+          "resume": "",
+          "titre_fr": "Nouvelle qualité technologique, nouvelle ère intelligente : à Longgang, le futur « combat » des robots chinois se dessine"
+        },
+        {
+          "note": 5,
+          "motif": "Adoption d'AI glasses, niche mais notable",
+          "couverture": 1,
+          "titre": "AI眼镜圈粉外国客商，东莞小镇“科技特产”忙上新！",
+          "source": "21财经",
+          "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdUpUc1Y3UHJwUEtPemZtNU1qNjFrRVVNX2Fndi0xT2FyOGpiWUZGYUpIcTZPYUJnb3BqTTdSUVFKYTRlUFBhWjR3OU5sRk5tdWk0OGZJWjlFeTU2MmFhNlM1YUtyM2V4Y1JYYjFET1NXb1BOWDQwdEtFSXpXeHVabVY2MTdZZVBNY3RWN2Qwcw?oc=5",
+          "date": "2026-11-27T07:37:08+00:00",
+          "resume": "",
+          "titre_fr": "Les lunettes IA séduisent les investisseurs étrangers ; la petite ville de Dongguan mise sur la « spécialité technologique »"
+        },
+        {
+          "note": 5,
+          "motif": "Débat bande passante AI, intérêt technique",
+          "couverture": 1,
+          "titre": "AI机柜里的带宽之争：铜没退场，光没到位",
+          "source": "电子工程专辑EE Times China",
+          "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SZl9EaUQxYi1uMkFUNWVkTHlsNkE3cWJMaXJZLTMya2E1eEhoSXozWkVQYWpYam9MVy0zSHV6a20wMVpKbUN4QnA1V3g2OWVwel9v?oc=5",
+          "date": "2026-11-27T07:29:00+00:00",
+          "resume": "",
+          "titre_fr": "Bataille de bande passante dans les racks IA : le cuivre n'est pas parti, la fibre n'est pas encore déployée"
+        },
+        {
+          "note": 5,
+          "motif": "Solution AI pour PCB, pertinence industrielle",
+          "couverture": 1,
+          "titre": "盘古信息：以原生MES+AI套件，破解PCB全制程管控难题",
+          "source": "电子工程专辑EE Times China",
+          "lien": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qclgxTndjbW5YeEIzYzVvSzJjRjNuaHJxeXZQTVY5bml4TGZVUmM0Qk8tdDJCOWVITERqWlZyWHNDWU1QOTItd3FjQkxPSV9jaEhZ?oc=5",
+          "date": "2026-11-27T07:27:00+00:00",
+          "resume": "",
+          "titre_fr": "Pangu Info : grâce à un kit MES natif + IA, résoudre les difficultés de contrôle du processus complet de PCB"
+        },
+        {
+          "note": 5,
+          "motif": "Cas juridiques d'usage IA, enjeux sociétaux",
+          "couverture": 1,
+          "titre": "四川公安曝光5起使用AI工具编造传播网络谣言案",
+          "source": "红星新闻",
+          "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTE02Q2xiaGxZT0ZGQVRMZ0tWQmg1X1hXb2pjZjNzV25jWS00alhfZ2RIZFRpaXdyWk1CX2hobVdWUlNSdG9ESjNjUzJISV9ITXNRMTVrOFB3XzE3MGtMWVAtSzZXeHZvZUF1QjhTaG9kRWtRUQ?oc=5",
+          "date": "2026-11-27T07:24:05+00:00",
+          "resume": "",
+          "titre_fr": "La police du Sichuan dévoile cinq affaires d'utilisation d'outils IA pour créer et diffuser des rumeurs en ligne"
+        },
+        {
+          "note": 5,
+          "motif": "Narratif sur IA comme moteur de transformation urbaine",
+          "couverture": 1,
+          "titre": "千亿之城 向“智”而行——人工智能成肥城市产业迭代升级关键引擎",
+          "source": "手机新浪网",
+          "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYWJvTXp4YWlRR3NRWUpjdnF5MFpudUdwWUxOWlV0YmlaZS1hVGQyeFY2U2REWVJ6eXNaa2ZqZXU2QnhHZW45MlBFUWRpdkhyclBiZ3d3Z2dXRTl1RlNXNm04V0ZCZVZRZ2hKUTd5c2xJTlBHTVp5YXhSNlBtenpYcHBmSHpVSzA3elJWNnFQNA?oc=5",
+          "date": "2026-11-27T07:19:31+00:00",
+          "resume": "",
+          "titre_fr": "Ville de mille milliards : avancer vers l’intelligence – l’IA comme moteur clé de la transition industrielle urbaine"
+        },
+        {
+          "note": 5,
+          "motif": "Analyse de marché IA, impact financier limité",
+          "couverture": 1,
+          "titre": "AI行情遭遇重挫 外资11月抛售台股规模有望创历史新高",
+          "source": "同花顺财经",
+          "lien": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoSVNOVktEeTVDbS1NRTVDYlFCYkdvTXJOd200WUYweU16YTdaSmZseFJPRkIyWWgwaHhUMkVsaVU5TzdMU3ZpS19VU3puQ2JyV0tPVkdxMWttX1BGYWc?oc=5",
+          "date": "2026-11-27T07:18:33+00:00",
+          "resume": "",
+          "titre_fr": "Le marché de l'IA subit une forte correction ; les capitaux étrangers pourraient vendre des actions taïwanaises en novembre à un niveau record"
+        },
+        {
+          "note": 5,
+          "motif": "Événement régional AI, renforcement d'écosystème",
+          "couverture": 1,
+          "titre": "科大讯飞AI TechDay无锡站举行，助推长三角AI创新生态聚集",
+          "source": "www.icloudnews.net",
+          "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EU3Ezd0M4OFVWWC1JUURPdEJLZ3RFeExKaXJqVy1GOTk0a0FsM1VncHhSUG5qb3ViODFMVUc2QXRJTndnbm81VWl1ZGxEbzdDaGc?oc=5",
+          "date": "2026-11-27T07:13:00+00:00",
+          "resume": "",
+          "titre_fr": "AI TechDay de iFlytek à Wuxi : dynamiser l’écosystème d'innovation IA du Grand Shanghai"
+        },
+        {
+          "note": 5,
+          "motif": "Conférence de mise en relation AI, peu de nouveauté",
+          "couverture": 1,
+          "titre": "聚焦AI场景创新，推动技术、产业与资本对接｜“向新而行”人工智能场景推介及供需对接会暨中关村AI新场景产业创新活动在京举办",
+          "source": "新浪新闻",
+          "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lN0ZERVZCV3RZVHpUS0dvZV9UYzBwaURPTVRmcy1qZGx3UDFUOHh0c1FtNzB3LUpvZ1B2UkVFa2M0d3AyWko5TEdUV0tzNHZPcnFFN0xMM2h5ZjdfRTZwMndZcTY0TDZFcVVmTXh1WUxwQQ?oc=5",
+          "date": "2026-11-27T07:07:25+00:00",
+          "resume": "",
+          "titre_fr": "Focus sur l'innovation IA : connecter technologie, industrie et capitaux – Salon de présentation des scénarios IA « Vers le nouveau » à Zhongguancun, Pékin"
+        },
+        {
+          "note": 4,
+          "motif": "Opinion sur la valeur sociétale, peu d'actualité factuelle",
+          "couverture": 1,
+          "titre": "All Sectors Must Explain Their Existence and Value to Society in AI Era, Ex-Coach of US Int’l Mathematical Olympiad Team Says",
+          "source": "Yicai",
+          "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOSGM4WDM3SmRJUkhMQ2RkT0ZnbmRiYmF4OWZjVUkyN1NjWDN5U1BzRDEzVWJsNWRDNmU1aWdORjZlYWdRMzlHTm5vaktZb0NQNlZDM1JTQnpWeVZsNE8wQWgtb0lLWW5EUll4Vk05c29BeERhNGo5TTVhbmcxeG1PeHRfbjZVaTcyc1hIRzBQVmxaLUhGRXNjVEVuUXJGNzZVVjJkbUxnY0loZ1AxTU9CM2NxSFYwbGxpN0hsNEtleVV4VjBXb05MQk81R0VBZ0xmOXJzd0U4eTQtaWFFWWlfRVVHLUNNOUJ4bG82Tg?oc=5",
+          "date": "2026-11-27T08:12:28+00:00",
+          "resume": "",
+          "titre_fr": "Tous les secteurs doivent expliquer leur existence et leur valeur à la société à l'ère de l'IA, affirme un ancien entraîneur de l'équipe américaine d’Olympiades de mathématiques"
+        },
+        {
+          "note": 4,
+          "motif": "Produit grand public, IA secondaire",
+          "couverture": 1,
+          "titre": "零下三十度也稳得住，海信Ai家II重新定义北方全屋冷暖",
+          "source": "www.icloudnews.net",
+          "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVTW51Q05va0dPMVNmckNGMVI4b2M2cHNMWFMyUVlYaU5MN3JWT0Z2a3QwYnUwak5SR2FSUWFOS3kyMVQ2Q3NxWGFKWVEtMmFMVnc?oc=5",
+          "date": "2026-11-27T07:50:00+00:00",
+          "resume": "",
+          "titre_fr": "Même à –30 °C, le système HiSense Ai Home II assure une climatisation fiable, redéfinissant le confort thermique complet du Nord"
+        },
+        {
+          "note": 4,
+          "motif": "Appareil domestique, IA en support fonctionnel",
+          "couverture": 1,
+          "titre": "博世CS5500智能水系统中央空调上市，AI全域智控重构全屋冷暖舒适新体验",
+          "source": "www.icloudnews.net",
+          "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02amo5RlBBNk04RXF0ZzVyTlJOTGpjcWhvb2d6YWdycEwzOHRORm5NeF9ZUGVaNHhhU2huYWxudWxpTjRpblV4Nl9IN1JEX1p3SWc?oc=5",
+          "date": "2026-11-27T07:49:00+00:00",
+          "resume": "",
+          "titre_fr": "Bosch lance le système d'eau intelligent CS5500 pour climatisation centrale : l'IA contrôle l’ensemble du foyer pour un confort thermique inédit"
+        },
+        {
+          "note": 4,
+          "motif": "Initiative locale d'IA pour PME, portée restreinte",
+          "couverture": 1,
+          "titre": "民宿老板先“算账”，AI创客有“陪跑”，大企带着小店干……台州为百万老板铺好创业每一程",
+          "source": "台州新闻",
+          "lien": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xbEw4ajExblZwYlRpdjlsNUd4Z1ltNXRRblYycTRSeTM3TWJuVTAwRHM2cUxUMkIzdVRqQnlZZGp6Qnlnd0hMekVITWdxXzJZVGlZbHFBOTJFREkydTVPX0RwVGh2Ul9yWU5N?oc=5",
+          "date": "2026-11-27T07:17:09+00:00",
+          "resume": "",
+          "titre_fr": "Les propriétaires de gîtes comptent d'abord, les créateurs IA les accompagnent, les grands groupes soutiennent les petits commerces… Taizhou accompagne chaque étape de l’entrepreneuriat"
+        },
+        {
+          "note": 3,
+          "motif": "Lien indirect avec l'IA, plus économique que technologique",
+          "couverture": 1,
+          "titre": "得益于AI需求推动，泰国出口增速有望超过创纪录的目标",
+          "source": "36Kr",
+          "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0Mkt5WkhjRXJlQ1VzUVZYUGxUT1dNZHU4cmhDVFRHSzdITnhFQVBKOHNkOFpQcHZ4NjBsbFFYV3Vvd1dSNXExUjZlU1VsR0w5VU5mMzhmQlU?oc=5",
+          "date": "2026-11-27T08:03:16+00:00",
+          "resume": "",
+          "titre_fr": "Grâce à la demande d'IA, la croissance des exportations thaïlandaises pourrait dépasser les objectifs record"
+        }
+      ]
+    }
+  ],
+  "ecartes": [
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "安全公司警告近期有黑客持续伪造知名企业邀请函邮件进行钓鱼攻击，冒充英伟达、可口可乐等公司",
+      "source": "IT之家",
+      "lien": "https://www.ithome.com/1/033/531.htm",
+      "date": "2026-11-27T08:04:21+00:00",
+      "resume": "IT之家 11 月 27 日消息，网络安全公司 Push Security 发文，透露近日有黑客持续冒充知名企业，随机向受害者发送所谓“线上研讨会”或“付费专家访谈”邀请函钓鱼邮件，诱骗受害者提交账号登录凭据。 根据 Push Security 报告，此次攻击活动冒充的企业包括埃森哲、可口可乐、Culver's、Google Cloud、Spotify、英伟达和 SpaceX 等。攻击者利用 SendGrid、Cvent、Mandrill 和 HireVue 等正规邮件发送及活动管理平台分发钓鱼链接，以此降低邮件被识别为恶意信息的概率。 IT之家参考报告列举的“山寨英伟达活动”典例获悉，攻击者",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "首届中国企业碳管理大赛正式启动",
+      "source": "www.icloudnews.net",
+      "lien": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ycU56VXI5YjJtNko2TEpfS2ZodEI4QkRBQmhfYzVYdHF1bHVHZXBYbzZHWmtUUWlQN3hiV2dKVlZDYmFxc0pCWHl5U0hRQjlRVHc?oc=5",
+      "date": "2026-11-27T07:38:00+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "千问辟谣：周昊离职不实，将起诉自媒体\"Top华人科创社\"",
+      "source": "雷峰网",
+      "lien": "https://www.leiphone.com/category/industrynews/CFGZPziprklwXuQw.html",
+      "date": "2026-11-27T13:52:00+08:00",
+      "resume": "11月27日，针对自媒体\"Top华人科创社\"当日发布的《Qwen 后训练负责人周浩离职》一文，千问大模型官方回应称：内容纯属造谣，并将起诉追究其法律责任。 千问指出，该文章不仅杜撰事实，连当事人姓名都写错——被涉及人员实为\"周昊\"，而非文中所称\"周浩\"。千问称，近期针对Qwen大模型团队的不实信息持续出现，公司将依法追究相关主体的法律责任。",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "2027款极氪7X正式上市，限时权益价21.68万元起",
+      "source": "雷峰网",
+      "lien": "https://www.leiphone.com/category/industrynews/IcCp66sNRwAbvDSF.html",
+      "date": "2026-11-27T13:25:00+08:00",
+      "resume": "11月27日，2027款极氪7X在2026广州车展正式上市，共推出后驱Max版、后驱Max+版和四驱Ultra版三款版型，官方零售价分别为22.98万元、23.98万元和26.98万元，限时权益价21.68万元起。即日起，用户可通过极氪App、官网、小程序及全国极氪门店预订新车。上市期间，支付5,000元定金，可享受至高1.3万元现金直减的「限时臻享礼」、总价值3.1万元的「豪华进阶礼」、以及老车主免费充电、两年0息金融及三电终身质保等。 据悉，2027款极氪7X主要针对设计、性能、空间及智能化等进行升级，在延续原有安全与操控优势的基础上，提升豪华质感与智能体验，被不少媒体评价为“七边形战士”",
+      "titre_fr": ""
+    }
+  ],
+  "top": [
+    {
+      "note": 8,
+      "motif": "Risque réglementaire majeur pour un acteur global",
+      "couverture": 1,
+      "titre": "涉嫌AI功能虚假宣传，苹果在韩国面临巨额处罚风险",
+      "source": "新浪财经_金融信息服务商",
+      "lien": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kOWxIWm9lY1lWV3VDLWpKRi1Pc2VHTXl0TjZCaWVrVkJBUzJHTjAxZUFMMkl3MTBGOW5BOVp4dGl3OThONUhjNEl2OE1sZlI0YVBXZW9fNno4TElxNjVGMENjWHFBWFBIQjJfLU5tM1VUb1U0Y3Rtdw?oc=5",
+      "date": "2026-11-27T08:08:22+00:00",
+      "resume": "",
+      "titre_fr": "Apple risque une lourde amende en Corée du Sud pour publicité mensongère sur des fonctions IA"
+    },
+    {
+      "note": 8,
+      "motif": "Crise Nvidia, révélateur de risques géopolitiques IA",
+      "couverture": 1,
+      "titre": "黄仁勋复职：英伟达风波如何暴露亚洲押注AI的风险",
+      "source": "BBC",
+      "lien": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53S3ZDb3RqZnVQLWplNTRxN053cVh2MG9WdDJzUDFjTmhrN1FDc2l4NVp6ZkFUVXhoSzZOSjhoMHVTN3JyTkdBYUFvaVVzUkZIbUNySG85bjlZdG14Z2ZrNkxsWVNsdjjSAWxBVV95cUxNSjFManh6VTJZZUdnM05tVGpJdzJ0TjYwRGI1WG5WX3JyY0tEdnAxM3hBaXNIbGdzQlJmZ1B4X1V1QXdTUUhQeVVJR2ZCZWxPT25xeFg5TlJ5TTRfeDl4UU1NMXhhbU1uWFpHZnE?oc=5",
+      "date": "2026-11-27T07:43:17+00:00",
+      "resume": "",
+      "titre_fr": "Jensen Huang reprend les rênes : la controverse Nvidia révèle les risques liés aux paris asiatiques sur l'IA"
+    },
+    {
+      "note": 7,
+      "motif": "Amélioration mesurable du service grâce à l'IA",
+      "couverture": 1,
+      "titre": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
+      "source": "InfoQ.cn",
+      "lien": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&utm_medium=article",
+      "date": "2026-11-27T13:00:00+00:00",
+      "resume": "点击查看原文>",
+      "titre_fr": "DoorDash réduit le délai de réachat d'épicerie fraîche de 16 secondes à 2 secondes grâce à un agent IA"
+    },
+    {
+      "note": 7,
+      "motif": "Effet de bulle autour des puces IA, impact financier notable",
+      "couverture": 1,
+      "titre": "Why did an AI chip frenzy send a Chinese blender maker’s stock soaring 370%?",
+      "source": "SCMP Tech",
+      "lien": "https://www.scmp.com/tech/tech-trends/article/3376026/why-did-ai-chip-frenzy-send-chinese-blender-makers-stock-soaring-390",
+      "date": "2026-11-27T08:01:50+00:00",
+      "resume": "China’s artificial intelligence boom has sent retail investors scrambling for exposure to graphics processing units (GPUs) – even if it means settling for “grain processing units” instead. Shares of Joyoung, a Chinese home appliance maker best known for its soy milk makers, surged to an all-time hig",
+      "titre_fr": "Pourquoi la frénésie des puces IA a fait grimper l'action d'un fabricant chinois de blenders de 370 % ?"
+    },
+    {
+      "note": 7,
+      "motif": "Restriction de financement DeepSeek, impact commercial",
+      "couverture": 1,
+      "titre": "DeepSeek额度收紧背后：大模型商业化压力与国产算力适配窗口",
+      "source": "同花顺财经",
+      "lien": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJVF9aZ0pNUjBzRjB3ZGlxMGpRMUIyMTdqVDFGTjM3YkVzQzZJcW4xazNkTC1xdWJKRi1DNVI4RmktOFFCOXI2TEtObUlYRG9oSXkzblJMcDkxS1ZWX2c?oc=5",
+      "date": "2026-11-27T07:36:10+00:00",
+      "resume": "",
+      "titre_fr": "Resserrement des quotas DeepSeek : pression commerciale sur les grands modèles et fenêtre d'adaptation aux puces domestiques"
+    }
+  ],
+  "articles_notes": 50,
+  "liens_google": 41,
+  "videos": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "【直擊百強】智譜代表蕭磊：中國的大模型，很有機會反超",
+        "source": "現代電視FinTV",
+        "lien": "https://www.youtube.com/watch?v=L1_Dx8kDYWo",
+        "date": "2026-11-27T07:42:08Z",
+        "image": "https://i.ytimg.com/vi/L1_Dx8kDYWo/mqdefault.jpg",
+        "extrait": "港股100強 #財華社 #中國大模型 #AI#精彩回放.",
+        "description": "Interview du représentant de Zhipu, Xiao Lei, qui explique comment les grands modèles chinois pourraient dépasser les modèles étrangers."
+      },
+      {
+        "titre": "中國對台灣展開AI假影片攻勢了嗎？－ BBC News 中文",
+        "source": "BBC News 中文",
+        "lien": "https://www.youtube.com/watch?v=ElNU9xEmbVs",
+        "date": "2026-11-27T06:22:36Z",
+        "image": "https://i.ytimg.com/vi/ElNU9xEmbVs/mqdefault.jpg",
+        "extrait": "BBC Verify 發現，在台灣地方選舉前夕，台灣政治人物正成為網絡攻勢的目標。社群媒體上流傳著利用人工智能（AI）製作的影片， ...",
+        "description": "BBC News 中文 enquête sur la diffusion de vidéos deepfake en faveur de candidats taïwanais avant les élections locales."
+      },
+      {
+        "titre": "算力断供，中国九家大模型谁先下牌桌",
+        "source": "大事小事万千事",
+        "lien": "https://www.youtube.com/watch?v=pMC--84vY38",
+        "date": "2026-11-27T04:50:53Z",
+        "image": "https://i.ytimg.com/vi/pMC--84vY38/mqdefault.jpg",
+        "extrait": "11 月16 日美国发布新规，堵住中国公司到海外机房租用美国芯片的路，港股大模型板块当周跳水，腾讯、阿里先后松口。 本期讲 ...",
+        "description": "Analyse de la rupture d'approvisionnement en puces américaines et de ses conséquences sur neuf grands modèles chinois."
+      },
+      {
+        "titre": "AI假冒候選人？揭秘操弄民意的認知戰",
+        "source": "新聞大視野",
+        "lien": "https://www.youtube.com/watch?v=QCqzOPONTCI",
+        "date": "2026-11-27T04:15:13Z",
+        "image": "https://i.ytimg.com/vi/QCqzOPONTCI/mqdefault.jpg",
+        "extrait": "當AI 技術能精準模仿候選人的聲音、神態與發言，選民眼見為憑的時代是否正在面臨嚴峻考驗？這場無形的「認知戰」究竟如何悄悄 ...",
+        "description": "Exposé sur les risques de manipulation électorale grâce aux deepfakes vocaux et visuels d'IA."
+      },
+      {
+        "titre": "25岁中国女孩 把全球数学界和AI圈搅翻了天",
+        "source": "AI壹号",
+        "lien": "https://www.youtube.com/watch?v=bfXVtoNUISM",
+        "date": "2026-11-27T04:00:24Z",
+        "image": "https://i.ytimg.com/vi/bfXVtoNUISM/mqdefault.jpg",
+        "extrait": "25岁的广州女孩洪乐潼，把全球数学界和AI圈搅翻了天：58岁的美国数学传奇小野健，丢下弗吉尼亚大学的终身教职，跑去她的AI ...",
+        "description": "Portrait d'une jeune Chinoise de 25 ans, Hong Letong, qui bouleverse les mathématiques et l'IA avec ses travaux."
+      },
+      {
+        "titre": "Alexandr Wang预言AI未来10年：变化可能超过过去100年！普通人还有什么机会？",
+        "source": "Heidi嗨谈出海",
+        "lien": "https://www.youtube.com/watch?v=Ja8cKmLopQE",
+        "date": "2026-11-27T03:45:23Z",
+        "image": "https://i.ytimg.com/vi/Ja8cKmLopQE/mqdefault.jpg",
+        "extrait": "如果AI已经能完成越来越多的工作，那么未来真正稀缺的，会是什么？ Scale AI创始人、Meta超级智能实验室负责人Alexandr Wang ...",
+        "description": "Alexandr Wang prédit que les changements de l'IA dans les dix prochaines années seront plus importants que les cent dernières années."
+      },
+      {
+        "titre": "19岁创办Scale AI，后来掌舵Meta超级智能！Alexandr Wang凭什么？",
+        "source": "Heidi嗨谈出海",
+        "lien": "https://www.youtube.com/watch?v=MIOoZ_m8BNM",
+        "date": "2026-11-27T03:30:36Z",
+        "image": "https://i.ytimg.com/vi/MIOoZ_m8BNM/mqdefault.jpg",
+        "extrait": "一个19岁就创办AI公司的年轻人，为什么能成为Meta超级智能战略的关键人物？ Alexandr Wang的创业经历，背后藏着AI行业一次 ...",
+        "description": "Récit du parcours d'Alexandr Wang, fondateur de Scale AI à 19 ans et aujourd'hui acteur clé chez Meta Superintelligence."
+      },
+      {
+        "titre": "突发！炸场！DeepSeek联合华为把大模型塞进基站，频谱效率暴涨三成，App灰测开收钱，GLM-5.5延期？ | AI日报11.27",
+        "source": "AI 风向标",
+        "lien": "https://www.youtube.com/watch?v=K9ScRQnen7s",
+        "date": "2026-11-27T01:42:45Z",
+        "image": "https://i.ytimg.com/vi/K9ScRQnen7s/mqdefault.jpg",
+        "extrait": "今日趋势：DeepSeek联合华为发布OSCAR方案，让大模型直接进基站做信道估计与干扰消除，实测频谱效率提升约三成、能效提升 ...",
+        "description": "DeepSeek et Huawei intègrent un grand modèle dans les stations‑base, augmentant l’efficacité spectrale de 30 %."
+      },
+      {
+        "titre": "豆包小豆实测｜四款国产个人 Agent 大 PK，谁真能替我办事？",
+        "source": "灵姐说AI  |  Ling Talk AI",
+        "lien": "https://www.youtube.com/watch?v=9M1c-yyHnKI",
+        "date": "2026-11-27T00:00:14Z",
+        "image": "https://i.ytimg.com/vi/9M1c-yyHnKI/mqdefault.jpg",
+        "extrait": "我把「我想看电影」分别交给豆包小豆、千问Go!、灵光2.0 和微信小微。有的推进到套餐待支付页，有的后台查完发来通知，有的把 ...",
+        "description": "Comparaison de quatre agents IA chinois (豆包小豆、千问Go!、灵光2.0、微信小微) pour des tâches quotidiennes comme la recherche de films."
+      },
+      {
+        "titre": "“豆包型人格”：从前 AI 学人说话，现在人学 AI 说话",
+        "source": "认知刺客",
+        "lien": "https://www.youtube.com/watch?v=DetaXZj-SeM",
+        "date": "2026-11-27T01:30:36Z",
+        "image": "https://i.ytimg.com/vi/DetaXZj-SeM/mqdefault.jpg",
+        "extrait": "从前是AI拼命学人说话，如今“豆包型人格”爆火，活生生的年轻人竟开始集体学AI开口。 很多人以为这只是打工人对抗职场内耗的 ...",
+        "description": "Analyse du phénomène « 豆包型人格 » où les jeunes apprennent à parler comme les IA plutôt que l’inverse."
+      }
+    ]
+  },
+  "podcasts": {
+    "statut": "ok",
+    "fenetre_heures": 72,
+    "elements": [
+      {
+        "titre": "每日回顾 · 2026-11-27",
+        "source": "AI VFX PODCAST：AI领域要闻",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E6%AF%8F%E6%97%A5%E5%9B%9E%E9%A1%BE-2026-11-27/id6797152072?i=1000804321655&uo=4",
+        "date": "2026-11-27T06:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/28/aa/6e/28aa6ec2-cf60-3156-95e0-73b5923e707c/mza_13129085853607072831.jpg/160x160bb.jpg",
+        "duree_min": 13,
+        "extrait": "过去一天最说明问题的是，大量成果以可运行的实证形式落地，而非停留在承诺层面：Claude Opus 5.6 仅凭代码生成了一段视频，而 Google 的 AI 智能体则悄然独立撰写了六篇数学论文。EA 走了相反",
+        "description": "L’épisode souligne les avancées concrètes en IA, comme Claude Opus 5.6 générant une vidéo et un agent Google rédigeant six articles mathématiques."
+      },
+      {
+        "titre": "每日回顾 · 2026-11-26",
+        "source": "AI VFX PODCAST：AI领域要闻",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E6%AF%8F%E6%97%A5%E5%9B%9E%E9%A1%BE-2026-11-26/id6797152072?i=1000804134421&uo=4",
+        "date": "2026-11-26T06:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/c3/c4/31c3c4b9-f1f5-fea6-7ab6-78541fcf596b/mza_16215389131467079583.jpg/160x160bb.jpg",
+        "duree_min": 15,
+        "extrait": "今天的主角是制作管线，而不是演示片：最重磅的发布，都是那些能直接接入 Nuke、真正交到艺术家手里可编辑的工具。LTX Layout Studio 通过 ComfyUI 把 LTX-2.5 预演（previs）带进了 Nuke；DBS_SplatTrain",
+        "description": "Présente les dernières sorties d’outils d’IA intégrés à la chaîne de production, notamment LTX Layout Studio dans Nuke et DBS_SplatTrain."
+      },
+      {
+        "titre": "2026.11.26 | 仿真评估统一接口；医学多模态渐进训练",
+        "source": "HuggingFace 每日AI论文速递",
+        "lien": "https://podcasts.apple.com/cn/podcast/2026-11-26-%E4%BB%BF%E7%9C%9F%E8%AF%84%E4%BC%B0%E7%BB%9F%E4%B8%80%E6%8E%A5%E5%8F%A3-%E5%8C%BB%E5%AD%A6%E5%A4%9A%E6%A8%A1%E6%80%81%E6%B8%90%E8%BF%9B%E8%AE%AD%E7%BB%83/id1759487002?i=1000804282788&uo=4",
+        "date": "2026-11-26T23:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fc/36/cf/fc36cf89-3e3a-c480-536b-7b131b78a8a3/mza_2002397294931190567.png/160x160bb.jpg",
+        "duree_min": 10,
+        "extrait": "⏱️ Highlights[00:26] 🧪 Real2SimLab: A Unified Platform for Real-to-Simulation Transfer（Real2SimLab：现实到仿真迁移的统一平台）[01:03] 🩺 Sage-Med: Scaling Medical Multimodal Intelligence（Sage-Med：扩展医学多模态智",
+        "description": "Fait le point sur deux papiers récents : Real2SimLab, une plateforme unifiée pour le transfert réel‑vers‑simulation, et Sage‑Med, un modèle multimodal médical."
+      },
+      {
+        "titre": "2026.11.25 | 支付模型融合三路证据；注意力按词重连电路",
+        "source": "HuggingFace 每日AI论文速递",
+        "lien": "https://podcasts.apple.com/cn/podcast/2026-11-25-%E6%94%AF%E4%BB%98%E6%A8%A1%E5%9E%8B%E8%9E%8D%E5%90%88%E4%B8%89%E8%B7%AF%E8%AF%81%E6%8D%AE-%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%8C%89%E8%AF%8D%E9%87%8D%E8%BF%9E%E7%94%B5%E8%B7%AF/id1759487002?i=1000804086824&uo=4",
+        "date": "2026-11-25T23:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fc/36/cf/fc36cf89-3e3a-c480-536b-7b131b78a8a3/mza_2002397294931190567.png/160x160bb.jpg",
+        "duree_min": 11,
+        "extrait": "⏱️ Highlights[00:28] 💳 Antom 3-in-1 Transformer: A Payment Foundation Model（Antom 三合一 Transformer：支付基础模型）[01:11] 🧶 Rewirable Circuits in Transformers with Loom Attention（利用 Loom Attention 构建 Transformer",
+        "description": "Résume deux travaux : Antom 3‑in‑1 Transformer pour les paiements et les circuits ré‑connectables dans les Transformers avec Loom Attention."
+      },
+      {
+        "titre": "从硅基芯片到电网承载：AI算力扩张的物理边界与能源重构",
+        "source": "AI拉呱：专注于人工智能与前沿技术",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E4%BB%8E%E7%A1%85%E5%9F%BA%E8%8A%AF%E7%89%87%E5%88%B0%E7%94%B5%E7%BD%91%E6%89%BF%E8%BD%BD-ai%E7%AE%97%E5%8A%9B%E6%89%A9%E5%BC%A0%E7%9A%84%E7%89%A9%E7%90%86%E8%BE%B9%E7%95%8C%E4%B8%8E%E8%83%BD%E6%BA%90%E9%87%8D%E6%9E%84/id1896828927?i=1000804289863&uo=4",
+        "date": "2026-11-26T21:36:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8d/98/ff/8d98ff59-a582-d01c-8044-9a2f82a2eec2/mza_4577306030952774765.png/160x160bb.jpg",
+        "duree_min": 14,
+        "extrait": "探讨了 人工智能技术迅猛发展 与 全球能源基础设施供给 之间日益紧密的联系与挑战。随着 数据中心 的电力需求飙升，传统电网正承受巨大压力，推动各界积极寻求 核能 、 地热 与 可再生",
+        "description": "Analyse les limites physiques et énergétiques de l’expansion du calcul IA, du silicium aux réseaux électriques, et explore les solutions renouvelables."
+      },
+      {
+        "titre": "[人人能懂AI前沿] 从方差匹配、代码视觉推理到架构先验与理论压缩",
+        "source": "AI可可AI生活",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E4%BA%BA%E4%BA%BA%E8%83%BD%E6%87%82ai%E5%89%8D%E6%B2%BF-%E4%BB%8E%E6%96%B9%E5%B7%AE%E5%8C%B9%E9%85%8D-%E4%BB%A3%E7%A0%81%E8%A7%86%E8%A7%89%E6%8E%A8%E7%90%86%E5%88%B0%E6%9E%B6%E6%9E%84%E5%85%88%E9%AA%8C%E4%B8%8E%E7%90%86%E8%AE%BA%E5%8E%8B%E7%BC%A9/id1755963354?i=1000804280293&uo=4",
+        "date": "2026-11-26T22:21:56+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/9e/0f/039e0f99-c322-9c6d-360c-0db2728bd26b/mza_8520572596064985909.jpg/160x160bb.jpg",
+        "duree_min": 31,
+        "extrait": "今天我们为你精选了四篇极具启发性的最新论文，带你一起打破关于人工智能的固有常识。我们将探讨为什么最怕犯错的AI反而画不出鲜活的画，并揭秘为何写代码的智能体在视觉推理上能轻",
+        "description": "Sélectionne quatre articles de recherche qui remettent en cause les idées reçues sur l’IA, notamment l’échec des IA très prudentes à créer des images vivantes."
+      },
+      {
+        "titre": "日报｜AI代理攻破瑞士／英伟达停发东南亚 EP141",
+        "source": "Ai看世界·日报",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E6%97%A5%E6%8A%A5-ai%E4%BB%A3%E7%90%86%E6%94%BB%E7%A0%B4%E7%91%9E%E5%A3%AB-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%81%9C%E5%8F%91%E4%B8%9C%E5%8D%97%E4%BA%9A-ep141/id6785188142?i=1000804287641&uo=4",
+        "date": "2026-11-27T00:02:08+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/c5/2b/d3c52b94-5693-7d38-63dd-88c46b1ac5b6/mza_1820427574566833398.jpeg/160x160bb.jpg",
+        "duree_min": 6,
+        "extrait": "",
+        "description": "Rapporte l’utilisation d’agents IA pour contourner des systèmes suisses et la suspension des livraisons Nvidia en Asie du Sud‑Est."
+      },
+      {
+        "titre": "【1127 | AI日报】ChatGPT调整用量/DeepMind用AI研发AI/Claude重写核心API",
+        "source": "AI圈儿",
+        "lien": "https://podcasts.apple.com/cn/podcast/1127-ai%E6%97%A5%E6%8A%A5-chatgpt%E8%B0%83%E6%95%B4%E7%94%A8%E9%87%8F-deepmind%E7%94%A8ai%E7%A0%94%E5%8F%91ai-claude%E9%87%8D%E5%86%99%E6%A0%B8%E5%BF%83api/id1872685556?i=1000804279346&uo=4",
+        "date": "2026-11-26T23:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f7/64/b2/f764b2fd-f553-ec15-c419-3ec7fde5acd8/mza_18065723763115925921.png/160x160bb.jpg",
+        "duree_min": 15,
+        "extrait": "早安！ 你身边的AI资讯网站【AI圈】：aidailynews.com.cn 欢迎添加＋vx：KyroMa（管理员），加入听友群 今天是2026年11月27日，星期五 欢迎查收你的每日AI资讯速递！今日内容如下： ⏰【AI时间线】 2",
+        "description": "Daily AI news incluant les ajustements de quota de ChatGPT, les projets DeepMind et la réécriture d’API par Claude."
+      },
+      {
+        "titre": "在剧变的AI时代，真正重要的是什么？",
+        "source": "AI每周谈",
+        "lien": "https://podcasts.apple.com/cn/podcast/%E5%9C%A8%E5%89%A7%E5%8F%98%E7%9A%84ai%E6%97%B6%E4%BB%A3-%E7%9C%9F%E6%AD%A3%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88/id1856190518?i=1000804084704&uo=4",
+        "date": "2026-11-25T23:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c6/11/ac/c611acfd-fde4-1767-4e20-11e1bc61f024/mza_14076889400822062913.png/160x160bb.jpg",
+        "duree_min": 32,
+        "extrait": "这期聊一聊我观察到的我们听友身上的特质，以及我的一些想法 播客用户也可以在微信搜索【四维逻辑】，关注后回复【听友群】，即可添加小助手，加入听友群 在过去的九月、十月，我跑",
+        "description": "Discussion sur ce qui reste réellement essentiel dans l’ère de transformation rapide de l’IA, à travers des observations sur les auditeurs."
+      },
+      {
+        "titre": "【1126 | AI日报】GPT-6设计蛋白质获实验验证/谷歌推出无障碍AI/隐私AI融资",
+        "source": "AI圈儿",
+        "lien": "https://podcasts.apple.com/cn/podcast/1126-ai%E6%97%A5%E6%8A%A5-gpt-6%E8%AE%BE%E8%AE%A1%E8%9B%8B%E7%99%BD%E8%B4%A8%E8%8E%B7%E5%AE%9E%E9%AA%8C%E9%AA%8C%E8%AF%81-%E8%B0%B7%E6%AD%8C%E6%8E%A8%E5%87%BA%E6%97%A0%E9%9A%9C%E7%A2%8Dai-%E9%9A%90%E7%A7%81ai%E8%9E%8D%E8%B5%84/id1872685556?i=1000804083158&uo=4",
+        "date": "2026-11-25T22:22:29+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f7/64/b2/f764b2fd-f553-ec15-c419-3ec7fde5acd8/mza_18065723763115925921.png/160x160bb.jpg",
+        "duree_min": 15,
+        "extrait": "早安！ 你身边的AI资讯网站【AI圈】：aidailynews.com.cn 欢迎添加＋vx：KyroMa（管理员），加入听友群 今天是2026年11月26日，星期四 欢迎查收你的每日AI资讯速递！今日内容如下： ⏰【AI时间线】 2",
+        "description": "Bulletin quotidien présentant les dernières avancées : GPT‑6 pour la conception de protéines, l’AI d’accessibilité de Google et le financement d’IA axé sur la confidentialité."
+      }
+    ]
+  }
+}

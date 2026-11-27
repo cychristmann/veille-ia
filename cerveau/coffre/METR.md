@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-21-t1.md"
+source_file: "dossiers/2026-11-19-2.md"
 type: "concept"
-community: "Signal"
+community: "Riemann Hypothesis"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Signal
+  - community/Riemann_Hypothesis
 ---
 
 # METR
@@ -14,4 +14,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-21  Anthropic & Riemann]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Signal
+#graphify/concept #graphify/EXTRACTED #community/Riemann_Hypothesis

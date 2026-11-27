@@ -1,27 +1,32 @@
 ---
 type: community
-members: 14
+members: 19
 ---
 
 # SpaceX
 
-**Members:** 14 nodes
+**Members:** 19 nodes
 
 ## Members
-- [[Cegedim EB6 Datacenter]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
-- [[Dürr Dental VistaSoft 4.0]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
-- [[Essai de dépistage du cancer du sein assisté par l'IA (NHS)]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
-- [[Free Traduction Live]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
-- [[Gemini voix d'assistant sur mesure]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
-- [[Genspark SecondBrain VoicePad]] - concept - veilles/veille-ia-dev-2026-11-23-t6.md
-- [[Google Search assistant personnel]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
-- [[OptimPharma]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
-- [[Perplexity Monitor API]] - concept - veilles/veille-ia-dev-2026-11-23-t6.md
-- [[PulseLife assistant IA urgences Lyon]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
-- [[Snowflake agents IA autonomes]] - concept - veilles/veille-ia-fr-2026-11-24-t3.md
-- [[Unreal Engine 6]] - concept - veilles/veille-ia-dev-2026-11-23-t6.md
-- [[Veille France 2026-11-24  Applications et produits IA]] - document - veilles/veille-ia-fr-2026-11-24-t3.md
-- [[Veille Outils & code 2026-11-23]] - document - veilles/veille-ia-dev-2026-11-23-t2.md
+- [[ARTEX]] - concept - veilles/veille-ia-dev-2026-11-22-t5.md
+- [[Autumn-27]] - concept - dossiers/2026-11-21-1.md
+- [[Commission européenne]] - concept - dossiers/2026-11-27-1.md
+- [[Crystal Typhoon]] - concept - dossiers/2026-11-27-1.md
+- [[DeepSeek Flash]] - concept - dossiers/2026-11-16-1.md
+- [[European Commission]] - concept - dossiers/2026-11-21-1.md
+- [[FBI]] - concept - feuilletons/f-0028.md
+- [[Memorilla]] - concept - veilles/veille-ia-dev-2026-11-15-t5.md
+- [[Microsoft Threat Intelligence]] - concept - veilles/veille-ia-fr-2026-11-26-t2.md
+- [[Nmap]] - concept - dossiers/2026-11-16-1.md
+- [[ODNI]] - concept - dossiers/2026-11-27-1.md
+- [[Onyx Sleet]] - concept - dossiers/2026-11-27-1.md
+- [[Pearl Sleet]] - concept - dossiers/2026-11-27-1.md
+- [[Salt Typhoon]] - concept - dossiers/2026-11-27-1.md
+- [[Storm-0940]] - concept - dossiers/2026-11-21-1.md
+- [[Storm-3358]] - concept - dossiers/2026-11-16-1.md
+- [[Sysper]] - concept - dossiers/2026-11-21-1.md
+- [[Veille Outils & code 2026-11-15 (T5)]] - document - veilles/veille-ia-dev-2026-11-15-t5.md
+- [[curl]] - concept - dossiers/2026-11-16-1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -31,9 +36,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
+- 2 edges to [[_COMMUNITY_Veille Outils & code 2026-11-20]]
+- 1 edge to [[_COMMUNITY_Google]]
 - 1 edge to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-15  Autres articles]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-20  Régulation, souveraineté et enjeux géopolitiques]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-27]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-21_1]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-24  Applications et produits IA]] - degree 11, connects to 1 community
-- [[Veille Outils & code 2026-11-23]] - degree 4, connects to 1 community
+- [[ARTEX]] - degree 21, connects to 6 communities
+- [[Veille Outils & code 2026-11-15 (T5)]] - degree 3, connects to 1 community

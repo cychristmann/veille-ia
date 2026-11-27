@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-20-t5.md"
 type: "document"
-community: "Veille Chine 2026-11-20 : Régulation, Sécurité & Société"
+community: "AI Act"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-20__Régulation_Sécurité__Société
+  - community/AI_Act
 ---
 
 # Veille Chine 2026-11-20 : Régulation, Sécurité & Société
@@ -18,4 +18,4 @@ tags:
 - [[Stellar Blade AI Controversy]] - `references` [EXTRACTED]
 - [[WeChat Short Drama Rules]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-20__Régulation_Sécurité__Société
+#graphify/document #graphify/EXTRACTED #community/AI_Act

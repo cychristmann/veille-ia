@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-16-t4.md"
 type: "document"
-community: "LLM 0.37.3"
+community: "Odystoria"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/LLM_0373
+  - community/Odystoria
 ---
 
 # Veille Outils & code 2026-11-16 : Plateformes, marchés et produits IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Kindo]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/LLM_0373
+#graphify/document #graphify/EXTRACTED #community/Odystoria

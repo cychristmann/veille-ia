@@ -1,17 +1,21 @@
 ---
 type: community
-members: 4
+members: 8
 ---
 
 # DeepSeek
 
-**Members:** 4 nodes
+**Members:** 8 nodes
 
 ## Members
-- [[Agents IA]] - concept - veilles/veille-ia-fr-2026-11-18-t2.md
-- [[Commonwealth Bank of Australia]] - concept - veilles/veille-ia-fr-2026-11-18-t2.md
-- [[Cybersécurité]] - concept - veilles/veille-ia-fr-2026-11-18-t3.md
-- [[Veille France 2026-11-18  Régulation, enjeux juridiques et gouvernance]] - document - veilles/veille-ia-fr-2026-11-18-t2.md
+- [[AI Ethics in Education]] - concept - veilles/veille-ia-us-2026-11-15-t1.md
+- [[Choi Kyo-jin]] - concept - dossiers/2026-11-22-2.md
+- [[Feuilleton Scandale de triche à l'IA en Corée du Sud]] - document - feuilletons/f-0040.md
+- [[Han Won-seok]] - concept - dossiers/2026-11-22-2.md
+- [[Lee Jae-myung]] - concept - dossiers/2026-11-22-2.md
+- [[Ministry of Education]] - concept - dossiers/2026-11-22-2.md
+- [[Suneung Exam]] - concept - dossiers/2026-11-22-2.md
+- [[Veille États-Unis 2026-11-15  Scandale de triche à l'IA]] - document - veilles/veille-ia-us-2026-11-15-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,12 +25,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Claude Code_1]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
-- 1 edge to [[_COMMUNITY_Jensen Huang]]
+- 1 edge to [[_COMMUNITY_Claude Code_1]]
 
 ## Top bridge nodes
-- [[Agents IA]] - degree 4, connects to 2 communities
-- [[Veille France 2026-11-18  Régulation, enjeux juridiques et gouvernance]] - degree 3, connects to 2 communities
-- [[Cybersécurité]] - degree 2, connects to 1 community
+- [[Han Won-seok]] - degree 3, connects to 1 community

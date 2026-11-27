@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Trust3 AI
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Graph Neural Networks]] - concept - veilles/veille-ia-dev-2026-11-23-t1.md
+- [[Department of Energy (DOE)]] - concept - veilles/veille-ia-us-2026-11-26-t3.md
+- [[University at Buffalo]] - concept - veilles/veille-ia-us-2026-11-26-t3.md
 
 ## Live Query (requires Dataview plugin)
 

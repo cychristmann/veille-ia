@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-17-t2.md"
 type: "concept"
-community: "Claude Code"
+community: "Libertify"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Claude_Code
+  - community/Libertify
 ---
 
 # ChatGPT Enterprise
@@ -17,4 +17,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Claude_Code
+#graphify/concept #graphify/EXTRACTED #community/Libertify

@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-25-3.md"
 type: "document"
-community: "Graph Neural Networks"
+community: "Trust3 AI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Graph_Neural_Networks
+  - community/Trust3_AI
 ---
 
 # Dossier : Normes IA mondiales
 
-#graphify/document #graphify/EXTRACTED #community/Graph_Neural_Networks
+#graphify/document #graphify/EXTRACTED #community/Trust3_AI

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-22-t4.md"
 type: "concept"
-community: "OpenRouter"
+community: "Veille Outils & code 2026-11-21"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/OpenRouter
+  - community/Veille_Outils__code_2026-11-21
 ---
 
 # Tesla Reality View
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Tesla FSD v15]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/OpenRouter
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-21

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-19-t2.md"
 type: "concept"
-community: "Claude"
+community: "AI Act"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Claude
+  - community/AI_Act
 ---
 
 # South Korean Financial Watchdog
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-19  Régulation et politique]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Claude
+#graphify/concept #graphify/EXTRACTED #community/AI_Act

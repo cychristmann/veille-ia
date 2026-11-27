@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-16-t4.md"
 type: "document"
-community: "Impact sociétal de l'IA"
+community: "MN Holdings"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Impact_sociétal_de_lIA
+  - community/MN_Holdings
 ---
 
 # Veille États-Unis 2026-11-16 : Sécurité, éthique et marché financier
@@ -14,4 +14,4 @@ tags:
 - [[ARTEX AI Hacking Tool]] - `cites` [EXTRACTED]
 - [[FBI AI Threat Reports]] - `cites` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Impact_sociétal_de_lIA
+#graphify/document #graphify/EXTRACTED #community/MN_Holdings

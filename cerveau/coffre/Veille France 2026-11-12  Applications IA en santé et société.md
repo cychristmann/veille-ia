@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-12-t3.md"
 type: "document"
-community: "Veille Chine 2026-11-25 : Recherche et Développement en IA"
+community: "Synapse Medicine"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-25__Recherche_et_Développement_en_IA
+  - community/Synapse_Medicine
 ---
 
 # Veille France 2026-11-12 : Applications IA en santé et société
@@ -14,4 +14,4 @@ tags:
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Synapse Medicine]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-25__Recherche_et_Développement_en_IA
+#graphify/document #graphify/EXTRACTED #community/Synapse_Medicine

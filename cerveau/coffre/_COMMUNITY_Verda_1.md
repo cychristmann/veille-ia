@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[AI Cheating Scandal]] - concept - dossiers/2026-11-22-2.md
+- [[Feuilleton Tencent mobilise la moitié de son personnel pour une poussée IA-native]] - document - feuilletons/f-0014.md
 
 ## Live Query (requires Dataview plugin)
 

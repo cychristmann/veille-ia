@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[La Corée du Sud va durcir les sanctions pour triche aux examens avec des lunettes connectées]] - document - dossiers/2026-11-22-2.md
+- [[CAIRN]] - concept - dossiers/2026-11-26-1.md
 
 ## Live Query (requires Dataview plugin)
 

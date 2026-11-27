@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Claude Haiku 4.5]] - concept - veilles/veille-ia-dev-2026-11-26-t3.md
+- [[World Bank]] - concept - dossiers/2026-11-25-3.md
 
 ## Live Query (requires Dataview plugin)
 

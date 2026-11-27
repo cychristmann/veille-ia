@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[I asked AI if it was OK to use AI to write an obituary]] - document - veilles/veille-ia-us-2026-11-25-t5.md
-- [[Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’]] - document - veilles/veille-ia-us-2026-11-25-t5.md
-- [[Lionsgate Play Casts AI Actor Yug R.Ai]] - document - veilles/veille-ia-us-2026-11-25-t5.md
-- [[Lionsgate Play Sets ‘Eklavya’ As First AI-Led Series]] - document - veilles/veille-ia-us-2026-11-25-t5.md
-- [[Tidal Will Delete 27 Million AI-Generated Tracks]] - document - veilles/veille-ia-us-2026-11-25-t5.md
-- [[Veille États-Unis 2026-11-25  IA dans la culture et les médias]] - document - veilles/veille-ia-us-2026-11-25-t5.md
+- [[Affaire Thélyson Orélien]] - concept - veilles/veille-ia-fr-2026-11-14-t1.md
+- [[EPFL]] - concept - veilles/veille-ia-fr-2026-11-14-t1.md
+- [[Gods Don't Give Gifts (Film)]] - concept - veilles/veille-ia-fr-2026-11-14-t1.md
+- [[Jean-Paul Charpin]] - concept - veilles/veille-ia-fr-2026-11-14-t1.md
+- [[Sarah El Haïry]] - concept - veilles/veille-ia-fr-2026-11-14-t1.md
+- [[Veille France 2026-11-14  Société, éducation et culture]] - document - veilles/veille-ia-fr-2026-11-14-t1.md
 
 ## Live Query (requires Dataview plugin)
 

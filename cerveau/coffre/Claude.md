@@ -29,6 +29,7 @@ tags:
 - [[Levent Alpöge]] - `references` [EXTRACTED]
 - [[MCP Servers]] - `conceptually_related_to` [EXTRACTED]
 - [[Mythos 5.2]] - `references` [EXTRACTED]
+- [[Obsidian]] - `references` [EXTRACTED]
 - [[OpenCode]] - `references` [EXTRACTED]
 - [[Riemann Hypothesis]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Applications concrètes et innovations IA]] - `references` [EXTRACTED]

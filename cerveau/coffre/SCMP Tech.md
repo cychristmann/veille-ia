@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-15-t1.md"
 type: "concept"
-community: "OpenRouter"
+community: "Veille Outils & code 2026-11-21"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/OpenRouter
+  - community/Veille_Outils__code_2026-11-21
 ---
 
 # SCMP Tech
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Sanxingdui Future Past]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/OpenRouter
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-21

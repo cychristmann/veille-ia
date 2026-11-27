@@ -18,6 +18,7 @@ tags:
 - [[Kimi K2.5]] - `references` [EXTRACTED]
 - [[Malicious Claude Code Extension]] - `references` [EXTRACTED]
 - [[Moonshot AI]] - `references` [EXTRACTED]
+- [[Obsidian]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[SpaceX]] - `conceptually_related_to` [INFERRED]
 - [[SpaceX]] - `references` [EXTRACTED]

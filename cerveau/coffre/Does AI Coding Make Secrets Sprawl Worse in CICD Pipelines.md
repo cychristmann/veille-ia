@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-12-t4.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-12 : Sécurité et gouvernance"
+community: "Veille France 2026-11-19 : Autres articles"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-12__Sécurité_et_gouvernance
+  - community/Veille_France_2026-11-19__Autres_articles
 ---
 
 # Does AI Coding Make Secrets Sprawl Worse in CI/CD Pipelines?
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Outils & code 2026-11-12  Sécurité et gouvernance]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12__Sécurité_et_gouvernance
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-19__Autres_articles

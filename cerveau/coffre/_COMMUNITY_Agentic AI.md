@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[CPRIT]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
-- [[Dr. K. Ian White]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
-- [[UT Health San Antonio]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
+- [[Bochuan Data]] - concept - veilles/veille-ia-cn-2026-11-26-t7.md
+- [[Veille Chine 2026-11-26  Autres articles]] - document - veilles/veille-ia-cn-2026-11-26-t7.md
+- [[Xinghaitu]] - concept - veilles/veille-ia-cn-2026-11-26-t7.md
 
 ## Live Query (requires Dataview plugin)
 

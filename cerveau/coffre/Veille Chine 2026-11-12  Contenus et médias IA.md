@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t5.md"
 type: "document"
-community: "Agent Investigations"
+community: "复旦发展研究院"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Agent_Investigations
+  - community/复旦发展研究院
 ---
 
 # Veille Chine 2026-11-12 : Contenus et médias IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Zhao Liying]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Agent_Investigations
+#graphify/document #graphify/EXTRACTED #community/复旦发展研究院

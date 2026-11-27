@@ -1,23 +1,21 @@
 ---
 type: community
-members: 10
+members: 8
 ---
 
 # Qwen4-Max
 
-**Members:** 10 nodes
+**Members:** 8 nodes
 
 ## Members
-- [[AI in production at Microsoft Ignite]] - concept - veilles/veille-ia-dev-2026-11-12-t7.md
-- [[AgentRun]] - concept - veilles/veille-ia-dev-2026-11-12-t1.md
-- [[CopilotKit OpenBot]] - concept - veilles/veille-ia-dev-2026-11-12-t1.md
-- [[RAG Retrieval Lost 40 Points When Distracting Passages Grew to 2.68M]] - concept - veilles/veille-ia-dev-2026-11-12-t7.md
-- [[Relevance Of Software Engineering In Web Apps (Vibe Coding)]] - concept - veilles/veille-ia-dev-2026-11-12-t7.md
-- [[The Reconnection Storm How Naive WebSocket Retry Loops Trigger Thundering Herds]] - concept - veilles/veille-ia-dev-2026-11-12-t7.md
-- [[The Top 10 Best AI Coding Assistants In The World 2026]] - concept - veilles/veille-ia-dev-2026-11-12-t7.md
-- [[Veille Outils & code 2026-11-12]] - document - veilles/veille-ia-dev-2026-11-12-t7.md
-- [[Viirtue MCP]] - concept - veilles/veille-ia-dev-2026-11-12-t7.md
-- [[Zendesk Outcome AI Platform]] - concept - veilles/veille-ia-dev-2026-11-12-t7.md
+- [[Bharat Semi]] - concept - veilles/veille-ia-fr-2026-11-16-t4.md
+- [[Hy4 flash]] - concept - veilles/veille-ia-cn-2026-11-16-t1.md
+- [[IA dans la santé]] - concept - veilles/veille-ia-fr-2026-11-16-t4.md
+- [[MotrixSim1.0]] - concept - veilles/veille-ia-cn-2026-11-16-t1.md
+- [[Qwen4-Max]] - concept - veilles/veille-ia-fr-2026-11-16-t4.md
+- [[Veille Chine 2026-11-16  Modèles et fondations]] - document - veilles/veille-ia-cn-2026-11-16-t1.md
+- [[Veille France 2026-11-16  Santé, recherche médicale et biomédicale]] - document - veilles/veille-ia-fr-2026-11-16-t4.md
+- [[Vercel]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -27,9 +25,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-16]]
+- 1 edge to [[_COMMUNITY_Copilot]]
+- 1 edge to [[_COMMUNITY_Tencent]]
+- 1 edge to [[_COMMUNITY_Claude Code_1]]
+- 1 edge to [[_COMMUNITY_Alibaba]]
+- 1 edge to [[_COMMUNITY_SpaceX]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-12]] - degree 13, connects to 3 communities
+- [[Qwen4-Max]] - degree 5, connects to 2 communities
+- [[Hy4 flash]] - degree 3, connects to 2 communities
+- [[Vercel]] - degree 2, connects to 1 community

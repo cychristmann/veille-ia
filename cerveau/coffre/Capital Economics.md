@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-26-t2.md"
 type: "concept"
-community: "Veille France 2026-11-26"
+community: "Veille France 2026-11-27"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-26
+  - community/Veille_France_2026-11-27
 ---
 
 # Capital Economics
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Danone]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-26
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-27

@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0027.md"
 type: "concept"
-community: "RDMA over USB4"
+community: "Veille Chine 2026-11-12 : Régulation, géopolitique et politique"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/RDMA_over_USB4
+  - community/Veille_Chine_2026-11-12__Régulation_géopolitique_et_politique
 ---
 
 # Ukraine Conflict
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Le Monde Pixels]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/RDMA_over_USB4
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__Régulation_géopolitique_et_politique

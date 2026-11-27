@@ -1,22 +1,23 @@
 ---
 type: community
-members: 9
+members: 10
 ---
 
 # Veille États-Unis 2026-11-16
 
-**Members:** 9 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[Bloomberg.com]] - concept - veilles/veille-ia-us-2026-11-16-t5.md
-- [[CNBC]] - concept - veilles/veille-ia-us-2026-11-16-t5.md
-- [[Gasgoo]] - concept - veilles/veille-ia-us-2026-11-16-t5.md
-- [[IMF]] - concept - veilles/veille-ia-us-2026-11-16-t5.md
-- [[Modern Healthcare]] - concept - veilles/veille-ia-us-2026-11-16-t5.md
-- [[Pony.ai]] - concept - veilles/veille-ia-us-2026-11-18-t6.md
-- [[Technology Org]] - concept - veilles/veille-ia-us-2026-11-16-t5.md
-- [[Toyota]] - concept - veilles/veille-ia-us-2026-11-16-t5.md
-- [[Veille États-Unis 2026-11-16]] - document - veilles/veille-ia-us-2026-11-16-t5.md
+- [[ADA Space]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
+- [[Anshi China]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
+- [[Baidu Maps]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
+- [[GreatWall Robotics]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
+- [[Omdia]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
+- [[RISC-V]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
+- [[Unisound]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
+- [[Veille Chine 2026-11-13]] - document - veilles/veille-ia-cn-2026-11-13-t6.md
+- [[Zhang Qiuming]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
+- [[Zhipu]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,9 +27,14 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-18  Régulation et gouvernance_1]]
+- 2 edges to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-15]]
+- 1 edge to [[_COMMUNITY_Meta]]
+- 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
+- 1 edge to [[_COMMUNITY_Alibaba]]
+- 1 edge to [[_COMMUNITY_Jensen Huang_1]]
 
 ## Top bridge nodes
-- [[Veille États-Unis 2026-11-16]] - degree 6, connects to 1 community
-- [[Pony.ai]] - degree 2, connects to 1 community
+- [[Veille Chine 2026-11-13]] - degree 17, connects to 8 communities

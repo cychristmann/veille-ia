@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0037.md"
 type: "document"
-community: "Veille France 2026-11-19 : Autres articles"
+community: "无界进化 (INFevo)"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-19__Autres_articles
+  - community/无界进化_INFevo
 ---
 
 # Feuilleton f-0037
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[États-Unis]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-19__Autres_articles
+#graphify/document #graphify/EXTRACTED #community/无界进化_INFevo

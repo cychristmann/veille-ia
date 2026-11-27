@@ -8,14 +8,14 @@ members: 8
 **Members:** 8 nodes
 
 ## Members
-- [[Cloudera]] - concept - veilles/veille-ia-fr-2026-11-25-t3.md
-- [[Mistral]] - concept - veilles/veille-ia-fr-2026-11-25-t3.md
-- [[Nokia]] - concept - dossiers/2026-11-19-3.md
-- [[Open Weights Models]] - concept - veilles/veille-ia-fr-2026-11-14-t2.md
-- [[Orange]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
-- [[Orange et Sosh super-apps]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Sosh]] - concept - veilles/veille-ia-fr-2026-11-22-t3.md
-- [[Veille France 2026-11-18  Sécurité et cyber‑menaces IA]] - document - veilles/veille-ia-fr-2026-11-18-t3.md
+- [[Adoption IA en entreprise]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
+- [[Afep-Medef]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
+- [[Chine  78 normes internationales IA]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
+- [[Google-Agent]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
+- [[IA et relation humaine]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
+- [[Impact IA sur l'information locale]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
+- [[Protection des données personnelles avec IA]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
+- [[Veille France 2026-11-25  Société, éthique et éducation]] - document - veilles/veille-ia-fr-2026-11-25-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,18 +23,3 @@ members: 8
 TABLE source_file, type FROM #community/Mistral
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_DeepSeek]]
-- 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Amazon]]
-- 1 edge to [[_COMMUNITY_Jensen Huang]]
-- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen_1]]
-
-## Top bridge nodes
-- [[Veille France 2026-11-18  Sécurité et cyber‑menaces IA]] - degree 3, connects to 2 communities
-- [[Orange]] - degree 4, connects to 1 community
-- [[Orange et Sosh super-apps]] - degree 3, connects to 1 community
-- [[Nokia]] - degree 2, connects to 1 community
-- [[Open Weights Models]] - degree 2, connects to 1 community

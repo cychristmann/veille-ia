@@ -1,21 +1,24 @@
 ---
 type: community
-members: 8
+members: 11
 ---
 
 # Veille France 2026-11-20 : Régulation, souveraineté et enjeux géopolitiques
 
-**Members:** 8 nodes
+**Members:** 11 nodes
 
 ## Members
-- [[Alphabet]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
-- [[Arista Networks]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
-- [[Brian Armstrong]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
-- [[Broadcom]] - concept - veilles/veille-ia-us-2026-11-11-t6.md
-- [[David Tepper]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
-- [[Micron]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
-- [[Veille États-Unis 2026-11-11  Autres articles]] - document - veilles/veille-ia-us-2026-11-11-t6.md
-- [[Veille États-Unis 2026-11-22  Marché, investissements et actions IA]] - document - veilles/veille-ia-us-2026-11-22-t3.md
+- [[AI Agents]] - concept - veilles/veille-ia-dev-2026-11-22-t5.md
+- [[Agent Substrate]] - concept - veilles/veille-ia-dev-2026-11-22-t5.md
+- [[Formal Verification]] - concept - veilles/veille-ia-dev-2026-11-22-t5.md
+- [[Moore Threads]] - concept - dossiers/2026-11-15-1.md
+- [[TensorLean]] - concept - veilles/veille-ia-dev-2026-11-22-t5.md
+- [[Thunderobot (雷神)]] - concept - veilles/veille-ia-cn-2026-11-24-t4.md
+- [[Veille Chine 2026-11-24  Technologie, modèles et infrastructures]] - document - veilles/veille-ia-cn-2026-11-24-t4.md
+- [[Veille Outils & code 2026-11-22 (t5)]] - document - veilles/veille-ia-dev-2026-11-22-t5.md
+- [[Veille États-Unis 2026-11-12  Applications industrielles et commerciales de l'IA]] - document - veilles/veille-ia-us-2026-11-12-t6.md
+- [[Veille États-Unis 2026-11-12  Régulation, politiques et protestations liées à l'IA]] - document - veilles/veille-ia-us-2026-11-12-t2.md
+- [[gVisor]] - concept - veilles/veille-ia-dev-2026-11-22-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,17 +28,15 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
+- 3 edges to [[_COMMUNITY_Veille Outils & code 2026-11-21_1]]
 - 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_AMD_1]]
-- 1 edge to [[_COMMUNITY_Huawei]]
-- 1 edge to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière_1]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-16]]
-- 1 edge to [[_COMMUNITY_Jensen Huang]]
-- 1 edge to [[_COMMUNITY_Meta]]
+- 1 edge to [[_COMMUNITY_SpaceX_1]]
+- 1 edge to [[_COMMUNITY_Dossier  Jouets dotés de chatbots IA]]
+- 1 edge to [[_COMMUNITY_Alibaba]]
 
 ## Top bridge nodes
-- [[Veille États-Unis 2026-11-22  Marché, investissements et actions IA]] - degree 6, connects to 3 communities
-- [[David Tepper]] - degree 6, connects to 2 communities
-- [[Micron]] - degree 3, connects to 2 communities
-- [[Broadcom]] - degree 3, connects to 1 community
+- [[AI Agents]] - degree 8, connects to 2 communities
+- [[Veille Chine 2026-11-24  Technologie, modèles et infrastructures]] - degree 4, connects to 1 community
+- [[Agent Substrate]] - degree 3, connects to 1 community
+- [[gVisor]] - degree 3, connects to 1 community
+- [[TensorLean]] - degree 2, connects to 1 community

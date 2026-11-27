@@ -1,19 +1,21 @@
 ---
 type: community
-members: 6
+members: 8
 ---
 
 # Veille Chine 2026-11-23
 
-**Members:** 6 nodes
+**Members:** 8 nodes
 
 ## Members
-- [[Veille Chine 2026-11-21  Applications sectorielles de l’IA]] - document - veilles/veille-ia-cn-2026-11-21-t3.md
-- [[华为OSTA星芒 O1 Pro]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
-- [[托普云农发布智能（AI）虫情测报灯9.0]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
-- [[物理AI浪潮下，在手订单充足的8家公司]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
-- [[程子芮：AI推动金融科技从数字化到数智化]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
-- [[香港人工智能与生命科学伦理研究院]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[Ant Afu Client]] - concept - veilles/veille-ia-cn-2026-11-23-t4.md
+- [[ChuanYun AI]] - concept - veilles/veille-ia-cn-2026-11-23-t6.md
+- [[Honor 700  Pro Smartphone]] - concept - veilles/veille-ia-cn-2026-11-23-t4.md
+- [[Jianying Hub]] - concept - veilles/veille-ia-cn-2026-11-23-t4.md
+- [[Samsung AI Smart Glasses]] - concept - veilles/veille-ia-cn-2026-11-23-t4.md
+- [[Sunmi Technology]] - concept - veilles/veille-ia-cn-2026-11-23-t6.md
+- [[Veille Chine 2026-11-23]] - document - veilles/veille-ia-cn-2026-11-23-t4.md
+- [[WenDuoduo AI]] - concept - veilles/veille-ia-cn-2026-11-23-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,3 +23,10 @@ members: 6
 TABLE source_file, type FROM #community/Veille_Chine_2026-11-23
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-15]]
+- 1 edge to [[_COMMUNITY_Tencent]]
+
+## Top bridge nodes
+- [[Veille Chine 2026-11-23]] - degree 9, connects to 2 communities

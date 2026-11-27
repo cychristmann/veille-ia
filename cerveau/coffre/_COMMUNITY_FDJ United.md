@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[FDJ United]] - concept - dossiers/2026-11-26-3.md
+- [[Sysdig]] - concept - dossiers/2026-11-21-1.md
 
 ## Live Query (requires Dataview plugin)
 

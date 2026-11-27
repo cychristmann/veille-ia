@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0009.md"
 type: "document"
-community: "Claude Code"
+community: "Libertify"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Claude_Code
+  - community/Libertify
 ---
 
 # Feuilleton: OpenAI visé par une enquête pénale
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Claude_Code
+#graphify/document #graphify/EXTRACTED #community/Libertify

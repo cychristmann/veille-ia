@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t3.md"
 type: "concept"
-community: "SeedRealtime 1.0"
+community: "Veille Chine 2026-11-23"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/SeedRealtime_10
+  - community/Veille_Chine_2026-11-23
 ---
 
 # Volcano Engine
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[SeedRealtime 1.0]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/SeedRealtime_10
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-23

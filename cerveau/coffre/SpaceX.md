@@ -36,6 +36,7 @@ tags:
 - [[Veille France 2026-11-12  Marchés financiers et investissements IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-13]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-26 (T1)]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-27  Finance et économie]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-23  Intégrations, plateformes et écosystèmes IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-20  Marché et finance de l'IA]] - `references` [EXTRACTED]

@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-12-t7.md"
+source_file: "veilles/veille-ia-dev-2026-11-12-t1.md"
 type: "document"
-community: "Qwen4-Max"
+community: "Tencent"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Qwen4-Max
+  - community/Tencent
 ---
 
 # Veille Outils & code 2026-11-12
@@ -25,4 +25,4 @@ tags:
 - [[Viirtue MCP]] - `references` [EXTRACTED]
 - [[Zendesk Outcome AI Platform]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Qwen4-Max
+#graphify/document #graphify/EXTRACTED #community/Tencent

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-17-t5.md"
 type: "concept"
-community: "AgentMon Live"
+community: "Qwen"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AgentMon_Live
+  - community/Qwen
 ---
 
 # APEC
@@ -14,4 +14,4 @@ tags:
 - [[Li Dongsheng]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-19  Régulation & Gouvernance IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AgentMon_Live
+#graphify/concept #graphify/EXTRACTED #community/Qwen

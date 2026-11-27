@@ -8,11 +8,11 @@ members: 5
 **Members:** 5 nodes
 
 ## Members
-- [[IT之家]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
-- [[Veille Chine 2026-11-12  Anthropic et concurrence]] - document - veilles/veille-ia-cn-2026-11-12-t2.md
-- [[中国新闻网]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
-- [[华尔街见闻]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
-- [[证券之星]] - concept - veilles/veille-ia-cn-2026-11-12-t2.md
+- [[Brookings Institution]] - concept - dossiers/2026-11-23-2.md
+- [[Chen Yixin]] - concept - dossiers/2026-11-23-2.md
+- [[Dossier  IA générative  un nouveau vecteur de menaces nucléaires]] - document - dossiers/2026-11-23-2.md
+- [[John Ratcliffe]] - concept - dossiers/2026-11-23-2.md
+- [[Université de Fudan]] - concept - dossiers/2026-11-23-2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,7 +22,8 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
+- 1 edge to [[_COMMUNITY_Libertify]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
 
 ## Top bridge nodes
-- [[Veille Chine 2026-11-12  Anthropic et concurrence]] - degree 5, connects to 1 community
+- [[Dossier  IA générative  un nouveau vecteur de menaces nucléaires]] - degree 6, connects to 2 communities

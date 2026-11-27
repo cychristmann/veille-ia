@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t3.md"
 type: "document"
-community: "SeedRealtime 1.0"
+community: "Veille Chine 2026-11-23"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/SeedRealtime_10
+  - community/Veille_Chine_2026-11-23
 ---
 
 # Veille Chine 2026-11-19 : Applications industrielles
@@ -15,4 +15,4 @@ tags:
 - [[SeedRealtime 1.0]] - `references` [EXTRACTED]
 - [[Yuewen]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/SeedRealtime_10
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-23

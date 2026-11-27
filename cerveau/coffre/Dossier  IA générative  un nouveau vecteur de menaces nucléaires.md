@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-23-2.md"
 type: "document"
-community: "无界进化 (INFevo)"
+community: "GPT-6 Astra"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/无界进化_INFevo
+  - community/GPT-6_Astra
 ---
 
 # Dossier : IA générative : un nouveau vecteur de menaces nucléaires
@@ -18,4 +18,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Université de Fudan]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/无界进化_INFevo
+#graphify/document #graphify/EXTRACTED #community/GPT-6_Astra

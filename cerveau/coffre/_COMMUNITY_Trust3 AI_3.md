@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Trust3 AI
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[French.people.cn]] - document - feuilletons/f-0048.md
+- [[Agentic AI]] - concept - veilles/veille-ia-us-2026-11-23-t5.md
+- [[Veille États-Unis 2026-11-23  Autres articles]] - document - veilles/veille-ia-us-2026-11-23-t5.md
 
 ## Live Query (requires Dataview plugin)
 

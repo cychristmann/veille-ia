@@ -1,9 +1,9 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-13-t5.md"
-type: "code"
+source_file: "veilles/veille-ia-dev-2026-11-27-t2.md"
+type: "concept"
 community: "Claude Code"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
   - community/Claude_Code
 ---
@@ -55,7 +55,10 @@ tags:
 - [[Veille Outils & code 2026-11-24  Sécurité des agents de codage IA]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-26]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-26 (T5)]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-27]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-27 (T4)]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-27 (T5)]] - `references` [EXTRACTED]
 - [[claudesettings.local.json]] - `references` [EXTRACTED]
 - [[n8n]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Claude_Code
+#graphify/concept #graphify/EXTRACTED #community/Claude_Code

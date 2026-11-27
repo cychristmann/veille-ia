@@ -4,30 +4,54 @@
 > modifie pas. Pour noter tes essais, crée ta propre note (elle ne sera jamais effacée)
 > et mets un lien vers l'outil, par exemple `[[Cursor]]` : ta note apparaîtra sur sa fiche.
 
-Mise à jour : 26/11 · 186 outils · 11 nouveaux depuis hier.
+Mise à jour : 27/11 · 204 outils · 23 nouveaux depuis hier.
 
 ## Nouveaux depuis hier
 
 Les mieux notés d'abord.
 
-- **[[OpenAI o1-preview|OpenAI o1-preview]]** · 1 article · vu le 25/11 · meilleure note 8/10
-  - Dernier : [DeepSeek R1 vs OpenAI o1-preview : précision du raisonnement, économie de tokens et coût total de possession en auto‑hébergement](https://dev.to/grfdsasdvef/deepseek-r1-vs-openai-o1-preview-reasoning-accuracy-token-economics-and-self-hosting-tco-52d4) — dev.to, 25/11
-- **[[Laminar|Laminar]]** · 2 articles · vu du 25/11 au 26/11 · meilleure note 7/10
-  - Dernier : [Des chercheurs de ByteDance open‑source Laminar, un cadre d’apprentissage par renforcement asynchrone post‑entraînement](https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/) — MarkTechPost, 26/11
-- **[[Nemotron 3.5|Nemotron 3.5]]** · 1 article · vu le 26/11 · meilleure note 7/10
-  - Dernier : [Extension de Nemotron 3.5 Parse : données ouvertes, affinement et inférence accélérée](https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin) — Hugging Face, 26/11
+- **[[Firefox|Firefox]]** · 1 article · vu le 27/11 · meilleure note 8/10
+  - Dernier : [Mozilla s’associe à Mistral pour intégrer des modèles IA à poids ouvert dans la fenêtre intelligente de Firefox](https://www.infoq.com/news/2026/11/mozilla-mistral-ai-smart-window/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering) — InfoQ, 27/11
+- **[[Mistral Small 4|Mistral Small 4]]** · 1 article · vu le 27/11 · meilleure note 8/10
+  - Dernier : [Mozilla s’associe à Mistral pour intégrer des modèles IA à poids ouvert dans la fenêtre intelligente de Firefox](https://www.infoq.com/news/2026/11/mozilla-mistral-ai-smart-window/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering) — InfoQ, 27/11
+- **[[TensorRT-LLM|TensorRT-LLM]]** · 1 article · vu le 27/11 · meilleure note 8/10
+  - Dernier : [vLLM vs TensorRT-LLM vs SGLang : Débit de service, pagination du KV‑Cache et décodage spéculatif](https://dev.to/grfdsasdvef/vllm-vs-tensorrt-llm-vs-sglang-serving-throughput-kv-cache-paging-speculative-decoding-3d0d) — dev.to, 27/11
+- **[[Aion 1.0|Aion 1.0]]** · 1 article · vu le 27/11 · meilleure note 7/10
+  - Dernier : [Aion 1.0 Instruct de Microsoft : un meilleur modèle de langage embarqué pour Windows](https://www.infoworld.com/article/4251596/microsofts-aion-1-0-instruct-a-better-on-device-language-model-for-windows.html) — InfoWorld, 27/11
+- **[[DFly2|DFly2]]** · 1 article · vu le 27/11 · meilleure note 7/10
+  - Dernier : [Tencent open‑source DFly2 : décodage spéculatif réutilisant le KV‑Cache sparse cible](https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/) — MarkTechPost, 27/11
+- **[[Namazu Small|Namazu Small]]** · 1 article · vu le 27/11 · meilleure note 7/10
+  - Dernier : [Sakana AI publie Namazu Small, un modèle 30 B basé sur Nemotron 3 Nano](https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/) — MarkTechPost, 27/11
+- **[[Nemotron 3 Nano|Nemotron 3 Nano]]** · 1 article · vu le 27/11 · meilleure note 7/10
+  - Dernier : [Sakana AI publie Namazu Small, un modèle 30 B basé sur Nemotron 3 Nano](https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/) — MarkTechPost, 27/11
+- **[[Nemotron 3.5|Nemotron 3.5]]** · 2 articles · vu du 26/11 au 27/11 · meilleure note 7/10
+  - Dernier : [Construire sur Nemotron 3.5 Parse : données ouvertes, fine‑tuning et inférence accélérée](https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin) — Hugging Face, 27/11
+- **[[Phi Silica|Phi Silica]]** · 1 article · vu le 27/11 · meilleure note 7/10
+  - Dernier : [Aion 1.0 Instruct de Microsoft : un meilleur modèle de langage embarqué pour Windows](https://www.infoworld.com/article/4251596/microsofts-aion-1-0-instruct-a-better-on-device-language-model-for-windows.html) — InfoWorld, 27/11
+- **[[Ternary Bonsai 2.5|Ternary Bonsai 2.5]]** · 1 article · vu le 27/11 · meilleure note 7/10
+  - Dernier : [Le modèle d’IA de codage local passe de 60,8 à 75,6 sur SWE‑bench, même taille, selon PrismML](https://www.msn.com/en-us/news/other/local-ai-coding-model-jumps-from-608-to-756-on-swe-bench-verified-at-same-size-prismml-says/ar-AA2ihywX) — Tech Times, 27/11
 - **[[Claude Haiku 4.5|Claude Haiku 4.5]]** · 1 article · vu le 26/11 · meilleure note 6/10
   - Dernier : [Un deuxième juge LLM atteint 87,5 % de précision mais laisse 21 sur 33 cas aux humains](https://towardsdatascience.com/a-second-llm-judge-hit-875-precision-but-left-21-of-33-for-humans/) — Towards Data Science, 26/11
 - **[[Claude Messages API|Claude Messages API]]** · 1 article · vu le 26/11 · meilleure note 6/10
   - Dernier : [Comment l’équipe de Katelyn Lesse a reconstruit l’API de messages Claude d’Anthropic en Rust](https://news.lavx.hu/article/how-katelyn-lesse-s-team-rebuilt-anthropic-s-claude-messages-api-in-rust) — news.lavx.hu, 26/11
+- **[[Cloudflare Search for Agents|Cloudflare Search for Agents]]** · 1 article · vu le 27/11 · meilleure note 6/10
+  - Dernier : [Cloudflare Search for Agents, un moteur de recherche Web dédié aux agents IA](https://www.01net.it/cloudflare-search-for-agents-ricerca-web-agenti-ai/) — 01net, 27/11
 - **[[GPT-6 Luna|GPT-6 Luna]]** · 1 article · vu le 26/11 · meilleure note 6/10
   - Dernier : [Un deuxième juge LLM atteint 87,5 % de précision mais laisse 21 sur 33 cas aux humains](https://towardsdatascience.com/a-second-llm-judge-hit-875-precision-but-left-21-of-33-for-humans/) — Towards Data Science, 26/11
+- **[[PRIME BPM|PRIME BPM]]** · 1 article · vu le 27/11 · meilleure note 6/10
+  - Dernier : [PRIME BPM dévoile les agents IA 2.0 pour accélérer la gestion et la transformation des processus métier](https://www.01net.it/prime-bpm-unveils-ai-agents-2-0-to-accelerate-business-process-management-and-transformation/) — 01net, 27/11
+- **[[VORTIQ-X|VORTIQ-X]]** · 1 article · vu le 27/11 · meilleure note 6/10
+  - Dernier : [VORTIQ‑X dévoile une gouvernance IA à grande échelle pour les institutions](https://itbrief.com.au/story/vortiq-x-unveils-ai-governance-scale-for-institutions) — IT Brief Australia, 27/11
+- **[[Anthropic Siren|Anthropic Siren]]** · 1 article · vu le 27/11 · meilleure note 5/10
+  - Dernier : [Anthropic Siren et les agents IA : quels indicateurs mesurent leurs performances](https://www.neoteo.com/es/anthropic-siren-y-los-agentes-de-ia-que-miden-sus-cifras) — NeoTeo, 27/11
+- **[[Capy|Capy]]** · 1 article · vu le 27/11 · meilleure note 5/10
+  - Dernier : Capy déploie son agent de codage IA sur iPhone via TestFlight — Dealroom, 27/11
 - **[[Claude BugHunter|Claude BugHunter]]** · 1 article · vu le 26/11 · meilleure note 5/10
   - Dernier : Qu’est‑ce que Claude BugHunter et comment l’utiliser pour tester votre propre application — Pasquale Pillitteri, 26/11
+- **[[Dingent|Dingent]]** · 1 article · vu le 27/11 · meilleure note 5/10
+  - Dernier : [Le cadre d’agents IA simplifie les recherches dans les bases de données biologiques](https://www.technologynetworks.com/informatics/news/ai-agent-framework-simplifies-biological-database-searches-418596) — Technology Networks, 27/11
 - **[[ListingGenie AI|ListingGenie AI]]** · 1 article · vu le 26/11 · meilleure note 5/10
   - Dernier : [Nous avons laissé des agents IA gérer une société SaaS IA. Voici le résultat.](https://dev.to/builditomi/we-let-ai-agents-run-an-ai-saas-company-heres-what-happened-4dph) — dev.to, 26/11
-- **[[Isaac Lab|Isaac Lab]]** · 1 article · vu le 25/11 · meilleure note 4/10
-  - Dernier : [Microduck Obstacle Avoidance : un workflow Sim2Real avec Isaac Lab et Newton](https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance) — Hugging Face, 25/11
 - **[[Opus 5.6|Opus 5.6]]** · 2 articles · vu le 26/11 · meilleure note 4/10
   - Dernier : Anthropic teste Opus 5.6 à l’intérieur du code Claude — Demokratis.co.id, 26/11
 - **[[Superframes|Superframes]]** · 1 article · vu le 26/11 · meilleure note 4/10
@@ -37,28 +61,26 @@ Les mieux notés d'abord.
 
 Du plus cité au moins cité.
 
-- **[[Claude|Claude]]** · 175 articles · vu du 12/11 au 26/11 · meilleure note 8/10
-  - Dernier : [Les serveurs MCP peuvent désormais fournir des compétences d’agents IA, modifiant les critères d’approbation des entreprises](https://venturebeat.com/technology/mcp-servers-can-now-deliver-ai-agent-skills-changing-what-companies-approve-when-they-connect-one) — VentureBeat, 26/11
-- **[[Claude Code|Claude Code]]** · 108 articles · vu du 12/11 au 26/11 · meilleure note 8/10
-  - Dernier : [Les serveurs MCP peuvent désormais fournir des compétences d’agents IA, modifiant les critères d’approbation des entreprises](https://venturebeat.com/technology/mcp-servers-can-now-deliver-ai-agent-skills-changing-what-companies-approve-when-they-connect-one) — VentureBeat, 26/11
-- **[[GitHub|GitHub]]** · 53 articles · vu du 12/11 au 26/11 · meilleure note 8/10
-  - Dernier : [Vercel lance Board expérimental pour coordonner tâches entre humains et agents de codage](https://www.infoq.com/news/2026/11/vercel-board-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering) — InfoQ, 26/11
-- **[[Gemini|Gemini]]** · 43 articles · vu du 12/11 au 26/11 · meilleure note 9/10
-  - Dernier : [Gemini Robotics 2.5 de DeepMind vise à rendre les robots plus sûrs, plus habiles et plus rapides à apprendre](https://www.infoq.com/news/2026/11/deepmind-gemini-robotics-2-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering) — InfoQ, 26/11
-- **[[Codex|Codex]]** · 32 articles · vu du 12/11 au 26/11 · meilleure note 8/10
-  - Dernier : [Hub](https://www.producthunt.com/products/hub-20) — Product Hunt, 26/11
-- **[[Copilot|Copilot]]** · 31 articles · vu du 12/11 au 26/11 · meilleure note 9/10
-  - Dernier : [Récapitulatif de Microsoft Ignite 2026 : Copilot comme OS de travail et gouvernance des agents](https://www.infoq.com/news/2026/11/microsoft-ignite-2026-recap/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering) — InfoQ, 26/11
-- **[[Cursor|Cursor]]** · 25 articles · vu du 12/11 au 23/11 · meilleure note 7/10
-  - Dernier : Cursor vs Copilot : chevauchement – 12 étapes, 70 minutes — shattered.io, 23/11
+- **[[Claude|Claude]]** · 186 articles · vu du 12/11 au 27/11 · meilleure note 8/10
+  - Dernier : [Tests révélant quels modèles IA économiques égalent Claude Code sur cinq tâches](https://www.geeky-gadgets.com/claude-code-free-alternatives/) — Geeky Gadgets, 27/11
+- **[[Claude Code|Claude Code]]** · 115 articles · vu du 12/11 au 27/11 · meilleure note 8/10
+  - Dernier : [Tests révélant quels modèles IA économiques égalent Claude Code sur cinq tâches](https://www.geeky-gadgets.com/claude-code-free-alternatives/) — Geeky Gadgets, 27/11
+- **[[Gemini|Gemini]]** · 44 articles · vu du 12/11 au 27/11 · meilleure note 9/10
+  - Dernier : [Gemini Robotics 2.5 de DeepMind vise à rendre les robots plus sûrs, plus agiles et plus rapides à apprendre](https://www.infoq.com/news/2026/11/deepmind-gemini-robotics-2-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering) — InfoQ, 27/11
+- **[[Codex|Codex]]** · 35 articles · vu du 12/11 au 27/11 · meilleure note 8/10
+  - Dernier : Mise à jour d’OpenAI Codex App v26.1120 et du CLI v0.172.0 publiée — PaidFreeDroid, 27/11
+- **[[Copilot|Copilot]]** · 32 articles · vu du 12/11 au 27/11 · meilleure note 9/10
+  - Dernier : [Récapitulatif de Microsoft Ignite 2026 : Copilot comme OS de travail et gouvernance des agents](https://www.infoq.com/news/2026/11/microsoft-ignite-2026-recap/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering) — InfoQ, 27/11
+- **[[Cursor|Cursor]]** · 26 articles · vu du 12/11 au 27/11 · meilleure note 7/10
+  - Dernier : [Obsidian ouvre la gestion des connaissances aux agents IA avec des connecteurs open source](https://www.01net.it/obsidian-connettori-agenti-ai-agent-skills/) — 01net, 27/11
 - **[[Amazon Bedrock|Amazon Bedrock]]** · 23 articles · vu du 12/11 au 25/11 · meilleure note 8/10
   - Dernier : [Présentation de l’API Amazon Bedrock Trusted Access, avec garde‑fous Frontier Enterprise et contrôles de données d’entreprise pour les modèles Claude](https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/) — AWS Machine Learning, 25/11
-- **[[Vibe Coding|Vibe Coding]]** · 16 articles · vu du 12/11 au 26/11 · meilleure note 7/10
-  - Dernier : Vibe coding passe en production : audit du code généré par IA avant qu’il ne devienne une dette technique — London Daily News, 26/11
+- **[[Vibe Coding|Vibe Coding]]** · 17 articles · vu du 12/11 au 27/11 · meilleure note 7/10
+  - Dernier : Le personnage clé derrière Claude Code s’exprime sur l’avenir du Vibe Coding — 36Kr, 27/11
+- **[[Qwen|Qwen]]** · 14 articles · vu du 15/11 au 27/11 · meilleure note 8/10
+  - Dernier : [Le modèle d’IA de codage local passe de 60,8 à 75,6 sur SWE‑bench, même taille, selon PrismML](https://www.msn.com/en-us/news/other/local-ai-coding-model-jumps-from-608-to-756-on-swe-bench-verified-at-same-size-prismml-says/ar-AA2ihywX) — Tech Times, 27/11
 - **[[Gemini 4 Hydrogen|Gemini 4 Hydrogen]]** · 13 articles · vu du 12/11 au 17/11 · meilleure note 8/10
   - Dernier : [Gemini 4 Hydrogen de Google transforme le choix du modèle en décision de routage](https://devops.com/googles-gemini-4-hydrogen-turns-model-choice-into-a-routing-decision) — DevOps.com, 17/11
-- **[[Qwen|Qwen]]** · 13 articles · vu du 15/11 au 26/11 · meilleure note 8/10
-  - Dernier : [Des chercheurs de ByteDance open‑source Laminar, un cadre d’apprentissage par renforcement asynchrone post‑entraînement](https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/) — MarkTechPost, 26/11
 - **[[Amazon Bedrock AgentCore|Amazon Bedrock AgentCore]]** · 11 articles · vu du 12/11 au 20/11 · meilleure note 8/10
   - Dernier : [Permettre aux agents IA de payer les produits AWS Marketplace x402 via les paiements AgentCore d’Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/) — AWS Machine Learning, 20/11
 - **[[Linux|Linux]]** · 11 articles · vu du 12/11 au 26/11 · meilleure note 8/10
@@ -67,38 +89,46 @@ Du plus cité au moins cité.
   - Dernier : [Introduction des extensions de cluster gérées pour l'observabilité et la gestion des utilisateurs dans Amazon SageMaker HyperPod Slurm](https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/) — AWS Machine Learning, 22/11
 - **[[datasette|datasette]]** · 9 articles · vu du 15/11 au 26/11 · meilleure note 5/10
   - Dernier : [datasette-charts 0.3a0](https://simonwillison.net/2026/Nov/25/datasette-charts/) — Simon Willison, 26/11
+- **[[Rust|Rust]]** · 9 articles · vu du 19/11 au 27/11 · meilleure note 7/10
+  - Dernier : [Anthropic affirme avoir migré son API Claude de Python vers Rust sans interruption](https://www.infoworld.com/article/4253460/anthropic-says-it-moved-its-claude-api-from-python-to-rust-with-no-downtime.html) — InfoWorld, 27/11
 - **[[Agent Skills|Agent Skills]]** · 8 articles · vu du 12/11 au 26/11 · meilleure note 8/10
   - Dernier : [Les serveurs MCP peuvent désormais fournir des compétences d’agents IA, modifiant les critères d’approbation des entreprises](https://venturebeat.com/technology/mcp-servers-can-now-deliver-ai-agent-skills-changing-what-companies-approve-when-they-connect-one) — VentureBeat, 26/11
+- **[[Azure|Azure]]** · 8 articles · vu du 12/11 au 27/11 · meilleure note 9/10
+  - Dernier : [Récapitulatif de Microsoft Ignite 2026 : Copilot comme OS de travail et gouvernance des agents](https://www.infoq.com/news/2026/11/microsoft-ignite-2026-recap/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering) — InfoQ, 27/11
 - **[[Claude Fable|Claude Fable]]** · 8 articles · vu du 15/11 au 23/11 · meilleure note 6/10
   - Dernier : [GPT‑6.2 Astra vs Claude Fable 5.2 : le lancement d’Astra a reçu des avis partagés, mais ses performances sont bonnes ici](https://thenewstack.io/gpt-6-2-astra-vs-claude-fable-5-2/) — The New Stack, 23/11
 - **[[Fireworks|Fireworks]]** · 8 articles · vu du 15/11 au 20/11 · meilleure note 7/10
   - Dernier : [Pas « si », mais « comment » : répondre aux incidents de sécurité à l’ère des attaquants IA](https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/) — MarkTechPost, 20/11
-- **[[Rust|Rust]]** · 8 articles · vu du 19/11 au 26/11 · meilleure note 7/10
-  - Dernier : [Comment l’équipe de Katelyn Lesse a reconstruit l’API de messages Claude d’Anthropic en Rust](https://news.lavx.hu/article/how-katelyn-lesse-s-team-rebuilt-anthropic-s-claude-messages-api-in-rust) — news.lavx.hu, 26/11
 - **[[AWS Emulator|AWS Emulator]]** · 7 articles · vu du 12/11 au 21/11 · meilleure note 8/10
   - Dernier : [AWS propose un émulateur local gratuit d’AWS entièrement créé par des agents](https://www.infoq.com/news/2026/11/aws-emulator-local-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering) — InfoQ, 21/11
+- **[[DeepSeek|DeepSeek]]** · 6 articles · vu du 13/11 au 27/11 · meilleure note 8/10
+  - Dernier : [Tests révélant quels modèles IA économiques égalent Claude Code sur cinq tâches](https://www.geeky-gadgets.com/claude-code-free-alternatives/) — Geeky Gadgets, 27/11
 - **[[SWARM|SWARM]]** · 6 articles · vu du 12/11 au 18/11 · meilleure note 7/10
   - Dernier : [SID AI lance le modèle de recherche agentique SID-2 avec un NDCG de 0,720 en mode essaim](https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/) — MarkTechPost, 18/11
-- **[[DeepSeek|DeepSeek]]** · 5 articles · vu du 13/11 au 25/11 · meilleure note 8/10
-  - Dernier : [DeepSeek R1 vs OpenAI o1-preview : précision du raisonnement, économie de tokens et coût total de possession en auto‑hébergement](https://dev.to/grfdsasdvef/deepseek-r1-vs-openai-o1-preview-reasoning-accuracy-token-economics-and-self-hosting-tco-52d4) — dev.to, 25/11
 - **[[Malicious Claude Code Extension|Malicious Claude Code Extension]]** · 5 articles · vu du 15/11 au 18/11 · meilleure note 7/10
   - Dernier : [Cursor trace une extension Claude Code malveillante à une faille tierce](https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach) — Dark Reading, 18/11
+- **[[OpenCode|OpenCode]]** · 5 articles · vu du 19/11 au 27/11 · meilleure note 6/10
+  - Dernier : [Tests révélant quels modèles IA économiques égalent Claude Code sur cinq tâches](https://www.geeky-gadgets.com/claude-code-free-alternatives/) — Geeky Gadgets, 27/11
 - **[[Vercel|Vercel]]** · 5 articles · vu du 14/11 au 26/11 · meilleure note 7/10
   - Dernier : [Vercel lance Board expérimental pour coordonner tâches entre humains et agents de codage](https://www.infoq.com/news/2026/11/vercel-board-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering) — InfoQ, 26/11
+- **[[Claude API|Claude API]]** · 4 articles · vu du 12/11 au 27/11 · meilleure note 7/10
+  - Dernier : [Anthropic affirme avoir migré son API Claude de Python vers Rust sans interruption](https://www.infoworld.com/article/4253460/anthropic-says-it-moved-its-claude-api-from-python-to-rust-with-no-downtime.html) — InfoWorld, 27/11
 - **[[Gemma 4|Gemma 4]]** · 4 articles · vu du 14/11 au 24/11 · meilleure note 7/10
   - Dernier : [AWS Strands Decider v2, cinq modèles ouverts pour les décisions des agents IA](https://www.01net.it/aws-strands-decider-v2-modelli-decisionali-agenti-ai/) — 01net, 24/11
 - **[[Inkling 2 Mini|Inkling 2 Mini]]** · 4 articles · vu du 21/11 au 26/11 · meilleure note 6/10
   - Dernier : [Hill‑climbing Inkling 2 : inférence mini sur un RTX PRO 6000](https://huggingface.co/blog/inkling-2-mini-inference-hillclimb) — Hugging Face, 26/11
-- **[[OpenCode|OpenCode]]** · 4 articles · vu du 19/11 au 23/11 · meilleure note 6/10
-  - Dernier : [Utiliser Claude Code gratuitement ? Test de Freebuff, qui promet un codage IA quasi illimité](https://www.notebookcheck.net/Use-Claude-Code-for-free-I-test-Freebuff-which-promises-virtually-unlimited-AI-coding.1455441.0.html) — Notebookcheck, 23/11
+- **[[SGLang|SGLang]]** · 4 articles · vu du 12/11 au 27/11 · meilleure note 8/10
+  - Dernier : [vLLM vs TensorRT-LLM vs SGLang : Débit de service, pagination du KV‑Cache et décodage spéculatif](https://dev.to/grfdsasdvef/vllm-vs-tensorrt-llm-vs-sglang-serving-throughput-kv-cache-paging-speculative-decoding-3d0d) — dev.to, 27/11
 - **[[ARTEX|ARTEX]]** · 3 articles · vu du 15/11 au 22/11 · meilleure note 8/10
   - Dernier : [ARTEX, l'IA de piratage open source qui a glacé la Commission européenne](https://korben.info/artex-lia-de-piratage-open-source-qui-a-fige-la-commission-europeenne.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal) — Korben, 22/11
 - **[[AWS Lambda|AWS Lambda]]** · 3 articles · vu du 22/11 au 25/11 · meilleure note 8/10
   - Dernier : [Noah Lindner teste l’inférence Qwen sur 5 600 fonctions AWS Lambda](https://news.lavx.hu/article/noah-lindner-tests-qwen-inference-across-5-600-aws-lambdas) — news.lavx.hu, 25/11
-- **[[Claude API|Claude API]]** · 3 articles · vu du 12/11 au 26/11 · meilleure note 7/10
-  - Dernier : [Anthropic affirme avoir migré son API Claude de Python vers Rust sans interruption](https://www.infoworld.com/article/4253460/anthropic-says-it-moved-its-claude-api-from-python-to-rust-with-no-downtime.html) — InfoWorld, 26/11
+- **[[CircleCI|CircleCI]]** · 3 articles · vu du 24/11 au 27/11 · meilleure note 7/10
+  - Dernier : [Pourquoi les agents de codage IA ont besoin de tests plus intelligents](https://devops.com/why-ai-coding-agents-need-smarter-testing) — DevOps.com, 27/11
 - **[[Claude Meetings|Claude Meetings]]** · 3 articles · vu du 12/11 au 16/11 · meilleure note 7/10
   - Dernier : [Anthropic lance Claude Meetings pour les appels vidéo en direct](https://itbrief.com.au/story/anthropic-launches-claude-meetings-for-live-video-calls) — IT Brief Australia, 16/11
+- **[[Cognition|Cognition]]** · 3 articles · vu du 20/11 au 27/11 · meilleure note 5/10
+  - Dernier : [Les nouveaux ingénieurs de Cognition ne téléchargent plus de code : ils construisent tout via Devin](https://thenewstack.io/cognition-devin-automated-engineering/) — The New Stack, 27/11
 - **[[Eclipse|Eclipse]]** · 3 articles · vu du 19/11 au 21/11 · meilleure note 8/10
   - Dernier : [Les agents de codage IA ont besoin d’un environnement sûr ; Eclipse construit le bac à sable qui leur est destiné](https://www.infoworld.com/article/4251051/ai-coding-agents-need-a-safe-place-to-work-eclipse-is-building-the-sandbox-to-give-it-to-them.html) — InfoWorld, 21/11
 - **[[Foundry IQ|Foundry IQ]]** · 3 articles · vu du 19/11 au 21/11 · meilleure note 6/10
@@ -123,6 +153,8 @@ Du plus cité au moins cité.
   - Dernier : [Les serveurs MCP peuvent désormais fournir des compétences d’agents IA, modifiant les critères d’approbation des entreprises](https://venturebeat.com/technology/mcp-servers-can-now-deliver-ai-agent-skills-changing-what-companies-approve-when-they-connect-one) — VentureBeat, 26/11
 - **[[Nota|Nota]]** · 3 articles · vu le 16/11 · meilleure note 5/10
   - Dernier : Nota de Corée du Sud cible les réseaux air‑gapped des banques avec un outil de codage IA, augmentant le débit GPU jusqu’à 95 % — BigGo Finance, 16/11
+- **[[vLLM|vLLM]]** · 3 articles · vu du 12/11 au 27/11 · meilleure note 8/10
+  - Dernier : [vLLM vs TensorRT-LLM vs SGLang : Débit de service, pagination du KV‑Cache et décodage spéculatif](https://dev.to/grfdsasdvef/vllm-vs-tensorrt-llm-vs-sglang-serving-throughput-kv-cache-paging-speculative-decoding-3d0d) — dev.to, 27/11
 - **[[VS Code|VS Code]]** · 3 articles · vu du 12/11 au 17/11 · meilleure note 5/10
   - Dernier : [Versions hebdomadaires de GitHub Copilot — 9 novembre](https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9) — GitHub Changelog, 17/11
 - **[[Adyen|Adyen]]** · 2 articles · vu du 22/11 au 23/11 · meilleure note 4/10
@@ -147,10 +179,10 @@ Du plus cité au moins cité.
   - Dernier : [Baseten lance Bison-1 et Groundhog-1, en tête de l'indice des modèles de décision](https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/) — MarkTechPost, 22/11
 - **[[CAM Software|CAM Software]]** · 2 articles · vu du 24/11 au 26/11 · meilleure note 5/10
   - Dernier : Un ingénieur utilise Claude Code pour détecter ce que le logiciel CAM a manqué — AIM Media House, 26/11
-- **[[CircleCI|CircleCI]]** · 2 articles · vu du 24/11 au 26/11 · meilleure note 7/10
-  - Dernier : [Pourquoi les agents de codage IA ont besoin de tests plus intelligents](https://devops.com/why-ai-coding-agents-need-smarter-testing) — DevOps.com, 26/11
 - **[[Claude Approvals|Claude Approvals]]** · 2 articles · vu du 24/11 au 25/11 · meilleure note 7/10
   - Dernier : [Anthropic lance Claude Ship pour la revue et la correction des pull‑requests GitHub](https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/) — MarkTechPost, 25/11
+- **[[Clay|Clay]]** · 2 articles · vu du 25/11 au 27/11 · meilleure note 5/10
+  - Dernier : [Comment Clay crée des agents GTM — Jeff Barg, Responsable IA](https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/) — Latent Space, 27/11
 - **[[Codenotary|Codenotary]]** · 2 articles · vu le 24/11 · meilleure note 4/10
   - Dernier : Codenotary étend AgentMon Live à Codex et Kiro — Wisevoter, 24/11
 - **[[Coding Agent Security for AppSec Leaders|Coding Agent Security for AppSec Leaders]]** · 2 articles · vu du 12/11 au 13/11 · meilleure note 7/10
@@ -173,12 +205,12 @@ Du plus cité au moins cité.
   - Dernier : [Meta FAIR Self‑Improving Memory atteint 56,0 sur le benchmark d’apprentissage continu](https://www.marktechpost.com/2026/11/19/meta-fair-self-improving-memory-harness-distillation/) — MarkTechPost, 21/11
 - **[[Kong|Kong]]** · 2 articles · vu du 19/11 au 20/11 · meilleure note 6/10
   - Dernier : [Les 13 meilleurs passerelles d’agents en 2026 pour MCP, A2A et le trafic LLM : Kong, Bifrost, AgentCore, Arcade](https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/) — MarkTechPost, 20/11
+- **[[Laminar|Laminar]]** · 2 articles · vu du 25/11 au 26/11 · meilleure note 7/10
+  - Dernier : [Des chercheurs de ByteDance open‑source Laminar, un cadre d’apprentissage par renforcement asynchrone post‑entraînement](https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/) — MarkTechPost, 26/11
 - **[[llm-gemini|llm-gemini]]** · 2 articles · vu du 13/11 au 19/11 · meilleure note 4/10
   - Dernier : [llm-gemini 0.38](https://simonwillison.net/2026/Nov/18/llm-gemini/) — Simon Willison, 19/11
 - **[[LLMON|LLMON]]** · 2 articles · vu du 12/11 au 13/11 · meilleure note 7/10
   - Dernier : [LLMON : un langage de balisage natif LLM, désormais disponible dans Granite 4.1 3B et 8B](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite) — Hugging Face, 13/11
-- **[[Microsoft Agent Framework|Microsoft Agent Framework]]** · 2 articles · vu le 20/11 · meilleure note 4/10
-  - Dernier : [Wiz relie la compromission du package Microsoft Agent Framework à la certification du pipeline de diffusion](https://siliconangle.com/2026/11/19/wiz-ties-microsoft-agent-framework-package-compromise-to-release-pipeline-certificate/) — SiliconANGLE, 20/11
 - **[[Model Context Protocol (MCP)|Model Context Protocol (MCP)]]** · 2 articles · vu du 21/11 au 26/11 · meilleure note 8/10
   - Dernier : [Genetec publie le connecteur Model Context Protocol pour Security Center](https://www.msspalert.com/brief/genetec-releases-model-context-protocol-connector-for-security-center) — MSSP Alert, 26/11
 - **[[NVIDIA NeMo Switchyard|NVIDIA NeMo Switchyard]]** · 2 articles · vu du 14/11 au 15/11 · meilleure note 8/10
@@ -289,6 +321,8 @@ Du plus cité au moins cité.
   - Dernier : xAI mise en avant des outils de codage IA et de son produit d’agent Grok Bot — Crypto Briefing, 14/11
 - **[[GTM.AI API|GTM.AI API]]** · 1 article · vu le 21/11 · meilleure note 4/10
   - Dernier : [Qualified améliore son intégration ZoomInfo via l’API GTM.AI, apportant des données d’entreprise et de contacts vérifiées à Piper](https://www.01net.it/qualified-upgrades-its-zoominfo-integration-to-the-gtm-ai-api-bringing-verified-company-and-contact-data-to-piper/) — 01net, 21/11
+- **[[Isaac Lab|Isaac Lab]]** · 1 article · vu le 25/11 · meilleure note 4/10
+  - Dernier : [Microduck Obstacle Avoidance : un workflow Sim2Real avec Isaac Lab et Newton](https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance) — Hugging Face, 25/11
 - **[[Kiji Inspector|Kiji Inspector]]** · 1 article · vu le 12/11 · meilleure note 6/10
   - Dernier : [Présentation : Ouvrir la boîte noire – l'explicabilité cruciale pour le choix d’outils d’agents IA avec Kiji Inspector](https://www.infoq.com/presentations/explainable-ai-llm-agent-decisions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering) — InfoQ, 12/11
 - **[[Kimi Code|Kimi Code]]** · 1 article · vu le 20/11 · meilleure note 6/10
@@ -319,6 +353,8 @@ Du plus cité au moins cité.
   - Dernier : [Comment vérifier la sortie d’un LLM local avec Ollama, Gemma 4 et Nimble](https://towardsdatascience.com/how-to-check-local-llm-output-with-ollama-gemma-4-and-nimble/) — Towards Data Science, 14/11
 - **[[Octopus Deploy|Octopus Deploy]]** · 1 article · vu le 18/11 · meilleure note 6/10
   - Dernier : [Octopus Deploy relance les indicateurs d’ingénierie alors que l’IA transforme la livraison logicielle](https://news.lavx.hu/article/octopus-deploy-reboots-engineering-vitals-as-ai-reshapes-software-delivery) — news.lavx.hu, 18/11
+- **[[OpenAI o1-preview|OpenAI o1-preview]]** · 1 article · vu le 25/11 · meilleure note 8/10
+  - Dernier : [DeepSeek R1 vs OpenAI o1-preview : précision du raisonnement, économie de tokens et coût total de possession en auto‑hébergement](https://dev.to/grfdsasdvef/deepseek-r1-vs-openai-o1-preview-reasoning-accuracy-token-economics-and-self-hosting-tco-52d4) — dev.to, 25/11
 - **[[OpenComputer|OpenComputer]]** · 1 article · vu le 21/11 · meilleure note 5/10
   - Dernier : [Show HN : OpenComputer – une alternative open source à Devin](https://github.com/diggerhq/opencomputer) — Hacker News, 21/11
 - **[[OpenSearch|OpenSearch]]** · 1 article · vu le 17/11 · meilleure note 7/10

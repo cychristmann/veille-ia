@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Academic Misconduct]] - concept - veilles/veille-ia-cn-2026-11-19-t4.md
-- [[Central South University]] - concept - veilles/veille-ia-cn-2026-11-19-t4.md
-- [[Veille Chine 2026-11-19  Recherche et Éthique]] - document - veilles/veille-ia-cn-2026-11-19-t4.md
+- [[Cipher]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
+- [[IREN]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
+- [[TeraWulf]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-20-2.md"
 type: "concept"
-community: "Robin Li"
+community: "Allspring Global Investments"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Robin_Li
+  - community/Allspring_Global_Investments
 ---
 
 # Allspring Global Investments
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Gary Tan]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Robin_Li
+#graphify/concept #graphify/EXTRACTED #community/Allspring_Global_Investments

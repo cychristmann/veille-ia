@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-15-t7.md"
 type: "document"
-community: "Suno"
+community: "Veille Chine 2026-11-17 : Marché, financement et régulation"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Suno
+  - community/Veille_Chine_2026-11-17__Marché_financement_et_régulation
 ---
 
 # Veille Chine 2026-11-15 : Autres articles
@@ -16,4 +16,4 @@ tags:
 - [[Suno]] - `references` [EXTRACTED]
 - [[Xiaopeng G9]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Suno
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-17__Marché_financement_et_régulation

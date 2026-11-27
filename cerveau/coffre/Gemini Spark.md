@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-23-t2.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-11 : Éducation et formation à l'IA"
+community: "Muru"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA
+  - community/Muru
 ---
 
 # Gemini Spark
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA
+#graphify/concept #graphify/EXTRACTED #community/Muru

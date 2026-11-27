@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-21-t1.md"
 type: "document"
-community: "Mistral AI"
+community: "ChatGPT Wallet"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Mistral_AI
+  - community/ChatGPT_Wallet
 ---
 
 # Veille France 2026-11-21 : Politique & gouvernance
@@ -15,4 +15,4 @@ tags:
 - [[Dinan (Municipality)]] - `references` [EXTRACTED]
 - [[Mistral AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Mistral_AI
+#graphify/document #graphify/EXTRACTED #community/ChatGPT_Wallet

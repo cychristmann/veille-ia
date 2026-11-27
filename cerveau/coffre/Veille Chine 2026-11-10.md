@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "document"
-community: "Riemann Hypothesis"
+community: "Claude Code"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Riemann_Hypothesis
+  - community/Claude_Code
 ---
 
 # Veille Chine 2026-11-10
@@ -16,4 +16,4 @@ tags:
 - [[Microsoft]] - `references` [EXTRACTED]
 - [[Siemens]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Riemann_Hypothesis
+#graphify/document #graphify/EXTRACTED #community/Claude_Code

@@ -1,31 +1,24 @@
 ---
 type: community
-members: 18
+members: 11
 ---
 
 # Veille France 2026-11-17
 
-**Members:** 18 nodes
+**Members:** 11 nodes
 
 ## Members
-- [[Amazon AI Trap for Hackers]] - concept - veilles/veille-ia-fr-2026-11-17-t4.md
-- [[Amazon Alexa (Shopping)]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
-- [[Apple Connected Glasses]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
-- [[Apple Mac AI Agents]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
-- [[Boltz]] - concept - veilles/veille-ia-fr-2026-11-22-t7.md
-- [[Box]] - concept - veilles/veille-ia-fr-2026-11-17-t1.md
-- [[Cyberattaque Crédit Mutuel Arkéa]] - concept - veilles/veille-ia-fr-2026-11-17-t4.md
-- [[Cécile Pierrot]] - concept - veilles/veille-ia-fr-2026-11-17-t4.md
-- [[DORA 2025 Report]] - concept - veilles/veille-ia-fr-2026-11-17-t4.md
-- [[Google Maps (Gemini integration)]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
-- [[Google Project Zero]] - concept - veilles/veille-ia-fr-2026-11-17-t4.md
-- [[Instinct (AI Agent)]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
-- [[Monsieur Cuisine Connect]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
-- [[Mubadala]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
-- [[OpenRouter]] - concept - veilles/veille-ia-fr-2026-11-17-t4.md
-- [[Samsung One UI 9.5]] - concept - veilles/veille-ia-fr-2026-11-17-t3.md
-- [[Veille France 2026-11-17]] - document - veilles/veille-ia-fr-2026-11-17-t1.md
-- [[Veille France 2026-11-22]] - document - veilles/veille-ia-fr-2026-11-22-t7.md
+- [[800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了]] - document - veilles/veille-ia-cn-2026-11-18-t7.md
+- [[AI芯片被偷、600万元赃款被洗白……企业绝望时，浦东这支团队力挽狂澜]] - document - veilles/veille-ia-cn-2026-11-18-t7.md
+- [[Can RayNeo’s smart glasses become a habit]] - document - veilles/veille-ia-cn-2026-11-18-t7.md
+- [[SMM：算力小金属钽与钨 供给收缩与AI半导体需求爆发下的供需重构]] - document - veilles/veille-ia-cn-2026-11-18-t7.md
+- [[Veille Chine 2026-11-18  Autres articles]] - document - veilles/veille-ia-cn-2026-11-18-t7.md
+- [[中国报道：AI浪潮之下，APEC拓展亚太合作新边界]] - document - veilles/veille-ia-cn-2026-11-18-t7.md
+- [[人工智能科技公共服务平台发布]] - document - veilles/veille-ia-cn-2026-11-18-t7.md
+- [[北京语言大学第二届“人工智能+教育”应用创新大赛赛前实训营举办]] - document - veilles/veille-ia-cn-2026-11-18-t7.md
+- [[花旗调查：香港每13人有一名千万富翁 62%准亿万富翁每天使用AI]] - document - veilles/veille-ia-cn-2026-11-18-t7.md
+- [[英伟达最新财报超预期：AI的叙事或许比“黄仁勋溢价”更宏大]] - document - veilles/veille-ia-cn-2026-11-18-t7.md
+- [[计算机（网安）学院任福继教授获评“我是科学人”2025年度特别贡献科学家]] - document - veilles/veille-ia-cn-2026-11-18-t7.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -33,24 +26,3 @@ members: 18
 TABLE source_file, type FROM #community/Veille_France_2026-11-17
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 4 edges to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
-- 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_Dell]]
-- 1 edge to [[_COMMUNITY_Hugging Face]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Claude Code_1]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14  Autres articles]]
-- 1 edge to [[_COMMUNITY_Signal]]
-- 1 edge to [[_COMMUNITY_Microsoft_1]]
-- 1 edge to [[_COMMUNITY_Tencent_1]]
-- 1 edge to [[_COMMUNITY_Apple]]
-- 1 edge to [[_COMMUNITY_Ministry of Education]]
-- 1 edge to [[_COMMUNITY_David Tepper]]
-
-## Top bridge nodes
-- [[Veille France 2026-11-17]] - degree 23, connects to 7 communities
-- [[Veille France 2026-11-22]] - degree 5, connects to 3 communities
-- [[OpenRouter]] - degree 5, connects to 3 communities
-- [[Mubadala]] - degree 3, connects to 2 communities

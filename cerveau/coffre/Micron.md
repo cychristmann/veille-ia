@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-22-t3.md"
 type: "concept"
-community: "Veille France 2026-11-20 : Régulation, souveraineté et enjeux géopolitiques"
+community: "David Tepper"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-20__Régulation_souveraineté_et_enjeux_géopolitiques
+  - community/David_Tepper
 ---
 
 # Micron
@@ -15,4 +15,4 @@ tags:
 - [[CoreWeave]] - `shares_data_with` [INFERRED]
 - [[David Tepper]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-20__Régulation_souveraineté_et_enjeux_géopolitiques
+#graphify/concept #graphify/EXTRACTED #community/David_Tepper

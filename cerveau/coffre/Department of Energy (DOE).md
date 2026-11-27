@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-26-t3.md"
 type: "concept"
-community: "Department of Energy (DOE)"
+community: "Trust3 AI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Department_of_Energy_DOE
+  - community/Trust3_AI
 ---
 
 # Department of Energy (DOE)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[University at Buffalo]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Department_of_Energy_DOE
+#graphify/concept #graphify/EXTRACTED #community/Trust3_AI

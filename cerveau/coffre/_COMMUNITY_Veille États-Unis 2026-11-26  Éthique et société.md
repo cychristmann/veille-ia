@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille États-Unis 2026-11-26  Éthique et société]] - document - veilles/veille-ia-us-2026-11-26-t4.md
+- [[Veille France 2026-11-24]] - document - veilles/veille-ia-fr-2026-11-24-t5.md
 
 ## Live Query (requires Dataview plugin)
 

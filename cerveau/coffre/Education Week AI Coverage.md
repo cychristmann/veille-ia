@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-16-t3.md"
 type: "concept"
-community: "Veille France 2026-11-24"
+community: "Education Week AI Coverage"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-24
+  - community/Education_Week_AI_Coverage
 ---
 
 # Education Week AI Coverage
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-24
+#graphify/concept #graphify/EXTRACTED #community/Education_Week_AI_Coverage

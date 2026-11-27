@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille France 2026-11-18]] - document - veilles/veille-ia-fr-2026-11-18-t6.md
+- [[DeepL]] - concept - dossiers/2026-11-26-3.md
 
 ## Live Query (requires Dataview plugin)
 

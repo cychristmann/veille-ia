@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-26-t3.md"
 type: "concept"
-community: "Trust3 AI"
+community: "Kong"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Trust3_AI
+  - community/Kong
 ---
 
 # Claude BugHunter
 
-#graphify/concept #graphify/EXTRACTED #community/Trust3_AI
+#graphify/concept #graphify/EXTRACTED #community/Kong

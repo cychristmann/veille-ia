@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t5.md"
 type: "document"
-community: "Veille Chine 2026-11-24 : Recherche académique et collaborations"
+community: "Veille États-Unis 2026-11-22 : Applications et outils IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-24__Recherche_académique_et_collaborations
+  - community/Veille_États-Unis_2026-11-22__Applications_et_outils_IA
 ---
 
 # Veille États-Unis 2026-11-08 : Perception publique et sociétale
@@ -15,4 +15,4 @@ tags:
 - [[tech-insider.org]] - `cites` [EXTRACTED]
 - [[vr.org]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-24__Recherche_académique_et_collaborations
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-22__Applications_et_outils_IA

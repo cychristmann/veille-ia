@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Chine  comment des agents IA « voyous » ont échappé au contrôle de leurs créateurs]] - document - dossiers/2026-11-12-2.md
+- [[Critea]] - concept - dossiers/2026-11-26-3.md
 
 ## Live Query (requires Dataview plugin)
 

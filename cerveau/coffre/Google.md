@@ -1,9 +1,9 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
-type: "code"
+source_file: "dossiers/2026-11-18-2.md"
+type: "concept"
 community: "Google"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
   - community/Google
 ---
@@ -17,10 +17,11 @@ tags:
 - [[Adobe Creative Cloud]] - `references` [EXTRACTED]
 - [[Agent Compute Engine]] - `references` [EXTRACTED]
 - [[Agents IA]] - `conceptually_related_to` [EXTRACTED]
+- [[Chaîne TV générée par IA]] - `references` [EXTRACTED]
 - [[Dossier  Intensification des cyberattaques alimentées par l'IA]] - `cites` [EXTRACTED]
 - [[Dossier Google détecte la première cyberattaque IA de bout en bout]] - `references` [EXTRACTED]
 - [[Feuilleton Google lance une chaîne TV 100 % IA interactive]] - `references` [EXTRACTED]
-- [[Feuilleton Intensification des cyberattaques IA par les acteurs malveillants]] - `references` [EXTRACTED]
+- [[Feuilleton Intensification confirmée des cyberattaques assistées par IA]] - `references` [EXTRACTED]
 - [[Gemini]] - `references` [EXTRACTED]
 - [[Gemini 4 Carbon]] - `references` [EXTRACTED]
 - [[Gemini 4 Neon]] - `references` [EXTRACTED]
@@ -51,5 +52,6 @@ tags:
 - [[Veille États-Unis 2026-11-18  Enjeux sociétaux et perception du public]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-22  Applications et outils IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-26]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-27  Applications industrielles et technologiques]] - `cites` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Google
+#graphify/concept #graphify/EXTRACTED #community/Google

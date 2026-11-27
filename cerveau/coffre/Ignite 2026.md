@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0029.md"
 type: "concept"
-community: "ASML"
+community: "Copilot"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ASML
+  - community/Copilot
 ---
 
 # Ignite 2026
@@ -16,4 +16,4 @@ tags:
 - [[Microsoft]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-26]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/ASML
+#graphify/concept #graphify/EXTRACTED #community/Copilot

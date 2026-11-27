@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Dossier  Normes IA mondiales]] - document - dossiers/2026-11-25-3.md
+- [[French.people.cn]] - document - feuilletons/f-0048.md
 
 ## Live Query (requires Dataview plugin)
 

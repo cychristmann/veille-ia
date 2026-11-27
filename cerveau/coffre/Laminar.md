@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-25-t1.md"
 type: "concept"
-community: "Veille Chine 2026-11-15 : Autres articles"
+community: "Veille Outils & code 2026-11-26"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-15__Autres_articles
+  - community/Veille_Outils__code_2026-11-26
 ---
 
 # Laminar
@@ -15,4 +15,4 @@ tags:
 - [[Veille Outils & code 2026-11-25]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-26]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-15__Autres_articles
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-26

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-25-t4.md"
 type: "document"
-community: "无界进化 (INFevo)"
+community: "Veille États-Unis 2026-11-25 : Régulation, éthique et société"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/无界进化_INFevo
+  - community/Veille_États-Unis_2026-11-25__Régulation_éthique_et_société
 ---
 
 # Veille Chine 2026-11-25 : Applications Professionnelles et Sectorielles
@@ -17,4 +17,4 @@ tags:
 - [[从模型创新到临床获益：全球医学AI专家齐聚上海]] - `references` [EXTRACTED]
 - [[抖音生活服务推出“豆糕”AI经营一体机]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/无界进化_INFevo
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-25__Régulation_éthique_et_société

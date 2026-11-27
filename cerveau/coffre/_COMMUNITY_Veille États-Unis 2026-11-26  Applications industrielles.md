@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille États-Unis 2026-11-26  Applications industrielles]] - document - veilles/veille-ia-us-2026-11-26-t3.md
+- [[Veille France 2026-11-22  Industrie et infrastructure]] - document - veilles/veille-ia-fr-2026-11-22-t2.md
 
 ## Live Query (requires Dataview plugin)
 

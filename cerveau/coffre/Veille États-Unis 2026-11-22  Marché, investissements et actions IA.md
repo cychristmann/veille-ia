@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-22-t3.md"
 type: "document"
-community: "Veille France 2026-11-20 : Régulation, souveraineté et enjeux géopolitiques"
+community: "David Tepper"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-20__Régulation_souveraineté_et_enjeux_géopolitiques
+  - community/David_Tepper
 ---
 
 # Veille États-Unis 2026-11-22 : Marché, investissements et actions IA
@@ -18,4 +18,4 @@ tags:
 - [[Jensen Huang]] - `references` [EXTRACTED]
 - [[Meta]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-20__Régulation_souveraineté_et_enjeux_géopolitiques
+#graphify/document #graphify/EXTRACTED #community/David_Tepper

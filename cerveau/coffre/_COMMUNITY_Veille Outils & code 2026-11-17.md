@@ -31,7 +31,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
+- 3 edges to [[_COMMUNITY_David Tepper]]
 - 1 edge to [[_COMMUNITY_Veille Chine 2026-11-19  Infrastructure et Technologie IA]]
 
 ## Top bridge nodes

@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0049.md"
 type: "concept"
-community: "AMD"
+community: "Nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AMD
+  - community/Nvidia
 ---
 
 # AI Co-pilot
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Xpeng]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AMD
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

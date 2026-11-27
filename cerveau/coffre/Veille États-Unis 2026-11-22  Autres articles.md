@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-22-t6.md"
 type: "document"
-community: "Veille Chine 2026-11-11 : Marchés et investissements"
+community: "Veille États-Unis 2026-11-08"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-11__Marchés_et_investissements
+  - community/Veille_États-Unis_2026-11-08
 ---
 
 # Veille États-Unis 2026-11-22 : Autres articles
@@ -21,4 +21,4 @@ tags:
 - [[Samsung and SK Hynix AI memory market performance]] - `references` [EXTRACTED]
 - [[Tom Lee AI market outlook]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-11__Marchés_et_investissements
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08

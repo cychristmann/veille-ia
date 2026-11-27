@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille Chine 2026-11-25]] - document - veilles/veille-ia-cn-2026-11-25-t5.md
+- [[Louis Perez]] - code - veilles/veille-ia-fr-2026-11-09-t3.md
 
 ## Live Query (requires Dataview plugin)
 

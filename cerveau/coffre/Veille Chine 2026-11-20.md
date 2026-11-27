@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-20-t7.md"
 type: "document"
-community: "Dossier: Vers une interdiction des modèles d’IA chinois dans les systèmes fédéraux américains"
+community: "Veille États-Unis 2026-11-24 : Marchés financiers & Investissements"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Dossier_Vers_une_interdiction_des_modèles_dIA_chinois_dans_les_systèmes_fédéraux_américains
+  - community/Veille_États-Unis_2026-11-24__Marchés_financiers__Investissements
 ---
 
 # Veille Chine 2026-11-20
@@ -17,4 +17,4 @@ tags:
 - [[OpenAI Chip Redesign Breakthroughs]] - `references` [EXTRACTED]
 - [[SpaceX AI Chip Debt Financing Conflict]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Dossier_Vers_une_interdiction_des_modèles_dIA_chinois_dans_les_systèmes_fédéraux_américains
+#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-24__Marchés_financiers__Investissements

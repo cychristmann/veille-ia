@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Risques et dysfonctionnements liés à l'IA]] - concept - veilles/veille-ia-fr-2026-11-20-t6.md
-- [[Veille France 2026-11-20  Autres articles]] - document - veilles/veille-ia-fr-2026-11-20-t6.md
+- [[Enterprise RAG Systems]] - concept - veilles/veille-ia-dev-2026-11-16-t5.md
+- [[Veille Outils & code 2026-11-16  Recherche, méthodologies et analyses d’agents IA]] - document - veilles/veille-ia-dev-2026-11-16-t5.md
 
 ## Live Query (requires Dataview plugin)
 

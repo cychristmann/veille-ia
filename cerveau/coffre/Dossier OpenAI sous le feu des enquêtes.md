@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-23-1.md"
 type: "document"
-community: "Claude Code"
+community: "Libertify"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Claude_Code
+  - community/Libertify
 ---
 
 # Dossier: OpenAI sous le feu des enquêtes
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Claude_Code
+#graphify/document #graphify/EXTRACTED #community/Libertify

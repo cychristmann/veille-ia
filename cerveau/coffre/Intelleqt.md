@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-24-t4.md"
 type: "concept"
-community: "ABB"
+community: "Cipher"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ABB
+  - community/Cipher
 ---
 
 # Intelleqt
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[ABB]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/ABB
+#graphify/concept #graphify/EXTRACTED #community/Cipher

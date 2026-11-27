@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[AI赋能风险画像 厦门国际银行织牢普惠反洗钱风控网]] - concept - veilles/veille-ia-cn-2026-11-25-t4.md
-- [[Jync v2.4.6 · AI 运维助手]] - concept - veilles/veille-ia-cn-2026-11-25-t4.md
-- [[Netflix 基于运维数据打造知识图谱，实现 AI 可观测性]] - concept - veilles/veille-ia-cn-2026-11-25-t4.md
-- [[Veille Chine 2026-11-25  Applications Professionnelles et Sectorielles]] - document - veilles/veille-ia-cn-2026-11-25-t4.md
-- [[从模型创新到临床获益：全球医学AI专家齐聚上海]] - concept - veilles/veille-ia-cn-2026-11-25-t4.md
-- [[抖音生活服务推出“豆糕”AI经营一体机]] - concept - veilles/veille-ia-cn-2026-11-25-t4.md
+- [[Convention sur certaines armes classiques]] - concept - dossiers/2026-11-25-1.md
+- [[Feuilleton f-0037]] - document - feuilletons/f-0037.md
+- [[Modèles IA Chinois]] - concept - feuilletons/f-0037.md
+- [[Président Trump]] - concept - dossiers/2026-11-25-1.md
+- [[Russie]] - concept - dossiers/2026-11-25-1.md
+- [[États-Unis]] - concept - feuilletons/f-0037.md
 
 ## Live Query (requires Dataview plugin)
 

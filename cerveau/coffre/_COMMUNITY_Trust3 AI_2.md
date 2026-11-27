@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Claude BugHunter]] - concept - veilles/veille-ia-dev-2026-11-26-t3.md
+- [[Veille Outils & code 2026-11-21  Plateformes et intégrations IA]] - document - veilles/veille-ia-dev-2026-11-21-t3.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Veille France 2026-11-16 : Régulation, sécurité et gouvernance
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Culture Numérique]] - concept - veilles/veille-ia-cn-2026-11-24-t5.md
-- [[Tongji University (同济大学)]] - concept - veilles/veille-ia-cn-2026-11-24-t5.md
-- [[Veille Chine 2026-11-24  Recherche académique et collaborations]] - document - veilles/veille-ia-cn-2026-11-24-t5.md
+- [[CHU de Montpellier]] - concept - veilles/veille-ia-fr-2026-11-18-t5.md
+- [[David Morquin]] - concept - veilles/veille-ia-fr-2026-11-18-t5.md
+- [[French Tech Bordeaux]] - concept - veilles/veille-ia-fr-2026-11-18-t5.md
+- [[Veille France 2026-11-18 (T5)]] - document - veilles/veille-ia-fr-2026-11-18-t5.md
 
 ## Live Query (requires Dataview plugin)
 

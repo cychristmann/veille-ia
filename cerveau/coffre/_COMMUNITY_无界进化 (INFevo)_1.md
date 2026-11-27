@@ -1,18 +1,20 @@
 ---
 type: community
-members: 5
+members: 7
 ---
 
 # 无界进化 (INFevo)
 
-**Members:** 5 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Brookings Institution]] - concept - dossiers/2026-11-23-2.md
-- [[Chen Yixin]] - concept - dossiers/2026-11-23-2.md
-- [[Dossier  IA générative  un nouveau vecteur de menaces nucléaires]] - document - dossiers/2026-11-23-2.md
-- [[John Ratcliffe]] - concept - dossiers/2026-11-23-2.md
-- [[Université de Fudan]] - concept - dossiers/2026-11-23-2.md
+- [[ASML Holding]] - concept - feuilletons/f-0044.md
+- [[Carmignac]] - concept - veilles/veille-ia-fr-2026-11-24-t1.md
+- [[Feuilleton ASML augmente sa capacité de production pour soutenir l’essor de l’IA]] - document - feuilletons/f-0044.md
+- [[Hewlett-Packard Enterprise]] - concept - veilles/veille-ia-fr-2026-11-24-t1.md
+- [[PulseLife]] - concept - veilles/veille-ia-fr-2026-11-24-t1.md
+- [[Sunway]] - concept - veilles/veille-ia-fr-2026-11-24-t1.md
+- [[Veille France 2026-11-24  Marché et investissements IA]] - document - veilles/veille-ia-fr-2026-11-24-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,8 +24,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
-- 1 edge to [[_COMMUNITY_Claude Code_1]]
+- 3 edges to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
 
 ## Top bridge nodes
-- [[Dossier  IA générative  un nouveau vecteur de menaces nucléaires]] - degree 6, connects to 2 communities
+- [[Veille France 2026-11-24  Marché et investissements IA]] - degree 6, connects to 2 communities
+- [[Hewlett-Packard Enterprise]] - degree 3, connects to 1 community
+- [[Sunway]] - degree 2, connects to 1 community

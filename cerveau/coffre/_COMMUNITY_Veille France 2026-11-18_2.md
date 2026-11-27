@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille Chine 2026-11-24  Autres articles]] - document - veilles/veille-ia-cn-2026-11-24-t6.md
+- [[Le Monde Informatique]] - document - dossiers/2026-11-20-2.md
 
 ## Live Query (requires Dataview plugin)
 

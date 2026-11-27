@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Critical Holdings]] - concept - dossiers/2026-11-26-2.md
+- [[Ming-Chi Kuo]] - concept - dossiers/2026-11-13-1.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Feuilleton  Microsoft impulsa standards ouverts de transparence pour agents IA]] - document - feuilletons/f-0039.md
-- [[Foro3D]] - concept - feuilletons/f-0039.md
+- [[Cloudflare]] - concept - veilles/veille-ia-dev-2026-11-27-t3.md
+- [[Cloudflare Search for Agents]] - concept - veilles/veille-ia-dev-2026-11-27-t3.md
 
 ## Live Query (requires Dataview plugin)
 

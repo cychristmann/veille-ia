@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-14-2.md"
 type: "document"
-community: "Claude"
+community: "AI Act"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Claude
+  - community/AI_Act
 ---
 
 # Dossier : IA : risque systémique pour la stabilité financière
@@ -16,4 +16,4 @@ tags:
 - [[Federal Reserve]] - `references` [EXTRACTED]
 - [[Financial Stability Board (FSB)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Claude
+#graphify/document #graphify/EXTRACTED #community/AI_Act

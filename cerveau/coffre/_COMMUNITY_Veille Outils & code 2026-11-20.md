@@ -1,25 +1,26 @@
 ---
 type: community
-members: 12
+members: 13
 ---
 
 # Veille Outils & code 2026-11-20
 
-**Members:** 12 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[AI Hallucination Challenges]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
-- [[Baidu AI Models]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
-- [[Cisco AI Revenue Performance]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
-- [[DAI 2026“物理世界AI前沿安全”研讨会]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
-- [[Veille Chine 2026-11-13  Régulation, compétition et marché]] - document - veilles/veille-ia-cn-2026-11-13-t4.md
-- [[Veille Chine 2026-11-14  Stratégie, gouvernance et recherche IA]] - document - veilles/veille-ia-cn-2026-11-14-t1.md
-- [[上海市科学数据管理办法]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
-- [[吴清：深化人工智能与资本市场双向赋能研究]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
-- [[李彦宏：人工智能的下一幕是智能组织]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
-- [[第七届中国人工智能大赛]] - concept - veilles/veille-ia-cn-2026-11-13-t4.md
-- [[腾讯闭门会比喻被误读为裁员50%]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
-- [[让人工智能技术潜力更好转化为生产率增长]] - concept - veilles/veille-ia-cn-2026-11-14-t1.md
+- [[Agent Gateways]] - concept - veilles/veille-ia-dev-2026-11-20-t1.md
+- [[Azure]] - concept - feuilletons/f-0032.md
+- [[CSIRT Européen]] - concept - feuilletons/f-0032.md
+- [[Cognition]] - concept - veilles/veille-ia-dev-2026-11-27-t3.md
+- [[Devin]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
+- [[GitHub]] - concept - feuilletons/f-0032.md
+- [[Kimi Code]] - concept - veilles/veille-ia-dev-2026-11-20-t2.md
+- [[Maia 300]] - concept - dossiers/2026-11-27-2.md
+- [[Microsoft Agent Framework]] - concept - dossiers/2026-11-27-1.md
+- [[OpenComputer]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
+- [[Perplexity Orchestrator API]] - concept - veilles/veille-ia-dev-2026-11-20-t1.md
+- [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - document - veilles/veille-ia-dev-2026-11-18-t3.md
+- [[Veille Outils & code 2026-11-20]] - document - veilles/veille-ia-dev-2026-11-20-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -27,3 +28,25 @@ members: 12
 TABLE source_file, type FROM #community/Veille_Outils__code_2026-11-20
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 3 edges to [[_COMMUNITY_Claude Code]]
+- 3 edges to [[_COMMUNITY_Veille Outils & code 2026-11-21_1]]
+- 2 edges to [[_COMMUNITY_Libertify]]
+- 2 edges to [[_COMMUNITY_SpaceX_1]]
+- 1 edge to [[_COMMUNITY_Copilot]]
+- 1 edge to [[_COMMUNITY_Cursor]]
+- 1 edge to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-26]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Elon Musk]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_Amazon Bedrock AgentCore]]
+- 1 edge to [[_COMMUNITY_Qwen]]
+
+## Top bridge nodes
+- [[Veille Outils & code 2026-11-20]] - degree 11, connects to 5 communities
+- [[Perplexity Orchestrator API]] - degree 5, connects to 4 communities
+- [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - degree 4, connects to 3 communities
+- [[Microsoft Agent Framework]] - degree 7, connects to 2 communities
+- [[GitHub]] - degree 3, connects to 2 communities

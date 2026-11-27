@@ -1,24 +1,23 @@
 ---
 type: community
-members: 11
+members: 10
 ---
 
 # Tencent
 
-**Members:** 11 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[ByteDance]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[Deepal L07]] - concept - veilles/veille-ia-cn-2026-11-23-t6.md
-- [[Doubao]] - concept - veilles/veille-ia-cn-2026-11-23-t6.md
-- [[JD.com]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
-- [[Kimi]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[Taobao]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[Veille Chine 2026-11-12  IA dans le commerce et le divertissement]] - document - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[Veille Chine 2026-11-26  IA dans l’éducation, la recherche et la société]] - document - veilles/veille-ia-cn-2026-11-26-t4.md
-- [[傲融云客]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[息壤杯]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
-- [[绿地南昌卢塞恩OPC社区]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
+- [[Hunyuan AI]] - concept - veilles/veille-ia-cn-2026-11-23-t6.md
+- [[IA-native Strategy]] - concept - dossiers/2026-11-12-2.md
+- [[LG Energy Solution]] - concept - veilles/veille-ia-cn-2026-11-15-t6.md
+- [[Samsung SDI]] - concept - veilles/veille-ia-cn-2026-11-15-t6.md
+- [[Sanmina]] - concept - veilles/veille-ia-us-2026-11-10-t6.md
+- [[Tencent]] - concept - veilles/veille-ia-cn-2026-11-19-t2.md
+- [[Veille Chine 2026-11-15  Politiques publiques et gouvernance de l’IA]] - document - veilles/veille-ia-cn-2026-11-15-t6.md
+- [[Veille Chine 2026-11-20  Finances & Investissements]] - document - veilles/veille-ia-cn-2026-11-20-t3.md
+- [[Veille États-Unis 2026-11-10  Marché, concurrence et tendances]] - document - veilles/veille-ia-us-2026-11-10-t6.md
+- [[Yuanbao AI App]] - concept - veilles/veille-ia-cn-2026-11-19-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -28,11 +27,15 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_DeepSeek]]
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-23]]
-- 1 edge to [[_COMMUNITY_Dossier  Nvidia désigné champion national de l’IA aux États‑Unis_1]]
+- 1 edge to [[_COMMUNITY_Libertify]]
+- 1 edge to [[_COMMUNITY_Lenovo]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-23_1]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_Qwen4-Max]]
+- 1 edge to [[_COMMUNITY_Alibaba]]
+- 1 edge to [[_COMMUNITY_Amazon]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-11  Marchés et investissements]]
 
 ## Top bridge nodes
-- [[Doubao]] - degree 5, connects to 1 community
-- [[Deepal L07]] - degree 2, connects to 1 community
-- [[JD.com]] - degree 2, connects to 1 community
+- [[Tencent]] - degree 13, connects to 7 communities
+- [[Veille Chine 2026-11-15  Politiques publiques et gouvernance de l’IA]] - degree 4, connects to 1 community

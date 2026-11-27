@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-17-t4.md"
 type: "code"
-community: "Huawei Mate 90"
+community: "Enterprise RAG Systems"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Huawei_Mate_90
+  - community/Enterprise_RAG_Systems
 ---
 
 # Huawei Mate 90
@@ -15,4 +15,4 @@ tags:
 - [[OSTA O1 Pro]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-17 (T4)]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Huawei_Mate_90
+#graphify/code #graphify/EXTRACTED #community/Enterprise_RAG_Systems

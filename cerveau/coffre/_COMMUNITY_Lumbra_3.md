@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Feuilleton DeepMind présente Gemini Robotics 2.5]] - document - feuilletons/f-0010.md
+- [[Lumbra]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
 
 ## Live Query (requires Dataview plugin)
 

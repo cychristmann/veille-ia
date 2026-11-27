@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-25-t5.md"
 type: "concept"
-community: "AMD"
+community: "Nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AMD
+  - community/Nvidia
 ---
 
 # System 0 (Instinct)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[VLA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AMD
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

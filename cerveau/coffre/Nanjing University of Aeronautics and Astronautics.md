@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "code"
-community: "Veille États-Unis 2026-11-19 : Éthique, sécurité et impact sociétal"
+community: "Veille France 2026-11-24"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-19__Éthique_sécurité_et_impact_sociétal
+  - community/Veille_France_2026-11-24
 ---
 
 # Nanjing University of Aeronautics and Astronautics
 
-#graphify/code #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-19__Éthique_sécurité_et_impact_sociétal
+#graphify/code #graphify/EXTRACTED #community/Veille_France_2026-11-24

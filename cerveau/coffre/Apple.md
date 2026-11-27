@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-16-t6.md"
+source_file: "veilles/veille-ia-cn-2026-11-21-t5.md"
 type: "concept"
 community: "Apple"
 tags:
@@ -11,8 +11,9 @@ tags:
 # Apple
 
 ## Connections
+- [[Agent IA Apple]] - `references` [EXTRACTED]
 - [[Apple AI Agent]] - `references` [EXTRACTED]
-- [[Feuilleton Apple AI Agent]] - `references` [EXTRACTED]
+- [[Feuilleton Apple menacé d’amende en Corée du Sud pour publicité mensongère sur fonctions IA]] - `references` [EXTRACTED]
 - [[Harbor]] - `references` [EXTRACTED]
 - [[HomeView 27.2.1]] - `references` [EXTRACTED]
 - [[Logic Pro]] - `references` [EXTRACTED]
@@ -21,6 +22,7 @@ tags:
 - [[Siri AI]] - `references` [EXTRACTED]
 - [[Talkie]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-21]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-27  Finance, services et transformation digitale]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Stratégies d'entreprises et investissements IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-10  Sécurité, risques et éthique]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-11]] - `references` [EXTRACTED]
@@ -32,5 +34,6 @@ tags:
 - [[Veille France 2026-11-23  Adoption industrielle et entreprises]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-22]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-17  Développements technologiques et infrastructure]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-27  Marchés financiers et investissements IA]] - `cites` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Apple

@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-26-t1.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-13 : Enjeux du marché et turbulences"
+community: "Génération de nouvelles technologies"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-13__Enjeux_du_marché_et_turbulences
+  - community/Génération_de_nouvelles_technologies
 ---
 
 # Deepfake Risks
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Enjeux_du_marché_et_turbulences
+#graphify/concept #graphify/EXTRACTED #community/Génération_de_nouvelles_technologies

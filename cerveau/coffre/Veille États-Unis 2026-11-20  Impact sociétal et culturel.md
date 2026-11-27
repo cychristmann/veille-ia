@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-20-t5.md"
 type: "document"
-community: "AI Impact on Finance and Markets"
+community: "Veille France 2026-11-09 : Autres articles"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Impact_on_Finance_and_Markets
+  - community/Veille_France_2026-11-09__Autres_articles
 ---
 
 # Veille États-Unis 2026-11-20 : Impact sociétal et culturel
@@ -19,4 +19,4 @@ tags:
 - [[Why I’m Not Losing Sleep Over the AI Apocalypse]] - `references` [EXTRACTED]
 - [[You tell AI everything. But who else is listening]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Impact_on_Finance_and_Markets
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-09__Autres_articles

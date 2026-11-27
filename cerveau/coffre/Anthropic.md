@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t1.md"
 type: "code"
-community: "Veille Chine 2026-11-17 : Marché, financement et régulation"
+community: "David Tepper"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-17__Marché_financement_et_régulation
+  - community/David_Tepper
 ---
 
 # Anthropic
@@ -96,7 +96,10 @@ tags:
 - [[Veille France 2026-11-25]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-26]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-26  Recherche, innovation et futur de l’IA]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-27  Finance et économie]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-27  Société, éthique et culture]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-26]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-27 (T4)]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-09  Déploiements et stratégies d’entreprise]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-10  Autres articles]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-11  Régulation, Gouvernance et Éthique]] - `references` [EXTRACTED]
@@ -108,4 +111,4 @@ tags:
 - [[Veille États-Unis 2026-11-22  Applications et outils IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-26]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Veille_Chine_2026-11-17__Marché_financement_et_régulation
+#graphify/code #graphify/EXTRACTED #community/David_Tepper

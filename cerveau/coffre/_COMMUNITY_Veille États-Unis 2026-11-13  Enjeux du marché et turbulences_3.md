@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-13 : Enjeux du marché et turbulences
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[L&T Technology Services]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
-- [[SDVault.ai]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
+- [[Graph Neural Networks]] - concept - veilles/veille-ia-dev-2026-11-23-t1.md
 
 ## Live Query (requires Dataview plugin)
 

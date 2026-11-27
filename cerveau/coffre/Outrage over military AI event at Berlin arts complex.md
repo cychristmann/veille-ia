@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-22-t6.md"
 type: "concept"
-community: "Veille Chine 2026-11-11 : Marchés et investissements"
+community: "Veille États-Unis 2026-11-08"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-11__Marchés_et_investissements
+  - community/Veille_États-Unis_2026-11-08
 ---
 
 # Outrage over military AI event at Berlin arts complex
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-22  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-11__Marchés_et_investissements
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-08

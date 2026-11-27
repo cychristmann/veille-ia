@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0039.md"
 type: "document"
-community: "Veille États-Unis 2026-11-10 : Régulation, sécurité et éthique"
+community: "Feuilleton : Microsoft impulsa standards ouverts de transparence pour agents IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-10__Régulation_sécurité_et_éthique
+  - community/Feuilleton__Microsoft_impulsa_standards_ouverts_de_transparence_pour_agents_IA
 ---
 
 # Feuilleton : Microsoft impulsa standards ouverts de transparence pour agents IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Foro3D]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-10__Régulation_sécurité_et_éthique
+#graphify/document #graphify/EXTRACTED #community/Feuilleton__Microsoft_impulsa_standards_ouverts_de_transparence_pour_agents_IA

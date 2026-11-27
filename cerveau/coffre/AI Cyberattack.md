@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-18-2.md"
 type: "concept"
-community: "Hugging Face"
+community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Hugging_Face
+  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
 ---
 
 # AI Cyberattack
@@ -19,4 +19,4 @@ tags:
 - [[NCSC]] - `conceptually_related_to` [EXTRACTED]
 - [[OpenAI]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Hugging_Face
+#graphify/concept #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière

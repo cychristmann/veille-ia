@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-15-3.md"
 type: "concept"
-community: "ICAID"
+community: "Mistral AI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ICAID
+  - community/Mistral_AI
 ---
 
 # AMIAD
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[ICAID]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/ICAID
+#graphify/concept #graphify/EXTRACTED #community/Mistral_AI

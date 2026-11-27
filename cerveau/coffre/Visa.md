@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-18-t2.md"
+source_file: "feuilletons/f-0019.md"
 type: "concept"
 community: "Dell"
 tags:

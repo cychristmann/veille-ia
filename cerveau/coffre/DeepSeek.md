@@ -17,6 +17,7 @@ tags:
 - [[Open Weights Models]] - `conceptually_related_to` [INFERRED]
 - [[R1 Model]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-21  Infrastructure et matériel IA]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-27  Sécurité, cybersécurité et infrastructure IA]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-15]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-25]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-14  Économie, Marchés et Investissements]] - `references` [EXTRACTED]

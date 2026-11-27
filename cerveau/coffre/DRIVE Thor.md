@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-23-t1.md"
 type: "concept"
-community: "Trust3 AI"
+community: "Hermes Agent"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Trust3_AI
+  - community/Hermes_Agent
 ---
 
 # DRIVE Thor
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Alpamayo 2 Edge]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Trust3_AI
+#graphify/concept #graphify/EXTRACTED #community/Hermes_Agent

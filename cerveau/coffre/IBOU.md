@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-26-3.md"
 type: "concept"
-community: "Veille France 2026-11-22 : Industrie et infrastructure"
+community: "Veille États-Unis 2026-11-17 : Régulation et litiges"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-22__Industrie_et_infrastructure
+  - community/Veille_États-Unis_2026-11-17__Régulation_et_litiges
 ---
 
 # IBOU
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-22__Industrie_et_infrastructure
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-17__Régulation_et_litiges

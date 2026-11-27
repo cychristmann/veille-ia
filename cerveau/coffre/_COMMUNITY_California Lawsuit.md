@@ -19,7 +19,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Claude Code_1]]
+- 1 edge to [[_COMMUNITY_Libertify]]
 
 ## Top bridge nodes
 - [[California Lawsuit]] - degree 2, connects to 1 community

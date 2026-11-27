@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-26-t3.md"
 type: "concept"
-community: "AMD"
+community: "Nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AMD
+  - community/Nvidia
 ---
 
 # Tesla
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Xpeng]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AMD
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

@@ -1,16 +1,19 @@
 ---
 type: community
-members: 3
+members: 6
 ---
 
 # Veille États-Unis 2026-11-14 : Incident FAA et Intelligence Artificielle
 
-**Members:** 3 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Federal Aviation Administration (FAA)]] - concept - veilles/veille-ia-us-2026-11-14-t1.md
-- [[SMART AI System]] - concept - veilles/veille-ia-us-2026-11-14-t1.md
-- [[Veille États-Unis 2026-11-14  Incident FAA et Intelligence Artificielle]] - document - veilles/veille-ia-us-2026-11-14-t1.md
+- [[Demis Hassabis]] - concept - dossiers/2026-11-12-3.md
+- [[Dossier Course à l'IA entre États‑Unis et Chine]] - document - dossiers/2026-11-12-3.md
+- [[Eric Schmidt]] - concept - dossiers/2026-11-12-3.md
+- [[Eric Schmidt says gap between China and US in AI is now negligible]] - document - dossiers/2026-11-12-3.md
+- [[Institute for Progress]] - concept - dossiers/2026-11-12-3.md
+- [[Nvidia, Chinese Espionage, and the AI Race Foreign Policy Issues to Watch]] - document - dossiers/2026-11-12-3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +23,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Microsoft_1]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
 
 ## Top bridge nodes
-- [[Veille États-Unis 2026-11-14  Incident FAA et Intelligence Artificielle]] - degree 3, connects to 1 community
+- [[Dossier Course à l'IA entre États‑Unis et Chine]] - degree 6, connects to 1 community

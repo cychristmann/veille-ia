@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Blue J
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Veille Chine 2026-11-18  Recherche et modèles]] - document - veilles/veille-ia-cn-2026-11-18-t5.md
-- [[三星电机与英伟达从基板到MLCC扩大AI零部件同盟]] - document - veilles/veille-ia-cn-2026-11-18-t5.md
+- [[Edge0-145B]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
 
 ## Live Query (requires Dataview plugin)
 

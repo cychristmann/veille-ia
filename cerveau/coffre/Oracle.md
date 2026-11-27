@@ -1,16 +1,18 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-21-t3.md"
-type: "code"
-community: "Claude Code"
+source_file: "veilles/veille-ia-us-2026-11-27-t4.md"
+type: "concept"
+community: "Veille Chine 2026-11-23"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/Claude_Code
+  - community/Veille_Chine_2026-11-23
 ---
 
 # Oracle
 
 ## Connections
+- [[Michael Burry]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-27  Marchés financiers et investissements IA]] - `cites` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Claude_Code
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-23

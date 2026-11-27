@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-08-t3.md"
 type: "concept"
-community: "Nvidia"
+community: "Jensen Huang"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Nvidia
+  - community/Jensen_Huang
 ---
 
 # Jalopnik
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-08  Applications sectorielles]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Nvidia
+#graphify/concept #graphify/EXTRACTED #community/Jensen_Huang

@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Dossier  Preuve assistée par IA de l’hypothèse de Riemann]] - document - dossiers/2026-11-22-1.md
+- [[Feuilleton Snowflake lance Cortex IA générative]] - document - feuilletons/f-0013.md
 
 ## Live Query (requires Dataview plugin)
 

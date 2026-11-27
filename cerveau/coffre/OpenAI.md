@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-21-t3.md"
 type: "code"
-community: "Claude Code"
+community: "Libertify"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Claude_Code
+  - community/Libertify
 ---
 
 # OpenAI
@@ -44,18 +44,20 @@ tags:
 - [[Feuilleton Wall Street en déroute]] - `conceptually_related_to` [INFERRED]
 - [[Fujitsu]] - `conceptually_related_to` [EXTRACTED]
 - [[GPT-5.6]] - `references` [EXTRACTED]
-- [[GPT-6 Astra]] - `references` [EXTRACTED]
+- [[GPT-6 Astra]] - `conceptually_related_to` [INFERRED]
 - [[GPT-6.2 Sol]] - `references` [EXTRACTED]
 - [[Hugging Face]] - `references` [EXTRACTED]
 - [[July 2026 AI Incident]] - `references` [EXTRACTED]
 - [[LVMH]] - `references` [EXTRACTED]
 - [[Legal Advocates for Science & Technology (LASST)]] - `references` [EXTRACTED]
 - [[METR]] - `references` [EXTRACTED]
+- [[Martin Cid Magazine]] - `cites` [EXTRACTED]
 - [[Mastercard]] - `references` [EXTRACTED]
 - [[Meta]] - `references` [EXTRACTED]
 - [[Microsoft]] - `references` [EXTRACTED]
 - [[Mubadala]] - `references` [EXTRACTED]
 - [[Navier-Stokes Problem]] - `references` [EXTRACTED]
+- [[Obsidian]] - `references` [EXTRACTED]
 - [[Oracle]] - `references` [EXTRACTED]
 - [[Perplexity Orchestrator API]] - `references` [EXTRACTED]
 - [[Radeon Linux Driver]] - `references` [EXTRACTED]
@@ -80,12 +82,15 @@ tags:
 - [[Veille France 2026-11-19  Autres articles]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-20]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-23  Adoption industrielle et entreprises]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-27]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-27  Société, éthique et culture]] - `references` [EXTRACTED]
 - [[Veille IA Dev 2026-11-20 T3]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-14]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-17]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-18  Analyse de performance, coûts et gouvernance]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-24  Sécurité des agents de codage IA]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-27 (T4)]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-11]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-17  Autres articles]] - `cites` [EXTRACTED]
 - [[Veille États-Unis 2026-11-18  Régulation, litiges et gouvernance]] - `references` [EXTRACTED]
@@ -93,4 +98,4 @@ tags:
 - [[Visa]] - `references` [EXTRACTED]
 - [[Wikimedia Foundation]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Claude_Code
+#graphify/code #graphify/EXTRACTED #community/Libertify

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t3.md"
 type: "concept"
-community: "SeedRealtime 1.0"
+community: "Veille Chine 2026-11-23"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/SeedRealtime_10
+  - community/Veille_Chine_2026-11-23
 ---
 
 # BioMap
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[SeedRealtime 1.0]] - `conceptually_related_to` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/SeedRealtime_10
+#graphify/concept #graphify/INFERRED #community/Veille_Chine_2026-11-23

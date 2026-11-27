@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[Dianli ETF Jingshun (159158)]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
-- [[JinJing XinNeng (01783)]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
-- [[Shengmei Semiconductor]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
-- [[Veille Chine 2026-11-16  Infrastructure et puissance de calcul]] - document - veilles/veille-ia-cn-2026-11-16-t2.md
+- [[Incident de triche à l'examen coréen via IA]] - concept - veilles/veille-ia-cn-2026-11-22-t5.md
+- [[Initiatives d'éducation et de recherche en IA]] - concept - veilles/veille-ia-cn-2026-11-22-t5.md
+- [[Risques de bulle et volatilité du marché de l'IA]] - concept - veilles/veille-ia-cn-2026-11-22-t5.md
+- [[Veille Chine 2026-11-22  Régulation, éthique et impact sociétal de l'IA]] - document - veilles/veille-ia-cn-2026-11-22-t5.md
 
 ## Live Query (requires Dataview plugin)
 

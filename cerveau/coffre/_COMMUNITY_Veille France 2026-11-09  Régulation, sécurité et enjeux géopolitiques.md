@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[DATAW.AI]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
-- [[RWIP]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
+- [[AI Ethics]] - concept - feuilletons/f-0047.md
+- [[Feuilleton Expériences d'IA désignant des civils comme cibles militaires]] - document - feuilletons/f-0047.md
 
 ## Live Query (requires Dataview plugin)
 

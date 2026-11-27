@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-22-t3.md"
 type: "concept"
-community: "Microsoft"
+community: "Veille Outils & code 2026-11-21"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Microsoft
+  - community/Veille_Outils__code_2026-11-21
 ---
 
 # Agorapulse
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Archie]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Microsoft
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-21

@@ -1,24 +1,22 @@
 ---
 type: community
-members: 11
+members: 9
 ---
 
 # OpenRouter
 
-**Members:** 11 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[AI Short Dramas]] - concept - veilles/veille-ia-cn-2026-11-14-t3.md
-- [[AI4 Chip]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
-- [[SCMP Tech]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
-- [[Sanxingdui Future Past]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
-- [[Tencent Chatterfly]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
-- [[Tesla FSD v15]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
-- [[Tesla Reality View]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
-- [[Veille Chine 2026-11-14  Médias, création et divertissement IA]] - document - veilles/veille-ia-cn-2026-11-14-t3.md
-- [[Veille Chine 2026-11-15  Contenu et divertissement IA]] - document - veilles/veille-ia-cn-2026-11-15-t1.md
-- [[Veille Chine 2026-11-22]] - document - veilles/veille-ia-cn-2026-11-22-t4.md
-- [[投资界]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
+- [[Bosch (博世)]] - concept - veilles/veille-ia-cn-2026-11-27-t9.md
+- [[Canonical]] - concept - veilles/veille-ia-cn-2026-11-27-t9.md
+- [[Hisense (海信)]] - concept - veilles/veille-ia-cn-2026-11-27-t9.md
+- [[Pangu Information (盘古信息)]] - concept - veilles/veille-ia-cn-2026-11-27-t9.md
+- [[Rockchip (瑞芯微)]] - concept - veilles/veille-ia-cn-2026-11-27-t9.md
+- [[Ubuntu Desktop]] - concept - veilles/veille-ia-fr-2026-11-26-t3.md
+- [[Ubuntu Desktop Launcher]] - concept - veilles/veille-ia-cn-2026-11-27-t9.md
+- [[Veille Chine 2026-11-27]] - document - veilles/veille-ia-cn-2026-11-27-t9.md
+- [[iFlytek (科大讯飞)]] - concept - veilles/veille-ia-cn-2026-11-27-t9.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,3 +24,9 @@ members: 11
 TABLE source_file, type FROM #community/OpenRouter
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Nvidia]]
+
+## Top bridge nodes
+- [[Veille Chine 2026-11-27]] - degree 7, connects to 1 community

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-19-t6.md"
 type: "document"
-community: "Alibaba"
+community: "Nvidia"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Alibaba
+  - community/Nvidia
 ---
 
 # Veille États-Unis 2026-11-19
@@ -22,4 +22,4 @@ tags:
 - [[markets.businessinsider.com]] - `cites` [EXTRACTED]
 - [[vatcalc.com]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Alibaba
+#graphify/document #graphify/EXTRACTED #community/Nvidia

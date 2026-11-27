@@ -1,21 +1,19 @@
 ---
 type: community
-members: 8
+members: 6
 ---
 
 # Veille Chine 2026-11-23
 
-**Members:** 8 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Ant Afu Client]] - concept - veilles/veille-ia-cn-2026-11-23-t4.md
-- [[ChuanYun AI]] - concept - veilles/veille-ia-cn-2026-11-23-t6.md
-- [[Honor 700  Pro Smartphone]] - concept - veilles/veille-ia-cn-2026-11-23-t4.md
-- [[Jianying Hub]] - concept - veilles/veille-ia-cn-2026-11-23-t4.md
-- [[Samsung AI Smart Glasses]] - concept - veilles/veille-ia-cn-2026-11-23-t4.md
-- [[Sunmi Technology]] - concept - veilles/veille-ia-cn-2026-11-23-t6.md
-- [[Veille Chine 2026-11-23]] - document - veilles/veille-ia-cn-2026-11-23-t6.md
-- [[WenDuoduo AI]] - concept - veilles/veille-ia-cn-2026-11-23-t6.md
+- [[Broadcom]] - concept - veilles/veille-ia-us-2026-11-11-t6.md
+- [[ChatPlayground AI]] - concept - veilles/veille-ia-us-2026-11-27-t4.md
+- [[Michael Burry]] - concept - veilles/veille-ia-us-2026-11-27-t4.md
+- [[Oracle]] - concept - veilles/veille-ia-us-2026-11-27-t4.md
+- [[Veille États-Unis 2026-11-11  Autres articles]] - document - veilles/veille-ia-us-2026-11-11-t6.md
+- [[Veille États-Unis 2026-11-27  Marchés financiers et investissements IA]] - document - veilles/veille-ia-us-2026-11-27-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,8 +23,15 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Tencent]]
-- 1 edge to [[_COMMUNITY_Tencent_1]]
+- 2 edges to [[_COMMUNITY_Nvidia]]
+- 2 edges to [[_COMMUNITY_Meta]]
+- 1 edge to [[_COMMUNITY_Apple]]
+- 1 edge to [[_COMMUNITY_Libertify]]
+- 1 edge to [[_COMMUNITY_David Tepper_1]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
 
 ## Top bridge nodes
-- [[Veille Chine 2026-11-23]] - degree 9, connects to 2 communities
+- [[Veille États-Unis 2026-11-27  Marchés financiers et investissements IA]] - degree 6, connects to 3 communities
+- [[Broadcom]] - degree 4, connects to 2 communities
+- [[Michael Burry]] - degree 3, connects to 2 communities
+- [[Oracle]] - degree 3, connects to 1 community

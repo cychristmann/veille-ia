@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-14-2.md"
 type: "concept"
-community: "Claude"
+community: "AI Act"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Claude
+  - community/AI_Act
 ---
 
 # Risque systémique de l'IA
@@ -15,4 +15,4 @@ tags:
 - [[Autorités chinoises]] - `conceptually_related_to` [EXTRACTED]
 - [[Federal Reserve]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Claude
+#graphify/concept #graphify/EXTRACTED #community/AI_Act

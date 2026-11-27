@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0040.md"
 type: "document"
-community: "This Is Unreal (Spectacle)"
+community: "DeepSeek"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/This_Is_Unreal_Spectacle
+  - community/DeepSeek
 ---
 
 # Feuilleton: Scandale de triche à l'IA en Corée du Sud
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Ministry of Education]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/This_Is_Unreal_Spectacle
+#graphify/document #graphify/EXTRACTED #community/DeepSeek

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-19-t5.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-14 : Incident FAA et Intelligence Artificielle"
+community: "Veille Chine 2026-11-20"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-14__Incident_FAA_et_Intelligence_Artificielle
+  - community/Veille_Chine_2026-11-20
 ---
 
 # Recrutement en IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille France 2026-11-19  Marché, productivité et perspectives économiques]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Incident_FAA_et_Intelligence_Artificielle
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-20

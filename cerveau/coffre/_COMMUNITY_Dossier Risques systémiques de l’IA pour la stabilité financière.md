@@ -1,23 +1,20 @@
 ---
 type: community
-members: 10
+members: 7
 ---
 
 # Dossier: Risques systémiques de l’IA pour la stabilité financière
 
-**Members:** 10 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Comité de stabilité financière (FSB)]] - concept - dossiers/2026-11-16-3.md
-- [[Dossier Risques systémiques de l’IA pour la stabilité financière]] - document - dossiers/2026-11-16-3.md
-- [[Financement des data-centers]] - concept - dossiers/2026-11-16-3.md
-- [[Fonds Monétaire International (FMI)]] - concept - dossiers/2026-11-16-3.md
-- [[National Financial Regulatory Administration (China)]] - concept - dossiers/2026-11-16-3.md
-- [[Risque financier lié à l'IA]] - concept - dossiers/2026-11-16-3.md
-- [[Réserve fédérale américaine (Fed)]] - concept - dossiers/2026-11-16-3.md
-- [[fr.businessam.be]] - document - dossiers/2026-11-16-3.md
-- [[leconomistemaghrebin.com]] - document - dossiers/2026-11-16-3.md
-- [[zonebourse.com]] - document - dossiers/2026-11-16-3.md
+- [[AI Cyberattack]] - concept - dossiers/2026-11-18-2.md
+- [[GCHQ]] - concept - dossiers/2026-11-18-2.md
+- [[GLM 5.2]] - concept - dossiers/2026-11-18-2.md
+- [[Hugging Face]] - concept - dossiers/2026-11-23-1.md
+- [[Irene Solaiman]] - concept - veilles/veille-ia-us-2026-11-10-t2.md
+- [[July 2026 AI Incident]] - concept - dossiers/2026-11-23-1.md
+- [[NCSC]] - concept - dossiers/2026-11-18-2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -27,7 +24,16 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_AI Act]]
+- 3 edges to [[_COMMUNITY_Libertify]]
+- 1 edge to [[_COMMUNITY_Copilot]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Meta]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-12]]
+- 1 edge to [[_COMMUNITY_DeepSeek]]
 
 ## Top bridge nodes
-- [[Risque financier lié à l'IA]] - degree 5, connects to 1 community
+- [[Hugging Face]] - degree 9, connects to 5 communities
+- [[AI Cyberattack]] - degree 7, connects to 4 communities
+- [[July 2026 AI Incident]] - degree 2, connects to 1 community

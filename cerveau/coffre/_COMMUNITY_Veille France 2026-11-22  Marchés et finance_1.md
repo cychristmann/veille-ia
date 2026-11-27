@@ -1,18 +1,19 @@
 ---
 type: community
-members: 5
+members: 6
 ---
 
 # Veille France 2026-11-22 : Marchés et finance
 
-**Members:** 5 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Cursor Claude Code Extension Incident]] - concept - veilles/veille-ia-dev-2026-11-16-t3.md
-- [[FireworksAI Hack]] - concept - veilles/veille-ia-dev-2026-11-16-t3.md
-- [[Google Chubby]] - concept - veilles/veille-ia-dev-2026-11-16-t3.md
-- [[Uber's Secure AI Framework]] - concept - veilles/veille-ia-dev-2026-11-16-t3.md
-- [[Veille Outils & code 2026-11-16  Sécurité, gouvernance et cadres pour IA autonome]] - document - veilles/veille-ia-dev-2026-11-16-t3.md
+- [[AI转型与碳硅能力——“非凡2026”调研报告]] - document - veilles/veille-ia-cn-2026-11-27-t1.md
+- [[DoorDash AI Agent]] - concept - veilles/veille-ia-cn-2026-11-27-t1.md
+- [[JioHotstar AI Coding Agent Study]] - concept - veilles/veille-ia-cn-2026-11-27-t1.md
+- [[Veille Chine 2026-11-27  Agents et applications métier]] - document - veilles/veille-ia-cn-2026-11-27-t1.md
+- [[猎聘招聘智能体Lily]] - concept - veilles/veille-ia-cn-2026-11-27-t1.md
+- [[生成式人工智能零售业全景深化白皮书（2026）]] - document - veilles/veille-ia-cn-2026-11-27-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,10 +21,3 @@ members: 5
 TABLE source_file, type FROM #community/Veille_France_2026-11-22__Marchés_et_finance
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Qwen]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
-
-## Top bridge nodes
-- [[Veille Outils & code 2026-11-16  Sécurité, gouvernance et cadres pour IA autonome]] - degree 5, connects to 2 communities

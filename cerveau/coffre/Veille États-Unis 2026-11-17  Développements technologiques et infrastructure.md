@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-17-t3.md"
 type: "document"
-community: "Apple"
+community: "Google"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Apple
+  - community/Google
 ---
 
 # Veille États-Unis 2026-11-17 : Développements technologiques et infrastructure
@@ -16,4 +16,4 @@ tags:
 - [[Google]] - `references` [EXTRACTED]
 - [[IBM]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Apple
+#graphify/document #graphify/EXTRACTED #community/Google

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-17-t2.md"
 type: "concept"
-community: "ASML"
+community: "Copilot"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ASML
+  - community/Copilot
 ---
 
 # datasette
@@ -14,4 +14,4 @@ tags:
 - [[Fable 5.2]] - `references` [EXTRACTED]
 - [[datasette-maplibre]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/ASML
+#graphify/concept #graphify/EXTRACTED #community/Copilot

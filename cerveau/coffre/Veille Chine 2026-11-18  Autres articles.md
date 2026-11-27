@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-18-t7.md"
 type: "document"
-community: "Adobe Creative Cloud"
+community: "Veille France 2026-11-17"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Adobe_Creative_Cloud
+  - community/Veille_France_2026-11-17
 ---
 
 # Veille Chine 2026-11-18 : Autres articles
@@ -22,4 +22,4 @@ tags:
 - [[英伟达最新财报超预期：AI的叙事或许比“黄仁勋溢价”更宏大]] - `references` [EXTRACTED]
 - [[计算机（网安）学院任福继教授获评“我是科学人”2025年度特别贡献科学家]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Adobe_Creative_Cloud
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-17

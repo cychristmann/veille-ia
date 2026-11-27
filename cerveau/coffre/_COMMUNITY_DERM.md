@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[248 Ventures]] - concept - dossiers/2026-11-16-2.md
+- [[DERM]] - code - veilles/veille-ia-us-2026-11-21-t4.md
 
 ## Live Query (requires Dataview plugin)
 

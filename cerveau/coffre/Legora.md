@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-22-t3.md"
 type: "concept"
-community: "Microsoft"
+community: "Dell"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Microsoft
+  - community/Dell
 ---
 
 # Legora
@@ -14,4 +14,4 @@ tags:
 - [[Microsoft 365]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-22]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Microsoft
+#graphify/concept #graphify/EXTRACTED #community/Dell

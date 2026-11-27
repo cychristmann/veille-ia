@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t7.md"
 type: "concept"
-community: "AI Impact on Finance and Markets"
+community: "Hugging Face"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AI_Impact_on_Finance_and_Markets
+  - community/Hugging_Face
 ---
 
 # LightSite AI Reports Gaps in Website Answers to AI Agent Requests
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-12]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AI_Impact_on_Finance_and_Markets
+#graphify/concept #graphify/EXTRACTED #community/Hugging_Face

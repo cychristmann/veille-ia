@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Veille États-Unis 2026-11-13 : Enjeux du marché et turbulences
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Deepfake Risks]] - concept - veilles/veille-ia-cn-2026-11-26-t1.md
+- [[LLM 0.37.3]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[SQLite]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
 
 ## Live Query (requires Dataview plugin)
 

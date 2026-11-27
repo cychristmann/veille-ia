@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[YTL Power]] - concept - dossiers/2026-11-26-2.md
+- [[ConnectWise]] - concept - dossiers/2026-11-16-1.md
 
 ## Live Query (requires Dataview plugin)
 

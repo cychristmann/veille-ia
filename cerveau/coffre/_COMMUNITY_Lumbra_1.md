@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Lumbra
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Veille Chine 2026-11-18  Impact sociétal et perception]] - document - veilles/veille-ia-cn-2026-11-18-t6.md
-- [[恒生科指六连跌，市场忧AI投入侵蚀现金流｜市场观察]] - document - veilles/veille-ia-cn-2026-11-18-t6.md
+- [[Examen crucial en Corée du Sud en plein scandale de triche à l'IA]] - document - dossiers/2026-11-22-2.md
 
 ## Live Query (requires Dataview plugin)
 

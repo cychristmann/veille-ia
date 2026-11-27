@@ -53,10 +53,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Claude Code_1]]
+- 3 edges to [[_COMMUNITY_Libertify]]
 - 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_Microsoft_1]]
-- 1 edge to [[_COMMUNITY_AMD_1]]
+- 1 edge to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_AMD]]
 
 ## Top bridge nodes
 - [[AI Governance]] - degree 10, connects to 2 communities

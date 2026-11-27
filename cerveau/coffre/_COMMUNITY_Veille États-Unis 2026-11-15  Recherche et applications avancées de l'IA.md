@@ -1,19 +1,22 @@
 ---
 type: community
-members: 6
+members: 9
 ---
 
 # Veille États-Unis 2026-11-15 : Recherche et applications avancées de l'IA
 
-**Members:** 6 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[GPT-4.1]] - concept - veilles/veille-ia-us-2026-11-15-t4.md
-- [[KAIST]] - concept - veilles/veille-ia-us-2026-11-15-t4.md
-- [[Llama 3.3]] - concept - veilles/veille-ia-us-2026-11-15-t4.md
-- [[Microsoft Research]] - concept - veilles/veille-ia-us-2026-11-15-t4.md
-- [[NIH]] - concept - veilles/veille-ia-us-2026-11-15-t4.md
-- [[Veille États-Unis 2026-11-15  Recherche et applications avancées de l'IA]] - document - veilles/veille-ia-us-2026-11-15-t4.md
+- [[Cairn AI Platform]] - concept - veilles/veille-ia-cn-2026-11-23-t2.md
+- [[Veille Chine 2026-11-23  Santé et médecine assistées par l'IA]] - document - veilles/veille-ia-cn-2026-11-23-t2.md
+- [[Veille Chine 2026-11-24  Applications sectorielles]] - document - veilles/veille-ia-cn-2026-11-24-t3.md
+- [[Zhong Nanshan (钟南山)]] - concept - veilles/veille-ia-cn-2026-11-23-t2.md
+- [[大连理工大学应用人工智能联合实验室]] - concept - veilles/veille-ia-cn-2026-11-24-t3.md
+- [[江西上线具身智能软件工厂]] - concept - veilles/veille-ia-cn-2026-11-24-t3.md
+- [[简知科技]] - concept - veilles/veille-ia-cn-2026-11-24-t3.md
+- [[蚂蚁阿福]] - concept - veilles/veille-ia-cn-2026-11-24-t3.md
+- [[诺华 CEO 瓦斯·纳拉辛汉关于AI与癌症治疗的观点]] - concept - veilles/veille-ia-cn-2026-11-24-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -21,9 +24,3 @@ members: 6
 TABLE source_file, type FROM #community/Veille_États-Unis_2026-11-15__Recherche_et_applications_avancées_de_lIA
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
-
-## Top bridge nodes
-- [[KAIST]] - degree 2, connects to 1 community

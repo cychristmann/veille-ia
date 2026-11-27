@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-25-t5.md"
 type: "concept"
-community: "AMD"
+community: "Nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AMD
+  - community/Nvidia
 ---
 
 # X-VMC 2.0
@@ -14,4 +14,4 @@ tags:
 - [[Turing AI Co-driving]] - `references` [INFERRED]
 - [[Xpeng]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AMD
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

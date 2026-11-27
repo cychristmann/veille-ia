@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Sciences et Avenir]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
+- [[Claude BugHunter]] - concept - veilles/veille-ia-dev-2026-11-26-t3.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-12-t1.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-16"
+community: "Elon Musk"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-16
+  - community/Elon_Musk
 ---
 
 # Claude Meetings
@@ -16,4 +16,4 @@ tags:
 - [[Veille Outils & code 2026-11-13 (T6)]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-16]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-16
+#graphify/concept #graphify/EXTRACTED #community/Elon_Musk

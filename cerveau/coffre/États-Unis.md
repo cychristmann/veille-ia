@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0037.md"
 type: "concept"
-community: "Veille France 2026-11-19 : Autres articles"
+community: "无界进化 (INFevo)"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-19__Autres_articles
+  - community/无界进化_INFevo
 ---
 
 # États-Unis
@@ -16,4 +16,4 @@ tags:
 - [[Modèles IA Chinois]] - `references` [EXTRACTED]
 - [[Président Trump]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-19__Autres_articles
+#graphify/concept #graphify/EXTRACTED #community/无界进化_INFevo

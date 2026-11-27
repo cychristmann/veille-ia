@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-25-t1.md"
 type: "document"
-community: "Dossier : IA générative : un nouveau vecteur de menaces nucléaires"
+community: "AgentMon Live"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Dossier__IA_générative__un_nouveau_vecteur_de_menaces_nucléaires
+  - community/AgentMon_Live
 ---
 
 # Veille France 2026-11-25 : Médias, divertissement et communication
@@ -17,4 +17,4 @@ tags:
 - [[Google AI TV Patent]] - `references` [EXTRACTED]
 - [[Meta Instagram Muse]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Dossier__IA_générative__un_nouveau_vecteur_de_menaces_nucléaires
+#graphify/document #graphify/EXTRACTED #community/AgentMon_Live

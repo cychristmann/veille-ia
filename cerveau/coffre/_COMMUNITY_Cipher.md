@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Cipher
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Brave]] - concept - veilles/veille-ia-us-2026-11-09-t6.md
-- [[NEAR AI]] - concept - veilles/veille-ia-us-2026-11-09-t6.md
-- [[Veille États-Unis 2026-11-09  Autres articles]] - document - veilles/veille-ia-us-2026-11-09-t6.md
+- [[ABB]] - concept - veilles/veille-ia-us-2026-11-24-t4.md
+- [[HiPerGuard 34,5 kV]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
+- [[Intelleqt]] - concept - veilles/veille-ia-us-2026-11-24-t4.md
+- [[Veille États-Unis 2026-11-24  Produits, Services & Expériences utilisateur]] - document - veilles/veille-ia-us-2026-11-24-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,7 +21,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Meta]]
 
 ## Top bridge nodes
-- [[Veille États-Unis 2026-11-09  Autres articles]] - degree 3, connects to 1 community
+- [[Veille États-Unis 2026-11-24  Produits, Services & Expériences utilisateur]] - degree 2, connects to 1 community

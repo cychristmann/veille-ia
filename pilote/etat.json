@@ -8,13 +8,17 @@
    "Design News": {
     "depuis": "2026-11-22",
     "motif": "en panne 5 nuits d'affilée"
+   },
+   "CASRAI": {
+    "depuis": "2026-11-27",
+    "motif": "hors sujet : 13 articles écartés, aucun retenu en 7 nuits"
    }
   },
   "cn": {
    "新浪科技": {
     "depuis": "2026-11-21",
     "motif": "muet : aucun article récent sur l'IA en 4 nuits (60 articles lus)",
-    "dernier_essai": "2026-11-26 : répond, mais rien publié depuis le 2018-09-23"
+    "dernier_essai": "2026-11-27 : répond, mais rien publié depuis le 2018-09-23"
    }
   },
   "us": {
@@ -258,6 +262,24 @@
    "motif": "score actuel 70.5/100",
    "raison": "Augmenter le nombre de candidats soumis à l'IA en Chine (1.5 → 1.8) devrait diversifier les sources et augmenter le taux de liens directs.",
    "resultat": "essai pendant 3 nuits"
+  },
+  {
+   "date": "2026-11-27",
+   "action": "pause",
+   "section": "dev",
+   "source": "CASRAI",
+   "motif": "hors sujet : 13 articles écartés, aucun retenu en 7 nuits",
+   "raison": "CASRAI est hors sujet depuis 7 nuits et ne fournit aucun article utile ; il faut le mettre en pause.",
+   "resultat": ""
+  },
+  {
+   "date": "2026-11-27",
+   "action": "decouvrir",
+   "section": "toutes",
+   "source": "nouveaux médias",
+   "motif": "dernière recherche il y a 10 jours",
+   "raison": "Découvrir de nouveaux médias permettra de diversifier les sources, surtout pour la Chine où les liens directs sont faibles.",
+   "resultat": "mis à l'essai : Superpower Daily (Outils & code), Superpower Daily (États-Unis)"
   }
  ],
  "essais": {
@@ -271,6 +293,20 @@
     "depuis": "2026-11-25",
     "domaine": "leiphone.com",
     "raison": "Média technologique chinois qui publie 13 articles IA sur 20 en 72 h (65 %) et propose des contenus spécialisés IA (agents, HPC, IA appliquée), garantissant un flux pertinent et fréquent."
+   }
+  },
+  "dev": {
+   "Superpower Daily": {
+    "depuis": "2026-11-27",
+    "domaine": "superpowerdaily.com",
+    "raison": "Identique au numéro 11, forte spécialisation IA, mérite d'être ajouté."
+   }
+  },
+  "us": {
+   "Superpower Daily": {
+    "depuis": "2026-11-27",
+    "domaine": "superpowerdaily.com",
+    "raison": "43 articles IA sur 50 (86 %) ; très fort taux de publication IA, source anglophone reconnue."
    }
   }
  },
@@ -296,7 +332,7 @@
    "texte": "Augmenter le nombre de candidats soumis à l'IA dans une section où les liens directs sont faibles peut améliorer la diversité des sources et le pourcentage de liens directs."
   }
  ],
- "derniere_decouverte": "2026-11-17",
+ "derniere_decouverte": "2026-11-27",
  "reglages": {
   "cn": {
    "part_google": 1.0,

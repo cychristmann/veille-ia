@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-17-2.md"
 type: "concept"
-community: "Veille France 2026-11-25 : Société, éthique et éducation"
+community: "ChatGPT Wallet"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-25__Société_éthique_et_éducation
+  - community/ChatGPT_Wallet
 ---
 
 # Verifiable Intent
@@ -14,4 +14,4 @@ tags:
 - [[ChatGPT Wallet]] - `conceptually_related_to` [INFERRED]
 - [[Mastercard]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-25__Société_éthique_et_éducation
+#graphify/concept #graphify/EXTRACTED #community/ChatGPT_Wallet

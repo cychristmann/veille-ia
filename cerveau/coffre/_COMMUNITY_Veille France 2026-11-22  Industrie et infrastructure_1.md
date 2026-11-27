@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille Chine 2026-11-25  Autres articles]] - document - veilles/veille-ia-cn-2026-11-25-t8.md
+- [[MyClaw 3.0]] - concept - veilles/veille-ia-dev-2026-11-25-t1.md
 
 ## Live Query (requires Dataview plugin)
 

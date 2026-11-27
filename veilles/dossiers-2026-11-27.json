@@ -1,0 +1,128 @@
+{
+  "date": "2026-11-27",
+  "genere_a": "2026-11-27T09:26+01:00",
+  "dossiers": [
+    {
+      "titre": "Cyberattaques assistées par IA : exploitation du Microsoft Agent Framework contre les réseaux d’énergie et de transport européens",
+      "chapeau": "Des groupes de cybercriminels, dont certains liés à des États, détournent le Microsoft Agent Framework (outil Artex) pour mener des attaques rapides contre des infrastructures critiques. Les CSIRT européens ont récemment alerté sur la présence d’agents IA autonomes ciblant les réseaux d’énergie et de transport.",
+      "analyse": "Le Microsoft Agent Framework, publié sous le nom d’Artex, a d’abord été conçu comme un outil open‑source de test d’intrusion. Depuis août 2026, il est détourné par plusieurs groupes (Storm‑0940, Storm‑3358, Onyx Sleet, Pearl Sleet, Crystal Typhoon, Salt Typhoon) qui l’utilisent pour automatiser la reconnaissance, le vol d’identifiants et l’exploitation de vulnérabilités. Les rapports de Microsoft Threat Intelligence montrent que ces acteurs, parfois soutenus par des États, ont déjà employé Artex contre la Commission européenne et des institutions américaines, réduisant le temps nécessaire pour passer d’une intrusion initiale à un accès privilégié à moins de trois heures.\n\nEn Europe, les CSIRT ont signalé, le 27 novembre 2026, la présence d’agents IA autonomes capables de pénétrer les réseaux d’énergie et de transport via le même framework. Les attaques observées reposent sur des campagnes de pulvérisation de mots de passe (plus de 151 000 tentatives, pic de 2 900/min) et sur le vol d’identifiants Azure et GitHub obtenus lors du détournement du dépôt du framework. Les groupes exploitent ensuite les capacités d’Artex pour lancer des mouvements latéraux rapides, ce qui explique la difficulté à contenir les incidents et la nécessité de couper partiellement les systèmes, comme cela a été fait à la Commission européenne pendant dix jours.\n\nLes sources convergent sur le rôle central d’Artex comme « général d’agents IA » qui orchestre des actions coordonnées. Toutefois, certaines affirmations – notamment l’implication directe de la Chine dans les attaques contre la CIA et l’ODNI – restent basées sur des rapports journalistiques (New York Times) sans preuve technique publique, ce qui crée une incertitude quant à la chaîne de commandement exacte. De même, la portée exacte des cibles européennes (infrastructures d’énergie vs. transport) n’est pas clairement détaillée dans les alertes des CSIRT, qui évoquent simplement « réseaux critiques ».\n\nEn résumé, le détournement du Microsoft Agent Framework a transformé un outil de test en une plateforme d’attaque très efficace, permettant à des acteurs malveillants de franchir rapidement les étapes d’intrusion jusqu’à la compromission de systèmes critiques. La rapidité d’exploitation, la capacité de génération massive de tentatives de connexion et la modularité du framework rendent la détection et la réponse particulièrement complexes pour les opérateurs d’infrastructures européennes.",
+      "points_cles": [
+        "Artex, dérivé du Microsoft Agent Framework, est utilisé depuis août 2026 par plusieurs groupes criminels et étatiques pour automatiser la reconnaissance et l’exploitation des vulnérabilités.",
+        "Les attaques peuvent passer d’une intrusion initiale à un accès privilégié en moins de trois heures, grâce à l’automatisation fournie par les agents IA.",
+        "Des campagnes de mots de passe (151 000 tentatives, pic de 2 900/min) et le vol d’identifiants Azure/GitHub ont permis d’infiltrer des réseaux d’énergie et de transport européens, selon les alertes CSIRT du 27 novembre 2026.",
+        "Les sources confirment des incidents contre la Commission européenne et des institutions américaines, mais l’implication directe de la Chine reste non prouvée et repose sur des rapports journalistiques.",
+        "La modularité d’Artex rend la détection difficile, obligeant les opérateurs à des mesures d’isolation temporaires (ex. 10 jours d’arrêt partiel à la Commission européenne)."
+      ],
+      "incertitudes": [
+        "L’implication exacte de la Chine dans les attaques contre la CIA, l’ODNI et la NGA, mentionnée par le New York Times, n’est pas corroborée par des preuves techniques publiques.",
+        "La distinction précise entre les cibles d’énergie et de transport au sein des réseaux critiques européens n’est pas détaillée dans les bulletins CSIRT.",
+        "L’étendue réelle de la coopération entre les différents groupes (Storm‑0940, Storm‑3358, etc.) autour d’Artex reste floue, les sources ne précisent pas si elles partagent des infrastructures communes ou opèrent indépendamment."
+      ],
+      "feuilleton": "f-0032",
+      "angle": "Dans quelle mesure les agents IA compromis du Microsoft Agent Framework sont-ils exploités par des acteurs malveillants pour cibler les réseaux d’énergie et de transport européens ?",
+      "pourquoi": "Ces attaques montrent que l’IA devient un vecteur de menace stratégique, menaçant la sécurité publique et la souveraineté numérique.",
+      "requetes": [
+        "IA agents compromis cybersécurité infrastructures critiques Europe",
+        "IA agents Artex énergie Europe"
+      ],
+      "tours": 2,
+      "sources": [
+        {
+          "titre": "Artex : les cyberattaquants intensifient l'utilisation d'agents IA offensifs",
+          "lien": "https://www.lemondeinformatique.fr/cybersecurite-conformite/artex-les-cyberattaquants-intensifient-l-utilisation-d-agents-ia-offensifs",
+          "source": "lemondeinformatique.fr"
+        },
+        {
+          "titre": "Avec ARTEX, l'utilisation malveillante de l'IA passe un cap",
+          "lien": "https://www.linformaticien.com/magazine/cybersecurite/65539-avec-artex-l-utilisation-malveillante-de-l-ia-passe-un-cap.html",
+          "source": "linformaticien.com"
+        },
+        {
+          "titre": "Artex, un général d'agents IA soupçonné d’avoir aidé à pirater la CIA",
+          "lien": "https://www.france24.com/fr/%C3%A9co-tech/20261125-artex-g%C3%A9n%C3%A9ral-agents-ia-soup%C3%A7onn%C3%A9-avoir-aid%C3%A9-pirater-cia",
+          "source": "france24.com"
+        },
+        {
+          "titre": "ARTEX a encore frappé : l’IA est soupçonnée d’avoir piraté un réseau de la CIA",
+          "lien": "https://www.01net.com/actualites/artex-encore-frappe-ia-soupconnee-avoir-pirate-un-reseau-de-la-cia.html",
+          "source": "01net.com"
+        }
+      ]
+    },
+    {
+      "titre": "Puces photoniques IA : la prochaine révolution matérielle",
+      "chapeau": "Les processeurs photoniques promettent de réduire drastiquement la consommation énergétique des modèles d’IA de grande taille, tandis que les géants du cloud et les fabricants de puces investissent dans des architectures hybrides. Azure, Q.ANT, Intel et Tower Semiconductor se positionnent chacun à un stade différent de la chaîne de valeur, de la conception à l’intégration en data‑center.",
+      "analyse": "Depuis la fin novembre 2026, deux annonces majeures ont marqué le paysage matériel de l’IA. Azure a présenté le GPU Maia 300, une évolution du Maia 200, avec une bande passante mémoire HBM de 18 To/s et une bande passante inter‑puce de 750 Go/s, mais un TDP qui passe à 950 W. Le gain de performance est mis en avant, même si la hausse du TDP soulève des questions d’efficacité énergétique globale.\n\nParallèlement, la société photoniques Q.ANT a démontré des processeurs qui utilisent la lumière pour exécuter les calculs IA. Selon Wired, ces puces consomment moins d’énergie et nécessitent peu de refroidissement, car la lumière ne génère pas de chaleur comme les électrons. Le pilote chez IONOS et les plus de 30 équipes d’ingénieurs dédiées à l’optimisation de modèles IA montrent un engouement précoce, même si les performances chiffrées restent non divulguées.\n\nIntel, de son côté, a présenté la Xeon 6+ (Clearwater Forest) et le GPU Xe3P (Crescent Island) au Computex 2026. La Xeon 6+ promet 60 % d’amélioration d’efficacité énergétique et une réduction de 38 % de la consommation électrique en rack, grâce à 288 cœurs basse consommation et à un support mémoire DDR5‑8000. Ces annonces s’inscrivent dans une stratégie de diversification, visant cloud, télécoms et serveurs OEM, sans toutefois mentionner de technologie photonique.\n\nEnfin, Tower Semiconductor, en partenariat avec Marvell, a expédié plus de cinq millions de circuits intégrés photoniques cohérents destinés aux liaisons optiques entre data‑centers. Ces circuits, basés sur des matériaux hors silicium et des techniques d’encapsulation optique, visent à réduire la consommation énergétique du transport de données massives, un facteur indirect mais crucial de l’efficacité globale des IA.\n\nL’ensemble de ces développements montre une tension entre deux approches : l’augmentation brute de la bande passante et de la capacité de calcul (Azure, Intel) d’une part, et la réduction fondamentale de la consommation d’énergie via la photonique (Q.ANT, Tower‑Marvell) d’autre part. Les acteurs majeurs semblent converger vers des architectures hybrides où les puces électroniques classiques cohabitent avec des modules photoniques pour le traitement ou le transport de données, mais aucune source ne confirme à ce jour un produit commercial combinant ces deux technologies.",
+      "points_cles": [
+        "Azure prévoit le GPU Maia 300 (2027) avec 288 Go HBM, 18 To/s de débit et un TDP de 950 W, tout en affichant des gains d’efficacité grâce à l’architecture SDLA.",
+        "Q.ANT développe des processeurs photoniques qui consomment moins d’énergie, nécessitent peu de refroidissement et sont déjà testés dans les data‑centers d’IONOS.",
+        "Intel mise sur l’efficacité énergétique de ses nouvelles puces serveur Xeon 6+ (60 % d’amélioration) et GPU Xe3P, ciblant cloud, télécoms et serveurs OEM.",
+        "Tower Semiconductor et Marvell livrent plus de cinq millions de circuits photoniques cohérents pour les liaisons optiques haute performance entre data‑centers IA.",
+        "Les acteurs convergent vers des architectures hybrides : puissance de calcul électronique augmentée (Azure, Intel) combinée à des solutions photoniques pour le traitement ou le transport de données afin de réduire la consommation globale."
+      ],
+      "incertitudes": [
+        "Le gain énergétique réel du Maia 300 reste incertain : la hausse du TDP (950 W) contrebalancera-t-elle les améliorations de bande passante et de l’architecture SDLA ?",
+        "Les performances chiffrées des processeurs photoniques Q.ANT ne sont pas publiées ; il est difficile de comparer leur efficacité avec les GPU traditionnels.",
+        "Aucun fabricant n’a annoncé de produit combinant directement le calcul photonique et les cœurs électroniques, la viabilité d’une architecture hybride reste donc hypothétique.",
+        "L’impact réel des circuits photoniques cohérents de Tower‑Marvell sur la consommation énergétique globale des data‑centers dépendra de l’adoption à grande échelle, qui n’est pas encore mesurée."
+      ],
+      "feuilleton": "f-0038",
+      "angle": "Quel est le potentiel des puces IA basées sur la lumière pour réduire la consommation énergétique des modèles de grande taille et comment les acteurs majeurs se positionnent‑ils sur cette technologie ?",
+      "pourquoi": "Cette avancée pourrait transformer la viabilité économique de l’IA à grande échelle et redéfinir la concurrence entre fournisseurs de hardware.",
+      "requetes": [
+        "puces photoniques IA efficacité énergétique modèle grande taille",
+        "efficacité énergétique puces photoniques IA benchmarks"
+      ],
+      "tours": 2,
+      "sources": [
+        {
+          "titre": "Puces IA : l’hyperscaler Azure présente son nouveau GPU Maia 300",
+          "lien": "https://www.lemagit.fr/actualites/366652083/Puces-IA-lhyperscaler-Azure-presente-son-nouveau-Maia-300",
+          "source": "lemagit.fr"
+        },
+        {
+          "titre": "Une nouvelle génération de puces exécute les modèles IA avec des ondes de lumière",
+          "lien": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+          "source": "Wired"
+        },
+        {
+          "titre": "Intel mise sur l'efficacité énergétique avec ses puces Xeon 6+ et Xe3P",
+          "lien": "https://www.lemondeinformatique.fr/actualites/lire-intel-mise-sur-l-efficacite-energetique-avec-ses-puces-xeon-6-et-xe3p-100325.html",
+          "source": "lemondeinformatique.fr"
+        },
+        {
+          "titre": "Tower Semiconductor et Marvell franchissent le cap des cinq millions de puces photoniques pour l'IA",
+          "lien": "https://www.boursorama.com/bourse/actualites/tower-semiconductor-et-marvell-franchissent-le-cap-des-cinq-millions-de-puces-photoniques-pour-l-ia-ab06f58f69530cfa165359b65153782d",
+          "source": "boursorama.com"
+        }
+      ]
+    }
+  ],
+  "journal": [
+    "Sujet retenu : « Impact social et économique des suppressions massives chez SAP pour accélérer l'IA » — C’est la plus grande réduction d’effectifs liée à l’IA d’une entreprise européenne, avec des répercussions sur l’emploi et la compétitivité du secteur.",
+    "Sujet retenu : « Cyberattaques assistées par IA contre les infrastructures critiques en Europe » — Ces attaques montrent que l’IA devient un vecteur de menace stratégique, menaçant la sécurité publique et la souveraineté numérique.",
+    "Sujet retenu : « Puces photoniques IA : la prochaine révolution matérielle » — Cette avancée pourrait transformer la viabilité économique de l’IA à grande échelle et redéfinir la concurrence entre fournisseurs de hardware.",
+    "[Impact social et économique des suppressions massives chez SAP pour accélérer l'IA] Recherche « SAP licenciements IA impact emploi Europe » (fr) : 6 résultats.",
+    "[Impact social et économique des suppressions massives chez SAP pour accélérer l'IA] Lecture : 3 articles lisibles sur 4 ouverts.",
+    "[Impact social et économique des suppressions massives chez SAP pour accélérer l'IA] Pas assez : Un seul article ne suffit pas, il faut au moins deux sources pour couvrir l'angle demandé → nouvelle recherche « syndicats réponse IA SAP licenciements ».",
+    "[Impact social et économique des suppressions massives chez SAP pour accélérer l'IA] Recherche « syndicats réponse IA SAP licenciements » (fr) : 2 résultats.",
+    "[Impact social et économique des suppressions massives chez SAP pour accélérer l'IA] Lecture : 2 articles lisibles sur 2 ouverts.",
+    "[Impact social et économique des suppressions massives chez SAP pour accélérer l'IA] Fin de l'enquête (limite de tours ou de budget atteinte).",
+    "[Impact social et économique des suppressions massives chez SAP pour accélérer l'IA] Seulement 1 article(s) lisible(s) et pertinent(s) : trop peu pour un dossier fiable, sujet abandonné.",
+    "[Cyberattaques assistées par IA contre les infrastructures critiques en Europe] Recherche « IA agents compromis cybersécurité infrastructures critiques Europe » (fr) : 10 résultats.",
+    "[Cyberattaques assistées par IA contre les infrastructures critiques en Europe] Lecture : 3 articles lisibles sur 3 ouverts.",
+    "[Cyberattaques assistées par IA contre les infrastructures critiques en Europe] Pas assez : Les sources actuelles portent sur des attaques génériques et la Commission, pas spécifiquement sur les réseaux d'énergie et de transport européens → nouvelle recherche « IA agents Artex énergie Europe ».",
+    "[Cyberattaques assistées par IA contre les infrastructures critiques en Europe] Recherche « IA agents Artex énergie Europe » (fr) : 12 résultats.",
+    "[Cyberattaques assistées par IA contre les infrastructures critiques en Europe] Lecture : 3 articles lisibles sur 3 ouverts.",
+    "[Cyberattaques assistées par IA contre les infrastructures critiques en Europe] Fin de l'enquête (limite de tours ou de budget atteinte).",
+    "[Cyberattaques assistées par IA contre les infrastructures critiques en Europe] Dossier rédigé à partir de 4 articles.",
+    "[Puces photoniques IA : la prochaine révolution matérielle] Recherche « puces photoniques IA efficacité énergétique modèle grande taille » (en) : 2 résultats.",
+    "[Puces photoniques IA : la prochaine révolution matérielle] Lecture : 3 articles lisibles sur 4 ouverts.",
+    "[Puces photoniques IA : la prochaine révolution matérielle] Pas assez : Il manque des données chiffrées comparatives et d'autres acteurs pour étayer le potentiel énergétique et les positions du marché → nouvelle recherche « efficacité énergétique puces photoniques IA benchmarks ».",
+    "[Puces photoniques IA : la prochaine révolution matérielle] Recherche « efficacité énergétique puces photoniques IA benchmarks » (fr) : 10 résultats.",
+    "[Puces photoniques IA : la prochaine révolution matérielle] Lecture : 3 articles lisibles sur 4 ouverts.",
+    "[Puces photoniques IA : la prochaine révolution matérielle] Fin de l'enquête (limite de tours ou de budget atteinte).",
+    "[Puces photoniques IA : la prochaine révolution matérielle] Dossier rédigé à partir de 4 articles."
+  ],
+  "appels": 12
+}

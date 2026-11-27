@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0021.md"
 type: "concept"
-community: "Claude"
+community: "AI Act"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Claude
+  - community/AI_Act
 ---
 
 # Feng Runhuan
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Feuilleton L'IA en tête des risques pour la stabilité financière]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Claude
+#graphify/concept #graphify/EXTRACTED #community/AI_Act

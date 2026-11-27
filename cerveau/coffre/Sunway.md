@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-24-t1.md"
 type: "concept"
-community: "Veille France 2026-11-24 : Marché et investissements IA"
+community: "无界进化 (INFevo)"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-24__Marché_et_investissements_IA
+  - community/无界进化_INFevo
 ---
 
 # Sunway
@@ -14,4 +14,4 @@ tags:
 - [[Hewlett-Packard Enterprise]] - `shares_data_with` [EXTRACTED]
 - [[Nvidia]] - `shares_data_with` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-24__Marché_et_investissements_IA
+#graphify/concept #graphify/EXTRACTED #community/无界进化_INFevo

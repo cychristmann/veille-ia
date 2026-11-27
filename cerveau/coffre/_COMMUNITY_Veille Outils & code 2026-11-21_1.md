@@ -1,21 +1,29 @@
 ---
 type: community
-members: 8
+members: 16
 ---
 
 # Veille Outils & code 2026-11-21
 
-**Members:** 8 nodes
+**Members:** 16 nodes
 
 ## Members
-- [[Bharat Semi]] - concept - veilles/veille-ia-fr-2026-11-16-t4.md
-- [[Hy4 flash]] - concept - veilles/veille-ia-cn-2026-11-16-t1.md
-- [[IA dans la santé]] - concept - veilles/veille-ia-fr-2026-11-16-t4.md
-- [[MotrixSim1.0]] - concept - veilles/veille-ia-cn-2026-11-16-t1.md
-- [[Qwen4-Max]] - concept - veilles/veille-ia-fr-2026-11-16-t4.md
-- [[Veille Chine 2026-11-16  Modèles et fondations]] - document - veilles/veille-ia-cn-2026-11-16-t1.md
-- [[Veille France 2026-11-16  Santé, recherche médicale et biomédicale]] - document - veilles/veille-ia-fr-2026-11-16-t4.md
-- [[Vercel]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[AWS Emulator]] - concept - veilles/veille-ia-dev-2026-11-12-t2.md
+- [[AWS Quick]] - concept - veilles/veille-ia-dev-2026-11-22-t1.md
+- [[Agent Toolkit for AWS]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
+- [[Agorapulse]] - concept - veilles/veille-ia-dev-2026-11-22-t3.md
+- [[Archie]] - concept - veilles/veille-ia-dev-2026-11-21-t2.md
+- [[ClawDOS]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
+- [[Eclipse]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
+- [[Gemini Computer Use]] - concept - veilles/veille-ia-dev-2026-11-21-t2.md
+- [[Mastra]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
+- [[Meta Ads]] - concept - veilles/veille-ia-dev-2026-11-22-t1.md
+- [[Nemotron-Labs-Sigma]] - concept - veilles/veille-ia-dev-2026-11-21-t2.md
+- [[Picsart Platform]] - concept - veilles/veille-ia-dev-2026-11-21-t2.md
+- [[Smithy API Models]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[Tamekoshi]] - concept - veilles/veille-ia-dev-2026-11-21-t1.md
+- [[Veille Outils & code 2026-11-21]] - document - veilles/veille-ia-dev-2026-11-21-t2.md
+- [[WiCi Infer]] - concept - veilles/veille-ia-dev-2026-11-21-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,13 +33,19 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Claude Code_2]]
-- 1 edge to [[_COMMUNITY_Alibaba]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14  Autres articles]]
-- 1 edge to [[_COMMUNITY_Tencent_1]]
-- 1 edge to [[_COMMUNITY_SpaceX]]
+- 4 edges to [[_COMMUNITY_Dell_1]]
+- 3 edges to [[_COMMUNITY_Veille France 2026-11-20  Régulation, souveraineté et enjeux géopolitiques]]
+- 3 edges to [[_COMMUNITY_Veille Outils & code 2026-11-20]]
+- 2 edges to [[_COMMUNITY_Claude Code]]
+- 2 edges to [[_COMMUNITY_Qwen]]
+- 2 edges to [[_COMMUNITY_Amazon Bedrock AgentCore]]
+- 1 edge to [[_COMMUNITY_SpaceX_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
+- 1 edge to [[_COMMUNITY_Elon Musk]]
 
 ## Top bridge nodes
-- [[Qwen4-Max]] - degree 5, connects to 2 communities
-- [[Hy4 flash]] - degree 3, connects to 2 communities
-- [[Vercel]] - degree 2, connects to 1 community
+- [[Veille Outils & code 2026-11-21]] - degree 23, connects to 7 communities
+- [[AWS Emulator]] - degree 8, connects to 4 communities
+- [[Archie]] - degree 3, connects to 1 community
+- [[AWS Quick]] - degree 3, connects to 1 community
+- [[Picsart Platform]] - degree 2, connects to 1 community

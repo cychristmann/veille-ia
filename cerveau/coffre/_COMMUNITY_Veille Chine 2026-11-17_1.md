@@ -1,18 +1,24 @@
 ---
 type: community
-members: 5
+members: 11
 ---
 
 # Veille Chine 2026-11-17
 
-**Members:** 5 nodes
+**Members:** 11 nodes
 
 ## Members
-- [[Veille Chine 2026-11-14  IA industrielle et infrastructure]] - document - veilles/veille-ia-cn-2026-11-14-t2.md
-- [[天神之眼系统]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
-- [[比亚迪辅助驾驶车型保有量超 419 万辆]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
-- [[浙江算力规模超198EFLOPS]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
-- [[百度智能云战略合作]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[AI 新业态纳税]] - concept - veilles/veille-ia-cn-2026-11-17-t6.md
+- [[Google Cloud]] - concept - veilles/veille-ia-cn-2026-11-17-t2.md
+- [[Industrial AI]] - concept - veilles/veille-ia-cn-2026-11-17-t1.md
+- [[Kinexys]] - concept - veilles/veille-ia-cn-2026-11-18-t2.md
+- [[Kling AI]] - concept - veilles/veille-ia-cn-2026-11-18-t2.md
+- [[Kling Image 4.0]] - concept - veilles/veille-ia-cn-2026-11-17-t2.md
+- [[Pedestal AI]] - concept - veilles/veille-ia-cn-2026-11-18-t2.md
+- [[Veille Chine 2026-11-17]] - document - veilles/veille-ia-cn-2026-11-17-t6.md
+- [[Veille Chine 2026-11-18  Financement et marché]] - document - veilles/veille-ia-cn-2026-11-18-t2.md
+- [[苹果手机 AI 功能]] - concept - veilles/veille-ia-cn-2026-11-17-t6.md
+- [[识渊科技]] - concept - veilles/veille-ia-cn-2026-11-18-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -20,3 +26,16 @@ members: 5
 TABLE source_file, type FROM #community/Veille_Chine_2026-11-17
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Libertify]]
+- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_Dell]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_Jensen Huang_1]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-27]]
+
+## Top bridge nodes
+- [[Veille Chine 2026-11-17]] - degree 11, connects to 6 communities
+- [[Kinexys]] - degree 2, connects to 1 community

@@ -1,8 +1,8 @@
 {
-  "genere_a": "2026-11-26T09:19+01:00",
+  "genere_a": "2026-11-27T09:26+01:00",
   "periode": {
-    "du": "2026-11-20",
-    "au": "2026-11-26",
+    "du": "2026-11-21",
+    "au": "2026-11-27",
     "jours": 7
   },
   "precedente_jours": 7,
@@ -12,11 +12,11 @@
     "fr",
     "us"
   ],
-  "synthese": "La semaine a été marquée par l'introduction en bourse très commentée d'Anthropic, qui a entraîné une forte volatilité et des craintes de bulle sur les marchés financiers mondiaux. Les avancées autour des agents IA, notamment pour le codage avec Claude Ship et les nouveaux frameworks de Google et AWS, ont dominé l'actualité technique. La recherche scientifique a également été secouée par l'annonce d'une potentielle résolution de l'hypothèse de Riemann grâce à l'IA. Parallèlement, les tensions géopolitiques et réglementaires se sont intensifiées avec de nouvelles restrictions américaines sur l'exportation de puces Nvidia et des mesures de sécurité en Europe et en Chine. Enfin, les questions éthiques et les risques de cyberattaques automatisées par des agents malveillants continuent de préoccuper les autorités.",
+  "synthese": "Cette semaine a été marquée par une accélération de l'adoption et de la régulation de l'intelligence artificielle à l'échelle mondiale. Les agents autonomes et les outils de développement ont continué de se multiplier, tandis que des vagues d'investissements et de restructurations, comme chez SAP, ont mis en lumière la transformation profonde du marché du travail. Parallèlement, la sécurité des infrastructures critiques et la gestion des données ont suscité de vives inquiétudes, poussant les gouvernements américains et européens à renforcer les contrôles à l'exportation de puces et à encadrer l'usage des modèles avancés. Les marchés financiers ont également traversé des périodes de forte volatilité, reflétant les craintes persistantes d'une bulle et la pression sur la rentabilité des investissements en matériel. Enfin, de prétendues avancées scientifiques majeures, telles que la résolution de l'hypothèse de Riemann grâce à l'IA, ont animé les débats au sein de la communauté mathématique.",
   "montants": [
     {
-      "nom": "IPO et volatilité d'Anthropic",
-      "explication": "L'introduction en bourse d'Anthropic au Nasdaq a provoqué des mouvements boursiers importants et des craintes de surévaluation sur le marché de l'IA. Cet événement a dominé l'actualité financière et souligné les inquiétudes des investisseurs face au rythme de croissance du secteur.",
+      "nom": "Agents IA autonomes et sécurité",
+      "explication": "Le déploiement d'agents autonomes s'accélère dans le développement et les entreprises, posant de nouveaux défis en matière de cybersécurité. Des rapports et des incidents signalent leur utilisation potentielle dans des attaques ou des intrusions sur des infrastructures critiques.",
       "regions": [
         "fr",
         "us",
@@ -24,81 +24,89 @@
       ]
     },
     {
-      "nom": "Agents IA et automatisation du code",
-      "explication": "Le déploiement et l'évolution des agents autonomes, à travers des outils comme Claude Ship, le Microsoft Agent Framework ou l'Agent Compute Engine de Google, s'accélèrent. Ces solutions visent à automatiser la revue de code et la gestion des flux de développement, tout en posant de nouveaux défis de sécurité.",
+      "nom": "Régulation des puces et restrictions géopolitiques",
+      "explication": "Les autorités américaines renforcent les contrôles à l'exportation de puces et de serveurs IA vers plusieurs pays d'Asie, menaçant le développement des modèles chinois. En parallèle, des appels s'multiplient pour interdire les modèles étrangers dans les systèmes fédéraux.",
       "regions": [
-        "dev",
         "us",
-        "fr"
+        "cn"
       ]
     },
     {
-      "nom": "Restrictions sur les puces et géopolitique",
-      "explication": "Les États-Unis et Taïwan renforcent les contrôles à l'exportation et les restrictions sur les semi-conducteurs avancés, poussant Nvidia à suspendre ses livraisons vers certains pays d'Asie du Sud-Est. Ces mesures pèsent lourdement sur la chaîne d'approvisionnement des entreprises technologiques chinoises et asiatiques.",
+      "nom": "Volatilité financière et investissements",
+      "explication": "Les marchés boursiers font face à des mouvements importants et à des craintes de surévaluation, illustrés par des chutes de capitalisation chez Nvidia ou des introductions en bourse observées avec prudence. Les analystes et institutions financières s'interrogent sur la durabilité des emprunts et des dépenses massives en infrastructures.",
       "regions": [
+        "fr",
         "us",
-        "cn",
-        "fr"
+        "cn"
+      ]
+    },
+    {
+      "nom": "Résolution de l'hypothèse de Riemann",
+      "explication": "Plusieurs annonces concordantes affirment que l'intelligence artificielle, notamment via les outils d'Anthropic, a contribué à prouver l'hypothèse de Riemann. Cette percée suscite un vif intérêt ainsi qu'un scepticisme mesuré au sein de la communauté mathématique.",
+      "regions": [
+        "fr",
+        "us",
+        "cn"
       ]
     }
   ],
   "retombes": [],
   "a_surveiller": [
-    "L'impact à long terme des fluctuations boursières post-IPO d'Anthropic sur les financements des startups d'IA.",
-    "L'évolution des restrictions américaines sur les puces Nvidia et leurs conséquences sur les marchés asiatiques.",
-    "La mise en place concrète des nouveaux cadres de sécurité et des normes internationales de gouvernance de l'IA par l'Europe et la Chine.",
-    "L'adoption et la sécurisation des agents de codage autonomes dans les environnements de développement d'entreprise."
+    "L'impact des nouvelles restrictions américaines à l'exportation sur la chaîne d'approvisionnement des puces en Asie.",
+    "L'évolution des cadres réglementaires et des projets de loi visant à encadrer les agents autonomes et la protection des données privées.",
+    "La suite des vérifications concernant la validité mathématique de la preuve de l'hypothèse de Riemann assistée par l'IA.",
+    "Les répercussions économiques des restructurations d'entreprises et des investissements massifs dans les infrastructures d'IA sur les marchés financiers."
   ],
   "acteurs": [
     {
       "nom": "Anthropic",
-      "mentions": 150,
-      "mentions_precedentes": 114
+      "mentions": 127,
+      "mentions_precedentes": 144
     },
     {
       "nom": "Nvidia",
-      "mentions": 49,
-      "mentions_precedentes": 70
-    },
-    {
-      "nom": "OpenAI",
-      "mentions": 46,
-      "mentions_precedentes": 49
-    },
-    {
-      "nom": "Google",
-      "mentions": 46,
+      "mentions": 47,
       "mentions_precedentes": 53
     },
     {
-      "nom": "Amazon",
-      "mentions": 31,
-      "mentions_precedentes": 33
+      "nom": "Google",
+      "mentions": 45,
+      "mentions_precedentes": 50
     },
     {
-      "nom": "Microsoft",
-      "mentions": 27,
+      "nom": "OpenAI",
+      "mentions": 43,
       "mentions_precedentes": 54
     },
     {
+      "nom": "Amazon",
+      "mentions": 26,
+      "mentions_precedentes": 32
+    },
+    {
+      "nom": "Microsoft",
+      "mentions": 20,
+      "mentions_precedentes": 58
+    },
+    {
       "nom": "Meta",
-      "mentions": 19,
+      "mentions": 20,
       "mentions_precedentes": 9
     },
     {
       "nom": "Apple",
-      "mentions": 18,
-      "mentions_precedentes": 14
-    },
-    {
-      "nom": "Alibaba",
-      "mentions": 14,
-      "mentions_precedentes": 9
+      "mentions": 12,
+      "mentions_precedentes": 20
     },
     {
       "nom": "xAI",
-      "mentions": 12,
-      "mentions_precedentes": 7
+      "mentions": 11,
+      "mentions_precedentes": 5
+    },
+    {
+      "nom": "Alibaba",
+      "mentions": 9,
+      "mentions_precedentes": 13
     },
     {
       "nom": "DeepSeek",
@@ -111,14 +119,14 @@
       "mentions_precedentes": 2
     },
     {
-      "nom": "Union européenne",
+      "nom": "Mistral",
       "mentions": 4,
-      "mentions_precedentes": 4
+      "mentions_precedentes": 3
     },
     {
-      "nom": "Mistral",
-      "mentions": 2,
-      "mentions_precedentes": 3
+      "nom": "Union européenne",
+      "mentions": 3,
+      "mentions_precedentes": 5
     },
     {
       "nom": "Hugging Face",

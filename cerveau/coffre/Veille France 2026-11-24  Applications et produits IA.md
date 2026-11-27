@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-24-t3.md"
 type: "document"
-community: "SpaceX"
+community: "Veille Outils & code 2026-11-26"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/SpaceX
+  - community/Veille_Outils__code_2026-11-26
 ---
 
 # Veille France 2026-11-24 : Applications et produits IA
@@ -23,4 +23,4 @@ tags:
 - [[PulseLife assistant IA urgences Lyon]] - `references` [EXTRACTED]
 - [[Snowflake agents IA autonomes]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/SpaceX
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-26

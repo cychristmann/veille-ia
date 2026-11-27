@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t6.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-13 : Enjeux du marché et turbulences"
+community: "Trust3 AI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-13__Enjeux_du_marché_et_turbulences
+  - community/Trust3_AI
 ---
 
 # RELEX
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Vusion]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Enjeux_du_marché_et_turbulences
+#graphify/concept #graphify/EXTRACTED #community/Trust3_AI

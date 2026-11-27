@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-20-t6.md"
 type: "document"
-community: "Veille États-Unis 2026-11-10 : Régulation, sécurité et éthique"
+community: "Risques et dysfonctionnements liés à l'IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-10__Régulation_sécurité_et_éthique
+  - community/Risques_et_dysfonctionnements_liés_à_lIA
 ---
 
 # Veille France 2026-11-20 : Autres articles
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Risques et dysfonctionnements liés à l'IA]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-10__Régulation_sécurité_et_éthique
+#graphify/document #graphify/EXTRACTED #community/Risques_et_dysfonctionnements_liés_à_lIA

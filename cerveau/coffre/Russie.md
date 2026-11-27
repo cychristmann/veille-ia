@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-25-1.md"
 type: "concept"
-community: "Veille France 2026-11-19 : Autres articles"
+community: "无界进化 (INFevo)"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-19__Autres_articles
+  - community/无界进化_INFevo
 ---
 
 # Russie
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Convention sur certaines armes classiques]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-19__Autres_articles
+#graphify/concept #graphify/EXTRACTED #community/无界进化_INFevo

@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[SC Media]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
-- [[Veille États-Unis 2026-11-08  Perception publique et sociétale]] - document - veilles/veille-ia-us-2026-11-08-t5.md
-- [[tech-insider.org]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
-- [[vr.org]] - concept - veilles/veille-ia-us-2026-11-08-t5.md
+- [[GTM.AI API]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[Piper]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[Qualified]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[ZoomInfo]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,16 +1,18 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-26-t3.md"
+source_file: "veilles/veille-ia-cn-2026-11-27-t9.md"
 type: "concept"
-community: "Impact sociétal de l'IA"
+community: "OpenRouter"
 tags:
   - graphify/concept
-  - graphify/INFERRED
-  - community/Impact_sociétal_de_lIA
+  - graphify/EXTRACTED
+  - community/OpenRouter
 ---
 
 # Canonical
 
 ## Connections
 - [[Ubuntu Desktop]] - `conceptually_related_to` [INFERRED]
+- [[Ubuntu Desktop Launcher]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-27]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/INFERRED #community/Impact_sociétal_de_lIA
+#graphify/concept #graphify/EXTRACTED #community/OpenRouter

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-12-t7.md"
 type: "document"
-community: "AI Impact on Finance and Markets"
+community: "Hugging Face"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Impact_on_Finance_and_Markets
+  - community/Hugging_Face
 ---
 
 # Veille États-Unis 2026-11-12
@@ -27,4 +27,4 @@ tags:
 - [[PODCAST Anthropic heads for the ultimate AI benchmark]] - `cites` [EXTRACTED]
 - [[US and China are failing the same AI race, only differently]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Impact_on_Finance_and_Markets
+#graphify/document #graphify/EXTRACTED #community/Hugging_Face

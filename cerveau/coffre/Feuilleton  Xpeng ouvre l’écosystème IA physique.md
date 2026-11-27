@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0049.md"
 type: "document"
-community: "AMD"
+community: "Nvidia"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AMD
+  - community/Nvidia
 ---
 
 # Feuilleton : Xpeng ouvre l’écosystème IA physique
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Xpeng]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AMD
+#graphify/document #graphify/EXTRACTED #community/Nvidia

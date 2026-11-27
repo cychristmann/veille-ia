@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[IBOU]] - concept - dossiers/2026-11-26-3.md
+- [[Dossier  Preuve assistée par IA de l’hypothèse de Riemann]] - document - dossiers/2026-11-22-1.md
 
 ## Live Query (requires Dataview plugin)
 

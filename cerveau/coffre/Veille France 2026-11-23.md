@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-23-t6.md"
 type: "document"
-community: "CoreWeave"
+community: "Qwen4-Max"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/CoreWeave
+  - community/Qwen4-Max
 ---
 
 # Veille France 2026-11-23
@@ -25,4 +25,4 @@ tags:
 - [[IA et vitesse sociétale]] - `references` [EXTRACTED]
 - [[TikTok IA Transparence]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/CoreWeave
+#graphify/document #graphify/EXTRACTED #community/Qwen4-Max

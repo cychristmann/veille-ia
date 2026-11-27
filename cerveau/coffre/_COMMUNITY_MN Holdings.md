@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Counterpoint]] - concept - dossiers/2026-11-26-2.md
-- [[MN Holdings]] - concept - dossiers/2026-11-26-2.md
-- [[Saxo]] - concept - dossiers/2026-11-26-2.md
+- [[ARTEX AI Hacking Tool]] - concept - veilles/veille-ia-us-2026-11-16-t4.md
+- [[FBI AI Threat Reports]] - concept - veilles/veille-ia-us-2026-11-16-t4.md
+- [[Veille États-Unis 2026-11-16  Sécurité, éthique et marché financier]] - document - veilles/veille-ia-us-2026-11-16-t4.md
 
 ## Live Query (requires Dataview plugin)
 

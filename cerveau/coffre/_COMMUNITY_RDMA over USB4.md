@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Le Monde Pixels]] - concept - feuilletons/f-0027.md
-- [[Ukraine Conflict]] - concept - feuilletons/f-0027.md
+- [[WAIC 2026]] - concept - dossiers/2026-11-25-3.md
+- [[Xi Jinping]] - concept - dossiers/2026-11-25-3.md
 
 ## Live Query (requires Dataview plugin)
 

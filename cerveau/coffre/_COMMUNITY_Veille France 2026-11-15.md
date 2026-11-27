@@ -1,27 +1,24 @@
 ---
 type: community
-members: 14
+members: 11
 ---
 
 # Veille France 2026-11-15
 
-**Members:** 14 nodes
+**Members:** 11 nodes
 
 ## Members
-- [[Agences de voyages]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[Belinda Cannone]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[CEPD (Comité européen de la protection des données)]] - concept - veilles/veille-ia-fr-2026-11-15-t2.md
-- [[Celles-sur-Ource]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[Correctrice de textes (Delphine)]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[Corée du Sud]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[Dany Peuchot]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[Dispositif de secours en forêt]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[Examen des comptables fiscalistes]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[International Flavors and Fragrances (IFF)]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[Secteur financier]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[Singapour]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[Universités britanniques]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
-- [[Veille France 2026-11-15]] - document - veilles/veille-ia-fr-2026-11-15-t3.md
+- [[ByteDance]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
+- [[Deepal L07]] - concept - veilles/veille-ia-cn-2026-11-23-t6.md
+- [[Doubao]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
+- [[JD.com]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
+- [[Kimi]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
+- [[Taobao]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
+- [[Veille Chine 2026-11-12  IA dans le commerce et le divertissement]] - document - veilles/veille-ia-cn-2026-11-12-t3.md
+- [[Veille Chine 2026-11-26  IA dans l’éducation, la recherche et la société]] - document - veilles/veille-ia-cn-2026-11-26-t4.md
+- [[傲融云客]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
+- [[息壤杯]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
+- [[绿地南昌卢塞恩OPC社区]] - concept - veilles/veille-ia-cn-2026-11-12-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -31,13 +28,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_ICAID]]
-- 1 edge to [[_COMMUNITY_IBM]]
-- 1 edge to [[_COMMUNITY_Apple]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-25  Société, éthique et éducation]]
-- 1 edge to [[_COMMUNITY_Emmanuel Macron]]
-- 1 edge to [[_COMMUNITY_Débats à Saint-Tropez_1]]
-- 1 edge to [[_COMMUNITY_This Is Unreal (Spectacle)_1]]
+- 1 edge to [[_COMMUNITY_DeepSeek_1]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-23_1]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-16]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-15]] - degree 18, connects to 7 communities
+- [[Doubao]] - degree 5, connects to 1 community
+- [[Deepal L07]] - degree 2, connects to 1 community
+- [[JD.com]] - degree 2, connects to 1 community

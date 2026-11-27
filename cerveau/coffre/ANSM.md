@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-26-t2.md"
+source_file: "veilles/veille-ia-fr-2026-11-27-t3.md"
 type: "concept"
-community: "Veille IA Dev 2026-11-20 T3"
+community: "ChatGPT"
 tags:
   - graphify/concept
-  - graphify/INFERRED
-  - community/Veille_IA_Dev_2026-11-20_T3
+  - graphify/EXTRACTED
+  - community/ChatGPT
 ---
 
 # ANSM
@@ -16,5 +16,6 @@ tags:
 - [[Claude]] - `conceptually_related_to` [INFERRED]
 - [[Gemini]] - `conceptually_related_to` [INFERRED]
 - [[Veille France 2026-11-26]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-27  Santé et régulation]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/INFERRED #community/Veille_IA_Dev_2026-11-20_T3
+#graphify/concept #graphify/EXTRACTED #community/ChatGPT

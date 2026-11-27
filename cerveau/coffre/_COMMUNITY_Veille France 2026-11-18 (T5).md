@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[GTM.AI API]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
-- [[Piper]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
-- [[Qualified]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
-- [[ZoomInfo]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[AI麦可 (AI Maike)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
+- [[Veille Chine 2026-11-16  Applications sectorielles]] - document - veilles/veille-ia-cn-2026-11-16-t3.md
+- [[豆包工作 (Doubao Work)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
+- [[豆包工作台 (Doubao Workbench)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
 
 ## Live Query (requires Dataview plugin)
 

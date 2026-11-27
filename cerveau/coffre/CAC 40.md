@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-21-t2.md"
 type: "concept"
-community: "Charta Health"
+community: "Verda"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Charta_Health
+  - community/Verda
 ---
 
 # CAC 40
 
-#graphify/concept #graphify/EXTRACTED #community/Charta_Health
+#graphify/concept #graphify/EXTRACTED #community/Verda

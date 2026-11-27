@@ -1,21 +1,17 @@
 ---
 type: community
-members: 8
+members: 4
 ---
 
 # Agents IA
 
-**Members:** 8 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Adoption IA en entreprise]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
-- [[Afep-Medef]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
-- [[Chine  78 normes internationales IA]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
-- [[Google-Agent]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
-- [[IA et relation humaine]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
-- [[Impact IA sur l'information locale]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
-- [[Protection des données personnelles avec IA]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
-- [[Veille France 2026-11-25  Société, éthique et éducation]] - document - veilles/veille-ia-fr-2026-11-25-t4.md
+- [[Agents IA]] - concept - veilles/veille-ia-fr-2026-11-18-t2.md
+- [[Commonwealth Bank of Australia]] - concept - veilles/veille-ia-fr-2026-11-18-t2.md
+- [[Cybersécurité]] - concept - veilles/veille-ia-fr-2026-11-18-t3.md
+- [[Veille France 2026-11-18  Régulation, enjeux juridiques et gouvernance]] - document - veilles/veille-ia-fr-2026-11-18-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,3 +19,14 @@ members: 8
 TABLE source_file, type FROM #community/Agents_IA
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 2 edges to [[_COMMUNITY_Libertify]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-10]]
+
+## Top bridge nodes
+- [[Agents IA]] - degree 4, connects to 2 communities
+- [[Veille France 2026-11-18  Régulation, enjeux juridiques et gouvernance]] - degree 3, connects to 2 communities
+- [[Cybersécurité]] - degree 2, connects to 1 community

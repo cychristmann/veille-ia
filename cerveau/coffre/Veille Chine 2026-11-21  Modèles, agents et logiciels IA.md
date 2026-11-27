@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-21-t2.md"
 type: "document"
-community: "Veille Chine 2026-11-21 : Modèles, agents et logiciels IA"
+community: "Elon Musk"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-21__Modèles_agents_et_logiciels_IA
+  - community/Elon_Musk
 ---
 
 # Veille Chine 2026-11-21 : Modèles, agents et logiciels IA
@@ -16,4 +16,4 @@ tags:
 - [[Entire Git Forge：面向编码智能体重构 Git 协作方式]] - `references` [EXTRACTED]
 - [[智能体 AI 架构：当前挑战与未来机遇]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-21__Modèles_agents_et_logiciels_IA
+#graphify/document #graphify/EXTRACTED #community/Elon_Musk

@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0044.md"
 type: "concept"
-community: "Veille France 2026-11-24 : Marché et investissements IA"
+community: "无界进化 (INFevo)"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-24__Marché_et_investissements_IA
+  - community/无界进化_INFevo
 ---
 
 # ASML Holding
@@ -14,4 +14,4 @@ tags:
 - [[Feuilleton ASML augmente sa capacité de production pour soutenir l’essor de l’IA]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-24  Marché et investissements IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-24__Marché_et_investissements_IA
+#graphify/concept #graphify/EXTRACTED #community/无界进化_INFevo

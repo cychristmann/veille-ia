@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Entire]] - concept - veilles/veille-ia-dev-2026-11-25-t4.md
-- [[Sarvam]] - concept - veilles/veille-ia-dev-2026-11-25-t4.md
-- [[Veille Outils & code 2026-11-25  Collaborations et partenariats stratégiques]] - document - veilles/veille-ia-dev-2026-11-25-t4.md
+- [[Academic Misconduct]] - concept - veilles/veille-ia-cn-2026-11-19-t4.md
+- [[Central South University]] - concept - veilles/veille-ia-cn-2026-11-19-t4.md
+- [[Veille Chine 2026-11-19  Recherche et Éthique]] - document - veilles/veille-ia-cn-2026-11-19-t4.md
 
 ## Live Query (requires Dataview plugin)
 

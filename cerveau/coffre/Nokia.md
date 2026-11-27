@@ -1,11 +1,11 @@
 ---
-source_file: "dossiers/2026-11-19-3.md"
+source_file: "veilles/veille-ia-us-2026-11-25-t2.md"
 type: "concept"
-community: "Mistral"
+community: "Veille France 2026-11-10"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Mistral
+  - community/Veille_France_2026-11-10
 ---
 
 # Nokia
@@ -14,4 +14,4 @@ tags:
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[Orange]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Mistral
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-10

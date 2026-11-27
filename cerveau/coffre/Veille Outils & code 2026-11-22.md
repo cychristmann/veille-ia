@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-22-t2.md"
 type: "document"
-community: "Microsoft"
+community: "Dell"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Microsoft
+  - community/Dell
 ---
 
 # Veille Outils & code 2026-11-22
@@ -37,4 +37,4 @@ tags:
 - [[WaitFeed]] - `references` [EXTRACTED]
 - [[gitroots]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Microsoft
+#graphify/document #graphify/EXTRACTED #community/Dell

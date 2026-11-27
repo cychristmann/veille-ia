@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # DERM
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[DERM]] - code - veilles/veille-ia-us-2026-11-21-t4.md
+- [[EDITH Trial]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
+- [[NHS]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
 
 ## Live Query (requires Dataview plugin)
 

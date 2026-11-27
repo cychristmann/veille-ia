@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-21-3.md"
 type: "code"
-community: "Claude Code"
+community: "Libertify"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Claude_Code
+  - community/Libertify
 ---
 
 # Navier-Stokes Problem
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Claude_Code
+#graphify/code #graphify/EXTRACTED #community/Libertify

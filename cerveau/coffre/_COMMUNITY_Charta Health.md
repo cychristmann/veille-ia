@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Charta Health
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[CAC 40]] - concept - veilles/veille-ia-fr-2026-11-21-t2.md
+- [[Aion 1.0]] - concept - veilles/veille-ia-dev-2026-11-27-t1.md
+- [[Phi Silica]] - concept - veilles/veille-ia-dev-2026-11-27-t1.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Canva MCP]] - concept - veilles/veille-ia-dev-2026-11-25-t1.md
+- [[Edelbyte]] - code - veilles/veille-ia-us-2026-11-11-t4.md
 
 ## Live Query (requires Dataview plugin)
 

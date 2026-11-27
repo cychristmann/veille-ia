@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[LangGraph]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
-- [[OpenSearch]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
-- [[Redis]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
-- [[Uber Legal Redlining Agent]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[IBM Z Atlas]] - concept - veilles/veille-ia-fr-2026-11-19-t2.md
+- [[Sanofi]] - concept - veilles/veille-ia-fr-2026-11-19-t2.md
+- [[Soitec]] - concept - veilles/veille-ia-fr-2026-11-19-t2.md
+- [[Veille France 2026-11-19  Applications sectorielles de l'IA]] - document - veilles/veille-ia-fr-2026-11-19-t2.md
 
 ## Live Query (requires Dataview plugin)
 

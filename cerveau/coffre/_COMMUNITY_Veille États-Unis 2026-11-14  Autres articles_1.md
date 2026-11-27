@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille France 2026-11-22  Recherche et santé]] - document - veilles/veille-ia-fr-2026-11-22-t1.md
+- [[FDJ United]] - concept - dossiers/2026-11-26-3.md
 
 ## Live Query (requires Dataview plugin)
 
