@@ -19,7 +19,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Libertify]]
+- 1 edge to [[_COMMUNITY_Elon Musk]]
 - 1 edge to [[_COMMUNITY_David Tepper]]
 
 ## Top bridge nodes

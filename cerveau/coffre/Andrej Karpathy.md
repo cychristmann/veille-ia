@@ -1,18 +1,20 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-08-t4.md"
+source_file: "veilles/veille-ia-cn-2026-11-28-t3.md"
 type: "concept"
-community: "Claude Code"
+community: "AI Governance"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Claude_Code
+  - community/AI_Governance
 ---
 
 # Andrej Karpathy
 
 ## Connections
+- [[Civilization]] - `references` [EXTRACTED]
 - [[Claude]] - `calls` [EXTRACTED]
 - [[HackerTube]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-28  Médias, divertissement et création de contenu]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Applications concrètes et innovations IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Claude_Code
+#graphify/concept #graphify/EXTRACTED #community/AI_Governance

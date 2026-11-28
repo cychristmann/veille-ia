@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Infrastructure IA (Cloud, Supercalculateurs, Centres de données)]] - concept - veilles/veille-ia-fr-2026-11-20-t5.md
-- [[Surveillance et interprétabilité des modèles d'IA]] - concept - veilles/veille-ia-fr-2026-11-20-t5.md
-- [[Veille France 2026-11-20  Infrastructure, technologie et performance]] - document - veilles/veille-ia-fr-2026-11-20-t5.md
+- [[MAGI-2]] - concept - veilles/veille-ia-cn-2026-11-25-t1.md
+- [[Veille Chine 2026-11-25  Recherche et Développement en IA]] - document - veilles/veille-ia-cn-2026-11-25-t1.md
+- [[gBench]] - concept - veilles/veille-ia-cn-2026-11-25-t1.md
 
 ## Live Query (requires Dataview plugin)
 

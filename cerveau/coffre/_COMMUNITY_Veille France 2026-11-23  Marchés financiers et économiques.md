@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Feuilleton Snowflake lance Cortex IA générative]] - document - feuilletons/f-0013.md
+- [[LocalAI]] - code - veilles/veille-ia-dev-2026-11-28-t2.md
 
 ## Live Query (requires Dataview plugin)
 

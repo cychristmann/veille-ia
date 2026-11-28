@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t2.md"
 type: "document"
-community: "Lenovo"
+community: "Tencent"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Lenovo
+  - community/Tencent
 ---
 
 # Veille Chine 2026-11-19 : Marché, Financement & Valorisation IA
@@ -16,4 +16,4 @@ tags:
 - [[Lenovo]] - `references` [EXTRACTED]
 - [[Tencent]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Lenovo
+#graphify/document #graphify/EXTRACTED #community/Tencent

@@ -3,25 +3,25 @@
 > Chaque nuit, le pilote parie sur l'actualité des jours suivants ; les veilles
 > suivantes tranchent. Note réécrite chaque nuit.
 
-**15 gagnés sur 35** (43 %), pour une confiance moyenne de 66 %. Score de Brier : 0.3 (0,25 = hasard, 0 = parfait).
+**17 gagnés sur 38** (45 %), pour une confiance moyenne de 66 %. Score de Brier : 0.292 (0,25 = hasard, 0 = parfait).
 
-Probabilité retenue : celle de la moyenne de l'IA et de l'historique (Brier — IA 0.26, historique 0.245, moyenne 0.232).
+Probabilité retenue : celle de la moyenne de l'IA et de l'historique (Brier — IA 0.258, historique 0.237, moyenne 0.227).
 
 ## En cours
 
-- Meta : au moins 8 articles (France et États-Unis) sur les 5 prochains jours — 53 %, échéance 2026-11-28 · [[Meta]]
-- Google : au moins 8 articles (Chine) sur les 4 prochains jours — 52 %, échéance 2026-11-28 · [[Google]]
 - OpenAI : au plus 12 articles (France et États-Unis) sur les 5 prochains jours — 49 %, échéance 2026-11-30 · [[OpenAI]]
 - GitHub : au moins 14 articles (Outils & code) sur les 5 prochains jours — 58 %, échéance 2026-12-01 · [[GitHub]]
-- Claude Ship : au plus 5 articles (France et Outils & code) sur les 2 prochains jours — 67 %, échéance 2026-11-28 · [[Claude Ship]]
 - Microsoft : au moins 12 articles (France et Outils & code) sur les 5 prochains jours — 48 %, échéance 2026-12-02 · [[Microsoft]]
 - AI Agents : au plus 22 articles (États-Unis et Outils & code) sur les 3 prochains jours — 61 %, échéance 2026-11-30 · [[AI Agents]]
 
 ## Tranchés
 
+- ✅ Claude Ship : au plus 5 articles (France et Outils & code) sur les 2 prochains jours (67 %) → 0 article(s) · [[Claude Ship]]
 - ✅ AWS : au plus 5 articles (Outils & code) sur les 2 prochains jours (56 %) → 0 article(s) · [[AWS]]
+- ❌ Google : au moins 8 articles (Chine) sur les 4 prochains jours (52 %) → 5 article(s) · [[Google]]
 - ✅ Claude Code : au plus 10 articles (Outils & code) sur les 2 prochains jours (52 %) → 10 article(s) · [[Claude Code]]
 - ❌ Anthropic : au moins 30 articles (France et États-Unis) sur les 3 prochains jours (54 %) → 12 article(s) · [[Anthropic]]
+- ✅ Meta : au moins 8 articles (France et États-Unis) sur les 5 prochains jours (53 %) → 9 article(s) · [[Meta]]
 - ❌ China : au moins 8 articles (Chine) sur les 4 prochains jours (56 %) → 4 article(s) · [[China]]
 - ✅ GitHub : au plus 12 articles (Outils & code) sur les 2 prochains jours (54 %) → 3 article(s) · [[GitHub]]
 - ❌ Agents IA : au moins 9 articles (Chine) sur les 4 prochains jours (53 %) → 4 article(s) · [[Agents IA]]
@@ -46,6 +46,3 @@ Probabilité retenue : celle de la moyenne de l'IA et de l'historique (Brier —
 - ✅ Google : au plus 1 article (Chine) sur les 4 prochains jours (73 %) → 1 article(s) · [[Google]]
 - ❌ Anthropic : au moins 22 articles (France et États-Unis) sur les 3 prochains jours (68 %) → 9 article(s) · [[Anthropic]]
 - ❌ China : au plus 3 articles (Chine) sur les 3 prochains jours (73 %) → 5 article(s) · [[China]]
-- ✅ Claude Code : au moins 10 articles (Outils & code) sur les 4 prochains jours (68 %) → 38 article(s) · [[Claude Code]]
-- ❌ OpenAI : au moins 15 articles (États-Unis et Outils & code) sur les 3 prochains jours (71 %) → 10 article(s) · [[OpenAI]]
-- ✅ Claude Fable : au plus 3 articles (France et Outils & code) sur les 3 prochains jours (58 %) → 0 article(s) · [[Claude Fable]]

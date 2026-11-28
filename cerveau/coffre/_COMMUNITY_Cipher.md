@@ -1,17 +1,18 @@
 ---
 type: community
-members: 4
+members: 5
 ---
 
 # Cipher
 
-**Members:** 4 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[ABB]] - concept - veilles/veille-ia-us-2026-11-24-t4.md
-- [[HiPerGuard 34,5 kV]] - concept - veilles/veille-ia-fr-2026-11-18-t1.md
-- [[Intelleqt]] - concept - veilles/veille-ia-us-2026-11-24-t4.md
-- [[Veille États-Unis 2026-11-24  Produits, Services & Expériences utilisateur]] - document - veilles/veille-ia-us-2026-11-24-t4.md
+- [[Veille Chine 2026-11-14  IA industrielle et infrastructure]] - document - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[天神之眼系统]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[比亚迪辅助驾驶车型保有量超 419 万辆]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[浙江算力规模超198EFLOPS]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
+- [[百度智能云战略合作]] - concept - veilles/veille-ia-cn-2026-11-14-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,9 +20,3 @@ members: 4
 TABLE source_file, type FROM #community/Cipher
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Meta]]
-
-## Top bridge nodes
-- [[Veille États-Unis 2026-11-24  Produits, Services & Expériences utilisateur]] - degree 2, connects to 1 community

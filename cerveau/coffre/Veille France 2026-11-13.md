@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-13-t1.md"
+source_file: "veilles/veille-ia-fr-2026-11-13-t3.md"
 type: "document"
-community: "Jensen Huang"
+community: "Veille France 2026-11-20 : Régulation, souveraineté et enjeux géopolitiques"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Jensen_Huang
+  - community/Veille_France_2026-11-20__Régulation_souveraineté_et_enjeux_géopolitiques
 ---
 
 # Veille France 2026-11-13
@@ -23,4 +23,4 @@ tags:
 - [[SpaceX]] - `references` [EXTRACTED]
 - [[xFusion]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Jensen_Huang
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-20__Régulation_souveraineté_et_enjeux_géopolitiques

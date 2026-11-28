@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-21-t3.md"
 type: "code"
-community: "Libertify"
+community: "Elon Musk"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Libertify
+  - community/Elon_Musk
 ---
 
 # OpenAI
@@ -19,8 +19,11 @@ tags:
 - [[Agents IA]] - `conceptually_related_to` [EXTRACTED]
 - [[Amex]] - `references` [EXTRACTED]
 - [[Amplitude Wave]] - `references` [EXTRACTED]
-- [[Anthropic]] - `conceptually_related_to` [INFERRED]
+- [[Anthropic]] - `conceptually_related_to` [EXTRACTED]
 - [[Apollo Research]] - `references` [EXTRACTED]
+- [[Apple]] - `cites` [EXTRACTED]
+- [[Apple]] - `conceptually_related_to` [EXTRACTED]
+- [[Apple]] - `references` [EXTRACTED]
 - [[Apple AI Agent]] - `conceptually_related_to` [EXTRACTED]
 - [[Arizona Attorney General]] - `cites` [EXTRACTED]
 - [[Business Hub]] - `references` [EXTRACTED]
@@ -33,6 +36,8 @@ tags:
 - [[ChatGPT Enterprise]] - `references` [EXTRACTED]
 - [[ChatGPT Wallet]] - `references` [INFERRED]
 - [[Cisco]] - `references` [EXTRACTED]
+- [[Clubic]] - `cites` [EXTRACTED]
+- [[Codex]] - `references` [INFERRED]
 - [[Commerce Partner Playbook]] - `references` [EXTRACTED]
 - [[Control Room]] - `references` [EXTRACTED]
 - [[Cursor]] - `references` [EXTRACTED]
@@ -40,6 +45,7 @@ tags:
 - [[Donald Trump]] - `references` [EXTRACTED]
 - [[Dossier  IA générative  un nouveau vecteur de menaces nucléaires]] - `references` [EXTRACTED]
 - [[Dossier OpenAI sous le feu des enquêtes]] - `references` [EXTRACTED]
+- [[Dossier OpenAI vs Apple]] - `references` [EXTRACTED]
 - [[Feuilleton OpenAI visé par une enquête pénale]] - `references` [EXTRACTED]
 - [[Feuilleton Wall Street en déroute]] - `conceptually_related_to` [INFERRED]
 - [[Fujitsu]] - `conceptually_related_to` [EXTRACTED]
@@ -47,8 +53,10 @@ tags:
 - [[GPT-6 Astra]] - `conceptually_related_to` [INFERRED]
 - [[GPT-6.2 Sol]] - `references` [EXTRACTED]
 - [[Hugging Face]] - `references` [EXTRACTED]
+- [[Jony Ive]] - `conceptually_related_to` [EXTRACTED]
 - [[July 2026 AI Incident]] - `references` [EXTRACTED]
 - [[LVMH]] - `references` [EXTRACTED]
+- [[Le Monde Pixels]] - `cites` [EXTRACTED]
 - [[Legal Advocates for Science & Technology (LASST)]] - `references` [EXTRACTED]
 - [[METR]] - `references` [EXTRACTED]
 - [[Martin Cid Magazine]] - `cites` [EXTRACTED]
@@ -58,6 +66,7 @@ tags:
 - [[Mubadala]] - `references` [EXTRACTED]
 - [[Navier-Stokes Problem]] - `references` [EXTRACTED]
 - [[Obsidian]] - `references` [EXTRACTED]
+- [[OpenAI and Apple Lawsuit]] - `references` [EXTRACTED]
 - [[Oracle]] - `references` [EXTRACTED]
 - [[Perplexity Orchestrator API]] - `references` [EXTRACTED]
 - [[Radeon Linux Driver]] - `references` [EXTRACTED]
@@ -66,6 +75,7 @@ tags:
 - [[Sam Altman]] - `references` [EXTRACTED]
 - [[Saudi Government]] - `references` [EXTRACTED]
 - [[Shirudo]] - `conceptually_related_to` [EXTRACTED]
+- [[Tribunal fédéral de San Jose]] - `references` [EXTRACTED]
 - [[Trump Administration]] - `conceptually_related_to` [EXTRACTED]
 - [[US Criminal Investigation]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - `references` [EXTRACTED]
@@ -73,6 +83,7 @@ tags:
 - [[Veille Chine 2026-11-17]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-19  Régulation & Gouvernance IA]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-26]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-28  Régulation, politique et gouvernance]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08  Régulation, politique et enjeux sociétaux]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-10]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-11]] - `references` [EXTRACTED]
@@ -84,6 +95,8 @@ tags:
 - [[Veille France 2026-11-23  Adoption industrielle et entreprises]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-27]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-27  Société, éthique et culture]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-28]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-28  Sécurité et abus]] - `references` [EXTRACTED]
 - [[Veille IA Dev 2026-11-20 T3]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-14]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-17]] - `references` [EXTRACTED]
@@ -97,5 +110,6 @@ tags:
 - [[Veille États-Unis 2026-11-24  Sécurité, Éthique & Régulation]] - `references` [EXTRACTED]
 - [[Visa]] - `references` [EXTRACTED]
 - [[Wikimedia Foundation]] - `references` [EXTRACTED]
+- [[每日经济新闻]] - `cites` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Libertify
+#graphify/code #graphify/EXTRACTED #community/Elon_Musk

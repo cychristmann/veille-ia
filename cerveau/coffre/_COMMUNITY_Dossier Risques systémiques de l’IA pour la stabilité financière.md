@@ -1,20 +1,35 @@
 ---
 type: community
-members: 7
+members: 22
 ---
 
 # Dossier: Risques systémiques de l’IA pour la stabilité financière
 
-**Members:** 7 nodes
+**Members:** 22 nodes
 
 ## Members
-- [[AI Cyberattack]] - concept - dossiers/2026-11-18-2.md
-- [[GCHQ]] - concept - dossiers/2026-11-18-2.md
-- [[GLM 5.2]] - concept - dossiers/2026-11-18-2.md
-- [[Hugging Face]] - concept - dossiers/2026-11-23-1.md
-- [[Irene Solaiman]] - concept - veilles/veille-ia-us-2026-11-10-t2.md
-- [[July 2026 AI Incident]] - concept - dossiers/2026-11-23-1.md
-- [[NCSC]] - concept - dossiers/2026-11-18-2.md
+- [[AI Market Volatility]] - concept - veilles/veille-ia-us-2026-11-26-t2.md
+- [[Andrew Bailey]] - concept - dossiers/2026-11-14-2.md
+- [[Artificial Intelligence]] - concept - feuilletons/f-0021.md
+- [[Autorités chinoises]] - concept - dossiers/2026-11-14-2.md
+- [[Banque Centrale Européenne (BCE)]] - concept - dossiers/2026-11-14-2.md
+- [[BlackRock]] - concept - veilles/veille-ia-us-2026-11-19-t2.md
+- [[Centre international dédié à l'intelligence artificielle militaire (Rennes)]] - concept - veilles/veille-ia-fr-2026-11-23-t1.md
+- [[Comité de l'usage de l'intelligence artificielle (Santé)]] - concept - veilles/veille-ia-fr-2026-11-23-t1.md
+- [[Dossier  IA  risque systémique pour la stabilité financière]] - document - dossiers/2026-11-14-2.md
+- [[Federal Reserve]] - concept - dossiers/2026-11-14-2.md
+- [[Feng Runhuan]] - concept - feuilletons/f-0021.md
+- [[Feuilleton L'IA en tête des risques pour la stabilité financière]] - document - feuilletons/f-0021.md
+- [[Financial Stability Board (FSB)]] - concept - dossiers/2026-11-14-2.md
+- [[Impact économique de l'IA]] - concept - veilles/veille-ia-us-2026-11-25-t1.md
+- [[Inquiétudes sur la dette liée à l'IA]] - concept - veilles/veille-ia-us-2026-11-25-t1.md
+- [[Larry Fink]] - concept - veilles/veille-ia-us-2026-11-19-t2.md
+- [[Risque systémique de l'IA]] - concept - dossiers/2026-11-14-2.md
+- [[South Korean Financial Watchdog]] - concept - veilles/veille-ia-us-2026-11-19-t2.md
+- [[Veille France 2026-11-23  Régulation et gouvernance]] - document - veilles/veille-ia-fr-2026-11-23-t1.md
+- [[Veille États-Unis 2026-11-19  Régulation et politique]] - document - veilles/veille-ia-us-2026-11-19-t2.md
+- [[Veille États-Unis 2026-11-25  Impact économique et marchés]] - document - veilles/veille-ia-us-2026-11-25-t1.md
+- [[Veille États-Unis 2026-11-26  Impact économique et marché]] - document - veilles/veille-ia-us-2026-11-26-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,16 +39,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Libertify]]
-- 1 edge to [[_COMMUNITY_Copilot]]
-- 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Meta]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
 - 1 edge to [[_COMMUNITY_David Tepper]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-12]]
-- 1 edge to [[_COMMUNITY_DeepSeek]]
+- 1 edge to [[_COMMUNITY_China]]
 
 ## Top bridge nodes
-- [[Hugging Face]] - degree 9, connects to 5 communities
-- [[AI Cyberattack]] - degree 7, connects to 4 communities
-- [[July 2026 AI Incident]] - degree 2, connects to 1 community
+- [[AI Market Volatility]] - degree 5, connects to 2 communities
+- [[Veille États-Unis 2026-11-19  Régulation et politique]] - degree 4, connects to 1 community

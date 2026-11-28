@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Enterprise RAG Systems]] - concept - veilles/veille-ia-dev-2026-11-16-t5.md
-- [[Veille Outils & code 2026-11-16  Recherche, méthodologies et analyses d’agents IA]] - document - veilles/veille-ia-dev-2026-11-16-t5.md
+- [[Agent Client Protocol (ACP)]] - concept - veilles/veille-ia-dev-2026-11-20-t2.md
+- [[Symposium]] - concept - veilles/veille-ia-dev-2026-11-20-t2.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-20-t1.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-08 : Autres articles"
+community: "Cipher"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/Veille_États-Unis_2026-11-08__Autres_articles
+  - community/Cipher
 ---
 
 # Cipher
@@ -14,4 +14,4 @@ tags:
 - [[IREN]] - `conceptually_related_to` [INFERRED]
 - [[TeraWulf]] - `conceptually_related_to` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/Veille_États-Unis_2026-11-08__Autres_articles
+#graphify/concept #graphify/INFERRED #community/Cipher

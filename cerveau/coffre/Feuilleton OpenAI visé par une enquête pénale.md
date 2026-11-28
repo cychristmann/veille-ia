@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0009.md"
 type: "document"
-community: "Libertify"
+community: "Elon Musk"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Libertify
+  - community/Elon_Musk
 ---
 
 # Feuilleton: OpenAI visé par une enquête pénale
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Libertify
+#graphify/document #graphify/EXTRACTED #community/Elon_Musk

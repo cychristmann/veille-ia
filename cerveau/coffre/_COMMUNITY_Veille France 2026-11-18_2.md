@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Le Monde Informatique]] - document - dossiers/2026-11-20-2.md
+- [[Telia]] - concept - dossiers/2026-11-19-3.md
 
 ## Live Query (requires Dataview plugin)
 

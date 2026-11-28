@@ -12,6 +12,7 @@ tags:
 
 ## Connections
 - [[Amazon Employees for Climate Justice]] - `references` [EXTRACTED]
+- [[Apple]] - `conceptually_related_to` [INFERRED]
 - [[Comité d'experts français]] - `references` [EXTRACTED]
 - [[Decart]] - `references` [EXTRACTED]
 - [[Feuilleton Amazon acquiert la startup IA Decart]] - `references` [EXTRACTED]

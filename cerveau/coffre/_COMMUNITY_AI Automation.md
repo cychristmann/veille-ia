@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[AI Automation]] - concept - dossiers/2026-11-17-3.md
-- [[Job Market]] - concept - dossiers/2026-11-17-3.md
-- [[Policy Responses]] - concept - dossiers/2026-11-17-3.md
+- [[Veille Outils & code 2026-11-14  Bibliothèques, outils et releases open‑source]] - document - veilles/veille-ia-dev-2026-11-14-t4.md
+- [[XYBench]] - concept - veilles/veille-ia-dev-2026-11-14-t4.md
+- [[agent-desktop]] - concept - veilles/veille-ia-dev-2026-11-14-t4.md
 
 ## Live Query (requires Dataview plugin)
 

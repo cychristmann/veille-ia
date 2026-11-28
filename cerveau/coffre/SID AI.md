@@ -1,11 +1,11 @@
 ---
-source_file: "feuilletons/f-0031.md"
+source_file: "veilles/veille-ia-us-2026-11-18-t1.md"
 type: "concept"
-community: "Microsoft Outlook Outage"
+community: "Veille Chine 2026-11-17"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Microsoft_Outlook_Outage
+  - community/Veille_Chine_2026-11-17
 ---
 
 # SID AI
@@ -15,4 +15,4 @@ tags:
 - [[SID-2 Agentic Search Model]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-18 (T1)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Microsoft_Outlook_Outage
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-17

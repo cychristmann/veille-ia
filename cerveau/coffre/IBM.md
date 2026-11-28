@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0030.md"
 type: "concept"
-community: "Google"
+community: "IBM"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Google
+  - community/IBM
 ---
 
 # IBM
@@ -20,4 +20,4 @@ tags:
 - [[Veille États-Unis 2026-11-17  Développements technologiques et infrastructure]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-17  Marchés et finance]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Google
+#graphify/concept #graphify/EXTRACTED #community/IBM

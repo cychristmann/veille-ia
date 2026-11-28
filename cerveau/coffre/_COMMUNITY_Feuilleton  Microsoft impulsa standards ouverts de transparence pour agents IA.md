@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Feuilleton  Microsoft impulsa standards ouverts de transparence pour agents IA]] - document - feuilletons/f-0039.md
-- [[Foro3D]] - concept - feuilletons/f-0039.md
+- [[Craig Federighi]] - concept - dossiers/2026-11-20-1.md
+- [[John Ternus]] - concept - dossiers/2026-11-20-1.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Your Algorithm]] - concept - veilles/veille-ia-dev-2026-11-25-t1.md
+- [[Ming-Chi Kuo]] - concept - dossiers/2026-11-13-1.md
 
 ## Live Query (requires Dataview plugin)
 

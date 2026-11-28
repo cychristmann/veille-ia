@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Beijing University of Posts and Telecommunications]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Sysdig]] - concept - dossiers/2026-11-21-1.md
 
 ## Live Query (requires Dataview plugin)
 

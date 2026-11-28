@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-27-t4.md"
 type: "document"
-community: "Veille Chine 2026-11-23"
+community: "Meta"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-23
+  - community/Meta
 ---
 
 # Veille États-Unis 2026-11-27 : Marchés financiers et investissements IA
@@ -18,4 +18,4 @@ tags:
 - [[Nvidia]] - `cites` [EXTRACTED]
 - [[Oracle]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-23
+#graphify/document #graphify/EXTRACTED #community/Meta

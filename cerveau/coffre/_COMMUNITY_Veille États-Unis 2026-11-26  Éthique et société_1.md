@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille États-Unis 2026-11-26  Éthique et société]] - document - veilles/veille-ia-us-2026-11-26-t4.md
+- [[Ternary Bonsai 2.5]] - concept - veilles/veille-ia-dev-2026-11-27-t1.md
 
 ## Live Query (requires Dataview plugin)
 

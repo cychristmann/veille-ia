@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-14-t6.md"
 type: "document"
-community: "WAIC 2026"
+community: "CVS Health"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/WAIC_2026
+  - community/CVS_Health
 ---
 
 # Veille États-Unis 2026-11-14
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[CVS Health]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/WAIC_2026
+#graphify/document #graphify/EXTRACTED #community/CVS_Health

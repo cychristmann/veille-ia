@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Academic Misconduct]] - concept - veilles/veille-ia-cn-2026-11-19-t4.md
-- [[Central South University]] - concept - veilles/veille-ia-cn-2026-11-19-t4.md
-- [[Veille Chine 2026-11-19  Recherche et Éthique]] - document - veilles/veille-ia-cn-2026-11-19-t4.md
+- [[French Government]] - concept - feuilletons/f-0023.md
+- [[Military AI Center (Rennes)]] - concept - feuilletons/f-0023.md
+- [[NATO]] - concept - feuilletons/f-0023.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -8,13 +8,13 @@ members: 7
 **Members:** 7 nodes
 
 ## Members
-- [[Acteurs du secteur privé IA (Anthropic, OpenAI, Elon Musk)]] - concept - dossiers/2026-11-24-1.md
-- [[Appel à l’action de Bridgetown]] - document - dossiers/2026-11-24-1.md
-- [[Dossier  Vers un cadre mondial de sécurité de l’IA]] - document - dossiers/2026-11-24-1.md
-- [[France]] - concept - dossiers/2026-11-24-1.md
-- [[SALA (Systèmes d'armes létales autonomes)]] - concept - dossiers/2026-11-25-1.md
-- [[Sommet spécial de Bridgetown]] - concept - dossiers/2026-11-24-1.md
-- [[Sud global]] - concept - dossiers/2026-11-24-1.md
+- [[Antidote IA Assistant]] - concept - veilles/veille-ia-fr-2026-11-26-t5.md
+- [[FET Token]] - concept - veilles/veille-ia-fr-2026-11-26-t5.md
+- [[My Channel]] - concept - veilles/veille-ia-fr-2026-11-26-t5.md
+- [[Ubuntu IA Launcher]] - concept - veilles/veille-ia-fr-2026-11-26-t5.md
+- [[Uttar Pradesh IA Initiative]] - concept - veilles/veille-ia-fr-2026-11-26-t5.md
+- [[Veille France 2026-11-26  Recherche, innovation et futur de l’IA]] - document - veilles/veille-ia-fr-2026-11-26-t5.md
+- [[WikiAgritech Enquêtes]] - concept - veilles/veille-ia-fr-2026-11-26-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,3 +22,11 @@ members: 7
 TABLE source_file, type FROM #community/DeepSeek
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
+
+## Top bridge nodes
+- [[Veille France 2026-11-26  Recherche, innovation et futur de l’IA]] - degree 7, connects to 1 community
+- [[My Channel]] - degree 2, connects to 1 community

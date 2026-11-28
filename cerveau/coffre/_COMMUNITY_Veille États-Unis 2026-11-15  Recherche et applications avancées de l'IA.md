@@ -8,15 +8,15 @@ members: 9
 **Members:** 9 nodes
 
 ## Members
-- [[Cairn AI Platform]] - concept - veilles/veille-ia-cn-2026-11-23-t2.md
-- [[Veille Chine 2026-11-23  Santé et médecine assistées par l'IA]] - document - veilles/veille-ia-cn-2026-11-23-t2.md
-- [[Veille Chine 2026-11-24  Applications sectorielles]] - document - veilles/veille-ia-cn-2026-11-24-t3.md
-- [[Zhong Nanshan (钟南山)]] - concept - veilles/veille-ia-cn-2026-11-23-t2.md
-- [[大连理工大学应用人工智能联合实验室]] - concept - veilles/veille-ia-cn-2026-11-24-t3.md
-- [[江西上线具身智能软件工厂]] - concept - veilles/veille-ia-cn-2026-11-24-t3.md
-- [[简知科技]] - concept - veilles/veille-ia-cn-2026-11-24-t3.md
-- [[蚂蚁阿福]] - concept - veilles/veille-ia-cn-2026-11-24-t3.md
-- [[诺华 CEO 瓦斯·纳拉辛汉关于AI与癌症治疗的观点]] - concept - veilles/veille-ia-cn-2026-11-24-t3.md
+- [[01net.com]] - concept - dossiers/2026-11-17-3.md
+- [[Dossier  Fracture IA entre l’Occident et la Chine]] - document - dossiers/2026-11-28-3.md
+- [[Dossier L’impact de l’automatisation par l’IA]] - document - dossiers/2026-11-17-3.md
+- [[OCDE]] - concept - dossiers/2026-11-17-3.md
+- [[PwC]] - concept - dossiers/2026-11-17-3.md
+- [[journaldunet.com]] - document - dossiers/2026-11-28-3.md
+- [[latribune.fr]] - concept - dossiers/2026-11-17-3.md
+- [[rts.ch]] - document - dossiers/2026-11-28-3.md
+- [[zdnet.fr]] - document - dossiers/2026-11-28-3.md
 
 ## Live Query (requires Dataview plugin)
 

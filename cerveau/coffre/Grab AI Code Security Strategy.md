@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-20-t7.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-24 : Marchés financiers & Investissements"
+community: "Veille Chine 2026-11-20"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-24__Marchés_financiers__Investissements
+  - community/Veille_Chine_2026-11-20
 ---
 
 # Grab AI Code Security Strategy
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-20]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-24__Marchés_financiers__Investissements
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-20

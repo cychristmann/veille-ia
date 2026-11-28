@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-19-t2.md"
 type: "document"
-community: "AI Act"
+community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Act
+  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
 ---
 
 # Veille États-Unis 2026-11-19 : Régulation et politique
@@ -16,4 +16,4 @@ tags:
 - [[Federal Reserve]] - `references` [EXTRACTED]
 - [[South Korean Financial Watchdog]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Act
+#graphify/document #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière

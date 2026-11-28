@@ -1,14 +1,16 @@
 ---
 type: community
-members: 1
+members: 3
 ---
 
 # Pretxt
 
-**Members:** 1 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Claude Haiku 4.5]] - concept - veilles/veille-ia-dev-2026-11-26-t3.md
+- [[Namazu Small]] - concept - veilles/veille-ia-dev-2026-11-27-t1.md
+- [[Nemotron 3 Nano]] - concept - veilles/veille-ia-dev-2026-11-27-t1.md
+- [[Sakana Namazu Small]] - concept - veilles/veille-ia-dev-2026-11-28-t1.md
 
 ## Live Query (requires Dataview plugin)
 

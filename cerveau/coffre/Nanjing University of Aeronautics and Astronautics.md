@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "code"
-community: "Veille France 2026-11-24"
+community: "Wuhan University of Science and Technology"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-24
+  - community/Wuhan_University_of_Science_and_Technology
 ---
 
 # Nanjing University of Aeronautics and Astronautics
 
-#graphify/code #graphify/EXTRACTED #community/Veille_France_2026-11-24
+#graphify/code #graphify/EXTRACTED #community/Wuhan_University_of_Science_and_Technology

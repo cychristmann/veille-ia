@@ -1,8 +1,8 @@
 {
-  "genere_a": "2026-11-27T09:26+01:00",
+  "genere_a": "2026-11-28T08:50+01:00",
   "periode": {
-    "du": "2026-11-21",
-    "au": "2026-11-27",
+    "du": "2026-11-22",
+    "au": "2026-11-28",
     "jours": 7
   },
   "precedente_jours": 7,
@@ -12,81 +12,66 @@
     "fr",
     "us"
   ],
-  "synthese": "Cette semaine a été marquée par une accélération de l'adoption et de la régulation de l'intelligence artificielle à l'échelle mondiale. Les agents autonomes et les outils de développement ont continué de se multiplier, tandis que des vagues d'investissements et de restructurations, comme chez SAP, ont mis en lumière la transformation profonde du marché du travail. Parallèlement, la sécurité des infrastructures critiques et la gestion des données ont suscité de vives inquiétudes, poussant les gouvernements américains et européens à renforcer les contrôles à l'exportation de puces et à encadrer l'usage des modèles avancés. Les marchés financiers ont également traversé des périodes de forte volatilité, reflétant les craintes persistantes d'une bulle et la pression sur la rentabilité des investissements en matériel. Enfin, de prétendues avancées scientifiques majeures, telles que la résolution de l'hypothèse de Riemann grâce à l'IA, ont animé les débats au sein de la communauté mathématique.",
+  "synthese": "La semaine a été marquée par une accélération de l'adoption des agents IA et des débats intenses sur la régulation et la sécurité, notamment avec l'implication des gouvernements face aux risques de cyberattaques et aux décisions judiciaires. Les marchés financiers et industriels ont oscillé entre des investissements massifs dans les puces, les data centers et les craintes de surévaluation ou de bulle, avec une attention particulière portée aux stratégies boursières de Nvidia et aux acquisitions de géants comme Amazon. Dans le domaine de la recherche et de la santé, des avancées majeures ont été signalées, telles que l'aide de l'IA dans la preuve de l'hypothèse de Riemann et des diagnostics médicaux accrus. Enfin, le secteur du développement logiciel a vu la prolifération d'outils d'automatisation des pull-requests et de gestion de code par des agents spécialisés.",
   "montants": [
     {
-      "nom": "Agents IA autonomes et sécurité",
-      "explication": "Le déploiement d'agents autonomes s'accélère dans le développement et les entreprises, posant de nouveaux défis en matière de cybersécurité. Des rapports et des incidents signalent leur utilisation potentielle dans des attaques ou des intrusions sur des infrastructures critiques.",
+      "nom": "Agents IA et automatisation du code",
+      "explication": "Les outils d'agents autonomes, à l'instar de Claude Ship et des plateformes de codage, se multiplient pour automatiser les pull-requests et la revue de code. Cette tendance transforme le développement logiciel tout en posant des défis de sécurité et de gestion de la mémoire.",
       "regions": [
-        "fr",
         "us",
-        "cn"
+        "dev"
       ]
     },
     {
-      "nom": "Régulation des puces et restrictions géopolitiques",
-      "explication": "Les autorités américaines renforcent les contrôles à l'exportation de puces et de serveurs IA vers plusieurs pays d'Asie, menaçant le développement des modèles chinois. En parallèle, des appels s'multiplient pour interdire les modèles étrangers dans les systèmes fédéraux.",
+      "nom": "Régulation et encadrement juridique de l'IA",
+      "explication": "Les gouvernements et autorités à travers le monde renforcent les lois et les contrôles pour encadrer l'usage de l'IA, de la sécurité des données aux décisions judiciaires. Des projets de sanctions internationales et de nouvelles normes émergent face aux risques de deepfakes et d'abus.",
       "regions": [
         "us",
-        "cn"
+        "cn",
+        "fr"
       ]
     },
     {
-      "nom": "Volatilité financière et investissements",
-      "explication": "Les marchés boursiers font face à des mouvements importants et à des craintes de surévaluation, illustrés par des chutes de capitalisation chez Nvidia ou des introductions en bourse observées avec prudence. Les analystes et institutions financières s'interrogent sur la durabilité des emprunts et des dépenses massives en infrastructures.",
+      "nom": "Inquiétudes financières et bulle des marchés IA",
+      "explication": "La rentabilité des investissements et l'explosion de l'endettement des entreprises spécialisées alimentent les craintes d'un krach boursier ou d'une correction. Malgré des rachats et des investissements massifs, les fluctuations des actions de Nvidia et les restrictions à l'exportation fragilisent le secteur.",
       "regions": [
-        "fr",
         "us",
-        "cn"
-      ]
-    },
-    {
-      "nom": "Résolution de l'hypothèse de Riemann",
-      "explication": "Plusieurs annonces concordantes affirment que l'intelligence artificielle, notamment via les outils d'Anthropic, a contribué à prouver l'hypothèse de Riemann. Cette percée suscite un vif intérêt ainsi qu'un scepticisme mesuré au sein de la communauté mathématique.",
-      "regions": [
         "fr",
-        "us",
         "cn"
       ]
     }
   ],
   "retombes": [],
   "a_surveiller": [
-    "L'impact des nouvelles restrictions américaines à l'exportation sur la chaîne d'approvisionnement des puces en Asie.",
-    "L'évolution des cadres réglementaires et des projets de loi visant à encadrer les agents autonomes et la protection des données privées.",
-    "La suite des vérifications concernant la validité mathématique de la preuve de l'hypothèse de Riemann assistée par l'IA.",
-    "Les répercussions économiques des restructurations d'entreprises et des investissements massifs dans les infrastructures d'IA sur les marchés financiers."
+    "L'évolution des restrictions américaines à l'exportation de puces et leurs répercussions sur les marchés asiatiques et mondiaux.",
+    "L'impact de l'adoption des agents IA autonomes sur la sécurité des infrastructures critiques et la prévention des cyberattaques.",
+    "La validation et la portée réelle de l'utilisation de l'intelligence artificielle dans la résolution de problèmes mathématiques complexes comme l'hypothèse de Riemann."
   ],
   "acteurs": [
     {
       "nom": "Anthropic",
       "mentions": 127,
-      "mentions_precedentes": 144
-    },
-    {
-      "nom": "Nvidia",
-      "mentions": 47,
-      "mentions_precedentes": 53
+      "mentions_precedentes": 142
     },
     {
       "nom": "Google",
-      "mentions": 45,
-      "mentions_precedentes": 50
+      "mentions": 47,
+      "mentions_precedentes": 48
     },
     {
       "nom": "OpenAI",
-      "mentions": 43,
-      "mentions_precedentes": 54
+      "mentions": 46,
+      "mentions_precedentes": 53
+    },
+    {
+      "nom": "Nvidia",
+      "mentions": 40,
+      "mentions_precedentes": 57
     },
     {
       "nom": "Amazon",
-      "mentions": 26,
-      "mentions_precedentes": 32
-    },
-    {
-      "nom": "Microsoft",
-      "mentions": 20,
-      "mentions_precedentes": 58
+      "mentions": 22,
+      "mentions_precedentes": 33
     },
     {
       "nom": "Meta",
@@ -94,38 +79,43 @@
       "mentions_precedentes": 9
     },
     {
+      "nom": "Microsoft",
+      "mentions": 15,
+      "mentions_precedentes": 58
+    },
+    {
       "nom": "Apple",
-      "mentions": 12,
-      "mentions_precedentes": 20
+      "mentions": 15,
+      "mentions_precedentes": 22
     },
     {
       "nom": "xAI",
-      "mentions": 11,
-      "mentions_precedentes": 5
+      "mentions": 9,
+      "mentions_precedentes": 6
     },
     {
       "nom": "Alibaba",
       "mentions": 9,
-      "mentions_precedentes": 13
+      "mentions_precedentes": 14
     },
     {
       "nom": "DeepSeek",
-      "mentions": 5,
-      "mentions_precedentes": 6
+      "mentions": 6,
+      "mentions_precedentes": 5
     },
     {
       "nom": "ByteDance",
-      "mentions": 5,
+      "mentions": 6,
       "mentions_precedentes": 2
     },
     {
       "nom": "Mistral",
       "mentions": 4,
-      "mentions_precedentes": 3
+      "mentions_precedentes": 4
     },
     {
       "nom": "Union européenne",
-      "mentions": 3,
+      "mentions": 2,
       "mentions_precedentes": 5
     },
     {

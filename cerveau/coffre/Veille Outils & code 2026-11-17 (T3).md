@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-17-t3.md"
 type: "document"
-community: "SpaceX"
+community: "Veille Outils & code 2026-11-21"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/SpaceX
+  - community/Veille_Outils__code_2026-11-21
 ---
 
 # Veille Outils & code 2026-11-17 (T3)
@@ -17,4 +17,4 @@ tags:
 - [[Qwen4-Max]] - `references` [EXTRACTED]
 - [[Rubin]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/SpaceX
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-21

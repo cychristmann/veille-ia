@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-12-t3.md"
 type: "concept"
-community: "Veille France 2026-11-15"
+community: "Tencent"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-15
+  - community/Tencent
 ---
 
 # Kimi
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Doubao]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-15
+#graphify/concept #graphify/EXTRACTED #community/Tencent

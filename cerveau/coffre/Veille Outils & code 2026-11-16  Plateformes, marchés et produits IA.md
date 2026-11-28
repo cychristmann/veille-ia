@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-16-t4.md"
 type: "document"
-community: "Odystoria"
+community: "AWS Budgets"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Odystoria
+  - community/AWS_Budgets
 ---
 
 # Veille Outils & code 2026-11-16 : Plateformes, marchés et produits IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Kindo]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Odystoria
+#graphify/document #graphify/EXTRACTED #community/AWS_Budgets

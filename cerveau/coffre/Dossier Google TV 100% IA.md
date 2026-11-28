@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-25-2.md"
 type: "document"
-community: "Veille Outils & code 2026-11-27"
+community: "Veille Chine 2026-11-17"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-27
+  - community/Veille_Chine_2026-11-17
 ---
 
 # Dossier: Google TV 100% IA
@@ -15,4 +15,4 @@ tags:
 - [[Proposition de loi Darcos]] - `references` [EXTRACTED]
 - [[Wavestone]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-27
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-17

@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille France 2026-11-24]] - document - veilles/veille-ia-fr-2026-11-24-t5.md
+- [[Brevis Arca AI]] - concept - veilles/veille-ia-dev-2026-11-18-t1.md
 
 ## Live Query (requires Dataview plugin)
 

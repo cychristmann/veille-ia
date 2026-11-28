@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-16-t2.md"
 type: "code"
-community: "Veille France 2026-11-25"
+community: "Veille Chine 2026-11-16"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-25
+  - community/Veille_Chine_2026-11-16
 ---
 
 # Intel
@@ -19,4 +19,4 @@ tags:
 - [[Xe3P (Crescent Island)]] - `references` [EXTRACTED]
 - [[Xeon 6+ (Clearwater Forest)]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Veille_France_2026-11-25
+#graphify/code #graphify/EXTRACTED #community/Veille_Chine_2026-11-16

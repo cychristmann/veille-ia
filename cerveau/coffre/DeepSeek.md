@@ -22,5 +22,6 @@ tags:
 - [[Veille Outils & code 2026-11-25]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-14  Économie, Marchés et Investissements]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-21  Régulation & Géopolitique]] - `references` [EXTRACTED]
+- [[Veille États-Unis 2026-11-28]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/DeepSeek

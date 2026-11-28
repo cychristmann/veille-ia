@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Veille Chine 2026-11-22 : Percées scientifiques et mathématiques grâce à l'IA
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[Conjecture de Riemann]] - concept - veilles/veille-ia-cn-2026-11-22-t3.md
-- [[Shing-Tung Yau]] - concept - veilles/veille-ia-cn-2026-11-22-t3.md
-- [[Veille Chine 2026-11-22  Percées scientifiques et mathématiques grâce à l'IA]] - document - veilles/veille-ia-cn-2026-11-22-t3.md
+- [[Japan's draft AI law]] - concept - veilles/veille-ia-us-2026-11-28-t1.md
+- [[Michelle Hinchey]] - concept - veilles/veille-ia-us-2026-11-28-t1.md
+- [[New York court AI bill]] - concept - veilles/veille-ia-us-2026-11-28-t1.md
+- [[Veille États-Unis 2026-11-28  Régulation et législation]] - document - veilles/veille-ia-us-2026-11-28-t1.md
 
 ## Live Query (requires Dataview plugin)
 

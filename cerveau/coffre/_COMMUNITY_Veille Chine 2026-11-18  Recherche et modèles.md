@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Feuilleton Nouvelle génération de puces IA fonctionnant avec des ondes de lumière]] - document - feuilletons/f-0038.md
-- [[Puces photoniques]] - concept - feuilletons/f-0038.md
+- [[datasette-cluster-map]] - concept - veilles/veille-ia-dev-2026-11-15-t4.md
+- [[datasette-leaflet]] - concept - veilles/veille-ia-dev-2026-11-15-t4.md
 
 ## Live Query (requires Dataview plugin)
 

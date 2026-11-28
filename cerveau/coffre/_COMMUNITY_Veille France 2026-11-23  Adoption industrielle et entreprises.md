@@ -10,7 +10,7 @@ members: 12
 ## Members
 - [[Arrow Electronics]] - concept - veilles/veille-ia-fr-2026-11-23-t2.md
 - [[Bureau Veritas]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
-- [[CASRAI]] - concept - veilles/veille-ia-us-2026-11-16-t5.md
+- [[CASRAI]] - concept - veilles/veille-ia-us-2026-11-18-t3.md
 - [[China Securities Regulatory Commission]] - concept - veilles/veille-ia-us-2026-11-18-t3.md
 - [[EDPB]] - concept - veilles/veille-ia-us-2026-11-16-t5.md
 - [[GPT-5.1]] - concept - veilles/veille-ia-fr-2026-11-23-t2.md
@@ -29,15 +29,15 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Libertify]]
 - 2 edges to [[_COMMUNITY_Microsoft]]
-- 1 edge to [[_COMMUNITY_Apple]]
+- 2 edges to [[_COMMUNITY_Elon Musk]]
+- 1 edge to [[_COMMUNITY_Apple_1]]
 - 1 edge to [[_COMMUNITY_Google]]
 - 1 edge to [[_COMMUNITY_Amazon]]
-- 1 edge to [[_COMMUNITY_Elon Musk]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-18]]
-- 1 edge to [[_COMMUNITY_Huawei]]
-- 1 edge to [[_COMMUNITY_Jensen Huang]]
+- 1 edge to [[_COMMUNITY_Elon Musk_1]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-13  Développements et investissements corporatifs]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-27]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-26_1]]
 
 ## Top bridge nodes
 - [[Veille France 2026-11-23  Adoption industrielle et entreprises]] - degree 10, connects to 6 communities

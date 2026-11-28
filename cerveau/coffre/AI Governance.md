@@ -12,7 +12,7 @@ tags:
 
 ## Connections
 - [[AI Security and Risks]] - `conceptually_related_to` [INFERRED]
-- [[Chine]] - `references` [EXTRACTED]
+- [[China]] - `references` [EXTRACTED]
 - [[Feuilleton Guterres presse les États à créer un cadre mondial de sécurité de l’IA]] - `conceptually_related_to` [INFERRED]
 - [[Li Qiang]] - `references` [EXTRACTED]
 - [[Microsoft]] - `references` [EXTRACTED]

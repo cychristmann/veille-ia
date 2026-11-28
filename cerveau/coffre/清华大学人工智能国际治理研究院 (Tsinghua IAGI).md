@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-11-t4.md"
 type: "concept"
-community: "Craig Federighi"
+community: "Impact sociétal de l'IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Craig_Federighi
+  - community/Impact_sociétal_de_lIA
 ---
 
 # 清华大学人工智能国际治理研究院 (Tsinghua IAGI)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-11 Régulation et gouvernance]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Craig_Federighi
+#graphify/concept #graphify/EXTRACTED #community/Impact_sociétal_de_lIA

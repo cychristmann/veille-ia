@@ -1,11 +1,11 @@
 ---
-source_file: "feuilletons/f-0003.md"
+source_file: "dossiers/2026-11-20-3.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-17"
+community: "David Tepper"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-17
+  - community/David_Tepper
 ---
 
 # Nasdaq
@@ -13,5 +13,6 @@ tags:
 ## Connections
 - [[Anthropic]] - `references` [EXTRACTED]
 - [[Anthropic IPO]] - `references` [EXTRACTED]
+- [[IPO d'Anthropic]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-17
+#graphify/concept #graphify/EXTRACTED #community/David_Tepper

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-10-t7.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-10 : Autres articles"
+community: "Taotian Group"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-10__Autres_articles
+  - community/Taotian_Group
 ---
 
 # Venture Global
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-10  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-10__Autres_articles
+#graphify/concept #graphify/EXTRACTED #community/Taotian_Group

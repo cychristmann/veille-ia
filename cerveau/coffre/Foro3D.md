@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0039.md"
 type: "concept"
-community: "Feuilleton : Microsoft impulsa standards ouverts de transparence pour agents IA"
+community: "Veille États-Unis 2026-11-13 : Enjeux du marché et turbulences"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Feuilleton__Microsoft_impulsa_standards_ouverts_de_transparence_pour_agents_IA
+  - community/Veille_États-Unis_2026-11-13__Enjeux_du_marché_et_turbulences
 ---
 
 # Foro3D
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Feuilleton  Microsoft impulsa standards ouverts de transparence pour agents IA]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Feuilleton__Microsoft_impulsa_standards_ouverts_de_transparence_pour_agents_IA
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Enjeux_du_marché_et_turbulences

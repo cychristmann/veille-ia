@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Arnaques à l’IA]] - concept - veilles/veille-ia-fr-2026-11-16-t1.md
-- [[Cybersécurité et IA]] - concept - veilles/veille-ia-fr-2026-11-16-t1.md
-- [[Veille France 2026-11-16  Régulation, sécurité et gouvernance]] - document - veilles/veille-ia-fr-2026-11-16-t1.md
+- [[ARTEX AI Hacking Tool]] - concept - veilles/veille-ia-us-2026-11-16-t4.md
+- [[FBI AI Threat Reports]] - concept - veilles/veille-ia-us-2026-11-16-t4.md
+- [[Veille États-Unis 2026-11-16  Sécurité, éthique et marché financier]] - document - veilles/veille-ia-us-2026-11-16-t4.md
 
 ## Live Query (requires Dataview plugin)
 

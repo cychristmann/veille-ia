@@ -1,16 +1,17 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-27-t3.md"
 type: "concept"
-community: "Firefox"
+community: "Mistral AI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Firefox
+  - community/Mistral_AI
 ---
 
 # Mistral Small 4
 
 ## Connections
 - [[Firefox]] - `references` [EXTRACTED]
+- [[Mozilla]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Firefox
+#graphify/concept #graphify/EXTRACTED #community/Mistral_AI

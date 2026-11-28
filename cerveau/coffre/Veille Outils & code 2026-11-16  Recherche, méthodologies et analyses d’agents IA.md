@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-16-t5.md"
 type: "document"
-community: "Veille États-Unis 2026-11-10 : Régulation, sécurité et éthique"
+community: "L&T Technology Services"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-10__Régulation_sécurité_et_éthique
+  - community/LT_Technology_Services
 ---
 
 # Veille Outils & code 2026-11-16 : Recherche, méthodologies et analyses d’agents IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Enterprise RAG Systems]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-10__Régulation_sécurité_et_éthique
+#graphify/document #graphify/EXTRACTED #community/LT_Technology_Services

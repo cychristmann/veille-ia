@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-26-3.md"
 type: "concept"
-community: "SpaceX"
+community: "Project Starmind"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/SpaceX
+  - community/Project_Starmind
 ---
 
 # Project Starmind
@@ -19,4 +19,4 @@ tags:
 - [[Vera]] - `references` [EXTRACTED]
 - [[Viasat]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/SpaceX
+#graphify/concept #graphify/EXTRACTED #community/Project_Starmind

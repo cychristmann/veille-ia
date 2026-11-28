@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Wuhan University of Science and Technology]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
+- [[Veille France 2026-11-09  Régulation, sécurité et enjeux géopolitiques]] - document - veilles/veille-ia-fr-2026-11-09-t3.md
 
 ## Live Query (requires Dataview plugin)
 

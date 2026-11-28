@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[L&T Technology Services]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
-- [[SDVault.ai]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
+- [[Enterprise RAG Systems]] - concept - veilles/veille-ia-dev-2026-11-16-t5.md
+- [[Veille Outils & code 2026-11-16  Recherche, méthodologies et analyses d’agents IA]] - document - veilles/veille-ia-dev-2026-11-16-t5.md
 
 ## Live Query (requires Dataview plugin)
 

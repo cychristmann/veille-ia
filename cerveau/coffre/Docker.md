@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-26-t5.md"
 type: "concept"
-community: "Veille France 2026-11-12 : Marchés financiers et investissements IA"
+community: "Huawei"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-12__Marchés_financiers_et_investissements_IA
+  - community/Huawei
 ---
 
 # Docker
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-26]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-12__Marchés_financiers_et_investissements_IA
+#graphify/concept #graphify/EXTRACTED #community/Huawei

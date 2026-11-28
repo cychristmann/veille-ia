@@ -18,7 +18,7 @@
    "新浪科技": {
     "depuis": "2026-11-21",
     "motif": "muet : aucun article récent sur l'IA en 4 nuits (60 articles lus)",
-    "dernier_essai": "2026-11-27 : répond, mais rien publié depuis le 2018-09-23"
+    "dernier_essai": "2026-11-28 : répond, mais rien publié depuis le 2018-09-23"
    }
   },
   "us": {
@@ -280,6 +280,15 @@
    "motif": "dernière recherche il y a 10 jours",
    "raison": "Découvrir de nouveaux médias permettra de diversifier les sources, surtout pour la Chine où les liens directs sont faibles.",
    "resultat": "mis à l'essai : Superpower Daily (Outils & code), Superpower Daily (États-Unis)"
+  },
+  {
+   "date": "2026-11-28",
+   "action": "experimenter",
+   "section": "fr",
+   "source": "fenêtre de collecte (heures) 24 → 36",
+   "motif": "score actuel 78.0/100",
+   "raison": "Allonger la fenêtre de collecte à 36 h en France pourrait augmenter le taux de liens directs et la nouveauté des sources.",
+   "resultat": "essai pendant 3 nuits"
   }
  ],
  "essais": {
@@ -345,7 +354,8 @@
    "part_google": 1.0
   },
   "fr": {
-   "part_google": 1.0
+   "part_google": 1.0,
+   "heures_min": 36
   }
  },
  "experiences": {
@@ -356,6 +366,14 @@
    "base": 70.5,
    "depuis": "2026-11-26",
    "hypothese": "Augmenter le nombre de candidats soumis à l'IA en Chine (1.5 → 1.8) devrait diversifier les sources et augmenter le taux de liens directs."
+  },
+  "fr": {
+   "param": "heures_min",
+   "avant": 24,
+   "apres": 36,
+   "base": 78.0,
+   "depuis": "2026-11-28",
+   "hypothese": "Allonger la fenêtre de collecte à 36 h en France pourrait augmenter le taux de liens directs et la nouveauté des sources."
   }
  },
  "experiences_passees": [

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-12-t7.md"
 type: "concept"
-community: "Tencent"
+community: "Veille Outils & code 2026-11-12"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Tencent
+  - community/Veille_Outils__code_2026-11-12
 ---
 
 # Viirtue MCP
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Outils & code 2026-11-12]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Tencent
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-11-t2.md"
 type: "concept"
-community: "GPT-6 Astra"
+community: "Nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Nvidia
 ---
 
 # CAA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[ECHO]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

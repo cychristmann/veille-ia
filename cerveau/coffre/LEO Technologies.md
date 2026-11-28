@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-22-t4.md"
 type: "concept"
-community: "Veille Chine 2026-11-12"
+community: "Your Algorithm"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-12
+  - community/Your_Algorithm
 ---
 
 # LEO Technologies
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Verus]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-12
+#graphify/concept #graphify/EXTRACTED #community/Your_Algorithm

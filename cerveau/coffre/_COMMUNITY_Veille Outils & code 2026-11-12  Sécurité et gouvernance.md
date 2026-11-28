@@ -1,20 +1,19 @@
 ---
 type: community
-members: 7
+members: 6
 ---
 
 # Veille Outils & code 2026-11-12 : Sécurité et gouvernance
 
-**Members:** 7 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Expo Cloud Simulators for AI Coding Agents]] - concept - veilles/veille-ia-dev-2026-11-12-t6.md
-- [[Granite 4.1]] - code - veilles/veille-ia-dev-2026-11-13-t5.md
-- [[LLMON]] - code - veilles/veille-ia-dev-2026-11-13-t5.md
-- [[LiquidCodec]] - code - veilles/veille-ia-dev-2026-11-13-t5.md
-- [[Veille Outils & code 2026-11-12  Outils et frameworks divers]] - document - veilles/veille-ia-dev-2026-11-12-t6.md
-- [[Veille Outils & code 2026-11-13 (T5)]] - document - veilles/veille-ia-dev-2026-11-13-t5.md
-- [[llm-gemini]] - code - veilles/veille-ia-dev-2026-11-13-t5.md
+- [[AI encryption breakthroughs]] - concept - veilles/veille-ia-us-2026-11-28-t3.md
+- [[Agentic AI]] - concept - veilles/veille-ia-us-2026-11-23-t5.md
+- [[GT13 Hackers]] - concept - veilles/veille-ia-us-2026-11-28-t3.md
+- [[Scott Aaronson]] - concept - dossiers/2026-11-28-2.md
+- [[Veille États-Unis 2026-11-23  Autres articles]] - document - veilles/veille-ia-us-2026-11-23-t5.md
+- [[Veille États-Unis 2026-11-28  Sécurité et risques]] - document - veilles/veille-ia-us-2026-11-28-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,9 +23,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Claude Code]]
-- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
+- 1 edge to [[_COMMUNITY_Dossier  Risque de rupture du chiffrement face aux avancées mathématiques de l’IA]]
 
 ## Top bridge nodes
-- [[Veille Outils & code 2026-11-13 (T5)]] - degree 5, connects to 1 community
-- [[llm-gemini]] - degree 2, connects to 1 community
+- [[Scott Aaronson]] - degree 2, connects to 1 community

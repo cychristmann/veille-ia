@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille États-Unis 2026-11-12  IA dans l'éducation et la société]] - document - veilles/veille-ia-us-2026-11-12-t4.md
+- [[Feuilleton DeepMind présente Gemini Robotics 2.5]] - document - feuilletons/f-0010.md
 
 ## Live Query (requires Dataview plugin)
 

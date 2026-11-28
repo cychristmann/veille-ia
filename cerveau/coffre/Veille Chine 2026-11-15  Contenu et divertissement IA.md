@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-15-t1.md"
 type: "document"
-community: "Veille Outils & code 2026-11-21"
+community: "China"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-21
+  - community/China
 ---
 
 # Veille Chine 2026-11-15 : Contenu et divertissement IA
@@ -15,4 +15,4 @@ tags:
 - [[Sanxingdui Future Past]] - `references` [EXTRACTED]
 - [[投资界]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-21
+#graphify/document #graphify/EXTRACTED #community/China

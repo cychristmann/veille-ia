@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-19-2.md"
 type: "concept"
-community: "Riemann Hypothesis"
+community: "Veille France 2026-11-12"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Riemann_Hypothesis
+  - community/Veille_France_2026-11-12
 ---
 
 # METR
@@ -14,4 +14,4 @@ tags:
 - [[OpenAI]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-21  Anthropic & Riemann]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Riemann_Hypothesis
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-12

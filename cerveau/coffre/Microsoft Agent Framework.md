@@ -1,5 +1,5 @@
 ---
-source_file: "dossiers/2026-11-27-1.md"
+source_file: "veilles/veille-ia-dev-2026-11-20-t1.md"
 type: "concept"
 community: "Veille Outils & code 2026-11-20"
 tags:
@@ -12,9 +12,10 @@ tags:
 
 ## Connections
 - [[ARTEX]] - `conceptually_related_to` [EXTRACTED]
-- [[Azure]] - `shares_data_with` [EXTRACTED]
-- [[CSIRT Européen]] - `references` [EXTRACTED]
-- [[GitHub]] - `shares_data_with` [EXTRACTED]
+- [[Azure]] - `references` [EXTRACTED]
+- [[CSIRT Europe]] - `references` [EXTRACTED]
+- [[GitHub]] - `references` [EXTRACTED]
+- [[PyPI]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-18  Sécurité des agents et frameworks IA]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-20]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-21]] - `references` [EXTRACTED]

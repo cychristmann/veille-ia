@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-27-t1.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-27"
+community: "Veille Chine 2026-11-17"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-27
+  - community/Veille_Chine_2026-11-17
 ---
 
 # Next
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[SAP]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-27
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-17

@@ -1,11 +1,11 @@
 ---
 type: community
-members: 26
+members: 24
 ---
 
 # Copilot
 
-**Members:** 26 nodes
+**Members:** 24 nodes
 
 ## Members
 - [[AA Coding Agent]] - concept - feuilletons/f-0010.md
@@ -13,13 +13,11 @@ members: 26
 - [[Copilot]] - concept - veilles/veille-ia-dev-2026-11-14-t5.md
 - [[Cuttlefish]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
 - [[Darren Mowry]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
-- [[Fable 5.2]] - concept - feuilletons/f-0003.md
+- [[Fable 5.2]] - concept - veilles/veille-ia-dev-2026-11-18-t1.md
 - [[GPT-6.2 Sol]] - concept - veilles/veille-ia-dev-2026-11-18-t1.md
 - [[Gemini 4 Neon]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
 - [[GitHub Code Scanning]] - concept - veilles/veille-ia-dev-2026-11-14-t5.md
 - [[GitHub Enterprise Server]] - concept - veilles/veille-ia-dev-2026-11-14-t5.md
-- [[Ignite 2026]] - concept - feuilletons/f-0029.md
-- [[MAI Code 2]] - concept - veilles/veille-ia-dev-2026-11-18-t1.md
 - [[Opus 5.5]] - concept - veilles/veille-ia-cn-2026-11-11-t2.md
 - [[Puffin]] - concept - veilles/veille-ia-dev-2026-11-17-t2.md
 - [[Shengquan Group]] - concept - veilles/veille-ia-cn-2026-11-11-t2.md
@@ -43,31 +41,30 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_GPT-6 Astra_2]]
-- 3 edges to [[_COMMUNITY_Microsoft]]
 - 3 edges to [[_COMMUNITY_Claude Code]]
-- 2 edges to [[_COMMUNITY_Libertify]]
+- 3 edges to [[_COMMUNITY_Veille France 2026-11-12  Régulation, éthique et impacts sociétaux]]
+- 3 edges to [[_COMMUNITY_Veille Chine 2026-11-11  Marchés et investissements_1]]
+- 2 edges to [[_COMMUNITY_Nvidia]]
+- 2 edges to [[_COMMUNITY_AMD_1]]
+- 2 edges to [[_COMMUNITY_SpaceX_1]]
+- 2 edges to [[_COMMUNITY_Veille Chine 2026-11-27  Finance, services et transformation digitale]]
 - 2 edges to [[_COMMUNITY_David Tepper]]
-- 2 edges to [[_COMMUNITY_Gemini 4 Hydrogen]]
-- 2 edges to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
-- 2 edges to [[_COMMUNITY_Amazon Bedrock AgentCore]]
-- 2 edges to [[_COMMUNITY_Veille Outils & code 2026-11-15]]
-- 2 edges to [[_COMMUNITY_Veille Outils & code 2026-11-26]]
-- 2 edges to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière_1]]
-- 1 edge to [[_COMMUNITY_Claude Code_1]]
-- 1 edge to [[_COMMUNITY_Jensen Huang_2]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20]]
-- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-25  IA dans la culture et les médias]]
-- 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Dell_1]]
-- 1 edge to [[_COMMUNITY_Elon Musk]]
-- 1 edge to [[_COMMUNITY_Dossier Risques systémiques de l’IA pour la stabilité financière]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-12]]
+- 2 edges to [[_COMMUNITY_Elon Musk]]
+- 1 edge to [[_COMMUNITY_Apple]]
 - 1 edge to [[_COMMUNITY_Meta]]
-- 1 edge to [[_COMMUNITY_Qwen4-Max]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Microsoft]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-26]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-22  Marchés et finance_1]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-25]]
+- 1 edge to [[_COMMUNITY_Elon Musk_1]]
+- 1 edge to [[_COMMUNITY_Claude Code_1]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-21]]
 
 ## Top bridge nodes
-- [[Copilot]] - degree 19, connects to 10 communities
+- [[Copilot]] - degree 19, connects to 11 communities
 - [[Veille Outils & code 2026-11-17]] - degree 16, connects to 7 communities
 - [[Gemini 4 Neon]] - degree 10, connects to 4 communities
 - [[Opus 5.5]] - degree 7, connects to 3 communities

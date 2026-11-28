@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Trust3 AI
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Agentic AI]] - concept - veilles/veille-ia-us-2026-11-23-t5.md
-- [[Veille États-Unis 2026-11-23  Autres articles]] - document - veilles/veille-ia-us-2026-11-23-t5.md
+- [[Veille Chine 2026-11-27  Environnement, énergie et applications physiques]] - document - veilles/veille-ia-cn-2026-11-27-t7.md
 
 ## Live Query (requires Dataview plugin)
 

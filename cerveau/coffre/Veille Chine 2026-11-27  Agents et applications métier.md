@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-27-t1.md"
 type: "document"
-community: "Veille France 2026-11-22 : Marchés et finance"
+community: "China"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-22__Marchés_et_finance
+  - community/China
 ---
 
 # Veille Chine 2026-11-27 : Agents et applications métier
@@ -17,4 +17,4 @@ tags:
 - [[猎聘招聘智能体Lily]] - `references` [EXTRACTED]
 - [[生成式人工智能零售业全景深化白皮书（2026）]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-22__Marchés_et_finance
+#graphify/document #graphify/EXTRACTED #community/China

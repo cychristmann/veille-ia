@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[OpenClaw]] - concept - veilles/veille-ia-dev-2026-11-23-t2.md
+- [[DeepL]] - concept - dossiers/2026-11-26-3.md
 
 ## Live Query (requires Dataview plugin)
 

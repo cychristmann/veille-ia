@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Nubia]] - concept - veilles/veille-ia-fr-2026-11-12-t5.md
-- [[Veille France 2026-11-12  Produits grand public et IA générative]] - document - veilles/veille-ia-fr-2026-11-12-t5.md
+- [[Context Studio]] - concept - veilles/veille-ia-fr-2026-11-28-t3.md
+- [[Starburst]] - concept - veilles/veille-ia-fr-2026-11-28-t3.md
 
 ## Live Query (requires Dataview plugin)
 

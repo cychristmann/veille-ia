@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # FDJ United
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Sysdig]] - concept - dossiers/2026-11-21-1.md
+- [[OpenAI Foundation]] - concept - veilles/veille-ia-us-2026-11-15-t5.md
+- [[Veille États-Unis 2026-11-15  Régulation, sécurité et éthique de l'IA]] - document - veilles/veille-ia-us-2026-11-15-t5.md
 
 ## Live Query (requires Dataview plugin)
 

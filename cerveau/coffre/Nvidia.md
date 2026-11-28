@@ -1,5 +1,5 @@
 ---
-source_file: "dossiers/2026-11-12-3.md"
+source_file: "veilles/veille-ia-us-2026-11-22-t3.md"
 type: "concept"
 community: "Nvidia"
 tags:
@@ -24,6 +24,7 @@ tags:
 - [[Colette Kress]] - `references` [EXTRACTED]
 - [[CoreWeave]] - `conceptually_related_to` [INFERRED]
 - [[DGX Spark]] - `references` [EXTRACTED]
+- [[Dan Ives]] - `conceptually_related_to` [EXTRACTED]
 - [[David Tepper]] - `references` [EXTRACTED]
 - [[Decart]] - `references` [EXTRACTED]
 - [[DeepSeek]] - `conceptually_related_to` [INFERRED]

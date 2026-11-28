@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[FDJ United]] - concept - dossiers/2026-11-26-3.md
+- [[Feuilleton  OpenAI accuse Apple de vol de secrets commerciaux et de pressions]] - document - feuilletons/f-0051.md
 
 ## Live Query (requires Dataview plugin)
 

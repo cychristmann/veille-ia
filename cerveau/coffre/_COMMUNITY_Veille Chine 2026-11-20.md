@@ -1,20 +1,21 @@
 ---
 type: community
-members: 7
+members: 8
 ---
 
 # Veille Chine 2026-11-20
 
-**Members:** 7 nodes
+**Members:** 8 nodes
 
 ## Members
-- [[Bulle spéculative de l'IA]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Dollar IA (ROI)]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Déploiement de l'IA à l'échelle]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Gains de productivité de l'IA]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Recrutement en IA]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Startups IA azuréennes]] - concept - veilles/veille-ia-fr-2026-11-19-t5.md
-- [[Veille France 2026-11-19  Marché, productivité et perspectives économiques]] - document - veilles/veille-ia-fr-2026-11-19-t5.md
+- [[Ce qui compte c’est le discernement  les plus de 60 ans domptent l’Intelligence artificielle]] - concept - veilles/veille-ia-fr-2026-11-28-t1.md
+- [[Intelligence artificielle  quand la technique transforme notre manière de penser]] - concept - veilles/veille-ia-fr-2026-11-28-t1.md
+- [[L’IA a appris ma manière de faire, comme un stagiaire]] - concept - veilles/veille-ia-fr-2026-11-28-t1.md
+- [[PORTRAIT. Ce n'est pas l'IA qui nous remplacera]] - concept - veilles/veille-ia-fr-2026-11-28-t1.md
+- [[Présidentielle 2027  les modèles d’intelligence artificielle deviennent les nouveaux terrains de chasse]] - concept - veilles/veille-ia-fr-2026-11-28-t1.md
+- [[Real Madrid  Mourinho se moque de l’IA et encense Vinicius !]] - concept - veilles/veille-ia-fr-2026-11-28-t1.md
+- [[Un diplômé de Princeton se heurte au mur de l’IA]] - concept - veilles/veille-ia-fr-2026-11-28-t1.md
+- [[Veille France 2026-11-28  Société et politique]] - document - veilles/veille-ia-fr-2026-11-28-t1.md
 
 ## Live Query (requires Dataview plugin)
 

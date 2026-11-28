@@ -1,16 +1,17 @@
 ---
-source_file: "feuilletons/f-0027.md"
+source_file: "feuilletons/f-0051.md"
 type: "concept"
-community: "Veille Chine 2026-11-12 : Régulation, géopolitique et politique"
+community: "Le Monde Pixels"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-12__Régulation_géopolitique_et_politique
+  - community/Le_Monde_Pixels
 ---
 
 # Le Monde Pixels
 
 ## Connections
+- [[OpenAI]] - `cites` [EXTRACTED]
 - [[Ukraine Conflict]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__Régulation_géopolitique_et_politique
+#graphify/concept #graphify/EXTRACTED #community/Le_Monde_Pixels

@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[AI Ethics]] - concept - feuilletons/f-0047.md
-- [[Feuilleton Expériences d'IA désignant des civils comme cibles militaires]] - document - feuilletons/f-0047.md
+- [[CVE-2025-3248]] - concept - dossiers/2026-11-21-1.md
+- [[JadePuffer]] - concept - dossiers/2026-11-21-1.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-26-1.md"
 type: "concept"
-community: "La Corée du Sud va durcir les sanctions pour triche aux examens avec des lunettes connectées"
+community: "Veille États-Unis 2026-11-11 : Éducation et formation à l'IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/La_Corée_du_Sud_va_durcir_les_sanctions_pour_triche_aux_examens_avec_des_lunettes_connectées
+  - community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA
 ---
 
 # CAIRN
 
-#graphify/concept #graphify/EXTRACTED #community/La_Corée_du_Sud_va_durcir_les_sanctions_pour_triche_aux_examens_avec_des_lunettes_connectées
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-11__Éducation_et_formation_à_lIA

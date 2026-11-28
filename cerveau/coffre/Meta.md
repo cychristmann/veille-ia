@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-18-t6.md"
+source_file: "veilles/veille-ia-us-2026-11-27-t4.md"
 type: "concept"
 community: "Meta"
 tags:
@@ -14,6 +14,7 @@ tags:
 - [[AI Cyberattack]] - `conceptually_related_to` [EXTRACTED]
 - [[AI Market Trends]] - `conceptually_related_to` [INFERRED]
 - [[Alexandr Wang]] - `references` [EXTRACTED]
+- [[Apple]] - `conceptually_related_to` [INFERRED]
 - [[Apple AI Agent]] - `conceptually_related_to` [EXTRACTED]
 - [[Conductor]] - `references` [EXTRACTED]
 - [[Indiana University]] - `references` [EXTRACTED]

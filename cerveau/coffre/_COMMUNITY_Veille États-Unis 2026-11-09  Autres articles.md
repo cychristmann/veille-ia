@@ -1,16 +1,18 @@
 ---
 type: community
-members: 3
+members: 5
 ---
 
 # Veille États-Unis 2026-11-09 : Autres articles
 
-**Members:** 3 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Brave]] - concept - veilles/veille-ia-us-2026-11-09-t6.md
-- [[NEAR AI]] - concept - veilles/veille-ia-us-2026-11-09-t6.md
-- [[Veille États-Unis 2026-11-09  Autres articles]] - document - veilles/veille-ia-us-2026-11-09-t6.md
+- [[AI degree programs]] - concept - veilles/veille-ia-us-2026-11-28-t2.md
+- [[Clemson University]] - concept - veilles/veille-ia-us-2026-11-28-t2.md
+- [[Google AI features]] - concept - veilles/veille-ia-us-2026-11-28-t2.md
+- [[LAUSD]] - concept - veilles/veille-ia-us-2026-11-28-t2.md
+- [[Veille États-Unis 2026-11-28  Éducation et institutions]] - document - veilles/veille-ia-us-2026-11-28-t2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,9 +20,3 @@ members: 3
 TABLE source_file, type FROM #community/Veille_États-Unis_2026-11-09__Autres_articles
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia]]
-
-## Top bridge nodes
-- [[Veille États-Unis 2026-11-09  Autres articles]] - degree 3, connects to 1 community

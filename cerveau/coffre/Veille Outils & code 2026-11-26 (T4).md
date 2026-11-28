@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-26-t4.md"
 type: "document"
-community: "Veille États-Unis 2026-11-25 : IA dans la culture et les médias"
+community: "Veille France 2026-11-22 : Marchés et finance"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-25__IA_dans_la_culture_et_les_médias
+  - community/Veille_France_2026-11-22__Marchés_et_finance
 ---
 
 # Veille Outils & code 2026-11-26 (T4)
@@ -18,4 +18,4 @@ tags:
 - [[NEXUS]] - `references` [EXTRACTED]
 - [[Superframes]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-25__IA_dans_la_culture_et_les_médias
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-22__Marchés_et_finance

@@ -1,5 +1,5 @@
 ---
-source_file: "feuilletons/f-0032.md"
+source_file: "veilles/veille-ia-dev-2026-11-27-t2.md"
 type: "concept"
 community: "Veille Outils & code 2026-11-20"
 tags:
@@ -13,6 +13,6 @@ tags:
 ## Connections
 - [[Maia 300]] - `references` [EXTRACTED]
 - [[Microsoft]] - `references` [INFERRED]
-- [[Microsoft Agent Framework]] - `shares_data_with` [EXTRACTED]
+- [[Microsoft Agent Framework]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-20

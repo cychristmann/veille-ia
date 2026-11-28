@@ -1,17 +1,16 @@
 ---
-source_file: "feuilletons/f-0003.md"
+source_file: "veilles/veille-ia-fr-2026-11-10-t4.md"
 type: "concept"
-community: "Claude Code"
+community: "David Tepper"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Claude_Code
+  - community/David_Tepper
 ---
 
 # Mythos 5.2
 
 ## Connections
 - [[Anthropic]] - `references` [EXTRACTED]
-- [[Claude]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Claude_Code
+#graphify/concept #graphify/EXTRACTED #community/David_Tepper

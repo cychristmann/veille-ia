@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Solana]] - concept - veilles/veille-ia-dev-2026-11-27-t3.md
-- [[Solana Playground]] - concept - veilles/veille-ia-dev-2026-11-27-t3.md
+- [[AI Ethics]] - concept - feuilletons/f-0047.md
+- [[Feuilleton Expériences d'IA désignant des civils comme cibles militaires]] - document - feuilletons/f-0047.md
 
 ## Live Query (requires Dataview plugin)
 

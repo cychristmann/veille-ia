@@ -16,6 +16,8 @@ tags:
 - [[ChatGPT Wallet]] - `references` [EXTRACTED]
 - [[Obsidian]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
+- [[Prusa MCP]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-28  Médias, création et droit]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-19  Infrastructure et optimisation IA]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-24  Sécurité des agents de codage IA]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-15  Impact culturel et médiatique de l'IA]] - `references` [EXTRACTED]

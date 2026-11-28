@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-19-1.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-17"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-17
+  - community/Gemini_4_Hydrogen
 ---
 
 # Anthropic IPO
@@ -24,4 +24,4 @@ tags:
 - [[Veille Chine 2026-11-19  Autres articles]] - `references` [EXTRACTED]
 - [[Wired]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-17
+#graphify/concept #graphify/EXTRACTED #community/Gemini_4_Hydrogen

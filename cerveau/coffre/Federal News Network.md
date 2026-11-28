@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t1.md"
 type: "concept"
-community: "This Is Unreal (Spectacle)"
+community: "Veille États-Unis 2026-11-25 : IA dans la culture et les médias"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/This_Is_Unreal_Spectacle
+  - community/Veille_États-Unis_2026-11-25__IA_dans_la_culture_et_les_médias
 ---
 
 # Federal News Network
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-09  Régulation et politiques publiques]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/This_Is_Unreal_Spectacle
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-25__IA_dans_la_culture_et_les_médias

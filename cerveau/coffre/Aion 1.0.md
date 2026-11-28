@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-27-t1.md"
 type: "concept"
-community: "Charta Health"
+community: "Kong"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Charta_Health
+  - community/Kong
 ---
 
 # Aion 1.0
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Phi Silica]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Charta_Health
+#graphify/concept #graphify/EXTRACTED #community/Kong

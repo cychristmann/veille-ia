@@ -1,13 +1,13 @@
 ---
 source_file: "feuilletons/f-0030.md"
 type: "concept"
-community: "Trust3 AI"
+community: "Suisse"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Trust3_AI
+  - community/Suisse
 ---
 
 # Suisse
 
-#graphify/concept #graphify/EXTRACTED #community/Trust3_AI
+#graphify/concept #graphify/EXTRACTED #community/Suisse

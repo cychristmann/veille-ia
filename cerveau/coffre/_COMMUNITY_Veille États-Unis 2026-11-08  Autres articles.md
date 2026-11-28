@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[GitGuardian Good Samaritan Program]] - concept - veilles/veille-ia-dev-2026-11-17-t4.md
-- [[State of AI Impact on Software Security and Cybersecurity 2026]] - document - veilles/veille-ia-dev-2026-11-17-t4.md
-- [[Veille Outils & code 2026-11-17 (T4)]] - document - veilles/veille-ia-dev-2026-11-17-t4.md
+- [[European CSIRTs Sound Alarm as Autonomous AI Attack Agents Breach Critical Infrastructure]] - concept - veilles/veille-ia-us-2026-11-27-t5.md
+- [[Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators]] - concept - veilles/veille-ia-us-2026-11-27-t5.md
+- [[Veille États-Unis 2026-11-27  Sécurité et cybermenaces]] - document - veilles/veille-ia-us-2026-11-27-t5.md
 
 ## Live Query (requires Dataview plugin)
 

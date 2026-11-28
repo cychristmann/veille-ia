@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-24-t1.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-26"
+community: "ChatGPT Wallet"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-26
+  - community/ChatGPT_Wallet
 ---
 
 # Code Review
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Claude Ship]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-26
+#graphify/concept #graphify/EXTRACTED #community/ChatGPT_Wallet

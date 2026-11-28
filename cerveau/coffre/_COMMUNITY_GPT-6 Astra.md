@@ -1,34 +1,20 @@
 ---
 type: community
-members: 21
+members: 7
 ---
 
 # GPT-6 Astra
 
-**Members:** 21 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Adobe MAX 2026]] - concept - veilles/veille-ia-cn-2026-11-11-t3.md
-- [[CAA]] - concept - veilles/veille-ia-fr-2026-11-11-t2.md
-- [[CLARA]] - code - feuilletons/f-0017.md
-- [[Daft Punk]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
-- [[DeepL Aure]] - concept - veilles/veille-ia-cn-2026-11-11-t3.md
-- [[ECHO]] - concept - veilles/veille-ia-fr-2026-11-11-t2.md
-- [[Feuilleton CLARA révolutionne le calcul des bioréacteurs]] - document - feuilletons/f-0017.md
-- [[GTA VI]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
-- [[Google DeepMind Hurricane Model]] - concept - veilles/veille-ia-cn-2026-11-11-t3.md
-- [[Japanese Bias in AI]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
-- [[Kick]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
-- [[Krea]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
-- [[LEGO]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
-- [[MiniMax Model]] - concept - veilles/veille-ia-cn-2026-11-11-t3.md
-- [[Mozart AI]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
-- [[Ogilvy]] - concept - veilles/veille-ia-fr-2026-11-11-t2.md
-- [[Palo]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
-- [[Project Screen Test]] - concept - veilles/veille-ia-cn-2026-11-11-t3.md
-- [[Project Sight Span]] - concept - veilles/veille-ia-fr-2026-11-13-t2.md
-- [[Veille Chine 2026-11-11  Applications sectorielles]] - document - veilles/veille-ia-cn-2026-11-11-t3.md
-- [[Veille France 2026-11-13  Applications & Outils IA]] - document - veilles/veille-ia-fr-2026-11-13-t2.md
+- [[Bay (start-up)]] - concept - veilles/veille-ia-fr-2026-11-10-t2.md
+- [[Feuilleton Infineon mise sur la croissance des data‑centres IA malgré la contestation]] - document - feuilletons/f-0007.md
+- [[Feuilleton Levée de fonds de 50 M$ pour la start‑up israélienne de cybersécurité IA Bay]] - document - feuilletons/f-0004.md
+- [[Infineon]] - concept - veilles/veille-ia-fr-2026-11-10-t2.md
+- [[T-Head (Alibaba)]] - concept - veilles/veille-ia-fr-2026-11-10-t2.md
+- [[Veille France 2026-11-10  Financement, marchés et IPO]] - document - veilles/veille-ia-fr-2026-11-10-t2.md
+- [[Veille États-Unis 2026-11-10  Infrastructure et data‑centers]] - document - veilles/veille-ia-us-2026-11-10-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -38,7 +24,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-13  Applications & Outils IA]] - degree 10, connects to 1 community
+- [[Veille France 2026-11-10  Financement, marchés et IPO]] - degree 4, connects to 1 community

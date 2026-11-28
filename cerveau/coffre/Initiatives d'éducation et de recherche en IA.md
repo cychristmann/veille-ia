@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-22-t5.md"
 type: "concept"
-community: "Veille Chine 2026-11-22 : Régulation, éthique et impact sociétal de l'IA"
+community: "Veille États-Unis 2026-11-10 : Autres articles"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-22__Régulation_éthique_et_impact_sociétal_de_lIA
+  - community/Veille_États-Unis_2026-11-10__Autres_articles
 ---
 
 # Initiatives d'éducation et de recherche en IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-22  Régulation, éthique et impact sociétal de l'IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-22__Régulation_éthique_et_impact_sociétal_de_lIA
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-10__Autres_articles

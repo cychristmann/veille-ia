@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # MN Holdings
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[ARTEX AI Hacking Tool]] - concept - veilles/veille-ia-us-2026-11-16-t4.md
-- [[FBI AI Threat Reports]] - concept - veilles/veille-ia-us-2026-11-16-t4.md
-- [[Veille États-Unis 2026-11-16  Sécurité, éthique et marché financier]] - document - veilles/veille-ia-us-2026-11-16-t4.md
+- [[Dianli ETF Jingshun (159158)]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
+- [[JinJing XinNeng (01783)]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
+- [[Shengmei Semiconductor]] - concept - veilles/veille-ia-cn-2026-11-16-t2.md
+- [[Veille Chine 2026-11-16  Infrastructure et puissance de calcul]] - document - veilles/veille-ia-cn-2026-11-16-t2.md
 
 ## Live Query (requires Dataview plugin)
 

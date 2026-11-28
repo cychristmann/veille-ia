@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Feuilleton DeepMind présente Gemini Robotics 2.5]] - document - feuilletons/f-0010.md
+- [[Le Monde Informatique]] - document - dossiers/2026-11-20-2.md
 
 ## Live Query (requires Dataview plugin)
 

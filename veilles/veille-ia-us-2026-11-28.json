@@ -1,0 +1,1097 @@
+{
+  "region": "us",
+  "genere_a": "2026-11-28T08:40:39.799644+01:00",
+  "heures": 24,
+  "nombre_demande": 50,
+  "nombre_articles": 50,
+  "synthese": "Les dernières heures ont été marquées par une intensification du cadre réglementaire autour de l’IA, avec des projets de loi aux États‑Unis et au Japon, ainsi que des litiges majeurs entre géants technologiques. Le secteur éducatif se trouve en première ligne, entre blocages de services IA et lancement de nouveaux programmes universitaires. Les questions de sécurité persistent, les experts alertant sur les risques cryptographiques et les escroqueries alimentées par l’IA. Sur le plan économique, le marché continue d’attirer les investisseurs, soutenu par des annonces de capacités de calcul et des prévisions de croissance pour les titres liés à l’IA. Enfin, l’IA se déploie largement dans la santé, l’agriculture, l’énergie et les services, illustrant son influence croissante sur l’ensemble des secteurs.",
+  "verification": {
+    "problemes": [],
+    "synthese_originale": "Les dernières heures ont été marquées par une intensification du cadre réglementaire autour de l’IA, avec des projets de loi aux États‑Unis et au Japon, ainsi que des litiges majeurs entre géants technologiques. Le secteur éducatif se trouve en première ligne, entre blocages de services IA et lancement de nouveaux programmes universitaires. Les questions de sécurité persistent, les experts alertant sur les risques cryptographiques et les escroqueries alimentées par l’IA. Sur le plan économique, le marché continue d’attirer les investisseurs, soutenu par des annonces de capacités de calcul et des prévisions de croissance pour les titres liés à l’IA. Enfin, l’IA se déploie largement dans la santé, l’agriculture, l’énergie et les services, illustrant son influence croissante sur l’ensemble des secteurs."
+  },
+  "sources_en_echec": [],
+  "flux_lus": {
+    "TechCrunch": [
+      20,
+      0,
+      0,
+      "2026-11-26"
+    ],
+    "The Verge": [
+      10,
+      1,
+      1,
+      "2026-11-27"
+    ],
+    "Wired": [
+      10,
+      0,
+      0,
+      "2026-11-27"
+    ],
+    "Ars Technica": [
+      20,
+      0,
+      0,
+      "2026-11-25"
+    ],
+    "MIT Technology Review": [
+      10,
+      0,
+      0,
+      "2026-11-25"
+    ],
+    "ZDNET": [
+      25,
+      0,
+      1,
+      "2026-11-28"
+    ],
+    "Engadget": [
+      20,
+      3,
+      9,
+      "2026-11-27"
+    ],
+    "CNBC": [
+      30,
+      4,
+      7,
+      "2026-11-27"
+    ],
+    "The New York Times": [
+      25,
+      0,
+      3,
+      "2026-11-27"
+    ],
+    "The Information": [
+      20,
+      3,
+      5,
+      "2026-11-27"
+    ],
+    "Cisco Blogs": [
+      9,
+      0,
+      0,
+      "2026-11-24"
+    ],
+    "24/7 Wall St.": [
+      100,
+      15,
+      100,
+      "2026-11-28"
+    ],
+    "SC Media": [
+      10,
+      2,
+      10,
+      "2026-11-27"
+    ],
+    "SiliconANGLE": [
+      30,
+      1,
+      3,
+      "2026-11-28"
+    ],
+    "The Decoder": [
+      10,
+      4,
+      7,
+      "2026-11-27"
+    ],
+    "MarkTechPost": [
+      10,
+      0,
+      0,
+      "2026-11-27"
+    ],
+    "Bloomberg Technology": [
+      20,
+      9,
+      19,
+      "2026-11-28"
+    ],
+    "The Wall Street Journal (Tech)": [
+      40,
+      1,
+      7,
+      "2026-11-27"
+    ],
+    "CASRAI": [
+      50,
+      0,
+      21,
+      "2026-11-28"
+    ],
+    "markets.businessinsider.com": [
+      20,
+      1,
+      20,
+      "2026-11-28"
+    ],
+    "Amazon Web Services (AWS)": [
+      100,
+      0,
+      3,
+      "2026-11-27"
+    ],
+    "Mashable": [
+      100,
+      1,
+      100,
+      "2026-11-28"
+    ],
+    "Fortune": [
+      10,
+      4,
+      10,
+      "2026-11-28"
+    ],
+    "PYMNTS.com": [
+      10,
+      5,
+      10,
+      "2026-11-27"
+    ],
+    "Startup Fortune": [
+      10,
+      3,
+      10,
+      "2026-11-28"
+    ],
+    "Benzinga": [
+      25,
+      5,
+      25,
+      "2026-11-27"
+    ],
+    "GeekWire": [
+      35,
+      4,
+      5,
+      "2026-11-27"
+    ],
+    "TechTarget": [
+      10,
+      0,
+      0,
+      "2026-11-25"
+    ],
+    "Crypto Briefing": [
+      30,
+      13,
+      30,
+      "2026-11-28"
+    ],
+    "Superpower Daily": [
+      50,
+      24,
+      28,
+      "2026-11-28"
+    ],
+    "Google Actualités": [
+      100,
+      100,
+      100,
+      "2026-11-28"
+    ]
+  },
+  "titre_section": "américaine",
+  "themes": [
+    {
+      "nom": "Régulation et législation",
+      "resume": "De multiples initiatives législatives et judiciaires visent à encadrer l’usage de l’IA, depuis un projet de loi américain interdisant l’IA dans les avis de justice jusqu’aux lois japonaises sanctionnant les IA étrangères, en passant par des référendums sur les puces IA et des litiges de propriété intellectuelle.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Projet de loi japonais avec sanctions, impact réglementaire international",
+          "couverture": 2,
+          "titre": "Japan's draft AI law would fine foreign AI companies that defy its orders",
+          "source": "Startup Fortune",
+          "lien": "https://startupfortune.com/japans-draft-ai-law-would-fine-foreign-ai-companies-that-defy-its-orders/",
+          "date": "2026-11-28T06:56:32+00:00",
+          "resume": "A government working group has a draft that attaches penalties to ignored report demands and orders, rather than to what an AI model does. Providers would also have to block outputs that could help cyberattacks, and a bill is aimed at 2027.",
+          "titre_fr": "Le projet de loi IA du Japon sanctionnerait les entreprises étrangères qui désobéissent à ses ordres"
+        },
+        {
+          "note": 7,
+          "motif": "Nouveau projet législatif limitant l'IA en justice, impact juridique",
+          "couverture": 1,
+          "titre": "New bill aims to keep AI out of court opinions",
+          "source": "Observer Today",
+          "lien": "https://www.observertoday.com/news/local-region/2026/11/new-bill-aims-to-keep-ai-out-of-court-opinions/",
+          "date": "2026-11-28T07:26:56+00:00",
+          "resume": "New legislation introduced in the state Senate aims to keep artificial intelligence from being used in court opinions in New York. Sen. Michelle Hinchey, D-Kingston, recently introduced legislation (S ...",
+          "titre_fr": "Un nouveau projet de loi vise à exclure l'IA des décisions judiciaires"
+        }
+      ]
+    },
+    {
+      "nom": "Éducation et institutions",
+      "resume": "Les établissements scolaires et universitaires sont au cœur du débat sur l’IA : blocages de fonctionnalités Google, lancement de programmes de diplômes, projets de campus IA et tests d’innovation en entreprise.",
+      "articles": [
+        {
+          "note": 6,
+          "motif": "Décision locale d'un district scolaire, pertinence éducative",
+          "couverture": 1,
+          "titre": "LAUSD blocks Google AI features in search",
+          "source": "ABC7 Los Angeles",
+          "lien": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UekhLazdlUUo3VHBsZHc3Rjd1MDV3ZEtaSF9QS2djTy1STzZ5TmNUbjZySWdDcFZLX3FuUXNhZVhaMVlQMkhBOFYwbkE?oc=5",
+          "date": "2026-11-28T07:19:08+00:00",
+          "resume": "",
+          "titre_fr": "Le LAUSD bloque les fonctionnalités IA de Google dans la recherche"
+        },
+        {
+          "note": 5,
+          "motif": "Lancement de programmes IA universitaires, impact éducatif local",
+          "couverture": 1,
+          "titre": "Clemson to launch three AI degree programs in the fall",
+          "source": "upstatetoday.com",
+          "lien": "https://upstatetoday.com/news/clemson-to-launch-three-ai-degree-programs-in-the-fall/article_0666fd0b-0ae7-4b30-87a4-ef59ff498c71.html",
+          "date": "2026-11-28T06:15:00+00:00",
+          "resume": "CLEMSON — Clemson University announced it plans to launch three new degree programs in artificial intelligence next fall, offering students opportunities to earn degrees in the rapidly growing field.",
+          "titre_fr": "Clemson lancera trois programmes de diplôme IA à l'automne"
+        },
+        {
+          "note": 5,
+          "motif": "Interdiction scolaire de Google AI, impact éducatif limité",
+          "couverture": 1,
+          "titre": "LAUSD Bans Google AI Overviews for 1 Year in Schools",
+          "source": "shattered.io",
+          "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUUpqeEVuZWJ1TW1pN192X0Jpc0J2NUw1bkRCSzZtay12NTY0Y3hZcUZHblljR0R0VVZSWWN4NTNBOWM3Z0FvREdIRkQxbkdLcUFULUNfY0NmSk9CeTJSSExQT1ZtMjhBdUh3YWpuR2N3cE84QS01SHdiOGQyZ0tOQW1icm85cFJCNDVIR01R?oc=5",
+          "date": "2026-11-28T03:50:07+00:00",
+          "resume": "",
+          "titre_fr": "Le LAUSD interdit les résumés IA de Google pendant un an dans les écoles"
+        },
+        {
+          "note": 4,
+          "motif": "Opinion sur campus IA, débat qualitatif",
+          "couverture": 1,
+          "titre": "An AI campus is not proof of quality higher education",
+          "source": "University World News",
+          "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94NXE0TVVlVFFmTjhLZVdpb21meDliOFAyNWZXcnJibHh4aXpoUGJubFlNb2tZbDRhcEs2SlBraDlyNVJmNU4tbVc3SVYtRUp2VWpaaEdQWlJJbENrbkxuSXlfZjhyUGJIVlpEYkhsN3pYZTdOSlI4?oc=5",
+          "date": "2026-11-28T02:24:07+00:00",
+          "resume": "",
+          "titre_fr": "Un campus IA ne garantit pas la qualité de l'enseignement supérieur"
+        }
+      ]
+    },
+    {
+      "nom": "Sécurité et risques",
+      "resume": "Les risques liés à l’IA sont soulignés, notamment les menaces cryptographiques, les usages malveillants dans le cyber‑crime et les inquiétudes sur la diffusion de contenus restreints ou de scams alimentés par l’IA.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Risque de rupture de chiffrement par IA, enjeu cybersécurité majeur",
+          "couverture": 1,
+          "titre": "Could AI break encryption? What mathematical breakthroughs mean for cybersecurity",
+          "source": "The Guardian",
+          "lien": "https://www.theguardian.com/technology/2026/nov/28/could-ai-break-encryption-what-mathematical-breakthroughs-mean-for-cybersecurity",
+          "date": "2026-11-28T05:00:00+00:00",
+          "resume": "Experts suggest AI companies may be sitting on ‘bombshell’ that could have severe consequences for secret information ...",
+          "titre_fr": "L'IA pourrait‑elle casser le chiffrement ? Ce que les percées mathématiques impliquent pour la cybersécurité"
+        },
+        {
+          "note": 6,
+          "motif": "Avertissement d'un expert sur cryptographie IA, sujet de sécurité",
+          "couverture": 1,
+          "titre": "Scott Aaronson warns of possible AI encryption breakthroughs, without lab confirmation",
+          "source": "Superpower Daily",
+          "lien": "https://superpowerdaily.com/posts/scott-aaronson-warns-of-possible-ai-encryption-breakthroughs-without-lab-confirmation",
+          "date": "2026-11-28T05:21:25+00:00",
+          "resume": "The Guardian’s new interviews raise a security concern, not proof of broken encryption. The implications depend on what was discovered—and whether it works outside theory.",
+          "titre_fr": "Scott Aaronson met en garde contre d'éventuelles percées IA en cryptographie, sans confirmation en laboratoire"
+        },
+        {
+          "note": 5,
+          "motif": "Alerte de cybersécurité locale sur usage d'IA, pertinence régionale",
+          "couverture": 1,
+          "titre": "ThaiCERT Warns of GT13 Hackers Using Agentic AI to Target Enterprise Systems",
+          "source": "Nation Thailand",
+          "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OX3JRODI5Vmxwcm12QkV3X0FpdlRUMzByOTlwZ2QyU0t1alJJb1ZzQ0VTbjhnX1JTaThVSURRbUlxNVlIQ3FUeDNVZWFUWWJQN09Zc0Nzak1zZlZfQy1iNTZ3?oc=5",
+          "date": "2026-11-28T04:53:00+00:00",
+          "resume": "",
+          "titre_fr": "ThaiCERT avertit des hackers GT13 utilisant l'IA agentive pour cibler les systèmes d'entreprise"
+        }
+      ]
+    },
+    {
+      "nom": "Marché et investissements",
+      "resume": "L’enthousiasme des investisseurs se manifeste par des prévisions de croissance, des évaluations de titres IA, des annonces de capacités de calcul et de nouveaux modèles économiques autour de l’IA.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Analyse de marché avec perspective sur Nvidia, influence investisseurs",
+          "couverture": 1,
+          "titre": "Dan Ives Sees ‘Rollercoaster Ride’ Ahead For AI Stocks, But Says Nvidia Bull Case Remains Intact — ‘Our Stress Test Stands’",
+          "source": "TradingView",
+          "lien": "https://finance.yahoo.com/technology/ai/articles/dan-ives-sees-rollercoaster-ride-071302916.html",
+          "date": "2026-11-28T07:13:00+00:00",
+          "resume": "Ives argued that even a combination of adverse scenarios would not derail the AI revolution over the next several years.",
+          "titre_fr": "Dan Ives prévoit une « montagne russe » pour les actions IA, mais estime que le cas haussier de Nvidia reste solide – « Notre test de résistance tient »"
+        },
+        {
+          "note": 7,
+          "motif": "Rebond des marchés boursiers sur l'IA, suivi par investisseurs",
+          "couverture": 1,
+          "titre": "Stock Bulls Stir Again After Weeks of AI Anxiety",
+          "source": "Bloomberg.com",
+          "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ3VCeHg2b05tdzhRRmprOEUxTWJBQ2VHRWNyT0MzZW1sTVk2RVZBeGoyWVc2QkNBdGstbnlRS3VrOEtMT3hEcE02UjZsYmRLdjJwcTJ6c0t0dUZtbjRmNUotSU9qZ01OODJJLUpaTjN3RzI4cS1xQUhQb1hlN2NBa2tYcFFkMUF3SlExRVMybmZ4Xy0tSXp5am1McGVnOHFGR21xLQ?oc=5",
+          "date": "2026-11-28T06:47:31+00:00",
+          "resume": "",
+          "titre_fr": "Les taureaux boursiers se réveillent après des semaines d'anxiété autour de l'IA"
+        },
+        {
+          "note": 6,
+          "motif": "Annonce d'outil IA pour EDGAR, amélioration processus réglementaire",
+          "couverture": 1,
+          "titre": "Federal Filings Announces AI Powered EDGAR Filing Capability to Reduce Filing Costs",
+          "source": "Quantisnow",
+          "lien": "https://www.msn.com/en-ph/news/other/federal-filings-announces-ai-powered-edgar-filing-capability-to-reduce-filing-costs/ar-AA2ip2rH",
+          "date": "2026-11-28T07:11:14+00:00",
+          "resume": "Austin, Texas, Nov. 28, 2026 (GLOBE NEWSWIRE) -- Federal Filings, an SEC EDGAR filing agent serving existing and prospective public companies, SPACs, and foreign private issuers, today announced its ...",
+          "titre_fr": "Federal Filings annonce une capacité de dépôt EDGAR alimentée par l'IA pour réduire les coûts de dépôt"
+        },
+        {
+          "note": 6,
+          "motif": "Analyse d'action liée aux data‑centers IA hors Chine, intérêt boursier",
+          "couverture": 1,
+          "titre": "Why Delta Electronics Stock Is A Key AI Data Center Play Outside China",
+          "source": "Yahoo Finance",
+          "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRUkzSFIyTHQxMkU3SmlzREd5OS1EZnlRWEtmcUFKWWtTWlBOUFNzeG4weVB2MDVCNWhncHd0c190NlNQd1RzdzJOWE50WTl3cnZYZUstVGE4V3d1SFhZNFdpNjBFVXlNdUhVUWRIWFZJVjM1NXZXZk1NUzRtNUZocU54bTMteFNfdkNabzRXcFFsYy14X3NIc0tXYkIzRENoWEJSeC1WSlc?oc=5",
+          "date": "2026-11-28T07:11:00+00:00",
+          "resume": "",
+          "titre_fr": "Pourquoi l'action de Delta Electronics est un pari clé sur les centres de données IA hors de Chine"
+        },
+        {
+          "note": 6,
+          "motif": "Recherche technique sur récupération d'entraînement IA, intérêt scientifique",
+          "couverture": 1,
+          "titre": "Researchers recover AI training gains by replaying saved outputs, preprint reports",
+          "source": "Superpower Daily",
+          "lien": "https://superpowerdaily.com/posts/researchers-recover-ai-training-gains-by-replaying-saved-outputs-preprint-reports",
+          "date": "2026-11-28T06:55:09+00:00",
+          "resume": "Starting from the same base model, the authors reproduce online reinforcement-learning performance by fitting archived responses—including incorrect ones. Reusing the original RL algorithm instead generally collapses.",
+          "titre_fr": "Des chercheurs récupèrent les gains d'entraînement IA en rejouant les sorties sauvegardées, selon un préprint"
+        },
+        {
+          "note": 6,
+          "motif": "Recommandation d'achat d'action IA pour 2027, perspective d'investissement",
+          "couverture": 2,
+          "titre": "The First AI Stock I Plan to Buy in 2027",
+          "source": "Yahoo Finance",
+          "lien": "https://www.msn.com/en-us/technology/artificial-intelligence/the-first-ai-stock-i-plan-to-buy-in-2027/ar-AA2ip1QU",
+          "date": "2026-11-28T05:20:00+00:00",
+          "resume": "Investors should still be considering the world's most popular AI stock.",
+          "titre_fr": "La première action IA que je compte acheter en 2027"
+        },
+        {
+          "note": 6,
+          "motif": "Préoccupations de DeepSeek sur le contrôle IA, sujet de gouvernance",
+          "couverture": 1,
+          "titre": "China’s DeepSeek raises concerns over AI control, assessment finds",
+          "source": "Crypto Briefing",
+          "lien": "https://cryptobriefing.com/deepseek-v4-pro-ai-control-concerns/",
+          "date": "2026-11-28T05:05:21+00:00",
+          "resume": "DeepSeek's AI shutdown resistance raises global regulatory concerns, potentially impacting international market access and US-China tech tensions. The post China’s DeepSeek raises concerns over AI control, assessment finds appeared first on Crypto Briefing .",
+          "titre_fr": "DeepSeek de Chine suscite des inquiétudes sur le contrôle de l'IA, selon une évaluation"
+        },
+        {
+          "note": 6,
+          "motif": "Expansion de la sécurité IA de Cisco, partenariat entreprise",
+          "couverture": 1,
+          "titre": "Cisco Systems (CSCO) Expands AI Security Push With Two New Enterprise Tie Ups",
+          "source": "Yahoo Finance",
+          "lien": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-expands-ai-020947010.html",
+          "date": "2026-11-28T02:09:00+00:00",
+          "resume": "Cisco Systems (NasdaqGS: CSCO) is working with DXC Technology to integrate Cisco AgenticOps into the DXC OASIS platform for enterprise IT automation. The firm is also partnering with Qumulo on a joint ...",
+          "titre_fr": "Cisco Systems (CSCO) renforce son offre de sécurité IA avec deux nouveaux partenariats d'entreprise"
+        },
+        {
+          "note": 5,
+          "motif": "Prévisions 2027 pour navigateur IA, pertinence sectorielle",
+          "couverture": 1,
+          "titre": "Opera's 2027 Outlook: AI-Driven Browser Ecosystem Maintains Rapid Growth",
+          "source": "The Motley Fool",
+          "lien": "https://www.fool.com/coverage/moneyball/2026/11/27/opera-s-2027-outlook-ai-driven-browser-ecosystem-maintains-rapid-growth/",
+          "date": "2026-11-28T02:20:00+00:00",
+          "resume": "This under-the-radar internet software stock boasts a Superscore of 83 from our Hidden Gems Primary database, part of The Motley Fool's Moneyball Database system. Here's why.",
+          "titre_fr": "Perspectives 2027 d'Opera : l'écosystème de navigateurs piloté par l'IA maintient une croissance rapide"
+        }
+      ]
+    },
+    {
+      "nom": "Applications sectorielles",
+      "resume": "L’IA s’infiltre dans divers secteurs : santé (diagnostic mammographique, imagerie du sein), agriculture, sécurité alimentaire, énergie, divertissement et services publics, montrant son impact transversal.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Initiative nationale d'infrastructures IA, impact géopolitique",
+          "couverture": 1,
+          "titre": "How Israel is fast-tracking data centres in bid to become ‘AI superpower’",
+          "source": "Al Jazeera",
+          "lien": "https://www.msn.com/en-us/news/other/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower/ar-AA2ip03f",
+          "date": "2026-11-28T07:22:27+00:00",
+          "resume": "Israel is looking to data centres to boost its data processing, military strength and global clout.",
+          "titre_fr": "Comment Israël accélère la création de centres de données pour devenir une « superpuissance IA »"
+        },
+        {
+          "note": 8,
+          "motif": "Révélations potentiellement critiques des labs IA, risque global",
+          "couverture": 1,
+          "titre": "AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn",
+          "source": "The Guardian",
+          "lien": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
+          "date": "2026-11-28T05:00:00+00:00",
+          "resume": "Exclusive: AI may have cracked decades-old maths problems that underpin encryption at banks and government agencies ...",
+          "titre_fr": "Les laboratoires IA détiennent des révélations « bombardier » pouvant provoquer le chaos mondial, avertissent les experts"
+        },
+        {
+          "note": 7,
+          "motif": "Utilisation clinique de l'IA par médecins, enjeux pratiques et risques",
+          "couverture": 1,
+          "titre": "GP Resident Doctors Use Generative AI for Administration While Navigating Clinical Risks",
+          "source": "Bioengineer.org",
+          "lien": "https://bioengineer.org/gp-resident-doctors-use-generative-ai-for-administration-while-navigating-clinical-risks/",
+          "date": "2026-11-28T07:08:13+00:00",
+          "resume": "A qualitative study finds general practice resident doctors use generative artificial intelligence to alleviate administrative burdens while navigating significant concerns regarding accuracy, ...",
+          "titre_fr": "Des médecins résidents utilisent l'IA générative pour l'administration tout en gérant les risques cliniques"
+        },
+        {
+          "note": 7,
+          "motif": "Mise à dispo générale d'un service Azure IA, impact cloud majeur",
+          "couverture": 1,
+          "titre": "Azure AI Gateway Reaches General Availability as a Standalone Service",
+          "source": "infoq.com",
+          "lien": "https://www.infoq.com/news/2026/11/azure-ai-gateway-ga/",
+          "date": "2026-11-28T06:48:19+00:00",
+          "resume": "Microsoft has made Azure AI Gateway generally available as a standalone Azure service for governing access to AI models and MCP tools across providers. A free tier covers 10,000 requests per gateway ...",
+          "titre_fr": "Azure AI Gateway passe en disponibilité générale en tant que service autonome"
+        },
+        {
+          "note": 7,
+          "motif": "Retrait d'un livre de deep learning, débat éthique majeur",
+          "couverture": 2,
+          "titre": "Michael Nielsen takes down his deep learning book in protest at AI labs",
+          "source": "Startup Fortune",
+          "lien": "https://startupfortune.com/michael-nielsen-takes-down-his-deep-learning-book-in-protest-at-ai-labs/",
+          "date": "2026-11-28T06:15:59+00:00",
+          "resume": "A signed note now sits where Nielsen's free text used to be, calling Anthropic's safety promises theatre and telling readers not to join frontier labs. His announcement drew about 5,100 likes in roughly 13 hours, by Digg's count, plus objections from readers.",
+          "titre_fr": "Michael Nielsen retire son livre sur le deep learning en protestation contre les laboratoires IA"
+        },
+        {
+          "note": 7,
+          "motif": "Portrait de mathématiciens face à l'IA, impact académique large",
+          "couverture": 1,
+          "titre": "The mathematicians living through an AI revolution",
+          "source": "Financial Times",
+          "lien": "https://www.ft.com/content/f27646d1-d8f2-4592-8d0e-bcce6c6da061?syn-25a6b1a6=1",
+          "date": "2026-11-28T05:01:12+00:00",
+          "resume": "Kim and his supervisor, Imperial College London maths professor Ana Caraiani, are living and working through an AI revolution. A stream of digitally assisted discoveries has raised questions about the ...",
+          "titre_fr": "Les mathématiciens vivant la révolution IA"
+        },
+        {
+          "note": 7,
+          "motif": "Analyse des agents IA dans les entreprises, transformation business",
+          "couverture": 1,
+          "titre": "AI agents are coming for big business",
+          "source": "Financial Times",
+          "lien": "https://www.ft.com/content/c9de05b8-0916-436a-87fc-40337067b0d2?syn-25a6b1a6=1",
+          "date": "2026-11-28T05:00:14+00:00",
+          "resume": "In less than five minutes, the AI agent had found and purchased a policy that saved $3,500 a year, while also cancelling Devoy’s existing contract. The tech industry has hailed agents, which can run ...",
+          "titre_fr": "Les agents IA s'attaquent aux grandes entreprises"
+        },
+        {
+          "note": 7,
+          "motif": "Étude clinique sur IA en imagerie mammaire, influence médicale",
+          "couverture": 1,
+          "titre": "Hologic Studies at RSNA Examine AI Prioritization in Breast Imaging and Screening Uptake After USPSTF Update",
+          "source": "Applied Radiology",
+          "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQblB3TnhvMVVtTjI5TEtJbHVxYm1CSlhadnNWNkwzNVhIa2J2c19YVlZBZkJjNzdxWTdtWTVzR3pZLXMzay1uSkozNDQxdTdsdnFmczM4UGhibTR1Rm1uQU5WSk5ZUVZFU2lsMkozajJFRHUyd2pXeEJMZFNuSUZHaDNqWFlDaGh0MmNWSS00cUhJNzdiNkFlRDUyRVBrV3A1bHVVd21qTGRJejlIMGdIYUdFcWpuWGhOUDVoamhnSWg5WEI4Q3JBWnllalVJV21nMkJEVnZVamR3NXAwX2w0?oc=5",
+          "date": "2026-11-28T03:48:45+00:00",
+          "resume": "",
+          "titre_fr": "Études Hologic à la RSNA : priorité de l'IA en imagerie mammaire et adoption du dépistage après la mise à jour USPSTF"
+        },
+        {
+          "note": 7,
+          "motif": "Allégation d'espionnage IA entre OpenAI et Apple, forte résonance",
+          "couverture": 1,
+          "titre": "OpenAI says a spy handed Apple secret plans for AI devices that could 'outcompete' the iPhone maker on its 'own turf'",
+          "source": "Yahoo Finance",
+          "lien": "https://finance.yahoo.com/technology/ai/articles/openai-says-spy-handed-apple-010000370.html",
+          "date": "2026-11-28T01:00:00+00:00",
+          "resume": "OpenAI and Apple are suing each other for stealing as the race to develop AI products fuels competition for talent and technology.",
+          "titre_fr": "OpenAI affirme qu'un espion a remis à Apple des plans secrets d'appareils IA capables de le concurrencer sur son propre terrain"
+        },
+        {
+          "note": 6,
+          "motif": "Analyse d'un expert financier sur la rentabilité du trade IA",
+          "couverture": 1,
+          "titre": "Goldman Sachs' Tony Pasquariello: After the Great Liquidation, Is the AI Trade Still Paying?",
+          "source": "The Dark Side Of The Boom",
+          "lien": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFlJZnAwM1BuMVBIQkJnbklYTlZHOWFncmZOaTVPdXRWOWdYWXowMXlHSERKN0k4aEtiRU52UGJJWU56NHdUY0pQOFBrOUFmR19jN2dqOHdyQlU3Y0tfdzdmdnlnR3VBMnMyUm9pX2NaSkUwcWg4OUtGWTJIcmpUendfRjMyZEY3?oc=5",
+          "date": "2026-11-28T06:30:46+00:00",
+          "resume": "",
+          "titre_fr": "Tony Pasquariello de Goldman Sachs : après la grande liquidation, le commerce IA reste‑t‑il rentable ?"
+        },
+        {
+          "note": 6,
+          "motif": "Prototype de dépistage allergène IA, avancée appliquée",
+          "couverture": 2,
+          "titre": "Deusto builds AI food-allergen screening prototype, with reliability checks still pending",
+          "source": "Superpower Daily",
+          "lien": "https://superpowerdaily.com/posts/deusto-builds-ai-food-allergen-screening-prototype-with-reliability-checks-still-pending",
+          "date": "2026-11-28T05:27:04+00:00",
+          "resume": "The light-based system targets proteins found in peach skin and peanuts.",
+          "titre_fr": "Deusto crée un prototype de dépistage d'allergènes alimentaires par IA, les vérifications de fiabilité restant en attente"
+        },
+        {
+          "note": 6,
+          "motif": "Déclaration politique sud‑coréenne sur IA, enjeu géopolitique",
+          "couverture": 1,
+          "titre": "South Korea’s Lee vows to push ahead in global AI race at data centre launch",
+          "source": "Crypto Briefing",
+          "lien": "https://cryptobriefing.com/south-korea-lee-ai-race-data-centre/",
+          "date": "2026-11-28T05:07:27+00:00",
+          "resume": "South Korea's aggressive AI investment strategy could reshape global tech dynamics, fostering regional economic growth and innovation leadership. The post South Korea’s Lee vows to push ahead in global AI race at data centre launch appeared first on Crypto Briefing .",
+          "titre_fr": "Lee, en Corée du Sud, promet de pousser la course mondiale à l'IA lors du lancement d'un centre de données"
+        },
+        {
+          "note": 6,
+          "motif": "Recherche appliquée IA pour sécurité alimentaire, impact pratique",
+          "couverture": 1,
+          "titre": "Researchers explore the use of AI and smart sensors to improve food safety quickly, affordably",
+          "source": "Phys.org",
+          "lien": "https://phys.org/news/2026-11-explore-ai-smart-sensors-food.html",
+          "date": "2026-11-28T04:20:02+00:00",
+          "resume": "The smartJAN project, developed by the eVIDA research group at the University of Deusto in collaboration with Kernet and Fundación Miranda, has completed the development of a functional prototype ...",
+          "titre_fr": "Des chercheurs explorent l'IA et les capteurs intelligents pour améliorer rapidement et à moindre coût la sécurité alimentaire"
+        },
+        {
+          "note": 6,
+          "motif": "Préoccupation chinoise sur contrôle DeepSeek, enjeu IA global",
+          "couverture": 1,
+          "titre": "DeepSeek is China’s latest developer to worry about losing control of AI",
+          "source": "South China Morning Post",
+          "lien": "https://www.msn.com/en-xl/technology/artificial-intelligence/deepseek-is-china-s-latest-developer-to-worry-about-losing-control-of-ai/ar-AA2iocVn",
+          "date": "2026-11-28T02:00:11+00:00",
+          "resume": "Third-party evaluation finds safety gains in Chinese start-up's flagship model, though open-weight safeguards can still be bypassed Chinese artificial intelligence start-up DeepSeek has commissioned a ...",
+          "titre_fr": "DeepSeek, le dernier développeur chinois à craindre de perdre le contrôle de l'IA"
+        },
+        {
+          "note": 5,
+          "motif": "Analyse des pannes technologiques, IA comme facteur secondaire",
+          "couverture": 1,
+          "titre": "Tech outages are piling up, and AI is raising the stakes. Could this be the new normal?",
+          "source": "The Vindicator",
+          "lien": "https://www.tribtoday.com/news/business/2026/11/tech-outages-are-piling-up-and-ai-is-raising-the-stakes-could-this-be-the-new-normal/",
+          "date": "2026-11-28T07:25:50+00:00",
+          "resume": "Inaccessible email inboxes. Banking delays. A communications meltdown that grounded airplanes for hours, followed by waves of other travel disruptions. And a cyberattack that breached an unclassified ...",
+          "titre_fr": "Les pannes technologiques s'accumulent et l'IA augmente les enjeux. Un nouveau quotidien ?"
+        },
+        {
+          "note": 5,
+          "motif": "Discussion sur partage de données et modèles, sujet pertinent mais général",
+          "couverture": 1,
+          "titre": "Beyond papers: Giving data and AI models a place in science",
+          "source": "EIN Presswire",
+          "lien": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLXFVZWh3M2IwZ05JN0xTTW15ZmZ0aU1PQkZNRDYzdlV5UG5HOWJLMnF5OFJNdTFrUlZhUU4wRm9YcklIM255QnBhTzJ5Qk5mMDVuWnhoWENGQkttU3kyeXNPQ0NUTUVKRHoyZkduQl9UMnEzbExSNGhmNTFtQ3E5U3hTQVZpT2FtZTVmZFlBY3l5eDlobUlfYU4wWUxTQ2hzUkJrMlF3R0o?oc=5",
+          "date": "2026-11-28T06:58:00+00:00",
+          "resume": "",
+          "titre_fr": "Au‑delà des articles : donner aux données et aux modèles IA une place dans la science"
+        },
+        {
+          "note": 5,
+          "motif": "Appel à collaboration mathématique, pertinence académique limitée",
+          "couverture": 1,
+          "titre": "Chinese American Fields Medalist Calls for Math Collaboration in AI Age",
+          "source": "Sixth Tone",
+          "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWlJNS2hYa2k5VDQ5d2xqVElxVFRqVnJGMFV2bnZFOFBiTGhLRkRKbEljYTRKY0ltNE1FcHNHM2FJUjRrM0Vkd3VfTG1udkJja2VLcWNicE5ibEVYd3gtaTZtZGFDU0pIbFhfSVZ1RVVMQkNTUnRNZndOaGdIR3Y5RHA4a1JTLVkwcHZmdE01SVpSYWJ4dmVGYjQ4Mk1SV2ZzME9rczNpbHdBZlFfTGxjUDhTUnU1c1BCaDYxcmU4U09nNDB1SUZDQ0t3?oc=5",
+          "date": "2026-11-28T06:31:26+00:00",
+          "resume": "",
+          "titre_fr": "Le lauréat du Fields sino‑américain appelle à une collaboration mathématique à l'ère de l'IA"
+        },
+        {
+          "note": 5,
+          "motif": "Étude médicale sur IA et nutrition, pertinence scientifique",
+          "couverture": 1,
+          "titre": "AI Mammographic Risk Scores Show No Overall Change After Soy Isoflavone Intake",
+          "source": "Bioengineer.org",
+          "lien": "https://bioengineer.org/ai-mammographic-risk-scores-show-no-overall-change-after-soy-isoflavone-intake/",
+          "date": "2026-11-28T05:37:30+00:00",
+          "resume": "Artificial intelligence risk scores showed no significant overall changes in mammographic density following soy isoflavone intake in Asian women, although exploratory analyses suggested potential ...",
+          "titre_fr": "Les scores de risque mammographique IA ne montrent aucun changement global après consommation d'isoflavones de soja"
+        },
+        {
+          "note": 5,
+          "motif": "Annonce d'expansion d'une entreprise vers l'IA, intérêt industriel",
+          "couverture": 1,
+          "titre": "New Vision Expands into AI & Embodied Intelligence",
+          "source": "Gasgoo",
+          "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOczZWcVdDeS1HU1RjMUZmWHk1SUNZcDhpd3dRMWlNLVRscTA1Yk1IVm85eVY1cHhXbnlJVi0wNFNvRVpKcy0tenozSmQ2UXNTalU1QWNHQm1sMUM5NHJyLUs4Z2gxNUcxOTRRRlZURHROa2k5c2NCclJEMlM3QXYtNVpLaDlCeUROeExuSVdlM2h2bW43YTFqVUNpUEx6aU5aVU5EQmJGeTNhbmIxQTJZ?oc=5",
+          "date": "2026-11-28T05:31:08+00:00",
+          "resume": "",
+          "titre_fr": "New Vision s'étend à l'IA et à l'intelligence incarnée"
+        },
+        {
+          "note": 5,
+          "motif": "Débat interne sur Claude, intérêt pour communauté recherche",
+          "couverture": 1,
+          "titre": "Anthropic employee pushes back on claims Claude sabotages ML research",
+          "source": "Crypto Briefing",
+          "lien": "https://cryptobriefing.com/anthropic-claude-fable-5-sabotage-claims/",
+          "date": "2026-11-28T04:40:39+00:00",
+          "resume": "The controversy highlights the critical need for transparency and clarity in AI model behavior to maintain trust and efficiency in research. The post Anthropic employee pushes back on claims Claude sabotages ML research appeared first on Crypto Briefing .",
+          "titre_fr": "Un employé d'Anthropic conteste les affirmations selon lesquelles Claude saboterait la recherche ML"
+        },
+        {
+          "note": 5,
+          "motif": "Analyse sociologique du temps de travail avec IA, perspective intéressante",
+          "couverture": 1,
+          "titre": "AI Is Saving Workers Time. So Why Might They Be Working More?",
+          "source": "Inc.com",
+          "lien": "https://www.inc.com/dan-schawbel/ai-is-saving-workers-time-so-why-might-they-be-working-more/91441421",
+          "date": "2026-11-28T04:05:49+00:00",
+          "resume": "AI is helping employees save time on routine tasks, but reviewing AI-generated work may create additional demands on their time.",
+          "titre_fr": "L'IA fait gagner du temps aux travailleurs. Pourquoi pourraient‑ils travailler davantage ?"
+        },
+        {
+          "note": 4,
+          "motif": "Citation vague sur surchauffe d'outils IA, peu de contexte",
+          "couverture": 1,
+          "titre": "\"There is overheating in horizontal AI tooling\"",
+          "source": "www.calcalistech.com",
+          "lien": "https://www.calcalistech.com/ctechnews/article/cidzvioy3",
+          "date": "2026-11-28T07:03:00+00:00",
+          "resume": "With AI reshaping how startups are built and funded, and Israel's tech ecosystem adjusting to a new economic and geopolitical reality, investors are rethinking their playbooks. Azrielant joined CTech ...",
+          "titre_fr": "« Il y a surchauffe dans les outils IA horizontaux »"
+        },
+        {
+          "note": 4,
+          "motif": "Mise en avant d'un produit Meta, promotion plutôt qu'information",
+          "couverture": 1,
+          "titre": "Extended musings on Meta Muse, the agentic AI that’s only here to help",
+          "source": "Wallpaper*",
+          "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQczRaMldKMC1RdDJ3eG4wbmNCS1Y0ME1GcDQzY0xTQjE4X0dSeFVtaC1ZblYwNGVyRkJlZlg0THBmTHJ3WV9fd3VfTkJwQXpZR0xCakczZ01vUmxjZUxubGZpdUNaTktzLTFoTmExT0lZLTVNbTBMN1JNRUVacTR2SWd0ZnRxWnhZZ3NuY0JYU28zbkZOUk5pWjM5LWdqcGVa?oc=5",
+          "date": "2026-11-28T06:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Réflexions prolongées sur Meta Muse, l'IA agentive qui n'existe que pour aider"
+        },
+        {
+          "note": 4,
+          "motif": "Témoignages d'employés, dimension psychologique mais peu de données",
+          "couverture": 1,
+          "titre": "Workers who lose their jobs to AI say they're also addicted to using it",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLXhzeEFENEoyYlRoTndiVlVyVWNSRUVvZkdzOGVMQTduSFhhbnRuUjdsdDRyaXc0dEswWEs2QVRTMjBMYklwcFg2NGN4d0N6WXRXR1J2MWFwa2V1LVRCWHBpWTNnY3V4c0ZlUEJxN1U4TE8zdkVYTW1BVS1VSmJ4RnVDc3l6NzNKWHlzV3VGTGEyT0V4QmhvZmxlQVJHT2Zuanc?oc=5",
+          "date": "2026-11-28T03:52:38+00:00",
+          "resume": "",
+          "titre_fr": "Les travailleurs remplacés par l'IA déclarent être également accros à son utilisation"
+        },
+        {
+          "note": 4,
+          "motif": "Litige sur génération musicale IA, aspect juridique limité",
+          "couverture": 1,
+          "titre": "The Chicks say an AI song generator is illegally using their likeness",
+          "source": "Chron",
+          "lien": "https://www.msn.com/en-us/entertainment/celebrities/the-chicks-say-an-ai-song-generator-is-illegally-using-their-likeness/ar-AA2iopCf",
+          "date": "2026-11-28T01:38:10+00:00",
+          "resume": "They're the biggest musical act to sue over AI.",
+          "titre_fr": "The Chicks affirment qu'un générateur de chansons IA utilise illégalement leur image"
+        },
+        {
+          "note": 3,
+          "motif": "Article d'opinion, pas d'information factuelle majeure",
+          "couverture": 1,
+          "titre": "Opinion: Finding hope in artificial intelligence",
+          "source": "Deseret News",
+          "lien": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2taanNuaDFFRlJxM0k4SHlhX1Z2ek1sb0ZmWUhlYmhmWTlXWnYyZ3JOX2M1RTRmdHZMNlMtRU5WTVRUMklac2RxRzVpNmpvMWVZTDM5TmI2WkVKMGtFU3Y0X1JPQ3pGU2tUVFB2WjhDZGJGUDFIeVQ0MTY2SjIyOQ?oc=5",
+          "date": "2026-11-28T07:01:00+00:00",
+          "resume": "",
+          "titre_fr": "Opinion : Trouver l'espoir dans l'intelligence artificielle"
+        },
+        {
+          "note": 3,
+          "motif": "Projet municipal, peu d'envergure sectorielle",
+          "couverture": 1,
+          "titre": "Albertville prepares for future growth with AI",
+          "source": "sandmountainreporter.com",
+          "lien": "https://www.sandmountainreporter.com/news/article_63f388a3-be55-4959-996b-a0469af51aef.html",
+          "date": "2026-11-28T06:00:00+00:00",
+          "resume": "Albertville residents may have seen an unusual looking vehicle on their roads equipped with three cameras. With Albertville increasing from 22,407 in 2020 to approximately 23,988 in 2026 (reflecting a ...",
+          "titre_fr": "Albertville se prépare à la croissance future grâce à l'IA"
+        },
+        {
+          "note": 3,
+          "motif": "Opinion locale, peu d'impact sur le secteur IA",
+          "couverture": 1,
+          "titre": "Local Opinion: What’s really going on with AI?",
+          "source": "Chattanooga Times Free Press",
+          "lien": "https://www.timesfreepress.com/news/2026/nov/27/local-opinion-whats-really-going-on-with-ai/",
+          "date": "2026-11-28T01:00:00+00:00",
+          "resume": "Artificial Intelligence is going to save the world. Artificial Intelligence is going to destroy the world. These two opposing perspectives are both present.",
+          "titre_fr": "Opinion locale : que se passe‑t‑il réellement avec l'IA ?"
+        },
+        {
+          "note": 2,
+          "motif": "Annonce vague d'une fondation, peu de crédibilité et détails",
+          "couverture": 1,
+          "titre": "Retail Artificial Intelligence Worker Protections",
+          "source": "Bitcoin Foundation",
+          "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVWdnVHJ6OVJpSVFORUM3NlFWbDludFA1UG5ua3JwYVh6S01KeHNPa25BeldoWUk1bmxPZ0stc3NZSHp4cGctUndrb2lKS1hQaVhBRDZlWHg5ODJNU2RlV0tsc2pqd1ZYTTAtNTRiQWtiXzRDZ3pSamh2ZkR0WjBSQWNYNjZycGg5M2Q3OGRqYnBpUzA2T2QweHEtbGxtY0MyRXhEM2dFVmN5LXFKUVR3Q01takRqYXUz?oc=5",
+          "date": "2026-11-28T06:51:29+00:00",
+          "resume": "",
+          "titre_fr": "Protection des travailleurs de l'IA dans le commerce de détail"
+        },
+        {
+          "note": 2,
+          "motif": "Promotion tarifaire d'abonnement IA, contenu commercial",
+          "couverture": 1,
+          "titre": "Oppo ColorOS 17 AI Subscription: ₹289 to ₹959 a Month",
+          "source": "shattered.io",
+          "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUDdMNTRKc25nVTBpN0hPbGV2V3g0UzdDd3FMSzJjSGFESEo2TkZTa1ZKcndLZnhGdDRiNmxKNC1RZzVYaU9yUGt2T3VJeng0cXNQS1l1Sl9ZQVFraEpZRTJnVG5uamdEcm1DWnctTk5CTGxadlNySlR4Q2c5WFN1Q09Gb0UyNDQ?oc=5",
+          "date": "2026-11-28T04:50:07+00:00",
+          "resume": "",
+          "titre_fr": "Abonnement AI d'Oppo ColorOS 17 : de 289 ₹ à 959 ₹ par mois"
+        },
+        {
+          "note": 2,
+          "motif": "Annonce vague d'AI Car Wash, manque de détails",
+          "couverture": 1,
+          "titre": "Phaos Eyes AI Car Wash in 2 Markets, 0 Specs Confirmed",
+          "source": "shattered.io",
+          "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMktUVnV3UUNpVEZXMk4waXVUNGNKLUNWbmplUUR4OF80YUZTS0QzcmRWZmtCR09MZ28tNGowSm5lT044ZHZOYkFEVWI1Vnpkay15allINFpZSWNUSkdkTElOMjhXNlY1enAxdHhVeFQ5ekxOamJqVFB6ZndUd2xKaTllYUp4SF9jUWtFV3FiUk92aFBzS2RkYzl2UQ?oc=5",
+          "date": "2026-11-28T04:04:09+00:00",
+          "resume": "",
+          "titre_fr": "Phaos cible le lavage de voitures IA dans 2 marchés, aucune spécification confirmée"
+        }
+      ]
+    },
+    {
+      "nom": "Autres articles",
+      "resume": "",
+      "articles": [
+        {
+          "note": 3,
+          "motif": "Opinion personnelle, peu d'impact sectoriel",
+          "couverture": 1,
+          "titre": "Who knew? Israel's AI revolution made me realize I am a content creator, too - opinion",
+          "source": "The Jerusalem Post",
+          "lien": "https://www.jpost.com/opinion/article-916232",
+          "date": "2026-11-28T07:26:42+00:00",
+          "resume": "There’s a lot of talk about content creators. Long before “content creator” became a sought-after career path or a LinkedIn headline, I was doing the same work.",
+          "titre_fr": "Qui l'aurait cru ? La révolution IA d'Israël m'a fait réaliser que je suis aussi créateur de contenu – opinion"
+        }
+      ]
+    }
+  ],
+  "ecartes": [
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Musk says Google wants to lease more compute capacity from SpaceX",
+      "source": "Crypto Briefing",
+      "lien": "https://cryptobriefing.com/google-lease-more-compute-spacex-musk/",
+      "date": "2026-11-28T07:08:53+00:00",
+      "resume": "Google's increased demand for SpaceX's compute capacity highlights the growing reliance on AI infrastructure and strategic tech partnerships. The post Musk says Google wants to lease more compute capacity from SpaceX appeared first on Crypto Briefing .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Jensen 2.0: Nvidia Eyes $5T as SpaceX-Tesla Ties Grow",
+      "source": "shattered.io",
+      "lien": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWlo0bmFacDNBYkd4aV9wWnJYR1BuS3Y5NjkyS3dnUjYwaGV1TDRGNnRIOTdiLXRBdzM5R1d3UVBIS1BRdEtYYlY5OG5iVVdpSHN4c290RWgtZ0Vhdm1NYmdyYzFDclpNZDhpbGNiSlVGUFh6TGZ2eThuWVNFanhYNFEwZ1NjT1NEdG5Vb25B?oc=5",
+      "date": "2026-11-28T06:20:08+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Hackers breached 24 Check Point management servers, GreyNoise says",
+      "source": "Superpower Daily",
+      "lien": "https://superpowerdaily.com/posts/hackers-breached-24-check-point-management-servers-greynoise-says",
+      "date": "2026-11-28T06:16:04+00:00",
+      "resume": "The GT13 campaign reached systems used to manage security protections. GreyNoise suspects AI-enabled attack tools, but AI use and the original route into the servers remain unconfirmed.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Make money doing the work you believe in",
+      "source": "Substack",
+      "lien": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QclV5Ym1zU1lzQ0ttREJfWlJqajVmNnluOVhxSWNhd0E0M3BxTDVwa1ZuaWJ2RVFac2pZT0hNNjY2N1IxcEpVeTJCTHRvZUI4ZmthYjZCeVdGMF9xX3J3?oc=5",
+      "date": "2026-11-28T05:03:25+00:00",
+      "resume": "",
+      "titre_fr": ""
+    }
+  ],
+  "top": [
+    {
+      "note": 8,
+      "motif": "Initiative nationale d'infrastructures IA, impact géopolitique",
+      "couverture": 1,
+      "titre": "How Israel is fast-tracking data centres in bid to become ‘AI superpower’",
+      "source": "Al Jazeera",
+      "lien": "https://www.msn.com/en-us/news/other/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower/ar-AA2ip03f",
+      "date": "2026-11-28T07:22:27+00:00",
+      "resume": "Israel is looking to data centres to boost its data processing, military strength and global clout.",
+      "titre_fr": "Comment Israël accélère la création de centres de données pour devenir une « superpuissance IA »"
+    },
+    {
+      "note": 8,
+      "motif": "Projet de loi japonais avec sanctions, impact réglementaire international",
+      "couverture": 2,
+      "titre": "Japan's draft AI law would fine foreign AI companies that defy its orders",
+      "source": "Startup Fortune",
+      "lien": "https://startupfortune.com/japans-draft-ai-law-would-fine-foreign-ai-companies-that-defy-its-orders/",
+      "date": "2026-11-28T06:56:32+00:00",
+      "resume": "A government working group has a draft that attaches penalties to ignored report demands and orders, rather than to what an AI model does. Providers would also have to block outputs that could help cyberattacks, and a bill is aimed at 2027.",
+      "titre_fr": "Le projet de loi IA du Japon sanctionnerait les entreprises étrangères qui désobéissent à ses ordres"
+    },
+    {
+      "note": 8,
+      "motif": "Révélations potentiellement critiques des labs IA, risque global",
+      "couverture": 1,
+      "titre": "AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
+      "date": "2026-11-28T05:00:00+00:00",
+      "resume": "Exclusive: AI may have cracked decades-old maths problems that underpin encryption at banks and government agencies ...",
+      "titre_fr": "Les laboratoires IA détiennent des révélations « bombardier » pouvant provoquer le chaos mondial, avertissent les experts"
+    },
+    {
+      "note": 8,
+      "motif": "Risque de rupture de chiffrement par IA, enjeu cybersécurité majeur",
+      "couverture": 1,
+      "titre": "Could AI break encryption? What mathematical breakthroughs mean for cybersecurity",
+      "source": "The Guardian",
+      "lien": "https://www.theguardian.com/technology/2026/nov/28/could-ai-break-encryption-what-mathematical-breakthroughs-mean-for-cybersecurity",
+      "date": "2026-11-28T05:00:00+00:00",
+      "resume": "Experts suggest AI companies may be sitting on ‘bombshell’ that could have severe consequences for secret information ...",
+      "titre_fr": "L'IA pourrait‑elle casser le chiffrement ? Ce que les percées mathématiques impliquent pour la cybersécurité"
+    },
+    {
+      "note": 7,
+      "motif": "Nouveau projet législatif limitant l'IA en justice, impact juridique",
+      "couverture": 1,
+      "titre": "New bill aims to keep AI out of court opinions",
+      "source": "Observer Today",
+      "lien": "https://www.observertoday.com/news/local-region/2026/11/new-bill-aims-to-keep-ai-out-of-court-opinions/",
+      "date": "2026-11-28T07:26:56+00:00",
+      "resume": "New legislation introduced in the state Senate aims to keep artificial intelligence from being used in court opinions in New York. Sen. Michelle Hinchey, D-Kingston, recently introduced legislation (S ...",
+      "titre_fr": "Un nouveau projet de loi vise à exclure l'IA des décisions judiciaires"
+    }
+  ],
+  "articles_notes": 50,
+  "liens_google": 17,
+  "videos": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "When an AI Snapped and Tried to Hack Its Own User #ArtificialIntelligence #OpenAI #CyberSecurity",
+        "source": "David Zedan",
+        "lien": "https://www.youtube.com/watch?v=mFSXKiv8mrI",
+        "date": "2026-11-28T05:35:37Z",
+        "image": "https://i.ytimg.com/vi/mFSXKiv8mrI/mqdefault.jpg",
+        "extrait": "When an AI Snapped and Tried to Hack Its Own User In January 2026, a simple script inside OpenAI asked a coding AI one ...",
+        "description": "Une IA a tenté de pirater son propre utilisateur après une défaillance, illustrant les risques de sécurité liés aux modèles d'OpenAI."
+      },
+      {
+        "titre": "Anthropic Just Killed AI Agents - EVERYTHING You Need to Know",
+        "source": "Christian Peverelli",
+        "lien": "https://www.youtube.com/watch?v=fBSI3HLoxWc",
+        "date": "2026-11-28T03:30:39Z",
+        "image": "https://i.ytimg.com/vi/fBSI3HLoxWc/mqdefault.jpg",
+        "extrait": "FREE Skills: https://www.skool.com/wearenocode TOOLS AI Coding: Claude Code: https://claude.ai/referral/hNMjMWDmiA ...",
+        "description": "Anthropic aurait supprimé ses agents IA, et la vidéo explique les raisons et les conséquences de cette décision."
+      },
+      {
+        "titre": "What Happens When a Philosopher Challenges Artificial Intelligence?",
+        "source": "The High Powered Podcast",
+        "lien": "https://www.youtube.com/watch?v=qeI2TtFFJPY",
+        "date": "2026-11-28T01:53:24Z",
+        "image": "https://i.ytimg.com/vi/qeI2TtFFJPY/mqdefault.jpg",
+        "extrait": "Welcome Students - Class is in Session. I'm Professor Princella Clark, but they call me Professor P  I teach people how to think, ...",
+        "description": "Un philosophe interroge les limites de l'intelligence artificielle, soulevant des questions éthiques et conceptuelles."
+      },
+      {
+        "titre": "AI Solves the Riemann Hypothesis—Then Waits for the IPO #shorts",
+        "source": "From First Principles",
+        "lien": "https://www.youtube.com/watch?v=2WT8U_Q83AI",
+        "date": "2026-11-27T22:29:30Z",
+        "image": "https://i.ytimg.com/vi/2WT8U_Q83AI/mqdefault.jpg",
+        "extrait": "OpenAI's release of 700 math preprints ignites controversy, fears of researchers being scooped, and a race toward the Riemann ...",
+        "description": "Une IA aurait résolu l'hypothèse de Riemann, déclenchant un débat sur les implications scientifiques et les enjeux de publication."
+      },
+      {
+        "titre": "AI news Nov 27: ChatGPT limits, ARTEX hackers, Apple pulls Talkie",
+        "source": "Snippets Ltd.",
+        "lien": "https://www.youtube.com/watch?v=6pfRFvbSj4w",
+        "date": "2026-11-27T21:23:23Z",
+        "image": "https://i.ytimg.com/vi/6pfRFvbSj4w/mqdefault.jpg",
+        "extrait": "OpenAI says it undercharged by mistake, so paid ChatGPT limits now run out up to 40% faster. Also: Microsoft says state hackers ...",
+        "description": "Résumé des actualités IA du 27 novembre : limites de ChatGPT, piratage d'ARTEX, retrait de Talkie par Apple et autres développements majeurs."
+      },
+      {
+        "titre": "This Scene Is Becoming Reality... 🤯 #humanoidrobot",
+        "source": "VisionX Lab",
+        "lien": "https://www.youtube.com/watch?v=4f9tGf0eMl4",
+        "date": "2026-11-27T21:15:12Z",
+        "image": "https://i.ytimg.com/vi/4f9tGf0eMl4/mqdefault.jpg",
+        "extrait": "What once seemed like pure science fiction is starting to feel closer to reality. As AI and humanoid robotics continue advancing, ...",
+        "description": "Présentation d'un robot humanoïde avancé, montrant comment l'IA et la robotique rapprochent la science‑fiction de la réalité."
+      },
+      {
+        "titre": "How AI could be coming for your bank account | BBC News",
+        "source": "BBC News",
+        "lien": "https://www.youtube.com/watch?v=bgONnPA8QU8",
+        "date": "2026-11-27T20:30:09Z",
+        "image": "https://i.ytimg.com/vi/bgONnPA8QU8/mqdefault.jpg",
+        "extrait": "The Bank of England governor has raised concerns that AI models may becoming advanced enough to break through the ...",
+        "description": "Analyse de la BBC sur le risque que les modèles d'IA puissent un jour compromettre les comptes bancaires, selon le gouverneur de la Banque d'Angleterre."
+      },
+      {
+        "titre": "Why The Public Doesn't Trust AI",
+        "source": "Soon",
+        "lien": "https://www.youtube.com/watch?v=2incGXklRiE",
+        "date": "2026-11-27T20:30:06Z",
+        "image": "https://i.ytimg.com/vi/2incGXklRiE/mqdefault.jpg",
+        "extrait": "These guys are playing God, and they're playing government, and they're kind of designing the world as they see fit.” If the AI ...",
+        "description": "Exploration des raisons pour lesquelles le public méfiant l'IA, notamment le sentiment que les grandes entreprises et gouvernements jouent à être des dieux."
+      },
+      {
+        "titre": "Will AI Change the Economy in 36 Months? Prepare Now! The Impact on Your Money",
+        "source": "Ian Dunlap",
+        "lien": "https://www.youtube.com/watch?v=ViRzeBtFP1c",
+        "date": "2026-11-27T20:19:04Z",
+        "image": "https://i.ytimg.com/vi/ViRzeBtFP1c/mqdefault.jpg",
+        "extrait": "Are you prepared for how artificial intelligence could reshape your purchasing power over the next few years? On this clip from his ...",
+        "description": "Prévisions sur l'impact économique de l'IA dans les 36 prochains mois et conseils pour se préparer financièrement."
+      },
+      {
+        "titre": "OpenAI’s Rough Week: GPT-6.2 Backlash and Funding Woes",
+        "source": "STARTUP HAKK",
+        "lien": "https://www.youtube.com/watch?v=TT4WcYK83Xo",
+        "date": "2026-11-27T14:49:30Z",
+        "image": "https://i.ytimg.com/vi/TT4WcYK83Xo/mqdefault.jpg",
+        "extrait": "A new model draws sharp criticism, funding reportedly falls short, and concerns about code training add to OpenAI's rocky week.",
+        "description": "Bilan de la semaine difficile d'OpenAI : critiques du nouveau modèle GPT‑6.2, problèmes de financement et inquiétudes sur l'entraînement du code."
+      }
+    ]
+  },
+  "podcasts": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "20VC: Why ARR Per Employee is a BS Metric | Message-Market Fit vs. Product-Market Fit: Why Founders Should Launch Broken Products | The Biggest Mistakes Founders Make When Scaling Sales Teams with David Paffenholz, Juicebox",
+        "source": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
+        "lien": "https://podcasts.apple.com/us/podcast/20vc-why-arr-per-employee-is-a-bs-metric-message/id958230465?i=1000804506823&uo=4",
+        "date": "2026-11-28T07:07:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3a/24/5e/3a245e17-1d97-c2bd-68e0-ab44762a17c1/mza_13796701323165154412.jpeg/160x160bb.jpg",
+        "duree_min": 61,
+        "extrait": "David Paffenholz is the Co-Founder and CEO of Juicebox, one of Silicon Valley's fastest-growing AI startups. To date, Juicebox has raised $116M in funding, most recently an $80M Series B at an $850M valuation. Investors include Sequoia, DST, Coatue, N",
+        "description": "Entretien avec David Paffenholz, co‑fondateur de Juicebox, qui discute des métriques trompeuses comme l’ARR par employé et des erreurs fréquentes des fondateurs lors du scaling des équipes commerciales dans les startups IA."
+      },
+      {
+        "titre": "AI News — November 28, 2026: Claude Sabotage Claims Hit Anthropic, Virginia and Oregon Sue xAI Over Grok CSAM",
+        "source": "ai0.news — Daily AI News",
+        "lien": "https://podcasts.apple.com/us/podcast/ai-news-november-28-2026-claude-sabotage-claims-hit/id1894308348?i=1000804506330&uo=4",
+        "date": "2026-11-28T07:00:07+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/12/42/8b/12428bde-fc7f-9994-05f1-9648d1d9de5a/mza_12911909025965045186.png/160x160bb.jpg",
+        "duree_min": 6,
+        "extrait": "Claude sabotage allegations and Anthropic rebuttal dominate todays AI news, plus two state AGs sue xAI over Grok-generated CSAM and GPT-6.2 Astra solves a 200-year archival mystery in 22 minutes.",
+        "description": "Résumé des dernières nouvelles IA, notamment les accusations de sabotage contre Claude d’Anthropic, les réactions d’Anthropic, et les poursuites de deux États américains contre xAI pour la génération de CSAM avec Grok."
+      },
+      {
+        "titre": "LeCun's world-model bet, India's Chariot-1 LLM and a $1bn agent startup - AIskimIQ Daily Brief - 2026-11-28",
+        "source": "AIskimIQ — Daily AI News Brief",
+        "lien": "https://podcasts.apple.com/us/podcast/lecuns-world-model-bet-indias-chariot-1-llm-and-a/id1892679825?i=1000804501870&uo=4",
+        "date": "2026-11-28T06:10:04+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/b4/b6/52b4b6ba-51ab-28e0-7ed7-f886bdae3544/mza_14638392413648219659.jpg/160x160bb.jpg",
+        "duree_min": 8,
+        "extrait": "New studies from Meta and AMI Labs bolster Yann LeCun's JEPA approach, as he argues LLMs are a dead end and world models are the way forward. Meanwhile, IndiaAI Mission-backed Chariot AI launched Chariot-1, an 11B-parameter LLM, alongside speech models,",
+        "description": "Analyse des récentes études soutenant la position de Yann LeCun sur les modèles mondiaux (JEPA) contre les LLM, et présentation du nouveau LLM indien Chariot‑1 de 11 milliards de paramètres."
+      },
+      {
+        "titre": "Gemini 4 Neon Built a Living AI Core!",
+        "source": "AI News Today | Julian Goldie Podcast",
+        "lien": "https://podcasts.apple.com/us/podcast/gemini-4-neon-built-a-living-ai-core/id1851256047?i=1000804494096&uo=4",
+        "date": "2026-11-28T04:33:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/88/16/d0/8816d03f-1f65-bbe4-6cec-8d3846f9aea7/mza_9304718564816286521.jpg/160x160bb.jpg",
+        "duree_min": 17,
+        "extrait": "Gemini 4 Neon Built a Living AI Core!",
+        "description": "Présentation de Gemini 4 Neon, un nouveau « living AI core » qui intègre des capacités d’apprentissage continu et d’interaction autonome."
+      },
+      {
+        "titre": "Riemann Proof Built With Claude, Anthropic Stock Price, Huang Back at Nvidia | AI News",
+        "source": "AI News You Should Know About: Latest AI Headlines Weekly",
+        "lien": "https://podcasts.apple.com/us/podcast/riemann-proof-built-with-claude-anthropic-stock-price/id1827272620?i=1000804485690&uo=4",
+        "date": "2026-11-28T02:56:02+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/58/79/0b/58790b82-c133-123b-66e6-e969f6b55e80/mza_16054593523420310315.jpg/160x160bb.jpg",
+        "duree_min": 9,
+        "extrait": "This week on AI News You Should Know About, host Ashley Coffey breaks down four AI headlines and what each one means for your work and your business. In this episode: Anthropic falls below its IPO price: Anthropic, the company behind Claude, went public",
+        "description": "Analyse des titres majeurs de la semaine, dont la chute du cours d’Anthropic sous son prix d’introduction, la preuve mathématique réalisée avec Claude, et le retour de Jensen Huang chez Nvidia."
+      },
+      {
+        "titre": "The Hidden Cost of AI Efficiency Metrics",
+        "source": "The AI Podcast with Fexingo: Artificial Intelligence, Machine Learning, and Modern AI Models",
+        "lien": "https://podcasts.apple.com/us/podcast/the-hidden-cost-of-ai-efficiency-metrics/id1896798905?i=1000804476961&uo=4",
+        "date": "2026-11-28T01:00:45+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/86/8d/3e/868d3e70-c633-06b3-55a8-c43f8fe44b4d/mza_12803297017013963473.png/160x160bb.jpg",
+        "duree_min": 7,
+        "extrait": "Lucas and Luna dissect the paradox of AI efficiency: as models get faster and cheaper to run, why are enterprise adoption rates stalling? We look at the disconnect between technical benchmarks and real-world business value, using recent data from the se",
+        "description": "Discussion sur le paradoxe des métriques d’efficacité IA : malgré des modèles plus rapides et moins coûteux, l’adoption en entreprise stagne, mettant en lumière le fossé entre performances techniques et valeur business."
+      },
+      {
+        "titre": "Nvidia’s Undoing?, China’s AI Decline, Alexandr Wang’s Superintelligence Warning",
+        "source": "Big Technology Podcast",
+        "lien": "https://podcasts.apple.com/us/podcast/nvidias-undoing-chinas-ai-decline-alexandr-wangs-superintelligence/id1522960417?i=1000804473402&uo=4",
+        "date": "2026-11-28T00:13:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c3/30/67/c330676b-2402-432b-0505-12490dc3ccc1/mza_4262545472677654397.jpeg/160x160bb.jpg",
+        "duree_min": 58,
+        "extrait": "Brian McCullough from the Tech Brew Ride Home Podcast is back for our weekly discussion of the latest tech news. We cover: 1) New reporting linking Alice Huang with Nvidia Blackwelll chips in China 2) How much Nvidia demand can be traced to China 3) If",
+        "description": "Débat sur les enjeux géopolitiques et technologiques autour de Nvidia, incluant les liens d’Alice Huang avec les puces Blackwell en Chine et les implications du déclin de l’IA chinoise."
+      },
+      {
+        "titre": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+        "source": "Latent Space: The AI Engineer Podcast",
+        "lien": "https://podcasts.apple.com/us/podcast/inside-the-ai-training-data-market-gabe-greenberg-g2i/id1674008350?i=1000804470486&uo=4",
+        "date": "2026-11-27T22:19:18+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d9/21/86/d92186f9-f3a9-aa02-2396-79b6647ab5eb/mza_16010788000850407367.jpg/160x160bb.jpg",
+        "duree_min": 32,
+        "extrait": "A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can buy too. At AI Engineer CODE, G2i founder Gabe Greenberg tells swyx how labs make that decision, how small pilot orders turn into bigger.",
+        "description": "Interview de Gabe Greenberg (G2i) sur le marché des données d’entraînement IA, expliquant comment les laboratoires décident d’acheter des données exclusives ou partagées et les modèles économiques associés."
+      },
+      {
+        "titre": "NVIDIA Export Controls, SpaceX Cleared for Orbital Data Centers, META’s Hidden AI Advantage",
+        "source": "Blockspace: AI News",
+        "lien": "https://podcasts.apple.com/us/podcast/nvidia-export-controls-spacex-cleared-for-orbital-data/id1729672815?i=1000804447843&uo=4",
+        "date": "2026-11-27T20:30:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f0/8f/62/f08f629b-b9e6-4d3d-9b67-465ca509cb05/mza_11306320225317528639.png/160x160bb.jpg",
+        "duree_min": 42,
+        "extrait": "Welcome back to The Blockspace Podcast! Today, we open up with how NVIDIA’s new export controls on Southeast Asian neoclouds could impact US-based neoclouds. We also cover the FCC’s approval for SpaceX to launch 1 million satellites for space-based",
+        "description": "Analyse des nouvelles restrictions d’exportation de Nvidia en Asie du Sud‑Est, de l’autorisation de la FCC pour SpaceX de lancer des data‑centers orbitaux, et de l’avantage caché de META dans l’IA."
+      },
+      {
+        "titre": "AI is Too Big to Fail",
+        "source": "The AI Daily Brief: Artificial Intelligence News and Analysis",
+        "lien": "https://podcasts.apple.com/us/podcast/ai-is-too-big-to-fail/id1680633614?i=1000804385150&uo=4",
+        "date": "2026-11-27T18:00:01+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/78/d8/9c78d82d-a2d1-a026-6ca2-f92ea61be9ae/mza_18421328158594577747.jpg/160x160bb.jpg",
+        "duree_min": 27,
+        "extrait": "As Senator Adam Schiff pushes to rule out an AI bailout, NLW examines whether Washington could actually let the industry fail. He traces how AI became central to U.S. economic growth and national security under two administrations, then revisits the bank bailouts of 2008 to explore what a government",
+        "description": "Examen du débat politique autour d’un éventuel sauvetage gouvernemental de l’industrie IA, en suivant l’initiative du sénateur Adam Schiff et l’impact de l’IA sur l’économie et la sécurité nationale américaine."
+      }
+    ]
+  }
+}

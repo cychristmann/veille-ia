@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-23-t2.md"
 type: "concept"
-community: "L&T Technology Services"
+community: "LEO Technologies"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/LT_Technology_Services
+  - community/LEO_Technologies
 ---
 
 # SDVault.ai
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[L&T Technology Services]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/LT_Technology_Services
+#graphify/concept #graphify/EXTRACTED #community/LEO_Technologies

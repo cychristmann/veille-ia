@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[HarmonyOS 7]] - code - veilles/veille-ia-cn-2026-11-17-t4.md
-- [[Huawei Mate 90]] - code - veilles/veille-ia-cn-2026-11-17-t4.md
-- [[OSTA O1 Pro]] - code - veilles/veille-ia-cn-2026-11-17-t4.md
-- [[Veille Chine 2026-11-17 (T4)]] - document - veilles/veille-ia-cn-2026-11-17-t4.md
+- [[Huawei Ascend]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[LongCat-2.5]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[Meituan]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[Terminal Bench]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
 
 ## Live Query (requires Dataview plugin)
 

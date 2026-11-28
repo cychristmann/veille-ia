@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-19-t1.md"
 type: "document"
-community: "Veille France 2026-11-15 : Réflexion et éthique"
+community: "Tencent"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-15__Réflexion_et_éthique
+  - community/Tencent
 ---
 
 # Veille États-Unis 2026-11-19 : Financement et mouvements de marché
@@ -18,4 +18,4 @@ tags:
 - [[Lenovo]] - `references` [EXTRACTED]
 - [[Noetik]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-15__Réflexion_et_éthique
+#graphify/document #graphify/EXTRACTED #community/Tencent

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
 type: "code"
-community: "Veille Outils & code 2026-11-26"
+community: "Veille France 2026-11-25"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-26
+  - community/Veille_France_2026-11-25
 ---
 
 # Digital Networks Act
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Cisco]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-26
+#graphify/code #graphify/EXTRACTED #community/Veille_France_2026-11-25

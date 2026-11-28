@@ -1,15 +1,16 @@
 ---
 type: community
-members: 2
+members: 3
 ---
 
 # Impact sociétal de l'IA
 
-**Members:** 2 nodes
+**Members:** 3 nodes
 
 ## Members
-- [[Impact sociétal de l'IA]] - concept - veilles/veille-ia-fr-2026-11-21-t5.md
-- [[Veille France 2026-11-21  Société & culture]] - document - veilles/veille-ia-fr-2026-11-21-t5.md
+- [[Veille Chine 2026-11-11 Régulation et gouvernance]] - document - veilles/veille-ia-cn-2026-11-11-t4.md
+- [[文投控股 (Wentou Holdings)]] - concept - veilles/veille-ia-cn-2026-11-11-t4.md
+- [[清华大学人工智能国际治理研究院 (Tsinghua IAGI)]] - concept - veilles/veille-ia-cn-2026-11-11-t4.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-15-t2.md"
 type: "concept"
-community: "Huawei"
+community: "Veille Outils & code 2026-11-26"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Huawei
+  - community/Veille_Outils__code_2026-11-26
 ---
 
 # Shanghai Universities
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Huawei
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-26

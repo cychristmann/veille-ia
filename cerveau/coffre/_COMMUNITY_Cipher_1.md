@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Veille Outils & code 2026-11-14  Bibliothèques, outils et releases open‑source]] - document - veilles/veille-ia-dev-2026-11-14-t4.md
-- [[XYBench]] - concept - veilles/veille-ia-dev-2026-11-14-t4.md
-- [[agent-desktop]] - concept - veilles/veille-ia-dev-2026-11-14-t4.md
+- [[Cipher]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
+- [[IREN]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
+- [[TeraWulf]] - concept - veilles/veille-ia-us-2026-11-20-t1.md
 
 ## Live Query (requires Dataview plugin)
 

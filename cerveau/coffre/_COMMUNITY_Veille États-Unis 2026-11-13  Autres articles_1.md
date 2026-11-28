@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-13 : Autres articles
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Crise des data-centers IA]] - concept - feuilletons/f-0024.md
-- [[Feuilleton Effondrement du boom IA et crise des data-centers]] - document - feuilletons/f-0024.md
+- [[Cyber Shield]] - concept - dossiers/2026-11-18-2.md
 
 ## Live Query (requires Dataview plugin)
 

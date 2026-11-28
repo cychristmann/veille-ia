@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-22-t7.md"
 type: "document"
-community: "Veille France 2026-11-12"
+community: "Veille France 2026-11-17"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-12
+  - community/Veille_France_2026-11-17
 ---
 
 # Veille France 2026-11-22
@@ -17,4 +17,4 @@ tags:
 - [[OpenRouter]] - `references` [EXTRACTED]
 - [[Signal]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-12
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-17

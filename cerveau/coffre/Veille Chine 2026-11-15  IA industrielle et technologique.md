@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-15-t2.md"
 type: "document"
-community: "Huawei"
+community: "Veille Outils & code 2026-11-26"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Huawei
+  - community/Veille_Outils__code_2026-11-26
 ---
 
 # Veille Chine 2026-11-15 : IA industrielle et technologique
@@ -20,4 +20,4 @@ tags:
 - [[Shanghai Universities]] - `references` [EXTRACTED]
 - [[SpaceX]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Huawei
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-26

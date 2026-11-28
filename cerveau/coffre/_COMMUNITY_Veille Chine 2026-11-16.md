@@ -1,17 +1,20 @@
 ---
 type: community
-members: 4
+members: 7
 ---
 
 # Veille Chine 2026-11-16
 
-**Members:** 4 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[AI Fraud and Academic Misconduct]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
-- [[AI Market Dynamics]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
-- [[AI Regulation and Ethics]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
-- [[Veille Chine 2026-11-16]] - document - veilles/veille-ia-cn-2026-11-16-t4.md
+- [[ASRock Industrial]] - concept - veilles/veille-ia-fr-2026-11-24-t5.md
+- [[Foxconn]] - code - veilles/veille-ia-us-2026-11-16-t2.md
+- [[Intel]] - code - veilles/veille-ia-us-2026-11-16-t2.md
+- [[SambaNova Systems]] - code - veilles/veille-ia-us-2026-11-16-t2.md
+- [[Veille États-Unis 2026-11-16 (Industrie)]] - document - veilles/veille-ia-us-2026-11-16-t2.md
+- [[Xe3P (Crescent Island)]] - concept - dossiers/2026-11-27-2.md
+- [[Xeon 6+ (Clearwater Forest)]] - concept - dossiers/2026-11-27-2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -19,3 +22,10 @@ members: 4
 TABLE source_file, type FROM #community/Veille_Chine_2026-11-16
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-26_1]]
+- 1 edge to [[_COMMUNITY_CoreWeave]]
+
+## Top bridge nodes
+- [[Intel]] - degree 7, connects to 2 communities

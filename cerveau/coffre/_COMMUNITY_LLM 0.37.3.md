@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Joyoung]] - concept - veilles/veille-ia-cn-2026-11-27-t6.md
-- [[Veille Chine 2026-11-27  Matériel, puces et modèles de grande taille]] - document - veilles/veille-ia-cn-2026-11-27-t6.md
+- [[WAIC 2026]] - concept - dossiers/2026-11-25-3.md
+- [[Xi Jinping]] - concept - dossiers/2026-11-25-3.md
 
 ## Live Query (requires Dataview plugin)
 

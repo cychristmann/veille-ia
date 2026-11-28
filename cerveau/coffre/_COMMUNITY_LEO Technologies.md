@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Agent Investigations]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
-- [[groundcover]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[L&T Technology Services]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
+- [[SDVault.ai]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
 
 ## Live Query (requires Dataview plugin)
 

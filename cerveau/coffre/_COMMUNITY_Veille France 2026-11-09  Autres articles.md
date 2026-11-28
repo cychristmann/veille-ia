@@ -1,21 +1,17 @@
 ---
 type: community
-members: 8
+members: 4
 ---
 
 # Veille France 2026-11-09 : Autres articles
 
-**Members:** 8 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[AI Didn’t Take Our Jobs. It Turned Them Into Checking]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
-- [[Commentary Joe Brewer The wisdom AI can’t replace]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
-- [[Dario Amodei Pledges Human Control of AI at Anthropic’s $83 IPO]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
-- [[From Film Sets to Animated Dramas How AI Is Reshaping Film Production]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
-- [[Raleigh woman says company's AI agent confused her over rent. Now she's evicted.]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
-- [[Veille États-Unis 2026-11-20  Impact sociétal et culturel]] - document - veilles/veille-ia-us-2026-11-20-t5.md
-- [[Why I’m Not Losing Sleep Over the AI Apocalypse]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
-- [[You tell AI everything. But who else is listening]] - concept - veilles/veille-ia-us-2026-11-20-t5.md
+- [[Adobe]] - concept - veilles/veille-ia-fr-2026-11-09-t5.md
+- [[Claude Opus 4.8]] - concept - veilles/veille-ia-fr-2026-11-09-t5.md
+- [[Disney]] - concept - veilles/veille-ia-fr-2026-11-09-t5.md
+- [[Veille France 2026-11-09  Autres articles]] - document - veilles/veille-ia-fr-2026-11-09-t5.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,3 +19,11 @@ members: 8
 TABLE source_file, type FROM #community/Veille_France_2026-11-09__Autres_articles
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
+
+## Top bridge nodes
+- [[Veille France 2026-11-09  Autres articles]] - degree 6, connects to 3 communities

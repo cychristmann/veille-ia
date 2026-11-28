@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-22-t3.md"
 type: "document"
-community: "Amazon"
+community: "Libertify"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Amazon
+  - community/Libertify
 ---
 
 # Veille France 2026-11-22 : Applications grand public
@@ -25,4 +25,4 @@ tags:
 - [[Retraite anticipée Kasikornbank]] - `references` [EXTRACTED]
 - [[Scandale de triche à l’IA en Corée du Sud]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Amazon
+#graphify/document #graphify/EXTRACTED #community/Libertify

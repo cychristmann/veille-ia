@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Critea]] - concept - dossiers/2026-11-26-3.md
+- [[Veille États-Unis 2026-11-13  Autres articles]] - document - veilles/veille-ia-us-2026-11-13-t5.md
 
 ## Live Query (requires Dataview plugin)
 

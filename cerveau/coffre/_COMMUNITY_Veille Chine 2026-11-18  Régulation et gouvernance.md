@@ -1,20 +1,18 @@
 ---
 type: community
-members: 7
+members: 5
 ---
 
 # Veille Chine 2026-11-18 : Régulation et gouvernance
 
-**Members:** 7 nodes
+**Members:** 5 nodes
 
 ## Members
-- [[Anduril]] - code - veilles/veille-ia-us-2026-11-12-t3.md
-- [[Helsing]] - code - veilles/veille-ia-us-2026-11-12-t3.md
-- [[Rafael]] - concept - veilles/veille-ia-us-2026-11-11-t3.md
-- [[Shield AI]] - code - veilles/veille-ia-us-2026-11-12-t3.md
-- [[Veille États-Unis 2026-11-11  Applications sectorielles de l'IA]] - document - veilles/veille-ia-us-2026-11-11-t3.md
-- [[Veille États-Unis 2026-11-12 (Défense)]] - document - veilles/veille-ia-us-2026-11-12-t3.md
-- [[X-BAT]] - code - feuilletons/f-0020.md
+- [[Veille Chine 2026-11-16  Autres articles]] - document - veilles/veille-ia-cn-2026-11-16-t6.md
+- [[Veille Chine 2026-11-16  Culture, consommation et divertissement]] - document - veilles/veille-ia-cn-2026-11-16-t5.md
+- [[华为小艺AI]] - concept - veilles/veille-ia-cn-2026-11-16-t5.md
+- [[无界进化 (INFevo)]] - concept - veilles/veille-ia-cn-2026-11-16-t5.md
+- [[美联储金融稳定报告]] - document - veilles/veille-ia-cn-2026-11-16-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -22,13 +20,3 @@ members: 7
 TABLE source_file, type FROM #community/Veille_Chine_2026-11-18__Régulation_et_gouvernance
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_GPT-6 Astra_2]]
-- 1 edge to [[_COMMUNITY_AMD]]
-- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
-
-## Top bridge nodes
-- [[Shield AI]] - degree 4, connects to 1 community
-- [[Helsing]] - degree 3, connects to 1 community
-- [[Veille États-Unis 2026-11-11  Applications sectorielles de l'IA]] - degree 3, connects to 1 community

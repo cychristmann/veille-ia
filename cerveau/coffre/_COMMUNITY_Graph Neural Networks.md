@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[French.people.cn]] - document - feuilletons/f-0048.md
+- [[Triche par IA en Corée du Sud, les examens sous haute tension]] - document - dossiers/2026-11-22-2.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Nscale]] - concept - dossiers/2026-11-19-3.md
+- [[Critea]] - concept - dossiers/2026-11-26-3.md
 
 ## Live Query (requires Dataview plugin)
 

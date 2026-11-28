@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t5.md"
 type: "concept"
-community: "Veille France 2026-11-16 : Régulation, sécurité et gouvernance"
+community: "Veille France 2026-11-18 (T5)"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-16__Régulation_sécurité_et_gouvernance
+  - community/Veille_France_2026-11-18_T5
 ---
 
 # CHU de Montpellier
@@ -14,4 +14,4 @@ tags:
 - [[David Morquin]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-18 (T5)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-16__Régulation_sécurité_et_gouvernance
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-18_T5

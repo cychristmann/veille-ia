@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-10-t2.md"
 type: "document"
-community: "China"
+community: "GPT-6 Astra"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/China
+  - community/GPT-6_Astra
 ---
 
 # Veille France 2026-11-10 : Financement, marchés et IPO
@@ -16,4 +16,4 @@ tags:
 - [[Infineon]] - `references` [EXTRACTED]
 - [[T-Head (Alibaba)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/China
+#graphify/document #graphify/EXTRACTED #community/GPT-6_Astra

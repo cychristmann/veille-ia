@@ -1,19 +1,26 @@
 ---
 type: community
-members: 6
+members: 13
 ---
 
 # Veille États-Unis 2026-11-14 : Incident FAA et Intelligence Artificielle
 
-**Members:** 6 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[Demis Hassabis]] - concept - dossiers/2026-11-12-3.md
-- [[Dossier Course à l'IA entre États‑Unis et Chine]] - document - dossiers/2026-11-12-3.md
-- [[Eric Schmidt]] - concept - dossiers/2026-11-12-3.md
-- [[Eric Schmidt says gap between China and US in AI is now negligible]] - document - dossiers/2026-11-12-3.md
-- [[Institute for Progress]] - concept - dossiers/2026-11-12-3.md
-- [[Nvidia, Chinese Espionage, and the AI Race Foreign Policy Issues to Watch]] - document - dossiers/2026-11-12-3.md
+- [[Andrew Sutherland]] - concept - dossiers/2026-11-22-1.md
+- [[Cairn Framework]] - concept - veilles/veille-ia-us-2026-11-21-t7.md
+- [[Clay Institute]] - code - dossiers/2026-11-21-3.md
+- [[David Fincher]] - concept - veilles/veille-ia-us-2026-11-21-t6.md
+- [[Kevin Buzzard]] - concept - dossiers/2026-11-22-1.md
+- [[Lean 4]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
+- [[Levent Alpöge]] - concept - veilles/veille-ia-dev-2026-11-23-t2.md
+- [[MIT]] - code - dossiers/2026-11-21-3.md
+- [[MONAI Label]] - concept - veilles/veille-ia-us-2026-11-21-t7.md
+- [[Riemann Hypothesis]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[Veille France 2026-11-22  Mathématiques et IA]] - document - veilles/veille-ia-fr-2026-11-22-t6.md
+- [[Veille États-Unis 2026-11-21  Autres articles]] - document - veilles/veille-ia-us-2026-11-21-t7.md
+- [[Veille États-Unis 2026-11-21  Impact sociétal, éthique et culture]] - document - veilles/veille-ia-us-2026-11-21-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,7 +30,15 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia]]
+- 5 edges to [[_COMMUNITY_Claude]]
+- 3 edges to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-21]]
+- 1 edge to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-12  Régulation, éthique et impacts sociétaux]]
+- 1 edge to [[_COMMUNITY_Robin Li_1]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-12]]
 
 ## Top bridge nodes
-- [[Dossier Course à l'IA entre États‑Unis et Chine]] - degree 6, connects to 1 community
+- [[Levent Alpöge]] - degree 11, connects to 4 communities
+- [[Riemann Hypothesis]] - degree 10, connects to 4 communities
+- [[Lean 4]] - degree 6, connects to 2 communities

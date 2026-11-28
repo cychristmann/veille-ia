@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0031.md"
 type: "concept"
-community: "Microsoft Outlook Outage"
+community: "Veille Chine 2026-11-17"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Microsoft_Outlook_Outage
+  - community/Veille_Chine_2026-11-17
 ---
 
 # MarkTechPost
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Feuilleton SID AI lance le modèle de recherche agentique SID-2]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Microsoft_Outlook_Outage
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-17

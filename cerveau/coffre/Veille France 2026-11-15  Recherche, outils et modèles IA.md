@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-15-t4.md"
 type: "document"
-community: "Jensen Huang"
+community: "Veille France 2026-11-15 : Recherche, outils et modèles IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Jensen_Huang
+  - community/Veille_France_2026-11-15__Recherche_outils_et_modèles_IA
 ---
 
 # Veille France 2026-11-15 : Recherche, outils et modèles IA
@@ -18,4 +18,4 @@ tags:
 - [[Vincent Courboulay]] - `references` [EXTRACTED]
 - [[datasette-llm]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Jensen_Huang
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-15__Recherche_outils_et_modèles_IA

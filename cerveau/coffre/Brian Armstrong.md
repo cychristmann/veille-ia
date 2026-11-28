@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-22-t3.md"
 type: "concept"
-community: "David Tepper"
+community: "DeepSeek"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/David_Tepper
+  - community/DeepSeek
 ---
 
 # Brian Armstrong
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-22  Marché, investissements et actions IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/David_Tepper
+#graphify/concept #graphify/EXTRACTED #community/DeepSeek

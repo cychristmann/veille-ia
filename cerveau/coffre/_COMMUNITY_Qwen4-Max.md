@@ -1,21 +1,26 @@
 ---
 type: community
-members: 8
+members: 13
 ---
 
 # Qwen4-Max
 
-**Members:** 8 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[Bharat Semi]] - concept - veilles/veille-ia-fr-2026-11-16-t4.md
-- [[Hy4 flash]] - concept - veilles/veille-ia-cn-2026-11-16-t1.md
-- [[IA dans la santé]] - concept - veilles/veille-ia-fr-2026-11-16-t4.md
-- [[MotrixSim1.0]] - concept - veilles/veille-ia-cn-2026-11-16-t1.md
-- [[Qwen4-Max]] - concept - veilles/veille-ia-fr-2026-11-16-t4.md
-- [[Veille Chine 2026-11-16  Modèles et fondations]] - document - veilles/veille-ia-cn-2026-11-16-t1.md
-- [[Veille France 2026-11-16  Santé, recherche médicale et biomédicale]] - document - veilles/veille-ia-fr-2026-11-16-t4.md
-- [[Vercel]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
+- [[Bot-out et managers]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[Chauffage piloté par IA]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[Double nature de l'IA]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[Formation vidéo et IA]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[Hypothèse de Riemann et IA]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[IA dans le tourisme]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[IA du fisc]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[IA et créativité]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[IA et forces nucléaires]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[IA et inégalités étudiantes]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[IA et vitesse sociétale]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[TikTok IA Transparence]] - concept - veilles/veille-ia-fr-2026-11-23-t6.md
+- [[Veille France 2026-11-23]] - document - veilles/veille-ia-fr-2026-11-23-t6.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -25,13 +30,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Copilot]]
-- 1 edge to [[_COMMUNITY_Tencent]]
-- 1 edge to [[_COMMUNITY_Claude Code_1]]
-- 1 edge to [[_COMMUNITY_Alibaba]]
-- 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_Apple_1]]
 
 ## Top bridge nodes
-- [[Qwen4-Max]] - degree 5, connects to 2 communities
-- [[Hy4 flash]] - degree 3, connects to 2 communities
-- [[Vercel]] - degree 2, connects to 1 community
+- [[Veille France 2026-11-23]] - degree 13, connects to 1 community

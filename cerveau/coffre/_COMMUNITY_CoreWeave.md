@@ -1,24 +1,20 @@
 ---
 type: community
-members: 11
+members: 7
 ---
 
 # CoreWeave
 
-**Members:** 11 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Après l’euphorie, la course à l’IA se heurte déjà aux limites de son modèle économique]] - document - dossiers/2026-11-15-2.md
-- [[Boom de l'intelligence artificielle]] - concept - dossiers/2026-11-15-2.md
-- [[Data-centers]] - concept - dossiers/2026-11-15-2.md
-- [[Dossier  Effondrement du boom IA et crise des data-centers]] - document - dossiers/2026-11-15-2.md
-- [[Empreinte environnementale]] - concept - dossiers/2026-11-15-2.md
-- [[Géants technologiques (Alphabet, Amazon, Microsoft, Meta)]] - concept - dossiers/2026-11-15-2.md
-- [[Investissements dans l’IA  jusqu’où ira l’euphorie mondiale avant le coup de frein]] - document - dossiers/2026-11-15-2.md
-- [[L’empreinte environnementale de l’IA pourrait être multipliée par 7 d’ici 2030]] - document - dossiers/2026-11-15-2.md
-- [[OPINION. « L'énergie pour les data centers de l'IA, atout stratégique ou mirage  »]] - document - dossiers/2026-11-15-2.md
-- [[Risque macroéconomique]] - concept - dossiers/2026-11-15-2.md
-- [[Un coup d'arrêt de l'IA aurait des répercussions bien au-delà des Etats-Unis]] - document - dossiers/2026-11-15-2.md
+- [[CoreWeave]] - concept - veilles/veille-ia-fr-2026-11-11-t1.md
+- [[Feuilleton Fractile atteint 7 Mds $ après tour de financement]] - document - feuilletons/f-0011.md
+- [[Fractile]] - concept - veilles/veille-ia-fr-2026-11-11-t1.md
+- [[Sandisk]] - concept - veilles/veille-ia-fr-2026-11-27-t4.md
+- [[Seagate]] - concept - veilles/veille-ia-us-2026-11-11-t1.md
+- [[Veille France 2026-11-11]] - document - veilles/veille-ia-fr-2026-11-11-t2.md
+- [[Veille États-Unis 2026-11-11  Financement et Bourse de l'IA]] - document - veilles/veille-ia-us-2026-11-11-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,3 +22,21 @@ members: 11
 TABLE source_file, type FROM #community/CoreWeave
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 2 edges to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_DeepSeek_1]]
+- 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-16]]
+- 1 edge to [[_COMMUNITY_Apple_1]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-11  Marchés et investissements]]
+- 1 edge to [[_COMMUNITY_Elon Musk]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_SpaceX_2]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-25]]
+
+## Top bridge nodes
+- [[CoreWeave]] - degree 10, connects to 6 communities
+- [[Veille France 2026-11-11]] - degree 7, connects to 5 communities
+- [[Sandisk]] - degree 2, connects to 1 community

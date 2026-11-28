@@ -1,19 +1,26 @@
 ---
 type: community
-members: 6
+members: 13
 ---
 
 # David Tepper
 
-**Members:** 6 nodes
+**Members:** 13 nodes
 
 ## Members
-- [[Alphabet]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
-- [[Arista Networks]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
-- [[Brian Armstrong]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
-- [[David Tepper]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
-- [[Micron]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
-- [[Veille États-Unis 2026-11-22  Marché, investissements et actions IA]] - document - veilles/veille-ia-us-2026-11-22-t3.md
+- [[ADA Space]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
+- [[Anshi China]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
+- [[Baidu Maps]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
+- [[GreatWall Robotics]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
+- [[Guoxing Aerospace]] - concept - feuilletons/f-0015.md
+- [[Omdia]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
+- [[RISC-V]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
+- [[Star Compute]] - concept - feuilletons/f-0015.md
+- [[Star-Compute Project]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
+- [[Unisound]] - concept - veilles/veille-ia-cn-2026-11-13-t6.md
+- [[Veille Chine 2026-11-13]] - document - veilles/veille-ia-cn-2026-11-13-t6.md
+- [[Zhang Qiuming]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
+- [[Zhipu]] - concept - veilles/veille-ia-cn-2026-11-13-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,16 +30,15 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-23]]
-- 1 edge to [[_COMMUNITY_Nvidia]]
+- 2 edges to [[_COMMUNITY_Nvidia_1]]
 - 1 edge to [[_COMMUNITY_Meta]]
-- 1 edge to [[_COMMUNITY_AMD]]
-- 1 edge to [[_COMMUNITY_Huawei]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-25]]
-- 1 edge to [[_COMMUNITY_Elon Musk]]
-- 1 edge to [[_COMMUNITY_Jensen Huang_1]]
+- 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_Jensen Huang]]
+- 1 edge to [[_COMMUNITY_Tencent]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-17  Marché, financement et régulation]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_Alibaba]]
 
 ## Top bridge nodes
-- [[David Tepper]] - degree 6, connects to 3 communities
-- [[Veille États-Unis 2026-11-22  Marché, investissements et actions IA]] - degree 6, connects to 3 communities
-- [[Micron]] - degree 3, connects to 2 communities
+- [[Veille Chine 2026-11-13]] - degree 17, connects to 7 communities
+- [[Star Compute]] - degree 2, connects to 1 community

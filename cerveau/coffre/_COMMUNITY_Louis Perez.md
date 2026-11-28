@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Louis Perez
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[ConnectWise]] - concept - dossiers/2026-11-16-1.md
+- [[Elvis Presley]] - concept - veilles/veille-ia-us-2026-11-09-t4.md
+- [[Veille États-Unis 2026-11-09 (Applications)]] - document - veilles/veille-ia-us-2026-11-09-t4.md
 
 ## Live Query (requires Dataview plugin)
 

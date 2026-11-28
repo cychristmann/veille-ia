@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-21-t3.md"
 type: "concept"
-community: "Dell"
+community: "Apple"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Dell
+  - community/Apple
 ---
 
 # Slurm
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Amazon SageMaker HyperPod]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Dell
+#graphify/concept #graphify/EXTRACTED #community/Apple

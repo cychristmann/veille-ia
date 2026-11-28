@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Kong
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Claude BugHunter]] - concept - veilles/veille-ia-dev-2026-11-26-t3.md
+- [[Aion 1.0]] - concept - veilles/veille-ia-dev-2026-11-27-t1.md
+- [[Phi Silica]] - concept - veilles/veille-ia-dev-2026-11-27-t1.md
 
 ## Live Query (requires Dataview plugin)
 

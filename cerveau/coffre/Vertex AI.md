@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-23-3.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-10 : Régulation, sécurité et éthique"
+community: "Veille Chine 2026-11-12"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-10__Régulation_sécurité_et_éthique
+  - community/Veille_Chine_2026-11-12
 ---
 
 # Vertex AI
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-10__Régulation_sécurité_et_éthique
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-12

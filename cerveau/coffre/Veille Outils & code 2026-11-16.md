@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-16-t2.md"
 type: "document"
-community: "Jensen Huang"
+community: "Veille Chine 2026-11-11 : Marchés et investissements"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Jensen_Huang
+  - community/Veille_Chine_2026-11-11__Marchés_et_investissements
 ---
 
 # Veille Outils & code 2026-11-16
@@ -22,4 +22,4 @@ tags:
 - [[Vibe Coding]] - `references` [EXTRACTED]
 - [[dspy-wsp]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Jensen_Huang
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-11__Marchés_et_investissements

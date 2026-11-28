@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[GPT-6 Luna]] - concept - veilles/veille-ia-dev-2026-11-26-t3.md
+- [[Examen crucial en Corée du Sud en plein scandale de triche à l'IA]] - document - dossiers/2026-11-22-2.md
 
 ## Live Query (requires Dataview plugin)
 

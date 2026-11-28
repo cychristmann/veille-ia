@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-26-t1.md"
 type: "concept"
-community: "Génération de nouvelles technologies"
+community: "Veille États-Unis 2026-11-14 : Autres articles"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Génération_de_nouvelles_technologies
+  - community/Veille_États-Unis_2026-11-14__Autres_articles
 ---
 
 # Deepfake Risks
 
-#graphify/concept #graphify/EXTRACTED #community/Génération_de_nouvelles_technologies
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Autres_articles

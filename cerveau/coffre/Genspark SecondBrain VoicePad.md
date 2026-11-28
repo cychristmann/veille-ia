@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-23-t6.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-26"
+community: "ChatGPT Wallet"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-26
+  - community/ChatGPT_Wallet
 ---
 
 # Genspark SecondBrain VoicePad
@@ -14,4 +14,4 @@ tags:
 - [[Veille France 2026-11-24  Applications et produits IA]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-23]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-26
+#graphify/concept #graphify/EXTRACTED #community/ChatGPT_Wallet

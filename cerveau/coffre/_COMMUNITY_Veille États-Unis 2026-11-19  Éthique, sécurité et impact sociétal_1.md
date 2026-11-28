@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille Chine 2026-11-24  Autres articles]] - document - veilles/veille-ia-cn-2026-11-24-t6.md
+- [[Stop Dirty Data Centers]] - concept - dossiers/2026-11-28-3.md
 
 ## Live Query (requires Dataview plugin)
 

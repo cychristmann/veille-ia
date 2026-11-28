@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-19-3.md"
 type: "concept"
-community: "Charta Health"
+community: "Veille États-Unis 2026-11-14 : Autres articles"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Charta_Health
+  - community/Veille_États-Unis_2026-11-14__Autres_articles
 ---
 
 # Skeleton
 
-#graphify/concept #graphify/EXTRACTED #community/Charta_Health
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Autres_articles

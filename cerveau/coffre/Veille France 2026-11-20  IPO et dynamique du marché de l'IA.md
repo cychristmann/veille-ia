@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-20-t1.md"
 type: "document"
-community: "Google"
+community: "Veille Outils & code 2026-11-21"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Google
+  - community/Veille_Outils__code_2026-11-21
 ---
 
 # Veille France 2026-11-20 : IPO et dynamique du marché de l'IA
@@ -23,4 +23,4 @@ tags:
 - [[Les Echos]] - `cites` [EXTRACTED]
 - [[Zonebourse]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Google
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-21

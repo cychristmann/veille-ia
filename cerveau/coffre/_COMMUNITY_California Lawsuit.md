@@ -19,7 +19,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Libertify]]
+- 1 edge to [[_COMMUNITY_Elon Musk]]
 
 ## Top bridge nodes
 - [[California Lawsuit]] - degree 2, connects to 1 community

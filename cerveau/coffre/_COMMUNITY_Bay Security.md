@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[PentAGI]] - concept - dossiers/2026-11-26-1.md
+- [[FDJ United]] - concept - dossiers/2026-11-26-3.md
 
 ## Live Query (requires Dataview plugin)
 

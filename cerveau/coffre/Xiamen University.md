@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-26-t2.md"
 type: "concept"
-community: "Lenovo"
+community: "Tencent"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Lenovo
+  - community/Tencent
 ---
 
 # Xiamen University
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Lenovo]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Lenovo
+#graphify/concept #graphify/EXTRACTED #community/Tencent

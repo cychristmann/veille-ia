@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-18-t7.md"
 type: "document"
-community: "Veille France 2026-11-17"
+community: "OpenRouter"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-17
+  - community/OpenRouter
 ---
 
 # 中国报道：AI浪潮之下，APEC拓展亚太合作新边界
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-18  Autres articles]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-17
+#graphify/document #graphify/EXTRACTED #community/OpenRouter

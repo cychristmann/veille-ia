@@ -1,9 +1,9 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-27-t2.md"
-type: "concept"
+source_file: "veilles/veille-ia-dev-2026-11-28-t2.md"
+type: "code"
 community: "Claude Code"
 tags:
-  - graphify/concept
+  - graphify/code
   - graphify/EXTRACTED
   - community/Claude_Code
 ---
@@ -58,7 +58,8 @@ tags:
 - [[Veille Outils & code 2026-11-27]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-27 (T4)]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-27 (T5)]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-28]] - `references` [EXTRACTED]
 - [[claudesettings.local.json]] - `references` [EXTRACTED]
 - [[n8n]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Claude_Code
+#graphify/code #graphify/EXTRACTED #community/Claude_Code

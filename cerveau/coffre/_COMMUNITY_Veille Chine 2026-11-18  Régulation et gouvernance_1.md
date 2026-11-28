@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[Retail IA Agents]] - concept - veilles/veille-ia-fr-2026-11-26-t6.md
-- [[Risks of IA Medical Advice]] - concept - veilles/veille-ia-fr-2026-11-26-t6.md
-- [[SpaceX Satellite IA Project]] - concept - veilles/veille-ia-fr-2026-11-26-t6.md
-- [[Veille France 2026-11-26  Autres articles]] - document - veilles/veille-ia-fr-2026-11-26-t6.md
+- [[Veille Chine 2026-11-18  Régulation et gouvernance]] - document - veilles/veille-ia-cn-2026-11-18-t4.md
+- [[「万字长文」大模型异步 RL 框架的设计与权衡：从 Staleness 控制谈起]] - document - veilles/veille-ia-cn-2026-11-18-t4.md
+- [[惠誉：AI基础设施投资仍在扩大 商业化与投资回报待验证]] - document - veilles/veille-ia-cn-2026-11-18-t4.md
+- [[证监会澄清监管要求基金公司上报全部产品AI敞口传闻]] - document - veilles/veille-ia-cn-2026-11-18-t4.md
 
 ## Live Query (requires Dataview plugin)
 

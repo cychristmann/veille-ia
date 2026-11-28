@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Charta Health
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Aion 1.0]] - concept - veilles/veille-ia-dev-2026-11-27-t1.md
-- [[Phi Silica]] - concept - veilles/veille-ia-dev-2026-11-27-t1.md
+- [[Education Week AI Coverage]] - concept - veilles/veille-ia-us-2026-11-16-t3.md
 
 ## Live Query (requires Dataview plugin)
 

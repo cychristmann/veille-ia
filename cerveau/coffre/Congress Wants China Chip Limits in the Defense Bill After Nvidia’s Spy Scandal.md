@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-15-1.md"
 type: "document"
-community: "Veille Chine 2026-11-14 : IA industrielle et infrastructure"
+community: "Jensen Huang"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-14__IA_industrielle_et_infrastructure
+  - community/Jensen_Huang
 ---
 
 # Congress Wants China Chip Limits in the Defense Bill After Nvidia’s Spy Scandal
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Dossier Scandale Nvidia]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-14__IA_industrielle_et_infrastructure
+#graphify/document #graphify/EXTRACTED #community/Jensen_Huang

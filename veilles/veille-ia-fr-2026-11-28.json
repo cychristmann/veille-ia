@@ -1,0 +1,1097 @@
+{
+  "region": "fr",
+  "genere_a": "2026-11-28T08:37:54.147055+01:00",
+  "heures": 24,
+  "nombre_demande": 50,
+  "nombre_articles": 50,
+  "synthese": "Les titres récents montrent que l’intelligence artificielle est omniprésente : elle influence la vie politique et sociale, alimente des débats sur l’éthique et le genre, et se déploie dans les industries, les data‑centers et les marchés financiers. En parallèle, de nombreux risques de sécurité et de fraude sont signalés, notamment des publicités trompeuses, des attaques d’agents IA et des abus dans le secteur médical. Le secteur de la santé voit croître l’usage de l’IA pour le diagnostic et les conseils médicamenteux, mais les autorités alertent sur des erreurs potentielles. Enfin, l’IA bouleverse la création artistique et le droit d’auteur, avec des exemples de génération d’images, de textes et de contenus culturels, suscitant des questionnements sur la propriété intellectuelle.",
+  "verification": {
+    "problemes": [],
+    "synthese_originale": "Les titres récents montrent que l’intelligence artificielle est omniprésente : elle influence la vie politique et sociale, alimente des débats sur l’éthique et le genre, et se déploie dans les industries, les data‑centers et les marchés financiers. En parallèle, de nombreux risques de sécurité et de fraude sont signalés, notamment des publicités trompeuses, des attaques d’agents IA et des abus dans le secteur médical. Le secteur de la santé voit croître l’usage de l’IA pour le diagnostic et les conseils médicamenteux, mais les autorités alertent sur des erreurs potentielles. Enfin, l’IA bouleverse la création artistique et le droit d’auteur, avec des exemples de génération d’images, de textes et de contenus culturels, suscitant des questionnements sur la propriété intellectuelle."
+  },
+  "sources_en_echec": [],
+  "flux_lus": {
+    "ActuIA": [
+      15,
+      0,
+      0,
+      "2026-11-26"
+    ],
+    "Le Big Data": [
+      10,
+      0,
+      0,
+      "2026-11-25"
+    ],
+    "Blog du Modérateur": [
+      30,
+      3,
+      3,
+      "2026-11-27"
+    ],
+    "Siècle Digital": [
+      20,
+      1,
+      6,
+      "2026-11-27"
+    ],
+    "Numerama": [
+      15,
+      1,
+      15,
+      "2026-11-28"
+    ],
+    "Frandroid": [
+      15,
+      1,
+      15,
+      "2026-11-28"
+    ],
+    "Journal du Geek": [
+      30,
+      0,
+      30,
+      "2026-11-28"
+    ],
+    "01net": [
+      30,
+      3,
+      30,
+      "2026-11-28"
+    ],
+    "Les Numériques": [
+      40,
+      2,
+      40,
+      "2026-11-28"
+    ],
+    "ZDNet": [
+      50,
+      3,
+      9,
+      "2026-11-27"
+    ],
+    "Clubic": [
+      50,
+      5,
+      50,
+      "2026-11-28"
+    ],
+    "Presse-citron": [
+      30,
+      2,
+      27,
+      "2026-11-28"
+    ],
+    "Next": [
+      50,
+      5,
+      10,
+      "2026-11-27"
+    ],
+    "Korben": [
+      40,
+      1,
+      8,
+      "2026-11-27"
+    ],
+    "Maddyness": [
+      10,
+      1,
+      5,
+      "2026-11-27"
+    ],
+    "FrenchWeb": [
+      30,
+      0,
+      0,
+      "2026-11-27"
+    ],
+    "JDN": [
+      60,
+      3,
+      17,
+      "2026-11-28"
+    ],
+    "Le Monde Pixels": [
+      20,
+      3,
+      8,
+      "2026-11-28"
+    ],
+    "Brief IA": [
+      50,
+      36,
+      48,
+      "2026-11-28"
+    ],
+    "La Crème Du Gaming": [
+      50,
+      4,
+      27,
+      "2026-11-28"
+    ],
+    "Martin Cid Magazine": [
+      10,
+      0,
+      10,
+      "2026-11-28"
+    ],
+    "Foro3D": [
+      200,
+      11,
+      200,
+      "2026-11-27"
+    ],
+    "Mac4Ever": [
+      30,
+      2,
+      27,
+      "2026-11-28"
+    ],
+    "Servicesmobiles.fr": [
+      20,
+      6,
+      10,
+      "2026-11-27"
+    ],
+    "Le Monde Informatique": [
+      50,
+      7,
+      13,
+      "2026-11-27"
+    ],
+    "Le Figaro (High-Tech)": [
+      20,
+      0,
+      2,
+      "2026-11-27"
+    ],
+    "BlogNT": [
+      10,
+      2,
+      10,
+      "2026-11-27"
+    ],
+    "Business AM": [
+      100,
+      6,
+      49,
+      "2026-11-28"
+    ],
+    "Le Revenu": [
+      50,
+      4,
+      35,
+      "2026-11-27"
+    ],
+    "Quartz en Français": [
+      50,
+      0,
+      50,
+      "2026-11-28"
+    ],
+    "Google Actualités": [
+      100,
+      100,
+      100,
+      "2026-11-28"
+    ]
+  },
+  "titre_section": "francophone",
+  "themes": [
+    {
+      "nom": "Société et politique",
+      "resume": "De nombreuses publications montrent comment l’IA s’infiltre dans le débat public, les campagnes électorales, les usages quotidiens et les enjeux de genre, avec des exemples de candidats, de consommateurs et de réglementations.",
+      "articles": [
+        {
+          "note": 5,
+          "motif": "Usage IA dans immobilier, illustration d'application grand public",
+          "couverture": 1,
+          "titre": "« L’IA a appris ma manière de faire, comme un stagiaire » : comment ces acheteurs utilisent l’intelligence artificielle pour dénicher leur logement",
+          "source": "Challenges",
+          "lien": "https://www.challenges.fr/immobilier/lia-a-appris-ma-maniere-de-faire-comme-un-stagiaire-comment-ces-acheteurs-utilisent-lintelligence-artificielle-pour-denicher-leur-logement_647259",
+          "date": "2026-11-28T06:00:00+00:00",
+          "resume": "TÉMOIGNAGES - Affiner ses critères de recherche, sonder le marché, voire déléguer la prise de rendez-vous avec les agents immobiliers… De plus en plus de particuliers se tournent vers l’intelligence a ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Cas d'échec d'IA pour recherche d'emploi, illustre limites actuelles",
+          "couverture": 1,
+          "titre": "Un diplômé de Princeton se heurte au mur de l’IA, malgré 2 300 candidatures envoyées",
+          "source": "Courrier international",
+          "lien": "https://www.courrierinternational.com/article/emploi-un-diplome-de-princeton-se-heurte-au-mur-de-l-ia-malgre-2-300-candidatures-envoyees_281791",
+          "date": "2026-11-28T04:05:08+00:00",
+          "resume": "Jack Weis a obtenu son doctorat en génie chimique à la prestigieuse université américaine en 2024. Depuis, il n’a pas trouvé de travail. Son histoire est ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Essai philosophique sur IA et société, intéressant mais peu concret",
+          "couverture": 1,
+          "titre": "Intelligence artificielle : quand la technique transforme notre manière de penser et d'habiter le monde",
+          "source": "Ar Gedour",
+          "lien": "https://www.argedour.bzh/intelligence-artificielle-quand-la-technique-transforme-notre-maniere-de-penser-et-dhabiter-le-monde/",
+          "date": "2026-11-28T01:11:02+00:00",
+          "resume": "À mesure que l’intelligence artificielle s’installe dans nos pratiques quotidiennes, une interrogation plus profonde que celle de ses performances apparaît. Que devient notre manière de penser, de tra ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Opinion politique, peu d'impact direct sur l'IA",
+          "couverture": 1,
+          "titre": "Présidentielle 2027 : les modèles d’intelligence artificielle deviennent les nouveaux terrains de chasse des candidats",
+          "source": "Sud Ouest",
+          "lien": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-les-modeles-d-intelligence-artificielle-deviennent-les-nouveaux-terrains-de-chasse-des-candidats-31702308.php",
+          "date": "2026-11-28T07:26:04+00:00",
+          "resume": "De ChatGPT à Claude, les équipes de campagne se lancent dans une course au référencement pour séduire les électeurs qui interrogent les algorithmes avant de voter ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Témoignage seniors et IA, intérêt sociétal limité",
+          "couverture": 1,
+          "titre": "« Ce qui compte c’est le discernement » : les plus de 60 ans domptent l’Intelligence artificielle",
+          "source": "Le Republicain Lorrain",
+          "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT0puZm1aSTNNVFVleDQwSzRIZzZQR3pXWGFrcGpiSk85MFN6QmpOMlRWRkpFb25URlByaWJFb1JYWVgwY2FpX3o0UVVDcmpQUjY1WmUtdjhfaGhlM2xjSXZOd21veWhicUtMbnIxb19fSVIzYkczanl2Ykg2OHRIeEJNREFsNFZLWVJvQ3BvaTRQREp0UjZXUlVsdkpScHFNY25OMHpLek1sQm9xVUV0eUhhVHBmell6ODlWemF2blhRaGR3ZFFMbW5GRmRxaVBlem9SSzVTT0g1NEd5MXAw?oc=5",
+          "date": "2026-11-28T05:47:19+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 3,
+          "motif": "Portrait humain, IA en arrière‑plan, peu de nouveauté",
+          "couverture": 1,
+          "titre": "PORTRAIT. \"Ce n'est pas l'IA qui nous remplacera\" Cet informaticien plaque sa propre entreprise du digital pour changer de vie et devenir maçon",
+          "source": "ladepeche.fr",
+          "lien": "https://www.ladepeche.fr/2026/11/28/portrait-ce-nest-pas-lia-qui-nous-remplacera-cet-informaticien-plaque-sa-propre-entreprise-du-digital-pour-changer-de-vie-et-devenir-macon-13667343.php",
+          "date": "2026-11-28T07:01:00+00:00",
+          "resume": "Un virage radical. Passé la quarantaine, Antoine a décidé de plaquer son entreprise de création de sites internet pour retrouver le travail manuel et le grand air. Huit ans plus tard, il vient de crée ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 2,
+          "motif": "Citation sportive, IA en arrière‑plan, hors sujet",
+          "couverture": 1,
+          "titre": "Real Madrid : Mourinho se moque de l’IA et encense Vinicius !",
+          "source": "Sport.fr",
+          "lien": "https://www.msn.com/fr-ch/actualite/other/real-madrid-mourinho-se-moque-de-l-ia-et-encense-vinicius/ar-AA2inCEI",
+          "date": "2026-11-27T21:28:00+00:00",
+          "resume": "L'entraîneur du Real Madrid, José Mourinho, a ironisé sur les prédictions de l'intelligence artificielle faisant de son club le favori de la Ligue des champions. Il a aussi défendu Vinicius, dont les ...",
+          "titre_fr": ""
+        }
+      ]
+    },
+    {
+      "nom": "Sécurité et abus",
+      "resume": "Une série d’incidents met en lumière les risques de détournement, de fraudes et de vulnérabilités liés aux agents IA, aux publicités trompeuses et aux attaques de systèmes.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Conflit juridique majeur entre deux géants technologiques",
+          "couverture": 1,
+          "titre": "OpenAI accuse Apple de lui avoir volé des secrets commerciaux",
+          "source": "Clubic",
+          "lien": "https://www.clubic.com/actualite-641572-openai-accuse-apple-de-lui-avoir-vole-des-secrets-commerciaux.html",
+          "date": "2026-11-28T07:30:00+00:00",
+          "resume": "OpenAI a porté plainte contre Apple vendredi devant un tribunal californien. Le créateur de ChatGPT accuse la firme de Cupertino de lui avoir volé des secrets commerciaux et de menacer les fournisseurs susceptibles de fabriquer ses futurs appareils, conçus avec Jony Ive, l'ancien chef du design d'Ap",
+          "titre_fr": ""
+        },
+        {
+          "note": 8,
+          "motif": "Enquête sur IA dangereuse, sujet d'actualité largement relayé",
+          "couverture": 2,
+          "titre": "Plongée dans le monde des IA débridées, ces intelligences artificielles déchaînées pouvant servir des desseins illégaux",
+          "source": "Le Monde Pixels",
+          "lien": "https://www.lemonde.fr/pixels/article/2026/11/28/plongee-dans-le-monde-des-ia-debridees-ces-intelligences-artificielles-dechainees-pouvant-servir-des-desseins-illegaux_6816059_4408996.html",
+          "date": "2026-11-28T05:00:26+01:00",
+          "resume": "Accessibles en quelques clics sur Internet, les intelligences artificielles dites « ablitérées », auxquelles on a retiré les garde-fous, répondent à la plupart des questions dangereuses que leurs concurrentes commerciales repoussent. Qui les conçoit, et pour quelles raisons ?",
+          "titre_fr": ""
+        },
+        {
+          "note": 8,
+          "motif": "Redite du conflit OpenAI‑Apple, confirmé par source majeure",
+          "couverture": 1,
+          "titre": "OpenAI accuse Apple de vol de secrets et de pressions sur ses fournisseurs",
+          "source": "Le Monde Pixels",
+          "lien": "https://www.lemonde.fr/economie/article/2026/11/27/openai-accuse-apple-de-vol-de-secrets-et-de-pressions-sur-ses-fournisseurs_6815936_3234.html",
+          "date": "2026-11-27T22:49:34+01:00",
+          "resume": "Les deux partenaires se rapprochent de mois en mois d’une situation de rivaux, et se rendent désormais coup pour coup devant la justice.",
+          "titre_fr": ""
+        },
+        {
+          "note": 7,
+          "motif": "Alerte sur fraude publicitaire IA pendant un événement commercial majeur",
+          "couverture": 1,
+          "titre": "Attention aux fausses publicités générées par intelligence artificielle pendant le Black Friday",
+          "source": "Franceinfo",
+          "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/attention-aux-fausses-publicites-generees-par-intelligence-artificielle-pendant-le-black-friday_8303706.html",
+          "date": "2026-11-28T06:55:38+00:00",
+          "resume": "Produits créés de toutes pièces, visuels ultraréalistes et identités de marques usurpées : les fausses publicités pullulent pendant ce week-end de promotion. Leur but est de récupérer les données banc ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Incident de sécurité IA, montre vulnérabilité des systèmes",
+          "couverture": 1,
+          "titre": "Des agents IA ont attaqué le site d’Epoch avec les garde-fous de Gemini activés",
+          "source": "OrcaRouter",
+          "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSVZPSHNJaE93N2pXaklTU1pDdlBTTzk1MVVWZFU3LVRna093RV8xRmVUaUhFTjBVbmdYejN2bkl1d2dfU2ZSZmppQ0VBWXoxaHBVZVdhbFczWlQwLVJrajhqaGxvaXgwM3hWZDJybllleURJN2RGc1BiVWl6N1pydzZOTkM3alR0am44?oc=5",
+          "date": "2026-11-28T06:15:44+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Collaboration Cisco‑OpenAI pour sécurité, pertinence industrielle",
+          "couverture": 1,
+          "titre": "Cisco et OpenAI lancent Shirudo pour contrer les failles",
+          "source": "Brief IA",
+          "lien": "https://www.briefia.fr/article/cisco-et-openai-lancent-shirudo-pour-contrer-les-failles",
+          "date": "2026-11-28T01:05:09+00:00",
+          "resume": "Cisco et OpenAI lancent Shirudo, un projet open source de protections temporaires. Un essai contrôlé a bloqué une exploitation de Java4Shell visant Elasticsearch sans interrompre son fonctionnement normal. Shirudo est déjà intégré à Live Protect de Cisco.",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Escroquerie via photos IA, alerte sécurité publique",
+          "couverture": 1,
+          "titre": "Des photos générées par IA pour soutirer de l'argent",
+          "source": "Franceinfo",
+          "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/des-photos-generees-par-ia-pour-soutirer-de-l-argent_8303754.html",
+          "date": "2026-11-27T20:14:13+00:00",
+          "resume": "Un homme accuse des ramoneurs d'avoir généré des photos avec l'intelligence artificielle pour soutirer de l'argent à sa mère. Ils ont prétexté que sa cheminée était en mauvais état et qu'un départ de ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Escroquerie liée à l'IA, montre risque mais reste anecdote",
+          "couverture": 1,
+          "titre": "Ce jeune homme a terminé premier d’un examen national avec 159 bonnes réponses sur 160 avant d’avouer avoir triché grâce à une caméra miniature et une IA",
+          "source": "La Crème Du Gaming",
+          "lien": "https://www.lacremedugaming.fr/high-tech/ce-jeune-homme-a-termine-premier-dun-examen-national-avec-159-bonnes-reponses-sur-160-avant-davouer-avoir-triche-grace-a-une-camera-miniature-et-une-ia-236108.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+          "date": "2026-11-28T07:00:39+00:00",
+          "resume": "En 2026, en Corée du Sud, le candidat Han Won-seok propulse un examen fiscal national au cœur d’un scandale lié à l’intelligence artificielle. Entre score quasi parfait, micro-caméra et pression sociale extrême, l’affaire oblige tout un pays à revoir ses concours. The post Ce jeune homme a terminé p",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Breach technique, intérêt limité aux spécialistes",
+          "couverture": 1,
+          "titre": "Violation Barracuda : une clé de fournisseur d’IA périmée, 44 heures d’ARTEX",
+          "source": "OrcaRouter",
+          "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWdXaDVBQlJBVUJXVlZLZ0hQMGlPenE4N1FSaEV5b09iOF9kQ0Q3eFRfQXdiMThQSGhNWUNmUElHWFdBMFo5YU9hSlhCb2VZZUIzSjJyN0VOazROdlhMWTVIVnpoaDVLcUktMUczU19kbWd6aVkxcG52YnlHM1YteDBMQUhpblk?oc=5",
+          "date": "2026-11-28T06:03:51+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Problème de modération IA chez Apple, question de sécurité enfant",
+          "couverture": 1,
+          "titre": "Apple bannit Talkie : cette IA dérape avec des enfants",
+          "source": "French Breaches",
+          "lien": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZY2g4VnNWREllZlhfeVBTZWc4LWM0N21waW5pLWpHNXpHcVpoNlY1dzk1TlRsbi1UZklhOS1jY2NZQy1lN2RzWjA1NzFlakxjTHRsUGRIaExWWjhCYU1RdmhiaVdOaWJBWlJpb2J6OA?oc=5",
+          "date": "2026-11-27T22:10:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        }
+      ]
+    },
+    {
+      "nom": "Industrie, technologie et finance",
+      "resume": "L’IA alimente l’innovation matérielle, les data‑centers, les services cloud, les outils de développement et les stratégies d’investissement, avec de nombreuses annonces de produits et de collaborations.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Analyse géopolitique des data‑centers IA, sujet stratégique",
+          "couverture": 1,
+          "titre": "Data centers et IA : la fracture entre l'Occident et la Chine",
+          "source": "rts.ch",
+          "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR1ZTZDM5UkRhQUxSMFlyX1dvUGF3NHdwT1l2bnZIU3dQaXFjU3ozVFNNYVZuNEFkWmJ3NV9IbVppRXhxMG16SFFJYUFuMG1va3UtNU1ITWljLXhkenlSMkttdFBIMnpJeTZBSFVNblR6dUVoREw0bVpSeHhKYlAtdDhRSkhIQy1mWmVuZGs5dUZualNJUWllbnRXeVc3dlV6dmxsYV9tcDd5ZEVScXZLbzJMenpGZkNOU1lOaGh4cU1FZw?oc=5",
+          "date": "2026-11-28T06:36:26+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 7,
+          "motif": "Tendance forte de la demande IA sur les infrastructures, impact économique",
+          "couverture": 1,
+          "titre": "La demande mondiale en matière d’IA absorbe presque immédiatement les nouvelles capacités des centres de données",
+          "source": "Business AM",
+          "lien": "https://fr.businessam.be/la-demande-mondiale-en-matiere-dia-absorbe-presque-immediatement-les-nouvelles-capacites-des-centres-de-donnees/",
+          "date": "2026-11-28T06:33:00+00:00",
+          "resume": "Principaux renseignements Des conclusions récentes de DatacenterHawk montrent que la demande en intelligence artificielle absorbe la nouvelle capacité des centres de données presque aussi vite qu’elle est développée. Selon le Global Data Center Market Report du troisième trimestre 2026, qui s’appuie",
+          "titre_fr": ""
+        },
+        {
+          "note": 7,
+          "motif": "Annonce d'une IA plus efficace, pertinence pour recherche et coût",
+          "couverture": 1,
+          "titre": "Jev : une IA plus rapide, moins chère… et plus sobre ?",
+          "source": "Pour la Science",
+          "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ0lkbjRPYVN6b0x3V3JpWlJKTkd4Z0JhWUlzM0tfTGs2ejhmb2t0OVN5VkxyX2VZMjBJY0pWTkJYd3BzTFVhUlN4cU9xQ3lHaG5ET1ZVWlZQOU5NcmxrM0VrOWNxR0ZoalppUDlWVWI0OW5uNzI4MmlNUldKZE5lMTVxc2NQNURVcFJpa3BsR3dNcmdENHc4dGtXcUlPUW5ORTRMMFZjcGZTcWtmeWc?oc=5",
+          "date": "2026-11-28T06:30:02+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 7,
+          "motif": "Annonce de hardware IA avancé, importance pour développement futur",
+          "couverture": 2,
+          "titre": "Huawei prépare une mémoire IA à interface de 4 096 bits",
+          "source": "Brief IA",
+          "lien": "https://www.briefia.fr/article/huawei-prepare-une-memoire-ia-a-interface-de-4-096-bits",
+          "date": "2026-11-28T03:07:01+00:00",
+          "resume": "Huawei prévoit de détailler une mémoire à interface de 4 096 bits à l'ISSCC 2027. La fiabilité industrielle, les rendements et la maîtrise thermique restent à démontrer. Le déploiement pourrait être limité à certaines armoires de serveurs Huawei.",
+          "titre_fr": ""
+        },
+        {
+          "note": 7,
+          "motif": "Débat sur consommation énergétique des data‑centers IA",
+          "couverture": 1,
+          "titre": "La question qui fâche - Essor des data centers : faut-il débrancher l'IA?",
+          "source": "France 24",
+          "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQnhzc0JHWm42ZUZqam9oZzlvelZzOEp3VzhLTkZPNy1Dc3BBS0V6RmdHbUlNNzczY2dxbWtPcXNEU3NzVk15a2dfNGZnTS0xT28tZmNiT1FHUjBnem1ZTVN2Sjhta2EtSE1SLTlzc1JGUE1mS1QtTWpQMGx4REtFRksxbkdTSkl3TS0yNDI2UTlXSGdVMTFaUGFBbTZEMk9BVEFMZGlkRXBYeFNOZmxhMW1mMmV6bi1TRzNNNWtRNlZERWJ5cm1ZV0NB?oc=5",
+          "date": "2026-11-27T23:27:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 7,
+          "motif": "IA corrige bug historique GPU, importance pour communauté Linux",
+          "couverture": 2,
+          "titre": "Près de 20 ans après la sortie de ces anciennes cartes graphiques AMD, une IA aide enfin à corriger un bug qui corrompait la lecture des vidéos sous Linux",
+          "source": "Les Numériques",
+          "lien": "https://www.lesnumeriques.com/intelligence-artificielle/pres-de-20-ans-apres-la-sortie-de-ces-anciennes-cartes-graphiques-amd-une-ia-aide-enfin-a-corriger-un-bug-qui-corrompait-la-lecture-des-videos-sous-linux-n268841.html",
+          "date": "2026-11-27T21:30:00+01:00",
+          "resume": "Le développeur Ted Bullock a trouvé une solution à un bug qui touchait la lecture des vidéos sous Linux sur son ancien iMac de 2007. Et pour corriger ce problème qui concerne plusieurs cartes graphiques des séries Radeon HD 2000 et HD 3000 d'AMD, l'homme s'est fait aider par Codex, l'IA d'OpenAI.",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Nouvelle règle réglementaire influençant la compétition IA USA/Chine",
+          "couverture": 1,
+          "titre": "Une nouvelle règle donne l’avantage aux Etats-Unis dans la course à l’IA face à la Chine",
+          "source": "l'Opinion",
+          "lien": "https://www.lopinion.fr/economie/une-nouvelle-regle-donne-lavantage-aux-etats-unis-dans-la-course-a-lia-face-a-la-chine",
+          "date": "2026-11-28T06:30:00+00:00",
+          "resume": "Washington comble une brèche qui permettait aux entreprises chinoises d'accéder aux puces Nvidia et renforce la présence de policiers à l'étranger pour lutter contre la contrebande ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Lancement d'outil pour fiabiliser les agents IA, pertinence industrielle",
+          "couverture": 1,
+          "titre": "PARIS : Starburst lance Context Studio pour fiabiliser les agents d'intelligence artificielle",
+          "source": "Presse Agence",
+          "lien": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTHJSZnJUQ1BDbG9URzhHRFVzOVpsTUZCMWUzZDdHcTVOTmE0VFBOcmJ2VGphZm8zNTZWQmFlRnBmbTBxMjZ2ZjhiRzR2OXlMZkwyWGtPU0Vkak9xcTVlMTV1R2xldEJfUHQ1amxpQ290bTRoT0lJMGhQWFBGdXN3N2YtaWk3SzRHMFFPWGNLUlNjX0kxTFRSdGZZdmtwdWFyMUVPaGVISTFtTXN4WGVZMmpwbFNFaWUxd2lsdkR2cEdpcTlO?oc=5",
+          "date": "2026-11-28T06:00:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Plan de quota OpenAI, influence sur accès aux modèles",
+          "couverture": 2,
+          "titre": "OpenAI prévoit un quota commun pour ChatGPT et Codex",
+          "source": "Brief IA",
+          "lien": "https://www.briefia.fr/article/openai-prevoit-un-quota-commun-pour-chatgpt-et-codex",
+          "date": "2026-11-28T03:04:59+00:00",
+          "resume": "OpenAI prévoit une allocation commune à ChatGPT et Codex dès décembre pour Plus, Pro et Business. Selon OpenAI, Enterprise n'est pas concerné par cette modification. L'entreprise affirme que le chat instantané restera hors de l'allocation commune.",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Application technique intéressante, mais cas d'usage limité",
+          "couverture": 1,
+          "titre": "Samsung Recompose : l’IA pourrait changer l’angle d’une photo en post-production",
+          "source": "Android MT",
+          "lien": "https://android-mt.ouest-france.fr/news/samsung-recompose-lia-pourrait-changer-langle-dune-photo-en-post-production/232384/",
+          "date": "2026-11-28T07:20:19+00:00",
+          "resume": "Samsung prépare Recompose dans One UI 9.5 : un outil Galaxy AI pour changer l’angle d’une photo déjà prise. Voici ce que révèle le code de la bêta.",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Drone IA pour secours en montagne, application concrète mais niche",
+          "couverture": 1,
+          "titre": "Victimes d'avalanche, skieurs égarés… Comment un drone dopé à l'IA va révolutionner cette célèbre station des Pyrénées",
+          "source": "Actu.fr",
+          "lien": "https://actu.fr/societe/victimes-d-avalanche-skieurs-egares-messages-vocaux-comment-l-ia-va-revolutionner-cette-celebre-station-des-pyrenees_65110860.html",
+          "date": "2026-11-28T03:44:01+00:00",
+          "resume": "À partir de cette saison 2026-2027 de ski, un drone autonome, doté d'une intelligence artificielle, sera utilisé dans le plus grand domaine des Pyrénées, à Grandvalira, en Andorre.",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Analyse des performances IA en mathématiques vs autres domaines",
+          "couverture": 1,
+          "titre": "L’IA est excellente en mathématiques, mais ailleurs?",
+          "source": "Agence Science-Presse",
+          "lien": "https://www.sciencepresse.qc.ca/actualites-scientifiques/2026/11/27/ia-excellente-mathematiques-ailleurs",
+          "date": "2026-11-28T02:18:05+00:00",
+          "resume": "La résolution par des IA, ces dernières semaines, de problèmes mathématiques extrêmement complexes, a provoqué toutes sortes de remises en question chez les mathématiciens. Mais au-delà de tout le bie ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Recrutement massif IA, indique croissance du secteur",
+          "couverture": 1,
+          "titre": "Keyrus recrute plusieurs centaines de personnes pour industrialiser l’IA",
+          "source": "ChannelNews",
+          "lien": "https://www.channelnews.fr/keyrus-recrute-plusieurs-centaines-de-personnes-pour-industrialiser-lia-160400",
+          "date": "2026-11-27T21:25:06+00:00",
+          "resume": "L’ESN Keyrus lance une vaste campagne de recrutement en France et à l’international ayant pour objectif de faire passer l’intelligence artificielle de ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Conflit IA‑Photoshop, montre tension entre outils créatifs",
+          "couverture": 1,
+          "titre": "À force de mettre de l’IA partout dans Photoshop, Adobe se fait retoquer par le New York Times",
+          "source": "MacGeneration",
+          "lien": "https://www.msn.com/fr-be/technologie/logiciel/%C3%A0-force-de-mettre-de-l-ia-partout-dans-photoshop-adobe-se-fait-retoquer-par-le-new-york-times/ar-AA2inOgi",
+          "date": "2026-11-27T20:00:00+00:00",
+          "resume": "À vouloir mettre de l’intelligence artificielle générative à toutes les sauces, Adobe semble avoir oublié qu’une partie de sa clientèle préférerait largement s’en passer… voire ne veut surtout pas y t ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Liste d'outils internes, intérêt limité aux développeurs",
+          "couverture": 1,
+          "titre": "Uber optimise - My Companion BNP - Skills over MCP - Goulet revue de code - Quick & Dirty - Claude Mousquetaire...",
+          "source": "Secrets de Data",
+          "lien": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DTXdrbFA2LW9tZmJKZWdNYnJjM3g1NEdJbXlkN1RXY3lWLUJNLXpSaDJFT3RvOFhSa1VkczRpT0pCZGc0RmhLWnB0czdMY1g4OC13Q1JGRUlTbGNQWnMwa3RCaW1ZZldsNU9mdVBrUXBCclREckN4UDVwWldGQQ?oc=5",
+          "date": "2026-11-28T03:00:46+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Sommet régional IA, peu d'impact au-delà du territoire",
+          "couverture": 1,
+          "titre": "TOULON : Intelligence artificielle - Le Var réunit plus de 300 acteurs pour son 2ème sommet",
+          "source": "Presse Agence",
+          "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN2Q0TjE2ZVVBaThYU2RKU1ZfSHhGZkYtOWZ3NFZMa0puMnBRenc0SGVYRUJBNkhmcEEtRWgtWXJ4djFFcDFBUjZzVVBvbkZ3MFZoMTVaTlR6cmpaR1F2Tm5qR1cwSl9KUnY3WGhId0VGRVJ2bi1NN3lkUlhTVVUxNU41MmN6Wi00bW1Mcm5tZGZRdmtKVmZxZEt3WnQteHlBQnI1S0JqMzRIQ20yclFUQVhn?oc=5",
+          "date": "2026-11-27T23:00:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Annonce de partenariat IA, intérêt limité",
+          "couverture": 1,
+          "titre": "tracee, cabinet de conseil en IA et actifs numériques, rejoint le Hub France IA",
+          "source": "EIN Presswire",
+          "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR1U5SGhmZlUxQTdIRVNuOVJlX0N5bkQ0WU9NYVcxVWRlbkJLTHY5MDRHVVdiYW82bGFSeGRoVWxUQTFpeGdxWlNVTFEwclJtVFJQb2JYalFvUnR2bDg4d3ZHZnJHaFJrYUpMTk9LUmNPUnRBSFplS2NzQlBLdmxUWTFnRlptX240NTQ1cWJYNHpKMEhjNHdHU0hhY0lIVWM1THFRcmZrcFl4cEpXUzdhOHNLT0VmNUxHRDRyX1h5OGFQUQ?oc=5",
+          "date": "2026-11-27T22:48:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Intégration IA à imprimantes 3D, cas d'usage niche",
+          "couverture": 1,
+          "titre": "Prusa MCP conecta tus impresoras 3D con asistentes de IA",
+          "source": "Foro3D",
+          "lien": "https://foro3d.com/2026/noviembre/prusa-mcp-conecta-tus-impresoras-3d-con-asistentes-de-ia.html",
+          "date": "2026-11-27T21:17:29+00:00",
+          "resume": "Prusa Research lanza Prusa MCP, un conector gratuito que enlaza sus impresoras 3D con asistentes de IA como Claude y ChatGPT. Permite buscar modelos en Printables, preparar archivos con EasyPrint, elegir material, enviar a la impresora y seguir el progreso vía Prusa Connect.",
+          "titre_fr": ""
+        },
+        {
+          "note": 3,
+          "motif": "Publicité produit, IA en caractéristique technique uniquement",
+          "couverture": 1,
+          "titre": "Dalle Mini LED 65 pouces, processeur IA 4K et Motion Xcelerator : le téléviseur Samsung Neo QLED QN70H (2026) chute à 649 € chez Amazon !",
+          "source": "Futura, le média qui explore le monde",
+          "lien": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPeF9EaGdQR1htSEdRNE9YOEttejV6Q3gzLXFvVkl6dlZmZEdfUDlCa2F5TUN3TWJjdDNKS1NlR0x4ZnVQR3NQOGFCWF9GS0FLenQxcC16ai1BRUdtYmJLV2NCZEo5RGN5QmNzQ08wcjNqemNjTmpvOERfb1BYNllSa3MwX01PWWlvaklMWms3VlBBbVBSQnUxc3NMNTFIS0gwcGlRaDNBOVBjdkhkSFV1TTBIWkVMSWtMelhhRVFyVjVtaXN1Qkd6VDJveUFhdWlEWlNsczFMaThiNmNJUHU5ZDBhRU5tcXpOQ1UtV2gwWnJqNnJWSGpuUHhYQ3pWQ0JsTjR0MVhTSDhvSk1vZnJQeXhqQWxSUVYzS1E?oc=5",
+          "date": "2026-11-28T06:00:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 3,
+          "motif": "Promotion d'actions IA pour Black Friday, contenu marketing",
+          "couverture": 1,
+          "titre": "Les actions IA rebondissent : profitez du prochain mouvement avec -60% pour le Black Friday",
+          "source": "Investing.com France",
+          "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV2NRSThuUHBhQWRHb3pfaTlHRHZhenRkVmNMbTdBNTB4S3VxelJiNjFCMGRIWHhTOHFITEFZcTZYUzFCaUpHTWlHZU1kZ3pYVENuQ1VBaW9XV2pNSTFXb3Vxa2I2SURQSEhpVEdLQzJrMXU0d2pDamhtUzUzdllQd0Z4Qm5lTzBuSS16emdwSmpFNFBNYkZCYnBCN29lY1pkRHpuSG5aZEJTd1FtZTBYMkdUaTI4bjN3UGpQUlZ4eEZBemhBVEhxdmxRTnZvaTBsTnAwclJQa1psYTVk?oc=5",
+          "date": "2026-11-28T02:34:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 3,
+          "motif": "Mise à jour OS avec IA, peu de nouveauté",
+          "couverture": 1,
+          "titre": "ColorOS 17 de noviembre de 2026: fotos, IA y conexión con el PC",
+          "source": "Foro3D",
+          "lien": "https://foro3d.com/2026/noviembre/coloros-17-de-noviembre-de-2026-fotos-ia-y-conexion-con-el-pc.html",
+          "date": "2026-11-27T21:32:02+00:00",
+          "resume": "OPPO despliega ColorOS 17 de noviembre de 2026 en Find X10, X9, X8 y Reno16 5G. La actualización prioriza gestión de fotos, herramientas de IA y conectividad con el PC sobre cambios visuales.",
+          "titre_fr": ""
+        }
+      ]
+    },
+    {
+      "nom": "Santé et médecine",
+      "resume": "L’IA intervient dans le diagnostic, les conseils médicamenteux et la gestion des urgences, soulevant des questions de fiabilité et de régulation sanitaire.",
+      "articles": [
+        {
+          "note": 6,
+          "motif": "Avertissement santé lié à conseils IA, impact sur grand public",
+          "couverture": 1,
+          "titre": "Médicaments : les conseils de l'IA pourrait vous conduire à l'hôpital. Les 3 réflexes du Dr Kierzek pour éviter les mauvaises surprises",
+          "source": "Doctissimo",
+          "lien": "https://www.msn.com/fr-be/actualite/other/m%C3%A9dicaments-les-conseils-de-l-ia-pourrait-vous-conduire-%C3%A0-l-h%C3%B4pital-les-3-r%C3%A9flexes-du-dr-kierzek-pour-%C3%A9viter-les-mauvaises-surprises/ar-AA2ioWNB",
+          "date": "2026-11-28T05:58:51+00:00",
+          "resume": "Une réponse d’IA peut sembler claire, mais être fausse ou incomplète. Après des signalements liés à des conseils médicamenteux, voici les vérifications à faire avant de reprendre du paracétamol ou de ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Saturation des centres antipoison par IA, problème de santé publique",
+          "couverture": 1,
+          "titre": "Santé: les standards des centres antipoison saturés par les appels liés aux conseils de l’intelligence artificielle",
+          "source": "Orange Actualités",
+          "lien": "https://www.msn.com/fr-fr/actualite/other/sant%C3%A9-les-standards-des-centres-antipoison-satur%C3%A9s-par-les-appels-li%C3%A9s-aux-conseils-de-l-intelligence-artificielle/vi-AA2ioZjx",
+          "date": "2026-11-28T05:42:59+00:00",
+          "resume": "Depuis l’intégration de l’intelligence artificielle au moteur de recherche Google, le 23 juillet, les centres antipoison, en France comme à l’étranger, font face à une hausse des appels. Certains se r ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Alerte IA insuffisante en milieu hospitalier, enjeux santé critiques",
+          "couverture": 1,
+          "titre": "À l’hôpital, une alerte IA ne suffit pas pour repérer le sepsis",
+          "source": "Libnanews",
+          "lien": "https://libnanews.com/a-lhopital-une-alerte-ia-ne-suffit-pas-pour-reperer-le-sepsis/",
+          "date": "2026-11-27T19:40:00+00:00",
+          "resume": "Deux études évaluent des alertes de sepsis et montrent pourquoi la validation locale, le suivi des faux positifs et la réponse clinique comptent autant que le modèle.",
+          "titre_fr": ""
+        },
+        {
+          "note": 5,
+          "motif": "Impact sociétal sur santé, mais article de type reportage local",
+          "couverture": 1,
+          "titre": "Diagnostic contesté, traitement arrêté : ce que l'IA change dans le rapport des Français à leur médecin",
+          "source": "Breizh-info.com",
+          "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNllUUDZtV2lHX0N0M0NGMHh5Wjk4NVNzSW1SMng5eWxxZmpxNjZkczhSM3BOUjR4OThGdDNMa0pEUkg0SnBaQ0FIaGZUbUxsWlhySWJYOVdlSzJ1RVRuSEZFOGdOaXlIQzNhTFZsak9TSlZJWDJ1MHAtd0FOODlYY2t3Rk1fRTlaNjNpa0dqZDRjWFREYzZ3QXQ3S1ZDVGtKWktyWVhOYXRqejBIcXVMWVF2VUJMcHF3Vm94Vm1sM3hqQ0R0THF6QkxWZDZDZ003ZC1KV25CT2hXZzN2c1dv?oc=5",
+          "date": "2026-11-28T06:44:36+00:00",
+          "resume": "",
+          "titre_fr": ""
+        }
+      ]
+    },
+    {
+      "nom": "Médias, création et droit",
+      "resume": "Des articles traitent de l’impact de l’IA sur la création littéraire, la génération d’images, le droit d’auteur et les usages culturels, illustrant les tensions entre créativité et automatisation.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Débat sur IA et création littéraire, impact culturel notable",
+          "couverture": 1,
+          "titre": "L’IA, tremblement de terre dans les formations de création littéraire : « Dans quelle mesure l’utiliser me dépossède de mon œuvre ? »",
+          "source": "Le Monde.fr",
+          "lien": "https://www.lemonde.fr/campus/article/2026/11/28/l-ia-tremblement-de-terre-dans-les-formations-de-creation-litteraire-dans-quelle-mesure-l-utiliser-me-depossede-de-mon-uvre_6816074_4401467.html",
+          "date": "2026-11-28T06:00:09+00:00",
+          "resume": "Alors que les controverses sur l’usage des intelligences artificielles génératives secouent le monde de l’édition, les formations en création littéraire et métiers du livre cherchent leur posture, ent ...",
+          "titre_fr": ""
+        },
+        {
+          "note": 7,
+          "motif": "Question juridique cruciale sur droits d'auteur et IA",
+          "couverture": 1,
+          "titre": "Droit d’auteur et IA : comment prouver que vos œuvres ont servi à entraîner un modèle ?",
+          "source": "Reda KOHEN",
+          "lien": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS3dWYVc5WW9zOVI4MzlSc0FlOV9ybDFOX2tfOV80dm1IMm5aT1I2Q2pENEpkdEJqZ3lralBuSWpOUUdDLXdrMHQyTUhHWDlKNEI3d1h1dTVGODJfZzNNTklqSDh3TUtaelRiMnJsNV9yWTVWM3pVaW05ejV3ZXdQem1lOVJ3dWMtc1lJU1NuY0xNUVJpY2hn?oc=5",
+          "date": "2026-11-28T03:52:00+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Analyse pertinente d'une limitation de ChatGPT, utile aux utilisateurs",
+          "couverture": 1,
+          "titre": "Pourquoi ChatGPT finit-il (trop) souvent par faire exactement ce que vous lui avez demandé de ne pas faire ?",
+          "source": "Clubic",
+          "lien": "https://www.clubic.com/actualite-641515-pourquoi-chatgpt-finit-il-trop-souvent-par-faire-exactement-ce-que-vous-lui-avez-demande-de-ne-pas-faire.html",
+          "date": "2026-11-28T07:01:00+00:00",
+          "resume": "Vous lui avez demandé de faire court ou de ne jamais utiliser de listes à puces, mais ChatGPT a fini par oublier vos consignes. Dans notre nouvelle vidéo, on vous explique pourquoi les IA perdent le fil de nos conversations et comment éviter d'en arriver là.",
+          "titre_fr": ""
+        },
+        {
+          "note": 6,
+          "motif": "Utilisation IA pour upscaling vidéo, impact sur streaming",
+          "couverture": 2,
+          "titre": "Prime Video passe plus de 60 classiques MGM en HD avec l’IA",
+          "source": "Brief IA",
+          "lien": "https://www.briefia.fr/article/prime-video-passe-plus-de-60-classiques-mgm-en-hd-avec-l-ia",
+          "date": "2026-11-28T03:08:57+00:00",
+          "resume": "Prime Video propose plus de 60 classiques MGM en HD après un traitement assisté par IA. Amazon affirme soumettre chaque titre à un contrôle humain avant diffusion. D'autres œuvres doivent rejoindre la sélection en 2027, sans liste annoncée.",
+          "titre_fr": ""
+        },
+        {
+          "note": 4,
+          "motif": "Curiosité culturelle, peu d'implication technique",
+          "couverture": 1,
+          "titre": "Comment la Russie ressuscite Dostoïevski grâce à l’IA pour défendre Poutine",
+          "source": "Le Nouvel Obs",
+          "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ2pZb3E4dnNiSVd4SjZWelRoVTJoYlRaS1NXem13Q2FncG9URV9Ud0V1aGpnaWlwV19qVWRYcEhUaDZ6cmZiSDFwSHNwYlR6ZGpMc05nVmNtQzN0TzFhMTBSVU5uOUQ2NHppTlg5UFU1NUx5U3oyU013Yy03a1F5aVZBMV9KN3B4WUVlVXAyTWY4RXhqRGJFSFlPbEltMEJxUkZnTjJ0X0U3WGs4SXZ3RTVmYXREeDJoUWl3bzl1azhtT1VzTEZvX3pqREllY2M?oc=5",
+          "date": "2026-11-28T06:30:15+00:00",
+          "resume": "",
+          "titre_fr": ""
+        },
+        {
+          "note": 3,
+          "motif": "Observation sur IA auto‑citation, peu d'impact",
+          "couverture": 1,
+          "titre": "La ciencia publica sin freno y la IA aprende a citarse a sí misma",
+          "source": "Foro3D",
+          "lien": "https://foro3d.com/2026/noviembre/la-ciencia-publica-sin-freno-y-la-ia-aprende-a-citarse-a-si-misma.html",
+          "date": "2026-11-27T21:14:26+00:00",
+          "resume": "La producción científica crece un 65 por ciento desde 2010, con hasta 100.000 trabajos anuales en neurociencia y un 80 por ciento sin citas en ciencias sociales. Publicar mucho no equivale a saber más.",
+          "titre_fr": ""
+        },
+        {
+          "note": 3,
+          "motif": "Campagne marketing IA, contenu promotionnel",
+          "couverture": 1,
+          "titre": "Campañas navideñas de 2026: animación, craft y dudas sobre la IA",
+          "source": "Foro3D",
+          "lien": "https://foro3d.com/2026/noviembre/campanas-navidenas-de-2026-animacion-craft-y-dudas-sobre-la-ia.html",
+          "date": "2026-11-27T21:09:26+00:00",
+          "resume": "Las campañas navideñas de 2026 de Prada, Levi s, Dior, La Mer y RIMOWA apuestan por animación y craft. Crece el escrutinio sobre la IA: el spot de Dior de Sylvain Chomet afronta debate por interpolación automatizada, aunque el director niega usar IA generativa.",
+          "titre_fr": ""
+        }
+      ]
+    },
+    {
+      "nom": "Autres articles",
+      "resume": "",
+      "articles": [
+        {
+          "note": 4,
+          "motif": "Cas juridique local lié à l'IA, peu de portée",
+          "couverture": 1,
+          "titre": "\"Je n'ai pas pris le temps d'établir un devis\" : visé par une plainte pour escroquerie grâce à l'intelligence artificielle, ce gérant d'une société de ramonage se défend",
+          "source": "France 3 Régions",
+          "lien": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPbE1XallNM0lkNFVBM2huQ0dSUHEwb1kwSHFkcTdleDUzZDRRakFDYUtwdHdscXE5R0hXUmZwSVRKSllwOVNSYXZJTG1BT21ocUN1UkZ2UXZFUEJCeF9YekpnUTRIejE0bnNkTFp2aHloVGMxNVhDZ2RlWHJNOHlwdDZ6VnJnNFJLOUtacGdXeDRtUUFRYkxtTWVRYzk0cGo1cUVsS1RuT3YzcExSZVdKVTlObWYtZ2F2OUliOC1lV3NZUDhvM2lwN3B1T2pYWnYzT3AtcGw0Y0NkSmxkRkZrYzBYTVdCYVloWXBFVUZyeFBiMzdBNnZKYzdGeEFPdTVrYXpGYlpkYU00U045bkV5TnRGVXZmdjFIWTdBMjVVQ2FzZGJPRmhhSnNoWDVyOTRCdkZ3eHduaGpidFlac2pXWVZPTVoxTm5jYTZ6cDM5T1BIRXUxbTYxR1k4cDNhaGhoYUtLRW1xVQ?oc=5",
+          "date": "2026-11-28T06:00:04+00:00",
+          "resume": "",
+          "titre_fr": ""
+        }
+      ]
+    }
+  ],
+  "ecartes": [
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "SAP confirme un incident de sécurité, tandis qu’un scénario de 10 000 suppressions de postes émerge",
+      "source": "business-times.fr",
+      "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XNkN3YTFFT2xaWVM3bmhNeEtiTVQ3RVFBbmVjOW1jc0J6WFY1bmFONENKVjlGMjJjZm96Y19SZnlFbG5pNi1rYl93ZjNNcHVRSWJEWmNieUVya2l5RWxkNHh5Y1JCeldkTmZaa0NWNFNMZw?oc=5",
+      "date": "2026-11-28T05:31:00+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Honor veut envahir le pied des sapins de Noël avec le Honor 600 : il passe à -45% ⚡",
+      "source": "01net",
+      "lien": "https://www.01net.com/bons-plans/honor-veut-envahir-le-pied-des-sapins-de-noel-avec-le-honor-600-il-passe-a-45.html",
+      "date": "2026-11-27T18:51:01+00:00",
+      "resume": "Le Honor 600 est un smartphone de milieu de gamme qui converge vers le haut de gamme sur un certain nombre de points. Cela vaut pour la photographie, l'autonomie ou encore l'intelligence artificielle. Qui plus est, son tarif s'effondre sur AliExpress avec Black Friday.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "J’ai testé le GMKtec NEO-X1 Pro : une vraie RTX 5070 dans une tour silencieuse et toute compacte",
+      "source": "Frandroid",
+      "lien": "https://www.frandroid.com/marques/gmktec/3343821_jai-teste-le-gmktec-neo-x1-pro-une-vraie-rtx-5070-dans-une-tour-silencieuse-et-toute-compacte",
+      "date": "2026-11-27T18:28:28+00:00",
+      "resume": "GMKtec sort de son terrain habituel des mini PC avec le NEO-X1 Pro, une tour compacte de 14,6 litres qui associe un Ryzen 9 9955HX3D de PC portable à une vraie GeForce RTX 5070 de bureau. Vendue 3 000 euros, la machine vise le jeu en 1440p, la création et un peu d'IA locale, le tout dans un boîtier ",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "L’affaire Nvidia prend une nouvelle dimension, l’ex-maîtresse présumée de Jensen Huang est soupçonnée d’être impliquée dans un trafic de puces vers la Chine",
+      "source": "La Crème Du Gaming",
+      "lien": "https://www.lacremedugaming.fr/high-tech/laffaire-nvidia-prend-une-nouvelle-dimension-lex-maitresse-presumee-de-jensen-huang-est-soupconnee-detre-impliquee-dans-un-trafic-de-puces-vers-la-chine-236197.html?utm_source=rss_feed&utm_medium=link&utm_campaign=unknown",
+      "date": "2026-11-27T17:00:56+00:00",
+      "resume": "Au cœur du scandale Nvidia, la liaison de Jensen Huang avec Alice Huang ouvre la piste d’un trafic massif de GPU d’IA vers la Chine. Entre Megaspeed, Huawei et Singapour, ce réseau présumé inquiète Washington et les joueurs. The post L’affaire Nvidia prend une nouvelle dimension, l’ex-maîtresse prés",
+      "titre_fr": ""
+    }
+  ],
+  "top": [
+    {
+      "note": 8,
+      "motif": "Conflit juridique majeur entre deux géants technologiques",
+      "couverture": 1,
+      "titre": "OpenAI accuse Apple de lui avoir volé des secrets commerciaux",
+      "source": "Clubic",
+      "lien": "https://www.clubic.com/actualite-641572-openai-accuse-apple-de-lui-avoir-vole-des-secrets-commerciaux.html",
+      "date": "2026-11-28T07:30:00+00:00",
+      "resume": "OpenAI a porté plainte contre Apple vendredi devant un tribunal californien. Le créateur de ChatGPT accuse la firme de Cupertino de lui avoir volé des secrets commerciaux et de menacer les fournisseurs susceptibles de fabriquer ses futurs appareils, conçus avec Jony Ive, l'ancien chef du design d'Ap",
+      "titre_fr": ""
+    },
+    {
+      "note": 8,
+      "motif": "Analyse géopolitique des data‑centers IA, sujet stratégique",
+      "couverture": 1,
+      "titre": "Data centers et IA : la fracture entre l'Occident et la Chine",
+      "source": "rts.ch",
+      "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR1ZTZDM5UkRhQUxSMFlyX1dvUGF3NHdwT1l2bnZIU3dQaXFjU3ozVFNNYVZuNEFkWmJ3NV9IbVppRXhxMG16SFFJYUFuMG1va3UtNU1ITWljLXhkenlSMkttdFBIMnpJeTZBSFVNblR6dUVoREw0bVpSeHhKYlAtdDhRSkhIQy1mWmVuZGs5dUZualNJUWllbnRXeVc3dlV6dmxsYV9tcDd5ZEVScXZLbzJMenpGZkNOU1lOaGh4cU1FZw?oc=5",
+      "date": "2026-11-28T06:36:26+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": 8,
+      "motif": "Enquête sur IA dangereuse, sujet d'actualité largement relayé",
+      "couverture": 2,
+      "titre": "Plongée dans le monde des IA débridées, ces intelligences artificielles déchaînées pouvant servir des desseins illégaux",
+      "source": "Le Monde Pixels",
+      "lien": "https://www.lemonde.fr/pixels/article/2026/11/28/plongee-dans-le-monde-des-ia-debridees-ces-intelligences-artificielles-dechainees-pouvant-servir-des-desseins-illegaux_6816059_4408996.html",
+      "date": "2026-11-28T05:00:26+01:00",
+      "resume": "Accessibles en quelques clics sur Internet, les intelligences artificielles dites « ablitérées », auxquelles on a retiré les garde-fous, répondent à la plupart des questions dangereuses que leurs concurrentes commerciales repoussent. Qui les conçoit, et pour quelles raisons ?",
+      "titre_fr": ""
+    },
+    {
+      "note": 8,
+      "motif": "Redite du conflit OpenAI‑Apple, confirmé par source majeure",
+      "couverture": 1,
+      "titre": "OpenAI accuse Apple de vol de secrets et de pressions sur ses fournisseurs",
+      "source": "Le Monde Pixels",
+      "lien": "https://www.lemonde.fr/economie/article/2026/11/27/openai-accuse-apple-de-vol-de-secrets-et-de-pressions-sur-ses-fournisseurs_6815936_3234.html",
+      "date": "2026-11-27T22:49:34+01:00",
+      "resume": "Les deux partenaires se rapprochent de mois en mois d’une situation de rivaux, et se rendent désormais coup pour coup devant la justice.",
+      "titre_fr": ""
+    },
+    {
+      "note": 7,
+      "motif": "Alerte sur fraude publicitaire IA pendant un événement commercial majeur",
+      "couverture": 1,
+      "titre": "Attention aux fausses publicités générées par intelligence artificielle pendant le Black Friday",
+      "source": "Franceinfo",
+      "lien": "https://www.franceinfo.fr/internet/intelligence-artificielle/attention-aux-fausses-publicites-generees-par-intelligence-artificielle-pendant-le-black-friday_8303706.html",
+      "date": "2026-11-28T06:55:38+00:00",
+      "resume": "Produits créés de toutes pièces, visuels ultraréalistes et identités de marques usurpées : les fausses publicités pullulent pendant ce week-end de promotion. Leur but est de récupérer les données banc ...",
+      "titre_fr": ""
+    }
+  ],
+  "articles_notes": 50,
+  "liens_google": 17,
+  "videos": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "ChatGPT a 4 ans : jusqu'où ira l'intelligence artificielle ? 📆 L'HEBDO",
+        "source": "Monde Numérique | Actualité Tech & IA",
+        "lien": "https://www.youtube.com/watch?v=3O0TxAu6xsU",
+        "date": "2026-11-28T05:27:52Z",
+        "image": "https://i.ytimg.com/vi/3O0TxAu6xsU/mqdefault.jpg",
+        "extrait": "Les avancées de l'IA sont incroyables : où allons-nous ? / Et aussi : Apple prépare son super agent IA / New York interdit les ...",
+        "description": "Analyse des avancées de l'IA depuis 4 ans, avec un focus sur les perspectives futures et les initiatives d'Apple et de New York."
+      },
+      {
+        "titre": "Claude participe à sa propre optimisation : 70 % de CPU en moins",
+        "source": "Intelligence artificielle",
+        "lien": "https://www.youtube.com/watch?v=w3WUB-D9xdE",
+        "date": "2026-11-27T21:00:36Z",
+        "image": "https://i.ytimg.com/vi/w3WUB-D9xdE/mqdefault.jpg",
+        "extrait": "L'entreprise rapporte une réduction d'environ 70 % de la consommation CPU par requête après la migration. Un exemple concret ...",
+        "description": "Claude réduit de 70 % la consommation CPU par requête, illustrant une optimisation concrète de l'IA en production."
+      },
+      {
+        "titre": "L'IA, atout ou menace pour le travail des femmes ? • FRANCE 24",
+        "source": "FRANCE 24",
+        "lien": "https://www.youtube.com/watch?v=ugL-ZViEWJc",
+        "date": "2026-11-27T19:17:29Z",
+        "image": "https://i.ytimg.com/vi/ugL-ZViEWJc/mqdefault.jpg",
+        "extrait": "L'intelligence artificielle bouleverse notre monde et la façon dont nous travaillons. Elle peut libérer du temps sur certaines tâches ...",
+        "description": "Débat sur l’impact de l’IA sur l’emploi des femmes, entre opportunités de libération du temps et risques de déséquilibre."
+      },
+      {
+        "titre": "ChatGPT’s Launch Surprised Even OpenAI",
+        "source": "The Neuron",
+        "lien": "https://www.youtube.com/watch?v=tgjWJydvgmY",
+        "date": "2026-11-27T18:00:32Z",
+        "image": "https://i.ytimg.com/vi/tgjWJydvgmY/mqdefault.jpg",
+        "extrait": "From an experimental research preview to a reported 1.2 billion weekly active users in four years. ChatGPT's explosive ...",
+        "description": "Rétrospective du lancement de ChatGPT : de la version expérimentale à plus d’un milliard d’utilisateurs actifs en quatre ans."
+      },
+      {
+        "titre": "IA et pubs: quand c'est trop beau, c'est souvent faux",
+        "source": "RTBF Info",
+        "lien": "https://www.youtube.com/watch?v=Nd0ysCz85A0",
+        "date": "2026-11-27T18:00:19Z",
+        "image": "https://i.ytimg.com/vi/Nd0ysCz85A0/mqdefault.jpg",
+        "extrait": "Chaussures pour marcher sur l'eau, crème miracle, machine qui fait la vaisselle… Ces pubs inondent vos réseaux, et beaucoup ...",
+        "description": "Exposé des publicités trompeuses générées par l’IA, montrant comment les deepfakes et les promesses miracles se répandent en ligne."
+      },
+      {
+        "titre": "Une IA a-t-elle réussi à finir GTA VI en seulement 12 heures ?｜TF1 INFO",
+        "source": "TF1 INFO",
+        "lien": "https://www.youtube.com/watch?v=lelKCSzTgvs",
+        "date": "2026-11-27T17:53:14Z",
+        "image": "https://i.ytimg.com/vi/lelKCSzTgvs/mqdefault.jpg",
+        "extrait": "Un internaute assure, vidéo à l'appui, avoir laissé une intelligence artificielle jouer à \"GTA VI\" en toute autonomie. L'IA aurait été ...",
+        "description": "Vérification d’une vidéo où une IA aurait terminé le jeu GTA VI en 12 heures, illustrant les capacités de jeu autonome des modèles."
+      },
+      {
+        "titre": "Présidentielle : allez-vous utiliser l'IA pour faire votre choix ?",
+        "source": "M6 Info",
+        "lien": "https://www.youtube.com/watch?v=iQDvVHEd9Bo",
+        "date": "2026-11-27T17:30:10Z",
+        "image": "https://i.ytimg.com/vi/iQDvVHEd9Bo/mqdefault.jpg",
+        "extrait": "16 % des Français ont utilisé l'intelligence artificielle pour faire leur choix ou s'orienter lors des dernières élections municipales.",
+        "description": "Sondage sur l’usage de l’IA lors des dernières élections municipales françaises, avec 16 % des répondants l’ayant utilisée pour s’informer."
+      },
+      {
+        "titre": "PsyTech 2026 : quand l’intelligence artificielle rencontre la psychiatrie !",
+        "source": "Région Hauts-de-France",
+        "lien": "https://www.youtube.com/watch?v=jgOSkuntsjU",
+        "date": "2026-11-27T16:11:51Z",
+        "image": "https://i.ytimg.com/vi/jgOSkuntsjU/mqdefault.jpg",
+        "extrait": "L'intelligence artificielle au service de la santé mentale ! Le 20 novembre 2026, la Région Hauts-de-France a accueilli à son ...",
+        "description": "Présentation du colloque PsyTech 2026, où l’IA est mise au service de la psychiatrie et de la santé mentale en région Hauts‑de‑France."
+      },
+      {
+        "titre": "La sclérose en plaques : le pouvoir de l'intelligence artificielle",
+        "source": "Institut du Cerveau - Paris Brain Institute",
+        "lien": "https://www.youtube.com/watch?v=SYBGCUz2P44",
+        "date": "2026-11-27T14:42:46Z",
+        "image": "https://i.ytimg.com/vi/SYBGCUz2P44/mqdefault.jpg",
+        "extrait": "L'évolution de la sclérose en plaques est très hétérogène d'un patient à l'autre, compliquant la prise en charge thérapeutique.",
+        "description": "Étude du rôle de l’IA dans le suivi et le traitement de la sclérose en plaques, menée par le Paris Brain Institute."
+      },
+      {
+        "titre": "En Afrique, elle crée une IA qui bouscule les géants mondiaux de la tech • FRANCE 24",
+        "source": "FRANCE 24",
+        "lien": "https://www.youtube.com/watch?v=ejb4tAYN5Ac",
+        "date": "2026-11-27T14:34:14Z",
+        "image": "https://i.ytimg.com/vi/ejb4tAYN5Ac/mqdefault.jpg",
+        "extrait": "Kate Kallot est une Française née à Pontoise qui a travaillé chez Nvidia durant deux années – après avoir été recrutée par ...",
+        "description": "Portrait d’une Française qui, en Afrique, crée une IA capable de rivaliser avec les géants technologiques mondiaux."
+      }
+    ]
+  },
+  "podcasts": {
+    "statut": "ok",
+    "fenetre_heures": 72,
+    "elements": [
+      {
+        "titre": "Suno : construire sa signature musicale avec l’IA",
+        "source": "L'iA Geek - Tech iA",
+        "lien": "https://podcasts.apple.com/fr/podcast/suno-construire-sa-signature-musicale-avec-lia/id1816851269?i=1000804505629&uo=4",
+        "date": "2026-11-28T07:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/26/e8/e8/26e8e870-bf70-3472-b626-91886944d163/mza_8764821956702901036.jpg/160x160bb.jpg",
+        "duree_min": 23,
+        "extrait": "Ce soir dans l'iA Geek, on vous parle de la création musicale avec Suno à travers le processus de Dream Relic. Comment passer de textes personnels à une chanson, puis affiner les voix, les textures et les arrangements ? On explore les essais successi",
+        "description": "Création musicale avec l’IA Suno : comment transformer des textes personnels en chansons et affiner voix, textures et arrangements."
+      },
+      {
+        "titre": "IA de la semaine, retour des navettes et disparition des étoiles",
+        "source": "Tech Café : tech & IA",
+        "lien": "https://podcasts.apple.com/fr/podcast/ia-de-la-semaine-retour-des-navettes-et-disparition/id916491698?i=1000804000417&uo=4",
+        "date": "2026-11-28T06:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2e/bc/6a/2ebc6aa4-e6f3-80ad-ba7c-2fd2f3f48b4b/mza_11974904264077442767.jpg/160x160bb.jpg",
+        "duree_min": 80,
+        "extrait": "Nouveaux modèles d'IA pour la vidéo, lancement d’Oh la la Mini par OVH, et questions autour des agents IA et des data centers spatiaux. On parle aussi d'un foie maintenu en vie sept semaines hors d'un corps humain, de Dream Chaser, Voyager 1, mais aussi de la disparition lente mais ineluctable des é",
+        "description": "Nouveaux modèles d'IA vidéo, lancement d’Oh la la Mini par OVH, discussion sur les agents IA et les data centers spatiaux."
+      },
+      {
+        "titre": "Capsule 177 — Le Chief AI Officer : faut-il créer ce poste et comment le positionner dans votre organisation",
+        "source": "Le Brief IA",
+        "lien": "https://podcasts.apple.com/fr/podcast/capsule-177-le-chief-ai-officer-faut-il-cr%C3%A9er-ce/id1827674786?i=1000804503038&uo=4",
+        "date": "2026-11-28T06:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/72/79/c2/7279c243-8a89-2d21-bdda-3d94a4d62796/mza_17158553724733680146.jpg/160x160bb.jpg",
+        "duree_min": 4,
+        "extrait": "Avez-vous besoin d'un Chief AI Officer ? La réponse n'est pas universelle. Dans cette capsule Brief IA vous explique quand ce poste est indispensable, quel profil recruter — et les deux modèles d'organisation pour positionner ce rôle dans votre str",
+        "description": "Réflexion sur le rôle du Chief AI Officer, son utilité, le profil recherché et les modèles d’organisation associés."
+      },
+      {
+        "titre": "Montrer plutôt que décrire",
+        "source": "L'IA en 5 minutes",
+        "lien": "https://podcasts.apple.com/fr/podcast/montrer-plut%C3%B4t-que-d%C3%A9crire/id6828161569?i=1000804501535&uo=4",
+        "date": "2026-11-28T06:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9f/fc/79/9ffc793d-c6aa-48cf-1203-568eb4494a02/mza_3653080540514901889.jpg/160x160bb.jpg",
+        "duree_min": 3,
+        "extrait": "Plutôt que trois paragraphes de consignes, montrez à l'IA ce que vous attendez : un exemple de ce que vous envoyez, un exemple de ce que vous voulez recevoir. Alex et Camille expliquent pourquoi cette méthode fonctionne si bien sur une machine qui re",
+        "description": "Méthode « montrer plutôt que décrire » pour guider les IA : fournir des exemples concrets de ce que l’on attend comme sortie."
+      },
+      {
+        "titre": "ChatGPT a 4 ans : jusqu'où ira l'intelligence artificielle ? 📆 L'HEBDO",
+        "source": "Monde Numérique (Actu tech & IA)",
+        "lien": "https://podcasts.apple.com/fr/podcast/chatgpt-a-4-ans-jusquo%C3%B9-ira-lintelligence/id1572124982?i=1000804442371&uo=4",
+        "date": "2026-11-28T05:30:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/3a/e9/623ae95c-0679-0521-8497-adb7e7792acf/mza_16551409908314447677.jpg/160x160bb.jpg",
+        "duree_min": 52,
+        "extrait": "Les avancées de l'IA sont incroyables : où allons-nous ? / Et aussi : Apple prépare son super agent IA / New York interdit les jouets à IA / Mistral se rebiffe sur les droits d'auteur / Microsoft en alerte rouge après une série de pannes historiques / Huawei lourdement condamné aux États-Unis / Free",
+        "description": "Bilan des avancées de l’IA à 4 ans, avec mentions d’Apple, de la régulation des jouets IA, de Mistral et d’une alerte rouge de Microsoft."
+      },
+      {
+        "titre": "Transformation IA : les retours d'expérience du HUB Institute",
+        "source": "Besoin de rien, Envie d’IA | Intelligence Artificielle, Transformation, RH",
+        "lien": "https://podcasts.apple.com/fr/podcast/transformation-ia-les-retours-dexp%C3%A9rience-du-hub-institute/id1854822689?i=1000804490456&uo=4",
+        "date": "2026-11-28T04:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/40/87/2d/40872d0e-0100-e68c-74b8-123bacda2505/mza_7045592883368185811.jpeg/160x160bb.jpg",
+        "duree_min": 65,
+        "extrait": "Une liste de cas d'usage, c'est une stratégie IA ? Non. Aujourd'hui, il y a plus de PowerPoint sur la transformation que de transformation. Les plans à cinq ans ne tiennent plus face à la permacrise, les outils déçoivent, les référents IA s'épu",
+        "description": "Retour d’expérience du HUB Institute sur la transformation IA : critique des stratégies PowerPoint et des plans à cinq ans face à la permacrise."
+      },
+      {
+        "titre": "On arrive déjà à la fin du game de l'IA ! Qui gagne ?",
+        "source": "Renaud Dékode : l’actu IA et tech",
+        "lien": "https://podcasts.apple.com/fr/podcast/on-arrive-d%C3%A9j%C3%A0-%C3%A0-la-fin-du-game-de-lia-qui-gagne/id1702680932?i=1000804407576&uo=4",
+        "date": "2026-11-27T15:17:26+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f6/07/82/f6078206-993c-2d58-5c48-a781400b8afe/mza_12387417498213617079.jpeg/160x160bb.jpg",
+        "duree_min": 49,
+        "extrait": "Chez OpenAI et Anthropic, les IA les plus avancées ne sont plus forcément publiées. Selon Axios, des salariés s’inquiètent de modèles internes déjà supérieurs aux versions publiques en maths, cybersécurité et recherche IA, mais difficiles",
+        "description": "Analyse du « game » de l’IA : IA avancées non publiées chez OpenAI et Anthropic, inquiétudes des salariés sur des modèles internes supérieurs."
+      },
+      {
+        "titre": "Outils maison : utiliser l'IA pour s'en affranchir, avec Fanny Adoue",
+        "source": "L'IA juridique en pratique",
+        "lien": "https://podcasts.apple.com/fr/podcast/outils-maison-utiliser-lia-pour-sen-affranchir-avec/id6820998213?i=1000804406774&uo=4",
+        "date": "2026-11-27T15:05:57+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6e/58/7a/6e587ad0-b2b5-02c9-56a4-5faa0e8b2de3/mza_9448126111741317745.png/160x160bb.jpg",
+        "duree_min": 63,
+        "extrait": "Et si l'IA servait aussi à moins dépendre de l'IA ? ㅤ 🎙️ Fanny Adoue, avocate en droit du numérique au barreau de Paris, accompagne startups et PME tech en propriété intellectuelle et en numérique. Elle ne sait pas coder, et elle a pourta",
+        "description": "Interview de Fanny Adoue sur l’usage de l’IA pour réduire la dépendance aux outils d’IA dans le droit du numérique."
+      },
+      {
+        "titre": "Le plan d'abord, l'IA ensuite : des cas d'usage concrets au cabinet, avec Mathieu Bouillon",
+        "source": "L'IA juridique en pratique",
+        "lien": "https://podcasts.apple.com/fr/podcast/le-plan-dabord-lia-ensuite-des-cas-dusage-concrets/id6820998213?i=1000804396377&uo=4",
+        "date": "2026-11-27T13:44:52+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/70/ca/76/70ca76dd-056a-d6b4-cb0c-31038d7375c3/mza_3217973373684439848.png/160x160bb.jpg",
+        "duree_min": 66,
+        "extrait": "Que confier à l'IA quand on est avocat, et que garder pour soi ? ㅤ 🎙️ Mathieu Bouillon, expert legal tech et cofondateur de Hubaria, forme et accompagne cabinets d'avocats et directions juridiques sur l'IA depuis 2024. Il vient avec des cas d'",
+        "description": "Mathieu Bouillon explique quels usages confier à l’IA dans les cabinets d’avocats et ce qui doit rester manuel."
+      },
+      {
+        "titre": "Et si l’IA sauvait l’éducation plutôt que de la détruire ?",
+        "source": "Le podcast 100% IA et 100% Comex",
+        "lien": "https://podcasts.apple.com/fr/podcast/et-si-lia-sauvait-l%C3%A9ducation-plut%C3%B4t-que-de-la-d%C3%A9truire/id1295201022?i=1000804359950&uo=4",
+        "date": "2026-11-27T09:41:52+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/59/22/a3/5922a39a-6fc8-b066-e847-55e740a7c37e/mza_227655917609175077.jpg/160x160bb.jpg",
+        "duree_min": 14,
+        "extrait": "L’intelligence artificielle générative pourrait transformer profondément l’éducation en apportant une réponse à un problème historique : l’impossibilité de proposer un accompagnement pédagogique individualisé à chaque apprenant. Alors",
+        "description": "Exploration du potentiel de l’IA générative pour transformer l’éducation en offrant un accompagnement pédagogique individualisé."
+      }
+    ]
+  }
+}

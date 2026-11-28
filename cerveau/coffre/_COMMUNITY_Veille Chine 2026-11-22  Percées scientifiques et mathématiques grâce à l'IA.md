@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Veille Chine 2026-11-22 : Percées scientifiques et mathématiques grâce à l'IA
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[AI Regulation]] - concept - veilles/veille-ia-us-2026-11-27-t1.md
-- [[Character.ai]] - concept - veilles/veille-ia-us-2026-11-27-t1.md
-- [[Veille États-Unis 2026-11-27  Régulation et gouvernance]] - document - veilles/veille-ia-us-2026-11-27-t1.md
+- [[AI Fraud and Academic Misconduct]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
+- [[AI Market Dynamics]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
+- [[AI Regulation and Ethics]] - concept - veilles/veille-ia-cn-2026-11-16-t4.md
+- [[Veille Chine 2026-11-16]] - document - veilles/veille-ia-cn-2026-11-16-t4.md
 
 ## Live Query (requires Dataview plugin)
 

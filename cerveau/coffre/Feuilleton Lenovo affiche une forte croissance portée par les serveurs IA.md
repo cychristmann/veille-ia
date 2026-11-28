@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0033.md"
 type: "document"
-community: "Lenovo"
+community: "Tencent"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Lenovo
+  - community/Tencent
 ---
 
 # Feuilleton: Lenovo affiche une forte croissance portée par les serveurs IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Lenovo]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Lenovo
+#graphify/document #graphify/EXTRACTED #community/Tencent

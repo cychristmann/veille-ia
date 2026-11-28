@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-24-t3.md"
 type: "document"
-community: "Veille Outils & code 2026-11-26"
+community: "ChatGPT Wallet"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-26
+  - community/ChatGPT_Wallet
 ---
 
 # Veille France 2026-11-24 : Applications et produits IA
@@ -23,4 +23,4 @@ tags:
 - [[PulseLife assistant IA urgences Lyon]] - `references` [EXTRACTED]
 - [[Snowflake agents IA autonomes]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-26
+#graphify/document #graphify/EXTRACTED #community/ChatGPT_Wallet

@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[European CSIRTs Sound Alarm as Autonomous AI Attack Agents Breach Critical Infrastructure]] - concept - veilles/veille-ia-us-2026-11-27-t5.md
-- [[Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators]] - concept - veilles/veille-ia-us-2026-11-27-t5.md
-- [[Veille États-Unis 2026-11-27  Sécurité et cybermenaces]] - document - veilles/veille-ia-us-2026-11-27-t5.md
+- [[AI+Manufacturing]] - concept - veilles/veille-ia-cn-2026-11-13-t2.md
+- [[IA et création de contenus courts]] - concept - veilles/veille-ia-cn-2026-11-13-t2.md
+- [[Veille Chine 2026-11-13  Industrie et fabrication]] - document - veilles/veille-ia-cn-2026-11-13-t2.md
 
 ## Live Query (requires Dataview plugin)
 

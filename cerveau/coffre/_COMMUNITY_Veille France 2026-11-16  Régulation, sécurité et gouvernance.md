@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[CHU de Montpellier]] - concept - veilles/veille-ia-fr-2026-11-18-t5.md
-- [[David Morquin]] - concept - veilles/veille-ia-fr-2026-11-18-t5.md
-- [[French Tech Bordeaux]] - concept - veilles/veille-ia-fr-2026-11-18-t5.md
-- [[Veille France 2026-11-18 (T5)]] - document - veilles/veille-ia-fr-2026-11-18-t5.md
+- [[AI麦可 (AI Maike)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
+- [[Veille Chine 2026-11-16  Applications sectorielles]] - document - veilles/veille-ia-cn-2026-11-16-t3.md
+- [[豆包工作 (Doubao Work)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
+- [[豆包工作台 (Doubao Workbench)]] - concept - veilles/veille-ia-cn-2026-11-16-t3.md
 
 ## Live Query (requires Dataview plugin)
 

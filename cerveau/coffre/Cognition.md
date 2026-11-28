@@ -12,5 +12,6 @@ tags:
 
 ## Connections
 - [[Devin]] - `references` [EXTRACTED]
+- [[SWE-2.1]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-20

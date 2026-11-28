@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-12 : IA en santé et sciences de la vie
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Elvis Presley]] - concept - veilles/veille-ia-us-2026-11-09-t4.md
-- [[Veille États-Unis 2026-11-09 (Applications)]] - document - veilles/veille-ia-us-2026-11-09-t4.md
+- [[Feuilleton Snowflake lance Cortex IA générative]] - document - feuilletons/f-0013.md
 
 ## Live Query (requires Dataview plugin)
 

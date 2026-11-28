@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-25-t6.md"
 type: "document"
-community: "ARTEX"
+community: "Veille Outils & code 2026-11-20"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/ARTEX
+  - community/Veille_Outils__code_2026-11-20
 ---
 
 # Veille États-Unis 2026-11-25 : Autres articles
@@ -24,4 +24,4 @@ tags:
 - [[The downside of AI for investment analysis]] - `cites` [EXTRACTED]
 - [[Will We Learn to Trust AI Agents]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/ARTEX
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-20

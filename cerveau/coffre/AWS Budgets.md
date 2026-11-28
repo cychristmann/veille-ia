@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-13-t3.md"
 type: "concept"
-community: "AWS Budgets"
+community: "Veille Chine 2026-11-24 : Autres articles"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AWS_Budgets
+  - community/Veille_Chine_2026-11-24__Autres_articles
 ---
 
 # AWS Budgets
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[IAM]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AWS_Budgets
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-24__Autres_articles

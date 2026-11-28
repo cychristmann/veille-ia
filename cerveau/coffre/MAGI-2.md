@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-25-t1.md"
 type: "concept"
-community: "Veille Chine 2026-11-15 : Éducation, formation et talents IA"
+community: "Veille Chine 2026-11-25 : Recherche et Développement en IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-15__Éducation_formation_et_talents_IA
+  - community/Veille_Chine_2026-11-25__Recherche_et_Développement_en_IA
 ---
 
 # MAGI-2
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-25  Recherche et Développement en IA]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-15__Éducation_formation_et_talents_IA
+#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-25__Recherche_et_Développement_en_IA

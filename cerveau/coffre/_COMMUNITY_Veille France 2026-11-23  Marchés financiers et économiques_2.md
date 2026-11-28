@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Bifrost]] - concept - veilles/veille-ia-dev-2026-11-19-t1.md
+- [[Louis Perez]] - code - veilles/veille-ia-fr-2026-11-09-t3.md
 
 ## Live Query (requires Dataview plugin)
 

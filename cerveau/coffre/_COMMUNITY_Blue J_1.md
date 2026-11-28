@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Blue J
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Retail VR]] - concept - veilles/veille-ia-fr-2026-11-13-t5.md
-- [[Veille France 2026-11-13  Autres articles]] - document - veilles/veille-ia-fr-2026-11-13-t5.md
+- [[InvestAI]] - concept - dossiers/2026-11-19-3.md
 
 ## Live Query (requires Dataview plugin)
 

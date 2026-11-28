@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-19-t1.md"
 type: "concept"
-community: "Veille France 2026-11-15 : Réflexion et éthique"
+community: "Tencent"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-15__Réflexion_et_éthique
+  - community/Tencent
 ---
 
 # Memorial Sloan Kettering
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Noetik]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-15__Réflexion_et_éthique
+#graphify/concept #graphify/EXTRACTED #community/Tencent

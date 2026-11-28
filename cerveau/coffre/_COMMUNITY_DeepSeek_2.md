@@ -8,14 +8,14 @@ members: 8
 **Members:** 8 nodes
 
 ## Members
-- [[AI Ethics in Education]] - concept - veilles/veille-ia-us-2026-11-15-t1.md
-- [[Choi Kyo-jin]] - concept - dossiers/2026-11-22-2.md
-- [[Feuilleton Scandale de triche à l'IA en Corée du Sud]] - document - feuilletons/f-0040.md
-- [[Han Won-seok]] - concept - dossiers/2026-11-22-2.md
-- [[Lee Jae-myung]] - concept - dossiers/2026-11-22-2.md
-- [[Ministry of Education]] - concept - dossiers/2026-11-22-2.md
-- [[Suneung Exam]] - concept - dossiers/2026-11-22-2.md
-- [[Veille États-Unis 2026-11-15  Scandale de triche à l'IA]] - document - veilles/veille-ia-us-2026-11-15-t1.md
+- [[Adoption IA en entreprise]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
+- [[Afep-Medef]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
+- [[Chine  78 normes internationales IA]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
+- [[Google-Agent]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
+- [[IA et relation humaine]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
+- [[Impact IA sur l'information locale]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
+- [[Protection des données personnelles avec IA]] - concept - veilles/veille-ia-fr-2026-11-25-t4.md
+- [[Veille France 2026-11-25  Société, éthique et éducation]] - document - veilles/veille-ia-fr-2026-11-25-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -23,9 +23,3 @@ members: 8
 TABLE source_file, type FROM #community/DeepSeek
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Claude Code_1]]
-
-## Top bridge nodes
-- [[Han Won-seok]] - degree 3, connects to 1 community

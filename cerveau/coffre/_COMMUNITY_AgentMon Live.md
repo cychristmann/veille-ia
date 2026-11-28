@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[AI Impact on E-commerce]] - concept - veilles/veille-ia-fr-2026-11-25-t1.md
-- [[Black Friday AI Usage]] - concept - veilles/veille-ia-fr-2026-11-25-t1.md
-- [[GTA VI AI Porting Challenges]] - concept - veilles/veille-ia-fr-2026-11-25-t1.md
-- [[Google AI TV Patent]] - concept - veilles/veille-ia-fr-2026-11-25-t1.md
-- [[Meta Instagram Muse]] - concept - veilles/veille-ia-fr-2026-11-25-t1.md
-- [[Veille France 2026-11-25  Médias, divertissement et communication]] - document - veilles/veille-ia-fr-2026-11-25-t1.md
+- [[Dossier  Jouets dotés de chatbots IA]] - document - dossiers/2026-11-24-3.md
+- [[GPT-4o]] - concept - dossiers/2026-11-24-3.md
+- [[Gabbo (AI Toy)]] - concept - dossiers/2026-11-24-3.md
+- [[Kumma (AI Toy)]] - concept - dossiers/2026-11-24-3.md
+- [[L'IA dans la petite enfance]] - document - dossiers/2026-11-24-3.md
+- [[Université de Cambridge]] - concept - dossiers/2026-11-24-3.md
 
 ## Live Query (requires Dataview plugin)
 

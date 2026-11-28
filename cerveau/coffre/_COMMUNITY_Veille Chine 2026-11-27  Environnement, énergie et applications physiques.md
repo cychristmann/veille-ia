@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille Chine 2026-11-27  Environnement, énergie et applications physiques]] - document - veilles/veille-ia-cn-2026-11-27-t7.md
+- [[Hermes Agent]] - concept - veilles/veille-ia-dev-2026-11-23-t2.md
 
 ## Live Query (requires Dataview plugin)
 

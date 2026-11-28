@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0002.md"
 type: "concept"
-community: "Jensen Huang"
+community: "Veille France 2026-11-27"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Jensen_Huang
+  - community/Veille_France_2026-11-27
 ---
 
 # Suno AI
@@ -15,4 +15,4 @@ tags:
 - [[Eminem Music Rights Owners]] - `references` [EXTRACTED]
 - [[Feuilleton  Suno AI poursuivi de nouveau pour violation de droits d’auteur]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Jensen_Huang
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-27

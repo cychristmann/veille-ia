@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille Chine 2026-11-22  Normes et architectures IA]] - document - veilles/veille-ia-cn-2026-11-22-t1.md
+- [[Veille Outils & code 2026-11-21  Plateformes et intégrations IA]] - document - veilles/veille-ia-dev-2026-11-21-t3.md
 
 ## Live Query (requires Dataview plugin)
 

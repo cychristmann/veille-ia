@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Veille États-Unis 2026-11-10 : Autres articles
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[AI Governance and Security]] - concept - veilles/veille-ia-us-2026-11-20-t3.md
-- [[Trahan AI Safety Framework]] - concept - veilles/veille-ia-us-2026-11-20-t3.md
-- [[Veille États-Unis 2026-11-20  Gouvernance, sécurité et régulation]] - document - veilles/veille-ia-us-2026-11-20-t3.md
+- [[LangGraph]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[OpenSearch]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[Redis]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[Uber Legal Redlining Agent]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
 
 ## Live Query (requires Dataview plugin)
 

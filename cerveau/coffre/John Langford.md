@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-14-t5.md"
 type: "concept"
-community: "AI Impact on Finance and Markets"
+community: "Veille États-Unis 2026-11-10 : Autres articles"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AI_Impact_on_Finance_and_Markets
+  - community/Veille_États-Unis_2026-11-10__Autres_articles
 ---
 
 # John Langford
@@ -14,4 +14,4 @@ tags:
 - [[AI Impact on Finance and Markets]] - `conceptually_related_to` [INFERRED]
 - [[Microsoft]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AI_Impact_on_Finance_and_Markets
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-10__Autres_articles

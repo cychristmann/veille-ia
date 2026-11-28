@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-12-t1.md"
 type: "document"
-community: "Tencent"
+community: "Veille Outils & code 2026-11-12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Tencent
+  - community/Veille_Outils__code_2026-11-12
 ---
 
 # Veille Outils & code 2026-11-12
@@ -25,4 +25,4 @@ tags:
 - [[Viirtue MCP]] - `references` [EXTRACTED]
 - [[Zendesk Outcome AI Platform]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Tencent
+#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12

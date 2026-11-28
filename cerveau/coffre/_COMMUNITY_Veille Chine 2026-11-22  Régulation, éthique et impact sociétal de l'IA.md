@@ -8,10 +8,10 @@ members: 4
 **Members:** 4 nodes
 
 ## Members
-- [[Incident de triche à l'examen coréen via IA]] - concept - veilles/veille-ia-cn-2026-11-22-t5.md
-- [[Initiatives d'éducation et de recherche en IA]] - concept - veilles/veille-ia-cn-2026-11-22-t5.md
-- [[Risques de bulle et volatilité du marché de l'IA]] - concept - veilles/veille-ia-cn-2026-11-22-t5.md
-- [[Veille Chine 2026-11-22  Régulation, éthique et impact sociétal de l'IA]] - document - veilles/veille-ia-cn-2026-11-22-t5.md
+- [[IBM Z Atlas]] - concept - veilles/veille-ia-fr-2026-11-19-t2.md
+- [[Sanofi]] - concept - veilles/veille-ia-fr-2026-11-19-t2.md
+- [[Soitec]] - concept - veilles/veille-ia-fr-2026-11-19-t2.md
+- [[Veille France 2026-11-19  Applications sectorielles de l'IA]] - document - veilles/veille-ia-fr-2026-11-19-t2.md
 
 ## Live Query (requires Dataview plugin)
 

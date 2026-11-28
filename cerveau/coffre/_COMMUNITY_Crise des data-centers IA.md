@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[Arkestro AI]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
-- [[Phillips 66]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
+- [[Crise des data-centers IA]] - concept - feuilletons/f-0024.md
+- [[Feuilleton Effondrement du boom IA et crise des data-centers]] - document - feuilletons/f-0024.md
 
 ## Live Query (requires Dataview plugin)
 

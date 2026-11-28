@@ -15,6 +15,7 @@ tags:
 - [[ChatGPT Ads]] - `references` [EXTRACTED]
 - [[GPT-6 Astra]] - `references` [EXTRACTED]
 - [[IDrive AI Agents Backup]] - `shares_data_with` [INFERRED]
+- [[OpenAI]] - `references` [INFERRED]
 - [[Shirudo]] - `references` [EXTRACTED]
 - [[TestSprite 4.0]] - `conceptually_related_to` [EXTRACTED]
 - [[Veille Outils & code 2026-11-13 (T5)]] - `references` [EXTRACTED]

@@ -1,24 +1,21 @@
 ---
 type: community
-members: 11
+members: 8
 ---
 
 # DeepSeek
 
-**Members:** 11 nodes
+**Members:** 8 nodes
 
 ## Members
-- [[Artificial Analysis]] - concept - dossiers/2026-11-16-2.md
-- [[CHIPS Act]] - concept - veilles/veille-ia-us-2026-11-14-t2.md
-- [[DeepSeek]] - concept - dossiers/2026-11-16-2.md
-- [[Département de la Sécurité intérieure (USA)]] - concept - dossiers/2026-11-21-2.md
-- [[R1 Model]] - concept - dossiers/2026-11-16-2.md
-- [[SentinelOne Purple AI]] - code - veilles/veille-ia-cn-2026-11-27-t3.md
-- [[Veille Chine 2026-11-21  Infrastructure et matériel IA]] - document - veilles/veille-ia-cn-2026-11-21-t1.md
-- [[Veille Chine 2026-11-27  Sécurité, cybersécurité et infrastructure IA]] - document - veilles/veille-ia-cn-2026-11-27-t3.md
-- [[Veille États-Unis 2026-11-14  Économie, Marchés et Investissements]] - document - veilles/veille-ia-us-2026-11-14-t2.md
-- [[Veille États-Unis 2026-11-21  Régulation & Géopolitique]] - document - veilles/veille-ia-us-2026-11-21-t2.md
-- [[尤金·卡巴斯基]] - code - veilles/veille-ia-cn-2026-11-27-t3.md
+- [[Alphabet]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
+- [[Arista Networks]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
+- [[Brian Armstrong]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
+- [[Broadcom]] - concept - veilles/veille-ia-us-2026-11-11-t6.md
+- [[David Tepper]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
+- [[Micron]] - concept - veilles/veille-ia-us-2026-11-22-t3.md
+- [[Veille États-Unis 2026-11-11  Autres articles]] - document - veilles/veille-ia-us-2026-11-11-t6.md
+- [[Veille États-Unis 2026-11-22  Marché, investissements et actions IA]] - document - veilles/veille-ia-us-2026-11-22-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -28,18 +25,17 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-15]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-15]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-26]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-10]]
-- 1 edge to [[_COMMUNITY_Cursor]]
-- 1 edge to [[_COMMUNITY_Google]]
+- 2 edges to [[_COMMUNITY_Meta]]
 - 1 edge to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_AMD]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-26_1]]
+- 1 edge to [[_COMMUNITY_CoreWeave]]
+- 1 edge to [[_COMMUNITY_Elon Musk_1]]
+- 1 edge to [[_COMMUNITY_Jensen Huang]]
 
 ## Top bridge nodes
-- [[DeepSeek]] - degree 11, connects to 5 communities
-- [[Veille États-Unis 2026-11-14  Économie, Marchés et Investissements]] - degree 5, connects to 3 communities
-- [[Veille Chine 2026-11-21  Infrastructure et matériel IA]] - degree 3, connects to 2 communities
-- [[Veille États-Unis 2026-11-21  Régulation & Géopolitique]] - degree 2, connects to 1 community
+- [[Veille États-Unis 2026-11-22  Marché, investissements et actions IA]] - degree 6, connects to 3 communities
+- [[David Tepper]] - degree 6, connects to 2 communities
+- [[Broadcom]] - degree 4, connects to 2 communities
+- [[Micron]] - degree 3, connects to 2 communities

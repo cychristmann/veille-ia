@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-22-2.md"
 type: "concept"
-community: "DeepSeek"
+community: "Ministry of Education"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/DeepSeek
+  - community/Ministry_of_Education
 ---
 
 # Ministry of Education
@@ -16,4 +16,4 @@ tags:
 - [[Lee Jae-myung]] - `references` [EXTRACTED]
 - [[Suneung Exam]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/DeepSeek
+#graphify/concept #graphify/EXTRACTED #community/Ministry_of_Education

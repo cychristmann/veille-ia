@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-26-3.md"
 type: "concept"
-community: "SpaceX"
+community: "Veille Outils & code 2026-11-21"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/SpaceX
+  - community/Veille_Outils__code_2026-11-21
 ---
 
 # Rubin
@@ -15,4 +15,4 @@ tags:
 - [[Project Starmind]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-17 (T3)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/SpaceX
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-21

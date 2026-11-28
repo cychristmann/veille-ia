@@ -1,16 +1,17 @@
 ---
 type: community
-members: 3
+members: 4
 ---
 
 # Veille Chine 2026-11-13 : Industrie et fabrication
 
-**Members:** 3 nodes
+**Members:** 4 nodes
 
 ## Members
-- [[AI+Manufacturing]] - concept - veilles/veille-ia-cn-2026-11-13-t2.md
-- [[IA et création de contenus courts]] - concept - veilles/veille-ia-cn-2026-11-13-t2.md
-- [[Veille Chine 2026-11-13  Industrie et fabrication]] - document - veilles/veille-ia-cn-2026-11-13-t2.md
+- [[GTM.AI API]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[Piper]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[Qualified]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
+- [[ZoomInfo]] - concept - veilles/veille-ia-dev-2026-11-21-t3.md
 
 ## Live Query (requires Dataview plugin)
 

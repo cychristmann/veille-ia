@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-15-t3.md"
 type: "document"
-community: "Veille Chine 2026-11-21"
+community: "Veille France 2026-11-22 : Marchés et finance"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-21
+  - community/Veille_France_2026-11-22__Marchés_et_finance
 ---
 
 # Veille Chine 2026-11-15 : Finances, valorisation et marché de l’IA
@@ -18,4 +18,4 @@ tags:
 - [[新浪财经 (Sina Finance)]] - `references` [EXTRACTED]
 - [[高毅资产 (High-Flyer Asset Management)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-21
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-22__Marchés_et_finance

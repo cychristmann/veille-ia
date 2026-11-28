@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-16-t1.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-23 : Sécurité, conformité et fuites liées aux IA"
+community: "Enterprise RAG Systems"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-23__Sécurité_conformité_et_fuites_liées_aux_IA
+  - community/Enterprise_RAG_Systems
 ---
 
 # LongCat-2.5
@@ -15,4 +15,4 @@ tags:
 - [[Meituan]] - `references` [EXTRACTED]
 - [[Terminal Bench]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-23__Sécurité_conformité_et_fuites_liées_aux_IA
+#graphify/concept #graphify/EXTRACTED #community/Enterprise_RAG_Systems

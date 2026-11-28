@@ -20,7 +20,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Nvidia]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
 
 ## Top bridge nodes
 - [[Dossier  Nvidia désigné champion national de l’IA aux États‑Unis]] - degree 3, connects to 1 community

@@ -1,26 +1,19 @@
 ---
 type: community
-members: 13
+members: 6
 ---
 
 # Cursor
 
-**Members:** 13 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Cursor]] - concept - veilles/veille-ia-fr-2026-11-18-t6.md
-- [[Fireworks]] - concept - veilles/veille-ia-dev-2026-11-18-t3.md
-- [[Fireworks AI]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
-- [[Kimi K2.5]] - concept - veilles/veille-ia-us-2026-11-21-t2.md
-- [[Kimi for Science Research Program]] - concept - veilles/veille-ia-cn-2026-11-27-t8.md
-- [[Malicious Claude Code Extension]] - concept - veilles/veille-ia-dev-2026-11-15-t1.md
-- [[Moonshot AI]] - concept - veilles/veille-ia-cn-2026-11-27-t8.md
-- [[NovTek]] - concept - veilles/veille-ia-dev-2026-11-23-t5.md
-- [[Seedeo MCP]] - concept - veilles/veille-ia-dev-2026-11-23-t5.md
-- [[Unolabs]] - concept - veilles/veille-ia-dev-2026-11-23-t5.md
-- [[Veille Chine 2026-11-27  Culture, médias et divertissement]] - document - veilles/veille-ia-cn-2026-11-27-t8.md
-- [[Veille Outils & code 2026-11-15  Sécurité des outils IA]] - document - veilles/veille-ia-dev-2026-11-15-t1.md
-- [[Veille Outils & code 2026-11-23  Intégrations, plateformes et écosystèmes IA]] - document - veilles/veille-ia-dev-2026-11-23-t5.md
+- [[Demis Hassabis]] - concept - dossiers/2026-11-12-3.md
+- [[Dossier Course à l'IA entre États‑Unis et Chine]] - document - dossiers/2026-11-12-3.md
+- [[Eric Schmidt]] - concept - dossiers/2026-11-12-3.md
+- [[Eric Schmidt says gap between China and US in AI is now negligible]] - document - dossiers/2026-11-12-3.md
+- [[Institute for Progress]] - concept - dossiers/2026-11-12-3.md
+- [[Nvidia, Chinese Espionage, and the AI Race Foreign Policy Issues to Watch]] - document - dossiers/2026-11-12-3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -30,19 +23,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Claude Code]]
-- 3 edges to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_Libertify]]
-- 1 edge to [[_COMMUNITY_ChatGPT]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
-- 1 edge to [[_COMMUNITY_Jensen Huang_2]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-20]]
-- 1 edge to [[_COMMUNITY_Elon Musk]]
-- 1 edge to [[_COMMUNITY_DeepSeek_1]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-12  Régulation, éthique et impacts sociétaux]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
 
 ## Top bridge nodes
-- [[Cursor]] - degree 18, connects to 9 communities
-- [[Veille Outils & code 2026-11-23  Intégrations, plateformes et écosystèmes IA]] - degree 5, connects to 1 community
-- [[Fireworks AI]] - degree 3, connects to 1 community
-- [[Veille Outils & code 2026-11-15  Sécurité des outils IA]] - degree 2, connects to 1 community
+- [[Dossier Course à l'IA entre États‑Unis et Chine]] - degree 6, connects to 1 community

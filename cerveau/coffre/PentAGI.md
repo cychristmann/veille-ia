@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-26-1.md"
 type: "concept"
-community: "Bay Security"
+community: "PentAGI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Bay_Security
+  - community/PentAGI
 ---
 
 # PentAGI
 
-#graphify/concept #graphify/EXTRACTED #community/Bay_Security
+#graphify/concept #graphify/EXTRACTED #community/PentAGI

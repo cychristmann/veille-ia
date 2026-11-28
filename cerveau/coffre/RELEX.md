@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-18-t6.md"
 type: "concept"
-community: "Trust3 AI"
+community: "RELEX"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Trust3_AI
+  - community/RELEX
 ---
 
 # RELEX
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Vusion]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Trust3_AI
+#graphify/concept #graphify/EXTRACTED #community/RELEX

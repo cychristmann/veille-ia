@@ -1,16 +1,15 @@
 ---
 type: community
-members: 3
+members: 2
 ---
 
 # Sécurité et risques de l'IA
 
-**Members:** 3 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Microsoft Outlook Outage]] - concept - veilles/veille-ia-cn-2026-11-14-t7.md
-- [[Shield AI X-BAT]] - concept - veilles/veille-ia-cn-2026-11-14-t7.md
-- [[Veille Chine 2026-11-14  Autres articles]] - document - veilles/veille-ia-cn-2026-11-14-t7.md
+- [[Sécurité et risques de l'IA]] - concept - veilles/veille-ia-fr-2026-11-14-t4.md
+- [[Veille France 2026-11-14  Sécurité, risques et fraudes]] - document - veilles/veille-ia-fr-2026-11-14-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -18,9 +17,3 @@ members: 3
 TABLE source_file, type FROM #community/Sécurité_et_risques_de_lIA
 SORT file.name ASC
 ```
-
-## Connections to other communities
-- 1 edge to [[_COMMUNITY_Microsoft]]
-
-## Top bridge nodes
-- [[Microsoft Outlook Outage]] - degree 2, connects to 1 community

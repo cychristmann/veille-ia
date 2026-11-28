@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-21-t2.md"
 type: "concept"
-community: "Verda"
+community: "Trust3 AI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Verda
+  - community/Trust3_AI
 ---
 
 # CAC 40
 
-#graphify/concept #graphify/EXTRACTED #community/Verda
+#graphify/concept #graphify/EXTRACTED #community/Trust3_AI

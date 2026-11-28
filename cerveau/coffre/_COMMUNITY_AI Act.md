@@ -1,11 +1,11 @@
 ---
 type: community
-members: 35
+members: 39
 ---
 
 # AI Act
 
-**Members:** 35 nodes
+**Members:** 39 nodes
 
 ## Members
 - [[AI Act]] - concept - dossiers/2026-11-16-3.md
@@ -19,6 +19,7 @@ members: 35
 - [[Consultation publique]] - concept - dossiers/2026-11-17-1.md
 - [[Cyber-risques]] - concept - dossiers/2026-11-16-3.md
 - [[Dario Amodei]] - concept - dossiers/2026-11-20-3.md
+- [[Dossier  Intensification des cyberattaques alimentées par l'IA]] - document - dossiers/2026-11-26-1.md
 - [[Dossier Risques systémiques de l’IA pour la stabilité financière]] - document - dossiers/2026-11-16-3.md
 - [[Emmanuel Macron]] - concept - dossiers/2026-11-24-3.md
 - [[European Union]] - concept - veilles/veille-ia-us-2026-11-17-t1.md
@@ -28,10 +29,13 @@ members: 35
 - [[IA militaires]] - concept - dossiers/2026-11-25-1.md
 - [[JDN]] - concept - dossiers/2026-11-17-1.md
 - [[Journaldunet]] - concept - dossiers/2026-11-17-1.md
+- [[Le Temps]] - concept - dossiers/2026-11-26-1.md
 - [[Loi Darcos]] - concept - veilles/veille-ia-fr-2026-11-10-t1.md
 - [[National Financial Regulatory Administration (China)]] - concept - dossiers/2026-11-16-3.md
 - [[Nvidia Chips]] - concept - veilles/veille-ia-cn-2026-11-20-t5.md
+- [[Office fédéral de la cybersécurité (OFCS)]] - concept - dossiers/2026-11-26-1.md
 - [[Protection de l'enfance]] - concept - veilles/veille-ia-fr-2026-11-15-t3.md
+- [[RevueTech]] - concept - dossiers/2026-11-26-1.md
 - [[Risque financier lié à l'IA]] - concept - dossiers/2026-11-16-3.md
 - [[Règlement DORA]] - concept - dossiers/2026-11-16-3.md
 - [[Réserve fédérale américaine (Fed)]] - concept - dossiers/2026-11-16-3.md
@@ -52,16 +56,17 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Libertify]]
-- 1 edge to [[_COMMUNITY_Google]]
+- 2 edges to [[_COMMUNITY_Elon Musk]]
+- 1 edge to [[_COMMUNITY_IBM]]
 - 1 edge to [[_COMMUNITY_Mistral AI]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-27]]
-- 1 edge to [[_COMMUNITY_Elon Musk]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-15]]
 - 1 edge to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_Elon Musk_1]]
 
 ## Top bridge nodes
-- [[Dario Amodei]] - degree 5, connects to 3 communities
+- [[Dossier  Intensification des cyberattaques alimentées par l'IA]] - degree 6, connects to 2 communities
+- [[Dario Amodei]] - degree 5, connects to 2 communities
 - [[Emmanuel Macron]] - degree 5, connects to 1 community
 - [[Sam Altman]] - degree 4, connects to 1 community
 - [[Arthur Mensch]] - degree 3, connects to 1 community
-- [[IA militaires]] - degree 3, connects to 1 community

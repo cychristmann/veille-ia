@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[Hackers Compromise 24 Check Point Management Servers]] - document - veilles/veille-ia-us-2026-11-25-t4.md
-- [[Is AI destroying the arts These Tampa Bay professors are mixed]] - document - veilles/veille-ia-us-2026-11-25-t4.md
-- [[Rome forum explores how AI can serve Catholicism]] - document - veilles/veille-ia-us-2026-11-25-t4.md
-- [[Veille États-Unis 2026-11-25  Régulation, éthique et société]] - document - veilles/veille-ia-us-2026-11-25-t4.md
-- [[Vorys’ Legal AI Advancements Featured on 60 Minutes]] - document - veilles/veille-ia-us-2026-11-25-t4.md
-- [[When AI Makes a Mistake, Who Is Held Accountable]] - document - veilles/veille-ia-us-2026-11-25-t4.md
+- [[Convention sur certaines armes classiques]] - concept - dossiers/2026-11-25-1.md
+- [[Feuilleton f-0037]] - document - feuilletons/f-0037.md
+- [[Modèles IA Chinois]] - concept - feuilletons/f-0037.md
+- [[Président Trump]] - concept - dossiers/2026-11-25-1.md
+- [[Russie]] - concept - dossiers/2026-11-25-1.md
+- [[États-Unis]] - concept - feuilletons/f-0037.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,24 +1,22 @@
 ---
 type: community
-members: 11
+members: 9
 ---
 
 # Veille France 2026-11-20 : Régulation, souveraineté et enjeux géopolitiques
 
-**Members:** 11 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[AI Agents]] - concept - veilles/veille-ia-dev-2026-11-22-t5.md
-- [[Agent Substrate]] - concept - veilles/veille-ia-dev-2026-11-22-t5.md
-- [[Formal Verification]] - concept - veilles/veille-ia-dev-2026-11-22-t5.md
-- [[Moore Threads]] - concept - dossiers/2026-11-15-1.md
-- [[TensorLean]] - concept - veilles/veille-ia-dev-2026-11-22-t5.md
-- [[Thunderobot (雷神)]] - concept - veilles/veille-ia-cn-2026-11-24-t4.md
-- [[Veille Chine 2026-11-24  Technologie, modèles et infrastructures]] - document - veilles/veille-ia-cn-2026-11-24-t4.md
-- [[Veille Outils & code 2026-11-22 (t5)]] - document - veilles/veille-ia-dev-2026-11-22-t5.md
-- [[Veille États-Unis 2026-11-12  Applications industrielles et commerciales de l'IA]] - document - veilles/veille-ia-us-2026-11-12-t6.md
-- [[Veille États-Unis 2026-11-12  Régulation, politiques et protestations liées à l'IA]] - document - veilles/veille-ia-us-2026-11-12-t2.md
-- [[gVisor]] - concept - veilles/veille-ia-dev-2026-11-22-t5.md
+- [[Centre de défense IA à Rennes]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Enquête Malaisie sur filiale MegaspeedNvidia]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Mission Capgemini sur les risques cyber de l'IA]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Modèle économique IA d'Apple]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Politiques IA aux États-Unis]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Régulation IA en Australie]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Sommet inédit de l'UE sur l'IA]] - concept - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[Veille France 2026-11-13]] - document - veilles/veille-ia-fr-2026-11-13-t3.md
+- [[xFusion]] - concept - veilles/veille-ia-fr-2026-11-13-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -28,15 +26,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 3 edges to [[_COMMUNITY_Veille Outils & code 2026-11-21_1]]
-- 1 edge to [[_COMMUNITY_Nvidia]]
-- 1 edge to [[_COMMUNITY_SpaceX_1]]
-- 1 edge to [[_COMMUNITY_Dossier  Jouets dotés de chatbots IA]]
-- 1 edge to [[_COMMUNITY_Alibaba]]
+- 1 edge to [[_COMMUNITY_SpaceX]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_Jensen Huang]]
 
 ## Top bridge nodes
-- [[AI Agents]] - degree 8, connects to 2 communities
-- [[Veille Chine 2026-11-24  Technologie, modèles et infrastructures]] - degree 4, connects to 1 community
-- [[Agent Substrate]] - degree 3, connects to 1 community
-- [[gVisor]] - degree 3, connects to 1 community
-- [[TensorLean]] - degree 2, connects to 1 community
+- [[Veille France 2026-11-13]] - degree 11, connects to 3 communities

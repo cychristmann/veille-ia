@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-10-t2.md"
 type: "code"
-community: "Veille France 2026-11-23 : Marchés financiers et économiques"
+community: "Feuilleton: Les États‑Unis désignent Nvidia parmi les champions nationaux de l’IA"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-23__Marchés_financiers_et_économiques
+  - community/Feuilleton_Les_ÉtatsUnis_désignent_Nvidia_parmi_les_champions_nationaux_de_lIA
 ---
 
 # Beijing University of Posts and Telecommunications
 
-#graphify/code #graphify/EXTRACTED #community/Veille_France_2026-11-23__Marchés_financiers_et_économiques
+#graphify/code #graphify/EXTRACTED #community/Feuilleton_Les_ÉtatsUnis_désignent_Nvidia_parmi_les_champions_nationaux_de_lIA

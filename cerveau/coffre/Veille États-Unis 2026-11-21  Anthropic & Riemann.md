@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-21-t1.md"
 type: "document"
-community: "Riemann Hypothesis"
+community: "Veille France 2026-11-12"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Riemann_Hypothesis
+  - community/Veille_France_2026-11-12
 ---
 
 # Veille États-Unis 2026-11-21 : Anthropic & Riemann
@@ -17,4 +17,4 @@ tags:
 - [[Riemann Hypothesis]] - `references` [EXTRACTED]
 - [[Signal]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Riemann_Hypothesis
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-12

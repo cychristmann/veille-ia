@@ -1,0 +1,202 @@
+# Veille IA chinoise du 28/11/2026
+
+50 articles de médias chinois (en mandarin, plus quelques médias anglophones sur la Chine) publiés ces 24 dernières heures (rapport généré à 08:44).
+
+## Synthèse du jour
+
+Les dernières heures montrent que la Chine renforce massivement son écosystème IA, tant au niveau des infrastructures de calcul que des applications industrielles, en particulier dans la robotique et la fabrication intelligente. Le secteur du divertissement est également bouleversé par l’IA, avec une explosion des courts‑métrages générés et de nouveaux outils de création visuelle. Parallèlement, les autorités et les institutions publiques articulent des cadres de régulation et des débats éthiques, tandis que l’éducation et les politiques sociales cherchent à rendre l’IA plus inclusive et à préparer les talents de demain.
+
+*Vérifiée : 2 affirmation(s) non appuyée(s) par les titres ont été retirées ou atténuées :*
+- « plateformes cloud tout‑en‑un » : Aucun titre ne mentionne de plateformes cloud tout‑en‑un pour l’IA.
+- « IA physique pour la conduite autonome » : Aucun titre ne fait référence à l’utilisation de l’IA physique pour la conduite autonome.
+
+## À lire en priorité
+
+- [Musk : Google aurait manifesté son intérêt à louer davantage de puissance de calcul à SpaceX](https://www.ithome.com/1/033/898.htm) — *IT之家*, 28/11 08:31 · **8/10** (Musk évoque location de calculs, décision majeure pour l'IA)
+  *Titre original : 马斯克：谷歌已表示有兴趣从 SpaceX 租用更多算力*
+  > IT之家 11 月 28 日消息，马斯克在 X 上透露，目前尚不确定哪家客户会采购更多算力， 但谷歌已表示有兴趣从 SpaceX 租用更多算力 。 马斯克表示，面向高带宽训练配置的大规模连续算力集群，其租赁价格正在走高，有时甚至大幅上涨。而小规模算力（约 5,000 张 GPU 以内）的租金则在下滑。总体来看， SpaceX 算力的单张 GPU 平均租赁价格正呈上升趋势 。 IT之家注意到，据纽约时报报道，马斯克近日向员工表示，公司在人工智能研发方面正落后于 Anthropic、OpenAI 等竞争对手。因此， 与其将数据中心算力全部用于自研 AI 产品，不如出租给竞争对手，以获得更高的商业回
+- [2026 ESMO | L'IA générative s'introduit en oncologie : du tri des dossiers aux décisions cliniques, quelles compétences les médecins doivent-ils acquérir ?](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1laWhiM3hpN2dzWC1kQVpYZjVTOEl2ZWRxQVVQYVZKc2VtbDdkNXR4V2FxNkpya3dhZDIzeHU0RUlkekFVb3dUUTkxbzg?oc=5) — *肿瘤资讯*, 28/11 07:42 · **8/10** (AI génératif en oncologie, avancée clinique significative)
+  *Titre original : 2026 ESMO｜生成式AI走进肿瘤门诊：从病历整理到临床决策，医生需要掌握什么？*
+- [Le Bureau de la radio et de la télévision publie des cas types d'œuvres micro‑courtes à contenu vulgaire ou de classiques modifiés par l'IA](https://news.google.com/rss/articles/CBMijwFBVV95cUxOc05CQ0tiTUk4WDg2dHdNazlxMTFqWHV6MUx2UjlxT2JkUE11bTZxQkFfMTk3eFBUd0tUeGJyS0hxWWI2dW1DMEFyYVdRSFRET1kxRTJaUVhsbUZ1OHRIZC1NenBpd2tXVEx4T1ZXZkNQWW5CSENqR196S0pXMUJNN3R1Q1JXcU9lNkQ1c0djNA?oc=5) — *21财经*, 28/11 08:24 · **7/10** (Régulation officielle sur contenus AI, impact réglementaire)
+  *Titre original : 涉低俗微短剧、AI魔改名著等，广电总局发布典型案例*
+- [« L'intelligence se détache pour la première fois du corps, passant d'un facteur de travail à un facteur de capital » ! Feng Ji, dans un texte de 8000 mots, interroge : à qui revient la richesse créée par l'IA ?](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqZEJLV2R4dFJ3LVZ1andLOWs2Qmg0Y2dES3hUYV81SDRSWG9TYWxxTkNESk1FV2VaU2JDZXlUeGdaSU9aX212V3NHaVBCOURDX2NF?oc=5) — *华尔街见闻*, 28/11 07:43 · **7/10** (Débat sur la richesse créée par l'IA, réflexion économique majeure)
+  *Titre original : “智力第一次脱离肉身，从劳动要素变成资本要素”！冯骥8000字长文追问：AI创造的财富究竟该归谁？*
+- [La génération d'images ne se limite pas au dessin : MOSS‑Image‑SFT rend l'IA plus précise pour créer du texte et des mises en page complexes ; la collection Scenario 3D recense 1 342 actifs 3D générés par l'IA](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RTU9sZVdqeGdBT1h0WnNRX1g0VUVNUE1UakgwVjVEbFo4MkdVcFJlVlhWamtLOUhzcDUyWkV1Nms1UTgzYTVEVg?oc=5) — *智源社区*, 28/11 07:40 · **7/10** (Nouvelles capacités de génération d'images et 3D, forte pertinence technique)
+  *Titre original : 文生图不只画画，MOSS-Image-SFT 让 AI 更准确地生成文字与复杂排版；Scenario 3D Collection 收录 1342 个 AI 生成 3D 资产*
+
+## Infrastructure et calcul (5)
+
+Les titres montrent un fort accent sur le développement d’infrastructures de calcul pour l’IA : mise à jour de SRE chez Google, barres rapides AI de HarmonyOS, IA Infra, tests de calcul orbital, financement de data‑centres IA, plateformes cloud tout‑en‑un et nouvelles architectures NPU.
+
+- [Dix ans : Google met à jour son ouvrage SRE et adopte l'ère de l'IA](https://www.infoq.cn/article/vD2gdB9ER7QgjD0W5wds?utm_source=rss&utm_medium=article) — *InfoQ.cn*, 28/11 12:00 · **6/10** (Mise à jour SRE de Google liée à l'IA, impact modéré)
+  *Titre original : 十年：谷歌更新 SRE 著作，拥抱 AI 时代*
+  > 点击查看原文>
+- [Jiang Peng, co‑fondateur et PDG de Honghu Future Energy : l'infrastructure IA de l'infrastructure – alimenter l'IA et l'humanité en énergie ultime avec des simulateurs stellaires | 36Kr, conférence WISE 2026 Business King](https://news.google.com/rss/articles/CBMiUEFVX3lxTE50RlFHQzU3ck9YSTdtSXByNi1OZjMtem90S2lqSjFRYkJYbU84d2JfX2xTeUZPcEVBV2hsUzdjRW9jZXduTU5TcXlYZ0ppZUtB?oc=5) — *36Kr*, 28/11 07:36 · **6/10** (Vision énergétique pour l'IA, perspective d'infrastructure)
+  *Titre original : 鸿鹄未来能源联合创始人&CEO江澎：AI Infra的Infra——以仿星器，为 AI 与人类供给终局能源| 36氪 2026WISE商业之王大会*
+- [Google et Blue Origin avancent dans le programme de test d'IA en orbite](https://news.google.com/rss/articles/CBMiYEFVX3lxTE04Q1B3YkhrVng5SjRPLWp2SjBfVE1RcnZIcG5HalpCbEtZYnRHa3hyTHNiWVZzUlVYMVdDV3l3dnBGUGpEOFN4S3VfbW1LM2NBTjJ6Y25DdG9wdUNyc1JhVA?oc=5) — *ThePaper.cn*, 28/11 06:51 · **6/10** (Collaboration Google‑Blue Origin pour tests AI orbital)
+  *Titre original : Google与蓝色起源推进轨道AI算力测试计划*
+- [Le raccourci IA du système HarmonyOS 7 de Huawei se déploie progressivement, compatible avec les smartphones 8 Go, les écrans pliables et les tablettes](https://www.ithome.com/1/033/890.htm) — *IT之家*, 28/11 08:26 · **5/10** (Déploiement du raccourci AI sur HarmonyOS, pertinence technique)
+  *Titre original : 华为 HarmonyOS 7 系统 AI 快捷栏逐步放量，8GB 内存手机、折叠屏、平板均在支持范围内*
+  > IT之家 11 月 28 日消息，华为 Mate 90 系列手机已于 11 月 18 日率先开启鸿蒙 HarmonyOS 7.0.0.115 SP11 版本升级，系统包大小约 10.31GB，带来了 AI 快捷栏等功能。 据实测， Mate 90 系列手机的 AI 快捷栏拥有全新交互体验 —— 它会维持 5 个应用图标的宽度，不会缩小。另外，长按 AI 圆环可进入 AI 屏，获取更多服务，例如行业趋势解读、AI 分析、智能记忆助手等。 IT之家注意到，目前华为官方已公开 AI 快捷栏功能详情信息。据介绍， 该功能是 HarmonyOS 7.0 及以上版本在桌面底部区域新增的系统级 AI 入口 
+- [Le « coup de porte » des taux d'intérêt pour le financement des data‑centres IA : pourquoi les contrats à terme du Nasdaq montent alors que le spread de crédit des obligations de calcul reste le vrai signal](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBReExTSkZHMGxWNWxEMWZjaHA4bUxiekdvajhSd1RKVmh1RkNqdXduTzNBdDVuejU1X3lrVFdqSXNXckJhcVFWU1Y1OXNLczRqZTlWUGxZWmxFUkU3QkE3Yw?oc=5) — *同花顺财经*, 28/11 05:50 · **5/10** (Analyse du financement des data‑centres AI, signal de marché)
+  *Titre original : AI数据中心融资的“利率闸门”：为什么纳指期货涨了，算力项目债的信用利差才是真正的信号*
+
+## IA industrielle et robotique (4)
+
+De nombreux articles décrivent l’application de l’IA dans la production, la construction et les transports : IA dans les courts‑métrages, robotique sur les chantiers, IA pour la fabrication intelligente, IA dans les véhicules électriques, et IA physique pour la conduite autonome.
+
+- [Li Bin utilise plus de 7 500 agents intelligents pour optimiser les coûts chez Nio](https://news.google.com/rss/articles/CBMicEFVX3lxTE5OQUkxMzRNR3FOSEhVY2RJN1dGeWhpTVRiNW5zd3ZPMUFTa05GcG80cW92WVRQUlAta2FfTk5uUm8tNV9aZnB3Ymx6dF9XNlVtbERTLVVVQTRzRXVrR2ZEYXhyX09GLUNNb2Ffc3prRlI?oc=5) — *手机新浪网*, 28/11 07:10 · **7/10** (Utilisation massive d'agents AI par Nio, démonstration d'échelle)
+  *Titre original : 李斌用7500多个智能体给蔚来“精打细算”*
+- [Le producteur de « Black Myth : Sun Wukong » publie un long article : l'IA accentue la fragmentation de l'industrie du contenu, la survie des acteurs de taille moyenne devient plus difficile](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0laSUlHckVMdGxNYTJPdzZBUlBIa0o1TXg5dzd2UmF0azg0YktGSWpFM0NvV1cwYS1mcmhXTTdmMVZGUnBJcXlaOGtOUjZIVHBlY0NGc3J5cm05aWduNDRtS0lsNFZ5N3hCemE1Y3g3NFVlaXZTWTE0emlrTG03NzdDZzFDS2pI?oc=5) — *Sohu*, 28/11 08:10 · **6/10** (AI accentue la polarisation du contenu, réflexion sectorielle)
+  *Titre original : 《黑神话：悟空》制作人长文刷屏：AI加剧内容产业分化，腰部生存更难了*
+- [Un entrepreneur du Zhejiang explique l'implémentation de l'IA : déjà 40 à 50 robots sur les chantiers](https://news.google.com/rss/articles/CBMie0FVX3lxTFBxY2VrdTVZeDhYV1luamtmcFJjajIycTBraFpVakFwQnozRlNpX2FBNkFYemJ2WEFxTGxVX3dSbW9Kd2lPZHlYVm9hRnFmMElZWlJQSElsV2NhdXdpcktQNi1Hbm1FRy1hZTZ6eEJ5LTEyZTVkQ205QjRTVQ?oc=5) — *中国新闻网*, 28/11 05:16 · **5/10** (Utilisation de dizaines de robots AI sur chantiers, adoption industrielle)
+  *Titre original : 浙江企业家谈AI落地：现在工地上已用四五十款机器人*
+- [Clôture du 8ᵉ concours d'entrepreneuriat « Yuyao·Hemudu » : des projets technologiques s'affrontent avec l'IA au service de la fabrication](https://news.google.com/rss/articles/CBMiakFVX3lxTFBkRmFXTGVkaHNaWlpyOTdFVDdpRThkbF9qZkYxaEZ1UThXMjBMVUpTTDFrTDV4Z0xMdVhiVGROOUd0UURxS1BlNzhoTDdjWkU4SEhLN1Z2Ymh0QVV6X211ZGd3Z3poa094OXc?oc=5) — *地方频道*, 28/11 07:23 · **4/10** (Concours IA pour fabrication, portée restreinte)
+  *Titre original : 第八届“余姚·河姆渡”创业创新大赛收官 科创项目角逐AI赋能制造*
+
+## Médias, divertissement et création de contenu (8)
+
+L’IA transforme la création de contenus culturels : courts‑métrages IA, adaptations littéraires, scénarios générés, IA dans les jeux, IA pour la génération d’images et de PPT, ainsi que la polémique autour des visages synthétiques dans les séries courtes.
+
+- [Le Bureau de la radio et de la télévision publie des cas types d'œuvres micro‑courtes à contenu vulgaire ou de classiques modifiés par l'IA](https://news.google.com/rss/articles/CBMijwFBVV95cUxOc05CQ0tiTUk4WDg2dHdNazlxMTFqWHV6MUx2UjlxT2JkUE11bTZxQkFfMTk3eFBUd0tUeGJyS0hxWWI2dW1DMEFyYVdRSFRET1kxRTJaUVhsbUZ1OHRIZC1NenBpd2tXVEx4T1ZXZkNQWW5CSENqR196S0pXMUJNN3R1Q1JXcU9lNkQ1c0djNA?oc=5) — *21财经*, 28/11 08:24 · **7/10** (Régulation officielle sur contenus AI, impact réglementaire)
+  *Titre original : 涉低俗微短剧、AI魔改名著等，广电总局发布典型案例*
+- [Explosion des courts‑métrages IA : les experts insistent sur le maintien de la spécialisation professionnelle](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vWlJaWEdELXBpZ3VOcVdFeFBRMkFPNkw1QzRuQ3ZvRlBSbXIwU1BMYkZVM0VSaGhCbHZ0UVc2bmJVa3M1cGluTVZXaFJqaFRtRTU0WWNVbHU1S1BrcF9DdEJYNEhQVEk?oc=5) — *中新经纬*, 28/11 05:49 · **6/10** (Explosion des AI short‑dramas, avis d'expert)
+  *Titre original : AI短剧井喷式增长 业界专家：专业分工仍不可或缺*
+- [Un modèle d'IA russe poursuit l'écriture du deuxième volume de « Âmes mortes » de Gogol, réactions mitigées des lecteurs](https://www.ithome.com/1/033/875.htm) — *IT之家*, 28/11 08:17 · **5/10** (Modèle russe réécrit un classique, intérêt limité)
+  *Titre original : 俄罗斯 AI 模型续写果戈理《死魂灵》第二卷，读者反应不一*
+  > IT之家 11 月 28 日消息，1852 年，俄国作家尼古拉 · 果戈理因精神崩溃，将未完成的小说《死魂灵》部分手稿投入火中，几天之后，果戈理与世长辞。《死魂灵》至今仍被视为俄罗斯文学杰作，但果戈理始终没能完成全书。原计划中的三卷， 最终只有一卷完整留存 。 据路透社 27 日报道，由俄罗斯金融与科技集团 Sber 开发的 AI 模型 GigaChat，为被果戈理烧毁的第二卷 生成了一个续写版本 。这项大胆实验试图回答一个问题：人工智能能否真正捕捉伟大作家的创作风格与文学神韵？ 新书《死魂灵：复活》引起了部分读者的兴趣，却没有得到评论界的认可。这项实验汇集了语言学家、工程师和历史学家。项目负
+- [Escroquerie ! Capasi crée une version américaine de « Civilisation » avec Claude, les internautes transforment le jeu en relais mondial](https://www.qbitai.com/2026/11/513428.html) — *量子位*, 28/11 06:54 · **5/10** (Claude utilisé pour créer un jeu, intérêt communautaire)
+  *Titre original : 亏贼！卡帕西用Claude搓出“美国版《文明》”，网友直接玩成全球接力赛*
+  > 这种大模型现做的即时交互工具，能不能来一波知识付费？
+- [« Toujours les mêmes visages » : pourquoi les personnages des courts-métrages IA se ressemblent-ils ? Créer un visage coûte cher en temps et en calcul, le coût d'une production haut de gamme est deux à trois fois celui d'une production « fabrique » #UneInfoFinancière](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMEdtTnN0LUFuc3JNOHBFVll2TC05VUJsZjYzV0ljRmRLTC1PbHdVY213WUxFUGhERGx1NkIzN0duUDBlbHBvUlBtbE44SjMyZVRHYVh4eXZnSHZWR1pyTE9INVkyQVVjcUJVZkFjRktCSnZHWURrSzZ1Zl9UM09Zem1KSzEzVzZI?oc=5) — *Sohu*, 28/11 08:28 · **4/10** (Analyse des visages dans les AI short‑dramas, anecdote culturelle)
+  *Titre original : “刷来刷去，都是这几张脸” AI短剧角色为何都长一个样？做一张脸耗时久、算力成本高，精品剧成本是“工厂型”的两三倍#一财情报局*
+- [Anxiété liée à l'IA, guérir l'« artiste manuel » ?](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nNDhoRDhUVXBIRTJRSlZ6b0FNb3cyNnZLWmV1TVdZY3FkeTdNdWZQRXdFVl9QcjN2Sk5pM2ZqSGZGQjJsZFgxMUZYSUpJTnY4ZU9oUHdNTkNHU3ZpbldIaw?oc=5) — *ThePaper.cn*, 28/11 06:51 · **4/10** (Article sur l'anxiété AI, perspective sociétale)
+  *Titre original : AI焦虑，治愈“手搓艺术家”？*
+- [Plus de mille épisodes et toujours pas terminés : les courts‑métrages IA s'allongent au fil des saisons](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aSExweTJPZVdaWUtBakE4SWtodW04Vm9SNFFOemJtUkNPZnFSc0ZFMlhjU055Ym9Id1ZtY05IOXE2VDMyd3N6bXY4eHhKZ0NkV0NZMDluUTJ5WUNuNVFfMWR2Z3p3dw?oc=5) — *东方财富*, 28/11 06:01 · **4/10** (Prolifération des AI short‑dramas, phénomène de niche)
+  *Titre original : 一千多集还未完结 AI短剧越追越长*
+- [Plusieurs entreprises lancent de nouveaux modèles de lunettes IA – Les fonds institutionnels augmentent leurs positions dans 16 actions thématiques](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZeHpoRmtkSTNyNHdQejRFSWNIQWowTWpPamZvUjMzY25STThYclBDc3pNQUxrZ1Vld2VrZ3dHNGxkYzNfRWJ2SkoyRkFLSzNDS1J6MmpDU1U4VE5Wdmc?oc=5) — *同花顺*, 28/11 05:42 · **4/10** (Lancement d'AI glasses, mouvement de niche)
+  *Titre original : 多家企业发布AI眼镜新品 机构资金加仓16只概念股*
+
+## Régulation, politique et gouvernance (6)
+
+Les titres évoquent les réponses institutionnelles à l’IA : déclarations de responsables politiques, directives de la Commission des médias, protestations contre l’auto‑évolution de l’IA, exigences de contrôle des données, et débats sur les obligations juridiques liées à la fusion de visages.
+
+- [« L'intelligence se détache pour la première fois du corps, passant d'un facteur de travail à un facteur de capital » ! Feng Ji, dans un texte de 8000 mots, interroge : à qui revient la richesse créée par l'IA ?](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqZEJLV2R4dFJ3LVZ1andLOWs2Qmg0Y2dES3hUYV81SDRSWG9TYWxxTkNESk1FV2VaU2JDZXlUeGdaSU9aX212V3NHaVBCOURDX2NF?oc=5) — *华尔街见闻*, 28/11 07:43 · **7/10** (Débat sur la richesse créée par l'IA, réflexion économique majeure)
+  *Titre original : “智力第一次脱离肉身，从劳动要素变成资本要素”！冯骥8000字长文追问：AI创造的财富究竟该归谁？*
+- [Exiger de freiner le développement de l'IA : des manifestants jeûnent depuis quatre jours au siège d'Anthropic pour protester contre l'« auto‑évolution de l'IA »](https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1Vmc1RPQW9JeVplckhtcGNGZjF3V20wSTlvMUpKRjE1NzA1ekxnMjNVdVNfZ1FaNnp0dXQ5WC0tQi03Q29faWhFdjVQQzcxRVhnemFBZHowUE90S3ZJYlJVcmQ4b1Q3VEktZHpPTmFkWHptU3dDbGt1TEdhbWkzZFJYT2dQaEJlcUViQTlreVRnRnpsa2twcjBxRGxuRnM?oc=5) — *新浪财经_金融信息服务商*, 28/11 06:51 · **7/10** (Manifestation contre Anthropic, débat éthique majeur)
+  *Titre original : 要求遏制 AI 发展脚步：抗议者在 Anthropic 总部绝食已至第 4 天，抗议“AI 自我进化”*
+- [Jensen Huang revient, 3,5 billion $ d'investissements IA restent exposés à quatre grands risques ; OpenAI poursuit Apple pour vol de secrets commerciaux, pressant les fournisseurs ; le « vétéran en crise » de 55 ans nommé président de la BCE – Semaine économique internationale](https://news.google.com/rss/articles/CBMiZkFVX3lxTE91b3NMdXc2R3JNY3RGdVJhRmxTWFh4Sk9MTFdJcmRQTDZubmhaVlU4aUtQU3FWMzUzZml0US1ROTNSVjUtU242NFRhTDd5NTcyZFV2ZW9PaDRnVnBMdndzaW02T3dyZw?oc=5) — *每日经济新闻*, 28/11 05:33 · **7/10** (Analyse des risques majeurs autour de l'investissement AI de Nvidia)
+  *Titre original : 黄仁勋回归，3.5万亿美元AI投资仍面临四大风险；OpenAI反诉苹果​窃取商业机密，施压供应商；55岁“危机老将”将出任欧洲央行行长| 一周国际财经*
+- [Anthropic démystifie le faux oubli de l'IA ! 460 000 neurones s'activent en quelques dizaines, les connaissances du hacker revivent](https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5TmxZcmQ5cm5RVm9xdUhQZzlvaWlZbjNFYlJKUXZtVm45SHB1VkFkNmhTZThDbl85T0ZBQTh0WEV3VWJwY1pFMA?oc=5) — *智源社区*, 28/11 05:30 · **5/10** (Anthropic expose limites du «forgotten» AI, débat technique)
+  *Titre original : Anthropic拆穿AI假遗忘！46万神经元动几十个，黑客知识就复活*
+- [Jin Guanping : Le développement de l'IA en Chine n'est pas un « festin réservé à quelques-uns »](https://news.google.com/rss/articles/CBMieEFVX3lxTE9XbEVQOENjZWVuUU9PcWNTRG1SMEw2V1BVSGxSdTRleFQ1S3NlQWZSbUgtREdHaUhOVEJRSVpOUldKMzc1RF9fUmIzYXNXUUc5dnhsbnpWZk50cjJuaTVDX0NuMFNfX0cwVE15ZXM0LUdFZVFqRVRhQw?oc=5) — *新浪财经*, 28/11 07:58 · **4/10** (Citation d'un dirigeant, peu d'information concrète)
+  *Titre original : 金观平：中国AI发展决不是“少数人的盛宴”*
+- [À l'ère de l'IA, ne vous enfermez plus dans vos limites : le I Ching avait déjà la réponse](https://news.google.com/rss/articles/CBMifkFVX3lxTE1oWHk0cVdzNGhwbU93U0QzeEktdFMzTWo0NG9ldnd0SDU5WS1OblhJY3dyZ01HQjJnbkVNVU9lR2Q4Q3gwRkZoTy1uOTFvenRhYS1Nbk9ONW12NVJIUkZwMlV1MkRtZjkxeWNWZlJMdnBGUmJCZG92TUZORDVHdw?oc=5) — *中国新闻网*, 28/11 05:29 · **3/10** (Métaphore I‑Ching sur l'AI, contenu philosophique)
+  *Titre original : AI时代别再“画地为牢” 《易经》早已给出答案｜新闻会客厅*
+
+## Impact sociétal, éthique et éducation (11)
+
+Des initiatives éducatives et sociétales autour de l’IA sont présentées : programmes scolaires, cours de lecture augmentés, discussions sur la richesse créée par l’IA, enjeux de l’IA dans la santé, l’IA comme facteur de capital, et la place de l’IA dans les carrières et la formation.
+
+- [2026 ESMO | L'IA générative s'introduit en oncologie : du tri des dossiers aux décisions cliniques, quelles compétences les médecins doivent-ils acquérir ?](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1laWhiM3hpN2dzWC1kQVpYZjVTOEl2ZWRxQVVQYVZKc2VtbDdkNXR4V2FxNkpya3dhZDIzeHU0RUlkekFVb3dUUTkxbzg?oc=5) — *肿瘤资讯*, 28/11 07:42 · **8/10** (AI génératif en oncologie, avancée clinique significative)
+  *Titre original : 2026 ESMO｜生成式AI走进肿瘤门诊：从病历整理到临床决策，医生需要掌握什么？*
+- [La génération d'images ne se limite pas au dessin : MOSS‑Image‑SFT rend l'IA plus précise pour créer du texte et des mises en page complexes ; la collection Scenario 3D recense 1 342 actifs 3D générés par l'IA](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RTU9sZVdqeGdBT1h0WnNRX1g0VUVNUE1UakgwVjVEbFo4MkdVcFJlVlhWamtLOUhzcDUyWkV1Nms1UTgzYTVEVg?oc=5) — *智源社区*, 28/11 07:40 · **7/10** (Nouvelles capacités de génération d'images et 3D, forte pertinence technique)
+  *Titre original : 文生图不只画画，MOSS-Image-SFT 让 AI 更准确地生成文字与复杂排版；Scenario 3D Collection 收录 1342 个 AI 生成 3D 资产*
+- [La Chine s'engage à promouvoir de manière prudente et ordonnée les services liés aux grands modèles à l'international](https://news.google.com/rss/articles/CBMieEFVX3lxTE8xNkQ1d2c5N291QUJmcEppeV9qcWctM1N1OVdlUEctcUloRGM2Y0ZMekhSNGtKZ0dJdS10Sk1jTVhQMW1ESmFzMnpaZ2FsLUlsdThSYkhEdWFWNHdBeHZPQzFMWmFaSG9KY1pPeWJhTG40VDlTM295Zw?oc=5) — *中青在线*, 28/11 07:58 · **6/10** (Stratégie d'export des grands modèles, portée internationale)
+  *Titre original : 我国将稳妥有序推动大模型相关服务出海*
+- [Le président sud‑coréen Lee Jae‑myung promet de créer la plus grande infrastructure IA d'Asie](https://news.google.com/rss/articles/CBMiekFVX3lxTFB3Z3FFbHVHSE9LMGwweXhkOVNPVV94ci1RUHJvTm9Fcm9qRzRhSVNudWE0R1FMVzRXM01mbGlGYXpRdXViMHB4SVN3RXBvcU9iNy1XczROTXgwU2NJTzBTNVZxaXRDR29pdm1TMnQ4bVZmTEIxMjhvX293?oc=5) — *新浪财经*, 28/11 06:59 · **6/10** (Projet coréen d'infrastructure AI, ambition régionale)
+  *Titre original : 韩总统李在明：将打造亚洲最大的AI基础设施*
+- [Expansion du côté consommateur, percée du côté industriel : l'adoption des applications d'IA s'accélère](https://news.google.com/rss/articles/CBMif0FVX3lxTFBnWUpEdlpBNjdCN0FkOVhaMmlGUDljMXh3cHhIZ1lBOFRMZ2lsT1RWV2pBY3NWZHE1WERieWlsZ3huMTJLYUxHdFNhbWljSUpwOGdielZtenBLX3dZeFF3WElqbktQZThtbHZHaThhUVhBVzhFYno0aGdaZlFlSVU?oc=5) — *手机新浪网*, 28/11 04:50 · **6/10** (Accélération de l'AI côté consommateur et industrie, tendance forte)
+  *Titre original : 消费端扩容产业端突围 人工智能应用加速落地*
+- [Tencent, Alibaba, Ant et ByteDance sur le même podium : la « course à la retenue » des assistants IA personnels](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wUWYtS3RsRUZOWFZXRkNyXzNlX3ZWc0hVWHJLSGoydnhnRThqeWQyRzBGQk9MZUprbkVFNllwRGFYNnItZVRFa1hzT253OWpvLTk3akJ4OGxXR0RZODVtbg?oc=5) — *ThePaper.cn*, 28/11 06:51 · **5/10** (Compétition d'assistants AI parmi grands acteurs chinois)
+  *Titre original : 腾讯、阿里、蚂蚁、字节同台：个人AI助手的“克制竞赛”*
+- [Kang Yan, PDG de Zhaopin, parle d'évolution organisationnelle : l'écart concurrentiel ne réside plus dans le modèle lui‑même](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJX3VKRnRNUDNUQUxFRVQ2UmFQNHhUQ29XbVo5VmRGR0FSSjVsX3JIbkpodWtLUkR3QWFJSW8xYVlhaDFVUWdIbnlENWlWblNSeThTU1lvcHF0dlQtZ3BhX1RSSjk?oc=5) — *新京报*, 28/11 06:39 · **5/10** (CEO discute évolution organisationnelle, IA en arrière-plan)
+  *Titre original : 智联招聘CEO康雁谈组织进化：竞争差距不在模型本身*
+- [Les gestionnaires de fonds mondiaux confrontés aux défis de l'investissement IA : sous‑pondération redoutée, sur‑pondération crainte de bulle](https://news.google.com/rss/articles/CBMijwFBVV95cUxQUUM5RUI4YVhuX0pvNFJMNkNJMzJpM1BMZXlfTWExQ3NFd1BIY0ZxYzMxUVF5RmN1ZFF6b01tV1BDcTY0Uk9TU1Y4N3lZeGdkUkxBVm0xbklkRU1XWjY5RzV4NUNoVXFoN3NvNFNFLW1rZFNFSEtSamZPLXZ4Z3VFYUNMVFE1b2pzbnVLUVdWVQ?oc=5) — *21财经*, 28/11 06:06 · **5/10** (Gestionnaires de fonds confrontés aux risques AI)
+  *Titre original : 全球基金经理遭遇AI投资难题：低配恐遭撤换 重仓又怕泡沫*
+- [Énergie : quand l'IA pénètre le commerce, Youzan veut devenir un prestataire de services plus ouvert](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xOU1xSEVaUDdfMEJqd2lQZ1hjTW40MEY4V0xDaEhTOFZXQmd0b2FEUmh3SjlaOWhJaGpxTDd4a0hYeGU0TW56ejJkbXlZVFluZnNoZ2J2dks?oc=5) — *Jiemian.com*, 28/11 05:39 · **5/10** (AI ouvre services plus ouverts pour e‑commerce, tendance commerciale)
+  *Titre original : 电厂 | 当AI进入商家的生意，有赞想做更开放的服务商*
+- [Vidéo | Pu Mu‑ming : la vraie compétition en IA consiste à voir qui, d'ici cinq ans, créera d'abord une « harmonie homme‑machine »](https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2aFZham1uZFJCWWw0XzdnVEdqMTR2dnFiZjg4VzJoek5Ib1hXdnJ5SkV1ZVBtT084bjlrcjFscXBPc0RwaXF3TWFoM3pfQmlxOWpUVVVfVkxhMkdCOVE?oc=5) — *上观新闻*, 28/11 04:51 · **5/10** (Vision d'une fusion homme‑machine en 5 ans, perspective stratégique)
+  *Titre original : 视频|蒲慕明：真正的人工智能竞争，是五年内看谁先做出“和谐的人机融合”*
+- [« Le zoo à la maison » dans les albums illustrés ! Le cours de lecture parent‑enfant de Wen Tu intègre l'IA pour plus de créativité](https://news.google.com/rss/articles/CBMibEFVX3lxTFA0YmlSZTVtYl9wRERnQWl1cWRFd1I2TXE4bnMzOWdvMURYSE5seVVVNUE4Z2cyUlUzNWVnNkw0XzdkTlhFUkE0UkF5d2lGT01rZEhWMW5IUU9PNmhGci1nU0xSVXNHNEV0Wk8zdA?oc=5) — *温州新闻网*, 28/11 07:32 · **3/10** (Intégration AI dans lecture enfantine, anecdote locale)
+  *Titre original : 绘本里的“动物园之家”！温图亲子阅读课融入AI添新意*
+
+## Autres articles (16)
+
+- [Musk : Google aurait manifesté son intérêt à louer davantage de puissance de calcul à SpaceX](https://www.ithome.com/1/033/898.htm) — *IT之家*, 28/11 08:31 · **8/10** (Musk évoque location de calculs, décision majeure pour l'IA)
+  *Titre original : 马斯克：谷歌已表示有兴趣从 SpaceX 租用更多算力*
+  > IT之家 11 月 28 日消息，马斯克在 X 上透露，目前尚不确定哪家客户会采购更多算力， 但谷歌已表示有兴趣从 SpaceX 租用更多算力 。 马斯克表示，面向高带宽训练配置的大规模连续算力集群，其租赁价格正在走高，有时甚至大幅上涨。而小规模算力（约 5,000 张 GPU 以内）的租金则在下滑。总体来看， SpaceX 算力的单张 GPU 平均租赁价格正呈上升趋势 。 IT之家注意到，据纽约时报报道，马斯克近日向员工表示，公司在人工智能研发方面正落后于 Anthropic、OpenAI 等竞争对手。因此， 与其将数据中心算力全部用于自研 AI 产品，不如出租给竞争对手，以获得更高的商业回
+- [Le ministère japonais de la Défense élabore une nouvelle orientation : « Vision de l'IA pour la défense »](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kejJCb0RyMk5hdWU1a0dGeWFFUzREbnd5RzdpN2NyMFY1cUljaEQ4aWwzelBqYU40SFVhRGhmLWladVRLNEdQX28ycWRncnAzVFBkRTM5MA?oc=5) — *共同网*, 28/11 07:15 · **6/10** (Nouvelle feuille de route AI du ministère de la Défense japonais)
+  *Titre original : 日本防卫省制定新指针“防卫AI愿景”*
+- [Liu Yanbo de la Banque Minsheng : la mise en œuvre des scénarios IA nécessite ouverture industrielle, patience capitalistique et coopération financière](https://news.google.com/rss/articles/CBMifEFVX3lxTE5uT1c1NVpBcEtwc0c2SnNkS1k5NkpyRlV3Vkw2dVU4QjdSVnZXSEZNeDVTQ3JQS1FlcHpERW1qa05VV21ZdG5ZVjU5WEp3bkdpUnJkYXZMZjY0eEF6WHZIVm9GUzVOcXBCcEZwYmZnQzNqUndYdHBwRGJ5Tnc?oc=5) — *新浪财经*, 28/11 05:54 · **6/10** (Banque souligne conditions de déploiement AI, perspective industrielle)
+  *Titre original : 民生银行刘衍波：AI场景落地需要产业开放、资本耐心与金融协同*
+- [Li Yan, directeur général de Huaying Capital, confirme sa participation à AICon Beijing pour partager les compétences à développer durablement dans la mise en œuvre de l'IA](https://www.infoq.cn/article/SfAOlgtjHYikEQUKrRVT?utm_source=rss&utm_medium=article) — *InfoQ.cn*, 28/11 11:00 · **5/10** (Annonce de participation à AICon, peu d'impact sectoriel)
+  *Titre original : 华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力*
+  > 点击查看原文>
+- [Évaluation comparative de 66 modèles : l'IA physique recèle de nombreuses zones d'aveuglement cognitif](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nV3RZV2xZRWpSdVJGQVloMk9WbGhPZExkWW1lVVNyRzBKR3JiRE1lYU9wOWQtT00xSG11SGdNWHdNcGF6eUhENg?oc=5) — *智源社区*, 28/11 07:30 · **5/10** (Évaluation des limites de l'AI physique, intérêt spécialisé)
+  *Titre original : 66款模型大横评！物理AI竟有这么多认知盲区？*
+- [Déclaration franche : à l'ère de l'IA, l'éducation doit privilégier la question pour stimuler la réflexion](https://news.google.com/rss/articles/CBMidkFVX3lxTFBlalhlZnVSc3F0WUwwZjVmT2tLWXBERm51VHpkSjR1Y1dWbjhXMjd3V1NySjlrM1UwZGlqNmwtZUVRWkdCTzJWdzhReUNDeWtkUzlsVFVBZDV6TTlPMGdFWU1seTFPWVFSVFpwbEZFeEhNQ3V2YXc?oc=5) — *新浪财经*, 28/11 07:00 · **5/10** (Opinion sur l'éducation AI, peu de donnée concrète)
+  *Titre original : 直言谠论：AI时代，教育当以提问育思考*
+- [Le nouveau segment de consommation IA s'enrichit rapidement ! Les fonds institutionnels augmentent leurs positions dans 16 actions](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rNm5PRFpvVGVrUGQyRDNpcnhYWndoNW9Cb0FEUER6dE13eGdfUmdZSmxmLWg1dmw3Ukwybkh1SkNxa2ItRjBPc0VSRjRaUU1q?oc=5) — *凤凰网财经*, 28/11 06:39 · **5/10** (Nouveaux titres AI en bourse, intérêt financier)
+  *Titre original : AI新消费赛道，密集上新！机构资金加仓16股*
+- [[30 minutes d'info] Enquête journalistique : la fusion de visages par l'IA suscite la polémique – « Mon visage a été absorbé par l'IA », qui est responsable ?](https://news.google.com/rss/articles/CBMidkFVX3lxTFBoT2wzSzd1OFN1THdSUGtsaVVwS2JSMEppN3YwYjlVR09PMjJPckFabkpWdV96ZXc5VkQ0RlJSdUlzcEZBdkxPMHc3ZTBMMEdQbzREWmhiQ2hnNXNZbEQ2aHQyVEY2eThaWWd6UXNadHRuMXVpX3c?oc=5) — *央视网*, 28/11 05:22 · **5/10** (Controverse sur le «face‑swap» AI, enjeux de responsabilité)
+  *Titre original : [新闻30分]记者调查：AI融脸引争议 “我的脸被AI融走了” 谁之责？*
+- [Reportage sur le salon High‑Tech « Hardcore Tech » : Shifang Ronghai intègre l'écosystème IA et les applications terminales dans le cadre domestique](https://news.google.com/rss/articles/CBMickFVX3lxTE9JMTc3dEt2TnZqN1czbm5fZWVHbUt6NG1pSlVPcFEyZGlObFItS0I1RTNSME5kMGFrQTVVZk5JSjctcTVUaGZOWHk2QUktNFF5al9DZHY3NktTYldkV1ZtcmZ1dThEYzlfVE5sb2xPY0I4UQ?oc=5) — *京报网*, 28/11 05:13 · **5/10** (AI écologie présentée en contexte domestique, démonstration produit)
+  *Titre original : 直击高交会“硬核科技”｜十方融海把AI生态及终端应用“搬进”家庭场景*
+- [Les fausses informations générées par l'IA deviennent indiscernables : ces rumeurs typiques peuvent piéger n'importe qui](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EeFJZX0RKdUZLQTRXRzgxZ3hDZVNVS1JGeUxxUTFlZG1NSzZrdy1MX1I0My04cVhCX2tjNURCLVJCWmJNR3hNMWhwc0s2dWFHNWIyZzFmWTdGTzFpMFE?oc=5) — *京报网*, 28/11 05:06 · **5/10** (AI et désinformation, alerte sur fausses nouvelles)
+  *Titre original : AI造谣正在“以假乱真”，这些典型谣言，每个人都可能中招*
+- [Lancement du « Tropical Rainforest » AI de Tianhe, une invitation mondiale](https://news.google.com/rss/articles/CBMiigFBVV95cUxQSW5neWo5Vlo5NklZbm5BcTNhZklGOENJdVdDZjhUalZqdlJoSkdmcDdiekFRS1VnaUUwUDFBREM5eW9TNjFTWW9LdDM2M3cyQTdOWENpV1c1NTlOd0ZNemdqWHRLdGZvbG10VTNDUDNPMFh2QWxxV21EVmFjTUx0QU9VUnpJeTFUYnc?oc=5) — *广州日报新花城*, 28/11 04:24 · **5/10** (Lancement d'un hub AI «tropical rainforest», ambition globale)
+  *Titre original : 天河AI“热带雨林”首发，面向全球发出邀约*
+- [Adopter les tokens, donner des ailes à l'IA ! Le secteur des pompes et vannes du Zhejiang mise sur la transformation numérique](https://news.google.com/rss/articles/CBMibEFVX3lxTE9lSWZlQ2l3akFjQzZzaDBMMHF6MW5xVDhTTC1adm53bks4RTN0VWIzZnRjM1lBRlNwQlowWXZBNDMxdmhsNzNxZFZjNjFuNWtJWW02a1dtWjRwRW5RUEZnNG9XSktvamVnR2ZTcw?oc=5) — *温州新闻网*, 28/11 06:52 · **4/10** (Cas d'usage AI dans l'industrie des pompes, portée sectorielle limitée)
+  *Titre original : 拥抱词元插上AI翅膀！浙江省泵阀行业聚焦数智转型*
+- [Le développement de l'IA en Chine n'est pas un « festin réservé à quelques-uns »](https://news.google.com/rss/articles/CBMifkFVX3lxTFBtd0RrblhHeGJ4eG1xT1ktWi1sSDZmM3o0SzBvX2RfX3RtOGJUTVpBMzl1bEYwckl2ajVCZzU0TE1NS0EzdlpDNjBhMk5hWU5RanJibWZBM3ZYYlR1UlVoNlVhdG8yS0VnajJxbGp2NlRERnNqSU9pQjRmRlJQZw?oc=5) — *手机新浪网*, 28/11 04:35 · **4/10** (Redite du point 9, pertinence limitée)
+  *Titre original : 中国AI发展决不是“少数人的盛宴”*
+- [Vidéo | Un robot IA relève le défi du décodage de l'esprit de la Longue Marche ! Le festival scientifique de l'école primaire Shantang à Suzhou est un succès](https://news.google.com/rss/articles/CBMieEFVX3lxTE1uTFhVWjM2YVpBWU16eFFqTTcxWmxKVTdCbjI5ZURpNm96a2JHbEd6QmpMZHJOQmxZaGlPTXRlN005NDdLa21heGNjektzbFo5bzVCQjVRcXhFWEJkTHBFX2l0N202d1dBUmV4bEZ5V05CVFFwYllnMg?oc=5) — *紫牛新闻*, 28/11 07:51 · **3/10** (Événement local d'un robot AI, peu de portée)
+  *Titre original : 视频｜AI机器人闯关解码长征精神！苏州市山塘中心小学科技节精彩举行*
+- [Formation spécialisée à Linxian (Shanxi) sur les modèles d'agents intelligents et leurs applications dans les médias](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVZydTlMcDA0eXpXNzZaZU9taHpaeWZaU0s3NC1EYmw2VUN4Q051Y0E5cmZjenVEdHRObkl2eXY5RERTV1h5NDFCTHFZYWswLVIwdzFYY2FNZzFwN2JFUVFuZXRPNmtyc1NNQTd4YzFwUkgtR3FLVXc4WDZPQ0FTdnU3X2VfY0tC?oc=5) — *Sohu*, 28/11 07:33 · **3/10** (Formation régionale, intérêt limité)
+  *Titre original : 山西临县举办智能体商业模式与媒体传播应用专题培训*
+- [Programme éducatif « AI Enlightens Youth Reform » – L'activité caritative « L'esprit de réforme se transmet » s'installe à l'école Wuyuanhe de Haikou – China Daily](https://news.google.com/rss/articles/CBMif0FVX3lxTE56aTA1RzdzZ25ZQnktTHA2ZkUxSlJlRTJIMHhqUjV4WEdtYjlOYnF2WEo3QVZIb1dfbzBaNDFKWExROEtGeWtwZ0M1cDFTNEsyd1RFRktMZlpFamo2Z2NTdXpPaGRjNFNPMGR3MTUzX01KSnM0Nkh3YTN3N1dDYlE?oc=5) — *China Daily*, 28/11 06:47 · **3/10** (Activité caritative AI, impact limité)
+  *Titre original : AI启智少年改革行——“改革精神薪火相传”公益活动走进海口市五源河学校- 中国日报网*
+
+## Vidéos à regarder (10)
+
+- [AI 幻覺是什麼？為什麼 ChatGPT、Claude、Gemini 會一本正經胡說八道？3 個原因與 6 個自保方法](https://www.youtube.com/watch?v=DremLqX3Sz4) — *科技兔*, 28/11 06:12
+  > Explication des hallucinations de l’IA et présentation de trois raisons ainsi que six méthodes pour se protéger face aux réponses absurdes de ChatGPT, Claude et Gemini.
+- [深度思考：告别英伟达GPU后，中国大模型还有未来吗？难在哪里？](https://www.youtube.com/watch?v=X7OpnCzgIls) — *白呀白Talk*, 28/11 04:37
+  > Réflexion approfondie sur l’avenir des grands modèles chinois après le possible déclin de NVIDIA, en analysant les difficultés rencontrées.
+- [浙江企业家谈AI落地：现在工地上已用四五十款机器人](https://www.youtube.com/watch?v=iR329g1j9Yc) — *中国新闻社*, 28/11 04:51
+  > Interview d’un entrepreneur du Zhejiang montrant comment plus de quarante‑cinq robots sont déjà déployés sur les chantiers, illustrant la mise en pratique de l’IA en construction.
+- [搭建AI量化研究团队：多智能体分工、回测核查与纸面交易成片](https://www.youtube.com/watch?v=2EW2sLECl-U) — *每晚一本好书*, 28/11 05:36
+  > Guide pour créer une équipe de recherche quantitative en IA, détaillant les rôles (superviseur, données, back‑testing, etc.) et la coopération entre agents intelligents.
+- [公司拿 AI 當理由資遣你，合法嗎？台灣微軟一審被判解僱違法｜法院認了 AI 這個理由，問題出在沒有先幫你找位子](https://www.youtube.com/watch?v=T_cSq82LQl8) — *不會寫程式 plusForm*, 28/11 05:00
+  > Analyse juridique d’un cas où une entreprise a licencié un salarié en invoquant l’IA, avec le verdict du tribunal de Taipei déclarant le licenciement illégal.
+- [🚀超越Codex！Antigravity高级用法深度讲解！6大核心功能一次讲透：Rules、Plan、Grill-me、Boost、Teamwork和Goal，真正掌握AI编程的正确打开方式！效率倍增](https://www.youtube.com/watch?v=mXH0yF5bZtw) — *AI超元域*, 27/11 15:05
+  > Tutoriel avancé sur Antigravity, présentant six fonctionnalités majeures (Rules, Plan, Grill‑me, Boost, Teamwork, Goal) pour améliorer la programmation assistée par IA.
+- [Orca Bots 让 AI 主动干活！能写代码能点外卖！｜多模型协作、GitHub Issue 到 PR 全流程实战，搞定机器人配置、长期记忆、Google 连接与任务自动化](https://www.youtube.com/watch?v=8ISojxon_iE) — *畅的科技工坊*, 27/11 16:46
+  > Démonstration d’Orca Bots, un système d’agents IA capables d’écrire du code, de commander des livraisons et d’automatiser des tâches via GitHub et Google.
+- [AI智能體做遊戲，一天漲1509星！每天60秒，5個最火開源項目速覽｜11月28日](https://www.youtube.com/watch?v=nWKVzmrgrRQ) — *每天5件*, 28/11 04:56
+  > Survol de cinq projets open‑source d’agents IA dans les jeux, dont un qui a gagné 1509 étoiles en une journée, illustrant l’engouement pour les IA ludiques.
+- [AI 讀到的是字嗎？ #Shorts](https://www.youtube.com/watch?v=Hak0xU1Wkfo) — *Coding Cookie*, 28/11 01:12
+  > Explication concise du processus de tokenisation dans les modèles de langage, montrant que l’IA ne lit pas les caractères mais des séquences d’identifiants.
+- [AI 會寫程式，工程師還要解什麼問題？2 分半看懂多AI Agent時代工程師的新價值](https://www.youtube.com/watch?v=leXX1dN9vPo) — *Jerry_AI 工具X實作X新知*, 27/11 14:58
+  > Discussion sur la nouvelle valeur des ingénieurs à l’ère des agents IA multiples, en abordant la traçabilité des actions et la gestion des erreurs.
+
+## Podcasts à écouter (6)
+
+- [2026.11.27 | 稳定递归记忆；跨平台长流程评测](https://podcasts.apple.com/cn/podcast/2026-11-27-%E7%A8%B3%E5%AE%9A%E9%80%92%E5%BD%92%E8%AE%B0%E5%BF%86-%E8%B7%A8%E5%B9%B3%E5%8F%B0%E9%95%BF%E6%B5%81%E7%A8%8B%E8%AF%84%E6%B5%8B/id1759487002?i=1000804468482&uo=4) — *HuggingFace 每日AI论文速递*, 28/11 00:00
+  > Présentation de deux nouveaux papiers de recherche IA : Stable Gated DeltaNet‑2 sur la stabilité des réseaux récurrents et OS‑Omni, un benchmark généraliste pour les systèmes informatiques.
+- [[人人能懂AI前沿] 从等预算阶梯、U型循环架构到跨层注意力反馈](https://podcasts.apple.com/cn/podcast/%E4%BA%BA%E4%BA%BA%E8%83%BD%E6%87%82ai%E5%89%8D%E6%B2%BF-%E4%BB%8E%E7%AD%89%E9%A2%84%E7%AE%97%E9%98%B6%E6%A2%AF-u%E5%9E%8B%E5%BE%AA%E7%8E%AF%E6%9E%B6%E6%9E%84%E5%88%B0%E8%B7%A8%E5%B1%82%E6%B3%A8%E6%84%8F%E5%8A%9B%E5%8F%8D%E9%A6%88/id1755963354?i=1000804463504&uo=4) — *AI可可AI生活*, 27/11 23:21
+  > Analyse de trois articles de recherche IA contre‑intuitifs, dont le "budget d’attente" et les architectures en U‑loop, montrant comment l’IA repense la collaboration multi‑agents.
+- [从云端大模型到口袋 AI：智能硬件与端侧算力的物理世界革命](https://podcasts.apple.com/cn/podcast/%E4%BB%8E%E4%BA%91%E7%AB%AF%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%88%B0%E5%8F%A3%E8%A2%8B-ai-%E6%99%BA%E8%83%BD%E7%A1%AC%E4%BB%B6%E4%B8%8E%E7%AB%AF%E4%BE%A7%E7%AE%97%E5%8A%9B%E7%9A%84%E7%89%A9%E7%90%86%E4%B8%96%E7%95%8C%E9%9D%A9%E5%91%BD/id1896828927?i=1000804475680&uo=4) — *AI拉呱：专注于人工智能与前沿技术*, 27/11 21:28
+  > Examen de l’évolution de l’IA et du edge‑computing, avec focus sur les performances de Wistron en 2025 et les défis de la chaîne d’approvisionnement des infrastructures IA.
+- [每日回顾 · 2026-11-27](https://podcasts.apple.com/cn/podcast/%E6%AF%8F%E6%97%A5%E5%9B%9E%E9%A1%BE-2026-11-27/id6797152072?i=1000804321655&uo=4) — *AI VFX PODCAST：AI领域要闻*, 27/11 07:00
+  > Synthèse quotidienne des avancées IA : Claude Opus 5.6 génère du code vidéo, Google AI crée six articles mathématiques, illustrant le passage des promesses aux réalisations concrètes.
+- [AI 导盲、实时字幕，给残障群体带来便利，为什么很难落地？](https://podcasts.apple.com/cn/podcast/ai-%E5%AF%BC%E7%9B%B2-%E5%AE%9E%E6%97%B6%E5%AD%97%E5%B9%95-%E7%BB%99%E6%AE%8B%E9%9A%9C%E7%BE%A4%E4%BD%93%E5%B8%A6%E6%9D%A5%E4%BE%BF%E5%88%A9-%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E9%9A%BE%E8%90%BD%E5%9C%B0/id1895904514?i=1000804278877&uo=4) — *Ai先声*, 27/11 00:00
+  > Discussion sur les applications d’IA pour le handicap (guidage, sous‑titres en temps réel, contrôle assisté) et les obstacles à leur déploiement effectif.
+- [[人人能懂AI前沿] 从方差匹配、代码视觉推理到架构先验与理论压缩](https://podcasts.apple.com/cn/podcast/%E4%BA%BA%E4%BA%BA%E8%83%BD%E6%87%82ai%E5%89%8D%E6%B2%BF-%E4%BB%8E%E6%96%B9%E5%B7%AE%E5%8C%B9%E9%85%8D-%E4%BB%A3%E7%A0%81%E8%A7%86%E8%A7%89%E6%8E%A8%E7%90%86%E5%88%B0%E6%9E%B6%E6%9E%84%E5%85%88%E9%AA%8C%E4%B8%8E%E7%90%86%E8%AE%BA%E5%8E%8B%E7%BC%A9/id1755963354?i=1000804280293&uo=4) — *AI可可AI生活*, 26/11 23:21
+  > Sélection de quatre papiers IA récents couvrant le matching de variance, la vision de code, les priors d’architecture et la compression théorique, remettant en question les idées reçues.
+
+## Écartés comme hors sujet (1)
+
+- [别克至境 E7 上市 6 个月交付突破 4 万台刷新纪录，推出全新车色“墨竹青”](https://www.ithome.com/1/033/855.htm) — *IT之家*, 28/11 07:55
+  > IT之家 11 月 28 日消息，别克今日宣布，至境 E7 上市 6 个月，4 万用户里程碑达成，刷新中高端合资新能源交付纪录。 IT之家注意到，官方还推出了全新车色「墨竹青」， 限时置换价 14.19 万元起 。 9 月 23 日，别克至境 E7 焕新版车型上市，提供三款配置，分别为 1600 大满配、1600 超满配 Pro 版和 1600 超满配 Turbo 版，车身尺寸为 4850 × 1910 × 1676mm，轴距 2850mm。 别克至境 E7 焕新版首发搭载新一代豆包大模型及行业首个 S2S 端到端语音大模型，还配备 Momenta R6 强化学习大模型。 动力方面，该车搭载真

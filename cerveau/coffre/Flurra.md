@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-26-t4.md"
 type: "code"
-community: "Veille États-Unis 2026-11-25 : IA dans la culture et les médias"
+community: "Veille France 2026-11-22 : Marchés et finance"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-25__IA_dans_la_culture_et_les_médias
+  - community/Veille_France_2026-11-22__Marchés_et_finance
 ---
 
 # Flurra
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Outils & code 2026-11-26 (T4)]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-25__IA_dans_la_culture_et_les_médias
+#graphify/code #graphify/EXTRACTED #community/Veille_France_2026-11-22__Marchés_et_finance

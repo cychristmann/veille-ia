@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-17-t5.md"
 type: "document"
-community: "Nvidia"
+community: "Jensen Huang"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Nvidia
+  - community/Jensen_Huang
 ---
 
 # Veille États-Unis 2026-11-17 : Autres articles
@@ -21,4 +21,4 @@ tags:
 - [[The Korea Herald]] - `cites` [EXTRACTED]
 - [[shattered.io]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Nvidia
+#graphify/document #graphify/EXTRACTED #community/Jensen_Huang

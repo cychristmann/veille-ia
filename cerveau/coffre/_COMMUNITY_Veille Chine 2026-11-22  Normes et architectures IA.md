@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[HexStrike]] - concept - dossiers/2026-11-26-1.md
+- [[AI Safety]] - concept - dossiers/2026-11-25-3.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-11-t4.md"
-type: "code"
-community: "Gemini 4 Hydrogen"
+source_file: "feuilletons/f-0010.md"
+type: "concept"
+community: "Nvidia"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/Gemini_4_Hydrogen
+  - community/Nvidia
 ---
 
 # Google DeepMind
@@ -23,4 +23,4 @@ tags:
 - [[Veille États-Unis 2026-11-19  Financement et mouvements de marché]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-25 (T3)]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Gemini_4_Hydrogen
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

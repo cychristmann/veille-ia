@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[YTL Power]] - concept - dossiers/2026-11-26-2.md
+- [[Claude Haiku 4.5]] - concept - veilles/veille-ia-dev-2026-11-26-t3.md
 
 ## Live Query (requires Dataview plugin)
 

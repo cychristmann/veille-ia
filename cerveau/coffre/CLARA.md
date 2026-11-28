@@ -1,17 +1,17 @@
 ---
-source_file: "feuilletons/f-0017.md"
-type: "code"
-community: "GPT-6 Astra"
+source_file: "veilles/veille-ia-fr-2026-11-13-t2.md"
+type: "concept"
+community: "Nvidia"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Nvidia
 ---
 
 # CLARA
 
 ## Connections
-- [[Feuilleton CLARA révolutionne le calcul des bioréacteurs]] - `references` [EXTRACTED]
+- [[Bioreactors]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-13  Applications & Outils IA]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

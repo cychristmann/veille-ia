@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-10 : Régulation, sécurité et éthique
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Namazu Small]] - concept - veilles/veille-ia-dev-2026-11-27-t1.md
-- [[Nemotron 3 Nano]] - concept - veilles/veille-ia-dev-2026-11-27-t1.md
+- [[Veille Chine 2026-11-25]] - document - veilles/veille-ia-cn-2026-11-25-t5.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Trust3 AI
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[Department of Energy (DOE)]] - concept - veilles/veille-ia-us-2026-11-26-t3.md
-- [[University at Buffalo]] - concept - veilles/veille-ia-us-2026-11-26-t3.md
+- [[Trust3 AI]] - code - veilles/veille-ia-us-2026-11-11-t4.md
 
 ## Live Query (requires Dataview plugin)
 

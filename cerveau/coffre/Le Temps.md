@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-26-1.md"
 type: "concept"
-community: "Google"
+community: "AI Act"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Google
+  - community/AI_Act
 ---
 
 # Le Temps
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Dossier  Intensification des cyberattaques alimentées par l'IA]] - `cites` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Google
+#graphify/concept #graphify/EXTRACTED #community/AI_Act

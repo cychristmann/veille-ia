@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0028.md"
 type: "concept"
-community: "SpaceX"
+community: "Qwen4-Max"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/SpaceX
+  - community/Qwen4-Max
 ---
 
 # FBI
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[ARTEX]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/SpaceX
+#graphify/concept #graphify/EXTRACTED #community/Qwen4-Max

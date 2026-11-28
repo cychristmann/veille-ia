@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-20-t5.md"
 type: "concept"
-community: "Veille France 2026-11-09 : Autres articles"
+community: "Veille États-Unis 2026-11-20 : Impact sociétal et culturel"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-09__Autres_articles
+  - community/Veille_États-Unis_2026-11-20__Impact_sociétal_et_culturel
 ---
 
 # You tell AI everything. But who else is listening?
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-20  Impact sociétal et culturel]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-09__Autres_articles
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-20__Impact_sociétal_et_culturel

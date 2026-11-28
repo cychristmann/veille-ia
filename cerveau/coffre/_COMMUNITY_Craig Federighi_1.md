@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[AI in Health and Wellness]] - concept - veilles/veille-ia-us-2026-11-20-t2.md
-- [[Veille États-Unis 2026-11-20  Applications santé et bien‑être]] - document - veilles/veille-ia-us-2026-11-20-t2.md
+- [[Arkestro AI]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
+- [[Phillips 66]] - concept - veilles/veille-ia-us-2026-11-23-t2.md
 
 ## Live Query (requires Dataview plugin)
 

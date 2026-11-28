@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-14-t4.md"
 type: "document"
-community: "Cipher"
+community: "AI Automation"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Cipher
+  - community/AI_Automation
 ---
 
 # Veille Outils & code 2026-11-14 : Bibliothèques, outils et releases open‑source
@@ -14,4 +14,4 @@ tags:
 - [[XYBench]] - `references` [EXTRACTED]
 - [[agent-desktop]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Cipher
+#graphify/document #graphify/EXTRACTED #community/AI_Automation

@@ -1,15 +1,14 @@
 ---
 type: community
-members: 2
+members: 1
 ---
 
 # Veille États-Unis 2026-11-13 : Enjeux du marché et turbulences
 
-**Members:** 2 nodes
+**Members:** 1 nodes
 
 ## Members
-- [[LLM 0.37.3]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
-- [[SQLite]] - concept - veilles/veille-ia-dev-2026-11-17-t1.md
+- [[RGPD]] - concept - dossiers/2026-11-28-3.md
 
 ## Live Query (requires Dataview plugin)
 

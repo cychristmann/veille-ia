@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-19-t2.md"
 type: "document"
-community: "Uber Legal Redlining Agent"
+community: "Veille Chine 2026-11-22 : Régulation, éthique et impact sociétal de l'IA"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Uber_Legal_Redlining_Agent
+  - community/Veille_Chine_2026-11-22__Régulation_éthique_et_impact_sociétal_de_lIA
 ---
 
 # Veille France 2026-11-19 : Applications sectorielles de l'IA
@@ -15,4 +15,4 @@ tags:
 - [[Sanofi]] - `references` [EXTRACTED]
 - [[Soitec]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Uber_Legal_Redlining_Agent
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-22__Régulation_éthique_et_impact_sociétal_de_lIA

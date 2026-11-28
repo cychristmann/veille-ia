@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-13-t2.md"
 type: "concept"
-community: "UK ICO"
+community: "Veille États-Unis 2026-11-12 : IA dans l'éducation et la société"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/UK_ICO
+  - community/Veille_États-Unis_2026-11-12__IA_dans_léducation_et_la_société
 ---
 
 # DeepSeek V4.1 Pro
 
-#graphify/concept #graphify/EXTRACTED #community/UK_ICO
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-12__IA_dans_léducation_et_la_société

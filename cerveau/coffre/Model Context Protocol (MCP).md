@@ -17,5 +17,7 @@ tags:
 - [[MoEngage Merlin AI]] - `references` [EXTRACTED]
 - [[Veille IA Dev 2026-11-20 T5]] - `references` [EXTRACTED]
 - [[Veille Outils & code 2026-11-27 (T5)]] - `references` [EXTRACTED]
+- [[Veille Outils & code 2026-11-28]] - `references` [EXTRACTED]
+- [[datasette-mcp]] - `implements` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Claude_Code

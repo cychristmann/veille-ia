@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-25-t4.md"
 type: "document"
-community: "Veille États-Unis 2026-11-25 : Régulation, éthique et société"
+community: "Veille Chine 2026-11-14 : IA industrielle et infrastructure"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-25__Régulation_éthique_et_société
+  - community/Veille_Chine_2026-11-14__IA_industrielle_et_infrastructure
 ---
 
 # Rome forum explores how AI can serve Catholicism
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-25  Régulation, éthique et société]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-25__Régulation_éthique_et_société
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-14__IA_industrielle_et_infrastructure

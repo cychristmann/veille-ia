@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # MyClaw 3.0
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[248 Ventures]] - concept - dossiers/2026-11-16-2.md
+- [[Accenture]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
+- [[Qantas]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
 
 ## Live Query (requires Dataview plugin)
 

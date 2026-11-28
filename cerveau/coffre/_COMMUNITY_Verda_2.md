@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Kong]] - concept - veilles/veille-ia-dev-2026-11-19-t1.md
+- [[MyClaw 3.0]] - concept - veilles/veille-ia-dev-2026-11-25-t1.md
 
 ## Live Query (requires Dataview plugin)
 

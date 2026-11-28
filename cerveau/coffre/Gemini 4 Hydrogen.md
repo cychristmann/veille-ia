@@ -1,11 +1,11 @@
 ---
-source_file: "veilles/veille-ia-dev-2026-11-13-t5.md"
-type: "code"
-community: "Gemini 4 Hydrogen"
+source_file: "veilles/veille-ia-dev-2026-11-12-t1.md"
+type: "concept"
+community: "Nvidia"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
-  - community/Gemini_4_Hydrogen
+  - community/Nvidia
 ---
 
 # Gemini 4 Hydrogen
@@ -25,4 +25,4 @@ tags:
 - [[Veille Outils & code 2026-11-14  Plateformes et infrastructures IA]] - `references` [EXTRACTED]
 - [[llm-gemini]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Gemini_4_Hydrogen
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

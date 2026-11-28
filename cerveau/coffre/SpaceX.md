@@ -1,9 +1,9 @@
 ---
-source_file: "veilles/veille-ia-us-2026-11-13-t1.md"
-type: "code"
+source_file: "veilles/veille-ia-cn-2026-11-21-t1.md"
+type: "concept"
 community: "SpaceX"
 tags:
-  - graphify/code
+  - graphify/concept
   - graphify/EXTRACTED
   - community/SpaceX
 ---
@@ -17,7 +17,7 @@ tags:
 - [[Cursor]] - `conceptually_related_to` [INFERRED]
 - [[Cursor]] - `references` [EXTRACTED]
 - [[Elon Musk]] - `references` [EXTRACTED]
-- [[Feuilleton SpaceX déploie des satellites d'IA en orbite]] - `references` [EXTRACTED]
+- [[Google]] - `references` [EXTRACTED]
 - [[Grok AI]] - `references` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[Nvidia]] - `shares_data_with` [INFERRED]
@@ -27,6 +27,7 @@ tags:
 - [[Project Starmind]] - `references` [EXTRACTED]
 - [[Projet Kessel]] - `conceptually_related_to` [EXTRACTED]
 - [[SpaceXAI]] - `references` [EXTRACTED]
+- [[Star Compute]] - `references` [EXTRACTED]
 - [[Starmind Project]] - `references` [EXTRACTED]
 - [[Starship]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - `references` [EXTRACTED]
@@ -41,4 +42,4 @@ tags:
 - [[Veille États-Unis 2026-11-13  Développements et investissements corporatifs]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-20  Marché et finance de l'IA]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/SpaceX
+#graphify/concept #graphify/EXTRACTED #community/SpaceX

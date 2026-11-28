@@ -1,18 +1,19 @@
 ---
 type: community
-members: 5
+members: 6
 ---
 
 # Veille France 2026-11-15 : Réflexion et éthique
 
-**Members:** 5 nodes
+**Members:** 6 nodes
 
 ## Members
-- [[Crimson Desert]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
-- [[Pascal Haté]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
-- [[Pearl Abyss]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
-- [[SMARTANCE]] - concept - veilles/veille-ia-fr-2026-11-15-t5.md
-- [[Veille France 2026-11-15  Réflexion et éthique]] - document - veilles/veille-ia-fr-2026-11-15-t5.md
+- [[AI Impact on E-commerce]] - concept - veilles/veille-ia-fr-2026-11-25-t1.md
+- [[Black Friday AI Usage]] - concept - veilles/veille-ia-fr-2026-11-25-t1.md
+- [[GTA VI AI Porting Challenges]] - concept - veilles/veille-ia-fr-2026-11-25-t1.md
+- [[Google AI TV Patent]] - concept - veilles/veille-ia-fr-2026-11-25-t1.md
+- [[Meta Instagram Muse]] - concept - veilles/veille-ia-fr-2026-11-25-t1.md
+- [[Veille France 2026-11-25  Médias, divertissement et communication]] - document - veilles/veille-ia-fr-2026-11-25-t1.md
 
 ## Live Query (requires Dataview plugin)
 

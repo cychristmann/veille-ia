@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-27-t6.md"
 type: "document"
-community: "AI Impact on Finance and Markets"
+community: "Amazon"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Impact_on_Finance_and_Markets
+  - community/Amazon
 ---
 
 # Veille États-Unis 2026-11-27 : Autres articles
@@ -28,4 +28,4 @@ tags:
 - [[Transcript BigDeal Interview with AI Expert Guillermo Rauch You’re Using AI Wrong]] - `references` [EXTRACTED]
 - [[Zip Forward New York Finding Flow in the Age of Agentic AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Impact_on_Finance_and_Markets
+#graphify/document #graphify/EXTRACTED #community/Amazon

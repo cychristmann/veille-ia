@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-17-t4.md"
 type: "document"
-community: "Jensen Huang"
+community: "Veille France 2026-11-27"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Jensen_Huang
+  - community/Veille_France_2026-11-27
 ---
 
 # Veille États-Unis 2026-11-17 : Applications sectorielles de l'IA
@@ -19,4 +19,4 @@ tags:
 - [[The Guardian (IA)]] - `cites` [EXTRACTED]
 - [[The Japan Times]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Jensen_Huang
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-27

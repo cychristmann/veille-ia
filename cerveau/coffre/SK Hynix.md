@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-23-t2.md"
 type: "concept"
-community: "Huawei"
+community: "Veille Outils & code 2026-11-26"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Huawei
+  - community/Veille_Outils__code_2026-11-26
 ---
 
 # SK Hynix
@@ -17,4 +17,4 @@ tags:
 - [[SoftBank]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Huawei
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-26

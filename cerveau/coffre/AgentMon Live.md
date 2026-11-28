@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-24-t2.md"
 type: "concept"
-community: "Libertify"
+community: "AgentMon Live"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Libertify
+  - community/AgentMon_Live
 ---
 
 # AgentMon Live
@@ -14,4 +14,4 @@ tags:
 - [[Codenotary]] - `references` [EXTRACTED]
 - [[OpenAI]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Libertify
+#graphify/concept #graphify/EXTRACTED #community/AgentMon_Live

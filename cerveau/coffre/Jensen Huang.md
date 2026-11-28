@@ -20,6 +20,7 @@ tags:
 - [[Veille Chine 2026-11-12  Marché financier et investissements IA]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-13]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-17]] - `references` [EXTRACTED]
+- [[Veille Chine 2026-11-28  Régulation, politique et gouvernance]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-08]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-10]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-13]] - `references` [EXTRACTED]

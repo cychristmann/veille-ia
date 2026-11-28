@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-27-t1.md"
 type: "concept"
-community: "Veille Chine 2026-11-22 : Percées scientifiques et mathématiques grâce à l'IA"
+community: "Military AI Center (Rennes)"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-22__Percées_scientifiques_et_mathématiques_grâce_à_lIA
+  - community/Military_AI_Center_Rennes
 ---
 
 # Character.ai
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-27  Régulation et gouvernance]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-22__Percées_scientifiques_et_mathématiques_grâce_à_lIA
+#graphify/concept #graphify/EXTRACTED #community/Military_AI_Center_Rennes

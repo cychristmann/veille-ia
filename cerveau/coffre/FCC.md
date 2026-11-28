@@ -1,17 +1,17 @@
 ---
 source_file: "dossiers/2026-11-26-3.md"
 type: "concept"
-community: "SpaceX"
+community: "Project Starmind"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/SpaceX
+  - community/Project_Starmind
 ---
 
 # FCC
 
 ## Connections
-- [[Feuilleton SpaceX déploie des satellites d'IA en orbite]] - `references` [EXTRACTED]
 - [[Project Starmind]] - `references` [EXTRACTED]
+- [[Starmind]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/SpaceX
+#graphify/concept #graphify/EXTRACTED #community/Project_Starmind

@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0024.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-13 : Autres articles"
+community: "Crise des data-centers IA"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-13__Autres_articles
+  - community/Crise_des_data-centers_IA
 ---
 
 # Crise des data-centers IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Feuilleton Effondrement du boom IA et crise des data-centers]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-13__Autres_articles
+#graphify/concept #graphify/EXTRACTED #community/Crise_des_data-centers_IA

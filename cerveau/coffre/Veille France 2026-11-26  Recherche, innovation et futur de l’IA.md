@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-26-t5.md"
 type: "document"
-community: "Google"
+community: "DeepSeek"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Google
+  - community/DeepSeek
 ---
 
 # Veille France 2026-11-26 : Recherche, innovation et futur de l’IA
@@ -19,4 +19,4 @@ tags:
 - [[Uttar Pradesh IA Initiative]] - `references` [EXTRACTED]
 - [[WikiAgritech Enquêtes]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Google
+#graphify/document #graphify/EXTRACTED #community/DeepSeek

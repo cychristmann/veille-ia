@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-10-t2.md"
 type: "concept"
-community: "China"
+community: "GPT-6 Astra"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/China
+  - community/GPT-6_Astra
 ---
 
 # Bay (start-up)
@@ -14,4 +14,4 @@ tags:
 - [[Feuilleton Levée de fonds de 50 M$ pour la start‑up israélienne de cybersécurité IA Bay]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-10  Financement, marchés et IPO]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/China
+#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra

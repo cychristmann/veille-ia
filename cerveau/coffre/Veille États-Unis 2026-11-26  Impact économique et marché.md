@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-26-t2.md"
 type: "document"
-community: "AI Act"
+community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Act
+  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
 ---
 
 # Veille États-Unis 2026-11-26 : Impact économique et marché
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AI Market Volatility]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Act
+#graphify/document #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière

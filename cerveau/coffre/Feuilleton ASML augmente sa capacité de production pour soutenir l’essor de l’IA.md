@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0044.md"
 type: "document"
-community: "无界进化 (INFevo)"
+community: "Veille Chine 2026-11-15 : Éthique, société et relations homme‑machine"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/无界进化_INFevo
+  - community/Veille_Chine_2026-11-15__Éthique_société_et_relations_hommemachine
 ---
 
 # Feuilleton: ASML augmente sa capacité de production pour soutenir l’essor de l’IA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[ASML Holding]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/无界进化_INFevo
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-15__Éthique_société_et_relations_hommemachine

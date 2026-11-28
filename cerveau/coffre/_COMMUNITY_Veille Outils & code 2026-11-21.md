@@ -1,24 +1,25 @@
 ---
 type: community
-members: 11
+members: 12
 ---
 
 # Veille Outils & code 2026-11-21
 
-**Members:** 11 nodes
+**Members:** 12 nodes
 
 ## Members
-- [[AI Short Dramas]] - concept - veilles/veille-ia-cn-2026-11-14-t3.md
-- [[AI4 Chip]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
-- [[SCMP Tech]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
-- [[Sanxingdui Future Past]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
-- [[Tencent Chatterfly]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
-- [[Tesla FSD v15]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
-- [[Tesla Reality View]] - concept - veilles/veille-ia-cn-2026-11-22-t4.md
-- [[Veille Chine 2026-11-14  Médias, création et divertissement IA]] - document - veilles/veille-ia-cn-2026-11-14-t3.md
-- [[Veille Chine 2026-11-15  Contenu et divertissement IA]] - document - veilles/veille-ia-cn-2026-11-15-t1.md
-- [[Veille Chine 2026-11-22]] - document - veilles/veille-ia-cn-2026-11-22-t4.md
-- [[投资界]] - concept - veilles/veille-ia-cn-2026-11-15-t1.md
+- [[Agent Arena]] - concept - veilles/veille-ia-dev-2026-11-17-t3.md
+- [[Bharat Semi]] - concept - veilles/veille-ia-fr-2026-11-16-t4.md
+- [[Hy4 flash]] - concept - veilles/veille-ia-cn-2026-11-16-t1.md
+- [[IA dans la santé]] - concept - veilles/veille-ia-fr-2026-11-16-t4.md
+- [[MotrixSim1.0]] - concept - veilles/veille-ia-cn-2026-11-16-t1.md
+- [[Qwen4-Max]] - concept - veilles/veille-ia-fr-2026-11-16-t4.md
+- [[Rubin]] - concept - dossiers/2026-11-26-3.md
+- [[Veille Chine 2026-11-16  Modèles et fondations]] - document - veilles/veille-ia-cn-2026-11-16-t1.md
+- [[Veille France 2026-11-16  Santé, recherche médicale et biomédicale]] - document - veilles/veille-ia-fr-2026-11-16-t4.md
+- [[Veille France 2026-11-28  Santé et médecine]] - document - veilles/veille-ia-fr-2026-11-28-t4.md
+- [[Veille Outils & code 2026-11-17 (T3)]] - document - veilles/veille-ia-dev-2026-11-17-t3.md
+- [[Vercel]] - concept - veilles/veille-ia-dev-2026-11-16-t1.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -26,3 +27,20 @@ members: 11
 TABLE source_file, type FROM #community/Veille_Outils__code_2026-11-21
 SORT file.name ASC
 ```
+
+## Connections to other communities
+- 2 edges to [[_COMMUNITY_Claude]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
+- 1 edge to [[_COMMUNITY_Google]]
+- 1 edge to [[_COMMUNITY_Copilot]]
+- 1 edge to [[_COMMUNITY_Tencent]]
+- 1 edge to [[_COMMUNITY_Alibaba]]
+- 1 edge to [[_COMMUNITY_Project Starmind]]
+- 1 edge to [[_COMMUNITY_ChatGPT Wallet_1]]
+
+## Top bridge nodes
+- [[Veille Outils & code 2026-11-17 (T3)]] - degree 5, connects to 2 communities
+- [[Rubin]] - degree 3, connects to 2 communities
+- [[Hy4 flash]] - degree 3, connects to 2 communities
+- [[Qwen4-Max]] - degree 5, connects to 1 community
+- [[Vercel]] - degree 2, connects to 1 community

@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Corée du Sud  démission du ministre de l'Education après un scandale de triche à l'IA]] - document - dossiers/2026-11-22-2.md
+- [[Blue J]] - concept - veilles/veille-ia-us-2026-11-10-t1.md
 
 ## Live Query (requires Dataview plugin)
 

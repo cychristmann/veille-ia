@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Génération de nouvelles technologies
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Deepfake Risks]] - concept - veilles/veille-ia-cn-2026-11-26-t1.md
+- [[PyTorch GreenLight]] - code - veilles/veille-ia-dev-2026-11-28-t2.md
+- [[RADAR]] - code - veilles/veille-ia-dev-2026-11-28-t2.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-18-t1.md"
 type: "document"
-community: "Microsoft Outlook Outage"
+community: "Veille Chine 2026-11-17"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Microsoft_Outlook_Outage
+  - community/Veille_Chine_2026-11-17
 ---
 
 # Veille États-Unis 2026-11-18 (T1)
@@ -16,4 +16,4 @@ tags:
 - [[Microsoft]] - `references` [EXTRACTED]
 - [[SID AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Microsoft_Outlook_Outage
+#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-17

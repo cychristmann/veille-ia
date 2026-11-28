@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-13-t3.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-16"
+community: "David Tepper"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-16
+  - community/David_Tepper
 ---
 
 # Zhang Qiuming
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Anshi China]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-16
+#graphify/concept #graphify/EXTRACTED #community/David_Tepper

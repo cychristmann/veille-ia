@@ -8,12 +8,12 @@ members: 6
 **Members:** 6 nodes
 
 ## Members
-- [[CPython Memory Vulnerability]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
-- [[JD.com Double-11 AI Sales]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
-- [[OpenAI Codex Acquisition]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
-- [[Orphan AI Agents Management]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
-- [[PPIO OpenDesign]] - concept - veilles/veille-ia-cn-2026-11-13-t5.md
-- [[Veille Chine 2026-11-13  Applications et services IA]] - document - veilles/veille-ia-cn-2026-11-13-t5.md
+- [[Veille Chine 2026-11-21  Applications sectorielles de l’IA]] - document - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[华为OSTA星芒 O1 Pro]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[托普云农发布智能（AI）虫情测报灯9.0]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[物理AI浪潮下，在手订单充足的8家公司]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[程子芮：AI推动金融科技从数字化到数智化]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
+- [[香港人工智能与生命科学伦理研究院]] - concept - veilles/veille-ia-cn-2026-11-21-t3.md
 
 ## Live Query (requires Dataview plugin)
 

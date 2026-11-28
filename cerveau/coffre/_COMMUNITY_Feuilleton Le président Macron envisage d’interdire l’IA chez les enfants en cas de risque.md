@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Feuilleton Le président Macron envisage d’interdire l’IA chez les enfants en cas de risque]] - document - feuilletons/f-0006.md
+- [[248 Ventures]] - concept - dossiers/2026-11-16-2.md
 
 ## Live Query (requires Dataview plugin)
 

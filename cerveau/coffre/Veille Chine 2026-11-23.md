@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-23-t4.md"
 type: "document"
-community: "Veille Chine 2026-11-23"
+community: "Tencent"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-23
+  - community/Tencent
 ---
 
 # Veille Chine 2026-11-23
@@ -21,4 +21,4 @@ tags:
 - [[Tencent]] - `references` [EXTRACTED]
 - [[WenDuoduo AI]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-23
+#graphify/document #graphify/EXTRACTED #community/Tencent

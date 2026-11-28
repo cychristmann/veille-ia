@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-14-1.md"
 type: "concept"
-community: "Mistral AI"
+community: "ICAID"
 tags:
   - graphify/concept
   - graphify/INFERRED
-  - community/Mistral_AI
+  - community/ICAID
 ---
 
 # CERT-FR
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[ICAID]] - `references` [INFERRED]
 
-#graphify/concept #graphify/INFERRED #community/Mistral_AI
+#graphify/concept #graphify/INFERRED #community/ICAID

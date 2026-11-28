@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-fr-2026-11-24-t2.md"
+source_file: "veilles/veille-ia-fr-2026-11-22-t4.md"
 type: "concept"
 community: "AI Governance"
 tags:

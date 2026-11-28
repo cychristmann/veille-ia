@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Critical Holdings]] - concept - dossiers/2026-11-26-2.md
+- [[Edge0-145B]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0018.md"
 type: "document"
-community: "Libertify"
+community: "Elon Musk"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Libertify
+  - community/Elon_Musk
 ---
 
 # Feuilleton: Wall Street en déroute
@@ -14,4 +14,4 @@ tags:
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[OpenAI]] - `conceptually_related_to` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Libertify
+#graphify/document #graphify/EXTRACTED #community/Elon_Musk

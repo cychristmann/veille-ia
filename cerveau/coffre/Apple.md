@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-21-t5.md"
+source_file: "veilles/veille-ia-us-2026-11-27-t4.md"
 type: "concept"
 community: "Apple"
 tags:
@@ -12,12 +12,19 @@ tags:
 
 ## Connections
 - [[Agent IA Apple]] - `references` [EXTRACTED]
+- [[Amazon]] - `conceptually_related_to` [INFERRED]
 - [[Apple AI Agent]] - `references` [EXTRACTED]
+- [[Dossier OpenAI vs Apple]] - `references` [EXTRACTED]
 - [[Feuilleton Apple menacé d’amende en Corée du Sud pour publicité mensongère sur fonctions IA]] - `references` [EXTRACTED]
 - [[Harbor]] - `references` [EXTRACTED]
 - [[HomeView 27.2.1]] - `references` [EXTRACTED]
 - [[Logic Pro]] - `references` [EXTRACTED]
+- [[Meta]] - `conceptually_related_to` [INFERRED]
 - [[MiniMax]] - `references` [EXTRACTED]
+- [[OpenAI]] - `cites` [EXTRACTED]
+- [[OpenAI]] - `conceptually_related_to` [EXTRACTED]
+- [[OpenAI]] - `references` [EXTRACTED]
+- [[OpenAI and Apple Lawsuit]] - `references` [EXTRACTED]
 - [[Siri]] - `references` [EXTRACTED]
 - [[Siri AI]] - `references` [EXTRACTED]
 - [[Talkie]] - `references` [EXTRACTED]

@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-26-2.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-12 : IA en santé et sciences de la vie"
+community: "Veille France 2026-11-24"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-12__IA_en_santé_et_sciences_de_la_vie
+  - community/Veille_France_2026-11-24
 ---
 
 # Critical Holdings
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-12__IA_en_santé_et_sciences_de_la_vie
+#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-24

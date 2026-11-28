@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-22-t3.md"
 type: "document"
-community: "David Tepper"
+community: "DeepSeek"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/David_Tepper
+  - community/DeepSeek
 ---
 
 # Veille États-Unis 2026-11-22 : Marché, investissements et actions IA
@@ -18,4 +18,4 @@ tags:
 - [[Jensen Huang]] - `references` [EXTRACTED]
 - [[Meta]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/David_Tepper
+#graphify/document #graphify/EXTRACTED #community/DeepSeek

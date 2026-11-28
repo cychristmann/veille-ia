@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-26-1.md"
 type: "document"
-community: "Google"
+community: "AI Act"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Google
+  - community/AI_Act
 ---
 
 # Dossier : Intensification des cyberattaques alimentées par l'IA
@@ -18,4 +18,4 @@ tags:
 - [[Office fédéral de la cybersécurité (OFCS)]] - `references` [EXTRACTED]
 - [[RevueTech]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Google
+#graphify/document #graphify/EXTRACTED #community/AI_Act

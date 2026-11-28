@@ -8,9 +8,9 @@ members: 3
 **Members:** 3 nodes
 
 ## Members
-- [[Veille Chine 2026-11-11 Régulation et gouvernance]] - document - veilles/veille-ia-cn-2026-11-11-t4.md
-- [[文投控股 (Wentou Holdings)]] - concept - veilles/veille-ia-cn-2026-11-11-t4.md
-- [[清华大学人工智能国际治理研究院 (Tsinghua IAGI)]] - concept - veilles/veille-ia-cn-2026-11-11-t4.md
+- [[Veille Chine 2026-11-15  Éducation, formation et talents IA]] - document - veilles/veille-ia-cn-2026-11-15-t4.md
+- [[山东商务职业学院]] - concept - veilles/veille-ia-cn-2026-11-15-t4.md
+- [[广东“AI智能体”数字人才培训计划]] - concept - veilles/veille-ia-cn-2026-11-15-t4.md
 
 ## Live Query (requires Dataview plugin)
 

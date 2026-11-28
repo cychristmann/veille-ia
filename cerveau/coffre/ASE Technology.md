@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-22-t2.md"
 type: "concept"
-community: "ASE Technology"
+community: "Allspring Global Investments"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/ASE_Technology
+  - community/Allspring_Global_Investments
 ---
 
 # ASE Technology
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Taiwan Fore Electronics]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/ASE_Technology
+#graphify/concept #graphify/EXTRACTED #community/Allspring_Global_Investments

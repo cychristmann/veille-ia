@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Veille Chine 2026-11-12]] - document - veilles/veille-ia-cn-2026-11-12-t8.md
+- [[Deepfake Risks]] - concept - veilles/veille-ia-cn-2026-11-26-t1.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Corvic AI]] - concept - veilles/veille-ia-us-2026-11-26-t3.md
+- [[Feuilleton Centre international d’IA militaire français ouvert à Rennes]] - document - feuilletons/f-0023.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-25-3.md"
 type: "document"
-community: "Trust3 AI"
+community: "Veille France 2026-11-18"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Trust3_AI
+  - community/Veille_France_2026-11-18
 ---
 
 # Dossier : Normes IA mondiales
 
-#graphify/document #graphify/EXTRACTED #community/Trust3_AI
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-18

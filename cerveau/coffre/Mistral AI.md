@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-25-2.md"
 type: "concept"
-community: "Veille Outils & code 2026-11-27"
+community: "Mistral AI"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-27
+  - community/Mistral_AI
 ---
 
 # Mistral AI
@@ -20,4 +20,4 @@ tags:
 - [[Veille France 2026-11-18 (T4)]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-21  Politique & gouvernance]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-27
+#graphify/concept #graphify/EXTRACTED #community/Mistral_AI

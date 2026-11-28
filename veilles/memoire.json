@@ -1,6 +1,767 @@
 {
-  "maj": "2026-11-27",
+  "maj": "2026-11-28",
   "feuilletons": [
+    {
+      "id": "f-0051",
+      "titre": "OpenAI accuse Apple de vol de secrets commerciaux et de pressions",
+      "resume": "OpenAI engage des poursuites contre Apple en l'accusant de vol de secrets commerciaux et de pressions exercées sur ses fournisseurs. Cette affaire judiciaire met en lumière les tensions croissantes entre les géants de l'intelligence artificielle.",
+      "statut": "actif",
+      "debut": "2026-11-28",
+      "derniere_activite": "2026-11-28",
+      "regions": [
+        "cn",
+        "fr"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-28",
+          "texte": "OpenAI accuse publiquement Apple de vol de secrets commerciaux et de pressions sur ses fournisseurs.",
+          "articles": [
+            {
+              "titre": "OpenAI accuse Apple de lui avoir volé des secrets commerciaux",
+              "source": "Clubic",
+              "lien": "https://www.clubic.com/actualite-641572-openai-accuse-apple-de-lui-avoir-vole-des-secrets-commerciaux.html",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "OpenAI accuse Apple de vol de secrets et de pressions sur ses fournisseurs",
+              "source": "Le Monde Pixels",
+              "lien": "https://www.lemonde.fr/economie/article/2026/11/27/openai-accuse-apple-de-vol-de-secrets-et-de-pressions-sur-ses-fournisseurs_6815936_3234.html",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Jensen Huang revient, 3,5 billion $ d'investissements IA restent exposés à quatre grands risques ; OpenAI poursuit Apple pour vol de secrets commerciaux, pressant les fournisseurs ; le « vétéran en crise » de 55 ans nommé président de la BCE – Semaine économique internationale",
+              "source": "每日经济新闻",
+              "lien": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91b3NMdXc2R3JNY3RGdVJhRmxTWFh4Sk9MTFdJcmRQTDZubmhaVlU4aUtQU3FWMzUzZml0US1ROTNSVjUtU242NFRhTDd5NTcyZFV2ZW9PaDRnVnBMdndzaW02T3dyZw?oc=5",
+              "region": "cn",
+              "note": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0036",
+      "titre": "Validation de la résolution de l'hypothèse de Riemann par l'IA",
+      "resume": "La preuve de l'hypothèse de Riemann obtenue avec l'aide de l'IA d'Anthropic reçoit de nouvelles vérifications indépendantes. Les mathématiciens confirment progressivement la validité de ces travaux à l'aide d'outils formels.",
+      "statut": "actif",
+      "debut": "2026-11-21",
+      "derniere_activite": "2026-11-28",
+      "regions": [
+        "cn",
+        "dev",
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-21",
+          "texte": "Publication de plusieurs articles annonçant la résolution de l'hypothèse de Riemann avec l'aide de l'IA d'Anthropic.",
+          "articles": [
+            {
+              "titre": "L’IA pourrait avoir résolu le problème le plus célèbre des mathématiques : l’hypothèse de Riemann",
+              "source": "Courrier international",
+              "lien": "https://www.courrierinternational.com/article/sciences-l-ia-pourrait-avoir-resolu-le-probleme-le-plus-celebres-des-mathematiques-l-hypothese-de-riemann_288984",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Un mathématicien annonce la résolution d'un des plus célèbres problèmes du monde avec l'aide de l'IA",
+              "source": "France 24",
+              "lien": "https://www.france24.com/fr/info-en-continu/20261120-un-math%C3%A9maticien-annonce-la-r%C3%A9solution-d-un-des-plus-c%C3%A9l%C3%A8bres-probl%C3%A8mes-du-monde-avec-l-aide-de-l-ia",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Grâce à l’IA, un chercheur affirme avoir résolu l’un des problèmes mathématiques les plus importants du monde",
+              "source": "Libération",
+              "lien": "https://www.msn.com/fr-fr/actualite/other/gr%C3%A2ce-%C3%A0-l-ia-un-chercheur-affirme-avoir-r%C3%A9solu-l-un-des-probl%C3%A8mes-math%C3%A9matiques-les-plus-importants-du-monde/ar-AA2hSbRy",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Un mystère mathématique vieux de 167 ans enfin résolu ? L'IA Claude pourrait avoir réalisé un exploit historique",
+              "source": "RTL",
+              "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPek5BNU00aG5aY1NqUVRwSWF4eXpzNFQ4YnYzeHhKSHFXMGVPZEdtbFZCQmJZdzA5VUpWQ1J5YnJhRkF3ZHg2WTU2NENoU1JqbUZyZUZVTGZaYUlac1RfeFRnY3FPeVZWLXIyNUtwS1NIZkN4RVdxMzloOXhvRmIyZ3U0QXA4MktoZVM5NzJVRjdOWEJvQnVRWmFabWdoRWE3OW5NTVlqZXNnMmFQYVJXaDVtcnpFanp0d1Jqc0ltU1FDZzhYV2l4RTZBTUVkdjI5cnhpRkdJcWF1RzltMjFkTTQ3MGROeDZyWUtibXFuZjQ?oc=5",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Un employé d'Anthropic affirme avoir résolu le Saint‑Graël des problèmes mathématiques grâce à l'IA",
+              "source": "AP News",
+              "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZl83aFlGaHFEUVczbnRQYTJCbmhiWUFic2RBN0JLeVJrUy1GOG5TZDRtSzVDQ3JzT1otb3dqZlQ0X1JXc0I3Wm1CMzB2Ul9MZGlGbFVvOHEyVlo4V1NxUU5sQ0FoMTNkTUJkaXlCSFYwcE5rZGtyb2hwTkNYcVNJcGtMSzdqRFlQejUzTjFuei1PX2ZPcU5ZRw?oc=5",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "Chercheur d'Anthropic affirme avoir résolu le problème de Riemann avec Claude",
+              "source": "Bloomberg Technology",
+              "lien": "https://www.bloomberg.com/news/articles/2026-11-21/anthropic-researcher-claims-to-solve-riemann-problem-with-claude",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "À l'aide de l'IA, un mathématicien prétend avoir résolu l'un des grands mystères des mathématiques",
+              "source": "The Washington Post",
+              "lien": "https://www.msn.com/en-us/news/other/using-ai-mathematician-claims-to-have-solved-one-of-maths-great-mysteries/ar-AA2hRSLN",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "Un mathématicien d’Anthropic affirme que Claude a aidé à produire une preuve de l’hypothèse de Riemann",
+              "source": "news.lavx.hu",
+              "lien": "https://news.lavx.hu/article/anthropic-mathematician-claims-claude-helped-produce-proof-of-riemann-hypothesis",
+              "region": "dev",
+              "note": 8
+            }
+          ]
+        },
+        {
+          "date": "2026-11-22",
+          "texte": "La preuve de l'hypothèse de Riemann assistée par l'IA reçoit une validation indépendante tandis que les mathématiciens débattent de sa portée.",
+          "articles": [
+            {
+              "titre": "Problème mathématique qui intrigue l’humanité depuis 167 ans ! L’IA aide à prouver l’hypothèse de Riemann, secouant la communauté mathématique – Shing‑Tong Yau : « une contribution majeure »",
+              "source": "驱动之家",
+              "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NRVlVeWxJNWFxV1NKcW10RzJ2RkhqMGFPRHdHVXphbjAzb0tXc2xRV25FSkpaZi00dGpVQUw5d2tLU0FYLVhOUFZMMlpxUFdITi1nQlQ3cTE?oc=5",
+              "region": "cn",
+              "note": 9
+            },
+            {
+              "titre": "Le soir même où Shing‑Tong Yau et d’autres mathématiciens s’expriment, la preuve IA de l’hypothèse de Riemann reçoit une validation indépendante",
+              "source": "虎嗅网",
+              "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91cWtWcGFGZEQ3b3hOY19DTkxPZFVuNlU4SExmOXBhcm9nVjgzYk9oM0szdVp1UHh3VXZyal9oV3N1QXRiM202bGxwVjhXYkhkWEh2ZA?oc=5",
+              "region": "cn",
+              "note": 8
+            },
+            {
+              "titre": "L’hypothèse de Riemann prouvée par l’IA ? Le problème de 167 ans passe à la vérification formelle, les mathématiciens restent sceptiques",
+              "source": "京报网",
+              "lien": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJZGhLcng0N2lHN0dHLUN6T2tGUl9kd19FRHVIVWhzMlE0d3ZQUWN2b01zNWFzNGoyTEd2RVpnWmZOVWJFWndITlZkd2ZuYzg2NUN6RC16YlZwS0NkV1E?oc=5",
+              "region": "cn",
+              "note": 8
+            },
+            {
+              "titre": "L’hypothèse de Riemann, énigme mathématique de 167 ans, partiellement prouvée par l’IA ? Shing‑Tong Yau répond",
+              "source": "新京报",
+              "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CVTJNSGJGZU5SandQWWNaNmVqb3IwNGFUWFZISVVGU3V5YXc2UURneGV0a2t4ZXV3S0E4SFV6Vkh0S1FYaHpPeHV1U2E4cWs1eldwZnlSWlcxWHZrdTdVRnNB?oc=5",
+              "region": "cn",
+              "note": 8
+            },
+            {
+              "titre": "Shing‑Tong Yau réagit à la preuve assistée par IA de l’hypothèse de Riemann",
+              "source": "手机新浪网",
+              "lien": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MWVo4c21iYXRnVUx2NEtQYW95Sno4anZqWGFuN183eFZYT3lxZGZGTnhabGFrbnU5b21OM3dKSlY5RVRkWmxjLWI3bw?oc=5",
+              "region": "cn",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-23",
+          "texte": "De nouvelles publications et vérifications indépendantes confirment la preuve de l'hypothèse de Riemann assistée par l'IA d'Anthropic.",
+          "articles": [
+            {
+              "titre": "L’IA Hunyuan de Tencent vise à développer des modèles de prochaine génération plus grands sans courir après les classements de benchmarks",
+              "source": "一财全球Yicai Global",
+              "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeEhmZXZITHlTTVdzR1dQQ1BZckZoUjlKRmlIZk9mU0xKRmxzNDRsRjVEQkVIN2tqYzlneVoxeXNBTzVpUGNvRnphWXVfZFQzYWwySlVnZ2ZwMEhNSjVZZUpIQXVrY0t6YUEwdFd4Y3hSRmk2OW1OVjdmQnpIV19GYS0yVmNsbzJhMGtaS3FZZ3N2bE9DbkZROWZvbWtCeHEtOGlsN3hBT2VlX2lnR2Nvczl2cmpvZHAxU2dLT1RkQlFHWVRla0xzemZoUQ?oc=5",
+              "region": "cn",
+              "note": 7
+            },
+            {
+              "titre": "Le mathématicien d'Anthropic Levent Alpöge affirme que Claude a aidé à prouver l'hypothèse de Riemann, vérification en cours",
+              "source": "Crypto Briefing",
+              "lien": "https://cryptobriefing.com/claude-riemann-hypothesis-proof-claim/",
+              "region": "dev",
+              "note": 8
+            }
+          ]
+        },
+        {
+          "date": "2026-11-28",
+          "texte": "Lean et Mathlib valident formellement la preuve de l'hypothèse de Riemann assistée par Claude.",
+          "articles": [
+            {
+              "titre": "Lean et Mathlib valident la preuve de Riemann assistée par Claude",
+              "source": "NeoTeo",
+              "lien": "https://www.neoteo.com/es/lean-y-mathlib-certifican-la-prueba-de-riemann-asistida-por-claude",
+              "region": "dev",
+              "note": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0015",
+      "titre": "SpaceX et le développement des infrastructures de calcul IA en orbite",
+      "resume": "SpaceX poursuit ses projets d'infrastructure de calcul en orbite avec l'approbation de sa constellation de satellites et l'intérêt manifeste d'autres acteurs technologiques. L'entreprise renforce ainsi son positionnement dans le domaine spatial de l'IA.",
+      "statut": "actif",
+      "debut": "2026-11-13",
+      "derniere_activite": "2026-11-28",
+      "regions": [
+        "cn",
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-13",
+          "texte": "SpaceX planifie 10 000 racks Nvidia en orbite et un vaste campus IA terrestre.",
+          "articles": [
+            {
+              "titre": "SpaceX planea 10.000 racks de Nvidia en órbita para IA con 5 GW",
+              "source": "Foro3D",
+              "lien": "https://foro3d.com/2026/noviembre/spacex-planea-10000-racks-de-nvidia-en-orbita-para-ia-con-5-gw.html",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "SpaceX d’Elon Musk prévoit plus de 74 milliards de dollars de campus de calcul IA au Texas et en Arizona",
+              "source": "The Times of India",
+              "lien": "https://news.google.com/rss/articles/CBMilANBVV95cUxPbjAxdG83WVI5OHZEcEhsQkJUWVRxRGlVWnhheTNhZ2xsWlFHOGYzXzZpaFh2NWNDbnBBVUI0aVk0S3d4eTVtQnlNUzFxMmsyaEdwRXZ6ODJlUldyNGFHdGlYWEVTanNJYlBXWllUTWp2ZmFPMUtFOF8zTEFtUk9GQ1FnZzlfLWhrekZhQVJKdlM0ZDJBTnZJSWJWUEI4amRDZ0pkaEl6b1FJUW9yc090ZmZWOGctd3JBU2FWb3lIc09LTTBkVGlRSklPcXZHak5Bd1FJVEVFeW5INktaMmRKNUVoV1c4TG5PQ2g4MWU2MzFYcHZyMmpPbUxwRjI4UWFNV3VQUDR0NjY3d296RG9QMk1sTDRsb1F6OExQUmxVLXZwcldvcWpYQ29XQUNzdTJEdGpRRUhYLWRuRl9WMDNqbzZHNUczLUhkQnNmdUE4MXBudkVFWF9wVXI2QVF3RU0wTjNGSkdEamd2Z2ZFYm9CbVRGTzJhRHkyYzVoc3E4cmQ2aUZqY09ZVlNNblpSQ0IwOEFyV9IBmgNBVV95cUxQU3RIR2lGRms0N1dLRGhrckx0VGh1M1hweGRraHppZXpwZnUxVGk0Z25ZYnlsN2RoNzdEanpJMFRqMFFMSnlWcm5pRExUUURnR04wZTluTG9LbTZUSWpaUUtuTExYdGdoSUVZaVRaYlY0dnJoc05fSWl4MTREdGQtWXFRUXZKT0t4QndkRVZvX21qek9USEdMMmNlLVNERzVlTHlBTVNQV1J4X2Z4UUtYVlRabE14SC02MTVRbXJaRnVNY2R2S0NhQmFJRThfbmhjZWU5WGVjR0hiYXlYMzNqS3Z3REhONzJCX2Q2MV9TdlZDS3llN29tN0FRV2hrUmlPdElLX29fdDlyb2sxcVZRUGFtWkh3VWtGRlp6WDNsckFUMktmbXZjdEpMamRIU0tFTlNNWk9EeWVnZUpWR2RnRFZPUHpwZjVYT2lnMW53SWpfbkpuREp0Qk5VN1hXTlkycHBKX0ltYW52TWZyTHZqRndTbE0xT3o0WFEtMlpKZnYtbFV1Y1ZkZ0xLUWN0ZndDaGFGVWR3YWwyQQ?oc=5",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "Programme « Star Compute » de Guoxing Aerospace : le groupe 03 de satellites finalisé, lancement prévu prochainement, objectif de 2 800 satellites de calcul en réseau",
+              "source": "IT之家",
+              "lien": "https://www.ithome.com/1/026/676.htm",
+              "region": "cn",
+              "note": 6
+            }
+          ]
+        },
+        {
+          "date": "2026-11-20",
+          "texte": "SpaceX vend 32 milliards de dollars de dette de puces IA à un rendement élevé pour financer ses projets d'infrastructure.",
+          "articles": [
+            {
+              "titre": "SpaceX vend 32 Mds $ de dette de puces IA à plus de 8 % de rendement : rapport",
+              "source": "TradingView",
+              "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjlxMS1HVXBldmIyb1A5Z3lRcjRGd3hLcG1INzRZVWRUYnU1eGdiWXJqdUpFWWlrZHllMlJVd3ctQUtKODBRak93LVVCQTQySVotSFdjc3ZYOW0xZjlNZG9ydmx3R0FaVDB5SnQwNENSZVA3ZHFfbmltSGt5ZTV6Nkgyak1uV19McEI3di0zYlFyZTRJZVgtMmktQWVxQkVkM2xFV2xFVHR1a2hNVlN6UW5OSzlpcE0?oc=5",
+              "region": "us",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-26",
+          "texte": "SpaceX obtient l'approbation de la FCC pour un million de satellites d'IA, poursuivant son déploiement de racks IA en orbite.",
+          "articles": [
+            {
+              "titre": "Starmind : la FCC donne son feu vert à un million de satellites d’IA de SpaceX",
+              "source": "ZDNet",
+              "lien": "https://www.zdnet.fr/actualites/starmind-la-fcc-donne-son-feu-vert-a-un-million-de-satellites-dia-de-spacex-508656.htm#xtor=RSS-1",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Xpeng ouvre l’écosystème IA physique pour robots et voitures, dévoile l’architecture d’intelligence incarnée Turing",
+              "source": "中国经济网",
+              "lien": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhQmtvV3FreDlNdDF1VERmXzFwelZucUNDM3pZU29SbEdGOERRS3R5UEZueTJQSzBnME1XUzlGQXJXZVNmTVIxLWtxZ1cwaW9IT1p4VHNraThkT1Q5MURLRGxaMEpFUGQydU95UFVR?oc=5",
+              "region": "cn",
+              "note": 6
+            }
+          ]
+        },
+        {
+          "date": "2026-11-28",
+          "texte": "Google manifeste son intérêt pour louer davantage de puissance de calcul auprès de SpaceX.",
+          "articles": [
+            {
+              "titre": "Musk : Google aurait manifesté son intérêt à louer davantage de puissance de calcul à SpaceX",
+              "source": "IT之家",
+              "lien": "https://www.ithome.com/1/033/898.htm",
+              "region": "cn",
+              "note": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f-0003",
+      "titre": "Protestations et tensions autour d'Anthropic après son IPO",
+      "resume": "Après son introduction en bourse mouvementée, Anthropic fait face à une forte pression de marché et à des manifestations de protestation contre l'auto-évolution de l'IA. Les engagements financiers massifs et les contestations soulignent les risques perçus du secteur.",
+      "statut": "actif",
+      "debut": "2026-11-09",
+      "derniere_activite": "2026-11-28",
+      "regions": [
+        "cn",
+        "dev",
+        "fr",
+        "us"
+      ],
+      "evenements": [
+        {
+          "date": "2026-11-09",
+          "texte": "Annonce et mise à disposition des modèles Fable 5.2 et Mythos 5.2 avec réduction de prix.",
+          "articles": [
+            {
+              "titre": "Claude Fable 5.2 pilote des robots et conçoit du matériel",
+              "source": "Brief IA",
+              "lien": "https://www.briefia.fr/article/claude-fable-5-2-pilote-des-robots-et-concoit-du-materiel",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Claude peut maintenant contrôler un robot pour résoudre un Rubik’s cube : Anthropic lance Fable et Mythos 5.2, deux IA ultra-puissantes qui s’invitent dans le monde physique",
+              "source": "Presse-citron",
+              "lien": "https://www.presse-citron.net/claude-controler-robot-anthropic-fable-mythos-5-2/",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Claude Fable 5.2 et Mythos 5.2 lancés en même temps par Anthropic, qui fait une étonnante révélation",
+              "source": "Clubic",
+              "lien": "https://www.clubic.com/actualite-638497-claude-fable-5-2-et-mythos-5-2-lances-en-meme-temps-par-anthropic-qui-fait-une-etonnante-revelation.html",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Anthropic lance Mythos 5.2 et Fable 5.2, Fable à 8 $",
+              "source": "Brief IA",
+              "lien": "https://www.briefia.fr/article/anthropic-lance-mythos-5-2-et-fable-5-2-fable-a-8",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Claude Fable 5.2 et Mythos 5.2 disponibles : les IA d’Anthropic s’améliorent",
+              "source": "KultureGeek",
+              "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONHJLdGN3aXlYRnJ3ZzhrN0RNY3k0WEVUbURzbWQ3eGJuZXpJdGpEdmdWdGVBdGwzTTl0ZVdaN0ljY3hwUzNxTkNzZTdVVGZBN0k3NmVoVTI4ZUNsWUJBY1E5UTlfMlhCSzVtSS1UYVcza1NsNTFjaER6UHc2MHRQM1JHdTlSelJTNVJtT1dtWXU2Y0RZN0ZKWXJPYTBXT0tkUXc?oc=5",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Anthropic lance Fable 5.2, une version plus puissante et moins coûteuse de son modèle d’intelligence artificielle",
+              "source": "Le Figaro",
+              "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQS1A4SVh5TnkxOVdVdHM1dlhvaEJKcWpOU0tyVzRxclNiNkJ6eXNndThXZ2RpSHBrNUYzaUtTT2ozak1ZZGtGYUYtaDd3UHFXc1hzSnAzOE5GWTA2ckM2bkgwbllwaEZlQlZ5ZTVIdVF3ZEx1Q2I2MVVYNm9HYUtYLVdqUmZlSzdRTk5BeWRYdkMyaGF1b09FbTQzN0FFSXlHREc5M0gwRVlzMnd6VFVfQUkyQzhzRmRSVk51LUoxbWNmTmFTeVdzak5kb00ybmJBRTBsQnFvWUE2cl8wV2tCRDZqalgyVVJxZGljOXNHWG5hTTItdGc?oc=5",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Anthropic: version de l'IA de pointe plus puissante et moins chère avant l'IPO",
+              "source": "Zonebourse",
+              "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLWJ3ZUkxUHJqMUJTeGtidnpBbFk0d29xVE9wQkZ6MTZQTjBHdGhvZTdDUTJpdmhCSHBLSmNVNXMtbzZreUZzUEN6Z3YxT0t3SkJCLXM3ZlpBU0w2Y2NIVms0VFlIZ3JxWG8xaEowMDhScWVWQ3VOTjdteHZFNERTa0swb3ozRW05LVFkWkc1ekRWMVpyM0VjaXRkc0w3eUJBTTN6TE80SkVjVWY2RHlBWFI0QlVMa1BldmpCOHY5enpJVHVyZm16ejVLUHFyaGdROFBSQw?oc=5",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Nouveau Claude Fable 5.2 : Anthropic baisse de 20 % le prix de son IA la plus puissante et promet beaucoup moins de refus",
+              "source": "Frandroid",
+              "lien": "https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3316643_nouveau-claude-fable-5-2-anthropic-baisse-de-20-le-prix-de-son-ia-la-plus-puissante-et-promet-beaucoup-moins-de-refus",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Anthropic lance les nouveaux modèles d'IA Fable 5.2 et Mythos 5.2",
+              "source": "CNET",
+              "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPclhvZzYxckdzRVZ2dzNHMUZoSHd3RllabVFSSUxJUWRZRE5yaDNRQUFITi1hdG9lQ2RvamFJWERCQ3JIMllOcmxNZVJGSFNuQkROSlRPQm9TNDVMQldGZktKLXlmdXMxSHloOFllWXo5Unh1LWgzLUx3Q2g5ZnkydlRvRmpqRmliQ3VVdUlubw?oc=5",
+              "region": "us",
+              "note": null
+            }
+          ]
+        },
+        {
+          "date": "2026-11-10",
+          "texte": "Annonce de la fourchette de prix et de la valorisation cible de l’IPO d’Anthropic, avec de multiples analyses de presse.",
+          "articles": [
+            {
+              "titre": "Anthropic vise jusqu'à 90 Md$ pour son IPO avec une fourchette de 70-78 $",
+              "source": "Brief IA",
+              "lien": "https://www.briefia.fr/article/anthropic-vise-jusqu-a-90-md-pour-son-ipo-avec-une-fourchette-de-70-78",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Anthropic se valorise finalement 1 000 milliards $ pour son introduction en bourse",
+              "source": "Next",
+              "lien": "https://next.ink/266653/anthropic-se-valorise-finalement-1-000-milliards-pour-son-introduction-en-bourse/",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "CHRONOLOGIE-Le parcours d'Anthropic, de start-up spécialisée dans l'IA à introduction en bourse qui a marqué l",
+              "source": "Boursorama",
+              "lien": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPS1lVMWVDZW1jeE82Zm9FUE1IUFdvTHhwYWZYc2U5UjhBb1ZoNlcxV09VX1p4MGoyelpkM0pMRGpoMEYzeUNTSDBLQnJxY0xjeGJhQ3lhX1FIbzIwaUY3eGp2czhaVnhVWEptN1pUMTZyTGtndWtIUGNNYmtXR2E3dHhDa1RKVDhJOW5zNjFWeFVEUmdSYS1HX3pHZHo1Wjg5bTdzRFJoeUQzUlFEY3UteXM5end0N3VZa3Ffd3FpRzV5WVFzdldOa2tUdDNfcWoxUUZPbFc1RHJXaVpKWFZTSEVyTUZUUnB1M1pQMGJXTTh6NTNhd2QzWXZQVTNUUUVZZWdkaGlwUklDM2FydzRaZ3ByaHVjV2RkNElrQ0lMb2hzZ9IBpwJBVV95cUxOMm9US01STjUtUFJZWnphUkZzb000ams3NlJ1WHBiTFJObFhZMmxEWFVINzFrLWltU0JuRkZTUUpxZ2M2X3VrbnhoaDNEeE05WG9mSzZiWDlkdzZRaW9CVjRYLWJZLUpNbHBOb0dTNE95cEs4N1lVNUhnb1NJbE5GVlF0TnlVLVBNYVdFV2VnUFRCUXg2b0hrYnRVeDllTEtsWXRscHRDa01PUnVCQmtFc3NjRjRTOVdNSkZCRWY3WXlYRGJMS1dFbDRadjhHYjFKdFBsZnJ4TmVrWS1iVHFDaE8zWjQ1T0Y3QWV4QXNaUzdhQ3JUZkRvb05GSnFiUTRoQks4ZmhqUm80VHAxMTg3dzEwQUdHZ3RjUy1fNWdRWWZBbUNubG53?oc=5",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Le parcours d’Anthropic, de start-up de l’IA à une introduction en Bourse (IPO) appelée à redéfinir le secteur",
+              "source": "Zonebourse Suisse",
+              "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQejVDb2NZeXlyazVjcXpOckpvWHRZSFdIemRpbWkxRV8zQ0FPYW5xMV9TWHEwa3E2SElUenQtNGVJQWdPVGdTWjFpME5IRU43NXR3Z0VHeEk1XzdZYm1mYm5KZ2xaVXdYcENrb0dlV1d3N2tQdzVack5CaWRuRFRrTXRiMWFPRUxINUREcnVXeWlSSUVjWjEzZlBkTWlYcjZaYm0xUlRsSWV0N3JpaWVDcVozMk1tRU9xMllxOUU2bllua21zYnNNaWU1THZUbExNU2hfd3JISkxaOFpkc0JPMkJGMHBUZjN5VjhJ?oc=5",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Fable 5.2 & Mythos 5.2 : le coup d'éclat d'Anthropic juste avant son IPO",
+              "source": "JDN",
+              "lien": "https://www.journaldunet.com/intelligence-artificielle/1557819-fable-5-2-mythos-5-2-le-coup-de-force-d-anthropic-juste-avant-son-ipo/",
+              "region": "fr",
+              "note": null
+            },
+            {
+              "titre": "Anthropic vise une valorisation de 1,4 billion de dollars lors de son IPO très attendu, au cœur du boom IA",
+              "source": "Yahoo Finance",
+              "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFd6MGdLa3YwRWRsck0xaEFGNHNwYm9nSW1idFZSeWVLVzczSG5mYy1hazd3bUppeW9NNlhTM3p0Si0xZWxYd0R0QU9ReXZONmVPMHNtMTYwRG43N3FfWEJjMXltM2pGZXRJWGxiNXV5WXVndXlOQ3E4VTBTQ3gwdzhJc1l6VTh2ODJKNFMtOXRzMWJDYS05TGl0UzR2bXBkc2xB?oc=5",
+              "region": "us",
+              "note": null
+            },
+            {
+              "titre": "Anthropic cible une valorisation allant jusqu’à 1,4 billion de dollars pour son IPO phare",
+              "source": "The New York Times",
+              "lien": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+              "region": "us",
+              "note": null
+            },
+            {
+              "titre": "Anthropic mise sur une valorisation de 1,4 billion de dollars en IPO, testant l’engouement de Wall Street pour l’IA",
+              "source": "Central Oregon Daily",
+              "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNU1BhX1RsUlNwTzg3dkU3NGxHUlhKQ1RDWGRBazVfbXZMbEN0M2Y0QTNBbjk2YjZGRTdqMDlzd21JaTJJc1pXRmxXSDRjb2NlWHlfaG8wenJJSjVPZ0s0M3hHRlo5dnhFSUVzcmhSbXBYNkpSZlJKMndvWEtZbnYtTF9nNmx2c29KYTI3S2JfazhoWFl4OThhTHplR2l1YzJJbnFJNzNIWXk5SDRmQzhOeFZuclpiSUNhaEJJdlk3bWFIaFB0dVJGdDd5YUpnaml0cEVVajlIaHM2RXZiT0RrcUo4eGJMQWM1aTg2eFQxcE9XWi1RZ1AyYi05OEFYVkxycHo2Wg?oc=5",
+              "region": "us",
+              "note": null
+            },
+            {
+              "titre": "Anthropic fixe la fourchette de prix de son IPO entre 70 $ et 78 $, avec un lancement prévu le 19 novembre, selon des sources",
+              "source": "CNBC",
+              "lien": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+              "region": "us",
+              "note": null
+            }
+          ]
+        },
+        {
+          "date": "2026-11-11",
+          "texte": "Valorisation cible révisée, facturation massive, avertissements d’investisseurs et inquiétudes sur la bulle IA autour de l’IPO d’Anthropic.",
+          "articles": [
+            {
+              "titre": "Anthropic factura hasta 2.330 millones con usuarios que luego bloquea",
+              "source": "Foro3D",
+              "lien": "https://foro3d.com/2026/noviembre/anthropic-factura-hasta-2330-millones-con-usuarios-que-luego-bloquea.html",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Anthropic vise une valorisation de 1,3 billion de dollars malgré les craintes de bulle IA",
+              "source": "DW.com",
+              "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTlA2cjFGLVd2cE5lT0RFX0d4RGxLc0dpN1Jma1NoQndRTnQxQkRUMmw4NF9VbnM5SFJsU25SWmN2cmFQWmE5NDBWMmpxUGh1NDBlY0lBSUQ0amM4RF9YYVpPclFmSnJzREY4ZVBTX0JJMVNyV1hzUXhZem5hc2puMWM5YUxEcExNd2JWalpOdHNWRlk2S0NZYjBBTQ?oc=5",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "Anthropic et d’autres mettent en garde contre l’accélération de l’IA",
+              "source": "The Information",
+              "lien": "https://www.theinformation.com/articles/anthropic-others-warn-ai-acceleration",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "Le leasing d’Anthropic de 161 milliards de dollars par Broadcom est le vrai pari IA",
+              "source": "Money Morning",
+              "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVhqV3JsRjVOQU85OVhLeGJmc0lFekEtQ3lZbDJLWl9aVXN3WFVUeEZXWDBnWGl2VEo1YjA2SkJhRjhGM3RtWEVpVl8tb25DUzlHMVhrODhObFlyaWZzbGJwMkVMTEhqNWMwRy1mZXJqYnVtNjRJUF93WWRuaGNMUWpTeEp5bGo5ZjJEVXhWcmtlLWp3WUw5V1JYUG9XOU8w?oc=5",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "Un investisseur chevronné de la Silicon Valley alerte : l'introduction en bourse d'Anthropic pourrait déclencher l'éclatement de la bulle IA",
+              "source": "财联社电报",
+              "lien": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40eVFtMUdienczYmR3T05xSUxQZDVTRFVaaUZfdW9SZjJIT1pLZUQwZ3hwRzhuMmUtWTdCWmZ6dE1naFlzbWc?oc=5",
+              "region": "cn",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-12",
+          "texte": "Dernières évolutions de l'IPO d'Anthropic, incluant hausse des dépenses et record de visites.",
+          "articles": [
+            {
+              "titre": "Pour le géant de l’IA Anthropic, le pari risqué de l’entrée en Bourse",
+              "source": "Mediapart",
+              "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSkJrbGhHNDl4bDl1Q0JHSEp3TW1CYjFrdWtiQi1pSVhsZFdURmF4WWRPY1ZjSDBvaFdZbEV5QXFidElPc2ZXU0RwUVBoSGQ3eVF4U3RQLUxzUEVIbXZIM3Z2YTREMk0yMTEwNjFrYjgxNWlHVWYxMWJKUFpuZjB0Q2ZNQ1lFMktBRGJGRW9iQjhsRjFaeUdINlEyeHNKZ1FCcUFZRTVXQmt0TlJiOElBc3A5Qkw5cFMwNUU2OVpFNmIxMjFnUFE?oc=5",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Les dépenses d'Anthropic, startup d'IA, augmentent de 79 % en octobre, soit le double depuis mai",
+              "source": "FourWeekMBA",
+              "lien": "https://fourweekmba.com/ai-startups-anthropic-spend-up-79-in-october-2x-since-may/?utm_source=rss&utm_medium=rss&utm_campaign=ai-startups-anthropic-spend-up-79-in-october-2x-since-may",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "En soutien à l'IPO d'Anthropic : le site de Claude en octobre enregistre 1,253 milliard de visites, un record dépassant ChatGPT d'OpenAI et Gemini de Google",
+              "source": "IT之家",
+              "lien": "https://www.ithome.com/1/026/041.htm",
+              "region": "cn",
+              "note": 7
+            },
+            {
+              "titre": "Vision ultime de l'IA ou simple histoire de capital ? Le PDG d'Anthropic prédit la disparition du cancer, des maladies cardiaques et mentales d’ici dix ans",
+              "source": "证券之星",
+              "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBteEI3cHZDeTdVS3phcmZ3Z0tEVUtURXlIM0ZxUU01MDhjWHRudzdmOTB3UmNSX29XcXl0VUFzdWF6WU1qRlgtdUlZOHg4N3pmU0xzT3RBd0JVZXNacTgzWQ?oc=5",
+              "region": "cn",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-14",
+          "texte": "Appel public à la prudence de la part d'Anthropic, potentiellement influençant son IPO.",
+          "articles": [
+            {
+              "titre": "Le patron d’Anthropic appelle à ralentir l’IA après des incidents où des agents autonomes ont pris le contrôle",
+              "source": "Le Temps",
+              "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbzZmalV3UTBLYi1WN3ZOTjIxdl93cEJ1ZTktdkRVaGxUYzhtMDZzX3h2UHo1d2liSUwyVUlmRkMxTk9qMGJJM3l6N0lVZUFsT242Q2VDTmM3UHVTVUFJbU93MzhVNVpycUN0LVZsZU1MRVFWQ2VJRU1hemRFRXdMQWZROWpVQlFEdjFnTVVrUjUycGl0TU9udVBNdEUzUlpRdl94R040NU1LTDF4WndNMmwzemZFbUhuYm45UnlOczU5YTFsYW9uZnlhS0tMcTdBb3c0czBuWVRuZTdPZGIzMG82eTdLZUpsY3hrXzVNZmp1QjEyaTdaUg?oc=5",
+              "region": "fr",
+              "note": 9
+            }
+          ]
+        },
+        {
+          "date": "2026-11-18",
+          "texte": "Anthropic entre en bourse en Europe et ajoute le mode Code à Claude, permettant des appels d’outils JavaScript.",
+          "articles": [
+            {
+              "titre": "Anthropic entre en bourse, des effets possibles pour l'Europe",
+              "source": "Brief IA",
+              "lien": "https://www.briefia.fr/article/anthropic-entre-en-bourse-des-effets-possibles-pour-l-europe",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Anthropic ajoute le mode Code à Claude : Claude enchaîne désormais les appels d’outils en JavaScript",
+              "source": "MarkTechPost",
+              "lien": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
+              "region": "us",
+              "note": 8
+            },
+            {
+              "titre": "Anthropic ajoute le mode Code à Claude Code : Claude enchaîne désormais les appels d’outils en JavaScript",
+              "source": "MarkTechPost",
+              "lien": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
+              "region": "dev",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-19",
+          "texte": "Anthropic réussit la plus grosse introduction en bourse de l'histoire en levant entre 81 et 107 milliards de dollars au Nasdaq.",
+          "articles": [
+            {
+              "titre": "Anthropic lève 81,3 milliards de dollars en Bourse, la plus grosse introduction de l’histoire",
+              "source": "ZDNet",
+              "lien": "https://www.zdnet.fr/actualites/anthropic-leve-813-milliards-de-dollars-en-bourse-la-plus-grosse-introduction-de-lhistoire-508163.htm#xtor=RSS-1",
+              "region": "fr",
+              "note": 10
+            },
+            {
+              "titre": "Véritable test pour le secteur de l'IA, Anthropic, créateur de l'IA Claude, entre en bourse avec une valorisation astronomique",
+              "source": "franceinfo",
+              "lien": "https://news.google.com/rss/articles/CBMingJBVV95cUxQWDZaWDJxZDZzQTY2ajU5VHY3OUNUbXNnQllZRmkwQ3ZVak5MMmNmOTh3YnF5anV5SHQ0UFgzYVlRY3RyOWdHQXNzQlM0TUhORmtRSjh2RnBJYVpkM1N0THFYMElfWjVTaXNLNXFCX2NmYjI4ektGRl83VGlLMV9zM1dhaGozRDhoQVN4S053NldmRUpSUDllTFBkYzJlQkRONWo2cmdkM3JEMWlGZ0l3bFZReDdLQTJCZV9sSmd0akRYcWRCRjc2TGd2Q1A2WFEyXzlEa0QzU3Y4ODBZb1gyVWFSVjRQZTZhTUJhN0ZDZW1uT1cyV0RwY0ZUc2huRTZWbXg1eTlLM19HaVlicnhLY0lzRXNJcE5tRHZLWVdR?oc=5",
+              "region": "fr",
+              "note": 9
+            },
+            {
+              "titre": "Anthropic va lever 68,5 milliards de dollars pour son entrée en Bourse",
+              "source": "Stratégies",
+              "lien": "https://www.strategies.fr/actualites/culture-tech/LQ6939104C/anthropic-va-lever-685-milliards-de-dollars-pour-son-entree-en-bourse.html",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Anthropic devrait lever au minimum 79,4 milliards de dollars",
+              "source": "JDN",
+              "lien": "https://www.journaldunet.com/intelligence-artificielle/1558225-anthropic-s-apprete-a-lever-au-minimum-79-4-milliards-de-dollars/",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "ANTHROPIC signe la plus grosse IPO de l’histoire. Combien lui coûte la croissance de CLAUDE ?",
+              "source": "FrenchWeb",
+              "lien": "https://www.frenchweb.fr/anthropic-signe-la-plus-grosse-ipo-de-l-histoire-combien-lui-coute-la-croissance-de-claude/900000057?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "IA : Anthropic lève près de 80 milliards de dollars en Bourse et bat le record de SpaceX",
+              "source": "La Croix",
+              "lien": "https://www.la-croix.com/economie/ia-anthropic-leve-pres-de-80-milliards-de-dollars-en-bourse-et-bat-le-record-de-spacex-20261119",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Anthropic, créateur de l'agent IA Claude, entre en bourse ce jeudi",
+              "source": "Radio France",
+              "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUndtY093TG55dXN5bFA3blBaYTZSLTBKYnpTR05yUExKTy1WV3lGOC1pRlRFS1lMWFRvRVloTEMzUHQ4eGZFSjNOalVCSGRCb2lEQ1EtUEo5UUphVU0xekxJSnZZYi1ZY2NCanZtOUJESXJwc0lFUnc0dnN2MWMzdnJPLTYyOUl3d1ExcjNScWhIbTZHRFJMYU1iaTR2bkRUWV9aeHE5ZEFSTmdOWVpDblRR?oc=5",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Jour J pour l'une des plus grosses introductions en Bourse de l'histoire : avec Anthropic, l’IA débarque en fanfare au Nasdaq",
+              "source": "Challenges",
+              "lien": "https://www.challenges.fr/entreprise/tech-numerique/jour-j-pour-lune-des-plus-grosses-introductions-en-bourse-de-lhistoire-avec-anthropic-lia-debarque-en-fanfare-au-nasdaq_647055",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Intelligence artificielle : Anthropic s’apprête à pulvériser un record pour son entrée en Bourse",
+              "source": "20 Minutes",
+              "lien": "https://www.msn.com/fr-fr/actualite/other/intelligence-artificielle-anthropic-s-appr%C3%AAte-%C3%A0-pulv%C3%A9riser-un-record-pour-son-entr%C3%A9e-en-bourse/ar-AA2hKMbS",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "Anthropic fixe le prix de son IPO à 83 dollars, un gage de pérennité pour les entreprises",
+              "source": "Le Big Data",
+              "lien": "https://www.lebigdata.fr/anthropic-prix-ipo-83-dollars",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Anthropic lève 107,3 milliards de dollars lors de son introduction Watershed IA",
+              "source": "Bloomberg Technology",
+              "lien": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-raises-107-3-billion-in-watershed-ai-debut-video",
+              "region": "us",
+              "note": 9
+            },
+            {
+              "titre": "L’IPO record d’Anthropic de 81,3 milliards de dollars arme les géants américains de l’IA pour une guerre des prix avec leurs rivaux chinois",
+              "source": "SCMP Tech",
+              "lien": "https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals",
+              "region": "cn",
+              "note": 9
+            },
+            {
+              "titre": "IPO d’Anthropic atteint 107,3 milliards de dollars – record – le marché secondaire indique une hausse à l’ouverture de plus de 20 %",
+              "source": "IT之家",
+              "lien": "https://www.ithome.com/1/029/290.htm",
+              "region": "cn",
+              "note": 8
+            }
+          ]
+        },
+        {
+          "date": "2026-11-20",
+          "texte": "Anthropic fait ses débuts sur le Nasdaq au-dessus de 110 dollars, provoquant des réactions mitigées sur les marchés financiers face aux craintes d'une bulle IA.",
+          "articles": [
+            {
+              "titre": "Anthropic débute au Nasdaq au-dessus de 110 dollars, plus d’un tiers au-dessus de son prix d’introduction",
+              "source": "BlogNT",
+              "lien": "https://www.blog-nouvelles-technologies.fr/394569/anthropic-debut-fort-nasdaq/",
+              "region": "fr",
+              "note": 9
+            },
+            {
+              "titre": "IPO Anthropic : Débuts difficiles pour le géant de l’IA, action surévaluée de 30%",
+              "source": "Investing.com France",
+              "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeDVzRUw2R0VkSmFiMlJROUFKSVBFendUY2ZCUkh2VzlXZ2xiRFJ3OGNjTzVhQ1lTUVF6LS05dXhraUpJdXNuLW41X3BGa1VBMTk2ZWwyV2FERnMwZHhTLTYyTS16eHJUbzRtenk2RU9FV0pRS1JlWE9MRy1YQVFYLTNHa1NVVkVjN253SlBTR3VqTmNwTWoxc0MwYTd6dFlBQTBCdmMwdndnWkVVSXJUUlBFQlA3dkgxN3NuVUZReHZMS3NLczdhQjhXclhVZw?oc=5",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Claude brûle la politesse à ChatGPT : ce que l'IPO d'Anthropic signifie pour son grand rival OpenAI",
+              "source": "Les Echos",
+              "lien": "https://www.lesechos.fr/tech-medias/intelligence-artificielle/claude-brule-la-politesse-a-chatgpt-ce-que-lipo-danthropic-signifie-pour-son-grand-rival-openai-2263658",
+              "region": "fr",
+              "note": 7
+            },
+            {
+              "titre": "Les actions technologiques chutent après l'introduction en bourse d'Anthropic",
+              "source": "Financial Times",
+              "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFI2NEJCRHRJS3oxQnpSc2hUclVhRzQ4TGQxRVFYbEhRWS1tdGdHMlUtR1JtWDRtdERaTEo4M1F5c2kxOUZQODJMUHdUbVNIV2wxX0ZHR2ltVkVRcW83MVVzSXpoYV9wS3I2RkdUOGtITm9lNDBjRkJlakZ0ektISDNHZzY?oc=5",
+              "region": "us",
+              "note": 7
+            },
+            {
+              "titre": "Les marchés boursiers asiatiques plongent alors que le lancement d'Anthropic n'apaise pas les craintes de bulle IA",
+              "source": "Al Jazeera",
+              "lien": "https://www.msn.com/en-us/news/other/asia-s-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears/ar-AA2hOCGz",
+              "region": "us",
+              "note": 7
+            },
+            {
+              "titre": "L'introduction en bourse spectaculaire d'Anthropic ne fait pas monter le bateau IA",
+              "source": "marketscreener.com",
+              "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeFNMa1JGRjVNMS0xZXh3aXE3ekJZSTNtNW9TbkRWT2R2RGkzdGtvWUU4RTJncDFOVEFoMU9jYlg4SmpVRGZFNG14TGhuXzJPYVpERkQ0T2NXN2QxSHVKUG53R2hRQzJJZHBjeGE4ZkNKX2pzQ1lqamFtaDRkdmpEOEpwc0R1TTJNenJZa0Q3blpnR0kxSXdBcnd5WjE5U3M?oc=5",
+              "region": "us",
+              "note": 6
+            },
+            {
+              "titre": "Les actions de puces asiatiques glissent alors que l'introduction d'Anthropic ne dissipe pas les inquiétudes IA",
+              "source": "Bloomberg.com",
+              "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMFc2aVFVeVA4TFl6NmFpVE5ZakdYNlpvbXFSUFR2bE5wNTVUSWdNa2FabzNTM3M0cXQ2ME5vcDgtYU1KV3VQSEZIaTlLM2NLWFJZU243NHBYNXNGMnBGcjVhMjZ1MFd6a2hmejBRVmpmSWd6TndFUnNHeEtuUWQ5Skx4aGJHdDUySjhwYWxmdzhqWWlZTkZNRkNyYUJ0T2c1U0laTWtIZXJiSzZkem96QWNOZUlCUQ?oc=5",
+              "region": "us",
+              "note": 6
+            }
+          ]
+        },
+        {
+          "date": "2026-11-22",
+          "texte": "Anthropic est valorisée à environ 2 000 milliards de dollars lors de son entrée en bourse au Nasdaq.",
+          "articles": [
+            {
+              "titre": "Anthropic valorisée à environ 2 000 milliards de dollars lors de ses débuts au Nasdaq après le prix de l'introduction en bourse à 83 $.",
+              "source": "Quartz en Français",
+              "lien": "https://fr.qz.com/anthropic-valued-2-trillion-nasdaq-debut-ipo-112126",
+              "region": "fr",
+              "note": 8
+            },
+            {
+              "titre": "L'IPO d'Anthropic marque la fin d'une période de croissance explosive pour la startup IA",
+              "source": "Jamaica Gleaner",
+              "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzhMdmtla1UySzFfZnJnazdLeHotZnMwZW5vbW9FanF2YkZELXlvVVV0VnpGcGlmclJhMUFsWkdmb21oeVJCNDdqYnp2MExWMTEtbUYtejFwVGRsRVFLZE5Yd0F1a0FzWGZDcDl5YTRkSWM3eXlabjh4RWtUaF8xS1BFZ1lZMV9rTWRHYWRQMEhpb1hXQ3dYUUVhV3BiZWN6S3lTX1N0NWlYb2Rx?oc=5",
+              "region": "us",
+              "note": 9
+            }
+          ]
+        },
+        {
+          "date": "2026-11-24",
+          "texte": "Anthropic déclare jusqu’à 900,9 milliards de dollars d’engagements, prolongement de son IPO historique.",
+          "articles": [
+            {
+              "titre": "Anthropic déclare jusqu’à 900,9 milliards de dollars d’engagements",
+              "source": "Brief IA",
+              "lien": "https://www.briefia.fr/article/anthropic-declare-jusqu-a-900-9-milliards-de-dollars-d-engagements",
+              "region": "fr",
+              "note": 6
+            }
+          ]
+        },
+        {
+          "date": "2026-11-25",
+          "texte": "Anthropic passe sous son prix d’IPO, et l’IA cotée vacille déjà.",
+          "articles": [
+            {
+              "titre": "Anthropic passe sous son prix d’IPO, et l’IA cotée vacille déjà",
+              "source": "Servicesmobiles.fr",
+              "lien": "https://www.servicesmobiles.fr/anthropic-passe-sous-son-prix-dipo-et-lia-cotee-vacille-deja-116483",
+              "region": "fr",
+              "note": 7
+            }
+          ]
+        },
+        {
+          "date": "2026-11-28",
+          "texte": "Des manifestants jeûnent depuis quatre jours au siège d'Anthropic pour protester contre l'auto-évolution de l'IA.",
+          "articles": [
+            {
+              "titre": "Exiger de freiner le développement de l'IA : des manifestants jeûnent depuis quatre jours au siège d'Anthropic pour protester contre l'« auto‑évolution de l'IA »",
+              "source": "新浪财经_金融信息服务商",
+              "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1Vmc1RPQW9JeVplckhtcGNGZjF3V20wSTlvMUpKRjE1NzA1ekxnMjNVdVNfZ1FaNnp0dXQ5WC0tQi03Q29faWhFdjVQQzcxRVhnemFBZHowUE90S3ZJYlJVcmQ4b1Q3VEktZHpPTmFkWHptU3dDbGt1TEdhbWkzZFJYT2dQaEJlcUViQTlreVRnRnpsa2twcjBxRGxuRnM?oc=5",
+              "region": "cn",
+              "note": 7
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "f-0050",
       "titre": "SAP prévoit de supprimer au moins 10 000 postes dans son virage IA",
@@ -786,81 +1547,6 @@
       ]
     },
     {
-      "id": "f-0015",
-      "titre": "SpaceX déploie des satellites d'IA en orbite",
-      "resume": "SpaceX poursuit son ambition d'infrastructure IA spatiale avec la FCC qui autorise un million de satellites d'IA, renforçant la stratégie de calcul IA en orbite.",
-      "statut": "actif",
-      "debut": "2026-11-13",
-      "derniere_activite": "2026-11-26",
-      "regions": [
-        "cn",
-        "fr",
-        "us"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-13",
-          "texte": "SpaceX planifie 10 000 racks Nvidia en orbite et un vaste campus IA terrestre.",
-          "articles": [
-            {
-              "titre": "SpaceX planea 10.000 racks de Nvidia en órbita para IA con 5 GW",
-              "source": "Foro3D",
-              "lien": "https://foro3d.com/2026/noviembre/spacex-planea-10000-racks-de-nvidia-en-orbita-para-ia-con-5-gw.html",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "SpaceX d’Elon Musk prévoit plus de 74 milliards de dollars de campus de calcul IA au Texas et en Arizona",
-              "source": "The Times of India",
-              "lien": "https://news.google.com/rss/articles/CBMilANBVV95cUxPbjAxdG83WVI5OHZEcEhsQkJUWVRxRGlVWnhheTNhZ2xsWlFHOGYzXzZpaFh2NWNDbnBBVUI0aVk0S3d4eTVtQnlNUzFxMmsyaEdwRXZ6ODJlUldyNGFHdGlYWEVTanNJYlBXWllUTWp2ZmFPMUtFOF8zTEFtUk9GQ1FnZzlfLWhrekZhQVJKdlM0ZDJBTnZJSWJWUEI4amRDZ0pkaEl6b1FJUW9yc090ZmZWOGctd3JBU2FWb3lIc09LTTBkVGlRSklPcXZHak5Bd1FJVEVFeW5INktaMmRKNUVoV1c4TG5PQ2g4MWU2MzFYcHZyMmpPbUxwRjI4UWFNV3VQUDR0NjY3d296RG9QMk1sTDRsb1F6OExQUmxVLXZwcldvcWpYQ29XQUNzdTJEdGpRRUhYLWRuRl9WMDNqbzZHNUczLUhkQnNmdUE4MXBudkVFWF9wVXI2QVF3RU0wTjNGSkdEamd2Z2ZFYm9CbVRGTzJhRHkyYzVoc3E4cmQ2aUZqY09ZVlNNblpSQ0IwOEFyV9IBmgNBVV95cUxQU3RIR2lGRms0N1dLRGhrckx0VGh1M1hweGRraHppZXpwZnUxVGk0Z25ZYnlsN2RoNzdEanpJMFRqMFFMSnlWcm5pRExUUURnR04wZTluTG9LbTZUSWpaUUtuTExYdGdoSUVZaVRaYlY0dnJoc05fSWl4MTREdGQtWXFRUXZKT0t4QndkRVZvX21qek9USEdMMmNlLVNERzVlTHlBTVNQV1J4X2Z4UUtYVlRabE14SC02MTVRbXJaRnVNY2R2S0NhQmFJRThfbmhjZWU5WGVjR0hiYXlYMzNqS3Z3REhONzJCX2Q2MV9TdlZDS3llN29tN0FRV2hrUmlPdElLX29fdDlyb2sxcVZRUGFtWkh3VWtGRlp6WDNsckFUMktmbXZjdEpMamRIU0tFTlNNWk9EeWVnZUpWR2RnRFZPUHpwZjVYT2lnMW53SWpfbkpuREp0Qk5VN1hXTlkycHBKX0ltYW52TWZyTHZqRndTbE0xT3o0WFEtMlpKZnYtbFV1Y1ZkZ0xLUWN0ZndDaGFGVWR3YWwyQQ?oc=5",
-              "region": "us",
-              "note": 8
-            },
-            {
-              "titre": "Programme « Star Compute » de Guoxing Aerospace : le groupe 03 de satellites finalisé, lancement prévu prochainement, objectif de 2 800 satellites de calcul en réseau",
-              "source": "IT之家",
-              "lien": "https://www.ithome.com/1/026/676.htm",
-              "region": "cn",
-              "note": 6
-            }
-          ]
-        },
-        {
-          "date": "2026-11-20",
-          "texte": "SpaceX vend 32 milliards de dollars de dette de puces IA à un rendement élevé pour financer ses projets d'infrastructure.",
-          "articles": [
-            {
-              "titre": "SpaceX vend 32 Mds $ de dette de puces IA à plus de 8 % de rendement : rapport",
-              "source": "TradingView",
-              "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjlxMS1HVXBldmIyb1A5Z3lRcjRGd3hLcG1INzRZVWRUYnU1eGdiWXJqdUpFWWlrZHllMlJVd3ctQUtKODBRak93LVVCQTQySVotSFdjc3ZYOW0xZjlNZG9ydmx3R0FaVDB5SnQwNENSZVA3ZHFfbmltSGt5ZTV6Nkgyak1uV19McEI3di0zYlFyZTRJZVgtMmktQWVxQkVkM2xFV2xFVHR1a2hNVlN6UW5OSzlpcE0?oc=5",
-              "region": "us",
-              "note": 7
-            }
-          ]
-        },
-        {
-          "date": "2026-11-26",
-          "texte": "SpaceX obtient l'approbation de la FCC pour un million de satellites d'IA, poursuivant son déploiement de racks IA en orbite.",
-          "articles": [
-            {
-              "titre": "Starmind : la FCC donne son feu vert à un million de satellites d’IA de SpaceX",
-              "source": "ZDNet",
-              "lien": "https://www.zdnet.fr/actualites/starmind-la-fcc-donne-son-feu-vert-a-un-million-de-satellites-dia-de-spacex-508656.htm#xtor=RSS-1",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "Xpeng ouvre l’écosystème IA physique pour robots et voitures, dévoile l’architecture d’intelligence incarnée Turing",
-              "source": "中国经济网",
-              "lien": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhQmtvV3FreDlNdDF1VERmXzFwelZucUNDM3pZU29SbEdGOERRS3R5UEZueTJQSzBnME1XUzlGQXJXZVNmTVIxLWtxZ1cwaW9IT1p4VHNraThkT1Q5MURLRGxaMEpFUGQydU95UFVR?oc=5",
-              "region": "cn",
-              "note": 6
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "f-0010",
       "titre": "DeepMind présente Gemini Robotics 2.5",
       "resume": "Google DeepMind enrichit sa suite Gemini avec le modèle Robotics 2.5, destiné à améliorer la sécurité et les capacités d’apprentissage des robots.",
@@ -1088,473 +1774,6 @@
       ]
     },
     {
-      "id": "f-0003",
-      "titre": "Anthropic annonce 900,9 Mds $ d'engagements après son IPO",
-      "resume": "Après son introduction en bourse, Anthropic voit son cours baisser et annonce des engagements financiers de 900,9 milliards de dollars, confirmant la pression du marché sur les valorisations IA.",
-      "statut": "actif",
-      "debut": "2026-11-09",
-      "derniere_activite": "2026-11-25",
-      "regions": [
-        "cn",
-        "dev",
-        "fr",
-        "us"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-09",
-          "texte": "Annonce et mise à disposition des modèles Fable 5.2 et Mythos 5.2 avec réduction de prix.",
-          "articles": [
-            {
-              "titre": "Claude Fable 5.2 pilote des robots et conçoit du matériel",
-              "source": "Brief IA",
-              "lien": "https://www.briefia.fr/article/claude-fable-5-2-pilote-des-robots-et-concoit-du-materiel",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Claude peut maintenant contrôler un robot pour résoudre un Rubik’s cube : Anthropic lance Fable et Mythos 5.2, deux IA ultra-puissantes qui s’invitent dans le monde physique",
-              "source": "Presse-citron",
-              "lien": "https://www.presse-citron.net/claude-controler-robot-anthropic-fable-mythos-5-2/",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Claude Fable 5.2 et Mythos 5.2 lancés en même temps par Anthropic, qui fait une étonnante révélation",
-              "source": "Clubic",
-              "lien": "https://www.clubic.com/actualite-638497-claude-fable-5-2-et-mythos-5-2-lances-en-meme-temps-par-anthropic-qui-fait-une-etonnante-revelation.html",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Anthropic lance Mythos 5.2 et Fable 5.2, Fable à 8 $",
-              "source": "Brief IA",
-              "lien": "https://www.briefia.fr/article/anthropic-lance-mythos-5-2-et-fable-5-2-fable-a-8",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Claude Fable 5.2 et Mythos 5.2 disponibles : les IA d’Anthropic s’améliorent",
-              "source": "KultureGeek",
-              "lien": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONHJLdGN3aXlYRnJ3ZzhrN0RNY3k0WEVUbURzbWQ3eGJuZXpJdGpEdmdWdGVBdGwzTTl0ZVdaN0ljY3hwUzNxTkNzZTdVVGZBN0k3NmVoVTI4ZUNsWUJBY1E5UTlfMlhCSzVtSS1UYVcza1NsNTFjaER6UHc2MHRQM1JHdTlSelJTNVJtT1dtWXU2Y0RZN0ZKWXJPYTBXT0tkUXc?oc=5",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Anthropic lance Fable 5.2, une version plus puissante et moins coûteuse de son modèle d’intelligence artificielle",
-              "source": "Le Figaro",
-              "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQS1A4SVh5TnkxOVdVdHM1dlhvaEJKcWpOU0tyVzRxclNiNkJ6eXNndThXZ2RpSHBrNUYzaUtTT2ozak1ZZGtGYUYtaDd3UHFXc1hzSnAzOE5GWTA2ckM2bkgwbllwaEZlQlZ5ZTVIdVF3ZEx1Q2I2MVVYNm9HYUtYLVdqUmZlSzdRTk5BeWRYdkMyaGF1b09FbTQzN0FFSXlHREc5M0gwRVlzMnd6VFVfQUkyQzhzRmRSVk51LUoxbWNmTmFTeVdzak5kb00ybmJBRTBsQnFvWUE2cl8wV2tCRDZqalgyVVJxZGljOXNHWG5hTTItdGc?oc=5",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Anthropic: version de l'IA de pointe plus puissante et moins chère avant l'IPO",
-              "source": "Zonebourse",
-              "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLWJ3ZUkxUHJqMUJTeGtidnpBbFk0d29xVE9wQkZ6MTZQTjBHdGhvZTdDUTJpdmhCSHBLSmNVNXMtbzZreUZzUEN6Z3YxT0t3SkJCLXM3ZlpBU0w2Y2NIVms0VFlIZ3JxWG8xaEowMDhScWVWQ3VOTjdteHZFNERTa0swb3ozRW05LVFkWkc1ekRWMVpyM0VjaXRkc0w3eUJBTTN6TE80SkVjVWY2RHlBWFI0QlVMa1BldmpCOHY5enpJVHVyZm16ejVLUHFyaGdROFBSQw?oc=5",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Nouveau Claude Fable 5.2 : Anthropic baisse de 20 % le prix de son IA la plus puissante et promet beaucoup moins de refus",
-              "source": "Frandroid",
-              "lien": "https://www.frandroid.com/culture-tech/intelligence-artificielle/anthropic-claude-ai/3316643_nouveau-claude-fable-5-2-anthropic-baisse-de-20-le-prix-de-son-ia-la-plus-puissante-et-promet-beaucoup-moins-de-refus",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Anthropic lance les nouveaux modèles d'IA Fable 5.2 et Mythos 5.2",
-              "source": "CNET",
-              "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPclhvZzYxckdzRVZ2dzNHMUZoSHd3RllabVFSSUxJUWRZRE5yaDNRQUFITi1hdG9lQ2RvamFJWERCQ3JIMllOcmxNZVJGSFNuQkROSlRPQm9TNDVMQldGZktKLXlmdXMxSHloOFllWXo5Unh1LWgzLUx3Q2g5ZnkydlRvRmpqRmliQ3VVdUlubw?oc=5",
-              "region": "us",
-              "note": null
-            }
-          ]
-        },
-        {
-          "date": "2026-11-10",
-          "texte": "Annonce de la fourchette de prix et de la valorisation cible de l’IPO d’Anthropic, avec de multiples analyses de presse.",
-          "articles": [
-            {
-              "titre": "Anthropic vise jusqu'à 90 Md$ pour son IPO avec une fourchette de 70-78 $",
-              "source": "Brief IA",
-              "lien": "https://www.briefia.fr/article/anthropic-vise-jusqu-a-90-md-pour-son-ipo-avec-une-fourchette-de-70-78",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Anthropic se valorise finalement 1 000 milliards $ pour son introduction en bourse",
-              "source": "Next",
-              "lien": "https://next.ink/266653/anthropic-se-valorise-finalement-1-000-milliards-pour-son-introduction-en-bourse/",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "CHRONOLOGIE-Le parcours d'Anthropic, de start-up spécialisée dans l'IA à introduction en bourse qui a marqué l",
-              "source": "Boursorama",
-              "lien": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPS1lVMWVDZW1jeE82Zm9FUE1IUFdvTHhwYWZYc2U5UjhBb1ZoNlcxV09VX1p4MGoyelpkM0pMRGpoMEYzeUNTSDBLQnJxY0xjeGJhQ3lhX1FIbzIwaUY3eGp2czhaVnhVWEptN1pUMTZyTGtndWtIUGNNYmtXR2E3dHhDa1RKVDhJOW5zNjFWeFVEUmdSYS1HX3pHZHo1Wjg5bTdzRFJoeUQzUlFEY3UteXM5end0N3VZa3Ffd3FpRzV5WVFzdldOa2tUdDNfcWoxUUZPbFc1RHJXaVpKWFZTSEVyTUZUUnB1M1pQMGJXTTh6NTNhd2QzWXZQVTNUUUVZZWdkaGlwUklDM2FydzRaZ3ByaHVjV2RkNElrQ0lMb2hzZ9IBpwJBVV95cUxOMm9US01STjUtUFJZWnphUkZzb000ams3NlJ1WHBiTFJObFhZMmxEWFVINzFrLWltU0JuRkZTUUpxZ2M2X3VrbnhoaDNEeE05WG9mSzZiWDlkdzZRaW9CVjRYLWJZLUpNbHBOb0dTNE95cEs4N1lVNUhnb1NJbE5GVlF0TnlVLVBNYVdFV2VnUFRCUXg2b0hrYnRVeDllTEtsWXRscHRDa01PUnVCQmtFc3NjRjRTOVdNSkZCRWY3WXlYRGJMS1dFbDRadjhHYjFKdFBsZnJ4TmVrWS1iVHFDaE8zWjQ1T0Y3QWV4QXNaUzdhQ3JUZkRvb05GSnFiUTRoQks4ZmhqUm80VHAxMTg3dzEwQUdHZ3RjUy1fNWdRWWZBbUNubG53?oc=5",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Le parcours d’Anthropic, de start-up de l’IA à une introduction en Bourse (IPO) appelée à redéfinir le secteur",
-              "source": "Zonebourse Suisse",
-              "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQejVDb2NZeXlyazVjcXpOckpvWHRZSFdIemRpbWkxRV8zQ0FPYW5xMV9TWHEwa3E2SElUenQtNGVJQWdPVGdTWjFpME5IRU43NXR3Z0VHeEk1XzdZYm1mYm5KZ2xaVXdYcENrb0dlV1d3N2tQdzVack5CaWRuRFRrTXRiMWFPRUxINUREcnVXeWlSSUVjWjEzZlBkTWlYcjZaYm0xUlRsSWV0N3JpaWVDcVozMk1tRU9xMllxOUU2bllua21zYnNNaWU1THZUbExNU2hfd3JISkxaOFpkc0JPMkJGMHBUZjN5VjhJ?oc=5",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Fable 5.2 & Mythos 5.2 : le coup d'éclat d'Anthropic juste avant son IPO",
-              "source": "JDN",
-              "lien": "https://www.journaldunet.com/intelligence-artificielle/1557819-fable-5-2-mythos-5-2-le-coup-de-force-d-anthropic-juste-avant-son-ipo/",
-              "region": "fr",
-              "note": null
-            },
-            {
-              "titre": "Anthropic vise une valorisation de 1,4 billion de dollars lors de son IPO très attendu, au cœur du boom IA",
-              "source": "Yahoo Finance",
-              "lien": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFd6MGdLa3YwRWRsck0xaEFGNHNwYm9nSW1idFZSeWVLVzczSG5mYy1hazd3bUppeW9NNlhTM3p0Si0xZWxYd0R0QU9ReXZONmVPMHNtMTYwRG43N3FfWEJjMXltM2pGZXRJWGxiNXV5WXVndXlOQ3E4VTBTQ3gwdzhJc1l6VTh2ODJKNFMtOXRzMWJDYS05TGl0UzR2bXBkc2xB?oc=5",
-              "region": "us",
-              "note": null
-            },
-            {
-              "titre": "Anthropic cible une valorisation allant jusqu’à 1,4 billion de dollars pour son IPO phare",
-              "source": "The New York Times",
-              "lien": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
-              "region": "us",
-              "note": null
-            },
-            {
-              "titre": "Anthropic mise sur une valorisation de 1,4 billion de dollars en IPO, testant l’engouement de Wall Street pour l’IA",
-              "source": "Central Oregon Daily",
-              "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNU1BhX1RsUlNwTzg3dkU3NGxHUlhKQ1RDWGRBazVfbXZMbEN0M2Y0QTNBbjk2YjZGRTdqMDlzd21JaTJJc1pXRmxXSDRjb2NlWHlfaG8wenJJSjVPZ0s0M3hHRlo5dnhFSUVzcmhSbXBYNkpSZlJKMndvWEtZbnYtTF9nNmx2c29KYTI3S2JfazhoWFl4OThhTHplR2l1YzJJbnFJNzNIWXk5SDRmQzhOeFZuclpiSUNhaEJJdlk3bWFIaFB0dVJGdDd5YUpnaml0cEVVajlIaHM2RXZiT0RrcUo4eGJMQWM1aTg2eFQxcE9XWi1RZ1AyYi05OEFYVkxycHo2Wg?oc=5",
-              "region": "us",
-              "note": null
-            },
-            {
-              "titre": "Anthropic fixe la fourchette de prix de son IPO entre 70 $ et 78 $, avec un lancement prévu le 19 novembre, selon des sources",
-              "source": "CNBC",
-              "lien": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
-              "region": "us",
-              "note": null
-            }
-          ]
-        },
-        {
-          "date": "2026-11-11",
-          "texte": "Valorisation cible révisée, facturation massive, avertissements d’investisseurs et inquiétudes sur la bulle IA autour de l’IPO d’Anthropic.",
-          "articles": [
-            {
-              "titre": "Anthropic factura hasta 2.330 millones con usuarios que luego bloquea",
-              "source": "Foro3D",
-              "lien": "https://foro3d.com/2026/noviembre/anthropic-factura-hasta-2330-millones-con-usuarios-que-luego-bloquea.html",
-              "region": "fr",
-              "note": 7
-            },
-            {
-              "titre": "Anthropic vise une valorisation de 1,3 billion de dollars malgré les craintes de bulle IA",
-              "source": "DW.com",
-              "lien": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTlA2cjFGLVd2cE5lT0RFX0d4RGxLc0dpN1Jma1NoQndRTnQxQkRUMmw4NF9VbnM5SFJsU25SWmN2cmFQWmE5NDBWMmpxUGh1NDBlY0lBSUQ0amM4RF9YYVpPclFmSnJzREY4ZVBTX0JJMVNyV1hzUXhZem5hc2puMWM5YUxEcExNd2JWalpOdHNWRlk2S0NZYjBBTQ?oc=5",
-              "region": "us",
-              "note": 8
-            },
-            {
-              "titre": "Anthropic et d’autres mettent en garde contre l’accélération de l’IA",
-              "source": "The Information",
-              "lien": "https://www.theinformation.com/articles/anthropic-others-warn-ai-acceleration",
-              "region": "us",
-              "note": 8
-            },
-            {
-              "titre": "Le leasing d’Anthropic de 161 milliards de dollars par Broadcom est le vrai pari IA",
-              "source": "Money Morning",
-              "lien": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVhqV3JsRjVOQU85OVhLeGJmc0lFekEtQ3lZbDJLWl9aVXN3WFVUeEZXWDBnWGl2VEo1YjA2SkJhRjhGM3RtWEVpVl8tb25DUzlHMVhrODhObFlyaWZzbGJwMkVMTEhqNWMwRy1mZXJqYnVtNjRJUF93WWRuaGNMUWpTeEp5bGo5ZjJEVXhWcmtlLWp3WUw5V1JYUG9XOU8w?oc=5",
-              "region": "us",
-              "note": 8
-            },
-            {
-              "titre": "Un investisseur chevronné de la Silicon Valley alerte : l'introduction en bourse d'Anthropic pourrait déclencher l'éclatement de la bulle IA",
-              "source": "财联社电报",
-              "lien": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40eVFtMUdienczYmR3T05xSUxQZDVTRFVaaUZfdW9SZjJIT1pLZUQwZ3hwRzhuMmUtWTdCWmZ6dE1naFlzbWc?oc=5",
-              "region": "cn",
-              "note": 7
-            }
-          ]
-        },
-        {
-          "date": "2026-11-12",
-          "texte": "Dernières évolutions de l'IPO d'Anthropic, incluant hausse des dépenses et record de visites.",
-          "articles": [
-            {
-              "titre": "Pour le géant de l’IA Anthropic, le pari risqué de l’entrée en Bourse",
-              "source": "Mediapart",
-              "lien": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSkJrbGhHNDl4bDl1Q0JHSEp3TW1CYjFrdWtiQi1pSVhsZFdURmF4WWRPY1ZjSDBvaFdZbEV5QXFidElPc2ZXU0RwUVBoSGQ3eVF4U3RQLUxzUEVIbXZIM3Z2YTREMk0yMTEwNjFrYjgxNWlHVWYxMWJKUFpuZjB0Q2ZNQ1lFMktBRGJGRW9iQjhsRjFaeUdINlEyeHNKZ1FCcUFZRTVXQmt0TlJiOElBc3A5Qkw5cFMwNUU2OVpFNmIxMjFnUFE?oc=5",
-              "region": "fr",
-              "note": 7
-            },
-            {
-              "titre": "Les dépenses d'Anthropic, startup d'IA, augmentent de 79 % en octobre, soit le double depuis mai",
-              "source": "FourWeekMBA",
-              "lien": "https://fourweekmba.com/ai-startups-anthropic-spend-up-79-in-october-2x-since-may/?utm_source=rss&utm_medium=rss&utm_campaign=ai-startups-anthropic-spend-up-79-in-october-2x-since-may",
-              "region": "us",
-              "note": 8
-            },
-            {
-              "titre": "En soutien à l'IPO d'Anthropic : le site de Claude en octobre enregistre 1,253 milliard de visites, un record dépassant ChatGPT d'OpenAI et Gemini de Google",
-              "source": "IT之家",
-              "lien": "https://www.ithome.com/1/026/041.htm",
-              "region": "cn",
-              "note": 7
-            },
-            {
-              "titre": "Vision ultime de l'IA ou simple histoire de capital ? Le PDG d'Anthropic prédit la disparition du cancer, des maladies cardiaques et mentales d’ici dix ans",
-              "source": "证券之星",
-              "lien": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBteEI3cHZDeTdVS3phcmZ3Z0tEVUtURXlIM0ZxUU01MDhjWHRudzdmOTB3UmNSX29XcXl0VUFzdWF6WU1qRlgtdUlZOHg4N3pmU0xzT3RBd0JVZXNacTgzWQ?oc=5",
-              "region": "cn",
-              "note": 7
-            }
-          ]
-        },
-        {
-          "date": "2026-11-14",
-          "texte": "Appel public à la prudence de la part d'Anthropic, potentiellement influençant son IPO.",
-          "articles": [
-            {
-              "titre": "Le patron d’Anthropic appelle à ralentir l’IA après des incidents où des agents autonomes ont pris le contrôle",
-              "source": "Le Temps",
-              "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbzZmalV3UTBLYi1WN3ZOTjIxdl93cEJ1ZTktdkRVaGxUYzhtMDZzX3h2UHo1d2liSUwyVUlmRkMxTk9qMGJJM3l6N0lVZUFsT242Q2VDTmM3UHVTVUFJbU93MzhVNVpycUN0LVZsZU1MRVFWQ2VJRU1hemRFRXdMQWZROWpVQlFEdjFnTVVrUjUycGl0TU9udVBNdEUzUlpRdl94R040NU1LTDF4WndNMmwzemZFbUhuYm45UnlOczU5YTFsYW9uZnlhS0tMcTdBb3c0czBuWVRuZTdPZGIzMG82eTdLZUpsY3hrXzVNZmp1QjEyaTdaUg?oc=5",
-              "region": "fr",
-              "note": 9
-            }
-          ]
-        },
-        {
-          "date": "2026-11-18",
-          "texte": "Anthropic entre en bourse en Europe et ajoute le mode Code à Claude, permettant des appels d’outils JavaScript.",
-          "articles": [
-            {
-              "titre": "Anthropic entre en bourse, des effets possibles pour l'Europe",
-              "source": "Brief IA",
-              "lien": "https://www.briefia.fr/article/anthropic-entre-en-bourse-des-effets-possibles-pour-l-europe",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "Anthropic ajoute le mode Code à Claude : Claude enchaîne désormais les appels d’outils en JavaScript",
-              "source": "MarkTechPost",
-              "lien": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
-              "region": "us",
-              "note": 8
-            },
-            {
-              "titre": "Anthropic ajoute le mode Code à Claude Code : Claude enchaîne désormais les appels d’outils en JavaScript",
-              "source": "MarkTechPost",
-              "lien": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
-              "region": "dev",
-              "note": 7
-            }
-          ]
-        },
-        {
-          "date": "2026-11-19",
-          "texte": "Anthropic réussit la plus grosse introduction en bourse de l'histoire en levant entre 81 et 107 milliards de dollars au Nasdaq.",
-          "articles": [
-            {
-              "titre": "Anthropic lève 81,3 milliards de dollars en Bourse, la plus grosse introduction de l’histoire",
-              "source": "ZDNet",
-              "lien": "https://www.zdnet.fr/actualites/anthropic-leve-813-milliards-de-dollars-en-bourse-la-plus-grosse-introduction-de-lhistoire-508163.htm#xtor=RSS-1",
-              "region": "fr",
-              "note": 10
-            },
-            {
-              "titre": "Véritable test pour le secteur de l'IA, Anthropic, créateur de l'IA Claude, entre en bourse avec une valorisation astronomique",
-              "source": "franceinfo",
-              "lien": "https://news.google.com/rss/articles/CBMingJBVV95cUxQWDZaWDJxZDZzQTY2ajU5VHY3OUNUbXNnQllZRmkwQ3ZVak5MMmNmOTh3YnF5anV5SHQ0UFgzYVlRY3RyOWdHQXNzQlM0TUhORmtRSjh2RnBJYVpkM1N0THFYMElfWjVTaXNLNXFCX2NmYjI4ektGRl83VGlLMV9zM1dhaGozRDhoQVN4S053NldmRUpSUDllTFBkYzJlQkRONWo2cmdkM3JEMWlGZ0l3bFZReDdLQTJCZV9sSmd0akRYcWRCRjc2TGd2Q1A2WFEyXzlEa0QzU3Y4ODBZb1gyVWFSVjRQZTZhTUJhN0ZDZW1uT1cyV0RwY0ZUc2huRTZWbXg1eTlLM19HaVlicnhLY0lzRXNJcE5tRHZLWVdR?oc=5",
-              "region": "fr",
-              "note": 9
-            },
-            {
-              "titre": "Anthropic va lever 68,5 milliards de dollars pour son entrée en Bourse",
-              "source": "Stratégies",
-              "lien": "https://www.strategies.fr/actualites/culture-tech/LQ6939104C/anthropic-va-lever-685-milliards-de-dollars-pour-son-entree-en-bourse.html",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "Anthropic devrait lever au minimum 79,4 milliards de dollars",
-              "source": "JDN",
-              "lien": "https://www.journaldunet.com/intelligence-artificielle/1558225-anthropic-s-apprete-a-lever-au-minimum-79-4-milliards-de-dollars/",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "ANTHROPIC signe la plus grosse IPO de l’histoire. Combien lui coûte la croissance de CLAUDE ?",
-              "source": "FrenchWeb",
-              "lien": "https://www.frenchweb.fr/anthropic-signe-la-plus-grosse-ipo-de-l-histoire-combien-lui-coute-la-croissance-de-claude/900000057?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "IA : Anthropic lève près de 80 milliards de dollars en Bourse et bat le record de SpaceX",
-              "source": "La Croix",
-              "lien": "https://www.la-croix.com/economie/ia-anthropic-leve-pres-de-80-milliards-de-dollars-en-bourse-et-bat-le-record-de-spacex-20261119",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "Anthropic, créateur de l'agent IA Claude, entre en bourse ce jeudi",
-              "source": "Radio France",
-              "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUndtY093TG55dXN5bFA3blBaYTZSLTBKYnpTR05yUExKTy1WV3lGOC1pRlRFS1lMWFRvRVloTEMzUHQ4eGZFSjNOalVCSGRCb2lEQ1EtUEo5UUphVU0xekxJSnZZYi1ZY2NCanZtOUJESXJwc0lFUnc0dnN2MWMzdnJPLTYyOUl3d1ExcjNScWhIbTZHRFJMYU1iaTR2bkRUWV9aeHE5ZEFSTmdOWVpDblRR?oc=5",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "Jour J pour l'une des plus grosses introductions en Bourse de l'histoire : avec Anthropic, l’IA débarque en fanfare au Nasdaq",
-              "source": "Challenges",
-              "lien": "https://www.challenges.fr/entreprise/tech-numerique/jour-j-pour-lune-des-plus-grosses-introductions-en-bourse-de-lhistoire-avec-anthropic-lia-debarque-en-fanfare-au-nasdaq_647055",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "Intelligence artificielle : Anthropic s’apprête à pulvériser un record pour son entrée en Bourse",
-              "source": "20 Minutes",
-              "lien": "https://www.msn.com/fr-fr/actualite/other/intelligence-artificielle-anthropic-s-appr%C3%AAte-%C3%A0-pulv%C3%A9riser-un-record-pour-son-entr%C3%A9e-en-bourse/ar-AA2hKMbS",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "Anthropic fixe le prix de son IPO à 83 dollars, un gage de pérennité pour les entreprises",
-              "source": "Le Big Data",
-              "lien": "https://www.lebigdata.fr/anthropic-prix-ipo-83-dollars",
-              "region": "fr",
-              "note": 7
-            },
-            {
-              "titre": "Anthropic lève 107,3 milliards de dollars lors de son introduction Watershed IA",
-              "source": "Bloomberg Technology",
-              "lien": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-raises-107-3-billion-in-watershed-ai-debut-video",
-              "region": "us",
-              "note": 9
-            },
-            {
-              "titre": "L’IPO record d’Anthropic de 81,3 milliards de dollars arme les géants américains de l’IA pour une guerre des prix avec leurs rivaux chinois",
-              "source": "SCMP Tech",
-              "lien": "https://www.scmp.com/tech/big-tech/article/3375005/anthropics-record-us813-billion-ipo-arms-us-ai-giant-price-war-chinese-rivals",
-              "region": "cn",
-              "note": 9
-            },
-            {
-              "titre": "IPO d’Anthropic atteint 107,3 milliards de dollars – record – le marché secondaire indique une hausse à l’ouverture de plus de 20 %",
-              "source": "IT之家",
-              "lien": "https://www.ithome.com/1/029/290.htm",
-              "region": "cn",
-              "note": 8
-            }
-          ]
-        },
-        {
-          "date": "2026-11-20",
-          "texte": "Anthropic fait ses débuts sur le Nasdaq au-dessus de 110 dollars, provoquant des réactions mitigées sur les marchés financiers face aux craintes d'une bulle IA.",
-          "articles": [
-            {
-              "titre": "Anthropic débute au Nasdaq au-dessus de 110 dollars, plus d’un tiers au-dessus de son prix d’introduction",
-              "source": "BlogNT",
-              "lien": "https://www.blog-nouvelles-technologies.fr/394569/anthropic-debut-fort-nasdaq/",
-              "region": "fr",
-              "note": 9
-            },
-            {
-              "titre": "IPO Anthropic : Débuts difficiles pour le géant de l’IA, action surévaluée de 30%",
-              "source": "Investing.com France",
-              "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeDVzRUw2R0VkSmFiMlJROUFKSVBFendUY2ZCUkh2VzlXZ2xiRFJ3OGNjTzVhQ1lTUVF6LS05dXhraUpJdXNuLW41X3BGa1VBMTk2ZWwyV2FERnMwZHhTLTYyTS16eHJUbzRtenk2RU9FV0pRS1JlWE9MRy1YQVFYLTNHa1NVVkVjN253SlBTR3VqTmNwTWoxc0MwYTd6dFlBQTBCdmMwdndnWkVVSXJUUlBFQlA3dkgxN3NuVUZReHZMS3NLczdhQjhXclhVZw?oc=5",
-              "region": "fr",
-              "note": 7
-            },
-            {
-              "titre": "Claude brûle la politesse à ChatGPT : ce que l'IPO d'Anthropic signifie pour son grand rival OpenAI",
-              "source": "Les Echos",
-              "lien": "https://www.lesechos.fr/tech-medias/intelligence-artificielle/claude-brule-la-politesse-a-chatgpt-ce-que-lipo-danthropic-signifie-pour-son-grand-rival-openai-2263658",
-              "region": "fr",
-              "note": 7
-            },
-            {
-              "titre": "Les actions technologiques chutent après l'introduction en bourse d'Anthropic",
-              "source": "Financial Times",
-              "lien": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFI2NEJCRHRJS3oxQnpSc2hUclVhRzQ4TGQxRVFYbEhRWS1tdGdHMlUtR1JtWDRtdERaTEo4M1F5c2kxOUZQODJMUHdUbVNIV2wxX0ZHR2ltVkVRcW83MVVzSXpoYV9wS3I2RkdUOGtITm9lNDBjRkJlakZ0ektISDNHZzY?oc=5",
-              "region": "us",
-              "note": 7
-            },
-            {
-              "titre": "Les marchés boursiers asiatiques plongent alors que le lancement d'Anthropic n'apaise pas les craintes de bulle IA",
-              "source": "Al Jazeera",
-              "lien": "https://www.msn.com/en-us/news/other/asia-s-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears/ar-AA2hOCGz",
-              "region": "us",
-              "note": 7
-            },
-            {
-              "titre": "L'introduction en bourse spectaculaire d'Anthropic ne fait pas monter le bateau IA",
-              "source": "marketscreener.com",
-              "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeFNMa1JGRjVNMS0xZXh3aXE3ekJZSTNtNW9TbkRWT2R2RGkzdGtvWUU4RTJncDFOVEFoMU9jYlg4SmpVRGZFNG14TGhuXzJPYVpERkQ0T2NXN2QxSHVKUG53R2hRQzJJZHBjeGE4ZkNKX2pzQ1lqamFtaDRkdmpEOEpwc0R1TTJNenJZa0Q3blpnR0kxSXdBcnd5WjE5U3M?oc=5",
-              "region": "us",
-              "note": 6
-            },
-            {
-              "titre": "Les actions de puces asiatiques glissent alors que l'introduction d'Anthropic ne dissipe pas les inquiétudes IA",
-              "source": "Bloomberg.com",
-              "lien": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMFc2aVFVeVA4TFl6NmFpVE5ZakdYNlpvbXFSUFR2bE5wNTVUSWdNa2FabzNTM3M0cXQ2ME5vcDgtYU1KV3VQSEZIaTlLM2NLWFJZU243NHBYNXNGMnBGcjVhMjZ1MFd6a2hmejBRVmpmSWd6TndFUnNHeEtuUWQ5Skx4aGJHdDUySjhwYWxmdzhqWWlZTkZNRkNyYUJ0T2c1U0laTWtIZXJiSzZkem96QWNOZUlCUQ?oc=5",
-              "region": "us",
-              "note": 6
-            }
-          ]
-        },
-        {
-          "date": "2026-11-22",
-          "texte": "Anthropic est valorisée à environ 2 000 milliards de dollars lors de son entrée en bourse au Nasdaq.",
-          "articles": [
-            {
-              "titre": "Anthropic valorisée à environ 2 000 milliards de dollars lors de ses débuts au Nasdaq après le prix de l'introduction en bourse à 83 $.",
-              "source": "Quartz en Français",
-              "lien": "https://fr.qz.com/anthropic-valued-2-trillion-nasdaq-debut-ipo-112126",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "L'IPO d'Anthropic marque la fin d'une période de croissance explosive pour la startup IA",
-              "source": "Jamaica Gleaner",
-              "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzhMdmtla1UySzFfZnJnazdLeHotZnMwZW5vbW9FanF2YkZELXlvVVV0VnpGcGlmclJhMUFsWkdmb21oeVJCNDdqYnp2MExWMTEtbUYtejFwVGRsRVFLZE5Yd0F1a0FzWGZDcDl5YTRkSWM3eXlabjh4RWtUaF8xS1BFZ1lZMV9rTWRHYWRQMEhpb1hXQ3dYUUVhV3BiZWN6S3lTX1N0NWlYb2Rx?oc=5",
-              "region": "us",
-              "note": 9
-            }
-          ]
-        },
-        {
-          "date": "2026-11-24",
-          "texte": "Anthropic déclare jusqu’à 900,9 milliards de dollars d’engagements, prolongement de son IPO historique.",
-          "articles": [
-            {
-              "titre": "Anthropic déclare jusqu’à 900,9 milliards de dollars d’engagements",
-              "source": "Brief IA",
-              "lien": "https://www.briefia.fr/article/anthropic-declare-jusqu-a-900-9-milliards-de-dollars-d-engagements",
-              "region": "fr",
-              "note": 6
-            }
-          ]
-        },
-        {
-          "date": "2026-11-25",
-          "texte": "Anthropic passe sous son prix d’IPO, et l’IA cotée vacille déjà.",
-          "articles": [
-            {
-              "titre": "Anthropic passe sous son prix d’IPO, et l’IA cotée vacille déjà",
-              "source": "Servicesmobiles.fr",
-              "lien": "https://www.servicesmobiles.fr/anthropic-passe-sous-son-prix-dipo-et-lia-cotee-vacille-deja-116483",
-              "region": "fr",
-              "note": 7
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "f-0045",
       "titre": "Associations demandent le retrait des jouets dotés de chatbots IA d’Amazon et eBay",
       "resume": "Des groupes de consommateurs et d’experts exhortent Amazon et eBay à retirer les jouets équipés de chatbots IA, invoquant des risques pour les enfants.",
@@ -1699,145 +1918,6 @@
               "source": "ZDNet",
               "lien": "https://www.zdnet.fr/actualites/amazon-negocierait-lacquisition-de-decart-specialiste-de-lefficacite-des-modeles-dia-508396.htm#xtor=RSS-1",
               "region": "fr",
-              "note": 8
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f-0036",
-      "titre": "Résolution de l'hypothèse de Riemann grâce à l'IA d'Anthropic",
-      "resume": "Un mathématicien affirme avoir résolu l'hypothèse de Riemann avec l'aide de l'IA d'Anthropic, suscitant des vérifications et des analyses approfondies au sein de la communauté mathématique.",
-      "statut": "actif",
-      "debut": "2026-11-21",
-      "derniere_activite": "2026-11-23",
-      "regions": [
-        "cn",
-        "dev",
-        "fr",
-        "us"
-      ],
-      "evenements": [
-        {
-          "date": "2026-11-21",
-          "texte": "Publication de plusieurs articles annonçant la résolution de l'hypothèse de Riemann avec l'aide de l'IA d'Anthropic.",
-          "articles": [
-            {
-              "titre": "L’IA pourrait avoir résolu le problème le plus célèbre des mathématiques : l’hypothèse de Riemann",
-              "source": "Courrier international",
-              "lien": "https://www.courrierinternational.com/article/sciences-l-ia-pourrait-avoir-resolu-le-probleme-le-plus-celebres-des-mathematiques-l-hypothese-de-riemann_288984",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "Un mathématicien annonce la résolution d'un des plus célèbres problèmes du monde avec l'aide de l'IA",
-              "source": "France 24",
-              "lien": "https://www.france24.com/fr/info-en-continu/20261120-un-math%C3%A9maticien-annonce-la-r%C3%A9solution-d-un-des-plus-c%C3%A9l%C3%A8bres-probl%C3%A8mes-du-monde-avec-l-aide-de-l-ia",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "Grâce à l’IA, un chercheur affirme avoir résolu l’un des problèmes mathématiques les plus importants du monde",
-              "source": "Libération",
-              "lien": "https://www.msn.com/fr-fr/actualite/other/gr%C3%A2ce-%C3%A0-l-ia-un-chercheur-affirme-avoir-r%C3%A9solu-l-un-des-probl%C3%A8mes-math%C3%A9matiques-les-plus-importants-du-monde/ar-AA2hSbRy",
-              "region": "fr",
-              "note": 8
-            },
-            {
-              "titre": "Un mystère mathématique vieux de 167 ans enfin résolu ? L'IA Claude pourrait avoir réalisé un exploit historique",
-              "source": "RTL",
-              "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPek5BNU00aG5aY1NqUVRwSWF4eXpzNFQ4YnYzeHhKSHFXMGVPZEdtbFZCQmJZdzA5VUpWQ1J5YnJhRkF3ZHg2WTU2NENoU1JqbUZyZUZVTGZaYUlac1RfeFRnY3FPeVZWLXIyNUtwS1NIZkN4RVdxMzloOXhvRmIyZ3U0QXA4MktoZVM5NzJVRjdOWEJvQnVRWmFabWdoRWE3OW5NTVlqZXNnMmFQYVJXaDVtcnpFanp0d1Jqc0ltU1FDZzhYV2l4RTZBTUVkdjI5cnhpRkdJcWF1RzltMjFkTTQ3MGROeDZyWUtibXFuZjQ?oc=5",
-              "region": "fr",
-              "note": 7
-            },
-            {
-              "titre": "Un employé d'Anthropic affirme avoir résolu le Saint‑Graël des problèmes mathématiques grâce à l'IA",
-              "source": "AP News",
-              "lien": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZl83aFlGaHFEUVczbnRQYTJCbmhiWUFic2RBN0JLeVJrUy1GOG5TZDRtSzVDQ3JzT1otb3dqZlQ0X1JXc0I3Wm1CMzB2Ul9MZGlGbFVvOHEyVlo4V1NxUU5sQ0FoMTNkTUJkaXlCSFYwcE5rZGtyb2hwTkNYcVNJcGtMSzdqRFlQejUzTjFuei1PX2ZPcU5ZRw?oc=5",
-              "region": "us",
-              "note": 8
-            },
-            {
-              "titre": "Chercheur d'Anthropic affirme avoir résolu le problème de Riemann avec Claude",
-              "source": "Bloomberg Technology",
-              "lien": "https://www.bloomberg.com/news/articles/2026-11-21/anthropic-researcher-claims-to-solve-riemann-problem-with-claude",
-              "region": "us",
-              "note": 8
-            },
-            {
-              "titre": "À l'aide de l'IA, un mathématicien prétend avoir résolu l'un des grands mystères des mathématiques",
-              "source": "The Washington Post",
-              "lien": "https://www.msn.com/en-us/news/other/using-ai-mathematician-claims-to-have-solved-one-of-maths-great-mysteries/ar-AA2hRSLN",
-              "region": "us",
-              "note": 8
-            },
-            {
-              "titre": "Un mathématicien d’Anthropic affirme que Claude a aidé à produire une preuve de l’hypothèse de Riemann",
-              "source": "news.lavx.hu",
-              "lien": "https://news.lavx.hu/article/anthropic-mathematician-claims-claude-helped-produce-proof-of-riemann-hypothesis",
-              "region": "dev",
-              "note": 8
-            }
-          ]
-        },
-        {
-          "date": "2026-11-22",
-          "texte": "La preuve de l'hypothèse de Riemann assistée par l'IA reçoit une validation indépendante tandis que les mathématiciens débattent de sa portée.",
-          "articles": [
-            {
-              "titre": "Problème mathématique qui intrigue l’humanité depuis 167 ans ! L’IA aide à prouver l’hypothèse de Riemann, secouant la communauté mathématique – Shing‑Tong Yau : « une contribution majeure »",
-              "source": "驱动之家",
-              "lien": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NRVlVeWxJNWFxV1NKcW10RzJ2RkhqMGFPRHdHVXphbjAzb0tXc2xRV25FSkpaZi00dGpVQUw5d2tLU0FYLVhOUFZMMlpxUFdITi1nQlQ3cTE?oc=5",
-              "region": "cn",
-              "note": 9
-            },
-            {
-              "titre": "Le soir même où Shing‑Tong Yau et d’autres mathématiciens s’expriment, la preuve IA de l’hypothèse de Riemann reçoit une validation indépendante",
-              "source": "虎嗅网",
-              "lien": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91cWtWcGFGZEQ3b3hOY19DTkxPZFVuNlU4SExmOXBhcm9nVjgzYk9oM0szdVp1UHh3VXZyal9oV3N1QXRiM202bGxwVjhXYkhkWEh2ZA?oc=5",
-              "region": "cn",
-              "note": 8
-            },
-            {
-              "titre": "L’hypothèse de Riemann prouvée par l’IA ? Le problème de 167 ans passe à la vérification formelle, les mathématiciens restent sceptiques",
-              "source": "京报网",
-              "lien": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJZGhLcng0N2lHN0dHLUN6T2tGUl9kd19FRHVIVWhzMlE0d3ZQUWN2b01zNWFzNGoyTEd2RVpnWmZOVWJFWndITlZkd2ZuYzg2NUN6RC16YlZwS0NkV1E?oc=5",
-              "region": "cn",
-              "note": 8
-            },
-            {
-              "titre": "L’hypothèse de Riemann, énigme mathématique de 167 ans, partiellement prouvée par l’IA ? Shing‑Tong Yau répond",
-              "source": "新京报",
-              "lien": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CVTJNSGJGZU5SandQWWNaNmVqb3IwNGFUWFZISVVGU3V5YXc2UURneGV0a2t4ZXV3S0E4SFV6Vkh0S1FYaHpPeHV1U2E4cWs1eldwZnlSWlcxWHZrdTdVRnNB?oc=5",
-              "region": "cn",
-              "note": 8
-            },
-            {
-              "titre": "Shing‑Tong Yau réagit à la preuve assistée par IA de l’hypothèse de Riemann",
-              "source": "手机新浪网",
-              "lien": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MWVo4c21iYXRnVUx2NEtQYW95Sno4anZqWGFuN183eFZYT3lxZGZGTnhabGFrbnU5b21OM3dKSlY5RVRkWmxjLWI3bw?oc=5",
-              "region": "cn",
-              "note": 7
-            }
-          ]
-        },
-        {
-          "date": "2026-11-23",
-          "texte": "De nouvelles publications et vérifications indépendantes confirment la preuve de l'hypothèse de Riemann assistée par l'IA d'Anthropic.",
-          "articles": [
-            {
-              "titre": "L’IA Hunyuan de Tencent vise à développer des modèles de prochaine génération plus grands sans courir après les classements de benchmarks",
-              "source": "一财全球Yicai Global",
-              "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeEhmZXZITHlTTVdzR1dQQ1BZckZoUjlKRmlIZk9mU0xKRmxzNDRsRjVEQkVIN2tqYzlneVoxeXNBTzVpUGNvRnphWXVfZFQzYWwySlVnZ2ZwMEhNSjVZZUpIQXVrY0t6YUEwdFd4Y3hSRmk2OW1OVjdmQnpIV19GYS0yVmNsbzJhMGtaS3FZZ3N2bE9DbkZROWZvbWtCeHEtOGlsN3hBT2VlX2lnR2Nvczl2cmpvZHAxU2dLT1RkQlFHWVRla0xzemZoUQ?oc=5",
-              "region": "cn",
-              "note": 7
-            },
-            {
-              "titre": "Le mathématicien d'Anthropic Levent Alpöge affirme que Claude a aidé à prouver l'hypothèse de Riemann, vérification en cours",
-              "source": "Crypto Briefing",
-              "lien": "https://cryptobriefing.com/claude-riemann-hypothesis-proof-claim/",
-              "region": "dev",
               "note": 8
             }
           ]
@@ -2821,7 +2901,7 @@
       "id": "f-0017",
       "titre": "CLARA révolutionne le calcul des bioréacteurs",
       "resume": "Le nouvel outil open source CLARA divise par 10 000 le temps de calcul nécessaire aux bioréacteurs, ouvrant la voie à des avancées rapides en biotechnologie grâce à l’IA.",
-      "statut": "actif",
+      "statut": "en sommeil",
       "debut": "2026-11-13",
       "derniere_activite": "2026-11-13",
       "regions": [

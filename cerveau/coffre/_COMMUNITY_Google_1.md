@@ -1,24 +1,22 @@
 ---
 type: community
-members: 11
+members: 9
 ---
 
 # Google
 
-**Members:** 11 nodes
+**Members:** 9 nodes
 
 ## Members
-- [[BlogNT]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
-- [[Brief IA]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
-- [[CNews]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
-- [[Fortuneo]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
-- [[FranceTransactions.com]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
-- [[Graphseo Bourse]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
-- [[Investing.com France]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
-- [[Le Figaro]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
-- [[Les Echos]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
-- [[Veille France 2026-11-20  IPO et dynamique du marché de l'IA]] - document - veilles/veille-ia-fr-2026-11-20-t1.md
-- [[Zonebourse]] - concept - veilles/veille-ia-fr-2026-11-20-t1.md
+- [[ChatGPT Ads]] - concept - veilles/veille-ia-dev-2026-11-24-t6.md
+- [[Elasticsearch]] - concept - veilles/veille-ia-fr-2026-11-28-t2.md
+- [[Google AI Mode]] - concept - veilles/veille-ia-dev-2026-11-24-t6.md
+- [[Java4Shell]] - concept - veilles/veille-ia-fr-2026-11-28-t2.md
+- [[Linux]] - concept - veilles/veille-ia-dev-2026-11-25-t2.md
+- [[STEWARD]] - concept - veilles/veille-ia-dev-2026-11-24-t6.md
+- [[Shirudo]] - concept - veilles/veille-ia-dev-2026-11-24-t6.md
+- [[Veille Outils & code 2026-11-24 (t6)]] - document - veilles/veille-ia-dev-2026-11-24-t6.md
+- [[Veille Outils & code 2026-11-25  Sécurité et gouvernance des IA]] - document - veilles/veille-ia-dev-2026-11-25-t3.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -28,7 +26,11 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_David Tepper]]
+- 2 edges to [[_COMMUNITY_Veille France 2026-11-25]]
+- 2 edges to [[_COMMUNITY_Claude Code]]
+- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-26]]
+- 1 edge to [[_COMMUNITY_Elon Musk]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-20  IPO et dynamique du marché de l'IA]] - degree 11, connects to 1 community
+- [[Shirudo]] - degree 10, connects to 4 communities
+- [[ChatGPT Ads]] - degree 2, connects to 1 community

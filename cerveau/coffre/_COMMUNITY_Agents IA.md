@@ -21,10 +21,10 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Libertify]]
+- 2 edges to [[_COMMUNITY_Elon Musk]]
 - 1 edge to [[_COMMUNITY_Google]]
 - 1 edge to [[_COMMUNITY_David Tepper]]
-- 1 edge to [[_COMMUNITY_Veille France 2026-11-10]]
+- 1 edge to [[_COMMUNITY_Jensen Huang]]
 
 ## Top bridge nodes
 - [[Agents IA]] - degree 4, connects to 2 communities

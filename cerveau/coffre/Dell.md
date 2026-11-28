@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-21-t5.md"
 type: "code"
-community: "Dell"
+community: "Microsoft"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Dell
+  - community/Microsoft
 ---
 
 # Dell
@@ -20,4 +20,4 @@ tags:
 - [[Veille France 2026-11-17]] - `references` [EXTRACTED]
 - [[Veille France 2026-11-26  Impact sociétal et économique]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Dell
+#graphify/code #graphify/EXTRACTED #community/Microsoft

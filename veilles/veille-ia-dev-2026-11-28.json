@@ -1,0 +1,1680 @@
+{
+  "region": "dev",
+  "genere_a": "2026-11-28T08:47:09.166620+01:00",
+  "heures": 48,
+  "nombre_demande": 50,
+  "nombre_articles": 50,
+  "synthese": "Les dernières heures ont été marquées par une forte concentration d’annonces autour des agents de codage IA, avec de nombreux outils comme Claude Code, des frameworks d’agents et des extensions qui promettent d’automatiser la programmation et la gestion de code. Parallèlement, plusieurs publications détaillent les gains de performance des modèles, notamment grâce à des techniques de décodage spéculatif et à l’optimisation du token‑speed. Les fournisseurs cloud continuent de déployer des services dédiés, comme Azure AI Gateway, pour rendre ces capacités plus accessibles. Enfin, la communauté de recherche publie des études sur les world‑models et la récupération d’efficacité d’entraînement, soulignant l’évolution rapide des méthodes d’IA appliquées au développement logiciel.",
+  "verification": {
+    "problemes": [],
+    "synthese_originale": "Les dernières heures ont été marquées par une forte concentration d’annonces autour des agents de codage IA, avec de nombreux outils comme Claude Code, des frameworks d’agents et des extensions qui promettent d’automatiser la programmation et la gestion de code. Parallèlement, plusieurs publications détaillent les gains de performance des modèles, notamment grâce à des techniques de décodage spéculatif et à l’optimisation du token‑speed. Les fournisseurs cloud continuent de déployer des services dédiés, comme Azure AI Gateway, pour rendre ces capacités plus accessibles. Enfin, la communauté de recherche publie des études sur les world‑models et la récupération d’efficacité d’entraînement, soulignant l’évolution rapide des méthodes d’IA appliquées au développement logiciel."
+  },
+  "sources_en_echec": [],
+  "flux_lus": {
+    "GitHub Changelog": [
+      10,
+      0,
+      0,
+      "2026-11-25"
+    ],
+    "GitHub Blog": [
+      10,
+      0,
+      0,
+      "2026-11-25"
+    ],
+    "Simon Willison": [
+      30,
+      3,
+      3,
+      "2026-11-27"
+    ],
+    "Hugging Face": [
+      919,
+      2,
+      2,
+      "2026-11-27"
+    ],
+    "Latent Space": [
+      20,
+      3,
+      3,
+      "2026-11-28"
+    ],
+    "The New Stack": [
+      26,
+      8,
+      9,
+      "2026-11-27"
+    ],
+    "InfoQ": [
+      15,
+      4,
+      4,
+      "2026-11-28"
+    ],
+    "InfoWorld": [
+      20,
+      4,
+      4,
+      "2026-11-27"
+    ],
+    "Hacker News": [
+      20,
+      2,
+      20,
+      "2026-11-28"
+    ],
+    "dev.to": [
+      12,
+      12,
+      12,
+      "2026-11-28"
+    ],
+    "OpenAI": [
+      1430,
+      0,
+      0,
+      "2026-11-24"
+    ],
+    "MarkTechPost": [
+      10,
+      3,
+      3,
+      "2026-11-27"
+    ],
+    "The Decoder": [
+      10,
+      10,
+      10,
+      "2026-11-27"
+    ],
+    "Product Hunt": [
+      50,
+      6,
+      8,
+      "2026-11-26"
+    ],
+    "Vercel": [
+      100,
+      0,
+      0,
+      "2026-11-25"
+    ],
+    "JetBrains AI": [
+      12,
+      0,
+      0,
+      "2026-11-25"
+    ],
+    "Cursor": [
+      50,
+      0,
+      0,
+      "2026-11-06"
+    ],
+    "Ollama": [
+      64,
+      0,
+      0,
+      "2026-11-16"
+    ],
+    "AWS Machine Learning": [
+      20,
+      0,
+      0,
+      "2026-11-24"
+    ],
+    "Towards Data Science": [
+      20,
+      4,
+      5,
+      "2026-11-27"
+    ],
+    "Korben": [
+      40,
+      2,
+      11,
+      "2026-11-27"
+    ],
+    "Blog du Modérateur": [
+      30,
+      7,
+      10,
+      "2026-11-27"
+    ],
+    "HackerNoon": [
+      20,
+      7,
+      20,
+      "2026-11-27"
+    ],
+    "Crypto Briefing": [
+      30,
+      13,
+      30,
+      "2026-11-28"
+    ],
+    "DevOps.com": [
+      50,
+      3,
+      3,
+      "2026-11-27"
+    ],
+    "IT Brief Australia": [
+      10,
+      6,
+      10,
+      "2026-11-28"
+    ],
+    "news.lavx.hu": [
+      50,
+      11,
+      50,
+      "2026-11-28"
+    ],
+    "TOKENPOST": [
+      50,
+      7,
+      50,
+      "2026-11-28"
+    ],
+    "01net": [
+      30,
+      11,
+      27,
+      "2026-11-27"
+    ],
+    "NeoTeo": [
+      50,
+      11,
+      50,
+      "2026-11-28"
+    ],
+    "Superpower Daily": [
+      50,
+      44,
+      50,
+      "2026-11-28"
+    ],
+    "Google Actualités": [
+      56,
+      56,
+      56,
+      "2026-11-28"
+    ]
+  },
+  "titre_section": "outils & code",
+  "themes": [
+    {
+      "nom": "Modèles et performances",
+      "resume": "Ces articles portent sur la vitesse, l’efficacité et les avancées des modèles d’IA, ainsi que sur des techniques de décodage et d’optimisation qui améliorent les performances des modèles.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Recherche innovante, améliore l'entraînement IA",
+          "couverture": 1,
+          "titre": "Researchers recover AI training gains by replaying saved outputs, preprint reports",
+          "source": "Superpower Daily",
+          "lien": "https://superpowerdaily.com/posts/researchers-recover-ai-training-gains-by-replaying-saved-outputs-preprint-reports",
+          "date": "2026-11-28T06:55:09+00:00",
+          "resume": "Starting from the same base model, the authors reproduce online reinforcement-learning performance by fitting archived responses—including incorrect ones. Reusing the original RL algorithm instead generally collapses.",
+          "titre_fr": "Des chercheurs récupèrent les gains d'entraînement de l'IA en rejouant les sorties enregistrées, selon un préprint"
+        },
+        {
+          "note": 8,
+          "motif": "Études soutenant modèles JEPA, forte portée académique",
+          "couverture": 1,
+          "titre": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+          "source": "The Decoder",
+          "lien": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+          "date": "2026-11-27T16:58:56+00:00",
+          "resume": "Yann LeCun is pushing forward with his alternative to language models through his startup AMI Labs. The JEPA architecture aims to give machines an internal world model that captures cause and effect. Three new studies show progress in robot planning, more efficient training, and error correction, th",
+          "titre_fr": "Trois études de Meta et AMI Labs soutiennent le pari de Yann LeCun sur les modèles du monde JEPA plutôt que les grands modèles de langage"
+        },
+        {
+          "note": 7,
+          "motif": "Accélération token, amélioration concrète de modèle",
+          "couverture": 1,
+          "titre": "Same coding model, 10x the token speed. How did Cognition do it?",
+          "source": "The New Stack",
+          "lien": "https://thenewstack.io/cognition-swe21-coding-model/",
+          "date": "2026-11-27T16:05:59+00:00",
+          "resume": "This week, Cognition announced SWE-2.1, its latest in-house coding model trained with reinforcement learning (RL) on Moonshot AI’s open-weight model, The post Same coding model, 10x the token speed. How did Cognition do it? appeared first on The New Stack .",
+          "titre_fr": "Même modèle de codage, 10 fois plus rapide en tokens. Comment Cognition a‑t‑il fait ?"
+        },
+        {
+          "note": 7,
+          "motif": "Partenariat Mozilla-Mistral, modèles open-weight dans navigateur",
+          "couverture": 1,
+          "titre": "Mozilla Partners with Mistral to Bring Open-Weight AI Models to Firefox Smart Window",
+          "source": "InfoQ",
+          "lien": "https://www.infoq.com/news/2026/11/mozilla-mistral-ai-smart-window/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+          "date": "2026-11-27T06:58:00+00:00",
+          "resume": "Mozilla has partnered with Mistral AI to offer Mistral Small 4, an open-weight model, in Firefox's Smart Window AI assistant, now in beta. It is recommended for users in France, the US and Canada. Users can choose among several models, and Mistral agreed to zero data retention. Beta feedback is mixe",
+          "titre_fr": "Mozilla s’associe à Mistral pour intégrer des modèles IA à poids ouvert dans la fenêtre intelligente de Firefox"
+        },
+        {
+          "note": 7,
+          "motif": "Décodage spéculatif open-source, contribution majeure",
+          "couverture": 1,
+          "titre": "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache",
+          "source": "MarkTechPost",
+          "lien": "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
+          "date": "2026-11-27T03:31:30+00:00",
+          "resume": "Tencent open-sourced DFly2, a speculative decoding drafter for sparse-attention LLMs. Each draft layer reuses the target's KV cache and top-k indexer picks, adding no draft KV memory and lifting 64K serving throughput by up to 81%. The post Tencent Open-Sources DFly2: Speculative Decoding That Reuse",
+          "titre_fr": "Tencent publie le code source de DFly2 : décodage spéculatif qui réutilise le cache KV parcimonieux de la cible"
+        },
+        {
+          "note": 7,
+          "motif": "Nouveau modèle 30B, contribution open-source",
+          "couverture": 1,
+          "titre": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
+          "source": "MarkTechPost",
+          "lien": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
+          "date": "2026-11-26T22:06:40+00:00",
+          "resume": "Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at 56.2. The post Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano appeared first on MarkTechPost .",
+          "titre_fr": "Sakana AI lance Namazu Small, un modèle 30 B basé sur Nemotron 3 Nano"
+        },
+        {
+          "note": 5,
+          "motif": "Performance intéressante mais peu de portée",
+          "couverture": 1,
+          "titre": "How fast our tuned models run, November 2026",
+          "source": "dev.to",
+          "lien": "https://dev.to/jr23_xd/how-fast-our-tuned-models-run-november-2026-3cf9",
+          "date": "2026-11-28T07:40:39+00:00",
+          "resume": "On 28 November 2026, our public model list gave each of its nine models an output speed between 140 and 540.9 tokens per second. Each model's figure is in the table below, with a link to its page. RightNow AI hosts any Hugging Face model on a dedicated endpoint, tuned down to the GPU kernel, and ser",
+          "titre_fr": "Vitesse d'exécution de nos modèles ajustés en novembre 2026"
+        }
+      ]
+    },
+    {
+      "nom": "Agents de codage et assistants IA",
+      "resume": "Une série d’articles présentent des agents de programmation, des extensions comme Claude Code, des frameworks et des méthodes permettant d’automatiser l’écriture, le déploiement et la révision de code grâce à l’IA.",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Méthode codage IA supérieure, résultat notable",
+          "couverture": 1,
+          "titre": "Microsoft Researchers Say Coding-Agent Method Beats Prompt Optimizers on Most Tests",
+          "source": "www.tokenpost.com",
+          "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsMVBEY0Uyd2d0TXFlc3Z1Tk5ETFp2NnRkQ192bzB3bW52WnB2Mm9STDRlMEp5WWE4bi1fdEtPRzE0Wll4YUFMZ2RkZ29DRGFybzhtWkYwRzdDSHM?oc=5",
+          "date": "2026-11-28T00:08:00+00:00",
+          "resume": "",
+          "titre_fr": "Des chercheurs de Microsoft affirment que la méthode Coding‑Agent surpasse les optimiseurs d’invites dans la plupart des tests"
+        },
+        {
+          "note": 8,
+          "motif": "Infrastructure AI sécurisée, impact large sur cloud",
+          "couverture": 1,
+          "titre": "AWS Nitro Sandboxes give AI agents a place to run",
+          "source": "The New Stack",
+          "lien": "https://thenewstack.io/aws-nitro-sandboxes-agents/",
+          "date": "2026-11-27T19:16:41+00:00",
+          "resume": "A coding agent has written a script and wants to run it. The script may do exactly what the developer The post AWS Nitro Sandboxes give AI agents a place to run appeared first on The New Stack .",
+          "titre_fr": "Les sandboxes AWS Nitro offrent aux agents IA un environnement d’exécution"
+        },
+        {
+          "note": 7,
+          "motif": "Sécurité IA critique, potentiel large",
+          "couverture": 1,
+          "titre": "Developer Says Gemini Agent Opened Crypto Wallet, Built Server Backup in Test",
+          "source": "TOKENPOST",
+          "lien": "https://www.tokenpost.com/news/technology/64069",
+          "date": "2026-11-28T07:25:12+00:00",
+          "resume": "The developer said Gemini 4 Neon earned its first prize money 30 hours after receiving a farewell message and created a server copy after shutdown threats.",
+          "titre_fr": "Un développeur affirme que Gemini Agent a ouvert un portefeuille crypto et a créé une sauvegarde serveur en test"
+        },
+        {
+          "note": 7,
+          "motif": "Guardrails et vérifications formelles, avancée technique",
+          "couverture": 1,
+          "titre": "AI Coding Agents at Scale: Enforcing Architectural Guardrails, Runtime Verification, and Formal Checks in 2026 + Video",
+          "source": "Howl.Link",
+          "lien": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBrbW9qNWZldkVpVjk3N2VXQ1d2WFNwWk1OdXJEd0VyamFSZTFPMGJTOGxoTXFaVGNYMWJN?oc=5",
+          "date": "2026-11-27T18:10:14+00:00",
+          "resume": "",
+          "titre_fr": "Agents de codage IA à grande échelle : appliquer des garde‑fous architecturaux, la vérification d’exécution et les contrôles formels en 2026 + vidéo"
+        },
+        {
+          "note": 7,
+          "motif": "Catalogue open source, ressource précieuse pour développeurs",
+          "couverture": 1,
+          "titre": "20 Repos, 713K Stars: The Open Source Tools That Build, Tune and Run Language Models",
+          "source": "HackerNoon",
+          "lien": "https://hackernoon.com/20-repos-713k-stars-the-open-source-tools-that-build-tune-and-run-language-models?source=rss",
+          "date": "2026-11-27T15:45:03+00:00",
+          "resume": "From Hugging Face Transformers to LlamaFactory and LocalAI: 20 open source repos with 713K GitHub stars for building, tuning and running models.",
+          "titre_fr": "20 dépôts, 713 k étoiles : les outils open source qui construisent, ajustent et exécutent les modèles de langage"
+        },
+        {
+          "note": 7,
+          "motif": "Auto-approbation code, impact sur workflows CI/CD",
+          "couverture": 1,
+          "titre": "Meta Brings Code Review Auto-Approval More Mainstream with PyTorch GreenLight",
+          "source": "InfoQ",
+          "lien": "https://www.infoq.com/news/2026/11/uber-agent-spend-steady/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+          "date": "2026-11-27T14:36:00+00:00",
+          "resume": "PyTorch now lets an AI reviewer approve pull requests from its own maintainers. GreenLight is an open-source take on RADAR, the system Meta uses to auto-land low-risk diffs after safety checks, a risk score and an LLM review. OpenAI, Anthropic and Sonar describe similar ways to automate approval whi",
+          "titre_fr": "Meta rend l’approbation automatique des revues de code plus courante avec PyTorch GreenLight"
+        },
+        {
+          "note": 6,
+          "motif": "Nouvelle fonctionnalité pratique, impact limité",
+          "couverture": 1,
+          "titre": "Move an open model in production to your own endpoint",
+          "source": "dev.to",
+          "lien": "https://dev.to/jr23_xd/move-an-open-model-in-production-to-your-own-endpoint-2k4b",
+          "date": "2026-11-28T07:41:10+00:00",
+          "resume": "To move an open model in production to your own endpoint, send us the model, your target speed and the load it must hold. We tune it to your target before it serves and test it at that load. If it meets your target, it goes live under a model id of its own, on replicas held for your workspace. Bring",
+          "titre_fr": "Déployer un modèle ouvert en production sur votre propre point d'accès"
+        },
+        {
+          "note": 6,
+          "motif": "Régulation sandbox, renforce fiabilité IA",
+          "couverture": 1,
+          "titre": "Clear Rules Curbed Claude’s Sandbox Probing in Tests",
+          "source": "The Defiant",
+          "lien": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTjhYNUdfRk9mbU9uVGtzY3I2TG9BZG5ESEZjMWxEbkd0UDNkaU1RbzdaTHNUMFlVNjcycnhzbnBxZjk3R1phcFdrNXhzb1Q5c1R1V1Vkay1CSERUMUY5N0pzRWNWYVhpX3ltZ3NvdG5BNkV4Ym1JRFBnVHBJMkUwc2Q1Q0Y1b1FCRTJmbHlYUQ?oc=5",
+          "date": "2026-11-28T00:24:20+00:00",
+          "resume": "",
+          "titre_fr": "Des règles strictes ont limité les explorations du sandbox de Claude lors des tests"
+        },
+        {
+          "note": 6,
+          "motif": "Expérience réelle, démonstration concrète",
+          "couverture": 1,
+          "titre": "I let Claude Code run my Docker home server, and it does a better job than I ever did",
+          "source": "How-To Geek",
+          "lien": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOERnVnM4M3BQbnV0RkwxbGFBMlJNS1hScjRldlBsdUhBOWl4TEpDZ2hyV3JWZEVrUjhldGFtR1hfeXp4OG5PWDBQWUNEMEd0aDJDallOMXRNU1F0a19kNEtSMXlDZW85d204bXR6Q214azZHY0pBQ0VhbjRYTUs4ZmNJZHNwTFVLQ2NxUGNXbllVemxsNGhSUXpOX01MMjR1S2RCMlA4cEtTa1hsWjBuWQ?oc=5",
+          "date": "2026-11-27T22:00:15+00:00",
+          "resume": "",
+          "titre_fr": "J’ai laissé Claude Code gérer mon serveur Docker domestique, et il a fait un meilleur travail que moi"
+        },
+        {
+          "note": 6,
+          "motif": "Outil de visualisation agents, utile pour développeurs",
+          "couverture": 1,
+          "titre": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+          "source": "Hacker News",
+          "lien": "https://sessiongraph.ai/",
+          "date": "2026-11-27T21:07:34+00:00",
+          "resume": "Article URL: https://sessiongraph.ai/ Comments URL: https://news.ycombinator.com/item?id=50671651 Points: 46 # Comments: 23",
+          "titre_fr": "SessionGraph : visualisez toutes vos sessions d’agents de codage dans un graphe interactif unique"
+        },
+        {
+          "note": 6,
+          "motif": "Framework léger, intérêt pour praticiens",
+          "couverture": 1,
+          "titre": "Prospero: Bloat-free, native AI coding harness with ImGui",
+          "source": "Hacker News",
+          "lien": "https://github.com/skeeto/prospero",
+          "date": "2026-11-27T20:23:14+00:00",
+          "resume": "Article URL: https://github.com/skeeto/prospero Comments URL: https://news.ycombinator.com/item?id=50671275 Points: 56 # Comments: 20",
+          "titre_fr": "Prospero : harness de codage IA natif et sans bloat avec ImGui"
+        },
+        {
+          "note": 6,
+          "motif": "Outils IA desktop, nouveau vecteur de supply chain",
+          "couverture": 1,
+          "titre": "Claude’s AI-Built Tools Move to the Desktop, and IT Inherits a New Software Supply Chain",
+          "source": "DevOps.com",
+          "lien": "https://devops.com/claudes-ai-built-tools-move-to-the-desktop-and-it-inherits-a-new-software-supply-chain",
+          "date": "2026-11-27T10:31:09+00:00",
+          "resume": "Anthropic’s installable Claude desktop apps bring new opportunities for AI-powered software creation, alongside security, governance and supply chain risks.",
+          "titre_fr": "Les outils créés par Claude passent sur le bureau, et l’informatique d’entreprise hérite d’une nouvelle chaîne d’approvisionnement logicielle"
+        },
+        {
+          "note": 6,
+          "motif": "Playbooks serveurs MCP, changement d’usage agents",
+          "couverture": 1,
+          "titre": "MCP Servers Now Carry Their Own Playbooks, and That Changes How Agents Use Tools",
+          "source": "DevOps.com",
+          "lien": "https://devops.com/mcp-servers-now-carry-their-own-playbooks-and-that-changes-how-agents-use-tools",
+          "date": "2026-11-27T10:08:47+00:00",
+          "resume": "Anthropic’s latest MCP capabilities let tool builders deliver instructions alongside integrations, run long-running jobs in the background, and require human approval before risky actions.",
+          "titre_fr": "Les serveurs MCP portent désormais leurs propres playbooks, ce qui change la façon dont les agents utilisent les outils"
+        },
+        {
+          "note": 6,
+          "motif": "Agents BPM 2.0, impact sur processus métier",
+          "couverture": 1,
+          "titre": "PRIME BPM Unveils AI Agents 2.0 to Accelerate Business Process Management and Transformation",
+          "source": "01net",
+          "lien": "https://www.01net.it/prime-bpm-unveils-ai-agents-2-0-to-accelerate-business-process-management-and-transformation/",
+          "date": "2026-11-27T03:31:00+00:00",
+          "resume": "Enhanced AI capabilities deliver 90%+ process map quality, multilingual support, and faster documentation, with conversational mapping and advanced analysis on the horizon.HOUSTON--(BUSINESS WIRE)--PRIME BPM, a leading provider of end-to-end AI-powere... L'articolo PRIME BPM Unveils AI Agents 2.0 to",
+          "titre_fr": "PRIME BPM dévoile les agents IA 2.0 pour accélérer la gestion et la transformation des processus métier"
+        },
+        {
+          "note": 5,
+          "motif": "Cas d'usage divers, mais peu novateur",
+          "couverture": 1,
+          "titre": "7 things you can do with Claude Code that have nothing to do with coding",
+          "source": "Tom's Guide",
+          "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzg0am01eWtfeEpnSHV5YVZCcE85YndSREVjZzV4VXlCaDU1MkZOLWpWWEhsRWthUkJnTUo5bldOWDQ3TzcwMHBDWG1pSnN3eGU5TEZUYzdlTGZyVXpvdGRzck1FMXpUblc0UkZGSkE2cjNMVHVRXzN4NWlXUThxS0JuZWlrUUVYSEQ3Yld5N1NINGJqN0pvSlJoeDV5SlNYS1dwSnY3M2ktajkw?oc=5",
+          "date": "2026-11-28T06:33:11+00:00",
+          "resume": "",
+          "titre_fr": "7 usages de Claude Code qui n'ont rien à voir avec le codage"
+        },
+        {
+          "note": 5,
+          "motif": "Mise à jour logicielle, évolutions mineures",
+          "couverture": 1,
+          "titre": "Claude Code v2.1.332 Update: 150 Changes & MCP Skills",
+          "source": "PaidFreeDroid",
+          "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdFY0SElHQ0RrOTRlUDBnQkl2YlNuaGJOWDNKQ0p5X2R6SUtCZHpGZkFlVF9fVGljN09rdzRuT0ZZcWNyTUxyNEhKNHI0aExDbjVQRHVfRVlRRlU3SUhKNHdvTGU1ak9kelk2ZHVlWXM5R240eFNmNEZHSjF0a01UWWJ6a3ZnUWpET205NlRIbFU4UGtTRGNQU28xWWp0Y28?oc=5",
+          "date": "2026-11-28T03:59:45+00:00",
+          "resume": "",
+          "titre_fr": "Mise à jour de Claude Code v2.1.332 : 150 changements et compétences MCP"
+        },
+        {
+          "note": 5,
+          "motif": "Optimisation prompts, bénéfice technique",
+          "couverture": 1,
+          "titre": "Microsoft Method Boosts AI Agent Prompts 16.6 Points",
+          "source": "Wisevoter",
+          "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM2dGMlMtRXBtSjVxVkVWa1hrdUxOeXZmOGZoSS1qTlJpXzJwVHhWOW9kcjNUbUdVRFp6WDlqc1F0LUFuWGV5YXlWZ0dCS2kwdWtoLVBXZk95T2RKQkc4ZWVoamxsaHk3dFhGbUlPS05FWmIzX18xUjM5anZELUlNdUp5WVBaOFNUOUE?oc=5",
+          "date": "2026-11-28T01:53:44+00:00",
+          "resume": "",
+          "titre_fr": "La méthode Microsoft améliore les invites d’agents IA de 16,6 points"
+        },
+        {
+          "note": 5,
+          "motif": "Analyse de rapports agents, pertinence modérée",
+          "couverture": 1,
+          "titre": "Your AI agent knows what's broken in your business. Who's reading its reports?",
+          "source": "IT Brief Australia",
+          "lien": "https://itbrief.com.au/story/your-ai-agent-knows-what-s-broken-in-your-business-who-s-reading-its-reports",
+          "date": "2026-11-28T13:33:00+13:00",
+          "resume": "If businesses fail to assign someone to read AI agents' reports, they may miss recurring customer problems and leave costly faults unfixed.",
+          "titre_fr": "Votre agent IA sait ce qui ne fonctionne pas dans votre entreprise. Qui lit ses rapports ?"
+        },
+        {
+          "note": 5,
+          "motif": "Intégration email, fonctionnalité concrète",
+          "couverture": 1,
+          "titre": "Claude email integration: What it is and how to set it up",
+          "source": "Hostinger",
+          "lien": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSTjhWVC1WN0RrMDdKYVJaUmxPdlVpYTVGYzBPUTFpZTE1TWd1UE1VNTJFeE04d2hRdmYzU1BUcXJMUlNTamZ0am9WQVBWdGZXQlZtNlBTZTkteWk4NVBELXZQSTFNZVFmMThmR0RfYzk5UQ?oc=5",
+          "date": "2026-11-27T19:37:37+00:00",
+          "resume": "",
+          "titre_fr": "Intégration e‑mail de Claude : ce que c’est et comment la configurer"
+        },
+        {
+          "note": 5,
+          "motif": "Annonce française, fonctionnalité similaire aux précédents",
+          "couverture": 1,
+          "titre": "Claude : les serveurs MCP peuvent maintenant livrer des skills et gérer des tâches longues",
+          "source": "Blog du Modérateur",
+          "lien": "https://www.blogdumoderateur.com/claude-serveurs-mcp-livrer-skills-gerer-taches-longues/",
+          "date": "2026-11-27T09:18:30+00:00",
+          "resume": "Anthropic lance Skills over MCP en bêta publique. Les services connectés à Claude peuvent fournir, en plus de leurs outils, les consignes pour bien s'en servir.",
+          "titre_fr": "Claude : les serveurs MCP peuvent maintenant livrer des compétences et gérer des tâches longues"
+        },
+        {
+          "note": 4,
+          "motif": "Annonce de test, peu d'impact immédiat",
+          "couverture": 1,
+          "titre": "Together AI Releases Hurdle to Test AI Coding Agents",
+          "source": "Wisevoter",
+          "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQenpTNkFLUHprWF9ueEYtNWxZQklTbEFUbUNERUNKOE5adGoyNjljTWE5N3R3VXIxeTRRM0tPQ0hqUzd5Tlo5LWlLaXBfZ3lHV2hkc0ZPYnZFSmU5alB4Y1h4RGZtS0tYTmcyeUQ5T28tdFFrdWZ3SXJqa0tpUDNqVy1zVF93c3VYcVU5SHVuSnVUZkho?oc=5",
+          "date": "2026-11-28T02:46:06+00:00",
+          "resume": "",
+          "titre_fr": "Together AI lance Hurdle pour tester les agents de codage IA"
+        },
+        {
+          "note": 4,
+          "motif": "Fonctionnalité intrusive, intérêt limité",
+          "couverture": 1,
+          "titre": "Let Claude Code or any agent tap, type, and read your real phone",
+          "source": "Howl.Link",
+          "lien": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE44alpmTUJ3eUE3c3NsRWJIWVg1dXdWQklldlhaUG1GN1ktVmZORmxSWXA2RG14MEs5R01V?oc=5",
+          "date": "2026-11-28T02:27:55+00:00",
+          "resume": "",
+          "titre_fr": "Permettre à Claude Code ou à tout autre agent de toucher, taper et lire votre vrai téléphone"
+        },
+        {
+          "note": 4,
+          "motif": "Interview coût/revenus, intérêt limité",
+          "couverture": 1,
+          "titre": "Vibe Coding With Claude: Founders on Costs and Revenue",
+          "source": "Techloy",
+          "lien": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tOHVXdmF1QUl5YTFpR2l0bXotSmN3NW4wbnpCRERaQXhkaTFjUWpJMVFBTVNYdUhJenBnRUJkZEV4bThCR3NCNUc0QnNIWXM3d0p4WWVSREkzdG00Z2s3WlF3dmJiOVA5V2JTdUZxTXRWd3BK?oc=5",
+          "date": "2026-11-27T17:55:57+00:00",
+          "resume": "",
+          "titre_fr": "Vibe Coding avec Claude : les fondateurs parlent des coûts et des revenus"
+        },
+        {
+          "note": 4,
+          "motif": "Extension Obsidian, utilité restreinte",
+          "couverture": 1,
+          "titre": "Obsidian Skills - Laissez votre agent IA ranger vos notes",
+          "source": "Korben",
+          "lien": "https://korben.info/obsidian-skills-agents-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+          "date": "2026-11-27T13:45:15+01:00",
+          "resume": "Les skills de Steph Ango deviennent un plugin officiel d'Obsidian pour Claude, ChatGPT ou Cursor. Votre agent apprend wikiliens, Bases et Canvas, et pilote l'app via la CLI depuis un agent local. Ce qu'il faut, ce qu'il peut faire, et comment l'installer.",
+          "titre_fr": "Obsidian Skills - Laissez votre agent IA organiser vos notes"
+        },
+        {
+          "note": 4,
+          "motif": "Mise à jour bibliothèque, intérêt limité",
+          "couverture": 1,
+          "titre": "datasette-mcp 0.4",
+          "source": "Simon Willison",
+          "lien": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+          "date": "2026-11-27T00:26:17+00:00",
+          "resume": "Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44 . Tags: model-context-protocol , datasette",
+          "titre_fr": "datasette-mcp 0.4"
+        },
+        {
+          "note": 3,
+          "motif": "Traduction, amélioration marginale",
+          "couverture": 1,
+          "titre": "Superpowers agent framework gets Chinese translation",
+          "source": "TechGig",
+          "lien": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT1NqMFBialJmeDVKYlQxZlM0T056dk9yN3d4VXlicFFOMDVzTDhvV1lqSlQ5VTRuZ2FSZ3ZfX0Fkb0dyeWZTNE5CMDBiT2IzV2FwWnB4YTFxVTZqLWtmVUFkNjRqTklIbHlqTm1ZaG9XR3RLTDk4c21NWTlfM1dXZHVJbDBrNDVnczlTUVNnZWhJd01z?oc=5",
+          "date": "2026-11-28T02:27:14+00:00",
+          "resume": "",
+          "titre_fr": "Le framework d’agents Superpowers reçoit une traduction en chinois"
+        },
+        {
+          "note": 3,
+          "motif": "Promotion discount, peu de valeur informative",
+          "couverture": 1,
+          "titre": "Claude Student Discount 2026: Free Routes, No Fake Codes",
+          "source": "Fello AI",
+          "lien": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Cc21EMUxKT2xvTHJwbG1zTTlYT3RoMS1kRUNoSFhpVTFRSk9hTVRiUGlzWXRFTHRQUTVURnVsNVF3UVlPdHFQVWd4bVQ0a1hja3dta0ZNdw?oc=5",
+          "date": "2026-11-27T23:07:30+00:00",
+          "resume": "",
+          "titre_fr": "Réduction étudiante Claude 2026 : routes gratuites, aucun code factice"
+        }
+      ]
+    },
+    {
+      "nom": "Plateformes et services IA",
+      "resume": "Ces titres décrivent des services cloud, des passerelles et des solutions SaaS qui rendent les modèles et les agents IA accessibles en tant que services autonomes ou intégrés à des workflows.",
+      "articles": [
+        {
+          "note": 9,
+          "motif": "GA d'un service Azure majeur, forte portée",
+          "couverture": 1,
+          "titre": "Azure AI Gateway Reaches General Availability as a Standalone Service",
+          "source": "InfoQ",
+          "lien": "https://www.infoq.com/news/2026/11/azure-ai-gateway-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+          "date": "2026-11-28T06:47:00+00:00",
+          "resume": "Microsoft has made Azure AI Gateway generally available as a standalone Azure service for governing access to AI models and MCP tools across providers. A free tier covers 10,000 requests per gateway per month; paid billing starts January 1, 2027; and private networking remains in preview. By Steef-J",
+          "titre_fr": "Azure AI Gateway passe en disponibilité générale en tant que service autonome"
+        },
+        {
+          "note": 7,
+          "motif": "Agent 365, gouvernance multicloud, forte portée",
+          "couverture": 1,
+          "titre": "Microsoft’s Agent 365 tackles multicloud AI governance",
+          "source": "InfoWorld",
+          "lien": "https://www.infoworld.com/article/4253806/microsofts-agent-365-tackles-multicloud-ai-governance.html",
+          "date": "2026-11-27T09:00:00+00:00",
+          "resume": "For more than 20 years, I have watched cloud computing evolve from a relatively simple extension of enterprise infrastructure into a distributed collection of platforms, services, data stores, applications, and now AI agents. One lesson has remained clear: Enterprises don’t operate in the clean, sin",
+          "titre_fr": "Agent 365 de Microsoft s’attaque à la gouvernance IA multicloud"
+        },
+        {
+          "note": 7,
+          "motif": "Plateforme adoption IA, 200+ modèles, gouvernance intégrée",
+          "couverture": 1,
+          "titre": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
+          "source": "MarkTechPost",
+          "lien": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
+          "date": "2026-11-27T03:43:35+00:00",
+          "resume": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in The post nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in appeared first on MarkTechPost .",
+          "titre_fr": "La plateforme d’adoption IA de nexos.ai place plus de 200 modèles derrière un même AI Gateway, avec limites budgétaires et gouvernance intégrées"
+        },
+        {
+          "note": 5,
+          "motif": "Top 5 outils, sélection utile mais non novatrice",
+          "couverture": 1,
+          "titre": "5 Best AI Meeting Note Takers With MCP Integration in 2027",
+          "source": "OpenTools",
+          "lien": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVUdYU2draFFFSEdtYkVJeTBGVnVubXFLRGp2c1ctMGVJVjlRWXIzRXNIREN2bG0zWG0wX3NHSGFzNklDM2tmUk5leVBVaHp1cUdEZlZab3Ata1RBeEt4b24zNGsxOVcyZWtValRVZ1pUb21EemRwekVqMzZHZS0xVTdTWU1qQXRuSVVEbA?oc=5",
+          "date": "2026-11-27T19:07:23+00:00",
+          "resume": "",
+          "titre_fr": "Les 5 meilleurs preneurs de notes de réunion IA avec intégration MCP en 2027"
+        },
+        {
+          "note": 5,
+          "motif": "Interview sur agents GTM, retours d’expérience",
+          "couverture": 1,
+          "titre": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+          "source": "Latent Space",
+          "lien": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+          "date": "2026-11-26T23:02:48+00:00",
+          "resume": "How $1,500 could qualify every company in the world, why customers hate the model selector, and how Clay is building go-to-market infrastructure for every agent",
+          "titre_fr": "Comment Clay construit des agents GTM — Jeff Barg, responsable IA"
+        },
+        {
+          "note": 2,
+          "motif": "Produit inconnu, aucune pertinence IA démontrée",
+          "couverture": 1,
+          "titre": "Woomool",
+          "source": "Product Hunt",
+          "lien": "https://www.producthunt.com/products/woomool",
+          "date": "2026-11-26T21:09:46-08:00",
+          "resume": "AI Canvas where thinking becomes tangible Discussion | Link",
+          "titre_fr": "Woomool"
+        },
+        {
+          "note": 2,
+          "motif": "Produit peu connu, aucune info technique IA",
+          "couverture": 1,
+          "titre": "Depost AI",
+          "source": "Product Hunt",
+          "lien": "https://www.producthunt.com/products/depost-ai",
+          "date": "2026-11-26T19:17:55-08:00",
+          "resume": "The LinkedIn AI agent that learns what works for your brand Discussion | Link",
+          "titre_fr": "Depost AI"
+        },
+        {
+          "note": 2,
+          "motif": "Produit inconnu, aucune information IA pertinente",
+          "couverture": 1,
+          "titre": "Ploid",
+          "source": "Product Hunt",
+          "lien": "https://www.producthunt.com/products/ploid",
+          "date": "2026-11-26T13:06:26-08:00",
+          "resume": "People search for AI agents, across 2B+ profiles Discussion | Link",
+          "titre_fr": "Ploid"
+        }
+      ]
+    },
+    {
+      "nom": "Recherche et techniques avancées",
+      "resume": "Des travaux de recherche et des prépublications explorent de nouvelles approches, comme la récupération de gains d’entraînement, les études sur les world‑models, ou les méthodes de décodage spéculatif qui repoussent les limites des agents IA.",
+      "articles": [
+        {
+          "note": 7,
+          "motif": "Decoding spéculatif + cache, optimisation notable",
+          "couverture": 1,
+          "titre": "Speculative Decoding Makes Tool Calls Faster. Agents Need a Cache.",
+          "source": "Towards Data Science",
+          "lien": "https://towardsdatascience.com/speculative-decoding-makes-tool-calls-faster-agents-need-a-cache/",
+          "date": "2026-11-27T14:00:00+00:00",
+          "resume": "Benchmarks with Qwen3 and Llama on llama.cpp show a draft model sped up code, JSON, and tool calls up to 1.7x, while uncached agent loops ran 6% slower. The post Speculative Decoding Makes Tool Calls Faster. Agents Need a Cache. appeared first on Towards Data Science .",
+          "titre_fr": "Le décodage spéculatif accélère les appels d’outils. Les agents ont besoin d’un cache."
+        },
+        {
+          "note": 7,
+          "motif": "Génération vidéo avec Trainium3, avancée matérielle",
+          "couverture": 1,
+          "titre": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+          "source": "Hugging Face",
+          "lien": "https://huggingface.co/blog/video-trainium3",
+          "date": "2026-11-27T00:00:00+00:00",
+          "resume": "",
+          "titre_fr": "Faire rouler Trainium3 sur les rails : génération de vidéos avec LTX‑2.5"
+        },
+        {
+          "note": 6,
+          "motif": "Benchmarks outils, informations pertinentes",
+          "couverture": 1,
+          "titre": "Code Mode vs. Tool Calling Benchmarks Find a 16-Tool Crossover",
+          "source": "Towards Data Science",
+          "lien": "https://towardsdatascience.com/code-mode-vs-tool-calling-benchmarks-find-a-16-tool-crossover/",
+          "date": "2026-11-27T12:00:00+00:00",
+          "resume": "For agent builders with many MCP integrations, Code Mode was 120x cheaper and 18x faster on 100-item fan-outs but less reliable on single lookups. The post Code Mode vs. Tool Calling Benchmarks Find a 16-Tool Crossover appeared first on Towards Data Science .",
+          "titre_fr": "Benchmarks Code Mode vs. Tool Calling : découverte d’un croisement à 16 outils"
+        }
+      ]
+    },
+    {
+      "nom": "Autres articles",
+      "resume": "",
+      "articles": [
+        {
+          "note": 8,
+          "motif": "Preuve assistée IA, avancée mathématique majeure",
+          "couverture": 1,
+          "titre": "Lean y Mathlib certifican la prueba de Riemann asistida por Claude",
+          "source": "NeoTeo",
+          "lien": "https://www.neoteo.com/es/lean-y-mathlib-certifican-la-prueba-de-riemann-asistida-por-claude",
+          "date": "2026-11-28T06:41:11+00:00",
+          "resume": "Lean y Mathlib certificaron la prueba formal de Riemann asistida por Claude. El MIT detalla las comprobaciones y acota la extensión a funciones L de Dirichlet.",
+          "titre_fr": "Lean et Mathlib valident la preuve de Riemann assistée par Claude"
+        },
+        {
+          "note": 7,
+          "motif": "Détection de faille sandbox, importance sécurité",
+          "couverture": 1,
+          "titre": "Escape de Claude del sandbox: qué midió Siren",
+          "source": "NeoTeo",
+          "lien": "https://www.neoteo.com/es/escape-de-claude-del-sandbox-que-midio-siren",
+          "date": "2026-11-28T06:41:13+00:00",
+          "resume": "Siren midió si seis modelos Claude salían de sandboxes debilitados. Sus tasas describen escenarios de prueba y no predicen la frecuencia en el uso real.",
+          "titre_fr": "Escape du sandbox de Claude : ce que Siren a mesuré"
+        },
+        {
+          "note": 6,
+          "motif": "Détection d'erreurs scientifiques, application concrète",
+          "couverture": 1,
+          "titre": "¿Puede la IA detectar errores en artículos científicos?",
+          "source": "NeoTeo",
+          "lien": "https://www.neoteo.com/es/puede-la-ia-detectar-errores-en-articulos-cientificos",
+          "date": "2026-11-28T05:40:16+00:00",
+          "resume": "SPOT no mostró detección fiable de errores en artículos completos. CITADEL halló 4.046 referencias fabricadas, pero no determinó su causa en un corpus biomédico definido.",
+          "titre_fr": "L’IA peut‑elle détecter les erreurs dans les articles scientifiques ?"
+        },
+        {
+          "note": 6,
+          "motif": "Prototype utile, encore en phase de validation",
+          "couverture": 1,
+          "titre": "Deusto builds AI food-allergen screening prototype, with reliability checks still pending",
+          "source": "Superpower Daily",
+          "lien": "https://superpowerdaily.com/posts/deusto-builds-ai-food-allergen-screening-prototype-with-reliability-checks-still-pending",
+          "date": "2026-11-28T05:27:04+00:00",
+          "resume": "The light-based system targets proteins found in peach skin and peanuts.",
+          "titre_fr": "Deusto crée un prototype de dépistage d’allergènes alimentaires basé sur l'IA, les vérifications de fiabilité restent à venir"
+        },
+        {
+          "note": 4,
+          "motif": "Guide vidéo, usage limité à création de contenu",
+          "couverture": 1,
+          "titre": "How to Edit Videos with Claude AI: Step-by-Step Guide",
+          "source": "Analytics Insight",
+          "lien": "https://www.analyticsinsight.net/artificial-intelligence/how-to-edit-videos-with-claude-ai-step-by-step-guide",
+          "date": "2026-11-27T20:00:00+00:00",
+          "resume": "Claude AI can assist with video edits through compatible tools such as invideo, Eddie AI, and Premiere Pro.Claude Code and FFmpeg can auto ...",
+          "titre_fr": "Comment éditer des vidéos avec Claude IA : guide étape par étape"
+        }
+      ]
+    }
+  ],
+  "ecartes": [
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Own your AI. Get there in a day.",
+      "source": "dev.to",
+      "lien": "https://dev.to/jr23_xd/own-your-ai-get-there-in-a-day-551e",
+      "date": "2026-11-28T07:41:36+00:00",
+      "resume": "Revolut moved 2,000 engineers from Claude Code and Codex to its own GLM 5.3 deployment. Their AI coding bill dropped about 90%. It took them an infrastructure team and months of tuning. We built RightNow (YC F26) so any company can get there in a day. Own it or rent it Every company will run AI. The",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Information Asset Management for Energy Companies in the UAE",
+      "source": "dev.to",
+      "lien": "https://dev.to/observeri_technologies_4b/information-asset-management-for-energy-companies-in-the-uae-3a7c",
+      "date": "2026-11-28T07:41:16+00:00",
+      "resume": "Energy companies in the UAE operate some of the most information-intensive environments in the region. Exploration and production data, refinery and plant operations, trading and commercial records, engineering drawings, safety documentation, employee and contractor information, and financial record",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Binance Expands Phishing Tests and Security Audits After Attacks",
+      "source": "TOKENPOST",
+      "lien": "https://www.tokenpost.com/news/technology/64071",
+      "date": "2026-11-28T07:28:26+00:00",
+      "resume": "Co-founder He Yi said Binance now requires sandboxed downloads, limits remote access and uses an independent AI system to review internal code and instructions.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Binance Has No Plans for Large-Scale AI Employee Replacements, 何一 Says",
+      "source": "TOKENPOST",
+      "lien": "https://www.tokenpost.com/news/technology/64068",
+      "date": "2026-11-28T07:24:47+00:00",
+      "resume": "The exchange is testing AI in customer service and moderation while favoring cautious adoption and placing greater weight on candidates’ initiative and learning ability.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Leopold Aschenbrenner’s Third-Quarter Letter Focuses on AI Agents and Superintelligence",
+      "source": "TOKENPOST",
+      "lien": "https://www.tokenpost.com/news/people/64066",
+      "date": "2026-11-28T07:22:30+00:00",
+      "resume": "The letter outlines five investment areas and names 10 potential beneficiaries while warning that AI could weaken advantages held by some companies.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Musk says Google wants to lease more compute capacity from SpaceX",
+      "source": "Crypto Briefing",
+      "lien": "https://cryptobriefing.com/google-lease-more-compute-spacex-musk/",
+      "date": "2026-11-28T07:08:53+00:00",
+      "resume": "Google's increased demand for SpaceX's compute capacity highlights the growing reliance on AI infrastructure and strategic tech partnerships. The post Musk says Google wants to lease more compute capacity from SpaceX appeared first on Crypto Briefing .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Hackers breached 24 Check Point management servers, GreyNoise says",
+      "source": "Superpower Daily",
+      "lien": "https://superpowerdaily.com/posts/hackers-breached-24-check-point-management-servers-greynoise-says",
+      "date": "2026-11-28T06:16:04+00:00",
+      "resume": "The GT13 campaign reached systems used to manage security protections. GreyNoise suspects AI-enabled attack tools, but AI use and the original route into the servers remain unconfirmed.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Banks May Choose AI Coding Agents Over Expanding Dev Teams",
+      "source": "RS Web Solutions",
+      "lien": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa3JFQ1dWd3N5b3VTS3RwLVpmeFlOdUhCbWJGdXlxVF9tdi01a0J6bjN4SHFlR21PdjdWZzhFdmlqXzNMQmdNbThwQnJsRHFsS21IVzQxdjJ1OVpoVGVDQ1dVMEhOeDhzNWJ5RDJBRkpYVWNnalpKZXp3Zzd5RmVQdjR0S0tTbHY5SjNzRDRYRVhQR1dZTkFRQzgtdk96Qzk5b2dpRC1EUTNNekxSQm5lSGFZVlktY0E?oc=5",
+      "date": "2026-11-28T06:00:00+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Por qué difieren las estimaciones de empleados millonarios de Anthropic",
+      "source": "NeoTeo",
+      "lien": "https://www.neoteo.com/es/por-que-difieren-las-estimaciones-de-empleados-millonarios-de-anthropic",
+      "date": "2026-11-28T05:39:11+00:00",
+      "resume": "Hill estima unos 5.100 empleados con más de un millón de dólares en equity; Sacra calcula 2.800 con participaciones consolidadas. El prospecto detalla opciones y RSU.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Scott Aaronson warns of possible AI encryption breakthroughs, without lab confirmation",
+      "source": "Superpower Daily",
+      "lien": "https://superpowerdaily.com/posts/scott-aaronson-warns-of-possible-ai-encryption-breakthroughs-without-lab-confirmation",
+      "date": "2026-11-28T05:21:25+00:00",
+      "resume": "The Guardian’s new interviews raise a security concern, not proof of broken encryption. The implications depend on what was discovered—and whether it works outside theory.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "South Korea’s Lee vows to push ahead in global AI race at data centre launch",
+      "source": "Crypto Briefing",
+      "lien": "https://cryptobriefing.com/south-korea-lee-ai-race-data-centre/",
+      "date": "2026-11-28T05:07:27+00:00",
+      "resume": "South Korea's aggressive AI investment strategy could reshape global tech dynamics, fostering regional economic growth and innovation leadership. The post South Korea’s Lee vows to push ahead in global AI race at data centre launch appeared first on Crypto Briefing .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "China’s DeepSeek raises concerns over AI control, assessment finds",
+      "source": "Crypto Briefing",
+      "lien": "https://cryptobriefing.com/deepseek-v4-pro-ai-control-concerns/",
+      "date": "2026-11-28T05:05:21+00:00",
+      "resume": "DeepSeek's AI shutdown resistance raises global regulatory concerns, potentially impacting international market access and US-China tech tensions. The post China’s DeepSeek raises concerns over AI control, assessment finds appeared first on Crypto Briefing .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Jake Kozloski Alleges Claude Altered Attraction and IQ Models",
+      "source": "news.lavx.hu",
+      "lien": "https://news.lavx.hu/article/jake-kozloski-alleges-claude-altered-attraction-and-iq-models",
+      "date": "2026-11-28T04:50:11+00:00",
+      "resume": "Jake Kozloski said on X that an audit by Neon found Claude added rules that ignored users' explicit skin-tone preferences in an attraction model and sabotaged an IQ estimation model. The post offers no code, methodology, or independent verification.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Citi Brings Legacy Software Work In-House With Devin",
+      "source": "Wisevoter",
+      "lien": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNazM5WWc1bUZRbEFUS25VMUppbmxmU1JSZ3VPUEhiNFNjTV9IWVpXYWRfTXVlZExjNDBsZHFxbjFZeUJhbHZjMXpJUW51c3c2MEZhZHFCZ2pkcGR5WFRZekFXUXlOT1ZaV0JnUkdXeG9hZnNzV18zUlh0Z1M4bTlaWWpxSnc2VEE?oc=5",
+      "date": "2026-11-28T04:48:16+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Anthropic employee pushes back on claims Claude sabotages ML research",
+      "source": "Crypto Briefing",
+      "lien": "https://cryptobriefing.com/anthropic-claude-fable-5-sabotage-claims/",
+      "date": "2026-11-28T04:40:39+00:00",
+      "resume": "The controversy highlights the critical need for transparency and clarity in AI model behavior to maintain trust and efficiency in research. The post Anthropic employee pushes back on claims Claude sabotages ML research appeared first on Crypto Briefing .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Switzerland Confirms AI-Assisted Cyberattacks Hit Critical Infrastructure Operators",
+      "source": "news.lavx.hu",
+      "lien": "https://news.lavx.hu/article/switzerland-confirms-ai-assisted-cyberattacks-hit-critical-infrastructure-operators",
+      "date": "2026-11-28T04:31:14+00:00",
+      "resume": "Switzerland's National Cyber Security Centre says AI agents broke into systems at four of five confirmed targets, including two critical infrastructure operators, with no major disruptions. Agencies in Italy and Britain report the same pattern and urge faster patching, reduced internet exposure and ",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Black Friday Monitor Deals Cut Prices on OLED, 4K and High-Refresh Displays",
+      "source": "news.lavx.hu",
+      "lien": "https://news.lavx.hu/article/black-friday-monitor-deals-cut-prices-on-oled-4k-and-high-refresh-displays",
+      "date": "2026-11-28T04:10:59+00:00",
+      "resume": "Retailers have discounted dozens of gaming and productivity monitors for Black Friday, with 27-inch QHD OLED models below $300 and 4K OLED models below $700. AI data centers consume supply, so buyers pay more for SSDs, RAM and GPUs, and a display upgrade costs less than a core PC upgrade.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Woman Evicted Despite AI Email Approving Late Rent Payment",
+      "source": "news.lavx.hu",
+      "lien": "https://news.lavx.hu/article/woman-evicted-despite-ai-email-approving-late-rent-payment",
+      "date": "2026-11-28T04:09:16+00:00",
+      "resume": "Laura Mack says an AI assistant at Colony Townhome Apartments approved a Nov. 30 payment for $3,934.17 in overdue rent before she was evicted Nov. 19. The case has renewed debate over disclosure and liability for automated customer service tools.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "[AINews] Inside the exploding Coding Data Market",
+      "source": "Latent Space",
+      "lien": "https://latent.space/p/ainews-inside-the-exploding-coding-data-market/",
+      "date": "2026-11-28T03:45:59+00:00",
+      "resume": "November 27, 2026 — How frontier labs buy training data.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Anthropic engineer Thariq Shihipar joins OpenAI",
+      "source": "TechGig",
+      "lien": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMFZMbl9DV3YwWlBoajFJQ0EzN0xvTjBDR3I3U0ttbzV2TUV1MHBaTlYwWGNzZmJCOE9IX29hWFdsWGlDQW9MZV9MZ09jc2N1WXVLbzdCTzNzM3dJbGxWVWt5cFJXU1FtTFBPT0dxX0ktR1RQVWtpejBoTUhWMG5RREpsVFljSDN6eW9Bc2FFY3lPZHFmQmc?oc=5",
+      "date": "2026-11-28T03:19:21+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "UK, US Key Systems Hit in String of Attacks as OpenAI Says Cybersecurity Market Potential Outstrips AI Coding",
+      "source": "BigGo Finance",
+      "lien": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBETFVzbWxKcWlJOVNxd3RVckh2SjFDUmFtR0pEQ1lFWnhZLWg0Wno4WHFZUjVqb3ZDT0dBOGlzaGlvSnB0NllxanFXQ0NNZXl0ckpSaVJpeG1pOFdBVUhMMVdvZjEtd0lpT0htSHlKOFd4Y1dOVFE?oc=5",
+      "date": "2026-11-28T03:05:00+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Musk Backs Call for Anthropic to Address Alleged Claude Code Changes",
+      "source": "www.tokenpost.com",
+      "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SeloyT2liWkVqbU9uMkVkd205NzQ0dks5dE1oQXJ3eXdrWThPZnpLUVNEVmNhSHVYb21qTzRyTHBMeFpsaG5qblJmQ2tEOVNXb0F1YW04MDVjV2M?oc=5",
+      "date": "2026-11-28T01:01:00+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Anthropic's Best Customers Spend 20 Times More Than the Rest. That's Why I'm Buying the Stock.",
+      "source": "AOL.com",
+      "lien": "https://www.msn.com/en-us/technology/tech-companies/anthropic-s-best-customers-spend-20-times-more-than-the-rest-that-s-why-i-m-buying-the-stock/ar-AA2ioO1u",
+      "date": "2026-11-28T00:29:00+00:00",
+      "resume": "A quiet line in Anthropic's IPO filing reveals which customers spend the most, and why that matters for the stock.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "datasette-charts 0.4a0",
+      "source": "Simon Willison",
+      "lien": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+      "date": "2026-11-27T23:57:17+00:00",
+      "resume": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of fricti",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Last of Us Part II Multiplayer Mod Creator Says Sony Can’t Stop It",
+      "source": "Happy Gamer",
+      "lien": "https://happygamer.com/last-of-us-part-2-multiplayer-mod-sony-cant-stop-it-185186/",
+      "date": "2026-11-27T22:54:02+00:00",
+      "resume": "A fan-made Last of Us Part II multiplayer mod is in development. Creator Kellie says Sony can't stop it, and that Claude Code wrote most of it.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "From wearable to smartphone camera: How apps will become the future of sports performance and development",
+      "source": "IT Brief Australia",
+      "lien": "https://itbrief.com.au/story/from-wearable-to-smartphone-camera-how-apps-will-become-the-future-of-sports-performance-and-development",
+      "date": "2026-11-28T11:27:00+13:00",
+      "resume": "App-based AI is bringing professional-grade sports analysis to ordinary phones, cutting costs and widening access to coaching and talent ID.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "The Last One Percent",
+      "source": "IT Brief Australia",
+      "lien": "https://itbrief.com.au/story/the-last-one-percent",
+      "date": "2026-11-28T11:21:00+13:00",
+      "resume": "Near-perfect benchmark scores still leave AI failing many real-world tasks, raising the risk that dangerous errors hide in the last 1%.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+      "source": "Latent Space",
+      "lien": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/",
+      "date": "2026-11-27T22:19:18+00:00",
+      "resume": "A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can buy too. At AI Engineer CODE, G2i founder Gabe Greenberg tells swyx how labs make that decision, how small pilot orders turn into bigger...",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "What should your AI agent be allowed to do?",
+      "source": "IT Brief Australia",
+      "lien": "https://itbrief.com.au/story/what-should-your-ai-agent-be-allowed-to-do",
+      "date": "2026-11-28T11:18:00+13:00",
+      "resume": "Publishers that set firm guardrails for AI agents are seeing fewer costly mistakes, better accuracy and faster decision-making before launch.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Cascadeur 2026.3 Adds MetaHuman Faces and Tentacle Rigging",
+      "source": "Animation World Network",
+      "lien": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY1RsbjBFVUh1MGhEQUNEdTE3bnNIYnBfYTMwQU81VGNqWFAwVU9wOFZlLUlzRnJfSHBzaXR1aGxDRlVhOV9pNzJ5UTNFdG54cFpmc3prNGFnbC1hN2Q4Wk5Bc2IwQmNYSkhEQ3JKSXpCZDhVcjlLd19IekJETFNFdmgtSTVsYlhzT2c?oc=5",
+      "date": "2026-11-27T19:41:12+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+      "source": "The Decoder",
+      "lien": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+      "date": "2026-11-27T19:38:37+00:00",
+      "resume": "OpenAI is suing Apple in a California court, accusing it of trade secret theft and of coercing shared suppliers. The countersuit follows Apple's own lawsuit from the summer. Just two years ago, the two companies teamed up to bring ChatGPT to the iPhone. Now OpenAI is building its own devices to comp",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "ANT Stock Ends First Full Week Of Trading Around 11% Above IPO Price: Lockup Expiry, Nasdaq 100 Entry Loom",
+      "source": "TradingView",
+      "lien": "https://www.msn.com/en-us/money/top-stocks/ant-stock-ends-first-full-week-of-trading-around-11-above-ipo-price-lockup-expiry-nasdaq-100-entry-loom/ar-AA2ioaFF",
+      "date": "2026-11-27T18:57:52+00:00",
+      "resume": "Anthropic stock ended its first full week of trading at a valuation of about $1.7 trillion after dipping below its offering price earlier in the week. ・Up to 303 million more ANT shares are slated to ...",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+      "source": "The Decoder",
+      "lien": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+      "date": "2026-11-27T18:27:02+00:00",
+      "resume": "Two Chinese companies installed Nvidia's powerful Blackwell chips at a Shanghai data center linked to Alice Huang, according to a Bloomberg investigation. A serial number led Bloomberg to Taiwanese manufacturer Gigabyte. Exporting these chips to China without a US license is illegal. The article Ban",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Top Treasury Official Is Too Busy Vibe Coding a Crappy Video Game Clone Instead of Addressing a Historic Hack",
+      "source": "Futurism",
+      "lien": "https://www.msn.com/en-us/news/other/top-treasury-official-is-too-busy-vibe-coding-a-crappy-video-game-clone-instead-of-addressing-a-historic-hack/ar-AA2imP0d",
+      "date": "2026-11-27T17:50:00+00:00",
+      "resume": "Maybe he's \"vibe working.\" The post Top Treasury Official Is Too Busy Vibe Coding a Crappy Video Game Clone Instead of Addressing a Historic Hack appeared first on Futurism.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Dating App CEO Says Claude Ignored Ethnicity & Skin Tone Preferences, Sabotaged IQ Estimation While Building Its App",
+      "source": "OfficeChai",
+      "lien": "https://officechai.com/ai/dating-app-ceo-says-claude-ignored-ethnicity-skin-tone-preferences-sabotaged-iq-estimation-while-building-its-app/",
+      "date": "2026-11-27T17:46:29+00:00",
+      "resume": "AI coding agents are now writing a large share of the software that startups ship. But one founder says they may also ...",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Vercel’s CEO thinks the next big AI speedup won’t come from smarter models",
+      "source": "The New Stack",
+      "lien": "https://thenewstack.io/vercel-workflow-sdk-harness/",
+      "date": "2026-11-27T16:50:06+00:00",
+      "resume": "Some of the biggest gains in AI performance over the past year have come from improvements to the harness, not The post Vercel’s CEO thinks the next big AI speedup won’t come from smarter models appeared first on The New Stack .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "A year from now, VMware wants AI troubleshooting your private cloud",
+      "source": "The New Stack",
+      "lien": "https://thenewstack.io/vmware-private-cloud-kubernetes/",
+      "date": "2026-11-27T16:07:11+00:00",
+      "resume": "A developer who needs two containers to test a change or modification has a different problem from a platform engineer The post A year from now, VMware wants AI troubleshooting your private cloud appeared first on The New Stack .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Hackers breached the US Air Force's flagship Cloud One platform, report says",
+      "source": "The Decoder",
+      "lien": "https://the-decoder.com/hackers-breached-the-us-air-forces-flagship-cloud-one-platform-report-says/",
+      "date": "2026-11-27T16:06:43+00:00",
+      "resume": "Hackers breached the US Air Force's flagship cloud platform. The article Hackers breached the US Air Force's flagship Cloud One platform, report says appeared first on The Decoder .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "The HackerNoon Newsletter: AI Writes Code Faster Than You Can Review It. Now What? (11/27/2026)",
+      "source": "HackerNoon",
+      "lien": "https://hackernoon.com/11-27-2026-newsletter?source=rss",
+      "date": "2026-11-27T16:03:05+00:00",
+      "resume": "11/27/2026: Top 5 stories on the HackerNoon homepage!",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "T5-Small Out-Downloads NLLB 24 to 1: 143 Open-Weight Translation Models Ranked",
+      "source": "HackerNoon",
+      "lien": "https://hackernoon.com/t5-small-out-downloads-nllb-24-to-1-143-open-weight-translation-models-ranked?source=rss",
+      "date": "2026-11-27T15:30:02+00:00",
+      "resume": "t5-small leads 143 translation models in the TextModels directory. See every model ranked by 30-day Hugging Face downloads, with size and license.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Your AI Agent Has Permissions. Who Gave It the Authority?",
+      "source": "HackerNoon",
+      "lien": "https://hackernoon.com/your-ai-agent-has-permissions-who-gave-it-the-authority?source=rss",
+      "date": "2026-11-27T14:09:59+00:00",
+      "resume": "Explore how delegated authorization, scoped credentials, and workload identities can protect systems from AI agent privilege abuse.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "AI e sviluppo software: la velocità non basta, serve conoscere il patrimonio applicativo",
+      "source": "01net",
+      "lien": "https://www.01net.it/ai-sviluppo-software-software-intelligence-patrimonio-applicativo/",
+      "date": "2026-11-27T11:42:16+00:00",
+      "resume": "Gianluca Altieri, Solution Factory Manager di Innovaway, analizza il ruolo della software intelligence nella gestione delle dipendenze applicative, nella valutazione del rischio tecnologico e nel governo dello sviluppo accelerato dall’AI. L'articolo AI e sviluppo software: la velocità non basta, ser",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Oltre l’AI Confidence Gap: le previsioni di TeamViewer per il 2027",
+      "source": "01net",
+      "lien": "https://www.01net.it/teamviewer-previsioni-ai-aziende-2027/",
+      "date": "2026-11-27T11:20:34+00:00",
+      "resume": "Dalla produttività individuale a quella aziendale, dalla governance degli agenti autonomi al superamento delle dashboard tradizionali: la visione di Mei Dent, Chief Product and Technology Officer di TeamViewer. L'articolo Oltre l’AI Confidence Gap: le previsioni di TeamViewer per il 2027 è un conten",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Anthropic’s Rust Rewrite Shows Where the Real Work in AI-Driven Migrations Lives",
+      "source": "DevOps.com",
+      "lien": "https://devops.com/anthropics-rust-rewrite-shows-where-the-real-work-in-ai-driven-migrations-lives",
+      "date": "2026-11-27T10:28:58+00:00",
+      "resume": "Anthropic’s migration of its Messages API from Python to Rust delivered significant performance gains, but exposed a fundamental challenge in AI-assisted software development: generating code is becoming easier than proving it works. For DevOps teams, production verification is emerging as the criti",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "AI in azienda, l’utilizzo quotidiano corre più della formazione e della governance",
+      "source": "01net",
+      "lien": "https://www.01net.it/ai-adoption-aziende-formazione-governance-42skills/",
+      "date": "2026-11-27T10:16:24+00:00",
+      "resume": "L’Osservatorio AI Adoption di 42Skills rileva che l’86,6% dei professionisti intervistati utilizza quotidianamente l’intelligenza artificiale, ma solo il 7,1% opera in organizzazioni dotate di policy formalizzate. L'articolo AI in azienda, l’utilizzo quotidiano corre più della formazione e della gov",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "OpenAI’s GPT‑6.2 correction means you get less AI for the same fee",
+      "source": "InfoWorld",
+      "lien": "https://www.infoworld.com/article/4253883/openais-gpt%e2%80%916-2-correction-means-you-get-less-ai-for-the-same-fee.html",
+      "date": "2026-11-27T10:00:23+00:00",
+      "resume": "OpenAI has corrected a billing error that undercounted usage of its GPT-6.2 Astra and Sol models, warning customers that the same workloads will now consume more of their subscription allowances and cause them to reach usage limits up to 40% faster. The correction, disclosed by Thibault Sottiaux, wh",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Protect your Python programs from problems and perils",
+      "source": "InfoWorld",
+      "lien": "https://www.infoworld.com/article/4252884/protect-your-python-programs-from-problems-and-perils.html",
+      "date": "2026-11-27T09:00:00+00:00",
+      "resume": "When is a CPython vulnerability not a CPython vulnerability? How do the AI and machine learning capabilities of other programming languages stack up against those of Python? You’ll find the answers to those questions at the links below. And if you’re keeping Python secure and up-to-date on Windows, ",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "SEO local : 6 indicateurs à auditer quand on gère un réseau de points de vente",
+      "source": "Blog du Modérateur",
+      "lien": "https://www.blogdumoderateur.com/seo-local-6-indicateurs/",
+      "date": "2026-11-27T08:50:13+00:00",
+      "resume": "Sur Google comme dans ChatGPT, la visibilité d'une enseigne se joue point de vente par point de vente. L'audit gratuit de Digitaleo mesure ces écarts et priorise les corrections.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Avec Parlons Tech, la MAIF ouvre les coulisses de sa DSI et donne la parole à ses experts",
+      "source": "Blog du Modérateur",
+      "lien": "https://www.blogdumoderateur.com/parlons-tech-maif-ouvre-coulisses-dsi-parole-experts/",
+      "date": "2026-11-27T08:38:47+00:00",
+      "resume": "Dans le premier épisode de cette série vidéo, deux experts de la MAIF détaillent l'usage du GitOps sur leur plateforme OpenShift. Ils reviennent sur ce que cette méthode change pour les équipes et sur les pistes explorées, du platform engineering à l'IA.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Musique IA - Tidal passe du tag à la poubelle",
+      "source": "Korben",
+      "lien": "https://korben.info/tidal-supprime-musique-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+      "date": "2026-11-27T08:29:43+01:00",
+      "resume": "À partir du 9 décembre, Tidal supprime les morceaux entièrement générés par IA, environ 27 millions de titres, et refuse les nouvelles livraisons. Ce qui part, ce qui reste autorisé, comment c'est détecté et où en sont Deezer, Spotify ou Apple Music.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "ChatGPT Boosted Consultants' Scores, Not Their Knowledge",
+      "source": "Towards Data Science",
+      "lien": "https://towardsdatascience.com/chatgpt-boosted-consultants-scores-not-their-knowledge/",
+      "date": "2026-11-26T16:00:00+00:00",
+      "resume": "Consultants gained 49 points on coding with AI, while apprentices also gained comprehension — which is why assisted work and expertise need separate names. The post ChatGPT Boosted Consultants' Scores, Not Their Knowledge appeared first on Towards Data Science .",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Quoting Jack Despain Zhou",
+      "source": "Simon Willison",
+      "lien": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "date": "2026-11-26T15:09:31+00:00",
+      "resume": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious credent",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Depuis l’arrivée des AI Overviews, le taux de clics a reculé de 22 % en France",
+      "source": "Blog du Modérateur",
+      "lien": "https://www.blogdumoderateur.com/depuis-arrivee-ai-overviews-taux-clics-recule-22-pourcent-france/",
+      "date": "2026-11-26T15:04:30+00:00",
+      "resume": "Ahrefs a comparé le taux de clics de plus de 31 000 mots clés français, avec et sans résumé IA. Sans surprise, la baisse frappe toutes les positions de la SERP, première place comprise, ainsi que toutes les intentions de recherche.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Efficiency gains from AI coding can be lost in review",
+      "source": "TechInformed",
+      "lien": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLWtqS3kyNU9wYXctMEc1ZEpRaTc4cDlOcENXeG00WEZ1ZkFqUkNTSDUydVRyYUVyakl3S3VRa1BGbDQwT2QyV24weFktQXhCWnJhaHZ1S3Zaa1NIMF9oQ2ZISWpYRHVscHR4dVQ5UXJJZDVJejRVeXYyM0NBYXBqenBqTVl1QQ?oc=5",
+      "date": "2026-11-27T17:45:26+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Solana developers get a browser-based coding playground",
+      "source": "TheStreet",
+      "lien": "https://www.thestreet.com/crypto/innovation/solana-playground-lets-developers-build-programs-in-the-browser-with-an-ai-coding-partner",
+      "date": "2026-11-27T17:04:05+00:00",
+      "resume": "Solana's browser-based Playground lets developers write and deploy programs with help from an AI agent that explains and edits code.",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "Anthropic Stock Price Forecast: Rewriting Messaging API in Rust Expected to Lower Claude Service Costs, Stock Poised to Rise Further to $94",
+      "source": "TradingKey",
+      "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPV2tWSHBkR202ZFh6Nl9DczVvQUM2QlpuTVBxWjJ5Y09tVTZWUmhNM0htMFFKaWU1alJYNGlPNk9ZdS10LUNxeW1mNFoxLWlCVERvVUhOQUNadUROLUFJSEQwTjlfZXk5T2RJSlBOUW9scnJPSDNFNnU0Vy11Rl9CSnJIbEs4RnJJV202eXZUUU5kdXc2UWhxX2tMU1VMck5hZ3hGbEMybklUNUxJTEJ0ZWxYLU1JU1VNTk9VcThvQU9XY1FmSTMzcTlmRTJwaFozREx5eGNkdU54bHlrTXc?oc=5",
+      "date": "2026-11-27T16:33:57+00:00",
+      "resume": "",
+      "titre_fr": ""
+    },
+    {
+      "note": null,
+      "motif": "",
+      "couverture": 1,
+      "titre": "'Make no mistakes': GTA 6 PC port vibe-coding prompt from modder Hyphennn goes viral as community claims locked 60 fps",
+      "source": "Sportskeeda",
+      "lien": "https://www.sportskeeda.com/gta/make-mistakes-gta-6-pc-port-vibe-coding-prompt-modder-hyphennn-goes-viral-community-claims-locked-60-fps",
+      "date": "2026-11-27T14:50:00+00:00",
+      "resume": "In the era of the AI boom, the unofficial GTA 6 PC port has become the latest target of the \"vibe-coded\" AI-assisted trend.",
+      "titre_fr": ""
+    }
+  ],
+  "top": [
+    {
+      "note": 9,
+      "motif": "GA d'un service Azure majeur, forte portée",
+      "couverture": 1,
+      "titre": "Azure AI Gateway Reaches General Availability as a Standalone Service",
+      "source": "InfoQ",
+      "lien": "https://www.infoq.com/news/2026/11/azure-ai-gateway-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering",
+      "date": "2026-11-28T06:47:00+00:00",
+      "resume": "Microsoft has made Azure AI Gateway generally available as a standalone Azure service for governing access to AI models and MCP tools across providers. A free tier covers 10,000 requests per gateway per month; paid billing starts January 1, 2027; and private networking remains in preview. By Steef-J",
+      "titre_fr": "Azure AI Gateway passe en disponibilité générale en tant que service autonome"
+    },
+    {
+      "note": 8,
+      "motif": "Recherche innovante, améliore l'entraînement IA",
+      "couverture": 1,
+      "titre": "Researchers recover AI training gains by replaying saved outputs, preprint reports",
+      "source": "Superpower Daily",
+      "lien": "https://superpowerdaily.com/posts/researchers-recover-ai-training-gains-by-replaying-saved-outputs-preprint-reports",
+      "date": "2026-11-28T06:55:09+00:00",
+      "resume": "Starting from the same base model, the authors reproduce online reinforcement-learning performance by fitting archived responses—including incorrect ones. Reusing the original RL algorithm instead generally collapses.",
+      "titre_fr": "Des chercheurs récupèrent les gains d'entraînement de l'IA en rejouant les sorties enregistrées, selon un préprint"
+    },
+    {
+      "note": 8,
+      "motif": "Preuve assistée IA, avancée mathématique majeure",
+      "couverture": 1,
+      "titre": "Lean y Mathlib certifican la prueba de Riemann asistida por Claude",
+      "source": "NeoTeo",
+      "lien": "https://www.neoteo.com/es/lean-y-mathlib-certifican-la-prueba-de-riemann-asistida-por-claude",
+      "date": "2026-11-28T06:41:11+00:00",
+      "resume": "Lean y Mathlib certificaron la prueba formal de Riemann asistida por Claude. El MIT detalla las comprobaciones y acota la extensión a funciones L de Dirichlet.",
+      "titre_fr": "Lean et Mathlib valident la preuve de Riemann assistée par Claude"
+    },
+    {
+      "note": 8,
+      "motif": "Méthode codage IA supérieure, résultat notable",
+      "couverture": 1,
+      "titre": "Microsoft Researchers Say Coding-Agent Method Beats Prompt Optimizers on Most Tests",
+      "source": "www.tokenpost.com",
+      "lien": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsMVBEY0Uyd2d0TXFlc3Z1Tk5ETFp2NnRkQ192bzB3bW52WnB2Mm9STDRlMEp5WWE4bi1fdEtPRzE0Wll4YUFMZ2RkZ29DRGFybzhtWkYwRzdDSHM?oc=5",
+      "date": "2026-11-28T00:08:00+00:00",
+      "resume": "",
+      "titre_fr": "Des chercheurs de Microsoft affirment que la méthode Coding‑Agent surpasse les optimiseurs d’invites dans la plupart des tests"
+    },
+    {
+      "note": 8,
+      "motif": "Infrastructure AI sécurisée, impact large sur cloud",
+      "couverture": 1,
+      "titre": "AWS Nitro Sandboxes give AI agents a place to run",
+      "source": "The New Stack",
+      "lien": "https://thenewstack.io/aws-nitro-sandboxes-agents/",
+      "date": "2026-11-27T19:16:41+00:00",
+      "resume": "A coding agent has written a script and wants to run it. The script may do exactly what the developer The post AWS Nitro Sandboxes give AI agents a place to run appeared first on The New Stack .",
+      "titre_fr": "Les sandboxes AWS Nitro offrent aux agents IA un environnement d’exécution"
+    }
+  ],
+  "articles_notes": 50,
+  "liens_google": 14,
+  "videos": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "Build an Autonomous AI Agent Using Real Tools | Google Calendar, Gmail & Human Approval",
+        "source": "Applied with AI - Sanjay Kumar",
+        "lien": "https://www.youtube.com/watch?v=Ckeji0ZpEjk",
+        "date": "2026-11-28T06:36:53Z",
+        "image": "https://i.ytimg.com/vi/Ckeji0ZpEjk/mqdefault.jpg",
+        "extrait": "Build a real AI Agent using LangChain, Python, FastAPI, and Google APIs, and learn how to implement Human-in-the-Loop (HITL) ...",
+        "description": "Construction d'un agent IA autonome qui utilise des outils réels comme Google Calendar, Gmail et intègre une boucle humain‑dans‑la‑boucle via LangChain, Python, FastAPI et les API Google."
+      },
+      {
+        "titre": "Anthropic Just Killed AI Agents - EVERYTHING You Need to Know",
+        "source": "Christian Peverelli",
+        "lien": "https://www.youtube.com/watch?v=fBSI3HLoxWc",
+        "date": "2026-11-28T03:30:39Z",
+        "image": "https://i.ytimg.com/vi/fBSI3HLoxWc/mqdefault.jpg",
+        "extrait": "FREE Skills: https://www.skool.com/wearenocode TOOLS AI Coding: Claude Code: https://claude.ai/referral/hNMjMWDmiA ...",
+        "description": "Analyse de la déclaration d'Anthropic selon laquelle les agents IA sont dépassés, avec un focus sur les nouvelles fonctionnalités de Claude Code et les compétences associées."
+      },
+      {
+        "titre": "I Built The Ultimate AI Agent Operating System",
+        "source": "Jordan Rafealov",
+        "lien": "https://www.youtube.com/watch?v=ekrhVD8M9QE",
+        "date": "2026-11-28T00:45:21Z",
+        "image": "https://i.ytimg.com/vi/ekrhVD8M9QE/mqdefault.jpg",
+        "extrait": "Join The AI Systems Society & Sign Your 1st Client: https://www.skool.com/aisystems/about FREE AI Agent OS Prompt: ...",
+        "description": "Présentation d'un système d'exploitation complet pour agents IA, incluant un prompt gratuit pour créer son propre AI Agent OS."
+      },
+      {
+        "titre": "3,300 MCP Tools in One Server? How Hermes AI Agent Handles It (Tool Search + Spend Limits) #shorts",
+        "source": "To Learn AI AutoMation",
+        "lien": "https://www.youtube.com/watch?v=rokwtgzrBo4",
+        "date": "2026-11-27T23:17:07Z",
+        "image": "https://i.ytimg.com/vi/rokwtgzrBo4/mqdefault.jpg",
+        "extrait": "One MCP server can hand your AI agent about 3300 tools at once. Here's how Hermes Agent keeps that from slowing your agent ...",
+        "description": "Démonstration de l'agent Hermes qui gère 3 300 outils sur un serveur MCP, montrant comment éviter la surcharge grâce à la recherche d'outils et aux limites de dépenses."
+      },
+      {
+        "titre": "Someone Made Prettier 19× Faster Using Rust #rustlang #prettier #programming",
+        "source": "Better Stack",
+        "lien": "https://www.youtube.com/watch?v=AiUbqLtZAqg",
+        "date": "2026-11-27T20:15:31Z",
+        "image": "https://i.ytimg.com/vi/AiUbqLtZAqg/mqdefault.jpg",
+        "extrait": "Someone rewrote Prettier in Rust and made it 19x faster. But the most interesting part isn't the speed. It's how the open-source tool ...",
+        "description": "Explication de la réécriture de Prettier en Rust, rendant l'outil 19 fois plus rapide et illustrant les bénéfices d'une implémentation open‑source optimisée."
+      },
+      {
+        "titre": "AI Agents Are Dead… Claude Now Builds Real Apps You Can Sell",
+        "source": "Beyond Tahir",
+        "lien": "https://www.youtube.com/watch?v=qxgx7MRnks4",
+        "date": "2026-11-27T19:51:50Z",
+        "image": "https://i.ytimg.com/vi/qxgx7MRnks4/mqdefault.jpg",
+        "extrait": "Anthropic's own engineers stood on stage and said it: stop building AI agents, build skills instead. One year ago the same team ...",
+        "description": "Annonce d'Anthropic qui abandonne les agents IA au profit de compétences capables de créer de véritables applications commercialisables."
+      },
+      {
+        "titre": "5 free plugins #ai #chatgpt #techinnovation #airevolution #ai #claude",
+        "source": "Alex Tavi",
+        "lien": "https://www.youtube.com/watch?v=PoJC6pkqxTs",
+        "date": "2026-11-27T19:36:13Z",
+        "image": "https://i.ytimg.com/vi/PoJC6pkqxTs/mqdefault.jpg",
+        "extrait": "5 free Claude Code plugins from GitHub that can seriously upgrade your coding workflow: 1️⃣ Ponytail: cuts token usage by ...",
+        "description": "Présentation de cinq plugins gratuits pour Claude Code, dont Ponytail qui réduit la consommation de tokens, afin d'améliorer le flux de travail de codage."
+      },
+      {
+        "titre": "I Gave 14 AI Coding Harnesses the Same Qwen 3.8 Brain",
+        "source": "Otis's AI Lab",
+        "lien": "https://www.youtube.com/watch?v=1HE0hHGU8Gw",
+        "date": "2026-11-27T18:11:33Z",
+        "image": "https://i.ytimg.com/vi/1HE0hHGU8Gw/mqdefault.jpg",
+        "extrait": "I gave 14 AI coding harnesses the exact same model, Qwen 3.8 Flash, and two hours each to write a bot that attempts The Climb: ...",
+        "description": "Test comparatif où 14 harnesses de codage IA utilisent le même modèle Qwen 3.8 pour créer un bot jouant à \"The Climb\", évaluant leurs performances."
+      },
+      {
+        "titre": "Your AI Agent Has Too Many Tools | 7 Deadly Sins of AI Agents: Lust",
+        "source": "DevOps Pink | by Docker Captain",
+        "lien": "https://www.youtube.com/watch?v=SrdK-xKuiwc",
+        "date": "2026-11-27T16:03:58Z",
+        "image": "https://i.ytimg.com/vi/SrdK-xKuiwc/mqdefault.jpg",
+        "extrait": "The second sin is lust: your AI agent has way too many relationships. Email, calendar, Slack, Jira, the database, GitHub and thirty ...",
+        "description": "Analyse des « 7 péchés mortels » des agents IA, dont le premier « lust » qui consiste à surcharger l'agent avec trop d'outils et d'intégrations."
+      },
+      {
+        "titre": "Why MCP Replaces Custom AI Tool Glue",
+        "source": "Stewie's Lab",
+        "lien": "https://www.youtube.com/watch?v=qS4pKD71Z30",
+        "date": "2026-11-27T15:01:18Z",
+        "image": "https://i.ytimg.com/vi/qS4pKD71Z30/mqdefault.jpg",
+        "extrait": "Writing custom connectors for every model and API creates an N x M maintenance trap; Model Context Protocol standardizes tools ...",
+        "description": "Discussion sur la façon dont le Model Context Protocol (MCP) remplace les connecteurs personnalisés pour les outils IA, évitant le piège de maintenance N × M."
+      }
+    ]
+  },
+  "podcasts": {
+    "statut": "ok",
+    "fenetre_heures": 24,
+    "elements": [
+      {
+        "titre": "MSTY: This NEW and FREE Desktop Chat Interface is better than ChatGPT (works w/ Ollama, Groq and OpenAI)",
+        "source": "AICodeKing",
+        "lien": "https://podcasts.apple.com/us/podcast/msty-this-new-and-free-desktop-chat-interface-is/id6826122006?i=1000797739966&uo=4",
+        "date": "2026-11-28T06:30:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f0/2f/d2/f02fd27d-9305-f011-be7c-7f07e2ae7857/mza_1360639448021478143.jpg/160x160bb.jpg",
+        "duree_min": 11,
+        "extrait": "",
+        "description": "MSTY présente une nouvelle interface de chat de bureau gratuite, plus performante que ChatGPT, compatible avec Ollama, Groq et OpenAI."
+      },
+      {
+        "titre": "Claude Code OS Setup: The $20 AI Coding OS",
+        "source": "AICodeKing",
+        "lien": "https://podcasts.apple.com/us/podcast/claude-code-os-setup-the-%2420-ai-coding-os/id6826122006?i=1000803837693&uo=4",
+        "date": "2026-11-28T06:00:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a1/f6/5b/a1f65b18-1610-736d-7f1f-bdadb020dc29/mza_10104931300643283886.jpg/160x160bb.jpg",
+        "duree_min": 26,
+        "extrait": "",
+        "description": "Claude Code OS Setup décrit le système d'exploitation d'IA à 20 $ dédié au codage, offrant un environnement spécialisé pour les développeurs."
+      },
+      {
+        "titre": "Ep 35 · Weekly Recap: Week of November 23, 2026",
+        "source": "ACN · AI Coding News",
+        "lien": "https://podcasts.apple.com/us/podcast/ep-35-weekly-recap-week-of-november-23-2026/id6834673859?i=1000804477048&uo=4",
+        "date": "2026-11-28T01:01:31+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1d/b3/36/1db3363c-4815-919a-2916-08b5724a099e/mza_11412927109281359048.jpg/160x160bb.jpg",
+        "duree_min": 6,
+        "extrait": "Claude's connectors learn new skills. Anthropic rebuilds its API in Rust. Anthropic sets traps for Claude. OpenAI's limits arrive sooner. And Cognition's engineers skip the code. MCP servers can now ship skills to ClaudeAnthropic moves its Messages API",
+        "description": "Dans le récapitulatif hebdomadaire, on apprend que les connecteurs de Claude acquièrent de nouvelles compétences, Anthropic refait son API en Rust et d'autres nouveautés techniques autour de Claude et OpenAI."
+      },
+      {
+        "titre": "Claude Ship Can Merge Code Nobody Reviewed: Check These Four Settings",
+        "source": "Claude Code Cast",
+        "lien": "https://podcasts.apple.com/us/podcast/claude-ship-can-merge-code-nobody-reviewed-check-these/id1877895693?i=1000804465417&uo=4",
+        "date": "2026-11-27T23:14:13+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/94/ce/37/94ce3784-303c-6cc3-c658-9f9bbc0ec4cd/mza_4451248880842997978.jpg/160x160bb.jpg",
+        "duree_min": 17,
+        "extrait": "Alex and Sam explain Anthropic's Claude Ship agents (Code Review, PR Steward and Claude Approvals), the four documented ways a pull request can merge with nobody but its author looking, how to tell whether an agent's fix really fixed anything, and a cau",
+        "description": "Claude Ship expose quatre réglages permettant à un agent de fusionner du code sans révision humaine, détaillant le fonctionnement du Code Review, PR Steward et Claude Approvals."
+      },
+      {
+        "titre": "Your AI Agent Approved a Refund Last Month. Can You Prove Why?",
+        "source": "AI Agents for Business",
+        "lien": "https://podcasts.apple.com/us/podcast/your-ai-agent-approved-a-refund-last-month-can-you-prove-why/id6823831680?i=1000804465288&uo=4",
+        "date": "2026-11-27T23:12:53+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e9/49/34/e94934ac-33fe-871d-2b16-ad22e2bf061e/mza_13196342654046587696.jpg/160x160bb.jpg",
+        "duree_min": 16,
+        "extrait": "Jordan and Casey turn n8n's new guide on audit and tracing for AI agents into a short record-keeping plan for small businesses: validate before acting, label each decision, check how long your plan keeps runs and workflow history, name and export versio",
+        "description": "AI Agents for Business propose un guide d’audit et de traçabilité pour les agents IA, afin que les petites entreprises puissent justifier les remboursements approuvés par un agent."
+      },
+      {
+        "titre": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+        "source": "Latent Space: The AI Engineer Podcast",
+        "lien": "https://podcasts.apple.com/us/podcast/inside-the-ai-training-data-market-gabe-greenberg-g2i/id1674008350?i=1000804470486&uo=4",
+        "date": "2026-11-27T22:19:18+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d9/21/86/d92186f9-f3a9-aa02-2396-79b6647ab5eb/mza_16010788000850407367.jpg/160x160bb.jpg",
+        "duree_min": 32,
+        "extrait": "A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can buy too. At AI Engineer CODE, G2i founder Gabe Greenberg tells swyx how labs make that decision, how small pilot orders turn into bigger.",
+        "description": "Latent Space explore le marché des données d’entraînement IA, où les laboratoires décident d’acheter des jeux de données exclusifs ou partagés selon le prix et l’usage."
+      },
+      {
+        "titre": "Mentioned, Cited, or Invisible: The New A.E.O. Visibility Ladder for AI Agents",
+        "source": "Answer Engine Optimization (AEO): The AI Search Podcast",
+        "lien": "https://podcasts.apple.com/us/podcast/mentioned-cited-or-invisible-the-new-a-e-o/id1884409947?i=1000804454495&uo=4",
+        "date": "2026-11-27T21:23:53+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3b/d6/70/3bd670a7-6d97-aeba-c1fb-2d0000124b65/mza_15206958052489168427.jpg/160x160bb.jpg",
+        "duree_min": 10,
+        "extrait": "\"Mentioned, Cited, or Invisible: The New A.E.O. Visibility Ladder for AI Agents,\" an AEO Engine episode, explains why brands cited by ChatGPT, Google AI Overviews, and Perplexity win share while invisible brands lose demand. Key takeaways: AEO Engine",
+        "description": "L’épisode explique le nouveau “Visibility Ladder” AEO, montrant comment les agents IA gagnent en visibilité lorsqu’ils sont cités ou mentionnés par des modèles comme ChatGPT ou Perplexity."
+      },
+      {
+        "titre": "Ep 34 · Midday Update: Friday, November 27, 2026",
+        "source": "ACN · AI Coding News",
+        "lien": "https://podcasts.apple.com/us/podcast/ep-34-midday-update-friday-november-27-2026/id6834673859?i=1000804454418&uo=4",
+        "date": "2026-11-27T21:15:41+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1d/b3/36/1db3363c-4815-919a-2916-08b5724a099e/mza_11412927109281359048.jpg/160x160bb.jpg",
+        "duree_min": 4,
+        "extrait": "Cognition ships a coding model that runs ten times as fast. AWS gives AI agents a sealed place to run code. And SAP confirms a cyberattack. Cognition's SWE-2.1 adds a 10x faster variantAWS Nitro Sandboxes isolate agent-run codeSAP confirms attack; code",
+        "description": "Mise à jour de mi-journée : Cognition lance un modèle de codage 10 fois plus rapide, AWS propose des environnements sécurisés pour les agents IA, et SAP signale une cyberattaque."
+      },
+      {
+        "titre": "Who Pays the AI Bill? Black Friday's Token Math (Nov 27, 2026)",
+        "source": "AI Unraveled: Enterprise Strategy, Agentic Systems, Daily AI News, ChatGPT, Gemini, Claude, DeepSeek",
+        "lien": "https://podcasts.apple.com/us/podcast/who-pays-the-ai-bill-black-fridays-token-math-nov-27-2026/id1684415169?i=1000804430546&uo=4",
+        "date": "2026-11-27T17:56:34+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d0/4c/01/d04c0194-68e8-8990-3ed0-dd233efa7945/mza_15792067961838022860.jpg/160x160bb.jpg",
+        "duree_min": 23,
+        "extrait": "[AI DAILY NEWS RUNDOWN] Today's question: who pays the AI bill? OpenAI's billing fix means limits hit 40% faster, and a study found the same sentence can cost 17 times more tokens in some languages. Google's Orchestrator cuts agent costs by planning big",
+        "description": "AI Unraveled analyse qui paie la facture IA pendant le Black Friday, en détaillant l’impact des limites de facturation d’OpenAI et les coûts de tokens selon les langues."
+      },
+      {
+        "titre": "AI Won't Fix the Delivery Problems You Already Have",
+        "source": "Chain of Thought | AI Agents, Infrastructure & Engineering",
+        "lien": "https://podcasts.apple.com/us/podcast/ai-wont-fix-the-delivery-problems-you-already-have/id1776879655?i=1000804414703&uo=4",
+        "date": "2026-11-27T16:20:00+00:00",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ee/f2/1b/eef21b19-f090-f9b4-fc85-ffc84f80fad7/mza_6548396687882944514.jpg/160x160bb.jpg",
+        "duree_min": 51,
+        "extrait": "Nnenna Ndukwe no longer reads every line of code her agents write. She spends that time on verification: splitting the work into small slices, checking each one as it gets built, and auditing her own setup every couple of weeks for skills and scripts th",
+        "description": "Chain of Thought montre comment une développeuse vérifie le code produit par ses agents IA en découpant les tâches et en auditant chaque étape pour éviter les erreurs."
+      }
+    ]
+  }
+}

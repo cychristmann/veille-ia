@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Suisse]] - concept - feuilletons/f-0030.md
+- [[CAC 40]] - concept - veilles/veille-ia-fr-2026-11-21-t2.md
 
 ## Live Query (requires Dataview plugin)
 

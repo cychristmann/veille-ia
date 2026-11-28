@@ -1,13 +1,13 @@
 ---
 source_file: "dossiers/2026-11-19-3.md"
 type: "concept"
-community: "Veille France 2026-11-18"
+community: "Blue J"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_France_2026-11-18
+  - community/Blue_J
 ---
 
 # InvestAI
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_France_2026-11-18
+#graphify/concept #graphify/EXTRACTED #community/Blue_J

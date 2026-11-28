@@ -13,6 +13,7 @@ tags:
 ## Connections
 - [[HarmonyOS]] - `references` [EXTRACTED]
 - [[Huawei Xingmang]] - `references` [EXTRACTED]
+- [[IT之家]] - `cites` [EXTRACTED]
 - [[Nvidia]] - `conceptually_related_to` [INFERRED]
 - [[Nvidia]] - `references` [EXTRACTED]
 - [[SK Hynix]] - `conceptually_related_to` [EXTRACTED]
@@ -22,6 +23,7 @@ tags:
 - [[Veille Chine 2026-11-15  IA industrielle et technologique]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-18  Applications sectorielles]] - `references` [EXTRACTED]
 - [[Veille Chine 2026-11-18  Infrastructure et matériel]] - `references` [EXTRACTED]
+- [[Veille France 2026-11-28]] - `references` [EXTRACTED]
 - [[Veille États-Unis 2026-11-26]] - `references` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Huawei

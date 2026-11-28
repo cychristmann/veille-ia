@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-22-t2.md"
 type: "document"
-community: "Dell"
+community: "Apple"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Dell
+  - community/Apple
 ---
 
 # Veille Outils & code 2026-11-22
@@ -37,4 +37,4 @@ tags:
 - [[WaitFeed]] - `references` [EXTRACTED]
 - [[gitroots]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Dell
+#graphify/document #graphify/EXTRACTED #community/Apple

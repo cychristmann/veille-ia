@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Verda
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Feuilleton Tencent mobilise la moitié de son personnel pour une poussée IA-native]] - document - feuilletons/f-0014.md
+- [[Alpamayo 2 Edge]] - concept - veilles/veille-ia-dev-2026-11-23-t1.md
+- [[DRIVE Thor]] - concept - veilles/veille-ia-dev-2026-11-23-t1.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -12,6 +12,7 @@ tags:
 
 ## Connections
 - [[Claude Code]] - `references` [EXTRACTED]
+- [[DFly2]] - `references` [EXTRACTED]
 - [[Hunyuan AI]] - `references` [EXTRACTED]
 - [[Hy4 flash]] - `conceptually_related_to` [EXTRACTED]
 - [[IA-native Strategy]] - `references` [EXTRACTED]

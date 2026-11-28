@@ -8,8 +8,8 @@ members: 2
 **Members:** 2 nodes
 
 ## Members
-- [[WAIC 2026]] - concept - dossiers/2026-11-25-3.md
-- [[Xi Jinping]] - concept - dossiers/2026-11-25-3.md
+- [[ColorOS 17]] - concept - veilles/veille-ia-fr-2026-11-28-t3.md
+- [[OPPO]] - concept - veilles/veille-ia-fr-2026-11-28-t3.md
 
 ## Live Query (requires Dataview plugin)
 

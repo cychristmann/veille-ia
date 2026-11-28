@@ -1,20 +1,24 @@
 ---
 type: community
-members: 7
+members: 11
 ---
 
 # Veille France 2026-11-12 : Régulation, éthique et impacts sociétaux
 
-**Members:** 7 nodes
+**Members:** 11 nodes
 
 ## Members
-- [[Jacek Rozenek]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
-- [[Notion]] - concept - veilles/veille-ia-fr-2026-11-10-t4.md
-- [[Notion AI]] - concept - veilles/veille-ia-fr-2026-11-10-t4.md
-- [[ORONI]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
-- [[Veille France 2026-11-10  Nouveaux modèles et produits IA]] - document - veilles/veille-ia-fr-2026-11-10-t4.md
-- [[Veille France 2026-11-12  Régulation, éthique et impacts sociétaux]] - document - veilles/veille-ia-fr-2026-11-12-t4.md
-- [[Yann Le Cun]] - concept - veilles/veille-ia-fr-2026-11-12-t4.md
+- [[Business Hub]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
+- [[GPT-6 Astra]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
+- [[LLM Evaluation]] - concept - veilles/veille-ia-dev-2026-11-22-t4.md
+- [[Martin Cid Magazine]] - concept - veilles/veille-ia-fr-2026-11-27-t1.md
+- [[Shield]] - concept - veilles/veille-ia-fr-2026-11-14-t2.md
+- [[Surge]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
+- [[Ubuntu]] - concept - veilles/veille-ia-fr-2026-11-19-t4.md
+- [[Veille France 2026-11-19]] - document - veilles/veille-ia-fr-2026-11-19-t4.md
+- [[Veille Outils & code 2026-11-12  Coût, tokenomics et optimisation]] - document - veilles/veille-ia-dev-2026-11-12-t3.md
+- [[Veille Outils & code 2026-11-22 (t4)]] - document - veilles/veille-ia-dev-2026-11-22-t4.md
+- [[Veille Outils & code 2026-11-27 (T4)]] - document - veilles/veille-ia-dev-2026-11-27-t4.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -24,11 +28,20 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_GPT-6 Astra_2]]
-- 1 edge to [[_COMMUNITY_David Tepper]]
-- 1 edge to [[_COMMUNITY_Cursor]]
+- 4 edges to [[_COMMUNITY_Elon Musk]]
+- 3 edges to [[_COMMUNITY_Copilot]]
+- 2 edges to [[_COMMUNITY_Claude Code]]
+- 2 edges to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-12]]
+- 1 edge to [[_COMMUNITY_AMD_1]]
+- 1 edge to [[_COMMUNITY_Veille États-Unis 2026-11-14  Incident FAA et Intelligence Artificielle]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-12  Régulation, éthique et impacts sociétaux_1]]
+- 1 edge to [[_COMMUNITY_Veille Chine 2026-11-23  Finance, marchés et investissements IA]]
+- 1 edge to [[_COMMUNITY_SpaceX_2]]
 
 ## Top bridge nodes
-- [[Veille France 2026-11-12  Régulation, éthique et impacts sociétaux]] - degree 5, connects to 1 community
-- [[Notion]] - degree 4, connects to 1 community
-- [[Veille France 2026-11-10  Nouveaux modèles et produits IA]] - degree 2, connects to 1 community
+- [[GPT-6 Astra]] - degree 14, connects to 7 communities
+- [[Veille France 2026-11-19]] - degree 6, connects to 3 communities
+- [[Veille Outils & code 2026-11-27 (T4)]] - degree 4, connects to 3 communities
+- [[Martin Cid Magazine]] - degree 3, connects to 2 communities
+- [[Business Hub]] - degree 2, connects to 1 community

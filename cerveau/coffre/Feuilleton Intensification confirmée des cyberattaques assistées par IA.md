@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0030.md"
 type: "document"
-community: "Google"
+community: "IBM"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Google
+  - community/IBM
 ---
 
 # Feuilleton: Intensification confirmée des cyberattaques assistées par IA
@@ -15,4 +15,4 @@ tags:
 - [[Google]] - `references` [EXTRACTED]
 - [[IBM]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Google
+#graphify/document #graphify/EXTRACTED #community/IBM

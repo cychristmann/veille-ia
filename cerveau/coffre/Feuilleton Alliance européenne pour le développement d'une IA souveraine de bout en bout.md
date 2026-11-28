@@ -1,11 +1,11 @@
 ---
 source_file: "feuilletons/f-0034.md"
 type: "document"
-community: "Veille Outils & code 2026-11-15"
+community: "AI Act"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-15
+  - community/AI_Act
 ---
 
 # Feuilleton: Alliance européenne pour le développement d'une IA souveraine de bout en bout
@@ -16,4 +16,4 @@ tags:
 - [[Qwant]] - `references` [EXTRACTED]
 - [[Shadow]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-15
+#graphify/document #graphify/EXTRACTED #community/AI_Act

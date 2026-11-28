@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-fr-2026-11-13-t2.md"
 type: "concept"
-community: "GPT-6 Astra"
+community: "Nvidia"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/GPT-6_Astra
+  - community/Nvidia
 ---
 
 # LEGO
@@ -14,4 +14,4 @@ tags:
 - [[Daft Punk]] - `references` [EXTRACTED]
 - [[Ogilvy]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/GPT-6_Astra
+#graphify/concept #graphify/EXTRACTED #community/Nvidia

@@ -1,34 +1,20 @@
 ---
 type: community
-members: 21
+members: 7
 ---
 
 # Claude Code
 
-**Members:** 21 nodes
+**Members:** 7 nodes
 
 ## Members
-- [[Adobe Creative Cloud]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Adobe Firefly]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Andrej Karpathy]] - concept - veilles/veille-ia-fr-2026-11-08-t4.md
-- [[Claude]] - concept - dossiers/2026-11-22-1.md
-- [[Clay Mathematics Institute]] - concept - dossiers/2026-11-22-1.md
-- [[Cognizant]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Danfoss]] - concept - dossiers/2026-11-18-2.md
-- [[Feuilleton Résolution de l'hypothèse de Riemann grâce à l'IA d'Anthropic]] - document - feuilletons/f-0036.md
-- [[HackerTube]] - concept - veilles/veille-ia-fr-2026-11-08-t4.md
-- [[Hypothèse de Riemann]] - concept - veilles/veille-ia-fr-2026-11-21-t3.md
-- [[Kimi-K2.6]] - concept - veilles/veille-ia-dev-2026-11-20-t4.md
-- [[Meta FAIR]] - concept - veilles/veille-ia-dev-2026-11-20-t4.md
-- [[Modèles d'IA MoE]] - concept - veilles/veille-ia-fr-2026-11-08-t4.md
-- [[Mythos 5.2]] - concept - feuilletons/f-0003.md
-- [[Roland Busch (博乐仁)]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Shing-Tong Yau]] - concept - feuilletons/f-0036.md
-- [[Siemens]] - code - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Veille Chine 2026-11-10]] - document - veilles/veille-ia-cn-2026-11-10-t2.md
-- [[Veille France 2026-11-08  Applications concrètes et innovations IA]] - document - veilles/veille-ia-fr-2026-11-08-t4.md
-- [[Veille France 2026-11-21  Recherche scientifique & mathématiques]] - document - veilles/veille-ia-fr-2026-11-21-t3.md
-- [[Veille IA Dev 2026-11-20 T4]] - document - veilles/veille-ia-dev-2026-11-20-t4.md
+- [[AI Cyberattack]] - concept - dossiers/2026-11-18-2.md
+- [[GCHQ]] - concept - dossiers/2026-11-18-2.md
+- [[GLM 5.2]] - concept - dossiers/2026-11-18-2.md
+- [[Hugging Face]] - concept - dossiers/2026-11-23-1.md
+- [[Irene Solaiman]] - concept - veilles/veille-ia-us-2026-11-10-t2.md
+- [[July 2026 AI Incident]] - concept - dossiers/2026-11-23-1.md
+- [[NCSC]] - concept - dossiers/2026-11-18-2.md
 
 ## Live Query (requires Dataview plugin)
 
@@ -38,26 +24,16 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 5 edges to [[_COMMUNITY_Riemann Hypothesis]]
-- 5 edges to [[_COMMUNITY_David Tepper]]
-- 2 edges to [[_COMMUNITY_Claude Code]]
-- 2 edges to [[_COMMUNITY_ChatGPT]]
-- 1 edge to [[_COMMUNITY_Libertify]]
-- 1 edge to [[_COMMUNITY_Copilot]]
-- 1 edge to [[_COMMUNITY_Microsoft]]
+- 3 edges to [[_COMMUNITY_Elon Musk]]
+- 1 edge to [[_COMMUNITY_Meta]]
+- 1 edge to [[_COMMUNITY_Nvidia_1]]
 - 1 edge to [[_COMMUNITY_Google]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-14]]
-- 1 edge to [[_COMMUNITY_Qwen4-Max]]
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-26]]
-- 1 edge to [[_COMMUNITY_Qwen]]
-- 1 edge to [[_COMMUNITY_SpaceX]]
-- 1 edge to [[_COMMUNITY_Robin Li]]
-- 1 edge to [[_COMMUNITY_SpaceX_2]]
-- 1 edge to [[_COMMUNITY_DeepSeek_2]]
+- 1 edge to [[_COMMUNITY_Copilot]]
+- 1 edge to [[_COMMUNITY_David Tepper]]
+- 1 edge to [[_COMMUNITY_Veille France 2026-11-17]]
+- 1 edge to [[_COMMUNITY_Dossier  IA générative  un nouveau vecteur de menaces nucléaires]]
 
 ## Top bridge nodes
-- [[Claude]] - degree 28, connects to 13 communities
-- [[Adobe Creative Cloud]] - degree 5, connects to 2 communities
-- [[Hypothèse de Riemann]] - degree 6, connects to 1 community
-- [[Veille Chine 2026-11-10]] - degree 4, connects to 1 community
-- [[Veille France 2026-11-08  Applications concrètes et innovations IA]] - degree 4, connects to 1 community
+- [[Hugging Face]] - degree 9, connects to 5 communities
+- [[AI Cyberattack]] - degree 7, connects to 4 communities
+- [[July 2026 AI Incident]] - degree 2, connects to 1 community

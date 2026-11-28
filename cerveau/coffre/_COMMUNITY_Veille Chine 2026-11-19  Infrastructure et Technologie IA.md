@@ -23,7 +23,7 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 1 edge to [[_COMMUNITY_Veille Outils & code 2026-11-17]]
+- 1 edge to [[_COMMUNITY_Gemini 4 Hydrogen]]
 
 ## Top bridge nodes
 - [[Tencent Hy4 Flash Model]] - degree 2, connects to 1 community

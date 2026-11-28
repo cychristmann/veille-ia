@@ -1,5 +1,5 @@
 ---
-source_file: "veilles/veille-ia-cn-2026-11-12-t2.md"
+source_file: "veilles/veille-ia-cn-2026-11-28-t1.md"
 type: "concept"
 community: "Veille Chine 2026-11-12 : Anthropic et concurrence"
 tags:
@@ -11,6 +11,7 @@ tags:
 # IT之家
 
 ## Connections
+- [[Huawei]] - `cites` [EXTRACTED]
 - [[Veille Chine 2026-11-12  Anthropic et concurrence]] - `cites` [EXTRACTED]
 
 #graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-12__Anthropic_et_concurrence

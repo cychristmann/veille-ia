@@ -1,0 +1,231 @@
+{
+ "date": "2026-11-28",
+ "mode": "ia",
+ "bilan": "Cette nuit, toutes les sections ont atteint le nombre cible de 50 articles. Les pourcentages de liens directs sont stables pour la France et les États‑Unis, mais restent très bas pour la Chine et ont diminué pour Outils & code. Le quota Groq est sous la limite autorisée et toutes les étapes de la veille se sont déroulées correctement. Les actions proposées ont été évaluées afin d’améliorer les points faibles identifiés.",
+ "a_surveiller": [
+  "Le taux de liens directs reste très faible pour la section Chine (12 %).",
+  "Le pourcentage de liens directs a baissé dans la section Outils & code (72 % vs 86 % précédemment).",
+  "Le quota Groq est encore sous la limite mais proche du seuil critique (67 %)."
+ ],
+ "lecon": "Allonger la fenêtre de collecte pour une section peut augmenter le nombre de sources directes et ainsi améliorer le pourcentage de liens directs.",
+ "actions": [
+  {
+   "date": "2026-11-28",
+   "action": "experimenter",
+   "section": "fr",
+   "source": "fenêtre de collecte (heures) 24 → 36",
+   "motif": "score actuel 78.0/100",
+   "raison": "Allonger la fenêtre de collecte à 36 h en France pourrait augmenter le taux de liens directs et la nouveauté des sources.",
+   "resultat": "essai pendant 3 nuits",
+   "libelle": "Expérience France : fenêtre de collecte (heures) 24 → 36"
+  }
+ ],
+ "refusees": [
+  {
+   "type": "reprendre",
+   "section": "dev",
+   "source": "KDnuggets",
+   "motif": "nouvel essai après 7 jours : répond de nouveau : 15 articles sur l'IA sur 60",
+   "libelle": "Reprise de KDnuggets (Outils & code)",
+   "raison": "KDnuggets ne fournit que 15 articles sur 60, bien en dessous du besoin, il faut l’abandonner."
+  }
+ ],
+ "en_pause": [
+  {
+   "section": "dev",
+   "source": "KDnuggets",
+   "depuis": "2026-11-19",
+   "motif": "hors sujet : 5 articles écartés, aucun retenu en 7 nuits"
+  },
+  {
+   "section": "dev",
+   "source": "Design News",
+   "depuis": "2026-11-22",
+   "motif": "en panne 5 nuits d'affilée"
+  },
+  {
+   "section": "dev",
+   "source": "CASRAI",
+   "depuis": "2026-11-27",
+   "motif": "hors sujet : 13 articles écartés, aucun retenu en 7 nuits"
+  },
+  {
+   "section": "cn",
+   "source": "新浪科技",
+   "depuis": "2026-11-21",
+   "motif": "muet : aucun article récent sur l'IA en 4 nuits (60 articles lus)",
+   "dernier_essai": "2026-11-28 : répond, mais rien publié depuis le 2018-09-23"
+  },
+  {
+   "section": "us",
+   "source": "The Guardian (IA)",
+   "depuis": "2026-11-26",
+   "motif": "en panne 3 nuits d'affilée"
+  }
+ ],
+ "en_essai": [
+  {
+   "section": "cn",
+   "source": "智东西",
+   "depuis": "2026-11-25",
+   "raison": "Site d'information technologique chinois avec 13 articles IA sur 16 publiés en 72 h (81 % du flux) et des titres clairement centrés sur l'IA, ce qui assure un apport régulier et de qualité au-delà de Google Actualités."
+  },
+  {
+   "section": "cn",
+   "source": "雷峰网",
+   "depuis": "2026-11-25",
+   "raison": "Média technologique chinois qui publie 13 articles IA sur 20 en 72 h (65 %) et propose des contenus spécialisés IA (agents, HPC, IA appliquée), garantissant un flux pertinent et fréquent."
+  },
+  {
+   "section": "dev",
+   "source": "Superpower Daily",
+   "depuis": "2026-11-27",
+   "raison": "Identique au numéro 11, forte spécialisation IA, mérite d'être ajouté."
+  },
+  {
+   "section": "us",
+   "source": "Superpower Daily",
+   "depuis": "2026-11-27",
+   "raison": "43 articles IA sur 50 (86 %) ; très fort taux de publication IA, source anglophone reconnue."
+  }
+ ],
+ "lecons": [
+  {
+   "date": "2026-11-17",
+   "texte": "Tester régulièrement de nouveaux médias aide à maintenir un haut pourcentage de liens directs et à diversifier les sources."
+  },
+  {
+   "date": "2026-11-20",
+   "texte": "Pour les sections où les liens directs sont très faibles, réduire la dépendance à Google Actualités et chercher davantage de sources directes améliore la qualité des références."
+  },
+  {
+   "date": "2026-11-21",
+   "texte": "Pour les sections où les liens directs sont très faibles, comme la Chine, il faut diversifier rapidement les sources et réduire la dépendance aux agrégateurs afin d'augmenter la proportion de liens directs."
+  },
+  {
+   "date": "2026-11-22",
+   "texte": "Diversifier rapidement les sources chinoises et remplacer les médias en panne permet d'augmenter le taux de liens directs, ce qui améliore la qualité globale de la veille."
+  },
+  {
+   "date": "2026-11-26",
+   "texte": "Augmenter le nombre de candidats soumis à l'IA dans une section où les liens directs sont faibles peut améliorer la diversité des sources et le pourcentage de liens directs."
+  }
+ ],
+ "paris": {
+  "nouveaux": [],
+  "resolus": [
+   {
+    "enonce": "Meta : au moins 8 articles (France et États-Unis) sur les 5 prochains jours",
+    "probabilite": 0.53,
+    "echeance": "2026-11-28",
+    "statut": "gagne",
+    "observe": 9,
+    "raisonnement": "Meta totalise 7+4 = 11 mentions sur 7 jours (≈1,6/j). Sur 5 jours, 8 représente une hausse modérée mais plausible, surtout avec les récents débats sur la modération."
+   },
+   {
+    "enonce": "Google : au moins 8 articles (Chine) sur les 4 prochains jours",
+    "probabilite": 0.52,
+    "echeance": "2026-11-28",
+    "statut": "perdu",
+    "observe": 5,
+    "raisonnement": "La Chine a seulement 4 articles sur 7 jours, mais l'intérêt croissant pour les IA chinoises pourrait pousser le nombre à dépasser 8 dans les prochains jours."
+   },
+   {
+    "enonce": "Claude Ship : au plus 5 articles (France et Outils & code) sur les 2 prochains jours",
+    "probabilite": 0.67,
+    "echeance": "2026-11-28",
+    "statut": "gagne",
+    "observe": 0,
+    "raisonnement": "Après un pic soudain de 11 articles hier, l'intérêt devrait rapidement diminuer, rendant un total inférieur à 5 très probable."
+   }
+  ],
+  "refus": [
+   "« Claude sera cité dans au plus 55 articles (France et États-Unis) sur les 4 prochains jours. » : gagné d'avance au vu des jours passés",
+   "« Anthropic : au moins 70 articles (France et États-Unis) sur les 5 prochains jours » : l'historique le donne perdant (gagné 0 fois sur 17 périodes passées)",
+   "« Nvidia sera cité dans au plus 35 articles (États-Unis) sur les 3 prochains jours. » : gagné d'avance au vu des jours passés",
+   "« AI Agents sera cité dans au moins 20 articles (États-Unis et Outils & code) sur les 3 prochains jours. » : déjà un pari en cours sur AI Agents",
+   "« Claude Ship sera cité dans au moins 12 articles (France et Outils & code) sur les 5 prochains jours. » : gagné d'avance au vu des jours passés",
+   "« Google sera cité dans au plus 4 articles (Chine) sur les 2 prochains jours. » : gagné d'avance au vu des jours passés"
+  ],
+  "score": {
+   "tranches": 38,
+   "gagnes": 17,
+   "reussite": 45,
+   "correction": 0.3,
+   "methode": "melange",
+   "briers": {
+    "ia": 0.258,
+    "historique": 0.237,
+    "melange": 0.227
+   },
+   "reussite_au_moins": "8/27",
+   "reussite_au_plus": "9/11",
+   "confiance_moyenne": 66,
+   "brier": 0.292,
+   "paliers": {
+    "50-64 %": {
+     "paris": 15,
+     "reussite": 40
+    },
+    "65-79 %": {
+     "paris": 23,
+     "reussite": 48
+    }
+   }
+  }
+ },
+ "section_ephemere": null,
+ "experiences": [
+  {
+   "section": "cn",
+   "libelle": "candidats soumis à l'IA (× 50) 1.5 → 1.8",
+   "depuis": "2026-11-26",
+   "base": 70.5,
+   "hypothese": "Augmenter le nombre de candidats soumis à l'IA en Chine (1.5 → 1.8) devrait diversifier les sources et augmenter le taux de liens directs."
+  },
+  {
+   "section": "fr",
+   "libelle": "fenêtre de collecte (heures) 24 → 36",
+   "depuis": "2026-11-28",
+   "base": 78.0,
+   "hypothese": "Allonger la fenêtre de collecte à 36 h en France pourrait augmenter le taux de liens directs et la nouveauté des sources."
+  }
+ ],
+ "indicateurs": {
+  "sections": {
+   "fr": {
+    "nom": "France",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 66,
+    "pannes": []
+   },
+   "us": {
+    "nom": "États-Unis",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 66,
+    "pannes": []
+   },
+   "cn": {
+    "nom": "Chine",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 12,
+    "pannes": []
+   },
+   "dev": {
+    "nom": "Outils & code",
+    "articles": 50,
+    "voulus": 50,
+    "liens_directs": 72,
+    "pannes": []
+   }
+  },
+  "quota_groq": 67,
+  "nuit": {
+   "statut": "ok",
+   "soucis": []
+  }
+ }
+}

@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-25-t1.md"
 type: "concept"
-community: "GPT-6.1 Sol"
+community: "Your Algorithm"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/GPT-61_Sol
+  - community/Your_Algorithm
 ---
 
 # Your Algorithm
 
-#graphify/concept #graphify/EXTRACTED #community/GPT-61_Sol
+#graphify/concept #graphify/EXTRACTED #community/Your_Algorithm

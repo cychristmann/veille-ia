@@ -1,0 +1,19 @@
+# Veille France 2026-11-28 : Société et politique
+
+Région : France · Date : 2026-11-28
+
+De nombreuses publications montrent comment l’IA s’infiltre dans le débat public, les campagnes électorales, les usages quotidiens et les enjeux de genre, avec des exemples de candidats, de consommateurs et de réglementations.
+
+- **« L’IA a appris ma manière de faire, comme un stagiaire » : comment ces acheteurs utilisent l’intelligence artificielle pour dénicher leur logement** (Challenges, note 5/10)
+  TÉMOIGNAGES - Affiner ses critères de recherche, sonder le marché, voire déléguer la prise de rendez-vous avec les agents immobiliers… De plus en plus de particuliers se tournent vers l’intelligence a ...
+- **Un diplômé de Princeton se heurte au mur de l’IA, malgré 2 300 candidatures envoyées** (Courrier international, note 5/10)
+  Jack Weis a obtenu son doctorat en génie chimique à la prestigieuse université américaine en 2024. Depuis, il n’a pas trouvé de travail. Son histoire est ...
+- **Intelligence artificielle : quand la technique transforme notre manière de penser et d'habiter le monde** (Ar Gedour, note 5/10)
+  À mesure que l’intelligence artificielle s’installe dans nos pratiques quotidiennes, une interrogation plus profonde que celle de ses performances apparaît. Que devient notre manière de penser, de tra ...
+- **Présidentielle 2027 : les modèles d’intelligence artificielle deviennent les nouveaux terrains de chasse des candidats** (Sud Ouest, note 4/10)
+  De ChatGPT à Claude, les équipes de campagne se lancent dans une course au référencement pour séduire les électeurs qui interrogent les algorithmes avant de voter ...
+- **« Ce qui compte c’est le discernement » : les plus de 60 ans domptent l’Intelligence artificielle** (Le Republicain Lorrain, note 4/10)
+- **PORTRAIT. "Ce n'est pas l'IA qui nous remplacera" Cet informaticien plaque sa propre entreprise du digital pour changer de vie et devenir maçon** (ladepeche.fr, note 3/10)
+  Un virage radical. Passé la quarantaine, Antoine a décidé de plaquer son entreprise de création de sites internet pour retrouver le travail manuel et le grand air. Huit ans plus tard, il vient de crée ...
+- **Real Madrid : Mourinho se moque de l’IA et encense Vinicius !** (Sport.fr, note 2/10)
+  L'entraîneur du Real Madrid, José Mourinho, a ironisé sur les prédictions de l'intelligence artificielle faisant de son club le favori de la Ligue des champions. Il a aussi défendu Vinicius, dont les ...

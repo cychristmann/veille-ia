@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-19-t6.md"
 type: "document"
-community: "Veille Outils & code 2026-11-17"
+community: "Gemini 4 Hydrogen"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-17
+  - community/Gemini_4_Hydrogen
 ---
 
 # Veille Chine 2026-11-19 : Autres articles
@@ -16,4 +16,4 @@ tags:
 - [[Lenovo AI Servers]] - `references` [EXTRACTED]
 - [[Qwen AI Hardware]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-17
+#graphify/document #graphify/EXTRACTED #community/Gemini_4_Hydrogen

@@ -1,13 +1,13 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-10-t1.md"
 type: "concept"
-community: "Wuhan University of Science and Technology"
+community: "Blue J"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Wuhan_University_of_Science_and_Technology
+  - community/Blue_J
 ---
 
 # Blue J
 
-#graphify/concept #graphify/EXTRACTED #community/Wuhan_University_of_Science_and_Technology
+#graphify/concept #graphify/EXTRACTED #community/Blue_J

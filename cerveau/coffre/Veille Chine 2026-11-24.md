@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-24-t2.md"
 type: "document"
-community: "Lenovo"
+community: "Tencent"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Lenovo
+  - community/Tencent
 ---
 
 # Veille Chine 2026-11-24
@@ -18,4 +18,4 @@ tags:
 - [[Qualcomm]] - `references` [EXTRACTED]
 - [[Tuya Smart]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Lenovo
+#graphify/document #graphify/EXTRACTED #community/Tencent

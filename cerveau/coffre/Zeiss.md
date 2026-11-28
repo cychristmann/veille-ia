@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-24-2.md"
 type: "concept"
-community: "Huawei"
+community: "Veille Outils & code 2026-11-26"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Huawei
+  - community/Veille_Outils__code_2026-11-26
 ---
 
 # Zeiss
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[ASML]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Huawei
+#graphify/concept #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-26

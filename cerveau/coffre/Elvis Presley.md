@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-us-2026-11-09-t4.md"
 type: "concept"
-community: "Veille États-Unis 2026-11-12 : IA en santé et sciences de la vie"
+community: "Louis Perez"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_États-Unis_2026-11-12__IA_en_santé_et_sciences_de_la_vie
+  - community/Louis_Perez
 ---
 
 # Elvis Presley
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille États-Unis 2026-11-09 (Applications)]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-12__IA_en_santé_et_sciences_de_la_vie
+#graphify/concept #graphify/EXTRACTED #community/Louis_Perez

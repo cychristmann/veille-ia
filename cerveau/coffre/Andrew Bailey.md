@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-14-2.md"
 type: "concept"
-community: "AI Act"
+community: "Dossier: Risques systémiques de l’IA pour la stabilité financière"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/AI_Act
+  - community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière
 ---
 
 # Andrew Bailey
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Risque systémique de l'IA]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/AI_Act
+#graphify/concept #graphify/EXTRACTED #community/Dossier_Risques_systémiques_de_lIA_pour_la_stabilité_financière

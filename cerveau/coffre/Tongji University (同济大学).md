@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-cn-2026-11-24-t5.md"
 type: "concept"
-community: "Veille Chine 2026-11-24 : Recherche académique et collaborations"
+community: "T-Head"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-24__Recherche_académique_et_collaborations
+  - community/T-Head
 ---
 
 # Tongji University (同济大学)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Veille Chine 2026-11-24  Recherche académique et collaborations]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Veille_Chine_2026-11-24__Recherche_académique_et_collaborations
+#graphify/concept #graphify/EXTRACTED #community/T-Head

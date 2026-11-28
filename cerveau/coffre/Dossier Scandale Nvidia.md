@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-15-1.md"
 type: "document"
-community: "Veille Chine 2026-11-14 : IA industrielle et infrastructure"
+community: "Jensen Huang"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Chine_2026-11-14__IA_industrielle_et_infrastructure
+  - community/Jensen_Huang
 ---
 
 # Dossier: Scandale Nvidia
@@ -19,4 +19,4 @@ tags:
 - [[Les investisseurs craignent que le secteur de l'IA ne perde les largesses de Nvidia après le départ de Huang]] - `cites` [EXTRACTED]
 - [[Nvidia]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Chine_2026-11-14__IA_industrielle_et_infrastructure
+#graphify/document #graphify/EXTRACTED #community/Jensen_Huang

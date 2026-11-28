@@ -1,11 +1,11 @@
 ---
 source_file: "veilles/veille-ia-dev-2026-11-13-t5.md"
 type: "document"
-community: "Veille Outils & code 2026-11-12 : Sécurité et gouvernance"
+community: "Veille France 2026-11-19 : Autres articles"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Veille_Outils__code_2026-11-12__Sécurité_et_gouvernance
+  - community/Veille_France_2026-11-19__Autres_articles
 ---
 
 # Veille Outils & code 2026-11-13 (T5)
@@ -17,4 +17,4 @@ tags:
 - [[LiquidCodec]] - `references` [EXTRACTED]
 - [[llm-gemini]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Veille_Outils__code_2026-11-12__Sécurité_et_gouvernance
+#graphify/document #graphify/EXTRACTED #community/Veille_France_2026-11-19__Autres_articles

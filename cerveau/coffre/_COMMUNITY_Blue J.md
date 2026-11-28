@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Blue J
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Edge0-145B]] - concept - veilles/veille-ia-dev-2026-11-13-t2.md
+- [[Lunit]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
+- [[M42]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
 
 ## Live Query (requires Dataview plugin)
 

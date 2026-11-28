@@ -1,14 +1,15 @@
 ---
 type: community
-members: 1
+members: 2
 ---
 
 # Sciences et Avenir
 
-**Members:** 1 nodes
+**Members:** 2 nodes
 
 ## Members
-- [[Triche par IA en Corée du Sud, les examens sous haute tension]] - document - dossiers/2026-11-22-2.md
+- [[EDITH Trial]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
+- [[NHS]] - concept - veilles/veille-ia-us-2026-11-24-t1.md
 
 ## Live Query (requires Dataview plugin)
 

@@ -8,7 +8,7 @@ members: 1
 **Members:** 1 nodes
 
 ## Members
-- [[Ternary Bonsai 2.5]] - concept - veilles/veille-ia-dev-2026-11-27-t1.md
+- [[Skeleton]] - concept - dossiers/2026-11-19-3.md
 
 ## Live Query (requires Dataview plugin)
 

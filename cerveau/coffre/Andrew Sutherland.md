@@ -1,11 +1,11 @@
 ---
 source_file: "dossiers/2026-11-22-1.md"
 type: "concept"
-community: "Riemann Hypothesis"
+community: "Veille États-Unis 2026-11-14 : Incident FAA et Intelligence Artificielle"
 tags:
   - graphify/concept
   - graphify/EXTRACTED
-  - community/Riemann_Hypothesis
+  - community/Veille_États-Unis_2026-11-14__Incident_FAA_et_Intelligence_Artificielle
 ---
 
 # Andrew Sutherland
@@ -14,4 +14,4 @@ tags:
 - [[Lean 4]] - `references` [EXTRACTED]
 - [[MIT]] - `references` [EXTRACTED]
 
-#graphify/concept #graphify/EXTRACTED #community/Riemann_Hypothesis
+#graphify/concept #graphify/EXTRACTED #community/Veille_États-Unis_2026-11-14__Incident_FAA_et_Intelligence_Artificielle
